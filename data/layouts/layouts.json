@@ -14651,8 +14651,8 @@
     {
       "id": "LAYOUT_ROUTE6_HNS",
       "name": "Route6_hns_Layout",
-      "width": 54,
-      "height": 40,
+      "width": 63,
+      "height": 36,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_Vermilion_Hns",
       "border_filepath": "data/layouts/Route6_hns/border.bin",
