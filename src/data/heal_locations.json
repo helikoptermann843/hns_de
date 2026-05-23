@@ -489,7 +489,7 @@
     {
       "id": "HEAL_LOCATION_SAFFRON_CITY_HNS",
       "map": "MAP_SAFFRON_CITY_HNS",
-      "x": 16,
+      "x": 18,
       "y": 39,
       "respawn_map": "MAP_SAFFRON_CITY_POKEMON_CENTER_HNS",
       "respawn_npc": "0"
