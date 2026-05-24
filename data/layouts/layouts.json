@@ -14471,8 +14471,8 @@
     {
       "id": "LAYOUT_ROUTE15_HNS",
       "name": "Route15_hns_Layout",
-      "width": 72,
-      "height": 20,
+      "width": 96,
+      "height": 32,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_Fuchsia_Hns",
       "border_filepath": "data/layouts/Route15_hns/border.bin",
