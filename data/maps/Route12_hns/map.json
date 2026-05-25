@@ -14,11 +14,6 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE13_HNS",
-      "offset": -48,
-      "direction": "down"
-    },
-    {
       "map": "MAP_ROUTE11_HNS",
       "offset": 51,
       "direction": "left"
@@ -27,6 +22,11 @@
       "map": "MAP_LAVENDER_TOWN_HNS",
       "offset": -4,
       "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE13_HNS",
+      "offset": -72,
+      "direction": "down"
     }
   ],
   "object_events": [
