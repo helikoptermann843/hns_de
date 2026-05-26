@@ -473,8 +473,8 @@
     {
       "id": "HEAL_LOCATION_LAVENDER_TOWN_HNS",
       "map": "MAP_LAVENDER_TOWN_HNS",
-      "x": 10,
-      "y": 6,
+      "x": 9,
+      "y": 7,
       "respawn_map": "MAP_LAVENDER_TOWN_POKEMON_CENTER_HNS",
       "respawn_npc": "0"
     },
