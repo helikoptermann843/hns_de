@@ -138,6 +138,7 @@
       "flag": "0"
     },
     {
+      "local_id": "LOCALID_ROUTE25_MISTY",
       "graphics_id": "OBJ_EVENT_GFX_MISTY_HNS",
       "x": 66,
       "y": 9,
@@ -148,10 +149,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "FLAG_HIDE_ROUTE25_MISTY",
-      "local_id": "LOCALID_ROUTE25_MISTY"
+      "flag": "FLAG_HIDE_ROUTE25_MISTY"
     },
     {
+      "local_id": "LOCALID_ROUTE25_MAN",
       "graphics_id": "OBJ_EVENT_GFX_BOY_2_HNS",
       "x": 66,
       "y": 10,
@@ -162,8 +163,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "FLAG_HIDE_ROUTE25_MISTY",
-      "local_id": "LOCALID_ROUTE25_MAN"
+      "flag": "FLAG_HIDE_ROUTE25_MISTY"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SWABLU",
@@ -205,6 +205,7 @@
       "flag": "0"
     },
     {
+      "local_id": "LOCALID_ROUTE25_EUSINE",
       "graphics_id": "OBJ_EVENT_GFX_EUSINE_HNS",
       "x": 66,
       "y": 18,
@@ -215,10 +216,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route25_EventScript_Eusine",
-      "flag": "FLAG_HIDE_ROUTE25_EUSINE",
-      "local_id": "LOCALID_ROUTE25_EUSINE"
+      "flag": "FLAG_HIDE_ROUTE25_EUSINE"
     },
     {
+      "local_id": "LOCALID_ROUTE25_SUICUNE",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SUICUNE",
       "x": 66,
       "y": 7,
@@ -229,8 +230,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route25_EventScript_Suicune",
-      "flag": "FLAG_HIDE_ROUTE25_SUICUNE",
-      "local_id": "LOCALID_ROUTE25_SUICUNE"
+      "flag": "FLAG_HIDE_ROUTE25_SUICUNE"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_LUVDISC",
@@ -272,6 +272,7 @@
       "flag": "0"
     },
     {
+      "local_id": "LOCALID_CAPE_MISTY",
       "graphics_id": "OBJ_EVENT_GFX_MISTY_HNS",
       "x": 51,
       "y": 18,
@@ -282,8 +283,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "Route25_EventScript_MistyRematch",
-      "flag": "FLAG_HIDE_CAPE_MISTY",
-      "local_id": "LOCALID_CAPE_MISTY"
+      "flag": "FLAG_HIDE_CAPE_MISTY"
     }
   ],
   "warp_events": [

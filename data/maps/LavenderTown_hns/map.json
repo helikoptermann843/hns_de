@@ -20,7 +20,7 @@
     },
     {
       "map": "MAP_ROUTE8_HNS",
-      "offset": 0,
+      "offset": -10,
       "direction": "left"
     },
     {
