@@ -14640,7 +14640,7 @@
       "id": "LAYOUT_ROUTE5_HNS",
       "name": "Route5_hns_Layout",
       "width": 68,
-      "height": 40,
+      "height": 46,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_CeruleanCity_Hns",
       "border_filepath": "data/layouts/Route5_hns/border.bin",
