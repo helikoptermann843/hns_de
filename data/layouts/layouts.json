@@ -14171,8 +14171,8 @@
     {
       "id": "LAYOUT_CERULEAN_CITY_HNS",
       "name": "CeruleanCity_hns_Layout",
-      "width": 56,
-      "height": 40,
+      "width": 58,
+      "height": 51,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_CeruleanCity_Hns",
       "border_filepath": "data/layouts/CeruleanCity_hns/border.bin",
@@ -14411,8 +14411,8 @@
     {
       "id": "LAYOUT_ROUTE10_HNS",
       "name": "Route10_hns_Layout",
-      "width": 32,
-      "height": 80,
+      "width": 38,
+      "height": 90,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_LavenderTown_Hns",
       "border_filepath": "data/layouts/Route10_hns/border.bin",
@@ -14639,7 +14639,7 @@
     {
       "id": "LAYOUT_ROUTE5_HNS",
       "name": "Route5_hns_Layout",
-      "width": 48,
+      "width": 68,
       "height": 40,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_CeruleanCity_Hns",
@@ -14687,8 +14687,8 @@
     {
       "id": "LAYOUT_ROUTE9_HNS",
       "name": "Route9_hns_Layout",
-      "width": 72,
-      "height": 20,
+      "width": 65,
+      "height": 60,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_LavenderTown_Hns",
       "border_filepath": "data/layouts/Route9_hns/border.bin",

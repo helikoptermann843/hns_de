@@ -457,8 +457,8 @@
     {
       "id": "HEAL_LOCATION_CERULEAN_CITY_HNS",
       "map": "MAP_CERULEAN_CITY_HNS",
-      "x": 30,
-      "y": 20,
+      "x": 25,
+      "y": 30,
       "respawn_map": "MAP_CERULEAN_CITY_POKEMON_CENTER_HNS",
       "respawn_npc": "0"
     },

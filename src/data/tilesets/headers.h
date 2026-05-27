@@ -1838,7 +1838,7 @@ const struct Tileset gTileset_CeruleanCity_Hns =
     .palettes = gTilesetPalettes_CeruleanCity_Hns,
     .metatiles = gMetatiles_CeruleanCity_Hns,
     .metatileAttributes = gMetatileAttributes_CeruleanCity_Hns,
-    .callback = NULL,
+    .callback = InitTilesetAnim_CeruleanCity_Hns,
 };
 
 const struct Tileset gTileset_CeruleanCity_Gym_Hns =
