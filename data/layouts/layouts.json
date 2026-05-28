@@ -14531,7 +14531,7 @@
     {
       "id": "LAYOUT_ROUTE1_HNS",
       "name": "Route1_hns_Layout",
-      "width": 30,
+      "width": 50,
       "height": 40,
       "primary_tileset": "gTileset_Kanto_General_Hns",
       "secondary_tileset": "gTileset_PalletTown_Hns",
