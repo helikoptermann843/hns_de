@@ -11603,8 +11603,8 @@
     {
       "id": "LAYOUT_MT_MORTAR_1F_SOUTH_HNS",
       "name": "MtMortar_1F_South_hns_Layout",
-      "width": 72,
-      "height": 54,
+      "width": 88,
+      "height": 50,
       "primary_tileset": "gTileset_Johto_NorthEast_Hns",
       "secondary_tileset": "gTileset_Cave_Gray_Hns",
       "border_filepath": "data/layouts/MtMortar_1F_South_hns/border.bin",
