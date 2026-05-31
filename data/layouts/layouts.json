@@ -11627,8 +11627,8 @@
     {
       "id": "LAYOUT_MT_MORTAR_B1F_HNS",
       "name": "MtMortar_B1F_hns_Layout",
-      "width": 40,
-      "height": 36,
+      "width": 58,
+      "height": 58,
       "primary_tileset": "gTileset_Johto_NorthEast_Hns",
       "secondary_tileset": "gTileset_Cave_Gray_Hns",
       "border_filepath": "data/layouts/MtMortar_B1F_hns/border.bin",
