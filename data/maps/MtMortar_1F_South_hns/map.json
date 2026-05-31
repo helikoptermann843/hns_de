@@ -195,6 +195,13 @@
       "elevation": 0,
       "dest_map": "MAP_MT_MORTAR_B1F_HNS",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 56,
+      "y": 46,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE42_HNS",
+      "dest_warp_id": "4"
     }
   ],
   "coord_events": [],

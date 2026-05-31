@@ -228,7 +228,9 @@ Debug_EventScript_Script_5::
 	end
 
 Debug_EventScript_Script_6::
-	setvar VAR_KANTO_ROCKET_STORY_STATE, 3
+	clearflag FLAG_HIDE_ROUTE42_SUICUNE
+	setflag FLAG_RECEIVED_HM_CUT
+	setflag FLAG_HIDE_ROUTE42_EUSINE
 	release
 	end
 

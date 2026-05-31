@@ -12575,7 +12575,7 @@
     {
       "id": "LAYOUT_ROUTE42_HNS",
       "name": "Route42_hns_Layout",
-      "width": 76,
+      "width": 94,
       "height": 26,
       "primary_tileset": "gTileset_Johto_NorthEast_Hns",
       "secondary_tileset": "gTileset_MahoganyTown_Hns",
