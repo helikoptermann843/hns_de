@@ -11615,7 +11615,7 @@
     {
       "id": "LAYOUT_MT_MORTAR_2F_HNS",
       "name": "MtMortar_2F_hns_Layout",
-      "width": 40,
+      "width": 56,
       "height": 40,
       "primary_tileset": "gTileset_Johto_NorthEast_Hns",
       "secondary_tileset": "gTileset_Cave_Gray_Hns",

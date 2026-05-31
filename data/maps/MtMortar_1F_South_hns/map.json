@@ -202,6 +202,13 @@
       "elevation": 0,
       "dest_map": "MAP_ROUTE42_HNS",
       "dest_warp_id": "4"
+    },
+    {
+      "x": 77,
+      "y": 27,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MORTAR_1F_NORTH_HNS",
+      "dest_warp_id": "6"
     }
   ],
   "coord_events": [],
