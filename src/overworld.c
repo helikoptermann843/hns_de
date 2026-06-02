@@ -1,5 +1,6 @@
 #include "global.h"
 #include "overworld.h"
+#include "constants/heal_locations.h"
 #include "battle_pyramid.h"
 #include "battle_setup.h"
 #include "battle_util.h"
