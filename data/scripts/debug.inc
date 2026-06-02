@@ -228,9 +228,8 @@ Debug_EventScript_Script_5::
 	end
 
 Debug_EventScript_Script_6::
-	clearflag FLAG_HIDE_ROUTE42_SUICUNE
-	setflag FLAG_RECEIVED_HM_CUT
-	setflag FLAG_HIDE_ROUTE42_EUSINE
+	setwildbattle SPECIES_SCYTHER, 20
+	dowildbattle
 	release
 	end
 
