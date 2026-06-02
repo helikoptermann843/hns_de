@@ -769,6 +769,15 @@ void SetWarpDestinationToLastHealLocation(void)
         SetWhiteoutRespawnWarpAndHealerNPC(&sWarpDestination);
     else
         sWarpDestination = gSaveBlock1Ptr->lastHealLocation;
+
+#if IS_HNS
+    if (sWarpDestination.mapGroup == 0 && sWarpDestination.mapNum == 0)
+    {
+        const struct HealLocation *fallback = GetHealLocation(HEAL_LOCATION_NEW_BARK_TOWN_HNS);
+        if (fallback)
+            SetWarpDestination(fallback->mapGroup, fallback->mapNum, WARP_ID_NONE, fallback->x, fallback->y);
+    }
+#endif
 }
 
 void SetWarpDestinationForTeleport(void)
