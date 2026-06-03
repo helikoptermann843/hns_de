@@ -585,3 +585,14 @@ const u32 gSurfablePokemonPic_Arceus[] = INCBIN_U32("graphics/object_events/pics
 const u32 gSurfableShinyPokemonPic_Arceus[] = INCBIN_U32("graphics/object_events/pics/pokemon/surfable/0493_arceus_shiny.4bpp");
 const u16 gSurfablePokemonPalette_Arceus[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0493_arceus.gbapal");
 const u16 gSurfablePokemonShinyPalette_Arceus[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0493_arceus_shiny.gbapal");
+
+// Modern shiny palettes (tx_Features_ShinyColors)
+// Drop a XXXX_name_shiny_modern.png into the surfable dir for each of these
+const u16 gSurfablePokemonShinyModernPalette_Chinchou[]  = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0170_chinchou_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Lanturn[]   = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0171_lanturn_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Pichu[]     = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0172_pichu_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Pikachu[]   = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0025_pikachu_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Raichu[]    = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0026_raichu_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Tentacool[] = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0072_tentacool_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Lapras[]    = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0131_lapras_shiny_modern.gbapal");
+const u16 gSurfablePokemonShinyModernPalette_Vaporeon[]  = INCBIN_U16("graphics/object_events/pics/pokemon/surfable/0134_vaporeon_shiny_modern.gbapal");
