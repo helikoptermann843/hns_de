@@ -50,6 +50,21 @@ EventScript_BufferBerriesPocket::
 	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
 	return
 
+EventScript_BufferMedicinePocket::
+	bufferstdstring STR_VAR_3, STDSTRING_MEDICINE
+	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
+	return
+
+EventScript_BufferBattleItemsPocket::
+	bufferstdstring STR_VAR_3, STDSTRING_BATTLE_ITEMS
+	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
+	return
+
+EventScript_BufferTreasuresPocket::
+	bufferstdstring STR_VAR_3, STDSTRING_TREASURES
+	call_if_eq VAR_0x8007, TRUE, EventScript_PlayFanfareObtainedItem
+	return
+
 EventScript_ObtainedItem::
 	compare VAR_0x8001, TRUE
 	goto_if_eq EventScript_ObtainedItemMessage
@@ -284,6 +299,18 @@ EventScript_BufferPutAwayPocketTMCase::
 
 EventScript_BufferPutAwayPocketBerryPouch::
 	bufferstdstring STR_VAR_3, STDSTRING_BERRIES
+	return
+
+EventScript_BufferPutAwayPocketMedicinePouch::
+	bufferstdstring STR_VAR_3, STDSTRING_MEDICINE
+	return
+
+EventScript_BufferPutAwayPocketBattleItemsPouch::
+	bufferstdstring STR_VAR_3, STDSTRING_BATTLE_ITEMS
+	return
+
+EventScript_BufferPutAwayPocketTreasuresPouch::
+	bufferstdstring STR_VAR_3, STDSTRING_TREASURES
 	return
 
 EventScript_TryPickUpHiddenCoins::
