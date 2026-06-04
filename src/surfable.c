@@ -104,7 +104,6 @@ u32 CreateSurfablePokemonSprite(void)
     }
     else
     { // Create surf blob
-        LoadObjectEventPalette(FLDEFFOBJ_SURF_BLOB);
         spriteId = CreateSpriteAtEnd(gFieldEffectObjectTemplatePointers[FLDEFFOBJ_SURF_BLOB], gFieldEffectArguments[0], gFieldEffectArguments[1], 0x96);
     }
 
@@ -112,6 +111,8 @@ u32 CreateSurfablePokemonSprite(void)
     {
         sprite = &gSprites[spriteId];
         sprite->coordOffsetEnabled = TRUE;
+        if (sCurrentSurfMon == 0xFFFF)
+            sprite->oam.paletteNum = LoadPlayerObjectEventPalette(gSaveBlock2Ptr->playerGender);
         sprite->data[2] = gFieldEffectArguments[2];
         sprite->data[3] = -1;
         sprite->data[6] = -1;
