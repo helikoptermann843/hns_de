@@ -1542,7 +1542,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             TRACKS_SPOT,
             sAnimTable_Following,
             gOverworldPalette_Chinchou,
-            gShinyOverworldPalette_Chinchou
+            gShinyOverworldPalette_Chinchou,
+            gShinyModernOverworldPalette_Chinchou
         )
         .levelUpLearnset = sChinchouLevelUpLearnset,
         .teachableLearnset = sChinchouTeachableLearnset,
@@ -1615,7 +1616,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             TRACKS_SPOT,
             sAnimTable_Following,
             gOverworldPalette_Lanturn,
-            gShinyOverworldPalette_Lanturn
+            gShinyOverworldPalette_Lanturn,
+            gShinyModernOverworldPalette_Lanturn
         )
         .levelUpLearnset = sLanturnLevelUpLearnset,
         .teachableLearnset = sLanturnTeachableLearnset,
@@ -1994,7 +1996,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             TRACKS_FOOT,
             sAnimTable_Following,
             gOverworldPalette_Xatu,
-            gShinyOverworldPalette_Xatu
+            gShinyOverworldPalette_Xatu,
+            gShinyModernOverworldPalette_Xatu
         )
         OVERWORLD_FEMALE(
             sPicTable_XatuF,
@@ -5524,7 +5527,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             TRACKS_FOOT,
             sAnimTable_Following,
             gOverworldPalette_Heracross,
-            gShinyOverworldPalette_Heracross
+            gShinyOverworldPalette_Heracross,
+            gShinyModernOverworldPalette_Heracross
         )
         OVERWORLD_FEMALE(
             sPicTable_HeracrossF,
@@ -7673,7 +7677,8 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
             TRACKS_FOOT,
             sAnimTable_Following,
             gOverworldPalette_Phanpy,
-            gShinyOverworldPalette_Phanpy
+            gShinyOverworldPalette_Phanpy,
+            gShinyModernOverworldPalette_Phanpy
         )
         .levelUpLearnset = sPhanpyLevelUpLearnset,
         .teachableLearnset = sPhanpyTeachableLearnset,
