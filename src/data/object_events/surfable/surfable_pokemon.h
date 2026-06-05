@@ -462,4 +462,65 @@ const struct RideablePokemon gSurfablePokemon[] =
         .species = SPECIES_ARCEUS,
         .trainerPose = 0,
     },
+// Regional Form Surfables
+    {
+        .species = SPECIES_RAICHU_ALOLA,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_SLOWPOKE_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_SLOWBRO_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_TAUROS_PALDEA_COMBAT,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_TAUROS_PALDEA_AQUA,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_WOOPER_PALDEA,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_SLOWKING_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_QWILFISH_HISUI,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_CORSOLA_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_ZIGZAGOON_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_LINOONE_GALAR,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_OBSTAGOON,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_CURSOLA,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_OVERQWIL,
+        .trainerPose = 0,
+    },
+    {
+        .species = SPECIES_CLODSIRE,
+        .trainerPose = 0,
+    },
 };
