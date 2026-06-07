@@ -670,4 +670,5 @@ gSpecials::
 	def_special CheckPartyForSpecies
 	def_special GetRegionalFormSpecies
 	def_special ConvertToRegionalForm
+	def_special Special_ViewVoltorbFlip
 
