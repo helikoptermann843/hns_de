@@ -832,7 +832,7 @@
 #define FLAG_HIDE_ICEPATH_B2F_BOULDER4                              0x2FA
 #define FLAG_LATIOS_OR_LATIAS_ROAMING                              0x2FB
 #define FLAG_HIDE_VERMILION_STEVEN                              0x2FC
-#define FLAG_UNUSED_29                              0x2FD
+#define FLAG_MOM_HAS_GIFT                              0x2FD
 #define FLAG_UNUSED_30                              0x2FE
 #define FLAG_UNUSED_31                              0x2FF
 #define FLAG_UNUSED_32                              0x300

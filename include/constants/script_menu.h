@@ -181,6 +181,7 @@
 #define MULTI_VERMILION_HARBOR             170
 #define MULTI_HOENN_STARTERS               171
 #define MULTI_5FLOORS                      172
+#define MULTI_MOM_MENU                     173
 
 #define MULTI_NONE 255
 

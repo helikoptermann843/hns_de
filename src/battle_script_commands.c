@@ -26,6 +26,7 @@
 #include "main.h"
 #include "palette.h"
 #include "money.h"
+#include "mom_savings.h"
 #include "malloc.h"
 #include "bg.h"
 #include "string_util.h"
@@ -6224,6 +6225,14 @@ static void Cmd_getmoneyreward(void)
         if (gBattleTypeFlags & BATTLE_TYPE_TWO_OPPONENTS)
             money += GetTrainerMoneyToGive(TRAINER_BATTLE_PARAM.opponentB);
         AddMoney(&gSaveBlock1Ptr->money, money);
+#if IS_HNS
+        if (Mom_IsSavingEnabled())
+        {
+            u32 depositAmount = money / 4;
+            if (depositAmount > 0)
+                Mom_AutoDepositFromBattle(depositAmount);
+        }
+#endif
     }
     else
     {

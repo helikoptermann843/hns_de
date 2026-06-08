@@ -24,6 +24,15 @@ extern const u8 gText_Lv50[];
 extern const u8 gText_OpenLevel[];
 
 extern const u8 gText_Mom[];
+extern const u8 gText_MomHowMuchDeposit[];
+extern const u8 gText_MomHowMuchWithdraw[];
+extern const u8 gText_MomMatchCallDesc[];
+extern const u8 gText_MomMatchCallName[];
+extern const u8 gText_MomMenuCheckSavings[];
+extern const u8 gText_MomMenuDeposit[];
+extern const u8 gText_MomMenuWithdraw[];
+extern const u8 gText_MomMenuToggleSaving[];
+extern const u8 gText_MomMenuExit[];
 extern const u8 gText_Dad[];
 
 extern const u8 gText_Cool[];

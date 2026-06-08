@@ -280,7 +280,7 @@ Debug_EventScript_Script_7::
 	end
 
 Debug_EventScript_Script_8::
-	goto Route25_BillsHouse_Test
+	goto Debug_MomSavings_BigDeposit
 	release
 	end
 
@@ -971,3 +971,21 @@ Debug_EventScript_TellTheTime_Text_0:
 
 DebugEventScript_PrintWeekday_Text_0:
 	.string "Time of day: {STR_VAR_1}$"
+
+@ Mom Savings debug: enables saving + force-deposits 50000
+Debug_MomSavings_BigDeposit::
+	lockall
+	special Special_MomEnsureInitialized
+	special Special_MomEnableSaving
+	setvar VAR_0x8000, 50000
+	special Special_MomDeposit
+	special Special_MomGetBalance
+	msgbox Debug_MomSavings_Text_Deposited, MSGBOX_DEFAULT
+	releaseall
+	end
+
+Debug_MomSavings_Text_Deposited:
+	.string "Mom savings enabled.\n"
+	.string "Deposited ¥50000.\p"
+	.string "Balance: {STR_VAR_2}\n"
+	.string "Walk outside for gift call.$"

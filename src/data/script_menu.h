@@ -1207,6 +1207,15 @@ static const struct MenuAction MultichoiceList_HoennStarters[] =
     {gText_BlueStone},
 };
 
+static const struct MenuAction MultichoiceList_MomMenu[] =
+{
+    {gText_MomMenuCheckSavings},
+    {gText_MomMenuDeposit},
+    {gText_MomMenuWithdraw},
+    {gText_MomMenuToggleSaving},
+    {gText_MomMenuExit},
+};
+
 static const struct MenuAction MultichoiceList_Exit[] =
 {
     {gText_Exit},
@@ -1393,6 +1402,7 @@ static const struct MultichoiceListStruct sMultichoiceLists[] =
     [MULTI_ELDERQUIIZ5]                 = MULTICHOICE(MultichoiceList_ElderQuiz5),
     [MULTI_HOENN_STARTERS]              = MULTICHOICE(MultichoiceList_HoennStarters),
     [MULTI_5FLOORS]                    = MULTICHOICE(MultichoiceList_5Floors),
+    [MULTI_MOM_MENU]                   = MULTICHOICE(MultichoiceList_MomMenu),
 
 };
 

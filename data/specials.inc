@@ -671,4 +671,13 @@ gSpecials::
 	def_special GetRegionalFormSpecies
 	def_special ConvertToRegionalForm
 	def_special Special_ViewVoltorbFlip
+	def_special Special_MomEnableSaving
+	def_special Special_MomDisableSaving
+	def_special Special_MomGetBalance
+	def_special Special_MomDeposit
+	def_special Special_MomWithdraw
+	def_special Special_MomIsSavingEnabled
+	def_special Special_MomEnsureInitialized
+	def_special Special_MomOpenDepositInput
+	def_special Special_MomOpenWithdrawInput
 
