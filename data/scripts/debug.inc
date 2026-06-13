@@ -203,12 +203,14 @@ Debug_EventScript_Text_DefensiveIVs:
 	.string "HP IVs: {STR_VAR_1}, DEF IVs: {STR_VAR_2}, SPDEF IVs: {STR_VAR_3}$"
 
 Debug_EventScript_Script_1::
-	goto Debug_EventScript_Lance_Multi
+	special CreateBPVitaminShop
 	release
 	end
 
 Debug_EventScript_Script_2::
-	goto Debug_EventScript_Silver_Multi
+	giveitem ITEM_PECHA_BERRY, 20
+	giveitem ITEM_ORAN_BERRY, 20
+	goto AzaleaTown_KurtsHouse_EventScript_Kurt
 	release
 	end
 
