@@ -1195,6 +1195,7 @@ struct MomSavingsData
 
 struct SaveBlock1
 {
+             u16 saveVersion;
     /*0x00*/ struct Coords16 pos;
     /*0x04*/ struct WarpData location;
     /*0x0C*/ struct WarpData continueGameWarp;
