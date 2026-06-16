@@ -128,7 +128,9 @@ static const u8 sNuzlockeLUT[] =
     [MAPSEC_VIRIDIAN_CITY]    = 0x5C,
     [MAPSEC_PEWTER_CITY]      = 0x5D,
     [MAPSEC_LAVENDER_TOWN]    = 0x5E,
+    // Special
     [MAPSEC_BATTLE_FRONTIER]  = 0x5F,
+    [MAPSEC_FARAWAY_ISLAND]   = 0x60,
 #else
     // Hoenn Routes
     [MAPSEC_ROUTE_101]        = 0x00,
@@ -409,7 +411,8 @@ void SetNuzlockeChecks(void)
 
         NuzlockeIsCaptureBlocked = NuzlockeFlagGet(NuzlockeGetCurrentRegionMapSectionId());
 
-        if (IsMonShiny(&gEnemyParty[0]) && gSaveBlock3Ptr->challengeSettings.tx_Nuzlocke_ShinyClause)
+        if ((IsMonShiny(&gEnemyParty[0]) && gSaveBlock3Ptr->challengeSettings.tx_Nuzlocke_ShinyClause)
+            || (GetMonData(&gEnemyParty[0], MON_DATA_MODERN_FATEFUL_ENCOUNTER, NULL)))
         {
             NuzlockeIsCaptureBlocked = FALSE;
             NuzlockeIsSpeciesClauseActive = FALSE;
