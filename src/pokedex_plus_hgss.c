@@ -299,6 +299,7 @@ static EWRAM_DATA struct PokedexView *sPokedexView = NULL;
 static EWRAM_DATA u16 sLastSelectedPokemon = 0;
 static EWRAM_DATA u8 sPokeBallRotation = 0;
 static EWRAM_DATA struct PokedexListItem *sPokedexListItem = NULL;
+static EWRAM_DATA void (*sExternalReturnCallback)(void) = NULL;
 //Pokedex Plus HGSS_Ui
 
 
@@ -493,7 +494,7 @@ static void SpriteCB_RotatingPokeBall(struct Sprite *sprite);
 static void SpriteCB_SeenOwnInfo(struct Sprite *sprite);
 static void SpriteCB_DexListStartMenuCursor(struct Sprite *sprite);
 static void SpriteCB_PokedexListMonSprite(struct Sprite *sprite);
-static u8 LoadInfoScreen(struct PokedexListItem *, u8 monSpriteId);
+static u8 LoadInfoScreen(struct PokedexListItem *, u8 monSpriteId, bool8 monSpriteDone);
 static bool8 IsInfoScreenScrolling(u8);
 static u8 StartInfoScreenScroll(struct PokedexListItem *, u8);
 static void Task_LoadInfoScreen(u8);
@@ -1999,6 +2000,10 @@ void CB2_OpenPokedexPlusHGSS(void)
 {
     if (!POKEDEX_PLUS_HGSS) return; // prevents the compiler from emitting static .rodata
                                     // if the feature is disabled
+
+    // Clear party menu callback when opening from normal Pokédex
+    sExternalReturnCallback = NULL;
+
     switch (gMain.state)
     {
     case 0:
@@ -2274,7 +2279,7 @@ static void Task_OpenInfoScreenAfterMonMovement(u8 taskId)
     if (gSprites[sPokedexView->selectedMonSpriteId].x == MON_PAGE_X && gSprites[sPokedexView->selectedMonSpriteId].y == MON_PAGE_Y)
     {
         sPokedexView->currentPageBackup = sPokedexView->currentPage;
-        gTasks[taskId].tLoadScreenTaskId = LoadInfoScreen(&sPokedexView->pokedexList[sPokedexView->selectedPokemon], sPokedexView->selectedMonSpriteId);
+        gTasks[taskId].tLoadScreenTaskId = LoadInfoScreen(&sPokedexView->pokedexList[sPokedexView->selectedPokemon], sPokedexView->selectedMonSpriteId, TRUE);
         gTasks[taskId].func = Task_WaitForExitInfoScreen;
     }
 }
@@ -2296,6 +2301,19 @@ static void Task_WaitForExitInfoScreen(u8 taskId)
     }
 }
 
+static void Task_WaitForExitInfoScreenFromSummary(u8 taskId)
+{
+    if (!gTasks[gTasks[taskId].tLoadScreenTaskId].isActive)
+    { 
+        ClearMonSprites();
+        DestroyTask(taskId);
+        SetMainCallback2(sExternalReturnCallback);
+        sExternalReturnCallback = NULL;
+        m4aMPlayVolumeControl(&gMPlayInfo_BGM, TRACKS_ALL, 0x100);
+        Free(sPokedexView);
+        sPokedexView = NULL;
+    }
+}
 
 static void Task_ClosePokedex(u8 taskId)
 {
@@ -2311,6 +2329,7 @@ static void Task_ClosePokedex(u8 taskId)
         SetMainCallback2(CB2_ReturnToFieldWithOpenMenu);
         m4aMPlayVolumeControl(&gMPlayInfo_BGM, TRACKS_ALL, 0x100);
         Free(sPokedexView);
+        sPokedexView = NULL;
     }
 }
 
@@ -3706,7 +3725,7 @@ static void SpriteCB_StatBarsBg(struct Sprite *sprite)
 #define tMonSpriteId     data[4]
 #define tTrainerSpriteId data[5]
 
-static u8 LoadInfoScreen(struct PokedexListItem *item, u8 monSpriteId)
+static u8 LoadInfoScreen(struct PokedexListItem *item, u8 monSpriteId, bool8 monSpriteDone)
 {
     u8 taskId;
 
@@ -3714,7 +3733,7 @@ static u8 LoadInfoScreen(struct PokedexListItem *item, u8 monSpriteId)
     gAreaTimeOfDay = GetTimeOfDayForDex();
     taskId = CreateTask(Task_LoadInfoScreen, 0);
     gTasks[taskId].tScrolling = FALSE;
-    gTasks[taskId].tMonSpriteDone = TRUE; // Already has sprite from list view
+    gTasks[taskId].tMonSpriteDone = monSpriteDone; // Might already has sprite from list view
     gTasks[taskId].tBgLoaded = FALSE;
     gTasks[taskId].tSkipCry = FALSE;
     gTasks[taskId].tMonSpriteId = monSpriteId;
@@ -3942,6 +3961,44 @@ static void Task_ExitInfoScreen(u8 taskId)
 }
 
 #undef tMonSpriteId
+
+// Called from party menu to open Pokedex detail view for a specific Pokemon
+void OpenPokedexInfoScreen(u16 species, void (*returnCallback)(void))
+{
+    u8 taskId;
+    u16 dexNum;
+    static struct PokedexListItem partyMonItem;
+    
+    // Store the return callback
+    sExternalReturnCallback = returnCallback;
+    
+    // Convert species to dex number
+    dexNum = SpeciesToNationalPokedexNum(species);
+    
+    // Set up the list item for this Pokemon
+    partyMonItem.dexNum = dexNum;
+    partyMonItem.seen = TRUE;
+    partyMonItem.owned = GetSetPokedexFlag(dexNum, FLAG_GET_CAUGHT);
+
+    taskId = CreateTask(Task_WaitForExitInfoScreenFromSummary, 0);
+    gTasks[taskId].tLoadScreenTaskId = LoadInfoScreen(&partyMonItem, SPRITE_NONE, FALSE);
+    
+    // Set main state to 0 to start the loading process
+    gMain.state = 0;
+    
+    // Allocate PokedexView if needed (for screen switching)
+    if (sPokedexView == NULL) {
+        sPokedexView = AllocZeroed(sizeof(struct PokedexView));
+    }
+    ResetPokedexView(sPokedexView);
+    
+    sPokedexView->currentPage = PAGE_INFO;
+    sPokedexView->selectedScreen = INFO_SCREEN;
+
+    m4aMPlayVolumeControl(&gMPlayInfo_BGM, TRACKS_ALL, 0x80);
+    
+    SetMainCallback2(CB2_Pokedex);
+}
 
 //************************************
 //*                                  *
@@ -7759,7 +7816,7 @@ static void Task_OpenSearchResultsInfoScreenAfterMonMovement(u8 taskId)
     if (gSprites[sPokedexView->selectedMonSpriteId].x == MON_PAGE_X && gSprites[sPokedexView->selectedMonSpriteId].y == MON_PAGE_Y)
     {
         sPokedexView->currentPageBackup = sPokedexView->currentPage;
-        gTasks[taskId].tLoadScreenTaskId = LoadInfoScreen(&sPokedexView->pokedexList[sPokedexView->selectedPokemon], sPokedexView->selectedMonSpriteId);
+        gTasks[taskId].tLoadScreenTaskId = LoadInfoScreen(&sPokedexView->pokedexList[sPokedexView->selectedPokemon], sPokedexView->selectedMonSpriteId, TRUE);
         sPokedexView->selectedMonSpriteId = -1;
         gTasks[taskId].func = Task_WaitForExitSearchResultsInfoScreen;
     }
