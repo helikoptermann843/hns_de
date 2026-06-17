@@ -5770,7 +5770,8 @@ static void HandleEndTurn_FinishBattle(void)
                                         | BATTLE_TYPE_INGAME_PARTNER
                                         | BATTLE_TYPE_TOWER_LINK_MULTI
                                         | BATTLE_TYPE_RECORDED_LINK
-                                        | BATTLE_TYPE_FRONTIER)))
+                                        | BATTLE_TYPE_FRONTIER
+                                        | BATTLE_TYPE_TRAINER_HILL)))
                 NuzlockeDeleteFaintedPartyPokemon();
         }
         if (IsNuzlockeActive())
@@ -5782,7 +5783,8 @@ static void HandleEndTurn_FinishBattle(void)
                                         | BATTLE_TYPE_INGAME_PARTNER
                                         | BATTLE_TYPE_TOWER_LINK_MULTI
                                         | BATTLE_TYPE_RECORDED_LINK
-                                        | BATTLE_TYPE_FRONTIER)))
+                                        | BATTLE_TYPE_FRONTIER
+                                        | BATTLE_TYPE_TRAINER_HILL)))
                 NuzlockeDeleteFaintedPartyPokemon();
             if (!(gBattleTypeFlags & (BATTLE_TYPE_DOUBLE
                                         | BATTLE_TYPE_LINK
