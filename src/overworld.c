@@ -2012,11 +2012,6 @@ void CB2_BugContestWhiteOut(void)
     {
         FieldClearVBlankHBlankCallbacks();
         StopMapMusic();
-        if (gSaveBlock3Ptr->challengeSettings.tx_Challenges_NuzlockeHardcore && !FlagGet(FLAG_END_NUZLOCKE))
-        {
-            ClearSaveData();
-            DoSoftReset();
-        }
         ResetSafariZoneFlag_();
         ResetInitialPlayerAvatarState();
         ScriptContext_Init();
