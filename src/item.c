@@ -537,6 +537,15 @@ void SwapRegisteredBike(void)
         gSaveBlock1Ptr->registeredItem = ITEM_MACH_BIKE;
         break;
     }
+    switch (gSaveBlock3Ptr->registeredItemHold)
+    {
+    case ITEM_MACH_BIKE:
+        gSaveBlock3Ptr->registeredItemHold = ITEM_ACRO_BIKE;
+        break;
+    case ITEM_ACRO_BIKE:
+        gSaveBlock3Ptr->registeredItemHold = ITEM_MACH_BIKE;
+        break;
+    }
 }
 
 void CompactItemsInBagPocket(enum Pocket pocketId)

@@ -631,6 +631,7 @@ extern const u8 BerryTree_EventScript_ItemUseWailmerPail[];
 extern const u8 BattleFrontier_OutsideEast_EventScript_WaterSudowoodo[];
 
 extern const u8 EventScript_SelectWithoutRegisteredItem[];
+extern const u8 EventScript_SelectWithoutRegisteredHoldItem[];
 
 // overworld
 extern const u8 EventScript_WhiteOut[];
