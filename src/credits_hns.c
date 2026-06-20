@@ -24,14 +24,13 @@
 #include "event_data.h"
 #include "random.h"
 
-#if !IS_FRLG && !IS_HNS
+#if IS_HNS
 
 #define COLOR_DARK_GREEN RGB(7, 11, 6)
 #define COLOR_LIGHT_GREEN RGB(13, 20, 12)
 
 #define TAG_MON_BG 1001
 
-// Positions for the Pokémon images
 enum {
     POS_LEFT,
     POS_CENTER,
@@ -46,16 +45,14 @@ enum {
 
 #define tState data[0]
 
-// Task data for the main Credits tasks
-#define tTaskId_BgScenery  data[0] // ID for Task_BicycleBgAnimation (created by CreateBicycleBgAnimationTask)
-#define tTaskId_BikeScene  data[1] // ID for Task_BikeScene
-#define tTaskId_SceneryPal data[2] // ID for Task_CycleSceneryPalette
-#define tTaskId_ShowMons   data[3] // ID for Task_ShowMons
+#define tTaskId_BgScenery  data[0]
+#define tTaskId_BikeScene  data[1]
+#define tTaskId_SceneryPal data[2]
+#define tTaskId_ShowMons   data[3]
 #define tEndCredits        data[4]
 #define tPlayerSpriteId    data[5]
 #define tRivalSpriteId     data[6]
 #define tSceneNum          data[7]
-// data[8]-[10] are unused
 #define tNextMode          data[11]
 #define tTheEndDelay       data[12]
 #define tCurrentMode       data[13]
@@ -66,19 +63,19 @@ enum {
 
 struct CreditsData
 {
-    u16 monToShow[NUM_MON_SLIDES]; // List of Pokémon species ids that will show during the credits
-    u16 imgCounter; //how many mon images have been shown
-    u16 nextImgPos; //if the next image spawns left/center/right
-    u16 currShownMon; //index into monToShow
-    u16 numMonToShow; //number of Pokémon to show, always NUM_MON_SLIDES after determine function
-    u16 caughtMonIds[NATIONAL_DEX_COUNT]; //temporary location to hold a condensed array of all caught Pokémon
-    u16 numCaughtMon; //count of filled spaces in caughtMonIds
+    u16 monToShow[NUM_MON_SLIDES];
+    u16 imgCounter;
+    u16 nextImgPos;
+    u16 currShownMon;
+    u16 numMonToShow;
+    u16 caughtMonIds[NATIONAL_DEX_COUNT];
+    u16 numCaughtMon;
     u16 unused[7];
 };
 
 struct CreditsEntry
 {
-    u8 unk; // Never read
+    u8 unk;
     bool8 isTitle;
     const u8 *text;
 };
@@ -164,7 +161,7 @@ static const u8 sTheEnd_LetterMap_D[] =
     1, 0x86, 0x87,
 };
 
-#include "data/credits.h"
+#include "data/credits_hns.h"
 
 static const struct BgTemplate sBackgroundTemplates[] =
 {
@@ -339,7 +336,6 @@ static void CB2_Credits(void)
      && gHasHallOfFameRecords
      && gTasks[sSavedTaskId].func == Task_CreditsMain)
     {
-        // Speed up credits
         VBlankCB_Credits();
         RunTasks();
         AnimateSprites();
@@ -433,7 +429,7 @@ void CB2_StartCreditsSequence(void)
     BeginNormalPaletteFade(PALETTES_ALL, 0, 16, 0, RGB_BLACK);
     EnableInterrupts(INTR_FLAG_VBLANK);
     SetVBlankCallback(VBlankCB_Credits);
-    m4aSongNumStart(MUS_CREDITS, FlagGet(FLAG_SYS_GBS_ENABLED));
+    m4aSongNumStart(MUS_HG_CREDITS, FlagGet(FLAG_SYS_GBS_ENABLED));
     SetMainCallback2(CB2_Credits);
     sCreditsData = AllocZeroed(sizeof(struct CreditsData));
 
@@ -470,7 +466,6 @@ static void Task_CreditsMain(u8 taskId)
 
     if (gTasks[taskId].tNextMode == MODE_BIKE_SCENE)
     {
-        // Start a bike cutscene
         gTasks[taskId].tCurrentMode = mode;
         gTasks[taskId].tNextMode = MODE_NONE;
         BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
@@ -478,7 +473,6 @@ static void Task_CreditsMain(u8 taskId)
     }
     else if (gTasks[taskId].tNextMode == MODE_SHOW_MONS)
     {
-        // Start a Pokémon interlude
         gTasks[taskId].tCurrentMode = mode;
         gTasks[taskId].tNextMode = MODE_NONE;
         BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
@@ -551,9 +545,9 @@ static void Task_LoadShowMons(u8 taskId)
 
         temp = (u16 *)(&buffer[MONBG_OFFSET]);
         temp[0] = RGB_BLACK;
-        temp[1] = RGB(31, 31, 20); // light yellow
-        temp[2] = RGB(31, 20, 20); // light red
-        temp[3] = RGB(20, 20, 31); // light blue
+        temp[1] = RGB(31, 31, 20);
+        temp[2] = RGB(31, 20, 20);
+        temp[3] = RGB(20, 20, 31);
 
         LoadSpriteSheet(&bgSheet);
         LoadSpritePalette(&bgPalette);
@@ -567,7 +561,7 @@ static void Task_LoadShowMons(u8 taskId)
         gTasks[taskId].tTaskId_ShowMons = CreateTask(Task_ShowMons, 0);
         gTasks[gTasks[taskId].tTaskId_ShowMons].tState = 1;
         gTasks[gTasks[taskId].tTaskId_ShowMons].tMainTaskId = taskId;
-        gTasks[gTasks[taskId].tTaskId_ShowMons].data[2] = gTasks[taskId].tSceneNum; // data[2] never read
+        gTasks[gTasks[taskId].tTaskId_ShowMons].data[2] = gTasks[taskId].tSceneNum;
 
         BeginNormalPaletteFade(PALETTES_ALL, 0, 16, 0, RGB_BLACK);
         SetGpuReg(REG_OFFSET_BG3HOFS, 0);
@@ -632,7 +626,7 @@ static void Task_CreditsTheEnd3(u8 taskId)
                                 | DISPCNT_OBJ_1D_MAP
                                 | DISPCNT_BG0_ON);
 
-    gTasks[taskId].tDelay = 235; //set this to 215 to actually show "THE END" in time to the last song beat
+    gTasks[taskId].tDelay = 235;
     gTasks[taskId].func = Task_CreditsTheEnd4;
 }
 
@@ -747,7 +741,6 @@ static void Task_UpdatePage(u8 taskId)
         {
             if (gTasks[taskId].tCurrentPage < PAGE_COUNT)
             {
-                // Print text for this Credits page
                 for (i = 0; i < ENTRIES_PER_PAGE; i++)
                     PrintCreditsText(
                         sCreditsEntryPointerTable[gTasks[taskId].tCurrentPage][i]->text,
@@ -762,12 +755,11 @@ static void Task_UpdatePage(u8 taskId)
 
                 if (gTasks[gTasks[taskId].tMainTaskId].tCurrentMode == MODE_BIKE_SCENE)
                     BeginNormalPaletteFade(0x300, 0, 16, 0, COLOR_LIGHT_GREEN);
-                else // MODE_SHOW_MONS
+                else
                     BeginNormalPaletteFade(0x300, 0, 16, 0, COLOR_DARK_GREEN);
                 return;
             }
 
-            // Reached final page of Credits, end task
             gTasks[taskId].tState = 10;
             return;
         }
@@ -795,13 +787,12 @@ static void Task_UpdatePage(u8 taskId)
         gTasks[taskId].tState++;
         if (gTasks[gTasks[taskId].tMainTaskId].tCurrentMode == MODE_BIKE_SCENE)
             BeginNormalPaletteFade(0x300, 0, 0, 16, COLOR_LIGHT_GREEN);
-        else // MODE_SHOW_MONS
+        else
             BeginNormalPaletteFade(0x300, 0, 0, 16, COLOR_DARK_GREEN);
         return;
     case 5:
         if (!gPaletteFade.active)
         {
-            // Still more Credits pages to show, return to state 2 to print
             FillWindowPixelBuffer(0, PIXEL_FILL(0));
             CopyWindowToVram(0, COPYWIN_GFX);
             gTasks[taskId].tState = 2;
@@ -818,67 +809,56 @@ static void Task_UpdatePage(u8 taskId)
 
 #undef tDelay
 
-#define PAGE_INTERVAL (PAGE_COUNT / 9) // 9 scenes (5 bike scenes, 4 Pokémon interludes)
+#define PAGE_INTERVAL (PAGE_COUNT / 9)
 
 static u8 CheckChangeScene(u8 page, u8 taskId)
 {
-    // Starts with bike + ocean + morning (SCENE_OCEAN_MORNING)
-
     if (page == PAGE_INTERVAL * 1)
     {
-        // Pokémon interlude
         gTasks[taskId].tNextMode = MODE_SHOW_MONS;
     }
 
     if (page == PAGE_INTERVAL * 2)
     {
-        // Bike + ocean + sunset
         gTasks[taskId].tSceneNum = SCENE_OCEAN_SUNSET;
         gTasks[taskId].tNextMode = MODE_BIKE_SCENE;
     }
 
     if (page == PAGE_INTERVAL * 3)
     {
-        // Pokémon interlude
         gTasks[taskId].tNextMode = MODE_SHOW_MONS;
     }
 
     if (page == PAGE_INTERVAL * 4)
     {
-        // Bike + forest + sunset
         gTasks[taskId].tSceneNum = SCENE_FOREST_RIVAL_ARRIVE;
         gTasks[taskId].tNextMode = MODE_BIKE_SCENE;
     }
 
     if (page == PAGE_INTERVAL * 5)
     {
-        // Pokémon interlude
         gTasks[taskId].tNextMode = MODE_SHOW_MONS;
     }
 
     if (page == PAGE_INTERVAL * 6)
     {
-        // Bike + forest + sunset
         gTasks[taskId].tSceneNum = SCENE_FOREST_CATCH_RIVAL;
         gTasks[taskId].tNextMode = MODE_BIKE_SCENE;
     }
 
     if (page == PAGE_INTERVAL * 7)
     {
-        // Pokémon interlude
         gTasks[taskId].tNextMode = MODE_SHOW_MONS;
     }
 
     if (page == PAGE_INTERVAL * 8)
     {
-        // Bike + town + night
         gTasks[taskId].tSceneNum = SCENE_CITY_NIGHT;
         gTasks[taskId].tNextMode = MODE_BIKE_SCENE;
     }
 
     if (gTasks[taskId].tNextMode != MODE_NONE)
     {
-        // Returns true if changed
         return TRUE;
     }
 
@@ -1057,7 +1037,6 @@ static void Task_CycleSceneryPalette(u8 taskId)
         {
             bikeTaskId = gTasks[gTasks[taskId].tMainTaskId].tTaskId_BikeScene;
 
-            // Floor to multiple of 128
             if ((gTasks[bikeTaskId].tSinIdx & -128) == 640)
             {
                 gTasks[bikeTaskId].tState = 1;
@@ -1094,57 +1073,37 @@ static void SetBikeScene(u8 scene, u8 taskId)
     {
     case SCENE_OCEAN_MORNING:
         gSprites[gTasks[taskId].tPlayerSpriteId].invisible = FALSE;
-        gSprites[gTasks[taskId].tRivalSpriteId].invisible = FALSE;
         gSprites[gTasks[taskId].tPlayerSpriteId].x = DISPLAY_WIDTH + 32;
-        gSprites[gTasks[taskId].tRivalSpriteId].x = DISPLAY_WIDTH + 32;
         gSprites[gTasks[taskId].tPlayerSpriteId].y = 46;
-        gSprites[gTasks[taskId].tRivalSpriteId].y = 46;
         gSprites[gTasks[taskId].tPlayerSpriteId].data[0] = 0;
-        gSprites[gTasks[taskId].tRivalSpriteId].data[0] = 0;
         gTasks[taskId].tTaskId_BgScenery = CreateBicycleBgAnimationTask(0, 0x2000, 0x20, 8);
         break;
     case SCENE_OCEAN_SUNSET:
         gSprites[gTasks[taskId].tPlayerSpriteId].invisible = FALSE;
-        gSprites[gTasks[taskId].tRivalSpriteId].invisible = FALSE;
         gSprites[gTasks[taskId].tPlayerSpriteId].x = 120;
-        gSprites[gTasks[taskId].tRivalSpriteId].x = DISPLAY_WIDTH + 32;
         gSprites[gTasks[taskId].tPlayerSpriteId].y = 46;
-        gSprites[gTasks[taskId].tRivalSpriteId].y = 46;
         gSprites[gTasks[taskId].tPlayerSpriteId].data[0] = 0;
-        gSprites[gTasks[taskId].tRivalSpriteId].data[0] = 0;
         gTasks[taskId].tTaskId_BgScenery = CreateBicycleBgAnimationTask(0, 0x2000, 0x20, 8);
         break;
     case SCENE_FOREST_RIVAL_ARRIVE:
         gSprites[gTasks[taskId].tPlayerSpriteId].invisible = FALSE;
-        gSprites[gTasks[taskId].tRivalSpriteId].invisible = FALSE;
         gSprites[gTasks[taskId].tPlayerSpriteId].x = 120;
-        gSprites[gTasks[taskId].tRivalSpriteId].x = DISPLAY_WIDTH + 32;
         gSprites[gTasks[taskId].tPlayerSpriteId].y = 46;
-        gSprites[gTasks[taskId].tRivalSpriteId].y = 46;
         gSprites[gTasks[taskId].tPlayerSpriteId].data[0] = 0;
-        gSprites[gTasks[taskId].tRivalSpriteId].data[0] = 0;
         gTasks[taskId].tTaskId_BgScenery = CreateBicycleBgAnimationTask(1, 0x2000, 0x200, 8);
         break;
     case SCENE_FOREST_CATCH_RIVAL:
         gSprites[gTasks[taskId].tPlayerSpriteId].invisible = FALSE;
-        gSprites[gTasks[taskId].tRivalSpriteId].invisible = FALSE;
         gSprites[gTasks[taskId].tPlayerSpriteId].x = 120;
-        gSprites[gTasks[taskId].tRivalSpriteId].x = -32;
         gSprites[gTasks[taskId].tPlayerSpriteId].y = 46;
-        gSprites[gTasks[taskId].tRivalSpriteId].y = 46;
         gSprites[gTasks[taskId].tPlayerSpriteId].data[0] = 0;
-        gSprites[gTasks[taskId].tRivalSpriteId].data[0] = 0;
         gTasks[taskId].tTaskId_BgScenery = CreateBicycleBgAnimationTask(1, 0x2000, 0x200, 8);
         break;
     case SCENE_CITY_NIGHT:
         gSprites[gTasks[taskId].tPlayerSpriteId].invisible = FALSE;
-        gSprites[gTasks[taskId].tRivalSpriteId].invisible = FALSE;
         gSprites[gTasks[taskId].tPlayerSpriteId].x = 88;
-        gSprites[gTasks[taskId].tRivalSpriteId].x = 152;
         gSprites[gTasks[taskId].tPlayerSpriteId].y = 46;
-        gSprites[gTasks[taskId].tRivalSpriteId].y = 46;
         gSprites[gTasks[taskId].tPlayerSpriteId].data[0] = 0;
-        gSprites[gTasks[taskId].tRivalSpriteId].data[0] = 0;
         gTasks[taskId].tTaskId_BgScenery = CreateBicycleBgAnimationTask(2, 0x2000, 0x200, 8);
         break;
     }
@@ -1156,7 +1115,7 @@ static void SetBikeScene(u8 scene, u8 taskId)
 
     gTasks[taskId].tTaskId_BikeScene = CreateTask(Task_BikeScene, 0);
     gTasks[gTasks[taskId].tTaskId_BikeScene].tState = 0;
-    gTasks[gTasks[taskId].tTaskId_BikeScene].data[1] = taskId; // data[1] is never read
+    gTasks[gTasks[taskId].tTaskId_BikeScene].data[1] = taskId;
     gTasks[gTasks[taskId].tTaskId_BikeScene].tPlayer = gTasks[taskId].tPlayerSpriteId;
     gTasks[gTasks[taskId].tTaskId_BikeScene].tRival = gTasks[taskId].tRivalSpriteId;
     gTasks[gTasks[taskId].tTaskId_BikeScene].tDelay = 0;
@@ -1199,40 +1158,21 @@ static bool8 LoadBikeScene(u8 scene, u8 taskId)
         gMain.state++;
         break;
     case 2:
-        if (gSaveBlock2Ptr->playerGender == MALE)
-        {
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsBrendan);
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsRivalMay);
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsBicycle);
-            LoadSpritePalettes(gSpritePalettes_Credits);
+        LoadCompressedSpriteSheet(gSpriteSheet_CreditsSuicune);
+        LoadCompressedSpriteSheet(gSpriteSheet_CreditsRivalMay);
+        LoadCompressedSpriteSheet(gSpriteSheet_CreditsBicycle);
+        LoadSpritePalettes(gSpritePalettes_CreditsHnS);
 
-            spriteId = CreateIntroBrendanSprite(120, 46);
-            gTasks[taskId].tPlayerSpriteId = spriteId;
-            gSprites[spriteId].callback = SpriteCB_Player;
-            gSprites[spriteId].anims = sAnims_Player;
+        spriteId = CreateCreditsSuicuneSprite(120, 46);
+        gTasks[taskId].tPlayerSpriteId = spriteId;
+        gSprites[spriteId].callback = SpriteCB_Player;
+        gSprites[spriteId].anims = sAnims_Player;
 
-            spriteId = CreateIntroMaySprite(DISPLAY_WIDTH + 32, 46);
-            gTasks[taskId].tRivalSpriteId = spriteId;
-            gSprites[spriteId].callback = SpriteCB_Rival;
-            gSprites[spriteId].anims = sAnims_Rival;
-        }
-        else
-        {
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsMay);
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsRivalBrendan);
-            LoadCompressedSpriteSheet(gSpriteSheet_CreditsBicycle);
-            LoadSpritePalettes(gSpritePalettes_Credits);
-
-            spriteId = CreateIntroMaySprite(120, 46);
-            gTasks[taskId].tPlayerSpriteId = spriteId;
-            gSprites[spriteId].callback = SpriteCB_Player;
-            gSprites[spriteId].anims = sAnims_Player;
-
-            spriteId = CreateIntroBrendanSprite(DISPLAY_WIDTH + 32, 46);
-            gTasks[taskId].tRivalSpriteId = spriteId;
-            gSprites[spriteId].callback = SpriteCB_Rival;
-            gSprites[spriteId].anims = sAnims_Rival;
-        };
+        spriteId = CreateIntroMaySprite(DISPLAY_WIDTH + 32, 46);
+        gTasks[taskId].tRivalSpriteId = spriteId;
+        gSprites[spriteId].callback = SpriteCB_Rival;
+        gSprites[spriteId].anims = sAnims_Rival;
+        gSprites[spriteId].invisible = TRUE;
         gMain.state++;
         break;
     case 3:
@@ -1246,28 +1186,24 @@ static bool8 LoadBikeScene(u8 scene, u8 taskId)
 
 static void ResetCreditsTasks(u8 taskId)
 {
-    // Destroy Task_BicycleBgAnimation, if running
     if (gTasks[taskId].tTaskId_BgScenery != 0)
     {
         DestroyTask(gTasks[taskId].tTaskId_BgScenery);
         gTasks[taskId].tTaskId_BgScenery = 0;
     }
 
-    // Destroy Task_BikeScene, if running
     if (gTasks[taskId].tTaskId_BikeScene != 0)
     {
         DestroyTask(gTasks[taskId].tTaskId_BikeScene);
         gTasks[taskId].tTaskId_BikeScene = 0;
     }
 
-    // Destroy Task_CycleSceneryPalette, if running
     if (gTasks[taskId].tTaskId_SceneryPal != 0)
     {
         DestroyTask(gTasks[taskId].tTaskId_SceneryPal);
         gTasks[taskId].tTaskId_SceneryPal = 0;
     }
 
-    // Destroy Task_ShowMons, if running
     if (gTasks[taskId].tTaskId_ShowMons != 0)
     {
         DestroyTask(gTasks[taskId].tTaskId_ShowMons);
@@ -1375,39 +1311,9 @@ static void SpriteCB_Player(struct Sprite *sprite)
 
 static void SpriteCB_Rival(struct Sprite *sprite)
 {
+    sprite->invisible = TRUE;
     if (gIntroCredits_MovingSceneryState != INTROCRED_SCENERY_NORMAL)
-    {
         DestroySprite(sprite);
-        return;
-    }
-
-    switch (sprite->sState)
-    {
-    case 0:
-        sprite->y2 = 0;
-        StartSpriteAnimIfDifferent(sprite, 0);
-        break;
-    case 1:
-        if (sprite->x > 200)
-            StartSpriteAnimIfDifferent(sprite, 1);
-        else
-            StartSpriteAnimIfDifferent(sprite, 2);
-        if (sprite->x > -32)
-            sprite->x -= 2;
-        sprite->y2 = -gIntroCredits_MovingSceneryVOffset;
-        break;
-    case 2:
-        sprite->data[7]++;
-        StartSpriteAnimIfDifferent(sprite, 0);
-        if ((sprite->data[7] & 3) == 0)
-            sprite->x++;
-        break;
-    case 3:
-        StartSpriteAnimIfDifferent(sprite, 0);
-        if (sprite->x > -32)
-            sprite->x--;
-        break;
-    }
 }
 
 #define sPosition data[1]
@@ -1531,7 +1437,6 @@ static void SpriteCB_CreditsMonBg(struct Sprite *sprite)
         return;
     }
 
-    // Copy sprite data from the associated Pokémon
     sprite->invisible = gSprites[sprite->sMonSpriteId].invisible;
     sprite->oam.objMode = gSprites[sprite->sMonSpriteId].oam.objMode;
     sprite->oam.affineMode = gSprites[sprite->sMonSpriteId].oam.affineMode;
@@ -1547,8 +1452,6 @@ static void DeterminePokemonToShow(void)
     u16 dexNum;
     u16 j;
 
-    // Go through the Pokédex, and anything that has gotten caught we put into our massive array.
-    // This basically packs all of the caught Pokémon into the front of the array
     for (dexNum = 1, j = 0; dexNum < NATIONAL_DEX_COUNT; dexNum++)
     {
         if (GetSetPokedexFlag(dexNum, FLAG_GET_CAUGHT))
@@ -1558,39 +1461,32 @@ static void DeterminePokemonToShow(void)
         }
     }
 
-    // Fill the rest of the array with zeroes
     for (dexNum = j; dexNum < NATIONAL_DEX_COUNT; dexNum++)
         sCreditsData->caughtMonIds[dexNum] = NATIONAL_DEX_NONE;
 
-    // Cap the number of Pokémon we care about to NUM_MON_SLIDES, the max we show in the credits scene (-1 for the starter)
     sCreditsData->numCaughtMon = j;
     if (sCreditsData->numCaughtMon < NUM_MON_SLIDES)
         sCreditsData->numMonToShow = j;
     else
         sCreditsData->numMonToShow = NUM_MON_SLIDES;
 
-    // Loop through our list of caught Pokémon and select randomly from it to fill the images to show
     j = 0;
     do
     {
-        // Select a random mon, insert into array
         page = Random() % sCreditsData->numCaughtMon;
         sCreditsData->monToShow[j] = sCreditsData->caughtMonIds[page];
 
-        // Remove the select mon from the array, and condense array entries
         j++;
         sCreditsData->caughtMonIds[page] = 0;
         sCreditsData->numCaughtMon--;
         if (page != sCreditsData->numCaughtMon)
         {
-            // Instead of looping through and moving everything down, just take from the end. Order doesn't matter after all.
             sCreditsData->caughtMonIds[page] = sCreditsData->caughtMonIds[sCreditsData->numCaughtMon];
             sCreditsData->caughtMonIds[sCreditsData->numCaughtMon] = 0;
         }
     }
     while (sCreditsData->numCaughtMon != 0 && j < NUM_MON_SLIDES);
 
-    // If we don't have enough Pokémon in the dex to fill everything, copy the selected mon into the end of the array, so it loops
     if (sCreditsData->numMonToShow < NUM_MON_SLIDES)
     {
         for (j = sCreditsData->numMonToShow, page = 0; j < NUM_MON_SLIDES; j++)
@@ -1601,15 +1497,12 @@ static void DeterminePokemonToShow(void)
             if (page == sCreditsData->numMonToShow)
                 page = 0;
         }
-        // Ensure the last Pokémon is our starter
         sCreditsData->monToShow[NUM_MON_SLIDES - 1] = starter;
     }
     else
     {
-        // Check to see if our starter has already appeared in this list, break if it has
         for (dexNum = 0; sCreditsData->monToShow[dexNum] != starter && dexNum < NUM_MON_SLIDES; dexNum++);
 
-        // If it has, swap it with the last Pokémon, to ensure our starter is the last image
         if (dexNum < sCreditsData->numMonToShow - 1)
         {
             sCreditsData->monToShow[dexNum] = sCreditsData->monToShow[NUM_MON_SLIDES-1];
@@ -1617,11 +1510,10 @@ static void DeterminePokemonToShow(void)
         }
         else
         {
-            // Ensure the last Pokémon is our starter
             sCreditsData->monToShow[NUM_MON_SLIDES - 1] = starter;
         }
     }
     sCreditsData->numMonToShow = NUM_MON_SLIDES;
 }
 
-#endif // !IS_FRLG && !IS_HNS
+#endif // IS_HNS
