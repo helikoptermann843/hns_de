@@ -2044,6 +2044,15 @@ u8 TrySpawnObjectEventTemplate(const struct ObjectEventTemplate *objectEventTemp
     if (subspriteTables)
         SetSubspriteTables(&gSprites[gObjectEvents[objectEventId].spriteId], subspriteTables);
 
+#if IS_HNS
+    // Whirlpool sprites render below the player's surf sprite
+    if (graphicsId == OBJ_EVENT_GFX_WHIRLPOOL_HNS)
+    {
+        gObjectEvents[objectEventId].fixedPriority = TRUE;
+        gSprites[gObjectEvents[objectEventId].spriteId].subpriority = 182;
+    }
+#endif
+
     return objectEventId;
 }
 
@@ -3252,6 +3261,13 @@ static void SpawnObjectEventOnReturnToField(u8 objectEventId, s16 x, s16 y)
 
         ResetObjectEventFldEffData(objectEvent);
         SetObjectSubpriorityByElevation(objectEvent->previousElevation, sprite, 1);
+#if IS_HNS
+        if (objectEvent->graphicsId == OBJ_EVENT_GFX_WHIRLPOOL_HNS)
+        {
+            objectEvent->fixedPriority = TRUE;
+            sprite->subpriority = 182;
+        }
+#endif
     }
 }
 
