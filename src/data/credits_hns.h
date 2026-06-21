@@ -81,6 +81,7 @@ static const u8 sCreditsText_Resetes[]                         = _("Resetes");
 static const u8 sCreditsText_Jozuno[]                          = _("Jozuno");
 static const u8 sCreditsText_Skeletonkey[]                     = _("skeletonkey");
 static const u8 sCreditsText_Pinny[]                           = _("Pinny");
+static const u8 sCreditsText_Grintoul[]                        = _("Grintoul");
 
 
 static const u8 sCreditsText_Playtesters[]                     = _("Playtesters");
@@ -358,6 +359,7 @@ static const struct CreditsEntry sCreditsEntry_Jozuno       = {11, FALSE, sCredi
 static const struct CreditsEntry sCreditsEntry_Leob       = {11, FALSE, sCreditsText_Leob};
 static const struct CreditsEntry sCreditsEntry_Skeletonkey = {11, FALSE, sCreditsText_Skeletonkey};
 static const struct CreditsEntry sCreditsEntry_Pinny       = {11, FALSE, sCreditsText_Pinny};
+static const struct CreditsEntry sCreditsEntry_Grintoul    = {11, FALSE, sCreditsText_Grintoul};
 
 // Assets Section Header
 static const struct CreditsEntry sCreditsEntry_Assets                           = { 7,  TRUE, sCreditsText_Assets};
@@ -626,7 +628,7 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
         &sCreditsEntry_Developers,
         &sCreditsEntry_Skeletonkey,
         &sCreditsEntry_MearaTheDigger,
-        _,
+        &sCreditsEntry_Grintoul,
         _,
     },
     [PAGE_HNS_SPRITES_1] = {
