@@ -1926,6 +1926,10 @@ static void Task_ConfirmSaveYes(u8 taskId)
 {
     struct ChallengeSettings *cs = &gSaveBlock3Ptr->challengeSettings;
 
+#if IS_HNS
+    SeedRngAndSetTrainerId();
+#endif
+
     // Mode tab
     cs->tx_Mode_Modern_Moves       = *GetSelectionPtr(TAB_MODE, ITEM_MODE_MODERN_MOVES);
     cs->tx_Mode_Synchronize        = *GetSelectionPtr(TAB_MODE, ITEM_MODE_SYNCHRONIZE);
