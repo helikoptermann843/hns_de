@@ -501,6 +501,8 @@ static const u8 *GetInteractedMetatileScript(struct MapPosition *position, u8 me
     }
     if (MetatileBehavior_IsPC(metatileBehavior) == TRUE)
         return EventScript_PC;
+    if (IS_HNS && MetatileBehavior_IsHeadbuttTree(metatileBehavior) == TRUE)
+        return EventScript_Headbutt;
     if (MetatileBehavior_IsClosedSootopolisDoor(metatileBehavior) == TRUE)
         return EventScript_ClosedSootopolisDoor;
     if (MetatileBehavior_IsSkyPillarClosedDoor(metatileBehavior) == TRUE)
