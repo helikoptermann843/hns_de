@@ -236,7 +236,7 @@ OlivineCity_Gym_EventScript_JasmineVictory::
 	setflag FLAG_DEFEATED_OLIVINE_CITY_GYM
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 6
-	call Common_EventScript_SetGymTrainers
+	call Common_EventScript_SetGymTrainers_hns
 	giveitem ITEM_TM_IRON_TAIL
 	msgbox OlivineCity_Gym_Text_JasmineIronTailSpeech, MSGBOX_DEFAULT
 	setvar VAR_OLIVINE_CITY_STATE, 8
