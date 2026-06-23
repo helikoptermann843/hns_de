@@ -67,7 +67,7 @@ GoldenrodCity_PokemonCenter_EventScript_EnterTradeRoom::
 	setvar VAR_CABLE_CLUB_STATE, USING_TRADE_CENTER
 	closemessage
 	release
-	setdynamicwarp MAP_GOLDENROD_CITY_POKEMON_CENTER_HNS, 255, 12, 5
+	setdynamicwarp MAP_GOLDENROD_CITY_POKEMON_CENTER_HNS, 255, 14, 6
 	setwarp MAP_TRADE_CENTER_HNS, 5, 8
 	special DoCableClubWarp
 	waitstate
@@ -122,7 +122,7 @@ GoldenrodCity_PokemonCenter_EventScript_EnterColosseum::
 	copyvar VAR_CABLE_CLUB_STATE, VAR_0x8004
 	closemessage
 	release
-	setdynamicwarp MAP_GOLDENROD_CITY_POKEMON_CENTER_HNS, 255, 12, 5
+	setdynamicwarp MAP_GOLDENROD_CITY_POKEMON_CENTER_HNS, 255, 14, 6
 	setwarp MAP_BATTLE_COLOSSEUM_2P_HNS, 6, 8
 	special DoCableClubWarp
 	waitstate
