@@ -1900,6 +1900,8 @@ extern const u32 gItemIcon_Room1Key[];
 extern const u32 gItemIcon_Room2Key[];
 extern const u32 gItemIcon_Room4Key[];
 extern const u32 gItemIcon_Room6Key[];
+extern const u32 gItemIcon_GBPlayer[];
+extern const u16 gItemIconPalette_GBPlayer[];
 
 extern const u32 gItemIcon_ReturnToFieldArrow[];
 extern const u16 gItemIconPalette_ReturnToFieldArrow[];
