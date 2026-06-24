@@ -200,13 +200,13 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("ON"),
-    COMPOUND_STRING("OFF"),
+    COMPOUND_STRING("AN"),
+    COMPOUND_STRING("AUS"),
 };
 
 static const u8 *const sChoices_ShiftSet[] = {
-    COMPOUND_STRING("SHIFT"),
-    COMPOUND_STRING("SET"),
+    COMPOUND_STRING("WECHSEL"),
+    COMPOUND_STRING("FEST"),
 };
 
 static const u8 *const sChoices_MonoStereo[] = {
@@ -221,19 +221,19 @@ static const u8 *const sChoices_ButtonMode[] = {
 };
 
 static const u8 *const sChoices_TextSpeed[] = {
-    COMPOUND_STRING("SLOW"),
-    COMPOUND_STRING("MID"),
-    COMPOUND_STRING("FAST"),
-    COMPOUND_STRING("FASTER"),
+    COMPOUND_STRING("1"),
+    COMPOUND_STRING("2"),
+    COMPOUND_STRING("3"),
+    COMPOUND_STRING("4"),
 };
 
 static const u8 *const sChoices_MetricImperial[] = {
-    COMPOUND_STRING("METRIC"),
+    COMPOUND_STRING("METRISCH"),
     COMPOUND_STRING("IMPERIAL"),
 };
 
 static const u8 *const sChoices_OldModern[] = {
-    COMPOUND_STRING("OLD"),
+    COMPOUND_STRING("ALT"),
     COMPOUND_STRING("MODERN"),
 };
 
@@ -243,7 +243,7 @@ static const u8 *const sChoices_Gen3Gen4[] = {
 };
 
 static const u8 *const sChoices_RunType[] = {
-    COMPOUND_STRING("NO"),
+    COMPOUND_STRING("AUS"),
     COMPOUND_STRING("L+R+A"),
     COMPOUND_STRING("B{RIGHT_ARROW}A"),
     COMPOUND_STRING("B"),
@@ -271,98 +271,98 @@ static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
 };
 static const u8 *const sDesc_BattleScene[] = {
-    COMPOUND_STRING("Show the {PKMN} animations\nand attack animations."),
-    COMPOUND_STRING("Skip the {PKMN} animations\nand attack animations."),
+    COMPOUND_STRING("Zeige {PKMN} animationen\nund Attacken."),
+    COMPOUND_STRING("Zeige {PKMN} animationen\nund Attacken nicht."),
 };
 static const u8 *const sDesc_BattleStyle[] = {
-    COMPOUND_STRING("Get the option to switch your\n{PKMN} after the enemies faints."),
-    COMPOUND_STRING("No free switch after fainting the\nenemies {PKMN}."),
+    COMPOUND_STRING("Option das eigene {PKMN}\nzu wechseln, nachdem Gegner besiegt."),
+    COMPOUND_STRING("Kein Wechseln des {PKMN}\nnach besiegen des Gegners."),
 };
 static const u8 *const sDesc_ButtonMode[] = {
-    COMPOUND_STRING("All buttons work as normal."),
-    COMPOUND_STRING("On some screens the L and R buttons\nact as left and right."),
-    COMPOUND_STRING("The L button acts as another A\nbutton for one-handed play."),
+    COMPOUND_STRING("Normale Steuerung."),
+    COMPOUND_STRING("In manchen Szenarien funktionieren\nL und R als Links und Rechts."),
+    COMPOUND_STRING("L funktioniert als weiterer\nA-Knopf."),
 };
 static const u8 *const sDesc_Follower[] = {
-    COMPOUND_STRING("Let the first {PKMN} in your\nparty follow you."),
-    COMPOUND_STRING("Walk alone."),
+    COMPOUND_STRING("Das Erste {PKMN} im Team\nfolgt dir."),
+    COMPOUND_STRING("Kein folgendes {PKMN}."),
 };
 static const u8 *const sDesc_LargeFollower[] = {
-    COMPOUND_STRING("Enable large {PKMN} followers.\nCan cause graphical issues."),
-    COMPOUND_STRING("Disable large {PKMN} followers.\nRecommended."),
+    COMPOUND_STRING("Große {PKMN} folgen dir.\nKann grafische Probleme verursachen."),
+    COMPOUND_STRING("Große {PKMN} folgen nicht.\nEmpfohlen."),
 };
 static const u8 *const sDesc_Autorun[] = {
-    COMPOUND_STRING("Run without pressing B."),
-    COMPOUND_STRING("Press and hold B to run."),
+    COMPOUND_STRING("Rennen ohne B drücken zu müssen."),
+    COMPOUND_STRING("Drücke und halte B zum rennen."),
 };
 static const u8 *const sDesc_AutorunSurf[] = {
-    COMPOUND_STRING("Surf faster without pressing B."),
-    COMPOUND_STRING("Press and hold B to surf faster."),
+    COMPOUND_STRING("Surfe schneller ohne B zu drücken."),
+    COMPOUND_STRING("Drücke und halte B zum schnell surfen."),
 };
 static const u8 *const sDesc_Fishing[] = {
-    COMPOUND_STRING("Automatically reel while fishing."),
-    COMPOUND_STRING("Manually reel while fishing.\nFish like you always fished!"),
+    COMPOUND_STRING("Automatisches Angeln."),
+    COMPOUND_STRING("Normales Angeln.\nDrücken zum einholen!"),
 };
 static const u8 *const sDesc_FasterJoy[] = {
-    COMPOUND_STRING("NURSE JOY heals you faster."),
-    COMPOUND_STRING("NURSE JOY heals you with the\nusual animation."),
+    COMPOUND_STRING("Schwester Joy heilt dich schneller"),
+    COMPOUND_STRING("Schwester Joy heilt dich mit\nnormaler Animation."),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in kilograms and meters."),
-    COMPOUND_STRING("Display BERRY and {PKMN} weight\nand size in pounds and inches."),
+    COMPOUND_STRING("Zeigt Beeren und {PKMN} gewicht\nund größe in Kilogram und Meter."),
+    COMPOUND_STRING("Ja bist du denn behindert?\nmach das aus du ungetier."),
 };
 static const u8 *const sDesc_MatchCall[] = {
-    COMPOUND_STRING("TRAINERs will be able to call you,\noffering rematches and info."),
-    COMPOUND_STRING("You will not receive calls.\nSpecial events will still occur."),
+    COMPOUND_STRING("TRAINER können dich anrufen\nund revange verlangen."),
+    COMPOUND_STRING("Keine Anrufe.\nSpezielle Events finden trotzdem statt."),
 };
 static const u8 *const sDesc_FrameType[] = {
-    COMPOUND_STRING("Choose the frame surrounding the\nwindows."),
+    COMPOUND_STRING("Suche dir einen Rahmen für\ndas Fenster aus."),
 };
 static const u8 *const sDesc_FastIntro[] = {
-    COMPOUND_STRING("Skip the sliding animation\nand enter battles faster."),
-    COMPOUND_STRING("Battles load at the usual speed."),
+    COMPOUND_STRING("Überspringe die rutsch-\nAnimation bei kämpfen."),
+    COMPOUND_STRING("Kämpfe laden mit normaler Animation."),
 };
 static const u8 *const sDesc_FastBattles[] = {
-    COMPOUND_STRING("Skips all delays in battles, which\nmakes them faster."),
-    COMPOUND_STRING("Manual delay skipping. You can\npress A or B to skip delays."),
+    COMPOUND_STRING("Überspringe alle verzögerungen\nin kämpfen."),
+    COMPOUND_STRING("Manuelles überspringen. Du kannst\nA oder B drücken."),
 };
 static const u8 *const sDesc_NewBackgrounds[] = {
-    COMPOUND_STRING("Original battle terrain backgrounds."),
-    COMPOUND_STRING("Modernized battle terrain\nbackgrounds, from HnS."),
+    COMPOUND_STRING("Original Terrain-Hintergründe."),
+    COMPOUND_STRING("Moderne Terrain-\nHintergründe, von HnS."),
 };
 static const u8 *const sDesc_NewBattleUI[] = {
-    COMPOUND_STRING("Original GEN III Battle UI."),
-    COMPOUND_STRING("Modernized GEN IV Battle UI."),
+    COMPOUND_STRING("Original GEN III Kampf UI."),
+    COMPOUND_STRING("Modernes GEN IV Kampf UI."),
 };
 static const u8 *const sDesc_BallPrompt[] = {
-    COMPOUND_STRING("Press {R_BUTTON} in battle to use Pokeballs.\nHold {L_BUTTON}/{R_BUTTON} to swap {PKMN}BALLS."),
-    COMPOUND_STRING("Disables the prompt to use\n{PKMN}BALLS quickly."),
+    COMPOUND_STRING("Drücke {R_BUTTON} im Kampf für Pokebälle.\nHalte {L_BUTTON}/{R_BUTTON} um {PKMN}BÄLLE zu tauschen."),
+    COMPOUND_STRING("Kein Fenster für\nschnelle {PKMN}BÄLLE."),
 };
 static const u8 *const sDesc_RunType[] = {
-    COMPOUND_STRING("No quick running from battles."),
-    COMPOUND_STRING("Hold {L_BUTTON}+{R_BUTTON}, then {A_BUTTON} to run from\nbattles before they start."),
-    COMPOUND_STRING("Press {B_BUTTON} to move the cursor to the RUN\noption after the battle started."),
-    COMPOUND_STRING("Press {B_BUTTON} to run from battles before\nthey start."),
+    COMPOUND_STRING("Kein schnelles flüchten."),
+    COMPOUND_STRING("Halte {L_BUTTON}+{R_BUTTON}, dann {A_BUTTON} um von\nkämpfen zu flüchten."),
+    COMPOUND_STRING("Drücke {B_BUTTON} um die Option Flüchten\ndirekt ausgewählt zu haben."),
+    COMPOUND_STRING("Drücke {B_BUTTON} um von kämpfen zu flüchten\nbevor sie angefangen haben."),
 };
 static const u8 *const sDesc_LRRun[] = {
-    COMPOUND_STRING("Enables a prompt to show that you\ncan run away from battles."),
-    COMPOUND_STRING("Disables said prompt to flee.\nButton combo still works."),
+    COMPOUND_STRING("Zeigt ein Fenster was\ndir anzeigt das du flüchten kannst."),
+    COMPOUND_STRING("Fluchtfenster deaktiviert.\nKnöpfe funktionieren trotzdem."),
 };
 static const u8 *const sDesc_Sound[] = {
-    COMPOUND_STRING("Sound is the same in all speakers.\nRecommended for original hardware."),
-    COMPOUND_STRING("Play the left and right audio channel\nseparately. Great with headphones."),
+    COMPOUND_STRING("Ton für alle Lautsprecher gleich.\nEmpfohlen für Konsole."),
+    COMPOUND_STRING("Ton links und rechts getrennt.\nGut für Kopfhörer."),
 };
 static const u8 *const sDesc_Music[] = {
-    COMPOUND_STRING("Enables music playback.\nChange maps to take effect."),
-    COMPOUND_STRING("Disables music playback.\nChange maps to take effect."),
+    COMPOUND_STRING("Musik an.\nWechsle Map zum anwenden."),
+    COMPOUND_STRING("Musik aus.\nWechsle Map zum anwenden."),
 };
 static const u8 *const sDesc_BikeMusic[] = {
-    COMPOUND_STRING("Enables BIKE music."),
-    COMPOUND_STRING("Disables BIKE music."),
+    COMPOUND_STRING("Fahrrad Musik an."),
+    COMPOUND_STRING("Fahrrad Musik aus."),
 };
 static const u8 *const sDesc_SurfMusic[] = {
-    COMPOUND_STRING("Enables SURF music."),
-    COMPOUND_STRING("Disables SURF music."),
+    COMPOUND_STRING("Surfen Musik an."),
+    COMPOUND_STRING("Surfen Musik aus."),
 };
 
 // =============================================================================
@@ -371,79 +371,79 @@ static const u8 *const sDesc_SurfMusic[] = {
 
 static const struct OptionMenuItem sTabItems_Main[] = {
     [ITEM_MAIN_TEXTSPEED] = {
-        .name         = COMPOUND_STRING("TEXT SPEED"),
+        .name         = COMPOUND_STRING("TEXT GES."),
         .descriptions = sDesc_TextSpeed,
         .numChoices   = 4,
         .choiceNames  = sChoices_TextSpeed,
     },
     [ITEM_MAIN_BATTLESCENE] = {
-        .name         = COMPOUND_STRING("BATTLE SCENE"),
+        .name         = COMPOUND_STRING("KAMPFSZENE"),
         .descriptions = sDesc_BattleScene,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_BATTLESTYLE] = {
-        .name         = COMPOUND_STRING("BATTLE STYLE"),
+        .name         = COMPOUND_STRING("KAMPFSTIL"),
         .descriptions = sDesc_BattleStyle,
         .numChoices   = 2,
         .choiceNames  = sChoices_ShiftSet,
     },
     [ITEM_MAIN_BUTTONMODE] = {
-        .name         = COMPOUND_STRING("BUTTON MODE"),
+        .name         = COMPOUND_STRING("STEUERUNG"),
         .descriptions = sDesc_ButtonMode,
         .numChoices   = 3,
         .choiceNames  = sChoices_ButtonMode,
     },
     [ITEM_MAIN_FOLLOWER] = {
-        .name         = COMPOUND_STRING("FOLLOWER"),
+        .name         = COMPOUND_STRING("FOLGEN"),
         .descriptions = sDesc_Follower,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_LARGE_FOLLOWER] = {
-        .name         = COMPOUND_STRING("BIG FOLLOWERS"),
+        .name         = COMPOUND_STRING("GROSSE FOLGEN"),
         .descriptions = sDesc_LargeFollower,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_AUTORUN] = {
-        .name         = COMPOUND_STRING("AUTORUN"),
+        .name         = COMPOUND_STRING("AUTO LAUFEN"),
         .descriptions = sDesc_Autorun,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_AUTORUN_SURF] = {
-        .name         = COMPOUND_STRING("AUTORUN (SURF)"),
+        .name         = COMPOUND_STRING("AUTO SURFEN"),
         .descriptions = sDesc_AutorunSurf,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FISHING] = {
-        .name         = COMPOUND_STRING("EASIER FISHING"),
+        .name         = COMPOUND_STRING("EINFACH ANGELN"),
         .descriptions = sDesc_Fishing,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FASTER_JOY] = {
-        .name         = COMPOUND_STRING("FASTER JOY"),
+        .name         = COMPOUND_STRING("SCHNELLE JOY"),
         .descriptions = sDesc_FasterJoy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_UNIT_TYPE] = {
-        .name         = COMPOUND_STRING("UNIT SYSTEM"),
+        .name         = COMPOUND_STRING("EINHEITEN"),
         .descriptions = sDesc_UnitType,
         .numChoices   = 2,
         .choiceNames  = sChoices_MetricImperial,
     },
     [ITEM_MAIN_MATCHCALL] = {
-        .name         = COMPOUND_STRING("MATCH CALLS"),
+        .name         = COMPOUND_STRING("ANRUFE"),
         .descriptions = sDesc_MatchCall,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FRAMETYPE] = {
-        .name         = COMPOUND_STRING("FRAME"),
+        .name         = COMPOUND_STRING("RAHMEN"),
         .descriptions = sDesc_FrameType,
         .numChoices   = FRAME_TYPE_SPECIAL,
         .choiceNames  = NULL,
@@ -452,43 +452,43 @@ static const struct OptionMenuItem sTabItems_Main[] = {
 
 static const struct OptionMenuItem sTabItems_Battle[] = {
     [ITEM_BATTLE_FAST_INTRO] = {
-        .name         = COMPOUND_STRING("FAST INTRO"),
+        .name         = COMPOUND_STRING("SCHNELLES INTRO"),
         .descriptions = sDesc_FastIntro,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_FAST_BATTLES] = {
-        .name         = COMPOUND_STRING("FAST BATTLES"),
+        .name         = COMPOUND_STRING("SCHNELLE KÄMPFE"),
         .descriptions = sDesc_FastBattles,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_NEW_BACKGROUNDS] = {
-        .name         = COMPOUND_STRING("BATTLE TERRAIN"),
+        .name         = COMPOUND_STRING("TERRAIN"),
         .descriptions = sDesc_NewBackgrounds,
         .numChoices   = 2,
         .choiceNames  = sChoices_OldModern,
     },
     [ITEM_BATTLE_NEW_BATTLEUI] = {
-        .name         = COMPOUND_STRING("BATTLE UI"),
+        .name         = COMPOUND_STRING("KAMPF UI"),
         .descriptions = sDesc_NewBattleUI,
         .numChoices   = 2,
         .choiceNames  = sChoices_Gen3Gen4,
     },
     [ITEM_BATTLE_BALL_PROMPT] = {
-        .name         = COMPOUND_STRING("BALL PROMPT"),
+        .name         = COMPOUND_STRING("FANG-FENSTER"),
         .descriptions = sDesc_BallPrompt,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_BATTLE_RUN_TYPE] = {
-        .name         = COMPOUND_STRING("QUICK RUN"),
+        .name         = COMPOUND_STRING("FLÜCHTEN"),
         .descriptions = sDesc_RunType,
         .numChoices   = 4,
         .choiceNames  = sChoices_RunType,
     },
     [ITEM_BATTLE_LR_RUN] = {
-        .name         = COMPOUND_STRING("RUN PROMPT"),
+        .name         = COMPOUND_STRING("FLUCHT-ANZEIGE"),
         .descriptions = sDesc_LRRun,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -497,25 +497,25 @@ static const struct OptionMenuItem sTabItems_Battle[] = {
 
 static const struct OptionMenuItem sTabItems_Sound[] = {
     [ITEM_SOUND_SOUND] = {
-        .name         = COMPOUND_STRING("SOUND"),
+        .name         = COMPOUND_STRING("TON"),
         .descriptions = sDesc_Sound,
         .numChoices   = 2,
         .choiceNames  = sChoices_MonoStereo,
     },
     [ITEM_SOUND_MUSIC] = {
-        .name         = COMPOUND_STRING("MUSIC"),
+        .name         = COMPOUND_STRING("MUSIK"),
         .descriptions = sDesc_Music,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_SOUND_BIKE_MUSIC] = {
-        .name         = COMPOUND_STRING("BIKE MUSIC"),
+        .name         = COMPOUND_STRING("FAHRRAD MUSIK"),
         .descriptions = sDesc_BikeMusic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_SOUND_SURF_MUSIC] = {
-        .name         = COMPOUND_STRING("SURF MUSIC"),
+        .name         = COMPOUND_STRING("SURF MUSIK"),
         .descriptions = sDesc_SurfMusic,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -534,9 +534,9 @@ struct TabDef
 };
 
 static const struct TabDef sTabs[TAB_COUNT] = {
-    [TAB_MAIN]   = { COMPOUND_STRING("OPTIONS"),        sTabItems_Main,   ITEM_MAIN_COUNT },
-    [TAB_BATTLE] = { COMPOUND_STRING("BATTLE OPTIONS"), sTabItems_Battle, ITEM_BATTLE_COUNT },
-    [TAB_SOUND]  = { COMPOUND_STRING("SOUND"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
+    [TAB_MAIN]   = { COMPOUND_STRING("OPTIONEN"),        sTabItems_Main,   ITEM_MAIN_COUNT },
+    [TAB_BATTLE] = { COMPOUND_STRING("KAMPFOPTIONEN"), sTabItems_Battle, ITEM_BATTLE_COUNT },
+    [TAB_SOUND]  = { COMPOUND_STRING("TON"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
 };
 
 // =============================================================================
