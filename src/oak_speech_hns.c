@@ -573,7 +573,7 @@ static void Task_NewGameHnsSpeech_SlideInNewGenderSprite(u8 taskId)
 
 static void Task_NewGameHnsSpeech_ChallengeDisclaimer(u8 taskId)
 {
-    static const u8 sText_Disclaimer[] = _("What challenge are you\nexpecting?\p{COLOR RED}The following settings can be changed\nfrom the PC once you start the game.\lHowever, after starting the game, the\lnuzlocke, randomizer, difficulty and\lchallenge settings can only be made\leasier, not harder.");
+    static const u8 sText_Disclaimer[] = _("Was für eine Herausforderung\nerwartest du?\p{COLOR RED}Die folgenden Einstellungen können\nvom PC im Spiel geändert werden.\lAllerdings können nach Spielstart\ldie Nuzlocke, Randomizer, Schwierigkeit\lund Herausforderungen nur leichter\lgemacht werden, nicht schwieriger.");
     NewGameHnsSpeech_ClearWindow(0);
     StringCopy(gStringVar4, sText_Disclaimer);
     AddTextPrinterWithCustomSpeedForMessage(FALSE, 2);

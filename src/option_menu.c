@@ -263,7 +263,7 @@ static const u8 sText_TopBar_Right[] = _("{R_BUTTON}");
 // Descriptions
 // =============================================================================
 
-static const u8 sText_Desc_TextSpeed[] = _("Choose one of the four text-display\nspeeds.");
+static const u8 sText_Desc_TextSpeed[] = _("Wähle die Textgeschwindigkeit.");
 static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
     sText_Desc_TextSpeed,
@@ -271,11 +271,11 @@ static const u8 *const sDesc_TextSpeed[] = {
     sText_Desc_TextSpeed,
 };
 static const u8 *const sDesc_BattleScene[] = {
-    COMPOUND_STRING("Zeige {PKMN} animationen\nund Attacken."),
-    COMPOUND_STRING("Zeige {PKMN} animationen\nund Attacken nicht."),
+    COMPOUND_STRING("Zeige {PKMN} Animationen\nund Attacken."),
+    COMPOUND_STRING("Zeige {PKMN} Animationen\nund Attacken nicht."),
 };
 static const u8 *const sDesc_BattleStyle[] = {
-    COMPOUND_STRING("Option das eigene {PKMN}\nzu wechseln, nachdem Gegner besiegt."),
+    COMPOUND_STRING("Option das eigene {PKMN} zu wechseln,\nnachdem der Gegner besiegt wurde."),
     COMPOUND_STRING("Kein Wechseln des {PKMN}\nnach besiegen des Gegners."),
 };
 static const u8 *const sDesc_ButtonMode[] = {
@@ -304,26 +304,26 @@ static const u8 *const sDesc_Fishing[] = {
     COMPOUND_STRING("Normales Angeln.\nDrücken zum einholen!"),
 };
 static const u8 *const sDesc_FasterJoy[] = {
-    COMPOUND_STRING("Schwester Joy heilt dich schneller"),
+    COMPOUND_STRING("Schwester Joy heilt dich schneller."),
     COMPOUND_STRING("Schwester Joy heilt dich mit\nnormaler Animation."),
 };
 static const u8 *const sDesc_UnitType[] = {
-    COMPOUND_STRING("Zeigt Beeren und {PKMN} gewicht\nund größe in Kilogram und Meter."),
-    COMPOUND_STRING("Ja bist du denn behindert?\nmach das aus du ungetier."),
+    COMPOUND_STRING("Zeigt Gewicht und Größe von{PKMN}\nund Beeren in Kilogram und Meter."),
+    COMPOUND_STRING("Ja bist du denn behindert?\nMach das aus du Ungetier."),
 };
 static const u8 *const sDesc_MatchCall[] = {
-    COMPOUND_STRING("TRAINER können dich anrufen\nund revange verlangen."),
-    COMPOUND_STRING("Keine Anrufe.\nSpezielle Events finden trotzdem statt."),
+    COMPOUND_STRING("TRAINER können dich anrufen\nund Rückkämpfe verlangen."),
+    COMPOUND_STRING("Keine Anrufe. Spezielle\nEvents finden trotzdem statt."),
 };
 static const u8 *const sDesc_FrameType[] = {
     COMPOUND_STRING("Suche dir einen Rahmen für\ndas Fenster aus."),
 };
 static const u8 *const sDesc_FastIntro[] = {
-    COMPOUND_STRING("Überspringe die rutsch-\nAnimation bei kämpfen."),
+    COMPOUND_STRING("Überspringe die Rutsch-\nanimation bei kämpfen."),
     COMPOUND_STRING("Kämpfe laden mit normaler Animation."),
 };
 static const u8 *const sDesc_FastBattles[] = {
-    COMPOUND_STRING("Überspringe alle verzögerungen\nin kämpfen."),
+    COMPOUND_STRING("Überspringe alle Verzögerungen\nin kämpfen."),
     COMPOUND_STRING("Manuelles überspringen. Du kannst\nA oder B drücken."),
 };
 static const u8 *const sDesc_NewBackgrounds[] = {
@@ -340,7 +340,7 @@ static const u8 *const sDesc_BallPrompt[] = {
 };
 static const u8 *const sDesc_RunType[] = {
     COMPOUND_STRING("Kein schnelles flüchten."),
-    COMPOUND_STRING("Halte {L_BUTTON}+{R_BUTTON}, dann {A_BUTTON} um von\nkämpfen zu flüchten."),
+    COMPOUND_STRING("Halte {L_BUTTON}+{R_BUTTON}, dann {A_BUTTON} um von\nkämpfen zu fliehen."),
     COMPOUND_STRING("Drücke {B_BUTTON} um die Option Flüchten\ndirekt ausgewählt zu haben."),
     COMPOUND_STRING("Drücke {B_BUTTON} um von kämpfen zu flüchten\nbevor sie angefangen haben."),
 };
@@ -686,7 +686,7 @@ static void DrawFrameTypeChoice(u8 selection, int y, bool8 active)
     u8 n = selection + 1;
     u8 i = 0;
 
-    static const u8 sFrameTypePrefix[] = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}TYPE");
+    static const u8 sFrameTypePrefix[] = _("{COLOR GREEN}{SHADOW LIGHT_GREEN}TYP");
 
     for (i = 0; sFrameTypePrefix[i] != EOS && i < 10; i++)
         text[i] = sFrameTypePrefix[i];
@@ -703,7 +703,7 @@ static void DrawFrameTypeChoice(u8 selection, int y, bool8 active)
     }
     text[i] = EOS;
 
-    DrawRightSideChoiceText(COMPOUND_STRING("TYPE"), 104, y + 1, FALSE, active);
+    DrawRightSideChoiceText(COMPOUND_STRING("TYP"), 104, y + 1, FALSE, active);
     DrawRightSideChoiceText(text, 128, y + 1, TRUE, active);
 }
 

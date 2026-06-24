@@ -2240,6 +2240,17 @@ MatchCall_Text_Mom3::
 	.string "Nimm deine TURBOTRETER und lauf,\n"
 	.string "bis sie auseinander fallen.$"
 
+MatchCall_Text_Baoba1::
+	.string "BAOBA: {PLAYER}!\n"
+	.string "Die SAFARI ZONE ist fast fertig!\p"
+	.string "Ich rufe dich an, wenn wir\n"
+	.string "wieder eröffnen!$"
+
+MatchCall_Text_Baoba2::
+	.string "BAOBA: {PLAYER}!\n"
+	.string "Die SAFARI ZONE ist eröffnet!\p"
+	.string "Komm jederzeit vorbei!$"
+
 MatchCall_Text_Roxanne1::
 	.string "FELIZIA: Oh, hallo {PLAYER}!\p"
 	.string "Seitdem wir uns gesehen haben,\n"
