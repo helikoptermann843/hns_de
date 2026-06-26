@@ -84,6 +84,12 @@ const u32 gBattleEnvironmentTilemap_RockSnow[] = INCBIN_U32("graphics/battle_env
 const u32 gBattleEnvironmentAnimTiles_RockSnow[] = INCBIN_U32("graphics/battle_environment/rock_snow/anim_tiles.4bpp.smol");
 const u32 gBattleEnvironmentAnimTilemap_RockSnow[] = INCBIN_U32("graphics/battle_environment/rock_snow/anim_map.bin.smolTM");
 
+const u32 gBattleEnvironmentTiles_MountainSnow[] = INCBIN_U32("graphics/battle_environment/mountain_snow/tiles.4bpp.smol");
+const u16 gBattleEnvironmentPalette_MountainSnow[] = INCBIN_U16("graphics/battle_environment/mountain_snow/palette.gbapal");
+const u32 gBattleEnvironmentTilemap_MountainSnow[] = INCBIN_U32("graphics/battle_environment/mountain_snow/map.bin.smolTM");
+const u32 gBattleEnvironmentAnimTiles_MountainSnow[] = INCBIN_U32("graphics/battle_environment/mountain_snow/anim_tiles.4bpp.smol");
+const u32 gBattleEnvironmentAnimTilemap_MountainSnow[] = INCBIN_U32("graphics/battle_environment/mountain_snow/anim_map.bin.smolTM");
+
 const u32 gBattleEnvironmentAnimTiles_Cave[] = INCBIN_U32("graphics/battle_environment/cave/anim_tiles.4bpp.smol");
 const u32 gBattleEnvironmentAnimTilemap_Cave[] = INCBIN_U32("graphics/battle_environment/cave/anim_map.bin.smolTM");
 
@@ -188,6 +194,8 @@ const u16 gBattleEnvironmentPalette_RockModernMorning[] = INCBIN_U16("graphics/b
 const u16 gBattleEnvironmentPalette_RockModernNight[] = INCBIN_U16("graphics/battle_environment/rock_modern/palette_night.gbapal");
 const u16 gBattleEnvironmentPalette_RockSnowModernMorning[] = INCBIN_U16("graphics/battle_environment/rock_snow_modern/palette_morning.gbapal");
 const u16 gBattleEnvironmentPalette_RockSnowModernNight[] = INCBIN_U16("graphics/battle_environment/rock_snow_modern/palette_night.gbapal");
+const u16 gBattleEnvironmentPalette_MountainSnowModernMorning[] = INCBIN_U16("graphics/battle_environment/mountain_snow_modern/palette_morning.gbapal");
+const u16 gBattleEnvironmentPalette_MountainSnowModernNight[] = INCBIN_U16("graphics/battle_environment/mountain_snow_modern/palette_night.gbapal");
 const u16 gBattleEnvironmentPalette_PlainModernNight[] = INCBIN_U16("graphics/battle_environment/plain_modern/palette_night.gbapal");
 const u16 gBattleEnvironmentPalette_SkyModernNight[] = INCBIN_U16("graphics/battle_environment/sky_modern/palette_night.gbapal");
 
@@ -217,6 +225,12 @@ const u16 gBattleEnvironmentPalette_RockSnowModern[] = INCBIN_U16("graphics/batt
 const u32 gBattleEnvironmentTilemap_RockSnowModern[] = INCBIN_U32("graphics/battle_environment/rock_snow_modern/map.bin.smolTM");
 const u32 gBattleEnvironmentAnimTiles_RockSnowModern[] = INCBIN_U32("graphics/battle_environment/rock_snow_modern/anim_tiles.4bpp.smol");
 const u32 gBattleEnvironmentAnimTilemap_RockSnowModern[] = INCBIN_U32("graphics/battle_environment/rock_snow_modern/anim_map.bin.smolTM");
+
+const u32 gBattleEnvironmentTiles_MountainSnowModern[] = INCBIN_U32("graphics/battle_environment/mountain_snow_modern/tiles.4bpp.smol");
+const u16 gBattleEnvironmentPalette_MountainSnowModern[] = INCBIN_U16("graphics/battle_environment/mountain_snow_modern/palette.gbapal");
+const u32 gBattleEnvironmentTilemap_MountainSnowModern[] = INCBIN_U32("graphics/battle_environment/mountain_snow_modern/map.bin.smolTM");
+const u32 gBattleEnvironmentAnimTiles_MountainSnowModern[] = INCBIN_U32("graphics/battle_environment/mountain_snow_modern/anim_tiles.4bpp.smol");
+const u32 gBattleEnvironmentAnimTilemap_MountainSnowModern[] = INCBIN_U32("graphics/battle_environment/mountain_snow_modern/anim_map.bin.smolTM");
 
 const u32 gBattleEnvironmentAnimTiles_CaveModern[] = INCBIN_U32("graphics/battle_environment/cave_modern/anim_tiles.4bpp.smol");
 const u32 gBattleEnvironmentAnimTilemap_CaveModern[] = INCBIN_U32("graphics/battle_environment/cave_modern/anim_map.bin.smolTM");
