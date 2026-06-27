@@ -57,8 +57,8 @@ LittlerootTown_MaysHouse_2F_EventScript_WallClock::
 	end
 
 PlayersHouse_2F_Text_ClockChange:
-	.string "Press the R Button to set the\n"
-	.string "clock when looking at the time.$"
+	.string "Drücke R um die Zeit zu setzen,\n"
+	.string "während du auf die Uhr schaust.$"
 
 PlayersHouse_2F_EventScript_WallClock::
 	goto_if_set FLAG_SET_WALL_CLOCK, PlayersHouse_2F_EventScript_CheckWallClock
@@ -366,8 +366,8 @@ PlayersHouse_1F_EventScript_MomHealsParty_PokecenterChallenge::
 	end
 
 PlayersHouse_1F_Text_YouShouldRestABit_PokecenterChallenge:
-	.string "MOM: Sorry honey, you are playing\n"
-	.string "with the POKéCENTER challenge!$"
+	.string "MUTTI: Tut mir leid, Schatz,\n"
+	.string "du spielst mit POKéCENTER challenge!$"
 
 PlayersHouse_1F_EventScript_SeeYouHoney::
 	msgbox PlayersHouse_1F_Text_SeeYouHoney, MSGBOX_DEFAULT

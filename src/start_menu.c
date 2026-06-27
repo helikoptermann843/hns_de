@@ -496,15 +496,15 @@ static void ShowPyramidFloorWindow(void)
 
 #define CLOCK_WINDOW_WIDTH 104
 
-static const u8 sText_Saturday[] = _("Saturday,");
-static const u8 sText_Sunday[] = _("Sunday,");
-static const u8 sText_Monday[] = _("Monday,");
-static const u8 sText_Tuesday[] = _("Tuesday,");
-static const u8 sText_Wednesday[] = _("Wednesday,");
-static const u8 sText_Thursday[] = _("Thursday,");
-static const u8 sText_Friday[] = _("Friday,");
-static const u8 sText_AM[] = _("AM");
-static const u8 sText_PM[] = _("PM");
+static const u8 sText_Saturday[] = _("Samstag,");
+static const u8 sText_Sunday[] = _("Sonntag,");
+static const u8 sText_Monday[] = _("Montag,");
+static const u8 sText_Tuesday[] = _("Dienstag,");
+static const u8 sText_Wednesday[] = _("Mittwoch,");
+static const u8 sText_Thursday[] = _("Donnerstag,");
+static const u8 sText_Friday[] = _("Freitag,");
+static const u8 sText_AM[] = _(" ");
+static const u8 sText_PM[] = _(" ");
 
 static const u8 *const sDayNameStringsTable[7] = {
     sText_Saturday,

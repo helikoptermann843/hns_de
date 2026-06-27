@@ -551,9 +551,9 @@ const u8 gText_MenuOptionPokedex[] = _("POKéDEX");
 const u8 gText_MenuOptionPokemon[] = _("POKéMON");
 const u8 gText_MenuOptionBag[] = _("BEUTEL");
 #if IS_HNS
-const u8 gText_MenuOptionPokenav[] = _("POKéNAV");
+const u8 gText_MenuOptionPokenav[] = _("POKéCOM");
 #else
-const u8 gText_MenuOptionPokenav[] = _("POKéNAV");
+const u8 gText_MenuOptionPokenav[] = _("POKéCOM");
 #endif
 const u8 gText_Blank[] = _("");
 const u8 gText_MenuOptionSave[] = _("SICHERN");
@@ -1021,7 +1021,7 @@ const u8 gText_MenuPokedex[] = _("POKéDEX");
 const u8 gText_MenuPokemon[] = _("POKéMON");
 const u8 gText_MenuBag[] = _("BEUTEL");
 #if IS_HNS
-const u8 gText_MenuPokenav[] = _("{POKE}GEAR");
+const u8 gText_MenuPokenav[] = _("{POKE}COM");
 #else
 const u8 gText_MenuPokenav[] = _("POKéNAV");
 #endif

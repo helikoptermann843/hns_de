@@ -327,11 +327,11 @@ static const u8 *const sPageDescriptions[] =
     [POKENAV_MENUITEM_RIBBONS]                 = COMPOUND_STRING("Siehe deine Auszeichnungen."),
 #if IS_HNS
     [POKENAV_MENUITEM_RADIO]                   = COMPOUND_STRING("Höre Radio."),
-    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéNAV weglegen."),
+    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéCOM weglegen."),
     [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum POKéNAV Menü."),
 #else
-    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéNAV weglegen."),
-    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum POKéNAV Menü."),
+    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéCOM weglegen."),
+    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum POKéCOM Menü."),
 #endif
     [POKENAV_MENUITEM_CONDITION_PARTY]         = COMPOUND_STRING("Untersuche POKéMON im Detail."),
     [POKENAV_MENUITEM_CONDITION_SEARCH]        = COMPOUND_STRING("Untersuche alle POKéMON im detail."),
