@@ -247,7 +247,7 @@ Route36_Text_SudowoodoAttacked:
 Route36_Text_RockSmashGuy1:
 	.string "Wat is los!\p"
 	.string "Ich wollte diesen Baum mit\n"
-	.string "einem Geraden Schlag fällen.\p"
+	.string "einem geraden Schlag fällen.\p"
 	.string "Aber es ging nicht!\n"
 	.string "Ich bin ein Versager!$"
 
