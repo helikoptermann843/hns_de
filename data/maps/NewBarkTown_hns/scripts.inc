@@ -217,9 +217,8 @@ NewBarkTown_Movement_FaceDown:
 	step_end
 
 NewBarkTown_Text_LabSign:
-	.string "NEUBORKIA\p"
-	.string "Die Stadt, in der\n"
-	.string "der Wind der Erneuerung weht$"
+	.string "PROF. LINDs\n"
+	.string "POKéMON LABOR$"
 
 NewBarkTown_Text_Door:
 	.string "Die Tür ist verschlossen.$"
