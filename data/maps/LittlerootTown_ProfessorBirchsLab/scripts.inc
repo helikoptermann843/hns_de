@@ -806,7 +806,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls:
 	.string "versuche ich natürlich, es zu fangen.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
-	.string "Hey, dein Beutel ist voll.$"
+	.string "Hey, dein BEUTEL ist voll.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
 	.string "BRIX: Und wo soll ich jetzt mal nach\n"
@@ -819,11 +819,11 @@ LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine:
 
 LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch:
 	.string "Ein PC, der in der Forschung\n"
-	.string "eingesetzt wird.\l"
-	.string "Besser nicht damit spielen!$"
+	.string "eingesetzt\l"
+	.string "wird. Besser nicht damit spielen!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon:
-	.string "Vollgestopft mit Büchern über POKéMON.$"
+	.string "Es ist voll mit Büchern über POKéMON.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BookTooHardToRead:
 	.string "Dieses Buch ist viel zu kompliziert…$"
@@ -948,8 +948,8 @@ LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon:
 	.string "You picked a fine POKéMON!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter:
-	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from PROF. BIRCH!$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_1} von PROF. BIRK!$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_NicknameJohtoStarter:
@@ -957,60 +957,63 @@ LittlerootTown_ProfessorBirchsLab_Text_NicknameJohtoStarter:
 	.string "the {STR_VAR_1} you received?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting:
-	.string "PROF. BIRCH: Listen, {PLAYER}{KUN}.\n"
-	.string "You've completed the HOENN POKéDEX,\l"
-	.string "but your POKéMON journey isn't over.\p"
-	.string "There is no end to the road\n"
-	.string "that is POKéMON.\p"
-	.string "Somewhere, there is a grassy patch\n"
-	.string "that's waiting for you!$"
+	.string "PROF. BIRK: Vergiss nicht! Dein\n"
+	.string "HOENN-POKéDEX ist vollständig.\p"
+	.string "Die Straße namens POKéMON findet\n"
+	.string "niemals ein Ende.\p"
+	.string "Irgendwo gibt es hohes Gras, das auf\n"
+	.string "dich wartet.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone:
-	.string "You received the promised POKéMON.\n"
-	.string "Better leave the others alone.$"
+	.string "Du hast das POKéMON erhalten.\n"
+	.string "Lass die anderen lieber in Ruhe.$"
 
 @ Unused
 LittlerootTown_ProfessorBirchsLab_Text_DontHaveAnyRoomForPokemon:
-	.string "Oh, you don't have any room for\n"
+	.string "Oh, you don’t have any room for\n"
 	.string "this POKéMON.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhatNextImStayingHere:
-	.string "MAY: {PLAYER}{KUN}, after this…\n"
-	.string "What are you going to do?\p"
-	.string "Are you going to keep battling\n"
-	.string "and sharpening your skills?\p"
-	.string "Or are you going to try filling\n"
-	.string "the NATIONAL POKéDEX?\p"
-	.string "I'm staying here to help the PROF.$"
+	.string "MAIKE: {PLAYER}{KUN}, jetzt…\n"
+	.string "Was wirst du jetzt tun?\p"
+	.string "Wirst du weiter in Kämpfen antreten\n"
+	.string "und deine Fähigkeiten verbessern?\p"
+	.string "Oder versuchst du, den NATIONALEN\n"
+	.string "POKéDEX vollständig zu bekommen?\p"
+	.string "Ich werde hier bleiben und dem PROF\n"
+	.string "helfen.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly:
-	.string "BRENDAN: Rather than collecting\n"
-	.string "POKéMON, I prefer slowly and \l"
-	.string "steadily raising the one I chose.$"
+	.string "BRIX: Statt nur POKéMON zu sammeln,\n"
+	.string "konzentriere ich mich lieber auf das\l"
+	.string "Aufziehen eines bestimmten POKéMON.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier:
-	.string "MAY: Oh, hi, {PLAYER}{KUN}!\n"
-	.string "Have you gone to that place,\l"
-	.string "the BATTLE FRONTIER?$"
+	.string "MAIKE: Oh, hi {PLAYER}{KUN}!\n"
+	.string "Hast du schon die KAMPFZONE\l"
+	.string "besucht?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier:
-	.string "BRENDAN: Hey, {PLAYER}!\n"
-	.string "Have you gone out to that place,\l"
-	.string "the BATTLE FRONTIER?$"
+	.string "BRIX: Hey, {PLAYER}!\n"
+	.string "Hast du schon die KAMPFZONE\l"
+	.string "besucht?$"
 
 LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall:
-	.string "… … … … … …\n"
-	.string "… … … … … Beep!\p"
-	.string "SCOTT: Hi, hi, {PLAYER}!\n"
-	.string "It's me, SCOTT.\p"
-	.string "I'm aboard the S.S. TIDAL now.\n"
-	.string "It feels great to be on the sea!\p"
-	.string "By the way…\p"
-	.string "There's this place that I'd like to\n"
-	.string "invite you to for a visit.\p"
-	.string "If you're interested, board a ferry\n"
-	.string "at either SLATEPORT or LILYCOVE.\p"
-	.string "I'll fill you in on the details when\n"
-	.string "we meet. I'll be waiting!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … Click!$"
+	.string "… … … … …\n"
+	.string "…\l"
+	.string "… … … … …Piep!\p"
+	.string "SCOTT: Hallo {PLAYER}!\n"
+	.string "Ich bin’s, SCOTT.\p"
+	.string "Ich bin auf der MS TIDE. Auf See zu\n"
+	.string "sein ist einfach großartig!\p"
+	.string "Übrigens…\p"
+	.string "Ich würde dich gerne an einen\n"
+	.string "bestimmten Ort einladen.\p"
+	.string "Wenn du interessiert bist, dann\n"
+	.string "nimm entweder in GRAPHITPORT oder\l"
+	.string "SEEGRASULB die Fähre.\p"
+	.string "Alles Weitere besprechen wir, wenn\n"
+	.string "wir uns an Bord treffen. Bis dann!\p"
+	.string "… … … … …\n"
+	.string "…\l"
+	.string "… … … … …Klick!$"

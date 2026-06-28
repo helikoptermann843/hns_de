@@ -277,18 +277,18 @@ BattleFrontier_BattleTowerMultiPartnerRoom_EventScript_Partner8::
 	end
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner:
-	.string "Please find a partner from out of\n"
-	.string "the TRAINERS gathered here.$"
+	.string "Bitte such dir unter den TRAINERn hier\n"
+	.string "einen Partner aus.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner:
-	.string "{PLAYER}, you have not found a partner\n"
-	.string "for your tag team.\p"
-	.string "Would you like to quit looking and\n"
-	.string "return to the reception counter?$"
+	.string "{PLAYER}, du hast noch keinen Partner\n"
+	.string "gefunden.\p"
+	.string "Möchtest du die Suche aufgeben und\n"
+	.string "zurück zur Rezeption gehen?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2:
-	.string "Then, please find a partner from\n"
-	.string "the TRAINERS gathered here.$"
+	.string "Dann such dir bitte unter den TRAINERn\n"
+	.string "hier einen Partner aus.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner::
 	.string "Thank you for choosing a partner.\p"

@@ -35,37 +35,37 @@ Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "Nicht viele TRAINER haben es bis\n"
+	.string "hierher geschafft.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+	.string "Das bedeutet, dass du sehr stark bist…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Du hast den CHAMP der POKéMON LIGA\n"
+	.string "besiegt? Das ist zu viel für mich!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Sieh es als Glücksfall an, dass du\n"
+	.string "gegen mich antreten darfst.$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "Das ist nicht korrekt!\n"
+	.string "Ich darf nicht verlieren!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Nur ein Wunder hat dir zu diesem Sieg\n"
+	.string "verholfen. Prahl doch damit…$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "Du schleichst hier auch durch das\n"
+	.string "RÄTSELHAUS?$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Ich verstehe…\n"
+	.string "Du hast einen außergewöhnlichen Stil.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "Dein Anblick wird den RÄTSELMEISTER\n"
+	.string "bestimmt erfreuen.$"
 

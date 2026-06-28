@@ -67,40 +67,41 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Äh… Oh, ja. Ich bin der\n"
+	.string "ATTACKEN-VERLERNER. \p"
+	.string "Ich sorge dafür, dass die POKéMON ihre\n"
+	.string "Attacken vergessen.\p"
+	.string "Möchtest du, dass ich dir helfe?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "Welches POKéMON soll eine Attacke\n"
+	.string "vergessen?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Welche Attacke soll vergessen werden?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1} kennt scheinbar nur eine\n"
+	.string "einzige Attacke…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Hm! {STR_VAR_2} von {STR_VAR_1}?\n"
+	.string "Diese Attacke soll vergessen werden?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Das klappte doch perfekt!\p"
+	.string "{STR_VAR_1} hat {STR_VAR_2}\n"
+	.string "komplett vergessen.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Komm wieder, wenn es andere Attacken\n"
+	.string "gibt, die vergessen werden sollen.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Was? Ein EI kennt doch keine Attacken!$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "Dein {STR_VAR_1} möchte SURFER nicht\n"
+	.string "vergessen.$"
 

@@ -22,54 +22,55 @@ MagmaHideout_2F_1R_EventScript_Grunt5::
 	end
 
 MagmaHideout_2F_1R_Text_Grunt14Intro:
-	.string "What, what, what?\p"
-	.string "Only TEAM MAGMA members are supposed\n"
-	.string "to be in here!\p"
-	.string "But you're not dressed in TEAM MAGMA's\n"
-	.string "uniform…\p"
-	.string "You rouse my suspicion!\n"
-	.string "Battle with me!$"
+	.string "Was, wie, wer?\p"
+	.string "Nur Mitglieder von TEAM MAGMA dürfen\n"
+	.string "hier sein.\p"
+	.string "Aber du hast keine Uniform von TEAM\n"
+	.string "MAGMA an…\p"
+	.string "Das erregt Verdacht!\n"
+	.string "Kämpf mit mir!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
 	.string "Aiyiyi…\n"
-	.string "My pride as a TEAM MAGMA member…$"
+	.string "Mein Stolz als Mitglied von TEAM\l"
+	.string "MAGMA…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
-	.string "If you suffer from chills, you should\n"
-	.string "join TEAM MAGMA.$"
+	.string "Wenn du an Schüttelfrost leidest,\n"
+	.string "solltest du TEAM MAGMA beitreten.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
-	.string "Hold it right there!\p"
-	.string "You don't really expect me to keep\n"
-	.string "my trap shut and let you waltz by me?$"
+	.string "Stopp!\p"
+	.string "Du erwartest doch nicht ernsthaft,\n"
+	.string "dass ich dich einfach so vorbeigehen\l"
+	.string "lasse?!?$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
 	.string "Ooh wow!\n"
-	.string "I concede!$"
+	.string "Ich gebe mich geschlagen!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
-	.string "Maybe it would've been better if I did\n"
-	.string "just let you go unchallenged…$"
+	.string "Es wäre vielleicht doch besser\n"
+	.string "gewesen, dich nicht herauszufordern…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:
-	.string "Ahah!\n"
-	.string "An intruder!$"
+	.string "Ahah! Ein Eindringling!$"
 
 MagmaHideout_2F_1R_Text_Grunt4Defeat:
-	.string "Graaah!$"
+	.string "Graah!$"
 
 MagmaHideout_2F_1R_Text_Grunt4PostBattle:
-	.string "I've already lost.\p"
-	.string "Do I really need to keep running\n"
-	.string "around in a circle?$"
+	.string "Ich habe doch schon verloren!\p"
+	.string "Musst du unbedingt im Kreis\n"
+	.string "herumlaufen?$"
 
 MagmaHideout_2F_1R_Text_Grunt5Intro:
-	.string "Oh, oh!\n"
-	.string "An intruder!$"
+	.string "Oh oh!\n"
+	.string "Ein Eindringling!$"
 
 MagmaHideout_2F_1R_Text_Grunt5Defeat:
-	.string "Mutter…$"
+	.string "Murmel…$"
 
 MagmaHideout_2F_1R_Text_Grunt5PostBattle:
-	.string "Actually, I'm no expert at battling…$"
+	.string "Eigentlich bin ich kein Kampf-Experte…$"
 

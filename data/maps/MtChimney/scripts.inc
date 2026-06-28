@@ -542,312 +542,343 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "The power contained in the METEORITE…\p"
-	.string "By amplifying its power with this\n"
-	.string "machine, MT. CHIMNEY's volcanic\l"
-	.string "activity will instantly intensify…\p"
-	.string "Its energy will grow deep inside\n"
-	.string "the crater and…\l"
-	.string "Fufufu…$"
+	.string "Die Kraft, die in dem METEORITen\n"
+	.string "steckt…\p"
+	.string "Wenn man die mit dieser Maschine\n"
+	.string "verstärkt, würde die Aktivität des\l"
+	.string "SCHLOTBERGs enorm verstärkt…\p"
+	.string "Die Energie wird tief im Krater\n"
+	.string "ansteigen und…\l"
+	.string "Hähähähä…$"
 
 MtChimney_Text_MaxieIntro:
-	.string "MAXIE: Hm?\n"
-	.string "Who are you?\p"
+	.string "MARC: Hm?\n"
+	.string "Wer bist du denn?!?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "I'd heard ARCHIE bemoaning a child\n"
-	.string "who's been meddling in TEAM AQUA's\l"
-	.string "affairs.\p"
-	.string "It must be you he meant.\p"
-	.string "Humph! So you're thinking of\n"
-	.string "interfering with us, TEAM MAGMA?\p"
-	.string "Now you listen.\n"
-	.string "Long ago, living things used the\l"
-	.string "land to live and grow.\p"
-	.string "That is why land is all important!\n"
-	.string "It is the cradle of all!\p"
-	.string "That is why TEAM MAGMA is dedicated\n"
-	.string "to the expansion of the land mass.\p"
-	.string "It is for further advancement of\n"
-	.string "humankind and POKéMON!\p"
-	.string "And for that, we need the power of\n"
-	.string "what sleeps within this mountain…\p"
-	.string "Oh! There was no need for you to\n"
-	.string "learn that much.\p"
-	.string "But, no matter!\n"
-	.string "I'll teach you the consequences of\l"
-	.string "meddling in our grand design!$"
+	.string "ADRIAN hat sich über ein Kind beklagt,\n"
+	.string "das sich in die Angelegenheiten von\l"
+	.string "TEAM AQUA einmischt.\p"
+	.string "Dieses Kind musst du sein.\p"
+	.string "Hmpf! Und du glaubst, du kannst dich\n"
+	.string "auch in unsere, TEAM MAGMAs\l"
+	.string "Angelegenheiten einmischen?\p"
+	.string "Hör gut zu. Schon lange Zeit nutzen\n"
+	.string "die Lebewesen das Land, um zu\l"
+	.string "wachsen und zu gedeihen.\p"
+	.string "Daher ist das Land wichtiger als alles\n"
+	.string "andere! Es ist die Wiege allen Lebens.\n"
+	.string "\p"
+	.string "Daher widmet sich TEAM MAGMA der Auf-\n"
+	.string "gabe, die Landmassen zu vergrößern.\p"
+	.string "So entsteht mehr Raum für Menschen\n"
+	.string "und POKéMON.\p"
+	.string "Für unsere Pläne brauchen wir das, was\n"
+	.string "im Inneren dieses Berges schläft…\p"
+	.string "Nun, mehr brauchst du nicht zu wissen.\n"
+	.string "\p"
+	.string "Ich kann einem sturen Kind wie dir\l"
+	.string "nicht\n"
+	.string "erlauben, sich uns in den Weg zu\p"
+	.string "stellen. \p"
+	.string "Ich werde dir zeigen, was\n"
+	.string "passiert, wenn du uns aufhalten\l"
+	.string "willst!$"
 
 MtChimney_Text_MaxieDefeat:
-	.string "What?!\p"
-	.string "I, MAXIE, was caught off guard?!$"
+	.string "Wie bitte?!?\p"
+	.string "Ich, MARC, wurde ganz hinterhältig\n"
+	.string "besiegt?!?$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: But, enough.\n"
-	.string "I will back off this time.\p"
-	.string "But don't think that this is the last\n"
-	.string "you've seen of TEAM MAGMA.\p"
-	.string "Fufufu…\p"
-	.string "Even without the METEORITE, if we\n"
-	.string "obtain that ORB… Fufufu…$"
+	.string "MARC: Genug.\n"
+	.string "Ich ziehe mich für den Moment zurück.\n"
+	.string "\p"
+	.string "Aber das ist nicht das letzte Mal,\n"
+	.string "dass\n"
+	.string "du TEAM MAGMA zu Gesicht bekommen\l"
+	.string "hast.\p"
+	.string "Hähähä…\p"
+	.string "Auch ohne METEORIT… Wenn wir erst die\n"
+	.string "KUGEL haben… Hähähähä…$"
 
 MtChimney_Text_TabithaIntro:
-	.string "Hehehe!\p"
-	.string "So you've come all the way here!\p"
-	.string "But you're too late!\n"
-	.string "I've already delivered the METEORITE\l"
-	.string "from METEOR FALLS to the BOSS!$"
+	.string "Hahahahaha!\p"
+	.string "Da bist du also den weiten Weg hier\n"
+	.string "hoch gelatscht.\p"
+	.string "Tja, du kommst leider zu spät. Ich\n"
+	.string "habe den METEORITen aus METEORFÄLLE\l"
+	.string "bereits bei meinem BOSS abgeliefert!$"
 
 MtChimney_Text_TabithaDefeat:
-	.string "Hehehe…\p"
-	.string "Even though I've lost, if our leader\n"
-	.string "awakens that thing…$"
+	.string "Hähähä…\p"
+	.string "Auch wenn ich verloren habe… Sobald\n"
+	.string "unser Boss das Ding zum Leben erweckt…$"
 
 MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, hurry!\n"
-	.string "Give it the METEORITE's energy!\p"
-	.string "Hehehe…$"
+	.string "BOSS, beeil dich!\n"
+	.string "Gib ihm die Energie des METEORITen!\p"
+	.string "Hähähä…$"
 
 MtChimney_Text_Grunt2Intro:
-	.string "We of TEAM MAGMA are working hard for\n"
-	.string "everyone's sake.\p"
-	.string "Like, if that thing's power made more\n"
-	.string "land, there'd be more places to live.\p"
-	.string "Everyone'd be happy!$"
+	.string "Wir von TEAM MAGMA setzen alles daran,\n"
+	.string "zum Wohle aller zu handeln.\p"
+	.string "Und wenn das Ding mehr Land schafft,\n"
+	.string "gibt es auch mehr Platz zum Leben.\p"
+	.string "Und jeder wäre glücklich!$"
 
 MtChimney_Text_Grunt2Defeat:
-	.string "Hunh?\n"
-	.string "What do you mean I lost?$"
+	.string "Bitte?\n"
+	.string "Was sagst du? Ich habe verloren???$"
 
 MtChimney_Text_Grunt2PostBattle:
-	.string "Our BOSS says, “It will make everyone\n"
-	.string "happy.”\p"
-	.string "But why does everyone keep getting\n"
-	.string "in our way?$"
+	.string "Unser BOSS sagt: “Jeder wird glücklich\n"
+	.string "sein.”\p"
+	.string "Aber warum will uns dann jeder\n"
+	.string "aufhalten?$"
 
 MtChimney_Text_Grunt1Intro:
-	.string "If there were more land, I'd be able\n"
-	.string "to get a big house of my own!\p"
-	.string "I'm going to build it on hardened lava!$"
+	.string "Wenn es mehr Land gibt, wäre ich in\n"
+	.string "der\n"
+	.string "Lage, mir ein eigenes großes Haus zu\l"
+	.string "bauen!\p"
+	.string "Das würde ich dann auf der erstarrten\n"
+	.string "Lava bauen!$"
 
 MtChimney_Text_Grunt1Defeat:
-	.string "My dream of a big house…$"
+	.string "Mein Traum von einem großen Haus…$"
 
 MtChimney_Text_Grunt1PostBattle:
-	.string "A kid like you, you ought to be\n"
-	.string "splashing about in the waves!$"
+	.string "Ein Kind wie du sollte sich im Meer\n"
+	.string "vergnügen.$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "That annoying TEAM AQUA…\n"
-	.string "They always mess with our plans!$"
+	.string "Dieses lästige TEAM AQUA… Sie ver-\n"
+	.string "suchen alles, unsere Pläne zu\l"
+	.string "vereiteln.$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITES pack amazing power!$"
+	.string "METEORITen stecken voller Energie.$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
-	.string "You'd better not mess with us!\p"
-	.string "We're trying to awaken that thing\n"
-	.string "for the benefit of everyone!$"
+	.string "Du gehst uns besser aus dem Weg!\p"
+	.string "Wir werden das Ding zum Leben\n"
+	.string "erwecken. Zum Wohle aller.$"
 
 MtChimney_Text_AquasNameSimilar:
-	.string "We're TEAM MAGMA!\p"
-	.string "They're TEAM AQUA!\p"
-	.string "It totally annoys me that they'd\n"
-	.string "use a name like ours!$"
+	.string "Wir sind TEAM MAGMA!\p"
+	.string "Sie sind TEAM AQUA!\p"
+	.string "Ich finde es total bescheuert, dass\n"
+	.string "sie\l"
+	.string "einen Namen haben, der unserem ähnelt.$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Yeah!\n"
-	.string "Douse them in fire!$"
+	.string "Yeah! Taucht sie ins Feuer!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-	.string "We're going to keep making more land!$"
+	.string "Wir werden weiter für mehr Land\n"
+	.string "sorgen!$"
 
 MtChimney_Text_Bufoh:
-	.string "Bufoh!$"
+	.string "Hahoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
-	.string "I should've guessed you'd show up!\p"
-	.string "See for yourself what the fanatics\n"
-	.string "of TEAM MAGMA are up to!\p"
-	.string "They're trying to inject the stolen\n"
-	.string "METEORITE's power into the volcano!\p"
-	.string "Doing something like that will cause\n"
-	.string "the volcano's eruption!$"
+	.string "ADRIAN: Grrr, {PLAYER}!\n"
+	.string "Ich hätte es wissen müssen. War doch\l"
+	.string "klar, dass du hier auftauchst.\p"
+	.string "Schau dir ruhig an, was die Fanatiker\n"
+	.string "von TEAM MAGMA vorhaben!\p"
+	.string "Sie wollen die Kraft des gestohlenen\n"
+	.string "METEORITen in den Vulkan geben!\p"
+	.string "Und das wird den Vulkan zum Ausbruch\n"
+	.string "bringen!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ARCHIE: Grrr…\p"
-	.string "I want to stop that MAXIE,\n"
-	.string "but I can't!\p"
-	.string "Not when I have my hands full battling\n"
-	.string "three opponents at once!$"
+	.string "ADRIAN: Grrr…\p"
+	.string "Ich möchte MARC aufhalten, aber ich\n"
+	.string "kann es nicht!\p"
+	.string "Nicht, wenn ich mich drei Gegnern\n"
+	.string "gleichzeitig stellen muss.$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "ARCHIE: {PLAYER}!\n"
-	.string "Thank you!\p"
-	.string "With your help, we thwarted TEAM\n"
-	.string "MAGMA's destructive plan!\p"
-	.string "But… You…\n"
-	.string "Whose side are you on?\p"
-	.string "Ah, it doesn't matter.\p"
-	.string "We will remain vigilant and keep up\n"
-	.string "our pursuit of TEAM MAGMA.\p"
-	.string "{PLAYER}, we shall meet again!$"
+	.string "ADRIAN: {PLAYER}!\n"
+	.string "Danke!\p"
+	.string "Mit deiner Hilfe haben wir den\n"
+	.string "zerstörerischen Plan von TEAM MAGMA\l"
+	.string "durchkreuzt!\p"
+	.string "Aber… Du…\n"
+	.string "Auf welcher Seite stehst du?\p"
+	.string "Ach, das ist egal.\p"
+	.string "Wir werden weiter unsere Augen\n"
+	.string "aufhalten und TEAM MAGMA beobachten.\p"
+	.string "{PLAYER}, wir sehen uns bestimmt\n"
+	.string "wieder!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Darn… TEAM MAGMA outnumbers us!\n"
-	.string "We can't keep up with them!$"
+	.string "Mist… TEAM MAGMA ist uns zahlenmäßig\n"
+	.string "überlegen! Wir können es nicht mit\n"
+	.string "ihnen\l"
+	.string "aufnehmen!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "If they expand the land, there'll be\n"
-	.string "less habitats for WATER POKéMON!$"
+	.string "Wenn sie die Landmassen vergrößern,\n"
+	.string "gibt es weniger Lebensraum für\l"
+	.string "WASSER-POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
-	.string "We're TEAM AQUA!\p"
-	.string "They're TEAM MAGMA!\p"
-	.string "It burns me up that they'd use such\n"
-	.string "a confusing name!$"
+	.string "Wir sind TEAM AQUA!\p"
+	.string "Sie sind TEAM MAGMA!\p"
+	.string "Ich koche über vor Wut, weil sie so\n"
+	.string "einen verwirrenden Namen verwenden.$"
 
 MtChimney_Text_Bushaa:
 	.string "Bushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES are MT. CHIMNEY's local\n"
-	.string "specialty.\p"
-	.string "Try one. It's just ¥200.$"
+	.string "LAVAKEKSE sind die Spezialität am\n"
+	.string "SCHLOTBERG.\p"
+	.string "Nimm einen. Er kostet nur ¥200.$"
 
 MtChimney_Text_ThankYouDear:
-	.string "Thank you, dear!$"
+	.string "Vielen Dank, Herzchen!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Oh, dear. You can't buy a thing if\n"
-	.string "you've not got the money.$"
+	.string "Oh je. Du kannst nichts kaufen, wenn\n"
+	.string "du nicht genug Geld bei dir hast.$"
 
 MtChimney_Text_OhFineThen:
-	.string "Oh, fine then.$"
+	.string "Oh, ist gut.$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "The machine seems to be storing\n"
-	.string "energy in the METEORITE.$"
+	.string "Ein METEORIT steckt in dieser\n"
+	.string "mysteriösen Vorrichtung…\p"
+	.string "Die Maschine scheint den METEORITen\n"
+	.string "mit Energie zu versorgen.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "A METEORITE is fitted on a mysterious\n"
-	.string "machine…\p"
-	.string "Do you want to remove the METEORITE?$"
+	.string "Ein METEORIT steckt in dieser\n"
+	.string "mysteriösen Vorrichtung…\p"
+	.string "Willst du den METEORITen nehmen?$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} removed the METEORITE from\n"
-	.string "the mysterious machine.$"
+	.string "{PLAYER} entfernt den METEORITen aus\n"
+	.string "der mysteriösen Vorrichtung.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
-	.string "{PLAYER} left the METEORITE where\n"
-	.string "it was.$"
+	.string "{PLAYER} fasst den METEORITen nicht\n"
+	.string "an.$"
 
 MtChimney_Text_MachineMakesNoResponse:
-	.string "This mysterious machine…\n"
-	.string "It makes no response whatsoever.$"
+	.string "Diese mysteriöse Vorrichtung…\n"
+	.string "Sie reagiert in keiner Weise.$"
 
 MtChimney_Text_RouteSign:
-	.string "{DOWN_ARROW} JAGGED PATH\n"
-	.string "LAVARIDGE TOWN AHEAD$"
+	.string "{DOWN_ARROW} STEILPASS\n"
+	.string "BAD LAVASTADT GERADEAUS$"
 
 MtChimney_Text_ShelbyIntro:
-	.string "I've been to the hot springs and\n"
-	.string "refreshed my tired bones.\l"
-	.string "Right now I'm feeling strong!$"
+	.string "Ich war bei den Heißen Quellen und\n"
+	.string "habe meine müden Knochen erfrischt.\l"
+	.string "Jetzt fühle ich mich richtig stark!$"
 
 MtChimney_Text_ShelbyDefeat:
-	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.string "Oh, du meine Güte!\n"
+	.string "Wer bist du denn?!?$"
 
 MtChimney_Text_ShelbyPostBattle:
-	.string "Well, well, I've lost. I can't call\n"
-	.string "myself an EXPERT now, can I?$"
+	.string "Nun, ich habe verloren. Ich darf mich\n"
+	.string "nun nicht mehr EXPERTE nennen, oder?$"
 
 MtChimney_Text_ShelbyRegister:
-	.string "Thank you, child. It was fun, as if\n"
-	.string "I were battling my own grandchild.\p"
-	.string "Please, come see me again for\n"
-	.string "a rematch.$"
+	.string "Danke schön, mein Kind. Das hat Spaß\n"
+	.string "gemacht. So, als ob ich gegen mein\l"
+	.string "Enkelkind gekämpft hätte.\p"
+	.string "Komm doch bitte mal wieder vorbei.$"
 
 MtChimney_Text_ShelbyRematchIntro:
-	.string "If you can mesh your heart with those\n"
-	.string "of your POKéMON, why, you should be\l"
-	.string "able to achieve great things.$"
+	.string "Wenn du in deinem Herzen Platz für\n"
+	.string "deine POKéMON hast, dann kannst du\l"
+	.string "auch große Dinge erreichen.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
-	.string "Oh, my goodness.\n"
-	.string "Now, aren't you something!$"
+	.string "Oh, du meine Güte!\n"
+	.string "Wer bist du denn!$"
 
 MtChimney_Text_ShelbyPostRematch:
-	.string "Perhaps your heart has become one\n"
-	.string "with the hearts of your POKéMON.$"
+	.string "Vielleicht schlägt dein Herz im\n"
+	.string "Gleich- klang mit den POKéMON.$"
 
 MtChimney_Text_MelissaIntro:
-	.string "I've got the fire in me, baby.\n"
-	.string "I can't stand it! I have to battle!$"
+	.string "Ich habe Feuer in mir, Baby.\n"
+	.string "Ich halt’s nicht aus! Ich muss\l"
+	.string "kämpfen!$"
 
 MtChimney_Text_MelissaDefeat:
-	.string "Ooh, that was a scorching-hot match!$"
+	.string "Oh, was für ein kochend heißer Kampf!$"
 
 MtChimney_Text_MelissaPostBattle:
-	.string "The heat of MT. CHIMNEY warms\n"
-	.string "me up, baby!$"
+	.string "Die Hitze vom SCHLOTBERG bringt mein\n"
+	.string "Feuer in Gang.$"
 
 MtChimney_Text_SheilaIntro:
-	.string "I've finally made it to MT. CHIMNEY.\n"
-	.string "I want to make my POKéMON battle!$"
+	.string "Endlich bin ich am SCHLOTBERG ange-\n"
+	.string "kommen. Jetzt will ich kämpfen!!!$"
 
 MtChimney_Text_SheilaDefeat:
-	.string "The way you battle…\n"
-	.string "It's like a MT. CHIMNEY eruption!$"
+	.string "Wie du kämpfst…\n"
+	.string "Als würde der SCHLOTBERG ausbrechen!$"
 
 MtChimney_Text_SheilaPostBattle:
-	.string "Like I said, I've finally made it to\n"
-	.string "MT. CHIMNEY. It would be a shame if\l"
-	.string "I only do a little sightseeing…\p"
-	.string "I want to get in some battles and buy\n"
-	.string "COOKIES as souvenirs.$"
+	.string "Wie ich schon sagte, endlich bin ich\n"
+	.string "am\n"
+	.string "SCHLOTBERG. Wäre doch blödsinnig, wenn\l"
+	.string "ich nur zum Sightseeing hier wäre…\p"
+	.string "Ich will ein bisschen kämpfen und\n"
+	.string "KEKSe als Andenken kaufen.$"
 
 MtChimney_Text_ShirleyIntro:
-	.string "Since I bathed in the hot springs,\n"
-	.string "I've been feeling great!\l"
-	.string "I'm sure I'm going to win!$"
+	.string "Seit ich in den Heißen Quellen gebadet\n"
+	.string "habe, fühle ich mich großartig!\l"
+	.string "Ich bin sicher, ich werde gewinnen!$"
 
 MtChimney_Text_ShirleyDefeat:
-	.string "Yowch!\n"
-	.string "I'm getting a chill out of the water.$"
+	.string "Huaah!\n"
+	.string "Außerhalb des Wassers ist es saukalt.$"
 
 MtChimney_Text_ShirleyPostBattle:
-	.string "I'll have to take another dip in the\n"
-	.string "hot springs. Want to join me?\p"
-	.string "Just joking!$"
+	.string "Ich werde mich wieder in die Heiße\n"
+	.string "Quelle setzen. Kommst du mit?\p"
+	.string "Kleiner Scherz am Rande… Hähähä.$"
 
 MtChimney_Text_SawyerIntro:
-	.string "This is one fine mountain! Plenty of\n"
-	.string "hot people around for company!$"
+	.string "Dies ist ein schöner Berg! Hier gibt\n"
+	.string "es\n"
+	.string "viele interessante Leute, die einem\l"
+	.string "Gesellschaft leisten.$"
 
 MtChimney_Text_SawyerDefeat:
-	.string "Oh, you're a real firebrand, too!$"
+	.string "Oh, du bist auch ein richtiger\n"
+	.string "Heißsporn.$"
 
 MtChimney_Text_SawyerPostBattle:
-	.string "I think I need a dip in LAVARIDGE\n"
-	.string "HOT SPRING with the locals!$"
+	.string "Ich glaube, ich tauche mal in den\n"
+	.string "Heißen Quellen von BAD LAVASTADT ab.$"
 
 MtChimney_Text_SawyerRegister:
-	.string "I like little fireballs like you.\n"
-	.string "Let me register you in my POKéNAV.$"
+	.string "Ich mag Hitzköpfe wie dich.\n"
+	.string "Ich trage dich in meinen POKéNAV ein.$"
 
 MtChimney_Text_SawyerRematchIntro:
-	.string "I'm happily surrounded by hot people\n"
-	.string "around these parts. I won't lose!$"
+	.string "Ich freue mich, denn hier gibt es\n"
+	.string "viele hitzköpfige Menschen.\l"
+	.string "Ich verliere mit Sicherheit nicht.$"
 
 MtChimney_Text_SawyerRematchDefeat:
-	.string "Gosh, you're still the same\n"
-	.string "firebrand as before!$"
+	.string "Mist, du hast dich kein bisschen\n"
+	.string "abgekühlt. Immer noch ein Heißsporn.$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Actually, it really is hot here.\n"
-	.string "I'm overdressed for these parts.$"
+	.string "Hier ist es wirklich sehr heiß. Und\n"
+	.string "ich\n"
+	.string "bin absolut zu warm angezogen für\l"
+	.string "diese Gegend.$"

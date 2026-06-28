@@ -69,65 +69,66 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "The BOSS got interested in\n"
-	.string "the research they have going here,\l"
-	.string "so he sent us out.\p"
-	.string "You quit meddling!$"
+	.string "Der BOSS hat Interesse an den \n"
+	.string "Forschungen gezeigt, daher hat er uns\l"
+	.string "hergeschickt.\p"
+	.string "Stör uns gefälligst nicht!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-	.string "Blast it…\n"
-	.string "Blasted by a kid…$"
+	.string "So ein Mist…\n"
+	.string "Besiegt… von einem Kind!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Our BOSS knows everything.\p"
-	.string "But I'm just a GRUNT. What would I know\n"
-	.string "about what he's thinking?$"
+	.string "Unser BOSS weiß alles.\p"
+	.string "Ich bin nur ein RÜPEL. Woher soll ich\n"
+	.string "wissen, was er denkt?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Huh?\n"
-	.string "What's a kid doing here?$"
+	.string "Wie? Was macht denn das Kind hier?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-	.string "Huh?\n"
-	.string "I lost?!$"
+	.string "Wie? Ich habe verloren?!?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
-	.string "Oh, no…\n"
-	.string "I'll catch an earful for losing to a kid…\p"
-	.string "I should just take a nap in the bed…$"
+	.string "Oh. Ich werde mir etwas anhören\l"
+	.string "müssen,\n"
+	.string "weil ich gegen ein Kind verloren habe…\p"
+	.string "\p"
+	.string "Ich muss mich jetzt dringend hinlegen…$"
 
 Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
-	.string "While I was sleeping, everyone went\n"
-	.string "upstairs!$"
+	.string "Als ich schlief, schlich sich jemand\n"
+	.string "nach oben!$"
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
-	.string "Wow, you're really strong!\p"
-	.string "I wish I could be a POKéMON TRAINER\n"
-	.string "like you!$"
+	.string "Wow! Bist du aber stark!\p"
+	.string "Ich wäre auch gerne ein POKéMON-\n"
+	.string "TRAINER wie du!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "The PROFESSOR loves rain.\n"
-	.string "That's a fact.\p"
-	.string "But if it keeps raining, people will be in\n"
-	.string "trouble. That's another fact.\p"
-	.string "And thus, the PROFESSOR is studying\n"
-	.string "if the rain can be put to good use.$"
+	.string "Der PROFESSOR liebt den Regen.\n"
+	.string "Das ist eine Tatsache.\p"
+	.string "Aber wenn es noch lange so regnet,\n"
+	.string "wird das zu Problemen führen. Das ist\l"
+	.string "die andere Seite der Medaille.\p"
+	.string "Und daher erforscht der PROFESSOR,\n"
+	.string "wie man den Regen positiv nutzen kann.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "On the 2nd floor of the INSTITUTE,\n"
-	.string "we study the weather patterns over\l"
-	.string "the HOENN region.\p"
-	.string "We've been noticing temporary and\n"
-	.string "isolated cases of droughts and\l"
-	.string "heavy rain lately…$"
+	.string "Im ersten Stock des INSTITUTs\n"
+	.string "untersuchen wir die Klimaveränderungen\l"
+	.string "in der HOENN-Region.\p"
+	.string "Wir haben dort eine temporäre Dürre\n"
+	.string "und einzelne Fälle von heftigem\l"
+	.string "Niederschlag verzeichnen können.$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Hello!\n"
-	.string "We've been saved by your actions!\p"
-	.string "What I don't understand is what on\n"
-	.string "earth the AQUAS were up to.$"
+	.string "Hallo! Dein beherztes Eingreifen hat\n"
+	.string "uns gerettet!\p"
+	.string "Ich verstehe nur nicht, was die AQUAs\n"
+	.string "von uns wollten…$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "There's a bed…\n"
-	.string "Let's take a rest.$"
+	.string "Da steht ein Bett…\n"
+	.string "Eine Pause wäre willkommen.$"
 

@@ -107,36 +107,38 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, man, is our leader really going\n"
-	.string "to awaken that thing?$"
+	.string "Hey, ob unser Anführer dieses Ding\n"
+	.string "wirklich aufwecken wird?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Sounds like it, yeah. But I heard\n"
-	.string "we need a METEORITE to do it.$"
+	.string "Hört sich so an, ja. Aber wir brauchen\n"
+	.string "einen METEORITen dafür.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Oh, I get it now. That's why the rest\n"
-	.string "of the crew went out to FALLARBOR.$"
+	.string "Ach, jetzt verstehe ich! Deshalb sind\n"
+	.string "die anderen nach LAUBWECHSELFELD\l"
+	.string "gegangen.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
-	.string "You got it. And until they come back,\n"
-	.string "we're not to let anyone pass, right.$"
+	.string "Genau! Und solange sie weg sind, darf\n"
+	.string "hier niemand durch.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Eh, I'd like to get to MAUVILLE, but if\n"
-	.string "I went down these ledges, it'd be no\l"
-	.string "easy matter to get back to LAVARIDGE.$"
+	.string "Ich würde gerne nach MALVENFROH CITY,\n"
+	.string "aber wenn ich diese Stufen hinunter-\p"
+	.string "gehe, komme ich kaum wieder nach\n"
+	.string "BAD LAVASTADT.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "MT. CHIMNEY CABLE CAR\n"
-	.string "“A short walk {UP_ARROW} way!”$"
+	.string "SEILBAHN ZUM SCHLOTBERG\n"
+	.string "“Ein kurzer Weg nach {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
-	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit,\n"
-	.string "please take the CABLE CAR.”$"
+	.string "SCHLOTBERG\p"
+	.string "“BAD LAVASTADT oder den Gipfel\n"
+	.string "erreichen Sie mit der SEILBAHN.”$"
 
 Route112_Text_RouteSignLavaridge:
 	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} LAVARIDGE TOWN$"
+	.string "{LEFT_ARROW} BAD LAVASTADT$"
 

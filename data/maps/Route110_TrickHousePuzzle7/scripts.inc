@@ -322,71 +322,72 @@ Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
 	.string "The lock clicked open!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "Der RÄTSELMEISTER verschwindet immer\n"
+	.string "wie Rauch. Wie macht er das nur?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aiijeeh! Du bist viel zu stark!\n"
+	.string "Wie machst du das nur?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Ich wollte, ich könnte mich auch wie\n"
+	.string "Rauch in Luft auflösen…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "Immer am gleichen Ort herumgeistern…\n"
+	.string "Das bringt Unglück…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Besiegt! Das ist ein schlechtes Omen…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Ich bin nun schon 10 Mal an diesem Ort\n"
+	.string "herumgegeistert. Daher hatte ich Pech!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Ich glaube, der Sieger wird der erste\n"
+	.string "Gewinner an diesem Ort überhaupt sein.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Ah! Dann geh hurtig weiter!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "Ich glaube, du wirst alle Rätsel in\n"
+	.string "diesem RÄTSELHAUS lösen!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Muahahahaha! Endlich!\n"
+	.string "Lass uns gleich loslegen!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Wie kann man nur so lässig gewinnen?$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Hmpf! Ich reg mich nicht auf!\n"
+	.string "ICH REG MICH ÜBERHAUPT NICHT AUF!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Ich habe dein Kommen vorhergesehen!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Also dieses Ende habe ich nicht\n"
+	.string "vorhergesehen.$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Mh… Wir haben uns beide einen\n"
+	.string "verrückten Ort ausgesucht, um uns\p"
+	.string "kennen zu lernen. Da wir zwei\n"
+	.string "Verrückte\l"
+	.string "sind, lass uns unser Bestes geben!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Hier ist es schrecklich eng…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Meine Güte, bist du gut!$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Ich dachte, ich könnte deinen Platz\n"
+	.string "einnehmen, wenn ich dich besiege,\l"
+	.string "aber…$"
 

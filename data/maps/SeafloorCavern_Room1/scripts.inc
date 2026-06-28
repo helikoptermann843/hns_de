@@ -12,25 +12,28 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.string "Wir können hier keine Kinder\n"
+	.string "gebrauchen! Geh nach Hause! Sofort!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Ich will nach Hause zu meiner Mami…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.string "Ich möchte befördert werden, dann kann\n"
+	.string "ich all die RÜPEL herumkommandieren!$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.string "Dieses U-Boot… Es ist sehr eng.\n"
+	.string "Ich habe deshalb überall blaue\l"
+	.string "Flecken.$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "Verlieren verursacht bei mir\n"
+	.string "Muskelkater!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+	.string "Das U-Boot, das wir aufgetrieben\n"
+	.string "haben,\n"
+	.string "ist fürchterlich eng. Brutal eng, sage\l"
+	.string "ich. Man stößt sich überall den Kopf.$"
 

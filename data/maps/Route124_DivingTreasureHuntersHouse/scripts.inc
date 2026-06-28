@@ -284,55 +284,56 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	end
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "I'm the DIVING TREASURE HUNTER!\p"
-	.string "I'm the awesome dude who makes\n"
-	.string "deep-sea dives to gather treasures\l"
-	.string "resting at the bottom.$"
+	.string "Ich bin der SCHATZTAUCHER!\p"
+	.string "Ich bin der Typ, der in der Tiefsee\n"
+	.string "taucht und nach Schätzen am Meeres-\l"
+	.string "grund sucht.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Tell me, have you seen any SHARDS of\n"
-	.string "tools made in ancient times?$"
+	.string "Sag, hast du SCHERBEn antiker\n"
+	.string "Werkzeuge gesehen?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
-	.string "You haven't got any treasures\n"
-	.string "for me…\p"
-	.string "If you see any SHARDS, like the RED\n"
-	.string "SHARD, you've got to trade it with me!$"
+	.string "Du hast keinerlei Schätze für mich…\p"
+	.string "Wenn du Stücke findest, besonders\n"
+	.string "PURPURSTÜCKE, tausche sie mit mir!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Oh, hey! That…\n"
-	.string "That's a SHARD! I'm looking for those!\p"
-	.string "Oh, man, you've got to trade that\n"
-	.string "with me! I'll give you something good!$"
+	.string "Oh, hey! Das… Das ist eine\n"
+	.string "Scherbe! Genau die suche ich!\p"
+	.string "Oh, du musst unbedingt mit mir\n"
+	.string "tauschen! Ich gebe dir etwas\l"
+	.string "Gutes dafür!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
-	.string "What do you want to trade?$"
+	.string "Was möchtest du tauschen?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
-	.string "You'll trade your {STR_VAR_1} for\n"
-	.string "my {STR_VAR_2}, then?$"
+	.string "Du tauschst: {STR_VAR_1} gegen\n"
+	.string "{STR_VAR_2}?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "It's a done deal!\n"
-	.string "Use that wisely!$"
+	.string "Das ist ein guter Tausch!\n"
+	.string "Setze es wohl überlegt ein!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
-	.string "Do you want to trade something else?$"
+	.string "Möchtest du noch etwas tauschen?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Whoops, your BAG's full.\n"
-	.string "Get rid of some items, friend!$"
+	.string "Hups, dein BEUTEL ist voll.\n"
+	.string "Schaffe Platz, mein Freund!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "No? That's a downer.\n"
-	.string "Well, if you change your mind, come back.$"
+	.string "Nein? Das ist niederschmetternd.\n"
+	.string "Wenn du deine Meinung änderst, ich\l"
+	.string "bin hier!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Gesuchtes Item{CLEAR_TO 0x7c}Tausch Item\n"
 	.string "{CLEAR_TO 0x0f}RED SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}FIRE STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
 	.string "{CLEAR_TO 0x06}YELLOW SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}THUNDERSTONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
 	.string "{CLEAR_TO 0x0c}BLUE SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}WATER STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Wanted item{CLEAR_TO 0x7c}Trade item\n"
+	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
 	.string "{CLEAR_TO 0x08}GREEN SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}LEAF STONE$"

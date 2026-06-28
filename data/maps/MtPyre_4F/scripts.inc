@@ -9,14 +9,15 @@ MtPyre_5F_EventScript_Atsushi::
 	end
 
 MtPyre_5F_Text_AtsushiIntro:
-	.string "Teacher…\n"
-	.string "Please watch over my progress!$"
+	.string "Mein Lehrer…\n"
+	.string "Bitte achtet auf meine Fortschritte!$"
 
 MtPyre_5F_Text_AtsushiDefeat:
-	.string "Teacher…\n"
-	.string "Please forgive me!$"
+	.string "Mein Lehrer…\n"
+	.string "Bitte verzeiht mir!$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Until I improve, my teacher, who rests\n"
-	.string "here, will never find true peace…$"
+	.string "Wenn ich nicht besser werde, wird mein\n"
+	.string "Lehrer, der hier ruht, keine Ruhe\l"
+	.string "finden.$"
 

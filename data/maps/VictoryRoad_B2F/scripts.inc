@@ -32,77 +32,85 @@ VictoryRoad_B2F_EventScript_Dianne::
 	end
 
 VictoryRoad_B2F_Text_VitoIntro:
-	.string "I trained together with my whole family,\n"
-	.string "every one of us!\l"
-	.string "I'm not losing to anyone!$"
+	.string "Ich habe mit meiner Familie trainiert,\n"
+	.string "mit jedem einzelnen Mitglied!\l"
+	.string "Ich verliere gegen niemanden!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Better than my family?!\n"
-	.string "Is that possible?!$"
+	.string "Besser als meine Familie?\n"
+	.string "Ist das möglich?$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "I was better than everyone in my\n"
-	.string "family. I've never lost before…\p"
-	.string "I've lost my confidence…\n"
-	.string "Maybe I'll go home…$"
+	.string "Ich war besser als jeder andere aus\n"
+	.string "meiner Familie. Ich habe nie verloren!\n"
+	.string "\p"
+	.string "Ich habe mein Selbstvertrauen ver-\n"
+	.string "loren. Ich gehe nach Hause…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "I'd heard that there was a tough\n"
-	.string "little kid around. Do they mean you?$"
+	.string "Ich habe gehört, dass sich hier ein\n"
+	.string "sehr\l"
+	.string "starkes Kind herumtreibt. Bist du das?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
-	.string "The little shrimp is tough!$"
+	.string "Diese kleine Kröte ist echt stark!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "The rumors I heard, that tough little\n"
-	.string "kid is from PETALBURG CITY.$"
+	.string "Das Gerücht sagt, das Kind käme aus\n"
+	.string "BLÜTENBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
-	.string "You must be getting a little tired.$"
+	.string "Du musst doch langsam mal müde werden.$"
 
 VictoryRoad_B2F_Text_CarolineDefeat:
-	.string "No signs of tiring at all!$"
+	.string "Keine Anzeichen von Müdigkeit…$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "VICTORY ROAD and the POKéMON LEAGUE\n"
-	.string "are long and grueling challenges.\l"
-	.string "Beware of fatigue!$"
+	.string "Die SIEGESSTRASSE und die POKéMON\n"
+	.string "LIGA sind große und langwierige\n"
+	.string "Heraus-\l"
+	.string "forderungen. Werde bloß nicht müde!!!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "You shouldn't get complacent just\n"
-	.string "because you have a lot of GYM BADGES.\p"
-	.string "There's always going to be someone\n"
-	.string "who's better than you!$"
+	.string "Du solltest nicht selbstzufrieden\n"
+	.string "werden, nur weil du viele ORDEN der\l"
+	.string "ARENen besitzt.\p"
+	.string "Es wird immer jemanden geben, der\n"
+	.string "besser ist als du!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
-	.string "You're better than me!$"
+	.string "Du bist besser als ich!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Gaze on your collected BADGES and\n"
-	.string "remember the TRAINERS you've faced.$"
+	.string "Schau dir deine ORDEN an - erinnere\n"
+	.string "dich\l"
+	.string "an die TRAINER, die du getroffen hast.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "I've come this far, but the tension's\n"
-	.string "giving me awful stomach pain…$"
+	.string "Ich bin weit gekommen, aber die\n"
+	.string "Anspannung verursacht mir\l"
+	.string "Magenschmerzen…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
-	.string "Ooh…\n"
-	.string "It hurts…$"
+	.string "Ooh… Es tut weh…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "I can't help getting all tense knowing\n"
-	.string "that I'm nearing the POKéMON LEAGUE.\p"
-	.string "It's all I can do to feign calm.$"
+	.string "Ich kann nicht anders. Hier in der\n"
+	.string "Nähe\n"
+	.string "der POKéMON LIGA bin ich total nervös\l"
+	.string "und angespannt.\p"
+	.string "Ich tue so, als sei ich die Ruhe\n"
+	.string "selbst.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "The elite among the elite gather in\n"
-	.string "this cave.\p"
-	.string "How are you finding it?$"
+	.string "Die Elite der Elite versammelt sich in\n"
+	.string "dieser Höhle.\p"
+	.string "Wie findest du das?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
-	.string "Not rattled in the least bit!$"
+	.string "Nicht ein bisschen erschüttert.$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "You do have guts! I like that!\n"
-	.string "Keep it going!$"
+	.string "Du hast echt Nerven! Das mag ich!\n"
+	.string "Mach weiter so!$"
 

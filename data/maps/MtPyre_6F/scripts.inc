@@ -28,42 +28,46 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "When I'm here…\n"
-	.string "A curious power flows into me…$"
+	.string "Wenn ich hier bin… dann durchströmt\n"
+	.string "mich eine seltsame Macht…$"
 
 MtPyre_6F_Text_ValerieDefeat:
-	.string "The power is ebbing away…$"
+	.string "Die Macht ebbt ab…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Perhaps the power is from the spirits\n"
-	.string "of POKéMON in fitful sleep here…$"
+	.string "Die Geister der hier ruhenden POKéMON,\n"
+	.string "erfüllen mich mit ihrer Macht…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Fufufu… I lost the match, but…\n"
-	.string "I have this little ability…\p"
-	.string "Without ever laying my hands on\n"
-	.string "your POKéNAV… Hiyah!$"
+	.string "Hähähä… Ich habe den Kampf verloren,\n"
+	.string "aber… ich habe dieses Talent…\p"
+	.string "Ohne, dass ich den POKéNAV berühren\n"
+	.string "muss… Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Behind you…\n"
-	.string "What is it…$"
+	.string "Hinter dir…\n"
+	.string "W… Was ist das?$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
-	.string "Something faded away…$"
+	.string "Etwas war da und verschwand…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "The POKéMON at rest here…\n"
-	.string "Sometimes, they play…$"
+	.string "Die POKéMON, die hier ruhen…\n"
+	.string "Manchmal spielen sie…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Have you lost your bearings?\n"
-	.string "Have no fear for I am here!$"
+	.string "Hast du die Orientierung verloren?\n"
+	.string "Keine Angst, ich bin ja hier.$"
 
 MtPyre_6F_Text_CedricDefeat:
-	.string "Weren't you lost?$"
+	.string "Du hattest die Orientierung gar\n"
+	.string "nicht verloren?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "I had this feeling that a lost TRAINER\n"
-	.string "would be panicked and easy to beat.\p"
-	.string "It's dirty and I won't try it again…$"
+	.string "Mein Gefühl sagte mir, dass ein\n"
+	.string "TRAINER,\n"
+	.string "der sich verlaufen hat, panisch\l"
+	.string "reagiert und leichter zu besiegen ist.\n"
+	.string "\p"
+	.string "Das war ein schmutziger Versuch…$"
 

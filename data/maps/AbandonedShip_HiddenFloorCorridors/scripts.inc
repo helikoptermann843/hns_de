@@ -132,24 +132,24 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.string "Die Tür ist verschlossen.\p"
+	.string "“K. 1” steht auf der Tür.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.string "Die Tür ist verschlossen.\p"
+	.string "“K. 2” steht auf der Tür.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.string "Die Tür ist verschlossen.\p"
+	.string "“K. 4” steht auf der Tür.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.string "Die Tür ist verschlossen.\p"
+	.string "“K. 6” steht auf der Tür.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER} steckt den SCHLÜSSEL ins\n"
+	.string "Schloss und dreht ihn um.\p"
+	.string "Der SCHLÜSSEL ist schwergängig, aber\n"
+	.string "die Tür öffnet sich.$"
 

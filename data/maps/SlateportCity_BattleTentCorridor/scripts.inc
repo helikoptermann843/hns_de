@@ -178,8 +178,8 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 	.string "never won, you know, like, hey?\p"
 	.string "So, like, I gave the JUDGE my two\n"
 	.string "cents, you know, they're free.\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
+	.string "And he wouldn't hear me out, like,\n"
+	.string "hey! So, like, total bummer, man!\p"
 	.string "Hey, like, you! Zip it, you know?\n"
 	.string "Just, you know, take this!$"
 
@@ -188,7 +188,8 @@ SlateportCity_ContestHall_Text_ExplainTorment:
 	.string "That's, like, TM41, you know?\n"
 	.string "Hey, it's TORMENT, you hearing me?\p"
 	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
+	.string "use the same move twice in a row, see?\n"
+	.string "\p"
 	.string "Hey, now, you listen here, like,\n"
 	.string "I'm not laying a torment on you!$"
 
@@ -224,8 +225,8 @@ SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:
-	.string "Oh, hi! You must be a serious fan to get\n"
-	.string "this close to the action.\p"
+	.string "Oh, hi! You must be a serious fan to\n"
+	.string "get this close to the action.\p"
 	.string "I'll reward your enthusiasm with\n"
 	.string "this sage advice.\p"
 	.string "If a move goes over really well,\n"

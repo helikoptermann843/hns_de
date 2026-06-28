@@ -59,26 +59,27 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
-	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+	.string "Ahahahahaha!\p"
+	.string "Ich bin ANTONIA von den TOP VIER.\n"
+	.string "Ich habe am PYROBERG trainiert.\p"
+	.string "Während des Trainings habe ich die\n"
+	.string "Fähigkeit erworben, mit GEIST-POKéMON\l"
+	.string "zu kommunizieren.\p"
+	.string "In der Tat ist das Band zwischen mir\n"
+	.string "und den POKéMON sehr stark.\p"
+	.string "Komm und schau, ob du irgendetwas\n"
+	.string "gegen meine POKéMON ausrichten kannst.$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Oh, verdammt.\n"
+	.string "Aus und vorbei. Verloren.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Das Band zwischen dir und deinen\n"
+	.string "POKéMON ist ebenfalls sehr stark.\p"
+	.string "Das habe ich gar nicht bemerkt, daher\n"
+	.string "konnte ich nur verlieren.\p"
+	.string "Ja, jetzt möchte ich sehen, wie weit\n"
+	.string "dieses Band euch bringt.\p"
+	.string "Geh und betritt den nächsten Raum.$"
 

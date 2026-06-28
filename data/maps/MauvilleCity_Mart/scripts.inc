@@ -36,16 +36,18 @@ MauvilleCity_Mart_EventScript_Man::
 	end
 
 MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats:
-	.string "There are items that temporarily\n"
-	.string "elevate the stats of POKéMON.\p"
-	.string "The ones I know you use in battle\n"
-	.string "are X ATTACK and X DEFEND…\p"
-	.string "I do believe that there are others\n"
-	.string "like them.$"
+	.string "Es gibt Items, die den Status eines\n"
+	.string "POKéMON kurzzeitig erhöhen.\p"
+	.string "Ich weiß, dass man X-ANGRIFF und\n"
+	.string "X-VERTEIDIGUNG im Kampf einsetzen\l"
+	.string "kann…\p"
+	.string "Ich glaube, es gibt aber auch noch\n"
+	.string "andere.$"
 
 MauvilleCity_Mart_Text_DecisionsDetermineBattle:
-	.string "Use a certain move, or use an item\n"
-	.string "instead…\p"
-	.string "The TRAINER's decisions determine how\n"
-	.string "battles turn out, I think.$"
+	.string "Setze eine bestimmte Attacke ein,\n"
+	.string "oder stattdessen ein Item…\p"
+	.string "Ich glaube, die Entscheidungen des\n"
+	.string "TRAINERs bestimmen, wie ein Kampf\l"
+	.string "verläuft.$"
 
