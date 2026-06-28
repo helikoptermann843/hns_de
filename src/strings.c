@@ -172,7 +172,6 @@ const u8 gText_Var1CantBeHeld[] = _("{STR_VAR_1} ist nicht zu geben.");
 const u8 gText_TossHowManyVar1s[] = _("Wie viel in den Müll?");
 const u8 gText_ThrewAwayVar2Var1s[] = _("{STR_VAR_2} × {STR_VAR_1}\nweggeworfen.");
 const u8 gText_ConfirmTossItems[] = _("Willst du wirklich\n{STR_VAR_2} × {STR_VAR_1}\nwegwerfen?");
-const u8 gText_DadsAdvice[] = _("VATI sagt immer……\n{PLAYER}, dies ist weder der rechte\lOrt noch der rechte Zeitpunkt dafür!{PAUSE_UNTIL_PRESS}");
 #if IS_HNS
     const u8 gText_DadsAdvice[] = _("LIND sagt immer…\n{PLAYER}, dies ist weder der rechte\lOrt noch der rechte Zeitpunkt dafür!{PAUSE_UNTIL_PRESS}");
 #else

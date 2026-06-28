@@ -495,8 +495,8 @@ BerryTree_EventScript_UseMulch::
 	return
 
 BerryTree_Text_WantToMulch:
-	.string "It's soft, loamy soil.\n"
-	.string "Put down some fertilizer?$"
+	.string "Es ist lehmiger Boden.\n"
+	.string "Dünger verwenden?$"
 
 BerryTree_Text_ScatteredMulch:
 	.string "{PLAYER} verstreut die {STR_VAR_1}\n"
@@ -522,11 +522,11 @@ BerryTree_EventScript_PullOutWeed::
 	return
 
 BerryTree_Text_WeedIsGrowing:
-	.string "A weed is growing here.\n"
-	.string "Do you want to pull it out?$"
+	.string "Unkraut wächst hier.\n"
+	.string "Möchtest du es herausziehen?$"
 
 BerryTree_Text_PulledOutTheWeed:
-	.string "{PLAYER} holt den Bubatz heraus!$"
+	.string "{PLAYER} zieht das Unkraut heraus!$"
 .endif
 
 .if OW_BERRY_PESTS == TRUE
@@ -543,7 +543,7 @@ BerryTree_EventScript_EncounterPests::
 	return
 
 BerryTree_Text_APokemonAppeared:
-	.string "A Pokémon appeared!$"
+	.string "Ein Pokémon erscheint!$"
 .endif
 
 #endif
