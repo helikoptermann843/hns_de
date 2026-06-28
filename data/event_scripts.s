@@ -1541,7 +1541,7 @@ gText_MomExplainHPGetPotions::
 #if IS_HNS
 gText_RegisteredTrainerinPokeNav::
 	.string "{STR_VAR_1} {STR_VAR_2} wurde\n"
-	.string "im POKéNAV registriert.$"
+	.string "im POKéCOM registriert.$"
 #else
 gText_RegisteredTrainerinPokeNav::
 	.string "{STR_VAR_1} {STR_VAR_2} wurde\n"
