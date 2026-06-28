@@ -280,8 +280,7 @@ PlayersHouse_2F_EventScript_GameCube::
 
 PlayersHouse_2F_Text_ClockIsStopped:
 	.string "Die Uhr ist stehen geblieben…\p"
-	.string "Stelle sie besser ein und ziehe sie\n"
-	.string "auf.$"
+	.string "Ich stelle sie besser ein!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 	.string "MUTTER: {PLAYER}, wie gefällt dir dein\n"
@@ -306,7 +305,7 @@ PlayersHouse_2F_Text_Notebook:
 
 Common_Text_LookCloserAtMap:
 	.string "{PLAYER} schaut sich die Karte der\n"
-	.string "HOENN-Region genauer an.$"
+	.string "{REGION}-Region genauer an.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
 	.string "Das ist ein Nintendo GameCube.\p"
