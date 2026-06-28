@@ -205,79 +205,91 @@ Gate_NationalPark_Movement_Player_EnterParkBotB:
 	step_end
 
 Route35NationalParkGate_Text_OfficerAskToParticipate:
-	.string "Hello Trainer! The Bug-Catching\n"
-	.string "Contest is on today.\p"
-	.string "The rules are simple.\p"
-	.string "Using one of your POKéMON, catch a\n"
-	.string "bug POKéMON to be judged.\p"
-	.string "Would you like to give it a try?$"
+	.string "Heute findet\n"
+	.string "das Käferturnier statt.\p"
+	.string "Die Regeln sind einfach.\p"
+	.string "Fange ein Käfer-\n"
+	.string "Pokémon mit einem deiner eigenen\n"
+	.string "Pokémon.\p"
+	.string "Das Käfer-Pokémon\n"
+	.string "wird dann von der Jury bewertet.\p"
+	.string "Möchtest du es versuchen?$"
 
 Route35NationalParkGate_Text_OfficerGiveParkBalls:
-	.string "Any EXP your POKéMON gains during\n"
-	.string "the contest will be reverted when\l"
-	.string "you leave.\p"
-	.string "Here are the SAFARI BALLS for the\n"
-	.string "Contest.$"
+	.string "Hier sind die\n"
+	.string "PARKBÄLLE für das Turnier.$"
 
 Route35NationalParkGate_Text_ReceivedParkBalls:
-	.string "{PLAYER} received SAFARI BALLS.$"
+	.string "{PLAYER} erhält PARKBÄLLE.$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
-	.string "The person who gets the strongest\n"
-	.string "bug POKéMON is the winner.\p"
-	.string "If you run out of SAFARI BALLS,\n"
-	.string "you're done.\p"
-	.string "You can catch up to 5 POKéMON. The\n"
-	.string "last one caught will be the only\l"
-	.string "one kept and placed in the contest.\p"
-	.string "Go out and catch the strongest bug\n"
-	.string "POKéMON you can find!$"
+	.string "Wer das stärkste\n"
+	.string "Käfer-Pokémon fängt, hat gewonnen.\p"
+	.string "Wenn du keine\n"
+	.string "PARKBÄLLE mehr hast, ist das Turnier\n"
+	.string "beendet.\p"
+	.string "Du darfst das letzte Pokémon,\n"
+	.string "das du gefangen hast,\n"
+	.string "behalten.\p"
+	.string "Los! Fang das\n"
+	.string "stärkste Käfer-Pokémon, das du finden\l"
+	.string "kannst!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "If you have more than one POKéMON,\n"
-	.string "you'll have to use the\l"
-	.string "first POKéMON in your party.\p"
-	.string "Is that OK with you?$"
+	.string "Oh, oh…\p"
+	.string "Du hast mehr als ein Pokémon.\p"
+	.string "Du musst dein erstes Pokémon wählen\n"
+	.string "Bist du damit einverstanden?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
-	.string "Fine, we'll hold your other POKéMON\n"
-	.string "while you compete.$"
+	.string "Gut. Wir passen\n"
+	.string "währenddessen auf deine anderen\l"
+	.string "Pokémon auf.$"
 
 Route35NationalParkGate_Text_MonLeftWithHelper:
-	.string "{PLAYER}'s POKéMON were left with the\n"
-	.string "CONTEST HELPER.$"
+	.string "Die Pokémon von\n"
+	.string "{PLAYER} wurden dem TURNIERHELFER\l"
+	.string "übergeben.$"
 
 Route35NationalParkGate_Text_ChooseMonAndComeBack:
-	.string "Please choose the POKéMON to be used\n"
-	.string "in the Contest, then come see me.$"
+	.string "Wähle bitte das Pokémon, mit dem\p"
+	.string "du im Turnier\n"
+	.string "antreten möchtest, aus und komm dann\l"
+	.string "wieder.$"
 
 Route35NationalParkGate_Text_TakePartInFuture:
-	.string "OK. We hope you'll take part in the\n"
-	.string "future.$"
+	.string "Na gut. Wir\n"
+	.string "hoffen, dass du später einmal am\l"
+	.string "Turnier teilnimmst.$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
-	.string "Uh-oh… The first POKéMON in your\n"
-	.string "party can't battle.\p"
-	.string "Please switch it with the POKéMON\n"
-	.string "you want to use, then come see me.$"
+	.string "Oh, oh… Das erste Pokémon\p"
+	.string "deines Teams kann\n"
+	.string "nicht am Turnier teilnehmen.\p"
+	.string "Tausche es bitte mit dem Pokémon\p"
+	.string "aus, das am Turnier teilnehmen\p"
+	.string "soll und komm dann wieder.$"
 
 Route35NationalParkGate_Text_MakeRoom:
-	.string "Uh-oh… Both your party and your\n"
-	.string "PC BOX are full.\p"
-	.string "You have no room to put the bug\n"
-	.string "POKéMON you catch.\p"
-	.string "Please make room in your party or\n"
-	.string "your PC BOX, then come see me.$"
+	.string "Oh, oh… Dein Team und\p"
+	.string "deine PC-BOX sind voll besetzt.\p"
+	.string "Du hast keinen\n"
+	.string "Platz für ein Käfer-Pokémon, das du\n"
+	.string "fängst.\p"
+	.string "Schaffe Platz in deinem Team oder\p"
+	.string "in deiner PC-BOX und komm dann wieder.$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
-	.string "Uh-oh… You have an EGG as the first\n"
-	.string "POKéMON in your party.\p"
-	.string "Please switch it with the POKéMON\n"
-	.string "you want to use, then come see me.$"
+	.string "Oh, oh… Ein EI ist an\p"
+	.string "erster Stelle in deinem Team.\p"
+	.string "Tausche es bitte mit dem Pokémon,\p"
+	.string "das du im Turnier einsetzen möchtest\p"
+	.string "und komm dann wieder.$"
 
 Route35NationalParkGate_Text_ContestIsOver:
-	.string "Today's Contest is over. We hope you\n"
-	.string "will participate in the future.$"
+	.string "Das heutige\n"
+	.string "Turnier ist beendet. Wir hoffen,\p"
+	.string "dass du wieder daran teilnehmen wirst.$"
 
 Route35NationalParkGate_EventScript_Policeman::
 	lock
@@ -320,28 +332,27 @@ Route35NationalParkGate_EventScript_Beauty::
 	end
 
 Route35NationalParkGate_Text_Rocker:
-	.string "I love bird POKéMON! I found a\n"
-	.string "DARK-type bird in the park\l"
-	.string "last night!$"
+	.string "Wann findet das\n"
+	.string "nächste Käferturnier statt?$"
 
 Route35NationalParkGate_Text_BC2:
-	.string "I caught a whopping SCYTHER!$"
+	.string "Ich hab ein Sichlor gefangen!$"
 
 Route35NationalParkGate_Text_Beauty:
-	.string "He always wins these contests!$"
+	.string "Der gewinnt immer diese Turniere!$"
 
 Route35NationalParkGate_Text_WeHoldContests:
-	.string "We hold Contests regularly in the\n"
-	.string "PARK. You should give it a shot.$"
+	.string "Die Turniere werden regelmäßig\p"
+	.string "hier im PARK\n"
+	.string "abgehalten. Nimm doch auch daran teil!$"
 
 Route35NationalParkGate_Text_YoungsterWonders:
-	.string "When is the next Bug-Catching Contest\n"
-	.string "going to be?$"
+	.string "Wann findet das\n"
+	.string "nächste Käferturnier statt?$"
 
 Route35NationalParkGate_Text_ContestExplanation:
-	.string "The Bug-Catching Contest is held on\n"
-	.string "Tuesday, Thursday and Saturday.\p"
-	.string "Not only do you earn a prize just\n"
-	.string "for participating,\p"
-	.string "you also get to keep the bug POKéMON\n"
-	.string "you may have at the end of the contest.$"
+	.string "Das Käferturnier wird am Dienstag,\l"
+	.string "Mittwoch und Samstag.\n"
+	.string "stattfinden. Man bekommt Preise\p"
+	.string "für die Teilnahme,\p"
+	.string "und darf das Käfer-Pokémon behalten!$"

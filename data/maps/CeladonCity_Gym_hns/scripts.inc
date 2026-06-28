@@ -30,56 +30,65 @@ CeladonCity_Gym_EventScript_Erika_Defeated::
 	end
 
 CeladonCity_Gym_Text_ErikaBeforeBattle:
-	.string "ERIKA: Hello… Lovely weather,\n"
-	.string "isn't it? It's so pleasant…\p"
-	.string "…I'm afraid I may doze off…\p"
-	.string "My name is ERIKA. I am the LEADER\n"
-	.string "of CELADON GYM.\p"
-	.string "…Oh? All the way from JOHTO, you\n"
-	.string "say? How nice…\p"
-	.string "Oh. I'm sorry, I didn't realize\n"
-	.string "that you wished to challenge me.\p"
-	.string "Very well, but I shall not lose.$"
+	.string "Erika: Hallo… Schönes Wetter,\n"
+	.string "nicht wahr? So angenehm…\p"
+	.string "…Ich fürchte, ich könnte einnicken…\p"
+	.string "Mein Name ist Erika. Ich bin die\n"
+	.string "Leiterin der PRISMANIA City Arena.\p"
+	.string "…Oh? Ganz aus JOHTO, sagst du?\n"
+	.string "Wie schön…\p"
+	.string "Oh. Entschuldigung, ich habe nicht\n"
+	.string "gemerkt, dass du mich herausfordern\n"
+	.string "möchtest.\p"
+	.string "Nun gut, aber ich werde nicht\n"
+	.string "verlieren.$"
 
 CeladonCity_Gym_Text_ErikaBeaten:
-	.string "ERIKA: Oh! I concede defeat…\p"
-	.string "You are remarkably strong…\p"
-	.string "I shall give you RAINBOWBADGE…$"
+	.string "Erika: Oh! Ich gebe auf…\p"
+	.string "Du bist bemerkenswert stark…\p"
+	.string "Ich werde dir den Farborden geben…$"
 
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
-	.string "{PLAYER} received RAINBOWBADGE.$"
+	.string "{PLAYER} erhielt den Farborden.$"
 
 CeladonCity_Gym_Text_ErikaExplainTM:
-	.string "ERIKA: That was a delightful\n"
-	.string "match.\p"
-	.string "I felt inspired. Please, I wish\n"
-	.string "you to have this TM.\p"
-	.string "It is GIGA DRAIN.\p"
-	.string "It is a wonderful move that\n"
-	.string "drains half the damage it inflicts\l"
-	.string "to heal your POKéMON.\p"
-	.string "Please use it if it pleases you…$"
+	.string "Erika: Das war ein wunderbarer\n"
+	.string "Kampf.\p"
+	.string "Ich fühlte mich inspiriert. Bitte, ich\n"
+	.string "möchte, dass du diese TM erhältst.\p"
+	.string "Es ist Gigasauger.\p"
+	.string "Es ist eine hervorragende Attacke, die\l"
+	.string "die Hälfte des verursachten Schadens\n"
+	.string "zur Heilung deiner Pokémon absorbiert.\p"
+	.string "\p"
+	.string "Bitte benutze sie, wenn sie dir\n"
+	.string "gefällt…$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
-	.string "ERIKA: Losing leaves a bitter\n"
-	.string "aftertaste…\p"
-	.string "But knowing that there are strong\n"
-	.string "trainers spurs me to do better…$"
+	.string "Erika: Verlieren hinterlässt einen\n"
+	.string "bitteren Nachgeschmack…\p"
+	.string "Aber zu wissen, dass es starke Trainer\n"
+	.string "gibt, spornt mich an, es besser zu\l"
+	.string "machen…$"
 
 CeladonCity_Gym_Text_ErikaRematch:
-	.string "ERIKA: Oh, hello.\p"
-	.string "What a surprise, KANTO CHAMPION!\p"
-	.string "It's so lovely to see you again.\p"
-	.string "Your journey must have been so\n"
-	.string "exciting.\p"
-	.string "Even champions enjoy a challenge.\p"
-	.string "Want to have a rematch with me?$"
+	.string "Erika: Oh, hallo.\p"
+	.string "Was für eine Überraschung, KANTO-\n"
+	.string "CHAMPION!\p"
+	.string "Es ist so schön, dich wiederzusehen.\p"
+	.string "Deine Reise muss sehr aufregend\n"
+	.string "gewesen sein.\p"
+	.string "Auch Champions genießen eine\n"
+	.string "Herausforderung.\p"
+	.string "Willst du ein Rematch mit mir?$"
 
 CeladonCity_Gym_Text_ErikaRematchDefeat:
-	.string "ERIKA: Losing still leaves a\n"
-	.string "bitter aftertaste…\p"
-	.string "But knowing that there are strong\n"
-	.string "trainers spurs me to do better…$"
+	.string "Erika: Verlieren hinterlässt immer\n"
+	.string "noch einen\n"
+	.string "bitteren Nachgeschmack…\p"
+	.string "Aber zu wissen, dass es starke Trainer\n"
+	.string "gibt,\l"
+	.string "spornt mich an, es besser zu machen…$"
 
 CeladonCity_Gym_EventScript_Michelle::
 	trainerbattle_single TRAINER_MICHELLE_HNS, CeladonCity_Gym_Text_LassMichelleSeen, CeladonCity_Gym_Text_LassMichelleBeaten
@@ -87,7 +96,7 @@ CeladonCity_Gym_EventScript_Michelle::
 	end
 
 CeladonCity_Gym_Text_LassMichelleSeen:
-	.string "Do you think a girls-only GYM is\n"
+	.string "Do you think a girls-only Arena is\n"
 	.string "rare?$"
 
 CeladonCity_Gym_Text_LassMichelleBeaten:
@@ -127,7 +136,7 @@ CeladonCity_Gym_Text_BeautyJuliaBeaten:
 
 CeladonCity_Gym_Text_BeautyJuliaAfter:
 	.string "How do I go about becoming\n"
-	.string "ladylike like ERIKA?$"
+	.string "ladylike like Erika?$"
 
 CeladonCity_Gym_EventScript_Jo::
 	trainerbattle_double TRAINER_JO_AND_ZOE_HNS, CeladonCity_Gym_Text_TwinsJoAndZoe1Seen, CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten, Route104_Text_GinaNotEnoughMons
@@ -141,23 +150,23 @@ CeladonCity_Gym_EventScript_Zoe::
 	end
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Seen:
-	.string "We'll show you POKéMON moves that\n"
-	.string "ERIKA taught us!$"
+	.string "Wir zeigen dir Pokémon-Attacken, die\n"
+	.string "Erika uns beigebracht hat!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten:
-	.string "Oh… We lost…$"
+	.string "Oh… Wir haben verloren…$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1After:
-	.string "ERIKA will get you back for us!$"
+	.string "Erika wird sich für uns rächen!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Seen:
-	.string "We're going to protect ERIKA!$"
+	.string "Wir werden Erikas Schild sein!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Beaten:
-	.string "We couldn't win…$"
+	.string "Wir konnten nicht gewinnen…$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2After:
-	.string "ERIKA is much, much stronger!$"
+	.string "Erika ist viel, viel stärker!$"
 
 CeladonCity_Gym_EventScript_GymStatue::
 	lockall

@@ -17,11 +17,11 @@ MahoganyTown_Gym_EventScript_Statue2::
 	end
 
 MahoganyTown_Gym_Text_GymStatue:
-	.string "MAHOGANY TOWN POKéMON GYM$"
+	.string "Mahagonia City Pokémon Arena$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "MAHOGANY TOWN POKéMON GYM\p"
-	.string "PRYCE'S CERTIFIED TRAINERS:\n"
+	.string "Mahagonia City Pokémon Arena\p"
+	.string "Norbert's zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 
@@ -118,138 +118,138 @@ MahoganyTown_Gym_EventScript_Pryce_Defeated::
 	end
 
 MahoganyTown_Gym_Text_PryceIntro:
-    .string "POKéMON have many experiences\n"
-    .string "in their lives, just like we do.\p"
-    .string "I, too, have seen and suffered\n"
-    .string "much in my life.\p"
-    .string "Since I am your elder, let me\n"
-    .string "show you what I mean.\p"
-    .string "I have been with POKéMON since\n"
-    .string "before you were born.\p"
-    .string "I do not lose easily.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "shall demonstrate my power!$"
+	.string "Pokémon erleben vieles im Leben,\n"
+	.string "so wie wir Menschen.\p"
+	.string "Auch ich habe viel erlebt und\n"
+	.string "gelitten.\p"
+	.string "Da ich älter bin, will ich dir\n"
+	.string "zeigen, was ich meine.\p"
+	.string "Ich kenne Pokémon schon seit\n"
+	.string "vor deiner Geburt.\p"
+	.string "Ich verliere nicht leicht.\p"
+	.string "Ich, Norbert--der Wintertrainer--\n"
+	.string "zeige dir meine Kraft!$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
-    .string "Ah, I am impressed by your\n"
-    .string "prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.\p"
-    .string "You are worthy of this BADGE!$"
+	.string "Ah, ich bin beeindruckt von\n"
+	.string "deiner Stärke.\p"
+	.string "Mit deinem starken Willen wirst\n"
+	.string "du alle Hindernisse überwinden.\p"
+	.string "Du verdienst diesen Orden!$"
 
 MahoganyTown_Gym_Text_ReceivedBadge:
-    .string "{PLAYER} received GLACIERBADGE.$"
+	.string "{PLAYER} erhielt Gletscherorden.$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
-    .string "That BADGE will raise the SPECIAL\n"
-    .string "ATTACK of POKéMON.\p"
-    .string "It also lets your POKéMON use\n"
-    .string "WHIRLPOOL to get across\l"
-    .string "real whirlpools.\p"
-    .string "And this… This is a gift from me!$"
+	.string "Der Orden erhöht die SPEZIAL-\n"
+	.string "ATTACKE deiner Pokémon.\p"
+	.string "Er erlaubt deinen Pokémon,\n"
+	.string "Whirlpool zu benutzen, um\n"
+	.string "echte Strudel zu überqueren.\p"
+	.string "Und dies… ist mein Geschenk!$"
 
 MahoganyTown_Gym_Text_HailSpeech:
-    .string "That TM contains HAIL.\p"
-    .string "It inflicts damage every\n"
-    .string "turn for 5 turns.\p"
-    .string "It demonstrates the harshness\n"
-    .string "of winter.$"
+	.string "Diese TM enthält Hagelsturm.\p"
+	.string "Sie fügt 5 Runden lang Schaden zu.\p"
+	.string "So zeigt sie die Härte des Winters.$"
 
 MahoganyTown_Gym_Text_CherishPokemon:
-    .string "When the ice and snow melt,\n"
-    .string "spring arrives.\p"
-    .string "You and your POKéMON will be\n"
-    .string "together for many years to come.\p"
-    .string "Cherish your time together!$"
+	.string "Wenn Eis und Schnee schmelzen,\n"
+	.string "kommt der Frühling.\p"
+	.string "Du und deine Pokémon werdet viele\n"
+	.string "Jahre zusammen verbringen.\p"
+	.string "Schätzt eure gemeinsame Zeit!$"
 
 MahoganyTown_Gym_Text_PryceRematch:
-    .string "Ah, JOHTO CHAMPION!\p"
-    .string "Your skills are indeed\n"
-    .string "remarkable.\p"
-    .string "I am impressed.\p"
-    .string "But even now, there is much to\n"
-    .string "learn from each other.\p"
-    .string "I, PRYCE--the winter trainer--\n"
-    .string "still have a few tricks left.\p"
-    .string "Want to have a rematch with me?$"
+	.string "Ah, JOHTO CHAMPION!\p"
+	.string "Deine Fähigkeiten sind\n"
+	.string "wirklich bemerkenswert.\p"
+	.string "Ich bin beeindruckt.\p"
+	.string "Doch noch können wir voneinander\n"
+	.string "lernen.\p"
+	.string "Ich, Norbert--der Wintertrainer--\n"
+	.string "habe noch einige Tricks.\p"
+	.string "Willst du ein Rückmatch mit mir?$"
 
 MahoganyTown_Gym_Text_PryceRematchDefeat:
-    .string "Ah, yet again I'm impressed by\n"
-    .string "your prowess.\p"
-    .string "With your strong will, I know you\n"
-    .string "will overcome all life's obstacles.$"
+	.string "Ah, wieder bin ich beeindruckt\n"
+	.string "von deiner Stärke.\p"
+	.string "Mit deinem starken Willen wirst\n"
+	.string "du alle Hindernisse überwinden.$"
 
 MahoganyTown_Gym_Text_Guide:
-    .string "PRYCE is a veteran who has\n"
-    .string "trained POKéMON for some 50 years.\p"
-    .string "He's got a solid lineup of\n"
-    .string "POKéMON to cover whatever\l"
-    .string "you bring his way.\p"
-    .string "Fire is a good place to start,\n"
-    .string "but watch out for the rain!$"
+	.string "NORBERT ist ein Veteran, der\n"
+	.string "seine Pokémon seit fast 50 Jahren\n"
+	.string "trainiert.\p"
+	.string "Angeblich friert er Gegner gerne\n"
+	.string "mit Eis-Attacken ein.\p"
+	.string "Also, nutze deinen Ehrgeiz!$"
 
 MahoganyTown_Gym_Text_GuideWin:
-    .string "PRYCE is something, but you're\n"
-    .string "something else!\p"
-    .string "That was a hot battle that\n"
-    .string "bridged the generation gap!$"
+	.string "NORBERT ist stark,\n"
+	.string "aber du bist besser!\p"
+	.string "Ein heißer Kampf, der die\n"
+	.string "Generationen überbrückt hat.$"
 
 MahoganyTown_Gym_Text_BoarderRonaldSeen:
-    .string "I'll freeze your POKéMON,\n"
-    .string "so you can't do a thing!$"
+	.string "Ich friere deine Pokémon ein,\n"
+	.string "damit du nichts tun kannst!$"
 
 MahoganyTown_Gym_Text_BoarderRonaldBeaten:
-    .string "Darn. I couldn't do a thing.$"
+	.string "Verdammt. Ich konnte nichts tun.$"
 
 MahoganyTown_Gym_Text_BoarderRonaldAfter:
-    .string "I think there's a move a\n"
-    .string "POKéMON can use while it's\l"
-    .string "frozen.$"
+	.string "Vielleicht gibt es eine Attacke,\n"
+	.string "die Pokémon anwenden können,\l"
+	.string "wenn sie eingefroren sind.$"
 
 MahoganyTown_Gym_Text_BoarderBradSeen:
-    .string "This GYM has a slippery floor.\p"
-    .string "It's fun, isn't it?\p"
-    .string "But hey--we're not playing\n"
-    .string "games here!$"
+	.string "Dieser Boden ist rutschig.\p"
+	.string "Spaßig, nicht?\p"
+	.string "Aber wir spielen hier keine\n"
+	.string "Spiele!$"
 
 MahoganyTown_Gym_Text_BoarderBradBeaten:
-    .string "Do you see how serious we are?$"
+	.string "Siehst du, wie Ernst wir sind?$"
 
 MahoganyTown_Gym_Text_BoarderBradAfter:
-    .string "This GYM is great.\n"
-    .string "I love boarding with my\l"
-    .string "POKéMON!$"
+	.string "Diese Arena ist großartig.\n"
+	.string "Ich liebe Snowboarden mit meinen\l"
+	.string "Pokémon!$"
 
 MahoganyTown_Gym_Text_BoarderDouglasSeen:
-    .string "I know PRYCE's secret.$"
+	.string "Ich kenne Norberts Geheimnis.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasBeaten:
-    .string "OK. I'll tell you PRYCE's secret.$"
+	.string "Ok. Ich erzähle dir Norberts\n"
+	.string "Geheimnis.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
-    .string "The secret behind PRYCE's power…\p"
-    .string "He meditates under a waterfall\n"
-    .string "daily to strengthen his mind\l"
-    .string "and body.$"
+	.string "Das Geheimnis von Norberts Kraft…\p"
+	.string "Er meditiert täglich unter einer\n"
+	.string "Kaskade, um Körper und Geist zu\l"
+	.string "stärken.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneSeen:
-    .string "To get to PRYCE, our GYM LEADER,\n"
-    .string "you need to think before you skate.$"
+	.string "Um zu Norbert zu gelangen,\n"
+	.string "musst du beim Skaten nachdenken.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneBeaten:
-    .string "I wouldn't lose to you in skiing!$"
+	.string "Ich hätte beim Skifahren nicht\n"
+	.string "gegen dich verloren!$"
 
 MahoganyTown_Gym_Text_SkierRoxanneAfter:
-    .string "If you don't skate with precision,\n"
-    .string "you won't get far in this GYM.$"
+	.string "Wer nicht präzise skatet,\n"
+	.string "kommt in dieser Arena nicht weit.$"
 
 MahoganyTown_Gym_Text_SkierClarissaSeen:
-    .string "Check out my parallel turn!$"
+	.string "Sieh dir meine Parallelkurve an!$"
 
 MahoganyTown_Gym_Text_SkierClarissaBeaten:
-    .string "No! You made me wipe out!$"
+	.string "Nein! Du hast mich ausrutschen\n"
+	.string "lassen!$"
 
 MahoganyTown_Gym_Text_SkierClarissaAfter:
-    .string "I shouldn't have been bragging\n"
-    .string "about my skiing…$"
+	.string "Ich hätte nicht mit dem Skaten\n"
+	.string "angeben sollen…$"
 

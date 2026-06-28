@@ -24,27 +24,28 @@ LavenderTown_PokemonCenter_EventScript_YoungsterReturnedMachinePart::
 	end
 
 LavenderTown_PokemonCenter1F_Text_Gentleman:
-	.string "To the north of LAVENDER is ROCK\n"
-	.string "TUNNEL. Go through it to get to\l"
-	.string "the POWER PLANT.$"
+	.string "Im Norden von LAVANDIA ist der\p"
+	.string "FELSTUNNEL. Er führt zum KRAFTWERK.$"
 
 LavenderTown_PokemonCenter1F_Text_Teacher:
-	.string "There's a radio program that plays\n"
-	.string "POKé FLUTE music.\p"
-	.string "Oh? Ah, your radio needs a RADIO\n"
-	.string "UPGRADE to tune into it.\p"
-	.string "Maybe the RADIO STATION here\n"
-	.string "in town can provide you one?$"
+	.string "Es gibt eine\n"
+	.string "Musiksendung im Radio, die Melodien\n"
+	.string "auf der - FLÖTE sendet.\p"
+	.string "Ach ja? Ah, dein\n"
+	.string "Radio braucht ein ZUSATZSET, damit du\l"
+	.string "das empfangen kannst.$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
-	.string "If the POWER PLANT isn't running,\n"
-	.string "the MAGNET TRAIN won't run either…\p"
-	.string "It also means the RADIO STATION\n"
-	.string "can't broadcast…$"
+	.string "Wenn das KRAFTWERK\n"
+	.string "nicht funktioniert, läuft der\p"
+	.string "MAGNETZUG auch nicht…\p"
+	.string "Das bedeutet, dass\n"
+	.string "auch die RADIOSTATION nicht\p"
+	.string "auf Sendung gehen kann…$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster_ReturnedMachinePart:
-	.string "The DIRECTOR of the RADIO STATION\n"
-	.string "sure was happy.\p"
-	.string "He said they're back on the air\n"
-	.string "because the POWER PLANT is running\l"
-	.string "smoothly again.$"
+	.string "Der INTENDANT der\n"
+	.string "RADIOSTATION war hoch erfreut.\p"
+	.string "Er sagte, sie seien wieder auf\p"
+	.string "Sendung, weil das\n"
+	.string "KRAFTWERK wieder einwandfrei arbeite.$"

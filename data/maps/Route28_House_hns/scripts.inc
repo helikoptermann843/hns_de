@@ -13,16 +13,17 @@ Route28House_EventScript_CelebrityAfter::
 	end
 
 Route28House_Text_Celebrity1:
-	.string "Oh, dear. You've found me.\p"
-	.string "Please don't tell anyone about me.\p"
-	.string "I'll give you this for keeping my\n"
-	.string "secret. Please?$"
+	.string "Oh je… Du hast mich gefunden.\p"
+	.string "Bitte erzähl niemandem von mir.\p"
+	.string "Ich gebe dir was, wenn du mein\n"
+	.string "Geheimnis bewahrst. Ok?$"
 
 Route28House_Text_Celebrity2:
-	.string "It's tough being a top celebrity.\p"
-	.string "Everywhere I go, people chase me.\p"
-	.string "I just want to be left alone…$"
+	.string "Es ist hart, ein Star zu sein.\p"
+	.string "Überall jagen mir die Leute nach.\p"
+	.string "Ich möchte einfach nur meine\n"
+	.string "Ruhe haben…$"
 
 Route28House_Text_Fearow:
-	.string "FEAROW: Feero!$"
+	.string "Ibitak: Fuuuah!$"
 

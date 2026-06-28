@@ -109,156 +109,171 @@ Route34_EventScript_Item_Embargo::
 
 
 Route34_Text_YoungsterSamuel_Seen:
-	.string "Hey! I'm looking for MANKEY!$"
+	.string "Hier trainiere ich!$"
 
 Route34_Text_YoungsterSamuel_Beaten:
-	.string "Beaten by a passing stranger!$"
+	.string "Besiegt von einem Passanten!$"
 
 Route34_Text_YoungsterSamuel_After:
-	.string "I'm going to train even harder.\p"
-	.string "After all, I'm trying to become\n"
-	.string "a GYM LEADER.$"
+	.string "Ich werde noch härter trainieren.\p"
+	.string "Ich möchte doch\n"
+	.string "ein ARENALEITER werden.$"
 
 Route34_Text_YoungsterIan_Seen:
-	.string "I'm the best in my class at\n"
-	.string "POKéMON.$"
+	.string "Ich bin der Pokémon-Experte\n"
+	.string "in meiner Klasse.$"
 
 Route34_Text_YoungsterIan_Beaten:
-	.string "No! There are better trainers…$"
+	.string "Nein! Es gibt noch bessere Trainer…$"
 
 Route34_Text_YoungsterIan_After:
-	.string "I'm trying hard so I can be the\n"
-	.string "star in my class.$"
+	.string "Ich strenge mich sehr an,\n"
+	.string "damit ich der Star in meiner\l"
+	.string "Klasse bin.$"
 
 Route34_Text_CamperTodd_Seen:
-	.string "I'm confident in my ability to\n"
-	.string "raise POKéMON.\p"
-	.string "Want to see?$"
+	.string "Ich vertraue meinen Fähigkeiten,\n"
+	.string "Pokémon zu trainieren.\p"
+	.string "Willst du es sehen?$"
 
 Route34_Text_CamperTodd_Beaten:
-	.string "Did I screw up my training?$"
+	.string "Habe ich falsch trainiert?$"
 
 Route34_Text_CamperTodd_After:
-	.string "Maybe I should take one to DAY-CARE,\n"
-	.string "or maybe use some items…$"
+	.string "Vielleicht sollte eines zur Pension..$"
 
 Route34_Text_ToddRegister:
-	.string "Maybe I should take one to DAY-CARE,\n"
-	.string "or maybe use some items…$"
+    .string "Vielleicht sollte ich eines in die\n"
+    .string "PENSION bringen oder ein paar\l"
+    .string "Items einsetzen…$"
 
 Route34_Text_ToddRematchIntro:
-	.string "I'm confident in my ability to\n"
-	.string "raise POKéMON.\p"
-	.string "Want to see?$"
+    .string "Ich bin überzeugt von meinen\n"
+    .string "Fähigkeiten als POKéMON-ZÜCHTER.\p"
+    .string "Willst du sie sehen?$"
 
 Route34_Text_ToddRematchDefeat:
-	.string "Did I screw up my training?$"
+    .string "Habe ich beim Training etwas\n"
+    .string "falsch gemacht?$"
 
 Route34_Text_ToddPostRematch:
-	.string "Maybe I should take one to DAY-CARE,\n"
-	.string "or maybe use some items…$"
+    .string "Vielleicht sollte ich eines in die\n"
+    .string "PENSION bringen oder ein paar\l"
+    .string "Items einsetzen…$"
 
 Route34_Text_PicnickerGina_Seen:
-	.string "Are you a TRAINER?\p"
-	.string "Let's have a practice battle.$"
+	.string "Bist du ein Trainer?\p"
+	.string "Hast du Lust auf einen Übungskampf?$"
 
 Route34_Text_PicnickerGina_Beaten:
-	.string "Oh, no! I just can't win…$"
+	.string "Oh nein! Ich habe noch nie gewonnen…$"
 
 Route34_Text_PicnickerGina_After:
-	.string "You're too strong to be a\n"
-	.string "practice partner.$"
+	.string "Du bist mir zu stark.\n"
+	.string "Das ist keine Übung für mich.$"
 
 Route34_Text_OfficerKeith_Seen:
-	.string "Who goes there?\n"
-	.string "What are you up to?$"
+	.string "Wer ist da? Was ist dein Begehr?$"
 
 Route34_Text_OfficerKeith_Win:
-	.string "You're a tough little kid.$"
+	.string "Du bist ein starker, junger Gegner.$"
 
 Route34_Text_OfficerKeith_After:
-	.string "Yep, nothing wrong today.\p"
-	.string "Be good and stay out of trouble.$"
+	.string "Ja, heute scheint alles in Ordnung\n"
+	.string "zu sein.\p"
+	.string "Benimm dich und halte dich aus\n"
+	.string "Schwierigkeiten heraus.$"
 
 Route34_Text_OfficerKeith_Daytime:
-	.string "I'm on patrol for suspicious\n"
-	.string "individuals.$"
+	.string "Ich bin auf der\n"
+	.string "Suche nach verdächtigen Individuen.$"
 
 Route34_Text_PokefanBrandon_Seen:
-	.string "I just got my POKéMON back from\n"
-	.string "DAY-CARE.\p"
-	.string "Let's see how much stronger it got!$"
+	.string "Ich habe gerade mein Pokémon\n"
+	.string "aus der PENSION wieder abgeholt.\p"
+	.string "Sehen wir mal,\n"
+	.string "wie stark es geworden ist!$"
 
 Route34_Text_PokefanBrandon_Beaten:
-	.string "Why does it end this way?$"
+	.string "Warum muss es auf diese Weise enden?$"
 
 Route34_Text_PokefanBrandon_After:
-	.string "My POKéMON came back with new moves.\p"
-	.string "That confounded me to no end!$"
+	.string "Mein Pokémon kannte Attacken,\n"
+	.string "von denen ich nicht wusste,\l"
+	.string "dass es sie hat.\p"
+	.string "Das war überaus erstaunlich!$"
 
 Route34_Text_Sign_IlexForest:
-	.string "ILEX FOREST\n"
-	.string "THROUGH THE GATE$"
+	.string "Zum STEINEICHENWALD\n"
+	.string "Durchschreite das Tor$"
 
 Route34_Text_Sign_Route34:
 	.string "ROUTE 34\n"
-	.string "GOLDENROD CITY - AZALEA TOWN\p"
-	.string "ILEX FOREST SOMEWHERE BETWEEN$"
+	.string "Dukatia City - Azalea City\p"
+	.string "Steineichenwald dazwischen$"
 
 Route34_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "BERRY trees grow new BERRIES\n"
-	.string "several times a day.\p"
-	.string "Note which trees bear which\n"
-	.string "BERRIES.$"
+	.string "TIPPS für TRAINER\p"
+	.string "Bäume mit BEEREN\n"
+	.string "tragen jeden Tag neue BEEREN.\p"
+	.string "Merke dir, welche BEEREN\n"
+	.string "an den Bäumen wachsen.$"
 
 Route34_Text_CooltrainerIrene_Seen:
-	.string "IRENE: Who are you?!$"
+	.string "LOLA: Uargh! Wir sind entdeckt!$"
 
 Route34_Text_CooltrainerIrene_Beaten:
-	.string "IRENE: Ohhh! You're too strong!$"
+	.string "LOLA: Ohhh! Viel zu stark!$"
 
 Route34_Text_CooltrainerIrene_After1:
-	.string "IRENE: My sister KATE will get you\n"
-	.string "for this!$"
+	.string "LOLA: Du wirst\n"
+	.string "meine Schwester EDNA noch\l"
+	.string "kennenlernen!$"
 
 Route34_Text_CooltrainerIrene_After2:
-	.string "IRENE: Isn't this beach great?\p"
-	.string "It's our secret little getaway!$"
+	.string "LOLA: Ist dieser\n"
+	.string "Strand nicht herrlich?\p"
+	.string "Er ist unsere geheime Zuflucht!$"
 
 Route34_Text_CooltrainerJenn_Seen:
-	.string "JENN: What the...?\n"
-	.string "What are you doing?$"
+	.string "ELSE: Dein Sieg\n"
+	.string "über LOLA muss gesühnt werden!$"
 
 Route34_Text_CooltrainerJenn_Beaten:
-	.string "JENN: So sorry, IRENE! Dear Sis!$"
+	.string "ELSE: Es tut mir so Leid,\n"
+	.string "Schwesterchen!$"
 
 Route34_Text_CooltrainerJenn_After1:
-	.string "JENN: Don't get cocky! My sister\n"
-	.string "KATE is tough!$"
+	.string "ELSE: Bilde dir\n"
+	.string "bloß nichts ein! Meine Schwester EDNA\l"
+	.string "ist sehr stark!$"
 
 Route34_Text_CooltrainerJenn_After2:
-	.string "JENN: Sunlight makes your body\n"
-	.string "stronger.$"
+	.string "ELSE: Sonnenlicht\n"
+	.string "kräftigt deinen Körper.$"
 
 Route34_Text_CooltrainerKate_Seen:
-	.string "KATE: I must pay you back for\n"
-	.string "taking care of my sisters!$"
+	.string "EDNA: Du warst wirklich gemein\n"
+	.string "zu meinen kleinen Schwestern!$"
 
 Route34_Text_CooltrainerKate_Beaten:
-	.string "KATE: No! I can't believe I lost.$"
+	.string "EDNA: Nein! Ich\n"
+	.string "kann nicht glauben,\l"
+	.string "dass ich verloren habe.$"
 
 Route34_Text_CooltrainerKate_GiveSoftSand:
-	.string "KATE: You are so strong.\n"
-	.string "We lost with no excuses...\p"
-	.string "Here, take this!$"
+	.string "KATE: You're too strong. I didn't\n"
+	.string "stand a chance. Here, you deserve\l"
+	.string "this.$"
 
 Route34_Text_CooltrainerKate_After:
-	.string "KATE: I'm sorry we jumped you.\p"
-	.string "We never expected anyone to find\n"
-	.string "us here. You sure startled us.$"
+	.string "EDNA: Bitte entschuldige,\n"
+	.string "dass wir dich überfallen haben.\p"
+	.string "Wir hätten nicht gedacht,\n"
+	.string "dass uns hier jemand findet.\p"
+	.string "Du hast uns überrascht.$"
 
 
 Route34_Text_Sign_DayCare:
-	.string "DAY-CARE\p"
-	.string "LET US RAISE YOUR POKéMON FOR YOU!$"
+	.string "PENSION\p"
+	.string "Wir kümmern uns um deine Pokémon!$"

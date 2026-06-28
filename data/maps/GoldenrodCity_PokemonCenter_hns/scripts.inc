@@ -137,23 +137,23 @@ GoldenrodCity_PokemonCenter_EventScript_LinkNpc_End::
 	end
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Intro:
-	.string "LINK CORNER\p"
-	.string "SELECT LINK TYPE.$"
+	.string "LINK-ECKE\p"
+	.string "WÄHLE LINK-TYP.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_BattleMode:
-	.string "SELECT BATTLE TYPE.$"
+	.string "WÄHLE KAMPFTYP.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Goodbye:
-	.string "GOODBYE.$"
+	.string "WIEDERSEHEN.$"
 
 GoldenrodCity_PokemonCenter_EventScript_LinkExplainerNpc::
 	msgbox GoldenrodCity_PokemonCenter_Text_LinkExplainer, MSGBOX_NPC
 	end
 
 GoldenrodCity_PokemonCenter_Text_LinkExplainer:
-	.string "You can use this machine to trade\n"
-	.string "or battle with other local players.\p"
-	.string "Isn't technology wonderful?$"
+	.string "Du kannst diese Maschine zum\n"
+	.string "tauschen oder kämpfen mit\l"
+	.string "anderen Spielern nutzen!$"
 
 GoldenrodCity_PokemonCenter_EventScript_GbaKid1::
 	lock
@@ -188,60 +188,57 @@ GoldenrodCity_PokemonCenter_EventScript_Lass::
 	end
 
 GoldenrodCity_PokemonCenter_GrannyText:
-    .string "I just love living in the big city!\n"
-    .string "I moved here when I was a young\l"
-    .string "trainer, like you!$"
+	.string "Ich vertausche fremde Pokebälle\n"
+	.string "und begehe Sozialbetrug$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText1:
-    .string "This is a special POKéMON CENTER.\n"
-    .string "The roof is made of gold!$"
+	.string "Ich baue ein riesiges\n"
+	.string "Lootmobil in Unturned.\p"
+	.string "Es hat Schränke und Treppen.\p"
+	.string "Leider wurde mein Freund gebannt.$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText2:
-    .string "I told my brother that the roof is\n"
-    .string "made of real gold. He'll believe\l"
-	.string "anything!$"
+	.string "Die haben garkeine Beweise,\n"
+	.string "Trotzdem wird der Bann\l"
+	.string "nicht aufgehoben.$"
 
 GoldenrodCity_PokemonCenter_LassText:
-    .string "A higher level POKéMON doesn't\n"
-    .string "always win.\p"
-    .string "After all, it may have a type\n"
-    .string "disadvantage.\p"
-    .string "I don't think there is a single\n"
-    .string "POKéMON that is the toughest.$"
+	.string "Meine Oma ist ein wenig verrückt,\n"
+	.string "aber ihre Spaghetti sind die besten.$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseAcceptGSBallText:
-    .string "{PLAYER}, isn't it?\p"
-    .string "Congratulations!\p"
-    .string "As a special deal, a GS BALL has\n"
-    .string "been sent just for you!\p"
-    .string "Please accept it!$"
+	.string "{PLAYER}, oder?\p"
+	.string "Glückwunsch!\p"
+	.string "Nur für dich wurde\n"
+	.string "ein GS-BALL geschickt!\p"
+	.string "Nimm ihn bitte!$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseDoComeAgainText:
-    .string "Please do come again!$"
+	.string "Beehre uns bald wieder!$"
 
 GoldenrodCity_PokemonCenter_PokefanFDoYouHaveEonMailText:
-    .string "Oh my, your pack looks so heavy!\p"
-    .string "Oh! Do you happen to have\n"
-    .string "something named EON MAIL?\p"
-    .string "My daughter is after one.\p"
-    .string "You can part with one, can't you?$"
+	.string "Oh, dein Beutel sieht schwer aus!\p"
+	.string "Oh! Hast du zufällig etwas,\n"
+	.string "das man ANARA-BRIEF nennt?\p"
+	.string "Meine Tochter sucht danach.\p"
+	.string "Du gibst mir doch einen, nicht wahr?$"
 
 GoldenrodCity_PokemonCenter_AskGiveAwayAnEonMailText:
-    .string "Give away an EON MAIL?$"
+	.string "ANARA-BRIEF weggeben?$"
 
 GoldenrodCity_PokemonCenter_PokefanFThisIsForYouText:
-    .string "Oh, that's great! Thank you,\n"
-    .string "honey!\p"
-    .string "Here, this is for you in return!$"
+	.string "Oh, großartig! Danke, Schatz!\p"
+	.string "Hier, als Ausgleich\n"
+	.string "sollst du das haben!$"
 
 GoldenrodCity_PokemonCenter_PokefanFDaughterWillBeDelightedText:
-    .string "My daughter will be delighted!$"
+	.string "Meine Tochter wird entzückt sein!$"
 
 GoldenrodCity_PokemonCenter_PokefanFTooBadText:
-    .string "Oh? You don't have one? Too bad.$"
+	.string "Oh? Du hast keinen? Schade.$"
 
 GoldenrodCity_PokemonCenter_PokefanFAnotherTimeThenText:
-    .string "Oh… Well, another time, then.$"
+	.string "Oh… Ein anderes Mal vielleicht.$"
 
 GoldenrodCity_PokemonCenter_PlayerGaveAwayTheEonMailText:
-    .string "{PLAYER} gave away the EON MAIL.$"
+	.string "{PLAYER} gibt den ANARA-BRIEF weg.$"

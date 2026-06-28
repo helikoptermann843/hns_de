@@ -27,18 +27,18 @@ CianwoodCity_EventScript_PharmacistAfter::
 
 
 CianwoodCity_Text_PharmacistGivePotion:
-	.string "Your POKéMON appear to be fine.\p"
-	.string "Is something worrying you?\p"
+	.string "Deine Pokémon scheinen OK zu sein.\p"
+	.string "Machst du dir Sorgen?\p"
 	.string "…\p"
-	.string "The LIGHTHOUSE POKéMON is in\n"
-	.string "trouble?\p"
-	.string "I got it!\p"
-	.string "This ought to do the trick.$"
+	.string "Das Leuchtturm-Pokémon steckt\n"
+	.string "in Schwierigkeiten?\p"
+	.string "Ich hab's!\p"
+	.string "Das sollte Funktionieren.$"
 
 CianwoodCity_Text_ReceivedSecretpotion:
-	.string "{PLAYER} received SECRET POTION.$"
+	.string "{PLAYER} erhielt GEHEIMTRANK.$"
 
 CianwoodCity_Text_PharmacistDescribePotion:
-	.string "My SECRET POTION is a tad too\n"
-	.string "strong, so I only offer it in an\l"
-	.string "emergency.$"
+	.string "Mein GEHEIMTRANK ist etwas zu\n"
+	.string "stark, deshalb gebe ich ihn nur\l"
+	.string "im Notfall.$"

@@ -44,10 +44,11 @@ LakeOfRage_EventScript_Pryce::
     end
 
 LakeOfRage_Text_Pryce:
-    .string "{PLAYER}.\p"
-	.string "Even here, the cold keeps me sharp.\p"
-	.string "If you wish to battle again, come\n"
-	.string "to the FIGHTING DOJO.$"
+	.string "{PLAYER}.\p"
+	.string "Sogar hier hält mich die Kälte\n"
+	.string "wachsam.\p"
+	.string "Wenn du wieder kämpfen willst,\n"
+	.string "komm zum KAMPF-DOJO.$"
 
 LakeOfRage_EventScript_Gramps::
 	goto_if_ge VAR_MAHOGANY_TOWN_STATE, 14, LakeOfRage_EventScript_Gramps2
@@ -239,124 +240,126 @@ LakeOfRage_Movement_DragoniteLeave:
 	step_end
 
 LakeOfRage_Text_Dragonite:
-	.string "DRAGONITE: Gyafooha!$"
+	.string "Dragoran: RWAAAH!$"
 
 LakeOfRage_Text_LanceForcedToEvolve:
-    .string "This lake is full of GYARADOS\n"
-    .string "but nothing else…\p"
-    .string "So the MAGIKARP are being forced\n"
-    .string "to evolve…$"
+	.string "Dieser See ist\n"
+	.string "voller GARADOS. Aber sonst gibt es\n"
+	.string "hier nichts…\p"
+	.string "Die KARPADOR wer-\n"
+	.string "den also gezwungen, sich zu\l"
+	.string "entwickeln…$"
 
 LakeOfRage_Text_LanceIntro1:
-    .string "Did you come here because of\n"
-    .string "the rumors?\p"
-    .string "You're {PLAYER}? I'm LANCE, a\n"
-    .string "trainer like you.$"
+	.string "Bist du wegen der Gerüchte hier?\p"
+	.string "Du bist {PLAYER}? Ich bin SIEGFRIED,\p"
+	.string "ein Trainer wie du.$"
 
 LakeOfRage_Text_LanceIntro2:
-    .string "This man here informed me of\n"
-    .string "some rumors.\p"
-    .string "So we came to investigate…$"
+	.string "Ich hörte einige Gerüchte. Also kam\p"
+	.string "ich hierher, um\n"
+	.string "einige Nachforschungen anzustellen…$"
 
 LakeOfRage_Text_LanceIntro3:
-    .string "I saw the way you battled\n"
-    .string "earlier, {PLAYER}.\p"
-    .string "I can tell that you're a trainer\n"
-    .string "with considerable skill.\p"
-    .string "If you don't mind, could you help\n"
-    .string "us investigate?$"
+	.string "Ich habe gesehen,\n"
+	.string "wie du kämpfst, {PLAYER}.\p"
+	.string "Man kann sagen,\n"
+	.string "dass du ein Trainer von\n"
+	.string "bemerkenswertem Format bist.\p"
+	.string "Würdest du mir bei\n"
+	.string "meinen Nachforschungen helfen?$"
 
 LakeOfRage_Text_LanceRadioSignal:
-    .string "LANCE: Excellent!\p"
-    .string "It seems that the LAKE's MAGIKARP\n"
-    .string "are being forced to evolve.\p"
-    .string "A mysterious radio broadcast\n"
-    .string "coming from MAHOGANY is the cause.\p"
-    .string "We'll be waiting for you,\n"
-    .string "{PLAYER}.$"
+	.string "SIEGFRIED: Exzellent!\p"
+	.string "Es sieht so aus, als würde jemand\p"
+	.string "die KARPADOR im\n"
+	.string "SEE zwingen, sich zu entwickeln.\p"
+	.string "Die Ursache ist das mysteriöse\p"
+	.string "Radiosignal aus MAHAGONIA CITY.\p"
+	.string "Ich werde auf dich warten,\n"
+	.string "{PLAYER}.$"
 
 LakeOfRage_Text_LanceRefused:
-    .string "Oh… Well, if you change your mind,\n"
-    .string "please help us.$"
+	.string "Oh… Solltest du\n"
+	.string "deine Meinung ändern, dann hilf mir\l"
+	.string "bitte.$"
 
 LakeOfRage_Text_LanceAskHelp:
-    .string "LANCE: Hm? Are you going to help\n"
-    .string "us?$"
+	.string "SIEGFRIED: Na? Wirst du mir helfen?$"
 
 LakeOfRage_Text_GyaradosCry:
-    .string "GYARADOS: Gyashaa!$"
+	.string "GARADOS: Gashaa!$"
 
 LakeOfRage_Text_Gramps:
-    .string "The GYARADOS are angry!\p"
-    .string "It's a bad omen!$"
+	.string "Die GARADOS sind wütend!\p"
+	.string "Das ist ein böses Omen!$"
 
 LakeOfRage_Text_GrampsCleared:
-    .string "Hahah! The MAGIKARP are biting!$"
+	.string "Die GARADOS sind wütend!\p"
+	.string "Das ist ein böses Omen!$"
 
 LakeOfRage_Text_SuperNerd:
-    .string "I heard this lake was made by\n"
-    .string "rampaging GYARADOS.\p"
-    .string "I wonder if there is any\n"
-    .string "connection to their mass outbreak\l"
-    .string "now?$"
+	.string "Ich habe gehört,\n"
+	.string "dieser See entstand durch wütende\n"
+	.string "GARADOS.\p"
+	.string "Ich frage mich, ob da eine Verbindung\n"
+	.string "\p"
+	.string "zu der momentanen Situation besteht!$"
 
 LakeOfRage_Text_CooltrainerF:
-    .string "Did my eyes deceive me? I saw a\n"
-    .string "red GYARADOS in the LAKE…\p"
-    .string "But I thought GYARADOS were\n"
-    .string "usually blue?$"
+	.string "Täuschen mich meine Augen? Ich sah\p"
+	.string "ein rotes GARADOS im SEE…\p"
+	.string "Aber ich dachte, GARADOS sind blau!$"
 
 
 LakeOfRage_Text_FisherAndreSeen:
-    .string "Let me battle with the POKéMON I\n"
-    .string "just caught!$"
+	.string "Lass mich mit den Pokémon\n"
+	.string "kämpfen, die ich gerade fing!$"
 
 LakeOfRage_Text_FisherAndreBeaten:
-    .string "I might be an expert angler, but\n"
-    .string "I stink as a POKéMON trainer…$"
+	.string "Ich bin ein Profiangler, doch\n"
+	.string "als Trainer tauge ich nix…$"
 
 LakeOfRage_Text_FisherAndreAfter:
-    .string "I won't lose as an angler! I catch\n"
-    .string "POKéMON all day.$"
+	.string "Als Angler verliere ich nie!\n"
+	.string "Ich fange Pokémon den ganzen Tag.$"
 
 
 LakeOfRage_Text_FisherRaymondSeen:
-    .string "No matter what I do, all I catch\n"
-    .string "are the same POKéMON…$"
+	.string "Egal was ich tu, ich fange\n"
+	.string "immer die gleichen Pokémon…$"
 
 LakeOfRage_Text_FisherRaymondBeaten:
-    .string "My line's all tangled up…$"
+	.string "Meine Schnur ist total verheddert…$"
 
 LakeOfRage_Text_FisherRaymondAfter:
-    .string "Why can't I catch any good\n"
-    .string "POKéMON?$"
+	.string "Warum kann ich keine guten\n"
+	.string "Pokémon fangen?$"
 
 LakeOfRage_Text_CooltrainermAaronSeen:
-    .string "If a trainer spots another trainer,\n"
-    .string "he has to make a challenge.\p"
-    .string "That is our destiny.$"
+	.string "Trifft ein Trainer auf einen anderen,\n"
+	.string "\p"
+	.string "so muss er ihn herausfordern.\p"
+	.string "Das ist unsere Bestimmung.$"
 
 LakeOfRage_Text_CooltrainermAaronBeaten:
-    .string "Whew… Good battle.$"
+	.string "Wow… Toller Kampf!$"
 
 LakeOfRage_Text_CooltrainermAaronAfter:
-    .string "POKéMON and their trainer become\n"
-    .string "powerful through constant battling.$"
+	.string "Pokémon und Trainer werden\n"
+	.string "stark durch ständiges Kämpfen.$"
 
 LakeOfRage_Text_CooltrainerfLoisSeen:
-    .string "What happened to the red\n"
-    .string "GYARADOS?\p"
-    .string "It's gone?\p"
-    .string "Oh, darn. I came here for\n"
-    .string "nothing?\p"
-    .string "I know--let's battle!$"
+	.string "Täuschen mich meine Augen? Ich sah\p"
+	.string "ein rotes GARADOS im SEE…\p"
+	.string "Aber ich dachte, GARADOS sind blau!$"
 
 LakeOfRage_Text_CooltrainerfLoisBeaten:
-    .string "Good going!$"
+	.string "Gut gemacht!$"
 
 LakeOfRage_Text_CooltrainerfLoisAfter:
-    .string "Come to think of it, I've seen a\n"
-    .string "pink BUTTERFREE.$"
+	.string "Wenn ich so darüber nachdenke,\n"
+	.string "hab ich ein pinkes BUTTERFREE gesehen.$"
 
 
 
@@ -405,26 +408,26 @@ LakeOfRage_EventScript_WesleyCompleted::
 	end
 
 LakeOfRage_Text_MeetWesley:
-    .string "WESLEY: Well, how do you do?\p"
-    .string "I'm a member of the WEEKDAY family!\n"
-	.string "Can you guess my favorite day?$"
+	.string "Mitko: Na, wie geht's dir?\p"
+	.string "Ich gehöre zur Wochentags-Familie!\n"
+	.string "Kannst du meinen Lieblingstag erraten?$"
 
 LakeOfRage_Text_WesleyGivesGift:
-    .string "Pleased to meet you. Please take a\n"
-    .string "souvenir.$"
+	.string "Freut mich! Bitte nimm dieses\n"
+	.string "Souvenir.$"
 
 LakeOfRage_Text_WesleyGaveGift:
-    .string "WESLEY: BLACK BELT beefs up the\n"
-    .string "power of fighting moves.$"
+	.string "Mitko: BLACKBELT erhöht die\n"
+	.string "Kraft von Kampf-Attacken.$"
 
 LakeOfRage_Text_WesleyWednesday:
-    .string "WESLEY: Since you found me, you\n"
-    .string "must have met my brothers and\l"
-    .string "sisters.\p"
-    .string "Or did you just get lucky?$"
+	.string "Mitko: Da du mich gefunden hast,\n"
+	.string "musstest du meine Brüder und\n"
+	.string "Schwestern treffen.\p"
+	.string "Oder hattest du einfach Glück?$"
 
 LakeOfRage_Text_WesleyNotWednesday:
-    .string "WESLEY: Not exactly...$"
+	.string "Mitko: Nicht ganz...$"
 
 LakeOfRage_EventScript_Sign1::
 	msgbox LakeOfRage_Text_Sign, MSGBOX_SIGN
@@ -435,8 +438,8 @@ LakeOfRage_EventScript_Sign2::
 	end
 
 LakeOfRage_Text_Sign:
-    .string "LAKE OF RAGE,\n"
-    .string "also known as GYARADOS LAKE.$"
+	.string "SEE DES ZORNS,\n"
+	.string "auch bekannt als GARADOS-SEE$"
 
 LakeOfRage_Text_FishingGuruSign:
-    .string "FISHING GURU'S HOUSE$"
+	.string "HAUS VOM PROFIANGLER$"

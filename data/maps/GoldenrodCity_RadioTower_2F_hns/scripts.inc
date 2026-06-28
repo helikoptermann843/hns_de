@@ -100,95 +100,97 @@ RadioTower2FBuenaPasswordIsHelpText:
 	.string "HELP, of course!$"
 
 GoldenrodCity_RadioTower_2F_Text_SuperNerd:
-	.string "You can listen to the radio\n"
-	.string "anywhere. Tune in!$"
+	.string "Du kannst überall Radio hören.\n"
+	.string "Stell einfach ein!$"
 
 GoldenrodCity_RadioTower_2F_Text_Policeman:
-	.string "Restricted access beyond this\n"
-	.string "point.$"
+	.string "Zutritt hinter diesem Punkt\n"
+	.string "verboten.$"
 
 GoldenrodCity_RadioTower_2F_Text_Teacher:
-	.string "Lullabies on the radio may make\n"
-	.string "POKéMON sleep.$"
+	.string "Wiegenlieder im Radio lassen\n"
+	.string "Pokémon einschlafen.$"
 
 GoldenrodCity_RadioTower_2F_Text_TeacherRockets:
-	.string "Why would they want to take over\n"
-	.string "the RADIO TOWER?$"
+	.string "Warum wollen sie wohl den\n"
+	.string "Radioturm übernehmen?$"
 
 GoldenrodCity_RadioTower_2F_Text_Jigglypuff:
-	.string "JIGGLYPUFF: Jiggly…$"
+	.string "Pummeluff: Puuu…$"
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt1:
-	.string "Sorry. Authorized personnel only\n"
-	.string "beyond this point.\p"
-	.string "It wasn't that way before.\p"
-	.string "There's something wrong with the\n"
-	.string "DIRECTOR…$"
+	.string "Sorry. Nur befugtes Personal darf\n"
+	.string "weiter.\p"
+	.string "Früher war das nicht so.\p"
+	.string "Mit dem DIREKTOR stimmt etwas\n"
+	.string "nicht…$"
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt2:
-	.string "Feel free to look around anywhere.\p"
-	.string "The DIRECTOR is nice again, just\n"
-	.string "as he was before.$"
+	.string "Schau dich ruhig überall um.\p"
+	.string "Der DIREKTOR ist wieder nett,\n"
+	.string "so wie früher.$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM4Seen:
-	.string "Three years ago, TEAM ROCKET was\n"
-	.string "forced to disband.\p"
-	.string "But we're making a comeback here!$"
+	.string "Vor drei Jahren wurde TEAM\n"
+	.string "ROCKET aufgelöst.\p"
+	.string "Aber wir kehren hier zurück!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM4Beaten:
-	.string "Gwah! Don't get cute!$"
+	.string "Gwah! Werd nicht frech!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM4After:
-	.string "We won't let you ruin our plans\n"
-	.string "for our comeback!$"
+	.string "Wir lassen dich unseren großen\n"
+	.string "Plan nicht ruinieren!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM5Seen:
-	.string "We're TEAM ROCKET, the exploiters\n"
-	.string "of POKéMON!\p"
-	.string "We love being evil! Scared?$"
+	.string "Wir sind TEAM ROCKET, die\n"
+	.string "Ausbeuter von Pokémon!\p"
+	.string "Wir lieben das Böse!\n"
+	.string "Na, Angst?$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM5Beaten:
-	.string "You think you're a hero?$"
+	.string "Glaubst du, du bist ein Held?$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM5After:
-	.string "We're not always evil. We just do\n"
-	.string "whatever we like.$"
+	.string "Wir sind nicht immer böse.\n"
+	.string "Wir tun, was wir wollen.$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6Seen:
-	.string "Hey, hey! Keep out of our way!$"
+	.string "Hey, hey! Bleib uns aus dem Weg!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6Beaten:
-	.string "Arggh. I give up.$"
+	.string "Arrgh. Ich geb auf.$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6After:
-	.string "Our EXECUTIVES are trying to take\n"
-	.string "this place over.\p"
-	.string "They have some big plan. I wonder\n"
-	.string "what that is?$"
+	.string "Unsere BOSSE versuchen, diesen\n"
+	.string "Ort zu übernehmen.\p"
+	.string "Sie haben einen großen Plan.\n"
+	.string "Was der wohl ist?$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntF2Seen:
 	.string "Hahaha!\p"
-	.string "How boring. It was far too easy\n"
-	.string "to take over this place!\p"
-	.string "Come on, keep me amused!$"
+	.string "Wie langweilig. Es war viel zu\n"
+	.string "leicht, diesen Ort zu nehmen!\p"
+	.string "Los, unterhalte mich!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntF2Beaten:
-	.string "Wh-who are you?$"
+	.string "W-wer bist du?$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntF2After:
-	.string "You beat me, and I won't forget\n"
-	.string "it!$"
+	.string "Du hast mich besiegt.\n"
+	.string "Ich vergesse das nicht!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaShowPromo:
-	.string "BUENA: Tune in to my PASSWORD\n"
-	.string "SHOW!$"
+	.string "Buena: Hör in meine\n"
+	.string "PASSWORT-SHOW rein!$"
 
 GoldenrodCity_RadioTower_2F_Text_SalesSign:
-	.string "2F SALES$"
+	.string "1S VERKAUF$"
 
 GoldenrodCity_RadioTower_2F_Text_OakTalkSign:
-	.string "PROF.OAK'S POKéMON TALK\p"
-	.string "The Hottest Show on the Air!$"
+	.string "PROF. EICHs POKéMON-TALK\p"
+	.string "Die heißeste Show im Radio!$"
 
 GoldenrodCity_RadioTower_2F_Text_PokemonRadioSign:
-	.string "Anywhere, Anytime POKéMON Radio$"
+	.string "Überall und jederzeit:\n"
+	.string "Pokémon-Radio!$"

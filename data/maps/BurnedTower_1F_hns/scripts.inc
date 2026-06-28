@@ -193,23 +193,26 @@ BurnedTower_1F_EventScript_Richardo::
 	end
 
 BurnedTower_Text_NardSeen:
-	.string "Don't worry!\p"
-	.string "We fire-breathers know the true\n"
-	.string "power of fire better than anyone!$"
+	.string "Keine Sorge!\p"
+	.string "Wir Feuerspucker kennen die wahre\n"
+	.string "Stärke von Feuer besser als alle\l"
+	.string "anderen!$"
 BurnedTower_Text_NardBeaten:
-	.string "Thanks for such a heated battle!$"
+	.string "Danke für den hitzigen Kampf!$"
 BurnedTower_Text_NardAfter:
-	.string "The reason this tower's burned is\n"
-	.string "that it was hit by lightning.\p"
-	.string "The fire I'm breathing is tiny\n"
-	.string "in comparison...$"
+	.string "Der Grund, warum dieser Turm verbrannt\l"
+	.string "ist,\n"
+	.string "ist, dass er vom Blitz getroffen\p"
+	.string "wurde.\p"
+	.string "Mein Feuer ist im Vergleich dazu\n"
+	.string "winzig...$"
 
 BurnedTower_Text_RichardoSeen:
-	.string "I'm practicing my stealing in the\n"
-	.string "BURNED TOWER! Don't try\l"
-	.string "this at home!$"
+	.string "Ich übe das Stehlen in der\n"
+	.string "Turmruine! Versuch das nicht\p"
+	.string "Zuhause!$"
 BurnedTower_Text_RichardoBeaten:
 	.string "Pfffffffffffffff.$"
 BurnedTower_Text_RichardoAfter:
-	.string "Maybe a life of crime isn't for\n"
-	.string "me...$"
+	.string "Vielleicht ist ein Leben als\n"
+	.string "Verbrecher doch nichts für mich...$"

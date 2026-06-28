@@ -51,36 +51,37 @@ MountMortar4_EventScript_KiyoAfter::
 
 
 MountMortar4_Text_KiyoIntro:
-	.string "Hey!\p"
-	.string "I am the KARATE KING!\n"
-	.string "I train alone here in the dark!\p"
-	.string "You! Battle with me!\n"
-	.string "Hwaaarggh!$"
+	.string "Heh!\p"
+	.string "Ich bin der KARATE-MEISTER!\p"
+	.string "Ich trainiere hier allein im Dunkeln!\n"
+	.string "\p"
+	.string "Du! Kämpfe mit mir!\p"
+	.string "Arggh!$"
 
 MountMortar4_Text_KiyoWin:
-	.string "Waaaarggh!\n"
-	.string "I'm beaten!$"
+	.string "Waaaarggh! Ich wurde besiegt!$"
 
 MountMortar4_Text_KiyoTyrogueReward:
-	.string "I... I'm crushed...\p"
-	.string "My training is still not\n"
-	.string "enough...\p"
-	.string "But a loss is a loss.\n"
-	.string "I admit it.\p"
-	.string "As proof that you defeated me,\n"
-	.string "I'll give you a rare fighting\l"
-	.string "POKéMON.$"
+	.string "Ich… ich bin am Boden zerstört…\p"
+	.string "Ich habe nicht gut genug trainiert…\p"
+	.string "Eine Niederlage\n"
+	.string "ist nun mal eine Niederlage. Das gebe\n"
+	.string "ich zu.\p"
+	.string "Als Beweis für deinen Sieg gebe\p"
+	.string "ich dir dieses seltene KampfPokémon.$"
 
 MountMortar4_Text_ReceiveTyrogue:
-	.string "{PLAYER} received TYROGUE.$"
+	.string "{PLAYER} erhält Rabauz.$"
 
 MountMortar4_Text_KiyoGotTyrogue:
-	.string "TYROGUE is a FIGHTING-type.\p"
-	.string "It evolves into a tougher\n"
-	.string "POKéMON.\p"
-	.string "Keep up the hard work.\n"
-	.string "I'll keep training too.\p"
-	.string "Farewell!$"
+	.string "RABAUZ ist ein Kampf-Pokémon.\p"
+	.string "Es entwickelt sich\n"
+	.string "zu einem stärkeren Pokémon.\p"
+	.string "Arbeite so hart\n"
+	.string "weiter. Ich werde auch weiterhin\n"
+	.string "trainieren.\p"
+	.string "Lebe wohl!$"
 
 MountMortar4_Text_KiyoFullParty:
-	.string "You have no room in your party!$"
+	.string "Du kannst keine\n"
+	.string "weiteren Pokémon mehr tragen!$"

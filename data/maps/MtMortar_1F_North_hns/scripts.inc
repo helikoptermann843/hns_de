@@ -46,31 +46,30 @@ MtMortar_1F_North_EventScript_Markus::
 	end
 
 MountMortar2_Text_PokemaniacMillerSeen:
-	.string "I'm not losing this time!$"
+	.string "Diesmal verliere ich nicht!$"
 
 MountMortar2_Text_PokemaniacMillerBeaten:
-	.string "I lost to some kid...?$"
+	.string "Ich hab gegen so’n Kind verloren…?$"
 
 MountMortar2_Text_PokemaniacMillerAfter:
-	.string "A while back, this karate dude\n"
-	.string "wanted to battle.\p"
-	.string "He was ridiculously good.\n"
-	.string "He just thrashed us silly.\p"
-	.string "He went in deeper saying it\n"
-	.string "was for his training.\p"
-	.string "I wonder how he is?$"
+	.string "Vor einer Weile wollte so’n\n"
+	.string "Karate-Typ kämpfen.\p"
+	.string "Er war unglaublich stark.\n"
+	.string "Er hat uns einfach plattgemacht.\p"
+	.string "Er ist tiefer hineingegangen,\n"
+	.string "um zu trainieren.\p"
+	.string "Frag mich, wie es ihm geht.$"
 
 MountMortar2_Text_SupernerdMarkusSeen:
-	.string "Hey! HUGH!$"
+	.string "Hey! DU!$"
 
 MountMortar2_Text_SupernerdMarkusBeaten:
-	.string "I mistook you for someone\n"
-	.string "else…$"
+	.string "Ich hab dich mit jemandem\n"
+	.string "verwechselt…$"
 
 MountMortar2_Text_SupernerdMarkusAfter:
-	.string "I came to explore MT.MORTAR,\n"
-	.string "but I got separated from my\l"
-	.string "partner…\p"
-	.string "Did you run into a trainer\n"
-	.string "who uses a SEADRA that knows\l"
-	.string "WATERFALL?$"
+	.string "Ich wollte den SILBERBERG\n"
+	.string "erkunden, aber wurde von\l"
+	.string "meinem Partner getrennt…\p"
+	.string "Bist du einem Trainer begegnet,\n"
+	.string "dessen Seemon Kaskade kann?$"

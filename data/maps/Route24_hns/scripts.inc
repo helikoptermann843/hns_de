@@ -116,59 +116,48 @@ Route24_Movement_GruntLeave:
 	step_end
 
 Route24_Text_RocketSeen:
-	.string "Hey, kid! Me am a TEAM ROCKET\n"
-	.string "member kind of guy!\p"
-	.string "Come from another country, a\n"
-	.string "trainer number one, me!\p"
-	.string "Think I did, if stop the energy,\n"
-	.string "be big panic for here people!\p"
-	.string "Secret it is my mission, so tell\n"
-	.string "you I not!\p"
-	.string "But! If win you do versus me, a\n"
-	.string "man I be and mine secret to you\l"
-	.string "I tell.\p"
-	.string "Hey, kid! Battle begin we do!$"
+	.string "Hey, Minimensch!\n"
+	.string "Ich sein von TEAM ROCKET.\p"
+	.string "Sein aus fremde\n"
+	.string "Land, Trainer eins ich sein!\p"
+	.string "Geglaubt, wenn nix Energie mehr,\p"
+	.string "mache viel Panik bei Leute!\p"
+	.string "Geheim mein\n"
+	.string "Auftrag sein, ich dir nix verraten!\p"
+	.string "Doch! Wenn mich besiegen, ich sein\p"
+	.string "lieb und dir verrate Geheimnis.\p"
+	.string "Du, Kind! Kämpfen lass uns!$"
 
 Route24_Text_RocketBeaten:
-	.string "Ayieeeh! No, no, no, believe it\n"
-	.string "I can't!\p"
-	.string "Strong very much be you! Match\n"
-	.string "I am not to you!$"
+	.string "Uff! Nein, glauben nicht ich kann!\p"
+	.string "Stark sehr du\n"
+	.string "sein! Ich nix Gegner für dich!$"
 
 Route24_Text_RocketAfter:
-	.string "OK. Tell you mine secret will I?\n"
-	.string "MACHINE PART steal by me, hide it\l"
-	.string "I did in GYM of the CERULEAN.\p"
-	.string "Inside water put it I did. Look\n"
-	.string "for in water center of GYM at.\p"
-	.string "But you forget me not!\p"
-	.string "Beat you for sure will TEAM\n"
-	.string "ROCKET.\p"
-	.string "Come from JOHTO will they, mine\n"
-	.string "friends, yes. Will revenge they\l"
-	.string "are.$"
+	.string "Uff! Nein, glauben nicht ich kann!\p"
+	.string "Stark sehr du\n"
+	.string "sein! Ich nix Gegner für dich!$"
 
 Route24_Text_RocketDisappears:
 	.string "…\p"
-	.string "You say what? TEAM ROCKET bye-\n"
-	.string "bye a go-go? Broken it is says\l"
-	.string "you?\p"
-	.string "Oh, no! Should I do what now on\n"
-	.string "from, me?$"
+	.string "Was du sagen? TEAM ROCKET nix mehr\p"
+	.string "gibt? Kaputt gemacht, du sagen?\p"
+	.string "Oh, nein! Ich tun was jetzt machen?$"
 
 
 
 Route24_Text_Woman:
-	.string "Isn't it a lovely view?$"
+	.string "Ist das nicht eine schöne Aussicht?$"
 Route24_Text_Man:
-	.string "I could stay here all day.$"
+	.string "Ich könnte den ganzen Tag hier\n"
+	.string "bleiben.$"
 
 Route24_Text_WomanRocket:
-	.string "Nobody pushes me!$"
+	.string "Niemand schubst mich!$"
 Route24_Text_ManRocket:
-	.string "Nobody pushes my girlfriend!$"
+	.string "Niemand schubst meine Freundin!$"
 
 Route24_Text_WomanAfterRocket:
-	.string "What was that all about?$"
+	.string "Was sollte das denn?$"
 Route24_Text_ManAfterRocket:
-	.string "Was that a ROCKET?$"
+	.string "War das etwa ein ROCKET?$"

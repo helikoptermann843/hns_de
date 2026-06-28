@@ -86,47 +86,50 @@ CeladonGameCorner_EventScript_Woman::
 	end
 
 CeladonGameCorner_Text_PokefanM:
-	.string "The slot machines are all state\n"
-	.string "of the art.$"
+	.string "Die Spielautomaten sind alle auf\n"
+	.string "dem neuesten Stand.$"
 
 CeladonGameCorner_Text_Teacher:
-	.string "It's this machine I want.\p"
-	.string "It cleaned me out yesterday, so it\n"
-	.string "should pay out today.$"
+	.string "Genau diese Maschine will ich.\p"
+	.string "Gestern hat sie mich leergeräumt,\n"
+	.string "heute sollte sie auszahlen.$"
 
 CeladonGameCorner_Text_FishingGuru:
-	.string "I think this slot machine will pay\n"
-	.string "out…\p"
-	.string "The odds vary among machines.$"
+	.string "Ich glaube, dieser Spielautomat wird\n"
+	.string "auszahlen…\p"
+	.string "Die Chancen unterscheiden sich bei den\n"
+	.string "Maschinen.$"
 
 CeladonGameCorner_Text_Fisher1:
 	.string "Gahahaha!\p"
-	.string "The coins just keep coming in!\p"
-	.string "Hm? What, kid? You want to play?\p"
-	.string "I'll share my luck with you!$"
+	.string "Die Münzen kommen einfach immer wieder\n"
+	.string "heraus!\p"
+	.string "Hm? Was, Junge? Willst du spielen?\p"
+	.string "Ich teile mein Glück mit dir!$"
 
 CeladonGameCorner_Text_Fisher2:
 	.string "Gahahaha!\p"
-	.string "It makes me feel good to do nice\n"
-	.string "things for other people!$"
+	.string "Es macht mich froh, anderen Leuten\n"
+	.string "eine Freude zu bereiten!$"
 
 CeladonGameCorner_Text_GymGuide:
-	.string "Hey! CHAMP in making!\p"
-	.string "Are you playing the slots too?\p"
-	.string "I'm trying to get enough coins for\n"
-	.string "a prize POKéMON.\p"
-	.string "But I don't have enough coins yet…$"
+	.string "Hey! Künftiger CHAMP!\p"
+	.string "Spielst du auch an den Spielautomaten?\n"
+	.string "\p"
+	.string "Ich versuche, genug Münzen für\n"
+	.string "ein Preis-Pokémon zu bekommen.\p"
+	.string "Aber ich habe noch nicht genug Münzen…$"
 
 CeladonGameCorner_Text_PokefanF:
 	.string "Roulette…\p"
-	.string "I prefer it over the slots because\n"
-	.string "it's easier to figure the odds.\p"
-	.string "But the payout is much lower.$"
+	.string "Ich mag die Slots lieber,\n"
+	.string "da ist es leichter, die Chancen.\p"
+	.string "auszurechnen.$"
 
 CeladonGameCorner_Text_Gramps:
-	.string "Hmmm… The odds are surely\n"
-	.string "better putting it all on blue,\l"
-	.string "but… what to do?$"
+	.string "Hmmm… Die Chancen sind sicher besser\n"
+	.string "für Pikachus Linie,\l"
+	.string "aber… was tun?$"
 
 CeladonGameCorner_Text_Woman:
-	.string "I can't stop winning!$"
+	.string "Ich kann nicht aufhören zu gewinnen!$"

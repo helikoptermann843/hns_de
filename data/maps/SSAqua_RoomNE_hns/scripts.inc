@@ -12,26 +12,25 @@ SSAqua_RoomNE_EventScript_Ethan::
 	end
 
 SSAqua_RoomNE_Text_HikerNolandSeen:
-    .string "Are you alone?\n"
-    .string "Then let's battle!$"
+	.string "Bist du allein?\n"
+	.string "Dann lass uns kämpfen!$"
 
 SSAqua_RoomNE_Text_HikerNolandBeaten:
-    .string "That's too much to handle!$"
+	.string "Das ist zu viel für mich!$"
 
 SSAqua_RoomNE_Text_HikerNolandAfterBattle:
-    .string "I wonder if there are any\n"
-    .string "mountains worth climbing in KANTO?$"
+	.string "Ich frage mich, ob es in KANTO\n"
+	.string "Berge gibt, die sich lohnen!$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanSeen:
-    .string "Do you know LILY?\n"
-    .string "She's a hot DJ in KANTO.$"
+	.string "Kennst du Lilly?\n"
+	.string "Sie ist eine coole DJ in KANTO.$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanBeaten:
-    .string "Gyaaaah!$"
+	.string "Gyaaaah!$"
 
 SSAqua_RoomNE_Text_PokemaniacEthanAfterBattle:
-    .string "LILY's nice, but\n"
-    .string "MARY's the best!\n"
-    .string "I want to check\n"
-    .string "out JOHTO's radio\n"
-    .string "programs!$"
+	.string "LILLY ist gut,\n"
+	.string "aber MARGIT ist die Beste!\p"
+	.string "Ich möchte gerne\n"
+	.string "alle Radiosender von JOHTO anhören!$"

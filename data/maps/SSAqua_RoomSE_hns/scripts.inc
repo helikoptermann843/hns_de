@@ -19,34 +19,35 @@ SSAqua_RoomSE_EventScript_Peg::
 	end
 
 SSAqua_RoomSE_Text_PokefanmColinSeen:
-    .string "Hey, kid! Want to battle\n"
-    .string "with me?$"
+	.string "Hey, Kind! Willst du gegen mich\n"
+	.string "kämpfen?$"
 
 SSAqua_RoomSE_Text_PokefanmColinBeaten:
-    .string "You're strong!$"
+	.string "Du bist stark!$"
 
 SSAqua_RoomSE_Text_PokefanmColinAfter:
-    .string "You're traveling all alone?\n"
-    .string "Isn't your mom worried?$"
+	.string "Du reist ganz allein?\n"
+	.string "Ist deine Mama nicht besorgt?$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1Seen:
-    .string "You think I'm a baby?\n"
-    .string "That's not fair!$"
+	.string "Denkst du, ich sei ein Baby?\n"
+	.string "Das ist unfair!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1Beaten:
-    .string "Oh! We lost!$"
+	.string "Oh! Wir haben verloren!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1After:
-    .string "Baby is a rude name to call\n"
-    .string "us girls!$"
+	.string "Baby ist ein unhöflicher Name\n"
+	.string "für uns Mädels!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg2Seen:
-    .string "I'm not a baby!\n"
-    .string "That's not nice to say to a lady!$"
+	.string "Ich bin kein Baby!\n"
+	.string "So was sagt man nicht zu einer\l"
+	.string "Dame!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg2Beaten:
-    .string "Oh! We lost!$"
+	.string "Oh! Wir haben verloren!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg2After:
-    .string "Sometimes, kids are smarter\n"
-    .string "than grown-ups!$"
+	.string "Manchmal sind Kinder klüger\n"
+	.string "als Erwachsene!$"

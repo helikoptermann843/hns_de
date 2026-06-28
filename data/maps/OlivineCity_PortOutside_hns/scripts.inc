@@ -16,10 +16,10 @@ OlivineCity_PortOutside_EventScript_Sabrina::
     end
 
 OlivineCity_PortOutside_Text_Sabrina:
-    .string "SABRINA: Out of the blue,\n"
-	.string "I get the urge to see the ocean.\p"
-	.string "I'll see you at the FIGHTING\n"
-	.string "DOJO.$"
+	.string "Sabrina: Aus dem blauen heraus,\n"
+	.string "habe ich das Bedürfnis,\n"
+	.string "das Meer zu sehen.\p"
+	.string "Triff mich zum kämpfen im DOJO.$"
 
 OlivineCity_PortOutside_EventScript_Fisherman1::
 	lock
@@ -38,9 +38,9 @@ OlivineCity_PortOutside_EventScript_Fisherman2::
 	end
 
 OlivineCity_PortOutside_Text_PortFisherman1:
-	.string "FAST SHIP S.S.AQUA used to sail to\n"
-	.string "KANTO on Mondays and Fridays. But\l"
-	.string "now, it sails almost constantly!$"
+	.string "Die M.S.AQUA ist früher nur\n"
+	.string "Montags und Freitags nach Kanto\l"
+	.string "gefahren, heutzutage fast täglich!$"
 
 OlivineCity_PortOutside_Text_Fisherman2:
-	.string "Aw yeah, I'm fishin'.$"
+	.string "Oh ja, ich fische gerne.$"

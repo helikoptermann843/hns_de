@@ -35,41 +35,41 @@ Route4_EventScript_Sign::
 	end
 
 Route4_Text_BirdKeeperHank_Seen:
-	.string "I'm raising my POKéMON. Want to battle\n"
-	.string "with me?$"
+	.string "Ich trainiere\n"
+	.string "Pokémon. Trittst du gegen mich an?$"
 
 Route4_Text_BirdKeeperHank_Beaten:
-	.string "Ack! I lost that one…$"
+	.string "Uff! Ich habe verloren…$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
-	.string "If you have a specific POKéMON that you\n"
-	.string "want to raise, put it out first, then\l"
-	.string "switch it right away.\p"
-	.string "That's how to do it.$"
+	.string "Hast du ein spezielles Pokémon,\p"
+	.string "das du trainieren möchtest, setze es\p"
+	.string "an die erste Stel-\n"
+	.string "le und tausche es sofort aus.\p"
+	.string "So funktioniert das.$"
 
 Route4_Text_PicnickerHope_Seen:
-	.string "I have a feeling that I can win.\p"
-	.string "Let's see if I'm right!$"
+	.string "Ich spüre, dass ich gewinnen kann.\p"
+	.string "Mal sehen, ob das stimmt!$"
 
 Route4_Text_PicnickerHope_Beaten:
-	.string "Aww, you are too strong.$"
+	.string "Argh, du bist zu stark.$"
 
 Route4_Text_PicnickerHope_AfterBattle:
-	.string "I heard CLEFAIRY appear at MT.MOON.\p"
-	.string "But where could they be?$"
+	.string "Ich hörte, dass PIEPI am MONDBERG\p"
+	.string "auftauchen. Aber wo soll das sein?$"
 
 Route4_Text_PicnickerSharon_Seen:
-	.string "Um…\n"
-	.string "I…$"
+	.string "Ähm… Ich…$"
 
 Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"
 
 Route4_Text_PicnickerSharon_AfterBattle:
-	.string "……I'll go train some more…$"
+	.string "……Ich sollte\n"
+	.string "wohl noch mehr trainieren…$"
 
 Route4_Text_MtMoonSquareSign:
-	.string "MT.MOON NEW ENTRANCE\n"
-	.string "DUE TO CAVE-IN\p"
-	.string "WATCH YOUR STEP$"
+	.string "MONDBERGPLATZ\p"
+	.string "Geh einfach die Treppe hoch$"
 

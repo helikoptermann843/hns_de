@@ -41,17 +41,19 @@ CherryGrove_Pokecenter_Chansey::
 	end
 
 CherryGrove_Pokecenter_Text_Fisher:
-	.string "It's great. I can store any number\n"
-	.string "of POKéMON, and it's all free.$"
+	.string "Es ist großartig. Ich kann beliebig\n"
+	.string "viele Pokémon lagern, und das\l"
+	.string "alles kostenlos.$"
 
 CherryGrove_Pokecenter_Text_Gentleman:
-	.string "That PC is free for any\n"
-	.string "trainer to use.$"
+	.string "Dieser PC ist für jeden Trainer\n"
+	.string "frei nutzbar.$"
 
 CherryGrove_Pokecenter_Text_Lass:
-	.string "They say a watched pot never\n"
-	.string "boils. But watching the clock\l"
-	.string "in the POKéCENTER makes time fly!$"
+	.string "Man sagt, ein Tunichtgut tut nichts\n"
+	.string "gut,\p"
+	.string "aber wer nichts tut,\n"
+	.string "tut sich nicht gut!$"
 
 CherryGrove_Pokecenter_Text_Chansey:
-	.string "CHANSEY: Chaan! Sii!$"
+	.string "Chaneira: Chaa! Cha!$"

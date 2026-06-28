@@ -31,18 +31,18 @@ ViridianCity_House1_EventScript_Rattey::
 	end
 
 ViridianCity_House1_Text_PokefanM:
-	.string "Do you put a lot of thought into\n"
-	.string "naming your POKéMON?\p"
-	.string "Giving them good nicknames adds to\n"
-	.string "the fun of trading with others.$"
+	.string "Denkst du viel nach beim\n"
+	.string "Spitznamen deiner Pokémon?\p"
+	.string "Gute Spitznamen machen das\n"
+	.string "Tauschen mit anderen noch spaßiger.$"
 
 ViridianCity_House1_Text_Lass:
-	.string "They're SPEARY--a SPEAROW--and\n"
-	.string "RATTEY--a RATTATA.$"
+	.string "Sie heißen Hamburger--ein Habitak--\n"
+	.string "und RATTENKOPF--ein Rattfratz.$"
 
 ViridianCity_House1_Text_Speary:
-	.string "SPEARY: Ch-chun!$"
+	.string "Hamburger: Haaam!$"
 
 ViridianCity_House1_Text_Rattey:
-	.string "RATTEY: Kikiii!$"
+	.string "RATTENKOPF: Raraa!$"
 

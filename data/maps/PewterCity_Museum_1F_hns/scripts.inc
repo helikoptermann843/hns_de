@@ -39,34 +39,34 @@ PewterCity_Museum_1F_EventScript_Bones::
 	end
 
 PewterCity_Museum_1F_Text_Recptionist:
-	.string "Welcome!\p"
-	.string "Just to let you know, all the large\n"
-	.string "specimens have been taken to the\l"
-	.string "other museums for display.\p"
-	.string "So for now, admission is free of\n"
-	.string "charge!\p"
-	.string "Please go ahead.$"
+	.string "Willkommen!\p"
+	.string "Zur Info: Alle großen Exponate\n"
+	.string "wurden an andere Museen zur\l"
+	.string "Ausstellung gebracht.\p"
+	.string "Darum ist der Eintritt derzeit\n"
+	.string "kostenlos!\p"
+	.string "Bitte treten Sie ein.$"
 
 PewterCity_Museum_1F_Text_FossilWoman:
-	.string "You must be a strong trainer.\p"
-	.string "We don't have much use for the\n"
-	.string "fossils on the counter over there.\p"
-	.string "A strange man with silver hair\n"
-	.string "dropped a ton of them off here.\p"
-	.string "Go ahead and take them if you like.$"
+	.string "Du musst ein starker Trainer sein.\p"
+	.string "Wir können die Fossilien auf dem\n"
+	.string "Tresen dort gut entbehren.\p"
+	.string "Ein seltsamer Mann mit silbernem\n"
+	.string "Haar hat viele hier abgegeben.\p"
+	.string "Nimm sie ruhig, wenn du willst.$"
 
 PewterCity_Museum_1F_Text_FossilWomanAfter:
-	.string "We often share research with the\n"
-	.string "RUINS OF ALPH researchers.\p"
-	.string "We even share fossils with them\n"
-	.string "through the PC!$"
+	.string "Wir teilen oft Forschung mit\n"
+	.string "den Forschern der ALPH-RUINEN.\p"
+	.string "Sogar Fossilien senden wir ihnen\n"
+	.string "über den PC!$"
 
 PewterCity_Museum_1F_Text_Oldman:
-	.string "I should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+	.string "Ich sollte dankbar für mein\n"
+	.string "langes Leben sein.\p"
+	.string "Nie hätte ich gedacht, einmal\n"
+	.string "die Knochen eines Drachen zu sehen!$"
 
 PewterCity_Museum_1F_Text_Bones:
-	.string "Bones of an ancient dragon\n"
-	.string "POKéMON.$"
+	.string "Knochen eines uralten\n"
+	.string "Drachen-Pokémon.$"

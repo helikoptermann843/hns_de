@@ -40,12 +40,14 @@ MtMortar_2F_Text_SupernerdHughSeen::
 	.string "Yo! MARKUS!$"
 
 MtMortar_2F_Text_SupernerdHughBeaten:
-	.string "Sorry, my mistake.\n"
-	.string "I misjudged you.$"
+	.string "Sorry, mein Fehler.\n"
+	.string "Ich hab dich falsch\l"
+	.string "eingeschätzt.$"
 
 MtMortar_2F_Text_SupernerdHughAfter:
-	.string "I'm investigating MT.MORTAR,\n"
-	.string "but my pal's gone AWOL.\p"
-	.string "Have you seen a trainer who\n"
-	.string "has a SLOWPOKE that can use\l"
-	.string "STRENGTH?$"
+	.string "Ich untersuche den\n"
+	.string "KESSELBERG, aber mein\n"
+	.string "Kumpel ist verschwunden.\p"
+	.string "Hast du einen Trainer\n"
+	.string "gesehen, dessen Flegmon\l"
+	.string "Stärke einsetzen kann?$"

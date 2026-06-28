@@ -35,17 +35,18 @@ BlackthornCity_EventScript_Call::
 	end
 
 BlackthornCity_Text_BaobaCall:
-	.string "WARDEN BAOBA: {PLAYER}!\p"
-	.string "This is WARDEN BAOBA.\p"
-	.string "I'm calling to tell you that\n"
-	.string "the SAFARI ZONE has expanded!\p"
-	.string "Please come visit!$"
+	.string "Aufseher Baoba: {PLAYER}!\p"
+	.string "Hier ist Aufseher Baoba.\p"
+	.string "Ich rufe dich an um dir\n"
+	.string "mitzuteilen das die Safari-Zone!\n"
+	.string "vergrößert wurde!\p"
+	.string "bitte komm vorbei!$"
 
 BlackthornCity_Text_ElmCall:
-	.string "PROF.ELM: Hello, {PLAYER}?\p"
-	.string "I have something here for you.\n"
-	.string "Could you swing by my LAB?\p"
-	.string "See you later!$"
+	.string "PROF. Lind: Hallo, {PLAYER}?\p"
+	.string "Ich habe hier etwas für dich\n"
+	.string "Kommst du zu meinem Labor?\p"
+	.string "Bis Später!$"
 
 BlackThornCity_EventScript_Sage::
 	lock
@@ -175,22 +176,23 @@ BlackthornCity_EventScript_SantosCompleted::
 
 
 BlackthornCity_Text_ClairNotReady:
-	.string "CLAIR, our GYM LEADER, has been\n"
-	.string "following your progress.\p"
-	.string "However, she only battles trainers\n"
-	.string "who already have 7 badges.$"
+	.string "Sandra, unsere Arenaleiterin, hat\n"
+	.string "deinen Fortschritt verfolgt.\p"
+	.string "Sie kämpft jedoch nur gegen Trainer,\n"
+	.string "die bereits 7 ORDEN besitzen.$"
 
 BlackthornCity_Text_ClairIsIn:
-	.string "CLAIR, our GYM LEADER, is waiting\n"
-	.string "for you.\p"
-	.string "However, it would be impossible for\n"
-	.string "a run-of-the-mill trainer to win.$"
+	.string "Sandra, unsere Arenaleiterin, wartet\n"
+	.string "auf dich.\p"
+	.string "Für einen gewöhnlichen Trainer wäre es\n"
+	.string "jedoch unmöglich zu gewinnen.$"
 
 BlackthornCity_Text_ClairIsBeaten:
-	.string "You defeated CLAIR?\p"
-	.string "That's amazing!\p"
-	.string "I've never heard of her losing to\n"
-	.string "anyone other than LANCE.$"
+	.string "Du hast Sandra besiegt?\p"
+	.string "Unglaublich!\p"
+	.string "Ich habe noch nie gehört, dass sie\n"
+	.string "gegen\l"
+	.string "jemanden außer Siegfried verloren hat.$"
 
 BlackthornGrampsRefusesEntryText:
 	.string "No. Only chosen trainers may train\n"
@@ -250,8 +252,8 @@ BlackthornGymSignText:
 	.string "The Blessed User of Dragon POKéMON$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
-	.string "MOVE BROS' HOUSE$"
+	.string "ATTACKEN-VERLERNER HAUS$"
 
 BlackthornCity_Text_DragonDenSign:
-	.string "DRAGON'S DEN AHEAD$"
+	.string "DRACHENHÖHLE VORAUS$"
 

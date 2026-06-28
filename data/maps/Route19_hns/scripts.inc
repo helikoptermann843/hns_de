@@ -68,82 +68,90 @@ Route19_EventScript_Item_Brine::
     end
 
 Route19_Text_SwimmermHaroldSeen:
-	.string "Have you ever gone swimming in the\n"
-	.string "sea at night?$"
+	.string "Warst du schon einmal nachts im Meer?$"
 
 Route19_Text_SwimmermHaroldBeaten:
-	.string "Glub…$"
+	.string "Gulp…$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
-	.string "At night, the sea turns black. It\n"
-	.string "feels like it will swallow you up.$"
+	.string "Nachts wird das Meer schwarz. Es\p"
+	.string "scheint, als\n"
+	.string "wollte es dich verschlingen.$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "Pant, pant… Just… a little…\p"
-	.string "farther… to… FUCHSIA…$"
+	.string "Uff, uff… Nur… noch… ein\p"
+	.string "kleines Stück… bis …FUCHSANIA CITY…$"
 
 Route19_Text_SwimmermTuckerBeaten:
-	.string "I'm drowning!$"
+	.string "Ich ertrinke!$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "I… asked my girlfriend to swim to\n"
-	.string "FUCHSIA… Gasp…$"
+	.string "Ich… bat meine\n"
+	.string "Freundin nach FUCHSANIA CITY… zu\l"
+	.string "schwimmen…$"
 
 Route19_Text_SwimmerfDawnSeen:
-	.string "I'm disgusted by wimpy people!$"
+	.string "Schwächlinge widern mich an!$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "I could beat you at swimming…$"
+	.string "Ich schlage dich beim Schwimmen…$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "It's a quick swim between FUCHSIA\n"
-	.string "and SEAFOAM ISLANDS…\p"
-	.string "Sheesh, some big man my boyfriend\n"
-	.string "is! What a wimp!$"
+	.string "Es ist nur eine kurze Distanz\p"
+	.string "zwischen FUCHSANIA\n"
+	.string "CITY und den SEESCHAUMINSELN…\p"
+	.string "Uah, mein Freund ist so groß und\p"
+	.string "dennoch ein Schwächling!$"
 
 Route19_Text_SwimmermJeromeSeen:
-	.string "Swimming? I'm lousy at it.\p"
-	.string "I'm just splashing around in these\n"
-	.string "shallow waters.$"
+	.string "Schwimmen? Ich bin\n"
+	.string "ein miserabler Schwimmer.\p"
+	.string "Ich plansche\n"
+	.string "lieber in dieser Riesenpfütze.$"
 
 Route19_Text_SwimmermJeromeBeaten:
-	.string "I thought I could win.$"
+	.string "Ich dachte, ich könnte gewinnen.$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "I might be bad at swimming, but I\n"
-	.string "love the sea.$"
+	.string "Schwimmen mag\n"
+	.string "nicht meine Stärke sein, dennoch liebe\l"
+	.string "ich das Meer.$"
 
 Route19_Text_Fisher1:
-	.string "Sorry. This road is closed for\n"
-	.string "construction.\p"
-	.string "If you want to get to CINNABAR,\n"
-	.string "you'd better go south from PALLET\n"
-	.string "TOWN.$"
+	.string "Tut mir Leid.\n"
+	.string "Die Straße ist aufgrund von\n"
+	.string "Bauarbeiten gesperrt.\p"
+	.string "Wenn du zu der ZINNOBERINSEL\p"
+	.string "möchtest, gehst\n"
+	.string "du von ALABASTIA gen Süden.$"
 
 Route19_Text_Kingler:
-	.string "KINGLER: KEEEEEEEEEEEE$"
+	.string "Kingler: KEEEEEEEEEEEE$"
 
 Route19_Text_Fisher1_RocksCleared:
-	.string "I'm all sweaty. Time for a swim!$"
+	.string "Ich bin total\n"
+	.string "verschwitzt. Es ist Zeit zum\l"
+	.string "Schwimmen.$"
 
 Route19_Text_Fisher2:
-	.string "Aw man, KINGLER is blocking the\n"
-	.string "beach.$"
+	.string "Es würde zu lange\n"
+	.string "dauern, diesen Felsen zu bewegen…$"
 
 Route19_Text_FisherBefore:
-	.string "No fishing until these KINGLER\n"
-	.string "clear out.$"
+	.string "Kein Angeln, solange Kingler\n"
+	.string "hier sind.$"
 
 Route19_Text_Fisher2_RocksCleared:
-	.string "Those KINGLER finally left!\p"
-	.string "Now I can go fishing again.$"
+	.string "Die Bauarbeiten sind beendet.\p"
+	.string "Jetzt kann ich wieder angeln.$"
 
 Route19_Text_Sign:
 	.string "ROUTE 19\p"
-	.string "FUCHSIA CITY - SEAFOAM ISLANDS$"
+	.string "FUCHSANIA CITY - SEESCHAUMINSELN$"
 
 Route19_Text_CarefulSwimmingSign:
-	.string "Please be careful if you are\n"
-	.string "swimming to SEAFOAM ISLANDS.\p"
-	.string "FUCHSIA POLICE$"
+	.string "Sei auf der Hut,\n"
+	.string "wenn du zu den SEESCHAUMINSELN\n"
+	.string "schwimmst.\p"
+	.string "ORDNUNGSAMT VON FUCHSANIA CITY$"
 

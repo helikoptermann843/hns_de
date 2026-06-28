@@ -94,130 +94,137 @@ Route35_EventScript_Item_ParalyzeHeal::
 	end
 
 Route35_Text_CamperIvanSeen:
-	.string "I've been getting POKéMON data off\n"
-	.string "my radio. I think I'm good.$"
+	.string "Ich bekomme Informationen zu Pokémon\n"
+	.string "aus dem Radio.$"
 
 Route35_Text_CamperIvanBeaten:
-	.string "I give!$"
+	.string "Ich teile aus!$"
 
 Route35_Text_CamperIvanAfter:
-	.string "Music on the radio changes the\n"
-	.string "moods of wild POKéMON.$"
+	.string "Musik im Radio ändert\n"
+	.string "die Laune von wilden Pokémon.$"
 
 Route35_Text_CamperElliotSeen:
-	.string "I'm gonna show my girlfriend I'm\n"
-	.string "hot stuff!$"
+	.string "Ich werde meiner\n"
+	.string "Freundin zeigen, wie cool ich bin!$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "I wish you would have lost for me…$"
+	.string "Ach, hättest du doch verloren…$"
 
 Route35_Text_CamperElliotAfter:
-	.string "I was humiliated in front of my\n"
-	.string "girlfriend…$"
+	.string "Ich wurde vor meiner Freundin\n"
+	.string "gedemütigt…$"
 
 Route35_Text_PicnickerBrookeSeen:
-	.string "My boyfriend's weak, so I can't rely\n"
-	.string "on him.$"
+	.string "Mein Freund ist\n"
+	.string "schwach. Er kann mich nicht\l"
+	.string "beschützen.$"
 
 Route35_Text_PicnickerBrookeBeaten:
-	.string "Oh, my! You're so strong!$"
+	.string "Meine Güte, bist du stark!$"
 
 Route35_Text_PicnickerBrookeAfter:
-	.string "I can count on my POKéMON more than\n"
-	.string "my boyfriend.$"
+	.string "Ich vertraue mehr auf meine Pokémon\n"
+	.string "als meinen Freund.$"
 
 Route35_Text_PicnickerKimSeen:
-	.string "Are you going to the GYM? Me too!$"
+	.string "Gehst du auch zur PKMN-ARENA?$"
 
 Route35_Text_PicnickerKimBeaten:
-	.string "Oh. I couldn't win…$"
+	.string "Oh, ich habe verloren…$"
 
 Route35_Text_PicnickerKimAfter:
-	.string "The GYM BADGES are pretty. I collect\n"
-	.string "them.$"
+	.string "Arenaorden sind schön.\n"
+	.string "ich sammle sie.$"
 
 Route35_Text_BirdKeeperBryanSeen:
-	.string "What kinds of BALLS do you use?$"
+	.string "Welche Art von Pokéball benutzt du?$"
 
 Route35_Text_BirdKeeperBryanBeaten:
-	.string "Yikes! Not fast enough!$"
+	.string "Mist! Nicht schnell genug!$"
 
 Route35_Text_BirdKeeperBryanAfter:
-	.string "Some POKéMON flee right away.\p"
-	.string "Try catching them with KURT's\n"
-	.string "FAST BALL.\p"
-	.string "Whenever I find a ASPEAR BERRY, I\n"
-	.string "take it to KURT.\p"
-	.string "He turns it into a custom BALL.$"
+	.string "Manche Pokémon fliehen sofort.\p"
+	.string "Versuch sie mit Kurts TURBOBALL\n"
+	.string "zu fangen.\p"
+	.string "Wenn ich eine WEIßE APRIKOKO finde,\n"
+	.string "bringe ich sie zu Kurt.\p"
+	.string "Er macht daraus einen Ball.$"
 
 Route35_Text_JugglerIrwinSeen:
-	.string "Behold my graceful BALL dexterity!$"
+	.string "Sieh meine elegante BALL-Kunst!$"
 
 Route35_Text_JugglerIrwinBeaten:
-	.string "Whew! That was a jolt!$"
+	.string "Puh, das war ein Ruck!$"
 
 Route35_Text_JugglerIrwinAfter:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "Ich wollte dich schocken,\n"
+	.string "mit meinen schönen Pokémon.\p"
+	.string "Aber deine Stärke elektrifiziert mich!$"
 
 Route35_Text_BugCatcherArnieSeen:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+	.string "Ich gehe überall-\n"
+	.string "hin, wo es KäferPokémon gibt.$"
 
 Route35_Text_BugCatcherArnieBeaten:
-	.string "Huh? I shouldn't have lost that…$"
+	.string "Ich hätte nicht verlieren dürfen…$"
 
 Route35_Text_BugCatcherArnieAfter:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+	.string "Mein Bluzuk hat den Käfer-Catching\n"
+	.string "Contest im Nationalpark gewonnen.$"
 
 Route35_Text_ArnieRegister:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+    .string "Mein ONIX hat mir den Käferturnier-\n"
+    .string "Sieg im NATIONALPARK beschert.$"
 
 Route35_Text_ArnieRematchIntro:
-	.string "I'll go anywhere if bug POKéMON\n"
-	.string "appear there.$"
+    .string "Ich gehe überall hin, wenn es dort\n"
+    .string "KÄFER-POKéMON gibt.$"
 
 Route35_Text_ArnieRematchDefeat:
-	.string "Huh? I shouldn't have lost that…$"
+    .string "Hä? Das hätte ich doch nicht\n"
+    .string "verlieren dürfen…$"
 
 Route35_Text_ArniePostRematch:
-	.string "My VENONAT won me the Bug-Catching\n"
-	.string "Contest at the NATIONAL PARK.$"
+    .string "Mein ONIX hat mir den Käferturnier-\n"
+    .string "Sieg im NATIONALPARK beschert.$"
 
 Route35_Text_BugCatcherArnieYanma:
-	.string "Wow… Look at all those YANMA!\p"
-	.string "I'm so blown away, I can't move.$"
+	.string "Wow… Sieh, all die YANMA!\p"
+	.string "Ich bin über-\n"
+	.string "wältigt und kann mich nicht rühren.$"
 
 Route35_Text_FirebreatherWaltSeen:
-	.string "I'm practicing my fire breathing.$"
+	.string "Ich übe mich im Feuerspucken.$"
 
 Route35_Text_FirebreatherWaltBeaten:
-	.string "Ow! I scorched the tip of my nose!$"
+	.string "Aua! Ich habe mir\n"
+	.string "die Nasenspitze verbrannt!$"
 
 Route35_Text_FirebreatherWaltAfter:
-	.string "The POKéMON March on the radio\n"
-	.string "lures wild POKéMON.$"
+	.string "Der Pokémon-Marsch im Radio\n"
+	.string "lockt wilde Pokémon.$"
 
 Route35_Text_OfficerDirkSeen:
-	.string "Danger lurks in the night!$"
+	.string "Bei Nacht lauern Gefahren!$"
 
 Route35_Text_OfficerDirkBeaten:
-	.string "Whoops!$"
+	.string "Schwupps!$"
 
 Route35_Text_OfficerDirkAfter:
-	.string "You know, night time is fun in its\n"
-	.string "own ways.\p"
-	.string "But don't overdo it, OK?$"
+	.string "Weißt du, die Nacht hat\n"
+	.string "auch ihren Reiz.\p"
+	.string "Aber übertreib es nicht,\n"
+	.string "ja?$"
 
 Route35_Text_OfficerDirkTough:
-	.string "Your POKéMON look pretty tough.\p"
-	.string "You could go anywhere safely.$"
+	.string "Deine Pokémon sehen ziemlich\n"
+	.string "stark aus.\p"
+	.string "Du kannst überall sicher\n"
+	.string "hingehen.$"
 
 Route35_Text_Sign:
 	.string "ROUTE 35$"
 
 Route35_Text_Sign2:
-	.string "NATIONAL PARK GATE$"
+	.string "ROUTE 35$"

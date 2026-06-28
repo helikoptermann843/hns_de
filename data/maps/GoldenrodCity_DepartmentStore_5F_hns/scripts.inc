@@ -63,36 +63,39 @@ GoldenrodDeptStore5_EventScript_Receptionist_Already::
 	end
 
 GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hello. Oh, your POKéMON…$"
+	.string "Hallo! Oh, dein Pokémon…$"
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
-    .string "Wait, I already gave you that TM!$"
+	.string "Willkommen im\n"
+	.string "KAUFHAUS von DUKATIA CITY.$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
-	.string "Hmm…\n"
-	.string "It's not bad, but it's also not good.\p"
-	.string "You, as the TRAINER, need to put in\n"
-	.string "some more effort.$"
+	.string "Hmm…\p"
+	.string "Es ist nicht schlecht, aber auch\n"
+	.string "nicht gut.\p"
+	.string "Du als Trainer musst dich\n"
+	.string "etwas mehr anstrengen.$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
-    .string "It's very attached to you.\p"
-    .string "This move should be perfect for a\n"
-    .string "pair like you.$"
+	.string "Es hängt sehr an dir.\p"
+	.string "Diese Attacke\n"
+	.string "passt genau zu euch beiden.$"
 
 GoldenrodDeptStore_Text_5FLass:
-    .string "During the day, a lady comes to check\n"
-    .string "out POKéMON.\p"
-    .string "She even gives away TMs!$"
+	.string "Sonntags kommt eine Dame,\n"
+	.string "um nach den Pokémon zu sehen.\p"
+	.string "Sie verteilt sogar TMs!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
-    .string "You can't rename a POKéMON you get\n"
-    .string "in a trade.\p"
-    .string "The name is a reflection of the\n"
-    .string "original trainer's feelings for it.$"
+	.string "Ein Pokémon, das\n"
+	.string "du durch Tausch erhalten hast, kannst\l"
+	.string "du nicht umbenennen.\p"
+	.string "Der Name spiegelt die Gefühle des\n"
+	.string "Original-Trainers wieder.$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "The lady gave me RETURN!\n"
-    .string "My POKéMON must really like me!$"
+	.string "Große Auswahl an Pokémon-Artikeln!\p"
+	.string "DUKATIA CITY KAUFHAUS$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock
@@ -120,5 +123,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-    .string "Customize Your POKéMON\p"
-    .string "5F TM CORNER$"
+	.string "Rüste deine - MON auf.\p"
+	.string "4S TM-ECKE$"

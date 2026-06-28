@@ -24,20 +24,26 @@ ViridianCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM:
-	.string "Where in the world is VIRIDIAN's GYM\n"
-	.string "LEADER? I wanted to challenge him.$"
+	.string "Wo um Himmels Willen ist der\p"
+	.string "ARENALEITER von\n"
+	.string "VERTANIA? Ich will ihn herausfordern.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
-	.string "There are no GYM TRAINERS at the\n"
-	.string "VIRIDIAN GYM.\p"
-	.string "The LEADER claims his policy is to\n"
-	.string "win without having any underlings.$"
+	.string "In der PKMN-ARENA\n"
+	.string "von VERTANIA gibt es keine TRAINER.\p"
+	.string "Der ARENALEITER vertritt den\p"
+	.string "Grundsatz, auch\n"
+	.string "ohne die Hilfe von Untergebenen\l"
+	.string "gewinnen zu können.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerF:
-	.string "I heard that the GYM in CINNABAR is\n"
-	.string "gone.\p"
-	.string "I wonder what became of BLAINE, the\n"
-	.string "GYM LEADER.$"
+	.string "Ich habe gehört,\n"
+	.string "dass die PKMNARENA auf der\n"
+	.string "ZINNOBERINSEL verschwunden ist.\p"
+	.string "Ich frage mich,\n"
+	.string "was aus PYRO, dem ARENALEITER geworden\l"
+	.string "ist.$"
 
 ViridianCity_PokemonCenter_Text_1FBugCatcher:
-	.string "My dream is to become a GYM LEADER.$"
+	.string "Mein großer Traum\n"
+	.string "ist es, ARENALEITER zu werden.$"

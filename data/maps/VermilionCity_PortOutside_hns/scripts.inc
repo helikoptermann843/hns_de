@@ -6,7 +6,7 @@ VermilionCity_PortOutside_EventScript_Fisher::
 	end
 
 VermilionCity_PortOutside_Text_Fisher::
-	.string "You just came from JOHTO?\n"
-	.string "How's the fishin' over there\l"
+	.string "Bist du gerade aus JOHTO gekommen?\n"
+	.string "Wie fischt es sich da so?\l"
 	.string "...\p"
-	.string "JOHTO has RED GYARADOS?!$"
+	.string "JOHTO hat ROTE GARADOS?!$"

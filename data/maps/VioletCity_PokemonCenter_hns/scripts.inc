@@ -91,63 +91,77 @@ VioletCity_PokemonCenter_Text_BookshelfWoman::
 
 
 VioletCity_PokeCenter_Text_ElmsAideFavor:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?$"
+	.string "Hallo! Lange nicht gesehen.\p"
+	.string "PROF. LIND hat mich gebeten,\n"
+	.string "nach dir zu suchen.\p"
+	.string "Er hat noch eine Bitte an dich.\p"
+	.string "Nimm bitte das Pokémon-EI!$"
 
 VioletCity_PokeCenter_Text_ElmsAideNoRoom:
-	.string "{PLAYER}, long time, no see.\p"
-	.string "PROF.ELM asked me to find you.\p"
-	.string "He has another favor to ask.\p"
-	.string "Would you take the POKéMON EGG?\p"
-	.string "Oh, wait... You need to make room\n"
-	.string "in your party first.$"
+	.string "Hallo! Lange nicht gesehen.\p"
+	.string "PROF. LIND hat mich gebeten,\n"
+	.string "nach dir zu suchen.\p"
+	.string "Er hat noch eine Bitte an dich.\p"
+	.string "Nimm bitte das Pokémon-EI!p"
+	.string "Oh, du hast keinen Platz!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
-	.string "We discovered that a POKéMON won't\n"
-	.string "hatch until it grows in the EGG.\p"
-	.string "It also has to be with other\n"
-	.string "active POKéMON to hatch.\p"
-	.string "{PLAYER}, you're the only person\n"
-	.string "we can rely on.$"
+	.string "Wir haben entdeckt, dass ein\n"
+	.string "Pokémon erst schlüpft, nachdem\l"
+	.string "es im EI gewachsen ist.\p"
+	.string "Außerdem muss es sich in der Nähe\n"
+	.string "anderer Pokémon\l"
+	.string "befinden, um zu schlüpfen.\p"
+	.string "Du bist die einzige Person,\n"
+	.string "auf die wir uns verlassen können.\p"
+	.string "Bitte ruf PROF.LIND an,\n"
+	.string "wenn das EI soweit ist!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
-	.string "Oh, and this might help when it hatches.$"
+	.string "Oh, das hier könnte helfen,\n"
+	.string "wenn es geschlüpft ist.$"
 
 VioletCity_PokeCenter_Text_ElmsAideFullParty:
-	.string "Oh, no. You can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "I'll wait here while you make\n"
-	.string "room for the EGG.$"
+	.string "Oh, du hast keinen Platz\n"
+	.string "mehr für ein weiteres Pokémon.\p"
+	.string "Ich warte hier,\n"
+	.string "bis du Platz für das EI geschaffen\l"
+	.string "hast.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "B-but… PROF.ELM asked for you…$"
+	.string "A-Aber… PROF.\n"
+	.string "LIND hat nach dir gefragt…$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
-	.string "While my POKéMON are recovering\n"
-	.string "I love to read a good book.$"
+	.string "Während meine POKÉMON sich\n"
+	.string "erholen, lese ich gerne ein\l"
+	.string "gutes Buch.$"
 
 VioletCity_PokeCenter_Text_MobileAdapter:
-	.string "I just battled a friend in\n"
-	.string "CIANWOOD over a link.\p"
-	.string "If you connect a MOBILE ADAPTER,\n"
-	.string "you can link with a friend far\l"
-	.string "away.$"
+	.string "Woran denkst du,\n"
+	.string "wenn du versuchst,\p"
+	.string "daran zu denken, nicht daran zu denken\l"
+	.string "das du denkst,\n"
+	.string "dass du dumm bist,\p"
+	.string "obwohl du nicht dumm bist?\n"
+	.string "hähhhh?$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
-	.string "A guy named BILL made the\n"
-	.string "POKéMON PC storage system.$"
+	.string "Ein Kerl namens BILL hat das\n"
+	.string "Pokémon-PC-LAGERUNGS-SYSTEM\l"
+	.string "erfunden.$"
 
 VioletCity_PokeCenter_Text_Gentleman:
-	.string "It was around three years ago.\p"
-	.string "TEAM ROCKET was up to no good\n"
-	.string "with POKéMON.\p"
-	.string "But justice prevailed--a young\n"
-	.string "kid broke 'em up.$"
+	.string "Es war vor etwa drei Jahren.\p"
+	.string "TEAM ROCKET hatte\n"
+	.string "etwas Übles mit den Pokémon vor.\p"
+	.string "Aber die Gerechtigkeit\n"
+	.string "hat gesiegt! Ein junger\l"
+	.string "Trainer hat sie zerschlagen.$"
 
 VioletCity_PokeCenter_Text_Youngster:
-	.string "POKéMON are smart. They won't\n"
-	.string "obey a trainer they don't respect.\p"
-	.string "Without the right GYM BADGES,\n"
-	.string "they will just do as they please.$"
+	.string "Pokémon sind schlau.\n"
+	.string "Sie gehorchen nur Trainern,\l"
+	.string "vor denen sie auch Respekt haben.\p"
+	.string "Hat der Trainer nicht genug ORDEN,\n"
+	.string "machen sie, was sie wollen.$"

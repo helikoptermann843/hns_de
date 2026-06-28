@@ -38,37 +38,37 @@ SSAqua_RoomNW_EventScript_Corey::
 
 
 SSAqua_RoomNW_Text_SailorStanlySeen:
-	.string "Yeah, I'm a sailor, all right.\p"
-	.string "I wasn't goofing off!\p"
-	.string "This cabin was vacant, so I\n"
-	.string "just took a quick nap!\p"
-	.string "Ah, forget it! Let's battle!$"
+	.string "Ja, ich bin ein Matrose, echt!\p"
+	.string "Ich habe nicht getrödelt!\p"
+	.string "Die Kabine war frei, also hab\n"
+	.string "ich kurz ein Nickerchen gemacht!\p"
+	.string "Ach, egal! Lass uns kämpfen!$"
 
 SSAqua_RoomNW_Text_SailorStanlyBeaten:
-	.string "Sorry! It's all my fault!$"
+	.string "Sorry! Ganz meine Schuld!$"
 
 SSAqua_RoomNW_Text_SailorStanlyAfterBattle:
-	.string "Being a sailor, I have to do\n"
-	.string "physical labor. It's exhausting!$"
+	.string "Als Matrose muss ich hart arbeiten.\p"
+	.string "Das ist echt anstrengend!$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardSeen:
-	.string "Oh, no. I've lost something\n"
-	.string "that's very important.$"
+	.string "Oh nein. Ich habe etwas\n"
+	.string "sehr Wichtiges verloren.$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardBeaten:
-	.string "I… I can't find it…$"
+	.string "Ich… ich kann es nicht finden…$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardAfterBattle:
-	.string "I give up. You don't have to\n"
-	.string "look.\p"
-	.string "Just forget about it!$"
+	.string "Ich gebe auf. Du musst nicht\n"
+	.string "weiter suchen. Vergiss es!$"
 
 SSAqua_RoomNW_Text_BurglarCoreySeen:
-	.string "Yeehaw! Lucky!$"
+	.string "Yeehaw! Glück gehabt!$"
 
 SSAqua_RoomNW_Text_BurglarCoreyBeaten:
-	.string "How unlucky! I lost!$"
+	.string "Wie unglücklich! Ich verliere!$"
 
 SSAqua_RoomNW_Text_BurglarCoreyAfterBattle:
-	.string "I found a pretty coin here.\p"
-	.string "Someone must have lost it…$"
+	.string "Ich habe hier eine hübsche Münze\n"
+	.string "gefunden. Jemand muss sie\l"
+	.string "verloren haben…$"

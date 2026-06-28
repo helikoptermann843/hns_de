@@ -61,12 +61,23 @@ GoldenrodCity_FlowerShop_EventScript_Floria3::
 	end
 
 GoldenrodCity_FlowerShop_Text_Floria:
-	.string "When I told my sis about the jiggly\n"
-	.string "tree, she said it's dangerous.\p"
-	.string "If I beat WHITNEY, I wonder if\n"
-	.string "she'll lend me her water bottle…$"
+	.string "Als ich meiner Schwester vom\n"
+	.string "wackeligen Baum erzählte, sagte\l"
+	.string "sie, das sei gefährlich.\p"
+	.string "Wenn ich Bianka besiege, leiht\n"
+	.string "sie mir vielleicht ihre Gießkanne…$"
 
 GoldenrodCity_FlowerShop_Text_Owner1:
+	.string "Anscheinend gibt es einen seltsamen\n"
+	.string "Baum auf Route 36.\p"
+	.string "Er soll tanzen, wenn man ihn gießt…\p"
+	.string "Natürlich nicht!\p"
+	.string "Dies ist ein Blumenladen, wir\n"
+	.string "haben Gießkannen…\p"
+	.string "Aber du darfst keine haben!\n"
+	.string "Zu gefährlich!\p"
+	.string "Vielleicht, wenn du Arena Leiter\n"
+	.string "Bianka besiegst, ist es okay.$"
 .string "Apparently, there is an odd tree\n"
 .string "on ROUTE 36.\p"
 .string "They say it dances when you water\n"
@@ -81,6 +92,16 @@ GoldenrodCity_FlowerShop_Text_Owner1:
 .string "might be okay.$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
+	.string "Anscheinend gibt es einen seltsamen\n"
+	.string "Baum auf Route 36.\p"
+	.string "Er soll tanzen, wenn man ihn gießt…\p"
+	.string "Oh, das ist ein Normalorden von\n"
+	.string "der DUKATIA-Arena!\p"
+	.string "Hast du Bianka besiegt?!\p"
+	.string "Dann ist alles in Ordnung.\p"
+	.string "Ich leihe dir diese SCHIGGYKANNE.\p"
+	.string "…\p"
+	.string "Ach, egal. Behalte sie!$"
 .string "Apparently, there is an odd tree\n"
 .string "on ROUTE 36.\p"
 .string "They say it dances when you water\n"
@@ -96,15 +117,17 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 .string "Oh, never mind. Keep it!$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
+	.string "Der seltsame Baum steht auf Route 36.\n"
+	.string "Bitte sei vorsichtig!$"
 .string "The odd tree is on ROUTE 36.\n"
 .string "Please be careful!$"
 
 GoldenrodCity_FlowerShop_Text_Owner4:
-    .string "Lalala lalalala. Have plenty of\n"
-    .string "water, my lovely!$"
+	.string "Lalala lalalala. Trinke viel\n"
+	.string "Wasser, meine Liebe!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney:
-    .string "Wow, you beat WHITNEY? Cool!$"
+	.string "Wow, du hast Bianka besiegt? Super!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaItWasAMon:
-    .string "So it really was a POKéMON!$"
+	.string "Also war es wirklich ein Pokémon!$"

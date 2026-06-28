@@ -39,28 +39,30 @@ GoldenrodDeptStore1_EventScript_Directory::
 	end
 
 GoldenrodDeptStor1_Text_Receptionist:
-    .string "Welcome to GOLDENROD DEPT.STORE.$"
+	.string "Willkommen im\n"
+	.string "KAUFHAUS von DUKATIA CITY.$"
 
 GoldenrodDeptStore1_Text_Gentleman:
-    .string "The DEPT.STORE has a decent\n"
-    .string "selection.\p"
-    .string "But some items are only available\n"
-    .string "as GAME CORNER prizes.$"
+	.string "Das KAUFHAUS\n"
+	.string "bietet eine große Auswahl.\p"
+	.string "Aber einige Items erhält man nur als\n"
+	.string "Preis in der SPIELHALLE.$"
 
 GoldenrodDeptStore1_Text_PokefanF:
-    .string "I'm raring to shop again today!$"
+	.string "Ich freue mich heute\n"
+	.string "schon wieder aufs Einkaufen!$"
 
 GoldenrodDeptStore1_Text_BugCatcher:
-    .string "Mom's good at bargain hunting.\p"
-    .string "She always buys stuff at lower\n"
-    .string "prices.$"
+	.string "Mama ist sehr gut\n"
+	.string "im Schnäppchenfinden.\p"
+	.string "Sie kauft ständig Waren\n"
+	.string "unter dem Normalpreis.$"
 
 GoldenrodDeptStore1_Text_Directory:
-    .string "1F SERVICE COUNTER\n"
-	.string "YOU ARE HERE.\p"
-    .string "2F TRAINER'S MARKET\p"
-    .string "3F BATTLE COLLECTION\p"
-    .string "4F MEDICINE BOX\p"
-    .string "5F TM CORNER\p"
-    .string "6F TRANQUIL SQUARE\p"
-    .string "ROOFTOP LOOKOUT$"
+	.string "EG INFO-SCHALTER\p"
+	.string "1S TRAINERMARKT\p"
+	.string "2S KAMPFKOLLEKTION\p"
+	.string "3S ARZNEI\p"
+	.string "4S TM-ECKE\p"
+	.string "5S PLATZ DER EWIGEN STILLE\p"
+	.string "DACHTERRASSEN AUSSICHTSPLATTFORM$"

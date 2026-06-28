@@ -16,15 +16,15 @@ Route7_EventScript_Door::
 	end
 
 Route7_Text_UndergroundPathSign:
-	.string "What's this flyer?\p"
-	.string "… Uncouth trainers have been\n"
-	.string "holding battles in the\l"
-	.string "UNDERGROUND PATH.\p"
-	.string "Because of rising complaints by\n"
-	.string "local residents, the UNDERGROUND\l"
-	.string "PATH has been sealed indefinitely.\p"
-	.string "CELADON POLICE$"
+	.string "Was steht auf dem Flugblatt?\p"
+	.string "…Ruppige Trainer tragen auf dem\p"
+	.string "TUNNELPFAD Kämpfe aus.\p"
+	.string "Da sich die Beschwerden der Anwohner\l"
+	.string "häuften,\n"
+	.string "wurde der TUNNELPFAD auf unbestimmte\p"
+	.string "Zeit geschlossen.\p"
+	.string "ORDNUNGSAMT VON PRISMANIA CITY$"
 
 Route7_Text_LockedDoor:
-	.string "It's locked…$"
+	.string "Es ist verriegelt…$"
 

@@ -15,12 +15,13 @@ ViridianForest_EventScript_Bugsy::
 	end
 
 ViridianForest_Text_Bugsy:
-	.string "BUGSY: I came to KANTO to look for\n"
-	.string "BUG-TYPE POKéMON, so I can become\l"
-	.string "a stronger BUG-TYPE POKéMON\l"
-	.string "TRAINER!\p"
-    .string "If you're ready for another match,\n"
-    .string "I'll be at the DOJO in SAFFRON!$"
+	.string "Kai: Ich kam nach KANTO, um\n"
+	.string "Käfer-Pokémon zu suchen,\p"
+	.string "damit ich ein stärkerer Käfer-\l"
+	.string "Pokémon-TRAINER werde!\p"
+	.string "Wenn du bereit bist für ein\n"
+	.string "weiteres Match, treffe mich im\l"
+	.string "DOJO in SAFFRONIA!$"
 
 ViridianForest_EventScript_Item_Psych_Up::
     finditem ITEM_TM_PSYCH_UP

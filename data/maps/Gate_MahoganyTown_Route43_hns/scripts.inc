@@ -11,10 +11,11 @@ Gate_MahoganyTown_Route43_EventScript_CopAfter::
 	end
 
 Route43MahoganyGate_Text_Officer:
-    .string "Only people headed up to LAKE OF\n"
-    .string "RAGE have been through here lately.$"
+	.string "Hier kamen nur Wanderer vorbei,\p"
+	.string "die auf dem Weg\n"
+	.string "zum SEE DES ZORNS waren.$"
 
 Route43MahoganyGate_Text_Officer_RocketsCleared:
-    .string "Nobody goes up to LAKE OF RAGE\n"
-    .string "these days.$"
+	.string "In letzter Zeit\n"
+	.string "geht niemand mehr zum SEE DES ZORNS.$"
 

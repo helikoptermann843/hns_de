@@ -77,11 +77,11 @@ EcruteakCity_Gym_EventScript_Statue2::
 	end
 
 EcruteakCity_Gym_Text_GymStatue:
-	.string "ECRUTEAK CITY POKéMON GYM$"
+	.string "Teak City Pokémon Arena$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
-	.string "ECRUTEAK CITY POKéMON GYM\p"
-	.string "MORTY'S CERTIFIED TRAINERS:\n"
+	.string "Teak City Pokémon Arena\p"
+	.string "Jens's zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 MortyIntroText:

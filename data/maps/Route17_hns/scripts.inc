@@ -73,84 +73,89 @@ Route17_EventScript_RematchCharles::
 	end
 
 Route17_Text_BikerRileySeen:
-	.string "Hey, you! You're from JOHTO, huh?$"
+	.string "Hey, du! Du bist aus JOHTO, oder?$"
 
 Route17_Text_BikerRileyBeaten:
-	.string "Whoa, you kick!$"
+	.string "Boah, du legst aber los!$"
 
 Route17_Text_BikerRileyAfterBattle:
-	.string "Don't get cocky, you JOHTO punk!$"
+	.string "Werd' nicht frech, du Null aus JOHTO!$"
 
 Route17_Text_BikerJoelSeen:
-	.string "Wow. That's a cool BICYCLE!$"
+	.string "Wow, cooles Fahrrad!$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "But you don't just look cool…$"
+	.string "Aber du siehst nicht nur cool aus…$"
 
 Route17_Text_BikerJoelAfterBattle:
-	.string "I look cool, but I'm weak, so I'm\n"
-	.string "not really cool.\p"
-	.string "I have to train harder…$"
+	.string "Ich sehe zwar cool\n"
+	.string "aus, bin aber schwach, also bin ich\n"
+	.string "nicht wirklich cool.\p"
+	.string "Ich muss härter trainieren…$"
 
 Route17_Text_BikerGlennSeen:
-	.string "Hey! Want to have a speed battle?$"
+	.string "Hey! Schneller Kampf gefällig?$"
 
 Route17_Text_BikerGlennBeaten:
-	.string "Yikes! You've got awesome torque!$"
+	.string "Ups! Du hast ganz schön Kraft!$"
 
 Route17_Text_BikerGlennAfterBattle:
-	.string "Hands-free riding is considered\n"
-	.string "cool on CYCLING ROAD.$"
+	.string "Freihändig fahren\n"
+	.string "gilt als cool auf dem RADWEG.$"
 
 Route17_Text_BikerCharlesSeen:
-	.string "We're fearless highway stars!$"
+	.string "Wir sind die\n"
+	.string "furchtlosen Helden des RADWEGs!$"
 
 Route17_Text_BikerCharlesBeaten:
-	.string "Arrrgh! Crash and burn!$"
+	.string "Argh! Bumm und krach!$"
 
 Route17_Text_BikerCharlesAfterBattle:
-	.string "Reckless driving causes accidents!\n"
-	.string "Take it easy!$"
+	.string "Durch rücksichts-\n"
+	.string "loses Fahren passieren viele Unfälle!\l"
+	.string "Bleib locker!$"
 
 Route17_Text_RileyRegister:
-	.string "Not bad for a JOHTO kid!$"
+	.string "Gar nicht schlecht für ein Kind\n"
+	.string "aus JOHTO!$"
 
 Route17_Text_RileyRematchIntro:
-	.string "JOHTO punks can only win once!$"
+	.string "Punks aus JOHTO gewinnen nur\n"
+	.string "einmal!$"
 
 Route17_Text_RileyRematchDefeat:
-	.string "I got kicked...$"
+	.string "Ich wurde fertiggemacht...$"
 
 Route17_Text_RileyPostRematch:
-	.string "Maybe I should train in JOHTO\n"
-	.string "after all.$"
+	.string "Vielleicht sollte ich doch mal\n"
+	.string "in JOHTO trainieren.$"
 
 Route17_Text_JoelRegister:
-	.string "You're pretty cool after all!\n"
-	.string "Let's trade numbers!$"
+	.string "Du bist doch ziemlich cool!\n"
+	.string "Tauschen wir Nummern!$"
 
 Route17_Text_JoelRematchIntro:
-	.string "Let's see who's cooler now!$"
+	.string "Mal sehen, wer jetzt cooler ist!$"
 
 Route17_Text_JoelRematchDefeat:
-	.string "Still not cool enough…$"
+	.string "Noch immer nicht cool genug...$"
 
 Route17_Text_JoelPostRematch:
-	.string "I'll keep training to be as cool\n"
-	.string "as you, kid!$"
+	.string "Ich trainiere weiter, bis ich\n"
+	.string "so cool bin wie du!$"
 
 Route17_Text_CharlesRegister:
-	.string "You're a heartbreaker like me, kid!\n"
-	.string "Give me your number!$"
+	.string "Du bist ein Herzensbrecher wie ich!\n"
+	.string "Gib mir deine Nummer!$"
 
 Route17_Text_CharlesRematchIntro:
-	.string "I'm not just a highway star,\n"
-	.string "I'm a heartbreaker!$"
+	.string "Ich bin nicht nur ein Straßenheld,\n"
+	.string "ich bin ein Herzensbrecher!$"
 
 Route17_Text_CharlesRematchDefeat:
-	.string "Crashed and burned again!$"
+	.string "Schon wieder voll abgestürzt!$"
 
 Route17_Text_CharlesPostRematch:
-	.string "I met a trainer like you in UNOVA.\n"
-	.string "Don't crash out!$"
+	.string "Ich traf mal einen Trainer wie dich\n"
+	.string "in EINALL. Pass auf dich auf!$"
 

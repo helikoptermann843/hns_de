@@ -171,11 +171,11 @@ CeruleanCity_Gym_Text_GymStatuePlayerWon::
 	.string "BLUE, RED, {PLAYER}$"
 
 CeruleanGym_Text_Note:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too.\l"
-	.string "GYM TRAINERS$"
+	.string "Tut mir leid, ich bin erstmal Fort.\n"
+	.string "Misty, Arenaleiter\p"
+	.string "Da Misty nicht hier ist,\n"
+	.string "sind wir auch erstmal nicht hier.\l"
+	.string "Die Arena-Trainer$"
 
 
 CeruleanCity_Gym_EventScript_Misty::
@@ -212,111 +212,109 @@ CeruleanCity_Gym_EventScript_Misty_Defeated::
 	end
 
 CeruleanGym_Text_GruntIntro:
-	.string "Oops! I so sorry! You not hurt,\n"
-	.string "okay?\p"
-	.string "I very busy. No time for talking\n"
-	.string "with you. Not good for me if\l"
-	.string "seen by somebody.$"
+	.string "Oops! Tut mir leid! Dir ist nichts\n"
+	.string "passiert, ja?\p"
+	.string "Ich bin sehr beschäftigt. Keine Zeit\n"
+	.string "zum Reden mit dir. Nicht gut, wenn\l"
+	.string "mich jemand sieht.$"
 
 CeruleanGym_Text_GruntBigMistake:
-	.string "Oh no! You seen me already!\n"
-	.string "I make big mistake!$"
+	.string "Oh nein! Du hast mich schon gesehen!\n"
+	.string "Ich habe einen großen Fehler gemacht!$"
 
 CeruleanGym_Text_GruntBye:
-	.string "Hey, you! Forget you see me,\n"
-	.string "okay?\p"
-	.string "You see, hear, know nothing,\p"
-	.string "okay? Bye, kid! Nothing!\p"
-	.string "Bye-bye a go-go!$"
+	.string "Hey, du! Vergiss, dass du mich\n"
+	.string "gesehen hast okay?\p"
+	.string "Du siehst, hörst, weißt nichts,\p"
+	.string "okay? Tschüss, Kind! Nichts!\p"
+	.string "Bye-bye!$"
 
 CeruleanGym_Text_Note1:
-	.string "Sorry, I'll be out for a while.\n"
-	.string "MISTY, GYM LEADER\p"
-	.string "Since MISTY's out, we'll be away\n"
-	.string "too. GYM TRAINERS$"
+	.string "Sorry, ich bin eine Weile weg.\n"
+	.string "Misty, Arenaleiterin\p"
+	.string "Da Misty weg ist, sind wir auch\n"
+	.string "nicht da. Arena-Trainer$"
 
 CeruleanGym_Text_MistyIntro:
-	.string "MISTY: I was expecting you, you\n"
-	.string "pest!\p"
-	.string "You may have a lot of JOHTO GYM\n"
-	.string "BADGES, but you'd better not\l"
-	.string "take me too lightly.\p"
-	.string "My WATER-type POKéMON are\n"
-	.string "tough!$"
+	.string "Misty: Ich habe dich erwartet,\n"
+	.string "du Plagegeist!\p"
+	.string "Du hast bestimmt viele JOHTO-Arena-\n"
+	.string "Orden, aber unterschätz mich nicht.\p"
+	.string "Meine Wasser-Pokémon sind stark!$"
 
 CeruleanGym_Text_MistyWinLoss:
-	.string "MISTY: You really are good…\p"
-	.string "I'll admit that you are skilled…\p"
-	.string "Here you go. It's CASCADEBADGE.$"
+	.string "Misty: Du bist wirklich gut…\p"
+	.string "Ich gebe zu, du bist geschickt…\p"
+	.string "Hier, nimm den Quellorden.$"
 
 CeruleanGym_Text_ReceivedBadge:
-	.string "{PLAYER} received CASCADEBADGE.$"
+	.string "{PLAYER} erhielt Quellorden.$"
 
 CeruleanGym_Text_MistyFightDone:
-	.string "MISTY: Are there many strong\n"
-	.string "trainers in JOHTO? Like you, I\l"
-	.string "mean.\p"
-	.string "I'm going to travel one day, so\n"
-	.string "I can battle some skilled\l"
-	.string "trainers.$"
+	.string "Misty: Gibt es viele starke\n"
+	.string "Trainer in JOHTO?\n"
+	.string "Wie dich meine ich?\p"
+	.string "Eines Tages werde ich reisen,\n"
+	.string "um gegen einige geschickte\l"
+	.string "Trainer zu kämpfen.$"
 
 CeruleanGym_Text_MistyRematch:
-	.string "MISTY: Wow, you're the KANTO\n"
-	.string "CHAMPION now!\p"
-	.string "That's amazing! You've come a\n"
-	.string "long way, {PLAYER}.\p"
-	.string "But I'm not backing down.\p"
-	.string "Want to have a rematch with me?$"
+	.string "Misty: Wow, du bist jetzt der KANTO-\n"
+	.string "CHAMPION!\p"
+	.string "Unglaublich! Du bist weit gekommen,\n"
+	.string "{PLAYER}.\p"
+	.string "Aber ich gebe nicht auf.\p"
+	.string "Willst du ein Rückkampf mit mir?$"
 
 CeruleanGym_Text_MistyRematchDefeat:
-	.string "MISTY: You really are good…$"
+	.string "Misty: Du bist wirklich gut…$"
 
 CeruleanGym_Text_SwimmerfDianaSeen:
-	.string "Sorry about being away. Let's get\n"
-	.string "on with it!$"
+	.string "Sorry, dass ich weg war. Lass uns\n"
+	.string "anfangen!$"
 
 CeruleanGym_Text_SwimmerfDianaBeaten:
-	.string "I give up! You're the winner!$"
+	.string "Ich gebe auf! Du bist der Gewinner!$"
 
 CeruleanGym_Text_SwimmerfDianaAfter:
-	.string "I'll be swimming quietly.$"
+	.string "Ich werde still schwimmen.$"
 
 CeruleanGym_Text_SwimmerfBrianaSeen:
-	.string "Don't let my elegant swimming\n"
-	.string "unnerve you.$"
+	.string "Lass dich nicht von meinem eleganten\n"
+	.string "Schwimmen einschüchtern.$"
 
 CeruleanGym_Text_SwimmerfBrianaBeaten:
-	.string "Ooh, you calmly disposed of me…$"
+	.string "Ooh, du hast mich ruhig besiegt…$"
 
 CeruleanGym_Text_SwimmerfBrianaAfter:
-	.string "Don't be too smug about beating\n"
-	.string "me.\p"
-	.string "MISTY will destroy you if you get\n"
-	.string "complacent.$"
+	.string "Sei nicht zu überheblich, dass du\n"
+	.string "mich besiegt hast.\p"
+	.string "Misty wird dich zerstören, wenn du\n"
+	.string "selbstzufrieden wirst.$"
 
 CeruleanGym_Text_SwimmermParkerSeen:
 	.string "Glub…\p"
-	.string "I'm first! Come and get me!$"
+	.string "Ich bin zuerst! Komm und hol mich!$"
 
 CeruleanGym_Text_SwimmermParkerBeaten:
-	.string "This can't be…$"
+	.string "Das kann nicht sein…$"
 
 CeruleanGym_Text_SwimmermParkerAfter:
-	.string "MISTY has gotten much better in\n"
-	.string "the past few years.\p"
-	.string "Don't let your guard down, or\n"
-	.string "you'll be crushed!$"
+	.string "Misty ist in den letzten Jahren\n"
+	.string "viel besser geworden.\p"
+	.string "Lass deine Wachsamkeit nicht\n"
+	.string "nach, sonst wirst du zerstört!$"
 
 CeruleanGym_Text_GuideIntro:
 	.string "Yo! CHAMP in making!\p"
-	.string "Since MISTY was away, I went out\p"
-	.string "for some fun too. He-he-he.$"
+	.string "Da Misty weg war, habe ich auch\n"
+	.string "etwas Spaß gehabt. He-he-he.$"
 
 CeruleanGym_Text_GuideWin:
-	.string "Hoo, you showed me how tough you\n"
-	.string "are.\p"
-	.string "As always, that was one heck of a\n"
-	.string "great battle!$"
+	.string "Hoo, du hast mir gezeigt, wie\n"
+	.string "stark du bist.\p"
+	.string "Wie immer war das ein großartiger\n"
+	.string "Kampf!$"
 
 CeruleanGym_Text_MistyTm:
-	.string "Here, take this too.$"
+	.string "Hier, nimm noch das.$"

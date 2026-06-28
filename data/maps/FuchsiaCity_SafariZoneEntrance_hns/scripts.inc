@@ -88,13 +88,13 @@ FuchsiaCity_SafariZoneEntrance_StevenChamp::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenChamp:
-	.string "Oh, hey {PLAYER}.\n"
-	.string "Or should I say KANTO champion?\p"
-	.string "You know, for some time, I was the\n"
-	.string "champion of the HOENN region.\p"
-	.string "So welcome to the club, {PLAYER}.\p"
-	.string "In fact, here.\n"
-	.string "Consider this a welcome gift.$"
+	.string "Oh, hallo {PLAYER}.\n"
+	.string "Oder soll ich sagen: KANTO-Champion?\p"
+	.string "Weißt du, eine Zeit lang war ich\n"
+	.string "Champion der HOENN-Region.\p"
+	.string "Willkommen im Club, {PLAYER}.\p"
+	.string "Hier, nimm das als kleines\n"
+	.string "Willkommensgeschenk.$"
 
 FuchsiaCity_SafariZoneEntrance_EventScript_EntranceCounterTrigger::
 	lockall
@@ -216,21 +216,16 @@ FuchsiaCity_SafariZoneEntrance_Movement_ReturnToTable:
 	step_end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
-	.string "Hello again, {PLAYER}!\p"
-	.string "Welcome to the DEVON SAFARI ZONE!\p"
-	.string "This specially designed safari\n"
-	.string "Has 4 different habitats that\l"
-	.string "attract and house different invasive\l"
-	.string "species from the HOENN region.\p"
-	.string "We encourage trainers to capture\n"
-	.string "as many as they can to safely\l"
-	.string "remove them from the environment.\p"
-	.string "You'll find very rare POKéMON\n"
-	.string "here. Especially if you increase\l"
-	.string "your SAFARI LEVEL.\p"
-	.string "Just speak to the attendant here\n"
-	.string "any time to increase your SAFARI\l"
-	.string "LEVEL.$"
+	.string "Ich heiße Troy. Meine Familie\n"
+	.string "hat kürzlich diese Safari-Zone\l"
+	.string "gekauft und viele Verbesserungen\l"
+	.string "vorgenommen.\p"
+	.string "Hier findest du sehr exotische\n"
+	.string "Pokémon. Besonders, wenn du\n"
+	.string "dein SAFARI-LEVEL erhöhst.\p"
+	.string "Sprich einfach mit dem Aufseher\n"
+	.string "hier, um dein SAFARI-LEVEL jederzeit\l"
+	.string "zu steigern.$"
 
 FuchsiaCity_SafariZoneEntrance_UpgradeGuy::
 	goto_if_eq VAR_KANTO_SAFARI_ZONE_PROGRESS, 1, FuchsiaCity_SafariZoneEntrance_UpgradeGuy1
@@ -295,32 +290,31 @@ FuchsiaCity_SafariZoneEntrance_UpgradeGuyNotEnoughMoney::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_Steven:
-	.string "Oh, hey, {PLAYER}.\p"
-	.string "I hope you're enjoying the SAFARI.\p"
-	.string "Have you seen any rare stones\n"
-	.string "lately?$"
+	.string "Oh, hallo, {PLAYER}.\p"
+	.string "Ich hoffe, dir gefällt die SAFARI.\p"
+	.string "Hast du in letzter Zeit seltene\n"
+	.string "Steine gesehen?$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level1:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 2? It will cost you ¥200,000.$"
+	.string "Hallo {PLAYER}, möchtest du\n"
+	.string "dein SAFARI-LEVEL auf 2 erhöhen?\l"
+	.string "Das kostet 200.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level2:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 3? It will cost you ¥300,000.$"
+	.string "Hallo {PLAYER}, möchtest du\n"
+	.string "dein SAFARI-LEVEL auf 3 erhöhen?\l"
+	.string "Das kostet 300.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level3:
-	.string "Hello {PLAYER}, would you\n"
-	.string "like to increase your SAFARI LEVEL\l"
-	.string "to 4? It will cost you ¥400,000.$"
+	.string "Hallo {PLAYER}, möchtest du\n"
+	.string "dein SAFARI-LEVEL auf 4 erhöhen?\l"
+	.string "Das kostet 400.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
-	.string "Oh, that's too bad, then...$"
+	.string "Oh, das ist schade...$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:
-	.string "Enjoy the premium SAFARI ZONE\n"
-	.string "experience!$"
+	.string "Genieße die Premium-Safari-Zone!$"
 
 FuchsiaCity_SafariZoneEntrance_EventScript_Steven_Trade::
 	goto_if_set FLAG_FUCHSIA_SAFARI_NPC_TRADE_COMPLETED, FuchsiaCity_SafariZoneEntrance_EventScript_StevenTradeCompleted
@@ -346,35 +340,35 @@ FuchsiaCity_SafariZoneEntrance_EventScript_StevenTradeCompleted::
 	end
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenWantToTrade:
-	.string "Say, {PLAYER}…\n"
-	.string "I've been raising this BELDUM\l"
-	.string "for a while now.\p"
-	.string "But I think it would do better\n"
-	.string "with a trainer like you.\p"
-	.string "Would you trade me a {STR_VAR_1}\n"
-	.string "for my {STR_VAR_2}?$"
+	.string "Sag, {PLAYER}…\n"
+	.string "Ich habe dieses Tanhel\l"
+	.string "jetzt eine ganze Weile aufgezogen.\p"
+	.string "Aber ich denke es ist besser\n"
+	.string "bei einem Trainer wie dir aufgehoben.\p"
+	.string "Tauschst du mir ein {STR_VAR_1}\n"
+	.string "für mein {STR_VAR_2}?$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTakeCare:
-	.string "Excellent!\n"
-	.string "Please take good care of IRON.$"
+	.string "Exzellent!\n"
+	.string "Gib gut acht auf EISEN.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenDeclineTrade:
-	.string "That's all right.\n"
-	.string "The offer stands if you change\l"
-	.string "your mind.$"
+	.string "Schon okay.\n"
+	.string "Das Angebot steht noch,\l"
+	.string "falls du deine Meinung änderst.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenNotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not quite what I had\l"
-	.string "in mind.$"
+	.string "Hmm, das ist kein {STR_VAR_1}.\n"
+	.string "Das hatte ich nicht\l"
+	.string "im Sinn.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
-	.string "How is IRON doing?\n"
-	.string "BELDUM are fascinating POKéMON.\p"
-	.string "They communicate with each other\n"
-	.string "using magnetic pulses.$"
+	.string "Wie geht es EISEN?\n"
+	.string "Tanhel sind faszinierende POKéMON.\p"
+	.string "Sie kommunizieren mit\n"
+	.string "magnetischen Impulsen.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_MaxLevel:
-	.string "Hello {PLAYER}, thank you for\n"
-	.string "continuing to be a premium member\l"
-	.string "at the FUCHSIA SAFARI ZONE.$"
+	.string "Hallo {PLAYER}, danke, dass du\n"
+	.string "weiterhin Premium-Mitglied der\l"
+	.string "FUCHSANIA Safari-Zone bist.$"

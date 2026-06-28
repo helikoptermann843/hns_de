@@ -27,24 +27,24 @@ Route12_House_EventScript_SuperRodGot::
 	end
 
 Route12_House_Text_OfferSuperRod:
-	.string "I'm the FISHING GURU's younger\n"
-	.string "brother.\p"
-	.string "I can see that you like fishing.\p"
-	.string "There's no doubt in my mind at\n"
-	.string "all!\p"
-	.string "So? I know I'm right.$"
+	.string "Ich bin der jüngere Bruder\n"
+	.string "des ANGEL-GURUS.\p"
+	.string "Ich sehe, dass du gern angelst.\p"
+	.string "Daran besteht kein Zweifel!\p"
+	.string "Na? Hab ich recht?$"
 
 Route12_House_Text_GiveSuperRod:
-	.string "Yes, yes. Just as I thought!\p"
-	.string "Here, fishing fan! Take this--\n"
-	.string "it's a SUPER ROD.$"
+	.string "Ja, genau wie ich dachte!\p"
+	.string "Hier, Angel-Fan! Nimm dies--\n"
+	.string "eine Superangel.$"
 
 Route12_House_Text_GaveSuperRod:
-	.string "Try your hand at fishing wherever\n"
-	.string "there is water.\p"
-	.string "Remember--you can catch different\n"
-	.string "POKéMON using different RODS.$"
+	.string "Probier dein Glück beim Angeln\n"
+	.string "überall am Wasser.\p"
+	.string "Denk dran--verschiedene Ruten\n"
+	.string "fangen verschiedene Pokémon.$"
 
 Route12_House_Text_DontWantSuperRod:
-	.string "Huh? My own eyes deceived me?$"
+	.string "Huh? Meine Augen haben mich\n"
+	.string "getäuscht?$"
 

@@ -15,29 +15,31 @@ LavenderTownSoulHouse_EventScript_Granny::
 	end
 
 MrFuji_Text_Main:
-	.string "MR.FUJI: Welcome.\p"
-	.string "Hmm… You appear to be raising\n"
-	.string "your POKéMON in a kind and\l"
-	.string "loving manner.\p"
-	.string "POKéMON lovers come here to pay\n"
-	.string "their respects to departed\l"
-	.string "POKéMON.\p"
-	.string "Please offer condolences for the\n"
-	.string "souls of the departed POKéMON.\p"
-	.string "I'm sure that will make them\n"
-	.string "happy.$"
+	.string "MR. FUJI: Willkommen.\p"
+	.string "Hmm… Du scheinst deine Pokémon\n"
+	.string "freundlich und liebevoll zu erziehen.\n"
+	.string "\p"
+	.string "Pokémon-Liebhaber kommen hierher,\n"
+	.string "um den verstorbenen Pokémon Respekt\n"
+	.string "zu zollen.\p"
+	.string "Bitte erweise den Seelen der\n"
+	.string "verstorbenen Pokémon dein Mitgefühl.\p"
+	.string "Ich bin sicher, das macht sie\n"
+	.string "glücklich.$"
 
 SoulHouse_Text_Teacher:
-	.string "There are other graves of POKéMON\n"
-	.string "here, I think.\p"
-	.string "There are many chambers that only\n"
-	.string "MR.FUJI may enter.$"
+	.string "Ich glaube, hier\n"
+	.string "liegen noch andere Pokémon begraben.\p"
+	.string "Es gibt viele\n"
+	.string "Kammern, die nur MR. FUJI betreten\l"
+	.string "darf.$"
 
 SoulHouse_Text_Lass:
-	.string "I came with my mom to visit\n"
-	.string "POKéMON graves…$"
+	.string "Ich besuche mit\n"
+	.string "meiner Mutter die Grabmale der\l"
+	.string "Pokémon…$"
 
 SoulHouse_Text_Granny:
-	.string "The POKéMON that lived with me…\p"
-	.string "I loved them like my\n"
-	.string "grandchildren…$"
+	.string "Die Pokémon, die bei mir lebten…\p"
+	.string "Ich hatte sie so\n"
+	.string "lieb wie meine Enkelkinder…$"

@@ -36,22 +36,22 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "made a great achievement.$"
 
 CeruleanCity_Text_CooltrainerM1:
-	.string "KANTO's POWER PLANT?\p"
-	.string "It's near the end of ROUTE 9, the\n"
-	.string "road that heads east from here.\p"
-	.string "I think there was an accident of\n"
-	.string "some sort there.$"
+	.string "KANTOs Kraftwerk?\p"
+	.string "Es liegt am Ende von ROUTE 9, der\n"
+	.string "Straße, die hier nach Osten führt.\p"
+	.string "Ich glaube, dort gab es mal einen\n"
+	.string "Unfall oder so etwas.$"
 
 CeruleanCity_Text_CooltrainerM2:
-	.string "You're collecting every single\n"
-	.string "kind of POKéMON?\p"
-	.string "That must be quite a challenge,\n"
-	.string "but it sounds fun too.$"
+	.string "Du sammelst wirklich jede Art von\n"
+	.string "Pokémon?\p"
+	.string "Das muss eine große Herausforderung\n"
+	.string "sein, klingt aber auch nach Spaß.$"
 
 CeruleanCity_Text_SuperNerd:
-	.string "The CAPE in the north is a good\n"
-	.string "place for dates.\p"
-	.string "Girls like it!$"
+	.string "Das KAP im Norden ist ein guter\n"
+	.string "Ort für Dates.\p"
+	.string "Mädchen mögen das!$"
 
 CeruleanCity_EventScript_Slowbro::
 	lock
@@ -64,7 +64,7 @@ CeruleanCity_EventScript_Slowbro::
 	end
 
 CeruleanCity_Text_Slowbro:
-	.string "SLOWBRO: Yarah?$"
+	.string "Lahmus: Raahw?$"
 
 CeruleanCity_EventScript_SlowbroWoman::
 	msgbox CeruleanCity_Text_CooltrainerF1, MSGBOX_NPC
@@ -83,11 +83,11 @@ CeruleanCity_EventScript_SlowbroWoman::
 	end
 
 CeruleanCity_Text_CooltrainerF1:
-	.string "My SLOWBRO and I make an awesome\n"
-	.string "combination!$"
+	.string "Mein Lahmus und ich sind ein\n"
+	.string "super Team!$"
 
 CeruleanCity_Text_CooltrainerF2:
-	.string "SLOWBRO, show me your CONFUSION!$"
+	.string "Lahmus, zeig mir deine Konfusion!$"
 
 CeruleanCity_Text_CooltrainerF3:
 	.string "…$"
@@ -102,24 +102,25 @@ CeruleanCity_EventScript_FisherDuringRocket::
 	end
 
 CeruleanCity_Text_Fisher:
-	.string "I'm a huge fan of CERULEAN GYM's\n"
-	.string "MISTY.$"
+	.string "Ich bin großer Fan von Misty,\n"
+	.string "Arenaleiterin von Azuria City$"
 
 CeruleanCity_Text_Fisher_RocketTip:
-	.string "I saw this shady guy go off toward\n"
-	.string "CERULEAN's CAPE.$"
+	.string "Ich habe diesen seltsamen Typen\n"
+	.string "in Richtung des Kap gehen sehen.$"
 
 CeruleanCity_EventScript_Youngster::
 	msgbox CeruleanCity_Text_Youngster1, MSGBOX_NPC
 	end
 
 CeruleanCity_Text_Youngster1:
-	.string "The cave north of town has\n"
-	.string "horribly powerful POKéMON in it.$"
+	.string "Die Höhle nördlich der Stadt\n"
+	.string "soll von unfassbar starken \l"
+	.string "Pokémon bewohnt sein.$"
 
 CeruleanCity_Text_Youngster2:
 	.string "Ayuh?\p"
-	.string "My ITEMFINDER is responding…$"
+	.string "Mein Itemradar schlägt aus…$"
 
 CeruleanCity_EventScript_Sign::
 	msgbox CeruleanCity_Text_Sign, MSGBOX_SIGN
@@ -142,31 +143,33 @@ CeruleanCity_EventScript_CapeSign::
 	end
 
 CeruleanCity_Text_Sign:
-	.string "CERULEAN CITY\p"
-	.string "A Mysterious Blue Aura Surrounds It$"
+	.string "Azuria City\p"
+	.string "Umgeben von einer Mystischen\n"
+	.string "Blauen Aura$"
 
 CeruleanCity_Text_GymSign:
-	.string "CERULEAN CITY\n"
-	.string "POKéMON GYM\n"
-	.string "LEADER: MISTY\p"
-	.string "The Tomboyish Mermaid$"
+	.string "Azuria City\n"
+	.string "Pokémon Arena\n"
+	.string "Leiter: Misty\p"
+	.string "Die Jungenhafte Meerjungfrau$"
 
 CeruleanCity_Text_BikeShopSign:
-	.string "There's a notice here…\p"
-	.string "The BIKE SHOP has moved to\n"
-	.string "GOLDENROD CITY in JOHTO…$"
+	.string "Hier ist eine Nachricht…\p"
+	.string "Der Fahrradladen ist jetzt\n"
+	.string "in Dukatia City in JOHTO…$"
 
 CeruleanCity_Text_PoliceSign:
-	.string "There's a notice here…\p"
-	.string "Stamp out thievery and make the\n"
-	.string "city a friendlier, more cheerful\l"
-	.string "place!\p"
-	.string "CERULEAN POLICE$"
+	.string "Hier ist eine Nachricht…\p"
+	.string "Stoppt die Kriminalität und\n"
+	.string "macht aus dieser Stadt einen Ort,\l"
+	.string "an dem man sicher ist und gerne lebt!\n"
+	.string "\p"
+	.string "ORDNUNGSAMT von Azuria City$"
 
 CeruleanCity_Text_CapeSign:
-	.string "CERULEAN CAPE\n"
-	.string "AHEAD$"
+	.string "KAP bei AZURIA CITY\n"
+	.string "voraus$"
 
 CeruleanCity_Text_LockedDoor:
-	.string "It's locked…$"
+	.string "Abgeschlossen…$"
 

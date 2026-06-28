@@ -35,24 +35,21 @@ IndigoPlateau_EventScript_ShigyNinja::
 	end
 
 IndigoPlateau_Text_ShigyNinja:
-	.string "Congrats on making it here!\p"
-	.string "I've seen tons of trainers come\n"
-	.string "through here over the years, and\l"
-	.string "all of them are wonderfully unique.\p"
-	.string "You should be proud of yourself\n"
-	.string "for getting this far!\p"
-	.string "Now, go get 'em!$"
+	.string "INDIGO PLATEAU\p"
+	.string "Das Ultimative Ziel Aller Trainer!\p"
+	.string "HAUPTQUARTIER der Pokémon LIGA$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "The POKéMON LEAGUE is not taking\n"
-	.string "new challengers at the moment.\p"
-	.string "Please check back later.$"
+	.string "Die Pokémon LIGA akzeptiert\n"
+	.string "momentan keine neuen Herausforderer.\p"
+	.string "Bitte komm später wieder.$"
 
 IndigoPlateau_Text_CooltrainerM:
-    .string "At the POKéMON LEAGUE, you'll get\n"
-    .string "tested by the ELITE FOUR.\p"
-    .string "You have to beat them all. If you\n"
-    .string "lose, you have to start all over!$"
+	.string "In der Pokémon LIGA stellen dich\p"
+	.string "die TOP VIER auf eine harte Probe.\p"
+	.string "Du musst sie alle schlagen. Wenn du\p"
+	.string "verlierst, musst\n"
+	.string "du ganz von vorne anfangen!$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
@@ -86,24 +83,22 @@ IndigoPlateau_Silver_Battle_Chikorita::
 	return
 
 IndigoPlateau_Text_RivalEntrance1:
-    .string "Hold it.\p"
-    .string "You're going to take the POKéMON\n"
-    .string "LEAGUE challenge now?\p"
-    .string "That's not going to happen.\p"
-    .string "My super-well-trained POKéMON\n"
-    .string "are going to pound you.\p"
-    .string "{PLAYER}!\n"
-    .string "I challenge you!$"
+	.string "Halt.\p"
+	.string "Du willst zur Pokémon LIGA?\p"
+	.string "Das wird nicht passieren.\p"
+	.string "Meine Pokémon sind super trainiert\n"
+	.string "ich zerklatsch dich.\p"
+	.string "{PLAYER}! Ich fordere dich heraus!$"
 
 IndigoPlateau_Text_RivalWin:
-    .string "…\p"
-    .string "OK--I lost…$"
+	.string "… O.K. - Ich habe\p"
+	.string "verloren…$"
 
 IndigoPlateau_Text_RivalAfter:
-    .string "…Darn… I still can't win…\p"
-    .string "I… I have to think more about my\n"
-    .string "POKéMON…\p"
-    .string "Humph! Try not to lose!$"
+	.string "…Mann… Ich kann noch nicht gewinnen…\p"
+	.string "I… Ich muss über meine Pokémon\n"
+	.string "nachdenken…\p"
+	.string "Humph! Versuch nicht zu verlieren!$"
 
 IndigoPlateau_EventScript_Psychic::
 	lock
@@ -145,19 +140,20 @@ IndigoPlateau_EventScript_Abra::
 	end
 
 IndigoPlateau_Text_TeleportGuy1:
-    .string "Ah! You're challenging the ELITE\n"
-    .string "FOUR? Are you sure you're ready?\p"
-    .string "If you need to train some more,\n"
-    .string "my ABRA can help you.\p"
-    .string "It can TELEPORT you home.\p"
-    .string "Would you like to go home now?$"
+	.string "Ah! Du forderst die ELITE-VIER?\p"
+	.string "Bist du sicher, dass du bereit bist?\p"
+	.string "Wenn du noch trainieren willst,\p"
+	.string "kann mein Abra dir helfen.\p"
+	.string "Es kann dich nach Hause teleportieren.\n"
+	.string "\p"
+	.string "Willst du jetzt nach Hause gehen?$"
 
 IndigoPlateau_Text_TeleportGuyYes:
-    .string "OK, OK. Picture your house in your\n"
-    .string "mind…$"
+	.string "OK, OK. Stell dir dein Haus in\n"
+	.string "deiner Vorstellung vor…$"
 
 IndigoPlateau_Text_TeleportGuyNo:
-    .string "OK, OK. The best of luck to you!$"
+	.string "OK, OK. Viel Glück für dich!$"
 
 IndigoPlateau_Text_Abra:
-    .string "ABRA: Aabra…$"
+	.string "Abra: Aabra…$"

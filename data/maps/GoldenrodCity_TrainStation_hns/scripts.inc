@@ -294,28 +294,30 @@ GoldenrodCity_TrainStation_Movement_SlideRight:
 	step_end
 
 GoldenrodMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-    .string "The train hasn't come in…\p"
-    .string "I know! I'll carry the passengers\n"
-    .string "on my back!\p"
-    .string "That won't work.$"
+	.string "Der Zug ist nicht gekommen…\p"
+	.string "Ich hab's! Ich werde die\n"
+	.string "Passagiere auf dem Rücken tragen!\p"
+	.string "...Das wird nicht funktionieren.$"
 
 GoldenrodMagnetTrainStation_Text_OfficerRightThisWay:
-    .string "May I see your rail PASS, please?\p"
-    .string "OK. Right this way, please.$"
+	.string "Darf ich deinen FAHRSCHEIN sehen?\p"
+	.string "O.K. Bitte hier entlang.$"
 
 GoldenrodMagnetTrainStation_Text_OfficerNoRailPass:
-    .string "Sorry. You don't have a rail PASS.$"
+	.string "Verzeihung, aber\n"
+	.string "du hast keinen FAHRSCHEIN.$"
 
 GoldenrodMagnetTrainStation_Text_GentlemanPresident:
-    .string "I'm the PRESIDENT.\p"
-    .string "My dream was to build a train that\n"
-    .string "is faster than any POKéMON.\p"
-    .string "It really brings JOHTO much closer\n"
-    .string "to KANTO.$"
+	.string "Ich bin der PRÄSIDENT.\p"
+	.string "Mein Traum war es,\n"
+	.string "einen Zug zu bauen, der schneller\l"
+	.string "ist als jedes Pokémon.\p"
+	.string "Dadurch würden\n"
+	.string "JOHTO und KANTO näher rücken.$"
 
 GoldenrodCity_TrainStation_Text_Boy:
-	.string "You brought the MAGNET TRAIN PASS,\n"
-	.string "right?$"
+	.string "Du hast einen Fahrschein für den\n"
+	.string "Magnetzug, oder?$"
 
 GoldenrodCity_TrainStation_Text_Psychic:
-	.string "I thought you had it!$"
+	.string "Ich dachte du hast ihn!$"

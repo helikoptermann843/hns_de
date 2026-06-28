@@ -264,85 +264,88 @@ MahoganyTown_Movement_PlayerMerchant2:
 	step_end
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
-	.string "Hiya, kid!\p"
-	.string "I see you're new in MAHOGANY TOWN.\p"
-	.string "Since you're new, you should try a\n"
-	.string "yummy RAGECANDYBAR!\p"
-	.string "Right now, it can be yours for just\n"
-	.string "¥300! Want one?$"
+	.string "Hi, Zwerg!\p"
+	.string "Ich sehe, du bist neu in MAHAGONIA.\p"
+	.string "Du musst unbedingt\n"
+	.string "einen WUTKEKS probieren!\p"
+	.string "Ich habe einen da-\n"
+	.string "bei. Für nur ¥300 gehört er dir.$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
-    .string "Good! Savor it!$"
+	.string "Gut! Genieße ihn!$"
 
 MahoganyTown_Text_RageCandyBarMerchantNotEnoughMoney:
-    .string "You don't have enough money.$"
+	.string "Du hast nicht genug Geld.$"
 
 MahoganyTown_Text_RageCandyBarMerchantRefused:
-    .string "Oh, fine then…$"
+	.string "Dann eben nicht…$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
-    .string "RAGECANDYBAR's sold out.\p"
-    .string "I'm packing up. Don't bother me,\n"
-    .string "kiddo.$"
+	.string "Die WUTKEKSE sind ausverkauft.\p"
+	.string "Ich verschwinde.\n"
+	.string "Stör mich nicht, Kind.$"
 
 MahoganyTown_Text_Gramps:
-    .string "Are you off to see the GYARADOS\n"
-    .string "rampage at the LAKE?$"
+	.string "Hast du vor, die\n"
+	.string "GARADOS am SEE anzusehen?$"
 
 MahoganyTown_Text_GrampsClearedRocketHideout:
-    .string "MAGIKARP have returned to LAKE\n"
-    .string "OF RAGE.\p"
-    .string "That should be good news for the\n"
-    .string "anglers there.$"
+	.string "Die KARPADOR sind\n"
+	.string "zum SEE DES ZORNS zurückgekehrt.\p"
+	.string "Das sind gute Neu-\n"
+	.string "igkeiten für die Angler.$"
 
 MahoganyTown_Text_Fisher:
-    .string "Since you came this far, take the\n"
-    .string "time to do some sightseeing.\p"
-    .string "You should head north and check\n"
-    .string "out LAKE OF RAGE right now.$"
+	.string "Wenn du schon so weit gekommen\p"
+	.string "bist, solltest du\n"
+	.string "dir die Zeit nehmen, um etwas\p"
+	.string "Sightseeing zu unternehmen.\p"
+	.string "Geh nach Norden und sieh dir den\p"
+	.string "SEE DES ZORNS an.$"
 
 MahoganyTown_Text_Lass:
-    .string "Visit Grandma's shop. She sells\n"
-    .string "stuff that nobody else has.$"
+	.string "Besuche Großmutters Laden. Sie\p"
+	.string "verkauft Artikel,\n"
+	.string "die du sonst nirgends bekommen kannst.$"
 
 MahoganyTown_Text_Sign:
-    .string "MAHOGANY TOWN\p"
-    .string "Welcome to the Home of the Ninja$"
+	.string "MAHAGONIA CITY\p"
+	.string "Willkommen in der Stadt der Ninja$"
 
 MahoganyTown_Text_RagecandybarSign:
-    .string "While visiting MAHOGANY TOWN, try\n"
-    .string "a RAGECANDYBAR!$"
+	.string "Versuchen Sie den leckeren WUTKEKS!$"
 
 MahoganyTown_Text_GymSign:
-    .string "MAHOGANY TOWN POKéMON GYM\p"
-    .string "LEADER: PRYCE\p"
-    .string "The Teacher of Winter's Harshness$"
+	.string "MAHAGONIA CITY\p"
+	.string "Willkommen in der Stadt der Ninja$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	.string "PROF.ELM: {PLAYER}, how are\n"
-	.string "things going?\p"
-	.string "I called because something weird\n"
-	.string "is happening with the radio\l"
-	.string "broadcasts.\p"
-	.string "They were talking about TEAM\n"
-	.string "ROCKET.\p"
-	.string "{PLAYER}, do you know anything\n"
-	.string "about it?\p"
-	.string "Maybe TEAM ROCKET has returned.\n"
-	.string "No, that just can't be true.\p"
-	.string "Sorry to bug you.\n"
-	.string "Take care!$"
+	.string "PROF.LIND: {PLAYER}, wie läuft's\n"
+	.string "bei dir?\p"
+	.string "Ich rufe an, weil etwas Seltsames\n"
+	.string "im Radio passiert.\p"
+	.string "Sie haben von TEAM ROCKET\n"
+	.string "gesprochen.\p"
+	.string "{PLAYER}, weißt du etwas\n"
+	.string "darüber?\p"
+	.string "Vielleicht ist TEAM ROCKET\n"
+	.string "zurückgekehrt.\p"
+	.string "Nein, das kann einfach nicht\n"
+	.string "wahr sein.\p"
+	.string "Entschuldige die Störung.\n"
+	.string "Pass auf dich auf!$"
 
 ElmPhoneRoute39LegendaryText:
-	.string "PROF.ELM: WOAH!\n"
-	.string "{PLAYER}, did you see that?!\p"
-	.string "A massive POKéMON just flew over\n"
-	.string "ECRUTEAK CITY!\l"
-	.string "I could see it from my LAB!\p"
-	.string "Could it be one of the legendary\n"
+	.string "PROF.LIND: WOW!\n"
+	.string "{PLAYER}, hast du das gesehen?!\p"
+	.string "Ein riesiges POKéMON flog über\n"
+	.string "TEAK CITY hinweg!\p"
+	.string "Ich konnte es sogar von meinem\n"
+	.string "LABOR aus sehen!\p"
+	.string "War es eines der legendären\n"
 	.string "POKéMON??\p"
-	.string "It looked like it was headed West,\n"
-	.string "toward ROUTE 39.\p"
+	.string "Es flog nach Westen,\n"
+	.string "Richtung ROUTE 39.\p"
 	.string "{PLAYER}!\n"
-	.string "This may be a rare opportunity\l"
-	.string "to give chase!$"
+	.string "Das könnte eine seltene Chance\l"
+	.string "zur Verfolgung sein!$"

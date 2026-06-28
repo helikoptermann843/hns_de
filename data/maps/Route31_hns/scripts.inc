@@ -116,129 +116,131 @@ Route31_EventScript_ItemAntidote::
 	end
 
 Route31_Text_CooltrainerM:
-	.string "DARK CAVE…\p"
-	.string "If POKéMON could light it up,\n"
-	.string "I'd explore it.$"
+	.string "DUNKELHÖHLE…\p"
+	.string "Wenn ein Pokémon\n"
+	.string "für Licht sorgen könnte,\l"
+	.string "würde ich sie erforschen.$"
 
 Route31_Text_BugCatcherWade1_Seen:
-	.string "I caught a bunch of POKéMON.\n"
-	.string "Let me battle with you!$"
+	.string "Ich habe einige Pokémon gefangen.\n"
+	.string "Lass uns kämpfen!$"
 
 Route31_Text_BugCatcherWade1_Beaten:
 	.string "Awwwww…$"
 
 Route31_Text_BugCatcherWade1_After:
-	.string "You can catch POKéMON even if\n"
-	.string "you have six with you.\p"
-	.string "If you catch one, it'll go to\n"
-	.string "your BOX automatically.$"
+	.string "Du kannst Pokémon fangen, auch wenn\n"
+	.string "du bereits sechs bei dir trägst.\p"
+	.string "Fängst du eines,\n"
+	.string "wird es automatisch auf die BOX\l"
+	.string "im PC übertragen.$"
 
 Route31_Text_SleepyMan:
-	.string "… Hnuurg… Huh?\p"
-	.string "I walked too far today looking\n"
-	.string "for POKéMON.\p"
-	.string "My feet hurt and I'm sleepy…\p"
-	.string "If I were a wild POKéMON, I'd\n"
-	.string "be easy to catch…\p"
+	.string "…Uargh… Hä?\p"
+	.string "Heute bin ich auf\n"
+	.string "der Suche nach Pokémon\l"
+	.string "zu viel gelaufen.\p"
+	.string "Meine Füße schmerzen\n"
+	.string "und ich bin müde…\p"
+	.string "Wenn ich ein wildes\n"
+	.string "Pokémon wäre, würde ich mich\l"
+	.string "leicht fangen lassen…\p"
 	.string "…Zzzz…$"
 
 Route31_Text_SleepyManGotMail:
-	.string "…Zzzz… Huh?\p"
-	.string "What's that? You have MAIL\n"
-	.string "for me?$"
+	.string "…Zzzz… Häh?\p"
+	.string "Was ist? Du hast einen BRIEF für mich?$"
 
 Route31_Text_SleepyManFail:
 	.string "…Zzzz…$"
 
 Route31_Text_HandOverMailMon:
-	.string "{PLAYER} handed over the\n"
-	.string "POKéMON holding the MAIL.$"
+	.string "{PLAYER} übergibt\n"
+	.string "das Pokémon, das den BRIEF trägt.$"
 
 Route31_Text_ReadingMail:
-	.string "Let's see…\p"
-	.string "Thanks for bringing this to\n"
-	.string "me.\p"
-	.string "My friend's a good guy, and\n"
-	.string "you're swell too!\p"
-	.string "I'd like to do something good\n"
-	.string "in return too!\p"
-	.string "I know! I want you to have\n"
-	.string "this!$"
+	.string "Mal sehen…\p"
+	.string "…die DUNKELHÖHLE\n"
+	.string "führt zu einem anderen Weg…\p"
+	.string "Gut zu wissen.\p"
+	.string "Danke, dass du mir\n"
+	.string "den BRIEF brachtest.\p"
+	.string "Mein Freund ist\n"
+	.string "ein netter Mensch, genau wie du!\p"
+	.string "Ich möchte mich\n"
+	.string "bei dir dafür revanchieren!\p"
+	.string "Ich hab's! Ich\n"
+	.string "möchte dir das hier geben!$"
 
 Route31_Text_DescribeRest:
 	.string "...Zzz...\p"
-	.string "...Umm... Rest!\p"
-	.string "The phrase 'recover fast' became\n"
-	.string "shortened to 'Rest,' you see?\p"
-	.string "This is a move to sleep and recover\n"
-	.string "some HP.$"
+	.string "...Umm... Erholung!\p"
+	.string "Eine Attacke um KP zu erholen.$"
 
 Route31_Text_WrongMail:
-	.string "This MAIL isn't for me.$"
+	.string "Der BRIEF ist nicht für mich.$"
 
 Route31_Text_MissingMail:
-	.string "Why is this POKéMON so special?\p"
-	.string "It doesn't have any MAIL.$"
+	.string "Was ist so besonders\n"
+	.string "an diesem Pokémon?\p"
+	.string "Es trägt keinen BRIEF.$"
 
 Route31_Text_DeclinedToHandOverMail:
-	.string "What? You don't want\n"
-	.string "anything?$"
+	.string "Was? Du möchtest nichts?$"
 
 Route31_Text_CantTakeLastMon:
-	.string "If I take that POKéMON from\n"
-	.string "you,\p"
-	.string "what are you going to use in\n"
-	.string "battle?$"
+	.string "Wenn ich dir dieses Pokémon wegnehme,\n"
+	.string "womit willst du dann kämpfen?$"
 
 Route31_Text_Youngster:
-	.string "I found a good POKéMON in DARK\n"
-	.string "CAVE.\p"
-	.string "I'm going to raise it to take\n"
-	.string "on FALKNER.\p"
-	.string "He's the leader of VIOLET\n"
-	.string "CITY's GYM.$"
+	.string "Ich habe ein gutes Pokémon \n"
+	.string "in der DUNKELHÖHLE gefunden.\p"
+	.string "Ich ziehe es groß,\n"
+	.string "um später gegen FALK anzutreten.\p"
+	.string "Er ist der ARENALEITER\n"
+	.string "von VIOLA CITY.$"
 
 Route31_Text_Sign:
 	.string "ROUTE 31\p"
-	.string "VIOLET CITY - CHERRYGROVE CITY$"
+	.string "VIOLA CITY - ROSALIA CITY$"
 
 Route31_Text_WadeRegister:
-	.string "You're awesome! I like you!\p"
-	.string "I look for POKéMON here every\n"
-	.string "day.\p"
-	.string "When I'm in the grass, I find\n"
-	.string "all kinds of BERRIES.\p"
-	.string "If you'd like, I'll share\n"
-	.string "some.$"
+    .string "Du bist spitze! Ich mag dich!\p"
+    .string "Ich suche hier jeden Tag nach\n"
+    .string "POKéMON.\p"
+    .string "Im hohen Gras finde ich alle\n"
+    .string "möglichen BEEREN.\p"
+    .string "Wenn du möchtest, teile ich\n"
+    .string "sie mit dir.$"
 
 Route31_Text_WadeRematchIntro:
-	.string "I was waiting for you.\n"
-	.string "Let's battle!$"
+    .string "Ich habe auf dich gewartet.\n"
+    .string "Lass uns kämpfen!$"
 
 Route31_Text_WadeRematchDefeat:
-	.string "Awwwww…$"
+    .string "Awwwww…$"
 
 Route31_Text_WadePostRematch:
-	.string "You'll hear from me as soon\n"
-	.string "as I find anything that you\l"
-	.string "might like.$"
+    .string "Ich melde mich sofort, wenn\n"
+    .string "ich etwas finde, das dir\l"
+    .string "gefallen könnte.$"
 
 Route31_Text_WadeHasItem:
-	.string "Hey! I've been looking for\n"
-	.string "you!\p"
-	.string "I found something while I\n"
-	.string "was in the grass.\p"
-	.string "Here, you can have it!$"
+    .string "Hey! Ich habe nach dir\n"
+    .string "gesucht!\p"
+    .string "Ich habe etwas gefunden,\n"
+    .string "als ich im Gras unterwegs war.\p"
+    .string "Hier, du kannst es haben!$"
 
 Route31_Text_WadeGaveItem:
-	.string "I'll let you know if I find\n"
-	.string "anything else!$"
+    .string "Ich sage dir Bescheid, wenn\n"
+    .string "ich noch etwas finde!$"
 
 Route31_Text_WadeNoRoom:
-	.string "Hmm, looks like your BAG\n"
-	.string "is full.\p"
-	.string "Come back when you have\n"
-	.string "room!$"
+    .string "Hm, dein BEUTEL scheint\n"
+    .string "voll zu sein.\p"
+    .string "Komm wieder, wenn du Platz\n"
+    .string "hast!$"
 
 Route31_Text_DarkCaveSign:
-	.string "DARK CAVE$"
+	.string "DUNKELHÖHLE$"

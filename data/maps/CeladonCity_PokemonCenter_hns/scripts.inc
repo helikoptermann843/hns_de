@@ -19,37 +19,39 @@ CeladonCity_PokemonCenter_EventScript_Eusine::
 	end
 
 CeladonCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "ERIKA is a master of grass\n"
-	.string "POKéMON.\p"
-	.string "She'll make you pay if you don't\n"
-	.string "watch yourself.$"
+	.string "Erika ist eine Meisterin der\n"
+	.string "Pflanzen-Pokémon.\p"
+	.string "Sie wird dich bezahlen lassen, wenn\n"
+	.string "du nicht aufpasst.$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
-	.string "TEAM ROCKET's hideout is in the\n"
-	.string "basement of the GAME CORNER.\p"
-	.string "Oh, wait. That was three years\n"
-	.string "ago.$"
+	.string "TEAM ROCKETs Versteck befindet sich\n"
+	.string "im Keller des SPIELE-ECKS.\p"
+	.string "Oh, Moment. Das war vor drei Jahren.$"
 
 Celadon_Text_Eusine1:
-	.string "EUSINE: Hi!\p"
-	.string "I'm back visiting my hometown.\p"
-	.string "It's been quite a while.$"
+	.string "Eusin: Hi!\p"
+	.string "Ich besuche wieder meine Heimatstadt.\n"
+	.string "\p"
+	.string "Es ist schon eine ganze Weile her.$"
 
 Celadon_Text_EusineLeaves:
-	.string "{PLAYER}, have you heard?\p"
-	.string "There have been fresh rumors of a\n"
-	.string "rainbow-colored POKéMON\n"
-	.string "appearing at TIN TOWER.\p"
-	.string "I've just had my party healed,\n"
-	.string "so now I'm headed to ECRUTEAK.\p"
-	.string "I'll be seeing you, {PLAYER}!$"
+	.string "{PLAYER}, hast du gehört?\p"
+	.string "Es gibt frische Gerüchte über ein\n"
+	.string "regenbogenfarbenes Pokémon,\n"
+	.string "das im Glockenturm erscheint.\p"
+	.string "Ich habe gerade meine Party heilen\l"
+	.string "lassen\n"
+	.string "lassen, jetzt mache ich mich auf nach\p"
+	.string "\p"
+	.string "Teak-City. Wir sehen uns, {PLAYER}!$"
 
 Celadon_Text_NoBeasts:
-	.string "Oh, by the way, {PLAYER}.\p"
-	.string "Have you caught the legendary\n"
-	.string "POKéMON RAIKOU and ENTEI?\p"
+	.string "Ach übrigens, {PLAYER}.\p"
+	.string "Hast du die legendären Pokémon\n"
+	.string "Raikou und Entei gefangen?\p"
 	.string "<……><……><……>\p"
 	.string "Okay…\p"
-	.string "If you catch even one, I hope\n"
-	.string "that you'll inform me.\p"
-	.string "I'm counting on you, {PLAYER}!$"
+	.string "Wenn du auch nur eines fängst\n"
+	.string "hoffe ich, dass du es mir meldest.\p"
+	.string "Ich zähle auf dich, {PLAYER}!$"

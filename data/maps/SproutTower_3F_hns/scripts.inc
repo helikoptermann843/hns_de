@@ -159,95 +159,95 @@ SproutTower_3F_Movement_EscapeRope:
 	step_end
 
 SproutTower_Text_ElderLecturesRival:
-	.string "ELDER: You are indeed skilled\n"
-	.string "as a trainer.\p"
-	.string "As promised, here is your HM.\p"
-	.string "But let me say this: You should\n"
-	.string "treat your POKéMON better.\p"
-	.string "The way you battle is far too\n"
-	.string "harsh.\p"
-	.string "POKéMON are not tools of war…$"
+	.string "WEISER: Du bist wirklich\n"
+	.string "ein begabter Trainer.\p"
+	.string "Wie abgemacht, bekommst du die VM.\p"
+	.string "Eines gebe ich dir noch mit:\p"
+	.string "Behandle deine Pokémon besser.\p"
+	.string "Dein Kampfstil ist zu aggressiv.\p"
+	.string "Pokémon sind keine Kampfspielzeuge…$"
 
 SproutTower_Text_RivalOnlyCaresStrong:
-	.string "…\n"
-	.string "…Humph!\p"
-	.string "He claims to be the ELDER but\n"
-	.string "he's weak.\p"
-	.string "It stands to reason.\p"
-	.string "I'd never lose to fools who babble\n"
-	.string "about being nice to POKéMON.\p"
-	.string "I only care about strong\n"
-	.string "POKéMON that can win.\p"
-	.string "I really couldn't care less\n"
-	.string "about weak POKéMON.$"
+	.string "… …Hmpf!\p"
+	.string "Er behauptet, ein WEISER zu sein.\p"
+	.string "Aber er ist schwach.\p"
+	.string "Das muss noch geklärt werden.\p"
+	.string "Ich würde nie gegen\n"
+	.string "so einen Narren verlieren,\l"
+	.string "der mir rät, meine Pokémon\l"
+	.string "gut zu behandeln.\p"
+	.string "Für mich zählen nur starke Pokémon.\p"
+	.string "Schwache Pokémon interessieren mich\n"
+	.string "überhaupt gar nicht.$"
 
 SproutTower_Text_RivalUsedEscapeRope:
-	.string "{RIVAL} used an ESCAPE ROPE!$"
+	.string "Silber benutzt FLUCHTSEIL!$"
 
 SproutTower_Text_SageLi_Seen:
-	.string "So good of you to come here!\p"
-	.string "SPROUT TOWER is a place of\n"
-	.string "training.\p"
-	.string "People and POKéMON test their\n"
-	.string "bonds to build a bright future\l"
-	.string "together.\p"
-	.string "I am the final test.\p"
-	.string "Allow me to check the ties\n"
-	.string "between your POKéMON and you!$"
+	.string "Schön, dass du hier bist!\p"
+	.string "Der Knofensa-Turm ist ein Ort\n"
+	.string "zum Trainieren.\p"
+	.string "Menschen und Pokémon prüfen\n"
+	.string "ihre Bindungen, um eine helle\l"
+	.string "Zukunft gemeinsam zu bauen.\p"
+	.string "Ich bin die letzte Prüfung.\p"
+	.string "Lass mich die Bande prüfen\n"
+	.string "zwischen dir und deinen Pokémon!$"
 
 SproutTower_Text_SageLi_Beaten:
-	.string "Ah, excellent!$"
+	.string "Ah, ausgezeichnet!$"
 
 SproutTower_Text_SageLi_TakeFlash:
-	.string "You and your POKéMON should\n"
-	.string "have no problem using this move.\p"
-	.string "Take this FLASH HM.$"
+	.string "Du und deine Pokémon solltet\n"
+	.string "keine Probleme mit dieser\l"
+	.string "Attacke haben.\p"
+	.string "Nimm diese VM Blitz.$"
 
 SproutTower_Text_SageLi_FlashExplain:
-	.string "FLASH illuminates even the\n"
-	.string "darkest of all places.\p"
-	.string "But to use it out of battle, you\n"
-	.string "need the BADGE from VIOLET's GYM.$"
+	.string "Blitz erhellt selbst die\n"
+	.string "dunkelsten Orte.\p"
+	.string "Um es außerhalb des Kampfes\n"
+	.string "zu nutzen, brauchst du den\l"
+	.string "Orden aus der VIOLA Arena.$"
 
 SproutTower_Text_SageLi_AfterBattle:
-	.string "I hope you learn and grow from\n"
-	.string "your journey.$"
+	.string "Ich hoffe, du lernst und\n"
+	.string "wächst an deiner Reise.$"
 
 SproutTower_Text_SageJin_Seen:
-	.string "I train to find enlightenment\n"
-	.string "in POKéMON!$"
+	.string "Ich trainiere, um Erleuchtung\n"
+	.string "in Pokémon zu finden!$"
 
 SproutTower_Text_SageJin_Beaten:
-	.string "My training is incomplete…$"
+	.string "Mein Training ist unvollständig…$"
 
 SproutTower_Text_SageJin_AfterBattle:
-	.string "As POKéMON grow stronger,\n"
-	.string "so does the trainer.\p"
-	.string "No, wait. As the trainer\n"
-	.string "grows stronger, so do the\l"
-	.string "POKéMON.$"
+	.string "Wenn Pokémon stärker werden,\n"
+	.string "wird auch der Trainer stärker.\p"
+	.string "Nein, warte. Wenn der Trainer\n"
+	.string "stärker wird, werden auch die\l"
+	.string "Pokémon stärker.$"
 
 SproutTower_Text_SageTroy_Seen:
-	.string "Let me see how much you trust\n"
-	.string "your POKéMON.$"
+	.string "Lass mich sehen, wie sehr du\n"
+	.string "deinen Pokémon vertraust.$"
 
 SproutTower_Text_SageTroy_Beaten:
-	.string "Yes, your trust is real!$"
+	.string "Ja, dein Vertrauen ist echt!$"
 
 SproutTower_Text_SageTroy_AfterBattle:
-	.string "It is not far to the ELDER.$"
+	.string "Es ist nicht weit bis zum ÄLTESTEN.$"
 
 SproutTower_Text_SageNeal_Seen:
-	.string "The ELDER's HM lights even\n"
-	.string "pitch-black darkness.$"
+	.string "Die VM des ÄLTESTEN erhellt\n"
+	.string "selbst tiefste Dunkelheit.$"
 
 SproutTower_Text_SageNeal_Beaten:
-	.string "It is my head that is bright!$"
+	.string "Mein Kopf ist hell!$"
 
 SproutTower_Text_SageNeal_AfterBattle:
-	.string "Let there be light on your\n"
-	.string "journey.$"
+	.string "Möge Licht auf deiner Reise sein.$"
 
 SproutTower_Text_3F_Painting:
-	.string "It's a powerful painting of a\n"
-	.string "BELLSPROUT.$"
+	.string "Dies ist ein dy-\n"
+	.string "namisches Gemälde von KNOFENSA.$"

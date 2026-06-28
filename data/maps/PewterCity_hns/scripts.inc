@@ -58,28 +58,33 @@ PewterCity_EventScript_Cooltrainer::
 	end
 
 PewterCity_Text_CooltrainerF:
-	.string "Have you visited PEWTER GYM?\p"
-	.string "The LEADER uses ROCK-type POKéMON.$"
+	.string "Warst du schon in\n"
+	.string "der PKMN-ARENA von MARMORIA CITY?\p"
+	.string "Der LEITER dort\n"
+	.string "verwendet GesteinPokémon.$"
 
 PewterCity_Text_BugCatcher:
-	.string "At night, CLEFAIRY come out to play at\n"
-	.string "MT.MOON.\p"
-	.string "But not every night.$"
+	.string "NACHTs spielen PIEPI beim MONDBERG.\p"
+	.string "Aber nicht in jeder Nacht.$"
 
 PewterCity_Text_Gramps:
-	.string "Ah, you came all the way out here from\n"
-	.string "JOHTO?\p"
-	.string "That brings back memories. When I was\n"
-	.string "young, I went to JOHTO to train.\p"
-	.string "You remind me so much of what I was like\n"
-	.string "as a young man.\p"
-	.string "Here. I want you to have this item I\n"
-	.string "found in JOHTO.$"
+	.string "Oh, du bist den\n"
+	.string "ganzen Weg  von JOHTO bis hierher\n"
+	.string "gekommen?\p"
+	.string "Das weckt Erinnerungen. Als\p"
+	.string "ich noch jung war,\n"
+	.string "habe ich in JOHTO oft trainiert.\p"
+	.string "Du erinnerst mich an mich\p"
+	.string "selbst als junger Mann.\p"
+	.string "Hier. Ich möchte,\n"
+	.string "dass du dieses Item, das ich in JOHTO\l"
+	.string "fand, behältst.$"
 
 PewterCity_Text_Gramps_GotSilverWing:
-	.string "Going to new, unknown places and seeing\n"
-	.string "new people…\p"
-	.string "Those are the joys of travel.$"
+	.string "Neue und un-\n"
+	.string "bekannte Orte zu erforschen und fremde\n"
+	.string "Menschen kennen zu lernen…\p"
+	.string "Das ist das Schöne am Reisen.$"
 
 PewterCity_EventScript_CitySign::
 	msgbox PewterCity_Text_Sign, MSGBOX_NPC
@@ -102,23 +107,22 @@ PewterCity_EventScript_WelcomeSign::
 	end
 
 PewterCity_Text_Sign:
-	.string "PEWTER CITY\n"
-	.string "A Stone Gray City$"
+	.string "MARMORIA CITY Eine Steingraue Stadt$"
 
 PewterCity_Text_GymSign:
-	.string "PEWTER CITY POKéMON GYM\n"
-	.string "LEADER: BROCK\p"
-	.string "The Rock Solid POKéMON Trainer$"
+	.string "MARMORIA CITY Eine Steingraue Stadt$"
 
 PewterCity_Text_MuseumSign:
-	.string "There's a notice here…\p"
-	.string "PEWTER MUSEUM OF SCIENCE is closed for\n"
-	.string "renovations…$"
+	.string "Hier ist eine Nachricht…\p"
+	.string "MARMORIAS MUSEUM\n"
+	.string "DER WISSENSCHAFT ist wegen\l"
+	.string "Renovierungsarbeiten geschlossen…$"
 
 PewterCity_Text_MtMoonGiftShopSign:
-	.string "There's a notice here…\p"
-	.string "MT.MOON GIFT SHOP NOW OPEN!$"
+	.string "Hier ist eine Nachricht…\p"
+	.string "SOUVENIRLADEN AM\n"
+	.string "MONDBERG Jetzt geöffnet!$"
 
 PewterCity_Text_WelcomeSign:
-	.string "WELCOME TO PEWTER CITY!$"
+	.string "Willkommen in MARMORIA CITY!$"
 

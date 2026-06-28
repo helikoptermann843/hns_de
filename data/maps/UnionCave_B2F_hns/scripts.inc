@@ -50,38 +50,38 @@ UnionCave_B2F_EventScript_Item_MaxRevive::
 	end
 
 UnionCave_B2F_Text_CooltrainermNickSeen:
-	.string "There are two kinds of people.\p"
-	.string "Those who have style, and those\n"
-	.string "who don't.\p"
-	.string "What kind of person are you?$"
+	.string "Es gibt zwei Arten von Leuten.\p"
+	.string "Die mit Stil und die ohne.\n"
+	.string "Und du, zu welcher Art gehörst du?$"
 
 UnionCave_B2F_Text_CooltrainermNickBeaten:
-	.string "You've got dazzling style!$"
+	.string "Du hast einen strahlenden Stil!$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
-	.string "Your POKéMON style is stunning and\n"
-	.string "colorful, I admit.\p"
-	.string "You'll just keep getting better!$"
+	.string "Der Stil deiner Pokémon ist\n"
+	.string "wundervoll und bunt, das geb ich zu.\p"
+	.string "Du wirst immer besser!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
-	.string "I'm in training. Care for a round?$"
+	.string "Ich trainiere gerade.\n"
+	.string "Willst du einen Kampf?$"
 
 UnionCave_B2F_Text_CooltrainerfGwenBeaten:
-	.string "Aww, no! You're too good for me.$"
+	.string "Ach nein! Du bist zu stark für mich!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenAfter:
-	.string "I'm going to train by myself until I\n"
-	.string "improve.$"
+	.string "Ich trainiere alleine, bis ich\n"
+	.string "mich verbessert habe.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaSeen:
-	.string "If the POKéMON I liked were there,\n"
-	.string "I'd go anywhere.\p"
-	.string "That's what a real trainer does.$"
+	.string "Wenn meine Pokémon dabei sind,\n"
+	.string "gehe ich überall hin.\p"
+	.string "So macht ein echter Trainer das.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
-	.string "I'd rather pet my babies than this!$"
+	.string "Ich streichle lieber meine Pokémon!$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
-	.string "Just once a week, a POKéMON comes to\n"
-	.string "the water's edge.\p"
-	.string "I wanted to see that POKéMON…$"
+	.string "Nur einmal die Woche kommt ein\n"
+	.string "Pokémon an den Rand vom Wasser.\p"
+	.string "Ich wollte es sehen…$"

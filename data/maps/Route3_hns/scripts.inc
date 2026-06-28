@@ -32,47 +32,51 @@ Route3_EventScript_Sign::
 	end
 
 Route3_Text_FirebreatherOtis_Seen:
-	.string "Ah! The weather's as fine as ever.$"
+	.string "Ah! Das Wetter ist so schön wie immer.$"
 
 Route3_Text_FirebreatherOtis_Beaten:
-	.string "It's sunny, but I'm all wet…$"
+	.string "Die Sonne scheint,\n"
+	.string "dennoch bin ich nass…$"
 
 Route3_Text_FirebreatherOtis_AfterBattle:
-	.string "When it rains, it's hard to get\n"
-	.string "ignition…$"
+	.string "Bei Regen ist\n"
+	.string "eine Zündung sehr schwierig…$"
 
 Route3_Text_YoungsterWarren_Seen:
-	.string "Hmmm… I don't know what to do…$"
+	.string "Hmmm… Ich weiß\n"
+	.string "nicht, was ich tun soll…$"
 
 Route3_Text_YoungsterWarren_Beaten:
-	.string "I knew I'd lose…$"
+	.string "Ich wusste es…$"
 
 Route3_Text_YoungsterWarren_AfterBattle:
-	.string "You looked strong.\p"
-	.string "I was afraid to take you on…$"
+	.string "Du hast gleich\n"
+	.string "einen starken Eindruck gemacht.\p"
+	.string "Ich hatte Angst,\n"
+	.string "gegen dich zu kämpfen…$"
 
 Route3_Text_YoungsterJimmy_Seen:
-	.string "I can run like the wind!$"
+	.string "Ich bin schnell wie der Wind!$"
 
 Route3_Text_YoungsterJimmy_Beaten:
-	.string "Blown away!$"
+	.string "Hinfortgeweht!$"
 
 Route3_Text_YoungsterJimmy_AfterBattle:
-	.string "I wear shorts the whole year round.\p"
-	.string "That's my fashion policy.$"
+	.string "Ich trage das ganze Jahr Shorts.\p"
+	.string "Das ist meine Auffassung von Mode.$"
 
 Route3_Text_FirebreatherBurt_Seen:
-	.string "Step right up and take a look!$"
+	.string "Komm schnell her und schau!$"
 
 Route3_Text_FirebreatherBurt_Beaten:
-	.string "Yow! That's hot!$"
+	.string "Wow! Das ist heiß!$"
 
 Route3_Text_FirebreatherBurt_AfterBattle:
-	.string "The greatest fire-breather in KANTO,\n"
-	.string "that's me.\p"
-	.string "But not the best trainer…$"
+	.string "Ich bin der beste\n"
+	.string "Feuerspucker in KANTO.\p"
+	.string "Aber nicht der beste Trainer…$"
 
 Route3_Text_MtMoonSquareSign:
-	.string "MT.MOON SQUARE\p"
-	.string "Just go up the stairs.$"
+	.string "MONDBERGPLATZ\p"
+	.string "Geh einfach die Treppe hoch$"
 

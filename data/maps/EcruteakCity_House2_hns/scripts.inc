@@ -2,29 +2,31 @@ EcruteakCity_House2_hns_MapScripts::
 	.byte 0
 
 Ecruteak_Text_ItemfinderAdventure:
-	.string "Ah. You're on an adventure with\n"
-	.string "your POKéMON?\p"
-	.string "Well, what's an adventure without\n"
-	.string "treasure hunting?\p"
-	.string "Am I right, or am I right?$"
+	.string "Ah, suchst du mit\n"
+	.string "deinen Pokémon nach Abenteuern?\p"
+	.string "Was wäre ein Aben-\n"
+	.string "teuer ohne eine Schatzsuche?\p"
+	.string "Hab ich Recht oder hab ich Recht?$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
-	.string "Good! You understand the true\n"
-	.string "spirit of adventure.\p"
-	.string "I like that! Take this with you.$"
+	.string "Gut! Du trägst den\n"
+	.string "wahren Abenteurergeist in dir.\p"
+	.string "Das mag ich! Nimm dies mit dir.$"
 
 Ecruteak_Text_ItemfinderExplanation:
-	.string "There are many items lying about\n"
-	.string "that aren't obvious.\p"
-	.string "Use ITEMFINDER to check if there\n"
-	.string "is an item on the ground near you.\p"
-	.string "It doesn't show the exact spot,\n"
-	.string "so you'll have to look yourself.\p"
-	.string "Oh yeah--I heard there are items\n"
-	.string "in ECRUTEAK's BURNED TOWER.$"
+	.string "Manchmal liegen Items herum, die\p"
+	.string "man leicht übersieht.\p"
+	.string "Setze den DETEKTOR\n"
+	.string "ein, um Items aufzuspüren, die sich\p"
+	.string "in der Nähe befinden.\p"
+	.string "Den exakten Fundort musst du aber\p"
+	.string "selbst herausfinden.\p"
+	.string "Ich hörte auch,\n"
+	.string "dass in der TURMRUINE von TEAK\p"
+	.string "CITY Items zu finden wären.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "Oh… To each his own, I suppose…$"
+	.string "Oh… Jedem das Seine…$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
 	lock
@@ -74,25 +76,26 @@ Ecruteak_Text_ItemFinderMan::
 	.string "their history in books like these.$"
 
 Ecruteak_Text_HistoryBook:
-	.string "HISTORY OF ECRUTEAK\p"
-	.string "Want to read it?$"
+	.string "GESCHICHTE VON TEAK CITY\p"
+	.string "Lesen?$"
 
 Ecruteak_Text_TwoTowers:
-	.string "In ECRUTEAK, there were two towers.\p"
-	.string "Each tower was the roost of\n"
-	.string "powerful flying POKéMON.\p"
-	.string "But one of the towers burned to\n"
-	.string "the ground.\p"
-	.string "The two POKéMON haven't been seen\n"
-	.string "since…\p"
-	.string "Keep reading?$"
+	.string "In TEAK CITY gab es zwei Türme.\p"
+	.string "Jeder Turm war das\n"
+	.string "Zuhause mächtiger fliegender - MON.\p"
+	.string "Doch einer der Türme brannte ab.\p"
+	.string "Die beiden Pokémon\n"
+	.string "wurden seitdem nicht mehr gesehen…\p"
+	.string "Weiterlesen?$"
 
 Ecruteak_Text_ThreeMon:
-	.string "ECRUTEAK was also home to three\n"
-	.string "POKéMON that raced around the town.\p"
-	.string "They were said to have been born\n"
-	.string "of water, lightning and fire.\p"
-	.string "But they could not contain their\n"
-	.string "excessive power.\p"
-	.string "So they say the three ran like the\n"
-	.string "wind off into the grassland.$"
+	.string "TEAK CITY war auch die Heimat dreier\p"
+	.string "Pokémon, die durch die Stadt rannten.\n"
+	.string "\p"
+	.string "Es heißt, sie ent-\n"
+	.string "standen durch Wasser, Blitz und Feuer.\n"
+	.string "\p"
+	.string "Doch konnten sie\n"
+	.string "ihre Kräfte nicht beherrschen.\p"
+	.string "Also sind sie wie\n"
+	.string "der Wind ins offene Grasland gerannt.$"

@@ -36,32 +36,31 @@ Route11_EventScript_Item_Grass_Knot::
     end
 
 Route11_Text_Engineer:
-	.string "I saw a strange POKéMON climbing\n"
-	.string "in the trees, but it didn't\l"
-	.string "look like MANKEY...$"
+	.string "Ich habe ein seltsames Pokémon\n"
+	.string "im Baum klettern sehen,\l"
+	.string "Es sah nicht wie ein Menki aus...$"
 
 Route11_Text_YoungsterOwenSeen:
-	.string "There's no cheating in POKéMON.\p"
-	.string "Let's keep it fair and square!$"
+	.string "Bei Pokémon wird nicht gemogelt.\p"
+	.string "Immer fair spielen.$"
 
 Route11_Text_YoungsterOwenBeaten:
-	.string "Huh? How did this happen?$"
+	.string "Huch? Wie konnte das passieren?$"
 
 Route11_Text_YoungsterOwenAfterBattle:
-	.string "I fought fair and square with\n"
-	.string "honor.\p"
-	.string "I don't regret this at all.$"
+	.string "Ich habe immer\n"
+	.string "fair und ehrenhaft gekämpft.\p"
+	.string "Ich habe es noch nie bedauert.$"
 
 Route11_Text_YoungsterJasonSeen:
-	.string "It itches and tickles a bit when\n"
-	.string "I wear shorts in the grass.$"
+	.string "Es juckt und sticht, wenn ich\p"
+	.string "mit meinen Shorts durchs Gras laufe.$"
 
 Route11_Text_YoungsterJasonBeaten:
-	.string "Aiyaaah! I got stomped!$"
+	.string "Aiyaaah! Ich bekam Dresche!$"
 
 Route11_Text_YoungsterJasonAfterBattle:
-	.string "I'm going to catch more POKéMON in\n"
-	.string "the grass.$"
+	.string "Im Gras werde ich mehr Pokémon fangen.$"
 
 Route11_Text_PsychicHermanSeen:
 	.string "…$"
@@ -71,19 +70,20 @@ Route11_Text_PsychicHermanBeaten:
 
 Route11_Text_PsychicHermanAfterBattle:
 	.string "…\p"
-	.string "I lost while I had my eyes closed…$"
+	.string "Ich verlor, als\n"
+	.string "ich meine Augen schloss…$"
 
 Route11_Text_PsychicFidelSeen:
-	.string "I can see it…\p"
-	.string "Everything to see about you…$"
+	.string "Ich kann es sehen…\p"
+	.string "Ich kann alles über dich sehen…$"
 
 Route11_Text_PsychicFidelBeaten:
-	.string "I couldn't foresee your power…$"
+	.string "Deine Stärke konnte ich nicht sehen…$"
 
 Route11_Text_PsychicFidelAfterBattle:
-	.string "Strength in conviction…\p"
-	.string "You're strong because you believe\n"
-	.string "in your POKéMON.$"
+	.string "Deine Überzeugung ist stark…\p"
+	.string "Du bist stark,\n"
+	.string "weil du an deine Pokémon glaubst.$"
 
 Route11_Text_Sign:
 	.string "ROUTE 11$"

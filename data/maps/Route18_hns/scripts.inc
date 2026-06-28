@@ -34,28 +34,30 @@ Route18_EventScript_Sign::
 	end
 
 Route18_Text_BirdKeeperBorisSeen:
-	.string "If you're looking for POKéMON,\n"
-	.string "you have to look in the tall grass.$"
+	.string "Wenn du nach Pokémon suchst,\p"
+	.string "musst du ins hohe Gras gehen.$"
 
 Route18_Text_BirdKeeperBorisBeaten:
-	.string "Ayieee!$"
+	.string "Yippi!$"
 
 Route18_Text_BirdKeeperBorisAfterBattle:
-	.string "Since you're so strong, it must be\n"
-	.string "fun to battle.$"
+	.string "Da du so stark\n"
+	.string "bist, muss es Spaß machen, gegen dich\l"
+	.string "zu kämpfen.$"
 
 Route18_Text_BirdKeeperBobSeen:
-	.string "CYCLING ROAD is a quick shortcut\n"
-	.string "to CELADON.$"
+	.string "Der RADWEG ist\n"
+	.string "eine schnelle Abkürzung nach PRISMANIA\l"
+	.string "CITY.$"
 
 Route18_Text_BirdKeeperBobBeaten:
-	.string "…Whew!$"
+	.string "…Uff!$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
-	.string "If you don't have a BICYCLE,\n"
-	.string "you're not allowed to use the\l"
-	.string "shortcut.$"
+	.string "Wenn du kein FAHRRAD hast,\p"
+	.string "darfst du die\n"
+	.string "Abkürzung nicht benutzen.$"
 
 Route18_Text_Sign:
 	.string "ROUTE 18\p"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "PRISMANIA CITY - FUCHSANIA CITY$"

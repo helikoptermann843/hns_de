@@ -18,16 +18,17 @@ MahoganyTown_House1_EventScript_TeacherDuring::
 
 
 MahoganyRedGyaradosHouse_Text_BlackBelt:
-    .string "I heard that a red GYARADOS appeared\n"
-    .string "at the LAKE.\p"
-    .string "That's odd, since even ordinary\n"
-    .string "GYARADOS are rare in that lake…$"
+	.string "Ich hörte, dass ein rotes GARADOS\p"
+	.string "am SEE erschienen sein soll.\p"
+	.string "Das ist seltsam, da schon normale\p"
+	.string "GARADOS in diesem See sehr selten\p"
+	.string "sind…$"
 
 MahoganyRedGyaradosHouse_Text_Teacher:
-    .string "My favorite radio program? I'd say\n"
-    .string "POKéMON MUSIC.$"
+	.string "Mein Lieblingspro-\n"
+	.string "gramm im Radio? Ich würde sagen\l"
+	.string "Pokémon-MUSIK.$"
 
 MahoganyRedGyaradosHouse_Text_Teacher_Rockets:
-    .string "I've been hearing laughter on the\n"
-    .string "radio…\p"
-    .string "It's creepy.$"
+	.string "Ich habe lachen aus dem Radio\n"
+	.string "gehört...gruselig.$"

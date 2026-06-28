@@ -15,12 +15,14 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Yeah, and the GYM in CINNABAR's gone.\p"
-	.string "I was really amazed.\p"
-	.string "…Yes? I'm on the phone. Go away!$"
+	.string "…Ja, und die PKMN-ARENA auf der\p"
+	.string "ZINNOBERINSEL ist verschwunden. Das\p"
+	.string "finde ich merkwürdig.\p"
+	.string "…Ja? Ich\n"
+	.string "telefoniere! Lass mich in Ruhe!$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
-	.string "JIGGLYPUFF: Puu pupuu.$"
+	.string "Pummeluff: Puu pupuu.$"
 
 PewterCity_PokemonCenter_EventScript_Mondo::
 	lock
@@ -48,29 +50,30 @@ PewterCity_PokemonCenter_EventScript_TradeCompleted::
 	end
 
 PewterCity_PokemonCenter_Text_WantToTrade:
-	.string "I've been traveling all over, looking\n"
-	.string "for a good {STR_VAR_1}.\p"
-	.string "Would you trade one for my\n"
+	.string "Ich suche auf meinen Reisen\n"
+	.string "ein gutes {STR_VAR_1}.\p"
+	.string "Möchtest du tauschen für ein\n"
 	.string "{STR_VAR_2}?$"
 
 PewterCity_PokemonCenter_Text_TakeCare:
-	.string "Thanks a bunch!\n"
-	.string "Take good care of my {STR_VAR_1}!$"
+	.string "Vielen Dank!\n"
+	.string "Kümmere dich gut um {STR_VAR_1}!$"
 
 PewterCity_PokemonCenter_Text_DeclineTrade:
-	.string "No? That's too bad…\n"
-	.string "I think you'd like my HAUNTER.$"
+	.string "Nein? Sehr schade…\n"
+	.string "Ich glaube du würdest es mögen.$"
 
 PewterCity_PokemonCenter_Text_NotRequestedMon:
-	.string "Hmm, that's not a {STR_VAR_1}.\n"
-	.string "That's not what I'm looking for.$"
+	.string "Hmm, das ist kein {STR_VAR_1}.\n"
+	.string "Das suche ich nicht.$"
 
 PewterCity_PokemonCenter_Text_TradeCompleted:
-	.string "How's that HAUNTER treating you?\n"
-	.string "It's a real trickster!$"
+	.string "Wie geht es Apollo?\n"
+	.string "Er ist echt schlau!$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Most POKéMON get drowsy if they hear a\n"
-	.string "JIGGLYPUFF singing.\p"
-	.string "There are several moves that can be\n"
-	.string "used only while a POKéMON is asleep.$"
+	.string "Die meisten -\n"
+	.string "MON werden schläfrig, wenn PUMMELUFF\n"
+	.string "singt.\p"
+	.string "Manche Attacken kann man nur an-\p"
+	.string "wenden, wenn ein Pokémon schläft.$"

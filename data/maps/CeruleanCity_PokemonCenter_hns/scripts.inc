@@ -15,13 +15,13 @@ CeruleanCity_PokemonCenter_EventScript_Guy::
 	end
 
 CeruleanCity_PokemonCenter1F_Text_SuperNerd:
-	.string "For battles, I'd much rather use\n"
-	.string "POKéMON I've been raising, even if\p"
-	.string "they're weaker than some newly\n"
-	.string "caught POKéMON.$"
+	.string "Für Kämpfe benutze ich lieber\n"
+	.string "Pokémon, die ich trainiert habe,\p"
+	.string "auch wenn sie schwächer sind als\n"
+	.string "manche neu gefangenen Pokémon.$"
 
 CeruleanCity_PokemonCenter1F_Text_GymGuide:
-	.string "The MAGNET TRAIN travels at over\n"
-	.string "340 mph. It goes between KANTO and\l"
-	.string "JOHTO in almost no time at all.\p"
-	.string "It really makes JOHTO accessible.$"
+	.string "Der Magnetzug fährt über 500 km/h.\n"
+	.string "Er verbindet KANTO und JOHTO in\n"
+	.string "Blitzgeschwindigkeit.\p"
+	.string "So wird JOHTO wirklich zugänglich.$"

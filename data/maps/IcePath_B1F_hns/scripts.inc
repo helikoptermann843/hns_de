@@ -34,9 +34,9 @@ IcePath_B1F_EventScript_Sign::
 	end
 
 IcePath_B1F_Text_Sign:
-	.string "DANGER CRACKED ICE\n"
-	.string "GO FAST ON BICYCLE\l"
-	.string "SWITCH GEARS BY\l"
-	.string "PRESSING ...\l"
-	.string "The sign is faded...$"
+	.string "ACHTUNG DÜNNES EIS\n"
+	.string "BENUTZE FAHRRAD\l"
+	.string "GANGSCHALTUNG\l"
+	.string "MIT ...\l"
+	.string "Das Schild ist verwischt...$"
 

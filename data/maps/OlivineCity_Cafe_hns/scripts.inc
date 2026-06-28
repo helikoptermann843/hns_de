@@ -15,15 +15,15 @@ OlivineCity_Cafe_EventScript_Jasmine::
 	end
 
 OlivineCity_Cafe_Text_Jasmine:
-	.string "Oh... Hello, {PLAYER}.\p"
-	.string "These dishes in front of me are\n"
-	.string "not all mine...\p"
-	.string "Uh...\p"
-	.string "Actually, the person who sat here\n"
-	.string "before me ate a lot...\p"
-	.string "If you'd like to battle again,\n"
-	.string "please visit me at the FIGHTING\l"
-	.string "DOJO in SAFFRON CITY.$"
+	.string "Oh… Hallo, {PLAYER}.\p"
+	.string "Diese Teller vor mir gehören\n"
+	.string "nicht alle mir…\p"
+	.string "Ähm…\p"
+	.string "Eigentlich hat die Person, die\n"
+	.string "vor mir saß, viel gegessen…\p"
+	.string "Wenn du wieder kämpfen willst,\n"
+	.string "besuche mich bitte im Kampf-DOJO\l"
+	.string "in Saffronia City.$"
 
 OlivineCity_EventScript_SailorA::
 	lock
@@ -55,27 +55,28 @@ OlivineCity_EventScript_SailorB::
 	end
 
 OlivineCity_Text_CafeSailorStrength:
-	.string "Hah! Your POKéMON sure look like\n"
-	.string "lightweights!\p"
-	.string "They don't have the power to\n"
-	.string "move boulders aside.\p"
-	.string "Here, use this and teach them\n"
-	.string "STRENGTH!$"
+	.string "Hah! Deine Pokémon sehen echt\n"
+	.string "schwächlich aus!\p"
+	.string "Sie haben nicht die Kraft,\n"
+	.string "Felsen wegzustossen.\p"
+	.string "Hier, nimm das und lehre sie\n"
+	.string "Stärke!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
-	.string "On the sea, the only thing you\n"
-	.string "can count on is your own self!\p"
-	.string "I'm so proud of my buff bod!\n"
-	.string "You should train like me!$"
+	.string "Der Einzige, auf den du dich auf\p"
+	.string "hoher See verlassen kannst,\n"
+	.string "bist du selbst!\p"
+	.string "Ich bin so stolz auf mich selbst!$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "OLIVINE CAFE's menu is packed\n"
-	.string "with hearty fare for beefy\l"
-	.string "SAILORS like me!$"
+	.string "Im OLIVIANA CAFE gibt es nur\p"
+	.string "delikate Seemannskost für MATROSEN\p"
+	.string "auf dem Speiseplan!$"
 
 OlivineCity_Text_CafeSailor:
-	.string "Whenever I roll into this town,\n"
-	.string "I always visit the OLIVINE CAFE.\p"
-	.string "Everything on the menu makes me\n"
-	.string "feel stronger. I can't stop eating!$"
+	.string "Immer wenn ich in diese Stadt komme,\p"
+	.string "gehe ich ins OLIVIANA CITYCAFE.\p"
+	.string "Jedes Gericht auf der Karte stärkt\p"
+	.string "mich. Ich kann\n"
+	.string "nicht aufhören zu essen!$"
 

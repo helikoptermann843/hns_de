@@ -20,10 +20,11 @@ CeladonCity_EventScript_Erika::
     end
 
 CeladonCity_Text_Erika:
-    .string "Oh, {PLAYER}.\n"
-	.string "Isn't the fountain lovely today?\p"
-	.string "If you wish for another battle,\n"
-	.string "I'll be at the FIGHTING DOJO.$"
+	.string "Oh, {PLAYER}.\n"
+	.string "Ist der Brunnen heute nicht Traumhaft?\n"
+	.string "\p"
+	.string "wenn du erneut kämpfen willst,\n"
+	.string "triff mich im Kampf DOJO.$"
 
 CeladonCity_EventScript_Fatman::
 	msgbox CeladonCity_Text_Fisher, MSGBOX_NPC
@@ -71,50 +72,52 @@ CeladonCity_EventScript_Item_Recycle::
     end
 
 CeladonCity_Text_Fisher:
-	.string "This POLIWRATH is my partner.\p"
-	.string "I wonder if it'll ever evolve\n"
-	.string "into a frog POKéMON.$"
+	.string "Dieses Quappo ist mein Partner.\p"
+	.string "Ich frage mich, ob es sich jemals\n"
+	.string "in ein Frosch-POKéMON entwickeln wird.$"
 
 CeladonCity_Text_Poliwrath:
-	.string "POLIWRATH: Croak!$"
+	.string "Quappo: Quak!$"
 
 CeladonCity_Text_Teacher1:
-	.string "I lost at the slot machines again…\p"
-	.string "We girls also play the slots now.\p"
-	.string "You should check them out too.$"
+	.string "Ich habe wieder an den Spielautomaten\n"
+	.string "verloren…\p"
+	.string "Wir Mädchen spielen jetzt auch an den\n"
+	.string "Slots.\p"
+	.string "Du solltest sie auch ausprobieren.$"
 
 CeladonCity_Text_Gramps1:
-	.string "GRIMER have been appearing lately.\p"
-	.string "See that pond out in front of the\n"
-	.string "house? GRIMER live there now.\p"
-	.string "Where did they come from? This is\n"
-	.string "a serious problem…$"
+	.string "Sleima tauchen in letzter Zeit auf.\p"
+	.string "Siehst du den Teich vor dem Haus?\n"
+	.string "Dort leben jetzt Sleima.\p"
+	.string "Woher sie kommen? Das ist ein ernstes\n"
+	.string "Problem…$"
 
 CeladonCity_Text_Gramps2:
-	.string "Nihihi! This GYM is great! Only\n"
-	.string "girls are allowed here!$"
+	.string "Nihihi! Diese Arena ist großartig!\n"
+	.string "Nur Mädchen dürfen hier rein!$"
 
 CeladonCity_Text_Youngster1:
-	.string "Want to know a secret?\p"
-	.string "CELADON MANSION has a hidden back\n"
-	.string "door.$"
+	.string "Willst du ein Geheimnis wissen?\p"
+	.string "Die PRISMANIA-VILLA hat eine\n"
+	.string "versteckte Hintertür.$"
 
 CeladonCity_Text_Youngster2:
-	.string "They're holding an eating contest\n"
-	.string "at the restaurant.\p"
-	.string "Just watching them go at it makes\n"
-	.string "me feel bloated…$"
+	.string "Sie veranstalten einen\n"
+	.string "Wettess-Wettbewerb im Restaurant.\p"
+	.string "Allein beim Zuschauen fühle ich mich\n"
+	.string "vollgefressen…$"
 
 CeladonCity_Text_Teacher2:
-	.string "CELADON DEPT.STORE has the biggest\n"
-	.string "and best selection of merchandise.\p"
-	.string "If you can't get it there, you\n"
-	.string "can't get it anywhere.\p"
-	.string "Gee… I sound like a sales clerk.$"
+	.string "Das PRISMANIA-KAUFHAUS hat die\n"
+	.string "größte und beste Auswahl an Waren.\p"
+	.string "Wenn du es dort nicht bekommst,\n"
+	.string "bekommst du es nirgendwo.\p"
+	.string "Puh… Ich klinge wie eine Verkäuferin.$"
 
 CeladonCity_Text_Lass:
-	.string "Looking at the ground while I was\n"
-	.string "walking made me dizzy.$"
+	.string "Beim Gehen den Boden anzusehen\n"
+	.string "wurde mir schwindelig.$"
 
 CeladonCity_EventScript_CitySign::
 	msgbox CeladonCity_Text_Sign, MSGBOX_SIGN
@@ -141,29 +144,31 @@ CeladonCity_EventScript_TrainerTips::
 	end
 
 CeladonCity_Text_Sign:
-	.string "CELADON CITY\p"
-	.string "The City of Rainbow Dreams$"
+	.string "Prismania City\p"
+	.string "Die Stadt der Regenbogen-Träume$"
 
 CeladonGym_Text_Sign:
-	.string "CELADON CITY POKéMON GYM LEADER:\n"
-	.string "ERIKA\p"
-	.string "The Nature-Loving Princess$"
+	.string "Prismania City Pokémon Arena Leiter:\n"
+	.string "Erika\p"
+	.string "Die Prinzessin mit\n"
+	.string "Herz für die Natur$"
 
 CeladonCity_Text_DeptStoreSign:
-	.string "Find What You Need at CELADON\n"
-	.string "DEPT.STORE!$"
+	.string "Im EINKAUFSZENTRUM von\n"
+	.string "PRISMANIA CITY Findest du Alles,\l"
+	.string "was dein Herz begehrt!$"
 
 CeladonCity_Text_MansionSign:
-	.string "CELADON MANSION$"
+	.string "PRISMANIA-VILLA$"
 
 CeladonCity_Text_GameCornerSign:
-	.string "The Playground for Everybody--\n"
-	.string "CELADON GAME CORNER$"
+	.string "Der Spielplatz für Jedermann\n"
+	.string "SPIELHALLE PRISMANIA$"
 
 CeladonCity_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "GUARD SPEC. protects POKéMON\n"
-	.string "against SPECIAL attacks such as\n"
-	.string "fire and water.\p"
-	.string "Get your items at CELADON DEPT.\n"
-	.string "STORE!$"
+	.string "TIPPS FÜR TRAINER\p"
+	.string "Der MEGABLOCK schützt Pokémon\n"
+	.string "vor Spezialattacken wie z.B.\n"
+	.string "Feuer und Wasser.\p"
+	.string "Hol dir deine Items im\n"
+	.string "EINKAUFSZENTRUM PRISMANIA CITY!$"

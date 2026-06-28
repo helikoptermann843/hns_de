@@ -132,30 +132,32 @@ Route42_Movement_Eusine2:
 	step_end
 
 Route42_Text_EusineAdmireSuicune:
-	.string "EUSINE: SUICUNE...\n"
-	.string "How brave it is!\p"
-	.string "How refreshing it is!\n"
-	.string "How beautiful it is!\p"
-	.string "And how quickly it moves!$"
+    .string "EUSIN: SUICUNE...\n"
+    .string "Wie mutig es ist!\p"
+    .string "Wie erhaben es wirkt!\n"
+    .string "Wie wunderschön es ist!\p"
+    .string "Und wie unglaublich schnell\n"
+    .string "es sich bewegt!$"
 
 Route42_Text_EusineJealous:
-	.string "{PLAYER}!\p"
-	.string "You seem to be around where\n"
-	.string "SUICUNE would appear.\p"
-	.string "Well, that's OK.\l"
-	.string "My desire to search for\n"
-	.string "SUICUNE is far beyond yours...\p"
-	.string "My grandpa was... quite into\n"
-	.string "myths.\p"
-	.string "I've heard so many stories\n"
-	.string "about SUICUNE from him.$"
+    .string "{PLAYER}!\p"
+    .string "Du scheinst immer dort zu sein,\n"
+    .string "wo SUICUNE auftaucht.\p"
+    .string "Nun gut.\l"
+    .string "Mein Verlangen, SUICUNE zu\n"
+    .string "finden, übertrifft deines bei\l"
+    .string "Weitem...\p"
+    .string "Mein Großvater war...\n"
+    .string "sehr von Legenden begeistert.\p"
+    .string "Ich habe von ihm unzählige\n"
+    .string "Geschichten über SUICUNE gehört.$"
 
 Route42_Text_EusineWontGiveUp:
-	.string "SUICUNE...\n"
-	.string "I won't stop following you\l"
-	.string "until I've found out what\l"
-	.string "you're after...\p"
-	.string "You hear me!$"
+    .string "SUICUNE...\n"
+    .string "Ich werde dir weiter folgen,\l"
+    .string "bis ich herausgefunden habe,\l"
+    .string "wonach du suchst...\p"
+    .string "Hörst du mich!$"
 
 
 Route42_EventScript_Tully::
@@ -226,84 +228,74 @@ Route42_EventScript_Item_UltraBall::
 	end
 
 Route42_Text_FisherTullySeen:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+	.string "Jetzt demonstriere\n"
+	.string "ich dir die Kraft des Pokémon, das ich\l"
+	.string "gefangen habe!$"
 
 Route42_Text_FisherTullyBeaten:
-	.string "What? That's not right.\n"
-	.string "I can't believe this!$"
+	.string "Was? Das kann nicht sein.$"
 
 Route42_Text_FisherTullyAfter:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
 
 Route42_Text_HikerBenjaminSeen:
-	.string "Ah, it's good to be outside!\n"
-	.string "I feel so free!$"
+	.string "Ach, ist das\n"
+	.string "schön, im Freien zu sein! Ich fühle\l"
+	.string "mich so frei!$"
 
 Route42_Text_HikerBenjaminBeaten:
-	.string "Gahahah! That was a good\n"
-	.string "battle!$"
+	.string "Hahaha!$"
 
 Route42_Text_HikerBenjaminAfter:
-	.string "Losing feels insignificant\n"
-	.string "if you look up at the big sky!$"
 
 Route42_Text_PokemaniacShaneSeen:
-	.string "HEY!\p"
-	.string "This is my secret place!\n"
-	.string "Get lost, you outsider!$"
+	.string "HEH!\p"
+	.string "Das ist mein\n"
+	.string "Geheimversteck! Verschwinde, du\l"
+	.string "Außenseiter!$"
 
 Route42_Text_PokemaniacShaneBeaten:
-	.string "I should have used my\n"
-	.string "MOON STONE…$"
+	.string "Ich hätte meinen\n"
+	.string "MONDSTEIN benutzen sollen…$"
 
 Route42_Text_PokemaniacShaneAfter:
-	.string "You're working on a POKéDEX?\p"
-	.string "Wow, you must know some\n"
-	.string "pretty rare POKéMON!\p"
-	.string "May I please see it?\n"
-	.string "Please?$"
 
 Route42_Text_Sign1:
 	.string "ROUTE 42\p"
-	.string "ECRUTEAK CITY - MAHOGANY TOWN$"
+	.string "TEAK CITY - MAHAGONIA CITY$"
 
 Route42_Text_MtMortarSign1:
-	.string "MT.MORTAR\p"
-	.string "WATERFALL CAVE INSIDE$"
+	.string "KESSELBERG\p"
+	.string "WASSERFALLHÖHLE drinnen$"
 
 Route42_Text_TullyRegister:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
+    .string "Ich will mit den POKéMON, die\n"
+    .string "ich selbst gefangen habe,\l"
+    .string "POKéMON-CHAMP werden.\p"
+    .string "Das ist das Beste am Angeln!$"
 
 Route42_Text_TullyRematchIntro:
-	.string "Let me demonstrate the power\n"
-	.string "of the POKéMON I caught!$"
+    .string "Ich zeige dir die Kraft der\n"
+    .string "POKéMON, die ich gefangen habe!$"
 
 Route42_Text_TullyRematchDefeat:
-	.string "What? That's not right.\n"
-	.string "I can't believe this!$"
+    .string "Was? Das kann nicht sein.\n"
+    .string "Ich glaube es einfach nicht!$"
 
 Route42_Text_TullyPostRematch:
-	.string "I want to become the trainer\n"
-	.string "CHAMP using the POKéMON I\l"
-	.string "caught myself.\p"
-	.string "That's the best part of fishing!$"
+    .string "Ich will mit den POKéMON, die\n"
+    .string "ich selbst gefangen habe,\l"
+    .string "POKéMON-CHAMP werden.\p"
+    .string "Das ist das Beste am Angeln!$"
 
 Route42_Text_TullyHasItem:
-	.string "Hey! I found something\n"
-	.string "while I was fishing!\p"
-	.string "Here, you can have it!$"
+    .string "Hey! Ich habe beim Angeln\n"
+    .string "etwas gefunden!\p"
+    .string "Hier, du kannst es haben!$"
 
 Route42_Text_TullyGaveItem:
-	.string "I'll let you know if I\n"
-	.string "reel in anything else!$"
+    .string "Ich sage dir Bescheid, wenn\n"
+    .string "ich noch etwas an Land ziehe!$"
 
 Route42_Text_TullyNoRoom:
-	.string "Hmm, your BAG is full.\p"
-	.string "Come back when you have room.$"
+    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Komm wieder, wenn du Platz hast.$"

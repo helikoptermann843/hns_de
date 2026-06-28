@@ -55,46 +55,48 @@ CeladonCity_House1_EventScript_Sign::
 
 CeladonCity_House1_Text_ChefEatathon:
 	.string "Hi!\p"
-	.string "We're holding an eatathon contest.\p"
-	.string "We can't serve you right now.\n"
-	.string "Sorry.$"
+	.string "Wir veranstalten ein Wettessen.\p"
+	.string "Wir können dich gerade nicht bedienen.\n"
+	.string "Entschuldige.$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
-	.string "…Snarfle, chew…$"
+	.string "…Würg, kau…$"
 
 CeladonCity_House1_Text_Fisher1Concentration:
-	.string "Don't talk to me!\p"
-	.string "You'll break my concentration!$"
+	.string "Sprich nicht mit mir!\p"
+	.string "Du würdest mich ablenken!$"
 
 CeladonCity_House1_Text_Fisher2GulpChew:
-	.string "…Gulp… Chew…$"
+	.string "…Schluck… Kau…$"
 
 CeladonCity_House1_Text_Fisher2Quantity:
-	.string "I take quantity over quality!\p"
-	.string "I'm happy when I'm full!$"
+	.string "Ich nehme Menge vor Qualität!\p"
+	.string "Ich bin glücklich, wenn ich satt bin!$"
 
 CeladonCity_House1_Text_Fisher3MunchMunch:
-	.string "Munch, munch…$"
+	.string "Kau, kau…$"
 
 CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
-	.string "The food is good here, but\n"
-	.string "GOLDENROD has the best food\l"
-	.string "anywhere.$"
+	.string "Das Essen hier ist gut, aber\n"
+	.string "in Dukatia gibt es das beste\l"
+	.string "Essen überhaupt.$"
 
 CeladonCity_House1_Text_TeacherCrunchCrunch:
-	.string "Crunch… Crunch…$"
+	.string "Knirscher… Knirscher…$"
 
 CeladonCity_House1_Text_TeacherNoCoinCase:
-	.string "Nobody here will give you a COIN\n"
-	.string "CASE. You should look in JOHTO.$"
+	.string "Hier wird dir niemand einen\n"
+	.string "MÜNZKORB geben.\l"
+	.string "Du solltest in JOHTO nachsehen.$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
-	.string "Crunch… Crunch…\p"
-	.string "I can keep eating!\p"
-	.string "More, CHEF!$"
+	.string "Knirscher… Knirscher…\p"
+	.string "Ich kann weiter essen!\p"
+	.string "Mehr, CHEF!$"
 
 CeladonCity_House1_Text_EatathonContestPoster:
-	.string "Eatathon Contest! No time limit!\p"
-	.string "A battle without end! The biggest\n"
-	.string "muncher gets it all for free!$"
+	.string "Wettess-Wettbewerb! Keine\n"
+	.string "Zeitbegrenzung!\p"
+	.string "Ein Kampf ohne Ende! Wer am meisten\n"
+	.string "isst, bekommt alles gratis!$"
 

@@ -10,12 +10,12 @@ CeruleanCity_Mart_EventScript_CooltrainerF::
 	end
 
 CeruleanMart_Text_CooltrainerM:
-	.string "You'll run into many trainers on\n"
-	.string "the way to CERULEAN's CAPE.\p"
-	.string "They want to see how they stack\n"
-	.string "up against other trainers.$"
+	.string "Du wirst auf viele Trainer stoßen,\n"
+	.string "wenn du zum KAP von AZURIA gehst.\p"
+	.string "Sie wollen sehen, wie sie sich\n"
+	.string "gegen andere Trainer schlagen.$"
 
 CeruleanMart_Text_CooltrainerF:
-	.string "MISTY is about the only person in\n"
-	.string "town who can beat the trainers at\l"
-	.string "CERULEAN's CAPE.$"
+	.string "Misty ist ungefähr die einzige Person\n"
+	.string "in der Stadt, die die Trainer am\l"
+	.string "KAP von AZURIA besiegen kann.$"
