@@ -11,6 +11,7 @@ Route25_BillsHouse_hns_OnTransition::
 Route25_BillsHouse_hns_EventScript_TeleporterTest::
 	lockall
 	goto_if_unset FLAG_TELEPORTER_UNLOCKED, Route25_BillsHouse_hns_EndChoice
+	helpwindow HELP_TELEPORTER_WINDOW
 	msgbox Route25_BillsHouse_Text_Teleporter, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, FALSE, Route25_BillsHouse_hns_EndChoice
 	dynmultichoice 0, 0, FALSE, 6, 0, DYN_MULTICHOICE_CB_NONE, Route25_BillsHouse_hns_Text_Meowth, Route25_BillsHouse_hns_Text_Ponyta, Route25_BillsHouse_hns_Text_Rapidash, Route25_BillsHouse_hns_Text_Slowpoke, Route25_BillsHouse_hns_Text_Slowbro, Route25_BillsHouse_hns_Text_Slowking, Route25_BillsHouse_hns_Text_Farfetchd, Route25_BillsHouse_hns_Text_Weezing, Route25_BillsHouse_hns_Text_MrMime, Route25_BillsHouse_hns_Text_Articuno, Route25_BillsHouse_hns_Text_Zapdos, Route25_BillsHouse_hns_Text_Moltres, Route25_BillsHouse_hns_Text_Corsola, Route25_BillsHouse_hns_Text_Zigzagoon, Route25_BillsHouse_hns_Text_Linoone, Route25_BillsHouse_hns_Text_Cancel
@@ -35,6 +36,11 @@ Route25_BillsHouse_hns_EventScript_TeleporterTest::
 	end
 
 Route25_BillsHouse_Text_Teleporter:
+	.string "GALAR TRANSFORMATOR:\p"
+	.string "DIESE MASCHINE TRANSFORMIERT\n"
+	.string "EIN POKéMON IN SEINE GALAR-FORM\l"
+	.string "PROZESS IST PERMANENT.\l"
+	.string "FORTSETZEN?$"
 
 Route25_BillsHouse_hns_PickMeowth::
 	setvar VAR_0x8004, SPECIES_MEOWTH

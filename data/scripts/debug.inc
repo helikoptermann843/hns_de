@@ -231,7 +231,8 @@ Debug_Text_HMsUnlocked:
 	.string "All HM flags set!$"
 
 Debug_EventScript_Script_2::
-	goto LilycoveCity_CoveLilyMotel_2F_EventScript_GameDesigner
+	setflag FLAG_TELEPORTER_UNLOCKED
+	goto Route25_BillsHouse_hns_EventScript_TeleporterTest
 	release
 	end
 

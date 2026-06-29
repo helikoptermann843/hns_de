@@ -23,6 +23,26 @@ ViridianForest_Text_Bugsy:
 	.string "weiteres Match, treffe mich im\l"
 	.string "DOJO in SAFFRONIA!$"
 
+ViridianForest_EventScript_SpikyEaredPichu::
+	lock
+	faceplayer
+	playmoncry SPECIES_PICHU_SPIKY_EARED, CRY_MODE_ENCOUNTER
+	waitmoncry
+	setwildbattle SPECIES_PICHU_SPIKY_EARED, 35
+	dowildbattle
+	specialvar VAR_RESULT, GetBattleOutcome
+	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, ViridianForest_EventScript_SpikyEaredPichuRan
+	fadescreenswapbuffers FADE_TO_BLACK
+	removeobject LOCALID_VIRIDIAN_FOREST_PICHU
+	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU
+	fadescreenswapbuffers FADE_FROM_BLACK
+	release
+	end
+
+ViridianForest_EventScript_SpikyEaredPichuRan::
+	release
+	end
+
 ViridianForest_EventScript_Item_Psych_Up::
     finditem ITEM_TM_PSYCH_UP
     end
