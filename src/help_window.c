@@ -34,11 +34,12 @@ void ShowHelpInfoWindow(struct ScriptContext *ctx)
     helpWindowId = AddWindow(&sHelpWindowTemplate);
     DrawStdWindowFrame(helpWindowId, FALSE);
 
-    // Set non-default values if any
     if (gHelpWindowInfo[helpTutorialId].headerFont)
         headerFont = gHelpWindowInfo[helpTutorialId].headerFont;
     if (gHelpWindowInfo[helpTutorialId].descFont)
         descFont = gHelpWindowInfo[helpTutorialId].descFont;
+    if (gHelpWindowInfo[helpTutorialId].headerColor[1])
+        memcpy(headerColor, gHelpWindowInfo[helpTutorialId].headerColor, sizeof(headerColor));
 
     // Header Text
     StringCopy(gStringVar4, gHelpWindowInfo[helpTutorialId].header);
