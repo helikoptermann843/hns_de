@@ -575,10 +575,8 @@ Route25_BillsHouse_Text_TeleporterUnlocked:
 	.string "BILL hat eine Notiz hinter-\n"
 	.string "lassen. Falls ich jemanden\l"
 	.string "finde, der POKéMON wirklich\p"
-	.string "schätzt,\p"
-	.string "soll ich ihn seinen\n"
-	.string "GALAR-REKOMBINATOR nutzen\l"
-	.string "lassen.\p"
+	.string "schätzt, soll ich ihn seine\n"
+	.string "Maschine nutzen lassen.\p"
 	.string "Benutz ihn jederzeit!\p"
 	.string "Nimm einfach den Computer dort.$"
 

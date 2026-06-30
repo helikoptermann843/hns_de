@@ -31,7 +31,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TELEPORTER_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT:"),
+        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: 1/3"),
         .desc = COMPOUND_STRING("Diese Maschine ändert POKéMON\n"
                                 "permanent in ihre GALAR-Formen.\n"
                                 "GALAR-Formen werden\n"
@@ -44,7 +44,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_SINJOH_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT:"),
+        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: 3/3"),
         .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\n"
                                 "bonus Inhalt: SINJOH.\n"
                                 "Für Story nicht benötigt\n"
@@ -57,7 +57,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_ALOLA_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT:"),
+        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: 2/3"),
         .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\n"
                                 "bonus Inhalt: ALOLA INSELN.\n"
                                 "Für Story nicht benötigt\n"
