@@ -231,11 +231,7 @@ Debug_Text_HMsUnlocked:
 	.string "All HM flags set!$"
 
 Debug_EventScript_Script_2::
-	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU
-	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU2
-	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU3
-	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU4
-	setvar VAR_VIRIDIAN_FOREST_PICHU, 1
+	goto LilycoveCity_CoveLilyMotel_2F_EventScript_GameDesigner
 	release
 	end
 
