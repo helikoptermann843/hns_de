@@ -11425,6 +11425,7 @@ static void Cmd_trygivecaughtmonnick(void)
                            GetMonData(caughtMon, MON_DATA_SPECIES),
                            GetMonGender(caughtMon),
                            GetMonData(caughtMon, MON_DATA_PERSONALITY),
+                           GetMonData(caughtMon, MON_DATA_IS_SHINY),
                            callback);
 
             gBattleCommunication[MULTIUSE_STATE]++;
