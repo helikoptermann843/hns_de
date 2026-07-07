@@ -4656,7 +4656,7 @@ static void Task_ReturnToFieldWhileLearningMove(u8 taskId)
 void EnterCode(void)
 {
     StringCopy(gStringVar2, COMPOUND_STRING(""));
-    DoNamingScreen(NAMING_SCREEN_CODE, gStringVar2, 0, 0, 0, CB2_ReturnToFieldContinueScript);
+    DoNamingScreen(NAMING_SCREEN_CODE, gStringVar2, 0, 0, 0, 0, CB2_ReturnToFieldContinueScript);
 }
 
 void GetCodeFeedback(void)

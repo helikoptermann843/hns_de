@@ -739,7 +739,8 @@ const u8 gHealthboxElementsGfxTableGen4[][32] = INCBIN_U8("graphics/battle_inter
                                                   "graphics/battle_interface/gen4/status3.4bpp",
                                                   "graphics/battle_interface/gen4/status4.4bpp",
                                                   "graphics/battle_interface/gen4/healthbox_doubles_frameend.4bpp",
-                                                  "graphics/battle_interface/gen4/healthbox_doubles_frameend_bar.4bpp");
+                                                  "graphics/battle_interface/gen4/healthbox_doubles_frameend_bar.4bpp",
+                                                  "graphics/battle_interface/gen4/shiny_icon.4bpp");
 
 // Gen 3 healthbox elements — per-game
 #if IS_HNS
@@ -755,7 +756,8 @@ const u8 gHealthboxElementsGfxTableGen3[][32] = INCBIN_U8("graphics/battle_inter
                                                   "graphics/battle_interface/hns/status3.4bpp",
                                                   "graphics/battle_interface/hns/status4.4bpp",
                                                   "graphics/battle_interface/hns/healthbox_doubles_frameend.4bpp",
-                                                  "graphics/battle_interface/hns/healthbox_doubles_frameend_bar.4bpp");
+                                                  "graphics/battle_interface/hns/healthbox_doubles_frameend_bar.4bpp",
+                                                  "graphics/battle_interface/shiny_icon.4bpp");
 #else
 const u8 gHealthboxElementsGfxTableGen3[][32] = INCBIN_U8("graphics/battle_interface/hpbar.4bpp",
                                                   "graphics/battle_interface/expbar.4bpp",

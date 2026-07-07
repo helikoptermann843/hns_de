@@ -1867,7 +1867,7 @@ static void ShowShinyStarObjIfMonShiny(void)
     if (sShinyStarObjData == NULL || sShinyStarObjData->sprite == NULL)
         return;
 
-    if (IsMonShiny(&sMonSummaryScreen->currentMon) && !sMonSummaryScreen->summary.isEgg)
+    if (IsMonShiny(&sMonSummaryScreen->currentMon))
     {
         sShinyStarObjData->sprite->invisible = FALSE;
     }
