@@ -143,7 +143,7 @@ SlowpokeWell_B1F_Text_ProtonAfter:
 
 SlowpokeWell_B1F_Text_GruntM2Seen:
 	.string "Hyuck-hyuck-hyuck!\n"
-	.string "Aufhören, FLEGMONROUTEN zu klauen?\p"
+	.string "Aufhören, FLEGMONRUTEN zu klauen?\p"
 	.string "Du bist verrückt!\n"
 	.string "Wenn wir dir gehorchen, wäre der\l"
 	.string "Ruf von TEAM ROCKET ruiniert!$"
@@ -153,11 +153,11 @@ SlowpokeWell_B1F_Text_GruntM2Beaten:
 
 SlowpokeWell_B1F_Text_GruntM2After:
 	.string "Wir brauchen das Geld,\n"
-	.string "aber FLEGMONROUTEN verkaufen?\p"
+	.string "aber FLEGMONRUTEN verkaufen?\p"
 	.string "Schwer, ein ROCKET-Gehilfe zu sein!$"
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
-	.string "Aufhören, FLEGMONROUTEN zu klauen?\p"
+	.string "Aufhören, FLEGMONRUTEN zu klauen?\p"
 	.string "Na, versuch doch, uns alle\n"
 	.string "aufzuhalten!$"
 
@@ -165,7 +165,7 @@ SlowpokeWell_B1F_Text_GruntF1Beaten:
 	.string "Du elendes Gör!$"
 
 SlowpokeWell_B1F_Text_GruntF1After:
-	.string "FLEGMONROUTEN wachsen schnell nach!\p"
+	.string "FLEGMONRUTEN wachsen schnell nach!\p"
 	.string "Was ist falsch daran,\n"
 	.string "sie zu verkaufen?$"
 

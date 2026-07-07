@@ -376,8 +376,8 @@ AzaleaTown_Text_Rocket1:
 	.string "Bin ich nicht ein guter Samariter?$"
 
 AzaleaTown_Text_Rocket2:
-	.string "Kennst du FLEGMONRUTE?\n"
-	.string "Ich hörte, es soll lecker sein!\p"
+	.string "Kennst du FLEGMONRUTEN?\n"
+	.string "Ich hörte, sie sollen lecker sein!\p"
 	.string "Freust du dich, dass ich es dir sag?$"
 
 AzaleaTown_Text_GrampsBefore:
@@ -392,15 +392,15 @@ AzaleaTown_Text_GrampsAfter:
 	.string "irgendwo rumgetollt.$"
 
 AzaleaTown_Text_Teacher:
-	.string "Bist du gekommen, um\n"
-	.string "von Kurt Pokébälle zu bekomen?\p"
+	.string "Bist du gekommen,\n"
+	.string "um von Kurt Pokébälle zu bekomen?\p"
 	.string "Viele Leute tun genau das.$"
 
 AzaleaTown_Text_Youngster:
-	.string "Schneide durch AZALEA und du bist\n"
+	.string "Gehe durch AZALEA und du bist\n"
 	.string "im Steineichenwald.\p"
 	.string "Aber diese dünnen Bäume machen\n"
-	.string "es unmöglich durchzukommen.\p"
+	.string "es unmöglich weiterzukommen.\p"
 	.string "Das POKéMON vom Köhler kann\n"
 	.string "Bäume fällen.$"
 
@@ -431,11 +431,11 @@ AzaleaTown_Text_KurtsHouseSign:
 AzaleaTown_Text_GymSign:
 	.string "AZALEA POKéMON ARENA\p"
 	.string "LEITER: KAI\p"
-	.string "Die Käfer-POKéMON\n"
+	.string "Die KÄFER-POKéMON\n"
 	.string "Enzyklopädie$"
 
 AzaleaTown_Text_SlowpokeWellSign:
-	.string "FLEGMON BRUNNEN\p"
+	.string "FLEGMON BRUNNEN\n"
 	.string "Auch bekannt als Regenmacherbrunnen.\p"
 	.string "Anwohner glauben, das Gähnen eines\n"
 	.string "Flegmon würde regen herbeirufen.\p"

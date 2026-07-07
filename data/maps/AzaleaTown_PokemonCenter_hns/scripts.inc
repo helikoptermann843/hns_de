@@ -32,7 +32,7 @@ AzaleaPokeCenter_EventScript_PokefanF::
 
 AzaleaPokecenter_Text_Gentleman:
 	.string "Können deine Pokémon VM-Attacken?\p"
-	.string "Diese können benutzt werden\n"
+	.string "Diese können benutzt werden,\n"
 	.string "sogar wenn dein Pokémon außer gefecht\l"
 	.string "ist.$"
 
