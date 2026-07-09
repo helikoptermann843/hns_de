@@ -71,13 +71,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_DAYCARE1_WINDOW] =
     {
         .header = COMPOUND_STRING("BABY POKéMON ABILITIES"),
-        .desc = COMPOUND_STRING("PICHU's ability is STATIC.\n"
-                                "CLEFFA's ability is CUTE CHARM.\n"
-                                "IGGLYBUFF's ability is CUTE CHARM.\n"
-                                "TYROGUE's ability is GUTS.\n"
-                                "SMOOCHUM's ability is OBLIVIOUS.\n"
-                                "ELEKID's ability is STATIC.\n"
-                                "MAGBY's ability is FLAME BODY."
+        .desc = COMPOUND_STRING("Pichu's Fähigkeit ist Statik.\n"
+                                "Pii's Fähigkeit ist Charmebolzen.\n"
+                                "Fluffeluff's Fähigkeit ist Charmebolzen.\n"
+                                "Rabauz Fähigkeit ist Adrenalin.\n"
+                                "Kussila's Fähigkeit ist Dösigkeit.\n"
+                                "Elekid's Fähigkeit ist Statik.\n"
+                                "Magby's Fähigkeit ist Flammenkörper."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -86,13 +86,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_DAYCARE2_WINDOW] =
     {
         .header = COMPOUND_STRING("BABY POKéMON TYPES"),
-        .desc = COMPOUND_STRING("PICHU is ELECTRIC type.\n"
-                                "CLEFFA is NORMAL type.\n"
-                                "IGGLYBUFF is NORMAL type.\n"
-                                "TYROGUE is FIGHTING type.\n"
-                                "SMOOCHUM is ICE type.\n"
-                                "ELEKID is ELECTRIC type.\n"
-                                "MAGBY is FIRE type."
+        .desc = COMPOUND_STRING("Pichu ist Typ Elektro.\n"
+                                "Pii ist Typ Normal.\n"
+                                "Fluffeluff ist Typ Normal.\n"
+                                "Rabauz ist Typ Kampf.\n"
+                                "Kussilla ist Typ Eis.\n"
+                                "Elekid ist Typ Elektro.\n"
+                                "Magby ist Typ Feuer."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -101,13 +101,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_DAYCARE3_WINDOW] =
     {
         .header = COMPOUND_STRING("BABY POKéMON CRIES"),
-        .desc = COMPOUND_STRING("PICHU says WAAAH.\n"
-                                "CLEFFA says EEK.\n"
-                                "IGGLYBUFF says LALALA.\n"
-                                "TYROGUE says HIYAH.\n"
-                                "SMOOCHUM says EHEHE.\n"
-                                "ELEKID says OI, OI, OI.\n"
-                                "MAGBY says TCH."
+        .desc = COMPOUND_STRING("Pichu sagt WAAAH.\n"
+                                "Pii sagt EEK.\n"
+                                "Fluffeluff sagt LALALA.\n"
+                                "Rabauz sagt HIYAH.\n"
+                                "Kussilla sagt EHEHE.\n"
+                                "Elekid sagt OI, OI, OI.\n"
+                                "Magby sagt TCH."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -116,13 +116,13 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_DAYCARE4_WINDOW] =
     {
         .header = COMPOUND_STRING("BABY POKéMON ACTIONS"),
-        .desc = COMPOUND_STRING("PICHU likes to PLAY all day.\n"
-                                "CLEFFA LOOKS at the moon.\n"
-                                "IGGLYBUFF puts them to SLEEP.\n"
-                                "TYROGUE TRAINS constantly.\n"
-                                "SMOOCHUM likes to SHOW off.\n"
-                                "ELEKID STORES up charge.\n"
-                                "MAGBY often ANGERS."
+        .desc = COMPOUND_STRING("Pichu spielt gerne.\n"
+                                "Pii schaut den Mond an.\n"
+                                "Fluffeluff schläfert sie ein.\n"
+                                "Rabauz trainiert ständig.\n"
+                                "Kussilla geniest Aufmerksamkeit.\n"
+                                "Elekid lädt sich auf.\n"
+                                "Magby ist ein Hitzkopf."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
