@@ -2,62 +2,48 @@ Route34_DayCare_hns_MapScripts::
 	.byte 0
 
 Route34_DayCare_Bookshelf1::
-	msgbox Route34_DayCare_Text_Bookshelf1, MSGBOX_SIGN
+	lock
+	msgbox Route34_DayCare_Text_Bookshelf1, MSGBOX_AUTOCLOSE
+	helpwindow HELP_DAYCARE1_WINDOW
+	release
 	end
 
 Route34_DayCare_Bookshelf2::
-	msgbox Route34_DayCare_Text_Bookshelf2, MSGBOX_SIGN
+	lock
+	msgbox Route34_DayCare_Text_Bookshelf2, MSGBOX_AUTOCLOSE
+	helpwindow HELP_DAYCARE2_WINDOW
+	release
 	end
 
 Route34_DayCare_Bookshelf3::
-	msgbox Route34_DayCare_Text_Bookshelf3, MSGBOX_SIGN
+	lock
+	msgbox Route34_DayCare_Text_Bookshelf3, MSGBOX_AUTOCLOSE
+	helpwindow HELP_DAYCARE3_WINDOW
+	release
 	end
 
 Route34_DayCare_Bookshelf4::
-	msgbox Route34_DayCare_Text_Bookshelf4, MSGBOX_SIGN
+	lock
+	msgbox Route34_DayCare_Text_Bookshelf4, MSGBOX_AUTOCLOSE
+	helpwindow HELP_DAYCARE4_WINDOW
+	release
 	end
 
 Route34_DayCare_Text_Bookshelf1:
-	.string "Ein Wörterbuch!\p"
-	.string "{PLAYER} schlug eine zufällige\n"
-	.string "Seite auf.\p"
-	.string "'BABY'\n"
-	.string "Ein Substantiv, bedeutet Säugling.\p"
-	.string "{PLAYER} legte das Wörterbuch weg.$"
+	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
+	.string "TEIL 1: Über Fähigkeiten.$"
 
 Route34_DayCare_Text_Bookshelf2:
-	.string "Ein Buch über Pokémon!\p"
-	.string "{PLAYER} blätterte durch\n"
-	.string "das Buch.\p"
-	.string "Auf jeder Seite steht das Wort\n"
-	.string "Pokémon.\p"
-	.string "{PLAYER} legte das Buch weg.$"
+	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
+	.string "TEIL 2: Typen.$"
 
 Route34_DayCare_Text_Bookshelf3:
-	.string "Ein Buch über Wortassoziationen!\p"
-	.string "{PLAYER} blätterte durch\n"
-	.string "das Buch.\p"
-	.string "Pichu -> NIEDLICH\l"
-	.string "Pii -> NIEDLICH\l"
-	.string "Fluffeluff -> LIED\l"
-	.string "Rabauz -> KAMPF\l"
-	.string "Kussilla -> EIS\l"
-	.string "Elekid -> ELEKTRO\l"
-	.string "Magby -> FEUER\p"
-	.string "{PLAYER} legte das Buch weg.$"
+	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
+	.string "TEIL 3: Geräusche von Babies.$"
 
 Route34_DayCare_Text_Bookshelf4:
-	.string "Ein Buch über Pokémon-Charakter!\p"
-	.string "{PLAYER} blätterte durch\n"
-	.string "das Buch.\p"
-	.string "Pichu -> STATIK\l"
-	.string "Pii -> NIEDLICH Charme\l"
-	.string "Fluffeluff -> NIEDLICH Charme\l"
-	.string "Rabauz -> MUT\l"
-	.string "Kussilla -> TAUB\l"
-	.string "Elekid -> STATIC\l"
-	.string "Magby -> FLAMMKÖRPER\p"
-	.string "{PLAYER} legte das Buch weg.$"
+	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
+	.string "TEIL 4: Süße Eigenheiten.$"
 
 Route34_DayCare_EventScript_Clerk::
 	lock
@@ -168,7 +154,7 @@ Route34_DayCare_Text_Rejection:
 	.string "Es wäre unverantwortlich, ein\l"
 	.string "kostbares Ei an jemanden zu\n"
 	.string "geben, der sich noch nicht\p"
-	.string "genug mit Pokémon-Zucht auskennt!$"
+	.string "genug mit Baby-Pokémon auskennt!$"
 
 Route34_DayCare_Text_ReceivedOddEgg:
 	.string "{PLAYER} erhielt das SELTSAME Ei.$"
