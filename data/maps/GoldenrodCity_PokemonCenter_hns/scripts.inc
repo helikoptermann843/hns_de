@@ -76,6 +76,7 @@ GoldenrodCity_PokemonCenter_EventScript_EnterTradeRoom::
 	end
 
 GoldenrodCity_PokemonCenter_EventScript_ChooseBattle::
+	helpwindow HELP_TRADE_WINDOW
 	msgbox GoldenrodCity_PokemonCenter_LinkNpc_Text_BattleMode, MSGBOX_DEFAULT
 	multichoice 0, 0, MULTI_BATTLE_MODE_HNS, FALSE
 	switch VAR_RESULT
