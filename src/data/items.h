@@ -12407,7 +12407,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_BLIZZARD] =
     {
         .name = ITEM_NAME("TM14"),
-        .price = 5500,
+        .price = 10000,
         .description = COMPOUND_STRING(
         #if B_USE_FROSTBITE == TRUE
             "A snow-and-wind\n"
@@ -12427,7 +12427,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_HYPER_BEAM] =
     {
         .name = ITEM_NAME("TM15"),
-        .price = 7500,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Powerful, but needs\n"
             "recharging the\n"
@@ -12441,7 +12441,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_LIGHT_SCREEN] =
     {
         .name = ITEM_NAME("TM16"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Creates a wall of\n"
             "light that lowers\n"
@@ -12455,7 +12455,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_PROTECT] =
     {
         .name = ITEM_NAME("TM17"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Negates all damage,\n"
             "but may fail if used\n"
@@ -12525,7 +12525,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_SOLAR_BEAM] =
     {
         .name = ITEM_NAME("TM22"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Absorbs sunlight in\n"
             "the 1st turn, then\n"
@@ -12567,7 +12567,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_THUNDER] =
     {
         .name = ITEM_NAME("TM25"),
-        .price = 5500,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Strikes the foe\n"
             "with a thunderbolt.\n"
@@ -12679,7 +12679,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_REFLECT] =
     {
         .name = ITEM_NAME("TM33"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Creates a wall of\n"
             "light that weakens\n"
@@ -12749,7 +12749,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM_FIRE_BLAST] =
     {
         .name = ITEM_NAME("TM38"),
-        .price = 5500,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "A powerful fire\n"
             "attack that may\n"
@@ -12945,7 +12945,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM52] = // Focus Blast
     {
         .name = ITEM_NAME("TM52"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "Attacks at full power.\n"
             "May lower the foe's\n"
@@ -13378,7 +13378,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_TM83] = // Natural Gift
     {
         .name = ITEM_NAME("TM83"),
-        .price = 3000,
+        .price = 10000,
         .description = COMPOUND_STRING(
             "The effectiveness\n"
             "varies with the\n"
@@ -14020,14 +14020,14 @@ const struct ItemInfo gItemsInfo[] =
         .name = ITEM_NAME("BIKE"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "A folding bicycle\n"
-            "that is faster than\n"
-            "the Running Shoes."),
+            "A folding bicycle.\n"
+            "Press R while still\n"
+            "to change speeds."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
         .fieldUseFunc = ItemUseOutOfBattle_Bike,
-        .secondaryId = STANDARD_BIKE,
+        .secondaryId = IS_HNS ? ACRO_BIKE : STANDARD_BIKE,
         .iconPic = gItemIcon_Bicycle,
         .iconPalette = gItemIconPalette_Bicycle,
     },
