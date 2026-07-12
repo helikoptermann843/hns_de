@@ -86,21 +86,21 @@ BattleTowerOutsideSailorText:
 
 BattleTowerOutsideSignText:
 	.string "{UP_ARROW} EINGANG TRAINERBERG\p"
-	.string "„Erklimmt die Höhen,\n"
-	.string "hitzblütige TRAINER!“\p"
+	.string "Erklimmt die Höhen,\n"
+	.string "hitzblütige TRAINER!\p"
 	.string "{RIGHT_ARROW} KAMPFZELTE.$"
 
 BattleTower_Battle_Tent_Text_Factory:
 	.string "KAMPFZELT: FABRIK\n"
-	.string "„Finde das ultimative POKéMON!“$"
+	.string "Finde das ultimative POKéMON!$"
 
 BattleTower_Battle_Tent_Text_Palace:
 	.string "KAMPFZELT: PALAST\n"
-	.string "„Erlebe packende Kämpfe!“$"
+	.string "Erlebe packende Kämpfe!$"
 
 BattleTower_Battle_Tent_Text_Arena:
 	.string "KAMPFZELT: ARENA\n"
-	.string "„Die stärksten Teams treffen sich!“$"
+	.string "Die stärksten Teams treffen sich!$"
 
 BattleTowerOutsideText_Closed:
 	.string "Der TRAINERBERG ist derzeit\n"

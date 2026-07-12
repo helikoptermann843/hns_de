@@ -331,8 +331,8 @@ GoldenrodCity_Text_Youngster1:
 
 GoldenrodCity_Text_CooltrainerF1:
 	.string "Hat sich dieser Mann in Schwarz\n"
-	.string "als Mitglied von\l"
-	.string "TEAM ROCKET verkleidet? Wie dämlich!$"
+	.string "als Mitglied von TEAM ROCKET\l"
+	.string "verkleidet? Wie dämlich!$"
 
 GoldenrodCity_Text_CooltrainerF1_Cleared:
 	.string "Hat sich dieser Mann in Schwarz\p"

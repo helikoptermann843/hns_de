@@ -192,7 +192,7 @@ GoldenrodCity_PokemonCenter_EventScript_Lass::
 
 GoldenrodCity_PokemonCenter_GrannyText:
 	.string "Ich vertausche fremde Pokebälle\n"
-	.string "und begehe Sozialbetrug$"
+	.string "und begehe Sozialbetrug.$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText1:
 	.string "Ich baue ein riesiges\n"

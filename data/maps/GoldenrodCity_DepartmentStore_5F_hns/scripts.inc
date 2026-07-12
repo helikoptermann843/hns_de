@@ -94,8 +94,8 @@ GoldenrodDeptStore_Text_5FPokefanM:
 	.string "Original-Trainers wieder.$"
 
 GoldenrodDeptStore_Text_Girl:
-	.string "Große Auswahl an Pokémon-Artikeln!\p"
-	.string "DUKATIA CITY KAUFHAUS$"
+	.string "Technische Maschinen!\p"
+	.string "Wie funktioniert das überhaupt?$"
 
 GoldenrodDeptStore5_EventScript_Clerk::
 	lock

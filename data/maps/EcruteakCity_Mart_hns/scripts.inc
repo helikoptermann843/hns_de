@@ -18,15 +18,14 @@ EcruteakCity_Mart_EventScript_Granny::
 	end
 
 EcruteakMart_Text_SuperNerd:
-	.string "Mein EVOLI ent-\n"
-	.string "wickelte sich zu einem PSIANA.\p"
-	.string "Aber das EVOLI\n"
-	.string "meines Freundes wurde zu einem\n"
-	.string "NACHTARA.\p"
-	.string "Ich frage mich, wieso? Wir haben\p"
+	.string "Mein EVOLI entwickelte sich\n"
+	.string "zu einem PSIANA.\p"
+	.string "Aber das EVOLI meines Freundes\n"
+	.string "wurde zu einem NACHTARA.\p"
+	.string "Ich frage mich, wieso? Wir haben\n"
 	.string "unsere EVOLI gleich aufgezogen…$"
 
 EcruteakMart_Text_Granny:
-	.string "Setzt du BELEBER\n"
-	.string "ein, wacht ein besiegtes Pokémon\l"
+	.string "Setzt du BELEBER ein,\n"
+	.string "wacht ein besiegtes Pokémon\l"
 	.string "wieder auf.$"

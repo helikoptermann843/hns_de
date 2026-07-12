@@ -160,8 +160,8 @@ GoldenrodCity_Gym_Text_WhitneyPlainBadge:
 GoldenrodCity_Gym_Text_WhitneyAttract:
 	.string "Das ist Anziehung! Es nutzt den\n"
 	.string "Charme eines Pokémon voll aus.\p"
-	.string "Perfekt für ein niedliches Pokémon\n"
-	.string "wie mich!$"
+	.string "Perfekt für niedliche Pokémon,\n"
+	.string "so wie meine!$"
 
 GoldenrodCity_Gym_Text_WhitneyGoodCry:
 	.string "Ah, das war ein gutes Weinen!$"

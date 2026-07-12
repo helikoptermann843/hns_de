@@ -112,7 +112,7 @@ EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "Jetzt, wo ich diesen hier installiert\n"
 	.string "habe, läuft mein PC in allen\l"
 	.string "POKéCENTER in JOHTO und KANTO.\p"
-	.string "Ich muss mich beeilen zurück nach\n"
+	.string "Ich muss schnell zurück nach\n"
 	.string "DUKATIA und meine Leute sehen.\l"
 	.string "Du kannst aber jederzeit vorbeikommen!\n"
 	.string "\p"
@@ -121,8 +121,8 @@ EcruteakCity_PokemonCenter1F_Text_Bill2:
 EcruteakCity_PokemonCenter1F_Text_PokefanM:
 	.string "Sowohl der Tanz der KIMONO-GIRLS\p"
 	.string "als auch die Art,\n"
-	.string "wie sie ihre - MON einsetzen, ist\l"
-	.string "wunderbar!$"
+	.string "wie sie ihre Pokémon einsetzen,\l"
+	.string "ist wunderbar!$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
 	.string "Du hoffst, hier\n"
@@ -139,7 +139,7 @@ EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
 	.string "SEE DES ZORNS…\p"
-	.string "Das Erscheinen ei-\n"
-	.string "nes GARADOSSchwarms…\p"
+	.string "Das Erscheinen eines\n"
+	.string "GARADOSSchwarms…\p"
 	.string "Das riecht nach Verschwörung!$"
 

@@ -104,7 +104,7 @@ BillHouse_Text_MomBeforeEcruteak:
 	.string "Er wurde gerade in das Pokémon-CENTER\n"
 	.string "von TEAK CITY gerufen.\p"
 	.string "Mein Mann ging in die SPIELHALLE,\p"
-	.string "ohne anzurufen…$"
+	.string "ohne vorher anzurufen…$"
 
 BillHouse_Text_MomAfterEcruteak:
 	.string "Mein Mann war als MANIAC bekannt.\p"
@@ -130,6 +130,6 @@ BillHouse_Text_SisterPhoneFull:
 	.string "Nummern mehr speichern.$"
 
 BillHouse_Text_SisterStorageSystem:
-	.string "Mein großer Bruder\n"
-	.string "BILL hat das PCPokémon-LAGERUNGSSYSTEM\l"
+	.string "Mein großer Bruder BILL\n"
+	.string "hat das PC-LAGERUNGSSYSTEM\l"
 	.string "erfunden.$"

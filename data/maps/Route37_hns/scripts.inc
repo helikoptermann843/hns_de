@@ -81,32 +81,32 @@ Route37_EventScript_Sign::
 	end
 
 Route37_Text_TwinsAnnAndAnne1_Seen:
-	.string "NORA: JO und ich\n"
-	.string "arbeiten immer zusammen!$"
+	.string "Wir arbeiten immer\n"
+	.string "zusammen!$"
 
 Route37_Text_TwinsAnnAndAnne1_Beaten:
-	.string "NORA & JO: Nn… ein wenig zu stark.$"
+	.string "Nn… ein wenig zu stark.$"
 
 Route37_Text_TwinsAnnAndAnne1_After:
-	.string "ANN: Ich weiß genau, was meine\n"
+	.string "Ich weiß genau, was meine\n"
 	.string "Schwester und Pokémon denken.$"
 
 Route37_Text_TwinsAnnAndAnne2_Seen:
-	.string "JO: NORA und ich\n"
-	.string "arbeiten immer zusammen!$"
+	.string "Wir arbeiten immer\n"
+	.string "zusammen!$"
 
 Route37_Text_TwinsAnnAndAnne2_Beaten:
-	.string "NORA & JO: Nn… ein wenig zu stark.$"
+	.string "Nn… ein wenig zu stark.$"
 
 Route37_Text_TwinsAnnAndAnne2_After:
-	.string "ANNE: Wir fühlen genau wie\n"
+	.string "Wir fühlen genau wie\n"
 	.string "unsere Pokémon.$"
 
 Route37_Text_PsychicGreg_Seen:
 	.string "Pokémon können\n"
 	.string "nicht agieren, wenn sie schlafen.\p"
-	.string "Ich werde dir zei-\n"
-	.string "gen, wie furchterregend das ist!$"
+	.string "Ich werde dir zeigen,\n"
+	.string "wie furchterregend das ist!$"
 
 Route37_Text_PsychicGreg_Beaten:
 	.string "Ich habe verloren. Wie betrüblich…$"

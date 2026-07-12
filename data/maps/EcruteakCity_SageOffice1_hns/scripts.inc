@@ -93,10 +93,10 @@ EcruteakTinTowerEntrance_Text_SageNoBadge:
 	.string "den ZINNTURM nicht betreten.$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "Wenn du nicht im Besitz des ORDENs\p"
-	.string "von TEAK CITY bist, darfst du\p"
-	.string "den ZINNTURM nicht betreten. Ah!\p"
-	.string "Das ist der ORDEN\n"
+	.string "Wenn du nicht im Besitz des ORDENs\n"
+	.string "von TEAK CITY bist, darfst du\l"
+	.string "den ZINNTURM nicht betreten.\p"
+	.string "Ah! Das ist der ORDEN\n"
 	.string "von TEAK CITY! Du darfst passieren.$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
@@ -105,8 +105,8 @@ EcruteakTinTowerEntrance_Text_SageNoClearBell:
 	.string "aber ich muss dich bitten zu gehen.\p"
 	.string "…Was lindert Seelenschmerzen…\p"
 	.string "Das TRIO der WEISEN sagt stets\p"
-	.string "Dinge, die sehr\n"
-	.string "schwierig zu verstehen sind…$"
+	.string "Dinge, die sehr schwierig\n"
+	.string "zu verstehen sind…$"
 
 EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
 	.string "Ein denkwürdiger Augenblick.\p"
@@ -117,14 +117,13 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "Ah!\p"
 	.string "Das Läuten der KLARGLOCKE!\p"
 	.string "Es… ist erhaben!\p"
-	.string "Das schönste Läu-\n"
-	.string "ten, das ich je hörte!\p"
-	.string "Dieser Ton sagt\n"
-	.string "alles über die Seele des Trägers aus.\n"
-	.string "\p"
+	.string "Das schönste Läuten,\n"
+	.string "das ich je hörte!\p"
+	.string "Dieser Ton sagt alles über\n"
+	.string "die Seele des Trägers aus.\p"
 	.string "Du…\p"
-	.string "Du könntest es\n"
-	.string "durch den ZINNTURM schaffen.\p"
+	.string "Du könntest es durch den\n"
+	.string "ZINNTURM schaffen.\p"
 	.string "Schreite voran.$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
@@ -132,23 +131,22 @@ EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
 
 EcruteakTinTowerEntrance_Text_SageDone:
 	.string "Der Klang dieser Glocke zeigt\n"
-	.string "die Reinheit der Seele ihres Trägers.\n"
-	.string "\p"
+	.string "die Reinheit der Seele ihres Trägers.\p"
 	.string "Du… Bist wahrlich würdig.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "Der ZINNTURM da vorne ist ein\p"
-	.string "8-stöckiger Turm\n"
+	.string "Der ZINNTURM da vorne ist ein\n"
+	.string "8-stöckiger Turm\l"
 	.string "von göttlicher Schönheit.\p"
-	.string "Er beruhigt die\n"
-	.string "Seelen derer, die ihn betrachten.$"
+	.string "Er beruhigt die Seelen derer,\n"
+	.string "die ihn betrachten.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
-	.string "Der ZINNTURM bebt! Ein Pokémon muss\p"
+	.string "Der ZINNTURM bebt! Ein Pokémon muss\n"
 	.string "auf der Spitze gelandet sein!$"
 
 EcruteakTinTowerEntrance_Text_Gramps:
 	.string "Zwei Türme… Zwei Pokémon…\p"
-	.string "Aber als einer niederbrannte,\p"
-	.string "flogen beide -\n"
-	.string "MON fort und kamen nie wieder zurück.$"
+	.string "Aber als einer niederbrannte,\n"
+	.string "flogen beide Pokémon fort\l"
+	.string "und kamen nie wieder zurück.$"

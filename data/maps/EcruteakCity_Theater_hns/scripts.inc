@@ -121,7 +121,7 @@ EcruteakCity_Theater_Text_Rocket2:
 
 EcruteakCity_Theater_Text_Rocket3:
 	.string "Na gut, dann zeige ich dir,\n"
-	.string "wie man tanzt. Ich zeige dir\n"
+	.string "wie man tanzt. Ich zeige dir\l"
 	.string "einen großartigen Tanz.\p"
 	.string "Wahahaha!$"
 
@@ -195,7 +195,7 @@ EcruteakCity_Theater_Text_RocketAfter:
 
 EcruteakCity_Theater_Text_KimonoRocket3:
 	.string "Du musst {PLAYER} sein,\n"
-	.string "stimmt's? Das war wirklich\n"
+	.string "stimmt's? Das war wirklich\l"
 	.string "ausgezeichnet.\p"
 	.string "Freundlich und stark... Gut darin,\n"
 	.string "Pokémon zu trainieren...\p"
@@ -414,9 +414,9 @@ EcruteakCity_Theater_Text_SurfGuyGiveSurf:
 	.string "Sei nicht schüchtern--nimm es!$"
 
 EcruteakCity_Theater_Text_SurfGuyGaveSurf:
-	.string "Das ist Surfer.\n"
-	.string "Es ist eine Attacke, die Pokémon\l"
-	.string "ermöglicht, mühelos durchs Wasser\n"
+	.string "Das ist Surfer.\p"
+	.string "Es ist eine Attacke, die Pokémon\n"
+	.string "ermöglicht, mühelos durchs Wasser\l"
 	.string "zu schwimmen.$"
 
 EcruteakCity_Theater_Text_SurfGuyAfter:

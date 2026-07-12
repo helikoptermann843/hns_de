@@ -297,18 +297,17 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oh, what should I do…?$"
 
 EcruteakCity_Text_Gramps1:
-	.string "Es gab zwei Türme\n"
-	.string "in TEAK CITY. Einen im Osten, einen im\l"
-	.string "Westen.$"
+	.string "Es gab zwei Türme in TEAK CITY.\n"
+	.string "Einen im Osten, einen im Westen.$"
 
 EcruteakCity_Text_Gramps2:
-	.string "Na, Kröte? Hast du gelernt zu\p"
+	.string "Na, Kröte? Hast du gelernt zu\n"
 	.string "tanzen wie die KIMONO-GIRLS?\p"
-	.string "Ich habe gehört,\n"
-	.string "dass dir ein eigenartiger Mann etwas\n"
-	.string "Nettes geben\p"
-	.string "wird, wenn du zu\n"
-	.string "ihrem TANZTHEATER gehst.$"
+	.string "Ich habe gehört, dass dir\n"
+	.string "ein eigenartiger Mann etwas\l"
+	.string "Nettes geben wird,\p"
+	.string "wenn du zu ihrem\n"
+	.string "TANZTHEATER gehst.$"
 
 EcruteakCity_Text_Lass1:
 	.string "Ich will im TANZTHEATER üben.\p"
@@ -316,8 +315,8 @@ EcruteakCity_Text_Lass1:
 
 EcruteakCity_Text_Lass2:
 	.string "Der Turm, der früher hier stand…\p"
-	.string "Meine Oma sagte\n"
-	.string "mir, dass er früher höher war.$"
+	.string "Meine Oma sagte mir,\n"
+	.string "dass er früher höher war.$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
 	.string "Drei große Pokémon sind in\l"
@@ -326,51 +325,50 @@ EcruteakCity_Text_Lass2_ReleasedBeasts:
 	.string "welche?$"
 
 EcruteakCity_Text_Fisher:
-	.string "Es kursiert ein\n"
-	.string "Gerücht über den LEUCHTTURM in\n"
+	.string "Es kursiert ein Gerücht\n"
+	.string "über den LEUCHTTURM in\l"
 	.string "OLIVIANA CITY.\p"
-	.string "Das Pokémon, das als Leuchtfeuer\p"
-	.string "dient, wurde krank. Sieht so\p"
-	.string "aus, als wären sie\n"
+	.string "Das Pokémon, das als Leuchtfeuer\n"
+	.string "dient, wurde krank.\p"
+	.string "Sieht so aus, als wären sie\n"
 	.string "in Schwierigkeiten.$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "Das Pokémon im\n"
-	.string "LEUCHTTURM von OLIVIANA CITY wurde\n"
+	.string "Das Pokémon im LEUCHTTURM\n"
+	.string "von OLIVIANA CITY wurde\l"
 	.string "geheilt.\p"
-	.string "Jetzt können die\n"
-	.string "Schiffe wieder gefahrlos nachts in See\l"
+	.string "Jetzt können die Schiffe\n"
+	.string "wieder gefahrlos nachts in See\l"
 	.string "stechen.$"
 
 EcruteakCity_Text_Youngster:
-	.string "Ich hörte, dass Pokémon am SEE DES\p"
-	.string "ZORNS Unruhe stif-\n"
-	.string "ten. Das würde ich gerne sehen.$"
+	.string "Ich hörte, dass Pokémon am\n"
+	.string "SEE DES ZORNS Unruhe stiften.\p"
+	.string "Das würde ich gerne sehen.$"
 
 EcruteakCity_Text_Gramps3:
-	.string "Vor langer Zeit…\p"
-	.string "Dieser Turm ist abgebrannt. Drei\p"
-	.string "namenlose Pokémon\n"
-	.string "sind dabei umgekommen.\p"
-	.string "Ein regenbogenfarbenes Pokémon\p"
-	.string "kam herab und\n"
-	.string "hauchte ihnen wieder Leben ein…\p"
-	.string "Diese Legende wird von jedem LEITER\p"
-	.string "der PKMN-ARENA von TEAK CITY an den\p"
+	.string "Vor langer Zeit…\n"
+	.string "Ist dieser Turm abgebrannt.\p"
+	.string "Drei namenlose Pokémon sind\n"
+	.string "dabei umgekommen.\p"
+	.string "Ein regenbogenfarbenes Pokémon\n"
+	.string "kam herab und hauchte ihnen\l"
+	.string "wieder Leben ein…\p"
+	.string "Diese Legende wird von jedem LEITER\n"
+	.string "der PKMN-ARENA von TEAK CITY an den\l"
 	.string "nächsten weitergegeben.\p"
 	.string "Ich?\p"
 	.string "Damals war ich ein Trainer. Hohoho!$"
 
 EcruteakCity_Text_SageGym:
-	.string "Arena Leiter Jens is not here right\n"
-	.string "now. You Maike find him at the\l"
-	.string "BURNED TOWER.$"
+	.string "Arenaleiter Jens ist gerade\n"
+	.string "nicht hier. Du kannst ihn vielleicht\l"
+	.string "an der TURMRUINE finden.$"
 
 EcruteakCity_Text_Sign:
-	.string "TEAK CITY Eine historische\p"
-	.string "Stadt, wo Vergan-\n"
-	.string "genheit und Gegenwart\l"
-	.string "aufeinandertreffen$"
+	.string "TEAK CITY Eine historische Stadt,\n"
+	.string "wo Vergangenheit und\l"
+	.string "Gegenwart aufeinandertreffen$"
 
 EcruteakCity_Text_TinTowerSign:
 	.string "TIN TOWER\p"
@@ -378,16 +376,13 @@ EcruteakCity_Text_TinTowerSign:
 	.string "Ruheort here.$"
 
 EcruteakCity_Text_OfficeSign:
-	.string "TEAK CITY Eine historische\p"
-	.string "Stadt, wo Vergan-\n"
-	.string "genheit und Gegenwart\l"
-	.string "aufeinandertreffen$"
+	.string "Durchgang zum ZINNTURM.\n"
+	.string "Kein Eintritt für unwürdige.$"
 
 EcruteakCity_Text_GymSign:
-	.string "TEAK CITY Eine historische\p"
-	.string "Stadt, wo Vergan-\n"
-	.string "genheit und Gegenwart\l"
-	.string "aufeinandertreffen$"
+	.string "TEAK CITY POKéMON ARENA\n"
+	.string "LEITER: JENS\p"
+	.string "Mystischer Seher der Zukunft$"
 
 EcruteakCity_Text_DanceTheaterSign:
 	.string "TANZTHEATER VON TEAK CITY$"

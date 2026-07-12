@@ -4,8 +4,8 @@ EcruteakCity_House2_hns_MapScripts::
 Ecruteak_Text_ItemfinderAdventure:
 	.string "Ah, suchst du mit\n"
 	.string "deinen Pokémon nach Abenteuern?\p"
-	.string "Was wäre ein Aben-\n"
-	.string "teuer ohne eine Schatzsuche?\p"
+	.string "Was wäre ein Abenteuer\n"
+	.string "ohne eine Schatzsuche?\p"
 	.string "Hab ich Recht oder hab ich Recht?$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
@@ -14,15 +14,15 @@ Ecruteak_Text_ItemfinderTrueSpirit:
 	.string "Das mag ich! Nimm dies mit dir.$"
 
 Ecruteak_Text_ItemfinderExplanation:
-	.string "Manchmal liegen Items herum, die\p"
-	.string "man leicht übersieht.\p"
-	.string "Setze den DETEKTOR\n"
-	.string "ein, um Items aufzuspüren, die sich\p"
+	.string "Manchmal liegen Items herum,\n"
+	.string "die man leicht übersieht.\p"
+	.string "Setze den DETEKTOR ein,\n"
+	.string "um Items aufzuspüren, die sich\l"
 	.string "in der Nähe befinden.\p"
-	.string "Den exakten Fundort musst du aber\p"
+	.string "Den exakten Fundort musst du aber\n"
 	.string "selbst herausfinden.\p"
 	.string "Ich hörte auch,\n"
-	.string "dass in der TURMRUINE von TEAK\p"
+	.string "dass in der TURMRUINE von TEAK\l"
 	.string "CITY Items zu finden wären.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
@@ -71,9 +71,9 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "ECRUTEAK is a very old city.\n"
-	.string "Many generations passed down\l"
-	.string "their history in books like these.$"
+	.string "TEAK-City ist eine sehr alte Stadt.\n"
+	.string "Viele Generationen Geschichte\l"
+	.string "stehen in Büchern wie diesem.$"
 
 Ecruteak_Text_HistoryBook:
 	.string "GESCHICHTE VON TEAK CITY\p"
@@ -81,21 +81,19 @@ Ecruteak_Text_HistoryBook:
 
 Ecruteak_Text_TwoTowers:
 	.string "In TEAK CITY gab es zwei Türme.\p"
-	.string "Jeder Turm war das\n"
-	.string "Zuhause mächtiger fliegender - MON.\p"
+	.string "Jeder Turm war das Zuhause\n"
+	.string "mächtiger fliegender Pokémon.\p"
 	.string "Doch einer der Türme brannte ab.\p"
-	.string "Die beiden Pokémon\n"
-	.string "wurden seitdem nicht mehr gesehen…\p"
+	.string "Die beiden Pokémon wurden\n"
+	.string "seitdem nicht mehr gesehen…\p"
 	.string "Weiterlesen?$"
 
 Ecruteak_Text_ThreeMon:
-	.string "TEAK CITY war auch die Heimat dreier\p"
-	.string "Pokémon, die durch die Stadt rannten.\n"
-	.string "\p"
-	.string "Es heißt, sie ent-\n"
-	.string "standen durch Wasser, Blitz und Feuer.\n"
-	.string "\p"
-	.string "Doch konnten sie\n"
-	.string "ihre Kräfte nicht beherrschen.\p"
-	.string "Also sind sie wie\n"
-	.string "der Wind ins offene Grasland gerannt.$"
+	.string "TEAK CITY war auch die Heimat dreier\n"
+	.string "Pokémon, die durch die Stadt rannten.\p"
+	.string "Es heißt, sie entstanden durch\n"
+	.string "Wasser, Blitz und Feuer.\p"
+	.string "Doch konnten sie ihre Kräfte\n"
+	.string "nicht beherrschen.\p"
+	.string "Also sind sie wie der Wind\n"
+	.string "ins offene Grasland gerannt.$"

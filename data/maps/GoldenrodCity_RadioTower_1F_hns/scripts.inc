@@ -46,19 +46,19 @@ RadioTower1F_EventScript_Whitney::
 	end
 
 RadioTower1F_Text_Whitney1::
-	.string "WHITNEY: Hi!\p"
-	.string "My name is WHITNEY!\p"
-	.string "I heard about the QUIZ to win a\n"
-	.string "RADIO, so I came here to get\l"
-	.string "one...\p"
-	.string "But this QUIZ is so hard!$"
+	.string "BIANKA: Hi!\p"
+	.string "Ich bin Bianka!\p"
+	.string "Ich habe von einem Quiz\n"
+	.string "gehört, bei dem man ein RADIO,\l"
+	.string "gewinnen kann, also kam ich her...\p"
+	.string "Aber es ist so schwer!$"
 
 RadioTower1F_Text_Whitney2::
-	.string "WHITNEY: Wow, you did it!\p"
-	.string "I thought the answer to the third\n"
-	.string "question was surely apricorns!\l"
+	.string "BIANKA: Wow, du hast es!\p"
+	.string "Ich war mir sicher die Antwort\n"
+	.string "auf die dritte Frage war Aprikoko!\l"
 	.string "Oops!\p"
-	.string "It's time to go back to the GYM!$"
+	.string "Zeit das ich zur Arena zurückkehre!$"
 
 RadioTower1F_EventScript_Reception::
 	lock

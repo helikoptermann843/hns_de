@@ -269,7 +269,7 @@ KurtsHouse_Text_KurtMakingBallsMustWait:
 
 KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "Kurt: Hi, {PLAYER}!\p"
-	.string "Die Situation am Brunnen hast\n"
+	.string "Die Situation am Brunnen hast du\n"
 	.string "wie ein echter Held gemeistert.\p"
 	.string "Ich mag deinen Stil!\p"
 	.string "Ich wäre geehrt für jemanden\n"
