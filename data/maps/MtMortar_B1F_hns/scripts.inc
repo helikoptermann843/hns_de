@@ -53,8 +53,7 @@ MountMortar4_EventScript_KiyoAfter::
 MountMortar4_Text_KiyoIntro:
 	.string "Heh!\p"
 	.string "Ich bin der KARATE-MEISTER!\p"
-	.string "Ich trainiere hier allein im Dunkeln!\n"
-	.string "\p"
+	.string "Ich trainiere hier allein im Dunkeln!\p"
 	.string "Du! Kämpfe mit mir!\p"
 	.string "Arggh!$"
 
@@ -64,10 +63,10 @@ MountMortar4_Text_KiyoWin:
 MountMortar4_Text_KiyoTyrogueReward:
 	.string "Ich… ich bin am Boden zerstört…\p"
 	.string "Ich habe nicht gut genug trainiert…\p"
-	.string "Eine Niederlage\n"
-	.string "ist nun mal eine Niederlage. Das gebe\n"
+	.string "Eine Niederlage ist nun mal\n"
+	.string "eine Niederlage. Das gebe\l"
 	.string "ich zu.\p"
-	.string "Als Beweis für deinen Sieg gebe\p"
+	.string "Als Beweis für deinen Sieg gebe\n"
 	.string "ich dir dieses seltene KampfPokémon.$"
 
 MountMortar4_Text_ReceiveTyrogue:
@@ -77,8 +76,8 @@ MountMortar4_Text_KiyoGotTyrogue:
 	.string "RABAUZ ist ein Kampf-Pokémon.\p"
 	.string "Es entwickelt sich\n"
 	.string "zu einem stärkeren Pokémon.\p"
-	.string "Arbeite so hart\n"
-	.string "weiter. Ich werde auch weiterhin\n"
+	.string "Arbeite so hart weiter.\p"
+	.string "Ich werde auch weiterhin\n"
 	.string "trainieren.\p"
 	.string "Lebe wohl!$"
 

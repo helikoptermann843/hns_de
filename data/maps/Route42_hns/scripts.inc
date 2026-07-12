@@ -143,9 +143,9 @@ Route42_Text_EusineJealous:
     .string "{PLAYER}!\p"
     .string "Du scheinst immer dort zu sein,\n"
     .string "wo SUICUNE auftaucht.\p"
-    .string "Nun gut.\l"
-    .string "Mein Verlangen, SUICUNE zu\n"
-    .string "finden, übertrifft deines bei\l"
+    .string "Nun gut. Mein Verlangen,\n"
+    .string "SUICUNE zu finden,\l"
+    .string "übertrifft deines bei\p"
     .string "Weitem...\p"
     .string "Mein Großvater war...\n"
     .string "sehr von Legenden begeistert.\p"
@@ -155,7 +155,7 @@ Route42_Text_EusineJealous:
 Route42_Text_EusineWontGiveUp:
     .string "SUICUNE...\n"
     .string "Ich werde dir weiter folgen,\l"
-    .string "bis ich herausgefunden habe,\l"
+    .string "bis ich herausgefunden habe,\p"
     .string "wonach du suchst...\p"
     .string "Hörst du mich!$"
 
@@ -228,30 +228,32 @@ Route42_EventScript_Item_UltraBall::
 	end
 
 Route42_Text_FisherTullySeen:
-	.string "Jetzt demonstriere\n"
-	.string "ich dir die Kraft des Pokémon, das ich\l"
+	.string "Jetzt demonstriere ich dir\n"
+	.string "die Kraft des Pokémon, das ich\l"
 	.string "gefangen habe!$"
 
 Route42_Text_FisherTullyBeaten:
 	.string "Was? Das kann nicht sein.$"
 
 Route42_Text_FisherTullyAfter:
+	.string "Ich bin Angler fürs Leben.$"
 
 Route42_Text_HikerBenjaminSeen:
-	.string "Ach, ist das\n"
-	.string "schön, im Freien zu sein! Ich fühle\l"
+	.string "Ach, ist das schön,\n"
+	.string "im Freien zu sein! Ich fühle\l"
 	.string "mich so frei!$"
 
 Route42_Text_HikerBenjaminBeaten:
 	.string "Hahaha!$"
 
 Route42_Text_HikerBenjaminAfter:
+	.string "Humbug!$"
 
 Route42_Text_PokemaniacShaneSeen:
 	.string "HEH!\p"
-	.string "Das ist mein\n"
-	.string "Geheimversteck! Verschwinde, du\l"
-	.string "Außenseiter!$"
+	.string "Das ist mein Geheimversteck!\n"
+	.string "Verschwinde von hier,\l"
+	.string "du Außenseiter!$"
 
 Route42_Text_PokemaniacShaneBeaten:
 	.string "Ich hätte meinen\n"

@@ -310,7 +310,7 @@ MahoganyTown_Text_Lass:
 
 MahoganyTown_Text_Sign:
 	.string "MAHAGONIA CITY\p"
-	.string "Willkommen in der Stadt der Ninja$"
+	.string "Willkommen in der Stadt der Ninja.$"
 
 MahoganyTown_Text_RagecandybarSign:
 	.string "Versuchen Sie den leckeren WUTKEKS!$"

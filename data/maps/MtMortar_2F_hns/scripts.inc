@@ -41,12 +41,12 @@ MtMortar_2F_Text_SupernerdHughSeen::
 
 MtMortar_2F_Text_SupernerdHughBeaten:
 	.string "Sorry, mein Fehler.\n"
-	.string "Ich hab dich falsch\l"
-	.string "eingeschätzt.$"
+	.string "Ich hab dich mit jemandem\l"
+	.string "verwechselt.$"
 
 MtMortar_2F_Text_SupernerdHughAfter:
 	.string "Ich untersuche den\n"
-	.string "KESSELBERG, aber mein\n"
+	.string "KESSELBERG, aber mein\l"
 	.string "Kumpel ist verschwunden.\p"
 	.string "Hast du einen Trainer\n"
 	.string "gesehen, dessen Flegmon\l"

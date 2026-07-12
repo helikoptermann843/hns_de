@@ -35,7 +35,7 @@ DarkCave2_EventScript_BlackGlassesGot::
 DarkCave2_Text_Nerd:
 	.string "Whoa! Du hast mich erschreckt!\p"
 	.string "Ich hatte meine Schattenbrille\n"
-	.string "auf, also habe ich dich gar nicht\n"
+	.string "auf, also habe ich dich gar nicht\l"
 	.string "bemerkt.\p"
 	.string "Was ich hier mache?\p"
 	.string "Hey, mach dir keine Sorgen.\p"

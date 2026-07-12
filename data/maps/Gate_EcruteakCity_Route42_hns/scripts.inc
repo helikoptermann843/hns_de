@@ -10,6 +10,6 @@ Gate_EcruteakCity_Route42_EventScript_Policeman::
 	end
 
 Route42_Text_EcruteakGateOfficer:
-	.string "Der KESSELBERG ist wie ein\p"
+	.string "Der KESSELBERG ist wie ein\n"
 	.string "Irrgarten, also verlaufe dich nicht.$"
 
