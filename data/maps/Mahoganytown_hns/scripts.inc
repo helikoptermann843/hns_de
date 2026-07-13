@@ -268,8 +268,8 @@ MahoganyTown_Text_RageCandyBarMerchantTryOne:
 	.string "Ich sehe, du bist neu in MAHAGONIA.\p"
 	.string "Du musst unbedingt\n"
 	.string "einen WUTKEKS probieren!\p"
-	.string "Ich habe einen da-\n"
-	.string "bei. Für nur ¥300 gehört er dir.$"
+	.string "Ich habe einen dabei\n"
+	.string "Für nur ¥300 gehört er dir.$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
 	.string "Gut! Genieße ihn!$"
@@ -286,26 +286,26 @@ MahoganyTown_Text_RageCandyBarMerchantSoldOut:
 	.string "Stör mich nicht, Kind.$"
 
 MahoganyTown_Text_Gramps:
-	.string "Hast du vor, die\n"
-	.string "GARADOS am SEE anzusehen?$"
+	.string "Hast du vor, die GARADOS\n"
+	.string "am SEE anzusehen?$"
 
 MahoganyTown_Text_GrampsClearedRocketHideout:
-	.string "Die KARPADOR sind\n"
-	.string "zum SEE DES ZORNS zurückgekehrt.\p"
-	.string "Das sind gute Neu-\n"
-	.string "igkeiten für die Angler.$"
+	.string "Die KARPADOR sind zum\n"
+	.string "SEE DES ZORNS zurückgekehrt.\p"
+	.string "Das sind gute Neuigkeiten\n"
+	.string "für die Angler.$"
 
 MahoganyTown_Text_Fisher:
-	.string "Wenn du schon so weit gekommen\p"
-	.string "bist, solltest du\n"
-	.string "dir die Zeit nehmen, um etwas\p"
-	.string "Sightseeing zu unternehmen.\p"
-	.string "Geh nach Norden und sieh dir den\p"
+	.string "Wenn du schon so weit gekommen\n"
+	.string "bist, solltest du dir die\l"
+	.string "Zeit nehmen, um etwas\p"
+	.string "die Gegend zu besichtigen.\p"
+	.string "Geh nach Norden und sieh dir den\n"
 	.string "SEE DES ZORNS an.$"
 
 MahoganyTown_Text_Lass:
-	.string "Besuche Großmutters Laden. Sie\p"
-	.string "verkauft Artikel,\n"
+	.string "Besuche Großmutters Laden.\p"
+	.string "Sie verkauft Artikel,\n"
 	.string "die du sonst nirgends bekommen kannst.$"
 
 MahoganyTown_Text_Sign:
@@ -316,8 +316,8 @@ MahoganyTown_Text_RagecandybarSign:
 	.string "Versuchen Sie den leckeren WUTKEKS!$"
 
 MahoganyTown_Text_GymSign:
-	.string "MAHAGONIA CITY\p"
-	.string "Willkommen in der Stadt der Ninja$"
+	.string "MAHAGONIA CITY POKéMON ARENA\p"
+	.string "Eine eiskalte Herausforderung.$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "PROF.LIND: {PLAYER}, wie läuft's\n"

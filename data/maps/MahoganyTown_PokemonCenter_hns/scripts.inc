@@ -20,18 +20,18 @@ MahoganyTown_PokemonCenter_EventScript_Girl::
 
 MahoganyTown_PokemonCenter_Text_PokefanM:
 	.string "Wie? TEAM ROCKET ist wieder da?\p"
-	.string "Ich sah einige\n"
-	.string "Männer in Schwarz am SEE DES ZORNS…$"
+	.string "Ich sah einige Männer in\n"
+	.string "Schwarz am SEE DES ZORNS…$"
 
 MahoganyTown_PokemonCenter_Text_Youngster:
-	.string "Ich verhindere,\n"
-	.string "dass sich meine Pokémon zu rasch\n"
+	.string "Ich verhindere, dass sich\n"
+	.string "meine Pokémon zu rasch\l"
 	.string "entwickeln.\p"
-	.string "Ich bringe ihnen\n"
-	.string "verschiedene Attacken bei, bevor ich\l"
+	.string "Ich bringe ihnen verschiedene\n"
+	.string "Attacken bei, bevor ich\l"
 	.string "sie sich entwickeln lasse.$"
 
 MahoganyTown_PokemonCenter_Text_CooltrainerF:
-	.string "Pokémon werden stärker, wenn sie\p"
-	.string "sich entwickeln. Aber sie erlernen\p"
+	.string "Pokémon werden stärker, wenn sie\n"
+	.string "sich entwickeln. Aber sie erlernen\l"
 	.string "neue Attacken auch langsamer.$"

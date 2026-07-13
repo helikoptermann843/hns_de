@@ -82,15 +82,17 @@ Route43_EventScript_Item_Max_Ether::
 
 Route43_Text_PokemaniacBenSeen:
 	.string "Ich liebe Pokémon!\p"
-	.string "Deshalb habe ich\n"
-	.string "angefangen, Pokémon zu sammeln und\p"
-	.string "damit werde ich\n"
-	.string "auch nicht mehr aufhören!$"
+	.string "Deshalb habe ich angefangen,\n"
+	.string "Pokémon zu sammeln.\p"
+	.string "Damit werde ich auch\n"
+	.string "nicht mehr aufhören!$"
 
 Route43_Text_PokemaniacBenBeaten:
 	.string "Wie konntest du mir das antun?$"
 
 Route43_Text_PokemaniacBenAfter:
+	.string "Was ich außer Pokémon mag?\n"
+	.string "Hm, Radiosendungen?$"
 
 Route43_Text_PokemaniacBrentSeen:
 	.string "Heh! Hast du seltene Pokémon?$"
@@ -120,8 +122,8 @@ Route43_Text_BrentPostRematch:
 
 Route43_Text_PokemaniacRonSeen:
 	.string "Stell dir mal vor!\p"
-	.string "so ein Typ namens SILBER\n"
-	.string "hat sich über mein Pokémon lustig\n"
+	.string "so ein Typ namens {RIVAL}\n"
+	.string "hat sich über mein Pokémon lustig\l"
 	.string "gemacht!\p"
 	.string "Unverschämtheit!\n"
 	.string "Mein Pokémon ist toll!$"
@@ -138,10 +140,10 @@ Route43_Text_PokemaniacRonAfter:
 
 Route43_Text_FisherMarvinSeen:
 	.string "Ich bin gerade ziemlich am Boden.\p"
-	.string "Vielleicht liegt\n"
-	.string "das an dem Item, das ich benutze.\p"
-	.string "Kämpfen wir! Das\n"
-	.string "hebt vielleicht meine Laune!$"
+	.string "Vielleicht liegt das an\n"
+	.string "dem Item, das ich benutze.\p"
+	.string "Kämpfen wir! Das hebt\n"
+	.string "vielleicht meine Laune!$"
 
 Route43_Text_FisherMarvinBeaten:
 	.string "Ich habe verloren,\n"
@@ -151,11 +153,11 @@ Route43_Text_FisherMarvinAfter:
     .string "KURTs KÖDERBALL ist der beste,\n"
     .string "um geangelte POKéMON zu fangen.\p"
     .string "Er ist viel effektiver als ein\n"
-    .string "ULTRABALL.$"
+    .string "HYPERBALL.$"
 
 Route43_Text_CamperSpencerSeen:
-	.string "Man kann so viel\n"
-	.string "unternehmen mit seinen Pokémon - das\l"
+	.string "Man kann so viel unternehmen\n"
+	.string "mit seinen Pokémon - das\l"
 	.string "macht unheimlich viel Spaß!$"
 
 Route43_Text_CamperSpencerBeaten:
@@ -174,8 +176,8 @@ Route43_Text_PicnickerTiffanyBeaten:
 	.string "Ich habe zu lange gespielt!$"
 
 Route43_Text_PicnickerTiffanyWantsPicnic:
-	.string "Ich mache ein\n"
-	.string "Picknick mit meinen Pokémon.\p"
+	.string "Ich mache ein Picknick\n"
+	.string "mit meinen Pokémon.\p"
 	.string "Setz dich doch zu uns.$"
 
 Route43_Text_TiffanyRegister:
@@ -197,14 +199,14 @@ Route43_Text_TiffanyPostRematch:
 
 Route43_Sign1:
     .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "SEE DES ZORNS - MAHAGONIA$"
 
 Route43_Sign2:
     .string "ROUTE 43\p"
-    .string "LAKE OF RAGE - MAHOGANY TOWN$"
+    .string "SEE DES ZORNS - MAHAGONIA$"
 
 Route43_TrainerTips:
-    .string "TRAINER TIPS\p"
+    .string "TRAINER TIPPS\p"
     .string "Alle POKéMON haben vor-\n"
     .string "und Nachteile, je nach Typ.\p"
     .string "Haben sie unterschiedliche Typen,\n"
