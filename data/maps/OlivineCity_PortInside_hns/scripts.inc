@@ -61,9 +61,9 @@ OlivineCity_PortInside_Movement_OakLeave:
 	step_end
 
 OlivineCity_PortInside_Text_Nationaldex1:
-	.string "PROF. EICH: Hallo!\n"
-	.string "Du entwickelst langsam die\l"
-	.string "Ausstrahlung eines CHAMPIONS,\n"
+	.string "PROF. EICH: Hallo!\p"
+	.string "Du entwickelst langsam die\n"
+	.string "Ausstrahlung eines CHAMPIONS,\l"
 	.string "{PLAYER}!\p"
 	.string "Es ist Zeit, dass dein POKéDEX\n"
 	.string "verbessert wird.\p"
@@ -76,14 +76,14 @@ OlivineCity_PortInside_Text_Nationaldex2:
 	.string "NATIONALEN MODUS erweitert!$"
 OlivineCity_PortInside_Text_Nationaldex3:
 	.string "PROF. EICH: Es wird nicht leicht\n"
-	.string "sein, den NATIONALEN POKéDEX\n"
+	.string "sein, den NATIONALEN POKéDEX\l"
 	.string "zu vervollständigen...\p"
 	.string "Doch ich bin sicher, dass du es\n"
 	.string "ernsthaft versuchen wirst!$"
 OlivineCity_PortInside_Text_Nationaldex4:
 	.string "Oh, wie die Zeit vergeht!\p"
 	.string "Ich muss eine Radiosendung im\n"
-	.string "RADIO-TURM von DUKATIA CITY\n"
+	.string "RADIO-TURM von DUKATIA CITY\l"
 	.string "aufnehmen.\p"
 	.string "Du willst sicher nach KANTO.\p"
 	.string "Wenn du nach ALABASTIA kommst,\n"
@@ -253,7 +253,7 @@ OlivinePort_Text_NoPass:
 	.string "{PLAYER} versucht das\n"
 	.string "{STR_VAR_1} zu zeigen…\p"
 	.string "…Du hast kein {STR_VAR_1}!\p"
-	.string "Sorry! Du darfst nur mit\l"
+	.string "Sorry! Du darfst nur mit\n"
 	.string "{STR_VAR_1} an Bord.$"
 
 OlivinePort_Text_SailorGetOnBoard:
@@ -263,11 +263,11 @@ OlivinePort_Text_CantBoard:
 	.string "Du darfst jetzt nicht an Bord.$"
 
 OlivinePort_Text_WhereSail:
-	.string "Where would you like to sail?$"
+	.string "Wohin möchtest du Segeln?$"
 
 OlivinePort_Text_AskBoard:
-	.string "Willkommen auf \n"
-	.string "dem SCHNELLBOOT M.S. AQUA.\p"
+	.string "Willkommen auf dem\n"
+	.string "SCHNELLBOOT M.S. AQUA.\p"
 	.string "Trittst du heute deine Reise an?$"
 
 OlivinePort_Text_AskTicket:
@@ -294,20 +294,19 @@ OlivinePort_Text_FishingGuru1:
 
 OlivinePort_Text_FishingGuru2:
 	.string "Wie viele ANGELN hast du?\p"
-	.string "Mit verschiedenen\n"
-	.string "ANGELN, fängst du verschiedene\l"
+	.string "Mit verschiedenen ANGELN,\n"
+	.string "fängst du verschiedene\l"
 	.string "Pokémon.$"
 
 OlivinePort_Text_Youngster:
-	.string "M.S. AQUA benutzt\n"
-	.string "Spezialdüsen, um über die Wellen zu\l"
-	.string "gleiten!$"
+	.string "M.S. AQUA benutzt Spezialdüsen,\n"
+	.string "um über die Wellen zu gleiten!$"
 
 OlivinePort_Text_CooltrainerF:
 	.string "In KANTO gibt es viele Pokémon.\p"
 	.string "Ich wünschte, ich könnte dorthin…$"
 
 OlivinePort_Text_SailorBeforeHOF:
-	.string "Wir wollen nicht, dass du ins Wasser\p"
-	.string "fällst. Darum\n"
-	.string "lassen wir dich nicht herein.$"
+	.string "Wir wollen nicht, dass du ins Wasser\n"
+	.string "fällst. Darum lasen wir\l"
+	.string "dich nicht herein.$"

@@ -17,7 +17,7 @@ OlivineCity_PortOutside_EventScript_Sabrina::
 
 OlivineCity_PortOutside_Text_Sabrina:
 	.string "Sabrina: Aus dem blauen heraus,\n"
-	.string "habe ich das Bedürfnis,\n"
+	.string "habe ich das Bedürfnis,\l"
 	.string "das Meer zu sehen.\p"
 	.string "Triff mich zum kämpfen im DOJO.$"
 
@@ -43,4 +43,4 @@ OlivineCity_PortOutside_Text_PortFisherman1:
 	.string "gefahren, heutzutage fast täglich!$"
 
 OlivineCity_PortOutside_Text_Fisherman2:
-	.string "Oh ja, ich fische gerne.$"
+	.string "Frischer Fisch aufn Tisch.$"

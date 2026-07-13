@@ -38,18 +38,17 @@ OlivineLighthouse_EventScript_1FPokefanF::
 	end
 
 OlivineLighthouse_Text_1FSailor:
-	.string "Die Leute kommen\n"
-	.string "zum LEUCHTTURM, um zu trainieren.\p"
-	.string "Aufgrund der\n"
-	.string "vielen Trainer ist es nicht einfach,\l"
+	.string "Die Leute kommen zum\n"
+	.string "LEUCHTTURM, um zu trainieren.\p"
+	.string "Aufgrund der vielen Trainer\n"
+	.string "ist es nicht einfach,\l"
 	.string "sich bis ganz nach oben vorzukämpfen.$"
 
 OlivineLighthouse_Text_1FPokefanF:
-	.string "Früher haben Pokémon nachts die\p"
+	.string "Früher haben Pokémon nachts die\n"
 	.string "Gewässer um OLIVIANA CITY erhellt.\p"
-	.string "Der LEUCHTTURM\n"
-	.string "wurde errichtet, um diese Pokémon zu\l"
-	.string "ehren.$"
+	.string "Der LEUCHTTURM wurde errichtet,\n"
+	.string "um diese Pokémon zu ehren.$"
 
 @2nd floor==============================================================================================================================
 
@@ -102,8 +101,8 @@ OlivineLighthouse_Text_HueyRematchDefeat:
 	.string "Ich verliere!$"
 
 OlivineLighthouse_Text_HueyPostRematch:
-	.string "What power! How would you like\n"
-	.string "to sail the seas with me?$"
+	.string "Sehr stark!\n"
+	.string "Wie wärs mit einem Segeltörn?$"
 
 OlivineLighthouse_Text_GentlemanAlfredSeen:
 	.string "Hm? Hier ist kein Ort\n"

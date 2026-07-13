@@ -17,8 +17,8 @@ Route40_EventScript_Simon::
 	end
 
 Route40_Text_SwimmermSimonSeen:
-	.string "Du musst dich erst\n"
-	.string "aufwärmen, bevor du schwimmen gehst.\p"
+	.string "Du musst dich erst aufwärmen,\n"
+	.string "bevor du schwimmen gehst.\p"
 	.string "Das ist Grundwissen.$"
 
 Route40_Text_SwimmermSimonBeaten:
@@ -36,7 +36,7 @@ Route40_EventScript_Randall::
 Route40_Text_SwimmermRandallSeen:
 	.string "Heh, du bist jung und fit!\p"
 	.string "Surfe nicht auf\n"
-	.string "deinem Pokémon! Schwimme!$"
+	.string "einem Pokémon! Schwimme!$"
 
 Route40_Text_SwimmermRandallBeaten:
 	.string "Oh, oh. Ich habe verloren…$"
@@ -69,8 +69,8 @@ Route40_EventScript_Paula::
 
 Route40_Text_SwimmerfPaulaSeen:
 	.string "Ich habe keine Schwimmreifen.\p"
-	.string "Ich halte mich an\n"
-	.string "einem WasserPokémon fest!$"
+	.string "Ich halte mich an einem\n"
+	.string "WasserPokémon fest!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
 	.string "Oh, ich fühle mich so schwindelig!$"
@@ -89,8 +89,8 @@ Route40_EventScript_Woman1::
 
 Route40_Text_Lass1:
 	.string "Du kannst es zwar nicht von hier\p"
-	.string "sehen, aber ANEMO-\n"
-	.string "NIA CITY liegt jenseits des Meeres.$"
+	.string "sehen, aber ANEMONIA-\n"
+	.string "CITY liegt jenseits des Meeres.$"
 
 Route40_EventScript_Woman2::
 	lock
@@ -101,11 +101,11 @@ Route40_EventScript_Woman2::
 	end
 
 Route40_Text_Lass2:
-	.string "Ich reiste mit dem Schiff nach\p"
-	.string "OLIVIANA, um die Sehenswürdigkeiten\p"
+	.string "Ich reiste mit dem Schiff nach\n"
+	.string "OLIVIANA, um die Sehenswürdigkeiten\l"
 	.string "und die Atmosphäre zu genießen.\p"
-	.string "Da es eine Hafenstadt ist, unter-\p"
-	.string "scheidet sie sich\n"
+	.string "Da es eine Hafenstadt ist, unter-\n"
+	.string "scheidet sie sich\l"
 	.string "von anderen großen Städten.$"
 
 Route40_EventScript_Youngster::
@@ -118,9 +118,9 @@ Route40_EventScript_Youngster::
 
 Route40_Text_StandingYoungster:
 	.string "Warst du schon am DUELLTURM?\p"
-	.string "Ich denke, dass sich bereits viele\p"
+	.string "Ich denke, dass sich bereits viele\n"
 	.string "starke Trainer dort versammeln.\p"
-	.string "Da du so viele ORDEN besitzt,\p"
+	.string "Da du so viele ORDEN besitzt,\n"
 	.string "wirst du dich dort wacker schlagen.$"
 
 Route40_Text_Monica:
@@ -149,9 +149,9 @@ Route40_Text_MonicaMonday:
     .string "Versuch doch, sie alle zu finden!$"
 
 Route40_Text_MonicaNotMonday:
-	.string "MONJA: Ich\n"
-	.string "fürchte, heute ist nicht Montag. Wie\l"
-	.string "schade…$"
+	.string "MONJA: Ich fürchte,\n"
+	.string "heute ist nicht Montag.\l"
+	.string "Wie schade…$"
 
 Route40_Text_MonicaNope:
 	.string "Nicht dieser.$"

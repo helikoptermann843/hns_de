@@ -30,13 +30,13 @@ OlivineCity_Text_Baoba:
 	.string "{PLAYER}!\p"
 	.string "Ich bins, Aufseher Baoba.\p"
 	.string "Entschuldige die Wartezeit.\n"
-	.string "Wir haben die SAFARI-ZONE\n"
+	.string "Wir haben die SAFARI-ZONE\l"
 	.string "endlich geöffnet!\p"
 	.string "Weißt du, wo sie ist?\p"
 	.string "Kennst du das TOR in der Höhle\n"
 	.string "von Anemonia City?\p"
-	.string "Geh hindurch und lauf ein Stück,\p"
-	.string "dann solltest du die Safari-Zone\n"
+	.string "Geh hindurch und lauf ein Stück,\n"
+	.string "dann solltest du die Safari-Zone\l"
 	.string "sehen!\p"
 	.string "Wir liegen etwas abseits, aber\n"
 	.string "komm uns doch besuchen!$"
@@ -157,7 +157,7 @@ OlivineCity_Text_SilverEncounter:
 	.string "gebe ich mich nicht ab.\p"
 	.string "Apropos Schwächlinge, die\n"
 	.string "Arena-Leiterin ist nicht hier,\l"
-	.string "sie kümmert sich um ein krankes\n"
+	.string "sie kümmert sich um ein krankes\l"
 	.string "Pokémon im Leuchtturm.\p"
 	.string "Humph! Heul leise!\n"
 	.string "Wen interessieren kranke Pokémon!\p"
@@ -261,7 +261,7 @@ OlivineCity_Text_CafeSign:
 OlivineCity_Text_EonTicketWoman1:
 	.string "Ich bin MARY!\p"
 	.string "Ich mache nur Spaß!\n"
-	.string "aber ich mag ihre Radiosendung!$"
+	.string "Aber ich mag ihre Radiosendung!$"
 
 OlivineCity_Text_EonTicketWoman2:
 	.string "Du musst {PLAYER} sein!!!\p"
@@ -277,16 +277,15 @@ OlivineCity_Text_EonTicketWoman3:
 OlivineCity_Text_Sailor1:
 	.string "Nachts sind dunkle\n"
 	.string "Straßen gefährlich.\p"
-	.string "Auch das Meer\n"
-	.string "wirkt viel bedrohlicher in der\p"
+	.string "Auch das Meer wirkt\n"
+	.string "viel bedrohlicher in der\l"
 	.string "pechschwarzen Finsternis!\p"
 	.string "Ohne das Licht des LEUCHTTURMs könnte\n"
-	.string "\p"
 	.string "kein Schiff das Meer bereisen.$"
 
 OlivineCity_Text_YoungsterPokegear:
-	.string "Dieses Ding da ist\n"
-	.string "doch ein POKéCOM. Wow, das ist cool!$"
+	.string "Dieses Ding da ist doch\n"
+	.string "ein POKéCOM. Wow, das ist cool!$"
 
 OlivineCity_Text_YoungsterPokedex:
 	.string "Wow, du hast einen POKéDEX!\p"
@@ -294,8 +293,8 @@ OlivineCity_Text_YoungsterPokedex:
 
 OlivineCity_Text_Sailor2:
 	.string "Die See ist schön!\p"
-	.string "Sonnenuntergänge\n"
-	.string "über dem Meer sind wundervoll!\p"
+	.string "Sonnenuntergänge über dem\n"
+	.string "Meer sind wundervoll!\p"
 	.string "Sing mit mir!\n"
 	.string "Yo-ho! Seebären sind so cool!…$"
 
