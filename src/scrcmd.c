@@ -1451,6 +1451,7 @@ bool8 ScrCmd_givenamedmon(struct ScriptContext *ctx)
         ZeroMonData(mon);
         CreateBoxMon(&mon->box, species, level, personality, OTID_STRUCT_PRESET(otId));
         SetBoxMonIVs(&mon->box, USE_RANDOM_IVS);
+        GiveBoxMonInitialMoveset(&mon->box);
 
         if (nickname != NULL)
             SetMonData(mon, MON_DATA_NICKNAME, nickname);
@@ -1844,6 +1845,7 @@ static bool8 GiveOddEgg_Internal(u16 species, bool8 forceShiny, bool8 allow14Per
 
             CreateBoxMon(&mon->box, species, 5, pid, OTID_STRUCT_PLAYER_ID);
             SetBoxMonIVs(&mon->box, USE_RANDOM_IVS);
+            GiveBoxMonInitialMoveset(&mon->box);
 
             {
                 bool8 isEgg = TRUE;
