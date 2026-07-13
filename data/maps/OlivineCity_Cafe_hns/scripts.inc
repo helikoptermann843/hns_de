@@ -63,20 +63,20 @@ OlivineCity_Text_CafeSailorStrength:
 	.string "Stärke!$"
 
 OlivineCity_Text_CafeSailorGotStrength:
-	.string "Der Einzige, auf den du dich auf\p"
-	.string "hoher See verlassen kannst,\n"
+	.string "Der Einzige, auf den du dich auf\n"
+	.string "hoher See verlassen kannst,\l"
 	.string "bist du selbst!\p"
 	.string "Ich bin so stolz auf mich selbst!$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "Im OLIVIANA CAFE gibt es nur\p"
-	.string "delikate Seemannskost für MATROSEN\p"
+	.string "Im OLIVIANA CAFE gibt es nur\n"
+	.string "delikate Seemannskost für MATROSEN\l"
 	.string "auf dem Speiseplan!$"
 
 OlivineCity_Text_CafeSailor:
-	.string "Immer wenn ich in diese Stadt komme,\p"
+	.string "Immer wenn ich in diese Stadt komme,\n"
 	.string "gehe ich ins OLIVIANA CITYCAFE.\p"
-	.string "Jedes Gericht auf der Karte stärkt\p"
-	.string "mich. Ich kann\n"
-	.string "nicht aufhören zu essen!$"
+	.string "Jedes Gericht auf der Karte stärkt\n"
+	.string "mich. Ich kann nicht\l"
+	.string "aufhören zu essen!$"
 

@@ -72,18 +72,18 @@ OlivineCity_Gym_EventScript_MoveLeft4::
 	return
 
 OlivineCity_Gym_Text_Gent:
-	.string "I knew you'd come here.\p"
-	.string "Thank you for helping the Arena\n"
-	.string "Leiter,\n"
-	.string "but battle is a separate matter.\p"
-	.string "Go for it!$"
+	.string "Ich wusste du würdest kommen.\p"
+	.string "Danke, dass du der Arenaleiterin\n"
+	.string "geholfen hast.\p"
+	.string "Aber nun steht der Kampf bevor.\p"
+	.string "Bist du bereit?$"
 
 OlivineCity_Gym_Text_Gent2:
-	.string "Impressive!\n"
-	.string "You should continue your journey to\n"
-	.string "different places.\p"
-	.string "Since you can use Surfer, why don't\n"
-	.string "you try it on the See des Zorns?$"
+	.string "Unglaublich!\n"
+	.string "Du solltest deine Reise fortsetzen,\n"
+	.string "an vielerlei Orte.\p"
+	.string "Da du Surfer beherrschst,\n"
+	.string "Versuche es am SEE DES ZORNS?$"
 
 OlivineCity_Gym_EventScript_Lass::
 	lock
@@ -157,14 +157,14 @@ OlivineCity_Gym_EventScript_MoveRight4::
 
 OlivineCity_Gym_Text_Lass:
 	.string "Kicher...\n"
-	.string "Ich weiß, wie fähig du bist,\n"
+	.string "Ich weiß, wie fähig du bist,\l"
 	.string "beim LEUCHTTURM warst du Klasse!\p"
 	.string "Zeig Jasmin deine Stärke!\n"
 	.string "Viel Glück!$"
 
 OlivineCity_Gym_Text_Lass2:
 	.string "Du bist wirklich toll...\n"
-	.string "Strebe noch höher, du hast\n"
+	.string "Strebe noch höher, du hast\l"
 	.string "so viel Potenzial.\p"
 	.string "Warst du schon in Mahagonia?$"
 
@@ -198,15 +198,14 @@ OlivineCity_Gym_Text_GymGuideText:
 OlivineCity_Gym_Text_GymGuideWinText:
 	.string "Das war großartig!\p"
 	.string "Der Typ Stahl, was?\p"
-	.string "Das war eine un-\n"
-	.string "heimliche Begegnung der unbekannten\l"
-	.string "Art.$"
+	.string "Das war eine unheimliche\n"
+	.string "Begegnung der unbekannten Art.$"
 
 OlivineCity_Gym_Text_GymGuidePreText:
 	.string "JASMIN, die ARENALEITERIN,\n"
 	.string "ist im LEUCHTTURM.\p"
-	.string "Sie kümmert sich\n"
-	.string "um ein krankes Pokémon.\p"
+	.string "Sie kümmert sich um\n"
+	.string "ein krankes Pokémon.\p"
 	.string "Ein starker Trainer\n"
 	.string "muss auch Mitgefühl zeigen.$"
 
@@ -269,7 +268,7 @@ OlivineCity_Gym_Text_JasmineSteelTypeIntro:
 	.string "LEUCHTTURM…\p"
 	.string "Aber das hier ist anders.\n"
 	.string "Darf ich mich vorstellen?\p"
-	.string "Ich bin Jasmin, Arenaleiterin.\n"
+	.string "Ich bin Jasmin, Arenaleiterin.\p"
 	.string "Ich nutze den Stahl-Typ.\p"
 	.string "…Kennst du den Stahl-Typ?\p"
 	.string "Er wurde erst kürzlich entdeckt.\p"
@@ -364,8 +363,8 @@ OlivineCity_Gym_Text_JasmineWantToTrade:
 	.string "Ich habe dieses Stahlos aufgezogen\n"
 	.string "seit es ein kleines Onix war.\p"
 	.string "Aber ich glaube RUSTY wäre\n"
-	.string "glücklicher bei einem Trainer.\p"
-	.string "Wie dir. Möchtest du ein\n"
+	.string "glücklicher bei einem Trainer\l"
+	.string "Wie dir. Möchtest du ein\p"
 	.string "POKéMON für mein RUSTY tauschen?$"
 
 OlivineCity_Gym_Text_JasmineTakeCare:

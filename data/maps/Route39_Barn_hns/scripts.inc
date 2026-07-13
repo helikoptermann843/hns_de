@@ -172,5 +172,4 @@ Route39_Text_BarnNoBerries:
 
 Route39_Text_BarnRefusedBerry:
 	.string "{PLAYER} möchte keine BEERE verwenden.\n"
-	.string "\p"
 	.string "MILTANK sieht traurig aus.$"

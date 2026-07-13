@@ -152,8 +152,8 @@ Route39_Text_BaobaIntro::
 	.string "mit der Zeit, und ich wollte\l"
 	.string "erstmal verreisen um die\p"
 	.string "neuesten Technologien in dem\n"
-	.string "Bereich zu lernen.\l"
-	.string "Wieso tauschen wir nicht unsere\p"
+	.string "Bereich zu lernen.\p"
+	.string "Wieso tauschen wir nicht unsere\n"
 	.string "Nummern im POKéCOM aus?\p"
 	.string "Ich arbeite jetzt in der SAFARI in\n"
 	.string "Anemonia, ich kann dich anrufen\l"
@@ -238,8 +238,8 @@ Route39_EventScript_Eugene::
 	end
 
 Route39_Text_SailorEugeneSeen:
-	.string "Ich bin gerade\n"
-	.string "wieder in OLIVIANA angekommen.\p"
+	.string "Ich bin gerade wieder in\n"
+	.string "OLIVIANA angekommen.\p"
 	.string "Wie steht es nun\n"
 	.string "mit dem PokémonKampf?$"
 
@@ -275,12 +275,12 @@ Route39_EventScript_DerekNoRoom::
 	end
 
 Route39_Text_PokefanMDerekSeen:
-	.string "Genau der richtige\n"
-	.string "Moment, um mit PIKACHU anzugeben!$"
+	.string "Genau der richtige Moment,\n"
+	.string "um mit PIKACHU anzugeben!$"
 
 Route39_Text_PokefanMDerekBeaten:
-	.string "Ich hatte keine\n"
-	.string "Zeit, mit PIKACHU zu prahlen…$"
+	.string "Ich hatte keine Zeit,\n"
+	.string "mit PIKACHU zu prahlen…$"
 
 Route39_Text_PokefanMDerekAfter:
 
@@ -291,16 +291,15 @@ Route39_EventScript_Ruth::
 
 Route39_Text_PokefanFRuthSeen:
 	.string "Was für süße Pokémon!\p"
-	.string "Zeigen wir uns\n"
-	.string "gegenseitig unsere Pokémon, und zwar\l"
+	.string "Zeigen wir uns gegenseitig\n"
+	.string "unsere Pokémon, und zwar\l"
 	.string "gleichzeitig!$"
 
 Route39_Text_PokefanFRuthBeaten:
 	.string "Mir macht es nichts aus, zu verlieren.$"
 
 Route39_Text_PokefanFRuthAfter:
-	.string "Kennst du Baby-\n"
-	.string "Pokémon?\p"
+	.string "Kennst du Baby-Pokémon?\n"
 	.string "Sie sind unfassbar süß!$"
 
 Route39_EventScript_Norman::
@@ -316,6 +315,7 @@ Route39_Text_PsychicNormanBeaten:
 	.string "He, deine Pokémon sind sehr fähig!$"
 
 Route39_Text_PsychicNormanAfter:
+	.string "He, deine Pokémon sind sehr fähig!$"
 
 Route39_EventScript_Jamie::
 	trainerbattle_single TRAINER_JAMIE_HNS, Route39_Text_PokefanFJaimeSeen, Route39_Text_PokefanFJaimeBeaten
@@ -330,6 +330,7 @@ Route39_Text_PokefanFJaimeBeaten:
 	.string "Oh, wie ernüchternd…$"
 
 Route39_Text_PokefanFJaimeAfter:
+	.string "Oh, menno…$"
 
 Route39_EventScript_Sign1::
 	lock
@@ -361,14 +362,13 @@ Route39_EventScript_Sign3::
 	end
 
 Route39_Text_TrainerTips:
-	.string "TIPPS für TRAINER Benutze KOPFNUSS,\p"
-	.string "um Pokémon\n"
-	.string "aus den Bäumen zu schütteln.\p"
-	.string "Auf den Bäumen\n"
-	.string "leben verschiedene Arten von Pokémon.\n"
-	.string "\p"
-	.string "Benutze KOPFNUSS\n"
-	.string "an jedem Baum, den du siehst!$"
+	.string "TIPPS für TRAINER Benutze KOPFNUSS,\n"
+	.string "um Pokémon aus den Bäumen\l"
+	.string "zu schütteln.\p"
+	.string "Auf den Bäumen leben verschiedene\n"
+	.string "Arten von Pokémon.\p"
+	.string "Benutze KOPFNUSS an jedem\n"
+	.string "Baum, den du siehst!$"
 
 Route39_Text_DerekRegister:
     .string "Ich höre mir deine Angeberei\n"

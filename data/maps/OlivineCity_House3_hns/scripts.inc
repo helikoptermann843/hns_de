@@ -40,7 +40,7 @@ OlivineCity_Text_GiveGoodRod:
 	.string "ist in Arbeit!$"
 
 OlivineCity_Text_GaveGoodRod:
-	.string "Fische gibt's nicht nur im Meer,\p"
+	.string "Fische gibt's nicht nur im Meer,\n"
 	.string "sondern überall, wo Wasser ist.\p"
 	.string "Übrigens zeigt dein POKéDEX\n"
 	.string "die Fischgruppen der Pokémon.\p"

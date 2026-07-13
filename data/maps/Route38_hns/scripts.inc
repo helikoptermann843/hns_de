@@ -99,25 +99,25 @@ Route38_EventScript_Item_LaxIncense::
 	end
 
 Route38_Text_BirdKeeperTobySeen:
-	.string "Fliege hoch in die\n"
-	.string "Luft, mein herrliches Vogel-Pokémon!$"
+	.string "Fliege hoch in die Luft,\n"
+	.string "mein herrliches Vogel-Pokémon!$"
 
 Route38_Text_BirdKeeperTobyBeaten:
 	.string "Ich fühle mich,\n"
-	.string "als würde ich mich selbst in die Lüfte\l"
-	.string "erheben.$"
+	.string "als würde ich mich selbst in die\l"
+	.string "Lüfte erheben.$"
 
 Route38_Text_BirdKeeperTobyAfter:
 	.string "Ich will in Anemonia City trainieren,\n"
 	.string "damit meine Pokémon Fliegen lernen.$"
 
 Route38_Text_SchoolboyChad1Seen:
-	.string "Jetzt probiere ich\n"
-	.string "etwas aus, das ich heute gelernt habe.$"
+	.string "Jetzt probiere ich etwas aus,\n"
+	.string "das ich heute gelernt habe.$"
 
 Route38_Text_SchoolboyChad1Beaten:
-	.string "Ich fürchte, ich\n"
-	.string "habe noch nicht genug gelernt.$"
+	.string "Ich fürchte, ich habe\n"
+	.string "noch nicht genug gelernt.$"
 
 Route38_Text_SchoolboyChadAfter:
 	.string "Ich muss so viele Tests\n"
@@ -165,19 +165,19 @@ Route38_Text_LassDanaAfter:
 	.string "ist für ihren Geschmack berühmt.$"
 
 Route38_Text_BeautyValerieSeen:
-	.string "Hallo! Du bist bestimmt so nett\p"
+	.string "Hallo! Du bist bestimmt so nett\n"
 	.string "und zeigst mir deine Pokémon?$"
 
 Route38_Text_BeautyValerieBeaten:
-	.string "Ich bin froh, dass\n"
-	.string "ich deine Pokémon sehen durfte!$"
+	.string "Ich bin froh, dass ich\n"
+	.string "deine Pokémon sehen durfte!$"
 
 Route38_Text_BeautyValerieAfter:
 	.string "Wenn ich Pokémon sehe,\n"
 	.string "beruhigt das meine Nerven.$"
 
 Route38_Text_SailorHarrySeen:
-	.string "Ich war im Ausland. Deswegen\p"
+	.string "Ich war im Ausland. Deswegen\n"
 	.string "kenne ich alle Pokémon-Arten!$"
 
 Route38_Text_SailorHarryBeaten:
@@ -190,16 +190,16 @@ Route38_Text_SailorHarryAfter:
 	.string "Pokémon zusammen.$"
 
 Route38_Text_BeautyOliviaSeen:
-	.string "Meine Pokémon und\n"
-	.string "ich sind wunderschön, nicht wahr?$"
+	.string "Meine Pokémon und Ich\n"
+	.string "sind wunderschön, nicht wahr?$"
 
 Route38_Text_BeautyOliviaBeaten:
 	.string "Wir trinken täglich KUHMUH-MILCH.$"
 
 Route38_Text_BeautyOliviaAfter:
 	.string "KUHMUH-MILCH ist gut für\n"
-	.string "Schönheit und Gesundheit,\p"
-	.string "doch leider wird sie nur\n"
+	.string "Schönheit und Gesundheit.\p"
+	.string "Doch leider wird sie nur\n"
 	.string "flaschenweise verkauft.$"
 
 Route38_Text_Sign:
@@ -207,19 +207,20 @@ Route38_Text_Sign:
 	.string "OLIVIANA CITY - TEAK CITY$"
 
 Route38_Text_TrainerTips:
-	.string "TIPPS für TRAINER Wenn sich ein\p"
-	.string "Pokémon weiterentwickelt, kannst\p"
+	.string "TIPPS für TRAINER Wenn sich ein\n"
+	.string "Pokémon weiterentwickelt, kannst\l"
 	.string "du diesen Prozess aufhalten.\p"
-	.string "Drücke während\n"
-	.string "der Entwicklung den B-Knopf.\p"
-	.string "So wird das Pokémon\n"
-	.string "erschreckt und es bricht die\l"
+	.string "Drücke während der Entwicklung\n"
+	.string "den B-Knopf.\p"
+	.string "So wird das Pokémon erschreckt\n"
+	.string "und es bricht die\l"
 	.string "Entwicklung ab.$"
 
 
 Route38_Text_WaterSign:
-	.string "ROUTE 38\p"
-	.string "OLIVIANA CITY - TEAK CITY$"
+	.string "SCHWIMMEN UND ANGELN VERBOTEN.\p"
+	.string "WASSER NUR FÜR LANDWIRTSCHAFT.\p"
+	.string "-TEAK CITY BÜRGERMEISTER-$"
 
 Route38_Text_DanaRegister:
     .string "Ich kenne etwas wirklich Gutes!\p"

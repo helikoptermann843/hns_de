@@ -24,16 +24,16 @@ OlivineCity_EventScript_Teacher::
 
 OlivineCity_Text_PokecenterFisher:
 	.string "Der MATROSE im\n"
-	.string "OLIVIANA CITY-CAFE nebenan ist sehr\n"
-	.string "großzügig.\p"
-	.string "Er hat meinem Pokémon STÄRKE\p"
-	.string "beigebracht. Jetzt\n"
+	.string "OLIVIANA CITY-CAFE nebenan\l"
+	.string "ist sehr großzügig.\p"
+	.string "Er hat meinem Pokémon STÄRKE\n"
+	.string "beigebracht. Jetzt\l"
 	.string "kann es Felsen bewegen.$"
 
 OlivineCity_Text_PokecenterTeacher:
-	.string "Da gibt es jeman-\n"
-	.string "den in ANEMONIA CITY jenseits des\n"
+	.string "Da gibt es jemanden in\n"
+	.string "ANEMONIA CITY jenseits des\l"
 	.string "Meeres.\p"
-	.string "Ich habe gehört,\n"
-	.string "wie er mit seinen seltenen Pokémon\l"
+	.string "Ich habe gehört, wie er mit\n"
+	.string "seinen seltenen Pokémon\l"
 	.string "angegeben hat.$"
