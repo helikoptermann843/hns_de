@@ -232,10 +232,9 @@ MahoganyMart1F_Text_Pharmacist_Lance:
 	.string "die Geheimtreppe gefunden…$"
 
 MahoganyMart1F_Text_BlackBelt:
-	.string "Heheh! Das\n"
-	.string "Experiment verlief wie am Schnürchen.\n"
-	.string "\p"
-	.string "KARPADOR ist wertlos, aber\p"
+	.string "Heheh! Das Experiment verlief\n"
+	.string "wie am Schnürchen.\p"
+	.string "KARPADOR ist wertlos, aber\n"
 	.string "GARADOS verkauft sich gut.$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
@@ -249,13 +248,13 @@ MahoganyMart1F_Text_Lance_HyperBeam:
 MahoganyMart1F_Text_Lance_Radio:
 	.string "Wo bleibst du, {PLAYER}?\p"
 	.string "Das habe ich mir gleich gedacht.\p"
-	.string "Die merkwürdigen\n"
-	.string "Radiowellen kommen von hier.$"
+	.string "Die merkwürdigen Radiowellen\n"
+	.string "kommen von hier.$"
 
 MahoganyMart1F_Text_Lance_Stairs:
 	.string "Die Treppe ist hier.$"
 
 MahoganyMart1F_Text_Lance_SplitUp:
-	.string "SIEGFRIED: {PLAYER},\p"
-	.string "wir sollten uns trennen, um diesen\p"
-	.string "Ort zu erforschen. Ich gehe zuerst.$"
+	.string "SIEGFRIED: {PLAYER},\n"
+	.string "wir sollten uns trennen, um diesen\l"
+	.string "Ort zu erforschen. Ich gehe vor.$"

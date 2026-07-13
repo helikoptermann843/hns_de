@@ -252,14 +252,14 @@ RocketHideout_B2F_Text_ArianaHoldIt:
 
 RocketHideout_B2F_Text_ArianaChallenge:
 	.string "Athena: Wir dürfen nicht zulassen,\n"
-	.string "dass ein Bengel wie du immer tut,\n"
+	.string "dass ein Bengel wie du immer tut,\l"
 	.string "was er will.\p"
 	.string "Das beleidigt das Ansehen von\n"
 	.string "Team Rocket immer wieder.\p"
 	.string "…Also ist es Zeit, dich zu besiegen.\n"
 	.string "So stark du auch sein magst,\p"
 	.string "wenn wir beide gleichzeitig kämpfen,\n"
-	.string "hast du keine Chance.\l"
+	.string "hast du keine Chance.\p"
 	.string "Stimmst du nicht zu?\p"
 	.string "Hehehe! Entschuldige, Kleiner.\n"
 	.string "Mach dich bereit!$"
@@ -267,9 +267,8 @@ RocketHideout_B2F_Text_ArianaChallenge:
 RocketHideout_B2F_Text_LanceInterrupt:
 	.string "Siegfried: Halt!\n"
 	.string "Ein Zwei-gegen-eins-Kampf?\p"
-	.string "So etwas ist unfair!\n"
-	.string "Typisch Team Rocket, so hinterhältig.\n"
-	.string "\p"
+	.string "So etwas ist unfair!\p"
+	.string "Typisch Team Rocket, so hinterhältig.\p"
 	.string "Lass mich am Kampf teilnehmen!$"
 
 RocketHideout_B2F_Text_ArianaOutraged:
@@ -590,17 +589,17 @@ RocketHideout_B2F_Text_GruntLoss:
 
 RocketHideout_B2F_Text_ArianaLoss:
 	.string "Tss, du bist wirklich stark.\n"
-	.string "Schade.\p"
+	.string "Sehr Schade.\p"
 	.string "Wenn du Team Rocket beitreten würdest,\n"
 	.string "könntest du ein Vostand werden.$"
 
 RocketHideout_Text_ArianaRetreat:
 	.string "Athena: Aber das ist egal.\n"
-	.string "Das Experiment mit der Sendung war\n"
+	.string "Das Experiment mit der Sendung war\l"
 	.string "ein voller Erfolg.\p"
 	.string "Es ist egal, was jetzt mit diesem\n"
 	.string "Versteck passiert.\p"
-	.string "Wir haben größere Pläne.\n"
+	.string "Wir haben größere Pläne.\p"
 	.string "Du wirst bald die wahre Kraft von\n"
 	.string "Team Rocket erkennen.\p"
 	.string "Genieße die Zeit, solange du kannst...\n"
@@ -608,7 +607,7 @@ RocketHideout_Text_ArianaRetreat:
 
 RocketHideout_Text_LanceStepBack:
 	.string "Entschuldige, {PLAYER}.\n"
-	.string "Ich sah, wie gut du warst,\n"
+	.string "Ich sah, wie gut du warst,\l"
 	.string "also habe ich mich zurückgehalten.\p"
 	.string "Jetzt müssen wir nur noch das\n"
 	.string "seltsame Radiosignal ausschalten.$"
@@ -642,11 +641,11 @@ RocketHideout_B2F_Text_LanceElectrodeDone:
 
 RocketHideout_B2F_Text_LanceWhirlpool:
 	.string "Das ist Whirpool.\n"
-	.string "Lehre es einem Pokémon, um\n"
+	.string "Lehre es einem Pokémon, um\l"
 	.string "über wildes Wasser zu kommen.\p"
-	.string "Aber merke dir: Außerhalb des Kampfes\l"
-	.string "kannst du es\n"
-	.string "nur mit dem Orden der MAHAGONIA\p"
+	.string "Aber merke dir: Außerhalb des Kampfes\p"
+	.string "kannst du es nur mit dem\n"
+	.string "dem Orden der MAHAGONIA\l"
 	.string "Arena nutzen.$"
 
 RocketHideout_B2F_Text_LanceMonMaster:
@@ -654,12 +653,10 @@ RocketHideout_B2F_Text_LanceMonMaster:
 	.string "Der Weg zum Pokémon-MEISTER\n"
 	.string "ist lang und schwer.\p"
 	.string "Weißt du das.., wirst du weitergehen?\n"
-	.string "\p"
 	.string "…\p"
 	.string "Ich verstehe. Nein, du hast recht.\p"
 	.string "Wenn du so leicht aufgegeben hättest,\n"
-	.string "hättest du deinen Traum nie verfolgt.\n"
-	.string "\p"
+	.string "hättest du deinen Traum nie verfolgt.\p"
 	.string "Ich freue mich darauf, dich wieder\n"
 	.string "zusehen!$"
 
@@ -756,7 +753,7 @@ RocketHideout_B2F_Movement_DragoniteGoDeeper:
 
 RocketHideout_B2F_Text_LanceHeals1:
 	.string "Siegfried: Geht es euch gut?\p"
-	.string "Eure Pokémon sind verletzt\n"
+	.string "Deine Pokémon sind verletzt\n"
 	.string "und erschöpft.\p"
 	.string "Hier, gebt ihnen etwas von\n"
 	.string "meiner Medizin.$"
@@ -784,7 +781,7 @@ RocketHideout_B2F_EventScript_Grunt14::
 	end
 
 RocketHideout_B2F_Text_GruntM18Seen:
-	.string "Oh, ein Kind? Das mag ich nicht,\p"
+	.string "Oh, ein Kind? Das mag ich nicht,\n"
 	.string "aber ich muss dich besiegen.$"
 
 RocketHideout_B2F_Text_GruntM18Beaten:
@@ -793,10 +790,10 @@ RocketHideout_B2F_Text_GruntM18Beaten:
 RocketHideout_B2F_Text_GruntM18After:
 	.string "Bei der letzten Mission hat mich\n"
 	.string "auch ein Kind plattgemacht.\p"
-	.string "Als wir Pokémon entführten, kam dieses\l"
-	.string "Kind mit langen roten\n"
-	.string "Haaren und bösen Augen und hat\p"
-	.string "mich einfach niedergemacht…$"
+	.string "Als wir Pokémon entführten, kam dieses\n"
+	.string "Kind mit langen roten Haaren\l"
+	.string "und bösen Augen.\p"
+	.string "Er hat mich einfach niedergemacht…$"
 
 RocketHideout_B2F_EventScript_Grunt15::
 	trainerbattle_single TRAINER_GRUNT_15_HNS, RocketHideout_B2F_Text_GruntM18Seen, RocketHideout_B2F_Text_GruntM18Beaten

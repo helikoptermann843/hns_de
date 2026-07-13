@@ -243,11 +243,11 @@ LakeOfRage_Text_Dragonite:
 	.string "Dragoran: RWAAAH!$"
 
 LakeOfRage_Text_LanceForcedToEvolve:
-	.string "Dieser See ist\n"
-	.string "voller GARADOS. Aber sonst gibt es\n"
+	.string "Dieser See ist voller\n"
+	.string "GARADOS. Aber sonst gibt es\l"
 	.string "hier nichts…\p"
-	.string "Die KARPADOR wer-\n"
-	.string "den also gezwungen, sich zu\l"
+	.string "Die KARPADOR werden also\n"
+	.string "gezwungen, sich zu\l"
 	.string "entwickeln…$"
 
 LakeOfRage_Text_LanceIntro1:
@@ -256,25 +256,25 @@ LakeOfRage_Text_LanceIntro1:
 	.string "ein Trainer wie du.$"
 
 LakeOfRage_Text_LanceIntro2:
-	.string "Ich hörte einige Gerüchte. Also kam\p"
-	.string "ich hierher, um\n"
+	.string "Ich hörte einige Gerüchte.\p"
+	.string "Also kam ich hierher, um\n"
 	.string "einige Nachforschungen anzustellen…$"
 
 LakeOfRage_Text_LanceIntro3:
 	.string "Ich habe gesehen,\n"
 	.string "wie du kämpfst, {PLAYER}.\p"
 	.string "Man kann sagen,\n"
-	.string "dass du ein Trainer von\n"
+	.string "dass du ein Trainer von\l"
 	.string "bemerkenswertem Format bist.\p"
-	.string "Würdest du mir bei\n"
-	.string "meinen Nachforschungen helfen?$"
+	.string "Würdest du mir bei meinen\n"
+	.string "Nachforschungen helfen?$"
 
 LakeOfRage_Text_LanceRadioSignal:
 	.string "SIEGFRIED: Exzellent!\p"
 	.string "Es sieht so aus, als würde jemand\p"
-	.string "die KARPADOR im\n"
-	.string "SEE zwingen, sich zu entwickeln.\p"
-	.string "Die Ursache ist das mysteriöse\p"
+	.string "die KARPADOR im SEE zwingen,\n"
+	.string "sich zu entwickeln.\p"
+	.string "Die Ursache ist das mysteriöse\n"
 	.string "Radiosignal aus MAHAGONIA CITY.\p"
 	.string "Ich werde auf dich warten,\n"
 	.string "{PLAYER}.$"
@@ -300,14 +300,13 @@ LakeOfRage_Text_GrampsCleared:
 
 LakeOfRage_Text_SuperNerd:
 	.string "Ich habe gehört,\n"
-	.string "dieser See entstand durch wütende\n"
-	.string "GARADOS.\p"
+	.string "dieser See entstand durch\l"
+	.string "wütende GARADOS.\p"
 	.string "Ich frage mich, ob da eine Verbindung\n"
-	.string "\p"
 	.string "zu der momentanen Situation besteht!$"
 
 LakeOfRage_Text_CooltrainerF:
-	.string "Täuschen mich meine Augen? Ich sah\p"
+	.string "Täuschen mich meine Augen? Ich sah\n"
 	.string "ein rotes GARADOS im SEE…\p"
 	.string "Aber ich dachte, GARADOS sind blau!$"
 
@@ -338,7 +337,6 @@ LakeOfRage_Text_FisherRaymondAfter:
 
 LakeOfRage_Text_CooltrainermAaronSeen:
 	.string "Trifft ein Trainer auf einen anderen,\n"
-	.string "\p"
 	.string "so muss er ihn herausfordern.\p"
 	.string "Das ist unsere Bestimmung.$"
 
@@ -350,16 +348,16 @@ LakeOfRage_Text_CooltrainermAaronAfter:
 	.string "stark durch ständiges Kämpfen.$"
 
 LakeOfRage_Text_CooltrainerfLoisSeen:
-	.string "Täuschen mich meine Augen? Ich sah\p"
-	.string "ein rotes GARADOS im SEE…\p"
-	.string "Aber ich dachte, GARADOS sind blau!$"
+	.string "Ein Rotes Garados?\p"
+	.string "Wie geht denn sowas…\p"
+	.string "Die sind doch Blau!$"
 
 LakeOfRage_Text_CooltrainerfLoisBeaten:
 	.string "Gut gemacht!$"
 
 LakeOfRage_Text_CooltrainerfLoisAfter:
 	.string "Wenn ich so darüber nachdenke,\n"
-	.string "hab ich ein pinkes BUTTERFREE gesehen.$"
+	.string "hab ich ein pinkes Smettbo gesehen.$"
 
 
 
@@ -417,13 +415,13 @@ LakeOfRage_Text_WesleyGivesGift:
 	.string "Souvenir.$"
 
 LakeOfRage_Text_WesleyGaveGift:
-	.string "Mitko: BLACKBELT erhöht die\n"
+	.string "Mitko: Schwarzgurt erhöht die\n"
 	.string "Kraft von Kampf-Attacken.$"
 
 LakeOfRage_Text_WesleyWednesday:
 	.string "Mitko: Da du mich gefunden hast,\n"
-	.string "musstest du meine Brüder und\n"
-	.string "Schwestern treffen.\p"
+	.string "hast du meine Brüder und\l"
+	.string "Schwestern getroffen.\p"
 	.string "Oder hattest du einfach Glück?$"
 
 LakeOfRage_Text_WesleyNotWednesday:
@@ -438,7 +436,7 @@ LakeOfRage_EventScript_Sign2::
 	end
 
 LakeOfRage_Text_Sign:
-	.string "SEE DES ZORNS,\n"
+	.string "SEE DES ZORNS\n"
 	.string "auch bekannt als GARADOS-SEE$"
 
 LakeOfRage_Text_FishingGuruSign:

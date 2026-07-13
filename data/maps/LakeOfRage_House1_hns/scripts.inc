@@ -21,10 +21,9 @@ LakeOfRage_House1_EventScript_HiddenPowerGuyAfter::
 
 HiddenPowerGuy_Text_Intro:
 	.string "…Du bist viel herumgekommen…\p"
-	.string "Ich habe hier meditiert. In mir\p"
-	.string "ist eine neue Kraft zum Leben erwacht.\n"
-	.string "\p"
-	.string "Lass mich meine Kraft mit deinen\p"
+	.string "Ich habe hier meditiert. In mir\n"
+	.string "ist eine neue Kraft zum Leben erwacht.\p"
+	.string "Lass mich meine Kraft mit deinen\n"
 	.string "Pokémon teilen. Nimm dies, Kind.$"
 
 HiddenPowerGuy_Text_Explanation:

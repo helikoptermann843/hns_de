@@ -105,14 +105,14 @@ LakeOfRage_House2_EventScript_FisherSatisfied::
 
 LakeOfRage_House2_Text_LakeHistory:
 	.string "DER SEE DER WUT ist eigentlich\n"
-	.string "ein Krater, den ein wütendes\n"
+	.string "ein Krater, den ein wütendes\l"
 	.string "GARADOS verursacht hat.\p"
 	.string "Der Krater füllte sich mit Regen-\n"
 	.string "wasser, so entstand der SEE.\p"
 	.string "So erzählt es der Ur-Ur-Großvater\n"
 	.string "meines Großvaters.\p"
 	.string "Früher konnte man dort lebhafte\n"
-	.string "KARPADOR fangen, aber…\p"
+	.string "KARPADOR fangen, aber…\n"
 	.string "Ich verstehe nicht, was passiert.$"
 
 LakeOfRage_House2_Text_MenInBlack:
@@ -127,7 +127,7 @@ LakeOfRage_House2_Text_WorldsLargest:
 	.string "DER SEE DER WUT ist wieder normal.\p"
 	.string "Die KARPADOR sind zurück.\p"
 	.string "Vielleicht erfülle ich mir meinen\n"
-	.string "Traum, das größte KARPADOR der\n"
+	.string "Traum, das größte KARPADOR der\l"
 	.string "Welt zu besitzen.\p"
 	.string "Tatsächlich… Ich zahle dir ¥2000\n"
 	.string "für jedes KARPADOR und ¥100.000\l"

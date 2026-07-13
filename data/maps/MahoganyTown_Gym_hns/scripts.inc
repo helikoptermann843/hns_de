@@ -144,7 +144,7 @@ MahoganyTown_Gym_Text_GlacierBadgeSpeech:
 	.string "Der Orden erhöht die SPEZIAL-\n"
 	.string "ATTACKE deiner Pokémon.\p"
 	.string "Er erlaubt deinen Pokémon,\n"
-	.string "Whirlpool zu benutzen, um\n"
+	.string "Whirlpool zu benutzen, um\l"
 	.string "echte Strudel zu überqueren.\p"
 	.string "Und dies… ist mein Geschenk!$"
 
@@ -179,7 +179,7 @@ MahoganyTown_Gym_Text_PryceRematchDefeat:
 
 MahoganyTown_Gym_Text_Guide:
 	.string "NORBERT ist ein Veteran, der\n"
-	.string "seine Pokémon seit fast 50 Jahren\n"
+	.string "seine Pokémon seit fast 50 Jahren\l"
 	.string "trainiert.\p"
 	.string "Angeblich friert er Gegner gerne\n"
 	.string "mit Eis-Attacken ein.\p"

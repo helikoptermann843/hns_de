@@ -82,10 +82,10 @@ RocketHideout_B3F_Movement_DragoniteLeave:
 
 RocketHideout_B3F_Text_LanceGetPassword:
 	.string "Siegfried: Man braucht zwei\n"
-	.string "Passwörter, um zum Boss zu\n"
+	.string "Passwörter, um zum Boss zu\l"
 	.string "gelangen.\p"
 	.string "Diese Passwörter kennen nur\n"
-	.string "einige ROCKET's.\p"
+	.string "wenige ROCKET's.\p"
 	.string "Dieser ROCKET hat es mir\n"
 	.string "freundlicherweise verraten.\p"
 	.string "{PLAYER}, lass uns die\n"
@@ -294,7 +294,7 @@ RocketHideout_B3F_Text_Rival:
 	.string "Es ist nicht meine Schuld, dass\n"
 	.string "mein Team so schwach ist.\p"
 	.string "Ich bin wütend, dass ich gegen\n"
-	.string "so einen Gefühlsduseligen Typen.\n"
+	.string "so einen Gefühlsduseligen Typen.\l"
 	.string "verloren habe.\p"
 	.string "Doch es lässt mich verzweifeln.\p"
 	.string "Mache ich etwas falsch?\p"
@@ -573,9 +573,9 @@ RocketHideout_B3F_Text_PetrelIntro:
 RocketHideout_B3F_Text_PetrelDisbelief:
 	.string "...Hä?\n"
 	.string "Ich klinge gar nicht wie Giovanni?\p"
-	.string "Ich sehe nicht mal wie Giovanni aus?\l"
+	.string "Ich sehe nicht mal wie Giovanni aus?\p"
 	.string "Wie kann das sein? Ich habe so\n"
-	.string "hart daran gearbeitet, ihn zu\p"
+	.string "hart daran gearbeitet, ihn zu\l"
 	.string "imitieren!$"
 
 RocketHideout_B3F_Text_PetrelReveal:
@@ -584,7 +584,7 @@ RocketHideout_B3F_Text_PetrelReveal:
 	.string "Du willst wohl heimlich in den\n"
 	.string "Radiotransmitter-Raum schleichen.\p"
 	.string "Das wird dir nicht gelingen.\n"
-	.string "Der Raum ist durch ein spezielles\n"
+	.string "Der Raum ist durch ein spezielles\l"
 	.string "Passwort geschützt.\p"
 	.string "Das Passwort lautet:\n"
 	.string "“Hagelsturm GIOVANNI.”\p"
@@ -599,13 +599,13 @@ RocketHideout_B3F_Text_PetrelBeaten:
 
 RocketHideout_B3F_Text_PetrelAfterBattle:
 	.string "Lambda: Seit Team Rocket vor drei\n"
-	.string "Jahren aufgelöst wurde, fehlt\n"
+	.string "Jahren aufgelöst wurde, fehlt\l"
 	.string "unser Giovanni.\p"
 	.string "Doch wir sind sicher, dass er auf\n"
-	.string "den richtigen Zeitpunkt für unsere\n"
+	.string "den richtigen Zeitpunkt für unsere\l"
 	.string "Rückkehr wartet… Wahahaha!\p"
 	.string "Deine Niederlage ändert nichts daran,\n"
-	.string "dass du den Radiotransmitter-Raum\n"
+	.string "dass du den Radiotransmitter-Raum\l"
 	.string "nicht betreten kannst!\p"
 	.string "Du brauchst meine Stimme, um ihn\n"
 	.string "zu öffnen!$"
