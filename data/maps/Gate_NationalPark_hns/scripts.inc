@@ -25,9 +25,9 @@ Gate_NationalPark_EventScript_AttendantStart::
 	message Route35NationalParkGate_Text_MonLeftWithHelper
 	waitfanfare
 	closemessage
-	msgbox Route35NationalParkGate_Text_OfficerGiveParkBalls, MSGBOX_DEFAULT
+	msgbox Route35NationalParkGate_Text_OfficerGiveSportBalls, MSGBOX_DEFAULT
 	closemessage
-	giveitem ITEM_SAFARI_BALL, 30
+	giveitem ITEM_SPORT_BALL, 30
 	closemessage
 	msgbox Route35NationalParkGate_Text_OfficerExplainRules, MSGBOX_DEFAULT
 	closemessage
@@ -36,6 +36,7 @@ Gate_NationalPark_EventScript_AttendantStart::
 	playse SE_EXIT
 	clearflag FLAG_HIDE_BUG_CONTEST_ATTENDANT_SIDE
 	special EnterBugContestMode
+	setflag FLAG_DISABLE_EXP_GAIN
 	setvar VAR_BUG_CONTEST_STATE, 1
 	warp MAP_NATIONAL_PARK_BUG_CONTEST_HNS, 1
 	waitstate
@@ -43,9 +44,9 @@ Gate_NationalPark_EventScript_AttendantStart::
 
 Gate_NationalPark_EventScript_OnlyOneMon::
 	special SavePlayerParty
-	msgbox Route35NationalParkGate_Text_OfficerGiveParkBalls, MSGBOX_DEFAULT
+	msgbox Route35NationalParkGate_Text_OfficerGiveSportBalls, MSGBOX_DEFAULT
 	closemessage
-	giveitem ITEM_SAFARI_BALL, 30
+	giveitem ITEM_SPORT_BALL, 30
 	closemessage
 	msgbox Route35NationalParkGate_Text_OfficerExplainRules, MSGBOX_DEFAULT
 	closemessage
@@ -54,6 +55,7 @@ Gate_NationalPark_EventScript_OnlyOneMon::
 	playse SE_EXIT
 	clearflag FLAG_HIDE_BUG_CONTEST_ATTENDANT_SIDE
 	special EnterBugContestMode
+	setflag FLAG_DISABLE_EXP_GAIN
 	setvar VAR_BUG_CONTEST_STATE, 1
 	warp MAP_NATIONAL_PARK_BUG_CONTEST_HNS, 1
 	waitstate
@@ -85,12 +87,6 @@ Gate_NationalPark_EventScript_AttendantCancel::
 Gate_NationalPark_EventScript_AttendantAlreadyPlayed::
 	msgbox Route35NationalParkGate_Text_ContestIsOver, MSGBOX_DEFAULT
 	closemessage
-	release
-	end
-
-Gate_NationalPark_EventScript_AttendantExit::
-	special LoadPlayerParty
-	setvar VAR_BUG_CONTEST_STATE, 0
 	release
 	end
 
@@ -136,9 +132,9 @@ Gate_NationalPark_EventScript_BAttendantStart::
 	message Route35NationalParkGate_Text_MonLeftWithHelper
 	waitfanfare
 	closemessage
-	msgbox Route35NationalParkGate_Text_OfficerGiveParkBalls, MSGBOX_DEFAULT
+	msgbox Route35NationalParkGate_Text_OfficerGiveSportBalls, MSGBOX_DEFAULT
 	closemessage
-	giveitem ITEM_SAFARI_BALL, 30
+	giveitem ITEM_SPORT_BALL, 30
 	closemessage
 	msgbox Route35NationalParkGate_Text_OfficerExplainRules, MSGBOX_DEFAULT
 	closemessage
@@ -146,6 +142,7 @@ Gate_NationalPark_EventScript_BAttendantStart::
 	call_if_eq VAR_FACING, DIR_NORTH, Gate_NationalPark_EventScript_AttendantBEnterBot
 	playse SE_EXIT
 	special EnterBugContestMode
+	setflag FLAG_DISABLE_EXP_GAIN
 	setflag FLAG_HIDE_BUG_CONTEST_ATTENDANT_SIDE
 	setvar VAR_BUG_CONTEST_STATE, 5
 	warp MAP_NATIONAL_PARK_BUG_CONTEST_HNS, 40, 19
@@ -154,9 +151,9 @@ Gate_NationalPark_EventScript_BAttendantStart::
 
 Gate_NationalPark_EventScript_OnlyOneMonB::
 	special SavePlayerParty
-	msgbox Route35NationalParkGate_Text_OfficerGiveParkBalls, MSGBOX_DEFAULT
+	msgbox Route35NationalParkGate_Text_OfficerGiveSportBalls, MSGBOX_DEFAULT
 	closemessage
-	giveitem ITEM_SAFARI_BALL, 30
+	giveitem ITEM_SPORT_BALL, 30
 	closemessage
 	msgbox Route35NationalParkGate_Text_OfficerExplainRules, MSGBOX_DEFAULT
 	closemessage
@@ -164,6 +161,7 @@ Gate_NationalPark_EventScript_OnlyOneMonB::
 	call_if_eq VAR_FACING, DIR_NORTH, Gate_NationalPark_EventScript_AttendantBEnterBot
 	playse SE_EXIT
 	special EnterBugContestMode
+	setflag FLAG_DISABLE_EXP_GAIN
 	setflag FLAG_HIDE_BUG_CONTEST_ATTENDANT_SIDE
 	setvar VAR_BUG_CONTEST_STATE, 5
 	warp MAP_NATIONAL_PARK_BUG_CONTEST_HNS, 40, 19
@@ -215,11 +213,11 @@ Route35NationalParkGate_Text_OfficerAskToParticipate:
 	.string "von der Jury bewertet.\p"
 	.string "Möchtest du es versuchen?$"
 
-Route35NationalParkGate_Text_OfficerGiveParkBalls:
+Route35NationalParkGate_Text_OfficerGiveSportBalls:
 	.string "Hier sind die PARKBÄLLE\n"
 	.string "für das Turnier.$"
 
-Route35NationalParkGate_Text_ReceivedParkBalls:
+Route35NationalParkGate_Text_ReceivedSportBalls:
 	.string "{PLAYER} erhält PARKBÄLLE.$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
