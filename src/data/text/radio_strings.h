@@ -40,11 +40,11 @@ static const u8 sRadioText_PokedexShow_TodaysPrefix[] = _("EICH: Heutiges POKéM
 // Oak's POKéMON Talk
 // ==========================================================
 
-static const u8 sRadioText_OPT_Intro[] = _("MARY: PROF.EICHs POKéMON-TALK!");
-static const u8 sRadioText_OPT_WithMeMary[] = _("Mit mir, MARY!");
+static const u8 sRadioText_OPT_Intro[] = _("MARGIT: PROF.EICHs POKéMON-TALK!");
+static const u8 sRadioText_OPT_WithMeMary[] = _("Mit mir, MARGIT!");
 static const u8 sRadioText_OPT_OakPrefix[] = _("EICH: ");
 static const u8 sRadioText_OPT_SeenAround[] = _("wurde gesichtet bei");
-static const u8 sRadioText_OPT_MaryPrefix[] = _("MARY: ");
+static const u8 sRadioText_OPT_MaryPrefix[] = _("MARGIT: ");
 static const u8 sRadioText_OPT_MaryIs[] = _(" ist ");
 
 // Pokemon Channel interlude
@@ -262,112 +262,112 @@ static const u8 sRadioBuenaPassword_LuckyChannel[]    = _("Glückskanal");
 // Oak's POKéMON Talk - Special Reports
 // ==========================================================
 
-static const u8 sOPT_Report_Clefairy_0[]  = _("MARY: Heute Nacht, ein seltener");
+static const u8 sOPT_Report_Clefairy_0[]  = _("MARGIT: Heute Nacht, ein seltener");
 static const u8 sOPT_Report_Clefairy_1[]  = _("Mondschein-Moment im TALK!");
 static const u8 sOPT_Report_Clefairy_2[]  = _("EICH: Wir rücken ins Licht:");
 static const u8 sOPT_Report_Clefairy_3[]  = _("das mystische PIXI!");
 static const u8 sOPT_Report_Clefairy_4[]  = _("Sie versammeln sich am");
 static const u8 sOPT_Report_Clefairy_5[]  = _("Mondberg bei Vollmond.");
-static const u8 sOPT_Report_Clefairy_6[]  = _("MARY: Sie TANZEN im Kreis!");
+static const u8 sOPT_Report_Clefairy_6[]  = _("MARGIT: Sie TANZEN im Kreis!");
 static const u8 sOPT_Report_Clefairy_7[]  = _("So niedlich seltsam!");
 static const u8 sOPT_Report_Clefairy_8[]  = _("EICH: Ein zeitloses Rätsel");
 static const u8 sOPT_Report_Clefairy_9[]  = _("und ein toller Anblick!");
 
-static const u8 sOPT_Report_Lapras_0[]  = _("MARY: Ein sanfter Riese");
+static const u8 sOPT_Report_Lapras_0[]  = _("MARGIT: Ein sanfter Riese");
 static const u8 sOPT_Report_Lapras_1[]  = _("steht heute im Rampenlicht!");
 static const u8 sOPT_Report_Lapras_2[]  = _("EICH: Es ist die Ozeanfähre,");
 static const u8 sOPT_Report_Lapras_3[]  = _("unser geliebtes LAPRAS!");
 static const u8 sOPT_Report_Lapras_4[]  = _("Gesehen in der BERGESHÖHLE,");
 static const u8 sOPT_Report_Lapras_5[]  = _("nur abends. Wie kurios!");
-static const u8 sOPT_Report_Lapras_6[]  = _("MARY: So selten und friedlich!");
+static const u8 sOPT_Report_Lapras_6[]  = _("MARGIT: So selten und friedlich!");
 static const u8 sOPT_Report_Lapras_7[]  = _("Und es singt auch noch!");
 static const u8 sOPT_Report_Lapras_8[]  = _("EICH: Manche sagen, sein Lied");
 static const u8 sOPT_Report_Lapras_9[]  = _("beruhigt die Seele des Meeres.");
 
-static const u8 sOPT_Report_Ampharos_0[]  = _("MARY: Willkommen zurück, Leute!");
+static const u8 sOPT_Report_Ampharos_0[]  = _("MARGIT: Willkommen zurück, Leute!");
 static const u8 sOPT_Report_Ampharos_1[]  = _("Zeit für POKéMON TALK!");
 static const u8 sOPT_Report_Ampharos_2[]  = _("EICH: Bringen wir Licht ins");
 static const u8 sOPT_Report_Ampharos_3[]  = _("Dunkel: AMPHAROS!");
 static const u8 sOPT_Report_Ampharos_4[]  = _("Sein heller Schwanz leuchtet");
 static const u8 sOPT_Report_Ampharos_5[]  = _("durch Nebel für Verirrte.");
-static const u8 sOPT_Report_Ampharos_6[]  = _("MARY: Kraftvoll, elegant,");
+static const u8 sOPT_Report_Ampharos_6[]  = _("MARGIT: Kraftvoll, elegant,");
 static const u8 sOPT_Report_Ampharos_7[]  = _("und unbestreitbar freundlich!");
 static const u8 sOPT_Report_Ampharos_8[]  = _("EICH: Ein wichtiger Teil");
 static const u8 sOPT_Report_Ampharos_9[]  = _("vieler Leuchtturm-Geschichten!");
 
-static const u8 sOPT_Report_Sudowoodo_0[]  = _("MARY: Als Nächstes, ein echter");
+static const u8 sOPT_Report_Sudowoodo_0[]  = _("MARGIT: Als Nächstes, ein echter");
 static const u8 sOPT_Report_Sudowoodo_1[]  = _("Sonderling auf ROUTE 36...");
 static const u8 sOPT_Report_Sudowoodo_2[]  = _("EICH: SODAMON! Sieht aus wie");
 static const u8 sOPT_Report_Sudowoodo_3[]  = _("ein Baum, ist aber keiner!");
 static const u8 sOPT_Report_Sudowoodo_4[]  = _("Es blockiert den Weg und");
 static const u8 sOPT_Report_Sudowoodo_5[]  = _("rührt sich ohne Wasser nicht.");
-static const u8 sOPT_Report_Sudowoodo_6[]  = _("MARY: Es reagiert nur auf");
+static const u8 sOPT_Report_Sudowoodo_6[]  = _("MARGIT: Es reagiert nur auf");
 static const u8 sOPT_Report_Sudowoodo_7[]  = _("SPRITZFLASCHE!");
 static const u8 sOPT_Report_Sudowoodo_8[]  = _("EICH: Das ist kein Busch,");
 static const u8 sOPT_Report_Sudowoodo_9[]  = _("sondern GESTEIN im Tarnmodus!");
 
-static const u8 sOPT_Report_RedGyarados_0[]  = _("MARY: Die heutige Story ist");
+static const u8 sOPT_Report_RedGyarados_0[]  = _("MARGIT: Die heutige Story ist");
 static const u8 sOPT_Report_RedGyarados_1[]  = _("schockierend, aus JOHTO!");
 static const u8 sOPT_Report_RedGyarados_2[]  = _("EICH: Trainer sahen einen");
 static const u8 sOPT_Report_RedGyarados_3[]  = _("ROTEN GARADOS am ZORNSEE!");
 static const u8 sOPT_Report_RedGyarados_4[]  = _("Anders als die üblichen");
 static const u8 sOPT_Report_RedGyarados_5[]  = _("blauen, ist dieser knallrot!");
-static const u8 sOPT_Report_RedGyarados_6[]  = _("MARY: Man sagt, es hängt mit");
+static const u8 sOPT_Report_RedGyarados_6[]  = _("MARGIT: Man sagt, es hängt mit");
 static const u8 sOPT_Report_RedGyarados_7[]  = _("seltsamen Radiowellen zusammen!");
 static const u8 sOPT_Report_RedGyarados_8[]  = _("EICH: Eine mysteriöse");
 static const u8 sOPT_Report_RedGyarados_9[]  = _("Entwicklung… Unnatürlich.");
 
-static const u8 sOPT_Report_Unown_0[]  = _("MARY: Wart ihr schon mal in den");
+static const u8 sOPT_Report_Unown_0[]  = _("MARGIT: Wart ihr schon mal in den");
 static const u8 sOPT_Report_Unown_1[]  = _("ALPHA-RUINEN? Gruselig!");
 static const u8 sOPT_Report_Unown_2[]  = _("EICH: Seltsame Symbole zieren");
 static const u8 sOPT_Report_Unown_3[]  = _("die Wände, wie alte Runen.");
 static const u8 sOPT_Report_Unown_4[]  = _("Drinnen findet ihr ICOGNITO…");
 static const u8 sOPT_Report_Unown_5[]  = _("jedes wie ein Buchstabe!");
-static const u8 sOPT_Report_Unown_6[]  = _("MARY: Sie buchstabieren Dinge,");
+static const u8 sOPT_Report_Unown_6[]  = _("MARGIT: Sie buchstabieren Dinge,");
 static const u8 sOPT_Report_Unown_7[]  = _("vielleicht? Gruseln uns nur!");
 static const u8 sOPT_Report_Unown_8[]  = _("EICH: Ein echtes Rätsel der");
 static const u8 sOPT_Report_Unown_9[]  = _("Natur, bis heute ungelöst.");
 
-static const u8 sOPT_Report_Snubbull_0[]  = _("MARY: Bewohner von ROSALIA");
+static const u8 sOPT_Report_Snubbull_0[]  = _("MARGIT: Bewohner von ROSALIA");
 static const u8 sOPT_Report_Snubbull_1[]  = _("suchen überall verzweifelt!");
 static const u8 sOPT_Report_Snubbull_2[]  = _("EICH: Ein SNUBBULL ist");
 static const u8 sOPT_Report_Snubbull_3[]  = _("abtrünnig und auf der Flucht!");
 static const u8 sOPT_Report_Snubbull_4[]  = _("Normalerweise scheu und");
 static const u8 sOPT_Report_Snubbull_5[]  = _("zickig, gesichtet am Bahnhof.");
-static const u8 sOPT_Report_Snubbull_6[]  = _("MARY: Vielleicht jagt es");
+static const u8 sOPT_Report_Snubbull_6[]  = _("MARGIT: Vielleicht jagt es");
 static const u8 sOPT_Report_Snubbull_7[]  = _("der Liebe… oder Abenteuern!");
 static const u8 sOPT_Report_Snubbull_8[]  = _("EICH: Haltet die Augen offen,");
 static const u8 sOPT_Report_Snubbull_9[]  = _("und die Leine bereit.");
 
-static const u8 sOPT_Report_Slowpoke_0[]  = _("MARY: Große News aus AZALEA");
+static const u8 sOPT_Report_Slowpoke_0[]  = _("MARGIT: Große News aus AZALEA");
 static const u8 sOPT_Report_Slowpoke_1[]  = _("diese Woche!");
 static const u8 sOPT_Report_Slowpoke_2[]  = _("EICH: FLEGMON sind zu ihrem");
 static const u8 sOPT_Report_Slowpoke_3[]  = _("Brunnen zurückgekehrt!");
 static const u8 sOPT_Report_Slowpoke_4[]  = _("TEAM ROCKET hatte ihnen");
 static const u8 sOPT_Report_Slowpoke_5[]  = _("die Schwänze abgeschnitten!");
-static const u8 sOPT_Report_Slowpoke_6[]  = _("MARY: Doch ein mutiger");
+static const u8 sOPT_Report_Slowpoke_6[]  = _("MARGIT: Doch ein mutiger");
 static const u8 sOPT_Report_Slowpoke_7[]  = _("junger Trainer stoppte sie!");
 static const u8 sOPT_Report_Slowpoke_8[]  = _("EICH: Die FLEGMON sind");
 static const u8 sOPT_Report_Slowpoke_9[]  = _("sicher und dösen wieder.");
 
-static const u8 sOPT_Report_LavenderTower_0[]  = _("MARY: LAVANDIAS Turm hat");
+static const u8 sOPT_Report_LavenderTower_0[]  = _("MARGIT: LAVANDIAS Turm hat");
 static const u8 sOPT_Report_LavenderTower_1[]  = _("sich verändert!");
 static const u8 sOPT_Report_LavenderTower_2[]  = _("EICH: Der alte Geisterturm");
 static const u8 sOPT_Report_LavenderTower_3[]  = _("ist jetzt ein RADIOSENDER!");
 static const u8 sOPT_Report_LavenderTower_4[]  = _("Manche Anwohner sagen, er");
 static const u8 sOPT_Report_LavenderTower_5[]  = _("fühlt sich… gruselig an.");
-static const u8 sOPT_Report_LavenderTower_6[]  = _("MARY: Ich schwöre, ich sah");
+static const u8 sOPT_Report_LavenderTower_6[]  = _("MARGIT: Ich schwöre, ich sah");
 static const u8 sOPT_Report_LavenderTower_7[]  = _("ein NEBULAK an der Kabine!");
 static const u8 sOPT_Report_LavenderTower_8[]  = _("EICH: Könnte Rauschen sein…");
 static const u8 sOPT_Report_LavenderTower_9[]  = _("oder Gespenster!");
 
-static const u8 sOPT_Report_Tentacruel_0[]  = _("MARY: Seltsame News von den");
+static const u8 sOPT_Report_Tentacruel_0[]  = _("MARGIT: Seltsame News von den");
 static const u8 sOPT_Report_Tentacruel_1[]  = _("WIRBELINSELN heute!");
 static const u8 sOPT_Report_Tentacruel_2[]  = _("EICH: TENTOXA umgeben");
 static const u8 sOPT_Report_Tentacruel_3[]  = _("die Höhleneingänge!");
 static const u8 sOPT_Report_Tentacruel_4[]  = _("Sie sind riesig und wirken");
 static const u8 sOPT_Report_Tentacruel_5[]  = _("fast schon territorial.");
-static const u8 sOPT_Report_Tentacruel_6[]  = _("MARY: Sie blockieren den Weg");
+static const u8 sOPT_Report_Tentacruel_6[]  = _("MARGIT: Sie blockieren den Weg");
 static const u8 sOPT_Report_Tentacruel_7[]  = _("ohne anzugreifen…");
 static const u8 sOPT_Report_Tentacruel_8[]  = _("EICH: Als würden sie etwas");
 static const u8 sOPT_Report_Tentacruel_9[]  = _("tief unter den Wellen bewachen.");
