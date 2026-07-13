@@ -320,6 +320,8 @@ Text_CantHeadbutt:
 EventScript_StrengthBoulder::
 	lockall
 	goto_if_unset FLAG_BADGE03_GET, EventScript_CantStrength
+	checkitem ITEM_HM_STRENGTH
+	goto_if_eq VAR_RESULT, FALSE, EventScript_CantStrength
 	goto_if_set FLAG_SYS_USE_STRENGTH, EventScript_CheckActivatedBoulder
 	checkpartymove MOVE_STRENGTH
 	goto_if_eq VAR_RESULT, PARTY_SIZE, EventScript_CantStrength
