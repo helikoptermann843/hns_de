@@ -34,14 +34,13 @@ CianwoodCity_Text_LugiaHouseTeacher:
 
 CianwoodCity_Text_LugiaHouseLass:
 	.string "Ich hörte, dass man es nur sehen\n"
-	.string "kann, wenn man einen SILBERFLÜGEL hat.\n"
-	.string "\p"
+	.string "kann, wenn man einen SILBERFLÜGEL hat.\p"
 	.string "Es muss denselben Duft wie das\n"
 	.string "Wesen haben.$"
 
 CianwoodCity_Text_LugiaHouseTwin:
 	.string "Ich hörte, dass die Strudel um\n"
-	.string "die Inseln vom Meereswesen verursacht\n"
+	.string "die Inseln vom Meereswesen verursacht\l"
 	.string "werden.\p"
 	.string "Du brauchst vielleicht eine spezielle\n"
 	.string "Attacke, um sie zu passieren.$"

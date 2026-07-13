@@ -157,10 +157,10 @@ CianwoodGym_Text_GetStormBadge:
 
 CianwoodGym_Text_ChuckBadgeSpeech:
 	.string "Der Sturmorden sorgt dafür, dass dir\n"
-	.string "alle Pokémon bis L70 gehorchen,\n"
+	.string "alle Pokémon bis L70 gehorchen,\l"
 	.string "auch getauschte.\p"
 	.string "Außerdem können deine Pokémon\n"
-	.string "Fliegen auch außerhalb von\n"
+	.string "Fliegen auch außerhalb von\l"
 	.string "Kämpfen einsetzen.\p"
 	.string "Hier, nimm das auch noch!$"
 

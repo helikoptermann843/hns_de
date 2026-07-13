@@ -289,20 +289,20 @@ WhirlIslands_LugiaChamber_EventScript_KuniAfter::
 	end
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterNotCaught:
-	.string "You have not only made LUGIA\n"
-	.string "appear, but you have also defeated\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"	
+	.string "Du hast nicht nur LUGIA\n"
+	.string "herbeigerufen, du hast es\l"
+	.string "auch besiegt...\p"
+	.string "Wir haben nichts mehr zu sagen.\p"
+	.string "Behüte dich auf deinen weiteren\n"
+	.string "Reisen...$"	
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterCaught:
-	.string "You have not only made LUGIA\n"
-	.string "appear, but you have also caught\l"
-	.string "it...\p"
-	.string "There is nothing more for us to\n"
-	.string "say. Take care of yourself in your\l"
-	.string "journey...$"
+	.string "Du hast nicht nur LUGIA\n"
+	.string "herbeigerufen, du hast es\l"
+	.string "auch gefangen...\p"
+	.string "Wir haben nichts mehr zu sagen.\p"
+	.string "Behüte dich auf deinen weiteren\n"
+	.string "Reisen...$"
 
 WhirlIslands_LugiaChamber_Movement_CameraPanUp:
 	walk_up
@@ -573,11 +573,11 @@ WhirlIslands_LugiaChamber_Text_Kuni_Before::
 WhirlIslands_LugiaChamber_Text_Kimono_Opening::
 	.string "KIMONO-MÄDCHEN: Genau.\n"
 	.string "Hier empfangen wir LUGIA.\p"
-	.string "Wenn unser lange geübter Tanz\l"
+	.string "Wenn unser lange geübter Tanz\n"
 	.string "mit dem Klang der Sanftglocke\l"
 	.string "verschmilzt, die wir dir\l"
 	.string "anvertraut haben...\p"
-	.string "Dann wird LUGIA erneut aus den\l"
+	.string "Dann wird LUGIA erneut aus den\n"
 	.string "Tiefen des Wasserfallbeckens\l"
 	.string "erscheinen.$"
 
@@ -587,13 +587,13 @@ WhirlIslands_LugiaChamber_Text_Kimono_Closing1::
 	.string "uralten Zeiten...\p"
 	.string "So viele haben es immer wieder\n"
 	.string "versucht und sind gescheitert...\p"
-	.string "{PLAYER}, dein Herz ist völlig\l"
+	.string "{PLAYER}, dein Herz ist völlig\n"
 	.string "im Einklang mit der\l"
 	.string "Sanftglocke.\p"
-	.string "Erst dadurch konnte LUGIA\l"
+	.string "Erst dadurch konnte LUGIA\n"
 	.string "erscheinen...\p"
 	.string "{PLAYER}, verstehst du?\p"
-	.string "LUGIA muss all die Zeit auf\l"
+	.string "LUGIA muss all die Zeit auf\n"
 	.string "jemanden wie dich gewartet\l"
 	.string "haben.\p"
 	.string "Findest du nicht auch?$"

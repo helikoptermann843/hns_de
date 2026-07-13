@@ -16,9 +16,9 @@ Route41_EventScript_Charlie::
 	end
 
 Route41_Text_SwimmermCharlieSeen:
-	.string "Das Wasser ist\n"
-	.string "schön warm. Ich bin also sehr locker\n"
-	.string "und gelenk.\p"
+	.string "Das Wasser ist schön warm.\p"
+	.string "Ich bin also sehr locker\n"
+	.string "und gelenkig.\p"
 	.string "Natürlich trete ich gegen dich an!$"
 
 Route41_Text_SwimmermCharlieBeaten:
@@ -34,8 +34,8 @@ Route41_EventScript_George::
 	end
 
 Route41_Text_SwimmermGeorgeSeen:
-	.string "Ich bin etwas\n"
-	.string "müde. Wenn ich gewinne, leihst du mir\l"
+	.string "Ich bin etwas müde.\n"
+	.string "Wenn ich gewinne, leihst du mir\l"
 	.string "dein Pokémon.$"
 
 Route41_Text_SwimmermGeorgeBeaten:
@@ -53,8 +53,8 @@ Route41_EventScript_Berke::
 	end
 
 Route41_Text_SwimmermBerkeSeen:
-	.string "Siehst du diese\n"
-	.string "Inseln, die von den Strudeln blockiert\n"
+	.string "Siehst du diese Inseln,\n"
+	.string "die von den Strudeln blockiert\l"
 	.string "werden?\p"
 	.string "Dort gibt es bestimmt ein Geheimnis!$"
 
@@ -62,6 +62,7 @@ Route41_Text_SwimmermBerkeBeaten:
 	.string "Was ist das Geheimnis deiner Stärke?$"
 
 Route41_Text_SwimmermBerkeAfter:
+	.string "Ich sauf ab...$"
 
 Route41_EventScript_Kirk::
 	trainerbattle_single TRAINER_KIRK_HNS, Route41_Text_SwimmermKirkSeen, Route41_Text_SwimmermKirkBeaten
@@ -85,15 +86,14 @@ Route41_EventScript_Mathew::
 	end
 
 Route41_Text_SwimmermMathewSeen:
-	.string "Suchst du die\n"
-	.string "Geheimnisse der STRUDELINSELN?$"
+	.string "Suchst du die Geheimnisse\n"
+	.string "der STRUDELINSELN?$"
 
 Route41_Text_SwimmermMathewBeaten:
 	.string "Ach. Du hast viel Ausdauer!$"
 
 Route41_Text_SwimmermMathewAfter:
 	.string "Ein Geheimnis über die Strudelinseln…\n"
-	.string "\p"
 	.string "drinnen ist es Stockfinster!$"
 
 Route41_EventScript_Kaylee::
@@ -102,15 +102,16 @@ Route41_EventScript_Kaylee::
 	end
 
 Route41_Text_SwimmerfKayleeSeen:
-	.string "Ich bin auf dem\n"
-	.string "Weg zu den STRUDELINSELN.\p"
-	.string "Ich gehe mit\n"
-	.string "meinen Kameraden auf Erkundungsreise.$"
+	.string "Ich bin auf dem Weg\n"
+	.string "zu den STRUDELINSELN.\p"
+	.string "Ich gehe mit meinen Kameraden\n"
+	.string "auf Erkundungsreise.$"
 
 Route41_Text_SwimmerfKayleeBeaten:
 	.string "Ist es so richtig?$"
 
 Route41_Text_SwimmerfKayleeAfter:
+	.string "Vielleicht bleibe ich hier...$"
 
 Route41_EventScript_Susie::
 	trainerbattle_single TRAINER_SUSIE_HNS, Route41_Text_SwimmerfSusieSeen, Route41_Text_SwimmerfSusieBeaten
@@ -118,13 +119,14 @@ Route41_EventScript_Susie::
 	end
 
 Route41_Text_SwimmerfSusieSeen:
-	.string "Du gleitest so\n"
-	.string "elegant auf deinem Pokémon dahin.$"
+	.string "Du gleitest so elegant\n"
+	.string "auf deinem Pokémon dahin.$"
 
 Route41_Text_SwimmerfSusieBeaten:
 	.string "Ich bin geschlagen…$"
 
 Route41_Text_SwimmerfSusieAfter:
+	.string "Ich bin geschlagen…$"
 
 Route41_EventScript_Denise::
 	trainerbattle_single TRAINER_DENISE_HNS, Route41_Text_SwimmerfDeniseSeen, Route41_Text_SwimmerfDeniseBeaten
@@ -132,13 +134,14 @@ Route41_EventScript_Denise::
 	end
 
 Route41_Text_SwimmerfDeniseSeen:
-	.string "Das Wetter ist so\n"
-	.string "herrlich. Ich bin richtig benommen!$"
+	.string "Das Wetter ist so herrlich.\n"
+	.string "Ich bin richtig benommen!$"
 
 Route41_Text_SwimmerfDeniseBeaten:
 	.string "Ohhh!$"
 
 Route41_Text_SwimmerfDeniseAfter:
+	.string "Ohhh!$"
 
 Route41_EventScript_Kara::
 	trainerbattle_single TRAINER_KARA_HNS, Route41_Text_SwimmerfKaraSeen, Route41_Text_SwimmerfKaraBeaten
@@ -146,10 +149,10 @@ Route41_EventScript_Kara::
 	end
 
 Route41_Text_SwimmerfKaraSeen:
-	.string "Wenn du eine Pause\n"
-	.string "brauchst, dann halte deinen Kopf über\n"
+	.string "Wenn du eine Pause brauchst,\n"
+	.string "dann halte deinen Kopf über\l"
 	.string "Wasser und paddle mit den Füßen.\p"
-	.string "Auf diese Weise legst du eine\p"
+	.string "Auf diese Weise legst du eine\n"
 	.string "Ruhepause ein und sammelst Energie.$"
 
 Route41_Text_SwimmerfKaraBeaten:
@@ -165,8 +168,8 @@ Route41_EventScript_Wendy::
 	end
 
 Route41_Text_SwimmerfWendySeen:
-	.string "NACHTs sammeln\n"
-	.string "sich STERNDU nahe der\l"
+	.string "NACHTs sammeln sich\n"
+	.string "STERNDU nahe der\l"
 	.string "Wasseroberfläche.$"
 
 Route41_Text_SwimmerfWendyBeaten:

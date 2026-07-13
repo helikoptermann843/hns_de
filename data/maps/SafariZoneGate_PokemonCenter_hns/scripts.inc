@@ -32,7 +32,7 @@ SafariZoneGate_PokemonCenter_Text_Boy::
 
 SafariZoneGate_PokemonCenter_Text_NPC1:
     .string "Diejenigen, die ein POKéMON-CENTER\n"
-    .string "besuchen, kümmern sich oft gut um ihre\n"
+    .string "besuchen, kümmern sich oft gut um ihre\l"
     .string "POKéMON.\p"
     .string "Stimmst du zu?$"
 
@@ -47,5 +47,5 @@ SafariZoneGate_PokemonCenter_Text_SafariSong:
     .string "Safari, Safari, so interessant, was!\p"
     .string "So viele POKéMON warten auf uns!\p"
     .string "...Das ist ein Lied, das ich mir\n"
-    .string "ausgedacht habe. Ich singe es wenn\n"
+    .string "ausgedacht habe. Ich singe es wenn\l"
     .string "ich in der SAFARI-ZONE bin.$"

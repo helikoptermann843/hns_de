@@ -181,7 +181,7 @@ Route45_Text_HikerParryGivesIron:
     .string "gewinnen!\p"
     .string "Mach weiter so!\p"
     .string "Oh, und nimm das -- das Geschenk,\n"
-    .string "das du beim letzten Mal nicht\n"
+    .string "das du beim letzten Mal nicht\l"
     .string "annehmen konntest.$"
 
 Route45_Text_BlackbeltKenjiSeen:
@@ -230,12 +230,12 @@ Route45_Text_KenjiNoRoom:
 
 Route45_Text_BlackbeltKenjiMorning:
     .string "Ich werde noch ein bisschen\n"
-    .string "trainieren, bevor ich Mittagspause\n"
+    .string "trainieren, bevor ich Mittagspause\l"
     .string "mache.$"
 
 Route45_Text_BlackbeltKenjiNight:
     .string "Wir haben uns beim Mittag gut\n"
-    .string "ausgeruht, also sind wir jetzt\n"
+    .string "ausgeruht, also sind wir jetzt\l"
     .string "wieder bereit!\p"
     .string "Wir trainieren weiter!$"
 

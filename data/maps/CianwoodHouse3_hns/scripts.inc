@@ -72,7 +72,7 @@ CianwoodCity_EventScript_KirkReturnedShuckie::
 CianwoodCity_Text_ManiacAskShuckle:
 	.string "I, ich bin schockiert!\p"
 	.string "Ein Typ in deinem Alter mit\n"
-	.string "starrem Blick und langen\n"
+	.string "starrem Blick und langen\l"
 	.string "Haaren kam herein.\p"
 	.string "Er hat mich erschreckt und mein\n"
 	.string "wertvolles Pokémon genommen!\p"

@@ -20,10 +20,9 @@ CliffEdgeGate_EventScript_Picnicker::
 CliffEdgeGate_Text_IntroOpen:
 	.string "Wusstest du schon? Gleich um die\n"
 	.string "Ecke ist eine Safari-Zone.\p"
-	.string "Es macht richtig Spaß! Du wirst viele\l"
-	.string "verschiedene\n"
-	.string "Pokémon sehen, und du kannst sie\p"
-	.string "alle fangen!\p"
+	.string "Es macht richtig Spaß! Du wirst viele\n"
+	.string "verschiedene Pokémon sehen,\l"
+	.string "und du kannst sie alle fangen!\p"
 	.string "Es gibt keinen Grund, nicht hinzu-\n"
 	.string "gehen, oder?\l"
 	.string "Gleich um die Ecke.$"
@@ -45,7 +44,7 @@ CliffEdgeGate_EventScript_CaveSign::
 
 CliffEdgeGate_Text_SignOpen:
 	.string "Alles ist aufregend!\n"
-	.string "Erkunde die Wildnis und fange Pokémon!\l"
-	.string "Leiter Baoba's Safari-Zone\l"
+	.string "Erkunde die Wildnis und fange Pokémon!\p"
+	.string "Leiter Baoba's Safari-Zone\n"
 	.string "Jetzt endlich verfügbar!$"
 

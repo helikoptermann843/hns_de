@@ -10,8 +10,7 @@ CliffEdgeCave_EventScript_BaldMan::
 	end
 
 CliffEdgeCave_Text_Baldman:
-	.string "Wenn du eine Gabelung in der Höhle\l"
-	.string "siehst, ist meist ein Weg\n"
-	.string "richtig, der andere führt ins\p"
-	.string "Nirgendwo.\p"
+	.string "Wenn du eine Gabelung in der Höhle\n"
+	.string "siehst, ist meist ein Weg richtig,\l"
+	.string "der andere führt ins Nirgendwo.\p"
 	.string "Aber die Leute versuchen immer beides.$"

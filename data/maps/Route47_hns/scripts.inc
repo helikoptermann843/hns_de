@@ -51,14 +51,14 @@ Route47_EventScript_Kae::
 	end
 
 Route47_Text_Couple1Seen::
-	.string "THOMAS: Eins plus eins ist zwei.\n"
-	.string "Aber wir zwei zusammen sind viel\l"
+	.string "THOMAS: Eins plus eins ist zwei.\p"
+	.string "Aber wir zwei zusammen sind viel\n"
 	.string "stärker!\p"
 	.string "KATJA: Wir zwei sind kein\n"
 	.string "langweiliges Gespann!$"
 
 Route47_Text_Couple1Beaten::
-	.string "THOMAS: Das hatte ich nicht erwartet.\l"
+	.string "THOMAS: Das hatte ich nicht erwartet.\n"
 	.string "KATJA: Du bist auch ungewöhnlich!$"
 
 Route47_Text_Couple1After1::
@@ -89,8 +89,8 @@ Route47_Text_Couple2Seen::
 	.string "wie der Ozean!$"
 
 Route47_Text_Couple2Beaten::
-	.string "DAVID: Ich war dir nicht gewachsen…\l"
-	.string "EVA: Du bist wirklich etwas\n"
+	.string "DAVID: Ich war dir nicht gewachsen…\n"
+	.string "EVA: Du bist wirklich etwas\l"
 	.string "Besonderes…$"
 
 Route47_Text_Couple2After1::

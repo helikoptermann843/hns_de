@@ -68,10 +68,10 @@ Route46_Text_CamperTedBeaten:
 
 Route46_Text_CamperTedAfterBattle:
 	.string "Ich habe mein\n"
-	.string "Bestes gegeben und das reichte leider\n"
+	.string "Bestes gegeben und das reichte leider\l"
 	.string "nicht.\p"
-	.string "Ich gebe ganz\n"
-	.string "offen zu - ich habe verloren.$"
+	.string "Ich gebe ganz offen zu\n"
+	.string " - ich habe verloren.$"
 
 Route46_Text_PicnickerErinSeen:
 	.string "Ich trainiere auch Pokémon!\p"
@@ -81,14 +81,14 @@ Route46_Text_PicnickerErinBeaten:
 	.string "Oh, Mistkerle!$"
 
 Route46_Text_PicnickerErinAfterBattle:
-	.string "Ich war in vielen PKMN-ARENEN, aber\p"
-	.string "die PKMN-ARENA in\n"
+	.string "Ich war in vielen PKMN-ARENEN,\n"
+	.string "aber die PKMN-ARENA in\l"
 	.string "DUKATIA CITY ist am schönsten.\p"
 	.string "Dort sind wunderschöne Blumen!$"
 
 Route46_Text_ErinRegister:
     .string "Ich war schon in vielen ARENEN,\n"
-    .string "aber die ARENA in DUKATIA ist\n"
+    .string "aber die ARENA in DUKATIA ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 
@@ -101,16 +101,16 @@ Route46_Text_ErinRematchDefeat:
 
 Route46_Text_ErinPostRematch:
     .string "Ich war schon in vielen ARENEN,\n"
-    .string "aber die ARENA in DUKATIA ist\n"
+    .string "aber die ARENA in DUKATIA ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 
 Route46_Text_PicnickerErin2Beaten:
-	.string "Arg… Ständig verliere ich! Ich\p"
+	.string "Arg… Ständig verliere ich! Ich\n"
 	.string "muss es noch härter probieren!\p"
-	.string "Egal, danke, dass du immer wieder\p"
-	.string "gegen mich\n"
-	.string "kämpfst. Hier ist das Geschenk vom\l"
+	.string "Egal, danke, dass du immer wieder\n"
+	.string "gegen mich kämpfst.\p"
+	.string "Hier ist das Geschenk vom\n"
 	.string "letzen Mal.$"
 
 Route46_Text_Sign:

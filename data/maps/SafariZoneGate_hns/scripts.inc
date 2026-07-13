@@ -64,7 +64,7 @@ SafariZoneGate_EventScript_SlowpokeLady::
 
 SafariZone_Text_ForeignFeeling:
     .string "SAFARI ZONE...\n"
-    .string "Sie gibt mir das Gefühl, in einem\n"
+    .string "Sie gibt mir das Gefühl, in einem\l"
     .string "fremden Land zu sein.\p"
     .string "Sie löst ein seltsames Gefühl aus.$"
 
@@ -77,7 +77,7 @@ SafariZone_Text_Kangaskhan:
 
 SafariZone_Text_JigglypuffTrainer:
     .string "Diese SAFARI-ZONE ist großartig!\n"
-    .string "Ich bin einfach immer weiter hinter\n"
+    .string "Ich bin einfach immer weiter hinter\l"
     .string "POKéMON hergegangen!\p"
     .string "Das hat mein Pummeluff aber verärgert.$"
 
@@ -87,7 +87,7 @@ SafariZone_Text_FirstCatch:
 
 SafariZone_Text_SlowpokeFan:
     .string "Es gibt viele POKéMON zur Auswahl,\n"
-    .string "aber nichts schlägt die Niedlichkeit\n"
+    .string "aber nichts schlägt die Niedlichkeit\l"
     .string "von FLEGMON.\p"
     .string "Die Leute sagen oft, dass ich selbst\n"
     .string "wie eines aussehe!$"

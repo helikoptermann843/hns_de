@@ -95,10 +95,9 @@ CianwoodCity_Text_ChucksWifeEasierToFly:
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
 	.string "Aber du kannst Fliegen ohne den\n"
-	.string "Orden dieser Stadt nicht\n"
-	.string "einsetzen.\p"
+	.string "Orden dieser Stadt nicht einsetzen.\p"
 	.string "Wenn du den Arenaleiter hier\n"
-	.string "besiegst, komm zu mir.\p"
+	.string "besiegt hast, komm zu mir.\p"
 	.string "Ich habe ein schönes Geschenk\n"
 	.string "für dich.$"
 
@@ -153,9 +152,9 @@ CianwoodCity_EventScript_Lass::
 	end
 
 CianwoodCity_Text_Lass:
-	.string "Hartwig, der Arenaleiter, übt mit\n"
-	.string "seinen\l"
-	.string "Kampf-Pokémon mit bloßen Händen!$"
+	.string "Hartwig, der Arenaleiter,\n"
+	.string "übt mit seinen Kampf-\l"
+	.string "Pokémon mit bloßen Händen!$"
 
 CianwoodCity_EventScript_SuicuneTrigger::
 	lock
@@ -279,7 +278,7 @@ CianwoodCity_Text_EusineSuicune:
 	.string "Wellen laufen.\p"
 	.string "Suicune ist wunderschön und erhaben.\p"
 	.string "Und es jagt mit unglaublicher\n"
-	.string "Geschwindigkeit durch Städte und\n"
+	.string "Geschwindigkeit durch Städte und\l"
 	.string "über Straßen.\p"
 	.string "Es ist wunderbar…\p"
 	.string "Ich möchte Suicune aus der Nähe\n"
@@ -299,8 +298,7 @@ CianwoodCity_Text_EusineAfter:
 	.string "Kein Wunder, dass Pokémon sich zu dir\n"
 	.string "hingezogen fühlen.\p"
 	.string "Jetzt verstehe ich es.\p"
-	.string "Ich werde weiter nach Suicune suchen.\n"
-	.string "\p"
+	.string "Ich werde weiter nach Suicune suchen.\p"
 	.string "Wir werden uns sicher wiedersehen.\p"
 	.string "Bis dann!$"
 

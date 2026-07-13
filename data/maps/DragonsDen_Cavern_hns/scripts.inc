@@ -149,7 +149,7 @@ DragonsDen_Cavern_Text_ClairWhatsTheMatter:
 	.string "Was ist los? Gehst du nicht\n"
 	.string "weiter zur Pokémon-LIGA?\p"
 	.string "Wenn du CHAMPION werden willst,\n"
-	.string "kannst du jeden Arenaleiter\n"
+	.string "kannst du jeden Arenaleiter\l"
 	.string "noch einmal herausfordern.\p"
 	.string "Geh zur Pokémon-LIGA.\p"
 	.string "Weißt du, wie du dorthin kommst?\p"
@@ -160,7 +160,7 @@ DragonsDen_Cavern_Text_ClairWhatsTheMatter:
 	.string "Verlier bloß nicht in der Pokémon-\n"
 	.string "LIGA!\p"
 	.string "Wenn doch, fühle ich mich noch\n"
-	.string "schlechter, weil ich gegen dich\n"
+	.string "schlechter, weil ich gegen dich\l"
 	.string "verloren habe!\p"
 	.string "Gib alles, was du hast.$"
 

@@ -353,9 +353,9 @@ DragonsDen_Shrine_Text_MustIInformLance:
 	.string "SANDRA!\p"
 	.string "Dieses Kind ist\n"
 	.string "tadellos, in Geist und Talent!\p"
-	.string "Gestehe deine\n"
-	.string "Niederlage und übergib den\n"
-	.string "DRACHENORDEN! \p"
+	.string "Gestehe deine Niederlage\n"
+	.string "und übergib den\l"
+	.string "DRACHENORDEN!\p"
 	.string "…Oder soll ich das SIEGFRIED erzählen?$"
 
 DragonsDen_Shrine_Text_IUnderstand:
@@ -369,15 +369,15 @@ DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
 	.string "{PLAYER} erhält den DRACHENORDEN.$"
 
 DragonsDen_Shrine_Text_RisingBadgeExplanation:
-	.string "Von nun an können deine Pokémon die\p"
+	.string "Von nun an können deine Pokémon die\n"
 	.string "Fähigkeit KASKADE einsetzen.\p"
-	.string "Ferner werden dich alle Pokémon\p"
-	.string "als Trainer anerkennen und dir\p"
+	.string "Ferner werden dich alle Pokémon\n"
+	.string "als Trainer anerkennen und dir\l"
 	.string "bedingungslos gehorchen.$"
 
 DragonsDen_Shrine_Text_ElderScoldsClair:
 	.string "SANDRA…\p"
-	.string "Dieses Kind spie- gelt das wider,\p"
+	.string "Dieses Kind spiegelt das wider,\n"
 	.string "was dir noch fehlt.$"
 
 DragonsDen_Shrine_Text_Speechless:
@@ -401,7 +401,7 @@ DragonsDen_Shrine_EventScript_Elder3::
 	end
 
 DragonsDen_Shrine_Text_Elder2:
-	.string "Es ist schon lange her, seit ein\p"
+	.string "Es ist schon lange her, seit ein\n"
 	.string "Trainer die Anerkennung unseres\l"
 	.string "MEISTERs erhielt.\p"
 	.string "Tatsächlich nicht seit Meister\n"
@@ -410,7 +410,7 @@ DragonsDen_Shrine_Text_Elder2:
 DragonsDen_Shrine_Text_Elder3:
 	.string "Kennst du den jungen Meister\n"
 	.string "SIEGFRIED? \p"
-	.string "Er ähnelt unserem MEISTER sehr,\l"
+	.string "Er ähnelt unserem MEISTER sehr,\n"
 	.string "wie er in seiner Jugend war.\p"
 	.string "Es liegt ihnen im Blut.$"
 
@@ -455,17 +455,17 @@ DragonsDen_Shrine_Text_TakeThisDratini:
 	.string "Hm… Schön, dass du hier bist.\p"
 	.string "Du kommst zur richtigen Zeit.\p"
 	.string "Ich habe etwas für dich.\p"
-	.string "Nimm dieses DRATINI als\p"
+	.string "Nimm dieses DRATINI als\n"
 	.string "Zeichen meiner Wertschätzung.$"
 
 DragonsDen_Shrine_Text_SymbolicDragon:
 	.string "Drachen-Pokémon\n"
 	.string "sind das Symbol unseres Klans.\p"
-	.string "Du hast bewiesen, dass man dir eines\p"
+	.string "Du hast bewiesen, dass man dir eines\n"
 	.string "anvertrauen kann.$"
 
 DragonsDen_Shrine_Text_ClairsGrandfather:
-	.string "SANDRA scheint eine wertvolle\p"
+	.string "SANDRA scheint eine wertvolle\n"
 	.string "Lektion von dir gelernt zu haben.\p"
 	.string "Ich bin ihr Groß-\n"
 	.string "vater und danke dir dafür.$"
