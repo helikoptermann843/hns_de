@@ -255,8 +255,8 @@ OlivineCity_EventScript_EonTicketWomanAfter::
 	end
 
 OlivineCity_Text_CafeSign:
-	.string "OLIVIANA CITY\p"
-	.string "Das Tor zu einer neuen Welt$"
+	.string "OLIVIANA CITY CAFE\p"
+	.string "Lachs und Aal, Phänomenal.$"
 
 OlivineCity_Text_EonTicketWoman1:
 	.string "Ich bin MARY!\p"
