@@ -177,17 +177,16 @@ Route27_Text_FisherMessage:
 	.string "nach.$"
 
 Route27_Text_CooltrainermBlakeSeen:
-	.string "Du siehst sehr\n"
-	.string "stark aus. Ich will gegen dich\l"
-	.string "kämpfen!$"
+	.string "Du siehst sehr stark aus.\n"
+	.string "Ich will gegen dich kämpfen!$"
 
 Route27_Text_CooltrainermBlakeBeaten:
 	.string "Juhu!$"
 
 Route27_Text_CooltrainermBlakeAfter:
 	.string "Wenn du diesen harten Weg\n"
-	.string "bestehst,\p"
-	.string "wird dir die Wahrheit offenbart!\p"
+	.string "bestehst, wird dir die\l"
+	.string "Wahrheit offenbart!\p"
 	.string "Hey, sorry, ich wollte nur\n"
 	.string "etwas Cooles sagen.$"
 
@@ -202,7 +201,7 @@ Route27_Text_CooltrainermBrianAfter:
 	.string "andere gute Trainer.$"
 
 Route27_Text_CooltrainerfReenaSeen:
-	.string "Du solltest die wilden Pokémon,\p"
+	.string "Du solltest die wilden Pokémon,\n"
 	.string "die hier leben, nicht unterschätzen.$"
 
 Route27_Text_CooltrainerfReenaBeaten:
@@ -247,8 +246,8 @@ Route27_Text_PsychicGilbertSeen:
 	.string "Sag nichts!\p"
 	.string "Lass mich raten, woran du denkst.\p"
 	.string "Mmmmmmm…\p"
-	.string "Ich weiß! Du\n"
-	.string "denkst darüber nach, zur Pokémon LIGA\l"
+	.string "Ich weiß! Du denkst darüber\n"
+	.string "nach, zur Pokémon LIGA\l"
 	.string "zu gehen!$"
 
 Route27_Text_PsychicGilbertBeaten:
@@ -266,8 +265,8 @@ Route27_Text_BirdKeeperJoseBeaten:
 	.string "Zwitscher!$"
 
 Route27_Text_BirdKeeperJoseAfter:
-	.string "BIRD KEEPERS like me Mimikry bird\n"
-	.string "whistles to command Pokémon.$"
+    .string "VOGELFÄNGER wie ich ahmen Vogelrufe\n"
+    .string "nach, um POKéMON zu befehligen.$"
 
 Route27_Text_JoseRegister:
     .string "VOGELFÄNGER wie ich ahmen Vogelrufe\n"
@@ -300,8 +299,8 @@ Route27_Text_JoseNoRoom:
 
 TohjoFalls_Text_Sign:
 	.string "TOHJO-FÄLLE\p"
-	.string "Die Verbindung\n"
-	.string "zwischen KANTO und JOHTO$"
+	.string "Die Verbindung zwischen\n"
+	.string "KANTO und JOHTO$"
 
 Route27_Text_FisherScottSeen:
 	.string "Heute fühle ich mich grossartig!\p"

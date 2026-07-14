@@ -51,26 +51,25 @@ SandstormHouse_Text_Woman1:
 	.string "Ich werde das überprüfen…$"
 
 SandstormHouse_Text_LoyalMon:
-	.string "Ah! Deine Pokémon vertrauen dir blind.\n"
-	.string "\p"
-	.string "Es ist schön, ei-\n"
-	.string "nen guten Trainer zu treffen.\p"
+	.string "Ah! Deine Pokémon vertrauen dir blind.\p"
+	.string "Es ist schön, einen guten\n"
+	.string "Trainer zu treffen.\p"
 	.string "Hier, ein Geschenk für deine Reise.$"
 
 SandstormHouse_Text_TM37Description:
 	.string "TM37 enthält SANDSTURM.\p"
 	.string "Diese Attacke fügt\n"
 	.string "beiden Kämpfern Schaden zu.\p"
-	.string "Nur erfahrene\n"
-	.string "Trainer sollten sie einsetzen.\p"
+	.string "Nur erfahrene Trainer\n"
+	.string "sollten sie einsetzen.\p"
 	.string "Setze sie ein,\n"
 	.string "wenn du dich traust! Viel Glück!$"
 
 SandstormHouse_Text_DisloyalMon:
-	.string "Falls es dir nicht mehr Vertrauen\p"
+	.string "Falls es dir nicht mehr Vertrauen\n"
 	.string "schenkt, wird es schwer für dich.\p"
-	.string "Vertrauen ist der\n"
-	.string "Bund zwischen Pokémon und den\l"
+	.string "Vertrauen ist der Bund\n"
+	.string "zwischen Pokémon und den\l"
 	.string "Trainern.$"
 
 

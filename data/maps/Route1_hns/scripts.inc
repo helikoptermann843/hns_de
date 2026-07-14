@@ -22,17 +22,17 @@ Route1_EventScript_Sign::
 	end
 
 Route1_Text_SchoolboyDanny_Seen:
-	.string "Wenn sich zwei\n"
-	.string "Trainer begegnen, wollen sie sofort\l"
+	.string "Wenn sich zwei Trainer begegnen,\n"
+	.string "wollen sie sofort\l"
 	.string "kämpfen.$"
 
 Route1_Text_SchoolboyDanny_Beaten:
 	.string "Argh… Ich habe erneut verloren…$"
 
 Route1_Text_SchoolboyDanny_AfterBattle:
-	.string "Es ist ein ungeschriebenes\p"
-	.string "Gesetz, dass Trai-\n"
-	.string "ner kämpfen, wenn sie sich begegnen.$"
+	.string "Es ist ein ungeschriebenes\n"
+	.string "Gesetz, dass Trainer\l"
+	.string "kämpfen, wenn sie sich begegnen.$"
 
 Route1_Text_CooltrainerFQuinn_Seen:
 	.string "Du da! Willst du kämpfen?$"

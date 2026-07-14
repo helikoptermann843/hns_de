@@ -22,12 +22,12 @@ Route2_House_EventScript_ManAfter::
 
 Route2_House_Text_Fisher:
 	.string "Hi! Ich bin froh dich zu sehen.\p"
-	.string "Mich hat schon\n"
-	.string "lange Zeit niemand mehr besucht.\p"
-	.string "Ich bin über-\n"
-	.string "glücklich! Das hier ist für dich.$"
+	.string "Mich hat schon lange Zeit\n"
+	.string "niemand mehr besucht.\p"
+	.string "Ich bin überglücklich!\n"
+	.string "Das hier ist für dich.$"
 
 Route2_House_Text_Fisher_GotNugget:
 	.string "Das ist ein NUGGET.\p"
-	.string "Ich kann dir keine weisen Ratschläge\p"
+	.string "Ich kann dir keine weisen Ratschläge\n"
 	.string "mitgeben, das hier muss ausreichen!$"

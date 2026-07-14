@@ -24,25 +24,24 @@ ViridianCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM:
-	.string "Wo um Himmels Willen ist der\p"
-	.string "ARENALEITER von\n"
-	.string "VERTANIA? Ich will ihn herausfordern.$"
+	.string "Wo um Himmels Willen ist der\n"
+	.string "ARENALEITER von VERTANIA?\p"
+	.string "Ich will ihn herausfordern.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
 	.string "In der PKMN-ARENA\n"
 	.string "von VERTANIA gibt es keine TRAINER.\p"
-	.string "Der ARENALEITER vertritt den\p"
-	.string "Grundsatz, auch\n"
-	.string "ohne die Hilfe von Untergebenen\l"
+	.string "Der ARENALEITER vertritt den\n"
+	.string "Grundsatz, auch ohne die\l"
+	.string "Hilfe von Untergebenen\l"
 	.string "gewinnen zu können.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerF:
 	.string "Ich habe gehört,\n"
-	.string "dass die PKMNARENA auf der\n"
+	.string "dass die PKMNARENA auf der\l"
 	.string "ZINNOBERINSEL verschwunden ist.\p"
-	.string "Ich frage mich,\n"
-	.string "was aus PYRO, dem ARENALEITER geworden\l"
-	.string "ist.$"
+	.string "Ich frage mich, was aus PYRO,\n"
+	.string "dem ARENALEITER geworden ist.$"
 
 ViridianCity_PokemonCenter_Text_1FBugCatcher:
 	.string "Mein großer Traum\n"

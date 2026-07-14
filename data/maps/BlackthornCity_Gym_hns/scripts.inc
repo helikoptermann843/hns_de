@@ -236,7 +236,7 @@ BlackthornGym_Text_ClairIntroText:
 	.string "Ich bin Sandra.\p"
 	.string "Der beste Drachenmeister der Welt.\p"
 	.string "Ich bestehe sogar gegen die TOP VIER\n"
-	.string "der Pokémon Liga\p"
+	.string "der Pokémon Liga.\p"
 	.string "Willst du immer noch gegen mich\n"
 	.string "antreten?\p"
 	.string "…Gut. Auf geht's!\p"
@@ -259,8 +259,7 @@ BlackthornGym_Text_ClairText_GoToDragonsDen:
 	.string "Drachenhöhle.\p"
 	.string "In deren Mitte ist ein Schrein.\n"
 	.string "Gehe Dorthin.\p"
-	.string "Falls du beweisen kannst, dass du\n"
-	.string "deine Faulen Ideale aufgegeben hast,\l"
+	.string "Falls du dich dort beweisen kannst,\n"
 	.string "werde ich dich als würdig befinden\l"
 	.string "einen Orden zu erhalten!$"
 
@@ -274,8 +273,8 @@ BlackthornGym_Text_ClairText_YouKeptMeWaiting:
 
 BlackthornGym_Text_ClairText_DescribeTM:
 	.string "Das enthält Drachenklaue.\p"
-	.string "Du kannst herausfinden wie es\n"
-	.string "funktioniert.$"
+	.string "Du kannst selbst herausfinden\n"
+	.string "wie es funktioniert.$"
 
 BlackthornGym_Text_ClairText_League:
 	.string "Was ist los?\p"
@@ -354,8 +353,7 @@ BlackthornGym_Text_CooltrainermMikeBeatenText:
 	.string "Hm, eigenartig.$"
 
 BlackthornGym_Text_CooltrainermMikeAfterBattleText:
-	.string "Ich kenne jetzt meine Schwachstellen.\n"
-	.string "\p"
+	.string "Ich kenne jetzt meine Schwachstellen.\p"
 	.string "Danke für den Hinweis!$"
 
 BlackthornGym_Text_CooltrainerfLolaSeenText:

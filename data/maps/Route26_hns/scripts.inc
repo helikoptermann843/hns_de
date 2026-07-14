@@ -63,8 +63,8 @@ Route26_EventScript_Richard::
 	end
 
 Route26_Text_CooltrainermJakeSeen:
-	.string "Ich treffe die\n"
-	.string "letzten Vorbereitungen für die Pokémon\l"
+	.string "Ich treffe die letzten\n"
+	.string "Vorbereitungen für die Pokémon\l"
 	.string "LIGA.$"
 
 Route26_Text_CooltrainermJakeBeaten:
@@ -78,16 +78,15 @@ Route26_Text_CooltrainermJakeAfter:
 	.string "sind stärker als ARENA-LEITER.$"
 
 Route26_Text_CooltrainermGavenSeen:
-	.string "Wenn du harte\n"
-	.string "Kämpfe bestreitest, wirst du stärker.$"
+	.string "Wenn du harte Kämpfe\n"
+	.string "bestreitest, wirst du stärker.$"
 
 Route26_Text_CooltrainermGavenBeaten:
 	.string "Gah! Das Leben ist noch härter!$"
 
 Route26_Text_CooltrainermGavenAfter:
-	.string "Um zur Pokémon LIGA zu gelangen,\p"
-	.string "musst du die SIEGESSTRASSE passieren.\n"
-	.string "\p"
+	.string "Um zur Pokémon LIGA zu gelangen,\n"
+	.string "musst du die SIEGESSTRASSE passieren.\p"
 	.string "Die SIEGESSTRASSE ist schwierig.\p"
 	.string "Eigentlich geht niemand dorthin!$"
 
@@ -113,9 +112,8 @@ Route26_Text_GavenPostRematch:
     .string "Fast niemand wagt sich dorthin!$"
 
 Route26_Text_CooltrainerfJoyceSeen:
-	.string "Da du es bis\n"
-	.string "hierher geschafft hast, musst du gut\n"
-	.string "sein.\p"
+	.string "Da du es bis hierher geschafft\n"
+	.string "hast, musst du gut sein\p"
 	.string "Ich werde in diesem Kampf alles geben!$"
 
 Route26_Text_CooltrainerfJoyceBeaten:
@@ -127,20 +125,19 @@ Route26_Text_CooltrainerfJoyceAfter:
 	.string "Nächstes Mal muss ich mehr geben.$"
 
 Route26_Text_CooltrainerfBethSeen:
-	.string "Ich habe gegen\n"
-	.string "einen Trainer namens <RIVAL> verloren.\n"
-	.string "\p"
-	.string "Er war sehr stark, aber…\p"
-	.string "Es schien, als\n"
-	.string "sei er vom Siegen besessen.\p"
+	.string "Ich habe gegen einen Trainer\n"
+	.string "namens <RIVAL> verloren.\p"
+	.string "Er war sehr stark, aber…\n"
+	.string "Es schien, als sei er\l"
+	.string "vom Siegen besessen.\p"
 	.string "Seine Pokémon taten mir Leid.$"
 
 Route26_Text_CooltrainerfBethBeaten:
 	.string "Pokémon sind keine Kriegswerkzeuge.$"
 
 Route26_Text_CooltrainerfBethAfter:
-	.string "Pokémon sind\n"
-	.string "unschätzbare, lebenslange Partner.$"
+	.string "Pokémon sind unschätzbare,\n"
+	.string "lebenslange Partner.$"
 
 Route26_Text_BethRegister:
     .string "POKéMON sind unbezahlbare Partner\n"
@@ -162,7 +159,7 @@ Route26_Text_BethPostRematch:
 Route26_Text_PsychicRichardSeen:
 	.string "Wow, sieh dir all\n"
 	.string "die ORDEN an! Ich bin beeindruckt.\p"
-	.string "Aber es reicht dir nicht, sie nur zu\p"
+	.string "Aber es reicht dir nicht, sie nur zu\n"
 	.string "sammeln, oder?$"
 
 Route26_Text_PsychicRichardBeaten:

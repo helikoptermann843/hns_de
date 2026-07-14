@@ -11,7 +11,7 @@ BlackthornMart_EventScript_BlackBelt::
 
 BlackthornMart_Text_CooltrainerM:
 	.string "Du kannst kein TOP-BELEBER kaufen,\n"
-	.string "aber es belebt ein besiegtes Pokémon\n"
+	.string "aber es belebt ein besiegtes Pokémon\l"
 	.string "vollständig wieder.\p"
 	.string "Achtung--es stellt keine AP wieder\n"
 	.string "her, die ANGRIFFSPUNKTE für Attacken.$"

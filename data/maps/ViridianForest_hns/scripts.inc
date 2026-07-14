@@ -32,7 +32,7 @@ ViridianForest_EventScript_Bugsy::
 ViridianForest_Text_Bugsy:
 	.string "Kai: Ich kam nach KANTO, um\n"
 	.string "Käfer-Pokémon zu suchen,\p"
-	.string "damit ich ein stärkerer Käfer-\l"
+	.string "damit ich ein stärkerer Käfer-\n"
 	.string "Pokémon-TRAINER werde!\p"
 	.string "Wenn du bereit bist für ein\n"
 	.string "weiteres Match, treffe mich im\l"

@@ -26,13 +26,13 @@ PalletTown_EventScript_OaksLabSign::
 	end	
 
 PalletTown_Text_Teacher:
-	.string "Ich trainiere auch Pokémon. Sie\p"
+	.string "Ich trainiere auch Pokémon. Sie\n"
 	.string "dienen mir als Leibwächter.$"
 
 PalletTown_Text_Fisher:
 	.string "Die Technik ist unglaublich!\p"
-	.string "Du kannst jetzt\n"
-	.string "Pokémon durch die Zeit senden, wie\l"
+	.string "Du kannst jetzt Pokémon \n"
+	.string "durch die Zeit senden, wie\l"
 	.string "E-Mails.$"
 
 PalletTown_Text_Sign:

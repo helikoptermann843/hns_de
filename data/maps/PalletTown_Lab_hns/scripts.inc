@@ -97,7 +97,7 @@ PalletTown_Lab_Text_OakOpenMtSilver:
 	.string "Berg voller wilder POKéMON.\p"
 	.string "Er ist für normale Trainer zu\n"
 	.string "gefährlich und daher gesperrt.\p"
-	.string "Doch für dich machen wir eine\l"
+	.string "Doch für dich machen wir eine\n"
 	.string "Ausnahme, {PLAYER}.\p"
 	.string "Geh zum INDIGO PLATEAU.\n"
 	.string "Von dort erreichst du den\l"
@@ -133,7 +133,7 @@ PalletTown_Lab_Text_OakYesKantoBadges:
 
 PalletTown_Lab_Text_OaksAssistant1:
 	.string "Die Radiosendung POKéMON TALK\n"
-	.string "des PROFs wird in KANTO nicht\n"
+	.string "des PROFs wird in KANTO nicht\l"
 	.string "ausgestrahlt.\p"
 	.string "Schade, ich würde sie gern hören.$"
 

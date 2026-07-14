@@ -35,9 +35,14 @@ IndigoPlateau_EventScript_ShigyNinja::
 	end
 
 IndigoPlateau_Text_ShigyNinja:
-	.string "INDIGO PLATEAU\p"
-	.string "Das Ultimative Ziel Aller Trainer!\p"
-	.string "HAUPTQUARTIER der Pokémon LIGA$"
+	.string "Glückwunsch das du es hierher\n"
+	.string "geschafft hast!\p"
+	.string "Über die Jahre habe ich viele\n"
+	.string "Trainer hier ankommen sehen,\l"
+	.string "jeder Einzigartig.\p"
+	.string "Du kannst stolz auf dich sein,\n"
+	.string "so weit gekommen zu sein.\p"
+	.string "Nun Los, weiter!$"
 
 IndigoPlateau_Text_Blackbelt:
 	.string "Die Pokémon LIGA akzeptiert\n"
@@ -45,11 +50,11 @@ IndigoPlateau_Text_Blackbelt:
 	.string "Bitte komm später wieder.$"
 
 IndigoPlateau_Text_CooltrainerM:
-	.string "In der Pokémon LIGA stellen dich\p"
+	.string "In der Pokémon LIGA stellen dich\n"
 	.string "die TOP VIER auf eine harte Probe.\p"
-	.string "Du musst sie alle schlagen. Wenn du\p"
-	.string "verlierst, musst\n"
-	.string "du ganz von vorne anfangen!$"
+	.string "Du musst sie alle schlagen. Wenn du\n"
+	.string "verlierst, musst du ganz\l"
+	.string "von vorne anfangen!$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
@@ -140,12 +145,11 @@ IndigoPlateau_EventScript_Abra::
 	end
 
 IndigoPlateau_Text_TeleportGuy1:
-	.string "Ah! Du forderst die ELITE-VIER?\p"
+	.string "Ah! Du forderst die TOP-VIER heraus?\p"
 	.string "Bist du sicher, dass du bereit bist?\p"
-	.string "Wenn du noch trainieren willst,\p"
+	.string "Wenn du noch trainieren willst,\n"
 	.string "kann mein Abra dir helfen.\p"
-	.string "Es kann dich nach Hause teleportieren.\n"
-	.string "\p"
+	.string "Es kann dich nach Hause teleportieren.\p"
 	.string "Willst du jetzt nach Hause gehen?$"
 
 IndigoPlateau_Text_TeleportGuyYes:

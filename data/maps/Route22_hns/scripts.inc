@@ -283,7 +283,7 @@ Route22_Movement_CelebiPush:
 
 
 Route22_Text_Silver1:
-	.string "SILBER: Du hast mir gesagt...\n"
+	.string "{RIVAL}: Du hast mir gesagt...\n"
 	.string "du wärst der Beste der ganzen Welt!\p"
 	.string "Willst du jetzt aufgeben?\p"
 	.string "Was wirst du nun tun?$"
@@ -291,36 +291,33 @@ Route22_Text_Silver1:
 Route22_Text_Giovanni1:
 	.string "....................\p"
 	.string "Giovanni: Man muss eine Niederlage\n"
-	.string "akzeptieren, bevor man weitermacht...\n"
-	.string "\p"
+	.string "akzeptieren, bevor man weitermacht...\p"
 	.string "Ich werde vorerst allein\n"
 	.string "weitermachen... \p"
 	.string "Damit ich eines Tages eine noch\n"
 	.string "stärkere Organisation formen kann!$"
 
 Route22_Text_Silver2:
-	.string "SILBER: Was war denn an dir\n"
-	.string "am besten?\p"
+	.string "{RIVAL}: Worin warst du\n"
+	.string "denn der Beste?\p"
 	.string "So viele zu versammeln, nur um\n"
 	.string "von einem Kind besiegt zu werden!$"
 
 Route22_Text_Giovanni2:
 	.string "Giovanni: Das Potenzial vieler zu\n"
 	.string "nutzen, so erzeugt man große Kraft...\n"
-	.string "\p"
-	.string "Das ist der Sinn einer Organisation...\n"
-	.string "\p"
-	.string "Das ist die Stärke von Organisationen.\n"
-	.string "\p"
+	.string "...\p"
+	.string "Das ist der Sinn einer Organisation...\p"
+	.string "Das ist die Stärke von Organisationen.\p"
 	.string "Ich habe versagt... das Potenzial\n"
-	.string "meiner Untergebenen optimal zu\n"
+	.string "meiner Untergebenen optimal zu\l"
 	.string "nutzen... \p"
 	.string "Doch du wirst eines Tages die\n"
 	.string "Auferstehung von mir und TEAM ROCKET\l"
 	.string "sehen!$"
 
 Route22_Text_Silver3:
-	.string "SILBER: Ich verstehe dich nicht!\p"
+	.string "{RIVAL}: Ich verstehe dich nicht!\p"
 	.string "Du machst keinen Sinn!$"
 
 Route22_Text_Giovanni3:
@@ -329,12 +326,11 @@ Route22_Text_Giovanni3:
 	.string "verstehen.$"
 
 Route22_Text_Silver4:
-	.string "SILBER: Ich will dich nicht\n"
+	.string "{RIVAL}: Ich will dich nicht\n"
 	.string "verstehen!\p"
 	.string "Ich werde niemals so werden wie du.\p"
 	.string "Feige, wenn du allein bist,\n"
-	.string "und ein Tyrann vor anderen Feiglingen!\n"
-	.string "\p"
+	.string "und ein Tyrann vor anderen Feiglingen!\p"
 	.string "Ich werde stark!\p"
 	.string "Ich werde ein noch stärkerer Mann\n"
 	.string "allein durch meine Kraft!$"
@@ -343,5 +339,5 @@ Route22_Text_Silver5:
 	.string "ALLEIN!$"
 
 Route22_Text_Silver6:
-	.string "SILBER: ...Wieso starrst du?$"
+	.string "{RIVAL}: ...Wieso starrst du?$"
 

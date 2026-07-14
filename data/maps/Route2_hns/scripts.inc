@@ -71,20 +71,20 @@ Route2_Text_RobPostRematch:
     .string "besseren WALD?$"
 
 Route2_Text_BugCatcherRob_Seen:
-	.string "Meine Käfer-\n"
-	.string "Pokémon sind zäh. Du wirst verlieren!$"
+	.string "Meine Käfer-Pokémon sind zäh.\n"
+	.string "Du wirst verlieren!$"
 
 Route2_Text_BugCatcherRob_Beaten:
 	.string "Ich wurde vermöbelt…$"
 
 Route2_Text_BugCatcherRob_AfterBattle:
-	.string "Ich werde mir\n"
-	.string "stärkere Käfer-Pokémon suchen.$"
+	.string "Ich werde mir stärkere\n"
+	.string "Käfer-Pokémon suchen.$"
 
 Route2_Text_BugCatcherEd_Seen:
-	.string "Wenn du mit Shorts in hohem Gras\p"
-	.string "läufst, bekommst\n"
-	.string "du dann Schrammen an deinen Beinen?$"
+	.string "Wenn du mit Shorts in hohem Gras\n"
+	.string "läufst, bekommst du dann\l"
+	.string "Schrammen an deinen Beinen?$"
 
 Route2_Text_BugCatcherEd_Beaten:
 	.string "Au, Aua, Aua!$"
@@ -93,16 +93,16 @@ Route2_Text_BugCatcherEd_AfterBattle:
 	.string "Sie stechen, wenn du ein Bad nimmst.$"
 
 Route2_Text_BugCatcherDoug_Seen:
-	.string "Warum mögen\n"
-	.string "Mädchen keine Käfer-Pokémon?$"
+	.string "Warum mögen Mädchen\n"
+	.string "keine Käfer-Pokémon?$"
 
 Route2_Text_BugCatcherDoug_Beaten:
 	.string "Sinnlos!$"
 
 Route2_Text_BugCatcherDoug_AfterBattle:
-	.string "Käfer-Pokémon zischen wie\p"
-	.string "Plüschtiere, wenn\n"
-	.string "du sie auf den Bauch drückst.\p"
+	.string "Käfer-Pokémon zischen wie\n"
+	.string "Plüschtiere, wenn du sie\l"
+	.string "auf den Bauch drückst.\p"
 	.string "Ich mag das Gefühl!$"
 
 Route2_Text_Sign:

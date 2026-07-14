@@ -57,7 +57,7 @@ PalletTown_House2_EventScript_DaisyGrooming::
 
 PalletTown_House2_Text_Hello:
 	.string "Sarah: Hallo! Mein kleiner Bruder\n"
-	.string "ist der ARENALEITER von\n"
+	.string "ist der ARENALEITER von\l"
 	.string "VERTANIA CITY.\p"
 	.string "Doch er verlässt die Stadt so\n"
 	.string "oft, dass es für die Trainer\l"

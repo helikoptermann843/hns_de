@@ -55,7 +55,7 @@ ViridianCity_Gym_EventScript_BlueAtDojo::
 ViridianCity_Gym_Text_LeaderBlue_Before:
 	.string "Blau: Yo! Endlich hier, was?\p"
 	.string "In Zinnober hatte ich keinen\n"
-	.string "Bock, aber jetzt bin ich bereit,\n"
+	.string "Bock, aber jetzt bin ich bereit,\l"
 	.string "dich zu bekämpfen.\p"
 	.string "…\p"
 	.string "Sagst du mir etwa, du hast alle\n"
@@ -103,18 +103,18 @@ ViridianCity_Gym_EventScript_GymGuyAfter::
 ViridianCity_Gym_Text_Guide:
 	.string "He! Ein CHAMP in spe!\p"
 	.string "Wie läuft es so?\n"
-	.string "Du hast wohl gerade eine\n"
+	.string "Du hast wohl gerade eine\l"
 	.string "Glückssträhne.\p"
-	.string "Der ARENALEITER hat den CHAMP\p"
+	.string "Der ARENALEITER hat den CHAMP\n"
 	.string "vor drei Jahren besiegt.\p"
 	.string "Das wird kein Kinderspiel!\p"
 	.string "Gib alles, was du hast!$"
 
 ViridianCity_Gym_Text_Guide_Win:
 	.string "Junge, Junge! Du bist sehr stark…\p"
-	.string "Das war vielleicht ein erfrischender\p"
-	.string "Kampf. Er hat mir\n"
-	.string "Tränen in die Augen getrieben.$"
+	.string "Das war vielleicht ein erfrischender\n"
+	.string "Kampf. Er hat mir Tränen\n"
+	.string "in die Augen getrieben.$"
 
 
 ViridianCity_Gym_EventScript_GymStatue::

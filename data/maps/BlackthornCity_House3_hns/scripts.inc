@@ -178,8 +178,7 @@ BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "lernen--jede einzelne--und ich kann\l"
 	.string "Pokémon diese Attacken beibringen.\p"
 	.string "Ich kann einem deiner Pokémon eine\n"
-	.string "Attacke beibringen, wenn du möchtest.\n"
-	.string "\p"
+	.string "Attacke beibringen, wenn du möchtest.\p"
 	.string "Ich tue es für eine HERZSCHUPPE.\n"
 	.string "Die sammle ich gerade.$"
 
