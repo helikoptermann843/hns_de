@@ -570,6 +570,7 @@ static const struct DoorGraphics sDoorAnimGraphicsTable[] =
     {METATILE_Blackthorn_Door_Hns,                             &gTileset_Blackthorn_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_BlackthornCity, sDoorAnimPalettes_Blackthorn},
     {METATILE_DepartmentStore_Door_Hns,                    &gTileset_DepartmentStore_Hns, DOOR_SOUND_SLIDING, 1, sDoorAnimTiles_HnsDeptStoreElevator, sDoorAnimPalettes_DeptStoreHns},
     {METATILE_GoldenrodUnderground_Elevator_Hns,               &gTileset_GoldenrodUndergroundTunnel_Hns, DOOR_SOUND_SLIDING, 1, sDoorAnimTiles_RocketElevator, sDoorAnimPalettes_RocketElevator},
+    {METATILE_GoldenrodUnderground_Elevator_Hns,               &gTileset_Goldenrod_Underground_Storage_Hns, DOOR_SOUND_SLIDING, 1, sDoorAnimTiles_RocketElevator, sDoorAnimPalettes_RocketElevator},
     {METATILE_SSAqua_Door_Hns,                                 &gTileset_ssaqua_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_SSAqua, sDoorAnimPalettes_SSAqua},
     {METATILE_PalletTown_Door_Green_Hns,                   &gTileset_PalletTown_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_HnsBirchsLab, sDoorAnimPalettes_OaksLabHns},
     {METATILE_SeaCottage_Teleporter_Door,                  &gTileset_SeaCottage_Hns, DOOR_SOUND_SLIDING, 2, sDoorAnimTiles_TeleporterHns, sDoorAnimPalettes_TeleporterHns},
