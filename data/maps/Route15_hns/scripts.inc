@@ -82,12 +82,12 @@ Route15_Text_TeacherColetteBeaten:
 	.string "Uah!$"
 
 Route15_Text_TeacherColetteAfterBattle:
-	.string "Ehe ich Lehrer wurde, vergaß ich\p"
+	.string "Ehe ich Lehrer wurde, vergaß ich\n"
 	.string "immer eine Menge Dinge.$"
 
 Route15_Text_TeacherHillarySeen:
-	.string "Bei schönem Wetter würden die Kinder\p"
-	.string "lieber im Schulhof spielen, als in\p"
+	.string "Bei schönem Wetter würden die Kinder\n"
+	.string "lieber im Schulhof spielen, als in\l"
 	.string "den Klassenzimmern zu lernen.$"
 
 Route15_Text_TeacherHillaryBeaten:
@@ -120,8 +120,8 @@ Route15_Text_SchoolboyKippBeaten:
 	.string "Mutter! Ich wurde besiegt!$"
 
 Route15_Text_SchoolboyKippAfterBattle:
-	.string "Meine Mutter macht sich immer große\p"
-	.string "Sorgen um mich.\n"
+	.string "Meine Mutter macht sich immer große\n"
+	.string "Sorgen um mich.\p"
 	.string "Ständig muss ich sie anrufen.$"
 
 Route15_Text_SchoolboyTommySeen:

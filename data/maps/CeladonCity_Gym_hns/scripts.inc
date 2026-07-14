@@ -38,7 +38,7 @@ CeladonCity_Gym_Text_ErikaBeforeBattle:
 	.string "…Oh? Ganz aus JOHTO, sagst du?\n"
 	.string "Wie schön…\p"
 	.string "Oh. Entschuldigung, ich habe nicht\n"
-	.string "gemerkt, dass du mich herausfordern\n"
+	.string "gemerkt, dass du mich herausfordern\l"
 	.string "möchtest.\p"
 	.string "Nun gut, aber ich werde nicht\n"
 	.string "verlieren.$"
@@ -57,10 +57,9 @@ CeladonCity_Gym_Text_ErikaExplainTM:
 	.string "Ich fühlte mich inspiriert. Bitte, ich\n"
 	.string "möchte, dass du diese TM erhältst.\p"
 	.string "Es ist Gigasauger.\p"
-	.string "Es ist eine hervorragende Attacke, die\l"
-	.string "die Hälfte des verursachten Schadens\n"
+	.string "Es ist eine hervorragende Attacke, die\n"
+	.string "die Hälfte des verursachten Schadens\l"
 	.string "zur Heilung deiner Pokémon absorbiert.\p"
-	.string "\p"
 	.string "Bitte benutze sie, wenn sie dir\n"
 	.string "gefällt…$"
 
@@ -84,7 +83,7 @@ CeladonCity_Gym_Text_ErikaRematch:
 
 CeladonCity_Gym_Text_ErikaRematchDefeat:
 	.string "Erika: Verlieren hinterlässt immer\n"
-	.string "noch einen\n"
+	.string "noch einen\l"
 	.string "bitteren Nachgeschmack…\p"
 	.string "Aber zu wissen, dass es starke Trainer\n"
 	.string "gibt,\l"
@@ -96,14 +95,14 @@ CeladonCity_Gym_EventScript_Michelle::
 	end
 
 CeladonCity_Gym_Text_LassMichelleSeen:
-	.string "Do you think a girls-only Arena is\n"
-	.string "rare?$"
+	.string "Glaubst du es ist selten, nur\n"
+	.string "Mädchen in der Arena zu haben?$"
 
 CeladonCity_Gym_Text_LassMichelleBeaten:
-	.string "Oh, bleah!$"
+	.string "Oh, blääh!$"
 
 CeladonCity_Gym_Text_LassMichelleAfter:
-	.string "I just got careless, that's all!$"
+	.string "Ich war nur unvorsichtig!$"
 
 
 CeladonCity_Gym_EventScript_Tanya::
@@ -112,15 +111,15 @@ CeladonCity_Gym_EventScript_Tanya::
 	end
 
 CeladonCity_Gym_Text_PicnickerTanyaSeen:
-	.string "Oh, a battle? That's kind of scary,\n"
-	.string "but OK!$"
+	.string "Oh, ein Kampf? Das ist gruselig,\n"
+	.string "aber OK!$"
 
 CeladonCity_Gym_Text_PicnickerTanyaBeaten:
-	.string "Oh, that's it?$"
+	.string "Oh, das wars?$"
 
 CeladonCity_Gym_Text_PicnickerTanyaAfter:
-	.string "Oh, look at all your BADGES. No\n"
-	.string "wonder I couldn't win!$"
+	.string "Oh, du hast viele Orden.\n"
+	.string "Da kann ich nicht gewinnen!$"
 
 CeladonCity_Gym_EventScript_Julia::
 	trainerbattle_single TRAINER_JULIA_HNS, CeladonCity_Gym_Text_BeautyJuliaSeen, CeladonCity_Gym_Text_BeautyJuliaBeaten
@@ -128,15 +127,15 @@ CeladonCity_Gym_EventScript_Julia::
 	end
 
 CeladonCity_Gym_Text_BeautyJuliaSeen:
-	.string "Were you looking at these flowers\n"
-	.string "or at me?$"
+	.string "Hast du die Blumen betrachtet\n"
+	.string "oder mich?$"
 
 CeladonCity_Gym_Text_BeautyJuliaBeaten:
-	.string "How annoying!$"
+	.string "Wie nervig!$"
 
 CeladonCity_Gym_Text_BeautyJuliaAfter:
-	.string "How do I go about becoming\n"
-	.string "ladylike like Erika?$"
+	.string "Wie werde ich eine Edeldame\n"
+	.string "so wie Erika?$"
 
 CeladonCity_Gym_EventScript_Jo::
 	trainerbattle_double TRAINER_JO_AND_ZOE_HNS, CeladonCity_Gym_Text_TwinsJoAndZoe1Seen, CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten, Route104_Text_GinaNotEnoughMons
@@ -181,13 +180,13 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "CELADON POKéMON GYM\n"
-    .string "LEADER: ERIKA\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "PRISMANIA POKéMON ARENA\n"
+    .string "LEITER: ERIKA\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "CELADON POKéMON GYM\n"
-    .string "LEADER: ERIKA\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "PRISMANIA POKéMON ARENA\n"
+    .string "LEITER: ERIKA\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT, {PLAYER}$"

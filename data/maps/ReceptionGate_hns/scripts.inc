@@ -16,7 +16,7 @@ ReceptionGate_EventScript_Janine::
 
 ReceptionGate_Text_Janine:
 	.string "JANINA: Ich bin auf dem Weg zu\n"
-	.string "meinem Vater, um ihm das Mittagessen\n"
+	.string "meinem Vater, um ihm das Mittagessen\l"
 	.string "zu bringen.\p"
 	.string "Die TOP VIER hat keine Zeit für\n"
 	.string "Erholung, Tag oder Nacht.\p"
@@ -73,14 +73,13 @@ VictoryRoadGate_Text_Officer:
 	.string "eintreten.$"
 
 VictoryRoadGate_Text_Kimono:
-	.string "Entschuldige Kleiner, dieser Weg ist\l"
-	.string "geschlossen,\n"
+	.string "Entschuldige Kleiner, dieser Weg ist\n"
+	.string "geschlossen,\l"
 	.string "Bis jemand sich des\p"
 	.string "Legendären Pokémon's annimmt...$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
-	.string "Du besitzt nicht alle ORDEN von JOHTO.\n"
-	.string "\p"
+	.string "Du besitzt nicht alle ORDEN von JOHTO.\p"
 	.string "Tut mir Leid. Ich\n"
 	.string "darf dich nicht passieren lassen.$"
 
@@ -96,5 +95,5 @@ VictoryRoadGate_Text_LeftBlackBelt:
 VictoryRoadGate_Text_RightBlackBelt:
 	.string "Du bist auf dem\n"
 	.string "Weg zur Pokémon LIGA, nicht wahr?\p"
-	.string "Die TOP VIER sind so stark, dass es\p"
+	.string "Die TOP VIER sind so stark, dass es\n"
 	.string "einem Angst macht. Sie erwarten dich!$"

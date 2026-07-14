@@ -12,5 +12,4 @@ Route16_EventScript_Sign::
 	end
 
 Route16_Text_Sign:
-	.string "ROUTE 1\p"
-	.string "ALABASTIA - VERTANIA CITY$"
+	.string "RADWEG$"

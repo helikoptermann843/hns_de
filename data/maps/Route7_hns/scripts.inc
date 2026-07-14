@@ -17,12 +17,11 @@ Route7_EventScript_Door::
 
 Route7_Text_UndergroundPathSign:
 	.string "Was steht auf dem Flugblatt?\p"
-	.string "…Ruppige Trainer tragen auf dem\p"
+	.string "…Ruppige Trainer tragen auf dem\n"
 	.string "TUNNELPFAD Kämpfe aus.\p"
-	.string "Da sich die Beschwerden der Anwohner\l"
-	.string "häuften,\n"
-	.string "wurde der TUNNELPFAD auf unbestimmte\p"
-	.string "Zeit geschlossen.\p"
+	.string "Da sich die Beschwerden der Anwohner\n"
+	.string "häuften, wurde der TUNNELPFAD\l"
+	.string "auf unbestimmte Zeit geschlossen.\p"
 	.string "ORDNUNGSAMT VON PRISMANIA CITY$"
 
 Route7_Text_LockedDoor:

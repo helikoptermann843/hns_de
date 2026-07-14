@@ -15,7 +15,7 @@ VermilionCity_House1_Text_FishingDude:
 	.string "Er träumt davon, das größte\n"
 	.string "Karpador der Welt zu sehen.\p"
 	.string "Wenn es dir nichts ausmacht,\n"
-	.string "zeig ihm ein Karpador, das du\n"
+	.string "zeig ihm ein Karpador, das du\l"
 	.string "fängst.\p"
 	.string "Wer weiß, vielleicht fängst du\n"
 	.string "sein Traum-Karpador.$"

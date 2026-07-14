@@ -21,8 +21,7 @@ CeladonCity_EventScript_Erika::
 
 CeladonCity_Text_Erika:
 	.string "Oh, {PLAYER}.\n"
-	.string "Ist der Brunnen heute nicht Traumhaft?\n"
-	.string "\p"
+	.string "Ist der Brunnen heute nicht Traumhaft?\p"
 	.string "wenn du erneut kämpfen willst,\n"
 	.string "triff mich im Kampf DOJO.$"
 
@@ -168,7 +167,7 @@ CeladonCity_Text_GameCornerSign:
 CeladonCity_Text_TrainerTips:
 	.string "TIPPS FÜR TRAINER\p"
 	.string "Der MEGABLOCK schützt Pokémon\n"
-	.string "vor Spezialattacken wie z.B.\n"
+	.string "vor Spezialattacken wie z.B.\l"
 	.string "Feuer und Wasser.\p"
 	.string "Hol dir deine Items im\n"
 	.string "EINKAUFSZENTRUM PRISMANIA CITY!$"

@@ -41,13 +41,13 @@ Route8_Text_BikerDwayneBeaten:
 	.string "En-entschuldigung!$"
 
 Route8_Text_BikerDwayneAfter:
-	.string "The KANTO Pokémon FEDERATION will\n"
-	.string "never fall!$"
+	.string "Die KANTO POKéMON GILDE\n"
+	.string "wird niemals fallen!$"
 
 Route8_Text_BikerHarrisSeen:
-	.string "Das ORDNUNGSAMT hat unseren\p"
-	.string "TUNNELPFAD zu-\n"
-	.string "schütten lassen. Das ängstigt mich!$"
+	.string "Das ORDNUNGSAMT hat unseren\n"
+	.string "TUNNELPFAD zuschütten lassen.\p"
+	.string "Das ängstigt mich!$"
 
 Route8_Text_BikerHarrisBeaten:
 	.string "V-vergib mir!$"

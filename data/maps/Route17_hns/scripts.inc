@@ -89,7 +89,7 @@ Route17_Text_BikerJoelBeaten:
 
 Route17_Text_BikerJoelAfterBattle:
 	.string "Ich sehe zwar cool\n"
-	.string "aus, bin aber schwach, also bin ich\n"
+	.string "aus, bin aber schwach, also bin ich\l"
 	.string "nicht wirklich cool.\p"
 	.string "Ich muss härter trainieren…$"
 

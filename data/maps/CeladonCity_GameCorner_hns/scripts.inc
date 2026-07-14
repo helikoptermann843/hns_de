@@ -114,8 +114,7 @@ CeladonGameCorner_Text_Fisher2:
 
 CeladonGameCorner_Text_GymGuide:
 	.string "Hey! Künftiger CHAMP!\p"
-	.string "Spielst du auch an den Spielautomaten?\n"
-	.string "\p"
+	.string "Spielst du auch an den Spielautomaten?\p"
 	.string "Ich versuche, genug Münzen für\n"
 	.string "ein Preis-Pokémon zu bekommen.\p"
 	.string "Aber ich habe noch nicht genug Münzen…$"

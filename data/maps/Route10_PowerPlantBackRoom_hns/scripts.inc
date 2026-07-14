@@ -64,7 +64,7 @@ Route10_PowerPlantBackRoom_Text_ManagerWhoWouldRuinMyGenerator:
 	.string "Wer wagt es,\n"
 	.string "meinen Generator zu demolieren?\p"
 	.string "Ich habe so lange daran gearbeitet!\p"
-	.string "Wenn ich den erwische, dann\p"
+	.string "Wenn ich den erwische, dann\n"
 	.string "lernt er meine BLITZKANONE kennen!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
@@ -89,8 +89,8 @@ Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "DIREKTOR: TM07\n"
 	.string "enthält BLITZKANONE. Eine sehr\p"
-	.string "starke Attacke! Sie ist nicht sehr\p"
-	.string "präzise, aber du kannst jemanden\p"
+	.string "starke Attacke! Sie ist nicht sehr\n"
+	.string "präzise, aber du kannst jemanden\l"
 	.string "damit ordentlich schmoren!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerMyBelovedGenerator:

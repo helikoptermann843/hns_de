@@ -6,8 +6,8 @@ LavenderTown_House2_EventScript_Woman::
 	end
 
 LavenderSpeechHouse_Text_PokefanF:
-	.string "LAVANDIA ist eine ruhige, kleine\p"
+	.string "LAVANDIA ist eine ruhige, kleine\n"
 	.string "Stadt am Fuße der Berge.\p"
-	.string "In letzter Zeit ist sie durch den\p"
-	.string "Bau des RADIOTURMs\n"
+	.string "In letzter Zeit ist sie durch den\n"
+	.string "Bau des RADIOTURMs\l"
 	.string "etwas geschäftiger geworden.$"

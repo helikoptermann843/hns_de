@@ -61,7 +61,7 @@ CeladonMansion2F_Text_LilDill:
 	.string "Ich habe die Karten, Tilesets, Skripte\n"
 	.string "und vieles mehr erstellt.\p"
 	.string "Aber ohne die anderen Entwickler und\n"
-	.string "Playtester hätte ich es nicht\n"
+	.string "Playtester hätte ich es nicht\l"
 	.string "geschafft.\p"
 	.string "Danke fürs Spielen! Ich hoffe, du hast\n"
 	.string "Pokémon Heart & Soul genossen.$"

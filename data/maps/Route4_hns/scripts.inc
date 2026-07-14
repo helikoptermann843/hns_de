@@ -42,10 +42,10 @@ Route4_Text_BirdKeeperHank_Beaten:
 	.string "Uff! Ich habe verloren…$"
 
 Route4_Text_BirdKeeperHank_AfterBattle:
-	.string "Hast du ein spezielles Pokémon,\p"
-	.string "das du trainieren möchtest, setze es\p"
-	.string "an die erste Stel-\n"
-	.string "le und tausche es sofort aus.\p"
+	.string "Hast du ein spezielles Pokémon,\n"
+	.string "das du trainieren möchtest, setze\l"
+	.string "es an die erste Stelle\p"
+	.string "und tausche es sofort aus.\p"
 	.string "So funktioniert das.$"
 
 Route4_Text_PicnickerHope_Seen:
@@ -56,7 +56,7 @@ Route4_Text_PicnickerHope_Beaten:
 	.string "Argh, du bist zu stark.$"
 
 Route4_Text_PicnickerHope_AfterBattle:
-	.string "Ich hörte, dass PIEPI am MONDBERG\p"
+	.string "Ich hörte, dass PIEPI am MONDBERG\n"
 	.string "auftauchen. Aber wo soll das sein?$"
 
 Route4_Text_PicnickerSharon_Seen:

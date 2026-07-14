@@ -159,16 +159,16 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "AZURIA POKéMON-ARENA\n"
+    .string "LEITER: MISTY\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "CERULEAN POKéMON GYM\n"
-    .string "LEADER: MISTY\p"
-    .string "WINNING TRAINERS:\n"
-	.string "BLUE, RED, {PLAYER}$"
+    .string "AZURIA POKéMON-ARENA\n"
+    .string "LEITER: MISTY\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT, {PLAYER}$"
 
 CeruleanGym_Text_Note:
 	.string "Tut mir leid, ich bin erstmal Fort.\n"
@@ -225,7 +225,7 @@ CeruleanGym_Text_GruntBigMistake:
 CeruleanGym_Text_GruntBye:
 	.string "Hey, du! Vergiss, dass du mich\n"
 	.string "gesehen hast okay?\p"
-	.string "Du siehst, hörst, weißt nichts,\p"
+	.string "Du siehst, hörst, weißt nichts,\n"
 	.string "okay? Tschüss, Kind! Nichts!\p"
 	.string "Bye-bye!$"
 
@@ -252,7 +252,7 @@ CeruleanGym_Text_ReceivedBadge:
 
 CeruleanGym_Text_MistyFightDone:
 	.string "Misty: Gibt es viele starke\n"
-	.string "Trainer in JOHTO?\n"
+	.string "Trainer in JOHTO?\l"
 	.string "Wie dich meine ich?\p"
 	.string "Eines Tages werde ich reisen,\n"
 	.string "um gegen einige geschickte\l"
@@ -306,7 +306,7 @@ CeruleanGym_Text_SwimmermParkerAfter:
 	.string "nach, sonst wirst du zerstört!$"
 
 CeruleanGym_Text_GuideIntro:
-	.string "Yo! CHAMP in making!\p"
+	.string "Yo! CHAMP in Spe!\p"
 	.string "Da Misty weg war, habe ich auch\n"
 	.string "etwas Spaß gehabt. He-he-he.$"
 

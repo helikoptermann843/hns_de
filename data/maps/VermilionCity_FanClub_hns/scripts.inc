@@ -112,8 +112,8 @@ PokemonFanClub_Text_Chairman_Gift:
 PokemonFanClub_Text_Chairman_Candy:
 	.string "Das SONDERBONBON\n"
 	.string "macht Pokémon stärker.\p"
-	.string "Meine Pokémon sollen lieber\p"
-	.string "durch ihre Kämpfe\n"
+	.string "Meine Pokémon sollen lieber\n"
+	.string "durch ihre Kämpfe\l"
 	.string "stärker werden. Du kannst es haben.$"
 
 PokemonFanClub_Text_Chairman_MoreTales:
@@ -139,7 +139,7 @@ PokemonFanClub_Text_ClefairyGuy_Adorable:
 
 PokemonFanClub_Text_ClefairyGuy_MakingDo:
 	.string "Ich mag PIEPI, aber ich könnte\p"
-	.string "nie eines fangen. Die PUPPE,\p"
+	.string "nie eines fangen. Die PUPPE,\n"
 	.string "die ich fand, muss mir genügen.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
@@ -147,7 +147,7 @@ PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
 	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
 
 PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
-	.string "Du wirst schon sehen. Ich freunde\p"
+	.string "Du wirst schon sehen. Ich freunde\n"
 	.string "mich noch mit einem echten PIEPI an.$"
 
 @============================================================================================================================

@@ -87,17 +87,16 @@ MtMoon_Cave_Movement_SilverLeave:
 MtMoon_Cave_Text_Rival_Before:
 	.string "... ... ...\p"
 	.string "Es ist schon lange her, {PLAYER}.\p"
-	.string "…Seit ich gegen dich verlor, mache\p"
-	.string "ich mir Gedanken,\n"
+	.string "…Seit ich gegen dich verlor, mache\n"
+	.string "ich mir Gedanken,\l"
 	.string "was meinen Pokémon noch fehlt…\p"
-	.string "Nun, wir haben eine Antwort gefunden.\n"
-	.string "\p"
+	.string "Nun, wir haben eine Antwort gefunden.\p"
 	.string "{PLAYER}, wir beweisen es dir!$"
 
 MtMoon_Cave_Text_Rival_Win:
 	.string "..................................\p"
 	.string "Ich dachte ich hätte meine Pokémon\n"
-	.string "so gut es irgendwie geht trainiert,\n"
+	.string "so gut es irgendwie geht trainiert,\l"
 	.string "zur perfektion…\p"
 	.string "…Immer noch nicht genug…$"
 
@@ -106,20 +105,20 @@ MtMoon_Cave_Text_Rival_After:
 	.string "…Du hast mich fair besiegt.\p"
 	.string "Das muss ich dir\n"
 	.string "lassen. Wir werden uns wiedersehen.\p"
-	.string "Ich werde der\n"
-	.string "beste PokémonTrainer aller Zeiten\n"
+	.string "Ich werde der beste\n"
+	.string "PokémonTrainer aller Zeiten\l"
 	.string "sein.\p"
 	.string "Und sie werden mir dabei helfen.\p"
 	.string "…Hör mal, {PLAYER}.\p"
-	.string "Eines Tages werde ich es dir bewei-\p"
+	.string "Eines Tages werde ich es dir bewei-\n"
 	.string "sen. Dann besiege ich dich.$"
 
 MtMoon_Cave_Text_Rival_Loss:
 	.string "... ... ...\p"
 	.string "Ich habe meine\n"
 	.string "Schuld bei dir abgegolten.\p"
-	.string "Mit meinen Pokémon werde ich den\p"
-	.string "CHAMP besiegen\n"
+	.string "Mit meinen Pokémon werde ich den\n"
+	.string "CHAMP besiegen\l"
 	.string "und weltbester Trainer werden.$"
 
 MtMoon_Cave_Text_Sign:

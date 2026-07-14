@@ -288,7 +288,7 @@ VermilionCity_Gym_EventScript_Surge_Defeated::
 
 VermilionGym_Text_LtSurgeIntro:
 	.string "Bob: Hey, du kleiner Wicht!\p"
-	.string "Ich muss es dir lassen.\n"
+	.string "Ich muss es dir lassen.\p"
 	.string "Dich mir zu stellen ist nicht\n"
 	.string "klug, doch Mut beweist du!\p"
 	.string "Bei Elektro-Pokémon bin ich\n"
@@ -332,7 +332,7 @@ VermilionGym_Text_SurgeRematch:
 	.string "Bob: Also, du bist jetzt\n"
 	.string "KANTO-CHAMPION!\p"
 	.string "Beeindruckend, Kleiner!\n"
-	.string "Doch denk nicht, dass ich fertig\n"
+	.string "Doch denk nicht, dass ich fertig\l"
 	.string "bin!\p"
 	.string "Wie wär's mit einer Revanche?$"
 

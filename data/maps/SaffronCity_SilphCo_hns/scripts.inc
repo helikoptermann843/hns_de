@@ -95,8 +95,8 @@ SaffronCity_SilphCo_Text_Steven1:
 	.string "Die Verbindung ist schlecht…\l"
 	.string "Ich glaube, es liegt an meinem\l"
 	.string "Vater.\l"
-	.string "Ich verstehe…\n"
-	.string "Ich mach mich auf den Weg.\l"
+	.string "Ich verstehe…\p"
+	.string "Ich mach mich auf den Weg.\n"
 	.string "Bis bald.$"
 
 SaffronCity_SilphCo_Text_Steven2:
@@ -158,12 +158,11 @@ SilphCo_Text_Receptionist:
 
 SilphCo_Text_Officer:
 	.string "Nur das Personal\n"
-	.string "hat Zutritt zu den oberen Geschossen.\n"
-	.string "\p"
-	.string "Aber, da du nun schon mal da bist,\p"
+	.string "hat Zutritt zu den oberen Geschossen.\p"
+	.string "Aber, da du nun schon mal da bist,\n"
 	.string "gebe ich dir dieses hübsche Souvenir.$"
 
 SilphCo_Text_Officer_GotUpGrade:
-	.string "Das ist das neueste Produkt\p"
-	.string "der SILPH CO. Das\n"
+	.string "Das ist das neueste Produkt\n"
+	.string "der SILPH CO. Das\l"
 	.string "gibt es noch nirgends zu kaufen.$"

@@ -12,7 +12,7 @@ SaffronMart_Text_CooltrainerM:
 
 SaffronMart_Text_CooltrainerF:
 	.string "Ich möchte noch\n"
-	.string "stärker werden, aber das bin ich noch\n"
+	.string "stärker werden, aber das bin ich noch\l"
 	.string "nicht…\p"
-	.string "Kannst du mir\n"
-	.string "zeigen, wie man stärker wird?$"
+	.string "Kannst du mir zeigen,\n"
+	.string "wie man stärker wird?$"

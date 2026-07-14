@@ -66,13 +66,13 @@ Route12_EventScript_Tentacruel::
 
 Route12_Text_NewFisher:
 	.string "Weißt du, was du gerade getan hast?\p"
-	.string "Du hast deinen\n"
-	.string "ersten Schritt in KANTO gemacht.\p"
+	.string "Du hast deinen ersten Schritt\n"
+	.string "in KANTO gemacht.\p"
 	.string "Sieh auf die KARTE in deinem COM.$"
 
 Route12_Text_FisherMartinSeen:
-	.string "Geduld ist das\n"
-	.string "Zauberwort. Das gilt fürs Angeln und\l"
+	.string "Geduld ist das Zauberwort.\p"
+	.string "Das gilt fürs Angeln und\n"
 	.string "für Pokémon.$"
 
 Route12_Text_FisherMartinBeaten:
@@ -91,7 +91,7 @@ Route12_Text_FisherStephenBeaten:
 	.string "Das blöde Radio beunruhigt mich!$"
 
 Route12_Text_FisherStephenAfterBattle:
-	.string "Kennst du schon die Radiosender\p"
+	.string "Kennst du schon die Radiosender\n"
 	.string "aus KANTO? Es gibt viele hier.$"
 
 Route12_Text_FisherBarneySeen:
@@ -102,9 +102,9 @@ Route12_Text_FisherBarneyBeaten:
 	.string "Die Antwort gibt es demnächst!$"
 
 Route12_Text_FisherBarneyAfterBattle:
-	.string "Meiner Meinung nach ist Strom\p"
+	.string "Meiner Meinung nach ist Strom\n"
 	.string "das Wichtigste in unserem Leben.\p"
-	.string "Wenn dem nicht so wäre, hätten die\p"
+	.string "Wenn dem nicht so wäre, hätten die\n"
 	.string "Leute nicht so einen Aufstand\p"
 	.string "fabriziert, als\n"
 	.string "das KRAFTWERK außer Betrieb war.$"
@@ -131,10 +131,10 @@ Route12_Text_FisherKyleBeaten:
 	.string "Du erinnerst dich?$"
 
 Route12_Text_FisherKyleAfterBattle:
-	.string "Das Reißen an der ANGEL, wenn du\p"
+	.string "Das Reißen an der ANGEL, wenn du\n"
 	.string "ein Pokémon fangen möchtest…\p"
-	.string "Das ist das\n"
-	.string "Schönste für einen Angler wie mich.$"
+	.string "Das ist das Schönste\n"
+	.string "für einen Angler wie mich.$"
 
 Route12_EventScript_Sign::
 	msgbox Route12_Text_Sign, MSGBOX_SIGN

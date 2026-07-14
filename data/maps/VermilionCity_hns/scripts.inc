@@ -310,7 +310,7 @@ VermilionCity_Movement_EusineLeave:
 
 VermilionCity_Text_Eusine:
 	.string "EUSINE: Das war knapp!\n"
-	.string "Ich dachte, ich könnte es\n"
+	.string "Ich dachte, ich könnte es\l"
 	.string "hier in die Ecke treiben.\p"
 	.string "Doch auf dem Wasser kann\n"
 	.string "ich es nicht verfolgen.\p"
@@ -323,8 +323,8 @@ VermilionCity_Text_Eusine2:
 	.string "Sorry {PLAYER}, ich muss los!$"
 
 VermilionCity_Text_Teacher:
-	.string "Der HAFEN von\n"
-	.string "ORANIA CITY ist das Tor KANTOs zum\n"
+	.string "Der HAFEN von ORANIA-\n"
+	.string "CITY ist das Tor KANTOs zum\l"
 	.string "Meer.\p"
 	.string "Hier legen Luxus-\n"
 	.string "dampfer aus aller Welt an.$"
@@ -353,7 +353,7 @@ VermilionCity_Text_SnorlaxSleeping:
 
 VermilionCity_Text_RadioNearSnorlax:
 	.string "Der PokéCOM wird\n"
-	.string "in der Nähe des schlafenden RELAXOs\n"
+	.string "in der Nähe des schlafenden RELAXOs\l"
 	.string "platziert…\p"
 	.string "…\p"
 	.string "RELAXO ist aufgewacht!$"
@@ -365,15 +365,14 @@ VermilionCity_Text_BadgeGuy_Trainer:
 	.string "Es ist nicht leicht, sie zu besiegen.$"
 
 VermilionCity_Text_BadgeGuy_SomeBadges:
-	.string "Du sammelst ORDEN der ARENEN in KANTO?\n"
-	.string "\p"
+	.string "Du sammelst ORDEN der ARENEN in KANTO?\p"
 	.string "Findest du nicht\n"
 	.string "auch, dass die Trainer hier stark\l"
 	.string "sind?$"
 
 VermilionCity_Text_BadgeGuy_MostBadges:
 	.string "Ich schätze, du\n"
-	.string "hast diesen Wettkampf der ARENEN in\n"
+	.string "hast diesen Wettkampf der ARENEN in\l"
 	.string "KANTO bald beendet.\p"
 	.string "Lass mich wissen,\n"
 	.string "wenn du alle acht ORDEN hast.$"
@@ -386,8 +385,8 @@ VermilionCity_Text_BadgeGuy_AllBadges:
 	.string "Belohnung für deine Anstrengungen.$"
 
 VermilionCity_Text_BadgeGuy_BattleEdge:
-	.string "Es ist vorteilhaft, wenn du\p"
-	.string "Pokémon verschie-\n"
+	.string "Es ist vorteilhaft, wenn du\n"
+	.string "Pokémon verschie-\l"
 	.string "dener Elemente kämpfen lässt.\p"
 	.string "Ich bin sicher,\n"
 	.string "dass die ORDEN der ARENEN in KANTO dir\l"
@@ -508,11 +507,11 @@ VermilionCity_Movement_StevenWalkToPlayer:
 
 VermilionCity_Text_StevenIntro:
 	.string "Hallo!\n"
-	.string "Mein Name ist TROY.\l"
+	.string "Mein Name ist TROY.\p"
 	.string "Der Champion aus der HOENN-Region.\p"
 	.string "Haben wir uns schon… getroffen?\p"
-	.string "Das ist nicht möglich.\n"
-	.string "Alle TRAINER, gegen die ich\l"
+	.string "Das ist nicht möglich.\p"
+	.string "Alle TRAINER, gegen die ich\n"
 	.string "gekämpft habe, haben irgendwie\l"
 	.string "denselben Blick.\p"
 	.string "Besonders die, die mir harte\n"

@@ -120,11 +120,11 @@ Route24_Text_RocketSeen:
 	.string "Ich sein von TEAM ROCKET.\p"
 	.string "Sein aus fremde\n"
 	.string "Land, Trainer eins ich sein!\p"
-	.string "Geglaubt, wenn nix Energie mehr,\p"
+	.string "Geglaubt, wenn nix Energie mehr,\n"
 	.string "mache viel Panik bei Leute!\p"
-	.string "Geheim mein\n"
-	.string "Auftrag sein, ich dir nix verraten!\p"
-	.string "Doch! Wenn mich besiegen, ich sein\p"
+	.string "Geheim mein Auftrag sein,\n"
+	.string "ich dir nix verraten!\p"
+	.string "Doch! Wenn mich besiegen, ich sein\n"
 	.string "lieb und dir verrate Geheimnis.\p"
 	.string "Du, Kind! Kämpfen lass uns!$"
 
@@ -140,7 +140,7 @@ Route24_Text_RocketAfter:
 
 Route24_Text_RocketDisappears:
 	.string "…\p"
-	.string "Was du sagen? TEAM ROCKET nix mehr\p"
+	.string "Was du sagen? TEAM ROCKET nix mehr\n"
 	.string "gibt? Kaputt gemacht, du sagen?\p"
 	.string "Oh, nein! Ich tun was jetzt machen?$"
 

@@ -141,8 +141,8 @@ Route13_Text_PokefanmJoshuaBeaten:
 	.string "PI-PIKACHU!$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
-	.string "Es scheint, dass du viele Pokémon\p"
-	.string "hast, aber PIKACHU\n"
+	.string "Es scheint, dass du viele Pokémon\n"
+	.string "hast, aber PIKACHU\l"
 	.string "ist immer noch das Beste.$"
 
 Route13_Text_BirdKeeperPerrySeen:
@@ -178,7 +178,7 @@ Route13_Text_HikerKennyBeaten:
 
 Route13_Text_HikerKennyAfterBattle:
 	.string "Es scheint, als\n"
-	.string "würden sich geologische Gegebenheiten\n"
+	.string "würden sich geologische Gegebenheiten\l"
 	.string "nicht ändern.\p"
 	.string "Aber sie ändern\n"
 	.string "sich; langsam, ganz langsam.$"
@@ -408,33 +408,42 @@ Route13_Movement_BoatArrive:
 	step_end
 
 Route13_GetOffBoat_Text_0:
-	.string "Welcome back to mainland Kanto!\p"
-	.string "Come back if you'd like to take a trip\n"
-	.string "to the Alola Isles!$"
+	.string "Willkommen zurück auf dem\n"
+	.string "Festland von KANTO!\p"
+	.string "Komm wieder, wenn du zu den\n"
+	.string "ALOLA-INSELN reisen möchtest!$"
 
 Route13_TravelToAlola_Text_0:
-	.string "Ahoy there!\p"
-	.string "That's one strange souvenir.\n"
-	.string "You must be from the Isles!$"
+	.string "Ahoi!\p"
+	.string "Das ist ja ein seltsames\n"
+	.string "Souvenir.\p"
+	.string "Du musst von den\n"
+	.string "ALOLA-INSELN stammen!$"
+
 Route13_TravelToAlola_Text_0_5:
-	.string "Would you like to take the next ship?\n"
-	.string "It departs shortly!$"
+	.string "Möchtest du das nächste Schiff\n"
+	.string "nehmen?\p"
+	.string "Es legt schon bald ab!$"
 
 Route13_TravelToAlola_Text_1:
-	.string "Ahoy! Let's get you on board!$"
+	.string "Ahoi!\n"
+	.string "Dann geh an Bord!$"
 
 Route13_TravelToAlola_Text_2:
-	.string "Ahoy!\n"
-	.string "Come back when you'd like to set sail.$"
+	.string "Ahoi!\n"
+	.string "Komm wieder,\n"
+	.string "wenn du in See stechen willst.$"
 
 Route13_TravelToAlola_Text_3:
-	.string "Ah, its you again!\n"
-	.string "Do you want to go to the Alola Isles?$"
+	.string "Ah, du schon wieder!\n"
+	.string "Willst du zu den\l"
+	.string "ALOLA-INSELN?$"
 
 Route13_TravelToAlola_Text_4:
-	.string "Ahoy!\n"
-	.string "This port is for residents only.\p"
-	.string "All of the residents of these Isles\n"
-	.string "carry some… {PAUSE 30}strange souvenirs.\p"
-	.string "It makes them so easy to identify,\n"
-	.string "I don't even need to check tickets!$"
+	.string "Ahoi!\n"
+	.string "Dieser Hafen ist nur für\n"
+	.string "Einheimische.\p"
+	.string "Alle Bewohner dieser Inseln\n"
+	.string "tragen... {PAUSE 30}seltsame Souvenirs.\p"
+	.string "So erkenne ich sie sofort,\n"
+	.string "ganz ohne Fahrkarte!$"

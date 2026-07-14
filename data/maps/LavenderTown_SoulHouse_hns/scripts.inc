@@ -17,10 +17,9 @@ LavenderTownSoulHouse_EventScript_Granny::
 MrFuji_Text_Main:
 	.string "MR. FUJI: Willkommen.\p"
 	.string "Hmm… Du scheinst deine Pokémon\n"
-	.string "freundlich und liebevoll zu erziehen.\n"
-	.string "\p"
+	.string "freundlich und liebevoll zu erziehen.\p"
 	.string "Pokémon-Liebhaber kommen hierher,\n"
-	.string "um den verstorbenen Pokémon Respekt\n"
+	.string "um den verstorbenen Pokémon Respekt\l"
 	.string "zu zollen.\p"
 	.string "Bitte erweise den Seelen der\n"
 	.string "verstorbenen Pokémon dein Mitgefühl.\p"

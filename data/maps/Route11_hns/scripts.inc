@@ -53,7 +53,7 @@ Route11_Text_YoungsterOwenAfterBattle:
 	.string "Ich habe es noch nie bedauert.$"
 
 Route11_Text_YoungsterJasonSeen:
-	.string "Es juckt und sticht, wenn ich\p"
+	.string "Es juckt und sticht, wenn ich\n"
 	.string "mit meinen Shorts durchs Gras laufe.$"
 
 Route11_Text_YoungsterJasonBeaten:

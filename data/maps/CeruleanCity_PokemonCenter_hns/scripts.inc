@@ -22,6 +22,6 @@ CeruleanCity_PokemonCenter1F_Text_SuperNerd:
 
 CeruleanCity_PokemonCenter1F_Text_GymGuide:
 	.string "Der Magnetzug fährt über 500 km/h.\n"
-	.string "Er verbindet KANTO und JOHTO in\n"
+	.string "Er verbindet KANTO und JOHTO in\l"
 	.string "Blitzgeschwindigkeit.\p"
 	.string "So wird JOHTO wirklich zugänglich.$"

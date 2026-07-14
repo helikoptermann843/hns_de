@@ -53,7 +53,7 @@ Route9_Text_CamperDeanBeaten:
 
 Route9_Text_CamperDeanAfter:
 	.string "Meine Pokémon wurden verletzt,\n"
-	.string "noch bevor wir den FELSTUNNEL\n"
+	.string "noch bevor wir den FELSTUNNEL\l"
 	.string "betraten.\p"
 	.string "Ich bringe sie besser sofort ins\n"
 	.string "POKéMON CENTER.$"

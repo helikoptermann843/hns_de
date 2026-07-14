@@ -189,7 +189,7 @@ SaffronCity_FightingDojo_EventScript_BattlePidgeot_EV_Speed::
 SaffronCity_FightingDojo_Text_Pidgeot:
 	.string "PIDGEOT: ZWITSCHER!$"
 SaffronCity_FightingDojo_Text_HP:
-	.string "HP$"
+	.string "KP$"
 SaffronCity_FightingDojo_Text_Attack:
 	.string "ATK$"
 SaffronCity_FightingDojo_Text_Defense:
@@ -211,14 +211,14 @@ SaffronCity_FightingDojo_Text_BlackBelt:
 	.string "POKÉMON im Kampf stählen!$"
 
 SaffronCity_FightingDojo_Text_Sign1:
-	.string "Links: HP, DEF, SDEF$"
+	.string "Links: KP, DEF, SDEF$"
 
 SaffronCity_FightingDojo_Text_Sign2:
 	.string "Rechts: ATK, SPATK, SPD$"
 
 SaffronCity_FightingDojo_Text_Cooltrainer::
-	.string "Only trainers with all KANTO badges\n"
-	.string "may enter the VIP lounge.$"
+	.string "Nur Trainer mit allen KANTO-ORDEN\n"
+	.string "dürfen in die VIP-Lounge.$"
 
 @Ability swapper
 

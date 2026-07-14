@@ -52,7 +52,7 @@ CeladonDeptStore3F_Text_GameboyKid2:
 	.string "Juhu! Endlich bekomme ich ein Porygon!\n"
 	.string "\p"
 	.string "Ich bin schlecht an den\n"
-	.string "Spielautomaten,\n"
+	.string "Spielautomaten,\l"
 	.string "deshalb hatte ich nie genug Münzen…\p"
 	.string "…Huh?\p"
 	.string "Das getauschte Porygon hat sich in\n"

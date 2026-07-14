@@ -21,7 +21,7 @@ CeruleanCity_House2_EventScript_Diglett::
 
 CeruleanPolice_Text_FishingGuru:
 	.string "Ich habe gehört,\n"
-	.string "dass ein zwielichtiger Typ\n"
+	.string "dass ein zwielichtiger Typ\l"
 	.string "herumschleichen soll.\p"
 	.string "Ich werde nicht ruhig abwarten\n"
 	.string "wenn sich herausstellt,\l"

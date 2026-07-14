@@ -19,10 +19,10 @@ CeladonDept1_EventScript_Directory::
     end
 
 CeladonDeptStore_Text_1FReceptionist:
-	.string "Hallo! Willkommen im PRISMANIA\l"
-	.string "KAUFHAUS!\n"
-	.string "Das Verzeichnis findest du an der\p"
-	.string "Wand.$"
+	.string "Hallo! Willkommen im PRISMANIA\n"
+	.string "KAUFHAUS!\p"
+	.string "Das Verzeichnis findest du\n"
+	.string "an der Wand.$"
 
 CeladonDeptStore_Text_1FGentleman:
 	.string "Dieses KAUFHAUS gehört zur selben\n"

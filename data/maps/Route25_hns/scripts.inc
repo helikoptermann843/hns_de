@@ -28,7 +28,7 @@ Route25_EventScript_MistyRematch::
 Route25_Text_Misty:
 	.string "MISTY: Ich liebe den Sonnenuntergang\n"
 	.string "hier!\p"
-	.string "Er gibt mir den Mut,\l"
+	.string "Er gibt mir den Mut,\n"
 	.string "weiterzumachen, weißt du?\p"
 	.string "Richtig!\p"
 	.string "Wenn du bereit bist,\n"
@@ -210,8 +210,7 @@ Route25_Text_Eusine2:
 
 Route25_Text_Eusine3:
 	.string "{PLAYER}...\n"
-	.string "Ihr zwei seid wirklich unglaublich...\n"
-	.string "\p"
+	.string "Ihr zwei seid wirklich unglaublich...\p"
 	.string "So einen intensiven Kampf\n"
 	.string "habe ich noch nie gesehen!\l"
 	.string "Ich habe keine Reue...\p"
@@ -388,26 +387,23 @@ Route25_Movement_MistyWalkToPlayerLeft:
 Route25_Text_MistyDate:
 	.string "MISTY: Aww! Warum musst du jetzt\p"
 	.string "auftauchen und uns stören?\p"
-	.string "Weißt du, wie\n"
-	.string "man Menschen wie dich nennt?\p"
-	.string "Plage! Du hast richtig gehört, Plage!\n"
-	.string "\p"
+	.string "Weißt du, wie man Menschen\n"
+	.string "wie dich nennt?\p"
+	.string "Plage! Du hast richtig gehört, Plage!\p"
 	.string "…\p"
 	.string "…Oh? Die ORDEN,\n"
-	.string "die du hast… Sind das ARENA-ORDEN aus\n"
+	.string "die du hast… Sind das ARENA-ORDEN aus\l"
 	.string "JOHTO?\p"
-	.string "Wenn du acht hast, musst du gut sein.\n"
-	.string "\p"
+	.string "Wenn du acht hast, musst du gut sein.\p"
 	.string "O.K. Komm in die\n"
 	.string "PKMN-ARENA von AZURIA CITY.\p"
-	.string "Ich freue mich, gegen dich zu kämpfen.\n"
-	.string "\p"
+	.string "Ich freue mich, gegen dich zu kämpfen.\p"
 	.string "Ich bin MISTY, die\n"
 	.string "ARENALEITERIN von AZURIA CITY.$"
 
 Route25_Text_SchoolboyDudleySeen:
 	.string "Besiege alle sechs\n"
-	.string "Trainer und du erhältst einen\n"
+	.string "Trainer und du erhältst einen\l"
 	.string "wunderbaren Preis!\p"
 	.string "Glaubst du, du hast das Zeug dazu?$"
 
@@ -477,10 +473,10 @@ Route25_Text_SupernerdPatSeen:
 	.string "Uffuffuff…\p"
 	.string "Ich habe mit den\n"
 	.string "sechs Trainern nichts zu tun.\p"
-	.string "Ich habe hier auf dich gewartet, um\p"
-	.string "dich zu besiegen,\n"
-	.string "da du nach den vielen Kämpfen müde\l"
-	.string "sein musst.$"
+	.string "Ich habe hier auf dich gewartet,\n"
+	.string "um dich zu besiegen.\p"
+	.string "Du musst nach den vielen Kämpfen\l"
+	.string "müde sein.$"
 
 Route25_Text_SupernerdPatBeaten:
 	.string "Bist du überhaupt nicht müde?$"
@@ -497,8 +493,8 @@ Route25_Text_CooltrainerKevinNugget:
 	.string "Wie versprochen, hier ist der Preis.$"
 
 Route25_Text_CooltrainerKevinSeen:
-	.string "Nachdem ich gesehen habe, wie\p"
-	.string "du kämpfst, möchte\n"
+	.string "Nachdem ich gesehen habe, wie\n"
+	.string "du kämpfst, möchte\l"
 	.string "ich sehen, wie es mir ergeht.\p"
 	.string "Wie sieht's aus?\n"
 	.string "Ich fordere dich heraus.$"

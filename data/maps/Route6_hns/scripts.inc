@@ -30,8 +30,8 @@ Route6_EventScript_Item_Silver_Wind::
     end
 
 Route6_Text_PokefanM:
-	.string "Die Straße zum KRAFTWERK bleibt\p"
-	.string "gesperrt, bis das\n"
+	.string "Die Straße zum KRAFTWERK bleibt\n"
+	.string "gesperrt, bis das\l"
 	.string "Problem gelöst wurde.$"
 
 Route6_Text_UndergroundPathSign:

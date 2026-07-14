@@ -113,7 +113,7 @@ Route10_PowerPlantEntrance_Text_Officer1AThiefBrokeIn:
 
 Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
 	.string "Ich habe Nachricht aus AZURIA CITY.\p"
-	.string "Eine zwielichtige Figur treibt sich\p"
+	.string "Eine zwielichtige Figur treibt sich\n"
 	.string "dort in der Umgebung herum.$"
 
 Route10_PowerPlantEntrance_Text_Officer1CouldIAskForYourCooperation:
@@ -126,7 +126,7 @@ Route10_PowerPlantEntrance_Text_Officer1HaveToBeefUpSecurity:
 
 Route10_PowerPlantEntrance_Text_Engineer1SomeoneStoleAPart:
 	.string "Jemand hat ein wichtiges Teil\n"
-	.string "gestohlen, das für den\n"
+	.string "gestohlen, das für den\l"
 	.string "Generator nötig ist.\p"
 	.string "Ohne dieses Teil ist der neue\n"
 	.string "Generator nutzlos!$"

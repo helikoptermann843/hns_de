@@ -69,12 +69,12 @@ PewterCity_Text_BugCatcher:
 
 PewterCity_Text_Gramps:
 	.string "Oh, du bist den\n"
-	.string "ganzen Weg  von JOHTO bis hierher\n"
+	.string "ganzen Weg  von JOHTO bis hierher\l"
 	.string "gekommen?\p"
-	.string "Das weckt Erinnerungen. Als\p"
-	.string "ich noch jung war,\n"
+	.string "Das weckt Erinnerungen.\p"
+	.string "Als ich noch jung war,\n"
 	.string "habe ich in JOHTO oft trainiert.\p"
-	.string "Du erinnerst mich an mich\p"
+	.string "Du erinnerst mich an mich\n"
 	.string "selbst als junger Mann.\p"
 	.string "Hier. Ich möchte,\n"
 	.string "dass du dieses Item, das ich in JOHTO\l"
@@ -82,7 +82,7 @@ PewterCity_Text_Gramps:
 
 PewterCity_Text_Gramps_GotSilverWing:
 	.string "Neue und un-\n"
-	.string "bekannte Orte zu erforschen und fremde\n"
+	.string "bekannte Orte zu erforschen und fremde\l"
 	.string "Menschen kennen zu lernen…\p"
 	.string "Das ist das Schöne am Reisen.$"
 
@@ -110,7 +110,8 @@ PewterCity_Text_Sign:
 	.string "MARMORIA CITY Eine Steingraue Stadt$"
 
 PewterCity_Text_GymSign:
-	.string "MARMORIA CITY Eine Steingraue Stadt$"
+	.string "MARMORIA CITY POKéMON ARENA\n"
+	.string "Defensive Meisterklasse.$"
 
 PewterCity_Text_MuseumSign:
 	.string "Hier ist eine Nachricht…\p"

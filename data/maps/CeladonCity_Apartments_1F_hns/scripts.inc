@@ -11,9 +11,9 @@ CeladonCity_Apartments_1F_EventScript_Sign::
 
 CeladonMansion_Text_Manager:
 	.string "Meine lieben Pokémon leisten mir\n"
-	.string "Gesellschaft, sodass ich nie allein\n"
+	.string "Gesellschaft, sodass ich nie allein\l"
 	.string "bin.\p"
 	.string "Mauzi bringt sogar Geld nach Hause.$"
 
 CeladonMansion_Text_ManagersSuiteSign:
-	.string "CELADON MANSION MANAGER'S SUITE$"
+	.string "PRISMANIA HOTEL MANAGER-RAUM.$"

@@ -48,13 +48,12 @@ LavenderTown_Text_Teacher:
 	.string "viele, gute Radioprogramme gesendet.$"
 
 LavenderTown_Text_Gramps:
-	.string "Die Leute kommen von überall her,\p"
-	.string "um den Seelen\n"
-	.string "dahingegangener Pokémon Respekt zu\l"
-	.string "erweisen.$"
+	.string "Die Leute kommen von überall her,\n"
+	.string "um den Seelen dahingegangener\l"
+	.string "Pokémon Respekt zu erweisen.$"
 
 LavenderTown_Text_Youngster:
-	.string "Mit einer -\n"
+	.string "Mit einer POKé-\n"
 	.string "FLÖTE weckst du schlafende Pokémon.\p"
 	.string "Jeder Trainer muss das wissen!$"
 
@@ -63,9 +62,9 @@ LavenderTown_Text_Sign:
 	.string "Die Liebliche Lilafarbene Stadt$"
 
 LavenderTown_Text_KantoRadioStationSign:
-	.string "KANTO RADIO STATION\p"
-	.string "Your Favorite Programs On-Air\n"
-	.string "Around the Clock!$"
+	.string "KANTO RADIO\p"
+	.string "Deine liebsten Programme,\n"
+	.string "Rund um die Uhr!$"
 
 LavenderTown_Text_VolunteerPokemonHouseSign:
 	.string "WAISENHAUS für Pokémon von LAVANDIA$"

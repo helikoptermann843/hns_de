@@ -15,11 +15,11 @@ PewterCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 PewterCity_PokemonCenter1F_Text_Teacher:
-	.string "…Ja, und die PKMN-ARENA auf der\p"
-	.string "ZINNOBERINSEL ist verschwunden. Das\p"
-	.string "finde ich merkwürdig.\p"
-	.string "…Ja? Ich\n"
-	.string "telefoniere! Lass mich in Ruhe!$"
+	.string "…Ja, und die PKMN-ARENA auf der\n"
+	.string "ZINNOBERINSEL ist verschwunden.\p"
+	.string "Das finde ich merkwürdig.\p"
+	.string "…Ja? Ich telefoniere!\n"
+	.string "Lass mich in Ruhe!$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
 	.string "Pummeluff: Puu pupuu.$"
@@ -72,8 +72,8 @@ PewterCity_PokemonCenter_Text_TradeCompleted:
 	.string "Er ist echt schlau!$"
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Die meisten -\n"
-	.string "MON werden schläfrig, wenn PUMMELUFF\n"
+	.string "Die meisten Poké-\n"
+	.string "mon werden schläfrig, wenn PUMMELUFF\l"
 	.string "singt.\p"
-	.string "Manche Attacken kann man nur an-\p"
+	.string "Manche Attacken kann man nur an-\n"
 	.string "wenden, wenn ein Pokémon schläft.$"

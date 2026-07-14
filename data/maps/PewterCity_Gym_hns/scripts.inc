@@ -52,7 +52,7 @@ PewterCity_Gym_Text_Brock_Intro:
 
 PewterCity_Gym_Text_Brock_WinLoss:
 	.string "Rocko: Die starken Angriffe\n"
-	.string "deiner Pokémon durchbrachen\n"
+	.string "deiner Pokémon durchbrachen\l"
 	.string "meine harte Gesteinsabwehr…\p"
 	.string "Du bist stärker als gedacht…\p"
 	.string "Nimm diesen ORDEN.$"
@@ -62,14 +62,14 @@ PewterCity_Gym_Text_ReceivedBoulderBadge:
 
 PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Rocko: {PLAYER}, danke.\n"
-	.string "Der Kampf hat mir gefallen,\n"
+	.string "Der Kampf hat mir gefallen,\l"
 	.string "auch wenn ich etwas enttäuscht bin.\p"
 	.string "Der FELSORDEN macht deine\n"
 	.string "Pokémon noch stärker.$"
 
 PewterCity_Gym_Text_Brock_FightDone:
 	.string "Rocko: Die Welt ist riesig.\n"
-	.string "Es gibt noch viele starke\n"
+	.string "Es gibt noch viele starke\l"
 	.string "Trainer wie dich.\p"
 	.string "Warte nur ab. Auch ich werde\n"
 	.string "noch viel stärker.$"
@@ -94,16 +94,16 @@ PewterCity_Gym_Text_CamperJerry_AfterBattle:
 
 PewterCity_Gym_Text_Guide:
 	.string "He! Ein CHAMP in spe!\p"
-	.string "Das ist cool! Kämpfst du gegen\p"
+	.string "Das ist cool! Kämpfst du gegen\n"
 	.string "die ARENALEITER in KANTO?\p"
-	.string "Sie sind stark und ambitioniert, wie\p"
+	.string "Sie sind stark und ambitioniert, wie\n"
 	.string "die ARENALEITER in JOHTO.$"
 
 PewterCity_Gym_Text_Guide_Win:
 	.string "He! Ein CHAMP in spe!\p"
-	.string "Diese PKMN-ARENA stellte kein\p"
+	.string "Diese PKMN-ARENA stellte kein\n"
 	.string "Problem für dich dar.\p"
-	.string "Dein Einsatz ist wirklich\p"
+	.string "Dein Einsatz ist wirklich\n"
 	.string "beeindruckend. Das meine ich ehrlich.$"
 
 PewterCity_Gym_EventScript_GymGuy::

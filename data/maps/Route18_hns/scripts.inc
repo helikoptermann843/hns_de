@@ -34,7 +34,7 @@ Route18_EventScript_Sign::
 	end
 
 Route18_Text_BirdKeeperBorisSeen:
-	.string "Wenn du nach Pokémon suchst,\p"
+	.string "Wenn du nach Pokémon suchst,\n"
 	.string "musst du ins hohe Gras gehen.$"
 
 Route18_Text_BirdKeeperBorisBeaten:
@@ -54,8 +54,8 @@ Route18_Text_BirdKeeperBobBeaten:
 	.string "…Uff!$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
-	.string "Wenn du kein FAHRRAD hast,\p"
-	.string "darfst du die\n"
+	.string "Wenn du kein FAHRRAD hast,\n"
+	.string "darfst du die\l"
 	.string "Abkürzung nicht benutzen.$"
 
 Route18_Text_Sign:

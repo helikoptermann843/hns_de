@@ -322,8 +322,8 @@ SaffronMagnetTrainStation_Text_Officer_TrainNotOperating:
 
 SaffronMagnetTrainStation_Text_GymGuide:
 	.string "Der MAGNETZUG ist mit modernster\p"
-	.string "Technik ausgestattet und\p"
-	.string "erreicht durch die\n"
+	.string "Technik ausgestattet und\n"
+	.string "erreicht durch die\l"
 	.string "Nutzung von Elektrizität und\p"
 	.string "Magneten unglaub-\n"
 	.string "liche Geschwindigkeit.\p"
@@ -331,17 +331,17 @@ SaffronMagnetTrainStation_Text_GymGuide:
 
 SaffronMagnetTrainStation_Text_GymGuide_ReturnedPart:
 	.string "Puh…\p"
-	.string "Wie oft bin ich von KANTO nach\p"
+	.string "Wie oft bin ich von KANTO nach\n"
 	.string "JOHTO und zurück gefahren?$"
 
 SaffronMagnetTrainStation_Text_Teacher:
-	.string "Bevor der MAGNETZUG-BAHNHOF erbaut\p"
+	.string "Bevor der MAGNETZUG-BAHNHOF erbaut\n"
 	.string "wurde, stand dort ein Haus.\p"
-	.string "Ein kleines\n"
-	.string "Mädchen, NACHAHMERIN genannt, lebte\l"
+	.string "Ein kleines Mädchen,\n"
+	.string "NACHAHMERIN genannt, lebte\l"
 	.string "dort.$"
 
 SaffronMagnetTrainStation_Text_Lass:
-	.string "Hi. Hast du einen FAHRSCHEIN? Ich\p"
-	.string "habe einen. Jeder in SAFFRONIA, der\p"
+	.string "Hi. Hast du einen FAHRSCHEIN? Ich\n"
+	.string "habe einen. Jeder in SAFFRONIA, der\l"
 	.string "mit dem MAGNETZUG fährt, hat einen.$"

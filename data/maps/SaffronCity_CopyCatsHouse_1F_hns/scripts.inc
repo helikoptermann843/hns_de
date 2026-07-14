@@ -27,7 +27,7 @@ SaffronCity_CopyCatsHouse_1F_EventScript_Blissey::
 CopycatsHouse1F_Text_PokefanM:
 	.string "Meine Tochter\n"
 	.string "macht gerne Menschen nach.\p"
-	.string "Dieses Hobby hat ihr den Spitznamen\p"
+	.string "Dieses Hobby hat ihr den Spitznamen\n"
 	.string "NACHAHMERIN eingebracht.$"
 
 CopycatsHouse1F_Text_PokefanF:
@@ -35,7 +35,7 @@ CopycatsHouse1F_Text_PokefanF:
 	.string "Sie hat nur wenige Freunde.$"
 
 CopycatsHouse1F_Text_PokefanF_ReturnedPart:
-	.string "Vor kurzem hat sie ihre PUPPE,\p"
+	.string "Vor kurzem hat sie ihre PUPPE,\n"
 	.string "die ihr ein Junge vor drei Jahren\p"
 	.string "geschenkt hat, verloren.\p"
 	.string "Ihre Nachahmerei\n"

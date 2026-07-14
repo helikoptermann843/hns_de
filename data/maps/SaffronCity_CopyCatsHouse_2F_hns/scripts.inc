@@ -218,15 +218,15 @@ Copycat_Text_QuickMimicking:
 	.string "meine liebste Beschäftigung!$"
 
 Copycat_Text_Male_2:
-	.string "{PLAYER}: Hi! Ich habe gehört,\p"
-	.string "dass du deine\n"
-	.string "Lieblings- PUPPE verloren hast.\p"
-	.string "{PLAYER}: Gibst du\n"
-	.string "mir einen FAHRSCHEIN, wenn ich sie\n"
+	.string "{PLAYER}: Hi! Ich habe gehört,\n"
+	.string "dass du deine Lieblings-\l"
+	.string "PUPPE verloren hast.\p"
+	.string "{PLAYER}: Gibst du mir einen\n"
+	.string "FAHRSCHEIN, wenn ich sie\l"
 	.string "finde?\p"
 	.string "{PLAYER}: Ich suche sie für dich.\p"
-	.string "Du glaubst, sie\n"
-	.string "auf dem Weg nach ORANIA CITY verloren\l"
+	.string "Du glaubst, sie auf dem\n"
+	.string "Weg nach ORANIA CITY verloren\l"
 	.string "zu haben?$"
 
 Copycat_Text_Worried:
@@ -240,7 +240,7 @@ Copycat_Text_Worried:
 Copycat_Text_GiveDoll:
 	.string "NACHAHMERIN: Jaa!\n"
 	.string "Das ist meine PIEPI-PUPPE!\p"
-	.string "Siehst du die Naht am rechten\p"
+	.string "Siehst du die Naht am rechten\n"
 	.string "Bein? Das ist der Beweis!$"
 
 Copycat_Text_GivePass:
@@ -250,11 +250,10 @@ Copycat_Text_GivePass:
 
 Copycat_Text_ExplainPass:
 	.string "NACHAHMERIN: Das\n"
-	.string "ist der FAHRSCHEIN für den MAGNETZUG.\n"
-	.string "\p"
-	.string "Der Mann von der Eisenbahn gab mir\p"
-	.string "das, als sie unser\n"
-	.string "altes Haus niederrissen, um den\l"
+	.string "ist der FAHRSCHEIN für den MAGNETZUG.\p"
+	.string "Der Mann von der Eisenbahn gab mir\n"
+	.string "das, als sie unser altes\l"
+	.string "Haus niederrissen, um den\p"
 	.string "BAHNHOF zu bauen.$"
 
 Copycat_Text_Male_3:

@@ -31,19 +31,16 @@ CeladonCity_PokemonCenter1F_Text_Pharmacist:
 
 Celadon_Text_Eusine1:
 	.string "Eusin: Hi!\p"
-	.string "Ich besuche wieder meine Heimatstadt.\n"
-	.string "\p"
+	.string "Ich besuche wieder meine Heimatstadt.\p"
 	.string "Es ist schon eine ganze Weile her.$"
 
 Celadon_Text_EusineLeaves:
 	.string "{PLAYER}, hast du gehört?\p"
 	.string "Es gibt frische Gerüchte über ein\n"
-	.string "regenbogenfarbenes Pokémon,\n"
+	.string "regenbogenfarbenes Pokémon,\l"
 	.string "das im Glockenturm erscheint.\p"
-	.string "Ich habe gerade meine Party heilen\l"
-	.string "lassen\n"
-	.string "lassen, jetzt mache ich mich auf nach\p"
-	.string "\p"
+	.string "Ich habe gerade meine Party heilen\n"
+	.string "lassen, jetzt mache ich mich auf nach\l"
 	.string "Teak-City. Wir sehen uns, {PLAYER}!$"
 
 Celadon_Text_NoBeasts:

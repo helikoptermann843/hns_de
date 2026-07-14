@@ -24,12 +24,12 @@ LavenderTown_PokemonCenter_EventScript_YoungsterReturnedMachinePart::
 	end
 
 LavenderTown_PokemonCenter1F_Text_Gentleman:
-	.string "Im Norden von LAVANDIA ist der\p"
+	.string "Im Norden von LAVANDIA ist der\n"
 	.string "FELSTUNNEL. Er führt zum KRAFTWERK.$"
 
 LavenderTown_PokemonCenter1F_Text_Teacher:
 	.string "Es gibt eine\n"
-	.string "Musiksendung im Radio, die Melodien\n"
+	.string "Musiksendung im Radio, die Melodien\l"
 	.string "auf der - FLÖTE sendet.\p"
 	.string "Ach ja? Ah, dein\n"
 	.string "Radio braucht ein ZUSATZSET, damit du\l"
@@ -37,15 +37,15 @@ LavenderTown_PokemonCenter1F_Text_Teacher:
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
 	.string "Wenn das KRAFTWERK\n"
-	.string "nicht funktioniert, läuft der\p"
+	.string "nicht funktioniert, läuft der\l"
 	.string "MAGNETZUG auch nicht…\p"
 	.string "Das bedeutet, dass\n"
-	.string "auch die RADIOSTATION nicht\p"
+	.string "auch die RADIOSTATION nicht\l"
 	.string "auf Sendung gehen kann…$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster_ReturnedMachinePart:
 	.string "Der INTENDANT der\n"
 	.string "RADIOSTATION war hoch erfreut.\p"
-	.string "Er sagte, sie seien wieder auf\p"
-	.string "Sendung, weil das\n"
+	.string "Er sagte, sie seien wieder auf\n"
+	.string "Sendung, weil das\l"
 	.string "KRAFTWERK wieder einwandfrei arbeite.$"

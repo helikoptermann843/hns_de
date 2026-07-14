@@ -24,16 +24,16 @@ CeruleanCity_EventScript_Guard::
 	end
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "This is CERULEAN CAVE.\p"
-    .string "Horribly strong POKéMON live inside\n"
-    .string "there.\p"
-    .string "It takes a very special TRAINER to\n"
-    .string "be allowed inside there.\p"
-    .string "You'd have to be strong enough to\n"
-    .string "become the KANTO POKéMON LEAGUE\l"
-    .string "CHAMPION for starters.\p"
-    .string "And, you would have to have\n"
-    .string "made a great achievement.$"
+    .string "Dies ist die AZURIA-Höhle.\p"
+    .string "Unglaublich starke POKéMON\n"
+    .string "leben hier.\p"
+    .string "Es braucht einen wirklich\n"
+    .string "unglaublichen Trainer,\l"
+    .string "um einlass zu erhalten.\p"
+    .string "Werde zuerst KANTO POKéMON-\n"
+    .string "LIGA CHAMPION.\p"
+    .string "Und du müsstest eine große\n"
+    .string "Tat vollbracht haben.$"
 
 CeruleanCity_Text_CooltrainerM1:
 	.string "KANTOs Kraftwerk?\p"
@@ -149,7 +149,7 @@ CeruleanCity_Text_Sign:
 
 CeruleanCity_Text_GymSign:
 	.string "Azuria City\n"
-	.string "Pokémon Arena\n"
+	.string "Pokémon Arena\l"
 	.string "Leiter: Misty\p"
 	.string "Die Jungenhafte Meerjungfrau$"
 
@@ -162,8 +162,7 @@ CeruleanCity_Text_PoliceSign:
 	.string "Hier ist eine Nachricht…\p"
 	.string "Stoppt die Kriminalität und\n"
 	.string "macht aus dieser Stadt einen Ort,\l"
-	.string "an dem man sicher ist und gerne lebt!\n"
-	.string "\p"
+	.string "an dem man sicher ist und gerne lebt!\p"
 	.string "ORDNUNGSAMT von Azuria City$"
 
 CeruleanCity_Text_CapeSign:

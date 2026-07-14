@@ -227,16 +227,16 @@ Route14_Text_Eusine:
 
 Route14_Text_PokefanmTrevorSeen:
 	.string "Hi. Wusstest du…,\p"
-	.string "dass Pokémon dich mehr mögen, wenn\p"
-	.string "du sie an einem\n"
+	.string "dass Pokémon dich mehr mögen, wenn\n"
+	.string "du sie an einem\l"
 	.string "ihnen bekannten Platz trainierst?$"
 
 Route14_Text_PokefanmTrevorBeaten:
 	.string "Wo traf ich dieses ENTON?$"
 
 Route14_Text_PokefanmTrevorAfterBattle:
-	.string "Gäbe es doch einen einfachen Weg, um\p"
-	.string "festzustellen, wo\n"
+	.string "Gäbe es doch einen einfachen Weg, um\n"
+	.string "festzustellen, wo\l"
 	.string "ich meine Pokémon traf…$"
 
 Route14_Text_TrevorRegister:
@@ -255,8 +255,8 @@ Route14_Text_TrevorPostRematch:
 	.string "stärker. Ich bin sicher!$"
 
 Route14_Text_PokefanmCarterSeen:
-	.string "Eines kann ich dir sagen! Es war\p"
-	.string "harte Arbeit, mei-\n"
+	.string "Eines kann ich dir sagen! Es war\n"
+	.string "harte Arbeit, mei-\l"
 	.string "ne prämierten Pokémon zu fangen.$"
 
 Route14_Text_PokefanmCarterBeaten:
@@ -292,7 +292,7 @@ Route14_Text_BirdKeeperRoyBeaten:
 	.string "aber ich kann nicht fliegen…$"
 
 Route14_Text_BirdKeeperRoyAfterBattle:
-	.string "Du hast Pokémon, welche die VM\p"
+	.string "Du hast Pokémon, welche die VM\n"
 	.string "FLIEGEN kennen? Ich beneide dich.$"
 
 Route14_EventScript_Pidgeotto::

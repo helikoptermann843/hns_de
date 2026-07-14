@@ -78,14 +78,14 @@ SaffronCity_Gym_Text_SabrinaWinLoss:
 	.string "Zukunft nicht vollständig\l"
 	.string "vorhersagen…\p"
 	.string "Du hast gewonnen. Du hast dir\n"
-	.string "den SUMPFORDENABZEICHEN verdient.$"
+	.string "den SUMPFORDEN verdient.$"
 
 SaffronCity_Gym_Text_ReceivedMarshBadge:
-	.string "{PLAYER} erhielt das\n"
-	.string "SUMPFORDENABZEICHEN.$"
+	.string "{PLAYER} erhielt den\n"
+	.string "SUMPFORDEN.$"
 
 SaffronCity_Gym_Text_MarshBadgeInfo:
-	.string "SABRINA: Das SUMPFORDENABZEICHEN\n"
+	.string "SABRINA: Der SUMPFORDEN\n"
 	.string "weckt deine verborgenen Kräfte…\p"
 	.string "Auch wenn ich deine Kraft nicht\n"
 	.string "genau vorhersehen konnte, das\l"
@@ -197,4 +197,4 @@ SaffronCity_Gym_Text_GymStatuePlayerWon::
     .string "SAFFRONIA POKéMON ARENA\n"
     .string "LEITER: SABRINA\p"
     .string "GEWINNER:\n"
-	.string "BLUE, RED, {PLAYER}$"
+	.string "BLAU, ROT, {PLAYER}$"

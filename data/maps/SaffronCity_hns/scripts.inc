@@ -110,9 +110,9 @@ SaffronCity_Text_Elli:
 	.string "Ich liebe Vulpix! :D$"
 
 SaffronCity_Text_Lass1:
-	.string "Hier lebt ein kleines Mädchen,\p"
+	.string "Hier lebt ein kleines Mädchen,\n"
 	.string "das hervorragend Menschen nachahmt.\p"
-	.string "Sie imitiert sogar Menschen, mit\p"
+	.string "Sie imitiert sogar Menschen, mit\n"
 	.string "denen sie sich gerade unterhält.\p"
 	.string "Das ist sehr verwirrend.$"
 
@@ -134,50 +134,49 @@ SaffronCity_Text_PokefanM_ReturnedPart:
 
 SaffronCity_Text_CooltrainerM:
 	.string "Ich ging zur PKMN-\n"
-	.string "ARENA, weil ich unbedingt kämpfen\n"
+	.string "ARENA, weil ich unbedingt kämpfen\l"
 	.string "wollte…\p"
-	.string "Wie sich herausstellte, bin ich\p"
+	.string "Wie sich herausstellte, bin ich\n"
 	.string "ausgerechnet in der verlassenen\p"
 	.string "PKMN-ARENA gelandet.\p"
 	.string "War mir das peinlich!$"
 
 SaffronCity_Text_CooltrainerF:
 	.string "Das ist die SILPH\n"
-	.string "CO., berühmt für ihre PokémonArtikel.\n"
-	.string "\p"
-	.string "TEAM ROCKET wollte sie wegen dieser\p"
+	.string "CO., berühmt für ihre PokémonArtikel.\p"
+	.string "TEAM ROCKET wollte sie wegen dieser\n"
 	.string "Waren für sich nutzen.$"
 
 SaffronCity_Text_Fisher:
 	.string "Mampf… Mampf…\p"
 	.string "Wie ich höre,\n"
-	.string "braut sich da etwas im KRAFTWERK\n"
+	.string "braut sich da etwas im KRAFTWERK\l"
 	.string "zusammen.\p"
 	.string "Mampf… Mampf…$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
 	.string "Mampf… Mampf…\p"
 	.string "Wie ich höre,\n"
-	.string "braute sich da etwas im KRAFTWERK\n"
+	.string "braute sich da etwas im KRAFTWERK\l"
 	.string "zusammen.\p"
 	.string "Mampf… Mampf… Aah, ich bin satt!$"
 
 SaffronCity_Text_Youngster1:
-	.string "Ich finde es unheimlich, wenn\p"
-	.string "ich zum ersten Mal\n"
+	.string "Ich finde es unheimlich, wenn\n"
+	.string "ich zum ersten Mal\l"
 	.string "einen engen Gang betrete.$"
 
 SaffronCity_Text_Youngster2:
-	.string "In VERTANIA CITY gibt es ein HAUS\p"
-	.string "für TRAINER. Dort treffen sich\p"
+	.string "In VERTANIA CITY gibt es ein HAUS\n"
+	.string "für TRAINER. Dort treffen sich\l"
 	.string "Trainer der ganzen Welt.$"
 
 SaffronCity_Text_Lass2:
 	.string "Über unsere Stadt\n"
 	.string "wurde mal im Radio berichtet.\p"
-	.string "Es ist schön, dass für deine Stadt\p"
-	.string "geworben wird,\n"
-	.string "aber es ist auch ein bisschen\l"
+	.string "Es ist schön, dass für deine Stadt\n"
+	.string "geworben wird.\p"
+	.string "Aber es ist auch ein bisschen\n"
 	.string "peinlich.$"
 
 SaffronCity_Text_Sign:
@@ -193,8 +192,8 @@ SaffronCity_Text_FightingDojoSign:
 	.string "Kampf DOJO$"
 
 SaffronCity_Text_SilphCoSign:
-	.string "SAFFRONIA CITY\p"
-	.string "Golden Schimmernde Stadt des Handels$"
+	.string "SILPH CO.\p"
+	.string "BÜROGEBÄUDE$"
 
 SaffronCity_Text_MrPsychicHouseSign:
 	.string "MR.Psychokinese's HAUS$"
