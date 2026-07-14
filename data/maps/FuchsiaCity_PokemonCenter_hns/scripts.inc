@@ -45,10 +45,10 @@ FuchsiaCity_PokemonCenter1F_Text_CooltrainerM:
 	.string "Hat PROF. EICH dir den gegeben?$"
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "Ich habe mich in der PKMN-ARENA\p"
+	.string "Ich habe mich in der PKMN-ARENA\n"
 	.string "ganz schön erschreckt.\p"
-	.string "Da waren viele\n"
-	.string "Mädchen, die alle gleich aussahen.$"
+	.string "Da waren viele Mädchen,\n"
+	.string "die alle gleich aussahen.$"
 
 FuchsiaCity_PokemonCenter1F_Text_JanineImpersonator1:
 	.string "Ich bin JANINA! Hokus pokus… Fidibus!$"

@@ -135,19 +135,19 @@ Route20_Text_SwimmerfNicoleAfterBattle:
 	.string "Schwimmen ist gesund.$"
 
 Route20_Text_SwimmerfLoriSeen:
-	.string "Du besitzt eine umwerfende Anzahl\p"
+	.string "Du besitzt eine umwerfende Anzahl\n"
 	.string "ARENA-ORDEN. Lass uns kämpfen!$"
 
 Route20_Text_SwimmerfLoriBeaten:
 	.string "Nein!$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
-	.string "SURFER ist nicht\n"
-	.string "mehr die einzige VM, die du im Wasser\l"
+	.string "SURFER ist nicht mehr die\n"
+	.string "einzige VM, die du im Wasser\l"
 	.string "einsetzen kannst.$"
 
 Route20_Text_SwimmermCameronSeen:
-	.string "Ich denke es ist unmöglich, den\p"
+	.string "Ich denke es ist unmöglich, den\n"
 	.string "ganzen Weg nach JOHTO zu schwimmen.$"
 
 Route20_Text_SwimmermCameronBeaten:

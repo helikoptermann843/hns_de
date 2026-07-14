@@ -58,13 +58,13 @@ SeafoamIslands_Gym_Text_GymStatue::
     .string "ZINNOBER POKéMON ARENA\n"
     .string "LEITER: PYRO\p"
 	.string "GEWINNER:\n"
-	.string "BLUE, RED$"
+	.string "BLAU, ROT$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
     .string "ZINNOBER POKéMON ARENA\n"
     .string "LEITER: PYRO\p"
 	.string "GEWINNER:\n"
-	.string "BLUE, RED, {PLAYER}$"
+	.string "BLAU, ROT, {PLAYER}$"
 
 SeafoamIslands_Gym_Text_TM:
 	.string "Nimm auch das hier. Diese TM\n"

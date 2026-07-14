@@ -74,12 +74,12 @@ Route19_Text_SwimmermHaroldBeaten:
 	.string "Gulp…$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
-	.string "Nachts wird das Meer schwarz. Es\p"
-	.string "scheint, als\n"
+	.string "Nachts wird das Meer schwarz.\p"
+	.string "Es scheint, als\n"
 	.string "wollte es dich verschlingen.$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "Uff, uff… Nur… noch… ein\p"
+	.string "Uff, uff… Nur… noch… ein\n"
 	.string "kleines Stück… bis …FUCHSANIA CITY…$"
 
 Route19_Text_SwimmermTuckerBeaten:
@@ -97,41 +97,40 @@ Route19_Text_SwimmerfDawnBeaten:
 	.string "Ich schlage dich beim Schwimmen…$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "Es ist nur eine kurze Distanz\p"
-	.string "zwischen FUCHSANIA\n"
+	.string "Es ist nur eine kurze Distanz\n"
+	.string "zwischen FUCHSANIA\l"
 	.string "CITY und den SEESCHAUMINSELN…\p"
-	.string "Uah, mein Freund ist so groß und\p"
+	.string "Uah, mein Freund ist so groß und\n"
 	.string "dennoch ein Schwächling!$"
 
 Route19_Text_SwimmermJeromeSeen:
 	.string "Schwimmen? Ich bin\n"
 	.string "ein miserabler Schwimmer.\p"
-	.string "Ich plansche\n"
-	.string "lieber in dieser Riesenpfütze.$"
+	.string "Ich plansche lieber\n"
+	.string "in dieser Riesenpfütze.$"
 
 Route19_Text_SwimmermJeromeBeaten:
 	.string "Ich dachte, ich könnte gewinnen.$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "Schwimmen mag\n"
-	.string "nicht meine Stärke sein, dennoch liebe\l"
+	.string "Schwimmen mag nicht meine\n"
+	.string "Stärke sein, dennoch liebe\l"
 	.string "ich das Meer.$"
 
 Route19_Text_Fisher1:
 	.string "Tut mir Leid.\n"
-	.string "Die Straße ist aufgrund von\n"
+	.string "Die Straße ist aufgrund von\l"
 	.string "Bauarbeiten gesperrt.\p"
-	.string "Wenn du zu der ZINNOBERINSEL\p"
-	.string "möchtest, gehst\n"
-	.string "du von ALABASTIA gen Süden.$"
+	.string "Wenn du zu der ZINNOBERINSEL\n"
+	.string "möchtest, gehst du von\l"
+	.string "ALABASTIA gen Süden.$"
 
 Route19_Text_Kingler:
 	.string "Kingler: KEEEEEEEEEEEE$"
 
 Route19_Text_Fisher1_RocksCleared:
-	.string "Ich bin total\n"
-	.string "verschwitzt. Es ist Zeit zum\l"
-	.string "Schwimmen.$"
+	.string "Ich bin total verschwitzt.\p"
+	.string "Es ist Zeit zum Schwimmen.$"
 
 Route19_Text_Fisher2:
 	.string "Es würde zu lange\n"
@@ -151,7 +150,7 @@ Route19_Text_Sign:
 
 Route19_Text_CarefulSwimmingSign:
 	.string "Sei auf der Hut,\n"
-	.string "wenn du zu den SEESCHAUMINSELN\n"
+	.string "wenn du zu den SEESCHAUMINSELN\l"
 	.string "schwimmst.\p"
 	.string "ORDNUNGSAMT VON FUCHSANIA CITY$"
 

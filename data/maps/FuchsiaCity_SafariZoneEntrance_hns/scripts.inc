@@ -221,7 +221,7 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
 	.string "gekauft und viele Verbesserungen\l"
 	.string "vorgenommen.\p"
 	.string "Hier findest du sehr exotische\n"
-	.string "Pokémon. Besonders, wenn du\n"
+	.string "Pokémon. Besonders, wenn du\l"
 	.string "dein SAFARI-LEVEL erhöhst.\p"
 	.string "Sprich einfach mit dem Aufseher\n"
 	.string "hier, um dein SAFARI-LEVEL jederzeit\l"

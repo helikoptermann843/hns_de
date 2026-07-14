@@ -21,7 +21,7 @@ FuchsiaCity_House2_Text_WardensGranddaughter1:
 	.string "Zumindest war er das…\p"
 	.string "Er beschloss, Urlaub zu machen\n"
 	.string "und reiste ganz allein ins Ausland.\p"
-	.string "Er hörte einfach auf, die Safari-\l"
+	.string "Er hörte einfach auf, die Safari-\n"
 	.string "Zone zu leiten.$"
 
 FuchsiaCity_House2_Text_WardensGranddaughter2:

@@ -14,6 +14,6 @@ FuchsiaCity_House1_Text_BillsOlderSister:
 	.string "beim Kap Azuria.$"
 
 FuchsiaCity_House1_Text_Youngster:
-	.string "Ich habe diese komischen, langsamen\p"
+	.string "Ich habe diese komischen, langsamen\n"
 	.string "Pokémon auf dem Radweg gesehen.$"
 

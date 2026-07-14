@@ -21,17 +21,17 @@ FuchsiaCity_EventScript_BaobaCall::
 FuchsiaCity_Text_Baoba:
 	.string "AUFSEHER Baoba: {PLAYER}!\p"
 	.string "Ich bin AUFSEHER Baoba.\p"
-	.string "Etwas Schreckliches ist passiert!\l"
-	.string "Meine alte Safari-Zone in Fuchsania\n"
-	.string "City wurde aufgekauft und wieder\p"
+	.string "Etwas Schreckliches ist passiert!\n"
+	.string "Meine alte Safari-Zone in Fuchsania\l"
+	.string "City wurde aufgekauft und wieder\l"
 	.string "eröffnet!\p"
 	.string "Und anscheinend gibt es neue,\n"
 	.string "exotische Pokémon!\p"
 	.string "Das schadet meinem Geschäft!\p"
 	.string "{PLAYER}, du musst in die neue\n"
-	.string "Safari-Zone gehen und ein Pokémon\n"
-	.string "fangen, um es mir zu zeigen.\l"
-	.string "Ich muss über diese 'exotischen'\l"
+	.string "Safari-Zone gehen und ein Pokémon\l"
+	.string "fangen, um es mir zu zeigen.\p"
+	.string "Ich muss über diese 'exotischen'\n"
 	.string "Pokémon Bescheid wissen.\p"
 	.string "Bitte {PLAYER}, mein Geschäft hängt\n"
 	.string "von dir ab!$"
@@ -127,7 +127,7 @@ FuchsiaCity_Text_SafariZoneOfficeSign:
 	.string "weiteres geschlossen.$"
 
 FuchsiaCity_Text_SafariZone:
-	.string "Safari-Zone NEUER EIGENTÜMER\l"
+	.string "Safari-Zone NEUER EIGENTÜMER\n"
 	.string "DEVON CORP.$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:

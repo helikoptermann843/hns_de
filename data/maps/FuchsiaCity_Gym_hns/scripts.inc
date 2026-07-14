@@ -108,7 +108,7 @@ FuchsiaCity_Gym_Text_Janine_ToxicSpeech:
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
 	.string "Janina: Ich werde mich richtig\n"
-	.string "anstrengen und meine Fähigkeiten\n"
+	.string "anstrengen und meine Fähigkeiten\l"
 	.string "verbessern.\p"
 	.string "Ich will besser werden als Vater\n"
 	.string "und du!$"
@@ -278,26 +278,25 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-	.string "WINNING TRAINERS:\n"
-	.string "BLUE, RED$"
+    .string "FUCHSANIA POKéMON ARENA\n"
+    .string "LEITER: JANINA\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSIA POKéMON GYM\n"
-    .string "LEADER: JANINE\p"
-    .string "WINNING TRAINERS:\n"
-    .string "BLUE, RED, {PLAYER}$"
+    .string "FUCHSANIA POKéMON ARENA\n"
+    .string "LEITER: JANINA\p"
+	.string "GEWINNER:\n"
+	.string "BLAU, ROT, {PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:
 	.string "He! Ein CHAMP in spe!\p"
-	.string "Nanu! Sieh dich mal um. Alle\p"
-	.string "Trainer sehen aus\n"
+	.string "Nanu! Sieh dich mal um. Alle\n"
+	.string "Trainer sehen aus\l"
 	.string "wie die ARENALEITERIN JANINA.\p"
 	.string "Welche davon ist die echte JANINA?$"
 
 FuchsiaCity_Gym_Text_GuideWin:
-	.string "Das war ein\n"
-	.string "hervorragender Kampf, Trainer aus\l"
-	.string "JOHTO!$"
+	.string "Das war ein hervorragender\n"
+	.string "Kampf, Trainer aus JOHTO!$"
 
