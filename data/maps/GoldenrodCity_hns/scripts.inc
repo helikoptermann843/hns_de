@@ -69,6 +69,7 @@ GoldenrodCity_Trigger_MusicNotYet::
 
 GoldenrodCity_Elm_Togepi_Call::
 	lock
+	setspeaker GoldenrodCity_Text_ElmName
 	pokenavcall GoldenrodCity_Text_ElmCall
 	waitmessage
 	delay 30
@@ -312,6 +313,9 @@ GoldenrodCity_Text_Snubbull:
 
 GoldenrodCity_Text_MrMime:
 	.string "............................$"
+
+GoldenrodCity_Text_ElmName:
+	.string "PROF.ELM$"
 
 GoldenrodCity_Text_ElmCall:
 	.string "PROF.ELM: Hello, {PLAYER}?\n"

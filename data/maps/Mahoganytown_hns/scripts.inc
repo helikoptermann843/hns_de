@@ -23,6 +23,7 @@ Mahoganytown_EventScript_DefeatedGym::
 
 Mahoganytown_EventScript_RocketTrigger::
 	lock
+	setspeaker Mahoganytown_Text_ElmName
 	pokenavcall ElmPhoneRadioTowerRocketTakeoverText
 	waitmessage
 	setvar VAR_GOLDENROD_CITY_STATE, 6
@@ -37,6 +38,7 @@ Mahoganytown_EventScript_RocketTrigger::
 
 Mahoganytown_EventScript_LegendaryTrigger::
 	lock
+	setspeaker Mahoganytown_Text_ElmName
 	pokenavcall ElmPhoneRoute39LegendaryText
 	waitmessage
 	setvar VAR_MAHOGANY_TOWN_STATE, 18
@@ -317,6 +319,9 @@ MahoganyTown_Text_GymSign:
     .string "MAHOGANY TOWN POKéMON GYM\p"
     .string "LEADER: PRYCE\p"
     .string "The Teacher of Winter's Harshness$"
+
+Mahoganytown_Text_ElmName:
+	.string "PROF.ELM$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "PROF.ELM: {PLAYER}, how are\n"
