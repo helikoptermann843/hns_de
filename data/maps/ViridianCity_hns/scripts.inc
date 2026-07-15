@@ -13,12 +13,16 @@ ViridianCity_OnFrame::
 
 ViridianCity_EventScript_OakCall::
 	lock
+	setspeaker ViridianCity_Text_OakName
 	pokenavcall ViridianCity_Text_OakCall
 	waitmessage
 	delay 30
 	setvar VAR_OAK_MT_SILVER_CALL, 2
 	release
 	end
+
+ViridianCity_Text_OakName:
+	.string "OAK$"
 
 ViridianCity_Text_OakCall:
 	.string "EICH: Ah, {PLAYER}!\p"
