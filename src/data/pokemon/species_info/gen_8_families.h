@@ -862,7 +862,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .weight = 60,
         .description = COMPOUND_STRING(
         "Es versteckt Beeren in seinem Schwanz\n"
-        "– so viele Beeren, dass sie ständig\n"
+        "- so viele Beeren, dass sie ständig\n"
         "herausfallen. Da dieses Pokémon jedoch\n"
         "etwas träge ist, bemerkt es den..."),
         .pokemonScale = 422,
@@ -929,7 +929,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         "Es wird jeden Gegner mutig\n"
         "herausfordern, egal wie mächtig er\n"
         "ist. Dieses Pokémon profitiert von\n"
-        "jedem Kampf – selbst eine Niederlag..."),
+        "jedem Kampf - selbst eine Niederlag..."),
         .pokemonScale = 682,
         .pokemonOffset = 24,
         .trainerScale = 256,
@@ -1002,7 +1002,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         "Diese Pokémon sind intelligent genug,\n"
         "um Werkzeuge im Kampf einzusetzen. Man\n"
         "hat sie dabei beobachtet, wie sie\n"
-        "Steine ​​aufhoben und sie schleuder..."),
+        "Steine aufhoben und sie schleuder..."),
         .pokemonScale = 366,
         .pokemonOffset = 7,
         .trainerScale = 257,
@@ -6919,7 +6919,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .description = COMPOUND_STRING(
         "Da es mit einem einzigen Schlag alles\n"
         "niedermetzeln konnte, wurde es als\n"
-        "„Schwert des Feenkönigs“ bekannt und\n"
+        "Schwert des Feenkönigs bekannt und\n"
         "löste bei Freund und Feind..."),
         .pokemonScale = 275,
         .pokemonOffset = 7,
@@ -7057,7 +7057,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .description = COMPOUND_STRING(
         "Seine Fähigkeit, jeden Angriff\n"
         "abzuwehren, führte dazu, dass es als\n"
-        "„Schild des kämpfenden Meisters“\n"
+        "Schild des kämpfenden Meisters\n"
         "bekannt wurde. Es wurde von allen..."),
         .pokemonScale = 275,
         .pokemonOffset = 7,
@@ -7849,7 +7849,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .description = COMPOUND_STRING(
         "Polaross strahlt intensive Kälte aus\n"
         "seinen Hufen aus. Außerdem ist es ein\n"
-        "kriegerisches Pokémon – alles, was es"
+        "kriegerisches Pokémon - alles, was es"
         "will, nimmt es sich mit Gewalt."),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -7915,7 +7915,7 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .weight = 445,
         .description = COMPOUND_STRING(
         "Es erkundet seine Umgebung mit allen\n"
-        "Sinnen, außer einem – seinen Sehsinn\n"
+        "Sinnen, außer einem - seinen Sehsinn\n"
         "nutzt es nicht. Spectriers Tritte\n"
         "sollen die Seele vom Körper trennen."),
         .pokemonScale = 261,

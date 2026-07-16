@@ -650,7 +650,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 109,
         .description = COMPOUND_STRING(
         "Mit präziser Kontrolle kann er mit\n"
-        "Blasen bedeckte Kieselsteine ​​werfen\n"
+        "Blasen bedeckte Kieselsteine werfen\n"
         "und leere Dosen bis zu einer\n"
         "Entfernung von 30 Metern treffen...."),
         .pokemonScale = 422,
@@ -3791,7 +3791,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
         "Mit seinen bunten Lichtern\n"
         "überschreibt es die Persönlichkeit und\n"
-        "Erinnerungen anderer – und\n"
+        "Erinnerungen anderer - und\n"
         "kontrolliert sie."),
         .frontPic = gMonFrontPic_MalamarMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -3847,7 +3847,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
         "Sie strecken sich und ziehen sich dann\n"
         "wieder zusammen, wobei sie in kühnen\n"
-        "Sprüngen ihre Steine ​​mit sich\n"
+        "Sprüngen ihre Steine mit sich\n"
         "reißen. Sie fressen Algen, die an d..."),
         .pokemonScale = 432,
         .pokemonOffset = 13,
@@ -5412,7 +5412,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .weight = 3341,
         .description = COMPOUND_STRING(
         "Es verabscheut die Einsamkeit und ist\n"
-        "äußerst anhänglich – es wird wütend\n"
+        "äußerst anhänglich - es wird wütend\n"
         "und außer sich vor Wut, wenn seine\n"
         "Liebsten jemals von seiner Seite..."),
         .pokemonScale = 261,
@@ -6395,7 +6395,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .description = COMPOUND_STRING(
         "Die Eispanzerung, die seinen\n"
         "Unterkiefer bedeckt, stellt Stahl in\n"
-        "den Schatten und kann Steine ​​mit"
+        "den Schatten und kann Steine mit"
         "Leichtigkeit zertrümmern."),
         .pokemonScale = 261,
         .pokemonOffset = 1,

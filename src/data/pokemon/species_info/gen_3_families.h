@@ -1431,8 +1431,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .description = COMPOUND_STRING(
         "Seine Stimme ist atemberaubend laut.\n"
         "Barrikadax neigt dazu, eine bedrohliche\n"
-        "Haltung einzunehmen und zu schreien –\n"
-        "diese Bewegung wird als „Obstruiere..."),
+        "Haltung einzunehmen und zu schreien -\n"
+        "diese Bewegung wird als Obstruiere..."),
         .pokemonScale = 259,
         .pokemonOffset = 1,
         .trainerScale = 296,
@@ -4638,8 +4638,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .height = 5,
         .weight = 110,
         .description = COMPOUND_STRING(
-        "Auf der Suche nach Nahrung – rohen\n"
-        "Edelsteinen – gräbt es mit seinen\n"
+        "Auf der Suche nach Nahrung - rohen\n"
+        "Edelsteinen - gräbt es mit seinen\n"
         "scharfen Krallen verzweigte Löcher in\n"
         "Höhlen. Ein Sabley lauert in der..."),
         .pokemonScale = 451,
@@ -11876,7 +11876,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         "Mega Evolution verstärkt seine\n"
         "Brutalität und kann sich sogar gegen\n"
         "den Trainer wenden, der es ausgelöst\n"
-        "hat. Man nennt es „das blutgetränkt..."),
+        "hat. Man nennt es das blutgetränkt..."),
         .pokemonScale = 256,
         .pokemonOffset = 0,
         .trainerScale = 256,

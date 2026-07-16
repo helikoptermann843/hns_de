@@ -1542,7 +1542,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .weight = 110,
         .description = COMPOUND_STRING(
         "Das Feuer im Büschel auf seinem Kopf\n"
-        "kann bis zu 600 °F erreichen. Sehr\n"
+        "kann bis zu 600 F erreichen. Sehr\n"
         "intelligent, röstet es Beeren, bevor\n"
         "es sie isst. Es hilft gerne Menschen."),
         .pokemonScale = 422,
@@ -7857,7 +7857,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .weight = 57,
         .description = COMPOUND_STRING(
         "Die Temperatur ihres Atems beträgt -58\n"
-        "°F. Sie bilden Schneekristalle und\n"
+        "F. Sie bilden Schneekristalle und\n"
         "lassen in den umliegenden Gebieten\n"
         "Schnee fallen. Vanillit wird von..."),
         .pokemonScale = 491,
@@ -10497,7 +10497,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .weight = 360,
         .description = COMPOUND_STRING(
         "Ihre Stoßzähne können Steine\n"
-        "​​zertrümmern. Ein gebrochener\n"
+        "zertrümmern. Ein gebrochener\n"
         "Stoßzahn wächst nicht nach, daher\n"
         "schärft er nach dem Ende einer..."),
         .pokemonScale = 305,
@@ -11634,7 +11634,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .speciesName = _("Caesurio"),
         .cryId = CRY_BISHARP,
         .natDexNum = NATIONAL_DEX_BISHARP,
-        .categoryName = _("Schwertklinge"),
+        .categoryName = _("Klinge"),
         .height = 16,
         .weight = 700,
         .description = COMPOUND_STRING(
@@ -13031,7 +13031,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .weight = 630,
         .description = COMPOUND_STRING(
         "Ein Beispiel für einen sogenannten\n"
-        "„Formwechsel“. Boreos wurde in\n"
+        "Formwechsel. Boreos wurde in\n"
         "dieser Form beim Überqueren des Ozeans\n"
         "gesichtet."),
         .pokemonScale = 268,
@@ -13350,7 +13350,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         .speciesName = _("Zekrom"),
         .cryId = CRY_ZEKROM,
         .natDexNum = NATIONAL_DEX_ZEKROM,
-        .categoryName = _("Reines Schwarz"),
+        .categoryName = _("Dunkelheit"),
         .height = 29,
         .weight = 3450,
         .description = COMPOUND_STRING(
@@ -13428,7 +13428,7 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
         "Die Energie, die aus seinem Schwanz\n"
         "strömt, erhöht die Nährstoffe im Boden\n"
         "und sorgt für reiche Ernten. Es wurde\n"
-        "als „Der Wächter der Felder“ gefeiert."),
+        "als Der Wächter der Felder gefeiert."),
         .pokemonScale = 268,
         .pokemonOffset = 2,
         .trainerScale = 271,

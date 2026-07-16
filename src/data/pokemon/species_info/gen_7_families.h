@@ -4135,7 +4135,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         "Es kämpft geschickt mit seinen sechs\n"
         "Armen, mit einem blitzenden Hieb\n"
         "seiner riesigen, scharfen Klauen\n"
-        "spaltet es Meerwasser – oder sogar..."),
+        "spaltet es Meerwasser - oder sogar..."),
         .pokemonScale = 261,
         .pokemonOffset = 1,
         .trainerScale = 334,
@@ -7186,7 +7186,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .description = COMPOUND_STRING(
         "Dies ist seine Form von vor fast 500\n"
         "Jahren. Sein Körper ist nichts weiter\n"
-        "als ein Behälter – sein künstliches\n"
+        "als ein Behälter - sein künstliches\n"
         "Herz ist die eigentliche Lebensform."),
         .pokemonScale = 305,
         .pokemonOffset = 7,

@@ -4364,7 +4364,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .weight = 415,
         .description = COMPOUND_STRING(
         "Ein Girafarig ist ein Pflanzenfresser\n"
-        "– er frisst Gras und Baumsprossen.\n"
+        "- er frisst Gras und Baumsprossen.\n"
         "Während es frisst, macht sein Schwanz\n"
         "Kau- und Schluckbewegungen, als wür..."),
         .pokemonScale = 281,
@@ -5345,7 +5345,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .description = COMPOUND_STRING(
         "Seine lanzenförmigen Stacheln und sein\n"
         "wildes Temperament haben ihm den\n"
-        "Spitznamen „Sea Fiend“ eingebracht. Es\n"
+        "Spitznamen Seeteufel eingebracht. Es\n"
         "schlürft Gift, um sich zu ernähren."),
         .pokemonScale = 257,
         .pokemonOffset = 10,
@@ -6600,7 +6600,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .speciesName = _("MAMOSWINE"),
         .cryId = CRY_MAMOSWINE,
         .natDexNum = NATIONAL_DEX_MAMOSWINE,
-        .categoryName = _("Doppelstoßzahn"),
+        .categoryName = _("Doppelzahn"),
         .height = 25,
         .weight = 2910,
         .description = COMPOUND_STRING(
@@ -8738,7 +8738,7 @@ const struct SpeciesInfo gSpeciesInfoGen2[] =
         .description = COMPOUND_STRING(
         "Seine Federn, die in sieben Farben\n"
         "leuchten, je nachdem, in welchem\n"
-        "​​Winkel sie vom Licht getroffen\n"
+        "Winkel sie vom Licht getroffen\n"
         "werden, sollen Freude bereiten. Es..."),
         .pokemonScale = 256,
         .pokemonOffset = 0,

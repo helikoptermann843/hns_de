@@ -2570,7 +2570,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .speciesName = _("Pachirisu"),
         .cryId = CRY_PACHIRISU,
         .natDexNum = NATIONAL_DEX_PACHIRISU,
-        .categoryName = _("Elektrohörnchen"),
+        .categoryName = _("Elektrohoern"),
         .height = 4,
         .weight = 39,
         .description = COMPOUND_STRING(
@@ -3324,8 +3324,8 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .description = COMPOUND_STRING(
         "Aufgrund der Art und Weise, wie es\n"
         "ziellos schwebt, wird es in einem\n"
-        "alten Volksmärchen als „Wegweiser für\n"
-        "wandernde Geister“ bezeichnet...."),
+        "alten Volksmärchen als Wegweiser für\n"
+        "wandernde Geister bezeichnet...."),
         .pokemonScale = 491,
         .pokemonOffset = 12,
         .trainerScale = 256,
@@ -5040,7 +5040,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .speciesName = _("Hippoterus"),
         .cryId = CRY_HIPPOWDON,
         .natDexNum = NATIONAL_DEX_HIPPOWDON,
-        .categoryName = _("Schwergewicht"),
+        .categoryName = _("Dickwanst"),
         .height = 20,
         .weight = 3000,
         .description = COMPOUND_STRING(
@@ -6459,7 +6459,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
         .weight = 3,
         .description = COMPOUND_STRING(
         "Einigen Quellen zufolge ist dieses\n"
-        "Pokémon als „Das Wesen des Wissens“\n"
+        "Pokémon als Das Wesen des Wissens\n"
         "bekannt und verlieh den Menschen die\n"
         "nötige Intelligenz, um verschiedene..."),
         .pokemonScale = 530,

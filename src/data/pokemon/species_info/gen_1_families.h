@@ -3479,7 +3479,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "auf Reisen um die Welt schmiedete."),
         .pokemonScale = 479,
@@ -3552,7 +3552,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "in der Hoenn-Region schmiedete."),
         .pokemonScale = 479,
@@ -3625,7 +3625,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "in der Sinnoh-Region schmiedete."),
         .pokemonScale = 479,
@@ -3698,7 +3698,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "in der Einall-Region schmiedete."),
         .pokemonScale = 479,
@@ -3771,7 +3771,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "in der Kalos-Region schmiedete."),
         .pokemonScale = 479,
@@ -3844,7 +3844,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "in der Alola-Region schmiedete."),
         .pokemonScale = 479,
@@ -3918,7 +3918,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "beim Meistern vieler Prüfungen."),
         .pokemonScale = 479,
@@ -3991,7 +3991,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .weight = 60,
         .description = COMPOUND_STRING(
             "Dieses Pikachu trägt die Mütze\n"
-            "seines Partners – ein Beweis für\n"
+            "seines Partners - ein Beweis für\n"
             "die starke Bindung, die es mit ihm\n"
             "auf Reisen um die Welt schmiedete."),
         .pokemonScale = 479,
@@ -8089,7 +8089,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .speciesName = _("Menki"),
         .cryId = CRY_MANKEY,
         .natDexNum = NATIONAL_DEX_MANKEY,
-        .categoryName = _("Schwein / Affe"),
+        .categoryName = _("Affe"),
         .height = 5,
         .weight = 280,
         .description = COMPOUND_STRING(
@@ -8167,7 +8167,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
         .speciesName = _("Rasaff"),
         .cryId = CRY_PRIMEAPE,
         .natDexNum = NATIONAL_DEX_PRIMEAPE,
-        .categoryName = _("Schwein / Affe"),
+        .categoryName = _("Affe"),
         .height = 10,
         .weight = 320,
         .description = COMPOUND_STRING(
@@ -10358,7 +10358,7 @@ const struct SpeciesInfo gSpeciesInfoGen1[] =
             "Zerschlagen sich zwei Georok ihr\n"
             "Lieblingsessen Dravit gegenseitig,\n"
             "erzeugen sie Lichtblitze und Getöse.\n"
-            "Man nennt sie „Feuerwerk der Erde“."),
+            "Man nennt sie Feuerwerk der Erde."),
         .pokemonScale = 256,
         .pokemonOffset = 2,
         .trainerScale = 256,

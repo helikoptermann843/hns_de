@@ -3420,7 +3420,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .description = COMPOUND_STRING(
         "Mega Evolution hat die Schärfe dieses\n"
         "Pokémon gesteigert. Es schwingt seine\n"
-        "„Krawatte“ herum, um seine Feinde"
+        "Krawatte herum, um seine Feinde"
         "niederzuschlagen."),
         .frontPic = gMonFrontPic_ScovillainMega,
         .frontPicSize = MON_COORDS_SIZE(64, 64),
@@ -4321,7 +4321,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .description = COMPOUND_STRING(
         "Der Stahlabschnitt ist Varooms\n"
         "eigentlicher Körper. Dieses Pokémon\n"
-        "klammert sich an Steine ​​und wandelt\n"
+        "klammert sich an Steine und wandelt\n"
         "die darin enthaltenen Mineralien in..."),
         .pokemonScale = 356,
         .pokemonOffset = 17,
@@ -4718,8 +4718,8 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .height = 15,
         .weight = 450,
         .description = COMPOUND_STRING(
-        "Glimmoras Blütenblätter – jetzt größer\n"
-        "und von ihrem Hauptkörper getrennt –\n"
+        "Glimmoras Blütenblätter - jetzt größer\n"
+        "und von ihrem Hauptkörper getrennt -\n"
         "rotieren um sie herum, um für\n"
         "Verteidigung zu sorgen und..."),
         .frontPic = gMonFrontPic_GlimmoraMega,
@@ -4906,7 +4906,7 @@ const struct SpeciesInfo gSpeciesInfoGen9[] =
         .weight = 370,
         .description = COMPOUND_STRING(
         "Dank ihres Verhaltens, das als\n"
-        "„Synchronisieren“ bekannt ist, kann\n"
+        "Synchronisieren bekannt ist, kann\n"
         "ein ganzer Schwarm dieser Pokémon\n"
         "gleichzeitig und in perfekter Harmo..."),
         .pokemonScale = 356,
