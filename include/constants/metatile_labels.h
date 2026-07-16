@@ -461,6 +461,7 @@
 // gTileset_PalletTown
 #define METATILE_PalletTown_Door            0x2A3
 #define METATILE_PalletTown_Door_Green_Hns  0x2AC
+#define METATILE_PalletTown_Door_Red_Hns    0x2BD
 #define METATILE_PalletTown_OaksLabDoor     0x2AC
 
 // gTileset_Petalburg
@@ -1022,6 +1023,7 @@
 
 // gTileset_VermilionCity
 #define METATILE_VermilionCity_Door        0x29E
+#define METATILE_VermilionCity_Door_Hns    0x29E
 #define METATILE_VermilionCity_SSAnneWarp  0x2E1
 
 // gTileset_VermilionGym
@@ -1100,7 +1102,6 @@
 #define METATILE_NewBarkTown_Door_Yellow_Hns         0x309
 #define METATILE_OlivineCity_Door_Hns                0x312
 #define METATILE_OlivineCity_Door_Vermilion_Hns      0x29E
-#define METATILE_VermilionCity_Door_Hns              0x29E
 #define METATILE_PlayersHouseHns_PC_Off              0x288
 #define METATILE_PlayersHouseHns_PC_On               0x28A
 #define METATILE_R26_21_Broken_Window                0x32B

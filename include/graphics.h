@@ -1735,6 +1735,8 @@ extern const u32 gItemIcon_PowderJar[];
 extern const u16 gItemIconPalette_PowderJar[];
 extern const u32 gItemIcon_WailmerPail[];
 extern const u16 gItemIconPalette_WailmerPail[];
+extern const u32 gItemIcon_SquirtBottle[];
+extern const u16 gItemIconPalette_SquirtBottle[];
 extern const u32 gItemIcon_PokeRadar[];
 extern const u16 gItemIconPalette_PokeRadar[];
 extern const u32 gItemIcon_PokeblockCase[];

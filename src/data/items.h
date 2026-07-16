@@ -16336,8 +16336,8 @@ const struct ItemInfo gItemsInfo[] =
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_FIELD,
         .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
-        .iconPic = gItemIcon_QuestionMark,
-        .iconPalette = gItemIconPalette_QuestionMark,
+        .iconPic = gItemIcon_SquirtBottle,
+        .iconPalette = gItemIconPalette_SquirtBottle,
     },
 
     [ITEM_ROOM_1_KEY] =
