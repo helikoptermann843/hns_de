@@ -173,10 +173,10 @@ static const u8 sText_DepositItem[] = _("ITEM LAGERN");
 static const u8 sText_TossItem[] = _("ITEM WEGWERFEN");
 static const u8 sText_Mailbox[] = _("MAILBOX");
 
-static const u8 sText_WithdrawHowManyItems[] = _("Withdraw how many\n{STR_VAR_1}?");
-static const u8 sText_WithdrawXItems[] = _("Withdrew {STR_VAR_2}\n{STR_VAR_1}.");
-static const u8 sText_NoRoomInBag[] = _("There is no more\nroom in the BAG.");
-static const u8 sText_TooImportantToToss[] = _("That's much too\nimportant to toss\nout!");
+static const u8 sText_WithdrawHowManyItems[] = _("Wieviele\n{STR_VAR_1} nehmen?");
+static const u8 sText_WithdrawXItems[] = _("Nahm {STR_VAR_2}\n{STR_VAR_1}.");
+static const u8 sText_NoRoomInBag[] = _("Kein Platz\nmehr in Tasche.");
+static const u8 sText_TooImportantToToss[] = _("Das ist zu\nwichtig zum\nwegwerfen!");
 
 static const u8 *const sItemStorage_OptionDescriptions[] =
 {
