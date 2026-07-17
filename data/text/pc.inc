@@ -14,7 +14,7 @@ gText_AccessedPlayersPC::
 	.string "Verbindung mit PC von {PLAYER}.$"
 
 gText_AccessedLanettesPC::
-	.string "Mit LANETTE'S PC verbunden.$"
+	.string "Mit BILL'S PC verbunden.$"
 
 gText_AccessedBillsPC::
 	.string "Verbindung zu BILL'S PC hergestellt.$"
