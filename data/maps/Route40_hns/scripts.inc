@@ -88,8 +88,8 @@ Route40_EventScript_Woman1::
 	end
 
 Route40_Text_Lass1:
-	.string "Du kannst es zwar nicht von hier\p"
-	.string "sehen, aber ANEMONIA-\n"
+	.string "Du kannst es zwar nicht von hier\n"
+	.string "sehen, aber ANEMONIA-\l"
 	.string "CITY liegt jenseits des Meeres.$"
 
 Route40_EventScript_Woman2::

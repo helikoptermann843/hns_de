@@ -404,101 +404,101 @@ BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "Die Zeit ist grausam…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Recovers up to\n"
-	.string "half the user's\n"
-	.string "maximum HP.$"
+	.string "Regeneriert bis\n"
+	.string "zur Hälfte\n"
+	.string "der max. KP.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Inflicts damage\n"
-	.string "identical to the\n"
-	.string "user's level.$"
+	.string "Fügt Schaden\n"
+	.string "In Höhe des Lv.\n"
+	.string "des Nutzers zu.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Recovers half the\n"
-	.string "damage inflicted\n"
-	.string "on a sleeping foe.$"
+	.string "Erhält die hälfte\n"
+	.string "des zugefügten\n"
+	.string "Schadens als KP.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "A strong punch\n"
-	.string "thrown with\n"
-	.string "incredible power.$"
+	.string "Ein starker Hieb\n"
+	.string "mit brachialer\n"
+	.string "Gewalt.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "An extremely\n"
-	.string "powerful kick with\n"
-	.string "intense force.$"
+	.string "Extrem starker\n"
+	.string "Kick mit\n"
+	.string "Wucht dahinter.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "A full-body slam\n"
-	.string "that may cause\n"
-	.string "paralysis.$"
+	.string "Benutzt vollen\n"
+	.string "Körpereinsatz\n"
+	.string "kann paralysieren.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Large boulders\n"
-	.string "are hurled. May\n"
-	.string "cause flinching.$"
+	.string "Große Felsen\n"
+	.string "werden geworfen.\n"
+	.string "Kann zurückschrecken.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Retaliates any\n"
-	.string "physical hit with\n"
-	.string "double the power.$"
+	.string "Kontert jeden\n"
+	.string "physischen Hieb\n"
+	.string "mit doppelter Kraft.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "A weak jolt of\n"
-	.string "electricity that\n"
-	.string "paralyzes the foe.$"
+	.string "Schwacher Strom-\n"
+	.string "stoß, der Gegner\n"
+	.string "lähmt.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "A fighting dance\n"
-	.string "that sharply\n"
-	.string "raises ATTACK.$"
+	.string "Kampftanz, der\n"
+	.string "den ANGRIFF stark\n"
+	.string "erhöht.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Curls up to con-\n"
-	.string "ceal weak spots\n"
-	.string "and raise DEFENSE.$"
+	.string "Rollt sich ein,\n"
+	.string "versteckt Schwächen\n"
+	.string "und erhöht DEF.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "A loud attack\n"
-	.string "that can be used\n"
-	.string "only while asleep.$"
+	.string "Lauter Angriff,\n"
+	.string "nur nutzbar im\n"
+	.string "Schlaf.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Hurls mud in the\n"
-	.string "foe's face to re-\n"
-	.string "duce its accuracy.$"
+	.string "Wirft Schlamm ins\n"
+	.string "Gesicht und senkt\n"
+	.string "die Genauigkeit.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprays star-\n"
-	.string "shaped rays\n"
-	.string "that never miss.$"
+	.string "Sternförmige\n"
+	.string "Strahlen, die\n"
+	.string "nie verfehlen.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "A chilling attack\n"
-	.string "that lowers the\n"
-	.string "foe's SPEED.$"
+	.string "Eisiger Angriff,\n"
+	.string "senkt die\n"
+	.string "INITIATIVE.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Endures any at-\n"
-	.string "tack for 1 turn,\n"
-	.string "leaving 1HP.$"
+	.string "Hält jedem\n"
+	.string "Angriff 1 Runde\n"
+	.string "stand, 1 KP bleibt.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Copies the foe's\n"
-	.string "effect(s) and\n"
-	.string "gives to the user.$"
+	.string "Kopiert Effekt(e)\n"
+	.string "des Gegners und\n"
+	.string "gibt sie weiter.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-	.string "An icy punch\n"
-	.string "that may\n"
-	.string "freeze the foe.$"
+	.string "Eisiger Schlag,\n"
+	.string "kann den Gegner\n"
+	.string "einfrieren.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "An electrified\n"
-	.string "punch that may\n"
-	.string "paralyze the foe.$"
+	.string "Elektrischer\n"
+	.string "Schlag, kann den\n"
+	.string "Gegner Paral.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-	.string "A fiery punch\n"
-	.string "that may burn\n"
-	.string "the foe.$"
+	.string "Feuriger Schlag,\n"
+	.string "kann den Gegner\n"
+	.string "verbrennen.$"

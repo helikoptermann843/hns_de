@@ -399,12 +399,12 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 	.string "Und?\n"
 	.string "Glaubst du mir etwa nicht? Nein?\p"
 	.string "Ich bin nicht so wie die Angeberin\n"
-	.string "hier\n"
-	.string "neben mir. ICH habe wirklich Talent!\p"
-	.string "Das werde ich dir beweisen.\n"
-	.string "Ich kann deinen POKéMON Spezial-\l"
-	.string "Attacken beibringen,\p"
-	.string "die auch noch niedlich sind. Aber das\n"
+	.string "hier neben mir.\p"
+	.string "ICH habe wirklich Talent!\p"
+	.string "Das werde ich dir beweisen.\p"
+	.string "Ich kann deinen POKéMON Spezial-\n"
+	.string "Attacken beibringen, die auch\l"
+	.string "noch niedlich sind. Aber das\l"
 	.string "kostet eine Kleinigkeit. Dafür möchte\l"
 	.string "ich von dir Gewinnpunkte haben.$"
 
@@ -444,8 +444,8 @@ BattleFrontier_Lounge7_Text_YouDontWantTo_hns:
 BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 	.string "Hihihihi!\p"
 	.string "Auch wenn es schwer zu glauben ist:\n"
-	.string "Ich\n"
-	.string "war einmal eine grandiose TRAINERin!\p"
+	.string "Ich war einmal eine\l"
+	.string "grandiose TRAINERin!\p"
 	.string "Ich hatte den Ruf einer unschlagbaren\n"
 	.string "SCHWIMMERIN. Das ist wahr!\p"
 	.string "… … … … …\n"
@@ -616,7 +616,7 @@ BattleFrontier_Lounge7_Text_TeachWhichMoveElemental::
 	.string "besten zu deinem POKéMON?$"
 
 BattleFrontier_Lounge7_Text_StrongElementalMoveDesc::
-	.string "Sehr mächtig, doch\l"
-	.string "der Anwender kann\l"
+	.string "Sehr mächtig, doch\n"
+	.string "der Anwender kann\n"
 	.string "eine Runde nicht handeln.$"
 
