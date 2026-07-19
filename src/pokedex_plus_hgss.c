@@ -6785,7 +6785,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     if (condition == IF_REGION)
                         StringAppend(gStringVar4, COMPOUND_STRING("in "));
                     else if (condition == IF_NOT_REGION)
-                        StringAppend(gStringVar4, COMPOUND_STRING("nicht in"));
+                        StringAppend(gStringVar4, COMPOUND_STRING("nicht in "));
 
                     switch ((enum Region)evolutions[i].params[j].arg1)
                     {
