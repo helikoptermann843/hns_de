@@ -172,7 +172,7 @@ Route29_Text_OldMan2:
 
 Route29_Text_OldManExplanation:
 	.string "Wenn du sie zuerst schwächst,\n"
-	.string "lassen sich Pokémon leichter\n"
+	.string "lassen sich Pokémon leichter\l"
 	.string "fangen.\p"
 	.string "Wirf dann einen Ball aus deinem\n"
 	.string "Beutel! Jeder Ball reicht.\p"
@@ -198,13 +198,10 @@ Route29_Text_Youngster:
 	.string "zu kämpfen, halte dich vom Gras fern.$"
 
 Route29_Text_Lass:
-	.string "Hechel, keuch…\p"
-	.string "Endlich habe ich\n"
-	.string "es durch diese Höhle geschafft!\p"
-	.string "Sie war größer, als ich annahm.\p"
-	.string "Ich war zu erschöpft, um alles\n"
-	.string "zu erkunden, also habe ich sie\l"
-	.string "verlassen.$"
+	.string "Siehst du die Vorsprünge?\n"
+	.string "Es ist gruselig, herunter zu springen.\p"
+	.string "Aber du kommst nach Neuborkia,\n"
+	.string "ohne durchs Gras zu laufen.$"
 
 Route29_Text_Girl:
 	.string "Ich wollte eine Pause machen,\n"
@@ -235,21 +232,19 @@ Route29_Text_TuscanyGivesGift:
 	.string "schenke ich dir einen SEIDENSCHAL.$"
 
 Route29_Text_TuscanyGaveGift:
-	.string "DIETLINDE: Findest\n"
-	.string "du nicht auch, dass es sehr schön ist?\n"
-	.string "\p"
-	.string "Attacken der\n"
-	.string "Elementklasse Normal, werden dadurch\n"
-	.string "stärker.\p"
+	.string "DIETLINDE: Findest du nicht auch,\n"
+	.string "dass es sehr schön ist?\p"
+	.string "Attacken der Elementklasse\n"
+	.string "Normal, werden dadurch stärker.\p"
 	.string "Ich bin sicher,\n"
 	.string "du kannst es gebrauchen.$"
 
 Route29_Text_TuscanyTuesday:
-	.string "Dietlinde: Have you met Monja,\n"
-	.string "my older sister?\p"
-	.string "Or my younger brother, Mitko?\p"
-	.string "I am the third of seven\n"
-	.string "children.$"
+	.string "Dietlinde: Kennst du Monja,\n"
+	.string "meine große Schwester?\p"
+	.string "Oder meinen Bruder, Mitko?\p"
+	.string "Ich bin das Dritte von\n"
+	.string "sieben Kindern.$"
 
 Route29_Text_Sign1:
 	.string "ROUTE 29\p"
