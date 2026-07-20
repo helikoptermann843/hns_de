@@ -233,7 +233,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .abilities = { ABILITY_OVERGROW, ABILITY_NONE, ABILITY_SCRAPPY },
         .bodyColor = BODY_COLOR_BROWN,
 #if P_SEPARATE_REGIONAL_FORMS
-        .speciesName = _("DECIDUEYE-H"),
+        .speciesName = _("Silvarro-H"),
 #else
         .speciesName = _("Silvarro"),
 #endif

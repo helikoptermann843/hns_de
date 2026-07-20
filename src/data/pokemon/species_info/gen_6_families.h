@@ -5316,7 +5316,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .bodyColor = BODY_COLOR_PURPLE,
         .noFlip = TRUE,
 #if P_SEPARATE_REGIONAL_FORMS
-        .speciesName = _("SLIGGOO-H"),
+        .speciesName = _("Viscargot-H"),
 #else
         .speciesName = _("Viscargot"),
 #endif
@@ -5397,7 +5397,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .abilities = { ABILITY_SAP_SIPPER, ABILITY_SHELL_ARMOR, ABILITY_GOOEY },
         .bodyColor = BODY_COLOR_PURPLE,
 #if P_SEPARATE_REGIONAL_FORMS
-        .speciesName = _("GOODRA-H"),
+        .speciesName = _("Viscogon-H"),
 #else
         .speciesName = _("Viscogon"),
 #endif
@@ -6379,7 +6379,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .abilities = { ABILITY_STRONG_JAW, ABILITY_ICE_BODY, ABILITY_STURDY },
         .bodyColor = BODY_COLOR_BLUE,
 #if P_SEPARATE_REGIONAL_FORMS
-        .speciesName = _("AVALUGG-H"),
+        .speciesName = _("Arktilas-H"),
 #else
         .speciesName = _("Arktilas"),
 #endif
