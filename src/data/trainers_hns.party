@@ -1,7 +1,7 @@
 /* ==================== HnS Trainers ==================== */
 
 === TRAINER_SAWYER_1_HNS ===
-Name: SAWYER
+Name: Sawyer
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -15,7 +15,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROSS_HNS ===
-Name: ROSS
+Name: Martin
 Class: Collector Hns
 Pic: Collector
 Gender: Male
@@ -33,7 +33,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MITCH_HNS ===
-Name: MITCH
+Name: Hasso
 Class: Collector Hns
 Pic: Collector
 Gender: Male
@@ -47,7 +47,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JED_HNS ===
-Name: JED
+Name: Theodor
 Class: Collector Hns
 Pic: Collector
 Gender: Male
@@ -65,7 +65,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARC_HNS ===
-Name: MARC
+Name: Marc
 Class: Collector Hns
 Pic: Collector
 Gender: Male
@@ -79,7 +79,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RICH_HNS ===
-Name: RICH
+Name: Rasso
 Class: Collector Hns
 Pic: Collector
 Gender: Male
@@ -93,7 +93,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOEY_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -107,7 +107,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MIKEY_HNS ===
-Name: MIKEY
+Name: Dietrich
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -125,7 +125,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALBERT_HNS ===
-Name: ALBERT
+Name: Niels
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -143,7 +143,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GORDON_HNS ===
-Name: GORDON
+Name: Tommy
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -157,7 +157,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SAMUEL_HNS ===
-Name: SAMUEL
+Name: Guido
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -179,7 +179,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_IAN_HNS ===
-Name: IAN
+Name: Lorenz
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -197,7 +197,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WARREN_HNS ===
-Name: WARREN
+Name: Johannes
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -211,7 +211,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JIMMY_HNS ===
-Name: JIMMY
+Name: Edmund
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -229,7 +229,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_OWEN_HNS ===
-Name: OWEN
+Name: Frieder
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -243,7 +243,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JASON_HNS ===
-Name: JASON
+Name: Werner
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -261,7 +261,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JACK_HNS ===
-Name: JACK
+Name: Julius
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -279,7 +279,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KIPP_HNS ===
-Name: KIPP
+Name: Michel
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -297,7 +297,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALAN_HNS ===
-Name: ALAN
+Name: Holger
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -315,7 +315,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOHNNY_HNS ===
-Name: JOHNNY
+Name: Niklas
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -333,7 +333,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DANNY_HNS ===
-Name: DANNY
+Name: Björn
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -355,7 +355,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TOMMY_HNS ===
-Name: TOMMY
+Name: Torben
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -373,7 +373,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DUDLEY_HNS ===
-Name: DUDLEY
+Name: Flavio
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -387,7 +387,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOE_HNS ===
-Name: JOE
+Name: Konrad
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -405,7 +405,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BILLY_HNS ===
-Name: BILLY
+Name: Sandro
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -427,7 +427,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CHAD_HNS ===
-Name: CHAD
+Name: Lutz
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -445,7 +445,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NATE_HNS ===
-Name: NATE
+Name: Rudolf
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -463,7 +463,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RICKY_HNS ===
-Name: RICKY
+Name: Enrico
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -481,7 +481,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROD_HNS ===
-Name: ROD
+Name: Klaus
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -499,7 +499,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ABE_HNS ===
-Name: ABE
+Name: Leo
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -513,7 +513,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRYAN_HNS ===
-Name: BRYAN
+Name: Otto
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -535,7 +535,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_THEO_HNS ===
-Name: THEO
+Name: Eugen
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -549,7 +549,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TOBY_HNS ===
-Name: TOBY
+Name: Timo
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -567,7 +567,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DENIS_HNS ===
-Name: DENIS
+Name: Benno
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -585,7 +585,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VANCE_HNS ===
-Name: VANCE
+Name: Arno
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -611,7 +611,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HANK_HNS ===
-Name: HANK
+Name: Jim
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -629,7 +629,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROY_HNS ===
-Name: ROY
+Name: Chris
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -647,7 +647,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BORIS_HNS ===
-Name: BORIS
+Name: Frank
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -669,7 +669,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BOB_HNS ===
-Name: BOB
+Name: Egon
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -683,7 +683,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOSE_HNS ===
-Name: JOSE
+Name: Elmar
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -709,7 +709,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PETER_HNS ===
-Name: PETER
+Name: Rico
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -727,7 +727,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PERRY_HNS ===
-Name: PERRY
+Name: Marko
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -741,7 +741,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRET_HNS ===
-Name: BRET
+Name: Melvin
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -759,7 +759,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CARRIE_HNS ===
-Name: CARRIE
+Name: Jennifer
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -773,7 +773,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRIDGET_HNS ===
-Name: BRIDGET
+Name: Bettina
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -791,7 +791,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALICE_HNS ===
-Name: ALICE
+Name: Gabriele
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -813,7 +813,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KRISE_HNS ===
-Name: KRISE
+Name: Monika
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -831,7 +831,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CONNIE_HNS ===
-Name: CONNIE
+Name: Ramona
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -849,7 +849,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LINDA_HNS ===
-Name: LINDA
+Name: Svantje
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -871,7 +871,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LAURA_HNS ===
-Name: LAURA
+Name: Adriane
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -893,7 +893,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SHANNON_HNS ===
-Name: SHANNON
+Name: Franziska
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -915,7 +915,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MICHELLE_HNS ===
-Name: MICHELLE
+Name: Stefanie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -937,7 +937,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DANA_HNS ===
-Name: DANA
+Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -955,7 +955,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ELLEN_HNS ===
-Name: ELLEN
+Name: Verena
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -973,7 +973,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NICK_HNS ===
-Name: NICK
+Name: Lars
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -995,7 +995,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_AARON_HNS ===
-Name: AARON
+Name: Erno
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1017,7 +1017,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PAUL_HNS ===
-Name: PAUL
+Name: Paul
 Class: Dragon Tamer Hns
 Pic: Dragon Tamer
 Gender: Male
@@ -1043,7 +1043,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CODY_HNS ===
-Name: CODY
+Name: Arnd
 Class: Dragon Tamer Hns
 Pic: Dragon Tamer
 Gender: Male
@@ -1069,7 +1069,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MIKE_HNS ===
-Name: MIKE
+Name: Ralf
 Class: Dragon Tamer Hns
 Pic: Dragon Tamer
 Gender: Male
@@ -1091,7 +1091,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GAVEN_HNS ===
-Name: GAVEN
+Name: Maik
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1121,7 +1121,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RYAN_HNS ===
-Name: RYAN
+Name: Arne
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1143,7 +1143,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JAKE_HNS ===
-Name: JAKE
+Name: Fred
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1173,7 +1173,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BLAKE_HNS ===
-Name: BLAKE
+Name: Ed
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1199,7 +1199,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRIAN_HNS ===
-Name: BRIAN
+Name: Andro
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1225,7 +1225,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ERICK_HNS ===
-Name: ERICK
+Name: Lars
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1247,7 +1247,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANDY_HNS ===
-Name: ANDY
+Name: Lars
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1269,7 +1269,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TYLER_HNS ===
-Name: TYLER
+Name: Lars
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1291,7 +1291,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SEAN_HNS ===
-Name: SEAN
+Name: Amon
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1313,7 +1313,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KEVIN_HNS ===
-Name: KEVIN
+Name: Nico
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1339,7 +1339,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_STEVE_HNS ===
-Name: STEVE
+Name: Lars
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1361,7 +1361,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALLEN_HNS ===
-Name: ALLEN
+Name: Stan
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -1379,7 +1379,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DARIN_HNS ===
-Name: DARIN
+Name: Remus
 Class: Dragon Tamer Hns
 Pic: Dragon Tamer
 Gender: Male
@@ -1405,7 +1405,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GWEN_HNS ===
-Name: GWEN
+Name: Angi
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1431,7 +1431,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LOIS_HNS ===
-Name: LOIS
+Name: Karo
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1449,7 +1449,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_FRAN_HNS ===
-Name: FRAN
+Name: Alma
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1471,7 +1471,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LOLA_HNS ===
-Name: LOLA
+Name: Rosi
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1497,7 +1497,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KATE_HNS ===
-Name: KATE
+Name: Edna
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1515,7 +1515,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_IRENE_HNS ===
-Name: IRENE
+Name: Lola
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1533,7 +1533,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KELLY_HNS ===
-Name: KELLY
+Name: Mira
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1559,7 +1559,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOYCE_HNS ===
-Name: JOYCE
+Name: Susi
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1589,7 +1589,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BETH_HNS ===
-Name: BETH
+Name: Dea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1619,7 +1619,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_REENA_HNS ===
-Name: REENA
+Name: Bea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1649,7 +1649,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MEGAN_HNS ===
-Name: MEGAN
+Name: Maja
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1675,7 +1675,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CAROL_HNS ===
-Name: CAROL
+Name: Bine
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1697,7 +1697,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_QUINN_HNS ===
-Name: QUINN
+Name: Ilka
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1715,7 +1715,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EMMA_HNS ===
-Name: EMMA
+Name: Ulla
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1729,7 +1729,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CYBIL_HNS ===
-Name: CYBIL
+Name: Kora
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1751,7 +1751,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JENN_HNS ===
-Name: JENN
+Name: Else
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1769,7 +1769,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CARA_HNS ===
-Name: CARA
+Name: Cara
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -1791,7 +1791,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VICTORIA_HNS ===
-Name: VICTORIA
+Name: Martha
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1809,7 +1809,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SAMANTHA_HNS ===
-Name: SAMANTHA
+Name: Tina
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1823,7 +1823,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JULIE_HNS ===
-Name: JULIE
+Name: Julie
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1837,7 +1837,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JACLYN_HNS ===
-Name: JACLYN
+Name: Jaclyn
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1851,7 +1851,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRENDA_HNS ===
-Name: BRENDA
+Name: Brenda
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1865,7 +1865,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CASSIE_HNS ===
-Name: CASSIE
+Name: Mirjam
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1883,7 +1883,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CAROLINE_HNS ===
-Name: CAROLINE
+Name: Anne
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1905,7 +1905,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CARLENE_HNS ===
-Name: CARLENE
+Name: Carlene
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1919,7 +1919,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JESSICA_HNS ===
-Name: JESSICA
+Name: Jessica
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1933,7 +1933,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RACHAEL_HNS ===
-Name: RACHAEL
+Name: Rachael
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1947,7 +1947,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANGELICA_HNS ===
-Name: ANGELICA
+Name: Angelica
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1961,7 +1961,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KENDRA_HNS ===
-Name: KENDRA
+Name: Undine
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1975,7 +1975,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VERONICA_HNS ===
-Name: VERONICA
+Name: Veronica
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -1989,7 +1989,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JULIA_HNS ===
-Name: JULIA
+Name: Vivian
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -2011,7 +2011,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_THERESA_HNS ===
-Name: THERESA
+Name: Theresa
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -2025,7 +2025,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VALERIE_HNS ===
-Name: VALERIE
+Name: Jutta
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -2043,7 +2043,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_OLIVIA_HNS ===
-Name: OLIVIA
+Name: Tiffy
 Class: Beauty Hns
 Pic: Beauty
 Gender: Male
@@ -2057,7 +2057,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LARRY_HNS ===
-Name: LARRY
+Name: Satoru
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2071,7 +2071,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANDREW_HNS ===
-Name: ANDREW
+Name: Kenji
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2089,7 +2089,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CALVIN_HNS ===
-Name: CALVIN
+Name: Kengo
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2103,7 +2103,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SHANE_HNS ===
-Name: SHANE
+Name: Goro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2121,7 +2121,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BEN_HNS ===
-Name: BEN
+Name: Kouji
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2139,7 +2139,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRENT_HNS ===
-Name: BRENT
+Name: Taro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2157,7 +2157,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RON_HNS ===
-Name: RON
+Name: Hiro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2175,7 +2175,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ETHAN_HNS ===
-Name: ETHAN
+Name: Hide
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2193,7 +2193,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ISSAC_HNS ===
-Name: ISSAC
+Name: Takao
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2207,7 +2207,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DONALD_HNS ===
-Name: DONALD
+Name: Shoya
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2225,7 +2225,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ZACH_HNS ===
-Name: ZACH
+Name: Akira
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2247,7 +2247,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MILLER_HNS ===
-Name: MILLER
+Name: Pelle
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -2265,7 +2265,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2287,7 +2287,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_2_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2309,7 +2309,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_3_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2327,7 +2327,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_4_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2349,7 +2349,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_5_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2367,7 +2367,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_6_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2389,7 +2389,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_7_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2407,7 +2407,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_8_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2425,7 +2425,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_9_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2447,7 +2447,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_10_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2465,7 +2465,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_11_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2483,7 +2483,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_12_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2505,7 +2505,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_13_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2519,7 +2519,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_14_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2533,7 +2533,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_15_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2555,7 +2555,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_16_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2569,7 +2569,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_17_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2587,7 +2587,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_18_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2609,7 +2609,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_19_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2623,7 +2623,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_20_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2641,7 +2641,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_21_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2659,7 +2659,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_22_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2677,7 +2677,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_23_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2699,7 +2699,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_24_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2729,7 +2729,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_25_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2747,7 +2747,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_26_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2765,7 +2765,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_27_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2791,7 +2791,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_28_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2817,7 +2817,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_29_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt F Hns
 Gender: Male
@@ -2835,7 +2835,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_30_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2850,7 +2850,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_31_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2865,7 +2865,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_32_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2880,7 +2880,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRUNT_33_HNS ===
-Name: GRUNT
+Name: Rüpel
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2895,7 +2895,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ETO_HNS ===
-Name: ETO
+Name: Eto
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2917,7 +2917,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ETO_2_HNS ===
-Name: ETO
+Name: Eto
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2943,7 +2943,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ETO_3_HNS ===
-Name: ETO
+Name: Eto
 Class: Team Rocket Hns
 Pic: Rocket Grunt M Hns
 Gender: Male
@@ -2973,7 +2973,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PRESTON_HNS ===
-Name: PRESTON
+Name: Felix
 Class: Gentleman Hns
 Pic: Gentleman
 Gender: Male
@@ -2991,7 +2991,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EDWARD_HNS ===
-Name: EDWARD
+Name: Charles
 Class: Gentleman Hns
 Pic: Gentleman
 Gender: Male
@@ -3005,7 +3005,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GREGORY_HNS ===
-Name: GREGORY
+Name: Alfred
 Class: Gentleman Hns
 Pic: Gentleman
 Gender: Male
@@ -3023,7 +3023,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VIRGIL_HNS ===
-Name: VIRGIL
+Name: Osman
 Class: Gentleman Hns
 Pic: Gentleman
 Gender: Male
@@ -3037,7 +3037,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALFRED_HNS ===
-Name: ALFRED
+Name: Hubert
 Class: Gentleman Hns
 Pic: Gentleman
 Gender: Male
@@ -3051,7 +3051,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROXANNE_HNS ===
-Name: ROXANNE
+Name: Helga
 Class: Skier Hns
 Pic: Skier F Hns
 Gender: Female
@@ -3065,7 +3065,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CLARISSA_HNS ===
-Name: CLARISSA
+Name: Svenja
 Class: Skier Hns
 Pic: Skier F Hns
 Gender: Female
@@ -3079,7 +3079,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_COLETTE_HNS ===
-Name: COLETTE
+Name: Inca
 Class: Expert Hns
 Pic: Expert F
 Gender: Female
@@ -3093,7 +3093,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HILLARY_HNS ===
-Name: HILLARY
+Name: Sylvia
 Class: Expert Hns
 Pic: Expert F
 Gender: Female
@@ -3111,7 +3111,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SHIRLEY_HNS ===
-Name: SHIRLEY
+Name: Hiltrud
 Class: Expert Hns
 Pic: Expert F
 Gender: Male
@@ -3129,7 +3129,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DON_HNS ===
-Name: DON
+Name: Uli
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3147,7 +3147,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROB_HNS ===
-Name: ROB
+Name: Götz
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3165,7 +3165,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ED_HNS ===
-Name: ED
+Name: Alan
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3187,7 +3187,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WADE_HNS ===
-Name: WADE
+Name: Greg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3205,7 +3205,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BENNY_HNS ===
-Name: BENNY
+Name: Axel
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3223,7 +3223,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_AL_HNS ===
-Name: AL
+Name: Jörg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3241,7 +3241,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOSH_HNS ===
-Name: JOSH
+Name: Enno
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3255,7 +3255,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ARNIE_HNS ===
-Name: ARNIE
+Name: Udo
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3273,7 +3273,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KEN_HNS ===
-Name: KEN
+Name: Rudi
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3291,7 +3291,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DOUG_HNS ===
-Name: DOUG
+Name: Bert
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3305,7 +3305,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WAYNE_HNS ===
-Name: WAYNE
+Name: This
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -3323,7 +3323,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JUSTIN_HNS ===
-Name: JUSTIN
+Name: Albrecht
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3337,7 +3337,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RALPH_HNS ===
-Name: RALPH
+Name: Angelo
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3351,7 +3351,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ARNOLD_HNS ===
-Name: ARNOLD
+Name: Adam
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3369,7 +3369,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KYLE_HNS ===
-Name: KYLE
+Name: Alain
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3391,7 +3391,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HENRY_HNS ===
-Name: HENRY
+Name: Selim
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3409,7 +3409,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARVIN_HNS ===
-Name: MARVIN
+Name: Anselm
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3427,7 +3427,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TULLY_HNS ===
-Name: TULLY
+Name: Amadeus
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3441,7 +3441,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANDRE_HNS ===
-Name: ANDRE
+Name: Alois
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3455,7 +3455,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RAYMOND_HNS ===
-Name: RAYMOND
+Name: Albert
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3469,7 +3469,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WILTON_HNS ===
-Name: WILTON
+Name: Alfried
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3491,7 +3491,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EDGAR_HNS ===
-Name: EDGAR
+Name: Albin
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3513,7 +3513,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JONAH_HNS ===
-Name: JONAH
+Name: Ansgar
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3539,7 +3539,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARTIN_HNS ===
-Name: MARTIN
+Name: Anton
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3557,7 +3557,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_STEPHEN_HNS ===
-Name: STEPHEN
+Name: Adrian
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3583,7 +3583,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BARNEY_HNS ===
-Name: BARNEY
+Name: Armin
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3605,7 +3605,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SCOTT_HNS ===
-Name: SCOTT
+Name: Arthur
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -3631,7 +3631,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HAROLD_HNS ===
-Name: HAROLD
+Name: Anatol
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3649,7 +3649,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SIMON_HNS ===
-Name: SIMON
+Name: Grigory
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3667,7 +3667,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RANDALL_HNS ===
-Name: RANDALL
+Name: Milos
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3685,7 +3685,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CHARLIE_HNS ===
-Name: CHARLIE
+Name: Pavel
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3703,7 +3703,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GEORGE_HNS ===
-Name: GEORGE
+Name: Petru
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3725,7 +3725,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BERKE_HNS ===
-Name: BERKE
+Name: Yevgeny
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3739,7 +3739,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KIRK_HNS ===
-Name: KIRK
+Name: Genadi
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3757,7 +3757,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MATHEW_HNS ===
-Name: MATHEW
+Name: Alexei
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3775,7 +3775,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HAL_HNS ===
-Name: HAL
+Name: Hal
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3797,7 +3797,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PATON_HNS ===
-Name: PATON
+Name: Paton
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3815,7 +3815,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DARYL_HNS ===
-Name: DARYL
+Name: Daryl
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3837,7 +3837,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WALTER_HNS ===
-Name: WALTER
+Name: Bogdan
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3859,7 +3859,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TONY_HNS ===
-Name: TONY
+Name: Tony
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3881,7 +3881,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JEROME_HNS ===
-Name: JEROME
+Name: Igor
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3903,7 +3903,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TUCKER_HNS ===
-Name: TUCKER
+Name: Ottmar
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3921,7 +3921,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RICK_HNS ===
-Name: RICK
+Name: Rick
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3943,7 +3943,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CAMERON_HNS ===
-Name: CAMERON
+Name: Dimitri
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3957,7 +3957,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SETH_HNS ===
-Name: SETH
+Name: Nicolai
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -3979,7 +3979,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JAMES_HNS ===
-Name: JAMES
+Name: James
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -4001,7 +4001,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LEWIS_HNS ===
-Name: LEWIS
+Name: Lewis
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -4023,7 +4023,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PARKER_HNS ===
-Name: PARKER
+Name: Bogdan
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -4045,7 +4045,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ELAINE_HNS ===
-Name: ELAINE
+Name: Käte
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4059,7 +4059,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PAULA_HNS ===
-Name: PAULA
+Name: Elfi
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4077,7 +4077,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KAYLEE_HNS ===
-Name: KAYLEE
+Name: Karin
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4099,7 +4099,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SUSIE_HNS ===
-Name: SUSIE
+Name: Thekla
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4117,7 +4117,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DENISE_HNS ===
-Name: DENISE
+Name: Magda
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4131,7 +4131,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KARA_HNS ===
-Name: KARA
+Name: Heike
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4149,7 +4149,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WENDY_HNS ===
-Name: WENDY
+Name: Gerarda
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4167,7 +4167,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LISA_HNS ===
-Name: LISA
+Name: Lisa
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4181,7 +4181,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JILL_HNS ===
-Name: JILL
+Name: Svenja
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4195,7 +4195,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARY_HNS ===
-Name: MARY
+Name: Klara
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4209,7 +4209,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KATIE_HNS ===
-Name: KATIE
+Name: Anke
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4223,7 +4223,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DAWN_HNS ===
-Name: DAWN
+Name: Klara
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4237,7 +4237,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TARA_HNS ===
-Name: TARA
+Name: Klara
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4251,7 +4251,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NICOLE_HNS ===
-Name: NICOLE
+Name: Elke
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4269,7 +4269,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LORI_HNS ===
-Name: LORI
+Name: Doris
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4287,7 +4287,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JODY_HNS ===
-Name: JODY
+Name: Klara
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4301,7 +4301,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NIKKI_HNS ===
-Name: NIKKI
+Name: Thea
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4323,7 +4323,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DIANA_HNS ===
-Name: DIANA
+Name: Heidi
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4345,7 +4345,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRIANA_HNS ===
-Name: BRIANA
+Name: Helene
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -4367,7 +4367,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EUGENE_HNS ===
-Name: EUGENE
+Name: Justus
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4385,7 +4385,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HUEY_HNS ===
-Name: HUEY
+Name: Nepomuk
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4403,7 +4403,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TERRELL_HNS ===
-Name: TERRELL
+Name: Pepe
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4417,7 +4417,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KENT_HNS ===
-Name: KENT
+Name: Ferdinand
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4435,7 +4435,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ERNEST_HNS ===
-Name: ERNEST
+Name: Lenny
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4457,7 +4457,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JEFF_HNS ===
-Name: JEFF
+Name: Ole
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4475,7 +4475,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GARRETT_HNS ===
-Name: GARRETT
+Name: Kasimir
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4489,7 +4489,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KENNETH_HNS ===
-Name: KENNETH
+Name: Olaf
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4515,7 +4515,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_STANLY_HNS ===
-Name: STANLY
+Name: Pascal
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4537,7 +4537,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HARRY_HNS ===
-Name: HARRY
+Name: Pierre
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -4551,7 +4551,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_STAN_HNS ===
-Name: STAN
+Name: Stan
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4565,7 +4565,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ERIC_HNS ===
-Name: ERIC
+Name: Ramon
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4583,7 +4583,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GREGG_HNS ===
-Name: GREGG
+Name: Randolf
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4605,7 +4605,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JAY_HNS ===
-Name: JAY
+Name: Jay
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4623,7 +4623,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DAVE_HNS ===
-Name: DAVE
+Name: Dave
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4637,7 +4637,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SAM_HNS ===
-Name: SAM
+Name: Torsten
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4651,7 +4651,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TOM_HNS ===
-Name: TOM
+Name: Tom
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4673,7 +4673,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PAT_HNS ===
-Name: PAT
+Name: Thilo
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4695,7 +4695,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SHAWN_HNS ===
-Name: SHAWN
+Name: Raimund
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4717,7 +4717,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TERU_HNS ===
-Name: TERU
+Name: Rolf
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4739,7 +4739,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RUSS_HNS ===
-Name: RUSS
+Name: Christian
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4761,7 +4761,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NORTON_HNS ===
-Name: NORTON
+Name: Thilo
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4775,7 +4775,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HUGH_HNS ===
-Name: HUGH
+Name: Randalf
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4789,7 +4789,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARKUS_HNS ===
-Name: MARKUS
+Name: Urban
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -4803,7 +4803,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CLYDE_HNS ===
-Name: CLYDE
+Name: Jimmy
 Class: Guitarist Hns
 Pic: Guitarist
 Gender: Male
@@ -4817,7 +4817,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_VINCENT_HNS ===
-Name: VINCENT
+Name: Joe
 Class: Guitarist Hns
 Pic: Guitarist
 Gender: Male
@@ -4843,7 +4843,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANTHONY_HNS ===
-Name: ANTHONY
+Name: Tom
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4861,7 +4861,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RUSSELL_HNS ===
-Name: RUSSELL
+Name: Burkard
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4879,7 +4879,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PHILLIP_HNS ===
-Name: PHILLIP
+Name: Dominik
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4901,7 +4901,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LEONARD_HNS ===
-Name: LEONARD
+Name: Wendelin
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4919,7 +4919,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BENJAMIN_HNS ===
-Name: BENJAMIN
+Name: Wolfgang
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4937,7 +4937,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ERIK_HNS ===
-Name: ERIK
+Name: Wieland
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4959,7 +4959,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MICHAEL_HNS ===
-Name: MICHAEL
+Name: Phillip
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -4981,7 +4981,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PARRY_HNS ===
-Name: PARRY
+Name: Günter
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5003,7 +5003,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TIMOTHY_HNS ===
-Name: TIMOTHY
+Name: Roman
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5029,7 +5029,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BAILEY_HNS ===
-Name: BAILEY
+Name: Ludwig
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5059,7 +5059,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TIM_HNS ===
-Name: TIM
+Name: Hartmut
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5081,7 +5081,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NOLAND_HNS ===
-Name: NOLAND
+Name: Theodor
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5099,7 +5099,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SIDNEY_HNS ===
-Name: SIDNEY
+Name: Bernward
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5117,7 +5117,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KENNY_HNS ===
-Name: KENNY
+Name: Hilmar
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5143,7 +5143,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JIM_HNS ===
-Name: JIM
+Name: Dejan
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5157,7 +5157,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DEVIN_HNS ===
-Name: DEVIN
+Name: Giuseppe
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5179,7 +5179,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DANIEL_HNS ===
-Name: DANIEL
+Name: Karel
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -5193,7 +5193,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KAZU_HNS ===
-Name: KAZU
+Name: Kazu
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5215,7 +5215,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DWAYNE_HNS ===
-Name: DWAYNE
+Name: Elert
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5241,7 +5241,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HARRIS_HNS ===
-Name: HARRIS
+Name: Francois
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5255,7 +5255,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ZEKE_HNS ===
-Name: ZEKE
+Name: Egidius
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5273,7 +5273,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CHARLES_HNS ===
-Name: CHARLES
+Name: Fridolin
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5295,7 +5295,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RILEY_HNS ===
-Name: RILEY
+Name: Hannes
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5309,7 +5309,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOEL_HNS ===
-Name: JOEL
+Name: Manuel
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5327,7 +5327,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GLENN_HNS ===
-Name: GLENN
+Name: Hektor
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -5349,7 +5349,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DUNCAN_HNS ===
-Name: DUNCAN
+Name: Pit
 Class: Burglar Hns
 Pic: Burglar Hns
 Gender: Male
@@ -5367,7 +5367,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EDDIE_HNS ===
-Name: EDDIE
+Name: Franco
 Class: Burglar Hns
 Pic: Burglar Hns
 Gender: Male
@@ -5385,7 +5385,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RICHARDO_HNS ===
-Name: RICHARDO
+Name: Franco
 Class: Burglar Hns
 Pic: Burglar Hns
 Gender: Male
@@ -5403,7 +5403,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NARD_HNS ===
-Name: NARD
+Name: Wulf
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5417,7 +5417,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_COREY_HNS ===
-Name: COREY
+Name: Eduard
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5443,7 +5443,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_OTIS_HNS ===
-Name: OTIS
+Name: Fitz
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5465,7 +5465,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DICK_HNS ===
-Name: DICK
+Name: Wulf
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5479,7 +5479,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NED_HNS ===
-Name: NED
+Name: Sam
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5501,7 +5501,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BURT_HNS ===
-Name: BURT
+Name: Toni
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5519,7 +5519,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BILL_HNS ===
-Name: BILL
+Name: Veit
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5533,7 +5533,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WALT_HNS ===
-Name: WALT
+Name: Wolf
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5551,7 +5551,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RAY_HNS ===
-Name: RAY
+Name: Ude
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5565,7 +5565,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LYLE_HNS ===
-Name: LYLE
+Name: Wim
 Class: Firebreather Hns
 Pic: Firebreather Hns
 Gender: Male
@@ -5587,7 +5587,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_IRWIN_HNS ===
-Name: IRWIN
+Name: Erich
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -5609,7 +5609,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_FRITZ_HNS ===
-Name: FRITZ
+Name: Eike
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -5631,7 +5631,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HORTON_HNS ===
-Name: HORTON
+Name: Ignaz
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -5657,7 +5657,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KENJI_HNS ===
-Name: KENJI
+Name: Timon
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5683,7 +5683,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_YOSHI_HNS ===
-Name: YOSHI
+Name: Xaver
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5697,7 +5697,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LAO_HNS ===
-Name: LAO
+Name: Jeff
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5711,7 +5711,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NOB_HNS ===
-Name: NOB
+Name: Peter
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5729,7 +5729,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KIYO_HNS ===
-Name: KIYO
+Name: Leif
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5747,7 +5747,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LUNG_HNS ===
-Name: LUNG
+Name: Tim
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5769,7 +5769,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WAI_HNS ===
-Name: WAI
+Name: Ulf
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -5791,7 +5791,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NATHAN_HNS ===
-Name: NATHAN
+Name: Lionel
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5805,7 +5805,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_FRANKLIN_HNS ===
-Name: FRANKLIN
+Name: Frederic
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5819,7 +5819,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HERMAN_HNS ===
-Name: HERMAN
+Name: Marcel
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5841,7 +5841,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_FIDEL_HNS ===
-Name: FIDEL
+Name: Jean
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5855,7 +5855,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GREG_HNS ===
-Name: GREG
+Name: Laurent
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5869,7 +5869,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NORMAN_HNS ===
-Name: NORMAN
+Name: Andre
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5887,7 +5887,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARK_HNS ===
-Name: MARK
+Name: Jaques
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5909,7 +5909,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PHIL_HNS ===
-Name: PHIL
+Name: Rene
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5931,7 +5931,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RICHARD_HNS ===
-Name: RICHARD
+Name: Wulf
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5953,7 +5953,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GILBERT_HNS ===
-Name: GILBERT
+Name: Cyrille
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5975,7 +5975,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JARED_HNS ===
-Name: JARED
+Name: Rainier
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -5997,7 +5997,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RODNEY_HNS ===
-Name: RODNEY
+Name: Henry
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -6015,7 +6015,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LIZ_HNS ===
-Name: LIZ
+Name: Anette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6029,7 +6029,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GINA_HNS ===
-Name: GINA
+Name: Gudrun
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6047,7 +6047,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BROOKE_HNS ===
-Name: BROOKE
+Name: Nina
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6061,7 +6061,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KIM_HNS ===
-Name: KIM
+Name: Emilie
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6075,7 +6075,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CINDY_HNS ===
-Name: CINDY
+Name: Cindy
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6093,7 +6093,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HOPE_HNS ===
-Name: HOPE
+Name: Evelyn
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6107,7 +6107,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SHARON_HNS ===
-Name: SHARON
+Name: Astrid
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6125,7 +6125,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DEBRA_HNS ===
-Name: DEBRA
+Name: Hedwig
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6139,7 +6139,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ERIN_HNS ===
-Name: ERIN
+Name: Nanette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6165,7 +6165,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HEIDI_HNS ===
-Name: HEIDI
+Name: Marika
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6183,7 +6183,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EDNA_HNS ===
-Name: EDNA
+Name: Kerstin
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6201,7 +6201,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TIFFANY_HNS ===
-Name: TIFFANY
+Name: Ilona
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6219,7 +6219,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TANYA_HNS ===
-Name: TANYA
+Name: Nicole
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -6241,7 +6241,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROLAND_HNS ===
-Name: ROLAND
+Name: Erwin
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6255,7 +6255,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TODD_HNS ===
-Name: TODD
+Name: Bodo
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6269,7 +6269,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_IVAN_HNS ===
-Name: IVAN
+Name: Ewald
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6287,7 +6287,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ELLIOT_HNS ===
-Name: ELLIOT
+Name: Kilian
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6305,7 +6305,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BARRY_HNS ===
-Name: BARRY
+Name: Till
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6323,7 +6323,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LLOYD_HNS ===
-Name: LLOYD
+Name: Waldemar
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6337,7 +6337,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DEAN_HNS ===
-Name: DEAN
+Name: Steffan
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6355,7 +6355,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SID_HNS ===
-Name: SID
+Name: Karl
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6377,7 +6377,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_HARVEY_HNS ===
-Name: HARVEY
+Name: Harvey
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6391,7 +6391,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DALE_HNS ===
-Name: DALE
+Name: Wotan
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6405,7 +6405,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TED_HNS ===
-Name: TED
+Name: Patrick
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6427,7 +6427,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_THOMAS_HNS ===
-Name: THOMAS
+Name: Thomas
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6453,7 +6453,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LEROY_HNS ===
-Name: LEROY
+Name: Leroy
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6479,7 +6479,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DAVID_HNS ===
-Name: DAVID
+Name: David
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6505,7 +6505,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOHN_HNS ===
-Name: JOHN
+Name: John
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6531,7 +6531,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JERRY_HNS ===
-Name: JERRY
+Name: Walter
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6553,7 +6553,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRANT_HNS ===
-Name: GRANT
+Name: Donatello
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6571,7 +6571,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SPENCER_HNS ===
-Name: SPENCER
+Name: Moritz
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6589,7 +6589,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_QUENTIN_HNS ===
-Name: QUENTIN
+Name: Quentin
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -6615,7 +6615,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CHOW_HNS ===
-Name: CHOW
+Name: Helmut
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6637,7 +6637,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NICO_HNS ===
-Name: NICO
+Name: Eckart
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6659,7 +6659,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JIN_HNS ===
-Name: JIN
+Name: Detlev
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6673,7 +6673,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TROY_HNS ===
-Name: TROY
+Name: Ingolf
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6691,7 +6691,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JEFFREY_HNS ===
-Name: JEFFREY
+Name: Heribert
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6713,7 +6713,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PING_HNS ===
-Name: PING
+Name: Monty
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6727,7 +6727,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_EDMOND_HNS ===
-Name: EDMOND
+Name: Ludger
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6749,7 +6749,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NEAL_HNS ===
-Name: NEAL
+Name: Lukas
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6763,7 +6763,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LI_HNS ===
-Name: LI
+Name: Marek
 Class: Sage Hns
 Pic: Sage Leader Hns
 Gender: Male
@@ -6785,7 +6785,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GAKU_HNS ===
-Name: GAKU
+Name: Gaku
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6807,7 +6807,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MASA_HNS ===
-Name: MASA
+Name: Masa
 Class: Sage Hns
 Pic: Sage Hns
 Gender: Male
@@ -6829,7 +6829,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KOJI_HNS ===
-Name: KOJI
+Name: Koji
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6851,7 +6851,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARTHA_HNS ===
-Name: MARTHA
+Name: Zenobia
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6869,7 +6869,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRACE_HNS ===
-Name: GRACE
+Name: Dorothea
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6887,7 +6887,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BETHANY_HNS ===
-Name: BETHANY
+Name: Thusnelda
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6901,7 +6901,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MARGRET_HNS ===
-Name: MARGRET
+Name: Margret
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6915,7 +6915,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ETHEL_HNS ===
-Name: ETHEL
+Name: Rolanda
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6929,7 +6929,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_REBECCA_HNS ===
-Name: REBECCA
+Name: Anastasia
 Class: Hex Maniac Hns
 Pic: Hex Maniac
 Gender: Male
@@ -6951,7 +6951,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DORIS_HNS ===
-Name: DORIS
+Name: Doris
 Class: Psychic Hns
 Pic: Psychic F
 Gender: Male
@@ -6973,7 +6973,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RONALD_HNS ===
-Name: RONALD
+Name: Genadi
 Class: Skier Hns
 Pic: Skier M Hns
 Gender: Male
@@ -6991,7 +6991,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRAD_HNS ===
-Name: BRAD
+Name: Kuno
 Class: Skier Hns
 Pic: Skier M Hns
 Gender: Male
@@ -7009,7 +7009,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DOUGLAS_HNS ===
-Name: DOUGLAS
+Name: Georg
 Class: Skier Hns
 Pic: Skier M Hns
 Gender: Male
@@ -7031,7 +7031,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_WILLIAM_HNS ===
-Name: WILLIAM
+Name: Wilhelm
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7045,7 +7045,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DEREK_HNS ===
-Name: DEREK
+Name: Söncke
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7063,7 +7063,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ROBERT_HNS ===
-Name: ROBERT
+Name: Winfried
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7077,7 +7077,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JOSHUA_HNS ===
-Name: JOSHUA
+Name: Jürgen
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7099,7 +7099,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_CARTER_HNS ===
-Name: CARTER
+Name: Ernst
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7121,7 +7121,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TREVOR_HNS ===
-Name: TREVOR
+Name: Reinhold
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -7135,7 +7135,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BRANDON_HNS ===
-Name: BRANDON
+Name: Irmgard
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7149,7 +7149,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JEREMY_HNS ===
-Name: JEREMY
+Name: Jeremy
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7171,7 +7171,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_COLIN_HNS ===
-Name: COLIN
+Name: Wolfram
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7185,7 +7185,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALEX_HNS ===
-Name: ALEX
+Name: Malte
 Class: Battle Girl Hns
 Pic: Battle Girl
 Gender: Male
@@ -7207,7 +7207,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_REX_HNS ===
-Name: REX
+Name: Laslo
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -7221,7 +7221,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ALLAN_HNS ===
-Name: ALLAN
+Name: Allan
 Class: Camper HnS
 Pic: Camper
 Gender: Male
@@ -7234,7 +7234,7 @@ Level: 55
 
 
 === TRAINER_NAOKO_HNS ===
-Name: NAOKO
+Name: Umeko
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Male
@@ -7251,7 +7251,7 @@ Level: 48
 
 
 === TRAINER_SAYO_HNS ===
-Name: SAYO
+Name: Sakura
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Male
@@ -7268,7 +7268,7 @@ Level: 48
 
 
 === TRAINER_ZUKI_HNS ===
-Name: ZUKI
+Name: Tamao
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Male
@@ -7285,7 +7285,7 @@ Level: 48
 
 
 === TRAINER_KUNI_HNS ===
-Name: KUNI
+Name: Komomo
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Male
@@ -7302,7 +7302,7 @@ Level: 48
 
 
 === TRAINER_MIKI_HNS ===
-Name: MIKI
+Name: Satsuki
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Male
@@ -7319,7 +7319,7 @@ Level: 48
 
 
 === TRAINER_AMY_AND_MAY_HNS ===
-Name: AMY&MAY
+Name: Eva & Ute
 Class: Twins Hns
 Pic: Twins Hns
 Gender: Male
@@ -7337,7 +7337,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_ANN_AND_ANNE_HNS ===
-Name: ANN&ANNE
+Name: Nora & Jo
 Class: Twins Hns
 Pic: Twins Hns
 Gender: Male
@@ -7355,7 +7355,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JO_AND_ZOE_HNS ===
-Name: JO&ZOE
+Name: Tia & Tara
 Class: Twins Hns
 Pic: Twins Hns
 Gender: Male
@@ -7373,7 +7373,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_MEG_AND_PEG_HNS ===
-Name: MEG&PEG
+Name: Zoe & Pia
 Class: Twins Hns
 Pic: Twins Hns
 Gender: Male
@@ -7391,7 +7391,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LEA_AND_PIA_HNS ===
-Name: LEA&PIA
+Name: Jana & Nana
 Class: Twins Hns
 Pic: Twins Hns
 Gender: Male
@@ -7417,7 +7417,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_BEVERLY_HNS ===
-Name: BEVERLY
+Name: Irmgard
 Class: Parasol Lady Hns
 Pic: Parasol Lady
 Gender: Male
@@ -7431,7 +7431,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_RUTH_HNS ===
-Name: RUTH
+Name: Ruth
 Class: Parasol Lady Hns
 Pic: Parasol Lady
 Gender: Male
@@ -7445,7 +7445,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GEORGIA_HNS ===
-Name: GEORGIA
+Name: Juliane
 Class: Parasol Lady Hns
 Pic: Parasol Lady
 Gender: Male
@@ -7475,7 +7475,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_JAMIE_HNS ===
-Name: JAIME
+Name: Jaime
 Class: Parasol Lady Hns
 Pic: Parasol Lady
 Gender: Male
@@ -7489,7 +7489,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_KEITH_HNS ===
-Name: KEITH
+Name: Mick
 Class: Officer Hns
 Pic: Officer Hns
 Gender: Male
@@ -7503,7 +7503,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DIRK_HNS ===
-Name: DIRK
+Name: Dirk
 Class: Officer Hns
 Pic: Officer Hns
 Gender: Male
@@ -7521,7 +7521,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_THOM_AND_KAE_HNS ===
-Name: THOM & KAE
+Name: Nele & Uwe
 Class: Young Couple Hns
 Pic: Young Couple
 Gender: Male
@@ -7539,7 +7539,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_DUFF_AND_EDA_HNS ===
-Name: DUFF & EDA
+Name: Mari & Piz
 Class: Young Couple Hns
 Pic: Young Couple
 Gender: Male
@@ -7557,7 +7557,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_FALKNER_1_HNS ===
-Name: FALKNER
+Name: Falk
 Class: Leader Hns
 Pic: Leader Falkner Hns
 Gender: Male
@@ -7581,7 +7581,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_FALKNER_2_HNS ===
-Name: FALKNER
+Name: Falk
 Class: Leader Hns
 Pic: Leader Falkner Hns
 Gender: Male
@@ -7640,7 +7640,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_BUGSY_1_HNS ===
-Name: BUGSY
+Name: Kai
 Class: Leader Hns
 Pic: Leader Bugsy Hns
 Gender: Male
@@ -7675,7 +7675,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_BUGSY_2_HNS ===
-Name: BUGSY
+Name: Kai
 Class: Leader Hns
 Pic: Leader Bugsy Hns
 Gender: Male
@@ -7734,7 +7734,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_WHITNEY_1_HNS ===
-Name: WHITNEY
+Name: Bianka
 Class: Leader Hns
 Pic: Leader Whitney Hns
 Gender: Male
@@ -7769,7 +7769,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 
 === TRAINER_WHITNEY_2_HNS ===
-Name: WHITNEY
+Name: Bianka
 Class: Leader Hns
 Pic: Leader Whitney Hns
 Gender: Male
@@ -7828,7 +7828,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_MORTY_1_HNS ===
-Name: MORTY
+Name: Jens
 Class: Leader Hns
 Pic: Leader Morty Hns
 Gender: Male
@@ -7871,7 +7871,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_MORTY_2_HNS ===
-Name: MORTY
+Name: Jens
 Class: Leader Hns
 Pic: Leader Morty Hns
 Gender: Male
@@ -7930,7 +7930,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_PRYCE_1_HNS ===
-Name: PRYCE
+Name: Norbert
 Class: Leader Hns
 Pic: Leader Pryce Hns
 Gender: Male
@@ -7973,7 +7973,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_PRYCE_2_HNS ===
-Name: PRYCE
+Name: Norbert
 Class: Leader Hns
 Pic: Leader Pryce Hns
 Gender: Male
@@ -8032,7 +8032,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_PRYCE_1_2_HNS ===
-Name: PRYCE
+Name: Norbert
 Class: Leader Hns
 Pic: Leader Pryce Hns
 Gender: Male
@@ -8083,7 +8083,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_PRYCE_1_3_HNS ===
-Name: PRYCE
+Name: Norbert
 Class: Leader Hns
 Pic: Leader Pryce Hns
 Gender: Male
@@ -8134,7 +8134,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_JASMINE_1_HNS ===
-Name: JASMINE
+Name: Jasmin
 Class: Leader Hns
 Pic: Leader Jasmine Hns
 Gender: Male
@@ -8185,7 +8185,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_JASMINE_2_HNS ===
-Name: JASMINE
+Name: Jasmin
 Class: Leader Hns
 Pic: Leader Jasmine Hns
 Gender: Male
@@ -8244,7 +8244,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_JASMINE_1_2_HNS ===
-Name: JASMINE
+Name: Jasmin
 Class: Leader Hns
 Pic: Leader Jasmine Hns
 Gender: Male
@@ -8295,7 +8295,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_JASMINE_1_3_HNS ===
-Name: JASMINE
+Name: Jasmin
 Class: Leader Hns
 Pic: Leader Jasmine Hns
 Gender: Male
@@ -8346,7 +8346,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_CHUCK_1_HNS ===
-Name: CHUCK
+Name: Hartwig
 Class: Leader Hns
 Pic: Leader Chuck Hns
 Gender: Male
@@ -8389,7 +8389,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_CHUCK_2_HNS ===
-Name: CHUCK
+Name: Hartwig
 Class: Leader Hns
 Pic: Leader Chuck Hns
 Gender: Male
@@ -8448,7 +8448,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_CHUCK_1_2_HNS ===
-Name: CHUCK
+Name: Hartwig
 Class: Leader Hns
 Pic: Leader Chuck Hns
 Gender: Male
@@ -8499,7 +8499,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 
 === TRAINER_CHUCK_1_3_HNS ===
-Name: CHUCK
+Name: Hartwig
 Class: Leader Hns
 Pic: Leader Chuck Hns
 Gender: Male
@@ -8550,7 +8550,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_CLAIR_1_HNS ===
-Name: CLAIR
+Name: Sandra
 Class: Leader Hns
 Pic: Leader Clair Hns
 Gender: Male
@@ -8601,7 +8601,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_CLAIR_2_HNS ===
-Name: CLAIR
+Name: Sandra
 Class: Leader Hns
 Pic: Leader Clair Hns
 Gender: Male
@@ -8660,7 +8660,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_BROCK_HNS ===
-Name: BROCK
+Name: Rocko
 Class: Leader Hns
 Pic: Leader Brock Hns
 Gender: Male
@@ -8719,7 +8719,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_MISTY_HNS ===
-Name: MISTY
+Name: Misty
 Class: Leader Hns
 Pic: Leader Misty Hns
 Gender: Male
@@ -8778,7 +8778,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_LTSURGE_HNS ===
-Name: LTSURGE
+Name: Major Bob
 Class: Leader Hns
 Pic: Leader Surge Hns
 Gender: Male
@@ -8837,7 +8837,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_ERIKA_HNS ===
-Name: ERIKA
+Name: Erika
 Class: Leader Hns
 Pic: Leader Erika Hns
 Gender: Male
@@ -8896,7 +8896,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_SABRINA_HNS ===
-Name: SABRINA
+Name: Sabrina
 Class: Leader Hns
 Pic: Leader Sabrina Hns
 Gender: Male
@@ -8955,7 +8955,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_JANINE_HNS ===
-Name: JANINE
+Name: Janina
 Class: Leader Hns
 Pic: Leader Janine Hns
 Gender: Male
@@ -9014,7 +9014,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_BLAINE_HNS ===
-Name: BLAINE
+Name: Pyro
 Class: Leader Hns
 Pic: Leader Blaine Hns
 Gender: Male
@@ -9073,7 +9073,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_BLUE_HNS ===
-Name: BLUE
+Name: Blau
 Class: Leader Hns
 Pic: Leader Blue Hns
 Gender: Male
@@ -9132,7 +9132,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_BLUE_2_HNS ===
-Name: BLUE
+Name: Blau
 Class: Leader Hns
 Pic: Leader Blue Hns
 Gender: Male
@@ -9191,7 +9191,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 
 === TRAINER_WILL_1_HNS ===
-Name: WILL
+Name: Willi
 Class: Elite Four Hns
 Pic: Elite Four Will Hns
 Gender: Male
@@ -9237,7 +9237,7 @@ Level: 50
 
 
 === TRAINER_WILL_2_HNS ===
-Name: WILL
+Name: Willi
 Class: Elite Four Hns
 Pic: Elite Four Will Hns
 Gender: Male
@@ -9290,7 +9290,7 @@ Level: 68
 
 
 === TRAINER_BRUNO_1_HNS ===
-Name: BRUNO
+Name: Bruno
 Class: Elite Four Hns
 Pic: Elite Four Bruno Hns
 Gender: Male
@@ -9336,7 +9336,7 @@ Level: 54
 
 
 === TRAINER_BRUNO_2_HNS ===
-Name: BRUNO
+Name: Bruno
 Class: Elite Four Hns
 Pic: Elite Four Bruno Hns
 Gender: Male
@@ -9389,7 +9389,7 @@ Level: 68
 
 
 === TRAINER_KAREN_1_HNS ===
-Name: KAREN
+Name: Melanie
 Class: Elite Four Hns
 Pic: Elite Four Karen Hns
 Gender: Male
@@ -9435,7 +9435,7 @@ Level: 55
 
 
 === TRAINER_KAREN_2_HNS ===
-Name: KAREN
+Name: Melanie
 Class: Elite Four Hns
 Pic: Elite Four Karen Hns
 Gender: Male
@@ -9488,7 +9488,7 @@ Level: 69
 
 
 === TRAINER_KOGA_1_HNS ===
-Name: KOGA
+Name: Koga
 Class: Elite Four Hns
 Pic: Elite Four Koga Hns
 Gender: Male
@@ -9534,7 +9534,7 @@ Level: 52
 
 
 === TRAINER_KOGA_2_HNS ===
-Name: KOGA
+Name: Koga
 Class: Elite Four Hns
 Pic: Elite Four Koga Hns
 Gender: Male
@@ -9587,7 +9587,7 @@ Level: 68
 
 
 === TRAINER_LANCE_1_HNS ===
-Name: LANCE
+Name: Siegfried
 Class: Champion Hns
 Pic: Champion Lance Hns
 Gender: Male
@@ -9640,7 +9640,7 @@ Level: 56
 
 
 === TRAINER_LANCE_2_HNS ===
-Name: LANCE
+Name: Siegfried
 Class: Champion Hns
 Pic: Champion Lance Hns
 Gender: Male
@@ -9693,7 +9693,7 @@ Level: 70
 
 
 === TRAINER_LANCE_3_HNS ===
-Name: LANCE
+Name: Siegfried
 Class: Champion Hns
 Pic: Champion Lance Hns
 Gender: Male
@@ -9724,7 +9724,7 @@ Level: 75
 - Dragon Dance
 
 === TRAINER_CLAIR_3_HNS ===
-Name: CLAIR
+Name: Sandra
 Class: Leader Hns
 Pic: Leader Clair Hns
 Gender: Male
@@ -10679,7 +10679,7 @@ Level: 68
 
 
 === TRAINER_RED_2_HNS ===
-Name: RED
+Name: Rot
 Class: Pkmn Trainer 1 Hns
 Pic: Red Hns
 Gender: Male
@@ -10732,7 +10732,7 @@ Level: 80
 
 
 === TRAINER_EUSINE_HNS ===
-Name: EUSINE
+Name: Eusin
 Class: Mystery Man Hns
 Pic: Eusine Hns
 Gender: Male
@@ -10767,7 +10767,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 
 === TRAINER_GIOVANNI_HNS ===
-Name: GIOVANNI
+Name: Giovanni
 Class: Rocket Admin Hns
 Pic: Giovanni Hns
 Gender: Male
@@ -10820,7 +10820,7 @@ Level: 62
 
 
 === TRAINER_PROTON_1_HNS ===
-Name: PROTON
+Name: Lance
 Class: Rocket Admin Hns
 Pic: Proton Hns
 Gender: Male
@@ -10842,7 +10842,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_PROTON_2_HNS ===
-Name: PROTON
+Name: Lance
 Class: Rocket Admin Hns
 Pic: Proton Hns
 Gender: Male
@@ -10888,7 +10888,7 @@ Level: 38
 
 
 === TRAINER_ARCHER_HNS ===
-Name: ARCHER
+Name: Atlas
 Class: Rocket Admin Hns
 Pic: Archer Hns
 Gender: Male
@@ -10934,7 +10934,7 @@ Level: 40
 
 
 === TRAINER_ARCHER_1_HNS ===
-Name: ARCHER
+Name: Atlas
 Class: Rocket Admin Hns
 Pic: Archer Hns
 Gender: Male
@@ -10966,7 +10966,7 @@ Level: 38
 
 
 === TRAINER_ARCHER_4_HNS ===
-Name: ARCHER
+Name: Atlas
 Class: Rocket Admin Hns
 Pic: Archer Hns
 Gender: Male
@@ -11012,7 +11012,7 @@ Level: 40
 
 
 === TRAINER_ARCHER_5_HNS ===
-Name: ARCHER
+Name: Atlas
 Class: Rocket Admin Hns
 Pic: Archer Hns
 Gender: Male
@@ -11058,7 +11058,7 @@ Level: 40
 
 
 === TRAINER_PETREL_1_HNS ===
-Name: PETREL
+Name: Lambda
 Class: Rocket Admin Hns
 Pic: Petrel Hns
 Gender: Male
@@ -11097,7 +11097,7 @@ Level: 30
 
 
 === TRAINER_PETREL_2_HNS ===
-Name: PETREL
+Name: Lambda
 Class: Rocket Admin Hns
 Pic: Petrel Hns
 Gender: Male
@@ -11136,7 +11136,7 @@ Level: 38
 
 
 === TRAINER_ARIANA_1_HNS ===
-Name: ARIANA
+Name: Athena
 Class: Rocket Admin Hns
 Pic: Ariana Hns
 Gender: Male
@@ -11168,7 +11168,7 @@ Level: 30
 
 
 === TRAINER_ARIANA_2_HNS ===
-Name: ARIANA
+Name: Athena
 Class: Rocket Admin Hns
 Pic: Ariana Hns
 Gender: Male
@@ -11214,7 +11214,7 @@ Level: 40
 
 
 === TRAINER_ANABEL_BF_BRAIN_HNS ===
-Name: ANABEL
+Name: Anabel
 Class: Salon Maiden Hns
 Pic: Salon Maiden Anabel
 Gender: Female
@@ -11228,7 +11228,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_TUCKER_BF_BRAIN_HNS ===
-Name: TUCKER
+Name: Ottmar
 Class: Dome Ace Hns
 Pic: Dome Ace Tucker
 Gender: Male
@@ -11246,7 +11246,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_SPENSER_BF_BRAIN_HNS ===
-Name: SPENSER
+Name: Spenser
 Class: Palace Maven Hns
 Pic: Palace Maven Spenser
 Gender: Male
@@ -11260,7 +11260,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_GRETA_BF_BRAIN_HNS ===
-Name: GRETA
+Name: Greta
 Class: Arena Tycoon Hns
 Pic: Arena Tycoon Greta
 Gender: Female
@@ -11274,7 +11274,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_NOLAND_BF_BRAIN_HNS ===
-Name: NOLAND
+Name: Theodor
 Class: Factory Head Hns
 Pic: Factory Head Noland
 Gender: Male
@@ -11292,7 +11292,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 
 === TRAINER_LUCY_BF_BRAIN_HNS ===
-Name: LUCY
+Name: Lucy
 Class: Pike Queen Hns
 Pic: Pike Queen Lucy
 Gender: Female
@@ -11305,7 +11305,7 @@ Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_JOEY_2_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -11321,7 +11321,7 @@ Level: 27
 - Mud-Slap
 
 === TRAINER_JOEY_3_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -11337,7 +11337,7 @@ Level: 30
 - Iron Tail
 
 === TRAINER_JOEY_4_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -11353,7 +11353,7 @@ Level: 40
 - Iron Tail
 
 === TRAINER_JOEY_5_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -11369,7 +11369,7 @@ Level: 65
 - Iron Tail
 
 === TRAINER_WADE_2_HNS ===
-Name: WADE
+Name: Greg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11384,7 +11384,7 @@ Pineco
 Level: 20
 
 === TRAINER_WADE_3_HNS ===
-Name: WADE
+Name: Greg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11402,7 +11402,7 @@ Pineco
 Level: 25
 
 === TRAINER_WADE_4_HNS ===
-Name: WADE
+Name: Greg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11423,7 +11423,7 @@ Ariados
 Level: 36
 
 === TRAINER_WADE_5_HNS ===
-Name: WADE
+Name: Greg
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11447,7 +11447,7 @@ Ariados
 Level: 47
 
 === TRAINER_RALPH_2_HNS ===
-Name: RALPH
+Name: Angelo
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -11459,7 +11459,7 @@ Goldeen
 Level: 24
 
 === TRAINER_RALPH_3_HNS ===
-Name: RALPH
+Name: Angelo
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -11474,7 +11474,7 @@ Seaking
 Level: 28
 
 === TRAINER_RALPH_4_HNS ===
-Name: RALPH
+Name: Angelo
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -11504,7 +11504,7 @@ Level: 45
 - Ice Beam
 
 === TRAINER_RALPH_5_HNS ===
-Name: RALPH
+Name: Angelo
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -11534,7 +11534,7 @@ Level: 55
 - Ice Beam
 
 === TRAINER_LIZ_2_HNS ===
-Name: LIZ
+Name: Anette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11549,7 +11549,7 @@ Nidorina
 Level: 25
 
 === TRAINER_LIZ_3_HNS ===
-Name: LIZ
+Name: Anette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11567,7 +11567,7 @@ Nidoqueen
 Level: 30
 
 === TRAINER_LIZ_4_HNS ===
-Name: LIZ
+Name: Anette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11585,7 +11585,7 @@ Nidoqueen
 Level: 36
 
 === TRAINER_LIZ_5_HNS ===
-Name: LIZ
+Name: Anette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11615,7 +11615,7 @@ Level: 53
 - Body Slam
 
 === TRAINER_ANTHONY_2_HNS ===
-Name: ANTHONY
+Name: Tom
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -11630,7 +11630,7 @@ Machop
 Level: 11
 
 === TRAINER_ANTHONY_3_HNS ===
-Name: ANTHONY
+Name: Tom
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -11648,7 +11648,7 @@ Graveler
 Level: 35
 
 === TRAINER_ANTHONY_4_HNS ===
-Name: ANTHONY
+Name: Tom
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -11666,7 +11666,7 @@ Golem
 Level: 48
 
 === TRAINER_ANTHONY_5_HNS ===
-Name: ANTHONY
+Name: Tom
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -11696,7 +11696,7 @@ Level: 56
 - Rollout
 
 === TRAINER_TODD_2_HNS ===
-Name: TODD
+Name: Bodo
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -11714,7 +11714,7 @@ Psyduck
 Level: 24
 
 === TRAINER_TODD_3_HNS ===
-Name: TODD
+Name: Bodo
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -11732,7 +11732,7 @@ Golduck
 Level: 35
 
 === TRAINER_TODD_4_HNS ===
-Name: TODD
+Name: Bodo
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -11753,7 +11753,7 @@ Magcargo
 Level: 45
 
 === TRAINER_TODD_5_HNS ===
-Name: TODD
+Name: Bodo
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -11774,7 +11774,7 @@ Magcargo
 Level: 55
 
 === TRAINER_GINA_2_HNS ===
-Name: GINA
+Name: Gudrun
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11792,7 +11792,7 @@ Ivysaur
 Level: 27
 
 === TRAINER_GINA_3_HNS ===
-Name: GINA
+Name: Gudrun
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11810,7 +11810,7 @@ Ivysaur
 Level: 35
 
 === TRAINER_GINA_4_HNS ===
-Name: GINA
+Name: Gudrun
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11828,7 +11828,7 @@ Venusaur
 Level: 48
 
 === TRAINER_GINA_5_HNS ===
-Name: GINA
+Name: Gudrun
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -11858,7 +11858,7 @@ Level: 55
 - Mud-Slap
 
 === TRAINER_ARNIE_2_HNS ===
-Name: ARNIE
+Name: Udo
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11873,7 +11873,7 @@ Venonat
 Level: 28
 
 === TRAINER_ARNIE_3_HNS ===
-Name: ARNIE
+Name: Udo
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11891,7 +11891,7 @@ Scyther
 Level: 38
 
 === TRAINER_ARNIE_4_HNS ===
-Name: ARNIE
+Name: Udo
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11912,7 +11912,7 @@ Pinsir
 Level: 48
 
 === TRAINER_ARNIE_5_HNS ===
-Name: ARNIE
+Name: Udo
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -11933,7 +11933,7 @@ Pinsir
 Level: 56
 
 === TRAINER_ALAN_2_HNS ===
-Name: ALAN
+Name: Holger
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -11948,7 +11948,7 @@ Growlithe
 Level: 25
 
 === TRAINER_ALAN_3_HNS ===
-Name: ALAN
+Name: Holger
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -11969,7 +11969,7 @@ Arcanine
 Level: 32
 
 === TRAINER_ALAN_4_HNS ===
-Name: ALAN
+Name: Holger
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -11990,7 +11990,7 @@ Yanma
 Level: 30
 
 === TRAINER_ALAN_5_HNS ===
-Name: ALAN
+Name: Holger
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12011,7 +12011,7 @@ Arcanine
 Level: 44
 
 === TRAINER_DANA_2_HNS ===
-Name: DANA
+Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -12034,7 +12034,7 @@ Level: 25
 - Confusion
 
 === TRAINER_DANA_3_HNS ===
-Name: DANA
+Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -12057,7 +12057,7 @@ Level: 37
 - Cotton Spore
 
 === TRAINER_DANA_4_HNS ===
-Name: DANA
+Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -12080,7 +12080,7 @@ Level: 45
 - Cotton Spore
 
 === TRAINER_DANA_5_HNS ===
-Name: DANA
+Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
 Gender: Male
@@ -12103,7 +12103,7 @@ Level: 55
 - Cotton Spore
 
 === TRAINER_CHAD_2_HNS ===
-Name: CHAD
+Name: Lutz
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12118,7 +12118,7 @@ Magnemite
 Level: 26
 
 === TRAINER_CHAD_3_HNS ===
-Name: CHAD
+Name: Lutz
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12133,7 +12133,7 @@ Magneton
 Level: 35
 
 === TRAINER_CHAD_4_HNS ===
-Name: CHAD
+Name: Lutz
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12148,7 +12148,7 @@ Magneton
 Level: 44
 
 === TRAINER_CHAD_5_HNS ===
-Name: CHAD
+Name: Lutz
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12171,7 +12171,7 @@ Level: 58
 - Tri Attack
 
 === TRAINER_TULLY_2_HNS ===
-Name: TULLY
+Name: Amadeus
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -12183,7 +12183,7 @@ Qwilfish
 Level: 24
 
 === TRAINER_TULLY_3_HNS ===
-Name: TULLY
+Name: Amadeus
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -12201,7 +12201,7 @@ Seaking
 Level: 42
 
 === TRAINER_TULLY_4_HNS ===
-Name: TULLY
+Name: Amadeus
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -12219,7 +12219,7 @@ Seaking
 Level: 52
 
 === TRAINER_BRENT_2_HNS ===
-Name: BRENT
+Name: Taro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -12231,7 +12231,7 @@ Kangaskhan
 Level: 33
 
 === TRAINER_BRENT_3_HNS ===
-Name: BRENT
+Name: Taro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -12247,7 +12247,7 @@ Level: 46
 - Tri Attack
 
 === TRAINER_BRENT_4_HNS ===
-Name: BRENT
+Name: Taro
 Class: Pokemaniac Hns
 Pic: Pokemaniac
 Gender: Male
@@ -12263,7 +12263,7 @@ Level: 53
 - Soft-Boiled
 
 === TRAINER_TIFFANY_2_HNS ===
-Name: TIFFANY
+Name: Ilona
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -12279,7 +12279,7 @@ Level: 37
 - Metronome
 
 === TRAINER_TIFFANY_3_HNS ===
-Name: TIFFANY
+Name: Ilona
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -12295,7 +12295,7 @@ Level: 29
 - Minimize
 
 === TRAINER_TIFFANY_4_HNS ===
-Name: TIFFANY
+Name: Ilona
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -12318,7 +12318,7 @@ Level: 54
 - Headbutt
 
 === TRAINER_VANCE_2_HNS ===
-Name: VANCE
+Name: Arno
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -12339,7 +12339,7 @@ Skarmory
 Level: 49
 
 === TRAINER_VANCE_3_HNS ===
-Name: VANCE
+Name: Arno
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -12360,7 +12360,7 @@ Skarmory
 Level: 55
 
 === TRAINER_WILTON_2_HNS ===
-Name: WILTON
+Name: Alfried
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -12378,7 +12378,7 @@ Seaking
 Level: 48
 
 === TRAINER_WILTON_3_HNS ===
-Name: WILTON
+Name: Alfried
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -12396,7 +12396,7 @@ Seaking
 Level: 56
 
 === TRAINER_KENJI_2_HNS ===
-Name: KENJI
+Name: Timon
 Class: Black Belt Hns
 Pic: Black Belt
 Gender: Male
@@ -12433,7 +12433,7 @@ Level: 36
 - Swift
 
 === TRAINER_PARRY_2_HNS ===
-Name: PARRY
+Name: Günter
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -12463,7 +12463,7 @@ Level: 50
 - Slam
 
 === TRAINER_PARRY_3_HNS ===
-Name: PARRY
+Name: Günter
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -12481,7 +12481,7 @@ Steelix
 Level: 38
 
 === TRAINER_ERIN_2_HNS ===
-Name: ERIN
+Name: Nanette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -12502,7 +12502,7 @@ Rapidash
 Level: 44
 
 === TRAINER_ERIN_3_HNS ===
-Name: ERIN
+Name: Nanette
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Male
@@ -12539,7 +12539,7 @@ Level: 44
 - Sunny Day
 
 === TRAINER_JACK_2_HNS ===
-Name: JACK
+Name: Julius
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12554,7 +12554,7 @@ Voltorb
 Level: 23
 
 === TRAINER_JACK_3_HNS ===
-Name: JACK
+Name: Julius
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12569,7 +12569,7 @@ Electrode
 Level: 31
 
 === TRAINER_JACK_4_HNS ===
-Name: JACK
+Name: Julius
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12587,7 +12587,7 @@ Electrode
 Level: 43
 
 === TRAINER_JACK_5_HNS ===
-Name: JACK
+Name: Julius
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -12617,7 +12617,7 @@ Level: 37
 - Moonlight
 
 === TRAINER_HUEY_2_HNS ===
-Name: HUEY
+Name: Nepomuk
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -12632,7 +12632,7 @@ Poliwhirl
 Level: 28
 
 === TRAINER_HUEY_3_HNS ===
-Name: HUEY
+Name: Nepomuk
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -12647,7 +12647,7 @@ Poliwrath
 Level: 34
 
 === TRAINER_HUEY_4_HNS ===
-Name: HUEY
+Name: Nepomuk
 Class: Sailor Hns
 Pic: Sailor
 Gender: Male
@@ -12670,7 +12670,7 @@ Level: 38
 - Submission
 
 === TRAINER_GAVEN_2_HNS ===
-Name: GAVEN
+Name: Maik
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -12714,7 +12714,7 @@ Level: 55
 - Thunderbolt
 
 === TRAINER_GAVEN_3_HNS ===
-Name: GAVEN
+Name: Maik
 Class: Cooltrainer Hns
 Pic: Cooltrainer M
 Gender: Male
@@ -12758,7 +12758,7 @@ Level: 44
 - Recover
 
 === TRAINER_BETH_2_HNS ===
-Name: BETH
+Name: Dea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -12801,7 +12801,7 @@ Level: 50
 - Thunder Punch
 
 === TRAINER_BETH_3_HNS ===
-Name: BETH
+Name: Dea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -12844,7 +12844,7 @@ Level: 55
 - Thunder Punch
 
 === TRAINER_JOSE_2_HNS ===
-Name: JOSE
+Name: Elmar
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -12865,7 +12865,7 @@ Skarmory
 Level: 44
 
 === TRAINER_JOSE_3_HNS ===
-Name: JOSE
+Name: Elmar
 Class: Bird Keeper Hns
 Pic: Bird Keeper
 Gender: Male
@@ -12889,7 +12889,7 @@ Skarmory
 Level: 48
 
 === TRAINER_REENA_2_HNS ===
-Name: REENA
+Name: Bea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -12913,7 +12913,7 @@ Starmie
 Level: 49
 
 === TRAINER_REENA_3_HNS ===
-Name: REENA
+Name: Bea
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Male
@@ -12937,7 +12937,7 @@ Starmie
 Level: 57
 
 === TRAINER_ALEX_2_HNS ===
-Name: ALEX
+Name: Malte
 Class: Battle Girl Hns
 Pic: Battle Girl
 Gender: Male
@@ -12958,7 +12958,7 @@ Kingdra
 Level: 53
 
 === TRAINER_ALEX_3_HNS ===
-Name: ALEX
+Name: Malte
 Class: Battle Girl Hns
 Pic: Battle Girl
 Gender: Male
@@ -12982,7 +12982,7 @@ Kingdra
 Level: 57
 
 === TRAINER_RILEY_2_HNS ===
-Name: RILEY
+Name: Hannes
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -12997,7 +12997,7 @@ Arbok
 Level: 60
 
 === TRAINER_RILEY_3_HNS ===
-Name: RILEY
+Name: Hannes
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13015,7 +13015,7 @@ Seviper
 Level: 60
 
 === TRAINER_RILEY_4_HNS ===
-Name: RILEY
+Name: Hannes
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13033,7 +13033,7 @@ Seviper
 Level: 65
 
 === TRAINER_TREVOR_2_HNS ===
-Name: TREVOR
+Name: Reinhold
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -13048,7 +13048,7 @@ Aipom
 Level: 40
 
 === TRAINER_TREVOR_3_HNS ===
-Name: TREVOR
+Name: Reinhold
 Class: Juggler Hns
 Pic: Juggler Hns
 Gender: Male
@@ -13063,7 +13063,7 @@ Ambipom
 Level: 64
 
 === TRAINER_KYLE_2_HNS ===
-Name: KYLE
+Name: Alain
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -13084,7 +13084,7 @@ Seaking
 Level: 61
 
 === TRAINER_KYLE_3_HNS ===
-Name: KYLE
+Name: Alain
 Class: Fisherman Hns
 Pic: Fisherman
 Gender: Male
@@ -13105,7 +13105,7 @@ Seaking
 Level: 63
 
 === TRAINER_CARTER_2_HNS ===
-Name: CARTER
+Name: Ernst
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -13123,7 +13123,7 @@ Charmander
 Level: 65
 
 === TRAINER_CARTER_3_HNS ===
-Name: CARTER
+Name: Ernst
 Class: Pokefan Hns
 Pic: Pokefan M
 Gender: Male
@@ -13141,7 +13141,7 @@ Mudkip
 Level: 65
 
 === TRAINER_HILLARY_2_HNS ===
-Name: HILLARY
+Name: Sylvia
 Class: Expert Hns
 Pic: Expert F
 Gender: Male
@@ -13159,7 +13159,7 @@ Cubone
 Level: 62
 
 === TRAINER_HILLARY_3_HNS ===
-Name: HILLARY
+Name: Sylvia
 Class: Expert Hns
 Pic: Expert F
 Gender: Male
@@ -13177,7 +13177,7 @@ Cubone
 Level: 62
 
 === TRAINER_ROB_2_HNS ===
-Name: ROB
+Name: Götz
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -13195,7 +13195,7 @@ Beautifly
 Level: 63
 
 === TRAINER_ROB_3_HNS ===
-Name: ROB
+Name: Götz
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -13216,7 +13216,7 @@ Dustox
 Level: 64
 
 === TRAINER_NICOLE_2_HNS ===
-Name: NICOLE
+Name: Elke
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -13234,7 +13234,7 @@ Luvdisc
 Level: 66
 
 === TRAINER_NICOLE_3_HNS ===
-Name: NICOLE
+Name: Elke
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Male
@@ -13252,7 +13252,7 @@ Luvdisc
 Level: 69
 
 === TRAINER_BILLY_2_HNS ===
-Name: BILLY
+Name: Sandro
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -13273,7 +13273,7 @@ Ditto
 Level: 62
 
 === TRAINER_BILLY_3_HNS ===
-Name: BILLY
+Name: Sandro
 Class: School Kid Hns
 Pic: School Kid M
 Gender: Male
@@ -13297,7 +13297,7 @@ Kecleon
 Level: 68
 
 === TRAINER_KENNY_2_HNS ===
-Name: KENNY
+Name: Hilmar
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -13318,7 +13318,7 @@ Aggron
 Level: 60
 
 === TRAINER_KENNY_3_HNS ===
-Name: KENNY
+Name: Hilmar
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -13339,7 +13339,7 @@ Aggron
 Level: 63
 
 === TRAINER_JOEL_2_HNS ===
-Name: JOEL
+Name: Manuel
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13363,7 +13363,7 @@ Roselia
 Level: 60
 
 === TRAINER_JOEL_3_HNS ===
-Name: JOEL
+Name: Manuel
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13387,7 +13387,7 @@ Roserade
 Level: 62
 
 === TRAINER_CHARLES_2_HNS ===
-Name: CHARLES
+Name: Fridolin
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13408,7 +13408,7 @@ Mightyena
 Level: 58
 
 === TRAINER_CHARLES_3_HNS ===
-Name: CHARLES
+Name: Fridolin
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -13433,7 +13433,7 @@ Level: 63
 
 
 === TRAINER_SAMSON_OAK_HNS ===
-Name: SAMSON OAK
+Name: Samson Oak
 Class: Professor Hns
 Pic: Samson Oak Hns
 Gender: Male
@@ -13460,7 +13460,7 @@ Tropius
 Level: 67
 
 === TRAINER_PHANTONOMY_UNUSED_HNS ===
-Name: PHANTONOMY
+Name: Phantonomy
 Class: Developer Hns
 Pic: Scientist Frlg
 Gender: Male
@@ -13490,7 +13490,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 Shiny: Yes
 
 === TRAINER_MELEMELE_SWIMMER_1_HNS ===
-Name: MIA
+Name: Mia
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Female
@@ -13508,7 +13508,7 @@ Luvdisc
 Level: 50
 
 === TRAINER_MELEMELE_SWIMMER_2_HNS ===
-Name: JIMMY
+Name: Edmund
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -13526,7 +13526,7 @@ Huntail
 Level: 51
 
 === TRAINER_AKALA_SWIMMER_1_HNS ===
-Name: KELSIE
+Name: Kelsie
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Female
@@ -13544,7 +13544,7 @@ Golduck
 Level: 53
 
 === TRAINER_AKALA_SWIMMER_2_HNS ===
-Name: PORTIA
+Name: Portia
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Female
@@ -13562,7 +13562,7 @@ Raticate Alola
 Level: 51
 
 === TRAINER_AKALA_SWIMMER_3_HNS ===
-Name: GEOFF
+Name: Geoff
 Class: Swimmer M Hns
 Pic: Swimmer M
 Gender: Male
@@ -13580,7 +13580,7 @@ Persian Alola
 Level: 52
 
 === TRAINER_PONI_SWIMMER_1_HNS ===
-Name: JADE
+Name: Jade
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: Female
@@ -13598,7 +13598,7 @@ Milotic
 Level: 56
 
 === TRAINER_PONI_SWIMMER_2_HNS ===
-Name: RODDY
+Name: Roddy
 Class: Tuber M
 Pic: Tuber M
 Gender: Male
@@ -13617,7 +13617,7 @@ Level: 54
 
 
 === TRAINER_AKALA_HIKER_HNS ===
-Name: IAN
+Name: Lorenz
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -13635,7 +13635,7 @@ Magmar
 Level: 56
 
 === TRAINER_AKALA_PICNICKER_HNS ===
-Name: TATIANA
+Name: Tatiana
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Female
@@ -13653,7 +13653,7 @@ Ludicolo
 Level: 55
 
 === TRAINER_AKALA_CAMPER_HNS ===
-Name: OLIVER
+Name: Oliver
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -13671,7 +13671,7 @@ Dustox
 Level: 51
 
 === TRAINER_AKALA_FOREST_BUGCATCHER_1_HNS ===
-Name: STANLEY
+Name: Stanley
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -13687,7 +13687,7 @@ Level: 57
 
 
 === TRAINER_AKALA_FOREST_BUGCATCHER_2_HNS ===
-Name: SCOTTY
+Name: Scotty
 Class: Bug Catcher Hns
 Pic: Bug Catcher
 Gender: Male
@@ -13702,7 +13702,7 @@ Heracross
 Level: 58
 
 === TRAINER_AKALA_CAVE_PICNICKER_HNS ===
-Name: MELISSA
+Name: Melissa
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Female
@@ -13720,7 +13720,7 @@ Tropius
 Level: 53
 
 === TRAINER_AKALA_CAVE_CAMPER_HNS ===
-Name: RONNY
+Name: Ronny
 Class: Camper Hns
 Pic: Camper
 Gender: Male
@@ -13738,7 +13738,7 @@ Machoke
 Level: 52
 
 === TRAINER_AKALA_CAVE_HIKER_HNS ===
-Name: FRANK
+Name: Frank
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -13756,7 +13756,7 @@ Solrock
 Level: 52
 
 === TRAINER_ULAULA_PICNICKER_HNS ===
-Name: MELISSA
+Name: Melissa
 Class: Picnicker Hns
 Pic: Picnicker
 Gender: Female
@@ -13774,7 +13774,7 @@ Miltank
 Level: 55
 
 === TRAINER_ULAULA_YOUNGSTER_HNS ===
-Name: JOEY
+Name: Julian
 Class: Youngster Hns
 Pic: Youngster Hns
 Gender: Male
@@ -13792,7 +13792,7 @@ Raticate Alola
 Level: 51
 
 === TRAINER_ULAULA_HIKER_HNS ===
-Name: FRANK
+Name: Frank
 Class: Hiker Hns
 Pic: Hiker
 Gender: Male
@@ -13810,7 +13810,7 @@ Mawile
 Level: 53
 
 === TRAINER_ULAULA_COOLTRAINER_HNS ===
-Name: LOIS
+Name: Karo
 Class: Cooltrainer Hns
 Pic: Cooltrainer F
 Gender: Female
