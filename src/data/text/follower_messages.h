@@ -30,9 +30,9 @@ static const u8 sHappyMsg07[] = _("{STR_VAR_1} hat zusätzliche Anstrengungen un
 static const u8 sHappyMsg08[] = _("{STR_VAR_1} riecht die Düfte\nder Umgebungsluft.");
 static const u8 sHappyMsg09[] = _("{STR_VAR_1} hüpft vor Freude!");
 static const u8 sHappyMsg10[] = _("{STR_VAR_1} fühlt sich immer noch großartig!");
-static const u8 sHappyMsg11[] = _("Dein POKéMON hat Rauchgeruch wahrgenommen.");
-static const u8 sHappyMsg12[] = _("{STR_VAR_1} stochert in deinem Bauch herum.");
-static const u8 sHappyMsg13[] = _("Dein POKéMON streckt seinen Körper aus und entspannt sich.");
+static const u8 sHappyMsg11[] = _("Dein POKéMON hat Rauchgeruch\nwahrgenommen.");
+static const u8 sHappyMsg12[] = _("{STR_VAR_1} pikst deinen Bauch.");
+static const u8 sHappyMsg13[] = _("Dein POKéMON streckt seinen Körper\naus und entspannt sich.");
 static const u8 sHappyMsg14[] = _("{STR_VAR_1} sieht so aus, als ob es\nführen möchte!");
 static const u8 sHappyMsg15[] = _("{STR_VAR_1} tut sein Bestes,\nmit dir Schritt zu halten.");
 static const u8 sHappyMsg16[] = _("{STR_VAR_1} kuschelt sich glücklich\nan dich!");
@@ -134,9 +134,9 @@ const struct FollowerMsgInfo gFollowerUpsetMessages[] = {
 
 // Unconditional angry messages
 static const u8 sAngryMsg00[] = _("{STR_VAR_1} stieß ein Brüllen aus!");
-static const u8 sAngryMsg01[] = _("{STR_VAR_1} macht ein Gesicht, als wäre es wütend!");
-static const u8 sAngryMsg02[] = _("{STR_VAR_1} scheint aus irgendeinem Grund wütend zu sein.");
-static const u8 sAngryMsg03[] = _("Dein POKéMON drehte sich in die andere Richtung und zeigte ein trotziges Gesicht.");
+static const u8 sAngryMsg01[] = _("{STR_VAR_1} macht ein Gesicht,\nals wäre es wütend!");
+static const u8 sAngryMsg02[] = _("{STR_VAR_1} scheint aus irgendeinem\nGrund wütend zu sein.");
+static const u8 sAngryMsg03[] = _("Dein POKéMON drehte sich\nund zeigte ein trotziges Gesicht.");
 static const u8 sAngryMsg04[] = _("{STR_VAR_1} schrie.");
 
 const struct FollowerMsgInfo gFollowerAngryMessages[] = {
