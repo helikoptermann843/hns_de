@@ -22,6 +22,8 @@
 #include "constants/songs.h"
 #include "event_data.h"
 #include "constants/flags.h"
+#include "load_save.h"
+#include "new_game.h"
 
 // =============================================================================
 // Tab definitions
@@ -1128,6 +1130,12 @@ void CB2_InitOptionMenu(void)
     {
     default:
     case 0:
+                // Initialize SaveBlocks if not already done (e.g., opening options before loading a game)
+        if (gSaveBlock3Ptr == NULL)
+        {
+            SetSaveBlocksPointers(0);
+            SetDefaultChallengeSettings();
+        }
         SetVBlankCallback(NULL);
         gMain.state++;
         break;
