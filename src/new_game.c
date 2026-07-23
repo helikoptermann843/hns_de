@@ -117,12 +117,12 @@ void SetDefaultChallengeSettings(void)
 {
     gSaveblock3.challengeSettings.followerEnable = 0;
     gSaveblock3.challengeSettings.followerLargeEnable = 0;
-    gSaveblock3.challengeSettings.autoRun = 0;
-    gSaveblock3.challengeSettings.autorunSurf = 0;
-    gSaveblock3.challengeSettings.autorunDive = 0;
+    gSaveblock3.challengeSettings.autoRun = 1;
+    gSaveblock3.challengeSettings.autorunSurf = 1;
+    gSaveblock3.challengeSettings.autorunDive = 1;
     gSaveblock3.challengeSettings.fishing = 0;
-    gSaveblock3.challengeSettings.evenFasterJoy = 0;
-    gSaveblock3.challengeSettings.fastIntro = 0;
+    gSaveblock3.challengeSettings.evenFasterJoy = 1;
+    gSaveblock3.challengeSettings.fastIntro = 1;
     gSaveblock3.challengeSettings.fastBattle = 0;
     gSaveblock3.challengeSettings.optionStyle = 0;
     gSaveblock3.challengeSettings.genOneRecharge = 0;
