@@ -912,7 +912,7 @@ static void PlayerNotOnBikeMoving(enum Direction direction, u16 heldKeys)
             gPlayerAvatar.creeping = TRUE;
             PlayerWalkSlow(direction);
         }
-        else if (gSaveBlock3Ptr->challengeSettings.autorunSurf == 1)
+        else if (gSaveBlock3Ptr->challengeSettings.autorunSurf == 0)
         {
             if (heldKeys & B_BUTTON)
                 PlayerWalkFast(direction);
@@ -930,13 +930,13 @@ static void PlayerNotOnBikeMoving(enum Direction direction, u16 heldKeys)
     }
 
     if (!(gPlayerAvatar.flags & PLAYER_AVATAR_FLAG_UNDERWATER)
-     && (gSaveBlock3Ptr->challengeSettings.autoRun == 1 || (heldKeys & B_BUTTON))
+     && (gSaveBlock3Ptr->challengeSettings.autoRun == 0 || (heldKeys & B_BUTTON))
      && FlagGet(FLAG_SYS_B_DASH)
      && IsRunningDisallowed(gObjectEvents[gPlayerAvatar.objectEventId].currentMetatileBehavior) == 0
      && !FollowerNPCComingThroughDoor()
      && (I_ORAS_DOWSING_FLAG == 0 || (I_ORAS_DOWSING_FLAG != 0 && !FlagGet(I_ORAS_DOWSING_FLAG))))
     {
-        if (heldKeys & B_BUTTON && gSaveBlock3Ptr->challengeSettings.autoRun == 1)
+        if (heldKeys & B_BUTTON && gSaveBlock3Ptr->challengeSettings.autoRun == 0)
         {
             if (ObjectMovingOnRockStairs(&gObjectEvents[gPlayerAvatar.objectEventId], direction))
                 PlayerWalkSlow(direction);
