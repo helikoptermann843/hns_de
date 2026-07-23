@@ -200,13 +200,13 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("AN"),
+    COMPOUND_STRING("EIN"),
     COMPOUND_STRING("AUS"),
 };
 
 static const u8 *const sChoices_ShiftSet[] = {
     COMPOUND_STRING("WECHSEL"),
-    COMPOUND_STRING("FEST"),
+    COMPOUND_STRING("FOLGE"),
 };
 
 static const u8 *const sChoices_MonoStereo[] = {
@@ -216,7 +216,7 @@ static const u8 *const sChoices_MonoStereo[] = {
 
 static const u8 *const sChoices_ButtonMode[] = {
     COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("LR"),
+    COMPOUND_STRING("L/R"),
     COMPOUND_STRING("L=A"),
 };
 
@@ -228,8 +228,8 @@ static const u8 *const sChoices_TextSpeed[] = {
 };
 
 static const u8 *const sChoices_MetricImperial[] = {
-    COMPOUND_STRING("METRISCH"),
-    COMPOUND_STRING("IMPERIAL"),
+    COMPOUND_STRING("METRI."),
+    COMPOUND_STRING("IMPER."),
 };
 
 static const u8 *const sChoices_OldModern[] = {
