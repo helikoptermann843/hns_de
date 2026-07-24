@@ -55,8 +55,8 @@ VioletCity_House1_Text_After:
 	.string "Hi, wie geht es meinem alten Onix?$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "Ein Pokémon,\n"
-	.string "das du durch Tausch erhalten hast,\l"
+	.string "Ein Pokémon, das du durch\n"
+	.string "Tausch erhalten hast,\l"
 	.string "wird schneller wachsen.\p"
 	.string "Aber wenn du nicht im Besitz\n"
 	.string "des passenden ORDENs bist,\l"

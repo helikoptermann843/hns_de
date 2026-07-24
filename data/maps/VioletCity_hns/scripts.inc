@@ -433,8 +433,8 @@ VioletCity_Text_Gramps:
 	.string "hat dort sehr gute Arbeit geleistet.$"
 
 VioletCity_Text_Youngster:
-	.string "Ich habe einen\n"
-	.string "wackeligen Baum gesehen!\p"
+	.string "Ich habe einen wackeligen\n"
+	.string "Baum gesehen!\p"
 	.string "Wenn du ihn berührst,\n"
 	.string "windet er sich und tanzt!\l"
 	.string "So Cool!$"
