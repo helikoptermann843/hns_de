@@ -29,7 +29,7 @@ Gate_RuinsOfAlph_Route36_Text_Officer:
 	.string "Die Alph-Ruinen sind\n"
 	.string "eine archäoligische Stätte\l"
 	.string "zum anfassen!\p"
-	.string "Versuche dich an den Puzzeln."$"
+	.string "Versuche dich an den Puzzeln.$"
 
 Gate_RuinsOfAlph_Route36_Text_PokefanM:
 	.string "Seltsame Ruinen oder?\p"
