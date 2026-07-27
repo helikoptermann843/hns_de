@@ -923,7 +923,7 @@ IVs: 10 HP / 10 Atk / 10 Def / 10 SpA / 10 SpD / 10 Spe
 - Poison Sting
 
 === TRAINER_GABBY_AND_TY_1 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -940,7 +940,7 @@ Level: 17
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_GABBY_AND_TY_2 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -957,7 +957,7 @@ Level: 27
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 
 === TRAINER_GABBY_AND_TY_3 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -974,7 +974,7 @@ Level: 30
 IVs: 18 HP / 18 Atk / 18 Def / 18 SpA / 18 SpD / 18 Spe
 
 === TRAINER_GABBY_AND_TY_4 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -991,7 +991,7 @@ Level: 33
 IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 
 === TRAINER_GABBY_AND_TY_5 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -1008,7 +1008,7 @@ Level: 36
 IVs: 30 HP / 30 Atk / 30 Def / 30 SpA / 30 SpD / 30 Spe
 
 === TRAINER_GABBY_AND_TY_6 ===
-Name: Pia & Udo
+Name: Pia&Udo
 Class: Interviewer
 Pic: Interviewer
 Gender: Male
@@ -5033,7 +5033,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Aerial Ace
 
 === TRAINER_TATE_AND_LIZA_1 ===
-Name: Ben & Svenja
+Name: Ben&Svenja
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -5342,7 +5342,7 @@ Level: 35
 IVs: 6 HP / 6 Atk / 6 Def / 6 SpA / 6 SpD / 6 Spe
 
 === TRAINER_KATE_AND_JOY ===
-Name: Eva & Ute
+Name: Eva&Ute
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5367,7 +5367,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Feint Attack
 
 === TRAINER_ANNA_AND_MEG_1 ===
-Name: Irm & Ida
+Name: Irm&Ida
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5391,7 +5391,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_2 ===
-Name: Irm & Ida
+Name: Irm&Ida
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5415,7 +5415,7 @@ IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_3 ===
-Name: Irm & Ida
+Name: Irm&Ida
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5439,7 +5439,7 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_4 ===
-Name: Irm & Ida
+Name: Irm&Ida
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -5463,7 +5463,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Arm Thrust
 
 === TRAINER_ANNA_AND_MEG_5 ===
-Name: Irm & Ida
+Name: Irm&Ida
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -8764,7 +8764,7 @@ Level: 40
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_AMY_AND_LIV_1 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8781,7 +8781,7 @@ Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_2 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8798,7 +8798,7 @@ Level: 27
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_GINA_AND_MIA_1 ===
-Name: Gina & Mia
+Name: Gina&Mia
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8815,7 +8815,7 @@ Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_MIU_AND_YUKI ===
-Name: Lea & Grit
+Name: Lea&Grit
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8832,7 +8832,7 @@ Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_AMY_AND_LIV_3 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8849,7 +8849,7 @@ Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_GINA_AND_MIA_2 ===
-Name: Gina & Mia
+Name: Gina&Mia
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8870,7 +8870,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Leech Seed
 
 === TRAINER_AMY_AND_LIV_4 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8887,7 +8887,7 @@ Level: 30
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_AMY_AND_LIV_5 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -8912,7 +8912,7 @@ IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 - Helping Hand
 
 === TRAINER_AMY_AND_LIV_6 ===
-Name: Nora & Jo
+Name: Nora&Jo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -11728,7 +11728,7 @@ Level: 33
 IVs: 4 HP / 4 Atk / 4 Def / 4 SpA / 4 SpD / 4 Spe
 
 === TRAINER_DEZ_AND_LUKE ===
-Name: Ina & Leif
+Name: Ina&Leif
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11745,7 +11745,7 @@ Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LEA_AND_JED ===
-Name: Lena & Uwe
+Name: Lena&Uwe
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11762,7 +11762,7 @@ Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_1 ===
-Name: Jule & Max
+Name: Jule&Max
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11779,7 +11779,7 @@ Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIRA_AND_DAN_2 ===
-Name: Jule & Max
+Name: Jule&Max
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11796,7 +11796,7 @@ Level: 30
 IVs: 1 HP / 1 Atk / 1 Def / 1 SpA / 1 SpD / 1 Spe
 
 === TRAINER_KIRA_AND_DAN_3 ===
-Name: Jule & Max
+Name: Jule&Max
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11813,7 +11813,7 @@ Level: 33
 IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 
 === TRAINER_KIRA_AND_DAN_4 ===
-Name: Jule & Max
+Name: Jule&Max
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -11830,7 +11830,7 @@ Level: 36
 IVs: 3 HP / 3 Atk / 3 Def / 3 SpA / 3 SpD / 3 Spe
 
 === TRAINER_KIRA_AND_DAN_5 ===
-Name: Jule & Max
+Name: Jule&Max
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12572,7 +12572,7 @@ Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_TORI_AND_TIA ===
-Name: LI & Flo
+Name: LI&Flo
 Class: Twins
 Pic: Twins
 Gender: Male
@@ -12589,7 +12589,7 @@ Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_KIM_AND_IRIS ===
-Name: Zoe & Iris
+Name: Zoe&Iris
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -12614,7 +12614,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Earthquake
 
 === TRAINER_TYRA_AND_IVY ===
-Name: Tyra & Ivy
+Name: Tyra&Ivy
 Class: Sr And Jr
 Pic: Sr And Jr
 Gender: Male
@@ -12639,7 +12639,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rock Throw
 
 === TRAINER_MEL_AND_PAUL ===
-Name: Geli & Ole
+Name: Geli&Ole
 Class: Young Couple
 Pic: Young Couple
 Gender: Male
@@ -12664,7 +12664,7 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Stun Spore
 
 === TRAINER_JOHN_AND_JAY_1 ===
-Name: Urs & Evi
+Name: Urs&Evi
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12689,7 +12689,7 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_2 ===
-Name: Urs & Evi
+Name: Urs&Evi
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12714,7 +12714,7 @@ IVs: 25 HP / 25 Atk / 25 Def / 25 SpA / 25 SpD / 25 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_3 ===
-Name: Urs & Evi
+Name: Urs&Evi
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12739,7 +12739,7 @@ IVs: 26 HP / 26 Atk / 26 Def / 26 SpA / 26 SpD / 26 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_4 ===
-Name: Urs & Evi
+Name: Urs&Evi
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12764,7 +12764,7 @@ IVs: 27 HP / 27 Atk / 27 Def / 27 SpA / 27 SpD / 27 Spe
 - Belly Drum
 
 === TRAINER_JOHN_AND_JAY_5 ===
-Name: Urs & Evi
+Name: Urs&Evi
 Class: Old Couple
 Pic: Old Couple
 Gender: Male
@@ -12789,7 +12789,7 @@ IVs: 29 HP / 29 Atk / 29 Def / 29 SpA / 29 SpD / 29 Spe
 - Belly Drum
 
 === TRAINER_RELI_AND_IAN ===
-Name: Tobi & Una
+Name: Tobi&Una
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12806,7 +12806,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_1 ===
-Name: Karl & Maria
+Name: Karl&Maria
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12823,7 +12823,7 @@ Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_2 ===
-Name: Karl & Maria
+Name: Karl&Maria
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12840,7 +12840,7 @@ Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_3 ===
-Name: Karl & Maria
+Name: Karl&Maria
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12857,7 +12857,7 @@ Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_4 ===
-Name: Karl & Maria
+Name: Karl&Maria
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12874,7 +12874,7 @@ Level: 46
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LILA_AND_ROY_5 ===
-Name: Karl & Maria
+Name: Karl&Maria
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -12891,7 +12891,7 @@ Level: 49
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_LISA_AND_RAY ===
-Name: Erko & Bea
+Name: Erko&Bea
 Class: Sis And Bro
 Pic: Sis And Bro
 Gender: Male
@@ -15378,7 +15378,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Earthquake
 
 === TRAINER_TATE_AND_LIZA_2 ===
-Name: Ben & Svenja
+Name: Ben&Svenja
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15428,7 +15428,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_3 ===
-Name: Ben & Svenja
+Name: Ben&Svenja
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15486,7 +15486,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_4 ===
-Name: Ben & Svenja
+Name: Ben&Svenja
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
@@ -15544,7 +15544,7 @@ IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
 - Flamethrower
 
 === TRAINER_TATE_AND_LIZA_5 ===
-Name: Ben & Svenja
+Name: Ben&Svenja
 Class: Leader
 Pic: Leader Tate And Liza
 Gender: Male
