@@ -107,7 +107,7 @@ static const struct WindowTemplate sWindowTemplates[] =
         .bg = 1,
         .tilemapLeft = 11,
         .tilemapTop = 4,
-        .width = 8,
+        .width = 13, // DE: breiter für vollen Item-Namen (wie offizielles dt. Smaragd)
         .height = 2,
         .paletteNum = 15,
         .baseBlock = 69,
@@ -119,16 +119,16 @@ static const struct WindowTemplate sWindowTemplates[] =
         .width = 18,
         .height = 4,
         .paletteNum = 15,
-        .baseBlock = 85,
+        .baseBlock = 95, // 69 + 13*2
     },
     [WIN_DESC] = {
         .bg = 1,
-        .tilemapLeft = 4,
+        .tilemapLeft = 3,  // DE: 1 Kachel weiter links (wie offizielles dt. Smaragd)
         .tilemapTop = 14,
-        .width = 25,
+        .width = 27,       // DE: 2 Kacheln breiter (wie offizielles dt. Smaragd)
         .height = 4,
         .paletteNum = 15,
-        .baseBlock = 157,
+        .baseBlock = 167, // 95 + 18*4
     },
     [WIN_BERRY_TAG] = {
         .bg = 0,
@@ -137,7 +137,7 @@ static const struct WindowTemplate sWindowTemplates[] =
         .width = 8,
         .height = 2,
         .paletteNum = 15,
-        .baseBlock = 257,
+        .baseBlock = 275, // 167 + 27*4
     },
     DUMMY_WIN_TEMPLATE
 };
@@ -145,11 +145,11 @@ static const struct WindowTemplate sWindowTemplates[] =
 static const u8 *const sBerryFirmnessStrings[] =
 {
     [BERRY_FIRMNESS_UNKNOWN]    = COMPOUND_STRING("???"),
-    [BERRY_FIRMNESS_VERY_SOFT]  = COMPOUND_STRING("Very soft"),
-    [BERRY_FIRMNESS_SOFT]       = COMPOUND_STRING("Soft"),
-    [BERRY_FIRMNESS_HARD]       = COMPOUND_STRING("Hard"),
-    [BERRY_FIRMNESS_VERY_HARD]  = COMPOUND_STRING("Very hard"),
-    [BERRY_FIRMNESS_SUPER_HARD] = COMPOUND_STRING("Super hard")
+    [BERRY_FIRMNESS_VERY_SOFT]  = COMPOUND_STRING("Sehr weich"),
+    [BERRY_FIRMNESS_SOFT]       = COMPOUND_STRING("Weich"),
+    [BERRY_FIRMNESS_HARD]       = COMPOUND_STRING("Hart"),
+    [BERRY_FIRMNESS_VERY_HARD]  = COMPOUND_STRING("Sehr hart"),
+    [BERRY_FIRMNESS_SUPER_HARD] = COMPOUND_STRING("Steinhart")
 };
 
 // this file's functions
@@ -174,15 +174,15 @@ static void Task_DisplayAnotherBerry(u8 taskId);
 static void TryChangeDisplayedBerry(u8 taskId, s8 toMove);
 static void HandleBagCursorPositionChange(s8 toMove);
 
-static const u8 sText_SizeSlash[] = _("SIZE /");
-static const u8 sText_FirmSlash[] = _("FIRM /");
+static const u8 sText_SizeSlash[] = _("Maß:");
+static const u8 sText_FirmSlash[] = _("Güte:");
 static const u8 sText_Var1DotVar2[] = {PLACEHOLDER_BEGIN, 0x02, CHAR_PERIOD, PLACEHOLDER_BEGIN, 0x03, CHAR_DBL_QUOTE_RIGHT, EOS};
-static const u8 sText_Var1DotVar2_Metric[] = {PLACEHOLDER_BEGIN, 0x02, CHAR_PERIOD, PLACEHOLDER_BEGIN, 0x03, CHAR_c, CHAR_m, EOS};
+static const u8 sText_Var1DotVar2_Metric[] = _("{STR_VAR_1},{STR_VAR_2} cm");
 static const u8 sText_NumberVar1Var2[] = _("{NO}{STR_VAR_1} {STR_VAR_2}");
-static const u8 sText_BerryTag[] = _("BERRY TAG");
+static const u8 sText_BerryTag[] = _("Beere");
 static const u8 sText_ThreeMarks[] = _("???");
-static const u8 sText_WatmelDesc1_Metric[] = _("A huge Berry, with some over half a");
-static const u8 sText_WatmelDesc2_Metric[] = _("meter discovered. Exceedingly sweet.");
+static const u8 sText_WatmelDesc1_Metric[] = _("Eine große Beere, 50 cm groß.");
+static const u8 sText_WatmelDesc2_Metric[] = _("Außergewöhnlich süß.");
 
 // code
 void DoBerryTagScreen(void)
@@ -414,9 +414,8 @@ static void PrintAllBerryData(void)
 
 static void PrintBerryNumberAndName(void)
 {
-    const struct Berry *berry = GetBerryInfo(sBerryTag->berryId);
     ConvertIntToDecimalStringN(gStringVar1, sBerryTag->berryId, STR_CONV_MODE_LEADING_ZEROS, 2);
-    StringCopy(gStringVar2, berry->name);
+    StringCopy(gStringVar2, GetItemName(FIRST_BERRY_INDEX + sBerryTag->berryId - 1)); // DE: voller Beerenname wie im offiziellen dt. Smaragd
     StringExpandPlaceholders(gStringVar4, sText_NumberVar1Var2);
     PrintTextInBerryTagScreen(WIN_BERRY_NAME, gStringVar4, 0, 1, 0, 0);
 }
@@ -468,12 +467,12 @@ static void PrintBerryDescription1(void)
 {
     if (gSaveBlock3Ptr->challengeSettings.unitSystem == 0 && sBerryTag->berryId == ItemIdToBerryType(ITEM_WATMEL_BERRY))
     {
-        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, sText_WatmelDesc1_Metric, 0, 1, 0, NULL);
+        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, sText_WatmelDesc1_Metric, 5, 1, 0, NULL);
     }
     else
     {
         const struct Berry *berry = GetBerryInfo(sBerryTag->berryId);
-        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, berry->description1, 0, 1, 0, NULL);
+        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, berry->description1, 5, 1, 0, NULL);
     }
 }
 
@@ -481,12 +480,12 @@ static void PrintBerryDescription2(void)
 {
     if (gSaveBlock3Ptr->challengeSettings.unitSystem == 0 && sBerryTag->berryId == ItemIdToBerryType(ITEM_WATMEL_BERRY))
     {
-        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, sText_WatmelDesc2_Metric, 0, 0x11, 0, NULL);
+        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, sText_WatmelDesc2_Metric, 5, 0x11, 0, NULL);
     }
     else
     {
         const struct Berry *berry = GetBerryInfo(sBerryTag->berryId);
-        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, berry->description2, 0, 0x11, 0, NULL);
+        AddTextPrinterParameterized(WIN_DESC, FONT_NORMAL, berry->description2, 5, 0x11, 0, NULL);
     }
 }
 
