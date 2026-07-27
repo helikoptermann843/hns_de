@@ -472,8 +472,8 @@ BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize_hns:
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave_hns:
 	.string "Vielen Dank für deine Teilnahme!\p"
-	.string "Bitte warten, Spiel wird\n"
-	.string "gespeichert.$"
+	.string "Warte bitte, bis das Spiel gespeichert\n"
+	.string "wurde. Schalte das System nicht aus.$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge_hns2_hns:
 	.string "Wir freuen uns auf deine\n"
@@ -569,8 +569,8 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules_hns:
 	.string "Kampfbeginn und am Ende.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon_hns:
-	.string "Sieg gegen den ARENA-TYCOON\n"
-	.string "und 7 TRAINER besiegt!\p"
+	.string "Sieg gegen den Arena-tycoon\n"
+	.string "und 7 Trainer besiegt!\p"
 	.string "Herzlichen Glückwunsch zu\n"
 	.string "dieser grandiosen Leistung!$"
 

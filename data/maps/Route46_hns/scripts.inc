@@ -49,33 +49,32 @@ Route46_EventScript_Item_Revive::
 	end
 
 Route46_Text_HikerBaileySeen:
-	.string "Also gut! Ich\n"
-	.string "zeige dir die Kraft von BergPokémon!$"
+	.string "Also gut!\n"
+	.string "Bald wirst du sie kennenlernen!\l"
+	.string "Die Kraft der Pokémon aus den Bergen!$"
 
 Route46_Text_HikerBaileyBeaten:
-	.string "Gnade! Ich kenne jetzt deine Kraft!$"
+	.string "Gnade! Du hast mir zur Genüge\n"
+	.string "demonstriert, was du drauf hast!$"
 
 Route46_Text_HikerBaileyAfterBattle:
-	.string "Es ist vorbei.\n"
-	.string "Auch gut. Wir WANDERER sind eben so.$"
+	.string "Es ist vorbei. Auch gut. Wir\n"
+	.string "Wanderer sehen niemals zurück.$"
 
 Route46_Text_CamperTedSeen:
     .string "Ich ziehe auch POKéMON groß!\p"
     .string "Willst du gegen mich kämpfen?$"
 
 Route46_Text_CamperTedBeaten:
-	.string "Wah…?$"
+	.string "Was?$"
 
 Route46_Text_CamperTedAfterBattle:
-	.string "Ich habe mein\n"
-	.string "Bestes gegeben und das reichte leider\l"
-	.string "nicht.\p"
-	.string "Ich gebe ganz offen zu\n"
-	.string " - ich habe verloren.$"
+	.string "Mein Bestes hat leider nicht gereicht.\n"
+	.string "Ich gebe offen zu - ich habe verloren.$"
 
 Route46_Text_PicnickerErinSeen:
-	.string "Ich trainiere auch Pokémon!\p"
-	.string "Trittst du gegen mich an?$"
+	.string "Ich bin auch ein Pokémon-Trainer!\n"
+	.string "Hast du Zeit für ein Match?$"
 
 Route46_Text_PicnickerErinBeaten:
 	.string "Oh, Mistkerle!$"

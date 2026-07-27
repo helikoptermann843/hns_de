@@ -18,11 +18,12 @@ OlivineCity_EventScript_PunisherBoy::
 	end
 
 OlivineCity_Text_PunishmentBro:
-	.string "Auf dem Weg nach ANEMONIA\n"
-	.string "gibt es vier verlassene Inseln.\p"
-	.string "Böse Kinder werden als\n"
-	.string "Strafe dorthin gebracht!$"
+	.string "Auf dem Weg nach Anemonia City\n"
+	.string "gibt es vier unbewohnte Inseln.\p"
+	.string "Ungezogene Kinder werden zur\n"
+	.string "Bestrafung dorthin geschickt!$"
 
 OlivineCity_Text_PunishmentBoy:
-	.string "Wenn ich in Schwierigkeiten bin,\n"
-	.string "erschreckt mich mein großer Bruder.$"
+	.string "Wenn ich ungezogen bin, macht\n"
+	.string "mir mein Papa immer sofort mit\l"
+	.string "gruseligen Geschichten Angst…$"

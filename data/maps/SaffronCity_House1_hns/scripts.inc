@@ -17,13 +17,15 @@ SaffronCity_House1_EventScript_MrPsychicAfter::
 	end
 
 MrPsychic_Text_1:
-	.string "…\p"
-	.string "…\p"
-	.string "…\p"
-	.string "…\p"
-	.string "Du wolltest es so!$"
+	.string "… … …\p"
+	.string "… … …\p"
+	.string "… … …\p"
+	.string "… …Ist ja schon gut!\p"
+	.string "Das hier ist es, was du willst, stimmt's?$"
 
 MrPsychic_Text_2:
-	.string "TM29 ist PSYCHOKINESE.\p"
-	.string "Sie kann die\n"
-	.string "SPEZ. VER des Gegners senken.$"
+	.string "…Du weißt doch, was das ist, oder?\n"
+	.string "Die TM29 enthält Psychokinese.\p"
+	.string "…Mit ein bisschen Glück lässt\n"
+	.string "sich damit die Spezialattacke\l"
+	.string "des Gegners senken!$"

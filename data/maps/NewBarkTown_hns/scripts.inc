@@ -231,35 +231,34 @@ NewBarkTown_Text_Wooper:
 	.string "Felino: Fwhaaaa.$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, dein POKéCOM ist stark!\n"
-	.string "Hat deine Mama es dir gekauft?$"
+	.string "Wow, dein Pokécom ist beeindruckend!$"
 
 NewBarkTown_Text_FatManState3:
-	.string "Yo, {PLAYER}!\p"
-	.string "Ich hör, PROF. LIND hat neue\n"
-	.string "Pokémon entdeckt.$"
+	.string "Tag, {PLAYER}!\p"
+	.string "Es heißt, Professor Lind habe\n"
+	.string "neue Pokémon gefunden!$"
 
 NewBarkTown_Text_LassState2:
-	.string "Warte, {PLAYER}!\p"
-	.string "Es ist gefährlich hinaus-\n"
-	.string "zugehen ohne Pokémon!\p"
-	.string "Wilde Pokémon springen aus dem\n"
-	.string "Gras auf dem Weg zur Stadt.$"
+	.string "Du weißt doch, wie gefährlich es ist,\n"
+	.string "ohne Pokémon das Haus zu verlassen!\p"
+	.string "Der Weg bis in die Nachbarstadt ist\n"
+	.string "schließlich von hohem Gras umgeben,\l"
+	.string "wo dir lauter wilde Pokémon auflauern!$"
 
 NewBarkTown_Text_LassState3:
-	.string "Oh! Dein Pokémon ist so süß!\n"
-	.string "Ich wünschte, ich hätte eins!$"
+	.string "Oh! Dein Pokémon ist bezaubernd!\n"
+	.string "Ich wünschte, ich hätte auch so eins.$"
 
 NewBarkTown_Text_LassState4:
-	.string "Hi, {PLAYER}! Gehst du schon\n"
-	.string "wieder weg?\p"
-	.string "Sag deiner Mama Bescheid,\n"
-	.string "wenn du losziehst.$"
+	.string "Oh, heißt das etwa, du verlässt\n"
+	.string "uns schon wieder, {PLAYER}?\p"
+	.string "Gib auf jeden Fall deiner Mutter\n"
+	.string "Bescheid, bevor du aufbrichst!$"
 
 NewBarkTown_Text_LassState5:
-	.string "Ruf deine Mama über dein\n"
-	.string "POKéCOM an, damit sie weiß,\p"
-	.string "wie es dir geht.$"
+	.string "Mit dem Pokécom kannst du jederzeit\n"
+	.string "deine Mutter anrufen und ihr erzählen,\l"
+	.string "wie es dir so geht!$"
 
 NewBarkTown_Text_Silver1:
 	.string ". . .\p"
@@ -267,12 +266,11 @@ NewBarkTown_Text_Silver1:
 	.string "Lind-Pokémon-LAB…$"
 
 NewBarkTown_Text_Silver2:
-	.string "…Was glotzt du so?$"
+	.string "…Hey! Starre mich nicht so an!$"
 
 NewBarkTown_Text_Sign:
-	.string "NEUBORKIA\p"
-	.string "Die Stadt, in der\n"
-	.string "der Wind der Erneuerung weht$"
+	.string "Neuborkia\n"
+	.string "Die Stadt der ersten Schritte$"
 
 NewBarkTown_EventScript_PlayersHouseMailbox::
 	msgbox NewBarkTown_Text_PlayersHouse, MSGBOX_SIGN

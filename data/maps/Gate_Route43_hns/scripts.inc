@@ -90,8 +90,8 @@ Gate_Route43_Rocket_Text_KickOut:
 
 Gate_Route43_Rocket_Text_MakingABundle:
 	.string "He-he-he. Wir machen Kasse.\p"
-	.string "Jeder will sehen, was am See des\n"
-	.string "Zorns los ist.$"
+	.string "Jeder will sehen, was am SEE DES\n"
+	.string "ZORNS los ist.$"
 
 Route43Gate_Text_OfficerFoundTM:
 	.string "Ich wurde von diesen Dieben"

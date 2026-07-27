@@ -409,23 +409,23 @@ MossdeepCity_Gym_Text_VirgilDefeat:
 
 MossdeepCity_Gym_Text_VirgilPostBattle:
 	.string "Wenn es überhaupt Wunderkinder gibt,\n"
-	.string "dann sind es unsere ARENALEITER.\p"
+	.string "dann sind es unsere Arenaleiter.\p"
 	.string "Aber du scheinst doch talentierter\n"
 	.string "als sie zu sein…$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
 	.string "Hihihihi… Achtung! Ich lasse meinen\n"
-	.string "POKéBALL durch Telekinese schweben!\p"
+	.string "Pokéball durch Telekinese schweben!\p"
 	.string "Wuhuuuuuuuhuiii! … … … … … … …\p"
 	.string "Äh, manchmal fehlt es mir etwas an\n"
 	.string "Balance…$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "Meine POKéMON kämpften nicht\n"
+	.string "Meine Pokémon kämpften nicht\n"
 	.string "synchron!$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "Ein POKéBALL ist doch etwas zu schwer,\n"
+	.string "Ein Pokéball ist doch etwas zu schwer,\n"
 	.string "um ihn schweben zu lassen!\l"
 	.string "Aber ein Staubknäuel…\p"
 	.string "Wuhuuuuuuuhu! … … … … … … …\p"
@@ -460,7 +460,7 @@ MossdeepCity_Gym_Text_SamanthaDefeat:
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
 	.string "Du wirst einen irrsinnigen Kampf gegen\n"
-	.string "unsere ARENALEITER führen…\p"
+	.string "unsere Arenaleiter führen…\p"
 	.string "Der Ausgang dieses Kampfes…\n"
 	.string "Meine Lippen sind versiegelt.$"
 
@@ -499,8 +499,8 @@ MossdeepCity_Gym_Text_SylviaPostBattle:
 MossdeepCity_Gym_Text_NateIntro:
 	.string "Hohoho.\p"
 	.string "Du lässt mir keine andere Wahl. Ich\n"
-	.string "werde dir zeigen, wie zäh PSYCHO-\l"
-	.string "POKéMON sind.$"
+	.string "werde dir zeigen, wie zäh Psycho-\l"
+	.string "Pokémon sind.$"
 
 MossdeepCity_Gym_Text_NateDefeat:
 	.string "Oh! Meine Güte!\n"
@@ -548,42 +548,42 @@ MossdeepCity_Gym_Text_MaceyDefeat:
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
 	.string "Hmpf! Du magst ja stark sein, aber mit\n"
-	.string "PSYCHO-POKéMON kommst du nicht\l"
+	.string "Psycho-pokémon kommst du nicht\l"
 	.string "zurecht!\p"
 	.string "Du hast einen recht brutalen\n"
 	.string "Kampfstil.$"
 
 MossdeepCity_Gym_Text_NicholasIntro:
 	.string "Wroooaaar! Schmeck die Superkraft\n"
-	.string "meines POKéMON!$"
+	.string "meines Pokémon!$"
 
 MossdeepCity_Gym_Text_NicholasDefeat:
 	.string "Oh! Das war’s dann wohl.$"
 
 MossdeepCity_Gym_Text_NicholasPostBattle:
 	.string "Gut! Ich glaube, ich sollte eine un-\n"
-	.string "schlagbare POKéMON-Kraft entwickeln.$"
+	.string "schlagbare Pokémon-Kraft entwickeln.$"
 
 MossdeepCity_Gym_Text_TateAndLizaIntro:
-	.string "BEN: Hähähä… Bist du überrascht?\p"
-	.string "SVENJA: Hihihi… Bist du überrascht?\p"
-	.string "BEN: Dass es hier 2 ARENALEITER gibt?\n"
-	.string "SVENJA: Dass es hier 2 ARENALEITER\l"
+	.string "Ben: Hähähä… Bist du überrascht?\p"
+	.string "Svenja: Hihihi… Bist du überrascht?\p"
+	.string "Ben: Dass es hier 2 Arenaleiter gibt?\n"
+	.string "Svenja: Dass es hier 2 Arenaleiter\l"
 	.string "gibt?\p"
-	.string "BEN: Wir sind Zwillinge!\n"
-	.string "SVENJA: Wir sind Zwillinge!\p"
-	.string "BEN: Wir brauchen nicht zu sprechen…\n"
-	.string "SVENJA: Wir wissen, was…\p"
-	.string "BEN: Der andere gerade denkt…\n"
-	.string "SVENJA: Gedankenübertragung!\p"
-	.string "BEN: Diese doppelte Stärke…\n"
-	.string "SVENJA: Kannst du sie besiegen?$"
+	.string "Ben: Wir sind Zwillinge!\n"
+	.string "Svenja: Wir sind Zwillinge!\p"
+	.string "Ben: Wir brauchen nicht zu sprechen…\n"
+	.string "Svenja: Wir wissen, was…\p"
+	.string "Ben: Der andere gerade denkt…\n"
+	.string "Svenja: Gedankenübertragung!\p"
+	.string "Ben: Diese doppelte Stärke…\n"
+	.string "Svenja: Kannst du sie besiegen?$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "BEN: Was?!? Unsere Kombination…\n"
-	.string "SVENJA: Wurde auseinander gerissen!\p"
-	.string "BEN: So sieht’s aus. Du hast gewonnen.\n"
-	.string "SVENJA: Daher überreichen wir dir\l"
+	.string "Ben: Was?!? Unsere Kombination…\n"
+	.string "Svenja: Wurde auseinander gerissen!\p"
+	.string "Ben: So sieht’s aus. Du hast gewonnen.\n"
+	.string "Svenja: Daher überreichen wir dir\l"
 	.string "dies.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
@@ -612,10 +612,10 @@ MossdeepCity_Gym_Text_RegisteredTateAndLiza:
 	.string "POKéNAV-Verzeichnis eingetragen.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
-	.string "BEN: Es scheint, als sei das Band\n"
-	.string "zwischen dir und deinen POKéMON viel\l"
+	.string "Ben: Es scheint, als sei das Band\n"
+	.string "zwischen dir und deinen Pokémon viel\l"
 	.string "stärker als zwischen uns Zwillingen.\p"
-	.string "SVENJA: Und du wirst noch stärker\n"
+	.string "Svenja: Und du wirst noch stärker\n"
 	.string "werden! Wir haben gegen dich gekämpft,\l"
 	.string "daher können wir das vorhersagen.$"
 
@@ -639,38 +639,38 @@ MossdeepCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
-	.string "BEN: POKéMON…\n"
-	.string "SVENJA: POKéMON…\p"
-	.string "BEN: Die Zusammensetzung des Teams…\n"
-	.string "SVENJA: Bestimmt den Kampfstil.\p"
-	.string "BEN: Aber ich…\n"
-	.string "SVENNJA: Aber ich…\p"
-	.string "BEN: Kämpfe nur zusammen mit SVENJA!\n"
-	.string "SVENJA: Kämpfe nur zusammen mit BEN!\p"
-	.string "BEN: Diese Kombination…\n"
-	.string "SVENJA: Wirst du immer wieder sehen!$"
+	.string "Ben: Pokémon…\n"
+	.string "Svenja: Pokémon…\p"
+	.string "Ben: Die Zusammensetzung des Teams…\n"
+	.string "Svenja: Bestimmt den Kampfstil.\p"
+	.string "Ben: Aber ich…\n"
+	.string "Svennja: Aber ich…\p"
+	.string "Ben: Kämpfe nur zusammen mit Svenja!\n"
+	.string "Svenja: Kämpfe nur zusammen mit Ben!\p"
+	.string "Ben: Diese Kombination…\n"
+	.string "Svenja: Wirst du immer wieder sehen!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "BEN: Du und deine POKéMON…\n"
-	.string "SVENJA: Seid wie Geschwister! $"
+	.string "Ben: Du und deine Pokémon…\n"
+	.string "Svenja: Seid wie Geschwister! $"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
-	.string "BEN: Du magst uns besiegen, aber wir\n"
+	.string "Ben: Du magst uns besiegen, aber wir\n"
 	.string "werden nicht am Boden liegen bleiben!\n"
 	.string "\p"
-	.string "SVENJA: Denn wir beide werden immer\n"
+	.string "Svenja: Denn wir beide werden immer\n"
 	.string "füreinander da sein!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "BEN: Du bist zurückgekommen…\n"
-	.string "SVENJA: Du bist zurückgekommen…\p"
-	.string "BEN: Um erneut gegen uns anzutreten.\n"
-	.string "SVENJA: Um erneut gegen uns\l"
+	.string "Ben: Du bist zurückgekommen…\n"
+	.string "Svenja: Du bist zurückgekommen…\p"
+	.string "Ben: Um erneut gegen uns anzutreten.\n"
+	.string "Svenja: Um erneut gegen uns\l"
 	.string "anzutreten.\p"
-	.string "BEN: Aber…\n"
-	.string "SVENJA: Für diesen Kampf hast du…\p"
-	.string "BEN: Nur ein einziges POKéMON dabei!\n"
-	.string "SVENJA: Nur ein einziges POKéMON\n"
+	.string "Ben: Aber…\n"
+	.string "Svenja: Für diesen Kampf hast du…\p"
+	.string "Ben: Nur ein einziges Pokémon dabei!\n"
+	.string "Svenja: Nur ein einziges Pokémon\n"
 	.string "dabei! \p"
-	.string "BEN: Du musst mindestens zwei…\n"
-	.string "SVENJA: POKéMON haben.$"
+	.string "Ben: Du musst mindestens zwei…\n"
+	.string "Svenja: Pokémon haben.$"

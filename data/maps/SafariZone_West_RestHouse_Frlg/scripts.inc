@@ -14,24 +14,25 @@ SafariZone_West_RestHouse_EventScript_CooltrainerF::
 	end
 
 SafariZone_West_Text_KogaPatrolsSafariEverySoOften::
-	.string "The SAFARI ZONE's huge, wouldn't\n"
-	.string "you say?\p"
-	.string "FUCHSIA's GYM LEADER, KOGA, \n"
-	.string "patrols the grounds every so often.\p"
-	.string "Thanks to him, we can play here\n"
-	.string "knowing that we're safe.$"
+	.string "Die SAFARI-ZONE ist riesig, nicht?\p"
+	.string "Der ARENALEITER von FUCHSANIA\n"
+	.string "CITY, KOGA, hält hier gelegentlich\l"
+	.string "Wache.\p"
+	.string "Dank ihm können wir hier in\n"
+	.string "Sicherheit spielen.$"
 
 SafariZone_West_Text_RocksMakeMonRunButEasierCatch::
-	.string "Tossing ROCKS at POKéMON might\n"
-	.string "make them run, but they'll be\l"
-	.string "easier to catch.$"
+	.string "Wenn auf dem PC eine POKéMON-BOX\n"
+	.string "voll ist, wechsle einfach zu einer\l"
+	.string "anderen BOX!$"
 
 SafariZone_West_Text_BaitMakesMonStickAround::
-	.string "Using BAIT will make POKéMON more\n"
-	.string "likely to stick around if they get\l"
-	.string "busy eating.$"
+	.string "Wenn du ihnen KÖDER zuwirfst,\n"
+	.string "bleiben die POKéMON eher an\l"
+	.string "einem Ort, da sie mit dem Fressen\l"
+	.string "beschäftigt sind!$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-	.string "I hiked a lot, but I didn't see any\n"
-	.string "POKéMON I wanted.$"
+	.string "Die POKéMON eines TRAINERs sind\n"
+	.string "stärker als wildlebende!$"
 

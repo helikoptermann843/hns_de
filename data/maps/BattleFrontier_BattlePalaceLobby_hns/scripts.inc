@@ -479,8 +479,8 @@ BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded_hns:
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
-	.string "For the feat of your 7-win streak,\n"
-	.string "we present you with Battle Point(s).$"
+	.string "Für deinen dreifachen Sieg bekommst du\n"
+	.string "von uns diesen Preis überreicht.$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "Du hast keinen Platz für den Preis?\p"
@@ -503,7 +503,7 @@ BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge_hns:
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_ReceivedPrize_hns:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink_hns:
@@ -594,8 +594,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge_hns:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers_hns:
-	.string "Um den PALASTREGENTen und sechs\n"
-	.string "TRAINER in Folge zu besiegen…$"
+	.string "Um den Palastregenten und sechs\n"
+	.string "Trainer in Folge zu besiegen…$"
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints_hns:
 	.string "In Anerkennung des Bandes zwischen dir\n"

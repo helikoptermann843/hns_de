@@ -51,36 +51,39 @@ MountMortar4_EventScript_KiyoAfter::
 
 
 MountMortar4_Text_KiyoIntro:
-	.string "Heh!\p"
-	.string "Ich bin der KARATE-MEISTER!\p"
-	.string "Ich trainiere hier allein im Dunkeln!\p"
-	.string "Du! Kämpfe mit mir!\p"
-	.string "Arggh!$"
+	.string "Hey da!\n"
+	.string "Ich bin der Karate-Meister!\p"
+	.string "Ich trainiere hier ganz alleine in dieser\n"
+	.string "düsteren Höhle! So bin ich eben!\p"
+	.string "In Ordnung!\n"
+	.string "Hergehört!\l"
+	.string "Ich will, dass du gegen mich kämpfst!\l"
+	.string "Harrrgh!$"
 
 MountMortar4_Text_KiyoWin:
-	.string "Waaaarggh! Ich wurde besiegt!$"
+	.string "Waaargh!\n"
+	.string "Ich wurde besiegt!$"
 
 MountMortar4_Text_KiyoTyrogueReward:
-	.string "Ich… ich bin am Boden zerstört…\p"
-	.string "Ich habe nicht gut genug trainiert…\p"
-	.string "Eine Niederlage ist nun mal\n"
-	.string "eine Niederlage. Das gebe\l"
-	.string "ich zu.\p"
-	.string "Als Beweis für deinen Sieg gebe\n"
-	.string "ich dir dieses seltene KampfPokémon.$"
+	.string "Da-da… das ist doch nicht möglich!\n"
+	.string "Wie lange soll ich denn noch trainieren?\p"
+	.string "Ich sage es nur ungerne, aber ich habe\n"
+	.string "verloren. Ich gebe mich geschlagen!\p"
+	.string "Hergehört! Als Beweis für deinen Sieg\n"
+	.string "will ich dir dieses kostbare\l"
+	.string "Kampf-Pokémon überreichen!$"
 
 MountMortar4_Text_ReceiveTyrogue:
 	.string "{PLAYER} erhält Rabauz.$"
 
 MountMortar4_Text_KiyoGotTyrogue:
-	.string "RABAUZ ist ein Kampf-Pokémon.\p"
-	.string "Es entwickelt sich\n"
-	.string "zu einem stärkeren Pokémon.\p"
-	.string "Arbeite so hart weiter.\p"
-	.string "Ich werde auch weiterhin\n"
-	.string "trainieren.\p"
-	.string "Lebe wohl!$"
+	.string "RABAUZ ist ein Pokémon vom Typ Kampf!\p"
+	.string "Zieht man es auf, entwickelt es sich\n"
+	.string "angeblich zu einem mächtigen Pokémon!\p"
+	.string "Also hergehört! Streng dich an!\n"
+	.string "Ich setze jetzt auch mein Training fort.\l"
+	.string "Hau rein!$"
 
 MountMortar4_Text_KiyoFullParty:
-	.string "Du kannst keine\n"
-	.string "weiteren Pokémon mehr tragen!$"
+	.string "He!\n"
+	.string "Du hast zu viele Pokémon dabei!$"

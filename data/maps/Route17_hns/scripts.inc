@@ -73,54 +73,57 @@ Route17_EventScript_RematchCharles::
 	end
 
 Route17_Text_BikerRileySeen:
-	.string "Hey, du! Du bist aus JOHTO, oder?$"
+	.string "He, du!\n"
+	.string "Kommst du etwa aus Johto?$"
 
 Route17_Text_BikerRileyBeaten:
 	.string "Boah, du legst aber los!$"
 
 Route17_Text_BikerRileyAfterBattle:
-	.string "Werd' nicht frech, du Null aus JOHTO!$"
+	.string "Na warte! Von einer Null aus Johto\n"
+	.string "lasse ich mir nicht die Tour vermasseln!$"
 
 Route17_Text_BikerJoelSeen:
-	.string "Wow, cooles Fahrrad!$"
+	.string "Wow! Das ist aber\n"
+	.string "ein tolles Fahrrad!$"
 
 Route17_Text_BikerJoelBeaten:
-	.string "Aber du siehst nicht nur cool aus…$"
+	.string "Du bist so stark, wie du aussiehst!$"
 
 Route17_Text_BikerJoelAfterBattle:
-	.string "Ich sehe zwar cool\n"
-	.string "aus, bin aber schwach, also bin ich\l"
-	.string "nicht wirklich cool.\p"
-	.string "Ich muss härter trainieren…$"
+	.string "Ich sehe zwar cool aus, bin aber\n"
+	.string "schwach, also auch nicht wirklich cool.\l"
+	.string "Ich muss härter trainieren!$"
 
 Route17_Text_BikerGlennSeen:
-	.string "Hey! Schneller Kampf gefällig?$"
+	.string "Hey! Wie wär's mit einem Wettrennen?$"
 
 Route17_Text_BikerGlennBeaten:
-	.string "Ups! Du hast ganz schön Kraft!$"
+	.string "Wow! Du bist aber ganz\n"
+	.string "schön flott unterwegs!$"
 
 Route17_Text_BikerGlennAfterBattle:
-	.string "Freihändig fahren\n"
-	.string "gilt als cool auf dem RADWEG.$"
+	.string "Freihändig fahren gilt als\n"
+	.string "cool auf dem Radweg.$"
 
 Route17_Text_BikerCharlesSeen:
-	.string "Wir sind die\n"
-	.string "furchtlosen Helden des RADWEGs!$"
+	.string "Wir sind die furchtlosen\n"
+	.string "Helden des Radwegs!$"
 
 Route17_Text_BikerCharlesBeaten:
-	.string "Argh! Bumm und krach!$"
+	.string "Aaargh!\n"
+	.string "Wie gewonnen, so zerronnen.$"
 
 Route17_Text_BikerCharlesAfterBattle:
-	.string "Durch rücksichts-\n"
-	.string "loses Fahren passieren viele Unfälle!\l"
-	.string "Bleib locker!$"
+	.string "Ein rücksichtsloser Fahrstil führt oft\n"
+	.string "zu Unfällen! Also Augen auf am Lenker!$"
 
 Route17_Text_RileyRegister:
 	.string "Gar nicht schlecht für ein Kind\n"
 	.string "aus JOHTO!$"
 
 Route17_Text_RileyRematchIntro:
-	.string "Punks aus JOHTO gewinnen nur\n"
+	.string "Punks aus Johto gewinnen nur\n"
 	.string "einmal!$"
 
 Route17_Text_RileyRematchDefeat:
@@ -128,7 +131,7 @@ Route17_Text_RileyRematchDefeat:
 
 Route17_Text_RileyPostRematch:
 	.string "Vielleicht sollte ich doch mal\n"
-	.string "in JOHTO trainieren.$"
+	.string "in Johto trainieren.$"
 
 Route17_Text_JoelRegister:
 	.string "Du bist doch ziemlich cool!\n"
@@ -157,5 +160,5 @@ Route17_Text_CharlesRematchDefeat:
 
 Route17_Text_CharlesPostRematch:
 	.string "Ich traf mal einen Trainer wie dich\n"
-	.string "in EINALL. Pass auf dich auf!$"
+	.string "in Einall. Pass auf dich auf!$"
 

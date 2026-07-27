@@ -353,8 +353,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge_hns:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit_hns:
-	.string "Wir freuen uns auf deine nächste\n"
-	.string "Herausforderung.$"
+	.string "Komm bald wieder!$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode_hns:
 	.string "An welcher Stufe möchtest du teil-\n"
@@ -367,8 +366,8 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping_hns:
-	.string "Okay, I will hold your POKéMON for\n"
-	.string "safekeeping while you compete.$"
+	.string "In Ordnung, ich verwahre deine\n"
+	.string "POKéMON, solange du antrittst.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay_hns:
 	.string "Bitte hier entlang.$"
@@ -382,8 +381,8 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hnsSaveResults_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hns:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "Ich gebe dir deine POKéMON im Tausch\n"
+	.string "gegen unsere LEIH-POKéMON zurück.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins_hns:
 	.string "Herzlichen Glückwunsch! Du hast sieben\n"
@@ -391,15 +390,15 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak_hns:
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "In Anerkennung deines unglaublichen\n"
+	.string "Glücks erhältst du Gewinnpunkte.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints_hns:
 	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.string "Deine GEWINNPUNKTE sind am Maximum.\p"
+	.string "Bitte komm wieder, wenn du einige\n"
+	.string "GEWINNPUNKTE ausgegeben hast.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume_hns:
 	.string "Wir haben schon auf dich gewartet!\p"
@@ -416,11 +415,12 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons_hns:
-	.string "We’ll return your personal POKéMON.$"
+	.string "Wir geben dir deine eigenen\n"
+	.string "POKéMON zurück.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem_hns:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle_hns:
@@ -454,7 +454,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge_hns:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead_hns:
-	.string "Glückwunsch! Du hast den FABRIKLEITER\n"
+	.string "Glückwunsch! Du hast den Fabrikleiter\n"
 	.string "besiegt und sechs Kämpfe\l"
 	.string "in Folge gewonnen!$"
 
@@ -509,13 +509,11 @@ BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried_hns:
-	.string "Like, I’m really tough, but I get\n"
-	.string "bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "Also, ich bin echt stark, aber mir wird\n"
+	.string "schnell langweilig. Deshalb habe ich\l"
+	.string "immer wieder getauscht und gekämpft.\p"
+	.string "Dabei ist mir aufgefallen: Die LEIH-\n"
+	.string "POKéMON sind jedes Mal andere!$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed_hns:
 	.string "Die Regeln des Wechselkampfes hängen\n"

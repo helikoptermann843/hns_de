@@ -123,18 +123,16 @@ Route35GoldenrodGate_Text_RandyMyPalSnoozing:
 	.string "ich dir gesagt?$"
 
 Route35GoldenrodGate_Text_PokefanF_TreeBlocking:
-	.string "Ein merkwürdiger\n"
-	.string "Baum blockiert die Straße.\p"
-	.string "Er fängt an zu\n"
-	.string "zappeln, wenn man ihn anspricht.\p"
-	.string "Ich habe gehört,\n"
-	.string "dass er rasend wurde, als ihn\p"
-	.string "jemand mit Wasser\n"
-	.string "aus einer SCHIGGYKANNE begossen hat.$"
+	.string "Angeblich versperrt ein merkwürdiger\n"
+	.string "Baum den Weg, der anfängt, sich zu\l"
+	.string "winden, wenn man ihn anspricht.\p"
+	.string "Es heißt außerdem, dass er rasend\l"
+	.string "wurde, als ihn jemand mit Wasser aus\l"
+	.string "seiner Schiggykanne begossen hat.$"
 
 Route35GoldenrodGate_Text_PokefanF_Lullaby:
-	.string "Ich mag das schöne\n"
-	.string "Kinderlied was sie im Radio spielen.$"
+	.string "Ich mag das Pokémon-Schlaflied,\n"
+	.string "das im Radio gespielt wird.$"
 
 Route35GoldenrodGate_Text_Fisher:
 	.string "Ich frage mich, wie viele Arten\p"

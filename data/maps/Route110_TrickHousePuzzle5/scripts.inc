@@ -903,10 +903,10 @@ Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
 	.string "Das Schloss geht klickend auf.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "KLICK-KLACK… ROBOPUPPE 1 ICH BIN!\p"
-	.string "GIBST DU IM QUIZ RICHTIGE ANTWORTEN,\n"
-	.string "ERREICHST DU BALD ROBOPUPPE 5.\l"
-	.string "DORT ERHÄLTST DU DEN GEHEIMEN CODE.$"
+	.string "Klick-klack… Robopuppe 1 Ich Bin!\p"
+	.string "Gibst DU IM Quiz Richtige Antworten,\n"
+	.string "Erreichst DU Bald Robopuppe 5.\l"
+	.string "Dort Erhältst DU Den Geheimen Code.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
 	.string "ROBOPUPPE 1 QUIZ.\p"
@@ -940,9 +940,9 @@ Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
 	.string "ERWARTEN.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "KLICK-KLACK… ROBOPUPPE 2 ICH BIN!\p"
-	.string "ROBOPUPPE 1 QUIZ-SCHWIERIGKEITS-\n"
-	.string "GRAD IST ZU NIEDRIG.$"
+	.string "Klick-klack… Robopuppe 2 Ich Bin!\p"
+	.string "Robopuppe 1 Quiz-schwierigkeits-\n"
+	.string "Grad Ist ZU Niedrig.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
 	.string "ROBOPUPPE 2 QUIZ.\p"
@@ -960,8 +960,8 @@ Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
 	.string "im BLÜTENBURGWALD eingesetzt?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "KLICK-KLACK… ROBOPUPPE 3 ICH BIN!\p"
-	.string "FÜR MICH ZÄHLT NUR GELD.$"
+	.string "Klick-klack… Robopuppe 3 Ich Bin!\p"
+	.string "Für Mich Zählt Nur Geld.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
 	.string "ROBOPUPPE 3 QUIZ.\p"
@@ -980,8 +980,8 @@ Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
 	.string "SPRUDEL mehr als ein SUPERTRANK?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "KLICK-KLACK… ROBOPUPPE 4 ICH BIN!\p"
-	.string "ICH INTERESSIERE MICH FÜR SCHÖNES.$"
+	.string "Klick-klack… Robopuppe 4 Ich Bin!\p"
+	.string "Ich Interessiere Mich Für Schönes.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
 	.string "ROBOPUPPE 4 QUIZ.\p"
@@ -999,9 +999,9 @@ Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
 	.string "TRAINERSCHULE?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "KLICK-KLACK… ROBOPUPPE 5 ICH BIN!\p"
-	.string "DES MEISTERS BESTE UND STOLZESTE\n"
-	.string "ERFINDUNG ICH BIN.$"
+	.string "Klick-klack… Robopuppe 5 Ich Bin!\p"
+	.string "Des Meisters Beste Und Stolzeste\n"
+	.string "Erfindung Ich Bin.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
 	.string "ROBOPUPPE 5 QUIZ.\p"

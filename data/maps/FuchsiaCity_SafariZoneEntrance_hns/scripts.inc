@@ -68,7 +68,8 @@ FuchsiaCity_SafariZoneEntrance_EventScript_StevenGiveCase::
 	return
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenGiveCase:
-	.string "Oh and you might need this.$"
+	.string "Ach ja, das hier könntest du\n"
+	.string "noch gebrauchen.$"
 
 FuchsiaCity_SafariZoneEntrance_Steven::
 	lock

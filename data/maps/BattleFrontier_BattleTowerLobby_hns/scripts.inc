@@ -935,26 +935,26 @@ BattleFrontier_BattleTowerLobby_EventScript_ExitRules_hns::
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom_hns:
-	.string "I'll direct you to your BATTLE ROOM\n"
-	.string "now.$"
+	.string "Ich führe dich jetzt zum\n"
+	.string "Kampfraum für den Multikampf.$"
 
 BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting_hns:
 	.string "Entschuldigung!\p"
-	.string "Du hast, bevor du die Herausforderung\n"
-	.string "abgebrochen hast, nicht gespeichert.\p"
-	.string "Daher wirst du für diese Herausforde-\n"
-	.string "rung disqualifiziert. Schade!$"
+	.string "Vorm Verlassen deiner letzten\n"
+	.string "Herausforderung hast du nicht\l"
+	.string "gespeichert.\p"
+	.string "Aus diesem Grunde wurdest du\n"
+	.string "disqualifiziert!$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven_hns:
 	.string "Herzlichen Glückwunsch!\n"
-	.string "Alle 7 TRAINER wurden besiegt!\p"
-	.string "$"
+	.string "Alle 7 Kämpfe wurden gewonnen!$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize_hns:
-	.string "For beating seven TRAINERS in a row,\n"
-	.string "you have earned this fabulous prize!\p"
-	.string "$"
+	.string "Du hast deinen siebten Kampf\n"
+	.string "geschafft! Glückwunsch!\p"
+	.string "Als Preis erhältst du GP!$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize_hns:
 	.string "{PLAYER} gewinnt\n"
@@ -962,26 +962,25 @@ BattleFrontier_BattleTowerLobby_Text_ReceivedPrize_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom_hns:
-	.string "Oh, your BAG appears to be full.\p"
-	.string "Please make room in your BAG, then\n"
-	.string "come see me.$"
+	.string "Dein Beutel ist voll.\n"
+	.string "Komm später wieder.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying_hns:
-	.string "Vielen Dank für die Teilnahme!\p"
-	.string "$"
+	.string "Danke fürs Mitmachen!$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved_hns:
-	.string "Dein Erfolg wird gespeichert.\n"
-	.string "Bitte warten…$"
+	.string "Bevor du den Kampf beginnst, wird\n"
+	.string "dein Spiel gespeichert. Warte bitte.$"
 
 BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou_hns:
 	.string "Wir haben schon auf dich gewartet!\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved_hns:
-	.string "Bevor du einen KAMPFRAUM betrittst,\n"
-	.string "wird dein Spiel gespeichert.\l"
-	.string "Bitte warten…$"
+	.string "Wir haben schon auf dich gewartet!\p"
+	.string "Bevor du einen Kampfraum betrittst,\n"
+	.string "wird dein Spiel gespeichert.\p"
+	.string "Bitte warte einen Moment.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer_hns:
 	.string "Und nun wartet der 50. TRAINER auf\n"
@@ -1055,21 +1054,21 @@ BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction_hns:
-	.string "Welcome to the BATTLE TOWER\n"
-	.string "DOUBLE BATTLE CORNER!\p"
-	.string "Unfortunately, the BATTLE ROOMS\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "Willkommen in der DOPPELKAMPF-ECKE\n"
+	.string "des DUELLTURMS!\p"
+	.string "Leider sind die KAMPFRÄUME noch\n"
+	.string "im Bau.\p"
+	.string "Bitte komm wieder, wenn die\n"
+	.string "Arbeiten beendet sind.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction_hns:
-	.string "Welcome to the BATTLE TOWER\n"
-	.string "MULTI BATTLE CORNER!\p"
-	.string "Unfortunately, the BATTLE ROOMS\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "Willkommen in der MULTIKAMPF-ECKE\n"
+	.string "des DUELLTURMS!\p"
+	.string "Leider sind die KAMPFRÄUME noch\n"
+	.string "im Bau.\p"
+	.string "Bitte komm wieder, wenn die\n"
+	.string "Arbeiten beendet sind.$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge_hns:
 	.string "Wir freuen uns auf deine nächste\n"
@@ -1082,16 +1081,15 @@ BattleFrontier_BattleTowerLobby_Text_WhichLevelMode_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons_hns:
-	.string "Please select the POKéMON you wish\n"
-	.string "to enter.$"
+	.string "Bitte Pokémon auswählen.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering_hns:
 	.string "Bevor du einen KAMPFRAUM betrittst,\n"
 	.string "musst du dein Spiel speichern. Okay?$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom_hns:
-	.string "Ich werde dir jetzt den {STR_VAR_1}-\n"
-	.string "KAMPFRAUM zeigen.$"
+	.string "Ich werde dir jetzt den\n"
+	.string "Kampfraum zeigen.$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordLastMatch_hns:
 	.string "Soll ich deinen letzten DUELLTURM-\n"
@@ -1099,31 +1097,42 @@ BattleFrontier_BattleTowerLobby_Text_RecordLastMatch_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hns:
-	.string "Excuse me!\p"
-	.string "You don't have {STR_VAR_2} eligible\n"
-	.string "POKéMON. \p"
-	.string "You must have {STR_VAR_2} different\n"
-	.string "POKéMON\n"
-	.string "of Level 50 or less to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Entschuldigung!\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
+	.string "Jedes muss außerdem ein anderes Item\n"
+	.string "halten.\p"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 	
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsEnd_hns:
-	.string "Komm wieder wenn du bereit bist.$"
+	.string "Komm wieder, wenn du bereit bist.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hns:
-	.string "Excuse me!\p"
-	.string "You don't have {STR_VAR_2} eligible\n"
-	.string "POKéMON. \p"
-	.string "You must have {STR_VAR_2} different\n"
-	.string "POKéMON to enter.\p"
-	.string "They also must be holding different\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "Please come see me when you are ready.$"
+	.string "Entschuldigung!\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
+	.string "Jedes muss außerdem ein anderes Item\n"
+	.string "halten.\p"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsSingles_hns:
 	.string "Entschuldigung!\p"
@@ -1139,15 +1148,20 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsSingles_hns:
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsSingles_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
-	.string "teilnahmeberechtigt.\p"
-	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
-	.string "Bitte komm wieder, wenn du bereit\n"
-	.string "bist.$"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsDoubles_hns:
 	.string "Entschuldigung!\p"
@@ -1163,39 +1177,54 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsDoubles_hns:
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsDoubles_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
-	.string "teilnahmeberechtigt.\p"
-	.string "Du brauchst vier verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
-	.string "Bitte komm wieder, wenn du bereit\n"
-	.string "bist.$"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50_hnsMultis_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
-	.string "teilnahmeberechtigt.\p"
-	.string "Du brauchst zwei verschiedene\n"
-	.string "POKéMON von Level 50 oder weniger.\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
-	.string "Bitte komm wieder, wenn du bereit\n"
-	.string "bist.$"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen_hnsMultis_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
-	.string "teilnahmeberechtigt.\p"
-	.string "Du brauchst zwei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Du brauchst {STR_VAR_1} zugelassene Pokémon.\p"
+	.string "Du brauchst {STR_VAR_1} verschiedene\n"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
-	.string "Bitte komm wieder, wenn du bereit\n"
-	.string "bist.$"
+	.string "Eier, {STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1}, {STR_VAR_1},\n"
+	.string "{STR_VAR_1}, {STR_VAR_1},\p"
+	.string "{STR_VAR_1} und {STR_VAR_1}\n"
+	.string "sind nicht zugelassen.\p"
+	.string "Bitte komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle_hns:
 	.string "Hier werden die Talente der TRAINER\n"
@@ -1205,8 +1234,8 @@ BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle_hns:
 	.string "den EINZELKAMPF.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge_hns:
-	.string "Möchtest du dich den Herausforde-\n"
-	.string "rungen im EINZELKAMPF stellen?$"
+	.string "Möchtest du die Herausforderung\n"
+	.string "des Kampfraumes beginnen?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge_hns:
 	.string "In den Kampfräumen für EINZELKÄMPFE\n"
@@ -1236,8 +1265,8 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle_hns:
 	.string "DOPPELKAMPF.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge_hns:
-	.string "Möchtest du dich der Herausforderung\n"
-	.string "im DOPPELKAMPF stellen?$"
+	.string "Möchtest du die Herausforderung\n"
+	.string "des Kampfraumes beginnen?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge_hns:
 	.string "In den Kampfräumen für DOPPELKÄMPFE\n"
@@ -1267,31 +1296,35 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle_hns:
 	.string "MULTIKAMPF.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge_hns:
-	.string "Möchtest du dich der Herausforderung\n"
-	.string "im MULTIKAMPF stellen?$"
+	.string "Möchtest du dich der Heraus-\n"
+	.string "forderung im Multikampf stellen?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge_hns:
-	.string "In den MULTIKAMPF-Räumen des DUELL-\n"
-	.string "TURMs werden MULTIKÄMPFE ausgetragen.\n"
-	.string "\p"
-	.string "Um an einem MULTIKAMPF teilnehmen\n"
-	.string "zu können, musst du dich mit einem\l"
-	.string "TRAINER im TURM zusammentun.\p"
-	.string "Jeder von euch geht mit zwei POKéMON\n"
-	.string "in den Kampf.\p"
-	.string "Im TURM gibt es eine TEAMLOUNGE,\n"
-	.string "hier triffst du andere TRAINER.\p"
-	.string "Finde einen Partner, der mit dir an\n"
-	.string "einem MULTIKAMPF teilnimmt.\p"
+	.string "In den Multikampf-Räumen des\n"
+	.string "Duellturms kannst du mit einem Partner\l"
+	.string "an einem Multikampf teilnehmen.\p"
+	.string "Möchtest du dies tun, bilde ein Team mit\n"
+	.string "einem anderen Trainer und nimm zwei\l"
+	.string "deiner Pokémon mit in den Kampf.\p"
+	.string "Im Turm gibt es eine Teamlounge.\n"
+	.string "Dort triffst du andere Trainer.\p"
+	.string "Finde einen Partner, der mit dir\n"
+	.string "an einem Multikampf teilnimmt.\p"
+	.string "Du kannst auch über die Drahtlose\n"
+	.string "DS-Datenübertragung mit einem Freund\l"
+	.string "ein Team bilden.\p"
 	.string "Hast du einen Partner gefunden, kannst\n"
-	.string "du in den MULTIKAMPF-Raum gehen.\p"
-	.string "Hier warten sieben Teams auf euch.\p"
-	.string "Schafft ihr es, alle sieben zu\n"
-	.string "besiegen, erhältst du Gewinnpunkte.\p"
+	.string "du in den Multikampf-Raum gehen.\p"
+	.string "Hier warten 7 Teams auf euch.\p"
+	.string "Schafft ihr es, alle sieben zu besiegen,\n"
+	.string "erhältst du Gewinnpunkte.\p"
 	.string "Willst du den Kampf unterbrechen,\n"
-	.string "speicher bitte dein Spiel.\p"
+	.string "speichere bitte dein Spiel.\p"
 	.string "Speicherst du es nicht, wirst du\n"
-	.string "disqualifiziert.$"
+	.string "disqualifiziert.\p"
+	.string "Befindest du dich in einem\n"
+	.string "Teamkampf mit einem Freund, kannst\l"
+	.string "du den Kampf nicht unterbrechen.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons_hns2_hns:
 	.string "Bitte wähle zwei POKéMON aus, die\n"
@@ -1309,8 +1342,8 @@ BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle_hns:
 	.string "LINK-MULTIKAMPF.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge_hns:
-	.string "Möchtest du dich der Herausforderung\n"
-	.string "im LINK-MULTIKAMPF stellen?$"
+	.string "Möchtest du dich der Heraus-\n"
+	.string "forderung im Multikampf stellen?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge_hns:
 	.string "In den Räumen der MULTIKÄMPFE des\n"
@@ -1342,11 +1375,10 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend_hns:
-	.string "You have chosen the same kind of\n"
-	.string "POKéMON as your friend.\p"
-	.string "Please choose two POKéMON different\n"
-	.string "from your friend's, match the level\l"
-	.string "you wish to enter, and register again.$"
+	.string "Du hast dieselbe POKéMON-Art gewählt\n"
+	.string "wie dein Freund.\p"
+	.string "Bitte wählt zwei verschiedene\n"
+	.string "POKéMON aus.$"
 
 BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers_hns:
 	.string "Der LINK-MULTIKAMPF-Raum ist nur für\n"
@@ -1362,14 +1394,14 @@ BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon_hnss_hns:
 
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode_hns:
 	.string "Dein Freund hat eine andere\n"
-	.string "Kampfkategorie gewählt.$"
+	.string "Kampfstufe gewählt.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon_hns:
-	.string "Your friend has chosen a different\n"
-	.string "battle level.\p"
-	.string "Your friend has also selected\n"
-	.string "the POKéMON {STR_VAR_1}.$"
+	.string "Dein Freund hat eine andere\n"
+	.string "Kampfstufe gewählt.\p"
+	.string "Er hat außerdem dieselben POKéMON\n"
+	.string "ausgesucht wie du.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons_hns:
@@ -1390,8 +1422,8 @@ BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn_hns:
 
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden_hns:
 	.string "Herzlichen Glückwunsch!\n"
-	.string "Du hast den KAMPFKOLOSS und\l"
-	.string "sechs TRAINER in Folge besiegt!$"
+	.string "Du hast den Kampfkoloss und\l"
+	.string "sechs Trainer in Folge besiegt!$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints_hns:
 	.string "In Anerkennung deines herausragenden\n"

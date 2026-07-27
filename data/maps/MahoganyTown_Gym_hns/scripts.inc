@@ -17,7 +17,7 @@ MahoganyTown_Gym_EventScript_Statue2::
 	end
 
 MahoganyTown_Gym_Text_GymStatue:
-	.string "Mahagonia City Pokémon Arena$"
+	.string "Pokémon-Arena von Mahagonia City$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
 	.string "Mahagonia City Pokémon Arena\p"
@@ -161,7 +161,7 @@ MahoganyTown_Gym_Text_CherishPokemon:
 	.string "Schätzt eure gemeinsame Zeit!$"
 
 MahoganyTown_Gym_Text_PryceRematch:
-	.string "Ah, JOHTO CHAMPION!\p"
+	.string "Ah, Johto Champion!\p"
 	.string "Deine Fähigkeiten sind\n"
 	.string "wirklich bemerkenswert.\p"
 	.string "Ich bin beeindruckt.\p"

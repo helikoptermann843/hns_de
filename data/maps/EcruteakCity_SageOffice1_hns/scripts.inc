@@ -15,8 +15,8 @@ EcruteakCity_SageOffice1_EventScript_Sign::
 	end
 
 EcruteakCity_SageOffice1_Text_Sign:
-	.string "The bell of tin rings clearly for\n"
-	.string "those under the tower's wing.$"
+	.string "Die Glocke aus Zinn klingt hell und rein\n"
+	.string "für alle, die im Schutz des Turmes sein.$"
 
 EcruteakCity_SageOffice2_EventScript_SageA::
 	lock
@@ -127,7 +127,7 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "Schreite voran.$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
-	.string "Schreite voran.$"
+	.string "Schreite voran…$"
 
 EcruteakTinTowerEntrance_Text_SageDone:
 	.string "Der Klang dieser Glocke zeigt\n"

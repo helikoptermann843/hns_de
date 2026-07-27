@@ -108,22 +108,22 @@ AquaHideout_B1F_EventScript_Grunt7::
 
 AquaHideout_B1F_Text_Grunt2Intro:
 	.string "Wenn du das Geheimnis unseres\n"
-	.string "VERSTECKs erfahren willst, musst du\l"
+	.string "Verstecks erfahren willst, musst du\l"
 	.string "mich besiegen!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
 	.string "Ich kann anscheinend nicht gewinnen…$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
-	.string "Das Geheimnis unseres VERSTECKs?\p"
+	.string "Das Geheimnis unseres Verstecks?\p"
 	.string "Nun, sagen wir mal soooo…\n"
-	.string "Am Ende befindet sich ein U-Boot!\p"
+	.string "Am Ende befindet sich ein U-boot!\p"
 	.string "Aber, im Moment…\n"
 	.string "Hehehehe…$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
-	.string "Tankbefüllung… OKAY!\n"
-	.string "Proviant… OKAY!\p"
+	.string "Tankbefüllung… Okay!\n"
+	.string "Proviant… Okay!\p"
 	.string "Nichts anderes mehr zu tun, als eine\n"
 	.string "Nervensäge aus dem Weg zu räumen.$"
 
@@ -135,7 +135,7 @@ AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "Ich sollte dich eh nur aufhalten!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Gääähn… Hier im VERSTECK Wache zu\n"
+	.string "Gääähn… Hier im Versteck Wache zu\n"
 	.string "stehen, ist ermüdend. Ich muss\l"
 	.string "kämpfen.$"
 
@@ -144,13 +144,13 @@ AquaHideout_B1F_Text_Grunt5Defeat:
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
 	.string "Wenn du weiter hier herumschleichst,\n"
-	.string "schnappt dich TEAM AQUA.$"
+	.string "schnappt dich Team Aqua.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
 	.string "Hey! Du da!\p"
 	.string "Was ist cooler?\n"
-	.string "Die Uniform von TEAM AQUA oder\l"
-	.string "die von TEAM MAGMA?$"
+	.string "Die Uniform von Team Aqua oder\l"
+	.string "die von Team Magma?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
 	.string "Ich habe ganz cool verloren…$"

@@ -516,7 +516,7 @@ MauvilleCity_Text_WallyHereICome:
 	.string "Okay… Jetzt komme ich!$"
 
 MauvilleCity_Text_WallyDefeat:
-	.string "HEIKO: … … … … … … …\p"
+	.string "Heiko: … … … … … … …\p"
 	.string "… … … … … … … …\p"
 	.string "Ich habe verloren…$"
 

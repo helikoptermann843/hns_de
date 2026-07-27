@@ -140,14 +140,14 @@ GoldenrodCity_PokemonCenter_EventScript_LinkNpc_End::
 	end
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Intro:
-	.string "LINK-ECKE\p"
-	.string "WÄHLE LINK-TYP.$"
+	.string "Link-ecke\p"
+	.string "Wähle Link-typ.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_BattleMode:
 	.string "WÄHLE KAMPFTYP.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Goodbye:
-	.string "WIEDERSEHEN.$"
+	.string "TSCHÜSS$"
 
 GoldenrodCity_PokemonCenter_EventScript_LinkExplainerNpc::
 	msgbox GoldenrodCity_PokemonCenter_Text_LinkExplainer, MSGBOX_NPC

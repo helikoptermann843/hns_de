@@ -107,14 +107,15 @@ Route10_PowerPlantEntrance_Movement_WalkBack:
 	step_end
 
 Route10_PowerPlantEntrance_Text_Officer1AThiefBrokeIn:
-	.string "Ein Dieb ist in\n"
-	.string "das KRAFTWERK eingebrochen…\p"
-	.string "Was geschieht nur mit dieser Welt?$"
+	.string "Ein Dieb ist in das\n"
+	.string "Kraftwerk eingebrochen.\l"
+	.string "In was für einer Welt leben wir nur…$"
 
 Route10_PowerPlantEntrance_Text_Officer1CeruleanShadyCharacter:
-	.string "Ich habe Nachricht aus AZURIA CITY.\p"
-	.string "Eine zwielichtige Figur treibt sich\n"
-	.string "dort in der Umgebung herum.$"
+	.string "Wir haben Neuigkeiten\n"
+	.string "aus Azuria City!\p"
+	.string "Es heißt, dort treibe sich eine\n"
+	.string "verdächtige Gestalt herum!$"
 
 Route10_PowerPlantEntrance_Text_Officer1CouldIAskForYourCooperation:
 	.string "Kann ich mit\n"
@@ -125,22 +126,21 @@ Route10_PowerPlantEntrance_Text_Officer1HaveToBeefUpSecurity:
 	.string "Wachpersonal einstellen.$"
 
 Route10_PowerPlantEntrance_Text_Engineer1SomeoneStoleAPart:
-	.string "Jemand hat ein wichtiges Teil\n"
-	.string "gestohlen, das für den\l"
-	.string "Generator nötig ist.\p"
-	.string "Ohne dieses Teil ist der neue\n"
-	.string "Generator nutzlos!$"
+	.string "Ein Dieb hat ein wichtiges\n"
+	.string "Teil des Generators entwendet!\p"
+	.string "Ohne es funktioniert der\n"
+	.string "neue Generator nicht!$"
 
 Route10_PowerPlantEntrance_Text_Engineer1GeneratorUpAndRunning:
-	.string "Der Generator läuft jetzt.\n"
-	.string "Er produziert reichlich Strom.$"
+	.string "Der Generator versorgt uns jetzt\n"
+	.string "wieder mit genügend Saft!$"
 
 Route10_PowerPlantEntrance_Text_Engineer2PowerPlantUpAndRunning:
-	.string "Dieses Kraftwerk war einst\n"
-	.string "verlassen.\p"
-	.string "Wir haben es wieder instand\n"
-	.string "gesetzt, um Strom für den\l"
-	.string "Magnet-ZUG zu liefern.$"
+	.string "Dieses Kraftwerk wurde eigentlich\n"
+	.string "schon vor langer Zeit stillgelegt.\p"
+	.string "Aber wir haben es wieder in Betrieb\n"
+	.string "genommen, um damit Energie für\l"
+	.string "den Magnetzug zu gewinnen.$"
 
 Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
 	.string "Der Generator läuft wieder!$"
@@ -153,14 +153,14 @@ Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
 	.string "und wütend zugleich…$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenCheerful:
-	.string "Seit der Generator wieder läuft, ist\p"
-	.string "der DIREKTOR wieder fröhlich.$"
+	.string "Seit der Generator wieder läuft, \n"
+	.string "ist der Direktor quietschfidel!$"
 
 Route10_PowerPlantEntrance_Text_Engineer4MagnetTrainConsumesElectricity:
-	.string "Der Magnet-ZUG verbraucht\n"
-	.string "viel Strom.\p"
-	.string "Ohne laufenden Generator kann\n"
-	.string "er nicht fahren.$"
+	.string "Der Magnetzug verbraucht\n"
+	.string "sehr viel Energie.\p"
+	.string "Ohne den neuen Generator\n"
+	.string "bewegt sich da gar nichts.$"
 
 Route10_PowerPlantEntrance_EventScript_Lorenzo::
 	lock
@@ -213,5 +213,5 @@ Route10_PowerPlantEntrance_Text_TradeCompleted:
 	.string "Sie liebt Magnetfelder!$"
 
 Route10_PowerPlantEntrance_Text_Engineer4WeCanGetMagnetTrainRunning:
-	.string "Endlich! Wir können den\n"
-	.string "Magnet-ZUG wieder in Gang setzen.$"
+	.string "Jetzt können wir endlich auch den\n"
+	.string "Magnetzug wieder anwerfen!$"

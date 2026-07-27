@@ -274,29 +274,32 @@ CherryGroveCity_Silver_AfterBattle::
 	end
 
 CherrygroveCity_Text_GuideGentIntro:
-	.string "Du bist ein Anfänger-Trainer,\n"
-	.string "oder? Das sehe ich sofort!\p"
-	.string "Schon gut! Jeder ist einmal\n"
-	.string "ein Anfänger!\p"
-	.string "Wenn du willst, kann ich dir\n"
-	.string "ein paar Dinge zeigen.$"
+	.string "Du bist noch nicht lange Trainer, oder?\n"
+	.string "Aha, Volltreffer! Wusste ich's doch!\p"
+	.string "Aber das ist schon in Ordnung. Es ist\n"
+	.string "noch kein Meister vom Himmel gefallen!\p"
+	.string "Keine Sorge, ich bringe dir gerne ein\n"
+	.string "paar Tricks bei!\p"
+	.string "Komm, folge mir!$"
 
 CherrygroveCity_Text_GuideGentTourStart:
 	.string "Na gut!\n"
 	.string "Los geht's!$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
-	.string "Das ist ein Pokémon-CENTER.\p"
-	.string "Hier werden deine Pokémon im\n"
-	.string "Nu geheilt.\p"
-	.string "Du wirst oft darauf angewiesen\n"
-	.string "sein, also lern es gut kennen.$"
+	.string "Das hier ist ein Pokémon-Center.\n"
+	.string "Wenn deine Pokémon verletzt sind,\l"
+	.string "und du sie hier abgibst, werden sie\l"
+	.string "umgehend für dich geheilt!\p"
+	.string "Ich kann dir schon jetzt sagen, dass du\n"
+	.string "hier bald Stammkunde sein wirst!\l"
+	.string "Du kannst mich beim Wort nehmen!$"
 
 CherrygroveCity_Text_GuideGentMart:
-	.string "Das ist ein Pokémon-MARKT.\p"
-	.string "Hier verkaufen sie BÄLLE zum\n"
-	.string "Fangen von wilden Pokémon und\l"
-	.string "andere nützliche Items.$"
+	.string "Das hier ist ein Pokémon-Supermarkt.\n"
+	.string "Hier werden Bälle verkauft, mit denen\l"
+	.string "du Pokémon fangen kannst, und noch\l"
+	.string "viele weitere nützliche Items.$"
 
 CherrygroveCity_Text_GuideGentRoute30:
 	.string "ROUTE 30 liegt hier entlang.\p"
@@ -304,10 +307,9 @@ CherrygroveCity_Text_GuideGentRoute30:
 	.string "geschätzten Pokémon.$"
 
 CherrygroveCity_Text_GuideGentSea:
-	.string "Das hier ist das Meer,\n"
-	.string "wie du siehst.\p"
-	.string "Manche Pokémon findet man nur\n"
-	.string "im Wasser.$"
+	.string "Und das ist das Meer, wie du siehst.\p"
+	.string "Bestimmte Pokémon halten sich \n"
+	.string "ausschließlich im Wasser auf!$"
 
 CherrygroveCity_Text_GuideGentMap:
 	.string "Hier…\p"
@@ -325,62 +327,66 @@ CherrygroveCity_Text_GuideGentDecline:
 	.string "wann immer du willst.$"
 
 CherrygroveCity_Text_RivalSeen:
-	.string "… … … … … … … …\p"
-	.string "Du hast ein Pokémon im LABOR bekommen.\p"
-	.string "Was für eine Verschwendung\n"
-	.string "für so einen Schwächling wie dich.\p"
-	.string "… … … … … … … …\p"
-	.string "Verstehst du überhaupt was ich sage?\p"
-	.string "Pfft wie auch immer,\n"
-	.string "Ich habe auch ein gutes Pokémon\p"
-	.string "Ich zeige dir, was ich meine!$"
+	.string "… … …\n"
+	.string "Du hast ein Pokémon aus dem Labor.\p"
+	.string "Was für eine Verschwendung für einen\n"
+	.string "Schwächling wie dich!\p"
+	.string "… … …\p"
+	.string "Was ich damit sagen will, fragst du?\n"
+	.string "Wie deutlich muss ich denn noch werden?\p"
+	.string "Dann erkläre ich's dir eben ganz genau!\n"
+	.string "Mein Pokémon hier ist auch nicht übel!\l"
+	.string "Wenn es erst mal mit dir fertig ist,\l"
+	.string "bleiben keine Fragen mehr offen!$"
 
 CherrygroveCity_Text_SilverWin:
-	.string "Tss. Bist du jetzt glücklich,\n"
-	.string "dass du gewonnen hast?$"
+	.string "Hmpf! Du hast gewonnen!\n"
+	.string "Bist du jetzt zufrieden?$"
 
 CherrygroveCity_Text_RivalAfter:
-	.string "… … … … … … … …\p"
-	.string "Willst du wissen, wer ich bin?\p"
-	.string "Ich werde der größte Pokémon-\n"
-	.string "Trainer der Welt.$"
+	.string "… … …\p"
+	.string "Willst du wissen, wer ich bin?\n"
+	.string "Ich werde es dir sagen!\p"
+	.string "Ich bin derjenige, den die Leute schon\n"
+	.string "bald den größten Pokémon-Trainer\l"
+	.string "aller Zeiten nennen werden!$"
 
 CherrygroveCity_Text_RivalID:
-	.string "Gib das zurück!\n"
-	.string "Das ist meine TRAINER-KARTE!\p"
-	.string "Oh nein!\n"
-	.string "Du hast meinen Namen gesehen…$"
+	.string "Gib mir das! Das ist der Trainerpass,\n"
+	.string "den ich verloren habe! Er gehört mir!\p"
+	.string "Hmpf… jetzt hast du meinen Namen\n"
+	.string "gesehen, oder?$"
 
 CherrygroveCity_Text_TeacherHaveMapCard:
-	.string "Mit Pokémon unterwegs zu sein,\n"
-	.string "macht überall Spaß.$"
+	.string "Egal, wohin die Reise auch geht, mit\n"
+	.string "Pokémon als Weggefährten wird es dir\l"
+	.string "ganz bestimmt nie langweilig!$"
 
 CherrygroveCity_Text_YoungsterNoPokedex:
 	.string "Mr. Pokémons Haus liegt noch\n"
 	.string "weiter vorne.$"
 
 CherrygroveCity_Text_YoungsterHavePokedex:
-	.string "Ich habe gegen die Trainer auf\n"
-	.string "den Routen gekämpft.\p"
-	.string "Meine Pokémon haben verloren.\n"
-	.string "Sie sind völlig erledigt!\p"
-	.string "Ich muss sie ins Pokémon-CENTER\n"
-	.string "bringen.$"
+	.string "Ich habe tapfer gegen die Trainer auf\n"
+	.string "der Straße gekämpft, aber mein Team\l"
+	.string "hat verloren und nun sind meine Pokémon\l"
+	.string "völlig außer Kraft.\p"
+	.string "Ich muss sie in ein Pokémon-Center\n"
+	.string "bringen, und zwar schnell…$"
 
 CherrygroveCity_Text_MysticWaterGuyBefore:
-	.string "Ein Pokémon, das ich fing,\n"
-	.string "hatte ein Item.\p"
-	.string "Ich glaube, es ist Mystisches Wasser.\p"
-	.string "Ich brauche es nicht.\n"
-	.string "Willst du es haben?$"
+	.string "Das Pokémon, das ich mir neulich\n"
+	.string "geangelt habe, hatte ein Item dabei!\p"
+	.string "Es hieß Zauberwasser oder so…\n"
+	.string "Aber da ich nur am Angeln von Pokémon\l"
+	.string "interessiert bin, kannst du es haben.$"
 
 CherrygroveCity_Text_MysticWaterGuyAfter:
-	.string "Ich gehe mal wieder Angeln.$"
+	.string "Ich gehe dann mal wieder ans Angeln.$"
 
 CherrygroveCity_Text_CitySign:
-	.string "Rosalia City\p"
-	.string "Die Stadt der niedlichen und\n"
-	.string "duftenden Blumen$"
+	.string "Rosalia City\n"
+	.string "Die Stadt des Blumendufts$"
 
 CherrygroveCity_Text_GuideGentsHouseSign:
 	.string "HAUS DES REISEFÜHRERS$"

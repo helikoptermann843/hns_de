@@ -27,11 +27,10 @@ MrFuji_Text_Main:
 	.string "glücklich.$"
 
 SoulHouse_Text_Teacher:
-	.string "Ich glaube, hier\n"
-	.string "liegen noch andere Pokémon begraben.\p"
-	.string "Es gibt viele\n"
-	.string "Kammern, die nur MR. FUJI betreten\l"
-	.string "darf.$"
+	.string "Ich glaube, hier liegen noch andere\n"
+	.string "Pokémon begraben.\p"
+	.string "Es gibt viele Kammern, die nur\n"
+	.string "Mr. Fuji betreten darf.$"
 
 SoulHouse_Text_Lass:
 	.string "Ich besuche mit\n"
@@ -39,6 +38,7 @@ SoulHouse_Text_Lass:
 	.string "Pokémon…$"
 
 SoulHouse_Text_Granny:
-	.string "Die Pokémon, die bei mir lebten…\p"
-	.string "Ich hatte sie so\n"
-	.string "lieb wie meine Enkelkinder…$"
+	.string "Ich habe so lange mit diesen Pokémon\n"
+	.string "zusammengelebt, dass sie für mich\l"
+	.string "denselben Stellenwert einnehmen\l"
+	.string "wie meine Enkelkinder…$"

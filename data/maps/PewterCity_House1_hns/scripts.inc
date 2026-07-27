@@ -19,4 +19,4 @@ PewterCity_House1_Text_SuperNerd:
 	.string "NIDORAN, los!$"
 
 PewterCity_House1_Text_Nidoran:
-	.string "NIDORAN: Nido nido!$"
+	.string "NIDORAN♂: NIDORAN!$"

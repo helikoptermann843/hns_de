@@ -119,10 +119,10 @@ CinnabarIsland_EventScript_GymSign::
 	end
 
 CinnabarIsland_Text_GymSign:
-	.string "Hier ist eine Notiz…\p"
-	.string "Zinnoberinsel Arena ist auf die\n"
-	.string "Seeschauminseln umgezogen.\p"
-	.string "Pyro$"
+	.string "…Da hängt eine Nachricht!\p"
+	.string "Die Arena der Zinnoberinsel ist auf\n"
+	.string "die Seeschauminseln umgezogen!\l"
+	.string "- Pyro$"
 
 CinnabarIsland_Text_Sign:
 	.string "Zinnoberinsel\p"

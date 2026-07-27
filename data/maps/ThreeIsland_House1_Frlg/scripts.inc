@@ -14,11 +14,12 @@ ThreeIsland_House1_EventScript_DisplayCase::
 	end
 
 ThreeIsland_House1_Text_YoureAlwaysSoCool::
-	.string "LOSTELLE: Hi, {PLAYER}!\n"
-	.string "You're always so cool!\p"
-	.string "I'll make lunch for you, too, one\n"
-	.string "day, {PLAYER}.$"
+	.string "Pst!\n"
+	.string "Ich bin ein Geheimagent!\p"
+	.string "Ich verfolge das TEAM ROCKET!\n"
+	.string "Pst!$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::
-	.string "Rare rocks and gems are displayed.$"
+	.string "Seltene Edelsteine werden hier\n"
+	.string "ausgestellt!$"
 

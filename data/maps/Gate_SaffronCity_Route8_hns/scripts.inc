@@ -7,5 +7,5 @@ Gate_SaffronCity_Route8_EventScript_Guard::
 	end
 
 Route8_Text_SaffronGateOfficer:
-	.string "Warst du schon in LAVANDIA?\p"
-	.string "Dort steht ein hoher RADIOTURM.$"
+	.string "Warst du schon in Lavandia?\n"
+	.string "Da gibt es einen großen Radioturm!$"

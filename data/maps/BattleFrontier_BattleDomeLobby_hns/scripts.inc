@@ -449,8 +449,7 @@ BattleFrontier_BattleDomeLobby_Text_TakeSinglesChallenge_hns:
 	.string "teilnehmen?$"
 
 BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain_hns:
-	.string "Wir hoffen, dich bald\n"
-	.string "wiederzusehen.$"
+	.string "Komm bald wieder!$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge_hns:
 	.string "Das EINZEL-Turnier ist, wie der\n"
@@ -484,8 +483,7 @@ BattleFrontier_BattleDomeLobby_Text_WhichLevelMode_hns:
 	.string "Was wählst du?$"
 
 BattleFrontier_BattleDomeLobby_Text_SelectThreeMons_hns:
-	.string "Wähle nun bitte die 3 POKÉMON\n"
-	.string "aus, die du anmelden möchtest.$"
+	.string "Bitte Pokémon auswählen.$"
 
 BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "Entschuldigung!\p"
@@ -512,11 +510,11 @@ BattleFrontier_BattleDomeLobby_Text_ShowYouToBattleDome_hns:
 
 BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting_hns:
 	.string "Entschuldigung!\p"
-	.string "Du hast beim letzten Mal nicht\n"
-	.string "gespeichert, bevor du aufgehört\l"
-	.string "hast.\p"
-	.string "Dein bisheriger Fortschritt wurde\n"
-	.string "leider disqualifiziert. Tut mir leid!$"
+	.string "Vorm Verlassen deiner letzten\n"
+	.string "Herausforderung hast du nicht\l"
+	.string "gespeichert.\p"
+	.string "Aus diesem Grunde wurdest du\n"
+	.string "disqualifiziert!$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney_hns:
 	.string "Herzlichen Glückwunsch zum\n"
@@ -539,11 +537,11 @@ BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom_hns:
 	.string "dann wieder zu mir.$"
 
 BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying_hns:
-	.string "Danke fürs Mitspielen!$"
+	.string "Danke fürs Mitmachen!$"
 
 BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved_hns:
-	.string "Dein Ergebnis wird gespeichert.\n"
-	.string "Bitte warten.$"
+	.string "Bevor du den Kampf beginnst, wird\n"
+	.string "dein Spiel gespeichert. Warte bitte.$"
 
 BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou_hns:
 	.string "Wir haben auf dich gewartet!$"
@@ -648,7 +646,7 @@ BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully_hns:
 
 BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker_hns:
 	.string "Herzlichen Glückwunsch!\p"
-	.string "Du hast das KUPPEL-ASS besiegt\n"
+	.string "Du hast das Kuppel-ass besiegt\n"
 	.string "und das Turnier gewonnen!$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints_hns:

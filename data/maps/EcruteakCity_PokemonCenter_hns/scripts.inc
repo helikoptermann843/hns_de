@@ -133,13 +133,11 @@ EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
 	.string "Kurz nach OLIVIANA CITY.$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "JENS, der ARENA-\n"
-	.string "LEITER, ist soooo cool.\p"
-	.string "Auch seine Pokémon sind sehr stark.$"
+	.string "Jens, der Arenaleiter, ist sooo cool!\n"
+	.string "Seine Pokémon sind auch total stark!$"
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
-	.string "SEE DES ZORNS…\p"
-	.string "Das Erscheinen eines\n"
-	.string "GARADOSSchwarms…\p"
-	.string "Das riecht nach Verschwörung!$"
+	.string "Hm, der See des Zorns… das plötzliche\n"
+	.string "Erscheinen des roten GARADOS…\l"
+	.string "Da ist doch irgendwas im Busch!\n$"
 

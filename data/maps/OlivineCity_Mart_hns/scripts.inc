@@ -18,14 +18,14 @@ OlivineCity_EventScript_Lass::
 	end
 
 OlivineCity_Text_MartCooltrainerF:
-	.string "Können deine Pokémon schon Leute\n"
-	.string "übers Wasser tragen?$"
+	.string "Kennen deine Pokémon schon eine\n"
+	.string "Attacke, die es ihnen erlaubt, Leute\l"
+	.string "übers Wasser zu tragen?$"
 
 OlivineCity_Text_MartLass:
-	.string "Ich habe mein SMETTBO von\n"
-	.string "meinem Freund aus Übersee\l"
-	.string "bekommen.\p"
-	.string "Es hatte einen BRIEF von ihm dabei.\p"
-	.string "Willst du wissen, was er schreibt?\p"
-	.string "Mal sehen… Oh!\n"
-	.string "Das ist ein Geheimnis!$"
+	.string "Das SMETTBO, das mir mein Schatz\n"
+	.string "aus Übersee geschickt hat, hatte\l"
+	.string "einen Brief dabei!\p"
+	.string "Willst du wissen, was er schreibt?\n"
+	.string "In Ordnung…\p"
+	.string "Oder lieber doch nicht. Das ist geheim!$"

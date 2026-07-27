@@ -324,7 +324,7 @@ Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
 	.string "Genie, überreiche ich dir dieses\l"
 	.string "Andenken!\p"
 	.string "Eigentlich sind es zwei Andenken - \n"
-	.string "ein ROTES ZELT und ein BLAUES ZELT.\l"
+	.string "ein Rotes Zelt und ein Blaues Zelt.\l"
 	.string "Welches möchtest du haben?$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:

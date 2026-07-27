@@ -10,9 +10,9 @@ SSAnne_2F_Room6_EventScript_Woman2::
 	end
 
 SSAnne_2F_Room6_Text_CaptainIsAwfullySick::
-	.string "The CAPTAIN said he's awfully sick.\n"
-	.string "He was all pale.$"
+	.string "Ach, so eine Kreuzfahrt ist\n"
+	.string "wundervoll!$"
 
 SSAnne_2F_Room6_Text_ManyPeopleGetSeasick::
-	.string "I hear many people get seasick.$"
+	.string "Viele Leute werden leicht seekrank!$"
 

@@ -82,12 +82,12 @@ Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
 	.string "Du hast es gefunden?$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
-	.string "Wahaha! Danke!\p"
-	.string "Hier! Nimm diese TM als\n"
-	.string "Belohnung!$"
+	.string "Direktor: Oh, ich bin dir ja so dankbar!\n"
+	.string "Erlaube mir, mich mit dieser TM etwas\l"
+	.string "erkenntlich zu zeigen!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
-	.string "DIREKTOR: TM07\n"
+	.string "DIREKTOR: TM25\n"
 	.string "enthält BLITZKANONE. Eine sehr\p"
 	.string "starke Attacke! Sie ist nicht sehr\n"
 	.string "präzise, aber du kannst jemanden\l"

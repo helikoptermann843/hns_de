@@ -19,8 +19,8 @@ IcePath_B1F_EventScript_PuzzleSkipButtonNo::
 	end
 
 IcePath_B1F_Text_PuzzleSkipButton::
-	.string "Would you like to skip this\n"
-	.string "puzzle?$"
+	.string "Möchtest du dieses Rätsel\n"
+	.string "überspringen?$"
 
 IcePath_B1F_EventScript_Item_Iron::
 	finditem ITEM_IRON

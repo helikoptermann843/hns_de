@@ -497,6 +497,6 @@ gText_LinkStandby3::
 	.string "Link standby…$"
 
 gText_YourPartnerHasRetired::
-	.string "Your partner has retired.\p"
-	.string "Your BATTLE ROOM challenge\n"
-	.string "will be canceled.$"
+	.string "Dein Partner hat sich zurückgezogen.\p"
+	.string "Deine KAMPFRAUM-Herausforderung\n"
+	.string "wird abgebrochen.$"

@@ -119,19 +119,19 @@ Route110_TrickHousePuzzle2_Text_TedPostBattle:
 	.string "betätigen?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
-	.string "Oh! Du forderst das RÄTSELHAUS schon\n"
+	.string "Oh! Du forderst das Rätselhaus schon\n"
 	.string "zum zweiten Mal heraus!?!$"
 
 Route110_TrickHousePuzzle2_Text_PaulDefeat:
 	.string "Du bist auch im Kämpfen so gut!?!$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "Der RÄTSELMEISTER tüftelt alle Tricks\n"
+	.string "Der Rätselmeister tüftelt alle Tricks\n"
 	.string "in diesem Haus selber aus.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
 	.string "Eines Tages gründe ich meine eigene\n"
-	.string "ARENA. Und hier studiere ich die\l"
+	.string "Arena. Und hier studiere ich die\l"
 	.string "Fallen.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
@@ -140,5 +140,5 @@ Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
 	.string "Du bist stark, nicht wahr?\n"
-	.string "Stark genug, ein ARENALEITER zu sein.$"
+	.string "Stark genug, ein Arenaleiter zu sein.$"
 

@@ -16,4 +16,4 @@ Route28_EventScript_Item_Flamethrower::
     end
 
 Route28_Text_Sign:
-	.string "ROUTE 28$"
+	.string "Route 28$"

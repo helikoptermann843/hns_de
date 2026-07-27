@@ -110,13 +110,13 @@ Route18_EastEntrance_1F_Movement_WalkRight::
 	step_end
 
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
-	.string "You need a BICYCLE to go out on\n"
-	.string "CYCLING ROAD!$"
+	.string "Ohne Zweifel!\n"
+	.string "Die Typen waren vom TEAM ROCKET!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
-	.string "CYCLING ROAD is all uphill from\n"
-	.string "here.$"
+	.string "Der RADWEG führt von hier aus den\n"
+	.string "Hügel hinauf.$"
 
 Route18_EastEntrance_1F_Text_ExcuseMe::
-	.string "Excuse me!$"
+	.string "Ich muss stärkere POKéMON fangen!$"
 

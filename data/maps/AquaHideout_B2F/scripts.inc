@@ -93,7 +93,7 @@ AquaHideout_B2F_Text_MattIntro:
 	.string "unterschätzt!\p"
 	.string "Aber hier geht es für dich nicht\n"
 	.string "weiter! \p"
-	.string "Ich bin besser als die anderen RÜPEL,\n"
+	.string "Ich bin besser als die anderen Rüpel,\n"
 	.string "die dir bisher begegnet sind.\p"
 	.string "Ich schinde keine Zeit heraus. Ich\n"
 	.string "werde dich pulverisieren!$"
@@ -109,11 +109,11 @@ AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
 
 AquaHideout_B2F_Text_MattPostBattle:
 	.string "Hehehe!\p"
-	.string "Unser BOSS ist schon unterwegs zu\n"
+	.string "Unser Boss ist schon unterwegs zu\n"
 	.string "einer Unterwasserhöhle!\p"
 	.string "Falls du ihn verfolgen willst, suche\n"
 	.string "doch mal die Tiefsee in der Region um\l"
-	.string "SEEGRASULB CITY ab.\p"
+	.string "Seegrasulb City ab.\p"
 	.string "Aber ob du ihn dort auch finden wirst?\n"
 	.string "Hehehehehehe…$"
 
@@ -126,11 +126,11 @@ AquaHideout_B2F_Text_Grunt4Defeat:
 	.string "Gedöst und verloren…$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle:
-	.string "BOSS… Reicht das aus?$"
+	.string "Boss… Reicht das aus?$"
 
 AquaHideout_B2F_Text_Grunt6Intro:
 	.string "Teleporter… Der ganze Stolz des\n"
-	.string "VERSTECKs!\p"
+	.string "Verstecks!\p"
 	.string "Du weißt gar nicht mehr, wo du gerade\n"
 	.string "bist, stimmt’s? Kicher…\p"
 	.string "Den Gegner verwirren, ermüden und dann\n"
@@ -142,12 +142,12 @@ AquaHideout_B2F_Text_Grunt6Defeat:
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
 	.string "Da fällt mir ein… Wo habe ich nur den\n"
-	.string "MEISTERBALL hingelegt?\p"
+	.string "Meisterball hingelegt?\p"
 	.string "Wenn ich den verloren habe, zieht mir\n"
-	.string "der BOSS die Ohren lang…$"
+	.string "der Boss die Ohren lang…$"
 
 AquaHideout_B2F_Text_Grunt8Intro:
-	.string "Nachdem ich TEAM AQUA beigetreten war,\n"
+	.string "Nachdem ich Team Aqua beigetreten war,\n"
 	.string "musste ich erstmal lernen, wie diese\l"
 	.string "Teleporter miteinander verbunden sind.$"
 

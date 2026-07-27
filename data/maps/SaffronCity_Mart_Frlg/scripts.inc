@@ -32,12 +32,13 @@ SaffronCity_Mart_Items::
 	end
 
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-	.string "MAX REPEL keeps weaker POKéMON\n"
-	.string "from appearing.\p"
-	.string "MAX REPEL stays effective longer\n"
-	.string "than SUPER REPEL.$"
+	.string "Ich habe auf dem MONDBERG ein\n"
+	.string "seltsames Fossil gefunden!\p"
+	.string "Ich denke, es stammt von einem\n"
+	.string "seltenen URZEIT-POKéMON!$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
-	.string "REVIVE is costly, but it revives\n"
-	.string "fainted POKéMON!$"
+	.string "BELEBER ist zwar teuer, aber\n"
+	.string "besiegte POKéMON werden damit\l"
+	.string "wieder fit!$"
 

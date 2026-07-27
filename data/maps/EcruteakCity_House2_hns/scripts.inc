@@ -2,16 +2,16 @@ EcruteakCity_House2_hns_MapScripts::
 	.byte 0
 
 Ecruteak_Text_ItemfinderAdventure:
-	.string "Ah, suchst du mit\n"
-	.string "deinen Pokémon nach Abenteuern?\p"
-	.string "Was wäre ein Abenteuer\n"
-	.string "ohne eine Schatzsuche?\p"
-	.string "Hab ich Recht oder hab ich Recht?$"
+	.string "Oh, suchst du mit deinem Pokémon-Team\n"
+	.string "nach dem großen Abenteuer?\p"
+	.string "Tja, aber zu einem echten Abenteuer\n"
+	.string "gehört auch immer eine Schatzsuche!\p"
+	.string "Habe ich nicht recht?$"
 
 Ecruteak_Text_ItemfinderTrueSpirit:
-	.string "Gut! Du trägst den\n"
-	.string "wahren Abenteurergeist in dir.\p"
-	.string "Das mag ich! Nimm dies mit dir.$"
+	.string "Aha! Du weißt offensichtlich ganz genau,\n"
+	.string "was Männerherzen höher schlagen lässt!\p"
+	.string "Du gefällst mir! Hier, nimm das mit.$"
 
 Ecruteak_Text_ItemfinderExplanation:
 	.string "Manchmal liegen Items herum,\n"
@@ -26,7 +26,7 @@ Ecruteak_Text_ItemfinderExplanation:
 	.string "CITY Items zu finden wären.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
-	.string "Oh… Jedem das Seine…$"
+	.string "…Na gut, wenn du meinst!$"
 
 EcruteakCity_House2_EventScript_ItemFinderMan::
 	lock
@@ -76,24 +76,29 @@ Ecruteak_Text_ItemFinderMan::
 	.string "stehen in Büchern wie diesem.$"
 
 Ecruteak_Text_HistoryBook:
-	.string "GESCHICHTE VON TEAK CITY\p"
+	.string "Die Geschichte von Teak City…\p"
 	.string "Lesen?$"
 
 Ecruteak_Text_TwoTowers:
-	.string "In TEAK CITY gab es zwei Türme.\p"
-	.string "Jeder Turm war das Zuhause\n"
-	.string "mächtiger fliegender Pokémon.\p"
-	.string "Doch einer der Türme brannte ab.\p"
-	.string "Die beiden Pokémon wurden\n"
-	.string "seitdem nicht mehr gesehen…\p"
+	.string "In Teak City gab es einmal zwei Türme.\n"
+	.string "Jeder der beiden diente einem von zwei\l"
+	.string "fliegenden Pokémon als Landestelle.\p"
+	.string "Doch dann brannte einer dieser Türme\n"
+	.string "ab, und auch die Pokémon verschwanden.\l"
+	.string "So steht es geschrieben.\p"
 	.string "Weiterlesen?$"
 
 Ecruteak_Text_ThreeMon:
-	.string "TEAK CITY war auch die Heimat dreier\n"
-	.string "Pokémon, die durch die Stadt rannten.\p"
-	.string "Es heißt, sie entstanden durch\n"
-	.string "Wasser, Blitz und Feuer.\p"
-	.string "Doch konnten sie ihre Kräfte\n"
-	.string "nicht beherrschen.\p"
-	.string "Also sind sie wie der Wind\n"
-	.string "ins offene Grasland gerannt.$"
+	.string "Drei weitere Pokémon streiften damals\n"
+	.string "durch die nähere Umgebung der Stadt.\p"
+	.string "Die Leute aus Teak City bezeichneten\n"
+	.string "sie als Reinkarnationen der Typen\l"
+	.string "Blitz, Feuer und Wasser.\p"
+	.string "Doch keines von ihnen konnte die\n"
+	.string "überwältigende Macht, die ihnen\l"
+	.string "innewohnte, bändigen.\p"
+	.string "Irgendwann verschwanden sie eins\n"
+	.string "nach dem anderen im hohen Gras,\l"
+	.string "und der Wind trug jedes von ihnen\l"
+	.string "in eine andere Richtung.\p"
+	.string "So steht es geschrieben.$"

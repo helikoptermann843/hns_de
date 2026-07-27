@@ -10,9 +10,8 @@ Route38_EventScript_Officer::
 	end
 
 Route38_Text_EcruteakGateOfficer:
-	.string "Wo sagtest du, kommst du her?\p"
-	.string "NEUBORKIA?\p"
-	.string "PROF. LIND wohnt dort, nicht wahr?\p"
-	.string "Du hast einen langen Weg\n"
-	.string "auf dich genommen,\l"
-	.string "um hierher zu gelangen.$"
+	.string "Sag mal, wo kommst du noch mal her?\p"
+	.string "Was? Aus Neuborkia?!?\p"
+	.string "Aber das ist doch… ja, das ist die\n"
+	.string "Stadt, in der Professor Lind wohnt!\l"
+	.string "Du hast einen weiten Weg hinter dir!$"

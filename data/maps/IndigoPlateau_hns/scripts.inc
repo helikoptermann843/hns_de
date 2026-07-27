@@ -6,6 +6,6 @@ IndigoPlateau_Sign::
 	end
 
 IndigoPlateau_Text_Sign:
-	.string "INDIGO PLATEAU\p"
-	.string "Das Ultimative Ziel Aller Trainer!\p"
-	.string "HAUPTQUARTIER der Pokémon LIGA$"
+	.string "Das Indigo Plateau\p"
+	.string "Das ultimative Ziel aller Trainer!\l"
+	.string "Hauptquartier der Pokémon Liga.$"

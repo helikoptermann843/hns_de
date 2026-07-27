@@ -7,13 +7,14 @@ SSAnne_B1F_Room3_EventScript_Dylan::
 	end
 
 SSAnne_B1F_Room3_Text_DylanIntro::
-	.string "I like feisty kids like you!$"
+	.string "Ich war früher genauso aufgedreht\n"
+	.string "wie du!$"
 
 SSAnne_B1F_Room3_Text_DylanDefeat::
-	.string "Argh!\n"
-	.string "Lost it!$"
+	.string "Oh nein!\n"
+	.string "Verloren!$"
 
 SSAnne_B1F_Room3_Text_DylanPostBattle::
-	.string "Sea POKéMON live in deep water.\n"
-	.string "You'll need a ROD to fish them up!$"
+	.string "Wasser-Pokémon leben unter Wasser!\n"
+	.string "Du benötigst eine Angel!$"
 

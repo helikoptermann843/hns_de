@@ -37,31 +37,29 @@ PokemonTower_1F_EventScript_WorkerF::
 	end
 
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-	.string "POKéMON TOWER was erected in the\n"
-	.string "memory of POKéMON that died.$"
+	.string "Dort liegt ein Fragebogen.\n"
+	.string "Möchtest du ihn ausfüllen?$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
-	.string "son.$"
+	.string "INDIGO PLATEAU\p"
+	.string "Das POKéMON LIGA-HAUPTQUARTIER\n"
+	.string "ist die höchste POKéMON-AUTORITÄT!$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-	.string "Did you come to pay respects?\p"
-	.string "Bless your POKéMON-loving heart,\n"
-	.string "girl.$"
+	.string "INDIGO PLATEAU\p"
+	.string "Das große Ziel aller TRAINER ist\n"
+	.string "die POKéMON LIGA!$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
-	.string "I came to pray for my dearly\n"
-	.string "departed CLEFAIRY.\p"
-	.string "Sniff!\n"
-	.string "I'm awash in tears…$"
+	.string "Ich bete für PIEPI...\p"
+	.string "Schluchz! Ich kann nicht aufhören\n"
+	.string "zu weinen...$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
-	.string "My GROWLITHE…\n"
-	.string "Why did you die?$"
+	.string "FUKANO...\n"
+	.string "Warum hast du mich verlassen?$"
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
-	.string "I am a CHANNELER.\p"
-	.string "There are spirits up to mischief.\n"
-	.string "I sense them high in the TOWER.$"
+	.string "Ich bin eine EXORZISTIN!\n"
+	.string "Die Geister hier stiften Unruhe!$"
 

@@ -19,7 +19,7 @@ AbandonedShip_Corridors_1F_Text_CharlieDefeat:
 	.string "rausgelassen!$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "Es ist gar nicht so einfach, POKéBÄLLe\n"
+	.string "Es ist gar nicht so einfach, PokéBälle\n"
 	.string "zu werfen, wenn man einen\n"
 	.string "Schwimmreifen\l"
 	.string "trägt!$"

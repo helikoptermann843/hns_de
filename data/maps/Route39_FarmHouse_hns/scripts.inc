@@ -80,39 +80,35 @@ Route39_FarmHouse_EventScript_FarmerM_NotEnough::
 	end
 
 Route39_Text_FarmerMSickCow:
-	.string "Mein Miltank gibt keine\n"
-	.string "Milch mehr.\p"
-	.string "Diese FARM ist berühmt für\n"
-	.string "ihre Milch.\p"
-	.string "Fast jeder will was davon.\p"
-	.string "Wenn ich ihm viele BEEREN\n"
-	.string "gebe, gibt es bestimmt\l"
-	.string "wieder reichlich Milch.$"
+	.string "Unser MILTANK gibt keine Milch mehr!\p"
+	.string "Diese Farm ist berühmt für die Milch,\n"
+	.string "die hier produziert wird. Die Leute\l"
+	.string "reißen sich richtiggehend darum!\p"
+	.string "Aber wenn wir dem kranken Pokémon\n"
+	.string "sehr viele Sinelbeeren zu fressen\l"
+	.string "geben, kommt es vielleicht wieder\l"
+	.string "auf die Beine!$"
 
 Route39_Text_FarmerMBuyMilk:
-	.string "Wie findest du meine\n"
-	.string "KUHMUH-MILCH?\p"
-	.string "Darauf bin ich mächtig stolz.\p"
-	.string "Gib sie Pokémon, um KP\n"
-	.string "aufzufüllen!\p"
-	.string "Ich geb sie dir für nur\n"
-	.string "¥500.$"
+	.string "Möchtest du ein bisschen was von der\n"
+	.string "berühmten Milch der Kuhmuh-Farm?\p"
+	.string "Wenn du sie deinen Pokémon zu trinken\n"
+	.string "gibst, werden ihre KP aufgefrischt!\p"
+	.string "Eine Flasche macht nur 500 $!$"
 
 Route39_Text_FarmerMGotMilk:
-	.string "Bitte sehr!\n"
-	.string "Trink sie und genieß es!$"
+	.string "Bitte sehr, trink aus und genieße!$"
 
 Route39_Text_FarmerMNoMoney:
-	.string "Tut mir leid.\n"
-	.string "Ohne Geld kein Handel!$"
+	.string "Oh, dein Geld reicht leider nicht!$"
 
 Route39_Text_FarmerMNoRoom:
 	.string "Hm, dein BEUTEL ist wohl\n"
 	.string "schon voll.$"
 
 Route39_Text_FarmerMNoSale:
-	.string "Du willst sie nicht?\n"
-	.string "Dann komm später wieder!$"
+	.string "Willst du wirklich keine Milch? Na gut,\n"
+	.string "aber komm mal wieder, hörst du?$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
 	.string "Wie wär's mit noch einer?$"
@@ -122,19 +118,19 @@ Route39_Text_GotMilk:
 	.string "KUHMUH-MILCH.$"
 
 Route39_Text_FarmerMMilking:
-	.string "Dann geh ich mal melken.$"
+	.string "Hm, vielleicht sollte ich mal mit dem\n"
+	.string "Melken anfangen…$"
 
 Route39_Text_FarmerFInTrouble:
-	.string "Unsere Milch wird\n"
-	.string "sogar nach KANTO geliefert.\p"
-	.string "Wenn uns unser MILTANK keine\n"
-	.string "Milch mehr gibt,\l"
-	.string "haben wir echte Probleme.$"
+	.string "Unsere Milch wird sogar bis nach\n"
+	.string "Kanto geliefert!\p"
+	.string "Wenn unser MILTANK keine Milch mehr\n"
+	.string "gibt, haben wir also echt Probleme!$"
 
 Route39_Text_FarmerFHealedMiltank:
-	.string "Du hast unserem MILTANK geholfen!\p"
-	.string "Jetzt gibt es wieder Milch!\p"
-	.string "Hier, für deine Mühe.$"
+	.string "Dir haben wir zu verdanken, dass unser\n"
+	.string "MILTANK wieder leckere Milch gibt!\p"
+	.string "Hier, das ist für deine Mühen!$"
 
 Route39_Text_FarmerFSnatchSpeech:
 	.string "Das ist ÜBERNAHME.\p"

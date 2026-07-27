@@ -143,7 +143,7 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "Ein großartiges Gefühl!$"
 
 RustboroCity_Gym_Text_JoshIntro:
-	.string "Unterschätze die TRAINER einer ARENA\n"
+	.string "Unterschätze die Trainer einer Arena\n"
 	.string "nicht! Ich zeige dir, warum wir die\l"
 	.string "Besten sind!$"
 
@@ -152,24 +152,24 @@ RustboroCity_Gym_Text_JoshDefeat:
 
 RustboroCity_Gym_Text_JoshPostBattle:
 	.string "Du hast noch gar nicht gesehen, was\n"
-	.string "GESTEIN-POKéMON alles können.$"
+	.string "Gestein-pokémon alles können.$"
 
 RustboroCity_Gym_Text_TommyIntro:
 	.string "Wenn du mich nicht besiegen kannst,\n"
-	.string "hast du keine Chance gegen FELIZIA.$"
+	.string "hast du keine Chance gegen Felizia.$"
 
 RustboroCity_Gym_Text_TommyDefeat:
 	.string "Wow! Du hast wirklich Talent!$"
 
 RustboroCity_Gym_Text_TommyPostBattle:
-	.string "FELIZIA ist um ein Vielfaches stärker\n"
+	.string "Felizia ist um ein Vielfaches stärker\n"
 	.string "als ich.\p"
 	.string "Du solltest dich besser wappnen!$"
 
 RustboroCity_Gym_Text_MarcIntro:
 	.string "Wir sind hier mitten in einer Stadt,\n"
 	.string "na und?!?\p"
-	.string "Meine GESTEIN-POKéMON müssen sich\n"
+	.string "Meine Gestein-pokémon müssen sich\n"
 	.string "einfach austoben!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
@@ -177,33 +177,33 @@ RustboroCity_Gym_Text_MarcDefeat:
 	.string "ist aber ein lebhaftes Wesen!$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
-	.string "Ich muss es unserer LEITERIN\n"
+	.string "Ich muss es unserer Leiterin\n"
 	.string "überlassen.\p"
 	.string "Sie ist clever und geschickt, da sie\n"
-	.string "in ihrem zarten Alter schon GESTEIN-\l"
-	.string "POKéMON aufzieht.$"
+	.string "in ihrem zarten Alter schon Gestein-\l"
+	.string "Pokémon aufzieht.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
-	.string "Hallo, ich bin FELIZIA, die LEITERIN\n"
-	.string "der ARENA von METAROST CITY.\p"
-	.string "Ich wurde ARENALEITERIN, um mein\n"
-	.string "Wissen, das ich in der POKéMON\n"
-	.string "TRAINER-\l"
-	.string "SCHULE erworben habe, umzusetzen.\p"
+	.string "Hallo, ich bin Felizia, die Leiterin\n"
+	.string "der Arena von Metarost City.\p"
+	.string "Ich wurde Arenaleiterin, um mein\n"
+	.string "Wissen, das ich in der Pokémon\n"
+	.string "Trainer-\l"
+	.string "Schule erworben habe, umzusetzen.\p"
 	.string "Würdest du mir bitte zeigen, wie du\n"
-	.string "kämpfst und mit welchen POKéMON?$"
+	.string "kämpfst und mit welchen Pokémon?$"
 
 RustboroCity_Gym_Text_RoxanneDefeat:
 	.string "So… Ich habe verloren…\p"
 	.string "Es scheint, ich muss noch eine ganze\n"
 	.string "Menge lernen…\p"
 	.string "Ich verstehe schon.\p"
-	.string "Die Regeln der POKéMON LIGA schreiben\n"
-	.string "vor, dass TRAINER, die einen ARENA-\l"
-	.string "LEITER besiegt haben, dieses erhalten.\n"
+	.string "Die Regeln der Pokémon Liga schreiben\n"
+	.string "vor, dass Trainer, die einen Arena-\l"
+	.string "Leiter besiegt haben, dieses erhalten.\n"
 	.string "\p"
-	.string "Bitte nimm den offiziellen POKéMON\n"
-	.string "LIGA STEINORDEN an!$"
+	.string "Bitte nimm den offiziellen Pokémon\n"
+	.string "Liga Steinorden an!$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
 	.string "{PLAYER} hat den STEINORDEN von\n"
@@ -230,10 +230,10 @@ RustboroCity_Gym_Text_ExplainRockTomb:
 
 RustboroCity_Gym_Text_RoxannePostBattle:
 	.string "Da du so stark bist, solltest du auch\n"
-	.string "die anderen ARENALEITER\l"
+	.string "die anderen Arenaleiter\l"
 	.string "herausfordern.\p"
 	.string "Du lernst wertvolle Dinge dazu, wenn\n"
-	.string "du gegen viele TRAINER antrittst.$"
+	.string "du gegen viele Trainer antrittst.$"
 
 RustboroCity_Gym_Text_GymStatue:
 	.string "POKéMON ARENA von METAROST CITY$"
@@ -273,9 +273,9 @@ RustboroCity_Gym_Text_RegisteredRoxanne:
 	.string "POKéNAV-Verzeichnis eingetragen.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
-	.string "FELIZIA: Ich freue mich, dich wieder\n"
-	.string "zu sehen. Ich bin die ARENALEITERIN\l"
-	.string "FELIZIA.\p"
+	.string "Felizia: Ich freue mich, dich wieder\n"
+	.string "zu sehen. Ich bin die Arenaleiterin\l"
+	.string "Felizia.\p"
 	.string "Ich bin sicher, wir beide haben seit\n"
 	.string "unserer letzten Begegnung viele\l"
 	.string "Erfahrungen gesammelt.\p"
@@ -287,19 +287,19 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Ich habe schon wieder verloren…$"
 
 RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "FELIZIA: Ich muss anscheindend noch\n"
-	.string "viel über POKéMON-Kämpfe lernen.\p"
+	.string "Felizia: Ich muss anscheindend noch\n"
+	.string "viel über Pokémon-Kämpfe lernen.\p"
 	.string "Aber genau deshalb liebe ich das\n"
 	.string "Kämpfen um so mehr.$"
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
-	.string "FELIZIA: Ich freue mich, dich wieder\n"
-	.string "zu sehen. Ich bin die ARENALEITERIN\l"
-	.string "FELIZIA.\p"
+	.string "Felizia: Ich freue mich, dich wieder\n"
+	.string "zu sehen. Ich bin die Arenaleiterin\l"
+	.string "Felizia.\p"
 	.string "Ich bin sicher, wir beide haben seit\n"
 	.string "unserer letzten Begegnung viele\l"
 	.string "Erfahrungen gesammelt.\p"
 	.string "Oh… Schade!\n"
-	.string "Du hast ja nur ein POKéMON dabei!\p"
+	.string "Du hast ja nur ein Pokémon dabei!\p"
 	.string "Bitte komm doch wieder, wenn du\n"
 	.string "mindestens zwei dabei hast.$"

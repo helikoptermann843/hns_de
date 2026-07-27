@@ -271,46 +271,48 @@ EventScript_EggHatch::
 	end
 
 Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "I'm the DAY-CARE MAN.\p"
-	.string "I help take care of the precious\n"
-	.string "POKéMON of TRAINERS.\p"
-	.string "If you'd like me to raise your POKéMON,\n"
-	.string "have a word with my wife.$"
+	.string "Ich bin der PENSIONSLEITER.\p"
+	.string "Ich kümmere mich um die wertvollen\n"
+	.string "POKéMON der TRAINER.\p"
+	.string "Wenn ich eines deiner POKéMON auf-\n"
+	.string "ziehen soll, sprich mit meiner Frau.$"
 
 Route117_Text_DoYouWantEgg:
-	.string "Ah, it's you!\p"
-	.string "We were raising your POKéMON,\n"
-	.string "and my goodness, were we surprised!\p"
-	.string "Your POKéMON had an EGG!\p"
-	.string "We don't know how it got there,\n"
-	.string "but your POKéMON had it.\p"
-	.string "You do want it, yes?$"
+	.string "Ach, du bist es!\p"
+	.string "Wir haben deine POKéMON aufgezogen\n"
+	.string "und wurden überrascht!\p"
+	.string "Deine POKéMON haben nun ein EI!\p"
+	.string "Wir wissen nicht, wie das passiert\n"
+	.string "ist, aber deine POKéMON haben es.\p"
+	.string "Möchtest du es haben?$"
 
 Route117_Text_YourMonIsDoingFine:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your {STR_VAR_1}'s doing fine.$"
+	.string "Ach, du bist es! Schön, dich zu\n"
+	.string "sehen. Deinem {VAR} geht es\l"
+	.string "sehr gut.$"
 
 Route117_Text_IllKeepIt:
 	.string "Well then, I'll keep it.\n"
 	.string "Thanks!$"
 
 Route117_Text_YouHaveNoRoomForIt:
-	.string "You have no room for it…\n"
-	.string "Come back when you've made room.$"
+	.string "Du hast keinen Platz dafür... \n"
+	.string "Komm wieder, wenn du Platz\l"
+	.string "geschaffen hast.$"
 
 Route117_Text_ReceivedEgg:
-	.string "{PLAYER} received the EGG from\n"
-	.string "the DAY-CARE MAN.$"
+	.string "{PLAYER} erhält das EI vom\n"
+	.string "PENSIONSLEITER.$"
 
 Route117_Text_TakeGoodCareOfIt:
-	.string "Take good care of it.$"
+	.string "Kümmere dich gut darum.$"
 
 Route117_Text_FriendlyWithOtherTrainersMon:
-	.string "By the way, about your {STR_VAR_1},\n"
-	.string "it seemed to be friendly with\l"
-	.string "{STR_VAR_2}'s {STR_VAR_3}.\p"
-	.string "I may even have seen it receiving\n"
-	.string "a piece of MAIL.$"
+	.string "Übrigens, dein {STR_VAR_1} scheint sich\n"
+	.string "gut mit dem {STR_VAR_3} von {STR_VAR_2} \l"
+	.string "zu verstehen.\p"
+	.string "Ich habe gesehen, wie sie einen BRIEF\n"
+	.string "ausgetauscht haben…$"
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
@@ -318,97 +320,99 @@ Route117_Text_SeeWifeIfYouWantToPickUpMon:
 	.string "have a word with my wife.$"
 
 Route117_Text_YourMonsAreDoingFine:
-	.string "Ah, it's you! Your {STR_VAR_1} and\n"
-	.string "{STR_VAR_2} are doing fine.$"
+	.string "Ah, du bist es! Deine POKéMON\n"
+	.string "{VAR} und {VAR}\l"
+	.string "entwickeln sich prächtig.$"
 
 Route117_Text_IWillKeepDoYouWantIt:
-	.string "I really will keep it.\n"
-	.string "You do want this, yes?$"
+	.string "Ich werde es behalten.\n"
+	.string "Oder möchtest du es haben?$"
 
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "I'm the DAY-CARE LADY.\p"
-	.string "We can raise POKéMON for you.\p"
-	.string "Would you like us to raise one?$"
+	.string "Ich bin die PENSIONSLEITERIN.\p"
+	.string "Wir ziehen POKéMON für dich auf.\p"
+	.string "Sollen wir eines aufziehen?$"
 
 Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
-	.string "Which POKéMON should we raise for\n"
-	.string "you?$"
+	.string "Welches POKéMON sollen wir für\n"
+	.string "dich aufziehen?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
-	.string "Fine, we'll raise your {STR_VAR_1}\n"
-	.string "for a while.\p"
-	.string "Come back for it later.$"
+	.string "Fein, dann nehmen wir dein\n"
+	.string "{VAR} für eine Weile in\l"
+	.string "Pflege. Schau später nach ihm.$"
 
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
-	.string "We can raise two of your POKéMON.\n"
-	.string "Would you like us to raise one more?$"
+	.string "Wir können zwei deiner POKéMON nehmen.\n"
+	.string "Möchtest du noch eins in Pflege geben?$"
 
 Route117_PokemonDayCare_Text_HusbandWasLookingForYou:
-	.string "My husband was looking for you.$"
+	.string "Mein Mann hat dich schon gesucht.$"
 
 Route117_PokemonDayCare_Text_FineThenComeAgain:
 	.string "Oh, fine, then.\n"
 	.string "Come again.$"
 
 Route117_PokemonDayCare_Text_NotEnoughMoney:
-	.string "You don't have enough money…$"
+	.string "Du hast nicht genug Geld...$"
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
-	.string "Will you take back the other one,\n"
-	.string "too?$"
+	.string "Möchtest du das andere auch wieder\n"
+	.string "mitnehmen?$"
 
 Route117_PokemonDayCare_Text_ComeAgain:
 	.string "Fine.\n"
 	.string "Come again.$"
 
 Route117_PokemonDayCare_Text_GoodToSeeYou:
-	.string "Ah, it's you! Good to see you.\n"
-	.string "Your POKéMON can only be doing good!$"
+	.string "Ach, du bist es! Schön dich zu\n"
+	.string "sehen. Deinen POKéMON kann es\l"
+	.string "einfach nur gut gehen!$"
 
 Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
-	.string "By level, your {STR_VAR_1} has\n"
-	.string "grown by {STR_VAR_2}.$"
+	.string "Dein {VAR} ist um {VAR} Level\n"
+	.string "gewachsen.$"
 
 Route117_PokemonDayCare_Text_YourTeamIsFull:
-	.string "Your POKéMON team is full.\n"
-	.string "Make room, then come see me.$"
+	.string "Dein POKéMON-Team ist vollzählig.\n"
+	.string "Schaffe Platz und komm dann wieder.$"
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
 	.string "Which POKéMON will you take back?$"
 
 Route117_PokemonDayCare_Text_ItWillCostX:
-	.string "If you want your {STR_VAR_1} back,\n"
-	.string "it will cost ¥{STR_VAR_2}.$"
+	.string "Wenn du dein {VAR} mitnehmen\n"
+	.string "willst, kostet das {VAR}¥.$"
 
 Route117_PokemonDayCare_Text_HeresYourMon:
-	.string "Perfect!\n"
-	.string "Here's your POKéMON.$"
+	.string "Sehr schön!\n"
+	.string "Hier ist dein POKéMON!$"
 
 Route117_PokemonDayCare_Text_TookBackMon:
-	.string "{PLAYER} took back {STR_VAR_1} from\n"
-	.string "the DAY-CARE LADY.$"
+	.string "{VAR} hat {VAR} von der\n"
+	.string "PENSIONSLEITERIN zurückerhalten.$"
 
 Route117_PokemonDayCare_Text_YouHaveJustOneMon:
-	.string "Oh? But you have just one\n"
-	.string "POKéMON.\p"
-	.string "Come back another time.$"
+	.string "Oh! Du hast aber nur ein POKéMON.\p"
+	.string "Komm einfach später wieder.$"
 
 Route117_PokemonDayCare_Text_TakeYourMonBack:
-	.string "Will you take your POKéMON back?$"
+	.string "Möchtest du dein POKéMON wieder\n"
+	.string "mitnehmen?$"
 
 Route117_PokemonDayCare_Text_WhatWillYouBattleWith:
-	.string "If you leave me that POKéMON,\n"
-	.string "what will you battle with?\p"
-	.string "Come back another time.$"
+	.string "Wenn du das POKéMON hier lässt,\n"
+	.string "womit willst du denn dann kämpfen?\p"
+	.string "Komm einfach später wieder.$"
 
 Text_EggHatchHuh:
 	.string "Huh?$"
 
 Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
-	.string "Huh?\n"
-	.string "Now, now.\p"
-	.string "If you leave that POKéMON with\n"
-	.string "me, you'll be left with just one.\p"
-	.string "You will be better off if you catch\n"
-	.string "some more, I dare say.$"
+	.string "Bitte?\n"
+	.string "Aber, aber…\p"
+	.string "Wenn du das POKéMON bei mir lässt, dann\n"
+	.string "hast du ja nur noch ein einziges bei dir!\p"
+	.string "Fang doch einfach ein paar POKéMON,\n"
+	.string "dann sehen wir weiter.$"

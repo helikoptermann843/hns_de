@@ -12,15 +12,14 @@ Gate_SaffronCity_Route6_EventScript_Guard2::
 	end
 
 Route6_Text_SaffronGuardWelcome:
-	.string "Willkommen in\n"
-	.string "SAFFRONIA CITY, der Heimat des\n"
-	.string "MAGNETZUGs!\p"
-	.string "…Das sage ich sonst immer, aber\p"
-	.string "der MAGNETZUG fährt momentan nicht.\p"
-	.string "Die Stromzufuhr ist unterbrochen,\p"
-	.string "weil es im KRAFTWERK ein\p"
-	.string "Problem gibt.$"
+	.string "Willkommen in Saffronia City,\n"
+	.string "der Heimat des Magnetzugs!\p"
+	.string "…Das sage ich sonst immer, aber\n"
+	.string "der Magnetzug fährt gerade nicht.\p"
+	.string "Die Stromzufuhr ist unterbrochen,\n"
+	.string "weil es im Kraftwerk einen\l"
+	.string "Unfall gab.$"
 
 Route6_Text_SaffronGuardMagnetTrain:
-	.string "Der MAGNETZUG ist das Aushängeschild\p"
-	.string "von SAFFRONIA CITY.$"
+	.string "Der Magnetzug ist und bleibt das\n"
+	.string "Aushängeschild von Saffronia City!$"

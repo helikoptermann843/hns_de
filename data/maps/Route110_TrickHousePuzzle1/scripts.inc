@@ -37,15 +37,15 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
+	.string "{PLAYER} hat den geheimen Code auf die\n"
+	.string "Tür geschrieben.\p"
+	.string "“RÄTSELMEISTER ist sagenhaft.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Das Schloss geht klickend auf.$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
 	.string "Ich habe mir den Weg zum Sieg mit dem\n"
-	.string "ZERSCHNEIDER, den wir gerade gelernt\l"
+	.string "Zerschneider, den wir gerade gelernt\l"
 	.string "haben, gebahnt.$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
@@ -69,7 +69,7 @@ Route110_TrickHousePuzzle1_Text_EddiePostBattle:
 	.string "Ausgang nicht mehr…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Wer ist dieser RÄTSELMEISTER bloß?$"
+	.string "Wer ist dieser Rätselmeister bloß?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
 	.string "Ich verlor ganz gedankenverloren.$"

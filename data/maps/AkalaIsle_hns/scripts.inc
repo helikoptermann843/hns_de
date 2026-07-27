@@ -458,7 +458,7 @@ Alola_Akala_Totem_sign_Text_3:
 	.string "Poni Isle$"
 
 Alola_Akala_Totem_sign_Text_4:
-	.string "Cancel$"
+	.string "ZURÜCK$"
 
 Alola_Akala_Totem_sign_Text_5:
 	.string "A strange totem stands here,\n"

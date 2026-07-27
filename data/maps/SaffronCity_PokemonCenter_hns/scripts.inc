@@ -23,18 +23,18 @@ SaffronCity_PokemonCenter_EventScript_Youngster::
 	end
 
 SaffronCity_PokemonCenter1F_Text_Teacher:
-	.string "Wie sehen die\n"
-	.string "Pokémon-CENTER in JOHTO aus?\p"
-	.string "…Oh, aha. Sie unterscheiden sich\n"
-	.string "kaum von denen in KANTO.\p"
-	.string "Ich kann also nach\n"
-	.string "JOHTO gehen, ohne mich zu sorgen!$"
+	.string "Wie sehen eigentlich die\n"
+	.string "Pokémon-Center in Johto aus?\p"
+	.string "…Oh, aha. Sie unterscheiden sich also\n"
+	.string "nicht so sehr von denen in Kanto…\p"
+	.string "Dann sage ich meinem Kumpel aus Johto,\n"
+	.string "dass er ein MARILL fangen und es mit\l"
+	.string "mir tauschen soll!$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher:
-	.string "Ich bin gerade\n"
-	.string "durch den FELSTUNNEL gekommen.\p"
-	.string "Da war irgendetwas\n"
-	.string "im Gange beim KRAFTWERK.$"
+	.string "Ich bin gerade durch den Felstunnel\n"
+	.string "gekommen. In der Umgebung vom\l"
+	.string "Kraftwerk war irgendetwas im Gange…$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
 	.string "Die Höhlen stürzen leicht ein.\p"
@@ -45,6 +45,6 @@ SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
 	.string "WANDERER ist das Grundwissen.$"
 
 SaffronCity_PokemonCenter1F_Text_Youngster:
-	.string "Die ZENTRALE von SILPH CO. und der\n"
-	.string "MAGNETZUG-BAHNHOF sind sehenswürdige\l"
-	.string "Orte in SAFFRONIA CITY.$"
+	.string "Saffronia City ist berühmt für die\n"
+	.string "Zentrale der Silph Co. und den\l"
+	.string "Magnetzug-Bahnhof!$"

@@ -115,10 +115,10 @@ PokemonLeague_WillsRoom_Text_Defeat:
 	.string "Ich werde weiter kämpfen, bis ich über\n"
 	.string "allen Trainern stehe!\p"
 	.string "Nun, {PLAYER}, greif an und erlebe\n"
-	.string "die wahre Kraft der ELITE VIER.$"
+	.string "die wahre Kraft der Elite Vier.$"
 
 PokemonLeague_WillsRoom_Text_RematchBefore:
-	.string "WILLI: Ah, willkommen zurück.\p"
+	.string "Willi: Ah, willkommen zurück.\p"
 	.string "Ich habe diese Begegnung vorausgesehen\p"
 	.string "Meine Psycho-Pokémon und ich haben\n"
 	.string "uns weiterentwickelt und\l"

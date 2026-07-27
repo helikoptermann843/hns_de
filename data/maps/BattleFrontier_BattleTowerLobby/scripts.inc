@@ -1082,8 +1082,7 @@ BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
-	.string "Please select the POKéMON you wish\n"
-	.string "to enter.$"
+	.string "Bitte Pokémon auswählen.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
 	.string "Bevor du einen KAMPFRAUM betrittst,\n"
@@ -1385,8 +1384,8 @@ BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
 
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
 	.string "Herzlichen Glückwunsch!\n"
-	.string "Du hast den KAMPFKOLOSS und\l"
-	.string "sechs TRAINER in Folge besiegt!$"
+	.string "Du hast den Kampfkoloss und\l"
+	.string "sechs Trainer in Folge besiegt!$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "In Anerkennung deines herausragenden\n"

@@ -21,14 +21,13 @@ GoldenrodUnderground_EventScript_Teacher::
 	end
 
 GoldenrodUnderground1_Text_SuperNerd:
-	.string "Unten hat mich jemand zum\n"
-	.string "Kampf herausgefordert.\p"
-	.string "Es geht dort echt hart zu.\n"
-	.string "Du solltest vorsichtig sein.$"
+	.string "Uff… ich habe unten in der Passage\n"
+	.string "einen Pokémon-Kampf angezettelt, aber\l"
+	.string "dabei ziemlich auf die Mütze gekriegt.\l"
+	.string "Sei besser auf dem, äh, der Hut!$"
 
 
 GoldenrodUnderground1_Text_Teacher:
-	.string "Unten gibt es ein paar Läden…\n"
-	.string "aber auch Trainer.\p"
-	.string "Ich habe Angst, dort\n"
-	.string "hinunterzugehen.$"
+	.string "Unten in der Passage gibt es Geschäfte!\p"
+	.string "Aber da lungern so viele Trainer herum,\n"
+	.string "dass ich mich nicht hinuntertraue.$"

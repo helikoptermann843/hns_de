@@ -22,8 +22,8 @@ TohjoFalls_GiovanniRoom_EventScript_Radio::
 	end
 
 TohjoFalls_GiovanniRoom_Text_RadioObject::
-	.string "A radio...\n"
-	.string "The battery is dead...$"
+	.string "Ein Radio…\n"
+	.string "Die Batterie ist leer…$"
 
 TohjoFalls_GiovanniRoom_CancelScene::
 	setvar VAR_TOHJO_FALLS_GIOVANNI_STATE, 0
@@ -218,13 +218,13 @@ TohjoFalls_GiovanniRoom_Text_GiovanniBeforeBattle:
 	.string "Jahren nicht wiederholen!$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniDefeat:
-	.string "Was bist du überhaupt?$"
+	.string "Wer oder was bist du?$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniAfter:
-	.string "Giovanni: Wie ist das möglich...?\n"
-	.string "Die letzten drei Jahre waren\l"
-	.string "verschwendet...?\p"
-	.string "Wie kann ein Kind wie du meinen\n"
-	.string "Traum erneut zerstören?\p"
-	.string "Der kostbare Traum von TEAM ROCKET\n"
-	.string "ist kaum mehr als eine Illusion...$"
+	.string "Giovanni: W-wie kann das sein?!?\p"
+	.string "Sollen die letzten drei Jahre etwa\n"
+	.string "umsonst gewesen sein?\p"
+	.string "Schon wieder macht mir so ein Naseweis\n"
+	.string "einen Strich durch die Rechnung!\p"
+	.string "Team Rocket… mein großer Traum\n"
+	.string "ist geplatzt. Es ist alles vorbei…$"

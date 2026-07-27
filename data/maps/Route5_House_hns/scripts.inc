@@ -19,17 +19,17 @@ Route5_House_EventScript_Woman::
 	end
 
 Route5_House_Text_Granny1:
-	.string "Eeyaaaah!\p"
-	.string "Ich spüre einen unheilvollen\n"
-	.string "Schatten über dir.\l"
-	.string "Nimm dies, um ihn zu vertreiben!$"
+	.string "Huaaah!\p"
+	.string "Ich spüre einen dunklen Schatten\n"
+	.string "über dir hängen!\l"
+	.string "Verwende dies, um ihn loszuwerden!$"
 
 Route5_House_Text_Granny2:
-	.string "Du warst in großer Gefahr,\n"
-	.string "doch nun bist du geschützt.$"
+	.string "Das war echt gefährlich!\n"
+	.string "Jetzt bist du in Sicherheit!$"
 
 Route5_House_Text_Woman:
-	.string "Meine Oma vertreibt böse Geister,\n"
-	.string "so wie sie glaubt.\p"
-	.string "Entschuldige, dass sie dich\n"
-	.string "erschreckt hat.$"
+	.string "Meine Oma befasst sich mit dem\n"
+	.string "Vertreiben böser Geister.\l"
+	.string "Es tut mir leid, wenn sie dich\l"
+	.string "erschreckt haben sollte.$"

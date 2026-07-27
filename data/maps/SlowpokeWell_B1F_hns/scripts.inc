@@ -81,37 +81,38 @@ SlowpokeWell_B1F_Movement_Kurt:
 	step_end
 
 SlowpokeWell_B1F_Text_KurtIntro:
-	.string "KURT: Hallo! {PLAYER}!\p"
-	.string "Die Wache da oben ist weggelaufen,\n"
-	.string "als ich ihn anschrie\p"
-	.string "Aber dann bin ich in den\n"
-	.string "Brunnen gefallen.\p"
-	.string "Ich bin so hart auf meinem Rücken\n"
-	.string "gelandet, dass ich mich nicht mehr\l"
-	.string "bewegen kann.\p"
-	.string "Mist! Wenn ich fit wäre, würden\n"
-	.string "meine Pokémon sie bestrafen…\p"
-	.string "Ah, kann man nichts machen.\p"
-	.string "{PLAYER}, zeig ihnen, wie mutig\n"
-	.string "du bist. Tu es für mich!$"
+	.string "Kurt: Oh, du bist es, {PLAYER}.\p"
+	.string "Die Wache oben hat sofort\n"
+	.string "das Weite gesucht, als ich sie\l"
+	.string "zusammengeschrien habe…\p"
+	.string "Aber ich bin in den Brunnen gefallen\n"
+	.string "und habe mir die Hüfte geprellt.\l"
+	.string "Tja, und jetzt sitze ich hier fest.\p"
+	.string "Verflixt… wenn ich nur laufen könnte,\n"
+	.string "würde ich diese Typen mit meinen\l"
+	.string "Pokémon zu Kleinholz verarbeiten…\p"
+	.string "Aber es nützt nichts, {PLAYER}!\n"
+	.string "Du wirst ihnen an meiner Stelle zeigen\l"
+	.string "müssen, was ein wahrer Trainer ist!$"
 
 SlowpokeWell_B1F_Text_KurtAfter:
-	.string "KURT: Sehr schön, {PLAYER}!\p"
-	.string "TEAM ROCKET ist geflohen.\p"
-	.string "Meinem Rücken geht es auch.\n"
-	.string "schon besser.\p"
-	.string "Lass uns rausgehen.$"
+	.string "Kurt: Gute Arbeit, {PLAYER}!\n"
+	.string "Die Typen von Team Rocket\l"
+	.string "haben Reißaus genommen!\p"
+	.string "Meiner Hüfte geht es auch\n"
+	.string "wieder besser. Lass uns gehen.$"
 
 SlowpokeWell_B1F_Text_GruntM29Seen:
-	.string "Verdammt! Ich stand oben Wache,\n"
-	.string "als ein alter Knacker mich anschrie.\p"
-	.string "Er hat mich so erschreckt, dass\n"
-	.string "ich hier heruntergefallen bin.\p"
-	.string "Jetzt werde ich meinen Ärger an\n"
-	.string "dir auslassen!$"
+	.string "Verflixt! Ich habe oben Wache gehalten,\n"
+	.string "und da kam dieser halbwahnsinnige Opa.\p"
+	.string "Urplötzlich gibt es einen Schrei, und er\n"
+	.string "springt einfach in den Brunnenschacht.\p"
+	.string "Egal. Dann reagiere ich meinen\n"
+	.string "Frust eben an dir ab!$"
 
 SlowpokeWell_B1F_Text_GruntM29Beaten:
-	.string "Arrgh! Das ist nicht mein Tag!$"
+	.string "Aaargh! Heute ist\n"
+	.string "NICHT mein Tag!$"
 
 SlowpokeWell_B1F_Text_GruntM29After:
 	.string "Klar, wir hacken Flegmon-Ruten\n"
@@ -131,15 +132,17 @@ SlowpokeWell_B1F_Text_ProtonBeaten:
 	.string "aber warte nur bis zum nächsten Mal!$"
 
 SlowpokeWell_B1F_Text_ProtonAfter:
-	.string "Ja, TEAM ROCKET wurde vor drei\n"
-	.string "Jahren aufgelöst.\p"
-	.string "Der Boss ging ins Exil.\p"
-	.string "Aber wir setzten unsere Aktivitäten\n"
-	.string "heimlich fort!\p"
-	.string "Ein kleines Hindernis wie du\n"
-	.string "stellt für uns kein Problem dar.\p"
-	.string "Ich rate dir, Angst vor dem zu\n"
-	.string "haben, was kommt!$"
+	.string "Lance: …Hehehe!\n"
+	.string "Ja, es stimmt. Team Rocket wurde\l"
+	.string "vor drei Jahren zerschlagen.\p"
+	.string "Aber wir haben unsere Arbeit still\n"
+	.string "und leise im Untergrund fortgesetzt.\p"
+	.string "Du kannst uns vielleicht das Leben\n"
+	.string "schwer machen, aber aufhalten wirst\l"
+	.string "du uns niemals!\p"
+	.string "Alles, was du tun kannst, ist in\n"
+	.string "Schrecken auf das zu warten,\l"
+	.string "was wir weiter im Schilde führen!$"
 
 SlowpokeWell_B1F_Text_GruntM2Seen:
 	.string "Hyuck-hyuck-hyuck!\n"
@@ -152,9 +155,10 @@ SlowpokeWell_B1F_Text_GruntM2Beaten:
 	.string "Hyuck… Zu stark…$"
 
 SlowpokeWell_B1F_Text_GruntM2After:
-	.string "Wir brauchen das Geld,\n"
-	.string "aber FLEGMONRUTEN verkaufen?\p"
-	.string "Schwer, ein ROCKET-Gehilfe zu sein!$"
+	.string "Ich sehe ja ein, wir brauchen das Geld.\n"
+	.string "Aber mit FLEGMON-Ruten?\p"
+	.string "Wir Rocket-Rüpel haben es\n"
+	.string "auch nicht leicht…$"
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
 	.string "Aufhören, FLEGMONRUTEN zu klauen?\p"
@@ -162,7 +166,7 @@ SlowpokeWell_B1F_Text_GruntF1Seen:
 	.string "aufzuhalten!$"
 
 SlowpokeWell_B1F_Text_GruntF1Beaten:
-	.string "Du elendes Gör!$"
+	.string "Du vorlautes Balg!$"
 
 SlowpokeWell_B1F_Text_GruntF1After:
 	.string "FLEGMONRUTEN wachsen schnell nach!\p"
@@ -170,15 +174,15 @@ SlowpokeWell_B1F_Text_GruntF1After:
 	.string "sie zu verkaufen?$"
 
 SlowpokeWell_B1F_Text_SlowpokeWithMail:
-	.string "Ein FLEGMON mit abgetrennter RUTE…\p"
-	.string "Huh? Es trägt\n"
-	.string "einen BRIEF. BRIEF lesen?$"
+	.string "Ein FLEGMON mit abgetrennter Rute…\n"
+	.string "Huch? Es trägt einen Brief bei sich.\p"
+	.string "Willst du ihn lesen?$"
 
 SlowpokeWell_B1F_Text_SlowpokeMail:
-	.string "{PLAYER} liest den BRIEF.\p"
-	.string "Sei so lieb und kümmere dich bitte\n"
-	.string "um Opa und das FLEGMON.\p"
-	.string "Danke, Papa$"
+	.string "{PLAYER} liest den Brief.\p"
+	.string "Bitte kümmere dich gut um Opa und\n"
+	.string "das FLEGMON, während ich weg bin.\l"
+	.string "Danke, dein Papa$"
 
 SlowpokeWell_B1F_Text_TaillessSlowpoke:
-	.string "Ein FLEGMON mit abgetrennter RUTE…$"
+	.string "Ein FLEGMON mit abgetrennter Rute…$"

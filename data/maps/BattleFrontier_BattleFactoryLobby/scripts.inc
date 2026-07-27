@@ -454,7 +454,7 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
-	.string "Glückwunsch! Du hast den FABRIKLEITER\n"
+	.string "Glückwunsch! Du hast den Fabrikleiter\n"
 	.string "besiegt und sechs Kämpfe\l"
 	.string "in Folge gewonnen!$"
 

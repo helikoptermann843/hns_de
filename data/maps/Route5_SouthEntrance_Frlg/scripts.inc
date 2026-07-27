@@ -84,28 +84,29 @@ Route5_SouthEntrance_Movement_BlockPlayerEntry::
 	step_end
 
 Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
-	.string "I'm on guard duty.\n"
-	.string "Gee, I'm thirsty, though!\p"
-	.string "Oh, wait there, the road's closed.$"
+	.string "Ich schiebe hier Wache.\n"
+	.string "Ohhh... ich bin so durstig...\p"
+	.string "Halt! Stopp!\n"
+	.string "Der Durchgang ist gesperrt!$"
 
 Route5_SouthEntrance_Text_ThatTeaLooksTasty::
-	.string "Oh, that TEA…\n"
-	.string "It looks awfully tasty…$"
+	.string "Oh, dieser TEE…\n"
+	.string "Er riecht so lecker…$"
 
 Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
-	.string "Huh? I can have this drink?\n"
-	.string "Gee, thanks!\l"
-	.string "… …\l"
-	.string "Glug, glug…\l"
-	.string "… …\l"
-	.string "Gulp…\l"
-	.string "If you want to go to SAFFRON\l"
-	.string "CITY…\l"
-	.string "… …\l"
-	.string "You can go on through.\p"
-	.string "I'll share this TEA with the other\n"
-	.string "guards!$"
+	.string "Häh? Ich kann ihn haben?\n"
+	.string "Wow, das ist nett, danke!\l"
+	.string "……\l"
+	.string "Gluck, gluck…\l"
+	.string "……\l"
+	.string "Schluck…\l"
+	.string "Falls du nach SAFFRONIA CITY\l"
+	.string "möchtest…\l"
+	.string "……\l"
+	.string "Dann darfst du passieren.\p"
+	.string "Ich teile den TEE mit den anderen\n"
+	.string "Wächtern!$"
 
 Route5_SouthEntrance_Text_HiHowsItGoing::
-	.string "Hi, how's it going?$"
+	.string "Hallo! Danke für die Erfrischung!$"
 

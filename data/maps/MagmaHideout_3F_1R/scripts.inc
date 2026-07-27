@@ -28,8 +28,8 @@ MagmaHideout_3F_1R_Text_Grunt16Intro:
 	.string "Wir haben uns zusammengeschlossen,\n"
 	.string "damit seine fantastische Vision\l"
 	.string "Wirklichkeit wird.\p"
-	.string "Es ist mir schnurzegal, ob du zu TEAM\n"
-	.string "AQUA gehörst oder einfach nur ein Kind\l"
+	.string "Es ist mir schnurzegal, ob du zu Team\n"
+	.string "Aqua gehörst oder einfach nur ein Kind\l"
 	.string "bist, das hier vorbeikommt.\p"
 	.string "Niemand mischt sich in unsere Belange\n"
 	.string "ein und kommt ungeschoren davon!$"
@@ -41,7 +41,7 @@ MagmaHideout_3F_1R_Text_Grunt16Defeat:
 
 MagmaHideout_3F_1R_Text_Grunt16PostBattle:
 	.string "Hör zu!\n"
-	.string "TEAM MAGMA hat Recht!\p"
-	.string "Hör nicht auf TEAM AQUA!\n"
+	.string "Team Magma hat Recht!\p"
+	.string "Hör nicht auf Team Aqua!\n"
 	.string "Glaub ihren Lügen nicht.$"
 

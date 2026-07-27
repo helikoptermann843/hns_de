@@ -20,10 +20,10 @@ SeafloorCavern_Room1_Text_Grunt1Defeat:
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
 	.string "Ich möchte befördert werden, dann kann\n"
-	.string "ich all die RÜPEL herumkommandieren!$"
+	.string "ich all die Rüpel herumkommandieren!$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "Dieses U-Boot… Es ist sehr eng.\n"
+	.string "Dieses U-boot… Es ist sehr eng.\n"
 	.string "Ich habe deshalb überall blaue\l"
 	.string "Flecken.$"
 
@@ -32,7 +32,7 @@ SeafloorCavern_Room1_Text_Grunt2Defeat:
 	.string "Muskelkater!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "Das U-Boot, das wir aufgetrieben\n"
+	.string "Das U-boot, das wir aufgetrieben\n"
 	.string "haben,\n"
 	.string "ist fürchterlich eng. Brutal eng, sage\l"
 	.string "ich. Man stößt sich überall den Kopf.$"

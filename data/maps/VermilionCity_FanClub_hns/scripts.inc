@@ -80,13 +80,14 @@ VermilionCity_FanClub_EventScript_Bayleef::
 
 
 PokemonFanClub_Text_Chairman_Intro:
-	.string "Ich bin der Präsident vom\n"
-	.string "POKéMON FANCLUB.\p"
-	.string "Ich habe über 150 POKéMON.\n"
-	.string "aufgezogen.\p"
-	.string "Ich liebe POKéMON über alles.\p"
-	.string "Bist du gekommen um von mir\n"
-	.string "mehr über POKéMON zu hören?$"
+	.string "Ich bin der Vorsitzende des\n"
+	.string "Pokémon Fan Clubs!\p"
+	.string "Ich habe schon mehr als 150\n"
+	.string "Pokémon trainiert!\p"
+	.string "Ach, ich könnte einfach stundenlang\n"
+	.string "über Pokémon reden…\p"
+	.string "Möchtest du eine meiner\n"
+	.string "tollen Pokémon-Geschichten hören?$"
 
 PokemonFanClub_Text_Chairman_Rapidash:
 	.string "Gut! Dann hör zu!\p"
@@ -110,27 +111,29 @@ PokemonFanClub_Text_Chairman_Gift:
 	.string "Ich möchte dir etwas geben!$"
 
 PokemonFanClub_Text_Chairman_Candy:
-	.string "Das SONDERBONBON\n"
-	.string "macht Pokémon stärker.\p"
-	.string "Meine Pokémon sollen lieber\n"
-	.string "durch ihre Kämpfe\l"
-	.string "stärker werden. Du kannst es haben.$"
+	.string "Dieses Sonderbonbon macht\n"
+	.string "schlaffe Pokémon fit!\p"
+	.string "Aber meine Pokémon sollen lieber\n"
+	.string "durch Kämpfe stark werden.\p"
+	.string "Du kannst es also haben!$"
 
 PokemonFanClub_Text_Chairman_MoreTales:
-	.string "Hallo!\p"
-	.string "Besuchst du mich\n"
-	.string "wieder wegen meiner Pokémon?\p"
-	.string "Nein? Oh… Ich\n"
-	.string "hätte noch so viele Geschichten…$"
+	.string "Oh, hallo {PLAYER}!\p"
+	.string "Bist du hier, um ein paar neue\n"
+	.string "wunderbare Geschichten über mich\l"
+	.string "und meine Pokémon zu hören?\p"
+	.string "Nein? Echt nicht? Hm, zu schade…\n"
+	.string "Du bist so ein Langweiler…\n$"
 
 PokemonFanClub_Text_Chairman_Disappointed:
-	.string "Schade…\p"
-	.string "Komm wieder, wenn du mehr\p"
-	.string "Geschichten hören möchtest.$"
+	.string "Du bist echt ein Langweiler…\p"
+	.string "Komm wieder, wenn du das Bedürfnis\n"
+	.string "verspürst, doch eine meiner\l"
+	.string "wunderbaren Geschichten zu hören!$"
 
 PokemonFanClub_Text_Receptionist:
-	.string "Unser VORSITZENDER\n"
-	.string "ist sehr redselig in Bezug auf - MON…$"
+	.string "Unser Vorsitzender ist wirklich sehr\n"
+	.string "redselig, wenn es um Pokémon geht.$"
 
 @=Clefairy=Guy=========================================================================================================
 PokemonFanClub_Text_ClefairyGuy_Adorable:
@@ -138,35 +141,39 @@ PokemonFanClub_Text_ClefairyGuy_Adorable:
 	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
 
 PokemonFanClub_Text_ClefairyGuy_MakingDo:
-	.string "Ich mag PIEPI, aber ich könnte\p"
-	.string "nie eines fangen. Die PUPPE,\n"
-	.string "die ich fand, muss mir genügen.$"
+	.string "Ich mag PIEPI, aber ich werde es nie\n"
+	.string "schaffen, eins zu fangen. Tja, ich\l"
+	.string "werde mich wohl mit dieser Poképuppe\l"
+	.string "begnügen müssen, die ich gefunden habe.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
 	.string "Das ist ein PIEPI! Was?\p"
 	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
 
 PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
-	.string "Du wirst schon sehen. Ich freunde\n"
-	.string "mich noch mit einem echten PIEPI an.$"
+	.string "Irgendwann finde ich ein echtes PIEPI\n"
+	.string "als Freund! Du wirst schon sehen!$"
 
 @============================================================================================================================
 
 PokemonFanClub_Text_Teacher:
-	.string "Schau dir mein süßes LORBLATT an!\p"
-	.string "Das Blatt auf\n"
-	.string "seinem Kopf ist so goldig!$"
+	.string "Sieh nur, sieh nur! Mein LORBLATT!\p"
+	.string "Das Blatt auf seinem Köpfchen ist\n"
+	.string "ja so süß und schick!$"
 
 PokemonFanClub_Text_ClefairyDoll:
-	.string "Das ist ein PIEPI! Was?\p"
-	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
+	.string "Das ist ein PIEPI!\n"
+	.string "… … … ?\p"
+	.string "Ach so, es ist nur eine Puppe…$"
 
 PokemonFanClub_Text_Bayleef:
-	.string "LORBLATT: Bla, blatt!$"
+	.string "LORBLATT: Looorblatt!$"
 
 PokemonFanClub_Text_Listen:
-	.string "Anderen Trainern hören wir höflich zu.$"
+	.string "Wenn dir jemand eine "wunderbare"\n"
+	.string "Geschichte erzählen will, dann höre\l"
+	.string "ihm einfach geduldig zu.$"
 
 PokemonFanClub_Text_Bragging:
-	.string "Wenn jemand prahlt, wird\p"
-	.string "sofort zurückgeprahlt!$"
+	.string "Wenn jemand so schwärmt, wird einfach\n"
+	.string "doppelt so viel zurückgeschwärmt!$"

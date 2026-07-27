@@ -443,7 +443,7 @@ LilycoveCity_Text_MayWontBeBeaten:
 LilycoveCity_Text_MayDefeat:
 	.string "… … … … … … … …\p"
 	.string "Ich kann mich noch gut an unseren\n"
-	.string "Kampf auf der ROUTE 103 erinnern,\l"
+	.string "Kampf auf der Route 103 erinnern,\l"
 	.string "{PLAYER}{KUN}.\p"
 	.string "Dieser Kampf hat dir enorm geholfen,\n"
 	.string "stärker zu werden, oder?$"
@@ -514,7 +514,7 @@ LilycoveCity_Text_BrendanWontBeBeaten:
 LilycoveCity_Text_BrendanDefeat:
 	.string "Ach… Du hast dich stark verbessert.\p"
 	.string "Das schmerzt - und dabei hatte ich als\n"
-	.string "TRAINER sogar einen Vorsprung…$"
+	.string "Trainer sogar einen Vorsprung…$"
 
 LilycoveCity_Text_BrendanGoingBackToLittleroot:
 	.string "BRIX: Ich…\n"

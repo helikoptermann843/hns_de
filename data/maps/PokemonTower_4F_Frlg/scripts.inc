@@ -17,35 +17,36 @@ PokemonTower_4F_EventScript_Jody::
 	end
 
 PokemonTower_4F_Text_PaulaIntro::
-	.string "Ghost! No!\n"
-	.string "Kwaaah!$"
+	.string "Ein Geist! Nein!\n"
+	.string "Ahhhhh!$"
 
 PokemonTower_4F_Text_PaulaDefeat::
-	.string "Where is the ghost?$"
+	.string "Wohin ist der Geist gegangen?$"
 
 PokemonTower_4F_Text_PaulaPostBattle::
-	.string "I must have been dreaming…$"
+	.string "Ich bin sicher, ich träume das\n"
+	.string "alles nur...$"
 
 PokemonTower_4F_Text_LaurelIntro::
-	.string "Be cursed with me!\n"
-	.string "Kwaaah!$"
+	.string "Ich verfluche dich!\n"
+	.string "Buuuh!$"
 
 PokemonTower_4F_Text_LaurelDefeat::
-	.string "What!$"
+	.string "Was ist passiert?$"
 
 PokemonTower_4F_Text_LaurelPostBattle::
-	.string "We can't determine the identity of\n"
-	.string "the ghosts…$"
+	.string "Wir können die Identität der\n"
+	.string "Geister nicht ermitteln!$"
 
 PokemonTower_4F_Text_JodyIntro::
-	.string "Huhuhu…\n"
-	.string "Beat me not!$"
+	.string "Buuh... buhuhu...\n"
+	.string "Lass mich in Ruhe!$"
 
 PokemonTower_4F_Text_JodyDefeat::
-	.string "Huh?\n"
-	.string "Who? What?$"
+	.string "Wer?\n"
+	.string "Was? Wo?$"
 
 PokemonTower_4F_Text_JodyPostBattle::
-	.string "May the departed POKéMON rest in\n"
-	.string "peace…$"
+	.string "Mögen die verlorenen Seelen der\n"
+	.string "Pokémon in Frieden ruhen...$"
 

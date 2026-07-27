@@ -2,89 +2,92 @@ Route21_South_Frlg_MapScripts::
 	.byte 0
 
 Route21_South_Text_JackIntro::
-	.string "I caught my POKéMON at sea.$"
+	.string "Ich habe alle meine Pokémon auf\n"
+	.string "See gefangen!$"
 
 Route21_South_Text_JackDefeat::
-	.string "Diver!!\n"
-	.string "Down!!$"
+	.string "Platsch!$"
 
 Route21_South_Text_JackPostBattle::
-	.string "Where'd you catch your POKéMON?$"
+	.string "Wo hast du deine Pokémon gefangen?$"
 
 Route21_South_Text_JeromeIntro::
-	.string "Right now, I'm in a triathlon meet.$"
+	.string "Ich nehme an einem Triathlon teil!$"
 
 Route21_South_Text_JeromeDefeat::
-	.string "Pant…\n"
-	.string "Pant… Pant…$"
+	.string "Ächz, schnauf...$"
 
 Route21_South_Text_JeromePostBattle::
-	.string "I'm beat! But, I still have the\n"
-	.string "bike race and marathon left!$"
+	.string "Du hast gewonnen!\n"
+	.string "Aber ich kann noch beim Marathon\l"
+	.string "und im Radrennen siegen!$"
 
 Route21_South_Text_RolandIntro::
 	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Genieße die Sonne und den Wind!$"
 
 Route21_South_Text_RolandDefeat::
-	.string "Yow!\n"
-	.string "I lost!$"
+	.string "Ups!\n"
+	.string "Ich hab verloren!$"
 
 Route21_South_Text_RolandPostBattle::
-	.string "I'm sunburnt to a crisp!$"
+	.string "Die Sonne hat mich wie ein\n"
+	.string "Hähnchen geröstet!$"
 
 Route21_South_Text_ClaudeIntro::
-	.string "Hey, don't scare away the fish!$"
+	.string "Heh, du verjagst die Fische!$"
 
 Route21_South_Text_ClaudeDefeat::
-	.string "Sorry! I'm just so frustrated from\n"
-	.string "not catching anything.$"
+	.string "Entschuldigung, ich wollte nicht so\n"
+	.string "barsch sein!$"
 
 Route21_South_Text_ClaudePostBattle::
-	.string "Sheesh, I haven't caught a thing.\n"
-	.string "Could this place actually be a\l"
-	.string "giant pool or something?$"
+	.string "Ich war nur sauer, weil ich noch\n"
+	.string "nichts gefangen habe.$"
 
 Route21_South_Text_NolanIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Leiste mir Gesellschaft, bis etwas\n"
+	.string "anbeißt!$"
 
 Route21_South_Text_NolanDefeat::
-	.string "That burned some time.$"
+	.string "Na ja, wenigstens ist etwas Zeit\n"
+	.string "vergangen!$"
 
 Route21_South_Text_NolanPostBattle::
-	.string "Oh wait!\n"
-	.string "I got a bite! Yeah!$"
+	.string "Juchhu!\n"
+	.string "Etwas hat angebissen!$"
 
 Route21_North_Text_LilIntro::
-	.string "LIL: Huh? A battle?\n"
-	.string "IAN, can't you do it alone?$"
+	.string "Ewe: Häh? Ein Kampf? Tobi,\n"
+	.string "schaffst du das nicht alleine?$"
 
 Route21_North_Text_LilDefeat::
-	.string "LIL: Oh, see?\n"
-	.string "We lost. Happy now?$"
+	.string "Ewe: Oh, na ja!\n"
+	.string "Wir haben verloren. Zufrieden?$"
 
 Route21_North_Text_LilPostBattle::
-	.string "LIL: I'm tired.\n"
-	.string "Can't we go home already?$"
+	.string "Ewe: Ich bin müde.\n"
+	.string "Können wir nicht schon nach Hause?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "LIL: Huh? A battle?\n"
-	.string "I can't be bothered to do it alone.\l"
-	.string "Bring two POKéMON, won't you?$"
+	.string "EWE: Häh? Ein Kampf? Ich kann\n"
+	.string "ihn nicht alleine bestreiten.\l"
+	.string "Bring zwei POKéMON, o.k.?$"
 
 Route21_North_Text_IanIntro::
-	.string "IAN: My sis doesn't get enough\n"
-	.string "exercise, so I made her come.$"
+	.string "Tobi: Meine Schwester trainiert\n"
+	.string "nicht genug, daher habe ich sie\l"
+	.string "gezwungen hierher zu kommen.$"
 
 Route21_North_Text_IanDefeat::
-	.string "IAN: Awww, Sis!\n"
-	.string "Get it together!$"
+	.string "Tobi: Argh, Schwesterherz!\n"
+	.string "Bemüh dich doch!$"
 
 Route21_North_Text_IanPostBattle::
-	.string "IAN: Come on, Sis!\p"
-	.string "You're not going to lose weight\n"
-	.string "like this!$"
+	.string "Tobi: Komm schon, Schwesterlein!\p"
+	.string "So wirst du nie Gewicht verlieren!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "IAN: We want a two-on-two battle.\n"
-	.string "So can you bring two POKéMON?$"
+	.string "TOBI: Wir verlangen einen Zwei-\n"
+	.string "gegen-Zwei-Kampf. Bring doch zwei\l"
+	.string "POKéMON mit!$"

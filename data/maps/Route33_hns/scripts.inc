@@ -36,16 +36,16 @@ Route33_EventScript_Lass::
 	end
 
 Route33_Text_HikerAnthony2Seen:
-	.string "Ich bin durch den Tunnel gegangen,\n"
-	.string "aber ich habe noch\l"
-	.string "viel Energie übrig.$"
+	.string "Ich habe den Tunnel durchquert, aber\n"
+	.string "ich habe noch jede Menge Energie übrig.$"
 
 Route33_Text_HikerAnthony2Beaten:
-	.string "Wow! Du hast mehr Mumm als ich!$"
+	.string "Oho! Scheint, als hättest du\n"
+	.string "noch mehr Energie als ich!$"
 
 Route33_Text_HikerAnthony2After:
-	.string "In den Bergen sind\n"
-	.string "wir WANDERER in unserem Element.$"
+	.string "In den Bergen sind wir Wanderer\n"
+	.string "in unserem Element.$"
 
 Route33_Text_AnthonyRegister:
     .string "Wir WANDERER sind in den Bergen\n"

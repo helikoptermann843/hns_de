@@ -23,13 +23,14 @@ PewterCity_Museum_2F_EventScript_Meteor::
 	end
 
 PewterCity_Museum_2F_Text_Nerd:
-	.string "Man sagt, dass Meteoriten auf\n"
-	.string "die ENTSTEHUNGSINSEL fielen.\p"
-	.string "Wir würden sie gern hier im\n"
-	.string "Museum ausstellen, aber...\p"
-	.string "Diese Meteoriten sollen seltsame\n"
-	.string "Energie ausstrahlen und lassen\l"
-	.string "sich nicht wegtragen...$"
+	.string "Irgendwo in der Nähe von Marmoria City\n"
+	.string "soll ein Meteorit eingeschlagen sein!\p"
+	.string "So einen seltenen Fund würden wir nur\n"
+	.string "zu gerne hier im Museum ausstellen…\p"
+	.string "Aber angeblich geht von dem Stein eine\n"
+	.string "merkwürdige Energie aus, die es\l"
+	.string "verhindert, dass man ihn von dort\l"
+	.string "entfernt…$"
 
 PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
     .string "Ich will ein PIKACHU!\n"

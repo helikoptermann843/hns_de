@@ -22,5 +22,5 @@ CeladonDeptStore4F_Text_Youngster:
 	.string "um Herzbrief zu kaufen.$"
 
 CeladonDeptStore4F_Text_Directory:
-	.string "Mache anderen eine Freude!\p"
-	.string "3F: GESCHENKARTIKEL$"
+	.string "Lass ein Geschenk für dich sprechen!\n"
+	.string "3S: Geschenkartikel$"

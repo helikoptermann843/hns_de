@@ -315,14 +315,14 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{PLAYER} hat den geheimen Code auf die\n"
+	.string "Tür geschrieben.\p"
+	.string "“RÄTSELMEISTER ist riesig.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Das Schloss geht klickend auf.$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "Der RÄTSELMEISTER verschwindet immer\n"
+	.string "Der Rätselmeister verschwindet immer\n"
 	.string "wie Rauch. Wie macht er das nur?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
@@ -353,7 +353,7 @@ Route110_TrickHousePuzzle7_Text_AlexisDefeat:
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
 	.string "Ich glaube, du wirst alle Rätsel in\n"
-	.string "diesem RÄTSELHAUS lösen!$"
+	.string "diesem Rätselhaus lösen!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
 	.string "Muahahahaha! Endlich!\n"
@@ -364,7 +364,7 @@ Route110_TrickHousePuzzle7_Text_MarielaDefeat:
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
 	.string "Hmpf! Ich reg mich nicht auf!\n"
-	.string "ICH REG MICH ÜBERHAUPT NICHT AUF!$"
+	.string "Ich Reg Mich Überhaupt Nicht Auf!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
 	.string "Ich habe dein Kommen vorhergesehen!$"

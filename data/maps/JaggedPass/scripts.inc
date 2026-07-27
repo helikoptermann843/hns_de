@@ -148,7 +148,7 @@ JaggedPass_EventScript_Autumn::
 	end
 
 JaggedPass_Text_EricIntro:
-	.string "SCHLOTBERG STEILPASS…\p"
+	.string "Schlotberg Steilpass…\p"
 	.string "Davon habe ich immer geträumt, wenn\n"
 	.string "ich in den Bergen unterwegs war.\p"
 	.string "Zerklüftete Massive…\n"
@@ -158,7 +158,7 @@ JaggedPass_Text_EricDefeat:
 	.string "Verlieren ist bitter.$"
 
 JaggedPass_Text_EricPostBattle:
-	.string "Ja, ich bin im Umgang mit POKéMON\n"
+	.string "Ja, ich bin im Umgang mit Pokémon\n"
 	.string "nicht gerade talentiert.\p"
 	.string "Aber wenn es um die Leidenschaft für\n"
 	.string "die Berge geht, stecke ich dich locker\l"
@@ -186,7 +186,7 @@ JaggedPass_Text_DianaRegister:
 
 JaggedPass_Text_DianaRematchIntro:
 	.string "Picknicke machen überall und immer\n"
-	.string "Spaß. Und PKMN leisten mir dabei\l"
+	.string "Spaß. Und Pkmn leisten mir dabei\l"
 	.string "Gesellschaft!$"
 
 JaggedPass_Text_DianaRematchDefeat:
@@ -199,7 +199,7 @@ JaggedPass_Text_DianaPostRematch:
 	.string "entlangdüsen.$"
 
 JaggedPass_Text_EthanIntro:
-	.string "Der STEILPASS ist sehr schwer zu Fuß\n"
+	.string "Der Steilpass ist sehr schwer zu Fuß\n"
 	.string "zu meistern. Aber ein guter Ort zum\l"
 	.string "Trainieren.$"
 
@@ -208,7 +208,7 @@ JaggedPass_Text_EthanDefeat:
 	.string "keinen sicheren Stand gehabt.$"
 
 JaggedPass_Text_EthanPostBattle:
-	.string "Wenn ich ein KUNSTRAD hätte, könnte\n"
+	.string "Wenn ich ein Kunstrad hätte, könnte\n"
 	.string "ich die Abhänge einfach überspringen.$"
 
 JaggedPass_Text_EthanRegister:
@@ -226,8 +226,8 @@ JaggedPass_Text_EthanRematchDefeat:
 	.string "lich nicht leicht, gut zu kämpfen.$"
 
 JaggedPass_Text_EthanPostRematch:
-	.string "Ich sollte mir ein KUNSTRAD von RADLA\n"
-	.string "in MALVENFROH CITY besorgen…$"
+	.string "Ich sollte mir ein Kunstrad von Radla\n"
+	.string "in Malvenfroh City besorgen…$"
 
 JaggedPass_Text_GruntIntro:
 	.string "Wah! Was machst du hier?\p"
@@ -237,7 +237,7 @@ JaggedPass_Text_GruntIntro:
 JaggedPass_Text_GruntDefeat:
 	.string "Arrrrgh…\p"
 	.string "Ich hätte mich besser sofort in\n"
-	.string "unserem VERSTECK versteckt…$"
+	.string "unserem Versteck versteckt…$"
 
 JaggedPass_Text_GoWhereverYouWant:
 	.string "Okay, oh-kay!\n"

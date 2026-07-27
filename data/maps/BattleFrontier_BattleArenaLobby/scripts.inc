@@ -468,9 +468,9 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "Oh? Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "Oh, dein BEUTEL ist voll.\p"
+	.string "Bitte schaffe Platz in deinem BEUTEL\n"
+	.string "und komme dann wieder.$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
 	.string "Vielen Dank für die Teilnahme!\p"
@@ -580,8 +580,8 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
 	.string "am Ende des Kampfes verglichen.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "Ein Sieg über den RINGMEISTER und ein\n"
-	.string "siebenfacher Sieg über sieben TRAINER!\n"
+	.string "Ein Sieg über den Ringmeister und ein\n"
+	.string "siebenfacher Sieg über sieben Trainer!\n"
 	.string "\p"
 	.string "Wir gratulieren dir zu deiner\n"
 	.string "herausragenden Leistung!$"

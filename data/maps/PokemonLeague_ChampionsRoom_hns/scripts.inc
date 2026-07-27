@@ -306,12 +306,12 @@ PokemonLeague_ChampionsRoom_Movement_MaryLeft:
 
 PokemonLeague_ChampionsRoom_Text_RematchBattleIntro:
 	.string "Siegfried: Willkommen zurück!\p"
-	.string "Du hast dich in JOHTO bewährt\p"
+	.string "Du hast dich in Johto bewährt\p"
 	.string "und alle 8 Orden errungen,\n"
 	.string "sogar mich einst besiegt.\p"
 	.string "Doch jetzt spielst du ganz oben.\p"
 	.string "In der großen Liga.\p"
-	.string "Der KANTO-LIGA!\p"
+	.string "Der Kanto-liga!\p"
 	.string "Eine Region mit eigenen Prüfungen\n"
 	.string "und Champions.\p"
 	.string "Hier bin ich die letzte Hürde,\n"
@@ -319,13 +319,13 @@ PokemonLeague_ChampionsRoom_Text_RematchBattleIntro:
 	.string "zuvor.\p"
 	.string "Dies ist die wahre Prüfung,\n"
 	.string "der Kampf um den Titel des\l"
-	.string "KANTO-CHAMPIONS.\p"
+	.string "Kanto-champions.\p"
 	.string "Bist du bereit für diese neue\n"
 	.string "Herausforderung?\p"
 	.string "Willst du dich erneut beweisen?\p"
 	.string "Zeig mir die Stärke,\n"
-	.string "die JOHTO erobert hat,\p"
-	.string "CHAMPION.$"
+	.string "die Johto erobert hat,\p"
+	.string "Champion.$"
 
 PokemonLeague_ChampionsRoom_Text_BattleIntro:
 	.string "Siegfried: Ich habe auf dich\n"
@@ -337,7 +337,7 @@ PokemonLeague_ChampionsRoom_Text_BattleIntro:
 	.string "Wir kämpfen um zu sehen,\n"
 	.string "wer von uns der Stärkere ist.\p"
 	.string "Als mächtigster Trainer und\n"
-	.string "als CHAMPION der POKéMON-LIGA…\p"
+	.string "als Champion der Pokémon-Liga…\p"
 	.string "ich, Siegfried, der Drachenmeister,\n"
 	.string "nehme deine Herausforderung an!$"
 
@@ -379,12 +379,12 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations:
 	.string "{PLAYER}!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchOakCongratulations:
-	.string "PROF. Eich: Ah, {PLAYER}!\p"
+	.string "Prof. Eich: Ah, {PLAYER}!\p"
 	.string "Ich habe deinen Weg verfolgt,\n"
-	.string "seit PROF. LIND dich losschickte.\p"
+	.string "seit Prof. Lind dich losschickte.\p"
 	.string "Du bist noch beeindruckender\n"
 	.string "geworden.\p"
-	.string "JOHTO und nun auch KANTO zu\n"
+	.string "Johto und nun auch Kanto zu\n"
 	.string "bezwingen ist keine Kleinigkeit.\p"
 	.string "Du hast dich selbst übertroffen!\p"
 	.string "Deine Pokémon vertrauen dir sehr,\n"
@@ -405,7 +405,7 @@ PokemonLeague_ChampionsRoom_Text_MaryInterview:
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryInterview:
 	.string "Margit: Interview mit dem neuen\p"
-	.string "KANTO-CHAMPION!$"
+	.string "Kanto-champion!$"
 
 PokemonLeague_ChampionsRoom_Text_Noisy:
 	.string "Siegfried: Es wird mir etwas\n"

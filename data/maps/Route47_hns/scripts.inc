@@ -8,17 +8,16 @@ Route47_EventScript_Hiker::
 	end
 
 Route47_Text_HikerSeen::
-	.string "Sehnsucht nach anderen ist…\n"
-	.string "was sie eben ist.\p"
-	.string "Aber Kämpfe sind Kämpfe,\n"
-	.string "also los!$"
+	.string "Du kommst goldrichtig! Ich war gerade\n"
+	.string "dabei, mich ein wenig einsam zu fühlen…\p"
+	.string "Aber ein Kampf ist ein Kampf! Also los!$"
 
 Route47_Text_HikerBeaten::
-	.string "Wahaha!$"
+	.string "WUAHAHAHA$"
 
 Route47_Text_HikerAfter::
-	.string "Nach einem Kampf sollte man immer\n"
-	.string "mit einem Lachen gehen!$"
+	.string "Nach einem Kampf sollte man immer mit\n"
+	.string "einem Lachen auseinandergehen!$"
 
 Route47_EventScript_Camper::
 	trainerbattle_single TRAINER_GRANT_HNS, Route47_Text_CamperSeen, Route47_Text_CamperBeaten
@@ -26,17 +25,16 @@ Route47_EventScript_Camper::
 	end
 
 Route47_Text_CamperSeen::
-	.string "Ich kann nicht gut mit großen\n"
-	.string "Menschenmengen umgehen, also\l"
-	.string "campiere ich hier mit meinen\l"
-	.string "POKÉMON!$"
+	.string "Wir haben's nicht so mit Menschenmengen\n"
+	.string "und zelten daher lieber im Freien.\l"
+	.string "Geht es dir etwa genauso?$"
 
 Route47_Text_CamperBeaten::
-	.string "Ich sollte wohl tiefer in den\n"
-	.string "Berg gehen…$"
+	.string "Wir müssen wohl noch tiefer in\n"
+	.string "die Berge gehen…$"
 
 Route47_Text_CamperAfter::
-	.string "Tschüss!$"
+	.string "BIS DANN$"
 
 Route47_EventScript_Thom::
 	trainerbattle_double TRAINER_THOM_AND_KAE_HNS, Route47_Text_Couple1Seen, Route47_Text_Couple1Beaten, Route104_Text_GinaNotEnoughMons
@@ -58,17 +56,16 @@ Route47_Text_Couple1Seen::
 	.string "langweiliges Gespann!$"
 
 Route47_Text_Couple1Beaten::
-	.string "THOMAS: Das hatte ich nicht erwartet.\n"
-	.string "KATJA: Du bist auch ungewöhnlich!$"
+	.string "Uwe: Damit hatte ich jetzt\n"
+	.string "nicht gerechnet…$"
 
 Route47_Text_Couple1After1::
-	.string "THOMAS: Deine Kraft scheint\n"
-	.string "unvorhersehbar zu sein!$"
+	.string "Uwe: Dass du so stark bist,\n"
+	.string "hätte niemand ahnen können!$"
 
 Route47_Text_Couple1After2::
-	.string "KATJA: Ich dachte, du wärst ein\n"
-	.string "gewöhnlicher Alleintrainer.\l"
-	.string "Wie falsch ich lag!$"
+	.string "Nele: Ich habe dich für einen einfachen\n"
+	.string "Trainer gehalten, aber du bist mehr!$"
 
 Route47_EventScript_Duff::
 	trainerbattle_double TRAINER_DUFF_AND_EDA_HNS, Route47_Text_Couple2Seen, Route47_Text_Couple2Beaten, Route104_Text_GinaNotEnoughMons
@@ -98,8 +95,8 @@ Route47_Text_Couple2After1::
 	.string "Kampf! Tschüss!$"
 
 Route47_Text_Couple2After2::
-	.string "EVA: Du solltest wirklich auch\n"
-	.string "einen tollen Partner finden!$"
+	.string "Mari: Ich wünsche dir, dass auch du\n"
+	.string "einen so wunderbaren Partner findest!$"
 
 Route47_EventScript_Sage::
 	lock

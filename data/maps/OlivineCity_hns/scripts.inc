@@ -28,22 +28,21 @@ OlivineCity_EventScript_BaobaCall::
 	end
 
 OlivineCity_Text_BaobaName:
-	.string "BAOBA$"
+	.string "Baoba$"
 
 OlivineCity_Text_Baoba:
-	.string "{PLAYER}!\p"
-	.string "Ich bins, Aufseher Baoba.\p"
-	.string "Entschuldige die Wartezeit.\n"
-	.string "Wir haben die SAFARI-ZONE\l"
-	.string "endlich geöffnet!\p"
-	.string "Weißt du, wo sie ist?\p"
-	.string "Kennst du das TOR in der Höhle\n"
-	.string "von Anemonia City?\p"
-	.string "Geh hindurch und lauf ein Stück,\n"
-	.string "dann solltest du die Safari-Zone\l"
-	.string "sehen!\p"
-	.string "Wir liegen etwas abseits, aber\n"
-	.string "komm uns doch besuchen!$"
+	.string "Hallo, {PLAYER}!\n"
+	.string "Ich bin's, Baoba!\p"
+	.string "Entschuldige, dass ich dich habe\n"
+	.string "warten lassen!\p"
+	.string "Sie ist endlich eröffnet, die\n"
+	.string "Safari-Zone! Du weißt, wo?\p"
+	.string "Du kennst doch das in den Fels\n"
+	.string "gehauene Tor in Anemonia City, oder?\p"
+	.string "Wenn du dort durchgehst, erreichst\n"
+	.string "du sie nach einer Weile, die Safari-Zone!\p"
+	.string "Nun, es liegt nicht gerade auf dem Weg,\n"
+	.string "aber schau unbedingt einmal vorbei!$"
 
 OlivineCity_EventScript_CityTrigger:: @FLAGHEAP
 	setflag FLAG_HIDE_OLIVINE_CITY_GYM_JASMINE
@@ -155,22 +154,22 @@ OlivineCity_Movement_SilverLeave:
 	step_end
 
 OlivineCity_Text_SilverEncounter:
-	.string "Du schon wieder?\n"
-	.string "Du kannst dich beruhigen.\p"
-	.string "Mit Schwächlingen wie dir\n"
-	.string "gebe ich mich nicht ab.\p"
-	.string "Apropos Schwächlinge, die\n"
-	.string "Arena-Leiterin ist nicht hier,\l"
-	.string "sie kümmert sich um ein krankes\l"
-	.string "Pokémon im Leuchtturm.\p"
-	.string "Humph! Heul leise!\n"
-	.string "Wen interessieren kranke Pokémon!\p"
-	.string "Ein Pokémon, das nicht kämpfen\n"
-	.string "kann, taugt nichts!\p"
-	.string "Warum gehst du nicht trainieren\n"
-	.string "im Leuchtturm?\p"
-	.string "Vielleicht wirst du so ein\n"
-	.string "bisschen besser als Trainer!$"
+	.string "{PLAYER}: … … …\p"
+	.string "…Du schon wieder?\p"
+	.string "Was stellst du dir eigentlich vor?\n"
+	.string "Mit Verlierern wie dir gebe ich\l"
+	.string "mich nicht ab.\p"
+	.string "Apropos Verlierer: Die Arenaleiterin\n"
+	.string "dieser Stadt ist gerade außer Haus.\p"
+	.string "Sie kümmert sich wohl gerade um ein\n"
+	.string "krankes Pokémon im Leuchtturm.\p"
+	.string "…Hmpf! So ein Unfug!\p"
+	.string "Ein Pokémon, das zu schwach zum\n"
+	.string "Kämpfen ist, ist wertlos!\p"
+	.string "Warum trainierst du nicht etwas im\n"
+	.string "Leuchtturm?\p"
+	.string "Wer weiß, vielleicht wird aus dir ja\n"
+	.string "doch noch ein annehmbarer Trainer?$"
 
 OlivineCity_EventScript_Sailor1::
 	lock
@@ -279,21 +278,18 @@ OlivineCity_Text_EonTicketWoman3:
 	.string "ich hab den Champion getroffen!!!$"
 
 OlivineCity_Text_Sailor1:
-	.string "Nachts sind dunkle\n"
-	.string "Straßen gefährlich.\p"
-	.string "Auch das Meer wirkt\n"
-	.string "viel bedrohlicher in der\l"
-	.string "pechschwarzen Finsternis!\p"
-	.string "Ohne das Licht des LEUCHTTURMs könnte\n"
-	.string "kein Schiff das Meer bereisen.$"
+	.string "Dunkle Straßen sind nachts gefährlich!\n"
+	.string "Dunkle Meeresuntiefen ebenso!\p"
+	.string "Ohne das Licht des Leuchtturms sind\n"
+	.string "alle Schiffe auf dem Meer gefangen.$"
 
 OlivineCity_Text_YoungsterPokegear:
-	.string "Dieses Ding da ist doch\n"
-	.string "ein POKéCOM. Wow, das ist cool!$"
+	.string "Dieses Ding da ist doch ein Pokécom!\n"
+	.string "Wow, das ist ja sooo cool!$"
 
 OlivineCity_Text_YoungsterPokedex:
-	.string "Wow, du hast einen POKéDEX!\p"
-	.string "Das ist so toll!$"
+	.string "Wow, du hast einen Pokédex!\n"
+	.string "Das ist echt cool!$"
 
 OlivineCity_Text_Sailor2:
 	.string "Die See ist schön!\p"
@@ -311,14 +307,14 @@ OlivineCity_Text_PortSign:
 	.string "CITY SCHNELLBOOT-PIER$"
 
 OlivineCity_Text_GymSign:
-	.string "OLIVIANA CITY POKéMON ARENA\n"
-	.string "LEITER: JASMINE\p"
-	.string "Die Stählerne Defensive$"
+	.string "Pokémon-Arena von Oliviana City\n"
+	.string "Leiterin: Jasmin\l"
+	.string "Ein stahlhartes Mädchen!$"
 
 OlivineCity_Text_LighthouseSign:
-	.string "LEUCHTTURM von\n"
-	.string "OLIVIANA CITY, auch bekannt als\l"
-	.string "GLITZER-LEUCHTTURM$"
+	.string "Leuchtturm von Oliviana City\p"
+	.string "Auch bekannt als der\n"
+	.string "Glitzer-Leuchtturm$"
 
 OlivineCity_Text_BattleTowerSign:
 	.string "DUELLTURM VORAUS Geöffnet!$"

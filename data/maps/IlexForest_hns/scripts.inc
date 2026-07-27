@@ -648,12 +648,12 @@ IlexForest_Movement_Kurt2:
 
 IlexForest_Text_ApprenticeIntro:
 	.string "Oh, Mist… Mein Boss wird sauer sein…\p"
-	.string "Das PORENTA, das\n"
-	.string "mit dem ZERSCHNEIDER Bäume\p"
+	.string "Das Porenta, das\n"
+	.string "mit dem Zerschneider Bäume\p"
 	.string "fällt, um nach Holzkohle zu\p"
 	.string "suchen, ist abgehauen.\p"
 	.string "Ich traue mich\n"
-	.string "nicht in den STEINEICHENWALD, um nach\n"
+	.string "nicht in den Steineichenwald, um nach\n"
 	.string "ihm zu suchen.\p"
 	.string "Er ist so groß, dunkel und unheimlich…$"
 
@@ -667,42 +667,52 @@ IlexForest_Text_ItsTheMissingPokemon:
 	.string "Das vermisste Pokémon!$"
 
 IlexForest_Text_Kwaaaa:
-	.string "Porenta: Kwaa!$"
+	.string "PORENTA: Poreeeen!$"
 
 IlexForest_Text_CharcoalMasterIntro:
-	.string "Ah! Mein Porenta!\p"
-	.string "Du hast es gefunden, Kind?\p"
-	.string "Ohne es könnten wir keine\n"
-	.string "Bäume mit Zerschneider fällen.\p"
-	.string "Danke, Kind!\p"
-	.string "Wie kann ich mich revanchieren…\p"
-	.string "Ich weiß! Nimm dies.$"
+	.string "Oh! Das sind ja meine Kleinen,\n"
+	.string "Po und Renta!\p"
+	.string "Sag bloß…\p"
+	.string "Hast du diese beiden etwa\n"
+	.string "für mich eingefangen?!?\p"
+	.string "Wenn diese zwei keine Bäume für mich\n"
+	.string "fällen, kann ich keine Kohle herstellen!\p"
+	.string "Vielen Dank! Wie kann ich mich nur\n"
+	.string "dafür erkenntlich zeigen?\p"
+	.string "Ich hab's!\n"
+	.string "Nimm das hier!$"
 
 IlexForest_Text_CharcoalMasterOutro:
-	.string "Das ist die Zerschneider-Fähigkeit.\n"
-	.string "Bringe sie einem Pokémon bei,\l"
-	.string "um kleine Bäume zu fällen.\p"
-	.string "Natürlich musst du den Orden von\n"
-	.string "AZALEA haben, um sie zu nutzen.$"
+	.string "Das ist die VM Zerschneider!\n"
+	.string "Besitzt du den Orden aus der Arena von\l"
+	.string "Azalea City, kann ein Pokémon deiner\l"
+	.string "Wahl damit kleinere Bäume fällen!\p"
+	.string "Aaaber!\p"
+	.string "Hat ein Pokémon diese VM einmal\n"
+	.string "gelernt, kann es sie so schnell auch\l"
+	.string "nicht wieder vergessen!\p"
+	.string "Überlege dir also sehr gut, welchem\n"
+	.string "deiner Pokémon du sie beibringst!$"
 
 IlexForest_Text_CharcoalMasterTalkAfter:
-	.string "Willst du lernen, wie man Köhler wird?\n"
-	.string "\p"
-	.string "In zehn Jahren bist du ein Meister!$"
+	.string "Willst du mein Schüler werden?\n"
+	.string "In zehn Jahren bist du topfit!$"
 
 IlexForest_Text_Lass:
 	.string "Ist dem Waldpatron etwas zugestoßen?$"
 
 IlexForest_Text_Signpost:
-	.string "Der STEINEICHENWALD ist so dicht,\p"
-	.string "dass man den Himmel nicht sieht.\p"
-	.string "Halte Ausschau nach\n"
-	.string "verlorenen Gegenständen.$"
+	.string "Tipps für Trainer\p"
+	.string "Der Steineichenwald ist so dicht mit\n"
+	.string "Bäumen bewachsen, dass sich der\l"
+	.string "Himmel hinter dem Dickicht nur noch\l"
+	.string "dunkel erahnen lässt.\p"
+	.string "Pass auf, wo du hintrittst! Viele Leute\n"
+	.string "lassen hier ihre Sachen liegen!$"
 
 IlexForest_Text_Shrine:
-	.string "STEINEICHENWALDSCHREIN…\p"
-	.string "Er wurde zu Ehren des\n"
-	.string "Waldpatrons errichtet…$"
+	.string "Der Steineichenwald-Schrein… er wurde\n"
+	.string "zu Ehren des Waldpatrons errichtet.$"
 
 IlexForest_Text_ShrineCelebiEvent:
 	.string "Steineichenwald Schrein…\p"
@@ -741,24 +751,26 @@ IlexForest_Text_BugCatcherWayneAfter:
 	.string "Ich sollte Kopfnuss öfter nutzen.$"
 
 IlexForest_Text_Kimono_Girl1:
-	.string "KIMONO GIRL, KIMONO GIRL, verloren\n"
-	.string "und ganz allein. Arme, verlorene\l"
-	.string "Mädchen im Dunklen Steineichenwald.$"
+	.string "Kimono, Kimono, mein Gewand!\n"
+	.string "Sage mir, wie finde ich zum Waldesrand?$"
 
 IlexForest_Text_Kimono_Girl2:
-	.string "Du Erinnerst dich an mich aus\n"
-	.string "VIOLA CITY?\p"
-	.string "Du bildest dir das ein.\p"
-	.string "Zeigst du mir, wie ich hier rauskomme?$"
+	.string "Was sagt Ihr da? Ihr wollt mich\n"
+	.string "schon einmal gesehen haben?\l"
+	.string "In Viola City?\l"
+	.string "Gewiss täuscht Ihr Euch!\p"
+	.string "Aber wärt Ihr unter Umständen\n"
+	.string "so freundlich, meiner Wenigkeit den\l"
+	.string "Weg aus diesem Wald zu weisen?$"
 
 IlexForest_Text_Kimono_Girl3:
-	.string "Oje… Du hast dich auch verirrt,\n"
-	.string "nicht wahr?$"
+	.string "Dann nehme ich an, Ihr kennt den Weg\n"
+	.string "nach draußen selbst nicht?$"
 
 IlexForest_Text_Kimono_Girl4:
-	.string "Wow! Zeigst du mir, wie ich rauskomme?\n"
-	.string "\p"
-	.string "Du bist so klug, Pokémon!$"
+	.string "Sieh an! Möchtest du mir vielleicht\n"
+	.string "den Weg nach draußen zeigen?\l"
+	.string "Was für ein kluges Pokémon!$"
 
 IlexForest_Text_Kimono_Girl5:
-	.string "Bis bald.$"
+	.string "Ich gehe schon mal vor!$"

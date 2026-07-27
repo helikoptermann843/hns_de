@@ -43,18 +43,19 @@ SproutTower_1F_EventScript_ItemParalyzeHeal::
 	end
 
 SproutTower_Text_SageChow_Seen:
-	.string "Wir stehen Wache in diesem Turm.\p"
-	.string "Hier zeigen wir Dankbarkeit,\n"
-	.string "um alle Pokémon zu ehren.$"
+	.string "Wir bewachen diesen Turm, um den\n"
+	.string "Pokémon auf diese Weise unseren\p"
+	.string "Dank auszudrücken und damit wir nie\n"
+	.string "vergessen, was wir ihnen verdanken!$"
 
 SproutTower_Text_SageChow_Beaten:
-	.string "D-Danke!$"
+	.string "A-auch dafür vielen Dank!$"
 
 SproutTower_Text_SageChow_AfterBattle:
-	.string "Alle Lebewesen co-existieren\n"
-	.string "durch Zusammenarbeit.\p"
-	.string "Wir müssen immer dankbar\n"
-	.string "dafür sein.$"
+	.string "Alles Leben kann nur fortbestehen,\n"
+	.string "wenn man sich gegenseitig hilft…\p"
+	.string "Lasst uns niemals vergessen,\n"
+	.string "uns dankbar zu zeigen!$"
 
 SproutTower_Text_1F_Sage1:
 	.string "Nur wenn du es bis\n"
@@ -62,19 +63,20 @@ SproutTower_Text_1F_Sage1:
 	.string "erhältst du eine VM.$"
 
 SproutTower_Text_1F_Sage2:
-	.string "Der KNOFENSA-TURM wurde vor langer\n"
-	.string "Zeit als Pokémon-\l"
-	.string "Trainingsstätte errichtet.$"
+	.string "Der KNOFENSA-Turm wurde vor\n"
+	.string "langer Zeit als Trainingsstätte\l"
+	.string "für Pokémon errichtet.$"
 
 SproutTower_Text_1F_Granny:
-	.string "Ein über 30 m grosses KNOFENSA…\p"
-	.string "Man sagt, es wurde\n"
-	.string "die Trägersäule des Turmes.$"
+	.string "Die Trägersäule des Turms soll einst\n"
+	.string "aus einem über 30 Meter hohen\l"
+	.string "KNOFENSA entstanden sein.$"
 
 SproutTower_Text_1F_Teacher:
-	.string "Siehst du, wie die Säule wackelt?\p"
-	.string "Die Trainer trainieren da oben.$"
+	.string "Siehst du, wie sie sich bewegt?\n"
+	.string "Die Mönche scheinen oben\l"
+	.string "mitten im Training zu stecken!$"
 
 SproutTower_Text_1F_Statue:
-	.string "Eine PKMN-Statue…\p"
+	.string "Eine Pokémon-Statue…\n"
 	.string "Sie sieht sehr erhaben aus.$"

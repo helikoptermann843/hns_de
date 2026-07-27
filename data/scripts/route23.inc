@@ -212,14 +212,14 @@ Route23_Movement_WalkDown::
 	step_end
 
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Only truly skilled TRAINERS are\n"
-	.string "allowed through.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet!$"
+	.string "Hier dürfen nur erfahrene TRAINER\n"
+	.string "passieren!\p"
+	.string "Und du besitzt den {VAR}\n"
+	.string "noch nicht!$"
 
 Text_CantLetYouPass::
-	.string "Rules are rules.\n"
-	.string "I can't let you pass.$"
+	.string "Befehl ist Befehl! Ich darf dich\n"
+	.string "nicht durchlassen!$"
 
 Text_OhThatsBadgeGoRightAhead::
 	.string "Oh! That is the {STR_VAR_1}!\n"

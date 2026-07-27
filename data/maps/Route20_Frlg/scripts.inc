@@ -32,122 +32,120 @@ Route20_EventScript_SeafoamIslandsSign::
 	end
 
 Route20_Text_BarryIntro::
-	.string "The water is shallow here.\n"
-	.string "There are many people swimming.$"
+	.string "Das Wasser ist hier sehr flach.$"
 
 Route20_Text_BarryDefeat::
-	.string "Splash!$"
+	.string "Platsch!$"
 
 Route20_Text_BarryPostBattle::
-	.string "I wish I could ride my POKéMON.\n"
-	.string "I bet you're not tired.$"
+	.string "Ich wünschte, ich könnte auf einem\n"
+	.string "Pokémon reiten.$"
 
 Route20_Text_ShirleyIntro::
-	.string "SEAFOAM is a quiet getaway.\n"
-	.string "I'm vacationing here.$"
+	.string "Die Seeschauminseln sind ein\n"
+	.string "stiller Zufluchtsort!$"
 
 Route20_Text_ShirleyDefeat::
-	.string "Quit it!$"
+	.string "Schluss damit!$"
 
 Route20_Text_ShirleyPostBattle::
-	.string "There's a huge cavern underneath\n"
-	.string "this island.$"
+	.string "Unter dieser Insel befindet sich\n"
+	.string "eine riesige Höhle!$"
 
 Route20_Text_TiffanyIntro::
-	.string "I love floating with the fishes\n"
-	.string "here among the waves.$"
+	.string "Ich lasse mich gerne mit den\n"
+	.string "Fischen treiben!$"
 
 Route20_Text_TiffanyDefeat::
-	.string "Yowch!$"
+	.string "Autsch!$"
 
 Route20_Text_TiffanyPostBattle::
-	.string "Want to float with me?$"
+	.string "Möchtest du mir Gesellschaft\n"
+	.string "leisten?$"
 
 Route20_Text_IreneIntro::
-	.string "Are you on vacation, too?$"
+	.string "Machst du auch gerade Urlaub?$"
 
 Route20_Text_IreneDefeat::
-	.string "No mercy at all!$"
+	.string "Du kennst keine Gnade!$"
 
 Route20_Text_IrenePostBattle::
-	.string "SEAFOAM used to be a single island\n"
-	.string "in the distant past.$"
+	.string "Die Seeschauminseln waren einmal\n"
+	.string "Eine große Insel!$"
 
 Route20_Text_DeanIntro::
-	.string "Check out my buff physique!$"
+	.string "Schau dir meinen gestählten Körper\n"
+	.string "ruhig an!$"
 
 Route20_Text_DeanDefeat::
-	.string "Wimpy!$"
+	.string "Waschlappen!$"
 
 Route20_Text_DeanPostBattle::
-	.string "I should've been buffing up my\n"
-	.string "POKéMON, not me!$"
+	.string "Ich hätte meine Pokémon stählen\n"
+	.string "sollen, nicht meinen Körper!$"
 
 Route20_Text_DarrinIntro::
-	.string "Why are you riding a POKéMON?\n"
-	.string "Can't you swim?$"
+	.string "Warum reitest du auf dem Pokémon?\n"
+	.string "Kannst du nicht schwimmen?$"
 
 Route20_Text_DarrinDefeat::
-	.string "Ouch!\n"
-	.string "Torpedoed!$"
+	.string "Ich wurde torpediert!$"
 
 Route20_Text_DarrinPostBattle::
-	.string "Riding a POKéMON sure looks fun!$"
+	.string "Es dürfte Spaß machen, auf einem\n"
+	.string "Pokémon zu reiten!$"
 
 Route20_Text_RogerIntro::
-	.string "I rode my bird POKéMON here.$"
+	.string "Mein Vogel-Pokémon hat mich\n"
+	.string "hierher getragen!$"
 
 Route20_Text_RogerDefeat::
-	.string "Oh, no!\n"
-	.string "Now what am I to do?$"
+	.string "Oh nein!$"
 
 Route20_Text_RogerPostBattle::
-	.string "My birds are exhausted.\n"
-	.string "They can't FLY me back!$"
+	.string "Kann ich mit meinen Vogel-Pokémon\n"
+	.string "noch zurückfliegen?$"
 
 Route20_Text_NoraIntro::
-	.string "My boyfriend gave me big pearls.$"
+	.string "Mein Freund hat mir eine große\n"
+	.string "Perle geschenkt!$"
 
 Route20_Text_NoraDefeat::
-	.string "Oh, no!\n"
-	.string "My pearls were in them!$"
+	.string "Lass die Finger von meiner Perle!$"
 
 Route20_Text_NoraPostBattle::
-	.string "Will my pearls grow bigger inside\n"
-	.string "CLOYSTER?$"
+	.string "Ob meine Perle in einem AUSTOS\n"
+	.string "größer werden würde?$"
 
 Route20_Text_MissyIntro::
-	.string "I swam here from CINNABAR ISLAND.\n"
-	.string "It wasn't easy, I tell you.$"
+	.string "Ich bin von der Zinnoberinsel\n"
+	.string "herübergeschwommen!$"
 
 Route20_Text_MissyDefeat::
-	.string "I'm so disappointed!$"
+	.string "Ich bin enttäuscht!$"
 
 Route20_Text_MissyPostBattle::
-	.string "POKéMON have taken over an\n"
-	.string "abandoned mansion on CINNABAR.\p"
-	.string "They call it the POKéMON MANSION\n"
-	.string "now.$"
+	.string "Auf der Zinnoberinsel haben\n"
+	.string "Pokémon eine verlassene Villa\l"
+	.string "besiedelt!$"
 
 Route20_Text_MelissaIntro::
-	.string "CINNABAR, in the west, has a LAB\n"
-	.string "for POKéMON.\p"
-	.string "My daddy works there.$"
+	.string "Auf der Zinnoberinsel befindet\n"
+	.string "sich ein Pokémon-Labor.$"
 
 Route20_Text_MelissaDefeat::
-	.string "Wait!\n"
-	.string "You're supposed to wait!$"
+	.string "Warte!$"
 
 Route20_Text_MelissaPostBattle::
-	.string "CINNABAR is a volcanic island.\p"
-	.string "I heard it rose out of the sea\n"
-	.string "when a volcano erupted.$"
+	.string "Die Zinnoberinsel ist ein\n"
+	.string "vulkanisches Eiland!$"
 
 Route20_Text_SeafoamIslands::
-	.string "SEAFOAM ISLANDS$"
+	.string "SEESCHAUMINSELN$"
 
 Route20_Text_MistyTrainsHere::
-	.string "Strong TRAINERS and WATER POKéMON\n"
-	.string "are common sights in these parts.\p"
-	.string "They say that MISTY of the\n"
-	.string "CERULEAN GYM trains here.$"
+	.string "Starke TRAINER und WASSER-\n"
+	.string "POKéMON sind hier weit verbreitet.\p"
+	.string "Man sagt, dass MISTY aus der\n"
+	.string "ARENA von AZURIA CITY\l"
+	.string "hier häufig trainiert.$"

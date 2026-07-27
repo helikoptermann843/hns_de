@@ -27,10 +27,10 @@ BlackthornCity_House2_EventScript_TradeCompleted::
 	end
 
 BlackthornCity_House2_Text_YouWillTradeWontYou:
-	.string "Ich sammle Pokémon!\n"
-	.string "Hast du ein {STR_VAR_1}?\p"
-	.string "Willst du es gegen mein\n"
-	.string "{STR_VAR_2} tauschen?$"
+	.string "Ich sammele Pokémon!\n"
+	.string "Hast du ein TRAUMATO?\p"
+	.string "Möchtest du es gegen\n"
+	.string "mein MACHOLLO tauschen?$"
 
 BlackthornCity_House2_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe jetzt {STR_VAR_1}!\p"
@@ -41,7 +41,8 @@ BlackthornCity_House2_Text_ThisIsntAMon:
 	.string "Das ist kein {STR_VAR_1}.$"
 
 BlackthornCity_House2_Text_YouWontTradeMe:
-	.string "Du willst nicht tauschen? Oh...$"
+	.string "Du möchtest also nicht tauschen?\n"
+	.string "Schade…$"
 
 BlackthornCity_House2_Text_After:
 	.string "Hi, wie geht es meinem alten Pantimos?$"

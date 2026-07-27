@@ -18,11 +18,10 @@ Gate_AzaleaTown_IlexForest_EventScript_Granny::
 	end
 
 Gate_AzaleaTown_IlexForest_Text_Officer:
-	.string "Der Steineichenwald ist groß.\n"
-	.string "Sei vorsichtig!\l"
-	.string "Verlaufe dich nicht.$"
+	.string "Pass auf, dass du dich nicht verläufst!\n"
+	.string "Der Steineichenwald ist sehr groß!$"
 
 Gate_AzaleaTown_IlexForest_Text_Granny:
-	.string "Der Wald wird von seinem\n"
-	.string "Schutzpatron bewacht.\p"
-	.string "Mach keinen Unfug!$"
+	.string "Es heißt, ein Schutzpatron wache über\n"
+	.string "den Steineichenwald…\l"
+	.string "Mach also besser keine Dummheiten!$"

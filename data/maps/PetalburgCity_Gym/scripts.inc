@@ -1267,16 +1267,16 @@ PetalburgCity_Gym_Text_YouHaveGottenStronger:
 	.string "die du dir verdient hast.$"
 
 PetalburgCity_Gym_Text_NormanIntro:
-	.string "VATER: Hm…\n"
-	.string "Du besitzt vier ORDEN.\p"
+	.string "Vater: Hm…\n"
+	.string "Du besitzt vier Orden.\p"
 	.string "Fein. Wie versprochen werden wir nun\n"
-	.string "einen POKéMON-Kampf ausfechten.\p"
+	.string "einen Pokémon-Kampf ausfechten.\p"
 	.string "{PLAYER}…\p"
 	.string "Ich bin so glücklich, dass mein\n"
 	.string "eigenes Kind stark genug ist, gegen\l"
 	.string "mich zu kämpfen!\p"
 	.string "Aber: Kampf ist Kampf!\p"
-	.string "Ich werde als ARENALEITER alles tun,\n"
+	.string "Ich werde als Arenaleiter alles tun,\n"
 	.string "um diesen Kampf zu gewinnen!\p"
 	.string "{PLAYER}, du solltest ebenfalls dein\n"
 	.string "Bestes geben!$"
@@ -1390,9 +1390,9 @@ PetalburgCity_Gym_Text_RandallPostBattle:
 	.string "Geh weiter in den nächsten Raum, wo\n"
 	.string "eine neue Herausforderung wartet.\p"
 	.string "Auf der linken Seite befindet sich der\n"
-	.string "RAUM der VERWIRRUNG.\p"
+	.string "Raum der Verwirrung.\p"
 	.string "Auf der rechten Seite findest du den\n"
-	.string "RAUM der VERTEIDIGUNG.$"
+	.string "Raum der Verteidigung.$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
 	.string "Ob du siegst oder verlierst… Du darfst\n"
@@ -1402,17 +1402,17 @@ PetalburgCity_Gym_Text_RandallPostBadge:
 	.string "ARENALEITER aus.$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
-	.string "Dies ist der RAUM der VERWIRRUNG.\p"
+	.string "Dies ist der Raum der Verwirrung.\p"
 	.string "Zeig mir, wie stark das Band zwischen\n"
-	.string "dir und deinen POKéMON ist.$"
+	.string "dir und deinen Pokémon ist.$"
 
 PetalburgCity_Gym_Text_ParkerDefeat:
 	.string "Ich konnte dein Team nicht genug\n"
 	.string "verwirren… Euer Band ist stark.$"
 
 PetalburgCity_Gym_Text_ParkerPostBattle:
-	.string "Der nächste Raum ist der RAUM der\n"
-	.string "STÄRKE. Kommst du gegen pure\l"
+	.string "Der nächste Raum ist der Raum der\n"
+	.string "Stärke. Kommst du gegen pure\l"
 	.string "Gewalt an?$"
 
 PetalburgCity_Gym_Text_ParkerPostBadge:
@@ -1431,17 +1431,17 @@ PetalburgCity_Gym_Text_GeorgeIntro:
 
 PetalburgCity_Gym_Text_GeorgeDefeat:
 	.string "Ich konnte nicht genügend KP\n"
-	.string "auffüllen… Welch eine ANGRIFFskraft…$"
+	.string "auffüllen… Welch eine Angriffskraft…$"
 
 PetalburgCity_Gym_Text_GeorgePostBattle:
-	.string "Ich hatte vom Kind unseres ARENA-\n"
-	.string "LEITERs nichts anderes erwartet!\p"
-	.string "Nein! Die Fähigkeiten eines TRAINERs\n"
+	.string "Ich hatte vom Kind unseres Arena-\n"
+	.string "Leiters nichts anderes erwartet!\p"
+	.string "Nein! Die Fähigkeiten eines Trainers\n"
 	.string "entwickeln sich mit dem Training.\p"
 	.string "Ich habe mich offensichtlich nicht\n"
 	.string "genug angestrengt.\p"
-	.string "Geh! Der nächste Raum ist der K.O.-\n"
-	.string "TREFFER-RAUM.$"
+	.string "Geh! Der nächste Raum ist der K.o.-\n"
+	.string "Treffer-raum.$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
 	.string "Ich werde auch weiterhin in den ARENen\n"
@@ -1449,11 +1449,11 @@ PetalburgCity_Gym_Text_GeorgePostBadge:
 
 PetalburgCity_Gym_Text_BerkeIntro:
 	.string "Ich werde es dir nicht leicht machen,\n"
-	.string "nur weil du das Kind unseres LEITERs\l"
+	.string "nur weil du das Kind unseres Leiters\l"
 	.string "bist.\p"
 	.string "Ich werde dir beibringen, was es für\n"
 	.string "ein\n"
-	.string "POKéMON bedeutet, einen Volltreffer\l"
+	.string "Pokémon bedeutet, einen Volltreffer\l"
 	.string "zu erhalten.$"
 
 PetalburgCity_Gym_Text_BerkeDefeat:
@@ -1461,7 +1461,7 @@ PetalburgCity_Gym_Text_BerkeDefeat:
 	.string "Du kämpfst großartig!$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Dein Vater ist stark. Als TRAINER\n"
+	.string "Dein Vater ist stark. Als Trainer\n"
 	.string "erweise ich ihm den größten Respekt.\p"
 	.string "Und ich sehe, dass die gleiche Stärke\n"
 	.string "auch in dir ruht.\p"
@@ -1475,7 +1475,7 @@ PetalburgCity_Gym_Text_BerkePostBadge:
 
 PetalburgCity_Gym_Text_MaryIntro:
 	.string "Kicher…\n"
-	.string "Dies ist der RAUM der GENAUIGKEIT.\p"
+	.string "Dies ist der Raum der Genauigkeit.\p"
 	.string "Es ist schon ziemlich fies, wenn jede\n"
 	.string "Attacke ein Treffer ist.$"
 
@@ -1484,12 +1484,12 @@ PetalburgCity_Gym_Text_MaryDefeat:
 
 PetalburgCity_Gym_Text_MaryPostBattle:
 	.string "Es warten noch weitaus stärkere\n"
-	.string "TRAINER auf dich.\p"
-	.string "Der linke ist der RAUM der\l"
-	.string "VERTEIDIGUNG\n"
-	.string "und der rechte der RAUM der ERHOLUNG.\p"
+	.string "Trainer auf dich.\p"
+	.string "Der linke ist der Raum der\l"
+	.string "Verteidigung\n"
+	.string "und der rechte der Raum der Erholung.\p"
 	.string "\p"
-	.string "Die ATTACKEN deiner POKéMON werden\n"
+	.string "Die Attacken deiner Pokémon werden\n"
 	.string "in beiden Räumen auf die Probe\l"
 	.string "gestellt.$"
 
@@ -1500,7 +1500,7 @@ PetalburgCity_Gym_Text_MaryPostBadge:
 	.string "unserer POKéMON zu werden.$"
 
 PetalburgCity_Gym_Text_AlexiaIntro:
-	.string "Je stärker die VERTEIDIGUNG ist, desto\n"
+	.string "Je stärker die Verteidigung ist, desto\n"
 	.string "rücksichtsloser kann ich angreifen.$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat:
@@ -1510,28 +1510,28 @@ PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "Ich denke, du hast mir eine wertvolle\n"
 	.string "Lektion erteilt.\p"
 	.string "Nun, geh weiter. Die linke Tür führt\n"
-	.string "in den RAUM der STÄRKE.\p"
+	.string "in den Raum der Stärke.\p"
 	.string "Die rechte Tür öffnet den\n"
-	.string "K.O.-TREFFER-RAUM.\p"
+	.string "K.o.-treffer-raum.\p"
 	.string "In beiden warten äußerst talentierte\n"
-	.string "TRAINER.$"
+	.string "Trainer.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
 	.string "Hallo! Hast du mal SURFER ausprobiert?$"
 
 PetalburgCity_Gym_Text_JodyIntro:
-	.string "Unser ARENALEITER hat uns angewiesen,\n"
+	.string "Unser Arenaleiter hat uns angewiesen,\n"
 	.string "alles zu geben und dich zu besiegen.\p"
-	.string "Auch wenn du das Kind des LEITERs\n"
+	.string "Auch wenn du das Kind des Leiters\n"
 	.string "bist!$"
 
 PetalburgCity_Gym_Text_JodyDefeat:
 	.string "Aber… Das war wohl nichts!$"
 
 PetalburgCity_Gym_Text_JodyPostBattle:
-	.string "Wie du deine POKéMON einsetzt…\n"
+	.string "Wie du deine Pokémon einsetzt…\n"
 	.string "Du bist wie dein Vater.\p"
-	.string "Geh weiter! Der ARENALEITER, dein\n"
+	.string "Geh weiter! Der Arenaleiter, dein\n"
 	.string "Vater, erwartet dich bereits!$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
@@ -1552,8 +1552,7 @@ PetalburgCity_Gym_Text_EnterSpeedRoom:
 
 @ Unused
 PetalburgCity_Gym_Text_DoorAppearsLocked2:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "Die Tür ist noch verschlossen…$"
 
 PetalburgCity_Gym_Text_EnterAccuracyRoom:
 	.string "“RAUM der GENAUIGKEIT” steht\n"
@@ -1600,12 +1599,12 @@ PetalburgCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:
-	.string "VATER: {PLAYER}…\n"
+	.string "Vater: {PLAYER}…\n"
 	.string "Ich wusste, du würdest kommen.\p"
 	.string "Niemals würde ich eine Herausforderung\n"
 	.string "von dir ablehnen!\p"
 	.string "Du verstehst, was ich meine?\p"
-	.string "In einer ARENA ist es ohne Bedeutung,\n"
+	.string "In einer Arena ist es ohne Bedeutung,\n"
 	.string "dass du mein Kind bist.\p"
 	.string "Im Gegenteil, da wir Vater und Kind\n"
 	.string "sind,\n"
@@ -1617,23 +1616,23 @@ PetalburgCity_Gym_Text_NormanRematchDefeat:
 	.string "Du bist ein harter Brocken…$"
 
 PetalburgCity_Gym_Text_NormanPostRematch:
-	.string "VATER: {PLAYER}…\n"
+	.string "Vater: {PLAYER}…\n"
 	.string "Was ist dein Traum?\p"
 	.string "Mein Traum…\n"
 	.string "Hahaha…\l"
 	.string "Er wurde bereits Wirklichkeit.$"
 
 PetalburgCity_Gym_Text_NormanRematchNeedTwoMons:
-	.string "VATER: {PLAYER}…\n"
+	.string "Vater: {PLAYER}…\n"
 	.string "Ich wusste, du würdest kommen.\p"
 	.string "Niemals würde ich eine Herausforderung\n"
 	.string "von dir ablehnen!\p"
 	.string "Du verstehst, was ich meine?\p"
-	.string "In einer ARENA ist es ohne Bedeutung,\n"
+	.string "In einer Arena ist es ohne Bedeutung,\n"
 	.string "dass du mein Kind bist.\p"
 	.string "Hm? Warte mal, {PLAYER}.\p"
-	.string "Du hast nur ein POKéMON, das kämpfen\n"
+	.string "Du hast nur ein Pokémon, das kämpfen\n"
 	.string "kann?\p"
 	.string "Tut mir Leid, aber du brauchst\n"
-	.string "mindestens zwei POKéMON.$"
+	.string "mindestens zwei Pokémon.$"
 

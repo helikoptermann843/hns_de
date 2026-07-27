@@ -58,13 +58,14 @@ Route32_Pokecenter_Text_FishingGuruGiveRod:
 	.string "oder an einem Fluss.$"
 
 Route32_Pokecenter_Text_FishingGuruNo:
-	.string "Na, das ist aber ziemlich mager…$"
+	.string "Oh, das ist echt schade…$"
 
 Route32_Pokecenter_Text_FishingGuruAfter:
 	.string "Moin, lüttes Ding. Und beißen sie?$"
 
 Route32_Pokecenter_Text_CooltrainerF:
-	.string "Was soll mein Pokémon tragen?\p"
-	.string "Vielleicht ein Item, das seinen\n"
-	.string "ANGR-Wert verstärkt…$"
+	.string "Hm, welches Item sollte ich meinem\n"
+	.string "Pokémon wohl am besten geben?\p"
+	.string "Vielleicht eins, das seinen\n"
+	.string "Angriffs-Wert erhöht?$"
 

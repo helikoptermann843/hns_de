@@ -174,10 +174,10 @@ BattleFrontier_BattleTowerLobby_Text_LookingForwardToNextBattle::
 
 BravoTrainerBattleTower_Text_Intro::
 	.string "Yeah!\n"
-	.string "Es ist BRAVO TRAINER Zeit!\p"
+	.string "Es ist Bravo Trainer Zeit!\p"
 	.string "Heute stellen wir {STR_VAR_1} vor. {STR_VAR_1}\n"
 	.string "hat sich der Herausforderung im\l"
-	.string "DUELLTURM gestellt!\p"
+	.string "Duellturm gestellt!\p"
 	.string "Bei dieser Begegnung hatte {STR_VAR_1}\n"
 	.string "das listige {STR_VAR_2} mitgebracht.$"
 
@@ -1082,8 +1082,8 @@ gTVPokemonTodaySuccessfulText11::
 
 SmartShopper_Text_Intro::
 	.string "Hallo!\p"
-	.string "Zeit für den heutigen CLEVERKAUF!\p"
-	.string "INTERVIEWER: Wie geht es euch?\p"
+	.string "Zeit für den heutigen Cleverkauf!\p"
+	.string "Interviewer: Wie geht es euch?\p"
 	.string "Heute besuchen wir ein Geschäft\n"
 	.string "in {STR_VAR_2}.\p"
 	.string "Schauen wir doch mal, welche Artikel\n"
@@ -1296,19 +1296,19 @@ gTVTodaysRivalTrainerText06::
 	.string "und unsere Rivalen überrunden!$"
 
 TrendWatcher_Text_Intro::
-	.string "FAUSTAUHAVEN TREND-SHOW!\p"
+	.string "Faustauhaven Trend-show!\p"
 	.string "MC: Wie geht’s?\n"
 	.string "Wir bringen euch das pralle Leben ins\l"
 	.string "Haus und zeigen euch, was in\p"
-	.string "FAUSTAUHAVEN gerade angesagt ist.\n"
+	.string "Faustauhaven gerade angesagt ist.\n"
 	.string "Unser heutiger Gast ist dieser alte\l"
 	.string "Freund hier, der von sich behauptet,\p"
-	.string "sich in FAUSTAUHAVEN in allem\n"
+	.string "sich in Faustauhaven in allem\n"
 	.string "auszukennen.\p"
 	.string "Alter Mann: Es freut mich, hier zu sein.\p"
 	.string "MC: Kommen wir gleich zur Sache.\p"
 	.string "Sag uns, was gerade angesagt ist in\n"
-	.string "FAUSTAUHAVEN.\p"
+	.string "Faustauhaven.\p"
 	.string "Alter Mann: {STR_VAR_1}\n"
 	.string "{STR_VAR_2}!\p"
 	.string "MC: {STR_VAR_1} {STR_VAR_2}? \p"
@@ -1835,16 +1835,16 @@ gTVTrainerFanClubText11::
 	.string "FANs: {STR_VAR_3}!$"
 
 TVSpotTheCuties_Text_Intro::
-	.string "HIER SIND DIE SÜSSEN!\n"
-	.string "POKéMON UND IHRE BÄNDER!\p"
+	.string "Hier Sind Die Süssen!\n"
+	.string "Pokémon Und Ihre Bänder!\p"
 	.string "Hallo, meine Süßen!\p"
 	.string "Ich weiß, ihr werdet mir mit Sicherheit\n"
-	.string "zustimmen: POKéMON, die BÄNDer\l"
+	.string "zustimmen: Pokémon, die Bänder\l"
 	.string "tragen, sind wirklich absolut süß!\p"
 	.string "Heute möchte ich euch ein süßes\n"
-	.string "POKéMON zeigen, das ich entdeckt habe,\l"
+	.string "Pokémon zeigen, das ich entdeckt habe,\l"
 	.string "als ich durch die Stadt schlenderte.\p"
-	.string "Unser heutiges süßes POKéMON gehört\n"
+	.string "Unser heutiges süßes Pokémon gehört\n"
 	.string "zu {STR_VAR_1} und ist ein {STR_VAR_2}.$"
 
 TVSpotTheCuties_Text_RibbonsLow::
@@ -1867,7 +1867,7 @@ TVSpotTheCuties_Text_RibbonsHigh::
 	.string "POKéMON-Freund!$"
 
 TVSpotTheCuties_Text_RibbonIntro::
-	.string "Schauen wir uns die BÄNDer von\n"
+	.string "Schauen wir uns die Bänder von\n"
 	.string "{STR_VAR_2} einmal näher an.$"
 
 TVSpotTheCuties_Text_RibbonChampion::
@@ -2193,10 +2193,10 @@ gTVWhatsNo1InHoennTodayText08::
 	.string "könnt zur Nummer eins werden!$"
 
 TVSecretBaseSecrets_Text_Intro::
-	.string "GEHEIMNISSE DER GEHEIMBASIS!\p"
-	.string "Was machen TRAINER in ihrer\n"
-	.string "GEHEIMBASIS?\p"
-	.string "Heute untersuchen wir die GEHEIMBASIS\n"
+	.string "Geheimnisse Der Geheimbasis!\p"
+	.string "Was machen Trainer in ihrer\n"
+	.string "Geheimbasis?\p"
+	.string "Heute untersuchen wir die Geheimbasis\n"
 	.string "von {STR_VAR_1}.\p"
 	.string "Hey! {STR_VAR_2} scheint zu Besuch zu\n"
 	.string "sein.\p"
@@ -2572,22 +2572,22 @@ gTVSafariFanClubText10::
 	.string "Bis zum nächsten Mal! Tschüss!$"
 
 ContestLiveUpdates_Text_Intro::
-	.string "“LIVE VON DEN POKéMON WETTBEWERBen”\p"
+	.string "“Live Von Den Pokémon Wettbewerben”\p"
 	.string "MC: Hallo und herzlich willkommen!\p"
 	.string "Wir berichten live von dem gerade\n"
-	.string "beendeten {STR_VAR_1}-WETTBEWERB.\p"
+	.string "beendeten {STR_VAR_1}-Wettbewerb.\p"
 	.string "Die Halle ist immer noch gefüllt mit\n"
 	.string "einem Publikum, das sich von den\l"
-	.string "POKéMON nicht trennen kann.\p"
+	.string "Pokémon nicht trennen kann.\p"
 	.string "Zuschauer: {STR_VAR_2}!\p"
 	.string "Zuschauer: {STR_VAR_3}!\p"
 	.string "MC: Da haben wir gerade die Namen der\n"
 	.string "Sieger gehört. {STR_VAR_3} hat mit dem\l"
-	.string "POKéMON {STR_VAR_2} gewonnen!\p"
+	.string "Pokémon {STR_VAR_2} gewonnen!\p"
 	.string "Zuschauer: {STR_VAR_2}! Du bist klasse!\p"
 	.string "Zuschauer: {STR_VAR_3}! Weiter so!!!\p"
 	.string "MC: Hören wir mal, was die Fans über\n"
-	.string "diesen WETTBEWERB sagen.$"
+	.string "diesen Wettbewerb sagen.$"
 
 ContestLiveUpdates_Text_WonBothRounds::
 	.string "Zuschauer: Das {STR_VAR_2} lag im\n"
@@ -2847,14 +2847,14 @@ GabbyAndTy_Text_GabbyPreFirstBattle:
 	.string "Interviewen wir jemanden!$"
 
 GabbyAndTy_Text_GabbyIntro:
-	.string "PIA: Oh! Du bist {PLAYER}! Hallo!\n"
+	.string "Pia: Oh! Du bist {PLAYER}! Hallo!\n"
 	.string "Erinnerst du dich an uns?\p"
 	.string "Zeigst du uns, wie stark du geworden\n"
 	.string "bist? Okay, das war das Stichwort.$"
 
 GabbyAndTy_Text_GabbyDefeatFirstTime:
-	.string "PIA: Mein Gefühl hat nicht getrogen.\n"
-	.string "Der TRAINER ist wirklich erstaunlich.$"
+	.string "Pia: Mein Gefühl hat nicht getrogen.\n"
+	.string "Der Trainer ist wirklich erstaunlich.$"
 
 GabbyAndTy_Text_WhoAreYouInterview:
 	.string "PIA: Erstaunlich! Erstaunlich!\n"
@@ -2944,7 +2944,7 @@ GabbyAndTy_Text_GiveUsAnInterviewThisTime:
 	.string "einmal interviewen?$"
 
 GabbyAndTy_Text_GabbyDefeat:
-	.string "PIA: Das war aber ein intensiver\n"
+	.string "Pia: Das war aber ein intensiver\n"
 	.string "Kampf! Hast du alles aufgezeichnet?!?$"
 
 GabbyAndTy_Text_TyPreFirstBattle:
@@ -2953,13 +2953,13 @@ GabbyAndTy_Text_TyPreFirstBattle:
 	.string "an diesem Ort! Kamera ab!$"
 
 GabbyAndTy_Text_TyIntro:
-	.string "UDO: Da schau her!\n"
+	.string "Udo: Da schau her!\n"
 	.string "Ich erinnere mich an dich!\p"
 	.string "Ich werde den ganzen Kampf mit der\n"
 	.string "Kamera aufnehmen!$"
 
 GabbyAndTy_Text_TyPostBattle:
-	.string "UDO: Du bist ein Naturtalent!\n"
+	.string "Udo: Du bist ein Naturtalent!\n"
 	.string "Du gibst mir erstklassiges Bildmaterial!$"
 
 GabbyAndTy_Text_TyNotEnoughMons:
@@ -2969,12 +2969,12 @@ GabbyAndTy_Text_TyNotEnoughMons:
 	.string "das Bildmaterial viel, viel besser!$"
 
 GabbyAndTy_Text_TyDefeatFirstTime:
-	.string "UDO: Wir haben tatsächlich einen\n"
-	.string "starken TRAINER entdeckt.\l"
+	.string "Udo: Wir haben tatsächlich einen\n"
+	.string "starken Trainer entdeckt.\l"
 	.string "Das ist unser Durchbruch.$"
 
 GabbyAndTy_Text_TyDefeat:
-	.string "UDO: Ja, alles im Kasten!\n"
+	.string "Udo: Ja, alles im Kasten!\n"
 	.string "Der ganze Kampf ist auf Band!$"
 
 gTVInSearchOfTrainersText00::
@@ -3074,12 +3074,12 @@ gTVInSearchOfTrainersText08::
 	.string "Bis zur nächsten Sendung!$"
 
 ContestLadyShow_Text_Intro::
-	.string "“LIVE VON DEN POKéMON- WETTBEWERBen”\p"
+	.string "“Live Von Den Pokémon- Wettbewerben”\p"
 	.string "MC: Wir unterbrechen das aktuelle\n"
 	.string "Programm und berichten live von dem\l"
 	.string "gerade beendeten {STR_VAR_1}!\p"
 	.string "Zuschauer: ?!!\p"
-	.string "MC: Oh! Die Teilnehmer des WETTBEWERBs\n"
+	.string "MC: Oh! Die Teilnehmer des Wettbewerbs\n"
 	.string "kommen gerade hier vorbei!\p"
 	.string "Ich versuche, spontan ein Interview\n"
 	.string "für euch zu Hause zu arrangieren.\p"

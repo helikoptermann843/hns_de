@@ -18,12 +18,13 @@ Gate_Route29_Route46_EventScript_Youngster::
 	end
 
 Gate_Route29_Route46_Text_Officer:
-	.string "Du kannst diese Stufen\n"
-	.string "nicht hinaufklettern.\p"
-	.string "Du kannst sie aber hinabspringen,\n"
-	.string "um sie als Abkürzung zu benutzen.$"
+	.string "Hinaufklettern kannst du die\n"
+	.string "Stufen leider nicht.\p"
+	.string "Du kannst sie aber hinabspringen\n"
+	.string "und als Abkürzung benutzen!$"
 
 Gate_Route29_Route46_Text_Youngster:
-	.string "Verschiedene Pokémon tauchen hier auf.\p"
+	.string "Von nun an wirst du noch einigen\n"
+	.string "anderen Pokémon begegnen.\p"
 	.string "Wenn du alle schnappen möchtest,\n"
-	.string "dann musst du überall suchen.$"
+	.string "musst du überall nach ihnen suchen!$"

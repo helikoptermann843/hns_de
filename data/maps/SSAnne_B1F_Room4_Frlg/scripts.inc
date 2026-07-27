@@ -12,25 +12,25 @@ SSAnne_B1F_Room4_EventScript_Duncan::
 	end
 
 SSAnne_B1F_Room4_Text_LeonardIntro::
-	.string "You know what they say about\n"
-	.string "sailors and battling!$"
+	.string "Du weißt, wir Seeleute lieben es zu\n"
+	.string "kämpfen!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-	.string "Right!\n"
-	.string "Good battle, mate!$"
+	.string "JA!\n"
+	.string "Was für ein Kampf!!!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::
-	.string "Hahaha!\n"
-	.string "Want to be a sailor, mate?$"
+	.string "Willst du zur See fahren?$"
 
 SSAnne_B1F_Room4_Text_DuncanIntro::
-	.string "Come on, then!\n"
-	.string "My sailor's pride is at stake!$"
+	.string "Mein Ruf als Seebär steht auf dem\n"
+	.string "Spiel!!!$"
 
 SSAnne_B1F_Room4_Text_DuncanDefeat::
-	.string "Your spirit sank me!$"
+	.string "Kiel unter!\n"
+	.string "Das war es für mich!$"
 
 SSAnne_B1F_Room4_Text_DuncanPostBattle::
-	.string "Did you see the FISHING GURU in\n"
-	.string "VERMILION CITY?$"
+	.string "Hast du schon den Profi-angler in\n"
+	.string "Orania City besucht?$"
 

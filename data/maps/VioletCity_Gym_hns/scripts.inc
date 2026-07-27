@@ -55,13 +55,16 @@ VioletCity_Gym_EventScript_Falkner_Defeated::
 	end
 
 VioletGym_Text_Falkner_Intro:
-	.string "Ich bin Falk,\n"
-	.string "der Arena-Leiter von Viola!\p"
-	.string "Man sagt, Elektro-Attacken\n"
-	.string "stutzen Vogel-Pokémon die Flügel…\p"
-	.string "So etwas werde ich nie zulassen!\p"
-	.string "Ich zeige dir die wahre Kraft\n"
-	.string "der prächtigen Vogel-Pokémon!$"
+	.string "Falk: Ich bin Falk, der Arenaleiter\n"
+	.string "von Viola City!\p"
+	.string "Viele Leute sagen, mit Elektro-Attacken\n"
+	.string "könne man Pokémon vom Typ Flug\l"
+	.string "ganz leicht die Flügel stutzen und\l"
+	.string "machen sich so über mich lustig…\p"
+	.string "Das kann ich so nicht stehen lassen!\p"
+	.string "Wenn du erst mal siehst, wie anmutig\n"
+	.string "meine Flug-Pokémon durch die Lüfte\l"
+	.string "gleiten, weißt du, was wahre Größe ist!$"
 
 VioletGym_Text_Falkner_WinLoss:
 	.string "…Mist! Das wertvolle Vogel-\n"
@@ -84,22 +87,23 @@ VioletGym_Text_Falkner_BadgeExplain:
 VioletGym_Text_Falkner_TMExplain:
 	.string "Mit einer TM lernt ein Pokémon\n"
 	.string "sofort eine neue Attacke.\p"
-	.string "TM32 enthält Doppelteam.\p"
-	.string "Es erhöht die Ausweichfähigkeit.\p"
-	.string "Mit anderen Worten: Dein Pokémon\n"
-	.string "wird schwerer zu treffen.$"
+	.string "TM51 enthält Ruheort.\p"
+	.string "Damit heilt dein Pokémon die Hälfte\n"
+	.string "seiner KP, verliert dafür aber bis\l"
+	.string "zum Rundenende den Flug-Typ.$"
 
 VioletGym_Text_Falkner_AfterFight:
-	.string "In Städten und Orten gibt es\n"
-	.string "Pokémon-Arenen.\p"
-	.string "Du solltest deine Kräfte an\n"
-	.string "diesen Arenen testen.\p"
-	.string "Ich werde härter trainieren,\n"
-	.string "um der beste Vogel-Meister zu werden!$"
+	.string "Falk: Du wirst von nun an in den Arenen\n"
+	.string "vieler Städte zum Kampf antreten.\p"
+	.string "Als Nächstes… ja, als Nächstes nimmst\n"
+	.string "du dir am besten Azalea City vor!\p"
+	.string "Ich werde noch härter trainieren, um\n"
+	.string "der größte Vogelfänger aller Zeiten\l"
+	.string "zu werden!$"
 
 VioletGym_Text_Falkner_Rematch:
 	.string "Glückwunsch zum Sieg über die\n"
-	.string "TOP-Vier!\p"
+	.string "Top-vier!\p"
 	.string "Ich habe meine Vogel-Pokémon\n"
 	.string "noch härter trainiert.\p"
 	.string "Denkst du, du kannst erneut\n"
@@ -117,7 +121,7 @@ VioletGym_Text_BirdKeeperRod_Seen:
 	.string "Los geht's!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
-	.string "Gaaah!$"
+	.string "Urgs!$"
 
 VioletGym_Text_BirdKeeperRod_After:
 	.string "FALKNERs Können ist groß!\p"
@@ -141,18 +145,19 @@ VioletGym_Text_GymGuide_Intro:
 	.string "Tipps geben!\p"
 	.string "Hörst du zu?\n"
 	.string "Dann pass auf.\p"
-	.string "FALKNERs Trumpf ist eine kräftige\n"
-	.string "Eule, die gern BEEREN frisst.\p"
+	.string "Falkners Trumpf ist eine kräftige\n"
+	.string "Eule, die gern Beeren frisst.\p"
 	.string "Sie ist nicht die stärkste,\n"
 	.string "aber kann viel einstecken.\p"
 	.string "Wenn du mehr Tipps willst,\n"
-	.string "geh zur POKéMON-AKADEMIE.\p"
+	.string "geh zur Pokémon-Akademie.\p"
 	.string "Die Schüler dort kennen sich richtig\n"
 	.string "gut aus!$"
 
 VioletGym_Text_GymGuide_Win:
-	.string "Schöner Kampf! Mach weiter so,\n"
-	.string "und bald bist du CHAMP!$"
+	.string "Netter Kampf! Mach immer so\n"
+	.string "weiter und aus dir wird schon\l"
+	.string "bald ein echter Champ!$"
 
 VioletCity_Gym_EventScript_Statue::
 	lock
@@ -169,7 +174,7 @@ VioletCity_Gym_EventScript_Statue2::
 	end
 
 VioletCity_Gym_Text_GymStatue:
-	.string "Viola City Pokémon Arena$"
+	.string "Pokémon-Arena von Viola City$"
 
 VioletCity_Gym_Text_GymStatueCertified:
 	.string "Viola City Pokémon Arena\p"

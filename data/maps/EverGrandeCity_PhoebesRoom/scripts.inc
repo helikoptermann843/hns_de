@@ -60,15 +60,15 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ahahahahaha!\p"
-	.string "Ich bin ANTONIA von den TOP VIER.\n"
-	.string "Ich habe am PYROBERG trainiert.\p"
+	.string "Ich bin Antonia von den Top Vier.\n"
+	.string "Ich habe am Pyroberg trainiert.\p"
 	.string "Während des Trainings habe ich die\n"
-	.string "Fähigkeit erworben, mit GEIST-POKéMON\l"
+	.string "Fähigkeit erworben, mit Geist-pokémon\l"
 	.string "zu kommunizieren.\p"
 	.string "In der Tat ist das Band zwischen mir\n"
-	.string "und den POKéMON sehr stark.\p"
+	.string "und den Pokémon sehr stark.\p"
 	.string "Komm und schau, ob du irgendetwas\n"
-	.string "gegen meine POKéMON ausrichten kannst.$"
+	.string "gegen meine Pokémon ausrichten kannst.$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
 	.string "Oh, verdammt.\n"
@@ -76,7 +76,7 @@ EverGrandeCity_PhoebesRoom_Text_Defeat:
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
 	.string "Das Band zwischen dir und deinen\n"
-	.string "POKéMON ist ebenfalls sehr stark.\p"
+	.string "Pokémon ist ebenfalls sehr stark.\p"
 	.string "Das habe ich gar nicht bemerkt, daher\n"
 	.string "konnte ich nur verlieren.\p"
 	.string "Ja, jetzt möchte ich sehen, wie weit\n"

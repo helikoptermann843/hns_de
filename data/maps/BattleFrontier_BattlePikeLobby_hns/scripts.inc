@@ -326,8 +326,7 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "bist…$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd_hns:
-	.string "Komm zurück zu mir,\n"
-	.string "wenn du bereit bist…$"
+	.string "Komm wieder, wenn du bereit bist.$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "Ich bitte vielmals um Entschuldigung,\n"
@@ -343,9 +342,7 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "bist…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons_hns:
-	.string "Bitte wähle 3 POKéMON, mit denen du\n"
-	.string "dich\l"
-	.string "der Herausforderung stellen möchtest.$"
+	.string "Bitte Pokémon für den Kampf auswählen.$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge_hns:
 	.string "Bevor du dich der Herausforderung\n"
@@ -373,16 +370,16 @@ BattleFrontier_BattlePikeLobby_Text_ShallRecordResults_hns:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2_hns:
-	.string "To commemorate your completion of\n"
-	.string "the Battle Choice challenge, we award\l"
-	.string "you these Battle Point(s)…$"
+	.string "Zur Feier deines Sieges in der\n"
+	.string "Kampfbahn-Herausforderung\l"
+	.string "erhältst du diese GEWINNPUNKTE.$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit_hns:
-	.string "You appear to have reached the limit\n"
-	.string "for Battle Points…\p"
-	.string "Please exchange some Battle Points\n"
-	.string "for prizes, then return…$"
+	.string "Du scheinst die Höchstzahl an\n"
+	.string "GEWINNPUNKTEN erreicht zu haben…\p"
+	.string "Bitte tausche einige GEWINNPUNKTE\n"
+	.string "gegen Preise und kehre dann zurück…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting_hns:
 	.string "Ich bitte vielmals um Entschuldigung,\n"
@@ -422,12 +419,12 @@ BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere_hns:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose_hns:
-	.string "What is this weird place?\n"
-	.string "I can’t figure it out at all!\p"
-	.string "I’ve taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run\n"
-	.string "into\l"
-	.string "TRAINERS whichever path I choose.$"
+	.string "Was ist das nur für ein seltsamer Ort?\n"
+	.string "Ich verstehe ihn einfach nicht!\p"
+	.string "Ich habe die Herausforderung schon\n"
+	.string "oft angenommen, aber ich treffe\l"
+	.string "immer nur auf TRAINER, egal welchen\n"
+	.string "Weg ich nehme.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed_hns:
 	.string "Die Regeln der Kampfbahn hängen\n"

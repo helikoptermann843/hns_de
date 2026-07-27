@@ -35,8 +35,8 @@ GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_TP::
 	end
 
 GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_Text::
-	.string "Go back to the entrance\n"
-	.string "and reset switches?$"
+	.string "Zurück zum Eingang gehen und die\n"
+	.string "Schalter zurücksetzen?$"
 
 @ 3->2->1
 

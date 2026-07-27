@@ -144,7 +144,8 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirector2:
 	.string "nur, wenn du mich besiegst!$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorWin:
-	.string "Schon gut! Ich sag dir, wo er ist.$"
+	.string "I-ist ja gut, in Ordnung…\n"
+	.string "Ich sage dir, wo der Intendant ist.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter:
 	.string "Der Boss hat den DIREKTOR im\n"
@@ -384,9 +385,9 @@ GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Seen:
 	.string "Doch heute nicht!$"
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Beaten:
-	.string "Das... das darf nicht sein!\p"
-	.string "Ich gab alles und verlor doch…\p"
-	.string "Es tut mir leid, Giovanni…$"
+	.string "Gnnnnn!\p"
+	.string "Ich habe doch 100 Prozent gegeben…\n"
+	.string "Wieso hat das nicht gereicht?$"
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1After:
 	.string "{PLAYER}, richtig?\p"
@@ -395,29 +396,32 @@ GoldenrodCity_RadioTower_5F_Text_ExecutiveF1After:
 	.string "Schade… Ich bewundere deine Stärke.$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossSeen:
-	.string "Oh? Du hast es bis hierher\n"
-	.string "geschafft?\p"
-	.string "Du bist ein starker Trainer.\p"
-	.string "Wir übernehmen die\n"
-	.string "RADIOSTATION und kündigen unser\l"
-	.string "Comeback an.\p"
-	.string "So wird unser Boss Giovanni aus\n"
-	.string "seinem Training zurückkehren!\p"
-	.string "Wir werden zu alter Größe\n"
-	.string "zurückfinden…\p"
-	.string "Ich lasse dich unsere Pläne nicht\n"
-	.string "durchkreuzen!$"
+	.string "Atlas: Sieh mal einer an… du hast\n"
+	.string "es endlich bis hierher geschafft!\p"
+	.string "Offensichtlich hast du einiges an\n"
+	.string "Talent als Trainer!\p"
+	.string "Wir haben den Radiosender besetzt,\n"
+	.string "um der ganzen Nation zu verkünden,\l"
+	.string "dass wir wieder da sind!\p"
+	.string "Wenn wir das tun, wird sicher auch\n"
+	.string "Giovanni wieder von seiner\l"
+	.string "Lehr- und Wanderreise zurückkehren!\p"
+	.string "Wir werden wieder zu unserem\n"
+	.string "früheren Glanz zurückfinden!\l"
+	.string "Du kommst uns dabei nicht in die Quere!$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossBeaten:
-	.string "Nein! Verzeih mir, Giovanni!$"
+	.string "…Nein…\n"
+	.string "Vergib mir, großer Giovanni!$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossAfter:
-	.string "Wie konnte das geschehen?\p"
-	.string "All unsere Träume... dahin.\p"
-	.string "Ich war dieser Aufgabe doch\n"
-	.string "nicht gewachsen.\p"
-	.string "Wie Giovanni einst werde ich TEAM\n"
-	.string "ROCKET heute auflösen.\p"
+	.string "Atlas: …Ich kann es nicht glauben.\p"
+	.string "Es ist vorbei. All meine Träume sind\n"
+	.string "geplatzt.\l"
+	.string "Ich war wohl doch nicht gut genug.\p"
+	.string "In Ordnung.\n"
+	.string "Hiermit löse ich Team Rocket\l"
+	.string "auf, genau wie es einst Giovanni tat.\p"
 	.string "Leb wohl.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorThanks:
@@ -503,18 +507,19 @@ GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "Ich erinnere mich nicht.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorFakeout:
-	.string "Erwartest du etwas?\n"
-	.string "Das nennt man Mogelhieb!\p"
-	.string "Jetzt aber wirklich:\n"
-	.string "Ich muss ins Büro. Tschüss!$"
+	.string "Nein, keine Sorge! Ich bin schon fertig!\n"
+	.string "Diese Technik nennt\l"
+	.string "man Antäuschen!\p"
+	.string "Alles klar! Jetzt gehe ich aber\n"
+	.string "wirklich mal zurück in mein Büro!$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
-	.string "INTENDANT: Hallo, {PLAYER}!\p"
-	.string "Weißt du… Ich liebe Pokémon.\p"
-	.string "Ich baute diesen Radioturm, um\n"
-	.string "meine Liebe dafür zu zeigen.\p"
-	.string "Ich hoffe, die Leute mögen\n"
-	.string "unsere Programme.$"
+	.string "Intendant: Ach, du bist es! Hallo!\n"
+	.string "Ich bin so vernarrt in Pokémon, dass\l"
+	.string "ich einen Radiosender eröffnet habe, um\l"
+	.string "diesem Gefühl Ausdruck zu verleihen!\p"
+	.string "Ich hoffe wirklich, dass mein Publikum\n"
+	.string "Spaß an unserem Programm hat!$"
 
 @ 1.3 Sequence Break - Directs player toward Baoba
 GoldenrodCity_RadioTower_5F_Text_DirectorWest:
@@ -527,10 +532,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorWest:
 	.string "in Richtung ROUTE 39.$"
 
 GoldenrodCity_RadioTower_5F_Text_Ben:
-	.string "Ben: Hörst du unsere Musik?$"
+	.string "Ben: Hörst du gerne Musik?$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorOfficeSign:
-	.string "4S   BÜRO DES INTENDANTEN$"
+	.string "4S: Büro des Intendanten$"
 
 GoldenrodCity_RadioTower_5F_Text_Studio1Sign:
 	.string "4S   STUDIO 1$"

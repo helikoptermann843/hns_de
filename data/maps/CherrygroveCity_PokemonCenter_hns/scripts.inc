@@ -41,13 +41,12 @@ CherryGrove_Pokecenter_Chansey::
 	end
 
 CherryGrove_Pokecenter_Text_Fisher:
-	.string "Es ist großartig. Ich kann beliebig\n"
-	.string "viele Pokémon lagern, und das\l"
-	.string "alles kostenlos.$"
+	.string "Toll! Hier kann man völlig umsonst so\n"
+	.string "viele Pokémon lagern, wie man nur will!$"
 
 CherryGrove_Pokecenter_Text_Gentleman:
-	.string "Dieser PC ist für jeden Trainer\n"
-	.string "frei nutzbar.$"
+	.string "Dieser PC steht jedem Trainer\n"
+	.string "kostenfrei zur Verfügung.$"
 
 CherryGrove_Pokecenter_Text_Lass:
 	.string "Man sagt, ein Tunichtgut tut nichts\n"

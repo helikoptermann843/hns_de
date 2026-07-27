@@ -231,52 +231,54 @@ PokemonTower_7F_Movement_Grunt3ExitLeft::
 	step_end
 
 PokemonTower_7F_Text_Grunt1Intro::
-	.string "What do you want?\n"
-	.string "Why are you here?$"
+	.string "Was willst du?\n"
+	.string "Warum bist du hier?$"
 
 PokemonTower_7F_Text_Grunt1Defeat::
-	.string "I give up!$"
+	.string "Ich gebe auf!$"
 
 PokemonTower_7F_Text_Grunt1PostBattle::
-	.string "I'm not going to forget this!$"
+	.string "Das werde ich dir nie verzeihen!$"
 
 PokemonTower_7F_Text_Grunt2Intro::
-	.string "This old guy marched right up to\n"
-	.string "our HIDEOUT.\p"
-	.string "Then, he starts ranting about how\n"
-	.string "TEAM ROCKET's abusing POKéMON.\p"
-	.string "So, we're just talking it over as\n"
-	.string "adults.$"
+	.string "Da war so ein alter Knacker, der\n"
+	.string "behauptet hat, wir würden Pokémon\l"
+	.string "quälen!\p"
+	.string "Willst du meine Meinung hören?$"
 
 PokemonTower_7F_Text_Grunt2Defeat::
-	.string "Please!\n"
-	.string "No more!$"
+	.string "Bitte!\n"
+	.string "Lass mich in Ruhe!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
-	.string "POKéMON are only good for making\n"
-	.string "money. Why not use them?\p"
-	.string "You stay out of our business!$"
+	.string "POKéMON sind nur zum Geldverdienen\n"
+	.string "gut!\p"
+	.string "Halte dich aus unseren\n"
+	.string "Angelegenheiten heraus!$"
 
 PokemonTower_7F_Text_Grunt3Intro::
-	.string "You're not saving anyone, kid!$"
+	.string "Du wirst niemanden retten!$"
 
 PokemonTower_7F_Text_Grunt3Defeat::
-	.string "Don't fight us ROCKETS!$"
+	.string "Leg dich nicht mit dem Team Rocket\n"
+	.string "an!$"
 
 PokemonTower_7F_Text_Grunt3PostBattle::
-	.string "You're not getting away with this!$"
+	.string "Du wirst nicht ungestraft\n"
+	.string "davonkommen!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
-	.string "MR. FUJI: Heh?\n"
-	.string "You came to save me?\p"
-	.string "Thank you. But, I came here of my\n"
-	.string "own free will.\p"
-	.string "I came to calm the spirit of\n"
-	.string "CUBONE's mother.\p"
-	.string "I think MAROWAK's spirit has\n"
-	.string "finally left us.\p"
-	.string "I must thank you for your kind\n"
-	.string "concern.\p"
-	.string "Follow me to my home, POKéMON\n"
-	.string "HOUSE, at the foot of this tower.$"
+	.string "MR. FUJI: Was?\n"
+	.string "Du kommst, um mich zu retten?\p"
+	.string "Vielen Dank!\n"
+	.string "Aber ich bin freiwillig hier.\p"
+	.string "Ich kam her, um die Seele von\n"
+	.string "TRAGOSSOs Mutter zu beruhigen!\p"
+	.string "Die Seele des KNOGGA sollte nun in\n"
+	.string "die ewigen Jagdgründe eingekehrt\l"
+	.string "sein.\p"
+	.string "Trotzdem danke ich dir für deine\n"
+	.string "Sorge um mich!\p"
+	.string "Folge mir in das POKéMON-CLUBHAUS\n"
+	.string "am Fuße dieses Turms.$"
 

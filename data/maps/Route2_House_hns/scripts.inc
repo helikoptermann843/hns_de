@@ -28,6 +28,6 @@ Route2_House_Text_Fisher:
 	.string "Das hier ist für dich.$"
 
 Route2_House_Text_Fisher_GotNugget:
-	.string "Das ist ein NUGGET.\p"
-	.string "Ich kann dir keine weisen Ratschläge\n"
+	.string "Das ist ein Nugget.\n"
+	.string "Ich kann dir keine weisen Ratschläge\l"
 	.string "mitgeben, das hier muss ausreichen!$"

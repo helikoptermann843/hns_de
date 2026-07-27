@@ -114,18 +114,18 @@ Route16_NorthEntrance_1F_EventScript_OldMan::
 	end
 
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
-	.string "No pedestrians are allowed on\n"
-	.string "CYCLING ROAD!$"
+	.string "SILPH SCOPE?\n"
+	.string "Ich weiß nicht, wovon du redest!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
-	.string "CYCLING ROAD is a downhill course\n"
-	.string "by the sea. It's a great ride.$"
+	.string "Willst du dich mit dem TEAM ROCKET\n"
+	.string "anlegen?$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
-	.string "Excuse me!\n"
-	.string "Wait up, please!$"
+	.string "Unsere Rache wird grauenvoll, du\n"
+	.string "Rotzblag!$"
 
 Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
-	.string "How'd you get in?\n"
-	.string "Good effort!$"
+	.string "O.K., O.K., ich packe aus!\n"
+	.string "Benutze den Aufzug zum BOSS!$"
 

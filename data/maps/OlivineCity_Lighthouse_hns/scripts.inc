@@ -78,35 +78,36 @@ OlivineLighthouse_EventScript_GentlemanAlfred::
     end
 
 OlivineLighthouse_Text_SailorHueySeen:
-	.string "Seemänner suchen stets nach\n"
-	.string "einem guten Kampf!$"
+	.string "Seefahrer sind immer\n"
+	.string "wild auf einen guten Kampf!$"
 
 OlivineLighthouse_Text_SailorHueyBeaten:
-	.string "Urf! Ich verliere!$"
+	.string "Uff!\n"
+	.string "Der hat gesessen!$"
 
 OlivineLighthouse_Text_SailorHueyAfter:
-	.string "Was für eine Kraft! Willst du\n"
-	.string "mit mir die Meere befahren?$"
+	.string "Du bist schwer auf Zack! Möchtest du\n"
+	.string "mit mir die Meere unsicher machen?$"
 
 OlivineLighthouse_Text_HueyRegister:
-	.string "Welch Stärke! Wie wärs,\n"
-	.string "willst du mit mir segeln?$"
+	.string "Du bist schwer auf Zack! Möchtest du\n"
+	.string "mit mir die Meere unsicher machen?$"
 
 OlivineLighthouse_Text_HueyRematchIntro:
-	.string "Männer der See sind immer\n"
-	.string "bereit für einen guten Kampf!$"
+	.string "Seefahrer sind immer\n"
+	.string "wild auf einen guten Kampf!$"
 
 OlivineLighthouse_Text_HueyRematchDefeat:
-	.string "Urf!\n"
-	.string "Ich verliere!$"
+	.string "Uff!\n"
+	.string "Der hat gesessen!$"
 
 OlivineLighthouse_Text_HueyPostRematch:
-	.string "Sehr stark!\n"
-	.string "Wie wärs mit einem Segeltörn?$"
+	.string "Du bist schwer auf Zack! Möchtest du\n"
+	.string "mit mir die Meere unsicher machen?$"
 
 OlivineLighthouse_Text_GentlemanAlfredSeen:
-	.string "Hm? Hier ist kein Ort\n"
-	.string "zum Spielen.$"
+	.string "He, du da!\n"
+	.string "Wir sind hier nicht auf dem Spielplatz!$"
 
 OlivineLighthouse_Text_GentlemanAlfredBeaten:
 	.string "Ah! Ich sehe,\n"
@@ -145,36 +146,37 @@ OlivineLighthouse_Text_BirdKeeperTheoBeaten:
 	.string "das kranke Pokémon…$"
 
 OlivineLighthouse_Text_BirdKeeperTheoAfter:
-	.string "Wie zum Teufel kommt man hoch?\p"
-	.string "Ich will das kranke Pokémon\n"
-	.string "besuchen, aber ich komme nicht hin…$"
+	.string "Wie zum Henker kommt man bloß da hoch?\n"
+	.string "Ich will das kranke Pokémon besuchen,\l"
+	.string "aber ich finde den Weg zur Spitze nicht.$"
 
 OlivineLighthouse_Text_SailorTerrellSeen:
-	.string "Matrosen sind freundlich und\n"
-	.string "stark. Und du?$"
+	.string "Seeleute sind hart UND zart in einem.\n"
+	.string "Eine perfekte Mischung, wie ich meine.\l"
+	.string "Wie steht es mit dir?$"
 
 OlivineLighthouse_Text_SailorTerrellBeaten:
-	.string "Du bist freundlich und stark…$"
+	.string "Aaah, du gehörst also auch\n"
+	.string "zu den Harten und den Zarten.$"
 
 OlivineLighthouse_Text_SailorTerrellAfter:
-	.string "Jedes Mal, wenn ich nach OLIVIANA\n"
-	.string "zurückkehre, besuche ich die Arena.\p"
-	.string "Der Typ der Pokémon des Arenaleiters\n"
-	.string "hat sich geändert, ohne dass ich es\l"
-	.string "merkte.$"
+	.string "Jedes Mal, wenn ich nach Oliviana City\n"
+	.string "komme, gehe ich in die Pokémon-Arena.\p"
+	.string "Aber dass der Pokémon-Typ der Arena-\n"
+	.string "leiterin sich geändert hat, war mir neu.$"
 
 OlivineLighthouse_Text_GentlemanPrestonSeen:
-	.string "Ich reise um die Welt, um meine\n"
-	.string "Pokémon zu trainieren. Ich möchte\l"
-	.string "gegen dich kämpfen.$"
+	.string "Ich bereise die Welt, um\n"
+	.string "meine Pokémon zu trainieren.\l"
+	.string "Ich möchte mit dir kämpfen.$"
 
 OlivineLighthouse_Text_GentlemanPrestonBeaten:
-	.string "…Seufz… Ich muss noch mehr\n"
-	.string "trainieren…$"
+	.string "… Seufz…\n"
+	.string "Immer noch nicht genug trainiert…$"
 
 OlivineLighthouse_Text_GentlemanPrestonAfter:
-	.string "Jasmin nutzte früher Gestein-Pokémon\n"
-	.string "wie Onix.$"
+	.string "Jasmin war ursprünglich auf\n"
+	.string "Gestein-Pokémon wie ONIX spezialisiert.$"
 
 @4th floor==============================================================================================================================
 
@@ -190,25 +192,28 @@ OlivineLighthouse_EventScript_LassConnie::
 
 
 OlivineLighthouse_Text_SailorKentSeen:
-	.string "JASMIN muss sich um das\n"
-	.string "Pokémon hier furchtbar sorgen.\p"
-	.string "Sie lächelt heutzutage nicht mal.$"
+	.string "Jasmin muss krank vor Sorge\n"
+	.string "um das Pokémon sein.\l"
+	.string "Man sieht sie nicht einmal mehr lächeln.$"
 
 OlivineLighthouse_Text_SailorKentBeaten:
-	.string "Ich schaffe es auch nicht zu lächeln…$"
+	.string "Ich habe aber gerade auch nicht viel\n"
+	.string "Grund zu lachen…$"
 
 OlivineLighthouse_Text_SailorKentAfter:
-	.string "Apropos krank: Ich hörte, es gibt\n"
-	.string "eine gute APOTHEKE in ANEMONIA.$"
+	.string "Apropos krank: Mir ist zu Ohren\n"
+	.string "gekommen, dass es in Anemonia City\l"
+	.string "eine gute Apotheke geben soll.$"
 
 OlivineLighthouse_Text_LassConnieSeen:
-	.string "JASMIN ist die Arenaleiterin dieser\n"
-	.string "Stadt.\p"
-	.string "Ich werde sie zurück bringen.\p"
-	.string "Niemand soll mir im Weg stehen!$"
+	.string "Jasmin leitet die Arena hier\n"
+	.string "in dieser Stadt.\p"
+	.string "Ich werde sie zurückholen. Besser,\n"
+	.string "du stellst dich mir nicht in den Weg!$"
 
 OlivineLighthouse_Text_LassConnieBeaten:
-	.string "Aaack! Meine Pokémon!$"
+	.string "Aaah! Was machst du da\n"
+	.string "mit meinem Pokémon?$"
 
 OlivineLighthouse_Text_LassConnieAfter:
 	.string "Richtig. Jeder wäre besorgt, wenn\n"
@@ -229,24 +234,25 @@ OlivineLighthouse_EventScript_BirdKeeperDenis::
     end
 
 OlivineLighthouse_Text_SailorErnestSeen:
-	.string "Ich wollte gegen Jasmin kämpfen,\n"
-	.string "aber sie ist gerade nicht bereit.\p"
-	.string "Wie sieht's bei dir aus?$"
+	.string "Ich hatte vor, gegen Jasmin zu\n"
+	.string "kämpfen, aber sie ist nicht da.\l"
+	.string "Wie wäre es mit dir?$"
 
 OlivineLighthouse_Text_SailorErnestBeaten:
-	.string "Whoa, whoa. Du bist überwältigend!$"
+	.string "Wow, du hast mich\n"
+	.string "überwältigt!$"
 
 OlivineLighthouse_Text_SailorErnestAfter:
-	.string "Ein Arenaleiter muss nicht nur\n"
-	.string "stark sein.\p"
-	.string "Ein Leiter muss auch Mitgefühl zeigen.$"
+	.string "Arenaleiter müssen nicht nur stark\n"
+	.string "sein. Auch Mitgefühl zeichnet sie aus.$"
 
 OlivineLighthouse_Text_BirdKeeperDenisSeen:
-	.string "Wir sind ziemlich hoch hier.\n"
-	.string "Meine Vogel-Pokémon sind topfit.$"
+	.string "Wir sind hier ziemlich nah am Himmel.\n"
+	.string "Vogel-Pokémon sind da in ihrem Element!$"
 
 OlivineLighthouse_Text_BirdKeeperDenisBeaten:
-	.string "Ups… Sie stürzten ab…$"
+	.string "Ups…\n"
+	.string "Wer hoch steigt, fällt eben auch tief.$"
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
 	.string "Meine Pokémon lernten Fliegen in\n"
@@ -298,19 +304,25 @@ OlivineLighthouse_EventScript_AmpharosSick::
 	end
 
 OlivineLighthouse_Text_JasmineCianwoodPharmacy:
-	.string "Jasmin: …Dieses Pokémon hielt\n"
-	.string "das Meer nachts immer erleuchtet.\p"
-	.string "…Aber es wurde plötzlich krank…\n"
-	.string "Es ringt nach Luft…\p"
-	.string "…Ich habe gehört, dass es in ANEMONIA\n"
-	.string "eine tolle APOTHEKE gibt…\p"
-	.string "Aber das ist über das Meer…\n"
-	.string "Und AMPHY kann ich nicht allein\l"
-	.string "lassen…$"
+	.string "Jasmin: Dieses Pokémon hat immer\n"
+	.string "das Meer für uns ausgeleuchtet.\p"
+	.string "Aber dann…\n"
+	.string "wurde es plötzlich sehr krank.\l"
+	.string "Seitdem ringt es nur noch nach Luft…\p"
+	.string "In Anemonia City, auf der anderen\n"
+	.string "Seite des Ozeans, soll es einen\l"
+	.string "wundertätigen Apotheker geben, aber…\p"
+	.string "…ich kann Amphi nicht einfach\n"
+	.string "hier alleine lassen…\p"
+	.string "Würdest du mir einen Gefallen tun?\n"
+	.string "Könntest du vielleicht für mich\l"
+	.string "dort Medizin kaufen gehen?\p"
+	.string "Ich halte dir auch den Eingang offen…$"
 
 OlivineLighthouse_Text_JasmineGetMedicine:
-	.string "…Kannst du bitte Medizin für mich\n"
-	.string "holen? Bitte?$"
+	.string "D-du tust mir doch den Gefallen, oder?\n"
+	.string "Du gehst doch für mich Medizin\l"
+	.string "kaufen, bitte!$"
 
 OlivineLighthouse_Text_JasmineGetMedicine2:
 	.string "In ANEMONIA gibt es eine tolle\n"
@@ -322,8 +334,8 @@ OlivineLighthouse_Text_JasmineGetMedicine2:
 	.string "holen? Bitte?$"
 
 OlivineLighthouse_Text_JasmineCureAmphy:
-	.string "Jasmin: …Wird die Medizin AMPHY\n"
-	.string "heilen?$"
+	.string "Jasmin: …Kann Amphi mit dieser\n"
+	.string "Medizin geheilt werden?$"
 
 
 OlivineLighthouse_EventScript_JasmineDeliverPotion::
@@ -394,22 +406,23 @@ OlivineLighthouse_Text_PlayerHandedSecretpotion:
 	.string "GEHEIMTRANK.$"
 
 OlivineLighthouse_Text_JasmineDontBeOffended:
-	.string "Jasmin: …Bitte sei mir nicht\n"
-	.string "böse…\p"
-	.string "…AMPHY nimmt nichts von jemandem\n"
-	.string "außer von mir…$"
+	.string "Jasmin: Ni-nimm mir das\n"
+	.string "bitte nicht übel, ja?\p"
+	.string "Amphi lässt sich bloß\n"
+	.string "von niemand anderem\l"
+	.string "als mir füttern…$"
 
 OlivineLighthouse_Text_JasmineAmphyHowFeeling:
 	.string "Jasmin: …\p"
-	.string "AMPHY, wie fühlst du dich?$"
+	.string "Wie geht es dir jetzt, Amphi?$"
 
 OlivineLighthouse_Text_JasmineThankYou:
-	.string "Jasmin: …Oh, ich bin so erleichtert…\p"
-	.string "Das ist einfach wunderbar…\p"
-	.string "Vielen, vielen Dank.\p"
-	.string "…Ich kehre zur Arena zurück…\p"
-	.string "Ich warne dich, Stahl-Typen\n"
-	.string "sind sehr stark.$"
+	.string "Jasmin: Oh, so ein Glück!\n"
+	.string "Es hat wirklich geklappt!\p"
+	.string "Ich bin dir ja so dankbar!\n"
+	.string "Das ist alles dein Verdienst!\p"
+	.string "…In Ordnung! Dann gehe\n"
+	.string "ich jetzt zurück in die Arena!$"
 
 OlivineLighthouse_Text_JasmineISee:
 	.string "JASMINE: …Oh mann…\n"
@@ -423,6 +436,6 @@ OlivineLighthouse_Text_AmphyBreathingLabored:
 	.string "Sein Atem ist schwer…$"
 
 OlivineLighthouse_Text_AmphyPaluPalulu:
-	.string "AMPHY: Palu! Palulu!$"
+	.string "Amphi: Ampha! Ampha!$"
 
 

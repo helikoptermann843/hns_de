@@ -75,8 +75,8 @@ OlivineCity_Text_CafeFishingGuru:
 
 OlivineCity_Text_CafeSailor:
 	.string "Immer wenn ich in diese Stadt komme,\n"
-	.string "gehe ich ins OLIVIANA CITYCAFE.\p"
-	.string "Jedes Gericht auf der Karte stärkt\n"
-	.string "mich. Ich kann nicht\l"
-	.string "aufhören zu essen!$"
+	.string "schaue ich hier zum Essen vorbei.\p"
+	.string "Alles, was hier auf der Karte steht,\n"
+	.string "verleiht mir unglaubliche Kräfte.\l"
+	.string "Das Essen hier macht echt süchtig!$"
 

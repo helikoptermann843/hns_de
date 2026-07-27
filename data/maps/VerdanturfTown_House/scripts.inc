@@ -16,10 +16,10 @@ VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
 	.string "Furcht erregend talentiert.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "In der POKéMON LIGA musst du die TOP\n"
-	.string "VIER hintereinander besiegen. Das\l"
+	.string "In der Pokémon Liga musst du die Top\n"
+	.string "Vier hintereinander besiegen. Das\l"
 	.string "sagen die Regeln.\p"
-	.string "Wenn du gegen einen dieser TRAINER\n"
+	.string "Wenn du gegen einen dieser Trainer\n"
 	.string "verlierst, musst du die\n"
 	.string "Herausforderung\l"
 	.string "von vorne beginnen.$"

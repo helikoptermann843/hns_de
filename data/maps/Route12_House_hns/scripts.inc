@@ -34,17 +34,18 @@ Route12_House_Text_OfferSuperRod:
 	.string "Na? Hab ich recht?$"
 
 Route12_House_Text_GiveSuperRod:
-	.string "Ja, genau wie ich dachte!\p"
-	.string "Hier, Angel-Fan! Nimm dies--\n"
-	.string "eine Superangel.$"
+	.string "Ja, ganz eindeutig! Du angelst gerne!\n"
+	.string "Genau wie ich mir dachte!\p"
+	.string "Hier, ein kleines Geschenk unter\n"
+	.string "Anglern! Diese Angel ist der Wahnsinn!$"
 
 Route12_House_Text_GaveSuperRod:
-	.string "Probier dein Glück beim Angeln\n"
-	.string "überall am Wasser.\p"
-	.string "Denk dran--verschiedene Ruten\n"
-	.string "fangen verschiedene Pokémon.$"
+	.string "Damit kannst du an den verschiedensten\n"
+	.string "Orten dem Angeln frönen!\p"
+	.string "Wenn du verschiedene Ruten benutzt,\n"
+	.string "beißen auch immer andere Pokémon an!$"
 
 Route12_House_Text_DontWantSuperRod:
-	.string "Huh? Meine Augen haben mich\n"
-	.string "getäuscht?$"
+	.string "Echt jetzt? Sollte ich mich in meiner\n"
+	.string "Einschätzung etwa getäuscht haben?$"
 

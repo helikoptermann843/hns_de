@@ -212,7 +212,7 @@ LavaridgeTown_Gym_1F_Text_AxleIntro:
 	.string "Komm her. Ich will mich abreagieren.$"
 
 LavaridgeTown_Gym_1F_Text_AxleDefeat:
-	.string "Ich hoffe, FLAVIA wird dich rösten!$"
+	.string "Ich hoffe, Flavia wird dich rösten!$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
 	.string "Haaah… Huuuuh…\p"
@@ -225,7 +225,7 @@ LavaridgeTown_Gym_B1F_Text_KeeganIntro:
 	.string "Sand ausruhen?\p"
 	.string "Aber du solltest wissen, dass\n"
 	.string "Willenskraft ganz wichtig für einen\l"
-	.string "TRAINER ist.$"
+	.string "Trainer ist.$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 	.string "Spiele mit Feuer und du verbrennst\n"
@@ -233,12 +233,12 @@ LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
 	.string "Dein Können ist gut… Aber unsere\n"
-	.string "LEITERIN FLAVIA ist stark.\p"
+	.string "Leiterin Flavia ist stark.\p"
 	.string "Wenn du nicht aufpasst, verbrennst\n"
 	.string "du dich ernsthaft.$"
 
 LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "Kann dein POKéMON 200 Grad aushalten?$"
+	.string "Kann dein Pokémon 200 Grad aushalten?$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
 	.string "Die Hitze war nicht stark genug…$"
@@ -246,7 +246,7 @@ LavaridgeTown_Gym_1F_Text_GeraldDefeat:
 LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
 	.string "Die Temperatur von Magma beträgt\n"
 	.string "über 200 Grad.\p"
-	.string "Deine POKéMON haben mich besiegt, sie\n"
+	.string "Deine Pokémon haben mich besiegt, sie\n"
 	.string "sollten auch in Magma überleben\l"
 	.string "können.$"
 
@@ -258,7 +258,7 @@ LavaridgeTown_Gym_1F_Text_DanielleDefeat:
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
 	.string "Ich will einmal so eine starke\n"
-	.string "TRAINERIN werden wie FLAVIA.$"
+	.string "Trainerin werden wie Flavia.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
 	.string "Komm schon! Los geht’s!\n"
@@ -272,7 +272,7 @@ LavaridgeTown_Gym_B1F_Text_JacePostBattle:
 	.string "Dein Kampfstil ist feurig, ich denke,\n"
 	.string "du\n"
 	.string "hast eine gute Chance gegen unsere\l"
-	.string "ARENALEITERIN.$"
+	.string "Arenaleiterin.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
 	.string "Siehst du, wie wild die Flammen\n"
@@ -297,21 +297,21 @@ LavaridgeTown_Gym_B1F_Text_EliDefeat:
 	.string "einmal den Kampf unter Kontrolle.$"
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
-	.string "Ich bleibe hier, weil ich FLAVIAs\n"
+	.string "Ich bleibe hier, weil ich Flavias\n"
 	.string "Kraft bewundere.\p"
 	.string "Hähähähä…$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "Willkommen… Halt, warte!\p"
-	.string "Hallo, du Winzling von TRAINER, wie\n"
+	.string "Hallo, du Winzling von Trainer, wie\n"
 	.string "schön, dich hier zu sehen!\p"
 	.string "Ich bin verantwortlich für, äh…\n"
 	.string "Nein, warte.\p"
-	.string "Ich bin FLAVIA und ich bin die ARENA-\n"
-	.string "LEITERIN hier!\p"
+	.string "Ich bin Flavia und ich bin die Arena-\n"
+	.string "Leiterin hier!\p"
 	.string "Äh… Du solltest mich nicht\n"
 	.string "unterschätzen, nur weil ich noch nicht\l"
-	.string "so lange LEITERIN bin!\p"
+	.string "so lange Leiterin bin!\p"
 	.string "Ich habe das Talent meines Großvaters\n"
 	.string "geerbt und daher… äh… kann ich dir die\l"
 	.string "heißen Attacken zeigen, die wir hier\l"
@@ -321,13 +321,13 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Äh…\n"
 	.string "Ich glaube, ich habe es übertrieben…\p"
 	.string "Ich… Ich bin ja auch noch nicht lange\n"
-	.string "ARENALEITERIN!\p"
+	.string "Arenaleiterin!\p"
 	.string "Ich habe zu sehr versucht, jemand zu\n"
 	.string "sein, der ich gar nicht bin.\p"
 	.string "Ich muss die Dinge auf meine eigene\n"
 	.string "Art\n"
 	.string "angehen. Sonst verwirre ich nur meine\l"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Danke, dass du mich das gelehrt hast!\n"
 	.string "Du hast dir das hier wohl verdient!$"
 
@@ -361,8 +361,8 @@ LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "Deine Stärke erinnert mich an\n"
 	.string "jemanden…\p"
 	.string "Jetzt weiß ich’s! Du kämpfst wie\n"
-	.string "NORMAN,\l"
-	.string "der ARENALEITER von BLÜTENBURG CITY.$"
+	.string "Norman,\l"
+	.string "der Arenaleiter von Blütenburg City.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
 	.string "POKéMON ARENA von BAD LAVASTADT$"
@@ -373,11 +373,11 @@ LavaridgeTown_Gym_1F_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLAVIA: Eine Niederlage wird mein\n"
+	.string "Flavia: Eine Niederlage wird mein\n"
 	.string "Feuer nicht löschen.\p"
-	.string "Ich liebe POKéMON.\n"
+	.string "Ich liebe Pokémon.\n"
 	.string "Ich liebe Kämpfe.\l"
-	.string "Und… Ich liebe diese ARENA!\p"
+	.string "Und… Ich liebe diese Arena!\p"
 	.string "Lass uns einen ultraheißen Kampf\n"
 	.string "austragen! Die Funken sollen fliegen.$"
 
@@ -386,7 +386,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
 	.string "Da stand einer kurz vor dem Ausbruch!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLAVIA: Ich habe den Kampf zwar\n"
+	.string "Flavia: Ich habe den Kampf zwar\n"
 	.string "verloren, bin aber dennoch zufrieden.\n"
 	.string "\p"
 	.string "Ich habe nicht oft die Gelegenheit,\n"
@@ -395,16 +395,16 @@ LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
 	.string "Komm bald wieder!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLAVIA: Eine Niederlage wird mein\n"
+	.string "Flavia: Eine Niederlage wird mein\n"
 	.string "Feuer nicht löschen.\p"
-	.string "Ich liebe POKéMON.\n"
+	.string "Ich liebe Pokémon.\n"
 	.string "Ich liebe Kämpfe.\l"
-	.string "Und… Ich liebe diese ARENA!\p"
+	.string "Und… Ich liebe diese Arena!\p"
 	.string "Lass uns einen ultraheißen Kampf\n"
 	.string "austragen! Die Funken sollen fliegen.\n"
 	.string "\p"
 	.string "Moment! Warte mal! Du hast ja nur ein\n"
-	.string "POKéMON, das kämpfen kann, dabei!\p"
+	.string "Pokémon, das kämpfen kann, dabei!\p"
 	.string "Bring das nächste Mal mindestens\n"
-	.string "zwei POKéMON mit, sonst wird das\l"
+	.string "zwei Pokémon mit, sonst wird das\l"
 	.string "nichts.$"

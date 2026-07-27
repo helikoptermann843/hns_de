@@ -84,5 +84,5 @@ Alola_AkalaForest_TrainerBattleBugCatcher2_Text_2:
 
 
 Alola_Akala_BattleRaichu_Text_0:
-	.string "Gaaah!$"
+	.string "Urgs!$"
 

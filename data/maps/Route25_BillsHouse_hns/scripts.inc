@@ -316,52 +316,52 @@ Route25_BillsHouse_Movement_ShowPlayer:
 	step_end
 
 Route25_BillsHouse_hns_Text_Meowth:
-	.string "MAUZI$"
+	.string "MEOWTH$"
 
 Route25_BillsHouse_hns_Text_Ponyta:
-	.string "PONITA$"
+	.string "PONYTA$"
 
 Route25_BillsHouse_hns_Text_Rapidash:
-	.string "GALOPPA$"
+	.string "RAPIDASH$"
 
 Route25_BillsHouse_hns_Text_Slowpoke:
-	.string "FLEGMON$"
+	.string "SLOWPOKE$"
 
 Route25_BillsHouse_hns_Text_Slowbro:
-	.string "LAHMUS$"
+	.string "SLOWBRO$"
 
 Route25_BillsHouse_hns_Text_Slowking:
-	.string "LASCHOKING$"
+	.string "SLOWKING$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
-	.string "PORENTA$"
+	.string "FARFETCH'D$"
 
 Route25_BillsHouse_hns_Text_Weezing:
-	.string "SMOGMOG$"
+	.string "WEEZING$"
 
 Route25_BillsHouse_hns_Text_MrMime:
-	.string "PANTIMOS$"
+	.string "MR. MIME$"
 
 Route25_BillsHouse_hns_Text_Articuno:
-	.string "ARKTOS$"
+	.string "ARTICUNO$"
 
 Route25_BillsHouse_hns_Text_Zapdos:
 	.string "ZAPDOS$"
 
 Route25_BillsHouse_hns_Text_Moltres:
-	.string "LAVADOS$"
+	.string "MOLTRES$"
 
 Route25_BillsHouse_hns_Text_Corsola:
-	.string "CORASONN$"
+	.string "CORSOLA$"
 
 Route25_BillsHouse_hns_Text_Zigzagoon:
-	.string "ZIGZACHS$"
+	.string "ZIGZAGOON$"
 
 Route25_BillsHouse_hns_Text_Linoone:
-	.string "GERADAKS$"
+	.string "LINOONE$"
 
 Route25_BillsHouse_hns_Text_Cancel:
-	.string "ABBRECHEN$"
+	.string "ZURÜCK$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
 	.string "POKéMON NICHT GEFUNDEN.$"
@@ -533,11 +533,11 @@ Route25_BillsHouse_Movement_MonCelebration:
 	step_end
 
 Route25_BillsHouse_Text_GrandpaIntro:
-	.string "Hm? Du kennst Bill?\n"
-	.string "Er ist mein Enkel.\p"
-	.string "Er ist in JOHTO.\n"
-	.string "Er arbeitet mit PCs,\l"
-	.string "also passe ich aufs Haus auf.$"
+	.string "Hm?\n"
+	.string "Bist du hier, um meinen Enkel zu sehen?\p"
+	.string "Sein Name ist Bill, und er macht in Johto\n"
+	.string "beruflich… irgendwas mit Computern.\p"
+	.string "Deshalb hüte ich hier das Haus für ihn.$"
 
 Route25_BillsHouse_Text_GrampsMeowth:
 	.string "Mein Enkel BILL erzählte mir\n"
@@ -581,16 +581,15 @@ Route25_BillsHouse_Text_TeleporterUnlocked:
 	.string "Nimm einfach den Computer dort.$"
 
 Route25_BillsHouse_Text_AskToSeeMon:
-	.string "Wenn du dieses Pokémon hast,\n"
-	.string "darf ich es bitte sehen?$"
+	.string "Hast du so ein Pokémon? Wenn ja,\n"
+	.string "dann würde ich es gerne sehen…$"
 
 Route25_BillsHouse_Text_ExcitedToSee:
-	.string "Du zeigst es mir?\n"
-	.string "Wie freundlich von dir!$"
+	.string "Oh, du willst mir echt eins zeigen?\n"
+	.string "Wie lieb von dir!$"
 
 Route25_BillsHouse_Text_YouDontHaveIt:
-	.string "Du hast es nicht?\n"
-	.string "Das ist aber schade…$"
+	.string "Ach so, schade…$"
 
 Route25_BillsHouse_Text_ShownPokemon:
 	.string "Ah, das ist also {STR_VAR_1}?\p"
@@ -603,19 +602,17 @@ Route25_BillsHouse_Text_Appreciation:
 	.string "meiner Dankbarkeit.$"
 
 Route25_BillsHouse_Text_ComeAgain:
-	.string "Komm mich doch mal wieder\n"
-	.string "besuchen.$"
+	.string "Besuche mich bitte mal wieder!$"
 
 Route25_BillsHouse_Text_ShownAll:
-	.string "Danke, dass du mir so viele\n"
-	.string "niedliche Pokémon gezeigt hast.\p"
-	.string "Ich hatte viel Freude daran.\n"
-	.string "Ich bin froh,\l"
-	.string "so lange gelebt zu haben.$"
+	.string "Danke, dass du mir so viele niedliche\n"
+	.string "Pokémon gezeigt hast!\l"
+	.string "Ich habe mich wirklich gut amüsiert.\p"
+	.string "Das verleiht mir richtig Lebensenergie!$"
 
 Route25_BillsHouse_Text_WrongPokemon:
-	.string "Hm?\p"
-	.string "Das ist nicht das Pokémon,\n"
-	.string "von dem man mir erzählt hat.$"
+	.string "Hm…\p"
+	.string "Ich glaube, das ist nicht das Pokémon,\n"
+	.string "von dem ich gehört habe…$"
 
 

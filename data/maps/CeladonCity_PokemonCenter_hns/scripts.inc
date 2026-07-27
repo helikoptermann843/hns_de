@@ -19,10 +19,10 @@ CeladonCity_PokemonCenter_EventScript_Eusine::
 	end
 
 CeladonCity_PokemonCenter1F_Text_CooltrainerF:
-	.string "Erika ist eine Meisterin der\n"
-	.string "Pflanzen-Pokémon.\p"
-	.string "Sie wird dich bezahlen lassen, wenn\n"
-	.string "du nicht aufpasst.$"
+	.string "Erika ist auf Pflanzen-Pokémon\n"
+	.string "spezialisiert!\p"
+	.string "Wenn du sie unterschätzt, wirst du\n"
+	.string "dein blaues Wunder erleben!$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
 	.string "TEAM ROCKETs Versteck befindet sich\n"

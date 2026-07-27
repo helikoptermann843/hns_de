@@ -73,16 +73,16 @@ SeafoamIslands_Gym_Text_TM:
 	.string "hat Feuerheiler dabei! Waaah!$"
 
 SeafoamIslands_Gym_Text_BlaineIntro:
-	.string "PYRO: Waaah!\p"
-	.string "Meine ARENA in LAVADOS ist\n"
+	.string "Pyro: Waaah!\p"
+	.string "Meine Arena in Lavados ist\n"
 	.string "abgebrannt.\p"
-	.string "Meine Feuer-POKÉMON und ich sind\n"
+	.string "Meine Feuer-PokÉMon und ich sind\n"
 	.string "wegen des Vulkans obdachlos.\p"
 	.string "Waaah!\p"
-	.string "Aber ich bin als ARENA-LEITER\n"
+	.string "Aber ich bin als Arena-leiter\n"
 	.string "hier in dieser Höhle zurück.\p"
 	.string "Wenn du mich besiegst, bekommst\n"
-	.string "du einen ORDEN.\p"
+	.string "du einen Orden.\p"
 	.string "Ha! Besorg dir lieber\n"
 	.string "Feuerheiler!$"
 
@@ -96,28 +96,25 @@ SeafoamIslands_Gym_Text_ReceivedVolcanoBadge:
 	.string "VULKANORDEN.$"
 
 SeafoamIslands_Gym_Text_BlaineAfterBattle:
-	.string "PYRO: Ich hab diesmal verloren,\n"
-	.string "aber beim nächsten Mal gewinne\l"
-	.string "ich.\p"
-	.string "Wenn ich meine LAVADOS-ARENA\n"
-	.string "wiederaufgebaut habe, kämpfen\l"
-	.string "wir nochmal.$"
+	.string "Pyro: Diesmal habe ich verloren. Aber\n"
+	.string "wenn die Arena auf der Zinnoberinsel\l"
+	.string "wieder steht, wird der Sieg mein sein!\p"
+	.string "Lass uns irgendwann mal wieder kämpfen!$"
 
 SeafoamIslands_Gym_Text_BlaineFightDone:
-	.string "PYRO: Meine Feuer-POKÉMON\n"
-	.string "werden noch stärker.\p"
-	.string "Wart's nur ab!$"
+	.string "Pyro: Ich mache meine Feuer-Pokémon\n"
+	.string "noch mal ein ganzes Stück stärker!$"
 
 SeafoamIslands_Gym_Text_BlaineRematch:
-	.string "PYRO: Whoa!\p"
-	.string "Du bist jetzt KANTO-CHAMPION!\p"
+	.string "Pyro: Whoa!\p"
+	.string "Du bist jetzt Kanto-champion!\p"
 	.string "Das ist brennend heiß!\p"
 	.string "Deine Fähigkeiten sind erstklassig.\p"
 	.string "Ich bin immer kampfbereit.\p"
 	.string "Möchtest du einen Rückkampf?$"
 
 SeafoamIslands_Gym_Text_BlaineRematchDefeat:
-	.string "PYRO: Deine Fähigkeiten\n"
+	.string "Pyro: Deine Fähigkeiten\n"
 	.string "sind wirklich feurig!\p"
 	.string "Du hast meine Verteidigung\n"
 	.string "niedergebrannt.$"

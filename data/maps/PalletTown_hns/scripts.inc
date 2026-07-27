@@ -26,14 +26,14 @@ PalletTown_EventScript_OaksLabSign::
 	end	
 
 PalletTown_Text_Teacher:
-	.string "Ich trainiere auch Pokémon. Sie\n"
-	.string "dienen mir als Leibwächter.$"
+	.string "Ich trainiere auch Pokémon!\n"
+	.string "Sie dienen mir als meine Leibwächter!$"
 
 PalletTown_Text_Fisher:
-	.string "Die Technik ist unglaublich!\p"
-	.string "Du kannst jetzt Pokémon \n"
-	.string "durch die Zeit senden, wie\l"
-	.string "E-Mails.$"
+	.string "Es heißt, in Johto gebe es einen Ort,\n"
+	.string "an dem man mit Leuten aus aller Herren\l"
+	.string "Länder seine Pokémon tauschen kann!\l"
+	.string "Ein echtes Wunder der Technik…$"
 
 PalletTown_Text_Sign:
 	.string "ALABASTIA\p"
@@ -44,8 +44,8 @@ PalletTown_Text_RedsHouseSign:
 	.string "Haus von Rot$"
 
 PalletTown_Text_OaksLabSign:
-	.string "Prof.Eich's Pokémon\n"
-	.string "FORSCHUNGSLABOR$"
+	.string "Prof. Eichs\n"
+	.string "Pokémon-Labor$"
 
 PalletTown_Text_BluesHouseSign:
 	.string "Haus von Blau$"

@@ -400,7 +400,7 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
 	.string "Wir sind hinter dem Raketentreibstoff\n"
-	.string "her, welcher im RAUMFAHRTZENTRUM\l"
+	.string "her, welcher im Raumfahrtzentrum\l"
 	.string "gelagert wird.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:

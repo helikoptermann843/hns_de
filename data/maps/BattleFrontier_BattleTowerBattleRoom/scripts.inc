@@ -437,8 +437,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth:
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent:
-	.string "You will be facing opponent no.\n"
-	.string "{STR_VAR_1}. Are you ready?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent:
 	.string "Gegner Nr. 2 erwartet dich.\n"
@@ -485,8 +485,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
 	.string "KAMPFRAUM abbrechen?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
-	.string "There was an error of some sort.\n"
-	.string "Your record could not be saved.$"
+	.string "Es gab einen Fehler. Deine Daten\n"
+	.string "konnten nicht gespeichert werden.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay:
 	.string "Entschuldige, aber…\p"

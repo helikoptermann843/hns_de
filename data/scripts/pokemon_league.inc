@@ -64,5 +64,4 @@ PokemonLeague_EventScript_DoLightingEffect::
 	return
 
 Text_VoiceRangOutDontRunAway::
-	.string "Someone's voice rang out,\n"
-	.string "“Don't run away!”$"
+	.string "EINE STIMME: Lauf nicht davon!$"

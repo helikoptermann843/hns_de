@@ -656,7 +656,7 @@ BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully:
 
 BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker:
 	.string "Herzlichen Glückwunsch!\p"
-	.string "Du hast den STADIONSTAR besiegt und\n"
+	.string "Du hast den Stadionstar besiegt und\n"
 	.string "das Turnier gewonnen!$"
 
 BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints:

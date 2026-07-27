@@ -140,7 +140,7 @@ VictoryRoad_1F_Text_WallyPostEntranceBattle:
 	.string "mit dir aufnehmen!$"
 
 VictoryRoad_1F_Text_WallyIntro:
-	.string "HEIKO: Hallo, {PLAYER}!\p"
+	.string "Heiko: Hallo, {PLAYER}!\p"
 	.string "Ich bin viel stärker geworden! Das\n"
 	.string "möchte ich dir zeigen, {PLAYER}!\p"
 	.string "Okay… Jetzt komme ich!$"
@@ -150,10 +150,10 @@ VictoryRoad_1F_Text_WallyDefeat:
 	.string "{PLAYER}, du bist immer noch zu stark!$"
 
 VictoryRoad_1F_Text_WallyPostBattle:
-	.string "HEIKO: Ich konnte dich wieder nicht\n"
+	.string "Heiko: Ich konnte dich wieder nicht\n"
 	.string "besiegen… Aber eines Tages, {PLAYER},\l"
 	.string "eines Tages…\p"
-	.string "Da werde ich sogar die POKéMON LIGA\n"
+	.string "Da werde ich sogar die Pokémon Liga\n"
 	.string "herausfordern!$"
 
 VictoryRoad_1F_Text_EdgarIntro:
@@ -167,7 +167,7 @@ VictoryRoad_1F_Text_EdgarDefeat:
 VictoryRoad_1F_Text_EdgarPostBattle:
 	.string "Du bist weit gekommen. Lasse nicht\n"
 	.string "nach\n"
-	.string "und versuche, der CHAMP zu werden!\l"
+	.string "und versuche, der Champ zu werden!\l"
 	.string "Wenn einer das kann, dann du!$"
 
 VictoryRoad_1F_Text_AlbertIntro:
@@ -181,21 +181,21 @@ VictoryRoad_1F_Text_AlbertDefeat:
 VictoryRoad_1F_Text_AlbertPostBattle:
 	.string "Ich habe hier verloren…\p"
 	.string "Das heißt, mir fehlt noch eine Menge,\n"
-	.string "um CHAMP werden zu können.$"
+	.string "um Champ werden zu können.$"
 
 VictoryRoad_1F_Text_HopeIntro:
 	.string "Diese unendliche, raue Straße wird\n"
-	.string "ihrem Namen - SIEG - gerecht.$"
+	.string "ihrem Namen - Sieg - gerecht.$"
 
 VictoryRoad_1F_Text_HopeDefeat:
 	.string "Dein Kampfstil ist fantastisch…$"
 
 VictoryRoad_1F_Text_HopePostBattle:
 	.string "Du hast wirklich das Potenzial, der\n"
-	.string "CHAMP zu werden.$"
+	.string "Champ zu werden.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "Was ist das? Die SIEGESSTRASSE?\n"
+	.string "Was ist das? Die Siegesstrasse?\n"
 	.string "Wenn du gewinnst, verrat ich es dir.$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
@@ -203,9 +203,9 @@ VictoryRoad_1F_Text_QuincyDefeat:
 
 VictoryRoad_1F_Text_QuincyPostBattle:
 	.string "Hier sicher durchzukommen, das ist der\n"
-	.string "letzte Test für einen TRAINER, der\l"
-	.string "CHAMP werden will.\p"
-	.string "Daher nennt man sie SIEGESSTRASSE.$"
+	.string "letzte Test für einen Trainer, der\l"
+	.string "Champ werden will.\p"
+	.string "Daher nennt man sie Siegesstrasse.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
 	.string "Ich habe jemandem, der so weit\n"

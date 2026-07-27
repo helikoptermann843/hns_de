@@ -51,29 +51,30 @@ ThreeIsland_DunsparceTunnel_EventScript_ProspectorAlreadyGaveNugget::
 	end
 
 ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
-	.string "Hey, there!\n"
-	.string "How's it going?\p"
-	.string "What am I doing here, you ask?\n"
-	.string "Why, I'm prospecting for gold!\p"
-	.string "When I strike it rich, I'm buying\n"
-	.string "a house in KANTO.$"
+	.string "Heh, du!\n"
+	.string "Wie geht es dir?\p"
+	.string "Du fragst, was ich hier mache?\n"
+	.string "Warum? Ich suche nach Gold!\p"
+	.string "Wenn ich reich bin, kaufe ich\n"
+	.string "ein Haus in KANTO.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
-	.string "Hey, there! How's it going?\n"
-	.string "Did you hear? I've struck gold!\p"
-	.string "You remembered that I was\n"
-	.string "prospecting, didn't you?\p"
-	.string "You can't begin to imagine just\n"
-	.string "how happy I am.\p"
-	.string "So, I'll show you!\n"
-	.string "This is for you!$"
+	.string "Heh, du! Wie geht es dir?\n"
+	.string "Hast du schon gehört? Ich habe\l"
+	.string "Gold gefunden!\l"
+	.string "Erinnerst du dich, dass ich danach\l"
+	.string "gesucht habe?\p"
+	.string "Du kannst dir gar nicht vorstellen,\n"
+	.string "wie glücklich ich bin.\p"
+	.string "Ich zeig es dir!\n"
+	.string "Das ist für dich!$"
 
 ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
-	.string "That's a NUGGET!\p"
-	.string "I can't give you any nuggets of\n"
-	.string "wisdom, so that'll have to do!$"
+	.string "Das ist ein Nugget.\n"
+	.string "Ich kann dir keine weisen Ratschläge\l"
+	.string "mitgeben, das hier muss ausreichen!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-	.string "Whoops, your BAG is crammed full!\n"
-	.string "I'll give this to you later.$"
+	.string "Ups! Dein BEUTEL ist voll!\n"
+	.string "Ich gebe es dir später!$"
 

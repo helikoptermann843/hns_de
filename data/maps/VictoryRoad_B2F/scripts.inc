@@ -57,7 +57,7 @@ VictoryRoad_B2F_Text_OwenDefeat:
 
 VictoryRoad_B2F_Text_OwenPostBattle:
 	.string "Das Gerücht sagt, das Kind käme aus\n"
-	.string "BLÜTENBURG CITY.$"
+	.string "Blütenburg City.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
 	.string "Du musst doch langsam mal müde werden.$"
@@ -66,15 +66,15 @@ VictoryRoad_B2F_Text_CarolineDefeat:
 	.string "Keine Anzeichen von Müdigkeit…$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "Die SIEGESSTRASSE und die POKéMON\n"
-	.string "LIGA sind große und langwierige\n"
+	.string "Die Siegesstrasse und die Pokémon\n"
+	.string "Liga sind große und langwierige\n"
 	.string "Heraus-\l"
 	.string "forderungen. Werde bloß nicht müde!!!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
 	.string "Du solltest nicht selbstzufrieden\n"
-	.string "werden, nur weil du viele ORDEN der\l"
-	.string "ARENen besitzt.\p"
+	.string "werden, nur weil du viele Orden der\l"
+	.string "Arenen besitzt.\p"
 	.string "Es wird immer jemanden geben, der\n"
 	.string "besser ist als du!$"
 
@@ -82,9 +82,9 @@ VictoryRoad_B2F_Text_JulieDefeat:
 	.string "Du bist besser als ich!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Schau dir deine ORDEN an - erinnere\n"
+	.string "Schau dir deine Orden an - erinnere\n"
 	.string "dich\l"
-	.string "an die TRAINER, die du getroffen hast.$"
+	.string "an die Trainer, die du getroffen hast.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
 	.string "Ich bin weit gekommen, aber die\n"
@@ -97,7 +97,7 @@ VictoryRoad_B2F_Text_FelixDefeat:
 VictoryRoad_B2F_Text_FelixPostBattle:
 	.string "Ich kann nicht anders. Hier in der\n"
 	.string "Nähe\n"
-	.string "der POKéMON LIGA bin ich total nervös\l"
+	.string "der Pokémon Liga bin ich total nervös\l"
 	.string "und angespannt.\p"
 	.string "Ich tue so, als sei ich die Ruhe\n"
 	.string "selbst.$"

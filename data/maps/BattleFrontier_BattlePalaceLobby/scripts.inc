@@ -592,8 +592,8 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers:
-	.string "Um den PALASTREGENTen und sechs\n"
-	.string "TRAINER in Folge zu besiegen…$"
+	.string "Um den Palastregenten und sechs\n"
+	.string "Trainer in Folge zu besiegen…$"
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints:
 	.string "In Anerkennung des Bandes zwischen dir\n"

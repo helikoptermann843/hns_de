@@ -127,16 +127,15 @@ gBirchDexRatingText_OnANationwideBasis::
 @ FRLG
 
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "OAK: Good to see you!\n"
-	.string "How is your POKéDEX coming along?\p"
-	.string "Here, let me take a look.$"
+	.string "PROF. EICH: Ich freue mich, dich\n"
+	.string "zu sehen! Was macht dein POKéDEX?\p"
+	.string "Zeig ihn mir!$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "The amount of progress you've made\n"
-	.string "on your POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.\p"
-	.string "{FONT_NORMAL}PROF. OAK's rating:$"
+	.string "In deinem POKéDEX steht:\p"
+	.string "Gesehen: {VAR} POKéMON\n"
+	.string "  Besitz: {VAR} POKéMON\p"
+	.string "PROF. EICHs Bewertung:$"
 
 PokedexRating_Text_LessThan10::
 	.string "You still have lots to do.\p"
@@ -215,37 +214,37 @@ PokedexRating_Text_Complete::
 	.string "Congratulations!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "And your NATIONAL POKéDEX is:\p"
-	.string "{STR_VAR_1} POKéMON seen and\n"
-	.string "{STR_VAR_2} POKéMON owned.$"
+	.string "In deinem NATIONALEN POKéDEX\n"
+	.string "steht:\p"
+	.string "Gesehen: {VAR} POKéMON\n"
+	.string "Besitz: {VAR} POKéMON.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
-	.string "I'll be looking forward to seeing\n"
-	.string "you fill the NATIONAL POKéDEX!$"
+	.string "Ich bin gespannt, ob du den\n"
+	.string "NATIONALEN POKéDEX füllen kannst.$"
 
 PokedexRating_Text_YouveCompletedDex::
-	.string "Finally…\p"
-	.string "You've finally completed the\n"
-	.string "POKéDEX!\p"
-	.string "It's magnificent!\n"
-	.string "Truly, this is a fantastic feat!$"
+	.string "Endlich…\p"
+	.string "Dein POKéDEX ist komplett!\p"
+	.string "Das ist traumhaft!\n"
+	.string "Wirklich fantastisch!$"
 
 PokedexRating_Text_Wroooaaarrr::
 	.string "Wroooooooaaaaaarrrr!$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Thank you, {PLAYER}!\n"
-	.string "Sincerely, thank you!\l"
-	.string "You've made my dream a reality!$"
+	.string "Danke, {VAR}!\n"
+	.string "Meinen aufrichtigen Dank!\l"
+	.string "Du hast meinen Traum erfüllt.$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "OAK: Ah, welcome!\p"
-	.string "Tell me, how is your POKéDEX\n"
-	.string "coming along?\p"
-	.string "Wahaha!\p"
-	.string "Actually, I know how it is, but I\n"
-	.string "love seeing it anyway!\p"
-	.string "Let's see…$"
+	.string "EICH: Ah, willkommen!\p"
+	.string "Wie ist es um deinen POKéDEX\n"
+	.string "bestellt?\p"
+	.string "Wow!\p"
+	.string "Ich weiß es natürlich, aber ich\n"
+	.string "liebe es trotzdem!\p"
+	.string "Zeig ihn mir…$"
 
 @ HnS (mostly directly copied from HGSS)
 
@@ -350,12 +349,11 @@ gJohtoDexRatingText_LessThanMaxDex::
 	.string "Wird richtig professionell!$"
 
 gJohtoDexRatingText_Complete::
-	.string "Wow!\n"
-	.string "That is a complete Johto POKéDEX!\p"  
-	.string "Thanks to you, {PLAYER}, the Johto\n"
-	.string "POKéDEX is complete!\p"
-	.string "Wow...\n"
-	.string "You've done an incredible job!$"
+	.string "Oh!\n"
+	.string "Der Johto-Pokédex ist ja vollständig!\p"
+	.string "Und das nur dank dir, {PLAYER}!!!\n"
+	.string "Das ist wirklich eine außergewöhnliche\l"
+	.string "Leistung!$"
 
 gNationalDexRatingText_LessThan100::
 	.string "Weniger als Hundert.\n"

@@ -73,7 +73,7 @@ SafariZone_Text_SilentNPC:
     .string "(Ich bin nicht Gesprächig.)$"
 
 SafariZone_Text_Kangaskhan:
-	.string "KANGAMA: ...............$"
+	.string "KANGAMA: … … …$"
 
 SafariZone_Text_JigglypuffTrainer:
     .string "Diese SAFARI-ZONE ist großartig!\n"
@@ -99,9 +99,9 @@ SafariZone_Text_CustomSystem:
     .string "Die Wahrheit ist…$"
 
 SafariZone_Text_Sign:
-	.string "Hier ist eine Nachricht…\p"
-	.string "Bis auf weiteres bleibt das BÜRO\p"
-	.string "der SAFARI-ZONE geschlossen.$"
+	.string "Willkommen in der Safari-Zone!\p"
+	.string "Folge dem ungebändigten Ruf der Wildnis\n"
+	.string "mit maximalem Komfort!$"
 
 
 SafariZoneGate_EventScript_IncenseClerk::

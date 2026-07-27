@@ -67,8 +67,8 @@ SSTidalRooms_Text_TakeRestOnBed:
 	.string "Eine Pause wäre willkommen.$"
 
 SSTidalRooms_Text_ColtonIntro:
-	.string "Ich segle oft nach SEEGRASULB CITY.\p"
-	.string "Ich liebe es, an den WETTBEWERBen\n"
+	.string "Ich segle oft nach Seegrasulb City.\p"
+	.string "Ich liebe es, an den Wettbewerben\n"
 	.string "teilzunehmen.$"
 
 SSTidalRooms_Text_ColtonDefeat:
@@ -76,8 +76,8 @@ SSTidalRooms_Text_ColtonDefeat:
 
 SSTidalRooms_Text_ColtonPostBattle:
 	.string "Ich bin schon ganz aufgeregt, wenn ich\n"
-	.string "mir vorstelle, welche POKéMON ich im\l"
-	.string "nächsten WETTBEWERB sehen werde!$"
+	.string "mir vorstelle, welche Pokémon ich im\l"
+	.string "nächsten Wettbewerb sehen werde!$"
 
 SSTidalRooms_Text_MicahIntro:
 	.string "Sind deine Freunde stark?$"
@@ -88,7 +88,7 @@ SSTidalRooms_Text_MicahDefeat:
 SSTidalRooms_Text_MicahPostBattle:
 	.string "Freunde müssen nicht unbedingt\n"
 	.string "menschlich sein. Für mich sind\l"
-	.string "POKéMON die besten Freunde.$"
+	.string "Pokémon die besten Freunde.$"
 
 SSTidalRooms_Text_ThomasIntro:
 	.string "Kind… Hast du an der Tür geklopft?$"
@@ -100,36 +100,36 @@ SSTidalRooms_Text_ThomasDefeat:
 SSTidalRooms_Text_ThomasPostBattle:
 	.string "In jeder Situation die absolute Ruhe\n"
 	.string "zu bewahren, ist die Devise des\l"
-	.string "GENTLEMAN.$"
+	.string "Gentleman.$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "UWE: Eigentlich bin ich ja schüchtern…\n"
+	.string "Uwe: Eigentlich bin ich ja schüchtern…\n"
 	.string "Aber die Liebe gibt einem Kraft!$"
 
 SSTidalRooms_Text_JedDefeat:
-	.string "UWE: Seufz…$"
+	.string "Uwe: Seufz…$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "UWE: Zum ersten Mal war unsere Kraft\n"
+	.string "Uwe: Zum ersten Mal war unsere Kraft\n"
 	.string "der Liebe unterlegen!\l"
-	.string "Du bist ein unglaublicher TRAINER!$"
+	.string "Du bist ein unglaublicher Trainer!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
 	.string "UWE: Du hast nur ein POKéMON?\n"
 	.string "Fühlt es sich nicht sehr einsam?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LENA: Ich fühle mich etwas albern,\n"
+	.string "Lena: Ich fühle mich etwas albern,\n"
 	.string "aber… Aber die Liebe gibt mir Kraft!$"
 
 SSTidalRooms_Text_LeaDefeat:
-	.string "LENA: Oh, buuuuh!$"
+	.string "Lena: Oh, buuuuh!$"
 
 SSTidalRooms_Text_LeaPostBattle:
-	.string "LENA: Ich kann es einfach nicht\n"
+	.string "Lena: Ich kann es einfach nicht\n"
 	.string "fassen!\n"
 	.string "Die Kraft unserer Liebe reichte nicht…\l"
-	.string "Du bist ein unglaublicher TRAINER!$"
+	.string "Du bist ein unglaublicher Trainer!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
 	.string "LENA: Ich möchte kämpfen…\n"
@@ -146,11 +146,11 @@ SSTidalRooms_Text_GarretDefeat:
 SSTidalRooms_Text_GarretPostBattle:
 	.string "Ich muss meinen Vater unbedingt\n"
 	.string "fragen, ob er mir eine Yacht schenkt.\l"
-	.string "Eine Yacht für mich und meine POKéMON!$"
+	.string "Eine Yacht für mich und meine Pokémon!$"
 
 SSTidalRooms_Text_NaomiIntro:
 	.string "Oh, du bist so ein wunderbarer\n"
-	.string "TRAINER. Möchtest du eine Tasse Tee?\l"
+	.string "Trainer. Möchtest du eine Tasse Tee?\l"
 	.string "Oder möchtest du lieber kämpfen?$"
 
 SSTidalRooms_Text_NaomiDefeat:
@@ -162,7 +162,7 @@ SSTidalRooms_Text_NaomiPostBattle:
 	.string "hat\n"
 	.string "etwas für sich, das muss ich sagen…\p"
 	.string "Aber auch eine Fahrt auf der Fähre\n"
-	.string "durch HOENN hat etwas.$"
+	.string "durch Hoenn hat etwas.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "Äh… Hallo! Ich… Ich verhalte mich\n"

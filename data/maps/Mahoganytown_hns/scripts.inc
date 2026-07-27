@@ -266,12 +266,12 @@ MahoganyTown_Movement_PlayerMerchant2:
 	step_end
 
 MahoganyTown_Text_RageCandyBarMerchantTryOne:
-	.string "Hi, Zwerg!\p"
-	.string "Ich sehe, du bist neu in MAHAGONIA.\p"
-	.string "Du musst unbedingt\n"
-	.string "einen WUTKEKS probieren!\p"
-	.string "Ich habe einen dabei\n"
-	.string "Für nur ¥300 gehört er dir.$"
+	.string "Hey, du! Komm doch mal eben her!\p"
+	.string "Wenn du schon mal in Mahagonia City\n"
+	.string "bist, solltest du unbedingt\l"
+	.string "einen Wutkeks kaufen!\p"
+	.string "Ich hätte einen für 300 $ für\n"
+	.string "dich im Angebot. Na, was sagst du?$"
 
 MahoganyTown_Text_RageCandyBarMerchantSavorIt:
 	.string "Gut! Genieße ihn!$"
@@ -325,20 +325,18 @@ Mahoganytown_Text_ElmName:
 	.string "PROF.ELM$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
-	.string "PROF.LIND: {PLAYER}, wie läuft's\n"
-	.string "bei dir?\p"
-	.string "Ich rufe an, weil etwas Seltsames\n"
-	.string "im Radio passiert.\p"
-	.string "Sie haben von TEAM ROCKET\n"
-	.string "gesprochen.\p"
-	.string "{PLAYER}, weißt du etwas\n"
-	.string "darüber?\p"
-	.string "Vielleicht ist TEAM ROCKET\n"
-	.string "zurückgekehrt.\p"
-	.string "Nein, das kann einfach nicht\n"
-	.string "wahr sein.\p"
-	.string "Entschuldige die Störung.\n"
-	.string "Pass auf dich auf!$"
+	.string "He, {PLAYER}!\n"
+	.string "Wie stehen die Dinge?\p"
+	.string "Hör mal, im Radio geschieht gerade\n"
+	.string "irgendetwas Merkwürdiges.\l"
+	.string "Ich höre immer bloß "Team Rocket"…\p"
+	.string "Da dachte ich, ich rufe mal an.\n"
+	.string "{PLAYER}, weißt du, was da los ist?\p"
+	.string "Team Rocket feiert doch nicht etwa\n"
+	.string "ein Comeback?\l"
+	.string "Nein… das wäre doch zu abwegig.\p"
+	.string "Entschuldige, ich wollte dich nicht\n"
+	.string "beunruhigen. Pass auf dich auf!$"
 
 ElmPhoneRoute39LegendaryText:
 	.string "PROF.LIND: WOW!\n"

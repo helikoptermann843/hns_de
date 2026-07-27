@@ -46,45 +46,46 @@ PokemonTower_6F_EventScript_Jennifer::
 	end
 
 PokemonTower_6F_Text_AngelicaIntro::
-	.string "Give…me…\n"
-	.string "blood…$"
+	.string "Ich... brauche...\n"
+	.string "Blut...$"
 
 PokemonTower_6F_Text_AngelicaDefeat::
-	.string "Groan!$"
+	.string "Wo bin ich?$"
 
 PokemonTower_6F_Text_AngelicaPostBattle::
-	.string "I feel anemic and weak…$"
+	.string "Ich fühle mich so blutleer und\n"
+	.string "schwach...$"
 
 PokemonTower_6F_Text_EmiliaIntro::
-	.string "Urff…\n"
-	.string "Kwaah!$"
+	.string "Buuh... buhuhu!$"
 
 PokemonTower_6F_Text_EmiliaDefeat::
-	.string "Something fell out!$"
+	.string "Irgendetwas hat mich verlassen!$"
 
 PokemonTower_6F_Text_EmiliaPostBattle::
-	.string "My hair didn't fall out!\n"
-	.string "It was a malevolent spirit!$"
+	.string "Es war ein böser Geist, der Besitz\n"
+	.string "von mir ergriffen hatte!$"
 
 PokemonTower_6F_Text_JenniferIntro::
-	.string "Ke…ke…ke…\n"
-	.string "ke…ke…ke!$"
+	.string "Buh...\n"
+	.string "Buh... buhuhu...$"
 
 PokemonTower_6F_Text_JenniferDefeat::
-	.string "Keee!$"
+	.string "Buuh!$"
 
 PokemonTower_6F_Text_JenniferPostBattle::
-	.string "What's going on here?$"
+	.string "Du hast nicht genug Geld.$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-	.string "Be gone…\n"
-	.string "Intruders…$"
+	.string "BERNSTEIN ist versteinertes\n"
+	.string "Baumharz.$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
 	.string "The ghost was the restless spirit\n"
 	.string "of CUBONE's mother!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
-	.string "The mother's spirit was calmed.\p"
-	.string "It departed to the afterlife…$"
+	.string "Ihre Seele hat Frieden gefunden.\p"
+	.string "Sie ist in das Jenseits\n"
+	.string "eingekehrt...$"
 

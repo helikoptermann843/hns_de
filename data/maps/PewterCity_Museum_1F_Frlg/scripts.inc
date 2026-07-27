@@ -189,89 +189,88 @@ PewterCity_Museum_1F_EventScript_KabutopsFossil::
 	end
 
 PewterCity_Museum_1F_Text_Its50YForChildsTicket::
-	.string "Yes, yes.\n"
-	.string "It's ¥50 for a child's ticket.\p"
-	.string "Would you like to come in?$"
+	.string "Für Kinder kostet der Eintritt 50¥!\p"
+	.string "Möchtest du hinein?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-	.string "Come again!$"
+	.string "Dann bis später.$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
-	.string "Right, ¥50!\n"
-	.string "Thank you!$"
+	.string "O.K., das sind 50¥!\n"
+	.string "Vielen Dank!$"
 
 PewterCity_Museum_1F_Text_DontHaveEnoughMoney::
-	.string "You don't have enough money.$"
+	.string "Du hast nicht genug Geld…$"
 
 PewterCity_Museum_1F_Text_PleaseEnjoyYourself::
-	.string "Please enjoy yourself.$"
+	.string "Viel Vergnügen!$"
 
 PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
-	.string "You can't sneak in the back way!\n"
-	.string "Nice try, kid, but no.\p"
-	.string "Oh, whatever!\n"
-	.string "Do you know what AMBER is?$"
+	.string "Du hast hinter dem Tresen nichts zu\n"
+	.string "suchen!\p"
+	.string "Na ja, egal!\n"
+	.string "Weißt du, was BERNSTEIN ist?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
-	.string "AMBER contains the genetic matter\n"
-	.string "of ancient POKéMON.\p"
-	.string "There's a LAB somewhere trying to\n"
-	.string "resurrect POKéMON from AMBER.$"
+	.string "Es soll ein LABOR geben, in dem\n"
+	.string "man versucht, aus altem BERNSTEIN\l"
+	.string "URZEIT-POKéMON wiederauferstehen\l"
+	.string "zu lassen!$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-	.string "AMBER is actually sap, that gooey\n"
-	.string "stuff that oozes from trees.\p"
-	.string "The ancient sap fossilized over\n"
-	.string "time to become rock-hard AMBER.$"
+	.string "BERNSTEIN ist versteinertes\n"
+	.string "Baumharz.$"
 
 @ Unused
 PewterCity_Museum_1F_Text_PleaseGoAround::
 	.string "あちらへ　おまわりください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-	.string "I should be grateful for my long\n"
-	.string "life.\p"
-	.string "Never did I think I would get to\n"
-	.string "see the bones of a dragon!$"
+	.string "Oh, was bin ich doch für ein Glückspilz!\p"
+	.string "Die Überreste eines großen Drachen...\n"
+	.string "Dass ich das noch erleben durfte!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
-	.string "Ssh! Listen, I need to share a\n"
-	.string "secret with someone.\p"
-	.string "I think that this chunk of AMBER\n"
-	.string "contains POKéMON DNA!\p"
-	.string "It would be a shattering scientific\n"
-	.string "breakthrough if POKéMON could be\l"
-	.string "resurrected from it.\p"
-	.string "But, my colleagues just ignore\n"
-	.string "what I have to say.\p"
-	.string "So, I have a favor to ask!\p"
-	.string "I want you to get this examined at\n"
-	.string "a POKéMON LAB somewhere.$"
+	.string "Pst! Ich glaube, in diesem Stück\n"
+	.string "BERNSTEIN ist POKéMON-DNS\l"
+	.string "enthalten!\p"
+	.string "Es wäre grandios, wenn man daraus\n"
+	.string "ein POKéMON wiederauferstehen\l"
+	.string "lassen könnte!\p"
+	.string "Doch meine Kollegen nehmen mich\n"
+	.string "nicht ernst!\p"
+	.string "Könntest du etwas für mich\n"
+	.string "erledigen?\p"
+	.string "Lass das im POKéMON-LABOR\n"
+	.string "untersuchen!$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
 	.string "{PLAYER} received the OLD AMBER\n"
 	.string "from the man.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
-	.string "Ssh!\n"
-	.string "Get the OLD AMBER checked!$"
+	.string "Pst!\n"
+	.string "Lass den ALTBERNSTEIN untersuchen!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this.$"
+	.string "Du hast keinen Platz dafür!$"
 
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
-	.string "We have two fossils of rare,\n"
-	.string "prehistoric POKéMON on exhibit.$"
+	.string "Unser besonderer Stolz sind zwei\n"
+	.string "Fossilien von äußerst seltenen,\l"
+	.string "prähistorischen POKéMON!$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-	.string "There is a beautiful piece of\n"
-	.string "AMBER in a clear gold color.$"
+	.string "Der BERNSTEIN schimmert goldbraun\n"
+	.string "und ist durchsichtig!$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
-	.string "AERODACTYL Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+	.string "AERODACTYL-Fossil\n"
+	.string "Ein urzeitliches und seltenes\l"
+	.string "POKéMON.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
-	.string "KABUTOPS Fossil\n"
-	.string "A primitive and rare POKéMON.$"
+	.string "KABUTOPS-Fossil\n"
+	.string "Ein urzeitliches und seltenes\l"
+	.string "POKéMON.$"
 

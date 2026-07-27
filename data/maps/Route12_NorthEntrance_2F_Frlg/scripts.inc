@@ -44,37 +44,37 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Meine POKéMON wurden im POKéMON-\n"
+	.string "TURM zur letzten Ruhe gebettet.\p"
+	.string "Ich gebe dir diese TM. Ich\n"
+	.string "benötige sie nicht länger...$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-	.string "My POKéMON's ashes are stored in\n"
-	.string "POKéMON TOWER.\p"
-	.string "You can have this TM.\n"
-	.string "I don't need it anymore…$"
+	.string "Meine POKéMON wurden im POKéMON-\n"
+	.string "TURM zur letzten Ruhe gebettet.\p"
+	.string "Ich gebe dir diese TM. Ich\n"
+	.string "benötige sie nicht länger...$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
 	.string "{PLAYER} received TM27\n"
 	.string "from the little girl.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-	.string "TM27 is a move called RETURN…\p"
-	.string "If you treat your POKéMON good,\n"
-	.string "it will return your love by working\l"
-	.string "its hardest in battle.$"
+	.string "TM27 ist RÜCKKEHR.\p"
+	.string "Behandelst du deine POKéMON\n"
+	.string "gut, geben sie Liebe zurück, indem\l"
+	.string "sie sich im Kampf besonders\l"
+	.string "anstrengen.$"
 
 Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
-	.string "You don't have room for this.$"
+	.string "Du kannst nichts mehr tragen!$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "There's a man fishing!$"
+	.string "Die Barriere verschwindet nicht?\p"
+	.string "MAJOR BOB war immer sehr\n"
+	.string "vorsichtig!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "It's POKéMON TOWER!$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Du siehst den POKéMON-TURM!$"
 

@@ -44,95 +44,100 @@ FiveIsland_ResortGorgeous_EventScript_SelphysHouseSign::
 	end
 
 FiveIsland_ResortGorgeous_Text_DaisyIntro::
-	.string "With these hands, I will create\n"
-	.string "my victory!$"
+	.string "Mit diesen Händen werde ich\n"
+	.string "den Sieg herbeiführen.$"
 
 FiveIsland_ResortGorgeous_Text_DaisyDefeat::
-	.string "The shame of this…\n"
-	.string "I'm red-faced…$"
+	.string "Diese Schande…\n"
+	.string "Ich werde rot…$"
 
 FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
-	.string "Uh-oh, my paint tubes have\n"
-	.string "scattered everywhere!$"
+	.string "Ugh! Meine Farbeimer sind\n"
+	.string "überall verstreut.$"
 
 FiveIsland_ResortGorgeous_Text_CelinaIntro::
-	.string "Excuse me!\n"
-	.string "I'm trying to paint.\l"
-	.string "Please keep out of my sight!$"
+	.string "Entschuldigung!\n"
+	.string "Ich versuche zu malen.\l"
+	.string "Geh mir bitte aus der Sicht!$"
 
 FiveIsland_ResortGorgeous_Text_CelinaDefeat::
-	.string "This loss…\n"
-	.string "I feel like I'm whiting out…$"
+	.string "Diese Niederlage…\n"
+	.string "Mir wird so schwindlig…$"
 
 FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
-	.string "GILLIAN?\n"
-	.string "Please tilt your head slightly…\l"
-	.string "There! That's the look I want!$"
+	.string "Gillian?\n"
+	.string "Bitte beweg deinen Kopf ein wenig…\l"
+	.string "Genau! Dieser Blick ist es!$"
 
 FiveIsland_ResortGorgeous_Text_RaynaIntro::
 	.string "Hmm…\n"
-	.string "The angle, it is not quite there…$"
+	.string "Der Winkel ist noch nicht perfekt…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaDefeat::
 	.string "Oh…\n"
-	.string "My feelings, they are blue…$"
+	.string "Meine Emotionen sind blau…$"
 
 FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
-	.string "The sky and the sea…\n"
-	.string "They are so fickle.\p"
-	.string "Their changing expressions make\n"
-	.string "them difficult to capture.$"
+	.string "Der Himmel und das Meer…\n"
+	.string "Sie sind so wankelmütig.\p"
+	.string "Ihr ständig wechselnder Ausdruck\n"
+	.string "macht es nicht leicht, sie\l"
+	.string "malerisch einzufangen.$"
 
 FiveIsland_ResortGorgeous_Text_JackiIntro::
-	.string "I am visiting my friend's retreat,\n"
-	.string "if you must know.$"
+	.string "Ich besuche das Sommerhaus\n"
+	.string "meines Freundes, wenn\l"
+	.string "du fragst.$"
 
 FiveIsland_ResortGorgeous_Text_JackiDefeat::
-	.string "Oh, my, so strong.$"
+	.string "Oh, du bist stark!$"
 
 FiveIsland_ResortGorgeous_Text_JackiPostBattle::
-	.string "I find it pleasurable to leisurely\n"
-	.string "battle in the gentle sea breeze.$"
+	.string "Ich finde es angenehm, bei einer\n"
+	.string "sanften Meeresbrise zum\l"
+	.string "Spaß zu kämpfen.$"
 
 FiveIsland_ResortGorgeous_Text_GillianIntro::
-	.string "I'm thinking of having a pool\n"
-	.string "made specially for POKéMON.$"
+	.string "Ich denke darüber nach, einen\n"
+	.string "Pool nur für Pokémon\l"
+	.string "einzurichten.$"
 
 FiveIsland_ResortGorgeous_Text_GillianDefeat::
-	.string "Oh, my goodness gracious!$"
+	.string "Oh, meine Güte!$"
 
 FiveIsland_ResortGorgeous_Text_GillianPostBattle::
-	.string "A pool would be nice, but I must\n"
-	.string "say, a sun-room may be sublime.$"
+	.string "Ein Pool wäre cool, aber ein\n"
+	.string "Solarium wäre noch besser.$"
 
 FiveIsland_ResortGorgeous_Text_DestinIntro::
-	.string "I'm a good runner.\n"
-	.string "I'm really fast!$"
+	.string "Ich bin ein starker Sprinter.\n"
+	.string "Ich bin wirklich schnell!$"
 
 FiveIsland_ResortGorgeous_Text_DestinDefeat::
-	.string "Oops!\n"
-	.string "I rushed things!$"
+	.string "Ups!\n"
+	.string "Ich war zu schnell!$"
 
 FiveIsland_ResortGorgeous_Text_DestinPostBattle::
-	.string "When I run with the wind, it feels\n"
-	.string "like I could fly!$"
+	.string "Wenn ich mit dem Wind renne,\n"
+	.string "fühlt es sich an, als ob ich\l"
+	.string "fliegen würde…$"
 
 FiveIsland_ResortGorgeous_Text_TobyIntro::
-	.string "I say, this marine life here at\n"
-	.string "this resort agrees with me.$"
+	.string "Das maritime Leben hier sagt\n"
+	.string "mir zu!$"
 
 FiveIsland_ResortGorgeous_Text_TobyDefeat::
-	.string "That's a shocker!\n"
-	.string "You must be joking.$"
+	.string "Das ist Wahnsinn!\n"
+	.string "Du machst Witze!$"
 
 FiveIsland_ResortGorgeous_Text_TobyPostBattle::
-	.string "Getting so serious over this…\n"
-	.string "How nonsensical.$"
+	.string "Das so ernst zu nehmen…\n"
+	.string "Wie unsensibel.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "SELPHY: Thank you.\p"
-	.string "You may go now.$"
+	.string "KEA: Danke!\p"
+	.string "Du darfst jetzt gehen!$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "SELPHY'S HOUSE$"
+	.string "Ich reise immer mit KNUDDELUFF!$"
 

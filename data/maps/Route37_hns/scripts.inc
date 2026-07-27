@@ -103,13 +103,13 @@ Route37_Text_TwinsAnnAndAnne2_After:
 	.string "unsere Pokémon.$"
 
 Route37_Text_PsychicGreg_Seen:
-	.string "Pokémon können\n"
-	.string "nicht agieren, wenn sie schlafen.\p"
-	.string "Ich werde dir zeigen,\n"
+	.string "Pokémon können nicht agieren,\n"
+	.string "wenn sie schlafen. Gleich merkst du,\l"
 	.string "wie furchterregend das ist!$"
 
 Route37_Text_PsychicGreg_Beaten:
-	.string "Ich habe verloren. Wie betrüblich…$"
+	.string "Verloren.\n"
+	.string "Wie überaus betrüblich…$"
 
 Route37_Text_PsychicGreg_After:
 	.string "Pokémon einzuschläfern oder zu\n"
@@ -133,24 +133,26 @@ Route37_Text_Sunny_GiveGift2:
 
 Route37_Text_Sunny_GaveGift:
 	.string "Sonnfried: Dieses Ding…\p"
-	.string "Ähm…\p"
-	.string "… Wie war das noch…\p"
+	.string "Äh…\p"
+	.string "…Was war das noch mal…\p"
 	.string "…\p"
-	.string "Oh! Jetzt weiß ich es!\p"
-	.string "Ein Pokémon mit Elektro-Attacken\n"
-	.string "sollte es tragen.\p"
-	.string "Meine Schwester Monja sagt, es\n"
-	.string "verstärkt Elektro-Attacken!$"
+	.string "Ah! Jetzt erinnere ich mich!\p"
+	.string "Gib das einem Pokémon, das Elektro-\n"
+	.string "Attacken verwendet, zum Tragen.\p"
+	.string "Meine Schwester Monja behauptet,\n"
+	.string "das mache sie noch effektiver!$"
 
 Route37_Text_Sunny_Sunday:
-	.string "Sonnfried: Meine Geschwister sind\n"
-	.string "Monja, Dietlinde, Mitko,\l"
-	.string "Donatus, Frieda und Samson.\p"
+	.string "Sonnfried: Meine Geschwister heißen\n"
+	.string "Monja, Dietlinde,\l"
+	.string "Mitko, Donatus,\l"
+	.string "Frieda und Samson.\p"
 	.string "Sie sind alle älter als ich!$"
 
 Route37_Text_Sunny_NotSunday:
-	.string "Sonnfried: Ist heute Sonntag?\n"
-	.string "Ähm… hatte ich vergessen!$"
+	.string "Sonnfried: Ist heute nicht Sonntag?\n"
+	.string "Äh…\l"
+	.string "Das hatte ich vergessen!$"
 
 Route37_Text_Sign:
 	.string "ROUTE 37$"

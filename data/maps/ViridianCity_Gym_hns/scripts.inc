@@ -53,19 +53,20 @@ ViridianCity_Gym_EventScript_BlueAtDojo::
 	end
 
 ViridianCity_Gym_Text_LeaderBlue_Before:
-	.string "Blau: Yo! Endlich hier, was?\p"
-	.string "In Zinnober hatte ich keinen\n"
-	.string "Bock, aber jetzt bin ich bereit,\l"
-	.string "dich zu bekämpfen.\p"
-	.string "…\p"
-	.string "Sagst du mir etwa, du hast alle\n"
-	.string "Arenen in JOHTO geschafft?\p"
-	.string "Heh! Dann sind JOHTOs Arenen\n"
-	.string "bestimmt ziemlich lahm.\p"
-	.string "Hey, mach dir nichts draus.\p"
-	.string "Ich merke gleich beim Kampf, ob\n"
-	.string "du gut bist oder nicht.\p"
-	.string "Bereit, JOHTO CHAMP?$"
+	.string "Blau: Hey! Da bist du ja!\p"
+	.string "Auf der Zinnoberinsel hatte ich ein\n"
+	.string "bisschen Bammel, aber inzwischen\l"
+	.string "habe ich extrem Lust darauf gekriegt,\l"
+	.string "gegen dich zu kämpfen!\p"
+	.string "… … …\p"
+	.string "Du hast also alle Arenaleiter in Johto\n"
+	.string "zu Kleinholz verarbeitet, was?\p"
+	.string "Hahaha! Dann müssen das ja alles\n"
+	.string "ziemliche Jammerlappen sein!\p"
+	.string "Aber warten wir's mal ab!\n"
+	.string "Wenn wir gegeneinander kämpfen,\l"
+	.string "werde ich schon sehen, ob du was drauf\l"
+	.string "hast oder nur ein Schaumschläger bist!$"
 
 ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "Blau: Was?\p"
@@ -79,11 +80,14 @@ ViridianCity_Gym_Text_ReceivedEarthBadge:
 	.string "{PLAYER} erhielt den Erdorden.$"
 
 ViridianCity_Gym_Text_LeaderBlue_After:
-	.string "Blau: …\p"
-	.string "Okay, ich lag falsch. Du bist\n"
-	.string "wirklich ein guter Trainer.\p"
-	.string "Aber ich werde dich eines Tages\n"
-	.string "besiegen. Vergiss das nicht!$"
+	.string "Blau: … … …\p"
+	.string "Ich hatte dich unterschätzt.\n"
+	.string "Du bist kein Schaumschläger,\l"
+	.string "sondern ein fähiger Trainer!\l"
+	.string "Ich gebe es offen zu!\p"
+	.string "Aber vergiss nicht…\p"
+	.string "Irgendwann wird der Tag kommen,\n"
+	.string "an dem ich dich besiege!$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "Blau: Hör zu.\p"
@@ -111,10 +115,10 @@ ViridianCity_Gym_Text_Guide:
 	.string "Gib alles, was du hast!$"
 
 ViridianCity_Gym_Text_Guide_Win:
-	.string "Junge, Junge! Du bist sehr stark…\p"
-	.string "Das war vielleicht ein erfrischender\n"
-	.string "Kampf. Er hat mir Tränen\n"
-	.string "in die Augen getrieben.$"
+	.string "Es ist wahr, du bist wirklich stark!\p"
+	.string "Dieser Kampf hat mich emotional\n"
+	.string "so mitgenommen, dass mir doch\l"
+	.string "glatt die Tränen gekommen sind.$"
 
 
 ViridianCity_Gym_EventScript_GymStatue::

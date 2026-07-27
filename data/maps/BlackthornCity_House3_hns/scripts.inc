@@ -78,15 +78,16 @@ BlackthornCity_MoveDeletersHouse_Text_WhichMonShouldForget:
 	.string "vergessen?$"
 
 BlackthornCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Welche Attacke soll vergessen werden?$"
+	.string "Welche Attacke soll vergessen\n"
+	.string "werden?$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} kennt nur eine Attacke,\n"
-	.string "sie kann nicht vergessen werden…$"
+	.string "Dieses Pokémon kennt nur eine Attacke,\n"
+	.string "daher kann es keine vergessen…$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}s {STR_VAR_2}?\n"
-	.string "Diese Attacke soll vergessen werden?$"
+	.string "Hm! {STR_VAR_1}?\n"
+	.string "Diese Attacke vergessen?$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonHasForgottenMove:
 	.string "Perfekt gelungen!\p"
@@ -99,7 +100,7 @@ BlackthornCity_MoveDeletersHouse_Text_ComeAgain:
 
 BlackthornCity_MoveDeletersHouse_Text_EggCantForgetMoves:
 	.string "Was?\n"
-	.string "Ein EI sollte keine Attacken kennen.$"
+	.string "Ein Ei kennt doch keine Attacken!$"
 
 BlackthornCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
@@ -185,16 +186,19 @@ BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "Die sammle ich gerade.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
-	.string "Oh! Das ist es! Das ist eine echte\n"
-	.string "HERZSCHUPPE!\p"
-	.string "Lass mich raten, du willst, dass ich\n"
-	.string "eine Attacke beibringe?$"
+	.string "Oh! Das ist es! Das ist ehrlich und\n"
+	.string "wahrhaftig eine Herzschuppe!\l"
+	.string "Lass mich raten…\p"
+	.string "Ich soll einem Pokémon eine\n"
+	.string "alte Attacke beibringen?!?$"
 
 BlackthornCity_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Welches Pokémon braucht Nachhilfe?$"
+	.string "Welches Pokémon soll sich an\n"
+	.string "eine alte Attacke erinnern?$"
 
 BlackthornCity_MoveRelearnersHouse_Text_TeachWhichMove:
-	.string "Welche Attacke soll ich beibringen?$"
+	.string "Welchem deiner Pokémon soll ich\n"
+	.string "die Attacke beibringen?$"
 
 BlackthornCity_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "Tut mir leid…\p"
@@ -203,13 +207,13 @@ BlackthornCity_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "kann.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} hat eine HERZSCHUPPE\n"
-	.string "dafür gegeben.$"
+	.string "{STR_VAR_1} gibt im Austausch dafür\n"
+	.string "eine Herzschuppe ab.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "Wenn deine Pokémon eine Attacke lernen\n"
-	.string "sollen, komm mit einer HERZSCHUPPE\l"
-	.string "wieder.$"
+	.string "Komm mit einer Herzschuppe wieder, wenn\n"
+	.string "ich einem deiner Pokémon mit einer alten\l"
+	.string "Attacke auf die Sprünge helfen soll!$"
 
 BlackthornCity_MoveRelearnersHouse_Text_CantTeachEgg:
 	.string "Hm? Es gibt keine einzige Attacke,\n"

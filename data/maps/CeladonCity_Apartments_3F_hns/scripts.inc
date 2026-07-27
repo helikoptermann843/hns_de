@@ -65,7 +65,7 @@ GameFreak_Text_CharacterDesigner:
 	.string "Oh, ich liebe sie!$"
 
 CeladonMansion3F_Text_DevRoomSign:
-	.string "GAME FREAK ENTWICKLUNGSRAUM$"
+	.string "Game Freak Entwicklungsbüro$"
 
 CeladonMansion3F_Text_Drawing:
 	.string "Es ist eine detaillierte Zeichnung\n"

@@ -71,43 +71,44 @@ Route12_Text_NewFisher:
 	.string "Sieh auf die KARTE in deinem COM.$"
 
 Route12_Text_FisherMartinSeen:
-	.string "Geduld ist das Zauberwort.\p"
-	.string "Das gilt fürs Angeln und\n"
-	.string "für Pokémon.$"
+	.string "Geduld ist das Zauberwort.\n"
+	.string "Das gilt fürs Angeln und für Pokémon.$"
 
 Route12_Text_FisherMartinBeaten:
 	.string "Guaah!$"
 
 Route12_Text_FisherMartinAfterBattle:
-	.string "Ich bin zu unge-\n"
-	.string "duldig für das Angeln…$"
+	.string "Ich bin wohl doch zu ungeduldig\n"
+	.string "für das Angeln…$"
 
 Route12_Text_FisherStephenSeen:
-	.string "Wenn ich beim\n"
-	.string "Angeln Radio hören kann, bin ich\l"
-	.string "glücklich.$"
+	.string "Solange ich beim Angeln meinem Radio\n"
+	.string "lauschen kann, bin ich glücklich.$"
 
 Route12_Text_FisherStephenBeaten:
 	.string "Das blöde Radio beunruhigt mich!$"
 
 Route12_Text_FisherStephenAfterBattle:
-	.string "Kennst du schon die Radiosender\n"
-	.string "aus KANTO? Es gibt viele hier.$"
+	.string "Wenn du gerade in Kanto bist, senden\n"
+	.string "die Radiosender aus Johto ein Spezial-\l"
+	.string "programm mit zusätzlichem Lokalteil!\p"
+	.string "Äußerst praktisch und vor allem\n"
+	.string "hörerfreundlich, findest du nicht?$"
 
 Route12_Text_FisherBarneySeen:
-	.string "Was ist in unserem\n"
-	.string "alltäglichen Leben am wichtigsten?$"
+	.string "Was ist in unserem alltäglichen\n"
+	.string "Leben am wichtigsten?$"
 
 Route12_Text_FisherBarneyBeaten:
-	.string "Die Antwort gibt es demnächst!$"
+	.string "Meine Antwort hörst du, wenn\n"
+	.string "wir hier fertig sind!$"
 
 Route12_Text_FisherBarneyAfterBattle:
-	.string "Meiner Meinung nach ist Strom\n"
-	.string "das Wichtigste in unserem Leben.\p"
+	.string "Meiner Meinung nach ist Strom das\n"
+	.string "Wichtigste in unserem Leben.\p"
 	.string "Wenn dem nicht so wäre, hätten die\n"
-	.string "Leute nicht so einen Aufstand\p"
-	.string "fabriziert, als\n"
-	.string "das KRAFTWERK außer Betrieb war.$"
+	.string "Leute nicht so einen Aufstand\l"
+	.string "gemacht, als das Kraftwerk ausfiel.$"
 
 Route12_Text_KyleRegister:
 	.string "Ich werde mir das merken.\n"
@@ -125,16 +126,15 @@ Route12_Text_KylePostRematch:
 	.string "ist wie ein großer Fang!$"
 
 Route12_Text_FisherKyleSeen:
-	.string "Weißt du noch?$"
+	.string "Erinnerst du dich noch?!?$"
 
 Route12_Text_FisherKyleBeaten:
-	.string "Du erinnerst dich?$"
+	.string "Du erinnerst dich?!?$"
 
 Route12_Text_FisherKyleAfterBattle:
-	.string "Das Reißen an der ANGEL, wenn du\n"
-	.string "ein Pokémon fangen möchtest…\p"
-	.string "Das ist das Schönste\n"
-	.string "für einen Angler wie mich.$"
+	.string "Dieses Reißen an der Angel, wenn\n"
+	.string "ein Pokémon angebissen hat…\l"
+	.string "Das ist das Schönste für einen Angler!$"
 
 Route12_EventScript_Sign::
 	msgbox Route12_Text_Sign, MSGBOX_SIGN

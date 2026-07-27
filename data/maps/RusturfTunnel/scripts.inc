@@ -427,7 +427,7 @@ RusturfTunnel_Text_Peeko:
 
 RusturfTunnel_Text_GruntIntro:
 	.string "Grrr, man sollte sie alle kielholen.\p"
-	.string "Das als Geisel genommene POKéMON hat\n"
+	.string "Das als Geisel genommene Pokémon hat\n"
 	.string "sich als völlig wertlos erwiesen!\p"
 	.string "Und dafür habe ich nun einen Flucht-\n"
 	.string "weg in diesem Tunnel nach Nirgendwo\l"
@@ -520,15 +520,15 @@ RusturfTunnel_Text_MikeIntro:
 	.string "Wie nennt man einen ungestümen Mann\n"
 	.string "hoch im Gebirge? Einen Bergfreund.\p"
 	.string "So, warum nennt man dann nicht auch\n"
-	.string "ein POKéMON in den Bergen ein Berg-\l"
-	.string "POKéMON?$"
+	.string "ein Pokémon in den Bergen ein Berg-\l"
+	.string "Pokémon?$"
 
 RusturfTunnel_Text_MikeDefeat:
-	.string "Meine POKéMON…\n"
+	.string "Meine Pokémon…\n"
 	.string "Haben alle Energie verloren…$"
 
 RusturfTunnel_Text_MikePostBattle:
 	.string "Sie haben das Projekt hier einge-\n"
-	.string "stellt, um die POKéMON zu schützen,\l"
+	.string "stellt, um die Pokémon zu schützen,\l"
 	.string "nicht wahr? Eine rührende Story.$"
 

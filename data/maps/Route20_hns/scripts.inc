@@ -114,48 +114,47 @@ Route20_Text_NicoleRegister:
 
 Route20_Text_NicoleRematchIntro:
 	.string "Vom vielen Schwimmen sind meine\n"
-	.string "POKéMON stärker geworden! Los!$"
+	.string "Pokémon stärker geworden! Los!$"
 
 Route20_Text_NicoleRematchDefeat:
 	.string "Schon wieder weggespült...$"
 
 Route20_Text_NicolePostRematch:
 	.string "Ob Sieg oder Niederlage, meine\n"
-	.string "POKéMON und ich werden fitter!$"
+	.string "Pokémon und ich werden fitter!$"
 
 Route20_Text_SwimmerfNicoleSeen:
-	.string "Im Wasser fühle ich mich so leicht.$"
+	.string "Im Wasser fühle ich mich so\n"
+	.string "wunderbar leicht.$"
 
 Route20_Text_SwimmerfNicoleBeaten:
-	.string "Oh, nein!$"
+	.string "Och nööö!$"
 
 Route20_Text_SwimmerfNicoleAfterBattle:
-	.string "Beim Schwimmen wird der gesamte\p"
-	.string "Körper trainiert.\n"
-	.string "Schwimmen ist gesund.$"
+	.string "Schwimmen ist gesund!\n"
+	.string "Es trainiert den gesamten Körper!$"
 
 Route20_Text_SwimmerfLoriSeen:
-	.string "Du besitzt eine umwerfende Anzahl\n"
-	.string "ARENA-ORDEN. Lass uns kämpfen!$"
+	.string "Du hast ja einen ganzen Sack voll\n"
+	.string "Orden! Gegen dich will ich kämpfen!$"
 
 Route20_Text_SwimmerfLoriBeaten:
-	.string "Nein!$"
+	.string "NEIN$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
-	.string "SURFER ist nicht mehr die\n"
-	.string "einzige VM, die du im Wasser\l"
-	.string "einsetzen kannst.$"
+	.string "Außer Surfer gibt es auch noch andere\n"
+	.string "VM, die man im Wasser einsetzt.$"
 
 Route20_Text_SwimmermCameronSeen:
-	.string "Ich denke es ist unmöglich, den\n"
-	.string "ganzen Weg nach JOHTO zu schwimmen.$"
+	.string "Von hier bis nach Johto zu schwimmen,\n"
+	.string "ist wohl doch etwas zu weit, oder?$"
 
 Route20_Text_SwimmermCameronBeaten:
-	.string "Yippie!$"
+	.string "Jippie!$"
 
 Route20_Text_SwimmermCameronAfterBattle:
-	.string "Ich schwimme auch\n"
-	.string "in Teichen und Flüssen.$"
+	.string "Na ja, das Meer ist nicht alles. Es gibt\n"
+	.string "ja noch jede Menge Teiche und Flüsse…$"
 
 Route20_Text_CinnabarIsland_GymUnusedSign:
 	.string "Was steht hier?\p"

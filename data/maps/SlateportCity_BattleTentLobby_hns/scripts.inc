@@ -287,7 +287,7 @@ SlateportCity_BattleTentLobby_hns_Text_CouldntFindMonForMe:
 	.string "Hier, Mann, das ist für dich!$"
 
 SlateportCity_BattleTentLobby_hns_Text_ExplainTorment:
-	.string "Das ist die TM41, weißt du?\n"
+	.string "Das ist die TM42, weißt du?\n"
 	.string "Hey, das ist FOLTERKNECHT, sag ich\n"
 	.string "dir. \p"
 	.string "Der Gegner wird so daran gehindert,\n"

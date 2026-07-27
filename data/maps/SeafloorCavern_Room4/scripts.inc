@@ -31,7 +31,7 @@ SeafloorCavern_Room4_Text_Grunt4Defeat:
 	.string "Ich konnte nicht gewinnen!$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
-	.string "Mein Partner hat die Karte im U-Boot\n"
+	.string "Mein Partner hat die Karte im U-boot\n"
 	.string "liegen gelassen.\p"
 	.string "Wie kann man nur so nutzlos sein?$"
 

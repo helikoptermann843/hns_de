@@ -74,14 +74,16 @@ Route10_EventScript_ZapdosRan::
 
 
 Route10_Text_HikerJimSeen:
-	.string "Hahahah!$"
+	.string "Haaa, hahaha, harrr!$"
 
 Route10_Text_HikerJimBeaten:
-	.string "Hahaha-hatschi!$"
+	.string "Haaahahaha!\n"
+	.string "Hiiihihihi!\l"
+	.string "Heute gab es Kicherpilze zum Frühstück.$"
 
 Route10_Text_HikerJimAfter:
-	.string "Heuschnupfen lässt mich niesen!\n"
-	.string "Ahahaha-TSCHUU!$"
+	.string "Hiiihihihihi!\n"
+	.string "Haaah… puuuh…$"
 
 Route10_Text_PokefanmRobertSeen:
 	.string "Du magst Pokémon, nicht wahr?\p"
@@ -92,10 +94,10 @@ Route10_Text_PokefanmRobertBeaten:
 
 Route10_Text_PokefanmRobertAfter:
 	.string "Sieh nur, was du mit meinen\n"
-	.string "Pokémon gemacht hast…\p"
+	.string "Pokémon gemacht hast…$"
 
 Route10_Text_PowerPlant:
-	.string "Kraftwerk$"
+	.string "KRAFTWERK$"
 
 Route10_Text_Sign:
 	.string "ROUTE 10\p"

@@ -37,13 +37,11 @@ VermilionCity_PokemonCenter1F_Text_FishingGuru_FoughtSnorlax:
 	.string "es verschwunden zu sein.$"
 
 VermilionCity_PokemonCenter1F_Text_Sailor:
-	.string "Auf dem SCHNELLBOOT findet man\n"
-	.string "viele Trainer,\l"
-	.string "gegen die man kämpfen kann.$"
+	.string "Auf dem Schnellboot gegen andere\n"
+	.string "Trainer zu kämpfen, ist ein Hochgenuss!$"
 
 VermilionCity_PokemonCenter1F_Text_BugCatcher:
-	.string "Ach? Du hast da\n"
-	.string "einige ORDEN, die ich noch nie gesehen\l"
-	.string "habe.\p"
-	.string "Ah, jetzt begreife ich es. Du hast\p"
-	.string "sie in JOHTO erhalten.$"
+	.string "Oh, diese Orden habe ich ja\n"
+	.string "noch nie gesehen!\p"
+	.string "Oh, aber ja! Dann bist du also ein\n"
+	.string "Einwohner von Johto!$"

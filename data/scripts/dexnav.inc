@@ -37,7 +37,7 @@ sText_TryMovingSlower:
 	.string "Try moving more slowly.$"
 
 sText_PokemonGotAway:
-	.string "The Pokémon got away!$"
+	.string "Das Pokémon ist entkommen...$"
 
 sText_LostSignal:
 	.string "There is no reaction.\n"

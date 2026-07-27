@@ -28,21 +28,21 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
+	.string "{PLAYER} hat den geheimen Code auf die\n"
+	.string "Tür geschrieben.\p"
+	.string "“Ich liebe den RÄTSELMEISTER.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Das Schloss geht klickend auf.$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Nicht viele TRAINER haben es bis\n"
+	.string "Nicht viele Trainer haben es bis\n"
 	.string "hierher geschafft.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
 	.string "Das bedeutet, dass du sehr stark bist…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "Du hast den CHAMP der POKéMON LIGA\n"
+	.string "Du hast den Champ der Pokémon Liga\n"
 	.string "besiegt? Das ist zu viel für mich!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
@@ -59,13 +59,13 @@ Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
 	.string "Du schleichst hier auch durch das\n"
-	.string "RÄTSELHAUS?$"
+	.string "Rätselhaus?$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
 	.string "Ich verstehe…\n"
 	.string "Du hast einen außergewöhnlichen Stil.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Dein Anblick wird den RÄTSELMEISTER\n"
+	.string "Dein Anblick wird den Rätselmeister\n"
 	.string "bestimmt erfreuen.$"
 

@@ -68,15 +68,15 @@ Route19_EventScript_Item_Brine::
     end
 
 Route19_Text_SwimmermHaroldSeen:
-	.string "Warst du schon einmal nachts im Meer?$"
+	.string "Bist du schon einmal nachts\n"
+	.string "im Meer geschwommen?$"
 
 Route19_Text_SwimmermHaroldBeaten:
-	.string "Gulp…$"
+	.string "Schluck…$"
 
 Route19_Text_SwimmermHaroldAfterBattle:
-	.string "Nachts wird das Meer schwarz.\p"
-	.string "Es scheint, als\n"
-	.string "wollte es dich verschlingen.$"
+	.string "Nachts ist das Meer pechschwarz. Ganz\n"
+	.string "so, als wollte es dich verschlingen.$"
 
 Route19_Text_SwimmermTuckerSeen:
 	.string "Uff, uff… Nur… noch… ein\n"
@@ -86,51 +86,49 @@ Route19_Text_SwimmermTuckerBeaten:
 	.string "Ich ertrinke!$"
 
 Route19_Text_SwimmermTuckerAfterBattle:
-	.string "Ich… bat meine\n"
-	.string "Freundin nach FUCHSANIA CITY… zu\l"
-	.string "schwimmen…$"
+	.string "Ich… hab meiner Freundin gesagt…\n"
+	.string "ich schwimme… bis nach Fuchsania City.\l"
+	.string "Wirklich… großartige… Idee…$"
 
 Route19_Text_SwimmerfDawnSeen:
-	.string "Schwächlinge widern mich an!$"
+	.string "Schwächlinge\n"
+	.string "widern mich an!$"
 
 Route19_Text_SwimmerfDawnBeaten:
-	.string "Ich schlage dich beim Schwimmen…$"
+	.string "Beim Schwimmen hätte ich dich\n"
+	.string "locker in die Tasche gesteckt!$"
 
 Route19_Text_SwimmerfDawnAfterBattle:
-	.string "Es ist nur eine kurze Distanz\n"
-	.string "zwischen FUCHSANIA\l"
-	.string "CITY und den SEESCHAUMINSELN…\p"
-	.string "Uah, mein Freund ist so groß und\n"
-	.string "dennoch ein Schwächling!$"
+	.string "Von Fuchsania City bis zu den See-\n"
+	.string "schauminseln schwimmt sich's doch im Nu!\l"
+	.string "Jetzt stell dich mal nicht so an!$"
 
 Route19_Text_SwimmermJeromeSeen:
-	.string "Schwimmen? Ich bin\n"
-	.string "ein miserabler Schwimmer.\p"
-	.string "Ich plansche lieber\n"
-	.string "in dieser Riesenpfütze.$"
+	.string "Schwimmen?\n"
+	.string "Ich bin ein miserabler Schwimmer.\l"
+	.string "Ich plansche lieber im seichten Wasser.$"
 
 Route19_Text_SwimmermJeromeBeaten:
-	.string "Ich dachte, ich könnte gewinnen.$"
+	.string "Und ich dachte, ich könnte gewinnen…\n"
+	.string "So kann man sich irren.$"
 
 Route19_Text_SwimmermJeromeAfterBattle:
-	.string "Schwimmen mag nicht meine\n"
-	.string "Stärke sein, dennoch liebe\l"
-	.string "ich das Meer.$"
+	.string "Schwimmen mag nicht meine Stärke sein,\n"
+	.string "aber ich liebe das Meer!$"
 
 Route19_Text_Fisher1:
-	.string "Tut mir Leid.\n"
-	.string "Die Straße ist aufgrund von\l"
-	.string "Bauarbeiten gesperrt.\p"
-	.string "Wenn du zu der ZINNOBERINSEL\n"
-	.string "möchtest, gehst du von\l"
-	.string "ALABASTIA gen Süden.$"
+	.string "Hier kommst du nicht weiter, weil hier\n"
+	.string "gerade Planierarbeiten im Gange sind.\l"
+	.string "Um zur Zinnoberinsel zu gelangen, musst\l"
+	.string "du den Umweg über Alabastia machen.$"
 
 Route19_Text_Kingler:
 	.string "Kingler: KEEEEEEEEEEEE$"
 
 Route19_Text_Fisher1_RocksCleared:
-	.string "Ich bin total verschwitzt.\p"
-	.string "Es ist Zeit zum Schwimmen.$"
+	.string "Ich habe so viel geschwitzt,\n"
+	.string "dass jetzt ein paar Runden im\l"
+	.string "Wasser sicher nicht verkehrt wären.$"
 
 Route19_Text_Fisher2:
 	.string "Es würde zu lange\n"
@@ -145,12 +143,13 @@ Route19_Text_Fisher2_RocksCleared:
 	.string "Jetzt kann ich wieder angeln.$"
 
 Route19_Text_Sign:
-	.string "ROUTE 19\p"
-	.string "FUCHSANIA CITY - SEESCHAUMINSELN$"
+	.string "Route 19\n"
+	.string "Süden: Die Seeschauminseln$"
 
 Route19_Text_CarefulSwimmingSign:
-	.string "Sei auf der Hut,\n"
-	.string "wenn du zu den SEESCHAUMINSELN\l"
-	.string "schwimmst.\p"
-	.string "ORDNUNGSAMT VON FUCHSANIA CITY$"
+	.string "Da ist ein Flugblatt…\p"
+	.string "Wer vorhat, zu den Seeschauminseln\n"
+	.string "hinauszuschwimmen, wird gebeten,\l"
+	.string "äußerst vorsichtig zu sein!\l"
+	.string "- Das Ordnungsamt von Fuchsania City$"
 

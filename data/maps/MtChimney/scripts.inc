@@ -552,16 +552,16 @@ MtChimney_Text_MeteoriteWillActivateVolcano:
 	.string "Hähähähä…$"
 
 MtChimney_Text_MaxieIntro:
-	.string "MARC: Hm?\n"
+	.string "Marc: Hm?\n"
 	.string "Wer bist du denn?!?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "ADRIAN hat sich über ein Kind beklagt,\n"
+	.string "Adrian hat sich über ein Kind beklagt,\n"
 	.string "das sich in die Angelegenheiten von\l"
-	.string "TEAM AQUA einmischt.\p"
+	.string "Team Aqua einmischt.\p"
 	.string "Dieses Kind musst du sein.\p"
 	.string "Hmpf! Und du glaubst, du kannst dich\n"
-	.string "auch in unsere, TEAM MAGMAs\l"
+	.string "auch in unsere, Team Magmas\l"
 	.string "Angelegenheiten einmischen?\p"
 	.string "Hör gut zu. Schon lange Zeit nutzen\n"
 	.string "die Lebewesen das Land, um zu\l"
@@ -569,10 +569,10 @@ MtChimney_Text_MaxieIntro:
 	.string "Daher ist das Land wichtiger als alles\n"
 	.string "andere! Es ist die Wiege allen Lebens.\n"
 	.string "\p"
-	.string "Daher widmet sich TEAM MAGMA der Auf-\n"
+	.string "Daher widmet sich Team Magma der Auf-\n"
 	.string "gabe, die Landmassen zu vergrößern.\p"
 	.string "So entsteht mehr Raum für Menschen\n"
-	.string "und POKéMON.\p"
+	.string "und Pokémon.\p"
 	.string "Für unsere Pläne brauchen wir das, was\n"
 	.string "im Inneren dieses Berges schläft…\p"
 	.string "Nun, mehr brauchst du nicht zu wissen.\n"
@@ -587,7 +587,7 @@ MtChimney_Text_MaxieIntro:
 
 MtChimney_Text_MaxieDefeat:
 	.string "Wie bitte?!?\p"
-	.string "Ich, MARC, wurde ganz hinterhältig\n"
+	.string "Ich, Marc, wurde ganz hinterhältig\n"
 	.string "besiegt?!?$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
@@ -607,8 +607,8 @@ MtChimney_Text_TabithaIntro:
 	.string "Da bist du also den weiten Weg hier\n"
 	.string "hoch gelatscht.\p"
 	.string "Tja, du kommst leider zu spät. Ich\n"
-	.string "habe den METEORITen aus METEORFÄLLE\l"
-	.string "bereits bei meinem BOSS abgeliefert!$"
+	.string "habe den Meteoriten aus Meteorfälle\l"
+	.string "bereits bei meinem Boss abgeliefert!$"
 
 MtChimney_Text_TabithaDefeat:
 	.string "Hähähä…\p"
@@ -616,12 +616,12 @@ MtChimney_Text_TabithaDefeat:
 	.string "unser Boss das Ding zum Leben erweckt…$"
 
 MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, beeil dich!\n"
-	.string "Gib ihm die Energie des METEORITen!\p"
+	.string "Boss, beeil dich!\n"
+	.string "Gib ihm die Energie des Meteoriten!\p"
 	.string "Hähähä…$"
 
 MtChimney_Text_Grunt2Intro:
-	.string "Wir von TEAM MAGMA setzen alles daran,\n"
+	.string "Wir von Team Magma setzen alles daran,\n"
 	.string "zum Wohle aller zu handeln.\p"
 	.string "Und wenn das Ding mehr Land schafft,\n"
 	.string "gibt es auch mehr Platz zum Leben.\p"
@@ -632,7 +632,7 @@ MtChimney_Text_Grunt2Defeat:
 	.string "Was sagst du? Ich habe verloren???$"
 
 MtChimney_Text_Grunt2PostBattle:
-	.string "Unser BOSS sagt: “Jeder wird glücklich\n"
+	.string "Unser Boss sagt: “Jeder wird glücklich\n"
 	.string "sein.”\p"
 	.string "Aber warum will uns dann jeder\n"
 	.string "aufhalten?$"
@@ -787,7 +787,7 @@ MtChimney_Text_ShelbyDefeat:
 
 MtChimney_Text_ShelbyPostBattle:
 	.string "Nun, ich habe verloren. Ich darf mich\n"
-	.string "nun nicht mehr EXPERTE nennen, oder?$"
+	.string "nun nicht mehr Experte nennen, oder?$"
 
 MtChimney_Text_ShelbyRegister:
 	.string "Danke schön, mein Kind. Das hat Spaß\n"
@@ -797,7 +797,7 @@ MtChimney_Text_ShelbyRegister:
 
 MtChimney_Text_ShelbyRematchIntro:
 	.string "Wenn du in deinem Herzen Platz für\n"
-	.string "deine POKéMON hast, dann kannst du\l"
+	.string "deine Pokémon hast, dann kannst du\l"
 	.string "auch große Dinge erreichen.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
@@ -806,7 +806,7 @@ MtChimney_Text_ShelbyRematchDefeat:
 
 MtChimney_Text_ShelbyPostRematch:
 	.string "Vielleicht schlägt dein Herz im\n"
-	.string "Gleich- klang mit den POKéMON.$"
+	.string "Gleich- klang mit den Pokémon.$"
 
 MtChimney_Text_MelissaIntro:
 	.string "Ich habe Feuer in mir, Baby.\n"
@@ -817,24 +817,24 @@ MtChimney_Text_MelissaDefeat:
 	.string "Oh, was für ein kochend heißer Kampf!$"
 
 MtChimney_Text_MelissaPostBattle:
-	.string "Die Hitze vom SCHLOTBERG bringt mein\n"
+	.string "Die Hitze vom Schlotberg bringt mein\n"
 	.string "Feuer in Gang.$"
 
 MtChimney_Text_SheilaIntro:
-	.string "Endlich bin ich am SCHLOTBERG ange-\n"
+	.string "Endlich bin ich am Schlotberg ange-\n"
 	.string "kommen. Jetzt will ich kämpfen!!!$"
 
 MtChimney_Text_SheilaDefeat:
 	.string "Wie du kämpfst…\n"
-	.string "Als würde der SCHLOTBERG ausbrechen!$"
+	.string "Als würde der Schlotberg ausbrechen!$"
 
 MtChimney_Text_SheilaPostBattle:
 	.string "Wie ich schon sagte, endlich bin ich\n"
 	.string "am\n"
-	.string "SCHLOTBERG. Wäre doch blödsinnig, wenn\l"
+	.string "Schlotberg. Wäre doch blödsinnig, wenn\l"
 	.string "ich nur zum Sightseeing hier wäre…\p"
 	.string "Ich will ein bisschen kämpfen und\n"
-	.string "KEKSe als Andenken kaufen.$"
+	.string "Kekse als Andenken kaufen.$"
 
 MtChimney_Text_ShirleyIntro:
 	.string "Seit ich in den Heißen Quellen gebadet\n"
@@ -862,7 +862,7 @@ MtChimney_Text_SawyerDefeat:
 
 MtChimney_Text_SawyerPostBattle:
 	.string "Ich glaube, ich tauche mal in den\n"
-	.string "Heißen Quellen von BAD LAVASTADT ab.$"
+	.string "Heißen Quellen von Bad Lavastadt ab.$"
 
 MtChimney_Text_SawyerRegister:
 	.string "Ich mag Hitzköpfe wie dich.\n"

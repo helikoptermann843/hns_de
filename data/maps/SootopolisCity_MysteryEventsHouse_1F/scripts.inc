@@ -172,7 +172,7 @@ SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
 	.string "jungen TRAINER bei ihren Kämpfen.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
-	.string "The door appears to be locked.$"
+	.string "Diese Tür ist verschlossen.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
 	.string "Ein TRAINER namens {STR_VAR_1} ist bei\n"

@@ -10,16 +10,16 @@ PewterCity_House2_EventScript_LittleBoy::
 	end
 
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-	.string "POKéMON learn new techniques as\n"
-	.string "they grow.\p"
-	.string "But some moves must be taught to\n"
-	.string "them by people.$"
+	.string "{VAR}, gibt es etwas, das du\n"
+	.string "nicht leiden kannst?\p"
+	.string "BILL kann offensichtlich\n"
+	.string "Milch nicht leiden!$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-	.string "A POKéMON becomes easier to \n"
-	.string "catch if it has a status problem.\p"
-	.string "Sleep, poison, burn, or paralysis…\n"
-	.string "Those are all effective.\p"
-	.string "But catching POKéMON is never\n"
-	.string "a sure thing!$"
+	.string "{VAR}, was sind deine Lieblings-\n"
+	.string "POKéMON?\p"
+	.string "BILL ist ein POKéMANIAC, also mag\n"
+	.string "er alle POKéMON.\p"
+	.string "Es scheint, dass ABRA sein erstes\n"
+	.string "POKéMON war!$"
 

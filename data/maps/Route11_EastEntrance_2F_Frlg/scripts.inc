@@ -85,54 +85,50 @@ Route11_EastEntrance_2F_EventScript_GetAideRequestInfo::
 	return
 
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
-	.string "Hi! Remember me?\n"
-	.string "I'm one of PROF. OAK's AIDES.\p"
-	.string "If your POKéDEX has complete data\n"
-	.string "on {STR_VAR_1} species, I'm supposed to\l"
-	.string "give you a reward.\p"
-	.string "PROF. OAK entrusted me with the\n"
-	.string "{STR_VAR_2} for you.\p"
-	.string "So, {PLAYER}, let me ask you.\p"
-	.string "Have you gathered data on at least\n"
-	.string "{STR_VAR_1} kinds of POKéMON?$"
+	.string "Hallo! Erinnerst du dich?\n"
+	.string "Ich bin PROF. EICHs\l"
+	.string "ASSISTENT!\p"
+	.string "Wenn du mindestens {VAR} verschiedene\n"
+	.string "POKéMON gefangen hast, habe ich\l"
+	.string "ein Geschenk für dich:\l"
+	.string "{VAR}\p"
+	.string "Also, {VAR}, hast du {VAR}\n"
+	.string "unterschiedliche POKéMON gefangen?$"
 
 Route11_EastEntrance_2F_Text_GreatHereYouGo::
-	.string "Great! You have caught or owned\n"
-	.string "{STR_VAR_3} kinds of POKéMON!\p"
-	.string "Congratulations!\n"
-	.string "Here you go!$"
+	.string "Super! Du hast {VAR} verschiedene\n"
+	.string "POKéMON gefangen!\p"
+	.string "Einfach klasse! Hier, das hast du\n"
+	.string "dir redlich verdient!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
 	.string "from the AIDE.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
-	.string "There are items on the ground that\n"
-	.string "may be hidden from view.\p"
-	.string "Use the ITEMFINDER to detect any\n"
-	.string "hidden items close to you.\p"
-	.string "The machine is a bit limited.\n"
-	.string "It can't pinpoint item locations.\p"
-	.string "What it does is show the direction\n"
-	.string "where the item is.\p"
-	.string "Use it to get your bearings, then\n"
-	.string "search the suspect area by hand.$"
+	.string "Auf dem Boden liegen oft Items,\n"
+	.string "die man nicht sehen kann.\p"
+	.string "Der DETEKTOR spürt Items in deiner\n"
+	.string "Nähe auf!\p"
+	.string "Allerdings ortet er nicht die\n"
+	.string "exakte Position!\p"
+	.string "Er zeigt nur in die Richtung, wo\n"
+	.string "das Item liegt.\p"
+	.string "Benutze ihn, um dich zu orientieren\n"
+	.string "und suche dann manuell!$"
 
 Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "A big POKéMON is asleep on a road!$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Mitten auf dem Weg schläft ein\n"
+	.string "großes POKéMON!$"
 
 Route11_EastEntrance_2F_Text_WhatABreathtakingView::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "What a breathtaking view!$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Du hast eine wunderschöne Aussicht!$"
 
 Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
-	.string "Let's see what the binoculars have\n"
-	.string "to show…\p"
-	.string "To get to LAVENDER TOWN from\n"
-	.string "CERULEAN CITY…\p"
-	.string "ROCK TUNNEL appears to be a good\n"
-	.string "route to take.$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Der einzige Weg von AZURIA CITY\n"
+	.string "nach LAVANDIA führt durch den\l"
+	.string "FELSTUNNEL.$"
 

@@ -354,10 +354,11 @@ Route32_Text_CooltrainerM_WhatsTheHurry:
 	.string "Warte! Warum die Eile?$"
 
 Route32_Text_CooltrainerM_AideIsWaiting:
-	.string "{PLAYER}, oder? Ein Typ mit einer\n"
-	.string "Brille hat nach dir gefragt.\p"
-	.string "Kümmere dich um ihn. Er erwartet\n"
-	.string "dich im PokémonCENTER.$"
+	.string "Du bist {PLAYER}, nicht wahr?\n"
+	.string "Ich habe einen Mann getroffen, der\l"
+	.string "nach dir suchte. Er trug eine Brille…\p"
+	.string "Bestimmt wartet er noch im\n"
+	.string "Pokémon-Supermarkt auf dich!$"
 
 Route32_Text_CooltrainerM_SproutTower:
 	.string "Warst du im KNOFENSA-TURM?\p"
@@ -368,56 +369,55 @@ Route32_Text_CooltrainerM_SproutTower:
 	.string "Geh zum KNOFENSA-TURM!$"
 
 Route32_Text_CooltrainerM_VioletGym:
-	.string "Warst du schon in der PKMN-ARENA?\p"
-	.string "Dort kannst du deine Pokémon\n"
-	.string "und dich auf die Probe stellen.\p"
-	.string "Es ist eine Art\n"
-	.string "Ritus für alle Trainer!$"
+	.string "Warst du schon in der Pokémon-Arena?\n"
+	.string "Das ist ein guter Ort für Trainer, um\l"
+	.string "sich und seine Pokémon zu stählen!\p"
+	.string "Das ist Trainer-Grundwissen!\l"
+	.string "Schau dort mal vorbei!$"
 
 Route32_Text_CooltrainerM_HaveThisSeed:
-	.string "Du besitzt einige gute Pokémon.\p"
-	.string "Sie sind bestimmt wegen der vielen\n"
-	.string "Kämpfe, die du mit ihnen in\l"
-	.string "VIOLA CITY absolviert hast, so gut.\p"
-	.string "Das Training in der PKMN-ARENA\n"
-	.string "muss von großem Nutzen gewesen sein.\p"
-	.string "Nimm dies als Andenken\n"
-	.string "an VIOLA CITY.\p"
-	.string "Damit werden Pflanzen-Attacken\n"
-	.string "verstärkt.$"
+	.string "Du hast einige gute Pokémon dabei.\n"
+	.string "Sie sind bestimmt deshalb so gut, weil du\l"
+	.string "sie in Viola City so hart trainiert hast.\p"
+	.string "Die Pokémon-Arena war sicher ganz\n"
+	.string "besonders gutes Training für sie.\p"
+	.string "Hier, das ist für dich. Als kleines\n"
+	.string "Andenken an Viola City.\p"
+	.string "Wenn du das einem Pokémon gibst,\n"
+	.string "soll angeblich die Stärke all seiner\l"
+	.string "Attacken vom Typ Pflanze steigen.$"
 
 Route32_Text_CooltrainerM_Experiences:
-	.string "Die Erfahrungen von VIOLA CITY\n"
-	.string "werden dir auf deiner Reise\l"
-	.string "von großem Nutzen sein.$"
+	.string "Deine Erfahrungen aus Viola City werden\n"
+	.string "dir auf deiner Reise sehr nützlich sein.$"
 
 Route32_Text_SlowpokeTailOffer:
-	.string "Hättest du gern diese leckere,\n"
-	.string "nahrhafte Flegmonrute?\p"
-	.string "Für dich jetzt sofort, nur\n"
-	.string "¥1.000.000!\p"
-	.string "Die willst du doch!$"
+	.string "Wie wär's mit einer schmackhaften und\n"
+	.string "nahrhaften FLEGMON-Rute?\p"
+	.string "Für dich jetzt nur 1.000.000 $!\n"
+	.string "Na, wie sieht's aus?$"
 
 Route32_Text_ThoughtKidsLoaded:
-	.string "Tz! Ich dachte, die Kids\n"
-	.string "heutzutage hätten Kohle…$"
+	.string "Pah, dein Geld reicht nicht!\p"
+	.string "Und ich dachte, die Kinder von\n"
+	.string "heute wären stinkreich…$"
 
 Route32_Text_RefusedSlowpokeTail:
-	.string "Du willst sie nicht?\n"
-	.string "Dann hau ab. Scher dich weg!$"
+	.string "Du möchtest sie nicht?\n"
+	.string "Dann mach dich vom Acker!$"
 
 Route32_Text_FisherJustin_Seen:
-	.string "Wow!\p"
-	.string "Wegen dir habe ich\n"
-	.string "den Fisch verloren!$"
+	.string "Uah!\p"
+	.string "Na toll! Jetzt hast du mich erschreckt\n"
+	.string "und mein Ziel hat sich verdrückt!$"
 
 Route32_Text_FisherJustin_Beaten:
 	.string "Platsch!$"
 
 Route32_Text_FisherJustin_After:
-	.string "Geduld… Die Voraussetzung\n"
-	.string "für das Angeln und\l"
-	.string "für Pokémon ist dieselbe.$"
+	.string "Ruhe, Geduld und Spucke…\p"
+	.string "Im Kern kommt es beim Angeln und\n"
+	.string "beim Pokémon-Kampf auf das Gleiche an.$"
 
 Route32_Text_FisherRalph1_Seen:
 	.string "Ich beherrsche beides,\n"
@@ -425,12 +425,12 @@ Route32_Text_FisherRalph1_Seen:
 	.string "Darum werde ich nicht verlieren!$"
 
 Route32_Text_FisherRalph1_Beaten:
-	.string "Ts! Ich wollte\n"
-	.string "die Sache beschleunigen…$"
+	.string "Tse! Ich war wohl\n"
+	.string "doch zu ungeduldig.$"
 
 Route32_Text_FisherRalph1_After:
-	.string "Angeln ist eine lebenslange Passion.\p"
-	.string "Pokémon sind lebenslange Freunde!$"
+	.string "Angeln ist ein Sport fürs ganze Leben.\n"
+	.string "Pokémon sind Kameraden fürs Leben!$"
 
 Route32_Text_RalphRegister:
     .string "Angeln ist eine Leidenschaft\n"
@@ -453,48 +453,51 @@ Route32_Text_RalphPostRematch:
     .string "POKéMON sind Freunde fürs Leben!$"
 
 Route32_Text_FisherHenry_Seen:
-	.string "Meine Pokémon? Frisch gefangen!$"
+	.string "Meine Pokémon?\n"
+	.string "Frisch gefangen!$"
 
 Route32_Text_FisherHenry_Beaten:
-	.string "PLATSCHER?$"
+	.string "Ein Bauchklatscher!$"
 
 Route32_Text_FisherHenry_After:
 	.string "Frisch gefangene Pokémon können\n"
-	.string "gut trainierten nicht Paroli bieten.$"
+	.string "gut trainierten kein Paroli bieten.$"
 
 Route32_Text_YoungsterAlbert_Seen:
-	.string "Ich habe dich hier noch nie gesehen.\p"
-	.string "Du denkst also, du bist stark?$"
+	.string "Ah, ein neues Gesicht.\n"
+	.string "Du hältst dich also für stark?$"
 
 Route32_Text_YoungsterAlbert_Beaten:
 	.string "Du bist stark!$"
 
 Route32_Text_YoungsterAlbert_After:
-	.string "Ich versuche, mit meinen\n"
-	.string "Lieblingen der Beste zu sein.\p"
-	.string "Ich setze nicht auf zähe Pokémon,\n"
-	.string "wie die anderen.$"
+	.string "Ich versuche, aus meinen Lieblings-\n"
+	.string "Pokémon das Beste herauszuholen.\p"
+	.string "Ich verwende nicht die gleichen wie die\n"
+	.string "anderen, nur weil sie als stark gelten.$"
 
 Route32_Text_YoungsterGordon_Seen:
-	.string "Ich habe gute Pokémon\n"
-	.string "im Gras gefunden!\p"
-	.string "Ich denke, sie passen ganz gut zu mir!$"
+	.string "Ich habe gute Pokémon im Gras\n"
+	.string "gefunden! Wir schaffen das schon!$"
 
 Route32_Text_YoungsterGordon_Beaten:
-	.string "Mist. Ich dachte, ich könnte gewinnen.$"
+	.string "Und ich dachte, ich könnte gewinnen…\n"
+	.string "So kann man sich irren.$"
 
 Route32_Text_YoungsterGordon_After:
 	.string "Im Gras findest du viele Dinge.$"
 
 Route32_Text_CamperRoland_Seen:
-	.string "Dieser Blick… Wie faszinierend.$"
+	.string "Dieser Blick…\n"
+	.string "wie faszinierend.$"
 
 Route32_Text_CamperRoland_Beaten:
-	.string "Hm. Das ist enttäuschend.$"
+	.string "Hm. Das war\n"
+	.string "enttäuschend.$"
 
 Route32_Text_CamperRoland_After:
 	.string "Wenn du nicht kämpfen möchtest,\n"
-	.string "vermeide Blickkontakt.$"
+	.string "solltest du Blickkontakt vermeiden.$"
 
 Route32_Text_PicnickerLiz1_Seen:
 	.string "A-ha. Ja, du weißt…\p"
@@ -526,26 +529,30 @@ Route32_Text_LizPostRematch:
     .string "Plaudern.$"
 
 Route32_Text_BirdKeeperPeter_Seen:
-	.string "Dieser ORDEN! Er ist aus VIOLA CITY!\p"
-	.string "Du hast FALK besiegt?$"
+	.string "Wow! Dieser Orden…\p"
+	.string "Er ist aus Viola City!\n"
+	.string "Du hast Falk besiegt?$"
 
 Route32_Text_BirdKeeperPeter_Beaten:
-	.string "Ich kenne meine Schwächen.$"
+	.string "Ich kenne jetzt meine\n"
+	.string "Schwächen.$"
 
 Route32_Text_BirdKeeperPeter_After:
-	.string "Ich sollte in der\n"
-	.string "PKMN-ARENA von VIOLA CITY weiter\l"
-	.string "trainieren.$"
+	.string "Ich sollte in der Pokémon-Arena von\n"
+	.string "Viola City weiter trainieren.$"
 
 Route32_Text_RoarIntro:
-	.string "WROOOOAR! ALLE rennen, wenn ich\n"
-	.string "brülle! ABER DU BIST GEKOMMEN!\p"
-	.string "DAS GEFÄLLT MIR! NIMM DAS JETZT!$"
+	.string "Brüüüll!\p"
+	.string "Alle Leute Laufen Davon, Wenn Ich SO\n"
+	.string "Brülle, Aber Duuu Bist Hiergeblieben!\l"
+	.string "Ich Bin ZU Trääänen Gerührt!\l"
+	.string "Hiiier, Nimm Das Bitte Miiiiiit!!!$"
 
 Route32_Text_RoarOutro:
-	.string "WROOOOAR! ES BRÜLLT!\p"
-	.string "SOGAR Pokémon FLIEHEN VOR EINEM\n"
-	.string "GUTEN BRÜLLER!$"
+	.string "BRÜÜÜLL!\n"
+	.string "DAS IST DER BRÜLLER!\l"
+	.string "SOGAR POKéMON LAUFEN DAVON,\l"
+	.string "WENN DU IHN EINSETZT!$"
 
 Route32_Text_MeetFrieda:
 	.string "Frieda: Juchhu!\p"
@@ -559,17 +566,20 @@ Route32_Text_FriedaGivesGift:
 	.string "Hier, GIFTSTICH ist für dich!$"
 
 Route32_Text_FriedaGaveGift:
-	.string "Frieda: Gib es einem Pokémon,\n"
-	.string "das Gift-Attacken beherrscht.\p"
-	.string "Oh!\p"
-	.string "Es ist fies!\p"
-	.string "Du wirst staunen, wie stark\n"
-	.string "es Gift-Attacken macht!$"
+	.string "Frieda: Gib es einem Pokémon, das\n"
+	.string "über Gift-Attacken verfügt.\p"
+	.string "Oh ja!\p"
+	.string "Das Ding haut richtig rein!\p"
+	.string "Du wirst dich wundern, wie effektiv\n"
+	.string "deine Gift-Attacken werden!$"
 
 Route32_Text_FriedaFriday:
-	.string "Frieda: Hi! Welchen Tag magst du?\p"
-	.string "Ich liebe Freitag. Ganz klar!\p"
-	.string "Findest du ihn nicht auch super?$"
+	.string "Frieda: Hossa! Welchen Wochentag\n"
+	.string "hast du am liebsten?\p"
+	.string "Ich liebe Freitag.\n"
+	.string "Daran gibt es keinen Zweifel!\p"
+	.string "Denkst du nicht auch, dass Freitag\n"
+	.string "großartig ist?$"
 
 Route32_Text_FriedaNope:
 	.string "Frieda: Nicht der richtige!$"
@@ -579,9 +589,8 @@ Route32_Text_Sign1:
 	.string "VIOLA CITY - AZALEA CITY$"
 
 Route32_Text_Sign2:
-	.string "ROUTE 32\p"
-	.string "ALPH-RUINEN - VIOLA CITY$"
+	.string "Alph-Ruinen\n"
+	.string "Osteingang$"
 
 Route32_Text_Sign3:
-	.string "ROUTE 32\p"
-	.string "EINHEITSTUNNEL - VIOLA CITY$"
+	.string "Zum Einheitstunnel$"

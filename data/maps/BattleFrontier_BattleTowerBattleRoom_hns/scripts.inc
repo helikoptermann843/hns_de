@@ -437,32 +437,32 @@ BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent_hns:
-	.string "You will be facing opponent no.\n"
-	.string "{STR_VAR_1}. Are you ready?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent_hns:
-	.string "Gegner Nr. 2 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent_hns:
-	.string "Gegner Nr. 3 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent_hns:
-	.string "Gegner Nr. 4 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent_hns:
-	.string "Gegner Nr. 5 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent_hns:
-	.string "Gegner Nr. 6 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "Gegner Nr. 7 erwartet dich.\n"
-	.string "Bist du so weit?$"
+	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle_hns:
 	.string "Möchtest du die Resultate in deinen\n"
@@ -473,16 +473,16 @@ BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
 	.string "KAMPFZONENPASS eingetragen.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du das Spiel speichern und\n"
-	.string "beenden?$"
+	.string "Möchtest du speichern und\n"
+	.string "das Spiel beenden?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
 	.string "Deine Kampfdaten werden gespeichert.\n"
 	.string "Bitte warte einen Moment.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge_hns:
-	.string "Möchtest du die Herausforderung im\n"
-	.string "KAMPFRAUM abbrechen?$"
+	.string "Möchtest du deine Herausforderung\n"
+	.string "im Kampfraum abbrechen?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved_hns::
 	.string "Es gab einen Fehler.\n"

@@ -117,31 +117,34 @@ EcruteakCity_Movement_Silver2:
 	step_end
 
 EcruteakCity_Text_Silver1:
-	.string "BUMM!!$"
+	.string "…Bumms.$"
 
 EcruteakCity_Text_Silver2:
-	.string "SILVER: Wie...? Wie ist das\n"
-	.string "möglich? Wie kann ich gegen\l"
-	.string "die KIMONO-GIRLS verlieren...?$"
+	.string "{RIVAL}: Warum, warum, warum?!?\n"
+	.string "Warum kann ich nur nicht gewinnen?!?\p"
+	.string "Dabei war mein Gegner doch nur so\n"
+	.string "ein mickriges Kimono-Girl!$"
 
 EcruteakCity_Text_Silver3:
-	.string "SILVER: Du hast mich beobachtet,\n"
-	.string "{PLAYER}...\p"
-	.string "Ja, genau!\p"
-	.string "Ich hätte nie gedacht, dass es so\n"
-	.string "schwer ist, fünf KIMONO-GIRLS zu\n"
-	.string "besiegen...\p"
-	.string "Ich wurde richtig vermöbelt...\p"
-	.string "...\p"
-	.string "Du bist sicher aus dem gleichen\n"
-	.string "Grund hier, oder?\p"
-	.string "Werde nicht übermütig, nur weil\n"
-	.string "du TEAM ROCKET besiegt hast!\p"
-	.string "Diese KIMONO-GIRLS sind extrem\n"
-	.string "stark.\p"
-	.string "Schau, ob du sie besiegen kannst.\p"
-	.string "Aber ich gebe nicht auf, ich will\n"
-	.string "nicht, dass du gewinnst.$"
+	.string "{RIVAL}: Hast du mir zugesehen,\n"
+	.string "{PLAYER}?\p"
+	.string "Ja, ich habe verloren.\p"
+	.string "Und ich dachte noch, es würde ein\n"
+	.string "Kinderspiel, alle fünf Kimono-Girls der\l"
+	.string "Reihe nach plattzumachen… aber sie\l"
+	.string "waren mir haushoch überlegen.\p"
+	.string "… … …\p"
+	.string "Du bist bestimmt auch hier, um die\n"
+	.string "Kimono-Girls herauszufordern, oder?\p"
+	.string "Ruhe dich aber nicht auf den Lorbeeren\n"
+	.string "deines Siegs über Team Rocket aus!\p"
+	.string "Diese Kimono-Girls sind nämlich echt\n"
+	.string "unglaublich stark.\p"
+	.string "Aber geh nur!\p"
+	.string "Versuch's ruhig!\p"
+	.string "Mich kriegt da niemand mehr rein.\p"
+	.string "Ich habe keine Lust, dir dabei\n"
+	.string "zuzusehen, wie du gewinnst.$"
 
 EcruteakCity_EventScript_Gramps::
 	lock
@@ -288,17 +291,14 @@ EcruteakCity_Text_Vulpix:
 
 
 EcruteakCity_Text_UnusedMissingDaughter:
-	.string "Oh, no. Oh, no…\p"
-	.string "My daughter is missing.\p"
-	.string "No… She couldn't have gone to the\n"
-	.string "BURNED TOWER.\p"
-	.string "I told her not to go near it…\p"
-	.string "People seem to disappear there…\p"
-	.string "Oh, what should I do…?$"
+	.string "Oh nein. Oh nein…\p"
+	.string "Meine Tochter ist verschwunden.\p"
+	.string "Nein… Sie kann doch nicht in den\n"
+	.string "ABGEBRANNTEN TURM gegangen sein!$"
 
 EcruteakCity_Text_Gramps1:
-	.string "Es gab zwei Türme in TEAK CITY.\n"
-	.string "Einen im Osten, einen im Westen.$"
+	.string "Es gab wohl mal zwei Türme in Teak City,\n"
+	.string "einen im Osten und einen im Westen…$"
 
 EcruteakCity_Text_Gramps2:
 	.string "Na, Kröte? Hast du gelernt zu\n"
@@ -310,8 +310,8 @@ EcruteakCity_Text_Gramps2:
 	.string "TANZTHEATER gehst.$"
 
 EcruteakCity_Text_Lass1:
-	.string "Ich will im TANZTHEATER üben.\p"
-	.string "Kommst du mit?$"
+	.string "Ich bin auf dem Weg zum Tanztheater,\n"
+	.string "um Tanzen zu üben. Kommst du mit?$"
 
 EcruteakCity_Text_Lass2:
 	.string "Der Turm, der früher hier stand…\p"
@@ -319,10 +319,10 @@ EcruteakCity_Text_Lass2:
 	.string "dass er früher höher war.$"
 
 EcruteakCity_Text_Lass2_ReleasedBeasts:
-	.string "Drei große Pokémon sind in\l"
-	.string "verschiedene Richtungen\n"
-	.string "davongelaufen! Was waren das für\p"
-	.string "welche?$"
+	.string "Hier sind eben drei große Pokémon an\n"
+	.string "mir vorbeigerannt und in verschiedene\l"
+	.string "Richtungen verschwunden.\l"
+	.string "Was war da bloß los?$"
 
 EcruteakCity_Text_Fisher:
 	.string "Es kursiert ein Gerücht\n"
@@ -371,24 +371,26 @@ EcruteakCity_Text_Sign:
 	.string "Gegenwart aufeinandertreffen$"
 
 EcruteakCity_Text_TinTowerSign:
-	.string "TIN TOWER\p"
-	.string "A legendary Pokémon is said to\n"
-	.string "Ruheort here.$"
+	.string "ZINNTURM\p"
+	.string "Hier soll ein legendäres POKéMON\n"
+	.string "ruhen.$"
 
 EcruteakCity_Text_OfficeSign:
-	.string "Durchgang zum ZINNTURM.\n"
-	.string "Kein Eintritt für unwürdige.$"
+	.string "Kontrollposten vor dem Glockenturm\n"
+	.string "Kein Zutritt für Unbefugte!$"
 
 EcruteakCity_Text_GymSign:
-	.string "TEAK CITY POKéMON ARENA\n"
-	.string "LEITER: JENS\p"
-	.string "Mystischer Seher der Zukunft$"
+	.string "Pokémon-Arena von Teak City\n"
+	.string "Leiter: Jens\l"
+	.string "Der bescheidene Hellseher$"
 
 EcruteakCity_Text_DanceTheaterSign:
-	.string "TANZTHEATER VON TEAK CITY$"
+	.string "Tanztheater von Teak City$"
 
 EcruteakCity_Text_BurnedTowerSign:
-	.string "TURMRUINE\p"
-	.string "Wurde von einem mysteriösem\n"
-	.string "Feuer zerstört.\p"
-	.string "Bitte Abstand halten, Einsturzgefahr!$"
+	.string "Diese Ruinen sind die Reste eines Turms,\n"
+	.string "der einst einem Brandunglück zum Opfer\l"
+	.string "fiel, das nie aufgeklärt werden konnte.\p"
+	.string "Mach besser einen großen Bogen um diese\n"
+	.string "Gemäuer, denn in ihrem Inneren könnte\l"
+	.string "es gefährlich werden!$"

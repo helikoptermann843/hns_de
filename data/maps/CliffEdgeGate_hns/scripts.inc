@@ -18,22 +18,25 @@ CliffEdgeGate_EventScript_Picnicker::
 	end
 
 CliffEdgeGate_Text_IntroOpen:
-	.string "Wusstest du schon? Gleich um die\n"
-	.string "Ecke ist eine Safari-Zone.\p"
-	.string "Es macht richtig Spaß! Du wirst viele\n"
-	.string "verschiedene Pokémon sehen,\l"
-	.string "und du kannst sie alle fangen!\p"
-	.string "Es gibt keinen Grund, nicht hinzu-\n"
-	.string "gehen, oder?\l"
-	.string "Gleich um die Ecke.$"
+	.string "Hey, du! Höre mir mal kurz zu!\p"
+	.string "Hier hinten gibt es einen\n"
+	.string "sehr, sehr spannenden Ort!\l"
+	.string "Die Safari-Zone!\p"
+	.string "Da soll es seltene Pokémon in\n"
+	.string "Hülle und Fülle geben…\l"
+	.string "Ein regelrechtes Paradies für Trainer!\l"
+	.string "Damit machen die doch Verluste, oder?\p"
+	.string "Es ist gar nicht weit! Wenn du dort\n"
+	.string "hochgehst, bist du sofort da!\l"
+	.string "Na? Schaust du mal vorbei?$"
 
 CliffEdgeGate_Text_Expectations:
-	.string "Ich freue mich, dass alle darauf\n"
-	.string "warten.\p"
-	.string "Aber die Dame am Empfang wirkt\n"
-	.string "etwas zu dramatisch…\p"
-	.string "Setze deine Erwartungen nicht zu\n"
-	.string "hoch!$"
+	.string "Es freut uns ja, dass alle so hohe \n"
+	.string "Erwartungen an die Safari-Zone haben…\l"
+	.string "aber die Dame am Empfang tönt ein\l"
+	.string "bisschen zu laut durch die Gegend!\p"
+	.string "Setze doch einfach ein gesundes Maß\n"
+	.string "an Erwartungen in die Safari-Zone, ja?$"
 
 CliffEdgeGate_EventScript_CaveSign::
 	lock
@@ -43,8 +46,8 @@ CliffEdgeGate_EventScript_CaveSign::
 	end
 
 CliffEdgeGate_Text_SignOpen:
-	.string "Alles ist aufregend!\n"
-	.string "Erkunde die Wildnis und fange Pokémon!\p"
-	.string "Leiter Baoba's Safari-Zone\n"
-	.string "Jetzt endlich verfügbar!$"
+	.string "Erlebe wilde Pokémon-Abenteuer,\n"
+	.string "völlig ohne Stress und Sorgen!\p"
+	.string "Die allseits beliebte Safari-Zone von\n"
+	.string "Wärter Baoba wartet auf dich!$"
 

@@ -16,11 +16,12 @@ BlackthornCity_House1EventScript_Dratini::
 	end
 
 BlackthornCity_House1_Text_Granny:
-	.string "Ein Clan von Trainern, die Drachen\n"
-	.string "frei befehligen können, lebt hier in\l"
-	.string "EBENHOLZ.\p"
-	.string "Daher gibt es in dieser Stadt viele\n"
-	.string "Legenden über Drachen.$"
+	.string "Ebenholz City ist die Heimat eines alten\n"
+	.string "Klans, der die tiefsten Geheimnisse\l"
+	.string "der Drachen-Pokémon ergründet hat.\p"
+	.string "Aus diesem Grund sind über diesen Ort\n"
+	.string "zahlreiche Legenden überliefert, die\l"
+	.string "sich um die Drachen-Pokémon ranken.$"
 
 BlackthornCity_House1_Text_Dratini:
-	.string "Dratini: Draa!$"
+	.string "DRATINI: Draaa!$"

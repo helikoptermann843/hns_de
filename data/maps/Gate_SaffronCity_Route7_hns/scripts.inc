@@ -12,13 +12,13 @@ Gate_SaffronCity_Route7_EventScript_GuardReturnedPart::
 	end
 
 Route7_Text_SaffronGuard_PowerPlant:
-	.string "Hast du von\n"
-	.string "dem Vorfall im KRAFTWERK gehört?\p"
-	.string "Es liegt östlich\n"
-	.string "von hier, nahe LAVANDIA.$"
+	.string "Anscheinend hat es im Kraftwerk\n"
+	.string "einen Unfall gegeben.\p"
+	.string "Es liegt östlich von hier,\n"
+	.string "in der Nähe von Lavandia.$"
 
 Route7_Text_SaffronGuard_Serious:
-	.string "Ich nehme meinen\n"
-	.string "Posten als Wache ernst.\p"
-	.string "Hey! Du hast einen DEX.\p"
-	.string "O.K. Du darfst passieren.$"
+	.string "Ich nehme meinen Posten\n"
+	.string "als Wache ernst.\p"
+	.string "Hey! Du hast einen Pokédex!\l"
+	.string "Alles klar, du darfst passieren!$"

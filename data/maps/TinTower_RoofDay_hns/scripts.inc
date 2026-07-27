@@ -286,20 +286,24 @@ TinTower_RoofDay_EventScript_KuniAfter::
 	end
 
 TinTower_RoofDay_Text_Kimono_AfterNotCaught:
-	.string "Du hast nicht nur Ho-Oh\n"
-	.string "erscheinen lassen, sondern es\n"
-	.string "auch besiegt…\p"
-	.string "Wir haben nichts mehr zu sagen.\n"
-	.string "Pass gut auf dich auf,\l"
-	.string "auf deiner Reise…$"
+	.string "Ihr habt HO-OH nicht nur hierher\n"
+	.string "gerufen, sondern Ihr konntet es auch\l"
+	.string "wie durch ein Wunder einfangen…\p"
+	.string "Das war wirklich eine Glanzleistung.\n"
+	.string "Es gibt nun nichts mehr, was\l"
+	.string "wir Euch noch erzählen könnten.\p"
+	.string "Wir wünschen Euch auch für den Rest\n"
+	.string "Eurer Reise alles Gute…$"
 
 TinTower_RoofDay_Text_Kimono_AfterCaught:
-	.string "Du hast nicht nur Ho-Oh\n"
-	.string "erscheinen lassen, sondern es\n"
-	.string "auch gefangen…\p"
-	.string "Wir haben nichts mehr zu sagen.\n"
-	.string "Pass gut auf dich auf,\l"
-	.string "auf deiner Reise…$"
+	.string "Ihr habt HO-OH nicht nur hierher\n"
+	.string "gerufen, sondern Ihr konntet es auch\l"
+	.string "wie durch ein Wunder einfangen…\p"
+	.string "Das war wirklich eine Glanzleistung.\n"
+	.string "Es gibt nun nichts mehr, was\l"
+	.string "wir Euch noch erzählen könnten.\p"
+	.string "Wir wünschen Euch auch für den Rest\n"
+	.string "Eurer Reise alles Gute…$"
 
 TinTower_RoofDay_Movement_CameraPanUp:
 	walk_up
@@ -565,14 +569,14 @@ TinTower_RoofDay_Text_Kuni_Before::
 	.string "Komomo: Geh nun, zu HO-OH. $"
 
 TinTower_RoofDay_Text_Kimono_Opening::
-	.string "KIMONO-GIRL: Genau.\n"
-	.string "Hier begrüßen wir HO-OH.\p"
-	.string "Wenn der Tanz, den wir viele Tage\n"
-	.string "geübt haben, eins wird mit dem\p"
-	.string "Klang der KLARGLOCKE, die wir\n"
-	.string "dir anvertraut haben, dann wird\l"
-	.string "HO-OH wieder vom großen Bogen\l"
-	.string "des Himmels herabkommen.$"
+	.string "Tamao: Dies ist der Ort, an dem wir\n"
+	.string "mit HO-OH in Kontakt treten werden.\p"
+	.string "Wenn hier gleichzeitig der Klang des\n"
+	.string "Tanzes, den wir täglich proben, und der\l"
+	.string "Klang der Klarglocke, die Ihr erhalten\l"
+	.string "habt, ertönt, wird HO-OH wieder vom\p"
+	.string "weiten Himmelszelt zu uns\n"
+	.string "herabsteigen!$"
 
 TinTower_RoofDay_Text_Kimono_Closing1::
 	.string "Das ist tatsächlich HO-OH…\n"
@@ -589,5 +593,6 @@ TinTower_RoofDay_Text_Kimono_Closing1::
 	.string "Stimmst du mir zu?$"
 
 TinTower_RoofDay_Text_Kimono_After::
-	.string "Du hast großartige Arbeit geleistet.\n"
-	.string "Grüß PROF. EICH von uns.$"
+	.string "Wir danken Euch für alles.\n"
+	.string "Wenn Ihr Professor Lind begegnet,\l"
+	.string "richtet ihm bitte unsere Grüße aus.$"

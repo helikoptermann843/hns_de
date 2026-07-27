@@ -107,17 +107,16 @@ Route13_EventScript_DirectionsSign::
 	end
 
 Route13_Text_PokefanmAlexSeen:
-	.string "Verbeuge dich vor\n"
-	.string "meinen königlichen Pokémon!$"
+	.string "Verneige dich vor meinen\n"
+	.string "erhabenen Pokémon!$"
 
 Route13_Text_PokefanmAlexBeaten:
-	.string "Wie… wie kannst\n"
-	.string "du es wagen, die Monarchie zu\l"
-	.string "verspotten?$"
+	.string "Wie… wie kannst du es wagen, die\n"
+	.string "Monarchie zu verspotten?$"
 
 Route13_Text_PokefanmAlexAfterBattle:
-	.string "Möchte nicht jeder\n"
-	.string "eines Tages einmal König sein?$"
+	.string "Möchte nicht jeder eines Tages\n"
+	.string "einmal König sein?$"
 
 Route13_Text_AlexRegister:
 	.string "Nicht Blaublütig, aber nicht schlecht.\n"
@@ -141,47 +140,46 @@ Route13_Text_PokefanmJoshuaBeaten:
 	.string "PI-PIKACHU!$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
-	.string "Es scheint, dass du viele Pokémon\n"
-	.string "hast, aber PIKACHU\l"
-	.string "ist immer noch das Beste.$"
+	.string "Kann ja sein, dass du viele\n"
+	.string "verschiedene Pokémon hast,\l"
+	.string "aber PIKACHU ist immer noch das Beste.$"
 
 Route13_Text_BirdKeeperPerrySeen:
-	.string "Agilität ist die\n"
-	.string "wichtigste Eigenschaft von\l"
-	.string "VogelPokémon.$"
+	.string "Initiative ist die wichtigste\n"
+	.string "Eigenschaft von Vogel-Pokémon.$"
 
 Route13_Text_BirdKeeperPerryBeaten:
-	.string "Du hast mich\n"
-	.string "aufgrund deiner Schnelligkeit besiegt…$"
+	.string "Du warst schneller als ich?\n"
+	.string "Völlig ausgeschlossen!$"
 
 Route13_Text_BirdKeeperPerryAfterBattle:
-	.string "Deine Pokémon sind\n"
-	.string "in der Tat sehr gut trainiert.$"
+	.string "Dein Pokémon-Team ist in der\n"
+	.string "Tat sehr gut trainiert.$"
 
 Route13_Text_BirdKeeperBretSeen:
-	.string "Schau dir meine Pokémon an. Sieh\p"
-	.string "ihre Farben und ihr Gefieder.$"
+	.string "Schau dir meine Pokémon an. Sieh nur,\n"
+	.string "diese Farben und dieses Gefieder!$"
 
 Route13_Text_BirdKeeperBretBeaten:
-	.string "Verflixt! Nicht gut genug!$"
+	.string "Verflixt!\n"
+	.string "Mit dir kann ich nicht mithalten!$"
 
 Route13_Text_BirdKeeperBretAfterBattle:
-	.string "Wenn du deine\n"
-	.string "Pokémon pflegst, sind sie fröhlich.$"
+	.string "Behandele deine Pokémon immer\n"
+	.string "pfleglich. Sie werden es dir danken.$"
 
 Route13_Text_HikerKennySeen:
-	.string "Ich sollte zum FELSTUNNEL gehen,\n"
-	.string "um mir ein Onix zu fangen.$"
+	.string "Ich sollte zum Felstunnel gehen\n"
+	.string "und mir ein ONIX fangen.$"
 
 Route13_Text_HikerKennyBeaten:
-	.string "Ich habe verloren…$"
+	.string "Du hast mich besiegt!$"
 
 Route13_Text_HikerKennyAfterBattle:
-	.string "Es scheint, als\n"
-	.string "würden sich geologische Gegebenheiten\l"
-	.string "nicht ändern.\p"
-	.string "Aber sie ändern\n"
-	.string "sich; langsam, ganz langsam.$"
+	.string "Auf den ersten Blick ändern sich\n"
+	.string "geologische Gegebenheiten nie.\p"
+	.string "Aber sie tun es eben doch! Nur\n"
+	.string "sehr langsam eben! Ganz langsam!$"
 
 Route13_Text_KennyRegister:
 	.string "POKéMON ändern sich mit der Zeit.\n"
@@ -195,21 +193,21 @@ Route13_Text_KennyRematchDefeat:
 	.string "Nicht genug…$"
 
 Route13_Text_KennyPostRematch:
-	.string "Die Kraft der POKéMON ist wie\n"
+	.string "Die Kraft der Pokémon ist wie\n"
 	.string "rost. Wir werden bestehen!$"
 
 Route13_Text_TrainerTips:
-	.string "TIPPS für TRAINER\p"
-	.string "Schau! Hier, an\n"
-	.string "der linken Seite des Pfostens.$"
+	.string "Tipps für Trainer\p"
+	.string "Hier geht's lang!\n"
+	.string "Immer der Nase nach!$"
 
 Route13_Text_Sign:
-	.string "ROUTE 13\p"
-	.string "NÖRDLICH ZUR SCHWEIGEBRÜCKE$"
+	.string "Route 13\n"
+	.string "Nördlich zur Schweigebrücke$"
 
 Route13_Text_DirectionsSign:
-	.string "Nördlich nach LAVANDIA\p"
-	.string "Westlich nach FUCHSANIA CITY$"
+	.string "Nördlich nach Lavandia\n"
+	.string "Westlich nach Fuchsania City$"
 
 Route13_GetOffBoat::
 	lock

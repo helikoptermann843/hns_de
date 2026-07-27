@@ -30,12 +30,12 @@ Route6_EventScript_Item_Silver_Wind::
     end
 
 Route6_Text_PokefanM:
-	.string "Die Straße zum KRAFTWERK bleibt\n"
-	.string "gesperrt, bis das\l"
+	.string "Die Straße zum Kraftwerk\n"
+	.string "bleibt gesperrt, bis das\l"
 	.string "Problem gelöst wurde.$"
 
 Route6_Text_UndergroundPathSign:
-	.string "TUNNELPFAD\p"
+	.string "TUNNELPFAD\n"
 	.string "AZURIA CITY - ORANIA CITY$"
 
 PokefanM_Text_RexSeen:

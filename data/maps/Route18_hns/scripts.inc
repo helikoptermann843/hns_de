@@ -35,28 +35,26 @@ Route18_EventScript_Sign::
 
 Route18_Text_BirdKeeperBorisSeen:
 	.string "Wenn du nach Pokémon suchst,\n"
-	.string "musst du ins hohe Gras gehen.$"
+	.string "musst du ins hohe Gras gehen.\l"
+	.string "Der Rest ergibt sich von allein!$"
 
 Route18_Text_BirdKeeperBorisBeaten:
 	.string "Yippi!$"
 
 Route18_Text_BirdKeeperBorisAfterBattle:
-	.string "Da du so stark\n"
-	.string "bist, muss es Spaß machen, gegen dich\l"
-	.string "zu kämpfen.$"
+	.string "Wenn man so stark ist wie du,\n"
+	.string "macht das Kämpfen sicher Spaß.$"
 
 Route18_Text_BirdKeeperBobSeen:
-	.string "Der RADWEG ist\n"
-	.string "eine schnelle Abkürzung nach PRISMANIA\l"
-	.string "CITY.$"
+	.string "Der Radweg ist eine Abkürzung\n"
+	.string "nach Prismania City.$"
 
 Route18_Text_BirdKeeperBobBeaten:
 	.string "…Uff!$"
 
 Route18_Text_BirdKeeperBobAfterBattle:
-	.string "Wenn du kein FAHRRAD hast,\n"
-	.string "darfst du die\l"
-	.string "Abkürzung nicht benutzen.$"
+	.string "Um die Abkürzung zu nehmen, musst\n"
+	.string "du dir schon ein Fahrrad besorgen!$"
 
 Route18_Text_Sign:
 	.string "ROUTE 18\p"

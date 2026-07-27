@@ -129,14 +129,27 @@ Route24_Text_RocketSeen:
 	.string "Du, Kind! Kämpfen lass uns!$"
 
 Route24_Text_RocketBeaten:
-	.string "Uff! Nein, glauben nicht ich kann!\p"
-	.string "Stark sehr du\n"
-	.string "sein! Ich nix Gegner für dich!$"
+	.string "Oh no!\n"
+	.string "Was ich rede für einen Quark?\p"
+	.string "Du bist Strawberry… Brombeer -\n"
+	.string "nein - very stark!\l"
+	.string "An dir I bite me alle Zähne aus!\l"
+	.string "Respect! I salute you!\l"
+	.string "Großer Applaus!$"
 
 Route24_Text_RocketAfter:
-	.string "Uff! Nein, glauben nicht ich kann!\p"
-	.string "Stark sehr du\n"
-	.string "sein! Ich nix Gegner für dich!$"
+	.string "Okay, alles klar!\n"
+	.string "Ich verrate dir meine secret Geheimnis!\p"
+	.string "I have die Spule in die Arena\n"
+	.string "von Azuria City versteckt. Yes, I have!\p"
+	.string "Wenn du neben die Schwimmreifen\n"
+	.string "checkst, find you sie bestimmt! You will!\p"
+	.string "Aaaaber! However!\n"
+	.string "Nicht vergessen! Don't forget!\p"
+	.string "Team Rocket wird dich definitely\n"
+	.string "besiegen! Yes, we will!\l"
+	.string "All meine Friends werden kommen\l"
+	.string "aus die Johto!$"
 
 Route24_Text_RocketDisappears:
 	.string "…\p"

@@ -291,7 +291,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons_hns:
 	.string "am Kampf teilnehmen sollen.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay_hns:
-	.string "Bitte hier entlang.$"
+	.string "Bitte hier entlang!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth_hns:
 	.string "Vielen Dank für die Teilnahme!\p"
@@ -312,24 +312,26 @@ BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete_hns:
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2_hns:
-	.string "Congratulations for getting through\n"
-	.string "the 1st round.\p"
-	.string "The 2nd round is next.\n"
-	.string "Are you ready?$"
+	.string "Glückwunsch zur bestandenen\n"
+	.string "1. Runde!\p"
+	.string "Als Nächstes folgt die 2. Runde.\n"
+	.string "Bist du bereit?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals_hns:
-	.string "Congratulations for advancing\n"
-	.string "to the semifinals.\p"
-	.string "The best four teams meet in this\n"
-	.string "round. Are you ready?$"
+	.string "Glückwunsch! Du hast es bis zum finalen\n"
+	.string "Kampf geschafft!\p"
+	.string "In diesem Finale wirst du auf den\n"
+	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Bist du bereit?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
-	.string "Congratulations for advancing\n"
-	.string "to the final match.\p"
-	.string "You’re one win from the championship.\n"
-	.string "Are you ready?$"
+	.string "Glückwunsch! Du hast es bis zum finalen\n"
+	.string "Kampf geschafft!\p"
+	.string "In diesem Finale wirst du auf den\n"
+	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer_hns:
 	.string "Der nächste Gegner von {PLAYER} ist\n"
@@ -352,8 +354,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals_hns:
 	.string "Halbfinale.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du das Spiel speichern und\n"
-	.string "beenden?$"
+	.string "Möchtest du speichern und\n"
+	.string "das Spiel beenden?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge_hns:
 	.string "Möchtest du dich aus dem Turnier\n"

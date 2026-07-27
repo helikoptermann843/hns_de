@@ -17,7 +17,7 @@ CianwoodGym_EventScript_Statue2::
 	end
 
 CianwoodGym_Text_GymStatue:
-	.string "Anemonia City Pokémon Arena$"
+	.string "Pokémon-Arena von Anemonia City$"
 
 CianwoodGym_Text_GymStatueCertified:
 	.string "Anemonia City Pokémon Arena\p"
@@ -128,7 +128,7 @@ CianwoodGym_Movement_ChuckRight:
 	step_end
 
 CianwoodGym_Text_ChuckIntro1:
-	.string "WAHAHAH!\p"
+	.string "Wahahah!\p"
 	.string "Du bist also bis hierher gekommen!\p"
 	.string "Ich sag's dir: Ich bin hart!\p"
 	.string "Meine Pokémon zerquetschen Felsen\n"
@@ -136,16 +136,16 @@ CianwoodGym_Text_ChuckIntro1:
 	.string "Pass auf!$"
 
 CianwoodGym_Text_ChuckIntro2:
-	.string "Hartwig: Urggh!\n"
-	.string "…\p"
-	.string "Oooarrgh!$"
+	.string "Urrrgh!\n"
+	.string "… … …\p"
+	.string "Huaaargh!$"
 
 CianwoodGym_Text_ChuckIntro3:
-	.string "Na? Jetzt hast du Angst, was?\p"
-	.string "Wie? Das hat nichts mit Pokémon\n"
-	.string "zu tun?\p"
-	.string "Stimmt auch!\p"
-	.string "Komm! Wir kämpfen!$"
+	.string "Na, da staunst du, was?\p"
+	.string "Was sagst du da? Mit Pokémon\n"
+	.string "hat das herzlich wenig zu tun?\l"
+	.string "Klar, da hast du natürlich recht!\l"
+	.string "Komm schon, lass uns kämpfen!$"
 
 CianwoodGym_Text_ChuckLoss:
 	.string "Was? Hä? Ich hab verloren?\p"
@@ -171,15 +171,14 @@ CianwoodGym_Text_ChuckTMSpeech:
 	.string "nicht zuerst treffen!$"
 
 CianwoodGym_Text_ChuckAfter:
-	.string "WAHAHAH! Der Kampf mit dir hat mir\n"
-	.string "Spaß gemacht!\p"
-	.string "Aber eine Niederlage ist eine\n"
-	.string "Niederlage!\p"
-	.string "Von jetzt an trainiere ich\n"
-	.string "24 Stunden am Tag!$"
+	.string "Hartwig: Hahaha! Es war mir ein großes\n"
+	.string "Vergnügen, gegen dich zu kämpfen!\p"
+	.string "Aber das ändert nichts daran, dass ich\n"
+	.string "verloren habe. Von nun an werde ich\l"
+	.string "24 Stunden am Tag trainieren!$"
 
 CianwoodGym_Text_ChuckRematch:
-	.string "WAHAHAH! JOHTO-CHAMPION!\p"
+	.string "Wahahah! Johto-champion!\p"
 	.string "Du willst noch eine Runde!\p"
 	.string "Ich sehe, deine Fähigkeiten sind\n"
 	.string "besser geworden!\p"
@@ -195,16 +194,16 @@ CianwoodGym_EventScript_Yoshi::
 	end
 
 CianwoodGym_Text_BlackbeltYoshiSeen:
-	.string "Mein Pokémon und ich sind durch\n"
-	.string "Freundschaft verbunden.\p"
-	.string "Unser Band wird niemals zerbrechen!$"
+	.string "Meine Pokémon und mich verbindet\n"
+	.string "eine tiefe Freundschaft.\l"
+	.string "Dieses Band wird nie jemand zerreißen!$"
 
 CianwoodGym_Text_BlackbeltYoshiBeaten:
-	.string "Das kann nicht wahr sein!$"
+	.string "Das ist unmöglich!$"
 
 CianwoodGym_Text_BlackbeltYoshiAfter:
-	.string "Du scheinst auch ein starkes Band\n"
-	.string "mit deinen Pokémon zu haben!$"
+	.string "Es scheint, als stündest auch du\n"
+	.string "deinen Pokémon sehr nahe!$"
 
 CianwoodGym_EventScript_Lao::
 	trainerbattle_single TRAINER_LAO_HNS, CianwoodGym_Text_BlackbeltLaoSeen, CianwoodGym_Text_BlackbeltLaoBeaten
@@ -212,7 +211,8 @@ CianwoodGym_EventScript_Lao::
 	end
 
 CianwoodGym_Text_BlackbeltLaoSeen:
-	.string "Wir Kampfsportler haben keine Angst!$"
+	.string "Wir Meister der Kampfkunst\n"
+	.string "kennen keine Angst!$"
 
 CianwoodGym_Text_BlackbeltLaoBeaten:
 	.string "Schockierend!$"
@@ -228,14 +228,16 @@ CianwoodGym_EventScript_Nob::
 	end
 
 CianwoodGym_Text_BlackbeltNobSeen:
-	.string "Worte sind nutzlos\n"
+	.string "Weltlicher Besitz ist sinnlos.\n"
+	.string "Worte sind nutzlos.\l"
 	.string "Lass deine Fäuste sprechen!$"
 
 CianwoodGym_Text_BlackbeltNobBeaten:
 	.string "…$"
 
 CianwoodGym_Text_BlackbeltNobAfter:
-	.string "Ich hab verloren! Ich bin sprachlos.$"
+	.string "Ich habe verloren!\n"
+	.string "Ich bin sprachlos!$"
 
 CianwoodGym_EventScript_Lung::
 	trainerbattle_single TRAINER_LUNG_HNS, CianwoodGym_Text_BlackbeltLungSeen, CianwoodGym_Text_BlackbeltLungBeaten
@@ -243,13 +245,13 @@ CianwoodGym_EventScript_Lung::
 	end
 
 CianwoodGym_Text_BlackbeltLungSeen:
-	.string "Meine donnernden Fäuste werden dich\n"
-	.string "und deine Pokémon zerschmettern!$"
+	.string "Die Wut meiner Fäuste wird deine\n"
+	.string "Pokémon das Fürchten lehren!$"
 
 CianwoodGym_Text_BlackbeltLungBeaten:
 	.string "Ich wurde zerschmettert!$"
 
 CianwoodGym_Text_BlackbeltLungAfter:
 	.string "Meine Pokémon haben verloren…\n"
-	.string "Mei… Meine Würde ist am Boden…$"
+	.string "Mein Stolz ist nur noch Staub…$"
 

@@ -502,8 +502,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent_hns:
 	.string "SCHIRI: {STR_VAR_1} gewinnt!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored_hns:
-	.string "Deine POKÉMON werden vollständig\n"
-	.string "geheilt.$"
+	.string "Wir heilen deine Pokémon und machen\n"
+	.string "sie wieder fit!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent_hns:
 	.string "Als nächstes dein 2. Gegner!\n"
@@ -530,8 +530,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent_hns:
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown_hns:
-	.string "Möchtest du speichern und\n"
-	.string "das Spiel beenden?$"
+	.string "Möchtest du das Spiel speichern?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge_hns:
 	.string "Möchtest du die Herausforderung\n"

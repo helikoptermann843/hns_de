@@ -35,16 +35,16 @@ CeruleanCity_Mart_Items::
 	end
 
 CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
-	.string "REPEL not only keeps bugs away,\n"
-	.string "it also works on weak POKéMON.\p"
-	.string "Put your strongest POKéMON at the\n"
-	.string "left of the POKéMON LIST.\p"
-	.string "If your first POKéMON is strong,\n"
-	.string "REPEL's effect is boosted.$"
+	.string "POKéMON können Büsche mit dem\n"
+	.string "ZERSCHNEIDER klein hacken.\p"
+	.string "Aber vergiss nicht, ZERSCHNEIDER\n"
+	.string "ist eine VM!\p"
+	.string "Wer sie einmal gelernt hat, kann\n"
+	.string "sie nicht so einfach vergessen!$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
-	.string "Do you know about RARE CANDY?\n"
-	.string "They don't sell it in shops.\p"
-	.string "I think it makes POKéMON grow\n"
-	.string "very quickly all of a sudden.$"
+	.string "Besitzt du SONDERBONBONs?\p"
+	.string "Gibt man einem POKéMON ein solches\n"
+	.string "BONBON, dann erreicht es den\l"
+	.string "nächsten Level!$"
 

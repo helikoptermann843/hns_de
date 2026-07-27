@@ -420,7 +420,7 @@ BattleFrontier_ReceptionGate_Text_YourGuideToRules_hns:
 	.string "gelten.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhat_hns:
-	.string "Was möchtest du gerne wissen?$"
+	.string "Was darf ich dir näher erklären?\n$"
 
 BattleFrontier_ReceptionGate_Text_LevelModeInfo_hns:
 	.string "Alle Herausforderungen der KAMPFZONE\n"

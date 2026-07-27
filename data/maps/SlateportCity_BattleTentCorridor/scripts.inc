@@ -185,13 +185,13 @@ SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
 
 @ Unused
 SlateportCity_ContestHall_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\n"
-	.string "\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "Das ist die TM41, weißt du?\n"
+	.string "Hey, das ist FOLTERKNECHT, sag ich dir.\p"
+	.string "Der Gegner wird so daran gehindert, eine\n"
+	.string "Attacke zweimal hintereinander\l"
+	.string "auszuführen.\p"
+	.string "Aber nun hör mir gut zu. Ich würde NIE\n"
+	.string "FOLTERKNECHT gegen dich einsetzen.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MCStepUpTakePartInContest:

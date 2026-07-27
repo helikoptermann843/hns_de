@@ -1066,15 +1066,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant_hns:
 	.string "TUCKER! TUCKER! TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro_hns:
-	.string "TUCKER: Ahahah!\p"
+	.string "Tucker: Ahahah!\p"
 	.string "Hörst du das? Die Menge!\n"
 	.string "Alle wollen unseren Kampf sehen!\p"
 	.string "Ahahah!\p"
 	.string "Ich wette, du zitterst vor\n"
 	.string "Aufregung, gegen mich zu kämpfen!\p"
 	.string "Aber keine Sorge!\p"
-	.string "Ich bin der Star der KAMPFKUPPEL!\n"
-	.string "Ich, TUCKER das KUPPEL-ASS, hülle\l"
+	.string "Ich bin der Star der Kampfkuppel!\n"
+	.string "Ich, Tucker das Kuppel-ass, hülle\l"
 	.string "dich in meinen Glanz!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy_hns:
@@ -1117,11 +1117,11 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker_hns:
 	.string "Es ist TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro_hns:
-	.string "TUCKER: Ah…\n"
+	.string "Tucker: Ah…\n"
 	.string "Das tosende Brüllen der Menge…\l"
 	.string "Ihre Begeisterung wie ein Feuer…\l"
 	.string "Was für ein wunderbarer Ort…\p"
-	.string "Für sie bin ich das KUPPEL-ASS…\n"
+	.string "Für sie bin ich das Kuppel-ass…\n"
 	.string "Ich verkörpere ihre Träume…\l"
 	.string "Ich darf nie aus ihrem Blick\l"
 	.string "verschwinden…\p"

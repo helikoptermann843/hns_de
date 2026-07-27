@@ -47,42 +47,43 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Do you believe in ghosts?$"
+	.string "Glaubst du an GEISTER?$"
 
 LavenderTown_Text_SoThereAreBelievers::
-	.string "Really?\n"
-	.string "So there are believers…$"
+	.string "Echt?\n"
+	.string "Hätte ich nicht gedacht!$"
 
 LavenderTown_Text_JustImaginingWhiteHand::
-	.string "Hahaha, I guess not.\p"
-	.string "That white hand on your shoulder…\n"
-	.string "I'm just imagining it.$"
+	.string "Hahaha, natürlich nicht!\p"
+	.string "Und diese weiße Hand da auf deiner\n"
+	.string "Schulter ist natürlich nicht echt!$"
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
-	.string "This town is known as the grave\n"
-	.string "site of POKéMON.\p"
-	.string "Memorial services are held in\n"
-	.string "POKéMON TOWER.$"
+	.string "Diese Stadt ist als Ruhestätte für\n"
+	.string "POKéMON bekannt.\p"
+	.string "Im POKéMON-TURM werden Andachten\n"
+	.string "gehalten.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "Ghosts appeared in POKéMON TOWER.\p"
-	.string "I think they're the spirits of\n"
-	.string "POKéMON that the ROCKETS killed.$"
+	.string "GEISTER spuken im POKéMON-TURM.\p"
+	.string "Ich glaube, das sind die Geister\n"
+	.string "jener POKéMON, die das TEAM\l"
+	.string "ROCKET auf dem Gewissen hat!$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVENDER TOWN\n"
-	.string "The Noble Purple Town$"
+	.string "LAVANDIA\n"
+	.string "Die edle, violette Stadt!$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "New SILPH SCOPE!\n"
-	.string "Make the Invisible Plain to See!\p"
+	.string "SILPH SCOPE!\n"
+	.string "Macht das Unsichtbare sichtbar!\p"
 	.string "SILPH CO.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVENDER VOLUNTEER\n"
-	.string "POKéMON HOUSE$"
+	.string "LAVANDIA \n"
+	.string "POKéMON-HAUS$"
 
 LavenderTown_Text_PokemonTowerSign::
-	.string "POKéMON TOWER\n"
-	.string "Becalm the Spirits of POKéMON$"
+	.string "Mögen die Seelen der POKéMON im\n"
+	.string "POKéMON-TURM in Frieden ruhen!$"
 

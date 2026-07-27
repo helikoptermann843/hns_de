@@ -77,58 +77,62 @@ VictoryRoad_2F_EventScript_Vincent::
 	end
 
 VictoryRoad_2F_Text_DawsonIntro::
-	.string "If you can get through here,\n"
-	.string "you can go meet the ELITE FOUR.$"
+	.string "Wenn du an mir vorbeikommst, kannst\n"
+	.string "du zu den Top Vier gehen!$"
 
 VictoryRoad_2F_Text_DawsonDefeat::
-	.string "No!\n"
-	.string "Unbelievable!$"
+	.string "Nein!\n"
+	.string "Unglaublich!$"
 
 VictoryRoad_2F_Text_DawsonPostBattle::
-	.string "I can beat you when it comes to\n"
-	.string "knowledge about POKéMON!$"
+	.string "Und wenn schon... dafür übersteigt\n"
+	.string "mein Wissen über Pokémon deines bei\l"
+	.string "weitem!$"
 
 VictoryRoad_2F_Text_DaisukeIntro::
-	.string "This here is VICTORY ROAD.\n"
-	.string "It's the final test for TRAINERS!$"
+	.string "Die Siegesstrasse stellt eine Art\n"
+	.string "Abschlussprüfung für Trainer dar!$"
 
 VictoryRoad_2F_Text_DaisukeDefeat::
-	.string "Atcho!$"
+	.string "Ahh!$"
 
 VictoryRoad_2F_Text_DaisukePostBattle::
-	.string "If you get stuck, try moving some\n"
-	.string "boulders around.$"
+	.string "Wenn du nicht vorankommst,\n"
+	.string "versuche, die Felsen zu\l"
+	.string "verschieben!$"
 
 VictoryRoad_2F_Text_NelsonIntro::
-	.string "Ah, so you wish to challenge the\n"
-	.string "ELITE FOUR?$"
+	.string "Du möchtest also die Top Vier\n"
+	.string "herausfordern?$"
 
 VictoryRoad_2F_Text_NelsonDefeat::
-	.string "You got me!$"
+	.string "Voll erwischt!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-	.string "{RIVAL} also came through here.$"
+	.string "Du hast nicht genug Geld...$"
 
 VictoryRoad_2F_Text_VincentIntro::
-	.string "Come on!\n"
-	.string "I'll whip you!$"
+	.string "Komm nur her!\n"
+	.string "Ich werde dich besiegen!$"
 
 VictoryRoad_2F_Text_VincentDefeat::
-	.string "I got whipped!$"
+	.string "Auweia!\n"
+	.string "Ich bin besiegt!$"
 
 VictoryRoad_2F_Text_VincentPostBattle::
-	.string "You earned the right to be on\n"
-	.string "VICTORY ROAD…$"
+	.string "Du beschreitest die Siegesstrasse\n"
+	.string "nicht ohne Grund!$"
 
 VictoryRoad_2F_Text_GregoryIntro::
-	.string "Is VICTORY ROAD too tough?$"
+	.string "Die Siegesstrasse ist sehr schwer\n"
+	.string "zu meistern!$"
 
 VictoryRoad_2F_Text_GregoryDefeat::
-	.string "Well done!$"
+	.string "Gut gemacht!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-	.string "Many TRAINERS give up their\n"
-	.string "challenge here and go home.$"
+	.string "Sehr schön!\n"
+	.string "Hier ist dein POKéMON!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::

@@ -154,7 +154,7 @@ Route104_PrettyPetalFlowerShop_Text_IntroLearnAboutBerries:
 	.string "Wie heißt du?\p"
 	.string "{PLAYER}{KUN}.\n"
 	.string "Das ist aber ein hübscher Name.\p"
-	.string "Möchtest du etwas über BEEREn lernen?$"
+	.string "Möchtest du etwas über Beeren lernen?$"
 
 Route104_PrettyPetalFlowerShop_Text_BerriesExplanation:
 	.string "BEEREn wachsen an Bäumen, die nur in\n"

@@ -26,5 +26,5 @@ Route28House_Text_Celebrity2:
 	.string "Ruhe haben…$"
 
 Route28House_Text_Fearow:
-	.string "Ibitak: Fuuuah!$"
+	.string "IBITAK: Ibitak tak!$"
 

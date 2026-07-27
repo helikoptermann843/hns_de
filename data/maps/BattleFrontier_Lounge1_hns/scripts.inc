@@ -151,17 +151,17 @@ BattleFrontier_Lounge1_EventScript_Boy2_hns::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro_hns:
-	.string "Seit 70 Jahren ziehe ich POKéMON auf!\n"
+	.string "Seit 70 Jahren ziehe ich Pokémon auf!\n"
 	.string "Ich bin derjenige, den alle nur den\l"
-	.string "legendären PKMN-ZÜCHTER nennen!\p"
+	.string "legendären Pkmn-züchter nennen!\p"
 	.string "Ein Mensch mit meiner Erfahrung\n"
-	.string "erkennt die Fähigkeiten eines POKéMON\l"
+	.string "erkennt die Fähigkeiten eines Pokémon\l"
 	.string "mit einem Blick.\p"
-	.string "Du bist ein TRAINER. Interessiert es\n"
+	.string "Du bist ein Trainer. Interessiert es\n"
 	.string "dich nicht, welche Fähigkeiten deine\l"
-	.string "POKéMON besitzen?\p"
+	.string "Pokémon besitzen?\p"
 	.string "Komm! Lass mich einen Blick auf deine\n"
-	.string "POKéMON werfen!$"
+	.string "Pokémon werfen!$"
 
 BattleFrontier_Lounge1_Text_AverageAbility_hns:
 	.string "Hmm… …\p"
@@ -231,9 +231,9 @@ BattleFrontier_Lounge1_Text_NoTimeForMyAdvice_hns:
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending_hns:
-	.string "Yes, what is it now?\p"
-	.string "I have business that needs tending!\n"
-	.string "Save it for next time!$"
+	.string "Ja, was ist denn jetzt?\p"
+	.string "Ich habe zu tun!\n"
+	.string "Heb es dir für das nächste Mal auf!$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon_hns:
 	.string "Ah, ein junges Gesicht! Interessieren\n"

@@ -12,28 +12,28 @@ RocketHideout_B3F_EventScript_Grunt2::
 	end
 
 RocketHideout_B3F_Text_Grunt1Intro::
-	.string "Stop meddling in TEAM ROCKET's\n"
-	.string "affairs or else!$"
+	.string "Halte dich aus Team Rockets\n"
+	.string "Angelegenheiten raus!$"
 
 RocketHideout_B3F_Text_Grunt1Defeat::
-	.string "Oof!\n"
-	.string "Taken down!$"
+	.string "Uff!\n"
+	.string "Ich bin am Boden!$"
 
 RocketHideout_B3F_Text_Grunt1PostBattle::
-	.string "SILPH SCOPE?\n"
-	.string "Oh, that machine the BOSS stole.\p"
-	.string "It's here somewhere.$"
+	.string "Das Silph Scope? Das Gerät, das\n"
+	.string "der Boss geraubt hat?\p"
+	.string "Das ist hier irgendwo...$"
 
 RocketHideout_B3F_Text_Grunt2Intro::
-	.string "We got word from upstairs that you\n"
-	.string "were coming!$"
+	.string "Wir hörten schon, dass du im\n"
+	.string "Anmarsch bist!$"
 
 RocketHideout_B3F_Text_Grunt2Defeat::
-	.string "What?\n"
-	.string "I lost? No!$"
+	.string "Was?\n"
+	.string "Ich hab verloren? Ah!$"
 
 RocketHideout_B3F_Text_Grunt2PostBattle::
-	.string "Go ahead and go!\p"
-	.string "But you can't run the elevator\n"
-	.string "without the LIFT KEY.$"
+	.string "Geh ruhig weiter!\p"
+	.string "Du benötigst den Liftöffner und\n"
+	.string "der fehlt dir!$"
 

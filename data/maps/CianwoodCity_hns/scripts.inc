@@ -87,34 +87,34 @@ CianwoodCity_EventScript_ChucksWifeAlreadyHasFly::
 	end
 
 CianwoodCity_Text_ChucksWifeEasierToFly:
-	.string "Du bist über das Meer hierher\n"
-	.string "gekommen?\p"
-	.string "Das muss hart gewesen sein.\p"
-	.string "Es wäre viel einfacher, wenn dein\n"
-	.string "Pokémon Fliegen könnte...$"
+	.string "Du hast auf dem Weg hierher doch\n"
+	.string "bestimmt das Meer überquert, oder?\p"
+	.string "Würde eines deiner Pokémon die\n"
+	.string "Attacke Fliegen beherrschen, hättest\l"
+	.string "du dir den ganzen Ärger sparen können!$"
 
 CianwoodCity_Text_ChucksWifeBeatChuck:
-	.string "Aber du kannst Fliegen ohne den\n"
-	.string "Orden dieser Stadt nicht einsetzen.\p"
-	.string "Wenn du den Arenaleiter hier\n"
-	.string "besiegt hast, komm zu mir.\p"
-	.string "Ich habe ein schönes Geschenk\n"
-	.string "für dich.$"
+	.string "Aber dafür hättest du natürlich auch\n"
+	.string "den passenden Orden gebraucht!\l"
+	.string "Komm wieder, wenn du den Arenaleiter\l"
+	.string "dieser Stadt besiegt hast!\l"
+	.string "Dann bekommst du etwas von mir!$"
 
 CianwoodCity_Text_ChucksWifeGiveHM:
-	.string "Das ist der Orden von Anemonia-City!\p"
-	.string "Dann solltest du diese VM haben.$"
+	.string "Du hast den Orden von Anemonia City!\p"
+	.string "Gut, dann will ich dir diese VM schenken!$"
 
 CianwoodCity_Text_ChucksWifeFlySpeech:
-	.string "Bringe deinem Pokémon Fliegen bei.\p"
-	.string "Du kannst dann sofort zu jedem Ort\n"
-	.string "Fliegen, den du bereits besucht hast.$"
+	.string "Wenn du einem deiner Pokémon die\n"
+	.string "Attacke Fliegen beibringst, kannst du\l"
+	.string "sofort in jede beliebige Stadt düsen,\l"
+	.string "die du bisher besucht hast.$"
 
 CianwoodCity_Text_ChucksWifeChubby:
-	.string "Mein Mann hat gegen dich verloren,\n"
-	.string "also muss er härter trainieren.\p"
-	.string "Gut so, er wurde nämlich ein\n"
-	.string "bisschen pummelig.$"
+	.string "Hihihi! Mein Mann versucht, härter zu\n"
+	.string "trainieren, weil du ihn besiegt hast.\p"
+	.string "Das trifft sich gut, denn er hat in\n"
+	.string "letzter Zeit etwas Speck angesetzt!$"
 
 CianwoodCity_EventScript_Youngster::
 	lock
@@ -125,8 +125,9 @@ CianwoodCity_EventScript_Youngster::
 	end
 
 CianwoodCity_Text_Youngster:
-	.string "Mit Fliegen kannst du sofort zurück\n"
-	.string "nach Oliviana City.$"
+	.string "Wenn eins deiner Pokémon die Attacke\n"
+	.string "Fliegen gelernt hat, gelangst du auch\l"
+	.string "im Handumdrehen bis nach Oliviana City!$"
 
 CianwoodCity_EventScript_PokefanM::
 	lock
@@ -137,11 +138,11 @@ CianwoodCity_EventScript_PokefanM::
 	end
 
 CianwoodCity_Text_PokefanM:
-	.string "Felsen nördlich der Stadt können\n"
-	.string "zertrümmert werden.\p"
-	.string "Manchmal verbirgt sich etwas darin.\p"
-	.string "Dein Pokémon kann ZERTRÜMMERER\n"
-	.string "einsetzen, um sie zu zerbrechen.$"
+	.string "Hinter den Felsen nördlich der Stadt\n"
+	.string "findest du viele interessante Items!\p"
+	.string "Um sie zu finden, musst du lediglich\n"
+	.string "einem deiner Pokémon den Befehl geben,\l"
+	.string "die Attacke Zertrümmerer einzusetzen!$"
 
 CianwoodCity_EventScript_Lass::
 	lock
@@ -152,9 +153,9 @@ CianwoodCity_EventScript_Lass::
 	end
 
 CianwoodCity_Text_Lass:
-	.string "Hartwig, der Arenaleiter,\n"
-	.string "übt mit seinen Kampf-\l"
-	.string "Pokémon mit bloßen Händen!$"
+	.string "Hartwig, der Arenaleiter, steigt gerne\n"
+	.string "selbst gegen seine Kampf-Pokémon in\l"
+	.string "den Ring, um sie abzuhärten.$"
 
 CianwoodCity_EventScript_SuicuneTrigger::
 	lock
@@ -271,27 +272,25 @@ CianwoodCity_Movement_Eusine3:
 	step_end
 
 CianwoodCity_Text_EusineSuicune:
-	.string "Eusin: Yo, {PLAYER}.\p"
-	.string "War das eben nicht Suicune?\p"
-	.string "Ich habe es nur kurz gesehen, aber\n"
-	.string "ich glaube, ich sah Suicune über die\l"
-	.string "Wellen laufen.\p"
-	.string "Suicune ist wunderschön und erhaben.\p"
-	.string "Und es jagt mit unglaublicher\n"
-	.string "Geschwindigkeit durch Städte und\l"
-	.string "über Straßen.\p"
-	.string "Es ist wunderbar…\p"
-	.string "Ich möchte Suicune aus der Nähe\n"
-	.string "sehen…\p"
-	.string "Ich habe mich entschieden.\p"
-	.string "Ich werde gegen dich kämpfen, um\n"
-	.string "Suicunes Respekt zu verdienen!\p"
-	.string "Los, {PLAYER}. Lass uns jetzt\n"
-	.string "kämpfen!$"
+	.string "Eusin: Hallo, {PLAYER}!\p"
+	.string "Sag mal… war das eben nicht SUICUNE?\p"
+	.string "Ich konnte es nicht richtig erkennen,\n"
+	.string "aber für den Hauch einer Sekunde meinte\l"
+	.string "ich wirklich, gesehen zu haben, wie da\l"
+	.string "SUICUNE über das Meer gebrettert ist.\p"
+	.string "SUICUNE ist so schön und so stolz…\p"
+	.string "Außerdem läuft es mit atemberaubender\n"
+	.string "Geschwindigkeit Städte und Straßen ab!\p"
+	.string "Es ist einfach ein wundervolles Pokémon.\p"
+	.string "Ich würde es nur zu gerne mal aus\n"
+	.string "nächster Nähe sehen…\p"
+	.string "Los, lass uns kämpfen! Wenn ich dich\n"
+	.string "besiege, erkennt mich SUICUNE vielleicht\l"
+	.string "als würdigen Trainer an!\p"
+	.string "Komm schon, {PLAYER}!$"
 
 CianwoodCity_Text_EusineBeaten:
-	.string "Ich gebe es ungern zu, aber du hast\n"
-	.string "gewonnen.$"
+	.string "Ich sage es ungern, aber du gewinnst!$"
 
 CianwoodCity_Text_EusineAfter:
 	.string "Du bist unglaublich, {PLAYER}!\p"
@@ -321,9 +320,10 @@ CianwoodCity_EventScript_GymSign::
 	end
 
 CianwoodCity_Text_GymSign:
-	.string "Anemonia City Pokémon Arena\p"
-	.string "Leiter: Hartwig\p"
-	.string "Die Fäuste werden sprechen$"
+	.string "Pokémon-Arena von Anemonia City\n"
+	.string "Leiter: Hartwig\l"
+	.string "Er lässt lieber seine Fäuste für\l"
+	.string "sich sprechen!$"
 
 CianwoodCity_EventScript_Pharmacy::
 	lock
@@ -333,9 +333,10 @@ CianwoodCity_EventScript_Pharmacy::
 	end
 
 CianwoodCity_Text_PharmacySign:
-	.string "500 Jahre Tradition\p"
-	.string "Anemonia City Apotheke\p"
-	.string "Wir erwarten ihre Anfragen$"
+	.string "Apotheke von Anemonia City\p"
+	.string "Seit 500 Jahren im Geschäft.\n"
+	.string "Wir haben immer ein offenes Ohr\l"
+	.string "für medizinische Fragen aller Art!$"
 
 CianwoodCity_EventScript_CaveSign::
 	lock

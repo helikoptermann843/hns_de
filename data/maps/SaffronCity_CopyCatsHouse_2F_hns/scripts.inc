@@ -209,35 +209,35 @@ SaffronCity_CopyCatsHouse_2F_EventScript_CopycatAfterDollReturned_Female::
 	end
 
 Copycat_Text_Male_1:
-	.string "{PLAYER}: Hi! Magst du Pokémon?\p"
-	.string "{PLAYER}: Äh, nein, ich frage dich.\p"
-	.string "{PLAYER}: Was? Du bist komisch!$"
+	.string "{PLAYER}: Hallo!\n"
+	.string "Bist du ein Fan von Pokémon?\p"
+	.string "{PLAYER}: Hey, ich habe dich\n"
+	.string "zuerst gefragt!\p"
+	.string "{PLAYER}: …Hä? Was soll das hier\n"
+	.string "werden? Du bist echt komisch…$"
 
 Copycat_Text_QuickMimicking:
-	.string "NACHAHMERIN: Hm?\n"
+	.string "Nachahmerin: …Hm?\n"
 	.string "Das Nachahmen aufgeben?\p"
-	.string "Aber das ist\n"
-	.string "meine liebste Beschäftigung!$"
+	.string "Aber das ist doch meine\n"
+	.string "Lieblingsbeschäftigung!$"
 
 Copycat_Text_Male_2:
-	.string "{PLAYER}: Hi! Ich habe gehört,\n"
-	.string "dass du deine Lieblings-\l"
-	.string "PUPPE verloren hast.\p"
+	.string "{PLAYER}: Hallo! Wie geht's dir so?\n"
+	.string "Du bist traurig, weil du deine Poképuppe\l"
+	.string "von PIEPI verloren hast, stimmt's?\p"
 	.string "{PLAYER}: Gibst du mir einen\n"
-	.string "FAHRSCHEIN, wenn ich sie\l"
-	.string "finde?\p"
-	.string "{PLAYER}: Ich suche sie für dich.\p"
-	.string "Du glaubst, sie auf dem\n"
-	.string "Weg nach ORANIA CITY verloren\l"
-	.string "zu haben?$"
+	.string "Fahrschein, wenn ich sie finde?\p"
+	.string "{PLAYER}: In Ordnung, dann werde\n"
+	.string "ich sie für dich suchen gehen!\p"
+	.string "Du hast sie wahrscheinlich auf dem\n"
+	.string "Weg nach Orania City verloren, oder?$"
 
 Copycat_Text_Worried:
-	.string "NACHAHMERIN: Bitte?\p"
-	.string "Ich soll dir nicht\n"
-	.string "sagen, was du zu tun hast?\p"
-	.string "Aber ich mache mir\n"
-	.string "wirklich Sorgen… Was, wenn jemand sie\l"
-	.string "findet?$"
+	.string "Nachahmerin: Was? Ich soll dir\n"
+	.string "nicht sagen, was du zu tun hast?\p"
+	.string "Aber ich mache mir wirklich Sorgen!\n"
+	.string "Was, wenn jemand sie finden sollte?$"
 
 Copycat_Text_GiveDoll:
 	.string "NACHAHMERIN: Jaa!\n"
@@ -259,15 +259,15 @@ Copycat_Text_ExplainPass:
 	.string "BAHNHOF zu bauen.$"
 
 Copycat_Text_Male_3:
-	.string "{PLAYER}: Hi!\n"
-	.string "Vielen Dank für den FAHRSCHEIN!\p"
-	.string "{PLAYER}: Bitte?\p"
-	.string "{PLAYER}: Ist es\n"
-	.string "wirklich so toll, jede Bewegung\l"
-	.string "nachzuahmen?$"
+	.string "{PLAYER}: Hallo! Vielen Dank für\n"
+	.string "den Fahrschein noch mal!\p"
+	.string "{PLAYER}: Oh Mann…\p"
+	.string "{PLAYER}: Macht es dir wirklich\n"
+	.string "so viel Spaß, mich nachzuahmen?$"
 
 Copycat_Text_ItsAScream:
-	.string "NACHAHMERIN: Darauf kannst du wetten!$"
+	.string "Nachahmerin: Na klar!\n"
+	.string "Ich amüsiere mich wie verrückt!$"
 
 Copycat_Text_Dodrio1:
 	.string "DODRI: Gii giii!$"

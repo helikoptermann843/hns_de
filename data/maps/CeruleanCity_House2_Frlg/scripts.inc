@@ -23,24 +23,25 @@ CeruleanCity_House2_EventScript_WallHole::
 	end
 
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
-	.string "Those miserable ROCKETS!\p"
-	.string "Look what they've done to my\n"
-	.string "house!\p"
-	.string "They stole a TM for teaching\n"
-	.string "POKéMON how to DIG holes!\p"
-	.string "I was going to use it on a\n"
-	.string "MANKEY or a SANDSHREW…\p"
-	.string "That cost me a bundle, it did!$"
+	.string "Dieses gemeine TEAM ROCKET!\p"
+	.string "Hör dir an, was sie wieder\n"
+	.string "verbrochen haben!\p"
+	.string "Sie haben den SCHAUFLER gestohlen,\n"
+	.string "eine TM, mit der POKéMON Löcher\l"
+	.string "graben können!\p"
+	.string "Der SCHAUFLER war sündhaft teuer!$"
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
-	.string "I figure what's lost is lost.\p"
-	.string "I decided to teach DIGLETT how to\n"
-	.string "DIG without a TM.$"
+	.string "Was weg ist, ist weg!\p"
+	.string "Ich werde DIGDA beibringen, ohne\n"
+	.string "den SCHAUFLER zu graben!$"
 
 CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
-	.string "TEAM ROCKET must be trying to DIG\n"
-	.string "their way into no good!$"
+	.string "Das TEAM ROCKET braucht den\n"
+	.string "SCHAUFLER sicher für irgendeine\l"
+	.string "Schandtat!$"
 
 CeruleanCity_House2_Text_TeamRocketLeftWayOut::
-	.string "TEAM ROCKET left a way out!$"
+	.string "Das TEAM ROCKET hat Spuren\n"
+	.string "hinterlassen!$"
 

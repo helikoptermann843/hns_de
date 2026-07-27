@@ -105,7 +105,9 @@ GoldenrodCity_NameRatersHouse_Text_PleasedToRateMonNickname:
 	.string "Pokémon.$"
 
 GoldenrodCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Welches Pokémon soll ich bewerten?$"
+	.string "Mal sehen…\n"
+	.string "Von welchem Pokémon darf\l"
+	.string "ich den Spitznamen bewerten?$"
 
 GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
 	.string "Hmmm… {STR_VAR_1}, nicht wahr?\n"
@@ -114,25 +116,26 @@ GoldenrodCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
 	.string "einen noch besseren vorschlage?$"
 
 GoldenrodCity_NameRatersHouse_Text_WhatShallNewNameBe:
-	.string "Gut. Wie soll der neue Spitzname\n"
-	.string "lauten?$"
+	.string "Sehr schön! Dann wollen wir mal\n"
+	.string "überlegen, wie es ab jetzt heißen soll.$"
 
 GoldenrodCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Fertig! Dieses Pokémon wird nun\n"
-	.string "als {STR_VAR_1} bekannt sein!\p"
-	.string "Es ist ein besserer Name als vorher!\n"
-	.string "Welch ein Glück für dich!$"
+	.string "Was hältst du davon: Von nun an soll\n"
+	.string "dieses Pokémon {STR_VAR_1} heißen!\p"
+	.string "Ein viel besserer Name als zuvor, oder?\n"
+	.string "Du bist echt ein Glückspilz!$"
 
 GoldenrodCity_NameRatersHouse_Text_DoVisitAgain:
 	.string "Ich verstehe.\n"
 	.string "Komm gern wieder.$"
 
 GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Fertig! Dieses Pokémon wird nun\n"
-	.string "als {STR_VAR_1} bekannt sein!\p"
-	.string "Es sieht nicht anders aus als vorher,\n"
-	.string "und doch ist es weit überlegen!\p"
-	.string "Welch ein Glück für dich!$"
+	.string "Alles klar! Von nun an heißt dein\n"
+	.string "Pokémon {STR_VAR_1}!\p"
+	.string "Hm? So hieß es vorher auch schon?\n"
+	.string "Ach was, das bildest du dir nur ein!\p"
+	.string "Der neue Name passt eben wie die Faust\n"
+	.string "auf's Auge. Sieh's doch mal positiv!$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
 	.string "Hmmm… {STR_VAR_1}, wie prächtig!\p"
@@ -142,7 +145,7 @@ GoldenrodCity_NameRatersHouse_Text_MagnificentName:
 	.string "von nun an und in Zukunft.$"
 
 GoldenrodCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Nun, nun.\n"
-	.string "Das ist nur ein Ei!$"
+	.string "Hoppla…\n"
+	.string "Aber das ist doch ein Ei!$"
 
 

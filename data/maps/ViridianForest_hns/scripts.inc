@@ -30,13 +30,13 @@ ViridianForest_EventScript_Bugsy::
 	end
 
 ViridianForest_Text_Bugsy:
-	.string "Kai: Ich kam nach KANTO, um\n"
-	.string "Käfer-Pokémon zu suchen,\p"
-	.string "damit ich ein stärkerer Käfer-\n"
-	.string "Pokémon-TRAINER werde!\p"
-	.string "Wenn du bereit bist für ein\n"
-	.string "weiteres Match, treffe mich im\l"
-	.string "DOJO in SAFFRONIA!$"
+	.string "Kai: Ich bin hier, um nach Käfer-\n"
+	.string "Pokémon aus Kanto zu suchen!\p"
+	.string "Ich will als Trainer für Käfer-Pokémon\n"
+	.string "nämlich noch viel besser werden!\p"
+	.string "Oh, übrigens!\n"
+	.string "Wie wär's, wenn wir beide\l"
+	.string "Telefonnummern austauschen?$"
 
 ViridianForest_TriggerScript_Pichu1::
 	lock

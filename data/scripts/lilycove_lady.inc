@@ -527,22 +527,23 @@ LilycoveCity_PokemonCenter_1F_EventScript_Pikachu::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheFavorLady:
-	.string "I'm the FAVOR LADY…$"
+	.string "Ich bin die SERVICELADY…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ObsessedWithThing:
-	.string "I've recently developed an obsession\n"
-	.string "for {STR_VAR_1} things…$"
+	.string "Im Moment interessiere ich mich\n"
+	.string "brennend für “{STR_VAR_1}”…$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankYouForLastTime:
 	.string "Oh…\n"
 	.string "Thank you for last time…$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeBadThing:
-	.string "Before, I think it was {STR_VAR_3}…\p"
-	.string "{STR_VAR_3} gave me one {STR_VAR_2},\n"
-	.string "saying it was {STR_VAR_1}.\p"
-	.string "But it wasn't {STR_VAR_1}.\n"
-	.string "Not in the least bit.$"
+	.string "Ich dachte, es wäre {STR_VAR_3}\n"
+	.string "gewesen…\p"
+	.string "{STR_VAR_3} hat mir 1 {STR_VAR_2}\n"
+	.string "geschenkt und gesagt, es wäre\p"
+	.string "{STR_VAR_1}. Aber das stimmte gar nicht!\n"
+	.string "Überhaupt nicht!$"
 
 LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeGreatThing:
 	.string "Before, {STR_VAR_3} gave me a very\n"
@@ -550,13 +551,13 @@ LilycoveCity_PokemonCenter_1F_Text_PlayerGaveMeGreatThing:
 	.string "I cherish it now.$"
 
 LilycoveCity_PokemonCenter_1F_Text_WillYouShareThing:
-	.string "Listen, if you have anything that\n"
-	.string "is {STR_VAR_1}, will you share it\l"
-	.string "with me?$"
+	.string "Du, hör mal! Wenn du etwas hast, das\n"
+	.string "unter die Kategorie “{STR_VAR_1}” fällt,\l"
+	.string "gibst du mir etwas davon ab?!?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatWillYouGiveMe:
-	.string "…Really?\n"
-	.string "What will you give me?$"
+	.string "Wirklich?!? Echt?!?\n"
+	.string "Oh! Und was gibst du mir?!?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IsThatSoGoodbye:
 	.string "Is that so?\n"
@@ -564,64 +565,64 @@ LilycoveCity_PokemonCenter_1F_Text_IsThatSoGoodbye:
 
 LilycoveCity_PokemonCenter_1F_Text_NotWillingToShare:
 	.string "Oh…\n"
-	.string "You're not willing to share?$"
+	.string "Du willst nicht teilen?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllTryToCherishIt:
-	.string "Oh?\n"
-	.string "That {STR_VAR_2} is {STR_VAR_1}?\p"
-	.string "…Oh, is that right?\p"
-	.string "Well, I owe you a thanks anyway.\n"
-	.string "I'll try to cherish it…$"
+	.string "Mh?\n"
+	.string "{STR_VAR_2}… {STR_VAR_1}?\p"
+	.string "Und das soll stimmen?\p"
+	.string "Nun, ich muss mich trotzdem bei dir\n"
+	.string "bedanken. Ich weiß es zu schätzen…$"
 
 LilycoveCity_PokemonCenter_1F_Text_IWillCherishThis:
 	.string "Oh…\p"
-	.string "That's a quite {STR_VAR_1}\n"
-	.string "{STR_VAR_2}…\p"
-	.string "Isn't it nice?\n"
-	.string "It's so dreamy…\p"
-	.string "Thank you…\n"
-	.string "I will cherish this…$"
+	.string "{STR_VAR_2} ist schon ganz\n"
+	.string "{STR_VAR_1}…\p"
+	.string "Ist das nicht toll?\n"
+	.string "Einfach traumhaft…\p"
+	.string "Vielen Dank…\n"
+	.string "Ich werde gut darauf Acht geben…$"
 
 LilycoveCity_PokemonCenter_1F_Text_IWillTreasureThis:
-	.string "…Oh, oh, oh…\p"
-	.string "This is amazing!\n"
-	.string "This really is {STR_VAR_1}!\p"
-	.string "I never knew that one {STR_VAR_2}\n"
-	.string "could be this {STR_VAR_1}!\p"
-	.string "Thank you!\p"
-	.string "I will treasure this for the rest\n"
-	.string "of my life!$"
+	.string "Uih… Oh…\p"
+	.string "Das ist fan-tas-tisch!!!\n"
+	.string "Das ist wirklich {STR_VAR_1}!!!\p"
+	.string "Ich hätte nie gedacht, dass\n"
+	.string "{STR_VAR_2} so {STR_VAR_1} sein\p"
+	.string "könnte! Vielen Dank!\p"
+	.string "Ich werde das bis an mein Lebensende\n"
+	.string "bewahren und beschützen!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllGiveYouThisInReturn:
-	.string "I'll give you this wonderful item in\n"
-	.string "return for your fabulous gift.\p"
-	.string "I hope you will cherish it…$"
+	.string "Ich gebe dir dieses wunderbare Item als\n"
+	.string "Dank für dein sagenhaftes Geschenk!\p"
+	.string "Ich hoffe, du weißt es zu schätzen…$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouDontHaveSpaceForIt:
-	.string "Oh, you can't have it if you don't have\n"
-	.string "the space for it.\p"
-	.string "Please come see me when you get\n"
-	.string "your BAG organized…$"
+	.string "Oh, schade! Wenn du keinen Platz hast,\n"
+	.string "kann ich es dir leider nicht geben.\p"
+	.string "Hol es dir doch ab, sobald du in deinem\n"
+	.string "BEUTEL etwas aufgeräumt hast.$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheQuizLady:
-	.string "I'm the QUIZ LADY!\n"
-	.string "I love quizzes!$"
+	.string "Ich bin die QUIZLADY!\n"
+	.string "Ich liiiiebe Quizze!$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingToTakeYourQuiz:
-	.string "Oh?\p"
-	.string "I'm waiting for a challenger to answer\n"
-	.string "the quiz you made.\p"
-	.string "We can chat another time, okay?$"
+	.string "Bitte?\p"
+	.string "Ich warte auf einen Herausforderer,\n"
+	.string "der sich traut, sich meinen Fragen zu\p"
+	.string "stellen. Wir können ja später mal ein\n"
+	.string "Schwätzchen halten.$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitingForChallenger:
-	.string "I'm waiting for someone to challenge\n"
-	.string "a quiz this {STR_VAR_1} thought up!$"
+	.string "Ich warte auf einen Herausforderer, der\n"
+	.string "sich dem Quiz von {STR_VAR_1} stellt!$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeQuizChallenge:
-	.string "If you answer correctly, you can win\n"
-	.string "fabulous prizes!\p"
-	.string "Would you like to take the quiz\n"
-	.string "challenge?$"
+	.string "Wenn du richtig antwortest, gewinnst du\n"
+	.string "tolle Preise!\p"
+	.string "Möchtest du es einmal versuchen?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WaitForAnswer:
 	.string "… … … … … …\n"
@@ -632,22 +633,22 @@ LilycoveCity_PokemonCenter_1F_Text_HowBoringBye:
 	.string "Bye-bye!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YoureGoingToQuit:
-	.string "Awww!\n"
-	.string "You're going to quit?$"
+	.string "Uuuuuh!\n"
+	.string "Gibst du schon auf?$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeTheQuizAnotherTime:
-	.string "Please take the quiz challenge\n"
-	.string "another time!$"
+	.string "Ich hoffe, du nimmst später an meinem\n"
+	.string "Quiz teil!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRight:
 	.string "You're amazing! You've got it right!\n"
 	.string "You're one sharp customer!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRightYouveWonPersonsPrize:
-	.string "Congratulations!\n"
-	.string "You've got the quiz right!\p"
-	.string "You've won a prize provided by\n"
-	.string "{STR_VAR_1}!$"
+	.string "Herzlichen Glückwunsch!\n"
+	.string "Du hast gewonnen!\p"
+	.string "{STR_VAR_1} hat für dich einen Preis\n"
+	.string "gestiftet!$"
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
@@ -655,49 +656,47 @@ LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
 	.string "one {STR_VAR_2}!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp:
-	.string "Oh? Your BAG is filled up!\n"
-	.string "Come see me when you have room.$"
+	.string "Dein BEUTEL ist voll. Schaffe Platz und\n"
+	.string "komm dann wieder.$"
 
 LilycoveCity_PokemonCenter_1F_Text_WrongTheCorrectAnswerIs:
-	.string "Hmm… Wrong!\n"
-	.string "The correct answer is “{STR_VAR_3}”!$"
+	.string "Hmm… Das war falsch! Die richtige\n"
+	.string "Antwort lautet “{STR_VAR_3}”!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IGetToKeepPrize:
-	.string "Too bad!\p"
-	.string "I get to keep the quiz prize\n"
-	.string "{STR_VAR_1} now!$"
+	.string "Wie schade!\p"
+	.string "Nun muss ich den Preis\n"
+	.string "{STR_VAR_1} selbst behalten.$"
 
 LilycoveCity_PokemonCenter_1F_Text_MakeYourOwnQuiz:
-	.string "Listen, listen!\n"
-	.string "Would you like to make your own quiz?$"
+	.string "Hey, was meinst du? Würdest du nicht\n"
+	.string "gerne dein eigenes Quiz erfinden?$"
 
 LilycoveCity_PokemonCenter_1F_Text_MaybeNextTime:
 	.string "Oh, I see…\n"
 	.string "Well, maybe next time!$"
 
 LilycoveCity_PokemonCenter_1F_Text_PickYourPrize:
-	.string "Okay, the first thing you have to do\n"
-	.string "is pick the prize for the person that\l"
-	.string "answers your quiz correctly.\p"
-	.string "But beware, if the person taking\n"
-	.string "the quiz can't get it right, I get to\l"
-	.string "keep the prize!$"
+	.string "Als Erstes musst du den Preis wählen,\n"
+	.string "den der Gewinner deines Quizzes\l"
+	.string "bekommen soll.\p"
+	.string "Wenn der Teilnehmer allerdings nicht\n"
+	.string "gewinnt, dann behalte ICH den Preis!$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitChoosingPrize:
-	.string "If you don't choose a prize,\n"
-	.string "your quiz can't be made.\p"
-	.string "Are you going to quit making\n"
-	.string "your quiz?$"
+	.string "Wählst du keinen Preis aus, kannst du\n"
+	.string "auch kein Quiz erfinden.\p"
+	.string "Willst du doch kein Quiz erfinden?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WriteYourQuiz:
-	.string "Oh, how nice!\n"
-	.string "That's a wonderful prize!\p"
-	.string "Next, you need to write your quiz\n"
-	.string "question and its answer.$"
+	.string "Sehr schön!\n"
+	.string "Das ist ein toller Preis!\p"
+	.string "Nun musst du die Quizfragen und die\n"
+	.string "Antworten aufschreiben.$"
 
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizQuestion:
-	.string "Are you going to quit writing\n"
-	.string "your quiz question?$"
+	.string "Willst du doch keine Fragen\n"
+	.string "aufschreiben?$"
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
@@ -705,71 +704,69 @@ LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
 	.string "your quiz answer?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger:
-	.string "Thank you!\n"
-	.string "You've put together a nice quiz.\p"
-	.string "I'll go look for someone who'll take\n"
-	.string "your quiz challenge right away.$"
+	.string "Vielen Dank!\n"
+	.string "Das ist wirklich ein tolles Quiz!\p"
+	.string "Ich suche jetzt sofort jemanden, der\n"
+	.string "an deinem Quiz teilnehmen wird.$"
 
 LilycoveCity_PokemonCenter_1F_Text_ImTheContestLady:
-	.string "I'm the CONTEST LADY!\n"
-	.string "I sure do love CONTESTS!$"
+	.string "Ich bin die WETTBEWERBSLADY!\n"
+	.string "Ich liiiebe WETTBEWERBe!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ThankForPokeblock:
-	.string "Thanks for your {POKEBLOCK} before!$"
+	.string "Vielen Dank für den {POKEBLOCK}!$"
 
 LilycoveCity_PokemonCenter_1F_Text_MyFriendDisplaysQuality:
-	.string "This is my friend {STR_VAR_1}!\n"
-	.string "It's the epitome of {STR_VAR_2}!\p"
-	.string "But I think that it will display\n"
-	.string "even more {STR_VAR_2}!$"
+	.string "Dies ist mein Freund {STR_VAR_1}!\n"
+	.string "Es ist der Inbegriff für {STR_VAR_2}!\p"
+	.string "Aber ich glaube, dass es auch\n"
+	.string "für {STR_VAR_2} steht!$"
 
 LilycoveCity_PokemonCenter_1F_Text_DontHaveAPokeblockCase:
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!\p"
-	.string "…Oh, but…\n"
-	.string "Don't you have a {POKEBLOCK} CASE?\l"
-	.string "That's no good. Next time, then!$"
+	.string "Ich brauche deine Hilfe!\p"
+	.string "Gibst du mir bitte einen {POKEBLOCK}?\n"
+	.string "Nur einen einzigen, bitte?\p"
+	.string "Oh…\n"
+	.string "Du hast ja gar keine {POKEBLOCK}BOX?!?\l"
+	.string "Schade! Na, das nächste Mal vielleicht.$"
 
 LilycoveCity_PokemonCenter_1F_Text_AskingForOnePokeblock:
-	.string "So, I need your help!\p"
-	.string "Please, may I have one {POKEBLOCK}?\n"
-	.string "All I'm asking for is one!$"
+	.string "Ich brauche deine Hilfe!\p"
+	.string "Gibst du mir bitte einen {POKEBLOCK}?\n"
+	.string "Nur einen einzigen, bitte?$"
 
 LilycoveCity_PokemonCenter_1F_Text_ICantHaveOnePokeblock:
-	.string "Awww!\n"
-	.string "I can't have one {POKEBLOCK}?!$"
+	.string "Oooh!\n"
+	.string "Auch nicht einen winzig kleinen {POKEBLOCK}?$"
 
 LilycoveCity_PokemonCenter_1F_Text_WhatACheapskate:
 	.string "Sheesh!\n"
 	.string "What a cheapskate!$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllUseYourPokeblock:
-	.string "Yay!\n"
-	.string "Thank you!\p"
-	.string "I'll feed my POKéMON your {POKEBLOCK}\n"
-	.string "right away.$"
+	.string "Juhuu!\n"
+	.string "Vielen Dank!!!\p"
+	.string "Ich werde meinem POKéMON sofort deinen\n"
+	.string "{POKEBLOCK} geben!$"
 
 LilycoveCity_PokemonCenter_1F_Text_NoChangeThanks:
-	.string "…It doesn't seem to have changed\n"
-	.string "in any way at all…\p"
+	.string "Häh… Da scheint sich ja gar nichts zu\n"
+	.string "tun…\p"
 	.string "Hmm…\p"
-	.string "Oh, well!\n"
-	.string "Thank you very much!$"
+	.string "Na, trotzdem vielen Dank!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReallyImprovedThanks:
-	.string "Oh, yay!\n"
-	.string "It's really delighted!\p"
-	.string "I think it really improved {STR_VAR_1}'s\n"
-	.string "{STR_VAR_2} quality, too.\p"
-	.string "Thank you so much!$"
+	.string "Juhuuu!\n"
+	.string "Es freut sich wirklich darüber!\p"
+	.string "Oh! Die {STR_VAR_2} von {STR_VAR_1} hat\n"
+	.string "sich auch verbessert!\p"
+	.string "Vielen Dank!$"
 
 LilycoveCity_PokemonCenter_1F_Text_ReadyToEnterContests:
 	.string "Hmm…\p"
-	.string "I think we may be ready to enter\n"
-	.string "some CONTESTS.\p"
-	.string "If you see us in one somewhere,\n"
-	.string "I hope you'll cheer for us.$"
+	.string "Jetzt können wir an den WETTBEWERBEN\n"
+	.string "teilnehmen.\p"
+	.string "Feure uns an, wenn du uns siehst!$"
 
 LilycoveCity_PokemonCenter_1F_Text_Zigzagoon:
 	.string "{STR_VAR_1}: Guguuh!$"

@@ -28,42 +28,42 @@ Route18_EventScript_CyclingRoadSign::
 	end
 
 Route18_Text_WiltonIntro::
-	.string "I always check every grassy area\n"
-	.string "for new POKéMON.$"
+	.string "Ich laufe überall durch hohes\n"
+	.string "Gras, um Pokémon aufzuspüren!$"
 
 Route18_Text_WiltonDefeat::
-	.string "Tch!$"
+	.string "Also so was!$"
 
 Route18_Text_WiltonPostBattle::
-	.string "I wish I had a BIKE!$"
+	.string "Wenn ich nur ein Fahrrad hätte!$"
 
 Route18_Text_RamiroIntro::
-	.string "Kurukkoo!\n"
-	.string "How do you like my birdcall?$"
+	.string "Guruguu!\n"
+	.string "Wie klingt mein Vogellockruf?$"
 
 Route18_Text_RamiroDefeat::
-	.string "I had to bug you!$"
+	.string "Ich musste mit dir kämpfen!$"
 
 Route18_Text_RamiroPostBattle::
-	.string "I collect sea POKéMON on weekends\n"
-	.string "because the sea is so close.$"
+	.string "Am Wochenende sammle ich immer\n"
+	.string "Wasser-pokémon!$"
 
 Route18_Text_JacobIntro::
-	.string "This is my turf!\n"
-	.string "Get out of here!$"
+	.string "Das hier ist mein Gebiet!\n"
+	.string "Sieh zu, dass du Land gewinnst!$"
 
 Route18_Text_JacobDefeat::
-	.string "Darn!$"
+	.string "Verdammt!$"
 
 Route18_Text_JacobPostBattle::
-	.string "This is my fave area for catching\n"
-	.string "POKéMON.$"
+	.string "Hier habe ich sehr gerne Pokémon\n"
+	.string "gejagt!$"
 
 Route18_Text_RouteSign::
 	.string "ROUTE 18\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "PRISMANIA CITY - FUCHSANIA CITY$"
 
 Route18_Text_CyclingRoadSign::
-	.string "CYCLING ROAD\n"
-	.string "No pedestrians permitted!$"
+	.string "Das Betreten des RADWEGES ist\n"
+	.string "Fußgängern untersagt!$"
 

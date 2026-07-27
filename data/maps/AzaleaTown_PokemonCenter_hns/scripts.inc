@@ -45,8 +45,9 @@ AzaleaPokecenter_Text_UnusedPCExplanation:
 	.string "werden.$"
 
 AzaleaPokecenter_Text_FishingGuru:
-	.string "Auf Bill's PC können bis zu 30\n"
-	.string "Pokémon pro BOX gelagert werden.$"
+	.string "Das Pokémon-Lagerungssystem, das\n"
+	.string "Bill erfunden hat, erlaubt es dir, bis zu\l"
+	.string "30 Pokémon in einer Box zu lagern!$"
 
 AzaleaPokecenter_Text_PokefanF:
 	.string "Weißt du über Beeren bescheid?\p"

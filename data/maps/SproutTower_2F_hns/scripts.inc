@@ -28,28 +28,29 @@ SproutTower_2F_EventScript_Xdefend::
 	end
 
 SproutTower_Text_SageNico_Seen:
-	.string "Egal wie hart wir kämpfen,\n"
-	.string "der TURM bleibt stark.$"
+	.string "So sehr wir hier auch wüten,\n"
+	.string "der Turm steht felsenfest!$"
 
 SproutTower_Text_SageNico_Beaten:
-	.string "Ich kämpfte hart, doch ich\n"
-	.string "bin zu schwach.$"
+	.string "Ich habe hart gekämpft,\n"
+	.string "doch ich war einfach zu schwach.$"
 
 SproutTower_Text_SageNico_AfterBattle:
-	.string "Die flexible Säule schützt\n"
-	.string "den TURM, selbst vor Erdbeben.$"
+	.string "Aufgrund der flexiblen Säule\n"
+	.string "ist der Turm erdbebensicher.$"
 
 SproutTower_Text_SageEdmond_Seen:
-	.string "…Wie Blätter im Wind schwingen…$"
+	.string "…Zittere wie\n"
+	.string "Laub im Wind!$"
 
 SproutTower_Text_SageEdmond_Beaten:
-	.string "Oh, ich bin schwach!$"
+	.string "Mein Wille ist schwach!$"
 
 SproutTower_Text_SageEdmond_AfterBattle:
-	.string "Ich wollte Knofensas zarte\n"
-	.string "Bewegungen im Kampf kopieren…\p"
-	.string "Doch ich habe nicht genug trainiert.$"
+	.string "Ich habe versucht, die eleganten Bewe-\n"
+	.string "gungen von KNOFENSA nachzuahmen…\l"
+	.string "Aber ich habe nicht genug trainiert.$"
 
 SproutTower_Text_2F_Statue:
-	.string "Eine PKMN-Statue…\p"
+	.string "Eine Pokémon-Statue…\n"
 	.string "Sie sieht sehr erhaben aus.$"

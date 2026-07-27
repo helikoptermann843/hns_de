@@ -500,13 +500,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
 	.string "Den PALASTREGENTen SERENUS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SERENUS: Mein Leben dreht sich um\n"
+	.string "Serenus: Mein Leben dreht sich um\n"
 	.string "meine\n"
-	.string "POKéMON. Immer und ausschließlich!\p"
+	.string "Pokémon. Immer und ausschließlich!\p"
 	.string "Unsere Herzen schlagen im gleichen\n"
 	.string "Takt!\p"
-	.string "Junger TRAINER!\n"
-	.string "Glaubst du an deine POKéMON?\p"
+	.string "Junger Trainer!\n"
+	.string "Glaubst du an deine Pokémon?\p"
 	.string "Kannst du aus tiefstem Herzen und\n"
 	.string "voller Überzeugung an sie glauben?\p"
 	.string "Ist euer Band schwach, wirst du mich\n"

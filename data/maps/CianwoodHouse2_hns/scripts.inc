@@ -26,21 +26,22 @@ CianwoodHouse2_EventScript_Twin::
 	end
 	
 CianwoodCity_Text_LugiaHouseTeacher:
-	.string "Du kommst aus Oliviana-City?\p"
-	.string "Erinnerst du dich an die vier\n"
-	.string "Inseln auf dem Weg?\p"
-	.string "Ich hörte, dass ein mythisches\n"
-	.string "Meereswesen dort versteckt ist.$"
+	.string "Bist du von Oliviana City hergekommen?\n"
+	.string "Dann hast du bestimmt diese vier Inseln\l"
+	.string "auf dem Weg gesehen, oder?\l"
+	.string "Man erzählt sich, dass dort ein\l"
+	.string "mythisches Wesen hausen soll!$"
 
 CianwoodCity_Text_LugiaHouseLass:
-	.string "Ich hörte, dass man es nur sehen\n"
-	.string "kann, wenn man einen SILBERFLÜGEL hat.\p"
-	.string "Es muss denselben Duft wie das\n"
-	.string "Wesen haben.$"
+	.string "Ich habe gehört, dass man es nur sehen\n"
+	.string "kann, wenn man einen Silberflügel hat.\p"
+	.string "Er muss bestimmt denselben Geruch wie\n"
+	.string "diese Kreatur ausströmen.$"
 
 CianwoodCity_Text_LugiaHouseTwin:
-	.string "Ich hörte, dass die Strudel um\n"
-	.string "die Inseln vom Meereswesen verursacht\l"
-	.string "werden.\p"
-	.string "Du brauchst vielleicht eine spezielle\n"
-	.string "Attacke, um sie zu passieren.$"
+	.string "Es heißt schon lange, dass diese\n"
+	.string "mythische Kreatur auch die Strudel\l"
+	.string "um die Inseln macht.\p"
+	.string "Man braucht wahrscheinlich eine\n"
+	.string "Spezialattacke, um an denen\l"
+	.string "vorbeizukommen.$"

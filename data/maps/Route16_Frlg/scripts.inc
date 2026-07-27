@@ -74,115 +74,114 @@ Route16_EventScript_RouteSign::
 	end
 
 Route16_Text_LaoIntro::
-	.string "What do you want?$"
+	.string "Was willst du?$"
 
 Route16_Text_LaoDefeat::
-	.string "Don't you dare laugh!$"
+	.string "Wage ja nicht zu lachen!$"
 
 Route16_Text_LaoPostBattle::
-	.string "We like just hanging here.\n"
-	.string "What's it to you?$"
+	.string "Wir lungern hier herum!\n"
+	.string "Wie sieht es bei dir aus?$"
 
 Route16_Text_KojiIntro::
-	.string "Nice BIKE!\n"
-	.string "Hand it over!$"
+	.string "Du besitzt ein schönes Fahrrad!\n"
+	.string "Her damit!$"
 
 Route16_Text_KojiDefeat::
-	.string "Knockout!$"
+	.string "K.o.!$"
 
 Route16_Text_KojiPostBattle::
-	.string "Forget it, who needs your BIKE!$"
+	.string "Na ja, vergiss es!\n"
+	.string "Wer braucht schon ein Fahrrad?$"
 
 Route16_Text_LukeIntro::
-	.string "Come out and play, little mouse!$"
+	.string "Lass uns spielen, Hasenfuß!$"
 
 Route16_Text_LukeDefeat::
-	.string "You little rat!$"
+	.string "Du kleine Ratte!$"
 
 Route16_Text_LukePostBattle::
-	.string "I hate losing!\n"
-	.string "Get out of my face!$"
+	.string "Ich hasse es, zu verlieren!\n"
+	.string "Mach, dass du wegkommst!$"
 
 Route16_Text_HideoIntro::
-	.string "Hey, you just bumped me!$"
+	.string "Heh! Du hast mich angerempelt!$"
 
 Route16_Text_HideoDefeat::
-	.string "Kaboom!$"
+	.string "Rumms! Überrumpelt!$"
 
 Route16_Text_HideoPostBattle::
-	.string "We'll always be hanging around here\n"
-	.string "even if you don't like it.\p"
-	.string "You can detour to VERMILION from\n"
-	.string "FUCHSIA going along the coast.$"
+	.string "Man kann über eine Küstenstraße\n"
+	.string "von ORANIA CITY nach FUCHSANIA\l"
+	.string "CITY gelangen.$"
 
 Route16_Text_CamronIntro::
-	.string "I'm feeling hungry and mean!\n"
-	.string "I need a punching bag!$"
+	.string "Ich bin furchtbar gemein und\n"
+	.string "erfolgssüchtig!$"
 
 Route16_Text_CamronDefeat::
-	.string "Bad, bad, bad!$"
+	.string "Nein, nein, nein!$"
 
 Route16_Text_CamronPostBattle::
-	.string "If I'm going to have POKéMON, they\n"
-	.string "may as well be ferocious.\p"
-	.string "I'd use them to leave my enemies\n"
-	.string "in tatters.$"
+	.string "Ich mag wilde Pokémon!\n"
+	.string "Sie strotzen nur so vor Kraft!$"
 
 Route16_Text_RubenIntro::
-	.string "Hey, there!\n"
-	.string "Let's have ourselves a good time!$"
+	.string "Ja, sicher!\n"
+	.string "Ich mache dir Platz!$"
 
 Route16_Text_RubenDefeat::
-	.string "Don't make me mad!$"
+	.string "Treibe mich nicht in den Wahnsinn!$"
 
 Route16_Text_RubenPostBattle::
-	.string "I get my kicks by harassing people\n"
-	.string "with my stinking POKéMON.\p"
-	.string "They're great for startling people.\n"
-	.string "And, they bite, too.$"
+	.string "Ich liebe es, andere mit meinen\n"
+	.string "bissigen Pokémon zu schikanieren!$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "A POKéMON is sprawled out in\n"
-	.string "a deep and comfortable slumber.$"
+	.string "Ein schlafendes POKéMON versperrt\n"
+	.string "den Weg!$"
 
 Route16_Text_CyclingRoadSign::
-	.string "Enjoy the slope!\n"
-	.string "CYCLING ROAD$"
+	.string "RADWEG\n"
+	.string "Gute Abfahrt!$"
 
 Route16_Text_RouteSign::
 	.string "ROUTE 16\n"
-	.string "CELADON CITY - FUCHSIA CITY$"
+	.string "PRISMANIA CITY - FUCHSANIA CITY$"
 
 Route16_Text_JedIntro::
-	.string "JED: Our love knows no bounds.\n"
-	.string "We're in love and we show it!$"
+	.string "Uwe: Unsere Liebe kennt keine\n"
+	.string "Grenzen. Wir lieben uns und\l"
+	.string "zeigen das!$"
 
 Route16_Text_JedDefeat::
-	.string "JED: Oh, no!\n"
-	.string "My love has seen me as a loser!$"
+	.string "Uwe: Oh, nein! Meine Geliebte hat\n"
+	.string "mich verlieren sehen.$"
 
 Route16_Text_JedPostBattle::
-	.string "JED: Listen, LEA.\n"
-	.string "You need to focus less on me.$"
+	.string "Uwe: Hör zu, Lena! Du solltest\n"
+	.string "dich weniger auf mich\l"
+	.string "konzentrieren.$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "JED: You have just one POKéMON?\n"
-	.string "Is there no love in your heart?$"
+	.string "UWE: Du hast nur ein POKéMON?\n"
+	.string "Gibt es in deinem Herzen\l"
+	.string "keine Liebe?$"
 
 Route16_Text_LeaIntro::
-	.string "LEA: Sometimes, the intensity of\n"
-	.string "our love scares me.$"
+	.string "Lena: Manchmal erschreckt es mich,\n"
+	.string "wie intensiv unsere Liebe ist.$"
 
 Route16_Text_LeaDefeat::
-	.string "LEA: Ohh! But JED looks cool\n"
-	.string "even in a loss!$"
+	.string "Lena: Oh! Aber Uwe sieht auch bei\n"
+	.string "einer Niederlage cool aus!$"
 
 Route16_Text_LeaPostBattle::
-	.string "LEA: Ehehe, I'm sorry.\n"
-	.string "JED is so cool.$"
+	.string "Lena: Äh, es tut mir Leid.\n"
+	.string "Uwe ist so cool.$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LEA: Oh, you don't have two\n"
-	.string "POKéMON with you?\p"
-	.string "Doesn't it feel lonely for you or\n"
-	.string "your POKéMON?$"
+	.string "LENA: Oh, du hast keine zwei\n"
+	.string "POKéMON bei dir?\p"
+	.string "Fühlst du dich oder fühlt sich\n"
+	.string "dein POKéMON nicht einsam?$"

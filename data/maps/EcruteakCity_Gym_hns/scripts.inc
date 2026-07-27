@@ -77,7 +77,7 @@ EcruteakCity_Gym_EventScript_Statue2::
 	end
 
 EcruteakCity_Gym_Text_GymStatue:
-	.string "Teak City Pokémon Arena$"
+	.string "Pokémon-Arena von Teak City$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
 	.string "Teak City Pokémon Arena\p"
@@ -86,10 +86,10 @@ EcruteakCity_Gym_Text_GymStatueCertified:
 
 MortyIntroText:
 	.string "Schön, dass du gekommen bist.\p"
-	.string "Hier in TEAK CITY werden POKéMON\n"
+	.string "Hier in Teak City werden Pokémon\n"
 	.string "seit jeher verehrt.\p"
 	.string "Man sagt, ein regenbogenfarbenes\n"
-	.string "POKéMON erscheint nur einem\l"
+	.string "Pokémon erscheint nur einem\l"
 	.string "wahrhaftig würdigen Trainer.\p"
 	.string "Ich glaubte diese Legende und\n"
 	.string "trainierte hier im Verborgenen.\p"
@@ -98,7 +98,7 @@ MortyIntroText:
 	.string "Nur noch ein kleines Stück...\p"
 	.string "Mit etwas mehr könnte ich die\n"
 	.string "Zukunft sehen, in der ich dem\l"
-	.string "Regenbogen-POKéMON begegne.\p"
+	.string "Regenbogen-Pokémon begegne.\p"
 	.string "Du wirst mir helfen,\n"
 	.string "dieses Ziel zu erreichen!$"
 
@@ -132,13 +132,13 @@ MortyFightDoneText:
 	.string "Darum beneide ich dich...$"
 
 MortyRematchText:
-	.string "Ah, der CHAMPION von JOHTO!\n"
+	.string "Ah, der Champion von Johto!\n"
 	.string "Schön, dass du gekommen bist.\p"
 	.string "Du hast Stärke bewiesen,\n"
 	.string "doch bist du seit unserem\l"
 	.string "letzten Kampf gewachsen?\p"
 	.string "Ich habe seitdem mit meinen\n"
-	.string "GEIST-POKéMON trainiert.\p"
+	.string "Geist-pokémon trainiert.\p"
 	.string "Mal sehen, ob du die Schatten\n"
 	.string "erneut überwinden kannst.\p"
 	.string "Willst du eine Revanche?$"
@@ -150,22 +150,22 @@ Morty_RematchDefeatText:
 	.string "Darum beneide ich dich...$"
 
 SageJeffreySeenText:
-	.string "Ich verbrachte den Frühling mit\n"
-	.string "meinen POKéMON.\p"
-	.string "Dann Sommer, Herbst und Winter...\p"
-	.string "Dann kam wieder der Frühling.\n"
-	.string "Wir sind schon lange zusammen.$"
+	.string "Ich habe den Frühling mit meinen\n"
+	.string "Pokémon verbracht. Dann den Sommer,\l"
+	.string "den Herbst und den Winter…\p"
+	.string "Dann kam wieder der Frühling. Wir haben\n"
+	.string "viel miteinander durchgemacht.$"
 
 SageJeffreyBeatenText:
 	.string "Siege und Niederlagen...\n"
 	.string "Ich kenne beides.$"
 
 SageJeffreyAfterBattleText:
-	.string "Woher stammen POKéMON wohl?$"
+	.string "Woher kommen wohl Pokémon?$"
 
 SagePingSeenText:
-	.string "Kannst du unseren POKéMON\n"
-	.string "überhaupt Schaden zufügen?$"
+	.string "Mal sehen, ob du es schaffst,\n"
+	.string "unseren Pokémon Schaden zuzufügen!$"
 
 SagePingBeatenText:
 	.string "Ah! Gut gemacht!$"
@@ -176,10 +176,10 @@ SagePingAfterBattleText:
 	.string "nichts anhaben!$"
 
 MediumMarthaSeenText:
-	.string "Ich werde gewinnen!$"
+	.string "G-gewonnen!$"
 
 MediumMarthaBeatenText:
-	.string "I-ich... habe verloren!$"
+	.string "V-v-verloren!$"
 
 MediumMarthaAfterBattleText:
 	.string "Wer am meisten gewinnen will,\n"
@@ -211,10 +211,11 @@ EcruteakCity_GymGuideText:
 	.string "schreckliche Albträume...$"
 
 EcruteakCity_GymGuideWinText:
-	.string "Puh, {PLAYER}!\n"
-	.string "Das war großartig!\p"
-	.string "Ich habe mich vor lauter Angst\n"
-	.string "in der Ecke versteckt!$"
+	.string "Wow, {PLAYER}!\n"
+	.string "Du warst großartig!\p"
+	.string "So großartig sogar, dass ich glatt ein\n"
+	.string "bisschen Angst gekriegt und mich in\l"
+	.string "eine Ecke verkrochen habe!$"
 
 EcruteakCity_GymClosedText:
 	.string "JENS, der ARENALEITER,\n"

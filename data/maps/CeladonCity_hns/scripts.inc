@@ -76,7 +76,7 @@ CeladonCity_Text_Fisher:
 	.string "in ein Frosch-POKéMON entwickeln wird.$"
 
 CeladonCity_Text_Poliwrath:
-	.string "Quappo: Quak!$"
+	.string "QUAPPO: Quappo! Quappo!$"
 
 CeladonCity_Text_Teacher1:
 	.string "Ich habe wieder an den Spielautomaten\n"
@@ -147,10 +147,9 @@ CeladonCity_Text_Sign:
 	.string "Die Stadt der Regenbogen-Träume$"
 
 CeladonGym_Text_Sign:
-	.string "Prismania City Pokémon Arena Leiter:\n"
-	.string "Erika\p"
-	.string "Die Prinzessin mit\n"
-	.string "Herz für die Natur$"
+	.string "Prismania City Pokémon-Arena\n"
+	.string "Leiterin: Erika\l"
+	.string "Die Prinzessin mit dem grünen Daumen$"
 
 CeladonCity_Text_DeptStoreSign:
 	.string "Im EINKAUFSZENTRUM von\n"

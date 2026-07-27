@@ -22,23 +22,25 @@ SafariZone_North_EventScript_TrainerTips3::
 	end
 
 SafariZone_North_Text_RestHouse::
-	.string "REST HOUSE$"
+	.string "RASTHAUS$"
 
 SafariZone_North_Text_SecretHouseStillAhead::
-	.string "TRAINER TIPS\p"
-	.string "The SECRET HOUSE is still ahead.$"
+	.string "TIPPS FÜR TRAINER\p"
+	.string "Bis zum GEHEIMEN HAUS ist es nicht\n"
+	.string "mehr weit!$"
 
 SafariZone_North_Text_Area2::
-	.string "AREA 2$"
+	.string "AREAL 2$"
 
 SafariZone_North_Text_ZigzagThroughTallGrass::
-	.string "TRAINER TIPS\p"
-	.string "POKéMON hide in tall grass.\p"
-	.string "Zigzag through grassy areas to\n"
-	.string "flush them out.$"
+	.string "TIPPS FÜR TRAINER\p"
+	.string "POKéMON verstecken sich in hohem\n"
+	.string "Gras!\p"
+	.string "Laufe durch das hohe Gras und\n"
+	.string "scheuche sie auf!$"
 
 SafariZone_North_Text_WinFreeHMFindSecretHouse::
-	.string "TRAINER TIPS\p"
-	.string "Win a free HM for finding the\n"
-	.string "SECRET HOUSE.$"
+	.string "TIPPS FÜR TRAINER\p"
+	.string "Finde das GEHEIME HAUS.\n"
+	.string "Dann gewinnst du eine VM!$"
 

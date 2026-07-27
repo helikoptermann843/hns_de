@@ -23,21 +23,21 @@ MagmaHideout_2F_1R_EventScript_Grunt5::
 
 MagmaHideout_2F_1R_Text_Grunt14Intro:
 	.string "Was, wie, wer?\p"
-	.string "Nur Mitglieder von TEAM MAGMA dürfen\n"
+	.string "Nur Mitglieder von Team Magma dürfen\n"
 	.string "hier sein.\p"
-	.string "Aber du hast keine Uniform von TEAM\n"
-	.string "MAGMA an…\p"
+	.string "Aber du hast keine Uniform von Team\n"
+	.string "Magma an…\p"
 	.string "Das erregt Verdacht!\n"
 	.string "Kämpf mit mir!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
 	.string "Aiyiyi…\n"
-	.string "Mein Stolz als Mitglied von TEAM\l"
-	.string "MAGMA…$"
+	.string "Mein Stolz als Mitglied von Team\l"
+	.string "Magma…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 	.string "Wenn du an Schüttelfrost leidest,\n"
-	.string "solltest du TEAM MAGMA beitreten.$"
+	.string "solltest du Team Magma beitreten.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
 	.string "Stopp!\p"

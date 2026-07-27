@@ -25,22 +25,22 @@ SaffronCity_CopyCatsHouse_1F_EventScript_Blissey::
 	end
 
 CopycatsHouse1F_Text_PokefanM:
-	.string "Meine Tochter\n"
-	.string "macht gerne Menschen nach.\p"
-	.string "Dieses Hobby hat ihr den Spitznamen\n"
-	.string "NACHAHMERIN eingebracht.$"
+	.string "Sehr zu meinem Leidwesen ahmt meine\n"
+	.string "Tochter gerne andere Leute nach.\p"
+	.string "Keine Minute vergeht, in der sie normal\n"
+	.string "mit mir spricht. Die Nachbarn nennen sie\l"
+	.string "sogar schon die "Nachahmerin"!$"
 
 CopycatsHouse1F_Text_PokefanF:
 	.string "Meine Tochter ist sehr ichbezogen…\p"
 	.string "Sie hat nur wenige Freunde.$"
 
 CopycatsHouse1F_Text_PokefanF_ReturnedPart:
-	.string "Vor kurzem hat sie ihre PUPPE,\n"
-	.string "die ihr ein Junge vor drei Jahren\p"
-	.string "geschenkt hat, verloren.\p"
-	.string "Ihre Nachahmerei\n"
-	.string "ist seitdem sogar noch besser\l"
-	.string "geworden…$"
+	.string "Seit sie die Poképuppe verloren hat,\n"
+	.string "die sie vor drei Jahren von einem Jungen\l"
+	.string "geschenkt bekommen hatte, wurde es mit\l"
+	.string "ihrer Nachahmerei noch viel schlimmer.\p"
+	.string "Sie wurde einfach immer besser darin…$"
 
 CopycatsHouse1F_Text_Blissey:
-	.string "HEITEIRA: Teirii!$"
+	.string "HEITEIRA: Hei! Teira!$"

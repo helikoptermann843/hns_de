@@ -101,12 +101,12 @@ PokemonTower_2F_Movement_RivalExitDown::
 	step_end
 
 PokemonTower_2F_Text_RivalIntro::
-	.string "{RIVAL}: Hey, {PLAYER}!\n"
-	.string "What brings you here?\l"
-	.string "Is your POKéMON dead?\p"
-	.string "Hey! It's alive!\p"
-	.string "I can at least make them faint!\n"
-	.string "Let's go!$"
+	.string "POKéMON JOURNAL\p"
+	.string "Sonderreportage: PROF. EICH, der\n"
+	.string "POKéMON-Forscher!\p"
+	.string "Berichten zufolge lebt PROF. EICH\n"
+	.string "mit seinen Enkeln SARAH und\l"
+	.string "{VAR} zusammen.$"
 
 PokemonTower_2F_Text_RivalDefeat::
 	.string "What?\n"
@@ -114,19 +114,20 @@ PokemonTower_2F_Text_RivalDefeat::
 	.string "I took it easy on you, too!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-	.string "How's your POKéDEX coming?\n"
-	.string "I just caught a CUBONE!\p"
-	.string "I can't find the bigger MAROWAK.\n"
-	.string "Where could they be?\p"
-	.string "I bet there aren't any left!\p"
-	.string "Well, I better get going.\n"
-	.string "I've got a lot to accomplish,\l"
-	.string "unlike you.\p"
-	.string "Smell ya later!$"
+	.string "Wie macht sich dein POKéDEX,\n"
+	.string "Nervensäge? Ich habe kürzlich ein\l"
+	.string "TRAGOSSO gefangen!\p"
+	.string "Allerdings habe ich noch kein\n"
+	.string "KNOGGA!\p"
+	.string "Ich glaube, von diesen POKéMON\n"
+	.string "gibt es nur noch wenige.\p"
+	.string "Also, ich habe viel zu tun!\n"
+	.string "Ich muss weiter!\p"
+	.string "Dann bis später!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-	.string "Even we could not identify the\n"
-	.string "wayward ghosts.\p"
-	.string "A SILPH SCOPE might be able to\n"
-	.string "unmask them.$"
+	.string "Ah, du studierst also ganz alleine\n"
+	.string "POKéMON…\p"
+	.string "Ja, du bist wirklich eine außer-\n"
+	.string "ordentliche Persönlichkeit.$"
 

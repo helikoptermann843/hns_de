@@ -203,12 +203,11 @@ Gate_NationalPark_Movement_Player_EnterParkBotB:
 	step_end
 
 Route35NationalParkGate_Text_OfficerAskToParticipate:
-	.string "Heute findet das Käferturnier\n"
-	.string "statt.\p"
-	.string "Die Regeln sind einfach.\p"
-	.string "Fange ein Käfer-Pokémon\n"
-	.string "mit einem deiner eigenen\l"
-	.string "Pokémon.\p"
+	.string "Heute ist Dienstag. Das heißt,\n"
+	.string "heute findet das Käferturnier statt!\p"
+	.string "Die Regeln sind einfach!\p"
+	.string "Fange ein Käfer-Pokémon mit einem\n"
+	.string "deiner eigenen Pokémon.\p"
 	.string "Das Käfer-Pokémon wird dann\n"
 	.string "von der Jury bewertet.\p"
 	.string "Möchtest du es versuchen?$"
@@ -233,10 +232,11 @@ Route35NationalParkGate_Text_OfficerExplainRules:
 	.string "kannst!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "Oh, oh…\p"
-	.string "Du hast mehr als ein Pokémon.\p"
-	.string "Du musst dein erstes Pokémon wählen\n"
-	.string "Bist du damit einverstanden?$"
+	.string "Oh, oh…\n"
+	.string "Du hast mehr als ein Pokémon dabei.\p"
+	.string "In dem Fall nimmt dein erstes Team-\n"
+	.string "Pokémon, {STR_VAR_1}, am Turnier\l"
+	.string "teil. Bist du damit einverstanden?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
 	.string "Gut. Wir passen\n"
@@ -254,9 +254,8 @@ Route35NationalParkGate_Text_ChooseMonAndComeBack:
 	.string "aus und komm dann wieder.$"
 
 Route35NationalParkGate_Text_TakePartInFuture:
-	.string "Na gut. Wir hoffen,\n"
-	.string "dass du später einmal am\l"
-	.string "Turnier teilnimmst.$"
+	.string "Na gut. Wir hoffen, dass du\n"
+	.string "später einmal am Turnier teilnimmst.$"
 
 Route35NationalParkGate_Text_FirstMonCantBattle:
 	.string "Oh, oh… Das erste Pokémon\n"
@@ -283,9 +282,8 @@ Route35NationalParkGate_Text_EggAsFirstMon:
 	.string "und komm dann wieder.$"
 
 Route35NationalParkGate_Text_ContestIsOver:
-	.string "Das heutige Turnier ist beendet.\p"
-	.string "Wir hoffen, dass du später\n"
-	.string "wieder teilnehmen wirst.$"
+	.string "Das heutige Turnier ist beendet.\n"
+	.string "Wir freuen uns, wenn du wiederkommst!$"
 
 Route35NationalParkGate_EventScript_Policeman::
 	lock
@@ -347,8 +345,9 @@ Route35NationalParkGate_Text_YoungsterWonders:
 	.string "meine Fürze an, Heheh.$"
 
 Route35NationalParkGate_Text_ContestExplanation:
-	.string "Das Käferturnier wird am Dienstag,\n"
-	.string "Mittwoch und Samstag stattfinden.\p"
-	.string "Man bekommt Preise\n"
-	.string "für die Teilnahme,\l"
-	.string "und darf das Käfer-Pokémon behalten!$"
+	.string "Das Käferturnier wird jeden Dienstag,\n"
+	.string "Donnerstag und Samstag abgehalten.\p"
+	.string "Du erhältst nicht nur einen Preis für\n"
+	.string "die Teilnahme, sondern darfst auch das\l"
+	.string "Käfer-Pokémon, das du dort fängst,\l"
+	.string "behalten.$"

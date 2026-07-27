@@ -476,11 +476,11 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 	end
 
 Route119_Text_MayIntro:
-	.string "MAIKE: {PLAYER}{KUN}! Wo warst du?\n"
+	.string "Maike: {PLAYER}{KUN}! Wo warst du?\n"
 	.string "Ich habe dich schon gesucht!\p"
 	.string "Wie stark bist du geworden?\n"
 	.string "Lass mich das für dich herausfinden!\p"
-	.string "Bereit? Du und deine POKéMON?\n"
+	.string "Bereit? Du und deine Pokémon?\n"
 	.string "Natürlich seid ihr das! Los!$"
 
 Route119_Text_MayDefeat:
@@ -512,8 +512,8 @@ Route119_Text_MayExplainFly:
 	.string "wieder!$"
 
 Route119_Text_BrendanIntro:
-	.string "BRIX: {PLAYER}! Hier schaust du dich\n"
-	.string "also nach POKéMON um?\p"
+	.string "Brix: {PLAYER}! Hier schaust du dich\n"
+	.string "also nach Pokémon um?\p"
 	.string "Zeig mir, wie gut du geworden bist.\n"
 	.string "Ich werde dich jetzt testen!\p"
 	.string "Nun!\n"

@@ -194,7 +194,8 @@ AzaleaTown_KurtsHouse_EventScript_KurtGsBall3::
 	release
 	end
 KurtsHouse_Text_BallAnyway:
-	.string "Anyway, can I make you some BALLS?$"
+	.string "Wie auch immer, soll ich dir ein\n"
+	.string "paar BÄLLE machen?$"
 
 AzaleaTown_KurtsHouse_EventScript_OakPhoto::
 	msgbox KurtsHouse_Text_OakPhoto, MSGBOX_SIGN
@@ -247,25 +248,27 @@ KurtsHouse_Text_KurtGetStarted:
 	.string "Kurt: Ich fange jetzt an!$"
 
 KurtsHouse_Text_KurtMakingBallsMustWait:
-	.string "Hm? Wer bist du?\p"
-	.string "{PLAYER}, eh? Du willst das ich\n"
-	.string "ein paar Pokebälle anfertige?\p"
+	.string "Hm? Wer bist du denn?\p"
+	.string "Oh, {PLAYER} heißt du also!\n"
+	.string "Bist du hier, weil du willst, dass ich\l"
+	.string "ein paar Bälle für dich herstelle?\p"
 	.string "Tut mir leid, aber das muss warten.\p"
-	.string "Kennst du TEAM ROCKET?\n"
-	.string "Ah, keine Sorge.\p"
-	.string "Ich erkläre es dir.\p"
-	.string "TEAM ROCKET ist eine üble Bande,\n"
-	.string "sie benutzen POKéMON für ihre bösen\l"
-	.string "Machenschaften.\p"
-	.string "Eigentlich sollen sie sich vor\n"
-	.string "3 Jahren aufgelöst haben.\p"
-	.string "Naja, sie sind beim Brunnen,\n"
-	.string "und schneiden Flegmon die Schwänze\l"
-	.string "ab, um sie zu verkaufen!\p"
-	.string "Also werde ich hingehen und sie\n"
-	.string "in sachen Schmerz unterrichten!\p"
-	.string "Haltet durch, Flegmon!\n"
-	.string "Hier kommt der alte Kurt!$"
+	.string "Kennst du Team Rocket? Keine Sorge,\n"
+	.string "du schläfst besser, wenn nicht.\l"
+	.string "Ich werde mich kurz fassen.\p"
+	.string "Team Rocket missbraucht unschuldige\n"
+	.string "Pokémon für ihre Schandtaten.\l"
+	.string "Diese Typen sind einfach das Letzte.\p"
+	.string "Sie hatten sich eigentlich vor drei\n"
+	.string "Jahren aufgelöst, aber nun…\p"
+	.string "Na ja, genau diese Bande schneidet\n"
+	.string "jetzt den FLEGMON im Brunnen die\l"
+	.string "Ruten ab und verdient sich damit\l"
+	.string "eine goldene Nase.\p"
+	.string "Aber ich gehe jetzt zu ihnen und\n"
+	.string "erteile ihnen eine Lektion!\p"
+	.string "Haltet durch, FLEGMON!\n"
+	.string "Der alte Kurt eilt euch zur Rettung!$"
 
 KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "Kurt: Hi, {PLAYER}!\p"
@@ -279,14 +282,17 @@ KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "aber nimm es.$"
 
 KurtsHouse_Text_KurtBallsFromApricorns:
-	.string "Kurt: Ich mache aus Beeren Bälle.\p"
-	.string "Sammle sie aus Bäumen und bring\n"
-	.string "sie mir, immer 5 Stück.\p"
-	.string "Dann mache ich daraus Bälle.$"
+	.string "Kurt: Ich kann aus Aprikokos\n"
+	.string "Spezialbälle anfertigen!\p"
+	.string "Pflücke überall fleißig Aprikokos von\n"
+	.string "den Bäumen und bringe sie zu mir.\l"
+	.string "Ich verarbeite sie dann zu Bällen.$"
 
 KurtsHouse_Text_KurtAskYouHaveAnApricorn:
-	.string "Kurt: Hast du 5 Beeren für mich?\p"
-	.string "Gut! Ich mache daraus Bälle.$"
+	.string "Kurt: Oh, wie ich sehe, hast du ein\n"
+	.string "paar Aprikokos mitgebracht!\p"
+	.string "Na schön! Dann mache ich mich\n"
+	.string "mal ans Verarbeiten!$"
 
 KurtsHouse_Text_KurtThatsALetdown:
 	.string "Kurt: Ich sehe keine 5 {STR_VAR_1}!$"
@@ -304,8 +310,10 @@ KurtsHouse_Text_KurtFinishedSingular:
 	.string "den {STR_VAR_1}!$"
 
 KurtsHouse_Text_KurtTurnedOutGreat:
-	.string "Kurt: Er ist großartig geworden.\p"
-	.string "Versuche damit Pokémon zu fangen.$"
+	.string "Kurt: Dieses Mal habe ich mich\n"
+	.string "wirklich selbst übertroffen!\p"
+	.string "Versuche doch mal, ein Pokémon\n"
+	.string "damit zu fangen!$"
 
 KurtsHouse_Text_KurtWhatIsThat:
 	.string "W-was ist das?\p"
@@ -331,23 +339,25 @@ KurtsHouse_Text_Kurt_Whatwasthat:
 	.string "Lass uns draußen nachsehen!$"
 
 KurtsHouse_Text_GranddaughterSlowpokeGone:
-	.string "Die Flegmon sind fort… \n"
-	.string "Wurden sie von bösen Menschen\l"
-	.string "entführt?$"
+	.string "Die FLEGMON sind verschwunden…\n"
+	.string "Ob sie wohl von irgendwelchen bösen\l"
+	.string "Leuten entführt wurden?$"
 
 KurtsHouse_Text_GranddaughterLonely:
-	.string "Opa ist fort, ich bin so allein…$"
+	.string "Wo steckt bloß mein Großvater?\n"
+	.string "Ich fühle mich so alleine…$"
 
 KurtsHouse_Text_GranddaughterSlowpokeBack:
-	.string "Das Flegmon meines Vaters ist\n"
-	.string "zurückgekehrt!\p"
-	.string "Sein Schwanz wächst auch langsam nach!$"
+	.string "Das FLEGMON, das ich von meinem Vater\n"
+	.string "bekommen habe, ist wieder da!\l"
+	.string "Seine Rute wächst schon wieder nach.$"
 
 KurtsHouse_Text_GranddaughterDad:
-	.string "Papa arbeitet für\n"
-	.string "SILPH CO., wo er Pokebälle analysiert.\p"
-	.string "Ich muss mit Großvater\n"
-	.string "und FLEGMON zu Hause bleiben.$"
+	.string "Mein Vater arbeitet bei der Silph Co.\n"
+	.string "Er ist dort an der Entwicklung neuer\l"
+	.string "Pokébälle beteiligt!\p"
+	.string "Ich hüte hier mit meinem Großvater\n"
+	.string "und FLEGMON das Haus.$"
 
 KurtsHouse_Text_GranddaughterHelp:
 	.string "Ich muss jetzt Opa helfen!\p"
@@ -366,11 +376,10 @@ KurtsHouse_Text_Forest:
 	.string "Es hört sich gruselig an.$"
 
 KurtsHouse_Text_Slowpoke:
-	.string "Flegmon: … Gähn?$"
+	.string "FLEGMON: …Flegmon?$"
 
 KurtsHouse_Text_OakPhoto:
 	.string "…Ein junger Prof. Eich?$"
 
 KurtsHouse_Text_CelebiStatue:
-	.string "Es ist eine Statue vom\n"
-	.string "Beschützer des Waldes.$"
+	.string "Eine Statue des Waldpatrons.$"

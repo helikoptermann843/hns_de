@@ -11,8 +11,7 @@ SaffronMart_Text_CooltrainerM:
 	.string "In LAVANDIA ist ein großer RADIOTURM.$"
 
 SaffronMart_Text_CooltrainerF:
-	.string "Ich möchte noch\n"
-	.string "stärker werden, aber das bin ich noch\l"
-	.string "nicht…\p"
-	.string "Kannst du mir zeigen,\n"
-	.string "wie man stärker wird?$"
+	.string "Ich will stärker werden, aber\n"
+	.string "es klappt nicht so richtig…\p"
+	.string "Könntest du mir nicht ein paar\n"
+	.string "Tricks und Kniffe zeigen?$"

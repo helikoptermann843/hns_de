@@ -309,34 +309,36 @@ VermilionCity_Movement_EusineLeave:
 	step_end
 
 VermilionCity_Text_Eusine:
-	.string "EUSINE: Das war knapp!\n"
-	.string "Ich dachte, ich könnte es\l"
-	.string "hier in die Ecke treiben.\p"
-	.string "Doch auf dem Wasser kann\n"
-	.string "ich es nicht verfolgen.\p"
-	.string "Trotzdem erkenne ich ein\n"
-	.string "Muster.\p"
-	.string "SUICUNE bevorzugt Wasser!\p"
-	.string "Das bedeutet...$"
+	.string "Eusin: Um ein Haar hätte es geklappt!\p"
+	.string "Ich dachte, ich könnte SUICUNE\n"
+	.string "überraschen, wenn ich ihm hier\l"
+	.string "auflauern würde…\p"
+	.string "Aber wie soll man schon ein Pokémon\n"
+	.string "fangen, das übers Wasser laufen kann?\l"
+	.string "Ich habe SUICUNE jetzt allerdings lange\l"
+	.string "genug verfolgt, um allmählich die Regeln\l"
+	.string "zu erkennen, nach denen es handelt.\p"
+	.string "SUICUNE erscheint vor allem an Orten,\n"
+	.string "wo es Wasser gibt!\l"
+	.string "Das würde demnach bedeuten, dass…$"
 
 VermilionCity_Text_Eusine2:
-	.string "Sorry {PLAYER}, ich muss los!$"
+	.string "Tut mir leid, {PLAYER}!\n"
+	.string "Ich muss sofort weiter!$"
 
 VermilionCity_Text_Teacher:
-	.string "Der HAFEN von ORANIA-\n"
-	.string "CITY ist das Tor KANTOs zum\l"
-	.string "Meer.\p"
-	.string "Hier legen Luxus-\n"
-	.string "dampfer aus aller Welt an.$"
+	.string "Der Hafen von Orania City\n"
+	.string "ist Kantos Tor zum Meer.\p"
+	.string "Hier legen Luxusdampfer\n"
+	.string "aus aller Welt an!$"
 
 VermilionCity_Text_MachopOwner:
-	.string "Mein Pokémon\n"
-	.string "ebnet das Land für ein Bauwerk.\p"
-	.string "Aber ich habe\n"
-	.string "nicht genug Geld für das Projekt…$"
+	.string "Ich lasse mein Pokémon Land für ein\n"
+	.string "Bauwerk ebnen, aber ich habe nicht\l"
+	.string "genügend Geld für das gesamte Projekt.$"
 
 VermilionCity_Text_Machop1:
-	.string "MACHOLLO: Guooh gogogoh!$"
+	.string "MACHOLLO: Ma, machollo!$"
 
 VermilionCity_Text_Machop2:
 	.string "Ein MACHOLLO\n"
@@ -344,9 +346,10 @@ VermilionCity_Text_Machop2:
 	.string "stampft.$"
 
 VermilionCity_Text_SuperNerd:
-	.string "Es gibt acht ARENEN in KANTO.\p"
-	.string "Das große Gebäude\n"
-	.string "ist die PKMN-ARENA von ORANIA CITY.$"
+	.string "Es gibt acht Arenen in Kanto.\n"
+	.string "Siehst du das große Gebäude da drüben?\p"
+	.string "Das ist die Pokémon-Arena von Orania\n"
+	.string "Citys Arenaleiter Major Bob.$"
 
 VermilionCity_Text_SnorlaxSleeping:
 	.string "RELAXO schläft friedlich…$"
@@ -359,30 +362,28 @@ VermilionCity_Text_RadioNearSnorlax:
 	.string "RELAXO ist aufgewacht!$"
 
 VermilionCity_Text_BadgeGuy_Trainer:
-	.string "In KANTO treffen\n"
-	.string "sich talentierte Trainer.\p"
-	.string "ARENALEITER sind besonders stark.\p"
-	.string "Es ist nicht leicht, sie zu besiegen.$"
+	.string "In Kanto gibt es einen ganzen Haufen\n"
+	.string "sehr starker und talentierter Trainer.\p"
+	.string "Die Arenaleiter sind besonders harte\n"
+	.string "Brocken! Das wird nicht leicht für dich!$"
 
 VermilionCity_Text_BadgeGuy_SomeBadges:
-	.string "Du sammelst ORDEN der ARENEN in KANTO?\p"
-	.string "Findest du nicht\n"
-	.string "auch, dass die Trainer hier stark\l"
-	.string "sind?$"
+	.string "Oh, wie ich sehe, sammelst du jetzt auch\n"
+	.string "die Orden der Arenaleiter von Kanto!\p"
+	.string "Hier wimmelt es geradezu von starken\n"
+	.string "Trainern, habe ich nicht recht?$"
 
 VermilionCity_Text_BadgeGuy_MostBadges:
-	.string "Ich schätze, du\n"
-	.string "hast diesen Wettkampf der ARENEN in\l"
-	.string "KANTO bald beendet.\p"
-	.string "Lass mich wissen,\n"
-	.string "wenn du alle acht ORDEN hast.$"
+	.string "Endspurt! Bald hast du auch alle der\n"
+	.string "acht Arenen von Kanto gemeistert!\p"
+	.string "Lass mich wissen, wenn du alle acht\n"
+	.string "Orden hast!$"
 
 VermilionCity_Text_BadgeGuy_AllBadges:
-	.string "Gratuliere!\p"
-	.string "Du hast alle ORDEN\n"
-	.string "der ARENEN in KANTO.\p"
-	.string "Ich habe hier eine\n"
-	.string "Belohnung für deine Anstrengungen.$"
+	.string "Gratuliere! Du hast dir alle Orden der\n"
+	.string "Pokémon-Arenen in Kanto erkämpft!\p"
+	.string "Für deine Anstrengungen bekommst\n"
+	.string "du jetzt eine Belohnung von mir!$"
 
 VermilionCity_Text_BadgeGuy_BattleEdge:
 	.string "Es ist vorteilhaft, wenn du\n"
@@ -406,25 +407,23 @@ VermilionCity_EventScript_DiglettsCaveSign::
 	end
 
 VermilionCity_Text_Sign:
-	.string "ORANIA CITY\p"
-	.string "Der Hafen Der\n"
-	.string "Stimmungsvollen Sonnenuntergänge$"
+	.string "Orania City\n"
+	.string "Die abendrote Hafenstadt$"
 
 VermilionCity_Text_GymSign:
-	.string "ORANIA CITY\n"
-	.string "POKéMON ARENA\p"
-	.string "LEITER: Major Bob\p"
-	.string "Der Elektro-Veteran$"
+	.string "Pokémon-Arena von Orania City\n"
+	.string "Leiter: Major Bob\l"
+	.string "Ein Blitz am Himmel des Militärs$"
 
 VermilionCity_Text_FanClubSign:
-	.string "POKéMON FAN CLUB\p"
-	.string "Fans von POKéMON Willkommen!$"
+	.string "Pokémon Fan Club\n"
+	.string "Alle Pokémon-Fans sind willkommen!$"
 
 VermilionCity_Text_DiglettsCaveSign:
-	.string "DIGDAs HÖHLE$"
+	.string "DIGDAs Höhle$"
 
 VermilionCity_Text_PortSign:
-	.string "EINGANG zum HAFEN von ORANIA CITY$"
+	.string "Eingang zum Hafen von Orania City$"
 
 VermilionCity_EventScript_TriggerStevenLeft::
 	lock
@@ -507,17 +506,17 @@ VermilionCity_Movement_StevenWalkToPlayer:
 
 VermilionCity_Text_StevenIntro:
 	.string "Hallo!\n"
-	.string "Mein Name ist TROY.\p"
-	.string "Der Champion aus der HOENN-Region.\p"
+	.string "Mein Name ist Troy.\p"
+	.string "Der Champion aus der Hoenn-region.\p"
 	.string "Haben wir uns schon… getroffen?\p"
 	.string "Das ist nicht möglich.\p"
-	.string "Alle TRAINER, gegen die ich\n"
+	.string "Alle Trainer, gegen die ich\n"
 	.string "gekämpft habe, haben irgendwie\l"
 	.string "denselben Blick.\p"
 	.string "Besonders die, die mir harte\n"
 	.string "Kämpfe geliefert haben.\p"
-	.string "Ich bin geschäftlich in KANTO.\n"
-	.string "Viele HOENN POKÉMON sind kürzlich\l"
+	.string "Ich bin geschäftlich in Kanto.\n"
+	.string "Viele Hoenn PokÉMon sind kürzlich\l"
 	.string "in diese Region eingewandert.\l"
 	.string "Das gefährdet das natürliche\l"
 	.string "Ökosystem hier.\p"
@@ -526,8 +525,8 @@ VermilionCity_Text_StevenIntro:
 	.string "Lebensraum für die invasivsten\l"
 	.string "Arten.\p"
 	.string "Halt die Augen offen und fange\n"
-	.string "alle HOENN-POKÉMON, die du siehst.\p"
-	.string "Manche TRAINER haben sogar eines\n"
+	.string "alle Hoenn-pokÉMon, die du siehst.\p"
+	.string "Manche Trainer haben sogar eines\n"
 	.string "gesichtet, das wie ein Jet durch\l"
 	.string "den Himmel fliegt…\l"
 	.string "Welche Farbe hatte es nochmal?$"

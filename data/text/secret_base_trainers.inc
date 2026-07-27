@@ -1,5 +1,5 @@
 SecretBase_Text_Trainer0Intro:
-	.string "Hast du dir schon eine GEHEIMBASIS\n"
+	.string "Hast du dir schon eine Geheimbasis\n"
 	.string "eingerichtet?\p"
 	.string "Ich bin hier und dort, überall hin-\n"
 	.string "gelaufen, bevor ich mich für diesen\l"
@@ -20,7 +20,7 @@ SecretBase_Text_Trainer0Defeated::
 	.string "habe verloren, aber verrate das nicht!$"
 
 SecretBase_Text_Trainer0PostBattle:
-	.string "Was hältst du von meiner GEHEIMBASIS?\n"
+	.string "Was hältst du von meiner Geheimbasis?\n"
 	.string "Komm mich doch morgen wieder besuchen!$"
 
 SecretBase_Text_Trainer0PreChampion:
@@ -33,7 +33,7 @@ SecretBase_Text_Trainer0PreChampion:
 
 SecretBase_Text_Trainer5Intro:
 	.string "Es gibt eine Menge Orte, an denen man\n"
-	.string "eine GEHEIMBASIS einrichten kann.\p"
+	.string "eine Geheimbasis einrichten kann.\p"
 	.string "Aber dieser hier gefällt mir am besten.\n"
 	.string "Findest du es nicht auch nett hier?\p"
 	.string "Oh, hast du Lust auf einen Kampf?$"
@@ -91,7 +91,7 @@ SecretBase_Text_Trainer1PreChampion:
 	.string "frei wurde. Endlich ist es soweit!$"
 
 SecretBase_Text_Trainer6Intro:
-	.string "Willkommen in meinem POKéMON-LABOR.\p"
+	.string "Willkommen in meinem Pokémon-Labor.\p"
 	.string "Ich forsche, indem ich im Geheimen\n"
 	.string "kämpfe.\p"
 	.string "Möchtest du sehen, wie stark ich bin?$"
@@ -136,7 +136,7 @@ SecretBase_Text_Trainer2PostBattle:
 	.string "Egal. Ich sollte mir auf jeden Fall\n"
 	.string "einige Dekorationen und Möbel zulegen.\p"
 	.string "Ich möchte, dass sich auch andere in\n"
-	.string "meiner GEHEIMBASIS wohl fühlen.$"
+	.string "meiner Geheimbasis wohl fühlen.$"
 
 SecretBase_Text_Trainer2PreChampion:
 	.string "Ein großes Anwesen ist natürlich auch\n"
@@ -146,10 +146,10 @@ SecretBase_Text_Trainer2PreChampion:
 SecretBase_Text_Trainer7Intro:
 	.string "Ich liebe es, Dekorationen und Möbel\n"
 	.string "zu kaufen!!!\p"
-	.string "Ich liebe es genauso, POKéMON aufzu-\n"
+	.string "Ich liebe es genauso, Pokémon aufzu-\n"
 	.string "ziehen!\p"
 	.string "Wärest du so nett, mit meinen\n"
-	.string "POKéMON zu kämpfen?$"
+	.string "Pokémon zu kämpfen?$"
 
 SecretBase_Text_Trainer7AcceptBattle:
 	.string "Danke schön.\n"
@@ -173,7 +173,7 @@ SecretBase_Text_Trainer7PreChampion:
 	.string "ziehen!$"
 
 SecretBase_Text_Trainer3Intro:
-	.string "Einige Leute richten ihre GEHEIMBASIS\n"
+	.string "Einige Leute richten ihre Geheimbasis\n"
 	.string "an gut versteckten Orten ein. Wollen\l"
 	.string "sie sich nicht mehr sehen lassen?\p"
 	.string "Da du mich gefunden hast, lass uns\n"
@@ -190,7 +190,7 @@ SecretBase_Text_Trainer3Defeated::
 	.string "Ich bin untergegangen…$"
 
 SecretBase_Text_Trainer3PostBattle:
-	.string "Wo ist deine GEHEIMBASIS?\n"
+	.string "Wo ist deine Geheimbasis?\n"
 	.string "Ich sollte dich dort mal besuchen.$"
 
 SecretBase_Text_Trainer3PreChampion:
@@ -233,7 +233,7 @@ SecretBase_Text_Trainer4Intro:
 	.string "Ich habe einen Ort gefunden, der mir\n"
 	.string "gefällt und den ich mit meinen Lieb-\l"
 	.string "lingsdekorationen ausgestattet habe.\p"
-	.string "Dort ziehe ich meine Lieblings-POKéMON\n"
+	.string "Dort ziehe ich meine Lieblings-Pokémon\n"
 	.string "auf und werde mit ihnen stärker.\p"
 	.string "Genau das mache ich.\n"
 	.string "Möchtest du mit mir kämpfen?$"

@@ -37,7 +37,7 @@ MtMortar_2F_EventScript_Nerd::
 	end
 
 MtMortar_2F_Text_SupernerdHughSeen::
-	.string "Yo! MARKUS!$"
+	.string "Yo! Urban!$"
 
 MtMortar_2F_Text_SupernerdHughBeaten:
 	.string "Sorry, mein Fehler.\n"

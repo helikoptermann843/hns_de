@@ -54,7 +54,7 @@ Route110_TrickHousePuzzle6_Text_SophiaIntro:
 	.string "musste ich mir das sofort ansehen.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "Ich habe einen starken TRAINER\n"
+	.string "Ich habe einen starken Trainer\n"
 	.string "entdeckt!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
@@ -64,7 +64,7 @@ Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
 	.string "wiederholen möchte!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Vielleicht kann mein VOGEL-POKéMON\n"
+	.string "Vielleicht kann mein Vogel-pokémon\n"
 	.string "über die Mauer fliegen…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:

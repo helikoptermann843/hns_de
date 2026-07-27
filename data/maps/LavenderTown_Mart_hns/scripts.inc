@@ -10,17 +10,15 @@ LavenderTown_Mart_EventScript_Rocker::
 	end
 
 LavenderMart_Text_PokefanM:
-	.string "Es ist unabdingbar, SCHUTZ bei\n"
-	.string "sich zu haben,\l"
-	.string "wenn man Höhlen erkundet.\p"
-	.string "Obwohl ich Höhlen sehr gerne\n"
-	.string "erforsche, habe ich noch\l"
-	.string "nicht alle erforscht.$"
+	.string ""Schutz" ist auf jeder Erkundungstour\n"
+	.string "ein unabdingbares Item!\p"
+	.string "Ich liebe es zwar, fremde Orte zu\n"
+	.string "erkunden, aber es gibt immer noch\l"
+	.string "ein paar Höhlen, in die ich noch nie\l"
+	.string "auch nur einen Fuß gesetzt habe.$"
 
 LavenderMart_Text_Rocker:
-	.string "Ich habe von einem Kunstschmied\p"
-	.string "gehört, der maßgefertigte\n"
-	.string "Pokébälle in AZALEA\l"
-	.string "in JOHTO herstellt.\p"
-	.string "Ich wünschte, ich hätte auch\n"
-	.string "welche.$"
+	.string "Ich habe von einem Kunstschmied\n"
+	.string "in Johto gehört, der maßgefertigte\l"
+	.string "Pokébälle herstellen soll.\p"
+	.string "Ich wünschte, ich hätte auch welche!$"

@@ -50,9 +50,9 @@ GoldenrodCity_BikeShop_Text_Clerk2:
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
 	.string "…Seufz… Ich bin hierher gezogen,\n"
-	.string "aber ich kann meine FAHRRÄDER nicht\l"
+	.string "aber ich kann meine Fahrräder nicht\l"
 	.string "verkaufen. Warum nur?\p"
-	.string "Würdest du ein FAHRRAD fahren\n"
+	.string "Würdest du ein Fahrrad fahren\n"
 	.string "und so Werbung machen?$"
 
 GoldenrodCity_BikeShop_Text_ClerkAgreed:

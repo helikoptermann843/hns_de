@@ -36,17 +36,16 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "Tat vollbracht haben.$"
 
 CeruleanCity_Text_CooltrainerM1:
-	.string "KANTOs Kraftwerk?\p"
-	.string "Es liegt am Ende von ROUTE 9, der\n"
-	.string "Straße, die hier nach Osten führt.\p"
-	.string "Ich glaube, dort gab es mal einen\n"
-	.string "Unfall oder so etwas.$"
+	.string "Das Kanto-Kraftwerk? Es befindet sich\n"
+	.string "am Ende von Route 9, der Straße\l"
+	.string "östlich von hier. Angeblich haben die\l"
+	.string "da mit irgendeinem Defekt zu kämpfen…$"
 
 CeruleanCity_Text_CooltrainerM2:
-	.string "Du sammelst wirklich jede Art von\n"
-	.string "Pokémon?\p"
-	.string "Das muss eine große Herausforderung\n"
-	.string "sein, klingt aber auch nach Spaß.$"
+	.string "Na sieh mal einer an! Willst du etwa\n"
+	.string "alle existierenden Pokémon sammeln?\p"
+	.string "Das ist ja richtige Schwerstarbeit!\n"
+	.string "Aber es zahlt sich sicher auch aus!$"
 
 CeruleanCity_Text_SuperNerd:
 	.string "Das KAP im Norden ist ein guter\n"
@@ -64,7 +63,7 @@ CeruleanCity_EventScript_Slowbro::
 	end
 
 CeruleanCity_Text_Slowbro:
-	.string "Lahmus: Raahw?$"
+	.string "LAHMUS: Laaahm?$"
 
 CeruleanCity_EventScript_SlowbroWoman::
 	msgbox CeruleanCity_Text_CooltrainerF1, MSGBOX_NPC
@@ -102,12 +101,12 @@ CeruleanCity_EventScript_FisherDuringRocket::
 	end
 
 CeruleanCity_Text_Fisher:
-	.string "Ich bin großer Fan von Misty,\n"
-	.string "Arenaleiterin von Azuria City$"
+	.string "Ich bin ein riesiger Fan von Misty,\n"
+	.string "der Arenaleiterin von Azuria City!$"
 
 CeruleanCity_Text_Fisher_RocketTip:
-	.string "Ich habe diesen seltsamen Typen\n"
-	.string "in Richtung des Kap gehen sehen.$"
+	.string "Der verdächtige Typ mit den schwarzen\n"
+	.string "Klamotten ist in Richtung Kap geflohen!$"
 
 CeruleanCity_EventScript_Youngster::
 	msgbox CeruleanCity_Text_Youngster1, MSGBOX_NPC
@@ -148,10 +147,9 @@ CeruleanCity_Text_Sign:
 	.string "Blauen Aura$"
 
 CeruleanCity_Text_GymSign:
-	.string "Azuria City\n"
-	.string "Pokémon Arena\l"
-	.string "Leiter: Misty\p"
-	.string "Die Jungenhafte Meerjungfrau$"
+	.string "Pokémon-Arena von Azuria City\n"
+	.string "Leiterin: Misty\l"
+	.string "Die jungenhafte Meerjungfrau$"
 
 CeruleanCity_Text_BikeShopSign:
 	.string "Hier ist eine Nachricht…\p"
@@ -159,15 +157,16 @@ CeruleanCity_Text_BikeShopSign:
 	.string "in Dukatia City in JOHTO…$"
 
 CeruleanCity_Text_PoliceSign:
-	.string "Hier ist eine Nachricht…\p"
-	.string "Stoppt die Kriminalität und\n"
-	.string "macht aus dieser Stadt einen Ort,\l"
-	.string "an dem man sicher ist und gerne lebt!\p"
-	.string "ORDNUNGSAMT von Azuria City$"
+	.string "Da ist ein Flugblatt…\p"
+	.string "Jeder Diebstahl wird geahndet!\n"
+	.string "Um eine sichere und friedliche Stadt\l"
+	.string "zu gewährleisten, müssen wir alle\l"
+	.string "zusammenarbeiten!\l"
+	.string "Das Ordnungsamt von Azuria City$"
 
 CeruleanCity_Text_CapeSign:
-	.string "KAP bei AZURIA CITY\n"
-	.string "voraus$"
+	.string "Zur Route 24\n"
+	.string "Östlich zum Kap (Azuria City)$"
 
 CeruleanCity_Text_LockedDoor:
 	.string "Abgeschlossen…$"

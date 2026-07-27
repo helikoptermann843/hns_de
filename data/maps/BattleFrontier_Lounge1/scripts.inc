@@ -151,17 +151,17 @@ BattleFrontier_Lounge1_EventScript_Boy2::
 	end
 
 BattleFrontier_Lounge1_Text_PokemonBreederIntro:
-	.string "Seit 70 Jahren ziehe ich POKéMON auf!\n"
+	.string "Seit 70 Jahren ziehe ich Pokémon auf!\n"
 	.string "Ich bin derjenige, den alle nur den\l"
-	.string "legendären PKMN-ZÜCHTER nennen!\p"
+	.string "legendären Pkmn-züchter nennen!\p"
 	.string "Ein Mensch mit meiner Erfahrung\n"
-	.string "erkennt die Fähigkeiten eines POKéMON\l"
+	.string "erkennt die Fähigkeiten eines Pokémon\l"
 	.string "mit einem Blick.\p"
-	.string "Du bist ein TRAINER. Interessiert es\n"
+	.string "Du bist ein Trainer. Interessiert es\n"
 	.string "dich nicht, welche Fähigkeiten deine\l"
-	.string "POKéMON besitzen?\p"
+	.string "Pokémon besitzen?\p"
 	.string "Komm! Lass mich einen Blick auf deine\n"
-	.string "POKéMON werfen!$"
+	.string "Pokémon werfen!$"
 
 BattleFrontier_Lounge1_Text_AverageAbility:
 	.string "Hmm… …\p"

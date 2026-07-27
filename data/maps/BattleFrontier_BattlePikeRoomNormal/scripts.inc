@@ -679,8 +679,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.string "Ich wünsche dir alles Gute!\n"
+	.string "Leb wohl…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
 	.string "Oh je!\p"

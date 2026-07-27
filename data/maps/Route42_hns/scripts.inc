@@ -228,15 +228,16 @@ Route42_EventScript_Item_UltraBall::
 	end
 
 Route42_Text_FisherTullySeen:
-	.string "Jetzt demonstriere ich dir\n"
-	.string "die Kraft des Pokémon, das ich\l"
-	.string "gefangen habe!$"
+	.string "Jetzt demonstriere ich dir die Kraft\n"
+	.string "des Pokémon, das ich gefangen habe!$"
 
 Route42_Text_FisherTullyBeaten:
 	.string "Was? Das kann nicht sein.$"
 
 Route42_Text_FisherTullyAfter:
-	.string "Ich bin Angler fürs Leben.$"
+	.string "Mit dem Pokémon, das ich geangelt habe,\n"
+	.string "werde ich der beste Trainer von allen!\l"
+	.string "Das ist das A und O eines jeden Anglers!$"
 
 Route42_Text_HikerBenjaminSeen:
 	.string "Ach, ist das schön,\n"
@@ -250,14 +251,13 @@ Route42_Text_HikerBenjaminAfter:
 	.string "Humbug!$"
 
 Route42_Text_PokemaniacShaneSeen:
-	.string "HEH!\p"
+	.string "He!\p"
 	.string "Das ist mein Geheimversteck!\n"
-	.string "Verschwinde von hier,\l"
-	.string "du Außenseiter!$"
+	.string "Verschwinde, du Außenseiter!$"
 
 Route42_Text_PokemaniacShaneBeaten:
 	.string "Ich hätte meinen\n"
-	.string "MONDSTEIN benutzen sollen…$"
+	.string "Mondstein verwenden sollen…$"
 
 Route42_Text_PokemaniacShaneAfter:
 

@@ -76,12 +76,12 @@ AzaleaTown_House1_EventScript_Farfetchd::
 
 
 CharcoalKiln_Text_Boss1:
-	.string "Alle Flegmon sind aus der Stadt\n"
-	.string "verschwunden.\p"
-	.string "Der Beschützer des Waldes muss\n"
-	.string "wütend auf uns sein…\p"
-	.string "Das könnte ein schlechtes Omen sein.\n"
-	.string "Wir sollten drinnen bleiben.$"
+	.string "In der Stadt gibt es kein einziges\n"
+	.string "FLEGMON mehr.\p"
+	.string "Vielleicht haben wir ja den Zorn des\n"
+	.string "Schutzpatrons auf uns gezogen?\p"
+	.string "Das könnte ein böses Vorzeichen sein.\n"
+	.string "Wir sollten auf alles gefasst sein…$"
 
 CharcoalKiln_Text_Boss2:
 	.string "Die Flegmon sind zurück…$"
@@ -93,14 +93,16 @@ CharcoalKiln_Text_Boss3:
 	.string "Wo steckt dieser faule Kerl nur?$"
 
 CharcoalKiln_Text_Boss4:
-	.string "Du hast TEAM ROCKET verjagt und\n"
-	.string "bist alleine in den Steineichenwald?\p"
-	.string "Das erfordert Mut! Das gefällt mir.\p"
-	.string "Komm und trainier mit uns.$"
+	.string "Du hast Team Rocket vertrieben und bist\n"
+	.string "alleine in den Steineichenwald gegangen.\l"
+	.string "Du hast Mumm! Das gefällt mir!\p"
+	.string "Was sagst du, würdest du nicht gerne\n"
+	.string "bei mir in die Lehre gehen?$"
 
 CharcoalKiln_Text_Apprentice1:
-	.string "Wo sind all die Flegmon hin?\p"
-	.string "Spielen sie irgendwo?$"
+	.string "Wo sind nur all die FLEGMON hin?\n"
+	.string "Machen sie sich vielleicht irgendwo\l"
+	.string "einen schönen Lenz?$"
 
 CharcoalKiln_Text_Apprentice2:
 	.string "Die Flegmon sind wieder da!$"
@@ -112,9 +114,9 @@ CharcoalKiln_Text_Apprentice3:
 	.string "Feuer-Attacken. gib es einem POKéMON.$"
 
 CharcoalKiln_Text_Apprentice4:
-	.string "Die Flegmon sind zurück, und du\n"
-	.string "hast sogar Porenta gefunden!\p"
-	.string "Du bist so cool!$"
+	.string "Die FLEGMON sind wieder da, und die\n"
+	.string "PORENTA hast du auch wiedergefunden.\l"
+	.string "Du bist echt der Coolste!$"
 
 CharcoalKiln_Text_Farfetchd:
-	.string "Porenta: Kwaa!$"
+	.string "PORENTA: Poreeeen!$"

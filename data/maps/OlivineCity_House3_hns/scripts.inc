@@ -28,16 +28,16 @@ OlivineCityHouse3_EventScriptFishingGuruRefused::
 	end
 
 OlivineCity_Text_OfferGoodRod:
-	.string "OLIVIANA liegt am Meer!\p"
-	.string "Und wo es Meer gibt,\n"
-	.string "da gibt es auch Fische!\p"
-	.string "Ich angle hier seit 30 Jahren.\p"
-	.string "Willst du ans Meer gehen\n"
-	.string "und dein Anglerglück versuchen?$"
+	.string "Oliviana City ist berühmt für ihre\n"
+	.string "malerische Lage am Meer!\p"
+	.string "Und wo Meer ist, kann man auch angeln!\n"
+	.string "Ich fische hier schon seit 30 Jahren.\p"
+	.string "Hast du nicht auch Lust, zum Meer\n"
+	.string "zu gehen und eine Runde zu angeln?$"
 
 OlivineCity_Text_GiveGoodRod:
-	.string "Ah, haha! Ein neuer Angler\n"
-	.string "ist in Arbeit!$"
+	.string "Hahaha! Und wieder ist die Welt\n"
+	.string "um einen Angler reicher!$"
 
 OlivineCity_Text_GaveGoodRod:
 	.string "Fische gibt's nicht nur im Meer,\n"
@@ -48,8 +48,8 @@ OlivineCity_Text_GaveGoodRod:
 	.string "ähnliche Fischarten.$"
 
 OlivineCity_Text_DontWantGoodRod:
-	.string "Wie bitte? Du angelst nicht!?\n"
-	.string "Das ist unbegreiflich!$"
+	.string "Waaas?!? Du willst nicht fischen?!?\n"
+	.string "Unfassbar!$"
 
 OlivineCity_Text_HaveGoodRod:
 	.string "Na, wie läuft's?\n"

@@ -16,17 +16,17 @@ Route41_EventScript_Charlie::
 	end
 
 Route41_Text_SwimmermCharlieSeen:
-	.string "Das Wasser ist schön warm.\p"
-	.string "Ich bin also sehr locker\n"
-	.string "und gelenkig.\p"
+	.string "Das Wasser ist schön warm. Ich\n"
+	.string "fühle mich locker und gelenkig.\l"
 	.string "Natürlich trete ich gegen dich an!$"
 
 Route41_Text_SwimmermCharlieBeaten:
-	.string "Oje! Ich habe eine Gänsehaut!$"
+	.string "Oje! Meine Haut ist\n"
+	.string "schon ganz schrumpelig!$"
 
 Route41_Text_SwimmermCharlieAfter:
-	.string "Ist es nicht entspannend,\n"
-	.string "sich so treiben zu lassen?$"
+	.string "Ist es nicht entspannend, sich auf dem\n"
+	.string "Wasser treiben zu lassen?$"
 
 Route41_EventScript_George::
 	trainerbattle_single TRAINER_GEORGE_HNS, Route41_Text_SwimmermGeorgeSeen, Route41_Text_SwimmermGeorgeBeaten
@@ -36,16 +36,15 @@ Route41_EventScript_George::
 Route41_Text_SwimmermGeorgeSeen:
 	.string "Ich bin etwas müde.\n"
 	.string "Wenn ich gewinne, leihst du mir\l"
-	.string "dein Pokémon.$"
+	.string "dann dein Pokémon?$"
 
 Route41_Text_SwimmermGeorgeBeaten:
 	.string "Keuch, japs…$"
 
 Route41_Text_SwimmermGeorgeAfter:
-	.string "Es ist weit bis nach Anemonia.\p"
-	.string "Aber der Weg zurück nach\n"
-	.string "Oliviana genauso.\p"
-	.string "Was mach ich bloß?$"
+	.string "Anemonia City ist noch so weit weg. Aber\n"
+	.string "der Rückweg nach Oliviana City ist auch\l"
+	.string "nicht viel kürzer… was soll ich tun?$"
 
 Route41_EventScript_Berke::
 	trainerbattle_single TRAINER_BERKE_HNS, Route41_Text_SwimmermBerkeSeen, Route41_Text_SwimmermBerkeBeaten
@@ -53,16 +52,19 @@ Route41_EventScript_Berke::
 	end
 
 Route41_Text_SwimmermBerkeSeen:
-	.string "Siehst du diese Inseln,\n"
-	.string "die von den Strudeln blockiert\l"
-	.string "werden?\p"
-	.string "Dort gibt es bestimmt ein Geheimnis!$"
+	.string "Die Inseln hinter den Strudeln bergen\n"
+	.string "doch bestimmt irgendein Geheimnis!$"
 
 Route41_Text_SwimmermBerkeBeaten:
 	.string "Was ist das Geheimnis deiner Stärke?$"
 
 Route41_Text_SwimmermBerkeAfter:
-	.string "Ich sauf ab...$"
+	.string "Es war eine dunkle und stürmische\n"
+	.string "Nacht…\p"
+	.string "als ich dieses riesige Pokémon\n"
+	.string "über den Inseln aufsteigen sah.\l"
+	.string "Aus seinen silbernen Flügeln\l"
+	.string "wehten einige Federn durch die Luft.$"
 
 Route41_EventScript_Kirk::
 	trainerbattle_single TRAINER_KIRK_HNS, Route41_Text_SwimmermKirkSeen, Route41_Text_SwimmermKirkBeaten
@@ -70,15 +72,15 @@ Route41_EventScript_Kirk::
 	end
 
 Route41_Text_SwimmermKirkSeen:
-	.string "Hier gibt es hohe Wellen.\p"
-	.string "Das macht dich schnell müde.$"
+	.string "Hier gibt es hohe Wellen.\n"
+	.string "Da ist man schnell außer Puste.$"
 
 Route41_Text_SwimmermKirkBeaten:
-	.string "Ich bin besiegt!$"
+	.string "I-ich bin fix und fertig!$"
 
 Route41_Text_SwimmermKirkAfter:
-	.string "Die Strömung lässt mich\n"
-	.string "die Insel nicht erreichen.$"
+	.string "Die Strömung ist zu stark. Ich kann\n"
+	.string "die Inseln nicht erreichen.$"
 
 Route41_EventScript_Mathew::
 	trainerbattle_single TRAINER_MATHEW_HNS, Route41_Text_SwimmermMathewSeen, Route41_Text_SwimmermMathewBeaten
@@ -86,11 +88,12 @@ Route41_EventScript_Mathew::
 	end
 
 Route41_Text_SwimmermMathewSeen:
-	.string "Suchst du die Geheimnisse\n"
-	.string "der STRUDELINSELN?$"
+	.string "Versuchst du auch, die Geheimnisse\n"
+	.string "der Strudelinseln zu ergründen?$"
 
 Route41_Text_SwimmermMathewBeaten:
-	.string "Ach. Du hast viel Ausdauer!$"
+	.string "Uff! Vor dir nimmt man sich\n"
+	.string "besser in Acht!$"
 
 Route41_Text_SwimmermMathewAfter:
 	.string "Ein Geheimnis über die Strudelinseln…\n"
@@ -102,16 +105,16 @@ Route41_EventScript_Kaylee::
 	end
 
 Route41_Text_SwimmerfKayleeSeen:
-	.string "Ich bin auf dem Weg\n"
-	.string "zu den STRUDELINSELN.\p"
-	.string "Ich gehe mit meinen Kameraden\n"
-	.string "auf Erkundungsreise.$"
+	.string "Meine Freunde und ich sind unterwegs zu\n"
+	.string "den Strudelinseln, auf Erkundungstour.$"
 
 Route41_Text_SwimmerfKayleeBeaten:
-	.string "Ist es so richtig?$"
+	.string "Hmpf, na gut.$"
 
 Route41_Text_SwimmerfKayleeAfter:
-	.string "Vielleicht bleibe ich hier...$"
+	.string "Tief im Inneren der Strudelinseln\n"
+	.string "soll ein riesiges Pokémon hausen.\l"
+	.string "Was für ein Pokémon das wohl ist?$"
 
 Route41_EventScript_Susie::
 	trainerbattle_single TRAINER_SUSIE_HNS, Route41_Text_SwimmerfSusieSeen, Route41_Text_SwimmerfSusieBeaten
@@ -119,14 +122,15 @@ Route41_EventScript_Susie::
 	end
 
 Route41_Text_SwimmerfSusieSeen:
-	.string "Du gleitest so elegant\n"
-	.string "auf deinem Pokémon dahin.$"
+	.string "Du gleitest so elegant auf deinem\n"
+	.string "Pokémon dahin.$"
 
 Route41_Text_SwimmerfSusieBeaten:
-	.string "Ich bin geschlagen…$"
+	.string "Du bist eben einfach umwerfend!$"
 
 Route41_Text_SwimmerfSusieAfter:
-	.string "Ich bin geschlagen…$"
+	.string "Da gab es doch diesen Song über den\n"
+	.string "Jungen, der auf einem LAPRAS reitet…$"
 
 Route41_EventScript_Denise::
 	trainerbattle_single TRAINER_DENISE_HNS, Route41_Text_SwimmerfDeniseSeen, Route41_Text_SwimmerfDeniseBeaten
@@ -135,13 +139,16 @@ Route41_EventScript_Denise::
 
 Route41_Text_SwimmerfDeniseSeen:
 	.string "Das Wetter ist so herrlich.\n"
-	.string "Ich bin richtig benommen!$"
+	.string "Ich bin richtig verzückt!$"
 
 Route41_Text_SwimmerfDeniseBeaten:
-	.string "Ohhh!$"
+	.string "Hach!$"
 
 Route41_Text_SwimmerfDeniseAfter:
-	.string "Ohhh!$"
+	.string "Sonnenbrand ist sehr schlecht für\n"
+	.string "die Haut.\p"
+	.string "Aber ich verwende keine Sonnencreme.\n"
+	.string "Ich will das Meer nicht verschmutzen.$"
 
 Route41_EventScript_Kara::
 	trainerbattle_single TRAINER_KARA_HNS, Route41_Text_SwimmerfKaraSeen, Route41_Text_SwimmerfKaraBeaten
@@ -149,18 +156,17 @@ Route41_EventScript_Kara::
 	end
 
 Route41_Text_SwimmerfKaraSeen:
-	.string "Wenn du eine Pause brauchst,\n"
-	.string "dann halte deinen Kopf über\l"
-	.string "Wasser und paddle mit den Füßen.\p"
-	.string "Auf diese Weise legst du eine\n"
-	.string "Ruhepause ein und sammelst Energie.$"
+	.string "Erschöpft? Halte einfach deinen Kopf\n"
+	.string "über Wasser und paddle mit den Füßen.\l"
+	.string "Dann bist du wieder quietschfidel!$"
 
 Route41_Text_SwimmerfKaraBeaten:
-	.string "Oh! Du bist ausgeruhter als ich.$"
+	.string "Ach Mann! Ich glaube, auf dich trifft\n"
+	.string "quietschfidel viel eher zu!$"
 
 Route41_Text_SwimmerfKaraAfter:
-	.string "Ich habe tief im innern ein\n"
-	.string "Brüllen gehört.$"
+	.string "Ich habe tief aus dem Inneren der\n"
+	.string "Strudelinseln ein Brüllen gehört.$"
 
 Route41_EventScript_Wendy::
 	trainerbattle_single TRAINER_WENDY_HNS, Route41_Text_SwimmerfWendySeen, Route41_Text_SwimmerfWendyBeaten
@@ -168,17 +174,17 @@ Route41_EventScript_Wendy::
 	end
 
 Route41_Text_SwimmerfWendySeen:
-	.string "NACHTs sammeln sich\n"
-	.string "STERNDU nahe der\l"
-	.string "Wasseroberfläche.$"
+	.string "Wenn es Nacht wird, sammeln sich\n"
+	.string "Schwärme von STERNDU\l"
+	.string "nahe der Küste von Oliviana City.$"
 
 Route41_Text_SwimmerfWendyBeaten:
-	.string "Oje…$"
+	.string "MEINE GÜTE$"
 
 Route41_Text_SwimmerfWendyAfter:
-	.string "Sterndu in Gruppen leuchten\n"
-	.string "zur gleichen Zeit.\p"
-	.string "Sie sind so wunderschön.$"
+	.string "In der Gruppe fangen STERNDU an zu\n"
+	.string "leuchten. Das ist so wunderschön, dass\l"
+	.string "man fast schon Angst bekommt!$"
 
 Route41_EventScript_Tentacruel1::
 	lock

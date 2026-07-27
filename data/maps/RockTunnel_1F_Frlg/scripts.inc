@@ -46,85 +46,87 @@ RockTunnel_1F_EventScript_Dana::
 	end
 
 RockTunnel_1F_Text_LennyIntro::
-	.string "This tunnel goes a long way, kid!$"
+	.string "Dieser Tunnel ist verdammt lang!$"
 
 RockTunnel_1F_Text_LennyDefeat::
-	.string "Doh!\n"
-	.string "You win!$"
+	.string "Oha!\n"
+	.string "Du hast gewonnen!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-	.string "Watch for ONIX.\n"
-	.string "They appear only occasionally.\p"
-	.string "High-level ones can put the\n"
-	.string "squeeze on you!$"
+	.string "Nimm dich vor ONIX in Acht! Es\n"
+	.string "quetscht dich wie eine Zitrone aus!$"
 
 RockTunnel_1F_Text_OliverIntro::
-	.string "Hmm.\n"
-	.string "Maybe I'm lost in here…$"
+	.string "Könnte es sein, dass ich mich\n"
+	.string "verlaufen habe?$"
 
 RockTunnel_1F_Text_OliverDefeat::
-	.string "Ease up!\n"
-	.string "What am I doing?\l"
-	.string "Which way is out?$"
+	.string "Sachte!\n"
+	.string "Wo bin ich?\l"
+	.string "Wo geht es nach draußen?$"
 
 RockTunnel_1F_Text_OliverPostBattle::
-	.string "That sleeping POKéMON on ROUTE 12\n"
-	.string "forced me to take this detour.$"
+	.string "Diesen Umweg muss ich nur wegen\n"
+	.string "des auf Route 12 schlafenden\l"
+	.string "Pokémon machen.$"
 
 RockTunnel_1F_Text_LucasIntro::
-	.string "Outsiders like you need to show me\n"
-	.string "some respect!$"
+	.string "Ein Möchtegern wie du sollte etwas\n"
+	.string "mehr Respekt zeigen!$"
 
 RockTunnel_1F_Text_LucasDefeat::
-	.string "I give!$"
+	.string "Ich gebe auf!$"
 
 RockTunnel_1F_Text_LucasPostBattle::
-	.string "You're talented enough to hike!$"
+	.string "Du hast Talent!\n"
+	.string "Du kannst kein Möchtegern sein!$"
 
 RockTunnel_1F_Text_AshtonIntro::
-	.string "POKéMON fight!\n"
-	.string "Ready, go!$"
+	.string "Meine Pokémon wollen kämpfen!\n"
+	.string "Los!$"
 
 RockTunnel_1F_Text_AshtonDefeat::
-	.string "Game over!$"
+	.string "Game Over!$"
 
 RockTunnel_1F_Text_AshtonPostBattle::
-	.string "Oh well, I'll get a ZUBAT as I go!$"
+	.string "Unterwegs werde ich mir ein Zubat\n"
+	.string "fangen!$"
 
 RockTunnel_1F_Text_LeahIntro::
-	.string "Eek!\p"
-	.string "Don't try anything funny in the\n"
-	.string "dark!$"
+	.string "Huch!\p"
+	.string "Komm mir im Dunkeln bloß nicht zu\n"
+	.string "nahe!$"
 
 RockTunnel_1F_Text_LeahDefeat::
-	.string "It was too dark…$"
+	.string "Es war zu dunkel!$"
 
 RockTunnel_1F_Text_LeahPostBattle::
-	.string "I saw a MACHOP in this tunnel.$"
+	.string "Ich habe hier im Tunnel ein\n"
+	.string "Maschock gesehen!$"
 
 RockTunnel_1F_Text_DanaIntro::
-	.string "I came this far looking for wild\n"
-	.string "POKéMON.$"
+	.string "Ich bin wegen der Pokémon hierher\n"
+	.string "gekommen!$"
 
 RockTunnel_1F_Text_DanaDefeat::
-	.string "I'm out of POKéMON!$"
+	.string "Alle meine Pokémon wurden besiegt!$"
 
 RockTunnel_1F_Text_DanaPostBattle::
-	.string "You looked cute and harmless.\n"
-	.string "Was I ever wrong!$"
+	.string "Dabei sahst du so süß und harmlos\n"
+	.string "aus!$"
 
 RockTunnel_1F_Text_ArianaIntro::
-	.string "You have POKéMON!\n"
-	.string "Let's start!$"
+	.string "Du besitzt Pokémon!\n"
+	.string "Lass uns kämpfen!$"
 
 RockTunnel_1F_Text_ArianaDefeat::
-	.string "You play hard!$"
+	.string "Du bist ein harter Brocken!$"
 
 RockTunnel_1F_Text_ArianaPostBattle::
-	.string "Whew!\n"
-	.string "I'm all sweaty now.$"
+	.string "Puh!\n"
+	.string "Ich bin ganz nass geschwitzt!$"
 
 RockTunnel_1F_Text_RouteSign::
-	.string "ROCK TUNNEL\n"
-	.string "CERULEAN CITY - LAVENDER TOWN$"
+	.string "FELSTUNNEL\n"
+	.string "AZURIA CITY - LAVANDIA$"
 

@@ -63,55 +63,53 @@ RocketHideout_B1F_EventScript_RemoveBarrier::
 	return
 
 RocketHideout_B1F_Text_Grunt1Intro::
-	.string "Who are you?\n"
-	.string "How did you get here?$"
+	.string "Wie kommst du hierher?$"
 
 RocketHideout_B1F_Text_Grunt1Defeat::
-	.string "Oww!\n"
-	.string "Beaten!$"
+	.string "Autsch!\n"
+	.string "Geschlagen!$"
 
 RocketHideout_B1F_Text_Grunt1PostBattle::
-	.string "Blast it… You're dissing TEAM\n"
-	.string "ROCKET, aren't you?$"
+	.string "Willst du dich mit dem Team Rocket\n"
+	.string "anlegen?$"
 
 RocketHideout_B1F_Text_Grunt2Intro::
-	.string "You broke into TEAM ROCKET's\n"
-	.string "operation? What nerve!$"
+	.string "Du hast Mut, hier hereinzuplatzen!$"
 
 RocketHideout_B1F_Text_Grunt2Defeat::
-	.string "Boom!$"
+	.string "Mist! Versagt!$"
 
 RocketHideout_B1F_Text_Grunt2PostBattle::
-	.string "You're not going to get away with\n"
-	.string "this, brat!$"
+	.string "Unsere Rache wird grauenvoll, du\n"
+	.string "Rotzblag!$"
 
 RocketHideout_B1F_Text_Grunt3Intro::
-	.string "Intruder alert!$"
+	.string "Alarm!\n"
+	.string "Eindringlinge!$"
 
 RocketHideout_B1F_Text_Grunt3Defeat::
-	.string "I can't do it!$"
+	.string "Ich konnte ihn nicht stoppen!!!$"
 
 RocketHideout_B1F_Text_Grunt3PostBattle::
-	.string "SILPH SCOPE? Humph!\n"
-	.string "I don't know where it is.$"
+	.string "Silph Scope?\n"
+	.string "Ich weiß nicht, wovon du redest!$"
 
 RocketHideout_B1F_Text_Grunt4Intro::
-	.string "Why did you come here?$"
+	.string "Was willst du überhaupt hier?$"
 
 RocketHideout_B1F_Text_Grunt4Defeat::
-	.string "This won't do!$"
+	.string "Das kann nicht funktionieren!$"
 
 RocketHideout_B1F_Text_Grunt4PostBattle::
-	.string "Okay, I'll talk…\n"
-	.string "Take the elevator to see my BOSS.$"
+	.string "O.k., O.k., ich packe aus!\n"
+	.string "Benutze den Aufzug zum Boss!$"
 
 RocketHideout_B1F_Text_Grunt5Intro::
-	.string "Are you lost, you little mouse?$"
+	.string "Was hast du hier verloren?$"
 
 RocketHideout_B1F_Text_Grunt5Defeat::
-	.string "Why…?$"
+	.string "Was ist passiert?$"
 
 RocketHideout_B1F_Text_Grunt5PostBattle::
-	.string "Uh-oh, that ruckus somehow opened\n"
-	.string "the door!$"
+	.string "Ups, die Tür ist aufgegangen!$"
 

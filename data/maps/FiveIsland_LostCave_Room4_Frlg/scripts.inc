@@ -7,14 +7,16 @@ FiveIsland_LostCave_Room4_EventScript_Laura::
 	end
 
 FiveIsland_LostCave_Room4_Text_LauraIntro::
-	.string "I think there is a mysterious power\n"
-	.string "at work in this cave.$"
+	.string "Ich glaube, dass in dieser\n"
+	.string "Höhle eine geheimnisvolle\l"
+	.string "Kraft wirkt.$"
 
 FiveIsland_LostCave_Room4_Text_LauraDefeat::
-	.string "If you don't go into the right\n"
-	.string "tunnel, you won't get ahead.$"
+	.string "Wenn du nicht den richtigen\n"
+	.string "Tunnel erwischst, kommst\l"
+	.string "du nie voran!$"
 
 FiveIsland_LostCave_Room4_Text_LauraPostBattle::
-	.string "Earlier, a lady went into the caves\n"
-	.string "ahead.$"
+	.string "Vor kurzem ging eine Frau\n"
+	.string "in diese Höhlen.$"
 

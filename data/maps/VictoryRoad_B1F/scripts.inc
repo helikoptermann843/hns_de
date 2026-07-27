@@ -27,7 +27,7 @@ VictoryRoad_B1F_EventScript_Halle::
 	end
 
 VictoryRoad_B1F_Text_SamuelIntro:
-	.string "Der Gedanke, dass ich der POKéMON LIGA\n"
+	.string "Der Gedanke, dass ich der Pokémon Liga\n"
 	.string "immer näher komme…\p"
 	.string "Ich bekomme Lampenfieber…$"
 
@@ -35,37 +35,37 @@ VictoryRoad_B1F_Text_SamuelDefeat:
 	.string "Ich konnte gar nichts machen…$"
 
 VictoryRoad_B1F_Text_SamuelPostBattle:
-	.string "Die POKéMON LIGA rückt in weite Ferne…\n"
+	.string "Die Pokémon Liga rückt in weite Ferne…\n"
 	.string "Was für eine Enttäuschung…$"
 
 VictoryRoad_B1F_Text_ShannonIntro:
-	.string "Um dich siegreich durch die POKéMON\n"
-	.string "LIGA zu kämpfen, brauchst du das\l"
-	.string "Vertrauen deiner POKéMON.$"
+	.string "Um dich siegreich durch die Pokémon\n"
+	.string "Liga zu kämpfen, brauchst du das\l"
+	.string "Vertrauen deiner Pokémon.$"
 
 VictoryRoad_B1F_Text_ShannonDefeat:
 	.string "Eure Beziehung ist auf solidem\n"
 	.string "Vertrauen aufgebaut.$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:
-	.string "Das Vertrauen zwischen POKéMON und\n"
-	.string "TRAINER wächst beständig, da sie immer\l"
+	.string "Das Vertrauen zwischen Pokémon und\n"
+	.string "Trainer wächst beständig, da sie immer\l"
 	.string "zusammen sind.$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
 	.string "Das ist nicht das Ziel. Nur eine\n"
 	.string "Zwischenstation auf dem Weg zur\l"
-	.string "POKéMON LIGA.$"
+	.string "Pokémon Liga.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
 	.string "Das ist der Weg!$"
 
 VictoryRoad_B1F_Text_MichellePostBattle:
 	.string "Du wirst dich sehr gut schlagen, das\n"
-	.string "ist sicher. Deine POKéMON lieben dich!$"
+	.string "ist sicher. Deine Pokémon lieben dich!$"
 
 VictoryRoad_B1F_Text_MitchellIntro:
-	.string "Meine POKéMON sind einfach kosmisch!\n"
+	.string "Meine Pokémon sind einfach kosmisch!\n"
 	.string "Beeindruckend und inspirierend.$"
 
 VictoryRoad_B1F_Text_MitchellDefeat:
@@ -75,7 +75,7 @@ VictoryRoad_B1F_Text_MitchellDefeat:
 VictoryRoad_B1F_Text_MitchellPostBattle:
 	.string "Auch außerhalb eines Kampfes spüre\n"
 	.string "ich die Kraft, die von dir und deinen\l"
-	.string "POKéMON ausgeht.$"
+	.string "Pokémon ausgeht.$"
 
 VictoryRoad_B1F_Text_HalleIntro:
 	.string "Du brauchst dich nicht gleich in Pose\n"
@@ -85,7 +85,7 @@ VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Whoa! Wunderbar!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Sicher, dies ist die SIEGESSTRASSE.\p"
+	.string "Sicher, dies ist die Siegesstrasse.\p"
 	.string "Aber sie unterscheidet sich nicht viel\n"
 	.string "von dem Weg, den du bisher gegangen\l"
 	.string "bist.\p"

@@ -50,15 +50,15 @@ AbandonedShip_Rooms2_1F_EventScript_Garrison::
 	end
 
 AbandonedShip_Rooms2_1F_Text_DanIntro:
-	.string "MAX: Wir haben nach Schätzen gesucht\n"
-	.string "- und einen TRAINER gefunden!$"
+	.string "Max: Wir haben nach Schätzen gesucht\n"
+	.string "- und einen Trainer gefunden!$"
 
 AbandonedShip_Rooms2_1F_Text_DanDefeat:
-	.string "MAX: Wir konnten nicht gewinnen,\n"
+	.string "Max: Wir konnten nicht gewinnen,\n"
 	.string "obwohl wir zusammengearbeitet haben…$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostBattle:
-	.string "MAX: Wir konnten keine Schätze finden.\n"
+	.string "Max: Wir konnten keine Schätze finden.\n"
 	.string "Ob uns jemand zuvorgekommen ist?$"
 
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
@@ -66,14 +66,14 @@ AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
 	.string "So kannst du nicht gegen uns antreten.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
-	.string "JULE: Oh? Wir haben nach Schätzen\n"
-	.string "gesucht und einen TRAINER gefunden.$"
+	.string "Jule: Oh? Wir haben nach Schätzen\n"
+	.string "gesucht und einen Trainer gefunden.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraDefeat:
-	.string "JULE: Oh, wow, bist du stark!$"
+	.string "Jule: Oh, wow, bist du stark!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
-	.string "JULE: Ich frage mich, wo die Schätze\n"
+	.string "Jule: Ich frage mich, wo die Schätze\n"
 	.string "versteckt sind…\p"
 	.string "Ich weiß, was ich mir alles kaufen\n"
 	.string "würde, wenn ich reich wäre…$"
@@ -87,42 +87,42 @@ AbandonedShip_Rooms2_1F_Text_KiraRegister:
 	.string "Ich werde dich im POKéNAV eintragen.$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
-	.string "MAX: Wir haben die ganze Zeit nur nach\n"
+	.string "Max: Wir haben die ganze Zeit nur nach\n"
 	.string "Schätzen gesucht.\p"
-	.string "Aber unsere POKéMON sind auch stärker\n"
+	.string "Aber unsere Pokémon sind auch stärker\n"
 	.string "geworden. Dürfen wir dir das zeigen?$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchDefeat:
-	.string "MAX: Du bist stark wie immer.$"
+	.string "Max: Du bist stark wie immer.$"
 
 AbandonedShip_Rooms2_1F_Text_DanPostRematch:
-	.string "MAX: Wir haben keine Schätze gefunden,\n"
-	.string "sondern gegen POKéMON verloren…\p"
+	.string "Max: Wir haben keine Schätze gefunden,\n"
+	.string "sondern gegen Pokémon verloren…\p"
 	.string "Ich will nach Hause… Aber wenn ich das\n"
 	.string "laut sage, wird sie sauer auf mich.$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons:
-	.string "MAX: Du hast keine zwei POKéMON.\n"
+	.string "Max: Du hast keine zwei Pokémon.\n"
 	.string "So können wir nicht kämpfen.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchIntro:
-	.string "JULE: Oh, da bist du ja wieder!\p"
+	.string "Jule: Oh, da bist du ja wieder!\p"
 	.string "Genau wie wir, hast du die Suche nach\n"
 	.string "Schätzen auch nicht aufgegeben, was?\p"
 	.string "Wie wäre es mit einem Kampf? Und der\n"
 	.string "Verlierer gibt die Suche auf?$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat:
-	.string "JULE: Ach, wir haben wieder verloren…$"
+	.string "Jule: Ach, wir haben wieder verloren…$"
 
 AbandonedShip_Rooms2_1F_Text_KiraPostRematch:
-	.string "JULE: Wir müssen unsere POKéMON mehr\n"
+	.string "Jule: Wir müssen unsere Pokémon mehr\n"
 	.string "trainieren.\p"
 	.string "Wir gehen nicht ohne Schatz nach\n"
 	.string "Hause!$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons:
-	.string "JULE: Hast du keine zwei POKéMON?\n"
+	.string "Jule: Hast du keine zwei Pokémon?\n"
 	.string "Dann müssen wir später kämpfen.$"
 
 AbandonedShip_Rooms2_1F_Text_JaniIntro:
@@ -138,7 +138,7 @@ AbandonedShip_Rooms2_1F_Text_JaniPostBattle:
 
 AbandonedShip_Rooms2_1F_Text_GarrisonIntro:
 	.string "Stärke und Mitgefühl…\n"
-	.string "Das wird bei TRAINERn sehr geschätzt!$"
+	.string "Das wird bei Trainern sehr geschätzt!$"
 
 AbandonedShip_Rooms2_1F_Text_GarrisonDefeat:
 	.string "Irgendetwas an dir erstrahlt hell.$"

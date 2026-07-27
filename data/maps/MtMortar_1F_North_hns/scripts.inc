@@ -46,26 +46,28 @@ MtMortar_1F_North_EventScript_Markus::
 	end
 
 MountMortar2_Text_PokemaniacMillerSeen:
-	.string "Diesmal verliere ich nicht!$"
+	.string "Wart's ab! Diesmal verliere ich nicht!$"
 
 MountMortar2_Text_PokemaniacMillerBeaten:
-	.string "Ich hab gegen so’n Kind verloren…?$"
+	.string "Verloren… und das auch noch\n"
+	.string "gegen ein Kind!$"
 
 MountMortar2_Text_PokemaniacMillerAfter:
-	.string "Vor einer Weile wollte so’n\n"
-	.string "Karate-Typ kämpfen.\p"
-	.string "Er war unglaublich stark.\n"
-	.string "Er hat uns einfach plattgemacht.\p"
-	.string "Er ist tiefer hineingegangen,\n"
-	.string "um zu trainieren.\p"
-	.string "Frag mich, wie es ihm geht.$"
+	.string "Vorhin hat mich so ein komischer\n"
+	.string "Karate-Typ zum Kampf herausgefordert.\l"
+	.string "Der war vielleicht stark!\l"
+	.string "Mir tun immer noch alle Knochen weh!\p"
+	.string "Am Schluss blaffte er mich an:\n"
+	.string ""Du brauchst mehr Training!"\l"
+	.string "und verschwand im Berginneren.\l"
+	.string "Was der wohl hier macht?$"
 
 MountMortar2_Text_SupernerdMarkusSeen:
-	.string "Hey! DU!$"
+	.string "He! Randalf!$"
 
 MountMortar2_Text_SupernerdMarkusBeaten:
-	.string "Ich hab dich mit jemandem\n"
-	.string "verwechselt…$"
+	.string "Pardon.\n"
+	.string "Ich habe dich mit jemandem verwechselt.$"
 
 MountMortar2_Text_SupernerdMarkusAfter:
 	.string "Ich wollte den SILBERBERG\n"

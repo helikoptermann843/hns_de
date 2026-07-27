@@ -9,5 +9,6 @@ Route16FuchsiaSpeechHouse_Text_SuperNerd:
 	.string "Hier wohnte früher eine\n"
 	.string "berühmte Persönlichkeit.$"
 Route16FuchsiaSpeechHouse_Text_SuperNerdOld:
-	.string "Am Ende des RADWEGs ist\n"
-	.string "FUCHSANIA CITY.$"
+	.string "Wenn du immer weiter den\n"
+	.string "Radweg hinabbraust,\l"
+	.string "kommst du nach Fuchsania City.$"

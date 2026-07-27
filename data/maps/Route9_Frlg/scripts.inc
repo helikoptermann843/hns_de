@@ -6,108 +6,110 @@ Route9_EventScript_RouteSign::
 	end
 
 Route9_Text_AliciaIntro::
-	.string "You have POKéMON with you!\n"
-	.string "You're mine!$"
+	.string "Du trägst Pokémon bei dir! Lass\n"
+	.string "uns kämpfen!$"
 
 Route9_Text_AliciaDefeat::
-	.string "You deceived me…$"
+	.string "Du hast gewonnen!$"
 
 Route9_Text_AliciaPostBattle::
-	.string "The tunnel coming up is pitch-black\n"
-	.string "inside.\p"
-	.string "You'll need FLASH to get through\n"
-	.string "there.$"
+	.string "Du benötigst eine Lichtquelle, um\n"
+	.string "den Tunnel zu durchqueren!$"
 
 Route9_Text_ChrisIntro::
-	.string "Who's that walking there with those\n"
-	.string "good-looking POKéMON?$"
+	.string "Heh, wer bist du?\n"
+	.string "Deine Pokémon sehen fit aus!$"
 
 Route9_Text_ChrisDefeat::
-	.string "Out like a light!$"
+	.string "Schnell und präzise besiegt!$"
 
 Route9_Text_ChrisPostBattle::
-	.string "Keep walking!$"
+	.string "O.K., geh einfach weiter!$"
 
 Route9_Text_DrewIntro::
-	.string "I'm taking the ROCK TUNNEL to\n"
-	.string "go to LAVENDER…$"
+	.string "Ich gehe durch den Felstunnel\n"
+	.string "nach Lavandia...$"
 
 Route9_Text_DrewDefeat::
-	.string "Can't measure up…$"
+	.string "Mit dir habe ich mich übernommen!$"
 
 Route9_Text_DrewPostBattle::
-	.string "Are you off to ROCK TUNNEL, too?$"
+	.string "Möchtest du auch den Felstunnel\n"
+	.string "benutzen?$"
 
 Route9_Text_CaitlinIntro::
-	.string "Don't you dare patronize me!$"
+	.string "Trau dich ruhig, mit mir zu\n"
+	.string "kämpfen!$"
 
 Route9_Text_CaitlinDefeat::
-	.string "No!\n"
-	.string "You're too much.$"
+	.string "Das war zu viel des Guten!$"
 
 Route9_Text_CaitlinPostBattle::
-	.string "You're obviously talented.\n"
-	.string "Good luck to you!$"
+	.string "Du hast sehr viel Talent! Viel\n"
+	.string "Glück auf deinem weiteren Weg!$"
 
 Route9_Text_JeremyIntro::
-	.string "Bwahaha!\n"
-	.string "Great! I was bored, eh!$"
+	.string "Endlich kommt jemand!\n"
+	.string "Mir war richtig langweilig!$"
 
 Route9_Text_JeremyDefeat::
-	.string "Keep it coming, eh!\p"
-	.string "Oh wait.\n"
-	.string "I'm out of POKéMON!$"
+	.string "War das etwa schon alles?\p"
+	.string "Oh! Ich habe kein einsatzbereites\n"
+	.string "Pokémon übrig!$"
 
 Route9_Text_JeremyPostBattle::
-	.string "You sure had guts standing up to\n"
-	.string "me there, eh?$"
+	.string "Deine Knie haben ganz schön\n"
+	.string "geschlackert, oder?$"
 
 Route9_Text_BriceIntro::
-	.string "Hahaha!\n"
-	.string "Aren't you a little toughie!$"
+	.string "Du hast keine Chance, du nerviges\n"
+	.string "Balg!$"
 
 Route9_Text_BriceDefeat::
-	.string "What's that?$"
+	.string "Was ist passiert?$"
 
 Route9_Text_BricePostBattle::
-	.string "Hahaha!\n"
-	.string "Kids should be tough!$"
+	.string "Haha!\n"
+	.string "Kinder sollten Hallodris sein!$"
 
 Route9_Text_BrentIntro::
-	.string "I got up early every day to raise\n"
-	.string "my POKéMON from cocoons!$"
+	.string "Ich stehe jeden Tag früh auf, um\n"
+	.string "meine Pokémon in ihren Kokons zu\l"
+	.string "pflegen!$"
 
 Route9_Text_BrentDefeat::
-	.string "WHAT?\p"
-	.string "What a total waste of time!$"
+	.string "Was?\p"
+	.string "Das war die reinste\n"
+	.string "Zeitverschwendung!$"
 
 Route9_Text_BrentPostBattle::
-	.string "I have to collect more than bugs\n"
-	.string "to get stronger…$"
+	.string "Ich sollte nicht nur Käfer sammeln,\n"
+	.string "um stärker zu werden...$"
 
 Route9_Text_AlanIntro::
-	.string "Hahahaha!\n"
-	.string "Bring it on!$"
+	.string "Ha!\n"
+	.string "Wie wäre es mit einem Kampf?$"
 
 Route9_Text_AlanDefeat::
-	.string "Hahahaha!\n"
-	.string "You beat me fair!$"
+	.string "Haha!\n"
+	.string "Ein fairer Kampf!$"
 
 Route9_Text_AlanPostBattle::
-	.string "Hahahaha!\n"
-	.string "Us hearty guys always laugh!$"
+	.string "Haha!\n"
+	.string "Wir Scherzbolde lachen ständig!$"
 
 Route9_Text_ConnerIntro::
-	.string "Go, my super BUG POKéMON!$"
+	.string "Du hast keine Chance gegen meine\n"
+	.string "Käfer-pokémon!$"
 
 Route9_Text_ConnerDefeat::
-	.string "My bugs…$"
+	.string "Meine Käfer-pokémon...$"
 
 Route9_Text_ConnerPostBattle::
-	.string "If you don't like BUG POKéMON,\n"
-	.string "you bug me!$"
+	.string "Wer keine Käfer mag, den mag ich\n"
+	.string "auch nicht!$"
 
 Route9_Text_RouteSign::
 	.string "ROUTE 9\n"
-	.string "CERULEAN CITY - ROCK TUNNEL$"
+	.string "AZURIA CITY - FELSTUNNEL$"
 

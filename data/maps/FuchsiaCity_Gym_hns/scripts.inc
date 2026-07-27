@@ -85,12 +85,11 @@ FuchsiaCity_Gym_EventScript_Janine_Defeated::
 	end
 
 FuchsiaCity_Gym_Text_Janine_DisappointYou:
-	.string "Fufufufu…\p"
-	.string "Es tut mir leid, dich zu\n"
-	.string "enttäuschen…\p"
-	.string "Ich mache nur Spaß!\p"
-	.string "Ich bin echt! Janina von der\n"
-	.string "FUCHSANIA-Arena!$"
+	.string "Hehehehe…\n"
+	.string "Tut mir leid, aber das stimmt nicht!\p"
+	.string "Nein, ich nehme dich nur auf den Arm!\p"
+	.string "Ich bin es wirklich! Ich bin Janina,\n"
+	.string "die Arenaleiterin von Fuchsania City!$"
 
 FuchsiaCity_Gym_Text_Janine_ToughOne:
 	.string "Janina: Du bist hartnäckig.\n"
@@ -101,17 +100,16 @@ FuchsiaCity_Gym_Text_ReceivedSoulBadge:
 	.string "{PLAYER} erhielt den Seelenorden.$"
 
 FuchsiaCity_Gym_Text_Janine_ToxicSpeech:
-	.string "Janina: Du bist wirklich stark!\n"
-	.string "Ich habe ein besonderes Geschenk!\p"
-	.string "Es ist Toxin, ein mächtiges Gift,\n"
-	.string "das stetig die KP des Opfers senkt.$"
+	.string "Janina: Du bist stark! Ich habe hier ein\n"
+	.string "ganz besonderes Geschenk für dich!\p"
+	.string "Diese Attacke nennt sich Gifthieb und\n"
+	.string "kann deine Gegner vergiften!$"
 
 FuchsiaCity_Gym_Text_Janine_ApplyMyself:
-	.string "Janina: Ich werde mich richtig\n"
-	.string "anstrengen und meine Fähigkeiten\l"
-	.string "verbessern.\p"
-	.string "Ich will besser werden als Vater\n"
-	.string "und du!$"
+	.string "Janina: Ich werde noch viel mehr\n"
+	.string "trainieren und stärker werden!\p"
+	.string "Nochmal möchte ich nicht gegen dich\n"
+	.string "oder meinen Vater verlieren müssen!$"
 
 FuchsiaCity_Gym_EventScript_Alice_J::
 	lock
@@ -211,32 +209,36 @@ FuchsiaCity_Gym_EventScript_Barry::
 	end
 
 FuchsiaCity_Gym_Text_LassAlice_Before:
-	.string "Fufufu!\p"
-	.string "Ich bin Janina, die Arena-Leiterin!\p"
-	.string "Nein, nicht wirklich! Erwischt!$"
+	.string "Huhuhuhaha!\n"
+	.string "Ich bin Janina, die Arenaleiterin!\l"
+	.string "Von wegen!\l"
+	.string "Reingefallen!$"
 
 FuchsiaCity_Gym_Text_LassAlice_Beaten:
-	.string "Ich hab dich reingelegt…$"
+	.string "Gib's zu, ich hatte dich\n"
+	.string "fast so weit!$"
 
 FuchsiaCity_Gym_Text_LassAlice_After:
 	.string "Wie willst du die echte Leiterin\n"
 	.string "erkennen?$"
 
 FuchsiaCity_Gym_Text_LassLinda_Before:
-	.string "Reingelegt! Hahaha!$"
+	.string "Reingelegt!\n"
+	.string "Hahaha!$"
 
 FuchsiaCity_Gym_Text_LassLinda_Beaten:
-	.string "Ooh… ich hab verloren… Du bist\n"
-	.string "nicht schwach…$"
+	.string "Oh… ich habe verloren… Ein\n"
+	.string "Schwächling bist du jedenfalls nicht.$"
 
 FuchsiaCity_Gym_Text_LassLinda_After:
-	.string "Na? War meine Verkleidung nicht\n"
-	.string "perfekt?$"
+	.string "Na, wie war mein Kostüm? Die\n"
+	.string "meisten Leute sagen, ich sehe\l"
+	.string "Janina zum Verwechseln ähnlich!$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_Before:
-	.string "Ich bin Janina!\p"
-	.string "Woher wusstest du, dass ich echt\n"
-	.string "bin? Lass uns kämpfen!$"
+	.string "Ich bin Janina!\n"
+	.string "Aber woher wusstest du das?\l"
+	.string "Egal! Jetzt wird gekämpft!$"
 
 FuchsiaCity_Gym_Text_PicnickerCindy_Beaten:
 	.string "Mist! Ich wollte gewinnen!$"
@@ -245,8 +247,8 @@ FuchsiaCity_Gym_Text_PicnickerCindy_After:
 	.string "Du musst langsam müde werden.$"
 
 FuchsiaCity_Gym_Text_CamperBarry_Before:
-	.string "Wahahaha!\p"
-	.string "Jawohl! Ich bin Janina!$"
+	.string "Hahaha!\p"
+	.string "Ganz genau! Ich bin die echte Janina!$"
 
 FuchsiaCity_Gym_Text_CamperBarry_Beaten:
 	.string "Meine Verkleidung war perfekt!\n"
@@ -290,13 +292,15 @@ FuchsiaCity_Gym_Text_GymStatuePlayerWon::
 	.string "BLAU, ROT, {PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:
-	.string "He! Ein CHAMP in spe!\p"
-	.string "Nanu! Sieh dich mal um. Alle\n"
-	.string "Trainer sehen aus\l"
-	.string "wie die ARENALEITERIN JANINA.\p"
-	.string "Welche davon ist die echte JANINA?$"
+	.string "Hey, du! Zukünftiger Champ!\p"
+	.string "…Hoppla!\n"
+	.string "Sieh dich mal genau um!\p"
+	.string "Da sind lauter Personen, die genau\n"
+	.string "wie Janina, die Arenaleiterin, aussehen!\p"
+	.string "Kannst du erkennen, wer von ihnen\n"
+	.string "die echte Janina ist?$"
 
 FuchsiaCity_Gym_Text_GuideWin:
-	.string "Das war ein hervorragender\n"
-	.string "Kampf, Trainer aus JOHTO!$"
+	.string "Das war ein hervorragender Kampf,\n"
+	.string "Trainer aus Johto!$"
 

@@ -47,10 +47,10 @@ GoldenrodCity_DepartmentStore_6F_EventScript_TradeCompleted::
 	end
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWillTradeWontYou:
-	.string "Ich sammle Pokémon!\n"
-	.string "Hast du ein {STR_VAR_1}?\p"
-	.string "Willst du es gegen mein\n"
-	.string "{STR_VAR_2} tauschen?$"
+	.string "Ich sammele Pokémon!\n"
+	.string "Hast du ein TRAUMATO?\p"
+	.string "Möchtest du es gegen\n"
+	.string "mein MACHOLLO tauschen?$"
 
 GoldenrodCity_DepartmentStore_6F_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe ein {STR_VAR_1}!\p"
@@ -61,10 +61,12 @@ GoldenrodCity_DepartmentStore_6F_Text_ThisIsntAMon:
 	.string "Das ist kein {STR_VAR_1}.$"
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
-	.string "Du willst nicht tauschen? Ach…$"
+	.string "Du möchtest also nicht tauschen?\n"
+	.string "Schade…$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
-	.string "Hi, wie geht es meinem alten Machollo?$"
+	.string "Hi! Wie geht es meinem MACHOLLO?\n"
+	.string "Irgendwelche Probleme?$"
 
 
 GoldenrodDeptStore6_EventScript_Lass::

@@ -65,10 +65,10 @@ MtPyre_3F_Text_GabrielleIntro:
 
 MtPyre_3F_Text_GabrielleDefeat:
 	.string "Das war unglaublich!\n"
-	.string "Du bist ein ganz besonderer TRAINER!$"
+	.string "Du bist ein ganz besonderer Trainer!$"
 
 MtPyre_3F_Text_GabriellePostBattle:
-	.string "POKéMON werden bald nichts Besonderes\n"
+	.string "Pokémon werden bald nichts Besonderes\n"
 	.string "mehr sein.\p"
 	.string "Die, die du bei dir hast und die, die\n"
 	.string "dir in der Zukunft begegnen werden…\p"
@@ -84,7 +84,7 @@ MtPyre_3F_Text_GabrielleRegister:
 MtPyre_3F_Text_GabrielleRematchIntro:
 	.string "Oh, du bist es…\p"
 	.string "Willst du mir zeigen, wie sehr deine\n"
-	.string "POKéMON gewachsen und wie stark sie\l"
+	.string "Pokémon gewachsen und wie stark sie\l"
 	.string "geworden sind?$"
 
 MtPyre_3F_Text_GabrielleRematchDefeat:
@@ -92,7 +92,7 @@ MtPyre_3F_Text_GabrielleRematchDefeat:
 	.string "Du bist etwas ganz Besonderes.$"
 
 MtPyre_3F_Text_GabriellePostRematch:
-	.string "POKéMON werden bald nichts Besonderes\n"
+	.string "Pokémon werden bald nichts Besonderes\n"
 	.string "mehr sein.\p"
 	.string "Die, die du bei dir hast und die, die\n"
 	.string "dir in der Zukunft begegnen werden…\p"

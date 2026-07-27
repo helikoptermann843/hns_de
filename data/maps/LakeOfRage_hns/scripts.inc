@@ -240,7 +240,7 @@ LakeOfRage_Movement_DragoniteLeave:
 	step_end
 
 LakeOfRage_Text_Dragonite:
-	.string "Dragoran: RWAAAH!$"
+	.string "DRAGORAN: Draaagooo…$"
 
 LakeOfRage_Text_LanceForcedToEvolve:
 	.string "Dieser See ist voller\n"
@@ -252,7 +252,7 @@ LakeOfRage_Text_LanceForcedToEvolve:
 
 LakeOfRage_Text_LanceIntro1:
 	.string "Bist du wegen der Gerüchte hier?\p"
-	.string "Du bist {PLAYER}? Ich bin SIEGFRIED,\p"
+	.string "Du bist {PLAYER}? Ich bin Siegfried,\p"
 	.string "ein Trainer wie du.$"
 
 LakeOfRage_Text_LanceIntro2:

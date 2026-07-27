@@ -113,14 +113,14 @@ BattleFrontier_Lounge2_EventScript_TriathleteF_hns::
 	end
 
 BattleFrontier_Lounge2_Text_FrontierManiacIntro_hns::
-	.string "Howdy! In Sachen KAMPFGRENZE-News\n"
+	.string "Howdy! In Sachen Kampfgrenze-news\n"
 	.string "bin ich die Nr. 1.\p"
 	.string "Denk an mich als den\n"
-	.string "GRENZ-NARREN.\p"
+	.string "Grenz-narren.\p"
 	.string "Nur zur Sicherheit: Du bist doch\n"
-	.string "ein TRAINER, oder?\p"
+	.string "ein Trainer, oder?\p"
 	.string "Ich teile gern die heißesten News\n"
-	.string "über die KAMPFGRENZE mit dir.$"
+	.string "über die Kampfgrenze mit dir.$"
 
 BattleFrontier_Lounge2_Text_SwingByForTheLatestWord_hns::
 	.string "Howdy! Bist du vorbeigekommen, um\n"

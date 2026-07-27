@@ -202,11 +202,11 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "Lass mich dich was fragen.\n"
 	.string "Wusstest du das schon? Ach, ich\l"
 	.string "sollte nicht so schüchtern sein.\p"
-	.string "Ich habe WASSILI alles beigebracht,\n"
-	.string "was man über POKéMON wissen muss.\p"
+	.string "Ich habe Wassili alles beigebracht,\n"
+	.string "was man über Pokémon wissen muss.\p"
 	.string "Und dann habe ich mein Amt als\n"
-	.string "ARENALEITER aufgegeben.\p"
-	.string "Ich habe die ARENA an WASSILI\n"
+	.string "Arenaleiter aufgegeben.\p"
+	.string "Ich habe die Arena an Wassili\n"
 	.string "übergeben.\p"
 	.string "Doch es gab einen zwingenden Grund für\n"
 	.string "mich zurückzukehren.\p"
@@ -215,7 +215,7 @@ SootopolisCity_Gym_1F_Text_JuanIntro:
 	.string "Du sollst Zeuge unserer\n"
 	.string "Kunstfertigkeit werden.\p"
 	.string "Eine Illusion aus Wasser, geformt von\n"
-	.string "meinen POKéMON und mir.$"
+	.string "meinen Pokémon und mir.$"
 
 @ NOTE: This defeat text actually causes a buffer overflow. It's about 50 bytes too long for
 @ the gDisplayedStringBattle buffer that it's put into, and it stomps all over the gBattleTextBuffs
@@ -227,7 +227,7 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "Ich weiß, dein brillantes Talent wird\n"
 	.string "jeden Gegner bezwingen.\p"
 	.string "Aber im Vergleich zu mir oder auch\n"
-	.string "WASSILI fehlt es dir an Eleganz.\p"
+	.string "Wassili fehlt es dir an Eleganz.\p"
 	.string "Vielleicht sollte ich dir ein paar\n"
 	.string "meiner Kleidungsstücke leihen?\p"
 	.string "… … … … …\n"
@@ -236,7 +236,7 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "…\p"
 	.string "Hahahaha, ich hab nur Spaß gemacht!\p"
 	.string "Statt meiner Kleidung überreiche ich\n"
-	.string "dir den SCHAUERORDEN.$"
+	.string "dir den Schauerorden.$"
 
 SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
 	.string "{PLAYER} erhält den SCHAUERORDEN\n"
@@ -264,13 +264,13 @@ SootopolisCity_Gym_1F_Text_RegisteredJuan:
 	.string "Verzeichnis eingetragen.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
-	.string "TRAINER, die alle ORDEN der ARENen in\n"
-	.string "HOENN erhalten haben, sollten sich…\p"
+	.string "Trainer, die alle Orden der Arenen in\n"
+	.string "Hoenn erhalten haben, sollten sich…\p"
 	.string "auf den Weg zur ultimativen Heraus-\n"
-	.string "forderung machen. Der POKéMON LIGA!\p"
+	.string "forderung machen. Der Pokémon Liga!\p"
 	.string "Reise zu den östlichsten Gebieten von\n"
-	.string "HOENN, zur Insel PRACHTPOLIS CITY.\l"
-	.string "Dort findest du die POKéMON LIGA.$"
+	.string "Hoenn, zur Insel Prachtpolis City.\l"
+	.string "Dort findest du die Pokémon Liga.$"
 
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
 	.string "In HOENN gibt es nur noch einen ORDEN\n"
@@ -288,7 +288,7 @@ SootopolisCity_Gym_1F_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch:
-	.string "JUAN: Ah, diese ARENA strahlt wieder\n"
+	.string "Juan: Ah, diese Arena strahlt wieder\n"
 	.string "die alte Heiterkeit aus…\p"
 	.string "Aber unser junger Wirbelwind ist\n"
 	.string "zurückgekehrt, um uns erneut\l"
@@ -303,7 +303,7 @@ SootopolisCity_Gym_1F_Text_JuanRematchDefeat:
 	.string "Du hast mich schon wieder besiegt.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostRematch:
-	.string "JUAN: Wenn ich dich frage, ob du mein\n"
+	.string "Juan: Wenn ich dich frage, ob du mein\n"
 	.string "Schüler werden willst, wirst du\n"
 	.string "bestimmt\l"
 	.string "ablehnen.\p"
@@ -315,7 +315,7 @@ SootopolisCity_Gym_1F_Text_JuanPostRematch:
 	.string "von hohen Idealen.$"
 
 SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
-	.string "JUAN: Ah, diese ARENA strahlt wieder\n"
+	.string "Juan: Ah, diese Arena strahlt wieder\n"
 	.string "die alte Heiterkeit aus…\p"
 	.string "Aber unser junger Wirbelwind ist\n"
 	.string "zurückgekehrt, um uns erneut\l"
@@ -325,8 +325,8 @@ SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons:
 	.string "und immer wieder über das Wasser zu\n"
 	.string "gleiten. \p"
 	.string "Aber, nein, nein, nein, nein.\n"
-	.string "Du hast ja nur ein einziges POKéMON.\p"
+	.string "Du hast ja nur ein einziges Pokémon.\p"
 	.string "Ich wünsche, dass du mit mindestens\n"
-	.string "zwei POKéMON wiederkommst und dann\l"
+	.string "zwei Pokémon wiederkommst und dann\l"
 	.string "gegen mich antrittst.$"
 

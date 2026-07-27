@@ -204,12 +204,12 @@ GoldenrodDeptStore_EventScript_ExitVendingMachine::
 	end
 
 GoldenrodDeptStore_Text_WhichDrinkWouldYouLike:
-	.string "Ein Getränkeautomat.\n"
-	.string "Welches Getränk möchtest du?$"
+	.string "Das ist ein Getränkeautomat.\n"
+	.string "Was möchtest du trinken?$"
 
 GoldenrodDeptStore_Text_DrinkClankedDown:
-	.string "Klonk!\p"
-	.string "Eine Dose {STR_VAR_1} fällt herunter.$"
+	.string "Schepper, klong!\p"
+	.string "{STR_VAR_1} fällt heraus.$"
 
 GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "Klonk!\p"
@@ -217,7 +217,7 @@ GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "fällt herunter!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "Nicht genug Geld…$"
+	.string "Du hast nicht genug Geld dafür!$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
 	.string "Ich kaufe mir doch kein Getränk.$"

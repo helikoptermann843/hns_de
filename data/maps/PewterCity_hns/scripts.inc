@@ -58,33 +58,30 @@ PewterCity_EventScript_Cooltrainer::
 	end
 
 PewterCity_Text_CooltrainerF:
-	.string "Warst du schon in\n"
-	.string "der PKMN-ARENA von MARMORIA CITY?\p"
-	.string "Der LEITER dort\n"
-	.string "verwendet GesteinPokémon.$"
+	.string "Warst du schon in der Arena\n"
+	.string "von Marmoria City?\p"
+	.string "Der Leiter dort verwendet\n"
+	.string "Gestein-Pokémon!$"
 
 PewterCity_Text_BugCatcher:
-	.string "NACHTs spielen PIEPI beim MONDBERG.\p"
-	.string "Aber nicht in jeder Nacht.$"
+	.string "Nachts spielen PIEPI beim Mondberg.\n"
+	.string "Aber scheinbar nicht in jeder Nacht!$"
 
 PewterCity_Text_Gramps:
-	.string "Oh, du bist den\n"
-	.string "ganzen Weg  von JOHTO bis hierher\l"
-	.string "gekommen?\p"
-	.string "Das weckt Erinnerungen.\p"
-	.string "Als ich noch jung war,\n"
-	.string "habe ich in JOHTO oft trainiert.\p"
-	.string "Du erinnerst mich an mich\n"
-	.string "selbst als junger Mann.\p"
-	.string "Hier. Ich möchte,\n"
-	.string "dass du dieses Item, das ich in JOHTO\l"
-	.string "fand, behältst.$"
+	.string "Oh, du bist den ganzen Weg von\n"
+	.string "Johto bis hierher gekommen!\p"
+	.string "Als ich noch jung war, habe ich auch\n"
+	.string "eine Trainingsreise nach Johto\l"
+	.string "unternommen. Du erinnerst mich\l"
+	.string "an mich selbst als junger Mann…\p"
+	.string "Hier, dieses Item habe ich damals in\n"
+	.string "Johto gefunden. Es gehört dir.$"
 
 PewterCity_Text_Gramps_GotSilverWing:
-	.string "Neue und un-\n"
-	.string "bekannte Orte zu erforschen und fremde\l"
-	.string "Menschen kennen zu lernen…\p"
-	.string "Das ist das Schöne am Reisen.$"
+	.string "Neue und unbekannte Orte zu\n"
+	.string "erforschen und fremde Menschen\l"
+	.string "kennenzulernen…\p"
+	.string "Das ist das Schöne am Reisen!$"
 
 PewterCity_EventScript_CitySign::
 	msgbox PewterCity_Text_Sign, MSGBOX_NPC
@@ -110,8 +107,9 @@ PewterCity_Text_Sign:
 	.string "MARMORIA CITY Eine Steingraue Stadt$"
 
 PewterCity_Text_GymSign:
-	.string "MARMORIA CITY POKéMON ARENA\n"
-	.string "Defensive Meisterklasse.$"
+	.string "Pokémon-Arena von Marmoria City\n"
+	.string "Leiter: Rocko\l"
+	.string "Der felsenharte Pokémon-Trainer$"
 
 PewterCity_Text_MuseumSign:
 	.string "Hier ist eine Nachricht…\p"
@@ -125,5 +123,5 @@ PewterCity_Text_MtMoonGiftShopSign:
 	.string "MONDBERG Jetzt geöffnet!$"
 
 PewterCity_Text_WelcomeSign:
-	.string "Willkommen in MARMORIA CITY!$"
+	.string "Willkommen in Marmoria City!$"
 

@@ -14,22 +14,22 @@ Route2_ViridianForest_NorthEntrance_EventScript_CooltrainerF::
 	end
 
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-	.string "Many POKéMON live only in forests \n"
-	.string "and caves.\p"
-	.string "You need to be persistent and look\n"
-	.string "everywhere to get different kinds.$"
+	.string "Viele POKéMON leben in Höhlen und\n"
+	.string "Wäldern.\p"
+	.string "Du solltest dich überall umsehen,\n"
+	.string "um verschiedene zu finden!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-	.string "Have you noticed the skinny trees\n"
-	.string "on the roadside?\p"
-	.string "They can be cut down by a special\n"
-	.string "POKéMON move, I hear.$"
+	.string "FLEGMON war hier, aber ich habe\n"
+	.string "ihn nicht verstehen können!\p"
+	.string "Ich glaube, er hat keine Zähne\n"
+	.string "mehr!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-	.string "Do you know the evolution-cancel\n"
-	.string "technique?\p"
-	.string "When a POKéMON is evolving, you\n"
-	.string "can stop the process.\p"
-	.string "It's a technique for raising\n"
-	.string "POKéMON the way they are.$"
+	.string "FLEGMON hält zur Zeit eine\n"
+	.string "Werbekampagne.\p"
+	.string "Erreiche die abgelegenste\n"
+	.string "Stelle in der SAFARI-ZONE.\p"
+	.string "Wenn du das schaffst, erhältst\n"
+	.string "du einen praktischen Preis!$"
 

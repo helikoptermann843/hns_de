@@ -72,18 +72,18 @@ OlivineCity_Gym_EventScript_MoveLeft4::
 	return
 
 OlivineCity_Gym_Text_Gent:
-	.string "Ich wusste du würdest kommen.\p"
-	.string "Danke, dass du der Arenaleiterin\n"
-	.string "geholfen hast.\p"
-	.string "Aber nun steht der Kampf bevor.\p"
-	.string "Bist du bereit?$"
+	.string "So so, du bist also wirklich gekommen.\p"
+	.string "Du magst der Arenaleiterin vielleicht\n"
+	.string "geholfen haben, aber in der Arena gilt\l"
+	.string "immer noch das Gesetz des Stärkeren!\p"
+	.string "Kämpfe entweder richtig oder gar nicht!$"
 
 OlivineCity_Gym_Text_Gent2:
-	.string "Unglaublich!\n"
-	.string "Du solltest deine Reise fortsetzen,\n"
-	.string "an vielerlei Orte.\p"
-	.string "Da du Surfer beherrschst,\n"
-	.string "Versuche es am SEE DES ZORNS?$"
+	.string "Das war ausgezeichnet! So solltest du\n"
+	.string "auf deiner Reise keine Probleme haben!\p"
+	.string "Und wo du nun schon mal im Besitz von\n"
+	.string "Surfer bist, solltest du auch mal am See\l"
+	.string "des Zorns vorbeischauen!$"
 
 OlivineCity_Gym_EventScript_Lass::
 	lock
@@ -156,17 +156,17 @@ OlivineCity_Gym_EventScript_MoveRight4::
 	return
 
 OlivineCity_Gym_Text_Lass:
-	.string "Kicher...\n"
-	.string "Ich weiß, wie fähig du bist,\l"
-	.string "beim LEUCHTTURM warst du Klasse!\p"
-	.string "Zeig Jasmin deine Stärke!\n"
-	.string "Viel Glück!$"
+	.string "Hehe! Du hast mir im Leuchtturm bereits\n"
+	.string "bewiesen, wie stark du wirklich bist.\p"
+	.string "Aber du wirst all deine Kraft brauchen,\n"
+	.string "um im Kampf gegen Jasmin zu bestehen!\p"
+	.string "…Ich hoffe, du gewinnst!$"
 
 OlivineCity_Gym_Text_Lass2:
-	.string "Du bist wirklich toll...\n"
-	.string "Strebe noch höher, du hast\l"
-	.string "so viel Potenzial.\p"
-	.string "Warst du schon in Mahagonia?$"
+	.string "Das war unbeschreiblich…\p"
+	.string "So stark wie du bist, solltest du\n"
+	.string "unbedingt weiterkämpfen!\p"
+	.string "Warst du schon in Mahagonia City?$"
 
 OlivineCity_Gym_EventScript_GymGuide::
 	lock
@@ -202,12 +202,12 @@ OlivineCity_Gym_Text_GymGuideWinText:
 	.string "Begegnung der unbekannten Art.$"
 
 OlivineCity_Gym_Text_GymGuidePreText:
-	.string "JASMIN, die ARENALEITERIN,\n"
-	.string "ist im LEUCHTTURM.\p"
-	.string "Sie kümmert sich um\n"
-	.string "ein krankes Pokémon.\p"
-	.string "Ein starker Trainer\n"
-	.string "muss auch Mitgefühl zeigen.$"
+	.string "Wo Jasmin, die Arenaleiterin, ist?\p"
+	.string "Dem Pokémon im Leuchtturm scheint\n"
+	.string "es nicht sehr gut zu gehen, und sie\l"
+	.string "sieht dort gerade nach dem Rechten.\p"
+	.string "Ein wirklich starker Trainer muss neben\n"
+	.string "Stärke auch Mitgefühl beweisen können.$"
 
 OlivineCity_Gym_EventScript_Jasmine::
 	lock
@@ -265,7 +265,7 @@ OlivineCity_Gym_EventScript_Jasmine_Defeated::
 
 OlivineCity_Gym_Text_JasmineSteelTypeIntro:
 	.string "…Danke für deine Hilfe am\n"
-	.string "LEUCHTTURM…\p"
+	.string "Leuchtturm…\p"
 	.string "Aber das hier ist anders.\n"
 	.string "Darf ich mich vorstellen?\p"
 	.string "Ich bin Jasmin, Arenaleiterin.\p"
@@ -275,10 +275,12 @@ OlivineCity_Gym_Text_JasmineSteelTypeIntro:
 	.string "…Ähm… Soll ich anfangen?$"
 
 OlivineCity_Gym_Text_JasmineBetterTrainer:
-	.string "…Du bist ein besserer Trainer\n"
-	.string "als ich, in Können und Herz.\p"
-	.string "Nach den Regeln der LIGA\n"
-	.string "überreiche ich dir diesen Orden.$"
+	.string "Jasmin: Du scheinst der bessere Trainer\n"
+	.string "von uns beiden zu sein.\p"
+	.string "Das gilt sowohl für dein Geschick als\n"
+	.string "auch für dein Feingefühl.\p"
+	.string "In Übereinstimmung mit den Regeln der\n"
+	.string "Liga überreiche ich dir diesen Orden!$"
 
 OlivineCity_Gym_Text_ReceivedMineralBadge:
 	.string "{PLAYER} erhielt MINERALORDEN.$"
@@ -293,11 +295,12 @@ OlivineCity_Gym_Text_JasmineIronTailSpeech:
 	.string "EISENSCHWEIF.$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
-	.string "Ähm… Ich weiß nicht, wie ich\n"
-	.string "es sagen soll, aber viel Glück…$"
+	.string "Jasmin: Ähm… ich weiß nicht, wie\n"
+	.string "ich das am besten sagen soll, aber…\p"
+	.string "Viel Glück!$"
 
 OlivineCity_Gym_Text_JasmineRematchText:
-	.string "…Glückwunsch, JOHTO CHAMPION.\p"
+	.string "…Glückwunsch, Johto Champion.\p"
 	.string "Du bist so stark geworden…\p"
 	.string "Ich frage mich, ob ich mich\n"
 	.string "verbessert habe.\p"
@@ -323,7 +326,7 @@ OlivineCity_Gym_EventScript_Statue2::
 	end
 
 OlivineCity_Gym_Text_GymStatue:
-	.string "Oliviana City Pokémon Arena$"
+	.string "Pokémon-Arena von Oliviana City$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
 	.string "Oliviana City Pokémon Arena\p"

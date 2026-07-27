@@ -173,50 +173,51 @@ NationalParkBugContest_Text_Attendant:
 	.string "NATIONALPARK BÜRO DES WÄCHTERs$"
 
 NationalParkBugContest_Text_ContestantBelinda:
-	.string "BELINDA: Ich werde gewinnen!\n"
-	.string "Stör mich nicht.$"
+	.string "Uli: Ich werde hier der Gewinner sein!\n"
+	.string "Wehe, du kommst mir in die Quere!$"
 
 NationalParkBugContest_Text_Contestant2A:
-	.string "ED: Mein Parasek schläfert\n"
-	.string "Pokémon mit Pilzspore ein.$"
+	.string "Alan: Mein PARASEK versetzt\n"
+	.string "Pokémon mittels Pilzspore\l"
+	.string "in einen tiefen Schlaf.$"
 
 NationalParkBugContest_Text_ContestantShaun:
-	.string "SHAUN: Gewinnen ist mir egal.\n"
-	.string "Ich suche nur seltene\l"
-	.string "Pokémon.$"
+	.string "Wilhelm: Gewinnen ist mir nicht wichtig.\n"
+	.string "Ich suche nur nach seltenen Pokémon!$"
 
 NationalParkBugContest_Text_Contestant6A:
-	.string "BARRY: Du solltest Käfer-Pokémon\n"
-	.string "erst schwächen,\l"
-	.string "dann einen BALL werfen.$"
+	.string "Till: Es ist wichtig, dass du darauf\n"
+	.string "achtest, Käfer-Pokémon zu schwächen,\l"
+	.string "bevor du einen Pokéball wirfst!$"
 
 NationalParkBugContest_Text_Contestant7A:
 	.string "CINDY: Ich liebe Käfer-Pokémon.\n"
 	.string "Du magst sie wohl auch.$"
 
 NationalParkBugContest_Text_Contestant8A:
-	.string "JOSHUA: Ich sammle Käfer-Pokémon schon\l"
-	.string "seit ich ein Baby bin.\n"
-	.string "Ich werde sicher nicht\p"
-	.string "verlieren!$"
+	.string "Enno: Seit meiner Kindheit sammele\n"
+	.string "ich Käfer-Pokémon.\p"
+	.string "Du kannst mich nicht besiegen!$"
 
 NationalParkBugContest_Text_Contestant9A:
-	.string "SAMUEL: Wenn du Zeit zum Reden\n"
-	.string "hast, such lieber nach\l"
-	.string "Käfer-Pokémon.$"
+	.string "Guido: Wenn du Zeit für Gespräche\n"
+	.string "hast, solltest du sie lieber dafür\l"
+	.string "nutzen, Pokémon zu suchen!$"
 
 NationalParkBugContest_Text_Contestant10A:
-	.string "KIPP: Ich habe viel über\n"
-	.string "Käfer-Pokémon gelernt.\l"
-	.string "Ich werde sicher gewinnen.$"
+	.string "Michel: Ich habe so viele Bücher\n"
+	.string "gelesen, dass ich eigentlich nur\l"
+	.string "noch gewinnen kann!$"
 
 NationalParkBugContest_Text_Sign_RelaxationSquare:
-	.string "ERHOLUNGSORT NATIONALPARK$"
+	.string "Der Nationalpark\n"
+	.string "Ein öffentlicher Ort der Erholung$"
 
 NationalParkBugContest_Text_Sign_BattleNotice:
-	.string "Was steht denn hier?\p"
-	.string "Kämpfe sind nur im Gras gestattet.\p"
-	.string "NATIONALPARK BÜRO DES WÄCHTERs$"
+	.string "Da ist ein Flugblatt…\p"
+	.string "Kämpfe sind nur im\n"
+	.string "hohen Gras gestattet.\l"
+	.string "- Das Büro des Wächters$"
 
 NationalParkBugContest_Text_TrainerTips:
 	.string "TIPPS für TRAINER\p"

@@ -20,7 +20,7 @@ SaffronCity_EventScript_BaobaCall::
 	end
 
 SaffronCity_Text_BaobaName:
-	.string "BAOBA$"
+	.string "Baoba$"
 
 SaffronCity_Text_Baoba:
 	.string "WÄRTER BAOBA: {PLAYER}!\p"
@@ -121,9 +121,10 @@ SaffronCity_Text_Lass1:
 	.string "Das ist sehr verwirrend.$"
 
 SaffronCity_Text_Lass1_ReturnedPart:
-	.string "Die NACHAHMERIN sieht unglücklich\p"
-	.string "aus. Sie hat ihre\n"
-	.string "Lieblings-- PUPPE - PIEPI - verloren.$"
+	.string "Die junge Nachahmerin hat ihre\n"
+	.string "geliebte Poképuppe verloren, eine\l"
+	.string "Nachbildung eines PIEPI. Das scheint\l"
+	.string "sie sehr mitzunehmen…$"
 
 SaffronCity_Text_PokefanM:
 	.string "Du bist von JOHTO hergekommen?\p"
@@ -132,24 +133,24 @@ SaffronCity_Text_PokefanM:
 	.string "Hause.$"
 
 SaffronCity_Text_PokefanM_ReturnedPart:
-	.string "Du kommst aus JOHTO?\p"
-	.string "Mit dem MAGNETZUG\n"
-	.string "bist du ganz schnell wieder zu Hause.$"
+	.string "Du kommst aus Johto?\p"
+	.string "Mit dem Magnetzug gelangst du\n"
+	.string "schneller zurück nach Johto als du\l"
+	.string ""Schwupps!" sagen kannst!$"
 
 SaffronCity_Text_CooltrainerM:
-	.string "Ich ging zur PKMN-\n"
-	.string "ARENA, weil ich unbedingt kämpfen\l"
-	.string "wollte…\p"
-	.string "Wie sich herausstellte, bin ich\n"
-	.string "ausgerechnet in der verlassenen\p"
-	.string "PKMN-ARENA gelandet.\p"
-	.string "War mir das peinlich!$"
+	.string "Als ich die Pokémon-Arena betreten\n"
+	.string "habe, war ich wild entschlossen, mir ein\l"
+	.string "paar fremde Trainer vorzuknöpfen…\p"
+	.string "Aber ich musste mir ausgerechnet diese\n"
+	.string "verlassene Arena dafür aussuchen…\l"
+	.string "Mann, ist mir das peinlich…$"
 
 SaffronCity_Text_CooltrainerF:
-	.string "Das ist die SILPH\n"
-	.string "CO., berühmt für ihre PokémonArtikel.\p"
-	.string "TEAM ROCKET wollte sie wegen dieser\n"
-	.string "Waren für sich nutzen.$"
+	.string "Das ist die Silph Co., berühmt für\n"
+	.string "ihre Pokémon-Artikel!\p"
+	.string "Deshalb hatte es vor einiger Zeit\n"
+	.string "auch Team Rocket auf sie abgesehen.$"
 
 SaffronCity_Text_Fisher:
 	.string "Mampf… Mampf…\p"
@@ -166,41 +167,39 @@ SaffronCity_Text_Fisher_ReturnedPart:
 	.string "Mampf… Mampf… Aah, ich bin satt!$"
 
 SaffronCity_Text_Youngster1:
-	.string "Ich finde es unheimlich, wenn\n"
-	.string "ich zum ersten Mal\l"
-	.string "einen engen Gang betrete.$"
+	.string "Ich bin immer aufgeregt, wenn ich das\n"
+	.string "erste Mal einen neuen Gang betrete!$"
 
 SaffronCity_Text_Youngster2:
-	.string "In VERTANIA CITY gibt es ein HAUS\n"
-	.string "für TRAINER. Dort treffen sich\l"
-	.string "Trainer der ganzen Welt.$"
+	.string "In Vertania City gibt es ein Trainer-\n"
+	.string "Haus, wo sich Pokémon-Trainer\l"
+	.string "aus der ganzen Welt treffen.$"
 
 SaffronCity_Text_Lass2:
-	.string "Über unsere Stadt\n"
-	.string "wurde mal im Radio berichtet.\p"
-	.string "Es ist schön, dass für deine Stadt\n"
-	.string "geworben wird.\p"
-	.string "Aber es ist auch ein bisschen\n"
-	.string "peinlich.$"
+	.string "Über unsere Stadt wurde mal\n"
+	.string "im Radio berichtet!\p"
+	.string "Ich freue mich zwar über das Lob\n"
+	.string "für meine Heimatstadt, aber es\l"
+	.string "ist mir auch ein klein wenig peinlich.$"
 
 SaffronCity_Text_Sign:
 	.string "SAFFRONIA CITY\p"
 	.string "Golden Schimmernde Stadt des Handels$"
 
 SaffronCity_Text_GymSign:
-	.string "SAFFRONIA CITY\p"
-	.string "Golden Schimmernde Stadt des Handels$"
+	.string "SAFFRONIA CITY POKéMON-ARENA\n"
+	.string "ARENALEITERIN: SABRINA\l"
+	.string "Die Herrin der PSYCHO-POKéMON!$"
 
 SaffronCity_Text_FightingDojoSign:
-	.string "Jeder Willkommen!\n"
-	.string "Kampf DOJO$"
+	.string "Willkommen im Karate Dojo!$"
 
 SaffronCity_Text_SilphCoSign:
-	.string "SILPH CO.\p"
-	.string "BÜROGEBÄUDE$"
+	.string "SILPH CO. BÜROGEBÄUDE$"
 
 SaffronCity_Text_MrPsychicHouseSign:
 	.string "MR.Psychokinese's HAUS$"
 
 SaffronCity_Text_MagnetTrainStationSign:
-	.string "SAFFRONIA CITY MAGNETZUGBAHNHOF$"
+	.string "Saffronia City, Bahnhof für die Magnet-\n"
+	.string "zugstrecke zwischen Kanto und Johto$"

@@ -469,8 +469,8 @@ BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent_hns:
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du das Spiel speichern und\n"
-	.string "beenden?$"
+	.string "Möchtest du speichern und\n"
+	.string "das Spiel beenden?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge_hns:
 	.string "Möchtest du die Herausforderung\n"
@@ -500,13 +500,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser_hns:
 	.string "Den PALASTREGENTen SERENUS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro_hns:
-	.string "SERENUS: Mein Leben dreht sich um\n"
+	.string "Serenus: Mein Leben dreht sich um\n"
 	.string "meine\n"
-	.string "POKéMON. Immer und ausschließlich!\p"
+	.string "Pokémon. Immer und ausschließlich!\p"
 	.string "Unsere Herzen schlagen im gleichen\n"
 	.string "Takt!\p"
-	.string "Junger TRAINER!\n"
-	.string "Glaubst du an deine POKéMON?\p"
+	.string "Junger Trainer!\n"
+	.string "Glaubst du an deine Pokémon?\p"
 	.string "Kannst du aus tiefstem Herzen und\n"
 	.string "voller Überzeugung an sie glauben?\p"
 	.string "Ist euer Band schwach, wirst du mich\n"

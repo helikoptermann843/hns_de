@@ -17,13 +17,13 @@ BellchimeTrail_EventScript_Morty::
 
 BellchimeTrail_Text_Morty:
 	.string "Jens: Das Legendäre Pokémon\n"
-	.string "hat mich nicht gewählt...\p"
-	.string "Aber das bedeutet nicht\n"
-	.string "das meine Zukunft verloren ist.\p"
-	.string "Ich werde weiter trainieren bis ich\n"
-	.string "eine neue Zukunft für mich sehe.\p"
-	.string "Wenn du erneut kämpfen willst finde\n"
-	.string "mich im Kampf DOJO.$"
+	.string "hat mich nicht auserwählt…\p"
+	.string "Aber deshalb muss ich ja nicht\n"
+	.string "sofort das Handtuch werfen.\p"
+	.string "Ich trainiere einfach weiter, bis\n"
+	.string "sich ein neues Ziel vor mir auftut.\p"
+	.string "Was sagst du? Wollen wir nicht ab\n"
+	.string "und zu gemeinsam trainieren?$"
 
 EcruteakBellchimeTrail_EventScript_Item_BigMushroom::
 	finditem ITEM_BIG_MUSHROOM

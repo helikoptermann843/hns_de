@@ -22,15 +22,16 @@ LavenderTown_House1_EventScript_Marowak::
 	end
 
 LavenderTown_House1_Text_Girl:
-	.string "Kannst du es glauben?\p"
-	.string "Manche Leute langweilen sich,\n"
-	.string "wenn sie sich um Pokémon kümmern.\p"
-	.string "Opa nimmt solche armen\n"
-	.string "obdachlosen Pokémon auf.$"
+	.string "Es gibt da draußen schreckliche Leute,\n"
+	.string "die ihre Pokémon links liegen lassen,\l"
+	.string "wenn sie genug von ihnen haben.\p"
+	.string "Mr. Fuji bietet diesen armen,\n"
+	.string "heimatlosen Pokémon ein Zuhause.$"
 LavenderTown_House1_Text_Guy:
-	.string "Herr Fuji wohnt hier zwar,\n"
-	.string "ist aber gerade nicht da.\l"
-	.string "Er sollte im SEELENHAUS sein.$"
+	.string "Ja, das hier ist das Haus von Mr. Fuji…\n"
+	.string "Aber im Moment ist er leider nicht hier.\p"
+	.string "Du suchst am besten mal im\n"
+	.string "Haus der Erinnerungen nach ihm!$"
 LavenderTown_House1_Text_Marowak:
 	.string ".............................$"
 

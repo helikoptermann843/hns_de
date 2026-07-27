@@ -69,7 +69,7 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "Der BOSS hat Interesse an den \n"
+	.string "Der Boss hat Interesse an den \n"
 	.string "Forschungen gezeigt, daher hat er uns\l"
 	.string "hergeschickt.\p"
 	.string "Stör uns gefälligst nicht!$"
@@ -79,8 +79,8 @@ Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
 	.string "Besiegt… von einem Kind!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
-	.string "Unser BOSS weiß alles.\p"
-	.string "Ich bin nur ein RÜPEL. Woher soll ich\n"
+	.string "Unser Boss weiß alles.\p"
+	.string "Ich bin nur ein Rüpel. Woher soll ich\n"
 	.string "wissen, was er denkt?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:

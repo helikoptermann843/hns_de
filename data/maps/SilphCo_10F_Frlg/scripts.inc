@@ -34,35 +34,36 @@ SilphCo_10F_EventScript_Grunt::
 	end
 
 SilphCo_10F_Text_GruntIntro::
-	.string "Welcome to 10F!\n"
-	.string "So good of you to join me!$"
+	.string "Willkommen im 9. Stock! Es ist\n"
+	.string "nett, dass du vorbeischaust!$"
 
 SilphCo_10F_Text_GruntDefeat::
-	.string "I'm stunned!$"
+	.string "Ich bin geschockt!$"
 
 SilphCo_10F_Text_GruntPostBattle::
-	.string "Nice try, but the boardroom is up\n"
-	.string "one more floor.$"
+	.string "Netter Versuch!\n"
+	.string "Der Sitzungssaal befindet sich aber\l"
+	.string "noch ein Stockwerk höher!$"
 
 SilphCo_10F_Text_TravisIntro::
-	.string "Enough of your silly games!$"
+	.string "Genug von deinen dummen Spielchen!$"
 
 SilphCo_10F_Text_TravisDefeat::
-	.string "No continues left!$"
+	.string "Meine Reserven sind erschöpft!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "Are you satisfied with beating me?\n"
-	.string "Then go on home!$"
+	.string "Die TRAINER hier sind auf dem Weg\n"
+	.string "zur POKéMON LIGA! Sei vorsichtig!$"
 
 SilphCo_10F_Text_WaaaImScared::
-	.string "Waaaaa!\n"
-	.string "I'm scared!$"
+	.string "Hilfe!\n"
+	.string "Ich habe Angst!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "About me crying…\n"
-	.string "Please keep it a secret.$"
+	.string "Du beschreitest die SIEGESSTRASSE\n"
+	.string "nicht ohne Grund!$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "10F$"
+	.string "Hast du wirklich GIOVANNI vom TEAM\n"
+	.string "ROCKET besiegt?$"
 

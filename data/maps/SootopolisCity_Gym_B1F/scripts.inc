@@ -53,11 +53,11 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
 	.string "Ich zeige dir die sublimen Techniken,\n"
-	.string "die ich vom ARENALEITER JUAN\l"
+	.string "die ich vom Arenaleiter Juan\l"
 	.string "gelernt habe.$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-	.string "Bitte verzeih mir, JUAN…$"
+	.string "Bitte verzeih mir, Juan…$"
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "Pass auf, was passiert, wenn du alle\n"
@@ -65,7 +65,7 @@ SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
 	.string "Du bist den ganzen Weg hierher ge-\n"
-	.string "kommen, aber bis zu JUAN dringst\l"
+	.string "kommen, aber bis zu Juan dringst\l"
 	.string "du nicht vor.\p"
 	.string "Weil du gegen mich verlieren wirst!$"
 
@@ -76,12 +76,12 @@ SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
 	.string "Du bist gut genug, um nicht sofort von\n"
-	.string "JUAN besiegt zu werden.$"
+	.string "Juan besiegt zu werden.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
-	.string "Die Art, wie JUAN kämpft…\p"
+	.string "Die Art, wie Juan kämpft…\p"
 	.string "Dieser wunderbare Anblick hat mich\n"
-	.string "dazu inspiriert, TRAINER zu werden.$"
+	.string "dazu inspiriert, Trainer zu werden.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneDefeat:
 	.string "Du kämpfst mit mehr Anmut als ich…$"
@@ -90,7 +90,7 @@ SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
 	.string "Die Ästhetik, die du in den Kampf ein-\n"
 	.string "bringst, ist unbeschreiblich.\p"
 	.string "Oh… Ich bin so glücklich, dass ich\n"
-	.string "mich für POKéMON entschieden habe.$"
+	.string "mich für Pokémon entschieden habe.$"
 
 SootopolisCity_Gym_B1F_Text_ConnieIntro:
 	.string "Ich werde dir beibringen, dass Kämpfe\n"
@@ -101,13 +101,13 @@ SootopolisCity_Gym_B1F_Text_ConnieDefeat:
 
 SootopolisCity_Gym_B1F_Text_ConniePostBattle:
 	.string "Ich verrate dir etwas.\p"
-	.string "Wenn du zu JUAN willst, dann darfst\n"
+	.string "Wenn du zu Juan willst, dann darfst\n"
 	.string "du auf jede Fliese nur ein Mal treten.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
-	.string "Die POKéMON ARENA mit den höchsten\n"
-	.string "Anforderungen in der HOENN-Region…\p"
-	.string "Das ist die ARENA von XENEROVILLE.$"
+	.string "Die Pokémon Arena mit den höchsten\n"
+	.string "Anforderungen in der Hoenn-region…\p"
+	.string "Das ist die Arena von Xeneroville.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 	.string "Du kämpfst aber auf einem hohen\n"
@@ -115,14 +115,14 @@ SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 
 SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
 	.string "Statt damit zufrieden zu sein, zur\n"
-	.string "besten ARENA zu gehören, würde ich\l"
+	.string "besten Arena zu gehören, würde ich\l"
 	.string "gerne auch an anderen Orten\n"
 	.string "trainieren.\l"
 	.string "Aber hier ist es so lustig!$"
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
-	.string "Ich trainiere meine POKéMON zusammen\n"
-	.string "mit JUAN.\p"
+	.string "Ich trainiere meine Pokémon zusammen\n"
+	.string "mit Juan.\p"
 	.string "Ich bin nicht leicht zu nehmen!$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
@@ -135,7 +135,7 @@ SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
 SootopolisCity_Gym_B1F_Text_TiffanyIntro:
 	.string "Anmutig über das Eis zu gleiten, ohne\n"
 	.string "die Linien zu berühren…\p"
-	.string "Ein TRAINER, der das beherrscht, wird\n"
+	.string "Ein Trainer, der das beherrscht, wird\n"
 	.string "auch in anderen Dingen elegant wirken.$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
@@ -144,11 +144,11 @@ SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 	.string "Es ist offensichtlich: Die Stärke\n"
 	.string "eines\n"
-	.string "TRAINERs hat nichts mit seinem Alter\l"
+	.string "Trainers hat nichts mit seinem Alter\l"
 	.string "zu tun!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
-	.string "Wenn ich mit meinen POKéMON zusammen\n"
+	.string "Wenn ich mit meinen Pokémon zusammen\n"
 	.string "bin, vergeht die Zeit so schnell, dass\l"
 	.string "ich noch nicht mal “Uuups” sagen kann.$"
 
@@ -162,17 +162,17 @@ SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
 	.string "Wenn du magst, setze ich im Kampf\n"
-	.string "viele seltene POKéMON ein.$"
+	.string "viele seltene Pokémon ein.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
-	.string "Und? Hast du dir meine POKéMON\n"
+	.string "Und? Hast du dir meine Pokémon\n"
 	.string "gut angesehen?$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
-	.string "Ich bin zu dieser ARENA gekommen, weil\n"
-	.string "JUAN meine geliebten POKéMON gelobt\l"
+	.string "Ich bin zu dieser Arena gekommen, weil\n"
+	.string "Juan meine geliebten Pokémon gelobt\l"
 	.string "hat.\p"
-	.string "Wäre ich JUAN nur früher begegnet, als\n"
+	.string "Wäre ich Juan nur früher begegnet, als\n"
 	.string "ich noch jung war…$"
 
 SootopolisCity_Gym_B1F_Text_BriannaIntro:
@@ -186,6 +186,6 @@ SootopolisCity_Gym_B1F_Text_BriannaDefeat:
 	.string "gemacht.$"
 
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "Du kannst JUAN kein Härchen krümmen,\n"
+	.string "Du kannst Juan kein Härchen krümmen,\n"
 	.string "wetten? Kicher…$"
 

@@ -31,9 +31,7 @@ OlivineCity_Text_PokecenterFisher:
 	.string "kann es Felsen bewegen.$"
 
 OlivineCity_Text_PokecenterTeacher:
-	.string "Da gibt es jemanden in\n"
-	.string "ANEMONIA CITY jenseits des\l"
-	.string "Meeres.\p"
-	.string "Ich habe gehört, wie er mit\n"
-	.string "seinen seltenen Pokémon\l"
-	.string "angegeben hat.$"
+	.string "In Anemonia City auf der anderen\n"
+	.string "Seite des Ozeans soll es jemanden\l"
+	.string "geben, der immer mit seinen\l"
+	.string "seltenen Pokémon angibt.$"

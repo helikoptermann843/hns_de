@@ -45,49 +45,49 @@ SilphCo_9F_EventScript_Grunt2::
 	end
 
 SilphCo_9F_Text_YouShouldTakeQuickNap::
-	.string "You look tired.\n"
-	.string "You should take a quick nap.$"
+	.string "Du siehst müde aus!\n"
+	.string "Komm, ruhe dich kurz aus!$"
 
 SilphCo_9F_Text_DontGiveUp::
-	.string "Don't give up!$"
+	.string "Gib nicht auf!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Thank you so much.$"
+	.string "Ich danke vielmals!$"
 
 SilphCo_9F_Text_Grunt1Intro::
-	.string "Your POKéMON seem to adore you,\n"
-	.string "kid!$"
+	.string "Deine Pokémon scheinen dich sehr\n"
+	.string "zu mögen!$"
 
 SilphCo_9F_Text_Grunt1Defeat::
-	.string "Ghaaah!$"
+	.string "Waaah!$"
 
 SilphCo_9F_Text_Grunt1PostBattle::
-	.string "If I had started as a TRAINER at\n"
-	.string "your age…$"
+	.string "Hätte ich doch auch schon in\n"
+	.string "deinem Alter als Trainer begonnen!$"
 
 SilphCo_9F_Text_EdIntro::
-	.string "Your POKéMON have weak points!\n"
-	.string "I can nail them!$"
+	.string "Ich finde die Schwachstellen\n"
+	.string "deiner Pokémon und besiege sie!$"
 
 SilphCo_9F_Text_EdDefeat::
-	.string "You hammered me!$"
+	.string "Du hast mich besiegt!$"
 
 SilphCo_9F_Text_EdPostBattle::
-	.string "Exploiting weak spots does work.\n"
-	.string "Think about type advantages.$"
+	.string "Mach dir die Schwachstellen zu\n"
+	.string "Nutze! Denke an die Elementklassen!$"
 
 SilphCo_9F_Text_Grunt2Intro::
-	.string "I am one of the four ROCKET\n"
-	.string "BROTHERS!$"
+	.string "Ich bin einer der vier berüchtigten\n"
+	.string "Rocket-brüder!$"
 
 SilphCo_9F_Text_Grunt2Defeat::
-	.string "Warg!\n"
-	.string "Brothers, I lost!$"
+	.string "Oje!\n"
+	.string "Ich wurde besiegt!$"
 
 SilphCo_9F_Text_Grunt2PostBattle::
-	.string "My brothers will avenge me!$"
+	.string "Aber meine Brüder rächen mich!$"
 
 SilphCo_9F_Text_FloorSign::
-	.string "SILPH CO. HEAD OFFICE\n"
-	.string "9F$"
+	.string "SILPH CO. HAUPTSITZ\n"
+	.string "8 OG$"
 

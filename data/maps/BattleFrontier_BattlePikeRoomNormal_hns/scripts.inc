@@ -657,30 +657,30 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons_hns:
-	.string "Excuse me…\p"
-	.string "Would you care for a battle?\n"
-	.string "I’ll restore your POKéMON if you win.$"
+	.string "Entschuldige…\p"
+	.string "Hättest du Lust auf einen Kampf?\n"
+	.string "Bei einem Sieg heile ich deine POKéMON.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe_hns:
-	.string "Very well…\n"
-	.string "Now, shall we?$"
+	.string "Wohlan denn…\n"
+	.string "Wollen wir beginnen?$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
-	.string "I see…\n"
-	.string "How unsporting of you…$"
+	.string "Ich verstehe…\n"
+	.string "Wie unsportlich von dir…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised_hns:
-	.string "Magnificent…\p"
-	.string "As promised, I shall restore your\n"
-	.string "POKéMON to full health.$"
+	.string "Großartig…\p"
+	.string "Wie versprochen heile ich deine\n"
+	.string "POKéMON vollständig.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2_hns:
-	.string "The best of luck to you.\n"
-	.string "Farewell.$"
+	.string "Ich wünsche dir viel Glück.\n"
+	.string "Leb wohl.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WatchOut_hns:
 	.string "Oh je!\p"
@@ -698,16 +698,20 @@ BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic_hns:
 	.string "KIRLIA setzt TOXIN ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis_hns:
-	.string "KIRLIA setzt HYPNOSE ein!$"
+	.string "{STR_VAR_1} setzt\n"
+	.string "Hypnose ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave_hns:
-	.string "KIRLIA setzt DONNERWELLE ein!$"
+	.string "{STR_VAR_1} setzt\n"
+	.string "Donnerwelle ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp_hns:
-	.string "KIRLIA setzt IRRLICHT ein!$"
+	.string "{STR_VAR_1} setzt\n"
+	.string "Irrlicht ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp_hns:
-	.string "ZWIRRKLOP setzt IRRLICHT ein!$"
+	.string "{STR_VAR_1} setzt\n"
+	.string "Irrlicht ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam_hns:
 	.string "ZWIRRKLOP setzt EISSTRAHL ein!$"
@@ -734,10 +738,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine_hns:
 	.string "POKéMON geht es gut.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence_hns:
-	.string "… … … … …\n"
-	.string "…\l"
-	.string "… … … … …\l"
-	.string "…$"
+	.string "こうおん　たしつの　とちを　このむ。\n"
+	.string "ツルを　のばして　えものを　とらえる\n"
+	.string "ときの　うごきは　とても　すばやい。$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer_hns:
 	.string "Willkommen…\p"
@@ -836,11 +839,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo_hns:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your POKéMON will be restored…$"
+	.string "Sei willkommen…\p"
+	.string "Kicher…\n"
+	.string "Du kannst von Glück sagen…\p"
+	.string "Denn du hast diesen Raum gewählt und\n"
+	.string "ich heile all deine POKéMON.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
 	.string "Ich werde unsere Meisterin rufen…$"

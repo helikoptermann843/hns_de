@@ -18,15 +18,15 @@ NewBarkTown_House1_EventScript_Daughter::
 	end
 
 NewBarkTown_House1_Text_NeighborsDaughter:
-	.string "Pikachu ist ein entwickeltes\n"
-	.string "Pokémon.\p"
-	.string "PROF. LINDs Entdeckung hat mich\n"
-	.string "total überrascht.\p"
-	.string "Er ist so berühmt für seine\n"
-	.string "Forschung zur Entwicklung.\p"
-	.string "…seufz…\p"
-	.string "Ich wünschte, ich könnte auch\n"
-	.string "Forscher werden wie er…$"
+	.string "PIKACHU ist ein entwickeltes Pokémon!\p"
+	.string "Diese Erkenntnis verdanken wir ganz\n"
+	.string "alleine Professor Lind…\p"
+	.string "Er hat mir wirklich sehr imponiert.\p"
+	.string "An seiner Ausstrahlung merkt man\n"
+	.string "sofort, wie er zu so einem berühmten\l"
+	.string "Pokémon-Professor werden konnte.\p"
+	.string "Seufz… ich wünschte, ich wäre auch so\n"
+	.string "ein toller Forscher wie er.$"
 
 
 NewBarkTown_House1_Text_Neighbor:

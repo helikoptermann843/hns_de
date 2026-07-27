@@ -1121,7 +1121,7 @@ Route104_Text_MayLetsBattle:
 	.string "MAIKE: Was hältst du von einem Kampf?$"
 
 Route104_Text_MayIntro:
-	.string "MAIKE: Du bist gerade erst TRAINER\n"
+	.string "Maike: Du bist gerade erst Trainer\n"
 	.string "geworden, {PLAYER}{KUN}. Ich werde\n"
 	.string "nicht\l"
 	.string "verlieren.$"
@@ -1131,15 +1131,15 @@ Route104_Text_MayDefeat:
 	.string "Du bist besser als ich gedacht habe.$"
 
 Route104_Text_MayPostBattle:
-	.string "MAIKE: Du bist wirklich sehr gut im\n"
-	.string "Umgang mit POKéMON.\p"
+	.string "Maike: Du bist wirklich sehr gut im\n"
+	.string "Umgang mit Pokémon.\p"
 	.string "Aber anstatt sie nur kämpfen zu\l"
 	.string "lassen,\n"
-	.string "solltest du dir ein Beispiel an MR.\p"
-	.string "BRACK\l"
+	.string "solltest du dir ein Beispiel an Mr.\p"
+	.string "Brack\l"
 	.string "nehmen.\p"
 	.string "Es ist wichtig, dass man sich mit den\n"
-	.string "POKéMON anfreundet.$"
+	.string "Pokémon anfreundet.$"
 
 Route104_Text_BrendanWeShouldRegister:
 	.string "BRIX: Hey, {PLAYER}!\p"
@@ -1173,18 +1173,18 @@ Route104_Text_BrendanLetsBattle:
 	.string "Kampf?$"
 
 Route104_Text_BrendanIntro:
-	.string "BRIX: Ich weiß, du bist gerade erst\n"
+	.string "Brix: Ich weiß, du bist gerade erst\n"
 	.string "ein\n"
-	.string "TRAINER geworden, aber ich werde mich\l"
+	.string "Trainer geworden, aber ich werde mich\l"
 	.string "nicht zurückhalten.$"
 
 Route104_Text_BrendanDefeat:
 	.string "Hmm… Du bist sehr gut.$"
 
 Route104_Text_BrendanPostBattle:
-	.string "BRIX: Du bist sehr gut im Umgang mit\n"
-	.string "POKéMON geworden.\p"
-	.string "Aber du solltest deine POKéMON nicht\n"
+	.string "Brix: Du bist sehr gut im Umgang mit\n"
+	.string "Pokémon geworden.\p"
+	.string "Aber du solltest deine Pokémon nicht\n"
 	.string "nur kämpfen lassen.\p"
-	.string "Mach es wie MR. BRACK. Es ist wichtig,\n"
+	.string "Mach es wie Mr. Brack. Es ist wichtig,\n"
 	.string "dass man sich mit ihnen anfreundet.$"

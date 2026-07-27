@@ -32,12 +32,12 @@ FuchsiaCity_Mart_Items::
 	end
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
-	.string "Don't they have any pennants\n"
-	.string "promoting the SAFARI ZONE?\p"
-	.string "How about some paper lanterns?\n"
-	.string "Aren't there even any calendars?$"
+	.string "Selbst wir können die eigenwilligen\n"
+	.string "GEISTER nicht identifizieren!\p"
+	.string "Man benötigt das SILPH SCOPE, um\n"
+	.string "sie zu erkennen!$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-	.string "Did you try X SPEED?\n"
-	.string "It speeds up a POKéMON in battle.$"
+	.string "Der POKéMON-TURM wurde im Andenken\n"
+	.string "an verblichene POKéMON errichtet.$"
 

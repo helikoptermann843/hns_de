@@ -235,7 +235,7 @@ BlackthornGym_EventScript_ClairAfterLeague::
 BlackthornGym_Text_ClairIntroText:
 	.string "Ich bin Sandra.\p"
 	.string "Der beste Drachenmeister der Welt.\p"
-	.string "Ich bestehe sogar gegen die TOP VIER\n"
+	.string "Ich bestehe sogar gegen die Top Vier\n"
 	.string "der Pokémon Liga.\p"
 	.string "Willst du immer noch gegen mich\n"
 	.string "antreten?\p"
@@ -296,7 +296,7 @@ BlackthornGym_Text_ClairAfterLeague:
 
 BlackthornGym_Text_ClairRematchText:
 	.string "Du hast es geschafft, huh?\p"
-	.string "Du bist jetzt der JOHTO CHAMP.\p"
+	.string "Du bist jetzt der Johto Champ.\p"
 	.string "Du hast deine Stärke bewiesen\n"
 	.string "glaubst du, du besiegst mich erneut?\p"
 	.string "Als Drachenmeister werde ich mich\n"
@@ -407,10 +407,10 @@ BlackthornGym_Text_GuideText:
 
 BlackthornGym_Text_GuideGotoDragonsDen:
 	.string "Du warst super gegen Sandra!\p"
-    .string "Sie ist leider kein guter\n"
+	.string "Sie ist leider kein guter\n"
 	.string "verlierer.\p"
-    .string "Schätze du musst zur Drachenhöhle,\n"
-    .string "wenn du den Orden bekommen willst!$"
+	.string "Schätze du musst zur Drachenhöhle,\n"
+	.string "wenn du den Orden bekommen willst!$"
 
 BlackthornGym_Text_GuideWinText:
 	.string "Gegen Sandra zu gewinnen ist\n"
@@ -435,7 +435,7 @@ BlackthornGym_EventScript_Statue2::
 	end
 
 BlackthornGym_Text_GymStatue:
-	.string "Ebenholz City Pokémon Arena$"
+	.string "Pokémon-Arena von Ebenholz City$"
 
 BlackthornGym_Text_GymStatueCertified:
 	.string "Ebenholz City Pokémon Arena\p"

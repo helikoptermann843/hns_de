@@ -325,23 +325,24 @@ GoldenrodCity_Text_ElmCall:
 	.string "Ich muss es untersuchen!$"
 
 GoldenrodCity_Text_PokefanM:
-	.string "Der neue RADIOTURM wurde erbaut,\n"
-	.string "um den alten zu ersetzen.$"
+	.string "Dieser hochmoderne Radiosender wurde\n"
+	.string "aus einem alten einsturzgefährdeten\l"
+	.string "Turm gebaut, der hier einmal stand.$"
 
 GoldenrodCity_Text_Youngster1:
-	.string "Es soll einen neuen FAHRRADLADEN\n"
-	.string "geben, aber ich kann ihn\l"
-	.string "nirgends finden.$"
+	.string "Hier soll es irgendwo einen neuen\n"
+	.string "Fahrradladen geben. Aber wo bloß?\p"
+	.string "Ich finde ihn einfach nicht…$"
 
 GoldenrodCity_Text_CooltrainerF1:
-	.string "Hat sich dieser Mann in Schwarz\n"
-	.string "als Mitglied von TEAM ROCKET\l"
-	.string "verkleidet? Wie dämlich!$"
+	.string "Hat sich dieser Mann in Schwarz etwa\n"
+	.string "als Mitglied von Team Rocket verkleidet?\l"
+	.string "Was ist das denn für ein Widerling?$"
 
 GoldenrodCity_Text_CooltrainerF1_Cleared:
-	.string "Hat sich dieser Mann in Schwarz\p"
-	.string "als Mitglied von\n"
-	.string "TEAM ROCKET verkleidet? Wie dämlich!$"
+	.string "Dann gehörte dieser Mann in Schwarz\n"
+	.string "also wirklich zu Team Rocket?\l"
+	.string "Ich kann es immer noch nicht glauben!$"
 
 GoldenrodCity_Text_CooltrainerF2:
 	.string "Der RADIOTURM in\n"
@@ -373,30 +374,31 @@ GoldenrodCity_Text_Gramps:
 	.string "finde mich noch gar nicht zurecht.$"
 
 GoldenrodCity_Text_RocketScout1:
-	.string "Das ist also der RADIOTURM…$"
+	.string "Das ist also der Radioturm…$"
 
 GoldenrodCity_Text_RocketScout2:
-	.string "Was willst du, du Nervensäge? Hau ab!$"
+	.string "Was willst du, Nervensäge? Hau ab!$"
 
 GoldenrodCity_Text_Rocket1:
 	.string "Aus dem Weg! Verschwinde!$"
 
 GoldenrodCity_Text_Rocket2:
-	.string "Den RADIOTURM einnehmen…\p"
-	.string "Was? Das geht dich nichts an!$"
+	.string "Wir haben den Radioturm besetzt, um…\p"
+	.string "Moment mal! Das geht ein Kind wie dich\n"
+	.string "doch gar nichts an!$"
 
 GoldenrodCity_Text_Rocket3:
 	.string "Pokémon? Sie sind nicht mehr als\p"
 	.string "Werkzeuge zum Geldscheffeln!$"
 
 GoldenrodCity_Text_Rocket4:
-	.string "Bald wird sich un-\n"
-	.string "ser Traum erfüllen…\p"
-	.string "So lange hat es schon gedauert…$"
+	.string "Bald geht unser Traum in Erfüllung…\n"
+	.string "Es war ein steiniger Weg bis hierher…$"
 
 GoldenrodCity_Text_Rocket5:
-	.string "Hey, Grünschnabel!\n"
-	.string "Du hast hier nichts zu suchen!$"
+	.string "Ich glaube, ich sehe nicht recht!\n"
+	.string "Was hat denn ein Kind hier verloren?\l"
+	.string "Los, verzieh dich gefälligst!$"
 
 GoldenrodCity_Text_Rocket6:
 	.string "Komm und werde\n"
@@ -413,9 +415,9 @@ GoldenrodCity_Text_DeptStoreSign:
 	.string "DUKATIA CITY KAUFHAUS$"
 
 GoldenrodCity_Text_GymSign:
-	.string "DUKATIA CITY\p"
-	.string "Die festliche\n"
-	.string "Stadt mit opulentem Charme$"
+	.string "Pokémon-Arena von Dukatia City\n"
+	.string "Leiterin: Bianka\l"
+	.string "Ein Mädchen so scharf wie Sprengstoff!$"
 
 GoldenrodCity_Text_CitySign:
 	.string "DUKATIA CITY\p"
@@ -430,9 +432,9 @@ GoldenrodCity_Text_GameCornerSign:
 	.string "DUKATIA CITY SPIELHALLE$"
 
 GoldenrodCity_Text_NameRaterSign:
-	.string "NAMEN-BEWERTER\p"
-	.string "Möchtest du deine\n"
-	.string "Spitznamen bewerten lassen?$"
+	.string "Namenbewerter\p"
+	.string "Hier erhältst du eine ehrliche\n"
+	.string "Einschätzung deiner Spitznamen.$"
 
 GoldenrodCity_Text_UndergroundNorthSign:
 	.string "UNTERGRUNDEINGANG$"
@@ -451,7 +453,8 @@ GoldenrodCity_Text_MoveTutorCost:
 	.string "A-aber…$"
 
 GoldenrodCity_Text_MoveTutorDecline:
-	.string "Aww… But these moves are great!$"
+	.string "Ohhh… Aber diese Attacken sind\n"
+	.string "doch richtig gut!$"
 
 GoldenrodCity_Text_MoveTutorWhich:
 	.string "A-aber…$"

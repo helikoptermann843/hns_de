@@ -25,18 +25,18 @@ LavenderTown_House1_EventScript_Cubone::
 	end
 
 LavenderTown_House1_Text_Cubone::
-	.string "CUBONE: Kyarugoo!$"
+	.string "TRAGOSSO: Kiajahuu!$"
 
 LavenderTown_House1_Text_RocketsKilledCubonesMother::
-	.string "Those horrible ROCKETS!\n"
-	.string "They deserve no mercy!\p"
-	.string "That poor CUBONE's mother…\p"
-	.string "It was killed trying to escape from\n"
-	.string "TEAM ROCKET.$"
+	.string "Ich hasse dieses furchtbare TEAM\n"
+	.string "ROCKET!\p"
+	.string "Die arme Mutter des TRAGOSSO!\p"
+	.string "Sie konnte dem TEAM ROCKET nicht\n"
+	.string "entkommen!$"
 
 LavenderTown_House1_Text_GhostOfPokemonTowerIsGone::
-	.string "The ghost of POKéMON TOWER is\n"
-	.string "gone!\p"
-	.string "Someone must have soothed its\n"
-	.string "restless spirit!$"
+	.string "Der GEIST im POKéMON-TURM ist\n"
+	.string "verschwunden!\p"
+	.string "Jemand muss seine rastlose Seele\n"
+	.string "erlöst haben!$"
 

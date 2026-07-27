@@ -169,26 +169,30 @@ SSAnne_2F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
-	.string "This ship, she is a luxury liner for\n"
-	.string "TRAINERS of the world!\p"
-	.string "At every port, we hold parties with\n"
-	.string "invited TRAINERS.$"
+	.string "Dieses luxuriöse Traumschiff fährt\n"
+	.string "exklusiv für TRAINER zur See!\p"
+	.string "In jedem Hafen besuchen uns\n"
+	.string "ausschließlich geladene TRAINER!$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
-	.string "{RIVAL}: Bonjour!\n"
-	.string "{PLAYER}!\p"
-	.string "Imagine seeing you here!\n"
-	.string "{PLAYER}, were you really invited?\p"
-	.string "So how's your POKéDEX coming?\p"
-	.string "I already caught 40 kinds, pal.\n"
-	.string "Different kinds are everywhere.\p"
-	.string "Crawl around in grassy areas, and\n"
-	.string "look hard for them.$"
+	.string "{VAR}: Sieh an!\n"
+	.string "{VAR}!\p"
+	.string "Ich wusste, ich würde dich hier\n"
+	.string "treffen!\p"
+	.string "{VAR}, hat man dich tatsächlich\n"
+	.string "eingeladen?\p"
+	.string "Wie kommst du mit deinem POKéDEX\n"
+	.string "voran?\p"
+	.string "Ich habe bereits 40 verschiedene\n"
+	.string "POKéMON gefangen!\p"
+	.string "Es gibt eine riesige Vielfalt an\n"
+	.string "POKéMON!\p"
+	.string "Versuch dein Glück in hohem Gras!$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
 	.string "Humph!\p"
 	.string "At least you're raising your\n"
-	.string "POKéMON!$"
+	.string "Pokémon!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "{PLAYER}..！\n"
@@ -197,11 +201,13 @@ SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-	.string "{RIVAL}: I heard there was a CUT\n"
-	.string "master on board.\p"
-	.string "But he was just a seasick old man!\p"
-	.string "CUT itself is really useful.\n"
-	.string "Yup, it'll be handy.\p"
-	.string "You should go see him, too.\n"
-	.string "Smell ya!$"
+	.string "{VAR}: Es soll angeblich ein\n"
+	.string "großer Meister im Umgang mit dem\l"
+	.string "ZERSCHNEIDER an Bord sein.\p"
+	.string "Aber da war nur ein seekranker,\n"
+	.string "alter Mann!\p"
+	.string "Der ZERSCHNEIDER ist äußerst\n"
+	.string "nützlich!\p"
+	.string "Du solltest den alten Mann\n"
+	.string "besuchen! Ciao!$"
 

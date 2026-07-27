@@ -586,11 +586,11 @@ Route111_Text_VictorDefeat:
 
 Route111_Text_VictorPostBattle:
 	.string "Hey, ihr! Ich habe einen starken\n"
-	.string "TRAINER gefunden!$"
+	.string "Trainer gefunden!$"
 
 Route111_Text_VictoriaIntro:
 	.string "Oh, du meine Güte! Bist du jung!\p"
-	.string "Du musst ein sehr guter TRAINER sein,\n"
+	.string "Du musst ein sehr guter Trainer sein,\n"
 	.string "wenn du meinen Mann besiegen konntest.\n"
 	.string "\p"
 	.string "Nun bin ich an der Reihe.$"
@@ -600,7 +600,7 @@ Route111_Text_VictoriaDefeat:
 	.string "hinweg, wie stark du bist!$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "Hier draußen ist ein starker TRAINER!\n"
+	.string "Hier draußen ist ein starker Trainer!\n"
 	.string "Ein wirklich starker, sage ich euch!$"
 
 Route111_Text_ViviIntro:

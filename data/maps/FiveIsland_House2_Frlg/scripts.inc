@@ -6,10 +6,9 @@ FiveIsland_House2_EventScript_OldMan::
 	end
 
 FiveIsland_House2_Text_MeadowBelongedToFamily::
-	.string "That MEADOW has belonged to our\n"
-	.string "family for generations.\p"
-	.string "I should have had a giant mansion\n"
-	.string "built on it.\p"
-	.string "It would be preferable to having\n"
-	.string "those thugs run wild on it!$"
+	.string "Diese WEIDE ist seit Generationen\n"
+	.string "in unserem Familienbesitz.\p"
+	.string "Ich sollte darauf eine Villa bauen.\p"
+	.string "Das wäre besser, als sie an diese\n"
+	.string "Rowdies zu verschwenden!$"
 

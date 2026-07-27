@@ -54,7 +54,7 @@ MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "aua.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Suchst du nach POKéMON? Du bist\n"
+	.string "Hey! Suchst du nach Pokémon? Du bist\n"
 	.string "mir hinterhergeschlichen! Fiesling!$"
 
 MtPyre_2F_Text_MarkDefeat:
@@ -63,10 +63,10 @@ MtPyre_2F_Text_MarkDefeat:
 
 MtPyre_2F_Text_MarkPostBattle:
 	.string "Hier sind nie viele Leute. Daher soll\n"
-	.string "es hier seltene POKéMON geben.$"
+	.string "es hier seltene Pokémon geben.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LEIF: Wir machen hier eine Mutprobe.\p"
+	.string "Leif: Wir machen hier eine Mutprobe.\p"
 	.string "Hähä, wenn ich zeige, wie cool ich\n"
 	.string "bin, wird sie sich sicher in mich\n"
 	.string "verlieben! \p"
@@ -74,10 +74,10 @@ MtPyre_2F_Text_LukeIntro:
 	.string "schlagen. Dann bin ich echt cool!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LEIF: Huups!$"
+	.string "Leif: Huups!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LEIF: Wir haben verloren, aber das\l"
+	.string "Leif: Wir haben verloren, aber das\l"
 	.string "macht\n"
 	.string "nichts! Solange ich nur bei ihr bin.\p"
 	.string "Wir\l"
@@ -91,7 +91,7 @@ MtPyre_2F_Text_LukeNotEnoughMons:
 	.string "bin!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "INA: Ich bin hier, um mit meinem\n"
+	.string "Ina: Ich bin hier, um mit meinem\n"
 	.string "Freund eine Mutprobe zu bestehen.\p"
 	.string "Es ist unheimlich hier, aber zusammen\n"
 	.string "mit meinem Freund ist es schon okay.\p"
@@ -100,10 +100,10 @@ MtPyre_2F_Text_DezIntro:
 	.string "cool er ist, indem er dich besiegt!$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "INA: Uuuaaa! Ich habe Angst.$"
+	.string "Ina: Uuuaaa! Ich habe Angst.$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "INA: Wir sind ineinander verliebt,\n"
+	.string "Ina: Wir sind ineinander verliebt,\n"
 	.string "daher stört uns eine Niederlage nicht.$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
@@ -124,7 +124,7 @@ MtPyre_2F_Text_LeahDefeat:
 
 MtPyre_2F_Text_LeahPostBattle:
 	.string "In unserer Familie gibt es schon seit\n"
-	.string "Generationen TRAINER, die in dieser\l"
+	.string "Generationen Trainer, die in dieser\l"
 	.string "Gegend leben…\p"
 	.string "Es ist eine Pflicht, den Berg zu\n"
 	.string "beschützen…$"

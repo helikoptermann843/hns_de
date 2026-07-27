@@ -35,7 +35,7 @@ MtPyre_6F_Text_ValerieDefeat:
 	.string "Die Macht ebbt ab…$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Die Geister der hier ruhenden POKéMON,\n"
+	.string "Die Geister der hier ruhenden Pokémon,\n"
 	.string "erfüllen mich mit ihrer Macht…$"
 
 MtPyre_6F_Text_ValerieRegister:
@@ -52,7 +52,7 @@ MtPyre_6F_Text_ValerieRematchDefeat:
 	.string "Etwas war da und verschwand…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "Die POKéMON, die hier ruhen…\n"
+	.string "Die Pokémon, die hier ruhen…\n"
 	.string "Manchmal spielen sie…$"
 
 MtPyre_6F_Text_CedricIntro:
@@ -65,7 +65,7 @@ MtPyre_6F_Text_CedricDefeat:
 
 MtPyre_6F_Text_CedricPostBattle:
 	.string "Mein Gefühl sagte mir, dass ein\n"
-	.string "TRAINER,\n"
+	.string "Trainer,\n"
 	.string "der sich verlaufen hat, panisch\l"
 	.string "reagiert und leichter zu besiegen ist.\n"
 	.string "\p"

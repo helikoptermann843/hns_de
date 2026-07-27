@@ -86,17 +86,17 @@ RuinsOfAlph_Outside_EventScript_Sign3::
 	end
 
 RuinsOfAlph_Outside_Text_Scientist:
-	.string "Hm? Das ist doch ein Pokédex,\n"
-	.string "nicht wahr? Darf ich ihn sehen?\p"
-	.string "Es gibt so viele\n"
-	.string "unterschiedliche Pokémon.\p"
-	.string "Hm? Was ist das?\p"
-	.string "Was ist das für ein Pokémon?\p"
-	.string "Es sieht aus wie die merkwürdigen\p"
-	.string "Zeichen an den Wänden in den RUINEN.\p"
-	.string "Falls diese Zeichen tatsächlich\n"
-	.string "Pokémon sind, dann gibt es\l"
-	.string "noch viel mehr davon.\p"
+	.string "Hm?\n"
+	.string "Oh, ist das etwa ein Pokédex?\l"
+	.string "Dürfte ich da mal einen Blick reinwerfen?\p"
+	.string "Ist ja ein Ding. \n"
+	.string "So viele unterschiedliche Pokémon…\p"
+	.string "Unglaublich!\p"
+	.string "Was ist das denn für ein Pokémon?\p"
+	.string "Es sieht aus wie die merkwürdigen\n"
+	.string "Zeichen an den Wänden der Ruinen.\p"
+	.string "Falls diese Zeichen tatsächlich Pokémon\n"
+	.string "sind, dann gibt es noch viel mehr davon.\p"
 	.string "Ich weiß!\n"
 	.string "Lass mich deinen Pokédex erweitern.\l"
 	.string "Mir nach!$"
@@ -124,13 +124,16 @@ RuinsOfAlph_Outside_Text_PsychicNathan_Beaten:
     .string "…$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_After:
-	.string "Hier kann ich gut nachdenken.$"
+	.string "Ich komme oft hierher,\n"
+	.string "um nachzudenken.$"
 
 RuinsOfAlph_Outside_Text_MysteryChamberSign:
 	.string "RÄTSELSTEIN PUZZLEKAMMER$"
 
 RuinsOfAlph_Outside_Text_MainSign:
-	.string "ALPH-RUINEN GÄSTE WILLKOMMEN$"
+	.string "Alph-Ruinen\p"
+	.string "Besucher jederzeit\n"
+	.string "willkommen$"
 
 RuinsOfAlph_Outside_Text_ResearchSign:
 	.string "Alph-Ruinen Forschungszentrum\p"

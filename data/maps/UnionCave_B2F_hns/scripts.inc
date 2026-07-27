@@ -55,33 +55,36 @@ UnionCave_B2F_Text_CooltrainermNickSeen:
 	.string "Und du, zu welcher Art gehörst du?$"
 
 UnionCave_B2F_Text_CooltrainermNickBeaten:
-	.string "Du hast einen strahlenden Stil!$"
+	.string "Dein Stil ist\n"
+	.string "beeindruckend!$"
 
 UnionCave_B2F_Text_CooltrainermNickAfter:
-	.string "Der Stil deiner Pokémon ist\n"
-	.string "wundervoll und bunt, das geb ich zu.\p"
-	.string "Du wirst immer besser!$"
+	.string "Dein Pokémon-Stil ist imposant und\n"
+	.string "abwechslungsreich,\l"
+	.string "das gebe ich zu. Du wirst immer besser!$"
 
 UnionCave_B2F_Text_CooltrainerfGwenSeen:
-	.string "Ich trainiere gerade.\n"
-	.string "Willst du einen Kampf?$"
+	.string "Ich befinde mich auf einem Spezial-\n"
+	.string "Trainingskurs. Möchtest du kämpfen?$"
 
 UnionCave_B2F_Text_CooltrainerfGwenBeaten:
-	.string "Ach nein! Du bist zu stark für mich!$"
+	.string "Och, menno!\n"
+	.string "Du bist zu gut für mich.$"
 
 UnionCave_B2F_Text_CooltrainerfGwenAfter:
-	.string "Ich trainiere alleine, bis ich\n"
-	.string "mich verbessert habe.$"
+	.string "Ich trainiere so lange weiter,\n"
+	.string "bis ich auch so stark bin!$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaSeen:
-	.string "Wenn meine Pokémon dabei sind,\n"
-	.string "gehe ich überall hin.\p"
-	.string "So macht ein echter Trainer das.$"
+	.string "Für meine Lieblings-Pokémon\n"
+	.string "nehme ich jede Reise auf mich.\l"
+	.string "Das würde jeder wahre Trainer tun.$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaBeaten:
 	.string "Ich streichle lieber meine Pokémon!$"
 
 UnionCave_B2F_Text_CooltrainerfEmmaAfter:
-	.string "Nur einmal die Woche kommt ein\n"
-	.string "Pokémon an den Rand vom Wasser.\p"
-	.string "Ich wollte es sehen…$"
+	.string "Nur ein Mal in der Woche kommt ein\n"
+	.string "bestimmtes Pokémon an die\l"
+	.string "Wasseroberfläche. Dieses Pokémon\l"
+	.string "würde ich gerne sehen…$"

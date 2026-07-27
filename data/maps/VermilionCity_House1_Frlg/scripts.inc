@@ -33,36 +33,34 @@ VermilionCity_House1_EventScript_NoRoomForOldRod::
 	end
 
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-	.string "I'm the FISHING GURU!\p"
-	.string "I simply looove fishing!\n"
-	.string "I can't bear to go without.\p"
-	.string "Tell me, do you like to fish?$"
+	.string "Ich bin der PROFIANGLER!\p"
+	.string "Ich liebe den Angelsport!\p"
+	.string "Angelst du auch gerne?$"
 
 VermilionCity_House1_Text_TakeThisAndFish::
-	.string "Grand! I like your style.\n"
-	.string "I think we can be friends.\p"
-	.string "Take this and fish, young friend!$"
+	.string "Klasse!\n"
+	.string "Du bist mir sympathisch!\p"
+	.string "Nimm das hier und gehe angeln!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
 	.string "{PLAYER} received an OLD ROD from\n"
 	.string "the FISHING GURU.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
-	.string "Fishing is a way of life!\n"
-	.string "It is like the finest poetry.\p"
-	.string "From the seas to rivers, go out\n"
-	.string "and land the big one, my friend.$"
+	.string "Angeln ist meine Leidenschaft!\p"
+	.string "Suche in Seen und Flüssen und\n"
+	.string "lande den großen Fang!$"
 
 VermilionCity_House1_Text_OhThatsSoDisappointing::
-	.string "Oh…\n"
-	.string "That's so disappointing…$"
+	.string "Oh!\n"
+	.string "Das ist so enttäuschend...$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-	.string "Hello there, {PLAYER}!\p"
-	.string "How are the fish biting?$"
+	.string "Hallo, {VAR}!\p"
+	.string "Wie beißen die Fische?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::
-	.string "Oh, no!\p"
-	.string "I had a nice gift for you, but you\n"
-	.string "have no room for it!$"
+	.string "Oh nein!\p"
+	.string "Ich habe ein Geschenk für dich!\n"
+	.string "Aber du kannst nichts mehr tragen!$"
 

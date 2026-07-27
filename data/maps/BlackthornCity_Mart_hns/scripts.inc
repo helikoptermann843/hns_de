@@ -10,14 +10,16 @@ BlackthornMart_EventScript_BlackBelt::
 	end
 
 BlackthornMart_Text_CooltrainerM:
-	.string "Du kannst kein TOP-BELEBER kaufen,\n"
-	.string "aber es belebt ein besiegtes Pokémon\l"
-	.string "vollständig wieder.\p"
-	.string "Achtung--es stellt keine AP wieder\n"
-	.string "her, die ANGRIFFSPUNKTE für Attacken.$"
+	.string "Top-Beleber füllt die KP bewusstloser\n"
+	.string "Pokémon wieder vollständig auf.\l"
+	.string "Im Pokémon-Supermarkt gibt es sie\l"
+	.string "aber leider nicht zu kaufen…\p"
+	.string "Oh, und Vorsicht! Die AP des jeweiligen\n"
+	.string "Pokémon werden von Top-Beleber\l"
+	.string "nicht mit aufgefüllt!$"
 
 BlackthornMart_Text_BlackBelt:
-	.string "TOP-SCHUTZ hält schwache Pokémon\n"
-	.string "von dir fern.\p"
-	.string "Es hält am längsten von allen\n"
-	.string "Schutz-Sprays.$"
+	.string "Top-Schutz hält dir schwache Pokémon\n"
+	.string "vom Leib.\p"
+	.string "Von allen Schutzsprays hält die Wirkung\n"
+	.string "von Top-Schutz am längsten an.$"

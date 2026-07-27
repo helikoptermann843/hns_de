@@ -62,39 +62,43 @@ CeladonCity_Condominiums_1F_EventScript_SuiteSign::
 	end
 
 CeladonCity_Condominiums_1F_Text_Meowth::
-	.string "MEOWTH: Meow!$"
+	.string "MAUZI: Miau!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
-	.string "You shouldn't spend all your money\n"
-	.string "on drinks.\p"
-	.string "Try this instead.$"
+	.string "Du solltest dein ganzes Geld\n"
+	.string "nicht für Getränke ausgeben!\p"
+	.string "Versuch das hier!$"
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
-	.string "Nothing beats thirst like some hot\n"
-	.string "TEA.\p"
-	.string "It really is the best.$"
+	.string "Gegen Durst ist nichts besser als\n"
+	.string "heißer TEE.\p"
+	.string "Er ist einfach am besten!$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-	.string "My dear POKéMON keep me company.\n"
-	.string "MEOWTH even brings money home!$"
+	.string "Meine treuen POKéMON leisten mir\n"
+	.string "Gesellschaft.\p"
+	.string "MAUZI bringt sogar Geld mit nach\n"
+	.string "Hause!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
-	.string "Oh, hello, dearie.\n"
-	.string "Did you enjoy my TEA?\p"
-	.string "By the way, dear. Are you, by any\n"
-	.string "chance, from PALLET TOWN?\p"
-	.string "A girl from PALLET TOWN, DAISY,\n"
-	.string "she enjoys TEA every day.\p"
-	.string "She visits the CELADON DEPT. STORE\n"
-	.string "to buy some TEA.$"
+	.string "Oh, hallo!\n"
+	.string "Hat dir mein TEE geschmeckt?\p"
+	.string "Apropos, bist du zufällig aus\n"
+	.string "ALABASTIA?\p"
+	.string "Ein Mädchen aus ALABASTIA\n"
+	.string "namens SARAH trinkt jeden Tag\l"
+	.string "TEE.\l"
+	.string "Sie kommt ins EINKAUFSZENTRUM\l"
+	.string "von PRISMANIA CITY, um TEE\l"
+	.string "zu kaufen!$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-	.string "CLEFAIRY: Pi pippippi!$"
+	.string "PIEPI: Pi pippi!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-	.string "NIDORAN♀: Kya kyaoo!$"
+	.string "NIDORAN♀: NIDORAN!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-	.string "CELADON MANSION\n"
-	.string "Manager's Suite$"
+	.string "PRISMANIA-VILLA\n"
+	.string "Manager Suite$"
 

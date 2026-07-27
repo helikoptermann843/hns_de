@@ -109,17 +109,19 @@ GoldenrodCity_UndergroundTunnel_Movement_Kimono_Leave2:
 
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono1:
-	.string "Team Rocket in schwarzen Anzügen\n"
-	.string "laufen hier überall herum…\p"
-	.string "Ich fragte mich, was los ist.\n"
-	.string "Also hast du TEAM ROCKET bekämpft?\p"
-	.string "Beeindruckend!\p"
-	.string "Du könntest es sogar mit einem\n"
-	.string "legendären POKéMON aufnehmen…$"
+	.string "Diese schwarz beklufteten Damen und\n"
+	.string "Herren von Team Rocket scheinen\l"
+	.string "ja sehr beschäftigt zu sein…\p"
+	.string "Das hat mich neugierig gemacht. Sagt\n"
+	.string "bloß, Ihr wollt sie Euch vorknöpfen?\l"
+	.string "Ihr seid wirklich äußerst mutig!\p"
+	.string "Wenn Ihr so weitermacht, wird\n"
+	.string "das Legendäre Poké…$"
 
 GoldenrodCity_UndergroundTunnel_Text_Kimono2:
-	.string "Hahaha! Egal.\n"
-	.string "Ich muss jetzt gehen.$"
+	.string "Oh, hoho! Das habt Ihr jetzt aber\n"
+	.string "nicht gehört!\p"
+	.string "Wir sehen uns wieder!$"
 
 GoldenrodUnderground_EventScript_Eric::
 	trainerbattle_single TRAINER_ERIC_HNS, GoldenrodUnderground_Text_SupernerdEricSeen, GoldenrodUnderground_Text_SupernerdEricBeaten

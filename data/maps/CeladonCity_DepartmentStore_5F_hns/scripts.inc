@@ -82,9 +82,9 @@ CeladonDeptStore5_Text_Falkner:
 	.string "City.$"
 
 CeladonDeptStore5F_Text_Gentleman:
-	.string "Ich möchte Items kaufen, die\n"
-	.string "die Statuswerte von Pokémon erhöhen,\l"
-	.string "aber ich habe nicht genug Geld…$"
+	.string "Ich möchte gerne Items kaufen, die den\n"
+	.string "Status meiner Pokémon verbessern…\l"
+	.string "Aber seufz… mein Geld reicht nicht!$"
 
 CeladonDeptStore5F_Text_Sailor:
 	.string "Ich will AP-Plus, damit ich die PP\n"
@@ -92,10 +92,10 @@ CeladonDeptStore5F_Text_Sailor:
 	.string "kann es nicht kaufen…$"
 
 CeladonDeptStore5F_Text_Teacher:
-	.string "Items zu benutzen macht Pokémon\n"
-	.string "glücklich.\p"
-	.string "Bestimmte Items mögen sie allerdings\n"
-	.string "nicht…$"
+	.string "Pokémon freuen sich darüber, wenn\n"
+	.string "du ihnen Items zusteckst!\l"
+	.string "Aber auf manche Items könnten\l"
+	.string "sie scheinbar auch verzichten…$"
 
 CeladonDeptStore5F_Text_Directory:
 	.string "4F: DROGERIE$"

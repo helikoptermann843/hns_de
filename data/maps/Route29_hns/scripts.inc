@@ -193,28 +193,32 @@ Route29_Text_OldManDeclined:
 	.string "Pokémon.$"
 
 Route29_Text_Youngster:
-	.string "Yo. Wie geht es deinen Pokémon?\p"
-	.string "Sind sie schwach und nicht bereit\n"
-	.string "zu kämpfen, halte dich vom Gras fern.$"
+	.string "Tag! Wie geht's deinem Pokémon-Team?\p"
+	.string "Ist es schwach und nicht bereit zu\n"
+	.string "kämpfen, machst du besser einen großen\l"
+	.string "Bogen um hohes Gras.$"
 
 Route29_Text_Lass:
-	.string "Siehst du die Vorsprünge?\n"
-	.string "Es ist gruselig, herunter zu springen.\p"
-	.string "Aber du kommst nach Neuborkia,\n"
-	.string "ohne durchs Gras zu laufen.$"
+	.string "Siehst du die Stufen hier?\p"
+	.string "Es erfordert zwar etwas Mut, sie\n"
+	.string "herunterzuspringen, aber so kannst\l"
+	.string "du auf dem Weg nach Neuborkia das\l"
+	.string "hohe Gras umgehen.$"
 
 Route29_Text_Girl:
-	.string "Ich wollte eine Pause machen,\n"
-	.string "also habe ich gespeichert,\l"
-	.string "um meinen Fortschritt festzuhalten.$"
+	.string "Ich will eine kurze Pause einlegen\n"
+	.string "und speichere deshalb gerade\l"
+	.string "meinen Spielstand.$"
 
 Route29_Text_Boy_WaitingForDay:
-	.string "Ich warte auf Pokémon, die nur\n"
-	.string "später am Tag erscheinen.$"
+	.string "Ich warte hier darauf, dass es Mittag\n"
+	.string "wird, weil sich manche Pokémon nur\l"
+	.string "zu dieser Zeit blicken lassen.$"
 
 Route29_Text_Boy_WaitingForNight:
-	.string "Ich warte auf Pokémon,\n"
-	.string "die nur nachts erscheinen.$"
+	.string "Ich warte hier darauf, dass es Nacht\n"
+	.string "wird, weil sich manche Pokémon nur\l"
+	.string "zu dieser Zeit blicken lassen.$"
 
 Route29_Text_MeetTuscany:
 	.string "Dietlinde: Ich glaube, wir treffen\n"
@@ -232,19 +236,18 @@ Route29_Text_TuscanyGivesGift:
 	.string "schenke ich dir einen SEIDENSCHAL.$"
 
 Route29_Text_TuscanyGaveGift:
-	.string "DIETLINDE: Findest du nicht auch,\n"
-	.string "dass es sehr schön ist?\p"
-	.string "Attacken der Elementklasse\n"
-	.string "Normal, werden dadurch stärker.\p"
-	.string "Ich bin sicher,\n"
-	.string "du kannst es gebrauchen.$"
+	.string "Dietlinde: Findest du nicht auch, dass\n"
+	.string "er eine äußerst sonderbare Form hat?\p"
+	.string "Er verstärkt Attacken der\n"
+	.string "Elementklasse Psycho.\p"
+	.string "Ich bin sicher, er wird\n"
+	.string "dir sehr nützlich sein.$"
 
 Route29_Text_TuscanyTuesday:
-	.string "Dietlinde: Kennst du Monja,\n"
-	.string "meine große Schwester?\p"
-	.string "Oder meinen Bruder, Mitko?\p"
-	.string "Ich bin das Dritte von\n"
-	.string "sieben Kindern.$"
+	.string "Dietlinde: Bist du Monja, meiner\n"
+	.string "älteren Schwester, schon begegnet?\p"
+	.string "Oder meinem kleinen Bruder Mitko?\p"
+	.string "Ich bin das zweite von sieben Kindern.$"
 
 Route29_Text_Sign1:
 	.string "ROUTE 29\p"

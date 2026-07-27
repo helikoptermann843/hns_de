@@ -10,11 +10,10 @@ ViridianCity_Mart_EventScript_Cooltrainer::
 	end
 
 ViridianMart_Text_Lass:
-	.string "Der ARENALEITER hier ist total cool.$"
+	.string "Der Arenaleiter dieser Stadt\n"
+	.string "ist extrem cool!$"
 
 ViridianMart_Text_CooltrainerM:
-	.string "Warst du schon auf\n"
-	.string "der ZINNOBERINSEL?\p"
-	.string "Es ist gleich die\n"
-	.string "nächste Insel südlich von hier.$"
+	.string "Warst du schon auf der Zinnoberinsel?\p"
+	.string "Sie liegt tief im Süden.$"
 

@@ -237,12 +237,13 @@ Route36_Text_UseSquirtbottle:
 	.string "Möchtest du die SCHIGGYKANNE benutzen?$"
 
 Route36_Text_UsedSquirtbottle:
-	.string "{PLAYER} benutzt SCHIGGYKANNE.$"
+	.string "{PLAYER} setzt die\n"
+	.string "Schiggykanne ein!$"
 
 Route36_Text_SudowoodoAttacked:
-	.string "Der merkwürdige\n"
-	.string "Baum mag die SCHIGGYKANNE nicht!\p"
-	.string "Der merkwürdige Baum greift an!$"
+	.string "Der merkwürdige Baum krümmt sich unter\n"
+	.string "dem Wasser aus der Schiggykanne!\p"
+	.string "Er greift dich an!$"
 
 Route36_Text_RockSmashGuy1:
 	.string "Wat is los!\p"
@@ -328,10 +329,11 @@ Route36_Text_ArthurThursday:
 	.string "Ich in der fünfte Sohn von sieben.$"
 
 Route36_Text_Sign:
-	.string "ROUTE 36$"
+	.string "Route 36$"
 
 Route36_Text_Sign_RuinsNorth:
-	.string "ALPH-RUINEN EINGANG NORDEN$"
+	.string "Alph-Ruinen\n"
+	.string "Nordeingang$"
 
 Route36_Text_Tips1:
 	.string "TRAINER-TIPPS\n"

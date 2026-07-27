@@ -313,6 +313,6 @@ SaffronCity_FightingDojo_Ability_Text_NoChampion:
 	.string "Komm später wieder!$"
 
 SaffronCity_FightingDojo_SetZeroTextNoMoney:
-	.string "Du hast nicht genug Geld.\p"
-	.string "Komm später wieder.$"
+	.string "Nana: Du hast nicht genug Pokémon.\n"
+	.string "Geh und stocke dein Team auf.$"
 

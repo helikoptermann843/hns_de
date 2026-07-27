@@ -45,75 +45,76 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Do you like POKéMON?\p"
-	.string "{PLAYER}: Uh, no, I just asked you.\p"
-	.string "{PLAYER}: Huh?\n"
-	.string "You're strange!\p"
-	.string "COPYCAT: Hmm? Quit mimicking?\n"
-	.string "But, that's my favorite hobby!$"
+	.string "Heh!\n"
+	.string "Warte, du Champion in spe!\p"
+	.string "Der hitzköpfige PYRO ist ein\n"
+	.string "FEUER-POKéMON-Spezialist!\p"
+	.string "Du solltest sein Mütchen mit Wasser\n"
+	.string "kühlen!\p"
+	.string "Und besorge dir FEUERHEILER!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{PLAYER}: Hi.\n"
-	.string "You must like POKéMON.\p"
-	.string "{PLAYER}: No, not me.\n"
-	.string "I asked you.\p"
-	.string "{PLAYER}: Pardon?\n"
-	.string "You're weird!\l"
-	.string " \l"
-	.string "COPYCAT: Hmm? Quit mimicking?\l"
-	.string "But that's my favorite hobby!$"
+	.string "{VAR}: Hallo!\n"
+	.string "Magst du POKéMON?\p"
+	.string "{VAR}: Halt, ich habe doch dich\n"
+	.string "gefragt.\p"
+	.string "{VAR}: Wie?\n"
+	.string "Du bist komisch!\p"
+	.string "NACHAHMERIN: Hmm? Ich soll die\n"
+	.string "Nachahmerei aufgeben?\p"
+	.string "Aber das ist doch mein Hobby!$"
 
 Text_MimicTeach::
-	.string "Oh wow!\n"
-	.string "A POKé DOLL!\p"
-	.string "For me?\n"
-	.string "Thank you!\p"
-	.string "You know what?\n"
-	.string "I can teach the move MIMIC.$"
+	.string "Wow!\n"
+	.string "Das ist ja eine POKéPUPPE!\p"
+	.string "Die ist für mich?\n"
+	.string "Vielen Dank!\p"
+	.string "Ich werde dafür einem deiner\n"
+	.string "POKéMON die Attacke MIMIKRY\l"
+	.string "beibringen!$"
 
 Text_MimicDeclined::
-	.string "Don't you like MIMIC?$"
+	.string "Magst du MIMIKRY nicht?$"
 
 Text_MimicWhichMon::
-	.string "I really love MIMIC!\n"
-	.string "Who's going to learn it?$"
+	.string "Ich liebe MIMIKRY!\n"
+	.string "Wer soll es erlernen?$"
 
 Text_MimicTaughtMale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for earlier!\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it that fun to mimic my\n"
-	.string "every move?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{VAR}: Hallo!\n"
+	.string "Vielen Dank!\p"
+	.string "{VAR}: Entschuldigung?\p"
+	.string "{VAR}: … macht es dir wirklich\n"
+	.string "so viel Spaß, mich nachzuahmen?\p"
+	.string "NACHAHMERIN: Darauf kannst du\n"
+	.string "wetten! Es ist grandios!$"
 
 Text_MimicTaughtFemale::
-	.string "{PLAYER}: Hi!\n"
-	.string "Thanks for what you did for us.\p"
-	.string "{PLAYER}: Pardon?\p"
-	.string "{PLAYER}: Is it really that fun to\n"
-	.string "copy what I say and do?\p"
-	.string "COPYCAT: You bet!\n"
-	.string "It's a scream!$"
+	.string "{VAR}: Hallo!\n"
+	.string "Vielen Dank!\p"
+	.string "{VAR}: Entschuldigung?\p"
+	.string "{VAR}: … macht es dir wirklich\n"
+	.string "so viel Spaß, mich nachzuahmen?\p"
+	.string "NACHAHMERIN: Darauf kannst du\n"
+	.string "wetten! Es ist grandios!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODUO: Giiih!\p"
-	.string "PRETTY MIRROR LOOK AT ME,\n"
-	.string "SEE HOW PRETTY I CAN BE?$"
+	.string "DODU: Giegie!\p"
+	.string "SPIEGLEIN, SPIEGLEIN AN DER\n"
+	.string "WAND, WER IST DIE SCHÖNSTE IM\l"
+	.string "GANZEN LAND?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "This is a rare POKéMON!\n"
-	.string "Huh? It's only a doll!$"
+	.string "PONITA und VULNONA sind die\n"
+	.string "Lieblings-POKéMON aller Pyromanen!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "A game with MARIO wearing a bucket\n"
-	.string "on his head!$"
+	.string "Ein Spiel mit MARIO!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
-	.string "…\p"
-	.string "My Secrets!\p"
-	.string "Skill: Mimicry!\n"
-	.string "Hobby: Collecting dolls!\l"
-	.string "Favorite POKéMON: CLEFAIRY!$"
+	.string "...\p"
+	.string "Meine Geheimnisse!\p"
+	.string "Zeitvertreib: Mienenspiel\n"
+	.string "Hobby: Puppen sammeln\l"
+	.string "Lieblings-POKéMON: PIEPI!$"
 

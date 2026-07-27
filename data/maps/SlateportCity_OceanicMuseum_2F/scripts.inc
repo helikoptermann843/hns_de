@@ -295,7 +295,7 @@ SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
 	.string "Teile rüberwachsen!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
-	.string "Oooaaah! Geschlagen von einem KIND!$"
+	.string "Oooaaah! Geschlagen von einem Kind!$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
 	.string "Oh, Mann! Was für ein Desaster…\n"

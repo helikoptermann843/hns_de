@@ -19,7 +19,7 @@ Route40_EventScript_Simon::
 Route40_Text_SwimmermSimonSeen:
 	.string "Du musst dich erst aufwärmen,\n"
 	.string "bevor du schwimmen gehst.\p"
-	.string "Das ist Grundwissen.$"
+	.string "Das weiß doch jedes Kind!$"
 
 Route40_Text_SwimmermSimonBeaten:
 	.string "O.K.! Onkel! Ich gebe auf!$"
@@ -34,16 +34,15 @@ Route40_EventScript_Randall::
 	end
 
 Route40_Text_SwimmermRandallSeen:
-	.string "Heh, du bist jung und fit!\p"
-	.string "Surfe nicht auf\n"
-	.string "einem Pokémon! Schwimme!$"
+	.string "Du bist doch noch jung! Surfe nicht auf\n"
+	.string "deinem Pokémon! Schwimme gefälligst!$"
 
 Route40_Text_SwimmermRandallBeaten:
 	.string "Oh, oh. Ich habe verloren…$"
 
 Route40_Text_SwimmermRandallAfter:
-	.string "Schwimmen ist gut für\n"
-	.string "deinen gesamten Körper.$"
+	.string "Schwimmen hält deinen ganzen\n"
+	.string "Körper fit und gesund!$"
 
 Route40_EventScript_Elaine::
 	trainerbattle_single TRAINER_ELAINE_HNS, Route40_Text_SwimmerfElaineSeen, Route40_Text_SwimmerfElaineBeaten
@@ -51,16 +50,16 @@ Route40_EventScript_Elaine::
 	end
 
 Route40_Text_SwimmerfElaineSeen:
-	.string "Gehst du nach ANEMONIA CITY?\p"
-	.string "Wie wäre es erst\n"
-	.string "mit einem kleinen Kampftraining?$"
+	.string "Gehst du nach Anemonia City?\p"
+	.string "Wie wäre es vorher mit einem kleinen\n"
+	.string "Kampftraining?$"
 
 Route40_Text_SwimmerfElaineBeaten:
 	.string "Diesmal habe ich verloren!$"
 
 Route40_Text_SwimmerfElaineAfter:
-	.string "Ich denke ich bin ein besserer\n"
-	.string "Schwimmer als du. Yeah!$"
+	.string "Ich behaupte jetzt einfach mal, dass\n"
+	.string "ich zumindest besser schwimme als du!$"
 
 Route40_EventScript_Paula::
 	trainerbattle_single TRAINER_PAULA_HNS, Route40_Text_SwimmerfPaulaSeen, Route40_Text_SwimmerfPaulaBeaten
@@ -73,11 +72,12 @@ Route40_Text_SwimmerfPaulaSeen:
 	.string "WasserPokémon fest!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
-	.string "Oh, ich fühle mich so schwindelig!$"
+	.string "Oje, um mich dreht sich\n"
+	.string "plötzlich alles!$"
 
 Route40_Text_SwimmerfPaulaAfter:
-	.string "Ich gleite unbeschwert\n"
-	.string "über die Wellen.$"
+	.string "Ich lasse mich im Wasser treiben und\n"
+	.string "von den Wellen davontragen.$"
 
 Route40_EventScript_Woman1::
 	lock

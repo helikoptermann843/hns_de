@@ -33,31 +33,34 @@ FourIsland_LoreleisHouse_EventScript_Doll::
 	end
 
 FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
-	.string "LORELEI: There's something weighing\n"
-	.string "heavily on my mind.\p"
-	.string "If anything were to happen on\n"
-	.string "the island where I was born…\p"
-	.string "I wouldn't know about it if I were\n"
-	.string "in the POKéMON LEAGUE.\p"
-	.string "I wonder if that would make me\n"
-	.string "irresponsible to my home…$"
+	.string "LORELEI: Etwas betrübt meinen\n"
+	.string "Geist!\p"
+	.string "Falls auf der Insel, auf der ich\n"
+	.string "geboren wurde, etwas Schreckliches\l"
+	.string "passiert…\l"
+	.string "Ich würde es nicht erfahren, da\l"
+	.string "ich in der POKéMON LIGA wäre!\p"
+	.string "Zeigt das, dass ich meiner\n"
+	.string "Heimat verantwortungslos\l"
+	.string "gegenüberstehe…$"
 
 FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
-	.string "LORELEI: So, you managed to solve\n"
-	.string "all the problems here?\p"
-	.string "That's wonderful.\p"
-	.string "That means there isn't any reason\n"
-	.string "for me to be here all the time.\p"
-	.string "Thank you…\p"
-	.string "I'll return to the POKéMON LEAGUE\n"
-	.string "in a short while.$"
+	.string "LORELEI: Du hast hier also\n"
+	.string "alle Probleme lösen können?\p"
+	.string "Das ist großartig!\p"
+	.string "Das bedeutet, dass ich mich nicht\n"
+	.string "ständig hier aufhalten muss.\p"
+	.string "Danke…\p"
+	.string "Ich kehre bald zur POKéMON\n"
+	.string "LIGA zurück!$"
 
 FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
-	.string "I don't know what will happen in\n"
-	.string "the future, but…\p"
-	.string "I will do what I can here and now.\n"
-	.string "That's all I can do.$"
+	.string "Ich weiß nicht, was die Zukunft\n"
+	.string "bringt, aber…\p"
+	.string "Ich werde tun, was in meiner\n"
+	.string "Macht steht, hier und jetzt.\l"
+	.string "Das ist alles, was ich tun kann!$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "Stuffed POKéMON dolls galore!$"
+	.string "Du hast keinen Platz mehr!$"
 

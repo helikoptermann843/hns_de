@@ -42,97 +42,93 @@ RockTunnel_B1F_EventScript_Winston::
 	end
 
 RockTunnel_B1F_Text_SofiaIntro::
-	.string "Do you know how you can avoid\n"
-	.string "getting lost in the mountains?\p"
-	.string "You can bend twigs as trail\n"
-	.string "markers.$"
+	.string "Weißt du wie man es vermeidet,\n"
+	.string "sich im Gebirge zu verlaufen?\p"
+	.string "Wanderer knicken Zweige, um ihren\n"
+	.string "Weg zu markieren.$"
 
 RockTunnel_B1F_Text_SofiaDefeat::
-	.string "Ohhh!\n"
-	.string "I did my best!$"
+	.string "Ich habe mein Bestes gegeben!$"
 
 RockTunnel_B1F_Text_SofiaPostBattle::
-	.string "I want to go home!$"
+	.string "Ich will nach Hause!$"
 
 RockTunnel_B1F_Text_DudleyIntro::
-	.string "Hahaha!\n"
-	.string "Can you beat my power?$"
+	.string "Haha!\n"
+	.string "Kannst du mich besiegen?$"
 
 RockTunnel_B1F_Text_DudleyDefeat::
-	.string "Oops!\n"
-	.string "Outmuscled!$"
+	.string "Hups!\n"
+	.string "Das war zu viel des Guten!$"
 
 RockTunnel_B1F_Text_DudleyPostBattle::
-	.string "I go for power because I hate\n"
-	.string "thinking.$"
+	.string "Ich trainiere lieber meine Muskeln\n"
+	.string "als mein Gehirn!!!$"
 
 RockTunnel_B1F_Text_CooperIntro::
-	.string "You have a POKéDEX?\n"
-	.string "I want one, too.$"
+	.string "Du besitzt einen Pokédex? Cool!\n"
+	.string "Ich möchte auch einen haben!$"
 
 RockTunnel_B1F_Text_CooperDefeat::
-	.string "Shoot!\n"
-	.string "I am so jealous!$"
+	.string "Ach, ich bin ja so neidisch!!!$"
 
 RockTunnel_B1F_Text_CooperPostBattle::
-	.string "When you finish your POKéDEX,\n"
-	.string "can I have it?$"
+	.string "Gibst du mir den Pokédex, wenn er\n"
+	.string "fertig ist?$"
 
 RockTunnel_B1F_Text_SteveIntro::
-	.string "Um… Do you know about POKéMON\n"
-	.string "cosplay?$"
+	.string "Möchtest du etwas über Spaßvögel\n"
+	.string "erfahren?$"
 
 RockTunnel_B1F_Text_SteveDefeat::
-	.string "Well, that's that.$"
+	.string "So weit, so gut.$"
 
 RockTunnel_B1F_Text_StevePostBattle::
-	.string "POKéMON cosplay is dressing up as\n"
-	.string "POKéMON for fun.\p"
-	.string "CLEFAIRY is a favorite.$"
+	.string "Spaßvögel verkleiden sich gerne als\n"
+	.string "Pokémon.\p"
+	.string "Als Piepi gehe ich am liebsten!$"
 
 RockTunnel_B1F_Text_AllenIntro::
-	.string "My POKéMON techniques will leave\n"
-	.string "you crying!$"
+	.string "Mein Pokémon wird dich das\n"
+	.string "Fürchten lehren!$"
 
 RockTunnel_B1F_Text_AllenDefeat::
-	.string "I give!\n"
-	.string "You're a better technician!$"
+	.string "Ich gebe auf!\n"
+	.string "Du bist besser!$"
 
 RockTunnel_B1F_Text_AllenPostBattle::
-	.string "In mountains, you'll often find\n"
-	.string "ROCK-type POKéMON.$"
+	.string "In den Bergen findet man viele\n"
+	.string "STEIN-POKéMON.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
-	.string "I don't often come here, but I will\n"
-	.string "battle you.$"
+	.string "Ich komme nicht oft hierher.\n"
+	.string "Aber ich will kämpfen!$"
 
 RockTunnel_B1F_Text_MarthaDefeat::
 	.string "Oh!\n"
-	.string "I lost!$"
+	.string "Ich habe verloren!$"
 
 RockTunnel_B1F_Text_MarthaPostBattle::
-	.string "I like tiny POKéMON.\n"
-	.string "Big ones are too scary!$"
+	.string "Ich mag nur kleine Pokémon, die\n"
+	.string "großen jagen mir Angst ein!$"
 
 RockTunnel_B1F_Text_EricIntro::
-	.string "Hit me with your best shot!$"
+	.string "Zeig mir, was du drauf hast!$"
 
 RockTunnel_B1F_Text_EricDefeat::
-	.string "Fired away!$"
+	.string "Du bist gut!$"
 
 RockTunnel_B1F_Text_EricPostBattle::
-	.string "I'll raise my POKéMON to beat\n"
-	.string "yours, kid.$"
+	.string "Ich werde mit meinen Pokémon\n"
+	.string "trainieren!$"
 
 RockTunnel_B1F_Text_WinstonIntro::
-	.string "I draw illustrations of POKéMON\n"
-	.string "when I'm home.$"
+	.string "Zuhause zeichne ich gerne Pokémon.$"
 
 RockTunnel_B1F_Text_WinstonDefeat::
-	.string "Whew…\n"
-	.string "I'm exhausted…$"
+	.string "Ich bin erschöpft!$"
 
 RockTunnel_B1F_Text_WinstonPostBattle::
-	.string "I'm an artist, not a fighter.\n"
-	.string "I'll go home to draw.$"
+	.string "Ich liebe die Kunst, nicht den\n"
+	.string "Kampf!$"
 

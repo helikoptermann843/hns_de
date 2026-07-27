@@ -56,12 +56,11 @@ PalletTown_House2_EventScript_DaisyGrooming::
 	end
 
 PalletTown_House2_Text_Hello:
-	.string "Sarah: Hallo! Mein kleiner Bruder\n"
-	.string "ist der ARENALEITER von\l"
-	.string "VERTANIA CITY.\p"
-	.string "Doch er verlässt die Stadt so\n"
-	.string "oft, dass es für die Trainer\l"
-	.string "Probleme gibt.$"
+	.string "Sarah: Hi! Mein kleiner Bruder\n"
+	.string "ist Arenaleiter in Vertania City.\p"
+	.string "Aber er verlässt die Stadt so oft,\n"
+	.string "dass er den Trainern damit das\l"
+	.string "Leben schwer macht.$"
 
 PalletTown_House2_Text_OfferGrooming:
 	.string "Sarah: Hallo! Gutes Timing.\n"
@@ -72,26 +71,29 @@ PalletTown_House2_Text_OfferGrooming:
 	.string "Soll ich eines pflegen?$"
 
 PalletTown_House2_Text_WhichMon:
-	.string "Sarah: Welches soll ich pflegen?$"
+	.string "Sarah: Welches Pokémon\n"
+	.string "soll ich verschönern?$"
 
 PalletTown_House2_Text_Alright:
 	.string "Sarah: OK! Ich mache es im Nu\n"
 	.string "wieder hübsch.$"
 
 PalletTown_House2_Text_AllDone:
-	.string "Sarah: Fertig! Siehst du?\p"
-	.string "Sieht {STR_VAR_1} nicht\n"
-	.string "schön aus?\p"
-	.string "Es ist ein so süßes POKéMON.$"
+	.string "Sarah: Fertig!\n"
+	.string "Ist es nicht wunderschön geworden?\p"
+	.string "Hihihi…\n"
+	.string "Es ist ja so ein süßes Pokémon!$"
 
 PalletTown_House2_Text_AlreadyGroomed:
-	.string "Sarah: Um diese Zeit trinke ich\n"
-	.string "immer Tee. Komm doch dazu.$"
+	.string "Sarah: Ich trinke jeden Tag um\n"
+	.string "diese Zeit meinen Tee.\l"
+	.string "Komm ruhig mal wieder!$"
 
 PalletTown_House2_Text_Refused:
-	.string "Sarah: Du willst keines pflegen?\p"
-	.string "Na gut, dann trinken wir Tee.$"
+	.string "Sarah: Ich soll also keins deiner\n"
+	.string "Pokémon ein bisschen aufstylen?\l"
+	.string "Gut, dann trinke ich jetzt meinen Tee.$"
 
 PalletTown_House2_Text_CantGroomEgg:
-	.string "Sarah: Oh, tut mir leid.\n"
-	.string "Ein EI kann ich nicht pflegen.$"
+	.string "Sarah: Hihihi! Ein Ei kann ich nun\n"
+	.string "wirklich nicht aufstylen!$"

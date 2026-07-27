@@ -124,22 +124,22 @@ Route30_Text_Mailbox:
 	.string "MR.Pokémon's Haus$"
 
 Route30_Text_UseTackle:
-	.string "Los, Rattfratz!\p"
+	.string "Los, RATTFRATZ!\p"
 	.string "Tackle!$"
 
 Route30_Text_ThisIsABigBattle:
-	.string "Was? Das ist ein\n"
-	.string "harter Kampf! Lass mich in Ruhe!$"
+	.string "Was willst du? Das hier ist ein sehr\n"
+	.string "wichtiger Kampf für mich, ist das klar?\l"
+	.string "Lass mich in Ruhe!$"
 
 Route30_Text_YoungsterJoey1Seen:
-	.string "Ich habe verloren!\n"
-	.string "Ich versuche, mehr Pokémon zu finden.\n"
-	.string "\p"
-	.string "Halt! Du siehst schwach aus!\n"
-	.string "Los, lass uns kämpfen!$"
+	.string "Eigentlich bin ich hier, um mein Team\n"
+	.string "nach einer Niederlage aufzustocken…\p"
+	.string "Aber du wirkst wie ein Schwächling auf\n"
+	.string "mich. Prima! Dich knöpfe ich mir vor!$"
 
 Route30_Text_YoungsterJoey1Beaten:
-	.string "Ahh! Wieder verloren! Mist!$"
+	.string "Schon wieder vermöbelt!$"
 
 Route30_Text_YoungsterJoey1After:
 	.string "Benötige ich noch mehr Pokémon,\n"
@@ -148,29 +148,30 @@ Route30_Text_YoungsterJoey1After:
 	.string "egal was passiert!$"
 
 Route30_Text_YoungsterMikeySeen:
-	.string "Du bist ein Pokémon-Trainer, oder?\p"
-	.string "Dann musst du kämpfen!$"
+	.string "Du bist doch ein Pokémon-Trainer, oder?\n"
+	.string "Liefern wir uns einen Kampf!$"
 
 Route30_Text_YoungsterMikeyBeaten:
 	.string "Das ist seltsam.\n"
-	.string "Davor habe ich gewonnen.$"
+	.string "Vorhin habe ich haushoch gewonnen…$"
 
 Route30_Text_YoungsterMikeyAfter:
-	.string "Ein guter Trainer zu werden\n"
-	.string "ist nicht einfach.\p"
-	.string "Ich kämpfe gegen andere Trainer,\n"
-	.string "um besser zu werden.$"
+	.string "Es ist ein langer, harter Weg, bis\n"
+	.string "man ein guter Trainer wird.\p"
+	.string "Aber gut! Ich werde mich im Kampf gegen\n"
+	.string "alle möglichen Trainer stählen!$"
 
 Route30_Text_BugCatcherDonSeen:
-	.string "Anstatt eines Käfer-Pokémon\n"
-	.string "treffe ich auf einen Trainer!$"
+	.string "Ich suchte Käfer-Pokémon,\n"
+	.string "doch ich fand einen Trainer!$"
 
 Route30_Text_BugCatcherDonBeaten:
-	.string "Argh! Du bist zu stark!$"
+	.string "Argh! Du bist\n"
+	.string "zu stark!$"
 
 Route30_Text_BugCatcherDonAfter:
-	.string "Mir sind während des Fangens\n"
-	.string "die Pokébälle ausgegangen.\p"
+	.string "Mir sind während des Fangens die\n"
+	.string "Pokébälle ausgegangen.\p"
 	.string "Ich hätte mehr kaufen sollen…$"
 
 Route30_Text_YoungsterDirectionsToMrPokemon:
@@ -181,28 +182,28 @@ Route30_Text_YoungsterEveryoneIsBattling:
 	.string "Jedem macht das Kämpfen Spaß!$"
 
 Route30_Text_CooltrainerF:
-	.string "Ich bin kein Trainer.\p"
-	.string "Wenn du einem in die Augen siehst,\n"
-	.string "dann bereite dich\l"
-	.string "auf einen Kampf vor.$"
+	.string "Ich selbst bin keine Trainerin!\p"
+	.string "Aber wenn dir ein Trainer in die\n"
+	.string "Augen sieht, solltest du dich auf\l"
+	.string "einen Kampf vorbereiten!$"
 
 Route30_Text_Sign:
 	.string "ROUTE 30\p"
 	.string "VIOLA CITY - ROSALIA CITY$"
 
 Route30_Text_MrPokemonsHouseDirectionsSign:
-	.string "Das Haus von\n"
-	.string "MR. Pokémon? Immer geradeaus.$"
+	.string "Das Haus von Mr. Pokémon?\n"
+	.string "Immer geradeaus!$"
 
 Route30_Text_MrPokemonsHouseSign:
-	.string "Das HAUS von MR. Pokémon$"
+	.string "Das Haus von Mr. Pokémon$"
 
 Route30_Text_TrainerTips:
-	.string "TIPPS für TRAINER\p"
-	.string "Du sollst keine Pokémon stehlen!\p"
-	.string "Pokébälle dürfen\n"
-	.string "nur bei wilden Pokémon\l"
-	.string "eingesetzt werden!$"
+	.string "Tipps für Trainer\p"
+	.string "Wer einem anderen Trainer die\n"
+	.string "Pokémon klaut, ist ein Dieb!\p"
+	.string "Deshalb dürfen Pokébälle auch nur bei\n"
+	.string "wilden Pokémon eingesetzt werden!$"
 
 Route30_Text_JoeyRegister:
     .string "Du bist ziemlich gut!\p"
@@ -242,12 +243,12 @@ Route30_Text_ElmName:
 	.string "PROF.ELM$"
 
 Route30_Text_Elm_Disaster:
-	.string "PROF. Lind: H-hallo? {PLAYER}? Es\n"
-	.string "ist eine Katastrophe!\p"
-	.string "Äh, ähm, es ist einfach schrecklich!\p"
-	.string "Was soll ich nur tun? Es…\n"
-	.string "Oh nein…\p"
-	.string "Bitte komm sofort hierher zurück!$"
+	.string "H-hallo, {PLAYER}?\n"
+	.string "Es ist schrecklich!\l"
+	.string "Äh… uhm… wie soll ich das erklären?\p"
+	.string "Ich weiß ja selbst nicht, wie…\n"
+	.string "Jedenfalls ist es ganz schrecklich!\p"
+	.string "Bitte, komm schnell zurück!$"
 
 
 Route30_Text_Poliwag:

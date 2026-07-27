@@ -102,13 +102,12 @@ Text_WelcomeWantToHealPkmn_Frlg::
 	.string "POKéMON back to perfect health?$"
 
 Text_TakeYourPkmnForFewSeconds_Frlg::
-	.string "Okay, I'll take your POKéMON for a\n"
-	.string "few seconds.$"
+	.string "Okay, ich nehme deine POKéMON für einen\n"
+	.string "Moment in meine Obhut.$"
 
 Text_WeHopeToSeeYouAgain_Frlg::
-	.string "We hope to see you again!$"
+	.string "Komm jederzeit wieder vorbei!$"
 
 Text_RestoredPkmnToFullHealth_Frlg::
-	.string "Thank you for waiting.\n"
-	.string "We've restored your POKéMON to\l"
-	.string "full health.$"
+	.string "Danke!\n"
+	.string "Deine POKéMON sind wieder topfit!$"

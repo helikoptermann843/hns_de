@@ -50,19 +50,19 @@ Cherrygrove_Pokemart_Pokemart:
 	end
 
 Cherrygrove_Pokemart_Text_CooltrainerM:
-	.string "Sie haben keine Pokébälle mehr!\p"
-	.string "Wann bekommen sie endlich Nachschub?$"
+	.string "Die Pokébälle sind leider ausverkauft.\n"
+	.string "Wann wohl die neue Lieferung kommt?$"
 
 Cherrygrove_Pokemart_Text_CooltrainerM_PokeBallsInStock:
-	.string "Pokébälle sind wieder da!\n"
-	.string "Jetzt kann ich Pokémon fangen!$"
+	.string "Die neue Lieferung Pokébälle ist da!\n"
+	.string "Jetzt kann ich wieder nach Herzenslust\l"
+	.string "auf Pokémon-Jagd gehen!$"
 
 Cherrygrove_Pokemart_Text_Youngster:
-	.string "Als ich durchs Gras gelaufen bin,\n"
-	.string "hat ein Käfer-Pokémon mein Pokémon\l"
-	.string "vergiftet!\p"
-	.string "Ich bin einfach weitergelaufen, aber\n"
-	.string "dann ist mein Pokémon ohnmächtig\l"
-	.string "geworden.\p"
-	.string "Du solltest immer ein Gegengift\n"
-	.string "dabei haben.$"
+	.string "Als ich durch das hohe Gras spaziert\n"
+	.string "bin, wurde mein Pokémon von einem\l"
+	.string "Käfer-Pokémon vergiftet!\p"
+	.string "Auf dem Weg zurück ist es dann immer\n"
+	.string "schwächer geworden.\p"
+	.string "Du solltest ständig ein Gegengift mit dir\n"
+	.string "führen!$"

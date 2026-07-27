@@ -667,41 +667,38 @@ AzaleaTown_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 AzaleaTown_Gym_Text_BugsyIntro:
-	.string "Ich bin Kai!\p"
-	.string "Ich verliere nie, wenn es\n"
-	.string "um Käfer Pokémon geht.\p"
-	.string "Meine Forschungen machen mich zu\n"
-	.string "einer Autorität auf diesem Gebiet!\p"
-	.string "Wusstest du zum Beispiel, dass\n"
-	.string "die Attacke Zerschneider\l"
-	.string "eigentlich eine Käfer-Attacke ist?\p"
-	.string "Lass mich demonstrieren\n"
-	.string "was ich gelernt habe!$"
+	.string "Kai: Mein Name ist Kai! Wenn es um\n"
+	.string "Pokémon geht, macht mir keiner was vor!\p"
+	.string "Irgendwann werde ich mal ein berühmter\n"
+	.string "Wissenschaftler auf dem Gebiet der\l"
+	.string "Käfer-Pokémon!\p"
+	.string "Lass mich dir eine Kostprobe meiner\n"
+	.string "Forschungsergebnisse geben!$"
 
 AzaleaTown_Gym_Text_BugsyBeaten:
-	.string "Erstaunlich!\n"
-	.string "Du bist ein wahrer Pokémonexperte.\p"
-	.string "Meine Forschungen sind noch\n"
-	.string "nicht abgeschlossen.\p"
-	.string "OK, du gewinnst.\n"
-	.string "Nimm diesen Orden.$"
+	.string "Kai: Wow, das war unglaublich! Du weißt\n"
+	.string "wirklich gut über Pokémon Bescheid!\p"
+	.string "Mannomann… Wie's aussieht, habe ich\n"
+	.string "noch sehr viel zu lernen!\p"
+	.string "Aber gut, jetzt erst mal weiter im Text!\n"
+	.string "Hier hast du deinen Orden!$"
 
 AzaleaTown_Gym_Text_ReceivedHiveBadge:
 	.string "{PLAYER} erhält Insektenorden.$"
 
 AzaleaTown_Gym_Text_HiveBadgeSpeech:
-	.string "Kennst du die Vorteile\n"
-	.string "des Insektenordens?\p"
-	.string "Wenn du ihn hast, gehorchen Pokémon\n"
-	.string "bis Level 30, sogar getauschte.\p"
-	.string "Pokémon, die Zerschneider können,\n"
-	.string "werden es auch außerhalb des Kampfes\l"
-	.string "nutzen können.\p"
-	.string "Hier, ich möchte auch, dass du\n"
-	.string "dies bekommst.$"
+	.string "Kai: Weißt du schon, welche Vorzüge du\n"
+	.string "mit dem Insektorden genießt?\p"
+	.string "Mit ihm gehorchen dir alle Pokémon bis\n"
+	.string "zu einem Level von 30!\p"
+	.string "Dazu ist es Pokémon, die mit der\n"
+	.string "Attacke Zerschneider vertraut sind,\l"
+	.string "nun möglich, diese jetzt auch außerhalb\l"
+	.string "von Kämpfen zum Einsatz zu bringen!\p"
+	.string "Oh, und das hier sollst du auch haben!$"
 
 AzaleaTown_Gym_Text_FuryCutterSpeech:
-	.string "TM09 enthält Kugelsaat.\p"
+	.string "TM89 enthält Kehrtwende.\p"
 	.string "Es schleudert jede Runde zwischen\n"
 	.string "2 und 5 Samen hintereinander.\p"
 	.string "Auch wenn die Stärke 25 beträgt,\n"
@@ -716,7 +713,7 @@ AzaleaTown_Gym_Text_BugsyAdvice:
 	.string "zu ergründen. Studiere gründlich!$"
 
 AzaleaTown_Gym_Text_BugsyRematch:
-	.string "Wow, du bist JOHTO CHAMPION!\p"
+	.string "Wow, du bist Johto Champion!\p"
 	.string "Du hast außerordentliche Fähigkeiten!\p"
 	.string "Ich war beschäftigt mit Studien.\p"
 	.string "Lass mich dir meine Entdeckungen\n"
@@ -728,11 +725,13 @@ AzaleaTown_Gym_Text_BugsyRematchDefeat:
 	.string "Meine Studien gehen wohl weiter...$"
 
 AzaleaTown_Gym_Text_BugCatcherBennySeen:
-	.string "Käfer-Pokémon entwickeln sich jung.\n"
-	.string "Sie werden schnell stärker.$"
+	.string "Käfer-Pokémon entwickeln sich\n"
+	.string "sehr früh. Das heißt, dass sie auch\l"
+	.string "schnell stärker werden.$"
 
 AzaleaTown_Gym_Text_BugCatcherBennyBeaten:
-	.string "Nur entwickeln reicht nicht!$"
+	.string "Weit entwickelte Pokémon allein sind\n"
+	.string "wohl nicht genug!$"
 
 AzaleaTown_Gym_Text_BugCatcherBennyAfter:
 	.string "Pokémon werden stärker\n"
@@ -743,7 +742,8 @@ AzaleaTown_Gym_Text_BugCatcherAlSeen:
 	.string "Ich beweise es dir!$"
 
 AzaleaTown_Gym_Text_BugCatcherAlBeaten:
-	.string "Du hast gezeigt wie tough du bist…$"
+	.string "Du hast bewiesen,\n"
+	.string "wie zäh du bist.$"
 
 AzaleaTown_Gym_Text_BugCatcherAlAfter:
 	.string "Sie sind so cool, aber die meisten\n"
@@ -751,13 +751,13 @@ AzaleaTown_Gym_Text_BugCatcherAlAfter:
 	.string "Ich weiß nicht warum…$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshSeen:
-	.string "Du hast die Flegmon gerettet?\n"
-	.string "Oh Mann, du bist stark!\p"
+	.string "Du hast die FLEGMON gerettet? Alle\n"
+	.string "Achtung, nicht von schlechten Eltern!\p"
 	.string "Aber meine ausgewachsenen Pokémon\n"
 	.string "sind auch sehr stark!$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshBeaten:
-	.string "Urrgggh!$"
+	.string "Unnngh…$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshAfter:
 	.string "Vielleicht sollte ich sie\n"
@@ -811,7 +811,7 @@ AzaleaTown_Gym_Text_GymGuide:
 	.string "kritischen Treffer. Viel Glück!$"
 
 AzaleaTown_Gym_Text_GymGuideWin:
-	.string "Gut gemacht! Was für ein Kampf\n"
-	.string "zweier talentierter junger Trainer.\p"
-	.string "Mit Menschen wie dir sieht die\n"
-	.string "Zukunft von POKéMON gut aus!$"
+	.string "Nicht übel! Das war ein Musterkampf\n"
+	.string "zweier talentierter, junger Trainer!\p"
+	.string "Mit Leuten wie dir sieht die Zukunft\n"
+	.string "der Pokémon Liga rosig aus!$"

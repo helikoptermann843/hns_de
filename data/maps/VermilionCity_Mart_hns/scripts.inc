@@ -10,9 +10,8 @@ VermilionCity_Mart_EventScript_Woman::
 	end
 
 VermilionMart_Text_SuperNerd:
-	.string "TEAM ROCKET ist nicht mehr in KANTO.\p"
-	.string "Das allein ist\n"
-	.string "schon ein Grund zum Feiern.$"
+	.string "Team Rocket hat Kanto verlassen. Das\n"
+	.string "allein ist schon ein Grund zum Feiern!$"
 
 VermilionMart_Text_Beauty:
 	.string "Ich habe vor, in\n"

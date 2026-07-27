@@ -19,16 +19,16 @@ SixIsland_EventScript_IslandSign::
 	end
 
 SixIsland_Text_IslandSign::
-	.string "SIX ISLAND\n"
-	.string "Fortune Island of Aged Wisdom$"
+	.string "Ein kleiner Schnitt wie dieser…\n"
+	.string "ist mit ein wenig Spucke geheilt.$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-	.string "Keep going this way and you'll get\n"
-	.string "to the WATER PATH.\p"
-	.string "Stay on that and you'll get to\n"
-	.string "the RUIN VALLEY.$"
+	.string "Ich werde weiterhin KÄFER-POKéMON\n"
+	.string "fangen.\p"
+	.string "Bin ich das einzige Mädchen, das\n"
+	.string "dies so macht?$"
 
 SixIsland_Text_SkyAtNightIsFantastic::
-	.string "When you're this far away from the\n"
-	.string "city, the sky at night is fantastic.$"
+	.string "Ich werde hier den Nachthimmel\n"
+	.string "beobachten.$"
 

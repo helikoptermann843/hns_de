@@ -427,47 +427,47 @@ BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Gewinnpunkte.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "A large poster with a SMOOCHUM print.$"
+	.string "Ein großes Poster von KUSSILLA.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "A SMOOCHUM cushion.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "KUSSILLA-Kissen.\n"
+	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "A SMOOCHUM DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "KUSSILLA-PUPPE.\n"
+	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "A TOGEPI DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "TOGEPI-PUPPE. Leg sie auf eine Matte\n"
+	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "A MEOWTH DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "MAUZI-PUPPE. Leg sie auf eine Matte\n"
+	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "A CLEFAIRY DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "PIEPI-PUPPE. Leg sie auf eine Matte\n"
+	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "A DITTO DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "DITTO-PUPPE. Leg sie auf eine Matte\n"
+	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "A CYNDAQUIL DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "FEURIGEL-PUPPE.\n"
+	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "A CHIKORITA DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "ENDIVIE-PUPPE. Leg sie auf eine Matte\n"
+	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "A TOTODILE DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "KARNIMANI-PUPPE.\n"
+	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "A large DOLL.\n"
-	.string "Place it on a mat or a desk.$"
+	.string "Große PUPPE. Leg sie auf eine Matte\n"
+	.string "oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
 	.string "Raises the stat ATTACK of one\n"
@@ -490,40 +490,40 @@ BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
 	.string "POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Raises the HP of one POKéMON.$"
+	.string "Hebt die KP eines POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
-	.string "A hold item that gradually restores\n"
-	.string "HP in battle.$"
+	.string "Item (Tragen) füllt im Kampf langsam\n"
+	.string "KP wieder auf.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "A hold item that restores any\n"
-	.string "lowered stat.$"
+	.string "Item (Tragen) hebt jede\n"
+	.string "Statusveränderung auf.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "A hold item that occasionally allows\n"
-	.string "the first strike.$"
+	.string "Item (Tragen) hebt die\n"
+	.string "Erstschlagquote.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "A hold item that snaps POKéMON out\n"
-	.string "of infatuation.$"
+	.string "Item (Tragen) erlöst POKéMON von der\n"
+	.string "Anziehung.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "A hold item that casts a glare to\n"
-	.string "reduce accuracy.$"
+	.string "Item (Tragen) senkt die Genauigkeit\n"
+	.string "des Gegners.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Raises a move's power, but permits\n"
-	.string "only that move.$"
+	.string "Stärkt eine Attacke. Aber nur diese\n"
+	.string "ist einsetzbar.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
-	.string "A hold item that may cause flinching\n"
-	.string "when the foe is hit.$"
+	.string "Item (Tragen) kann Gegner\n"
+	.string "zurückweichen lassen.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
 	.string "A hold item that occasionally\n"
 	.string "prevents fainting.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
-	.string "A hold item that raises the\n"
-	.string "critical-hit rate.$"
+	.string "Item (Tragen) erhöht die\n"
+	.string "Volltrefferquote.$"

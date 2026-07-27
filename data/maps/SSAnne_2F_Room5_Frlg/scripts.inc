@@ -10,13 +10,13 @@ SSAnne_2F_Room5_EventScript_LittleBoy::
 	end
 
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
-	.string "Have you gone to the SAFARI ZONE\n"
-	.string "in FUCHSIA CITY?\p"
-	.string "There are many kinds of rare\n"
-	.string "POKéMON.$"
+	.string "Du kannst den PC in der Ecke dort\n"
+	.string "drüben benutzen!\p"
+	.string "Darauf hat man mich am Empfang\n"
+	.string "freundlicherweise hingewiesen.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-	.string "Me and my daddy think the SAFARI\n"
-	.string "ZONE is awesome!\l"
-	.string "I wish we could go there again.$"
+	.string "Im POKéMON-CENTER kannst du müde,\n"
+	.string "verletzte und besiegte POKéMON\l"
+	.string "heilen!$"
 

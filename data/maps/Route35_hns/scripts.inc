@@ -94,84 +94,89 @@ Route35_EventScript_Item_ParalyzeHeal::
 	end
 
 Route35_Text_CamperIvanSeen:
-	.string "Ich bekomme Informationen zu Pokémon\n"
-	.string "aus dem Radio.$"
+	.string "Ich hole mir meine Pokémon-Info\n"
+	.string "immer aus dem Radio.\l"
+	.string "Damit bin ich jederzeit gerüstet.$"
 
 Route35_Text_CamperIvanBeaten:
 	.string "Ich teile aus!$"
 
 Route35_Text_CamperIvanAfter:
-	.string "Musik im Radio ändert\n"
-	.string "die Laune von wilden Pokémon.$"
+	.string "Die Musik aus dem Radio beeinflusst die\n"
+	.string "Stimmung von wilden Pokémon.\l"
+	.string "Sie stimmt sie kampflustig oder zahmer!$"
 
 Route35_Text_CamperElliotSeen:
-	.string "Ich werde meiner\n"
-	.string "Freundin zeigen, wie cool ich bin!$"
+	.string "Ich werde meiner Freundin\n"
+	.string "zeigen, wie cool ich bin!$"
 
 Route35_Text_CamperElliotBeaten:
-	.string "Ach, hättest du doch verloren…$"
+	.string "Ach Mann! Hättest du nicht\n"
+	.string "einfach… verlieren können?$"
 
 Route35_Text_CamperElliotAfter:
-	.string "Ich wurde vor meiner Freundin\n"
-	.string "gedemütigt…$"
+	.string "Du hast mich vor meiner Freundin\n"
+	.string "lächerlich gemacht…$"
 
 Route35_Text_PicnickerBrookeSeen:
-	.string "Mein Freund ist\n"
-	.string "schwach. Er kann mich nicht\l"
-	.string "beschützen.$"
+	.string "Mein Freund ist ein Schwächling.\n"
+	.string "Er kann mich nicht beschützen.$"
 
 Route35_Text_PicnickerBrookeBeaten:
 	.string "Meine Güte, bist du stark!$"
 
 Route35_Text_PicnickerBrookeAfter:
-	.string "Ich vertraue mehr auf meine Pokémon\n"
-	.string "als meinen Freund.$"
+	.string "Meine Pokémon meinem Freund vorzu-\n"
+	.string "ziehen, war wohl auch nicht gerade klug.$"
 
 Route35_Text_PicnickerKimSeen:
-	.string "Gehst du auch zur PKMN-ARENA?$"
+	.string "Bist du auf dem Weg zur Pokémon-Arena?\n"
+	.string "Ich auch!$"
 
 Route35_Text_PicnickerKimBeaten:
-	.string "Oh, ich habe verloren…$"
+	.string "Ich gewinne aber auch nie!$"
 
 Route35_Text_PicnickerKimAfter:
-	.string "Arenaorden sind schön.\n"
-	.string "ich sammle sie.$"
+	.string "Diese Orden sind so hübsch! Das ist\n"
+	.string "auch der Grund, warum ich sie sammele!$"
 
 Route35_Text_BirdKeeperBryanSeen:
-	.string "Welche Art von Pokéball benutzt du?$"
+	.string "Welche Art von Pokéball\n"
+	.string "verwendest du?$"
 
 Route35_Text_BirdKeeperBryanBeaten:
-	.string "Mist! Nicht schnell genug!$"
+	.string "Mist! Nicht\n"
+	.string "schnell genug!$"
 
 Route35_Text_BirdKeeperBryanAfter:
-	.string "Manche Pokémon fliehen sofort.\p"
-	.string "Versuch sie mit Kurts TURBOBALL\n"
-	.string "zu fangen.\p"
-	.string "Wenn ich eine WEIßE APRIKOKO finde,\n"
-	.string "bringe ich sie zu Kurt.\p"
-	.string "Er macht daraus einen Ball.$"
+	.string "Wenn du hinter einem Pokémon mit hoher\n"
+	.string "Initiative her bist,\l"
+	.string "wirkt Kurts Turboball wahre Wunder!\p"
+	.string "Sobald ich eine weiße Aprikoko finde,\n"
+	.string "bringe ich sie zu Kurt. Er macht\l"
+	.string "daraus einen maßgefertigten Pokéball.$"
 
 Route35_Text_JugglerIrwinSeen:
 	.string "Sieh meine elegante BALL-Kunst!$"
 
 Route35_Text_JugglerIrwinBeaten:
-	.string "Puh, das war ein Ruck!$"
+	.string "Puh, das war ein Schlag!$"
 
 Route35_Text_JugglerIrwinAfter:
-	.string "Ich wollte dich schocken,\n"
-	.string "mit meinen schönen Pokémon.\p"
-	.string "Aber deine Stärke elektrifiziert mich!$"
+	.string "Ich wollte dich mit meinen\n"
+	.string "preisgekrönten Pokémon blenden.\l"
+	.string "Aber dein Können hat mich elektrisiert.$"
 
 Route35_Text_BugCatcherArnieSeen:
-	.string "Ich gehe überall-\n"
-	.string "hin, wo es KäferPokémon gibt.$"
+	.string "Mich zieht es überall dort hin, wo es\n"
+	.string "Käfer-Pokémon gibt!$"
 
 Route35_Text_BugCatcherArnieBeaten:
 	.string "Ich hätte nicht verlieren dürfen…$"
 
 Route35_Text_BugCatcherArnieAfter:
-	.string "Mein Bluzuk hat den Käfer-Catching\n"
-	.string "Contest im Nationalpark gewonnen.$"
+	.string "Mit meinem BLUZUK habe ich das\n"
+	.string "Käferturnier im Nationalpark gewonnen.$"
 
 Route35_Text_ArnieRegister:
     .string "Mein ONIX hat mir den Käferturnier-\n"
@@ -195,21 +200,22 @@ Route35_Text_BugCatcherArnieYanma:
 	.string "wältigt und kann mich nicht rühren.$"
 
 Route35_Text_FirebreatherWaltSeen:
-	.string "Ich übe mich im Feuerspucken.$"
+	.string "Ich übe mich im\n"
+	.string "Feuerspucken.$"
 
 Route35_Text_FirebreatherWaltBeaten:
-	.string "Aua! Ich habe mir\n"
+	.string "Aua! Jetzt habe ich mir\n"
 	.string "die Nasenspitze verbrannt!$"
 
 Route35_Text_FirebreatherWaltAfter:
 	.string "Der Pokémon-Marsch im Radio\n"
-	.string "lockt wilde Pokémon.$"
+	.string "lockt wilde Pokémon an.$"
 
 Route35_Text_OfficerDirkSeen:
-	.string "Bei Nacht lauern Gefahren!$"
+	.string "Die Nacht steckt voller Gefahren!$"
 
 Route35_Text_OfficerDirkBeaten:
-	.string "Schwupps!$"
+	.string "Ups!$"
 
 Route35_Text_OfficerDirkAfter:
 	.string "Weißt du, die Nacht hat\n"
@@ -218,13 +224,11 @@ Route35_Text_OfficerDirkAfter:
 	.string "ja?$"
 
 Route35_Text_OfficerDirkTough:
-	.string "Deine Pokémon sehen ziemlich\n"
-	.string "stark aus.\p"
-	.string "Du kannst überall sicher\n"
-	.string "hingehen.$"
+	.string "Deine Pokémon sehen ziemlich stark aus!\n"
+	.string "Mit denen bist du überall sicher!$"
 
 Route35_Text_Sign:
-	.string "ROUTE 35$"
+	.string "Route 35$"
 
 Route35_Text_Sign2:
-	.string "ROUTE 35$"
+	.string "Nationalpark$"

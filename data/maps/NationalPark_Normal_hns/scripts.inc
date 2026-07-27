@@ -78,17 +78,18 @@ NationalPark_Normal_Text_PokefanF:
 	.string "mir Freude.$"
 
 NationalPark_Normal_Text_Teacher1:
-	.string "Pass bitte auf!\p"
-	.string "…Ohh, ich muss aufhören, immer\p"
-	.string "wie ein Lehrer zu denken.\p"
-	.string "Du musst ein Pokémon-Trainer sein.\p"
-	.string "Da du so hart arbeitest, möchte\p"
-	.string "ich dir dies überreichen.$"
+	.string "So, jetzt mal hergehört, Herrschaften!\p"
+	.string "…Oh, Entschuldigung. Ich muss echt\n"
+	.string "mal dieses Lehrergehabe loswerden.\p"
+	.string "Du bist ein Pokémon-Trainer, stimmt's?\p"
+	.string "Du scheinst sehr hart zu arbeiten.\n"
+	.string "Hier, nimm das als Belohnung!$"
 
 NationalPark_Normal_Text_Teacher1_QuickClaw:
-	.string "Gib die FLINKKLAUE einem Pokémon.\p"
-	.string "Manchmal erhält es\n"
-	.string "durch sie die Initiative.$"
+	.string "Gib diese Flinkklaue einem deiner\n"
+	.string "Pokémon, und es wird mit ihrer Hilfe\l"
+	.string "im Kampf ab und zu die Initiative\l"
+	.string "erhalten!$"
 
 NationalPark_Normal_Text_Youngster1:
 	.string "Ich spiele mit\n"
@@ -106,7 +107,7 @@ NationalPark_Normal_Text_Teacher2:
 	.string "Trainer möchten immer kämpfen…$"
 
 NationalPark_Normal_Text_Persian:
-	.string "SNOBILIKAT: Fauch!$"
+	.string "SNOBILIKAT: Snooobi, snobi!$"
 
 NationalPark_Normal_EventScript_Jack::
 	trainerbattle_single TRAINER_JACK_HNS, NationalPark_Normal_Text_SchoolboyJack1_Seen, NationalPark_Normal_Text_SchoolboyJack1_Beaten, NationalPark_Normal_EventScript_RegisterJack
@@ -173,26 +174,27 @@ NationalPark_Normal_EventScript_Item_Soothe_Bell::
 	end
 
 NationalPark_Normal_Text_SchoolboyJack1_Seen:
-	.string "Die Welt der Pokémon ist weit.\p"
-	.string "Es gibt noch so vieles, das wir\n"
-	.string "nicht wissen.\p"
-	.string "Aber ich weiß mehr als du!$"
+	.string "Pokémon sind ein Fass ohne Boden.\n"
+	.string "Es gibt noch viel, was wir nicht wissen.\p"
+	.string "Aber ich weiß immer noch mehr über sie\n"
+	.string "als du! Dass das klar ist!$"
 
 NationalPark_Normal_Text_SchoolboyJack1_Beaten:
 	.string "Wa-wa-waas?$"
 
 NationalPark_Normal_Text_SchoolboyJack_After:
-	.string "Es gibt so viel zu lernen.\p"
-	.string "Zum Beispiel…\p"
-	.string "Es gibt 50 verschiedene TMs.\p"
-	.string "Getauschte Pokémon steigen\n"
-	.string "schneller im Level.$"
+	.string "Es gibt noch viel zu lernen!\p"
+	.string "Zum Beispiel, dass es 50 verschiedene\n"
+	.string "Technische Maschinen gibt,\l"
+	.string "oder dass sich Pokémon, die man im\l"
+	.string "Tausch erhält, schneller entwickeln.$"
 
 NationalPark_Normal_Text_JackRegister:
-	.string "Es gibt viel zu lernen.\p"
-	.string "Zum Beispiel…\p"
-	.string "Es gibt 50 verschiedene TMs.\p"
-	.string "Getauschte POKéMON leveln schneller.$"
+	.string "Es gibt noch viel zu lernen!\p"
+	.string "Zum Beispiel, dass es 50 verschiedene\n"
+	.string "Technische Maschinen gibt,\l"
+	.string "oder dass sich Pokémon, die man im\l"
+	.string "Tausch erhält, schneller entwickeln.$"
 
 NationalPark_Normal_Text_JackRematchIntro:
 	.string "Ich habe viel seit dem letzten\n"
@@ -202,10 +204,11 @@ NationalPark_Normal_Text_JackRematchDefeat:
 	.string "Wa-wa-was?$"
 
 NationalPark_Normal_Text_JackPostRematch:
-	.string "Es gibt viel zu lernen.\p"
-	.string "Zum Beispiel…\p"
-	.string "Es gibt 50 verschiedene TMs.\p"
-	.string "Getauschte POKéMON leveln schneller.$"
+	.string "Es gibt noch viel zu lernen!\p"
+	.string "Zum Beispiel, dass es 50 verschiedene\n"
+	.string "Technische Maschinen gibt,\l"
+	.string "oder dass sich Pokémon, die man im\l"
+	.string "Tausch erhält, schneller entwickeln.$"
 
 NationalPark_Normal_Text_PokefanFBeverly1_Seen:
 	.string "Meine Pokémon sind einfach\n"
@@ -214,44 +217,47 @@ NationalPark_Normal_Text_PokefanFBeverly1_Seen:
 	.string "mich meine Lieblinge machen.$"
 
 NationalPark_Normal_Text_PokefanFBeverly1_Beaten:
-	.string "Im Stolz schlag ich dich, aber…$"
+	.string "Im Kampf bin ich der Verlierer, aber in\n"
+	.string "Sachen Stolz bin ich unschlagbar!$"
 
 NationalPark_Normal_Text_PokefanFBeverly_After:
-	.string "Ich muss sagen, deine Pokémon\n"
-	.string "sind auch recht niedlich.$"
+	.string "Ich muss zugeben… dein Pokémon-\n"
+	.string "Team ist auch sehr süß.$"
 
 NationalPark_Normal_Text_PokefanmWilliam_Seen:
-	.string "Wir lieben unsere Pokémon,\n"
-	.string "auch wenn sie uns nicht mögen.\p"
-	.string "So sind wahre FANS eben.$"
+	.string "Wir bewundern unsere Pokémon,\n"
+	.string "auch wenn sie uns nicht mögen!\l"
+	.string "Das macht den wahren Pokéfan aus!$"
 
 NationalPark_Normal_Text_PokefanmWilliam_Beaten:
-	.string "M-meine Pokémon!$"
+	.string "M-mein Pokémon!$"
 
 NationalPark_Normal_Text_PokefanmWilliam_After:
-	.string "Ich habe verloren, aber meine\n"
-	.string "Pokémon gewinnen den Preis,\l"
-	.string "weil sie so liebenswert sind.$"
+	.string "Ich habe zwar den Kampf verloren,\n"
+	.string "aber mein Pokémon gewinnt den\l"
+	.string "Schönheitspreis.$"
 
 NationalPark_Normal_Text_LassKrise_Seen:
-	.string "Hallo? Warum starrst du mich\n"
-	.string "so an?\p"
+	.string "Was ist?\n"
+	.string "Warum starrst du mich so an?\p"
 	.string "Oh, ein Kampf?$"
 
 NationalPark_Normal_Text_LassKrise_Beaten:
-	.string "…Hmmm…$"
+	.string "…Ho, ho!$"
 
 NationalPark_Normal_Text_LassKrise_After:
 	.string "Ich dachte, du starrst mich an,\n"
 	.string "weil ich so süß bin!$"
 
 NationalPark_Normal_Text_Sign_RelaxationSquare:
-	.string "ERHOLUNGSORT NATIONALPARK$"
+	.string "Der Nationalpark\n"
+	.string "Ein öffentlicher Ort der Erholung$"
 
 NationalPark_Normal_Text_Sign_BattleNotice:
-	.string "Was steht denn hier?\p"
-	.string "Kämpfe sind nur im Gras gestattet.\p"
-	.string "NATIONALPARK BÜRO DES WÄCHTERs$"
+	.string "Da ist ein Flugblatt…\p"
+	.string "Kämpfe sind nur im\n"
+	.string "hohen Gras gestattet.\l"
+	.string "- Das Büro des Wächters$"
 
 NationalPark_Normal_Text_TrainerTips:
 	.string "TIPPS für TRAINER\p"
@@ -260,8 +266,8 @@ NationalPark_Normal_Text_TrainerTips:
 	.string "START.$"
 
 NationalPark_Normal_Text_BeverlyRegister:
-	.string "Ich muss schon sagen, deine POKéMON\n"
-	.string "sind echt niedlich.$"
+	.string "Ich muss zugeben… dein Pokémon-\n"
+	.string "Team ist auch sehr süß.$"
 
 NationalPark_Normal_Text_BeverlyHasItem:
 	.string "Oh, hallo! Ich habe etwas\n"

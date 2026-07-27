@@ -24,9 +24,9 @@ ViridianCity_PokemonCenter_EventScript_BugCatcher::
 	end
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM:
-	.string "Wo um Himmels Willen ist der\n"
-	.string "ARENALEITER von VERTANIA?\p"
-	.string "Ich will ihn herausfordern.$"
+	.string "Wo lungert der Arenaleiter von\n"
+	.string "Vertania City eigentlich herum?\l"
+	.string "Ich wollte ihn doch herausfordern…$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
 	.string "In der PKMN-ARENA\n"
@@ -37,12 +37,11 @@ ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
 	.string "gewinnen zu können.$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerF:
-	.string "Ich habe gehört,\n"
-	.string "dass die PKMNARENA auf der\l"
-	.string "ZINNOBERINSEL verschwunden ist.\p"
-	.string "Ich frage mich, was aus PYRO,\n"
-	.string "dem ARENALEITER geworden ist.$"
+	.string "Offensichtlich wurde die Pokémon-Arena\n"
+	.string "auf der Zinnoberinsel zerstört.\p"
+	.string "Ich frage mich, was wohl aus Pyro,\n"
+	.string "dem Arenaleiter, geworden ist.$"
 
 ViridianCity_PokemonCenter_Text_1FBugCatcher:
-	.string "Mein großer Traum\n"
-	.string "ist es, ARENALEITER zu werden.$"
+	.string "Mein großer Traum ist es,\n"
+	.string "Arenaleiter zu werden!$"

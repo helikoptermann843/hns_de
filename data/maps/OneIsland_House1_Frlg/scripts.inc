@@ -10,11 +10,11 @@ OneIsland_House1_EventScript_OldWoman::
 	end
 
 OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
-	.string "On sunny days, I step out and gaze\n"
-	.string "upon the volcano.\p"
-	.string "That's my daily routine.$"
+	.string "Die diamantförmigen Felder sind\n"
+	.string "Teleporter!\p"
+	.string "Eine Art Hi-Tech-Transportsystem!$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-	.string "Let me think… When was the last\n"
-	.string "time MT. EMBER erupted?$"
+	.string "Die SILPH CO. und das TEAM ROCKET\n"
+	.string "werden demnächst fusionieren!$"
 

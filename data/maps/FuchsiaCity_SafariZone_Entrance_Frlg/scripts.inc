@@ -206,75 +206,73 @@ FuchsiaCity_SafariZone_Entrance_EventScript_ExplainSafariZone::
 	end
 
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-	.string "Welcome to the SAFARI ZONE!$"
+	.string "Willkommen in der SAFARI-ZONE!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
-	.string "For just ¥500, you can play the\n"
-	.string "SAFARI GAME.\p"
-	.string "You can roam the wide-open safari\n"
-	.string "and catch what you like.\p"
-	.string "Would you like to play?$"
+	.string "Für nur 500¥ darfst du im Park so\n"
+	.string "viele POKéMON fangen, wie du\l"
+	.string "möchtest!\p"
+	.string "Möchtest du auf die Jagd gehen?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
-	.string "That'll be ¥500, please!\p"
-	.string "We only use a special kind of \n"
-	.string "POKé BALLS here.$"
+	.string "Das kostet 500¥!\p"
+	.string "Wir verwenden hier spezielle\n"
+	.string "POKéBÄLLE.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
 	.string "{PLAYER} received 30 SAFARI BALLS\n"
 	.string "from the attendant.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
-	.string "We'll call you on the PA when you\n"
-	.string "run out of time or SAFARI BALLS.\p"
-	.string "Well, I'll wish you the best of\n"
-	.string "luck!$"
+	.string "Wir rufen dich über Lautsprecher\n"
+	.string "aus, wenn deine Fangzeit abgelaufen\l"
+	.string "oder dein Vorrat an SAFARIBÄLLEN\l"
+	.string "erschöpft ist!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
-	.string "Okay.\n"
-	.string "Please come again!$"
+	.string "O.K.!\n"
+	.string "Besuche uns bald wieder!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
-	.string "Oops!\n"
-	.string "Not enough money!$"
+	.string "Ups!\n"
+	.string "Du hast nicht genug Geld!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
-	.string "Are you going to leave the\n"
-	.string "SAFARI ZONE early?$"
+	.string "Hast du keine Lust mehr?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
-	.string "Please return any SAFARI BALLS\n"
-	.string "you may have left.$"
+	.string "Gib bitte die restlichen\n"
+	.string "SAFARIBÄLLE zurück.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
-	.string "Good luck!$"
+	.string "Viel Glück!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
-	.string "Did you catch your fair share?\n"
-	.string "Come again!$"
+	.string "War die Jagd erfolgreich?\n"
+	.string "Besuche uns bald wieder!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
-	.string "Hi! Is it your first time here at\n"
-	.string "the SAFARI ZONE?$"
+	.string "Hi!\n"
+	.string "Bist du zum ersten Mal hier?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-	.string "The SAFARI ZONE actually has\n"
-	.string "four zones in it.\p"
-	.string "Each zone has different kinds of\n"
-	.string "POKéMON, even some rare ones.\p"
-	.string "Use the supplied SAFARI BALLS to\n"
-	.string "catch them.\p"
-	.string "You can also throw BAIT or ROCKS\n"
-	.string "besides the SAFARI BALLS.\p"
-	.string "If you throw BAIT, the POKéMON\n"
-	.string "becomes less likely to flee, but\l"
-	.string "harder to catch.\p"
-	.string "If you throw ROCKS, the POKéMON\n"
-	.string "becomes more likely to flee, but\l"
-	.string "easier to catch.\p"
-	.string "When you run out of time or SAFARI\n"
-	.string "BALLS, it's game over for you!$"
+	.string "Die SAFARI-ZONE besteht aus vier\n"
+	.string "Abschnitten.\p"
+	.string "In jedem Abschnitt findet man\n"
+	.string "verschiedene POKéMON. Versuche,\l"
+	.string "sie mit SAFARIBÄLLEN zu fangen.\p"
+	.string "Du kannst auch KÖDER oder\n"
+	.string "STEINE werfen.\p"
+	.string "Bei einem KÖDER flieht das\n"
+	.string "POKéMON nicht so schnell,\l"
+	.string "ist aber schwieriger zu fangen.\p"
+	.string "Bei einem STEIN flieht das\n"
+	.string "POKéMON eher, ist aber\l"
+	.string "einfacher zu fangen.\p"
+	.string "Wenn du keine SAFARIBÄLLE mehr\n"
+	.string "hast oder wenn die Zeit abgelaufen\l"
+	.string "ist, endet das Spiel!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
-	.string "Sorry, you're a regular here!$"
+	.string "Heh, du bist ein Stammkunde!$"
 

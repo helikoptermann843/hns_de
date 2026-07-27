@@ -46,19 +46,20 @@ RadioTower1F_EventScript_Whitney::
 	end
 
 RadioTower1F_Text_Whitney1::
-	.string "BIANKA: Hi!\p"
-	.string "Ich bin Bianka!\p"
-	.string "Ich habe von einem Quiz\n"
-	.string "gehört, bei dem man ein RADIO,\l"
-	.string "gewinnen kann, also kam ich her...\p"
-	.string "Aber es ist so schwer!$"
+	.string "Bianka: Hallooo!\n"
+	.string "Ich heiße Bianka!\p"
+	.string "Hier läuft gerade ein Quiz, bei dem man\n"
+	.string "ein Radio-Modul abstauben kann! Ich\l"
+	.string "selbst bin auch genau deswegen hier…\p"
+	.string "Aber dieses Quiz ist echt\n"
+	.string "unglaublich schwierig!$"
 
 RadioTower1F_Text_Whitney2::
-	.string "BIANKA: Wow, du hast es!\p"
-	.string "Ich war mir sicher die Antwort\n"
-	.string "auf die dritte Frage war Aprikoko!\l"
-	.string "Oops!\p"
-	.string "Zeit das ich zur Arena zurückkehre!$"
+	.string "Bianka: Wahnsinn! Du bist echt klasse!\n"
+	.string "Bei Frage 3 war ich mir so sicher,\l"
+	.string "dass die Antwort Aprikorken lautet!\p"
+	.string "Ho-hoppla!\n"
+	.string "Ich muss langsam zurück in die Arena!$"
 
 RadioTower1F_EventScript_Reception::
 	lock
@@ -378,7 +379,7 @@ GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
 	.string "Bitte komm morgen wieder.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain:
-	.string "Komm gerne wieder.$"
+	.string "Bis zum nächsten Mal.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleasePickTicket:
 	.string "Bitte wähle ein LOTO TICKET.\n"
@@ -391,35 +392,32 @@ GoldenrodCity_RadioTower_1F_Text_TicketNumberIsXPleaseWait:
 	.string "Pokémon übereinstimmt. Warte bitte.$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPartyMon:
-	.string "Glückwunsch!\p"
-	.string "Die ID-Nummer deines\n"
-	.string "{STR_VAR_1} stimmt mit\l"
-	.string "deinem Ticket überein!$"
+	.string "Herzlichen Glückwunsch!\p"
+	.string "Die ID-Nummer deines {STR_VAR_1} im\n"
+	.string "Team stimmt ganz oder teilweise mit der\l"
+	.string "des Lottoscheins überein!$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketMatchesPCMon:
-	.string "Glückwunsch!\p"
-	.string "Die ID-Nummer deines\n"
-	.string "{STR_VAR_1} stimmt mit\l"
-	.string "deinem Ticket überein!$"
+	.string "Herzlichen Glückwunsch!\p"
+	.string "Die ID-Nummer deines {STR_VAR_1} in\n"
+	.string "deiner PC-Box stimmt teilweise oder\l"
+	.string "ganz mit der des Lottoscheins überein!$"
 
 GoldenrodCity_RadioTower_1F_Text_NoNumbersMatched:
 	.string "Tut mir leid.\n"
 	.string "Leider kein Treffer.$"
 
 GoldenrodCity_RadioTower_1F_Text_TwoDigitsMatched:
-	.string "Zwei Nummern sind identisch,\n"
-	.string "du gewinnst den Trostpreis!\l"
-	.string "Du gewinnst {STR_VAR_1}!$"
+	.string "Die letzten zwei Ziffern stimmen überein,\n"
+	.string "daher bekommst du den dritten Preis!$"
 
 GoldenrodCity_RadioTower_1F_Text_ThreeDigitsMatched:
-	.string "Drei Nummern sind identisch,\n"
-	.string "zweiter Preis!\l"
-	.string "Du gewinnst {STR_VAR_1}!$"
+	.string "Die letzten drei Ziffern stimmen überein,\n"
+	.string "daher bekommst du den zweiten Preis!$"
 
 GoldenrodCity_RadioTower_1F_Text_FourDigitsMatched:
-	.string "Vier nummern sind identisch,\n"
-	.string "Erster Preis!\l"
-	.string "Du gewinnst {STR_VAR_1}!$"
+	.string "Die letzten vier Ziffern stimmen überein.\n"
+	.string "Du bekommst den ersten Preis!!!$"
 
 GoldenrodCity_RadioTower_1F_Text_AllFiveDigitsMatched:
 	.string "Oh mein Gott! Volltreffer!\p"
@@ -427,18 +425,18 @@ GoldenrodCity_RadioTower_1F_Text_AllFiveDigitsMatched:
 	.string "Du gewinnst {STR_VAR_1}!$"
 
 GoldenrodCity_RadioTower_1F_Text_NoRoomForThis:
-	.string "Oh?\n"
-	.string "Du hast dafür keinen Platz.\p"
-	.string "Bitte schaffe Platz in\n"
-	.string "deiner Tasche.$"
+	.string "Oh! Du scheinst keinen Platz\n"
+	.string "dafür zu haben.\p"
+	.string "Wenn du wieder Platz in deinem\n"
+	.string "Beutel hast, lass es mich wissen.$"
 
 GoldenrodCity_RadioTower_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}?\n"
-	.string "Ich habe dich erwartet.\p"
-	.string "Hier ist der Preis, den wir\n"
-	.string "für dich aufbewahrt haben.$"
+	.string "Ja, ich habe dich schon erwartet.\p"
+	.string "Diesen Preis habe ich für dich\n"
+	.string "aufbewahrt. Hier, bitte schön!$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain2:
-	.string "Besuch uns gern wieder.$"
+	.string "Bis zum nächsten Mal.$"
 
 

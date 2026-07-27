@@ -487,8 +487,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent_hns:
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du das Spiel speichern und\n"
-	.string "beenden?$"
+	.string "Möchtest du speichern und\n"
+	.string "das Spiel beenden?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge_hns:
 	.string "Möchtest du dich aus dem Wechselkampf\n"
@@ -563,8 +563,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType_hns:
 	.string "POKéMON vom Typ UNLICHT.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType_hns:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FAIRY type.$"
+	.string "Der TRAINER ist ein Fachmann für\n"
+	.string "POKéMON vom Typ FEE.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType_hns:
 	.string "Der TRAINER ist ein Fachmann für\n"

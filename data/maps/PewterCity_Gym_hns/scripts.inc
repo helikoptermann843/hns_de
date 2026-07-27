@@ -38,24 +38,22 @@ PewterCity_Gym_EventScript_Brock_Defeated::
 
 
 PewterCity_Gym_Text_Brock_Intro:
-	.string "Rocko: Wow, nicht oft kommt ein\n"
-	.string "Herausforderer aus JOHTO.\p"
-	.string "Ich bin ROCKO, der ARENALEITER\n"
-	.string "von MARMORIA.\p"
-	.string "Ich bin Experte für Gestein-\n"
-	.string "Pokémon.\p"
-	.string "Meine Pokémon trotzen den\n"
-	.string "meisten physischen Angriffen.\p"
-	.string "Du wirst es schwer haben,\n"
-	.string "Schaden zu verursachen.\p"
-	.string "Komm schon!$"
+	.string "Rocko: Wow! Mit Leuten aus Johto habe\n"
+	.string "ich es hier nur selten zu tun!\p"
+	.string "Mein Name ist Rocko! Ich bin der\n"
+	.string "Arenaleiter von Marmoria City.\p"
+	.string "Mein Fachgebiet sind Gestein-Pokémon!\p"
+	.string "Von ein paar halbherzigen Attacken\n"
+	.string "lassen sich meine Pokémon ganz\l"
+	.string "bestimmt nicht beeindrucken!\l"
+	.string "Das juckt sie nicht im Geringsten!\p"
+	.string "Und jetzt los! Lass uns kämpfen!$"
 
 PewterCity_Gym_Text_Brock_WinLoss:
-	.string "Rocko: Die starken Angriffe\n"
-	.string "deiner Pokémon durchbrachen\l"
-	.string "meine harte Gesteinsabwehr…\p"
-	.string "Du bist stärker als gedacht…\p"
-	.string "Nimm diesen ORDEN.$"
+	.string "Rocko: Unglaublich! Die mächtigen\n"
+	.string "Attacken deiner Pokémon haben\l"
+	.string "meine Verteidigung durchbrochen.\p"
+	.string "Hier! Nimm diesen Orden!$"
 
 PewterCity_Gym_Text_ReceivedBoulderBadge:
 	.string "{PLAYER} erhält den Felsorden.$"
@@ -68,43 +66,41 @@ PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Pokémon noch stärker.$"
 
 PewterCity_Gym_Text_Brock_FightDone:
-	.string "Rocko: Die Welt ist riesig.\n"
-	.string "Es gibt noch viele starke\l"
-	.string "Trainer wie dich.\p"
-	.string "Warte nur ab. Auch ich werde\n"
-	.string "noch viel stärker.$"
+	.string "Rocko: Es ist eine große, weite Welt!\n"
+	.string "Da draußen gibt es bestimmt noch jede\l"
+	.string "Menge andere starke Trainer wie dich.\p"
+	.string "Auch ich werde an mir feilen, dass ich\n"
+	.string "ein noch viel besserer Trainer werde!$"
 
 PewterCity_Gym_Text_CamperJerry_Seen:
-	.string "Die Trainer dieser ARENA\n"
-	.string "nutzen Gestein-Pokémon.\p"
-	.string "Der Gestein-Typ hat hohe\n"
-	.string "VERTEIDIGUNG.\p"
-	.string "Kämpfe können lange dauern.\n"
-	.string "Bist du bereit?$"
+	.string "Die Trainer dieser Pokémon-Arena\n"
+	.string "setzen Gestein-Pokémon ein.\p"
+	.string "Gestein-Pokémon haben hohe\n"
+	.string "Verteidigungs-Werte.\p"
+	.string "Die Kämpfe können sehr lange dauern.\n"
+	.string "Bist du bereit dafür?$"
 
 PewterCity_Gym_Text_CamperJerry_Beaten:
-	.string "Ich muss diese Kämpfe\n"
-	.string "gewinnen…$"
+	.string "Ich muss diese\n"
+	.string "Kämpfe gewinnen…$"
 
 PewterCity_Gym_Text_CamperJerry_AfterBattle:
-	.string "Hey, du! Trainer aus JOHTO!\n"
-	.string "Rocko ist hart.\p"
-	.string "Er wird dich bestrafen,\n"
-	.string "wenn du ihn unterschätzt.$"
+	.string "He, du da! Trainer aus Johto! Rocko ist\n"
+	.string "stark. Es wird dir übel bekommen,\l"
+	.string "wenn du ihn nicht ernst nimmst.$"
 
 PewterCity_Gym_Text_Guide:
-	.string "He! Ein CHAMP in spe!\p"
-	.string "Das ist cool! Kämpfst du gegen\n"
-	.string "die ARENALEITER in KANTO?\p"
-	.string "Sie sind stark und ambitioniert, wie\n"
-	.string "die ARENALEITER in JOHTO.$"
+	.string "Hey, du! Zukünftiger Champ!\p"
+	.string "Heute scheint ja echt dein Tag zu sein!\p"
+	.string "Hast du vor, alle Arenaleiter von Kanto\n"
+	.string "zum Kampf herauszufordern?\p"
+	.string "Sie sind starke Gegner und stehen\n"
+	.string "ihren Kollegen aus Johto in nichts nach!$"
 
 PewterCity_Gym_Text_Guide_Win:
-	.string "He! Ein CHAMP in spe!\p"
-	.string "Diese PKMN-ARENA stellte kein\n"
-	.string "Problem für dich dar.\p"
-	.string "Dein Einsatz ist wirklich\n"
-	.string "beeindruckend. Das meine ich ehrlich.$"
+	.string "Ja, aus dir wird wirklich mal ein Champ!\n"
+	.string "Dieser Kampf war kein Problem für dich.\l"
+	.string "Ehrlich, ich bin schwer beeindruckt!$"
 
 PewterCity_Gym_EventScript_GymGuy::
 	goto_if_set FLAG_DEFEATED_PEWTER_GYM, PewterCity_Gym_EventScript_GymGuyAfter

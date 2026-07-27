@@ -880,8 +880,8 @@ BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
 	.string "Willkommen zurück!\n"
 	.string "Dir ist das Undenkbare gelungen!\p"
-	.string "Du hast den PYRAKÖNIG besiegt\n"
-	.string "und die KAMPFPYRAMIDE erobert!$"
+	.string "Du hast den Pyrakönig besiegt\n"
+	.string "und die Kampfpyramide erobert!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
 	.string "Junger Forschergeist!\n"

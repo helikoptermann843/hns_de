@@ -38,7 +38,7 @@ CeladonDeptStore6F_Text_VendingNoMoney:
 	.string "Ups, nicht genug Geld…$"
 
 CeladonDeptStore6F_Text_VendingNoSpace:
-	.string "Es ist kein Platz mehr…$"
+	.string "Es ist kein Platz mehr vorhanden!$"
 
 CeladonDeptStore6F_Text_SuperNerd:
 	.string "Ein Verkaufsautomat mit Preisroulette…\n"
@@ -46,8 +46,9 @@ CeladonDeptStore6F_Text_SuperNerd:
 	.string "Solche sieht man heute kaum noch.$"
 
 CeladonDeptStore6F_Text_Youngster:
-	.string "Oh nein! Hier gibt es keine Spiele!\p"
-	.string "Ich wollte spielen…$"
+	.string "Ach Mann, hier gibt's ja\n"
+	.string "gar keine Videospiele!\l"
+	.string "Ich will Videospiele zocken!$"
 
 CeladonDeptStore6F_Text_Directory:
 	.string "5F: DACHTERRASSE VERKAUFS\n"

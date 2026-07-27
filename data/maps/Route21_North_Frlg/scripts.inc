@@ -2,36 +2,37 @@ Route21_North_Frlg_MapScripts::
 	.byte 0
 
 Route21_North_Text_RonaldIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "Möchtest du wissen, ob die Fische\n"
+	.string "beißen?$"
 
 Route21_North_Text_RonaldDefeat::
-	.string "Dang!$"
+	.string "Mist!$"
 
 Route21_North_Text_RonaldPostBattle::
-	.string "I can't catch anything good.\n"
-	.string "Not one good POKéMON to be had!$"
+	.string "Bisher habe ich noch nichts\n"
+	.string "gefangen!$"
 
 Route21_North_Text_WadeIntro::
-	.string "I got a big haul!\n"
-	.string "Wanna go for it?$"
+	.string "Ich habe einen guten Fang\n"
+	.string "gemacht! Möchtest du ihn sehen?$"
 
 Route21_North_Text_WadeDefeat::
-	.string "Heheh, MAGIKARP just don't make\n"
-	.string "the grade, do they?$"
+	.string "NEIN!\n"
+	.string "KARPADOR!$"
 
 Route21_North_Text_WadePostBattle::
-	.string "I seem to only catch MAGIKARP!$"
+	.string "Oh nein! Ich habe schon wieder\n"
+	.string "ein Karpador gefangen!$"
 
 Route21_North_Text_SpencerIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "Die See reinigt Körper und Seele!$"
 
 Route21_North_Text_SpencerDefeat::
-	.string "Ayah!$"
+	.string "Nein!$"
 
 Route21_North_Text_SpencerPostBattle::
-	.string "The sea is great and all, but I\n"
-	.string "like the mountains, too.$"
+	.string "Aber ich mag die Berge genauso\n"
+	.string "gern!$"
 
 @ Below is the battle text for the Cue Ball that was on Route 21 in Gen 1.
 @ This trainer wasnt used in Gen 3 so their text goes unused/untranslated

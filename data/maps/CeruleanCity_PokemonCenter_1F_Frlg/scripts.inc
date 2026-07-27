@@ -35,29 +35,31 @@ CeruleanCity_PokemonCenter_1F_EventScript_Lass::
 	end
 
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
-	.string "That BILL!\p"
-	.string "I heard that he'll do whatever it\n"
-	.string "takes to get rare POKéMON.\p"
-	.string "He's not above doing all sorts\n"
-	.string "of things, I've heard.$"
+	.string "Die Leute hier wurden beraubt.\p"
+	.string "Das TEAM ROCKET steckt hinter dem\n"
+	.string "abscheulichen Verbrechen!\p"
+	.string "Sogar die POLIZEI ist gegen das\n"
+	.string "TEAM ROCKET machtlos!$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
-	.string "Have you heard about BILL?\p"
-	.string "Everyone calls him a POKéMANIAC!\p"
-	.string "I think people are just jealous of\n"
-	.string "BILL, though.\p"
-	.string "Who wouldn't want to boast about\n"
-	.string "their POKéMON?$"
+	.string "Hat man dir schon von BILL\n"
+	.string "erzählt?\p"
+	.string "Jeder nennt ihn den POKéMANIAC!\p"
+	.string "Aber ich glaube, die Leute sind\n"
+	.string "bloß neidisch auf BILL.\p"
+	.string "Wer würde denn nicht mit seinen\n"
+	.string "POKéMON prahlen?$"
 
 CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
-	.string "BILL has lots of POKéMON!\n"
-	.string "He collects rare ones, too!$"
+	.string "BILL besitzt viele POKéMON!\p"
+	.string "Er hat einige sehr seltene in\n"
+	.string "seiner Sammlung!$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
-	.string "Why don't you go upstairs and try\n"
-	.string "trading POKéMON with your friends?\p"
-	.string "You could get a lot more variety\n"
-	.string "by trading.\p"
-	.string "The POKéMON you get in trades grow\n"
-	.string "quickly, too.$"
+	.string "POKéMON können Büsche mit dem\n"
+	.string "ZERSCHNEIDER klein hacken.\p"
+	.string "Auch der kleine Baum vor dem\n"
+	.string "Geschäft kann entfernt werden.\p"
+	.string "Aber es gibt auch einen anderen\n"
+	.string "Weg!$"
 

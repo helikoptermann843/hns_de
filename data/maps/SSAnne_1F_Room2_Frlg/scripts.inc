@@ -16,33 +16,35 @@ SSAnne_1F_Room2_EventScript_Tyler::
 	end
 
 SSAnne_1F_Room2_Text_TylerIntro::
-	.string "I love POKéMON!\n"
-	.string "Do you?$"
+	.string "Ich bin total in Pokémon vernarrt!\n"
+	.string "Du auch?$"
 
 SSAnne_1F_Room2_Text_TylerDefeat::
-	.string "Wow! \n"
-	.string "You're great!$"
+	.string "Wow!\n"
+	.string "Du bist cool!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-	.string "Listen, listen!\n"
-	.string "Let me be your friend, okay?\p"
-	.string "Then we can trade POKéMON and\n"
-	.string "do stuff.$"
+	.string "Es liebt dich über alles! Das ist\n"
+	.string "so wunderbar und toll!\p"
+	.string "Dein POKéMON könnte nicht\n"
+	.string "glücklicher sein!$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
-	.string "I collected these POKéMON\n"
-	.string "from all around the world!$"
+	.string "Auf meinen Reisen um die Welt habe\n"
+	.string "ich unzählige Pokémon gefangen!$"
 
 SSAnne_1F_Room2_Text_AnnDefeat::
-	.string "Oh, no!\n"
-	.string "I went around the world for these!$"
+	.string "Nein! Ich habe die ganze Welt für\n"
+	.string "diese Pokémon bereist!$"
 
 SSAnne_1F_Room2_Text_AnnPostBattle::
-	.string "You hurt my poor POKéMON!\p"
-	.string "I demand that you heal them at a\n"
-	.string "POKéMON CENTER!$"
+	.string "So behandelt man keine Pokémon von\n"
+	.string "Weltklasse!\p"
+	.string "Ich verlange eine Kur in einem\n"
+	.string "Pokémon-Center für meine\l"
+	.string "Pokémon!!!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-	.string "We are cruising around the world,\n"
-	.string "my children and I.$"
+	.string "Es ist ein guter Freund von dir!\n"
+	.string "Behandle es weiterhin gut!$"
 

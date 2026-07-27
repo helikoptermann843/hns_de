@@ -1069,7 +1069,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
 	.string "TASSO! TASSO! TASSO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
-	.string "TASSO: Ahahaha!\p"
+	.string "Tasso: Ahahaha!\p"
 	.string "Hörst du das? Die begeisterte Menge\n"
 	.string "kann unseren Kampf kaum erwarten!\p"
 	.string "Ahahaha!\p"
@@ -1077,9 +1077,9 @@ BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 	.string "und Aufregung, gleich gegen mich\p"
 	.string "antreten zu können!\n"
 	.string "Aber mach dir mal keine Gedanken!\p"
-	.string "Ich bin die Nummer eins des KAMPF-\n"
-	.string "STADIONs! Ich, TASSO, der \p"
-	.string "STADIONSTAR, werde dich in meinem\n"
+	.string "Ich bin die Nummer eins des Kampf-\n"
+	.string "Stadions! Ich, Tasso, der \p"
+	.string "Stadionstar, werde dich in meinem\n"
 	.string "Glanz ertränken!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
@@ -1125,12 +1125,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 	.string "Niemand anderer als TASSO!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TASSO: Ah…\n"
+	.string "Tasso: Ah…\n"
 	.string "Die Begeisterung des Publikums…\l"
 	.string "Die aufgeheizte Atmosphäre…\l"
 	.string "Was für ein wundervoller Ort…\p"
-	.string "Für das Publikum bin ich der STADION-\n"
-	.string "STAR… Ich repräsentiere ihre\l"
+	.string "Für das Publikum bin ich der Stadion-\n"
+	.string "Star… Ich repräsentiere ihre\l"
 	.string "Träume und Hoffnungen…\l"
 	.string "Sie dürfen mich niemals verlieren…\p"
 	.string "Ich muss brennen!\n"
@@ -1165,15 +1165,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
-	.string "{PLAYER} is the Level 50\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Der Gewinner des Level 50-\n"
+	.string "Kampfturniers heißt {PLAYER}!\l"
+	.string "Herzlichen Glückwunsch!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
-	.string "{PLAYER} is the Open Level\n"
-	.string "Battle Tournament Champion!\p"
-	.string "Congratulations!$"
+	.string "Der Gewinner des Offene Kämpfe-\n"
+	.string "Kampfturniers heißt {PLAYER}!\l"
+	.string "Herzlichen Glückwunsch!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 	.string "Das Finale!\p"

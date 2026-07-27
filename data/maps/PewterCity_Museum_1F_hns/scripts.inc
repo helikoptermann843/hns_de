@@ -40,12 +40,12 @@ PewterCity_Museum_1F_EventScript_Bones::
 
 PewterCity_Museum_1F_Text_Recptionist:
 	.string "Willkommen!\p"
-	.string "Zur Info: Alle großen Exponate\n"
-	.string "wurden an andere Museen zur\l"
-	.string "Ausstellung gebracht.\p"
-	.string "Darum ist der Eintritt derzeit\n"
-	.string "kostenlos!\p"
-	.string "Bitte treten Sie ein.$"
+	.string "Wir haben zurzeit einige unserer\n"
+	.string "großen Exponate an ein anderes\l"
+	.string "Museum verliehen.\p"
+	.string "Deshalb ist der Eintritt ausnahmsweise\n"
+	.string "für alle Leute kostenlos!\p"
+	.string "Gehe einfach hinein und sieh dich um!$"
 
 PewterCity_Museum_1F_Text_FossilWoman:
 	.string "Du musst ein starker Trainer sein.\p"
@@ -62,10 +62,9 @@ PewterCity_Museum_1F_Text_FossilWomanAfter:
 	.string "über den PC!$"
 
 PewterCity_Museum_1F_Text_Oldman:
-	.string "Ich sollte dankbar für mein\n"
-	.string "langes Leben sein.\p"
-	.string "Nie hätte ich gedacht, einmal\n"
-	.string "die Knochen eines Drachen zu sehen!$"
+	.string "Oh, was bin ich doch für ein Glückspilz!\p"
+	.string "Die Überreste eines großen Drachen…\n"
+	.string "Dass ich das noch erleben durfte!$"
 
 PewterCity_Museum_1F_Text_Bones:
 	.string "Knochen eines uralten\n"

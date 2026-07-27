@@ -168,7 +168,7 @@ GoldenrodCity_Gym_Text_WhitneyGoodCry:
 
 GoldenrodCity_Gym_Text_WhitneyRematch:
 	.string "Hi! Du bist es!\p"
-	.string "Wow, JOHTO CHAMPION jetzt?\p"
+	.string "Wow, Johto Champion jetzt?\p"
 	.string "Du bist echt stark!\p"
 	.string "Ich will sehen, wie stark du bist.\p"
 	.string "Willst du ein Rematch mit mir?$"

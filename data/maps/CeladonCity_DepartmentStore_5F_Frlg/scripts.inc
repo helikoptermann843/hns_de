@@ -59,25 +59,25 @@ CeladonCity_DepartmentStore_5F_Vitamins::
 	end
 
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
-	.string "POKéMON stat enhancers can be\n"
-	.string "bought only here.\p"
-	.string "HP UP increases the base HP of a\n"
+	.string "Nur hier kannst du leistungs-\n"
+	.string "fördernde Mittel für deine POKéMON\l"
+	.string "kaufen!\p"
+	.string "KP-PLUS hebt die Basis-KP eines\n"
 	.string "POKéMON.\p"
-	.string "CALCIUM raises the base SP. ATK\n"
-	.string "stat of one POKéMON.\p"
-	.string "ZINC boosts the base SP. DEF stat\n"
-	.string "of one POKéMON.\p"
-	.string "CARBOS enhances the base SPEED\n"
-	.string "stat.$"
+	.string "KALZIUM steigert die Stärke von\n"
+	.string "SPEZIAL-ATTACKEN!\p"
+	.string "ZINK hebt den Basis-Wert der\n"
+	.string "SP. VER. eines POKéMON.\p"
+	.string "CARBON erhöht die INITIATIVE.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "I'm here for POKéMON stat\n"
-	.string "enhancers.\p"
-	.string "PROTEIN increases the base ATTACK\n"
-	.string "power.\p"
-	.string "IRON increases the base DEFENSE\n"
-	.string "stat.$"
+	.string "Wenn ein POKéMON schläft, kann es\n"
+	.string "nicht angreifen!\p"
+	.string "Ein schlafendes POKéMON wacht auch\n"
+	.string "nach dem Kampf nicht auf.\p"
+	.string "Benutze AUFWECKER, damit es\n"
+	.string "aufwacht.$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "5F: DRUGSTORE$"
+	.string "4S: DROGERIE$"
 

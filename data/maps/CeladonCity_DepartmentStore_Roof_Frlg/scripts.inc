@@ -281,84 +281,87 @@ CeladonCity_DepartmentStore_Roof_EventScript_ExitVendingMachine::
 	end
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
-	.string "I'm thirsty!\n"
-	.string "I want something to drink!\p"
-	.string "{FONT_NORMAL}Give her a drink?$"
+	.string "Ich bin durstig!\n"
+	.string "Ich möchte etwas trinken!\p"
+	.string "{CTRL}Gibst du dem Mädchen ein Getränk?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
 	.string "Give her which drink?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
-	.string "Yay!\p"
-	.string "FRESH WATER!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "Ja!\p"
+	.string "TAFELWASSER!\p"
+	.string "Vielen Dank!\n"
+	.string "Nimm bitte dieses Geschenk!$"
 
 Text_ReceivedItemFromLittleGirl::
 	.string "{PLAYER} received a {STR_VAR_2}\n"
 	.string "from the little girl.$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-	.string "TM16 contains LIGHT SCREEN.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of special attacks by your foe.$"
+	.string "TM16 ist LICHTSCHILD!\p"
+	.string "Damit schwächst du die gegne-\n"
+	.string "rischen Spezial-Attacken.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
-	.string "Yay!\p"
-	.string "SODA POP!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "Cool!\p"
+	.string "SPRUDEL!\p"
+	.string "Vielen Dank!\n"
+	.string "Nimm bitte dieses Geschenk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-	.string "TM20 contains SAFEGUARD.\p"
-	.string "It's a move that prevents status\n"
-	.string "problems among your POKéMON.$"
+	.string "TM20 ist BODYGUARD!\p"
+	.string "Diese Attacke verhindert\n"
+	.string "Statusprobleme bei deinen\l"
+	.string "POKéMON!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
-	.string "Yay!\p"
-	.string "LEMONADE!\p"
-	.string "Thank you!\n"
-	.string "You can have this from me!$"
+	.string "Cool!\p"
+	.string "LIMONADE!\p"
+	.string "Vielen Dank!\n"
+	.string "Nimm bitte dieses Geschenk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-	.string "TM33 contains REFLECT.\p"
-	.string "It's a move that weakens the power\n"
-	.string "of physical attacks by your foe.$"
+	.string "TM33 ist REFLEKTOR!\p"
+	.string "Diese Attacke schwächt\n"
+	.string "physische Angriffe des Gegners.$"
 
 CeladonCity_DepartmentStore_Roof_Text_DontHaveSpaceForThis::
-	.string "You don't have space for this!$"
+	.string "Du hast keinen Platz dafür!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
-	.string "No, thank you!\n"
-	.string "I'm not thirsty after all!$"
+	.string "Das ist nett gemeint, aber ich habe\n"
+	.string "keinen Durst!$"
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
-	.string "My sister is a TRAINER, believe it\n"
-	.string "or not.\p"
-	.string "But, she's so immature, she drives\n"
-	.string "me nuts!$"
+	.string "Ob du es glaubst oder nicht: Meine\n"
+	.string "Schwester ist eine TRAINERin!\p"
+	.string "Aber sie ist so kindisch! Ich werde\n"
+	.string "noch ganz verrückt!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
-	.string "I'm thirsty!\n"
-	.string "I want something to drink!$"
+	.string "Ich bin durstig!\n"
+	.string "Ein Königreich für ein Getränk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-	.string "ROOFTOP SQUARE:\n"
-	.string "VENDING MACHINES$"
+	.string "DACHGARTEN:\n"
+	.string "AUTOMATEN$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
 	.string "A vending machine!\n"
 	.string "What does it have?$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
-	.string "Oops, not enough money!$"
+	.string "Ups, nicht genug Geld!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "A can of {STR_VAR_1} popped out!$"
+	.string "Eine Flasche {VAR} liegt im\n"
+	.string "Schacht!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::
-	.string "There's no more room for stuff!$"
+	.string "Du kannst keine weiteren Items\n"
+	.string "tragen!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotThirsty::
-	.string "Not thirsty!$"
+	.string "Kein Durst!$"
 

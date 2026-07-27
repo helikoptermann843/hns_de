@@ -458,39 +458,36 @@ Route34_DayCare_EventScript_TwoMonsInDaycare::
 	end
 
 Route34_Text_SeeWifeIfYoudLikeMeToRaiseMon:
-	.string "Ich bin der PENSIONS-MANN.\p"
-	.string "Ich helfe, die kostbaren Pokémon\n"
-	.string "der TRAINER zu betreuen.\p"
-	.string "Wenn du möchtest, dass ich dein\n"
-	.string "Pokémon aufziehe,\l"
-	.string "sprich mit meiner Frau.$"
+	.string "Ich bin der Pensionsleiter.\p"
+	.string "Ich kümmere mich um die wertvollen\n"
+	.string "Pokémon der Trainer.\p"
+	.string "Wenn ich eines deiner Pokémon auf-\n"
+	.string "ziehen soll, sprich mit meiner Frau.$"
 
 Route34_Text_DoYouWantEgg:
-	.string "Ah, du bist es!\p"
-	.string "Wir haben dein Pokémon großgezogen,\n"
-	.string "und wir waren wirklich überrascht!\p"
-	.string "Dein Pokémon hat ein Ei!\p"
-	.string "Wir wissen nicht, wo es\n"
-	.string "hergekommen ist, aber dein Pokémon\n"
-	.string "hat es.\p"
-	.string "Willst du es haben?$"
+	.string "Ach, du bist es!\p"
+	.string "Wir haben deine Pokémon aufgezogen\n"
+	.string "und sind ganz schön überrascht!\p"
+	.string "Deine Pokémon haben nun ein Ei!\p"
+	.string "Wir wissen nicht, wie das passiert\n"
+	.string "ist, aber jetzt ist es da.\p"
+	.string "Möchtest du es haben?$"
 
 Route34_Text_YourMonIsDoingFine:
-	.string "Ah, du bist es! Schön dich zu sehen.\n"
-	.string "Dein {STR_VAR_1} geht es gut.$"
+	.string "Ach, du bist es! Schön, dich zu sehen.\n"
+	.string "Deinem {STR_VAR_1} geht es sehr gut.$"
 
 Route34_Text_IllKeepIt:
 	.string "Na dann, ich behalte es.\n"
 	.string "Danke!$"
 
 Route34_Text_YouHaveNoRoomForIt:
-	.string "Du hast keinen Platz dafür…\n"
-	.string "Komm zurück, wenn du Platz gemacht\l"
-	.string "hast.$"
+	.string "Du hast keinen Platz dafür… komm\n"
+	.string "wieder, wenn du Platz geschaffen hast.$"
 
 Route34_Text_ReceivedEgg:
-	.string "{PLAYER} erhielt das Ei vom\n"
-	.string "PENSIONS-MANN.$"
+	.string "{PLAYER} erhält das Ei vom\n"
+	.string "Pensionsleiter.$"
 
 Route34_Text_TakeGoodCareOfIt:
 	.string "Pass gut auf es auf.$"
@@ -508,26 +505,25 @@ Route34_Text_SeeWifeIfYouWantToPickUpMon:
 	.string "sprich mit meiner Frau.$"
 
 Route34_Text_YourMonsAreDoingFine:
-	.string "Ah, du bist es! Deinem {STR_VAR_1} und\n"
-	.string "{STR_VAR_2} geht es gut.$"
+	.string "Deinem {STR_VAR_1} geht es sehr gut.$"
 
 Route34_Text_IWillKeepDoYouWantIt:
-	.string "Ich behalte es wirklich.\n"
-	.string "Willst du es haben?$"
+	.string "Dann werde ich es behalten.\n"
+	.string "Oder möchtest du es doch haben?$"
 
 Route34_DayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "Ich bin die PENSIONS-FRAU.\p"
-	.string "Wir können dein Pokémon aufziehen.\p"
-	.string "Möchtest du, dass wir eins aufziehen?$"
+	.string "Ich bin die Pensionsleiterin.\n"
+	.string "Wir ziehen Pokémon für dich auf.\p"
+	.string "Sollen wir eines aufziehen?$"
 
 Route34_DayCare_Text_WhichMonShouldWeRaise:
-	.string "Welches Pokémon sollen wir für dich\n"
-	.string "aufziehen?$"
+	.string "Welches Pokémon sollen\n"
+	.string "wir für dich aufziehen?$"
 
 Route34_DayCare_Text_WellRaiseYourMon:
-	.string "Gut, wir ziehen dein {STR_VAR_1}\n"
-	.string "eine Weile auf.\p"
-	.string "Komm später wieder.$"
+	.string "Fein, dann nehmen wir dein {STR_VAR_1}\n"
+	.string "für eine Weile in Pflege.\p"
+	.string "Schau später mal nach ihm.$"
 
 Route34_DayCare_Text_WeCanRaiseOneMore:
 	.string "Wir können zwei deiner Pokémon\l"
@@ -539,29 +535,31 @@ Route34_DayCare_Text_HusbandWasLookingForYou:
 	.string "Mein Mann hat nach dir gesucht.$"
 
 Route34_DayCare_Text_FineThenComeAgain:
-	.string "Oh, gut, dann komm wieder.$"
+	.string "Oh, gut.\n"
+	.string "Komm bald wieder.$"
 
 Route34_DayCare_Text_NotEnoughMoney:
-	.string "Du hast nicht genug Geld…$"
+	.string "Du hast nicht genug Geld.$"
 
 Route34_DayCare_Text_TakeOtherOneBackToo:
 	.string "Willst du das andere Pokémon auch\n"
 	.string "zurücknehmen?$"
 
 Route34_DayCare_Text_ComeAgain:
-	.string "Komm wieder.$"
+	.string "Oh, gut.\n"
+	.string "Komm bald wieder.$"
 
 Route34_DayCare_Text_GoodToSeeYou:
 	.string "Ah, du bist es! Schön dich zu sehen.\n"
 	.string "Deinem Pokémon geht es sicher gut.$"
 
 Route34_DayCare_Text_YourMonHasGrownXLevels:
-	.string "Dein {STR_VAR_1} ist um {STR_VAR_2}\n"
-	.string "Level gewachsen.$"
+	.string "Dein {STR_VAR_1} ist um {STR_VAR_1} Level\n"
+	.string "gewachsen.$"
 
 Route34_DayCare_Text_YourTeamIsFull:
-	.string "Dein Pokémon-Team ist voll.\n"
-	.string "Mach Platz und komm zu mir.$"
+	.string "Dein Pokémon-Team ist vollzählig.\n"
+	.string "Schaffe Platz und komm dann wieder.$"
 
 @ Unused
 Route34_DayCare_Text_TakeBackWhichMon:
@@ -569,15 +567,15 @@ Route34_DayCare_Text_TakeBackWhichMon:
 	.string "zurücknehmen?$"
 
 Route34_DayCare_Text_ItWillCostX:
-	.string "Wenn du dein {STR_VAR_1} zurück\n"
-	.string "haben willst, kostet das ¥{STR_VAR_2}.$"
+	.string "Wenn du dein {STR_VAR_1} mitnehmen\n"
+	.string "willst, kostet das {STR_VAR_2} $.$"
 
 Route34_DayCare_Text_HeresYourMon:
 	.string "Perfekt! Hier ist dein Pokémon.$"
 
 Route34_DayCare_Text_TookBackMon:
-	.string "{PLAYER} nahm {STR_VAR_1} von der\n"
-	.string "PENSIONS-FRAU zurück.$"
+	.string "{STR_VAR_1} hat {STR_VAR_1} von der\n"
+	.string "Pensionsleiterin zurückerhalten.$"
 
 Route34_DayCare_Text_YouHaveJustOneMon:
 	.string "Oh? Du hast nur ein Pokémon.\p"
@@ -587,13 +585,14 @@ Route34_DayCare_Text_TakeYourMonBack:
 	.string "Willst du dein Pokémon zurückhaben?$"
 
 Route34_DayCare_Text_WhatWillYouBattleWith:
-	.string "Wenn du mir das Pokémon lässt,\n"
-	.string "womit willst du dann kämpfen?\p"
-	.string "Komm ein anderes Mal wieder.$"
+	.string "Wenn du das Pokémon hierlässt,\n"
+	.string "womit willst du denn dann kämpfen?\p"
+	.string "Komm einfach später wieder.$"
 
 Route34_DayCare_Text_YoullBeLeftWithJustOne:
-	.string "Hmm? Heh doch.\p"
-	.string "Wenn du das Pokémon bei mir lässt,\n"
-	.string "hast du nur noch eines.\p"
-	.string "Es ist besser, wenn du noch ein paar\n"
-	.string "fängst.$"
+	.string "Wie bitte?\n"
+	.string "Aber, aber…\p"
+	.string "Wenn du das Pokémon bei mir lässt, dann\n"
+	.string "hast du ja nur noch ein einziges bei dir!\p"
+	.string "Fange doch einfach ein paar Pokémon,\n"
+	.string "dann sehen wir weiter.$"

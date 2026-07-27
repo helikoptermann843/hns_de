@@ -465,33 +465,33 @@ BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet_hns:
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext_hns:
-	.string "The 2nd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das zweite gegnerische Team ist bereit.\n"
+	.string "Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext_hns:
-	.string "The 3rd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das dritte gegnerische Team ist bereit.\n"
+	.string "Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext_hns:
-	.string "The 4th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das vierte gegnerische Team ist bereit.\n"
+	.string "Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext_hns:
-	.string "The 5th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das fünfte gegnerische Team ist bereit.\n"
+	.string "Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext_hns:
-	.string "The 6th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das sechste gegnerische Team ist\n"
+	.string "bereit. Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext_hns:
-	.string "The 7th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Das siebte gegnerische Team ist\n"
+	.string "bereit. Bist du so weit?$"
 
 gText_LinkStandby3_hns::
 	.string "Link standby…$"

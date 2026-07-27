@@ -321,27 +321,25 @@ SaffronMagnetTrainStation_Text_Officer_TrainNotOperating:
 	.string "in Betrieb.$"
 
 SaffronMagnetTrainStation_Text_GymGuide:
-	.string "Der MAGNETZUG ist mit modernster\p"
-	.string "Technik ausgestattet und\n"
-	.string "erreicht durch die\l"
-	.string "Nutzung von Elektrizität und\p"
-	.string "Magneten unglaub-\n"
-	.string "liche Geschwindigkeit.\p"
-	.string "Ohne Elektrizität allerdings…$"
+	.string "Der Magnetzug ist das Zeug, aus dem\n"
+	.string "Träume gemacht sind! Als Treibstoff\l"
+	.string "braucht er nur Strom und Magnetkraft!\p"
+	.string "Ohne Strom ist er allerdings nicht viel\n"
+	.string "mehr als eine langweilige Metallkiste.$"
 
 SaffronMagnetTrainStation_Text_GymGuide_ReturnedPart:
 	.string "Puh…\p"
-	.string "Wie oft bin ich von KANTO nach\n"
-	.string "JOHTO und zurück gefahren?$"
+	.string "Wie oft bin ich jetzt wohl schon zwischen\n"
+	.string "Kanto und Johto hin- und hergefahren?$"
 
 SaffronMagnetTrainStation_Text_Teacher:
-	.string "Bevor der MAGNETZUG-BAHNHOF erbaut\n"
-	.string "wurde, stand dort ein Haus.\p"
-	.string "Ein kleines Mädchen,\n"
-	.string "NACHAHMERIN genannt, lebte\l"
-	.string "dort.$"
+	.string "Bevor der Bahnhof des Magnetzugs\n"
+	.string "gebaut wurde, stand hier ein Haus.\l"
+	.string "Darin lebte ein kleines Mädchen, das\l"
+	.string "alle Leute die Nachahmerin nannten.$"
 
 SaffronMagnetTrainStation_Text_Lass:
-	.string "Hi. Hast du einen FAHRSCHEIN? Ich\n"
-	.string "habe einen. Jeder in SAFFRONIA, der\l"
-	.string "mit dem MAGNETZUG fährt, hat einen.$"
+	.string "Hi! Hast du einen Fahrschein?\p"
+	.string "Ich habe einen!\p"
+	.string "Jeder in Saffronia hat einen, um damit\n"
+	.string "den Magnetzug benutzen zu können!$"

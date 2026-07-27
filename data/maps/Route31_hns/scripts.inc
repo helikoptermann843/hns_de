@@ -116,36 +116,33 @@ Route31_EventScript_ItemAntidote::
 	end
 
 Route31_Text_CooltrainerM:
-	.string "DUNKELHÖHLE…\p"
-	.string "Wenn ein Pokémon\n"
-	.string "für Licht sorgen könnte,\l"
-	.string "würde ich sie erforschen.$"
+	.string "Hm, die Dunkelhöhle…\n"
+	.string "Wenn ein Pokémon mithilfe einer Attacke\l"
+	.string "da drinnen für Licht sorgen könnte,\l"
+	.string "würde ich sie erforschen gehen.$"
 
 Route31_Text_BugCatcherWade1_Seen:
-	.string "Ich habe einige Pokémon gefangen.\n"
+	.string "Ich habe jede Menge Pokémon gefangen!\n"
 	.string "Lass uns kämpfen!$"
 
 Route31_Text_BugCatcherWade1_Beaten:
-	.string "Awwwww…$"
+	.string "Also… irgendwas lief hier\n"
+	.string "gerade mächtig schief!$"
 
 Route31_Text_BugCatcherWade1_After:
 	.string "Du kannst Pokémon fangen, auch wenn\n"
 	.string "du bereits sechs bei dir trägst.\p"
-	.string "Fängst du eines,\n"
-	.string "wird es automatisch auf die BOX\l"
-	.string "im PC übertragen.$"
+	.string "Fängst du eines, wird es automatisch\n"
+	.string "in deine Box im PC übertragen.$"
 
 Route31_Text_SleepyMan:
-	.string "…Uargh… Hä?\p"
-	.string "Heute bin ich auf\n"
-	.string "der Suche nach Pokémon\l"
-	.string "zu viel gelaufen.\p"
-	.string "Meine Füße schmerzen\n"
-	.string "und ich bin müde…\p"
-	.string "Wenn ich ein wildes\n"
-	.string "Pokémon wäre, würde ich mich\l"
-	.string "leicht fangen lassen…\p"
-	.string "…Zzzz…$"
+	.string "Murmel, murmel, gähn…\p"
+	.string "Ich bin heute auf der Suche nach\n"
+	.string "Pokémon viel zu viel gelaufen.\l"
+	.string "Meine Füße tun weh und ich bin müde…\p"
+	.string "Wenn ich ein wildes Pokémon wäre,\n"
+	.string "wäre ich jetzt leichte Beute…\l"
+	.string "Gähn… zzz…$"
 
 Route31_Text_SleepyManGotMail:
 	.string "…Zzzz… Häh?\p"
@@ -155,8 +152,8 @@ Route31_Text_SleepyManFail:
 	.string "…Zzzz…$"
 
 Route31_Text_HandOverMailMon:
-	.string "{PLAYER} übergibt\n"
-	.string "das Pokémon, das den BRIEF trägt.$"
+	.string "{PLAYER} übergibt das Pokémon,\n"
+	.string "das den Brief trägt!$"
 
 Route31_Text_ReadingMail:
 	.string "Mal sehen…\p"
@@ -173,12 +170,19 @@ Route31_Text_ReadingMail:
 	.string "möchte dir das hier geben!$"
 
 Route31_Text_DescribeRest:
-	.string "...Zzz...\p"
-	.string "...Umm... Erholung!\p"
-	.string "Eine Attacke um KP zu erholen.$"
+	.string "Die TM44 enthält… gähn…\n"
+	.string "Zzzz…\l"
+	.string "… … …\p"
+	.string "…Huch! Erholung!!! Sie enthält\n"
+	.string "natürlich die Attacke Erholung!\p"
+	.string "Sie erlaubt deinem Pokémon, sich\n"
+	.string "eine Mütze voll Schlaf zu nehmen\l"
+	.string "und heilt auf diese Weise seine KP!$"
 
 Route31_Text_WrongMail:
-	.string "Der BRIEF ist nicht für mich.$"
+	.string "Dieser Brief scheint nicht an\n"
+	.string "mich adressiert zu sein…\p"
+	.string "Gähn…$"
 
 Route31_Text_MissingMail:
 	.string "Was ist so besonders\n"
@@ -193,12 +197,11 @@ Route31_Text_CantTakeLastMon:
 	.string "womit willst du dann kämpfen?$"
 
 Route31_Text_Youngster:
-	.string "Ich habe ein gutes Pokémon \n"
-	.string "in der DUNKELHÖHLE gefunden.\p"
-	.string "Ich ziehe es groß,\n"
-	.string "um später gegen FALK anzutreten.\p"
-	.string "Er ist der ARENALEITER\n"
-	.string "von VIOLA CITY.$"
+	.string "Ich habe in der Dunkelhöhle ein\n"
+	.string "tolles Pokémon gefangen!\p"
+	.string "Ich werde es trainieren, um später\n"
+	.string "damit gegen Falk, den Arenaleiter\l"
+	.string "von Viola City anzutreten!$"
 
 Route31_Text_Sign:
 	.string "ROUTE 31\p"
@@ -243,4 +246,4 @@ Route31_Text_WadeNoRoom:
     .string "hast!$"
 
 Route31_Text_DarkCaveSign:
-	.string "DUNKELHÖHLE$"
+	.string "Dunkelhöhle$"

@@ -23,26 +23,26 @@ Route1_EventScript_Sign::
 
 Route1_Text_SchoolboyDanny_Seen:
 	.string "Wenn sich zwei Trainer begegnen,\n"
-	.string "wollen sie sofort\l"
-	.string "kämpfen.$"
+	.string "heißt es sofort: Ring frei!$"
 
 Route1_Text_SchoolboyDanny_Beaten:
-	.string "Argh… Ich habe erneut verloren…$"
+	.string "Argh… schon wieder\n"
+	.string "verloren!$"
 
 Route1_Text_SchoolboyDanny_AfterBattle:
-	.string "Es ist ein ungeschriebenes\n"
-	.string "Gesetz, dass Trainer\l"
-	.string "kämpfen, wenn sie sich begegnen.$"
+	.string "Begegnen sich zwei Trainer, müssen sie\n"
+	.string "kämpfen. Das gehört zum guten Ton.$"
 
 Route1_Text_CooltrainerFQuinn_Seen:
-	.string "Du da! Willst du kämpfen?$"
+	.string "Du da!\n"
+	.string "Wie wär's mit einem Kampf?$"
 
 Route1_Text_CooltrainerFQuinn_Beaten:
-	.string "Versagt und weg…$"
+	.string "Ich habe verloren!$"
 
 Route1_Text_CooltrainerFQuinn_AfterBattle:
-	.string "Du bist stark.\p"
-	.string "Du hast offenbar hart trainiert.$"
+	.string "Du bist stark. Du hast\n"
+	.string "offenbar hart trainiert.$"
 
 Route1_Text_Sign:
 	.string "ROUTE 1\p"

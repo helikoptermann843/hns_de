@@ -463,7 +463,7 @@ BattleFrontier_Lounge3_Text_NotInterested_hns::
 	.string "einzugehen!$"
 
 BattleFrontier_Lounge3_Text_Oh_hns::
-	.string "Oh…$"
+	.string "Wie?$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer_hns::
 	.string "Ich hab wieder auf den falschen\n"

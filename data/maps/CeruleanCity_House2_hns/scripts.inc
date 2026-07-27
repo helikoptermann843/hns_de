@@ -20,15 +20,14 @@ CeruleanCity_House2_EventScript_Diglett::
 	end
 
 CeruleanPolice_Text_FishingGuru:
-	.string "Ich habe gehört,\n"
-	.string "dass ein zwielichtiger Typ\l"
-	.string "herumschleichen soll.\p"
-	.string "Ich werde nicht ruhig abwarten\n"
-	.string "wenn sich herausstellt,\l"
-	.string "dass er ein Dieb ist.$"
+	.string "Angeblich soll sich hier irgendeine\n"
+	.string "zwielichtige Gestalt herumtreiben…\p"
+	.string "Wenn sie sich als Dieb entpuppen sollte,\n"
+	.string "lasse ich keine Gnade walten!$"
 
 CeruleanPolice_Text_PokefanF:
-	.string "Wir wurden von Räubern aufgehalten.$"
+	.string "Bei mir ist vor langer Zeit mal\n"
+	.string "ein Dieb eingestiegen, weißt du?$"
 
 CeruleanPolice_Text_Diglett:
-	.string "Digda: Dig, dig.$"
+	.string "DIGDA: Dig da!$"

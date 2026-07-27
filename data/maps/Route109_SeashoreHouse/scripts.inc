@@ -102,12 +102,12 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	end
 
 Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "Ich bin der Besitzer des STRANDHAUSes.\n"
-	.string "Du kannst MR. MARE zu mir sagen.\p"
-	.string "Heißen POKéMON-Kämpfen zuzusehen,\n"
+	.string "Ich bin der Besitzer des Strandhauses.\n"
+	.string "Du kannst Mr. Mare zu mir sagen.\p"
+	.string "Heißen Pokémon-Kämpfen zuzusehen,\n"
 	.string "liebe ich über alles!\p"
 	.string "Zeig mir, wie heiß dein Herz lodert!\p"
-	.string "Wenn du alle TRAINER besiegen kannst,\n"
+	.string "Wenn du alle Trainer besiegen kannst,\n"
 	.string "werde ich dich belohnen!$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
@@ -146,33 +146,33 @@ Route109_SeashoreHouse_Text_ThatsTooBad:
 Route109_SeashoreHouse_Text_DwayneIntro:
 	.string "Wenn du Lust auf einen heißen Kampf\n"
 	.string "auf hoher See hast, findest du keinen\l"
-	.string "lodernderen TRAINER als mich!$"
+	.string "lodernderen Trainer als mich!$"
 
 Route109_SeashoreHouse_Text_DwayneDefeated:
 	.string "Das war ein heißer Kampf!\n"
 	.string "Ich kann die Niederlage verkraften!$"
 
 Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Immer wenn ich in GRAPHITPORT CITY\n"
+	.string "Immer wenn ich in Graphitport City\n"
 	.string "bin, genieße ich heiße Kämpfe und\l"
-	.string "eisgekühlten SPRUDEL!$"
+	.string "eisgekühlten Sprudel!$"
 
 Route109_SeashoreHouse_Text_JohannaIntro:
 	.string "Langweilige Kämpfe lohnen sich nicht.\n"
 	.string "\p"
 	.string "Feurig heiße Kämpfe aber stählen\n"
-	.string "TRAINER und POKéMON.$"
+	.string "Trainer und Pokémon.$"
 
 Route109_SeashoreHouse_Text_JohannaDefeated:
 	.string "Das war brandheiß!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
 	.string "Puh, ich bin am Verdursten.\n"
-	.string "Ich sollte SPRUDEL trinken.$"
+	.string "Ich sollte Sprudel trinken.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
 	.string "Ich werde dir zeigen, wie toll meine\n"
-	.string "POKéMON sind. Aber heul bloß nicht\l"
+	.string "Pokémon sind. Aber heul bloß nicht\l"
 	.string "los!$"
 
 Route109_SeashoreHouse_Text_SimonDefeated:
@@ -180,7 +180,7 @@ Route109_SeashoreHouse_Text_SimonDefeated:
 	.string "nicht!$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "Wenn doch nur eines meiner POKéMON\n"
+	.string "Wenn doch nur eines meiner Pokémon\n"
 	.string "wüsste, wie es mich über das Wasser\l"
 	.string "tragen kann. Dann wäre ich den\l"
 	.string "ollen Schwimmreifen los.$"

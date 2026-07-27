@@ -66,17 +66,17 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
 	.string "Willkommen, Herausforderer!\n"
-	.string "Ich bin ULRICH von den TOP VIER.\p"
+	.string "Ich bin Ulrich von den Top Vier.\p"
 	.string "Ich mag deinen herausfordernden Blick.\n"
 	.string "Ich denke, das wird ein guter Kampf.\l"
 	.string "Gut! Das sieht gut aus!\p"
 	.string "Schön! Dann lass uns beide einen Kampf\n"
 	.string "erleben, wie man ihn nur hier in der\l"
-	.string "POKéMON LIGA erleben kann!$"
+	.string "Pokémon Liga erleben kann!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Ich habe verloren! Ich, ULRICH von den\n"
-	.string "TOP VIER. Macht nichts, es war lustig.$"
+	.string "Ich habe verloren! Ich, Ulrich von den\n"
+	.string "Top Vier. Macht nichts, es war lustig.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
 	.string "Nun, hör dir an, was dieser Verlierer\n"

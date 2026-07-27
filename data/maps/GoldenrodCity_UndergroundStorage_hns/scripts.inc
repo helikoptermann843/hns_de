@@ -90,12 +90,12 @@ RadioTowerBasement_Text_GruntM15After:
 	.string "Ich vergesse dich nicht!$"
 
 RadioTowerBasement_Text_DirectorIntro:
-	.string "INTENDANT: Wer? Was? Du bist\n"
+	.string "Intendant: Wer? Was? Du bist\n"
 	.string "gekommen, um mich zu retten?\p"
 	.string "Danke!\p"
 	.string "Der Radioturm!\p"
 	.string "Was geht dort vor?\p"
-	.string "TEAM ROCKET hat ihn besetzt?\p"
+	.string "Team Rocket hat ihn besetzt?\p"
 	.string "Hier. Nimm diese Schlüsselkarte.$"
 
 RadioTowerBasement_Text_DirectorCardKey:

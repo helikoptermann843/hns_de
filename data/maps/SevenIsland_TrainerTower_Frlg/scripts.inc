@@ -15,34 +15,35 @@ SevenIsland_TrainerTower_EventScript_TrainerTowerAheadSign::
 	end
 
 SevenIsland_TrainerTower_Text_DarioIntro::
-	.string "I sensed your approach.$"
+	.string "Ich spürte, dass du kommst!$"
 
 SevenIsland_TrainerTower_Text_DarioDefeat::
-	.string "Give up…$"
+	.string "Gib auf…$"
 
 SevenIsland_TrainerTower_Text_DarioPostBattle::
-	.string "In your future, I sense that you\n"
-	.string "will meet many others.\p"
-	.string "I think you will be linked to each\n"
-	.string "other by a strange power.$"
+	.string "Ich sage dir voraus, dass du\n"
+	.string "viele andere Leute triffst.\p"
+	.string "Ich sehe, dass du durch eine\n"
+	.string "merkwürdige Kraft mit ihnen\l"
+	.string "verbunden bist.$"
 
 SevenIsland_TrainerTower_Text_RodetteIntro::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.$"
+	.string "Irgendwo auf dieser Insel schlafen\n"
+	.string "besondere Pokémon.$"
 
 SevenIsland_TrainerTower_Text_RodetteDefeat::
-	.string "What an amazing TRAINER!$"
+	.string "Was für ein Trainer!$"
 
 SevenIsland_TrainerTower_Text_RodettePostBattle::
-	.string "Somewhere on this island, peculiar\n"
-	.string "POKéMON are sleeping.\p"
-	.string "Could it be that they're waiting\n"
-	.string "for you?$"
+	.string "Irgendwo auf dieser Insel schlafen\n"
+	.string "besondere Pokémon.\p"
+	.string "Kann es sein, dass sie auf dich\n"
+	.string "warten?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "TRAINER TOWER ENTRANCE\n"
-	.string "Rise to the Challenge, TRAINERS!$"
+	.string "Ob die SILPH CO. schon erledigt\n"
+	.string "ist?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "TRAINER TOWER AHEAD$"
+	.string "Vielen Dank für unsere Rettung!$"
 

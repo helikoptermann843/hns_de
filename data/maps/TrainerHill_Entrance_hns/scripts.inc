@@ -336,7 +336,7 @@ TrainerHill_Entrance_hns_Text_TimeProgessGetSetGo:
 	.string "Los!$"
 
 TrainerHill_Entrance_hns_Text_PleaseVisitUsAgain:
-	.string "Bitte besuche uns bald wieder!$"
+	.string "Bitte besuche uns bald wieder.$"
 
 TrainerHill_Entrance_hns_Text_TooBadTremendousEffort:
 	.string "Das ist wirklich schade.\p"
@@ -355,7 +355,7 @@ TrainerHill_Entrance_hns_Text_MovedReceptionHereForSwitch:
 	.string "Entschuldige die Umstände.$"
 
 TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
-	.string "Vielen Dank fürs Spielen!$"
+	.string "Danke fürs Mitmachen!$"
 
 TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 	.string "Im TRAINERBERG gibt es den\n"

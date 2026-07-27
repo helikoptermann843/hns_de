@@ -32,11 +32,9 @@ RedsHouse_Text_Mom1:
 	.string "mache mir trotzdem Sorgen.$"
 
 RedsHouse_Text_Mom2:
-	.string "Ich habe Angst, dass Rot sich\n"
+	.string "Ich habe immer Angst, dass er sich\n"
 	.string "verletzt oder krank wird, aber\l"
-	.string "er ist nun mal ein Junge.\p"
-	.string "Ich bin stolz, dass er das tut,\n"
-	.string "was er wirklich will.$"
+	.string "Jungs müssen eben aktiv sein!$"
 
 RedsHouse_Text_TV:
 	.string "Hier laufen Programme,\n"

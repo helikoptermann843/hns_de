@@ -681,8 +681,8 @@ BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld_hns:
-	.string "{PLAYER} returned everything that\n"
-	.string "the POKéMON held.$"
+	.string "Wir geben dir alle Items zurück,\n"
+	.string "die wir für dich aufbewahrt haben.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept_hns:
 	.string "Dein PYRABEUTEL wird hier von uns\n"
@@ -697,19 +697,18 @@ BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis_hns:
-	.string "As a memento for conquering\n"
-	.string "the BATTLE PYRAMID, please take this.$"
+	.string "Als Andenken an die Eroberung der\n"
+	.string "KAMPFPYRAMIDE nimm bitte dies hier.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull_hns:
-	.string "…Ah… Your BAG appears to be filled.\p"
-	.string "Please return after you’ve organized\n"
-	.string "your BAG’s contents.$"
+	.string "Dein Beutel ist voll.\n"
+	.string "Komm später wieder.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag_hns:
 	.string "Das muss für dich enttäuschend sein…\p"
@@ -722,10 +721,8 @@ BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize_hns:
-	.string "We have been looking forward to\n"
-	.string "your arrival!\p"
-	.string "Here is your prize for conquering\n"
-	.string "the PYRAMID.$"
+	.string "Hier ist der Preis, den wir für dich\n"
+	.string "aufbewahrt haben.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait_hns:
 	.string "Willkommen…\n"
@@ -882,8 +879,8 @@ BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems_hns:
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing_hns:
 	.string "Willkommen zurück!\n"
 	.string "Dir ist das Undenkbare gelungen!\p"
-	.string "Du hast den PYRAKÖNIG besiegt\n"
-	.string "und die KAMPFPYRAMIDE erobert!$"
+	.string "Du hast den Pyrakönig besiegt\n"
+	.string "und die Kampfpyramide erobert!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints_hns:
 	.string "Junger Forschergeist!\n"

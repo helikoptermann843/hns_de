@@ -61,9 +61,9 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "Dort trainieren wir DRACHEN-Besitzer…\n"
+	.string "Dort trainieren wir Drachen-besitzer…\n"
 	.string "\p"
-	.string "Auch der CHAMP kommt manchmal vorbei.\n"
+	.string "Auch der Champ kommt manchmal vorbei.\n"
 	.string "Verstehst du nun, dass dies ein\l"
 	.string "besonderer Ort ist?$"
 
@@ -75,7 +75,7 @@ MeteorFalls_1F_2R_Text_NicolasDefeat:
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
 	.string "Der Weg vor mir ist lang und\n"
 	.string "beschwerlich.\p"
-	.string "Wann werden meine POKéMON und ich\n"
+	.string "Wann werden meine Pokémon und ich\n"
 	.string "zu den Besten gehören?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
@@ -98,16 +98,16 @@ MeteorFalls_1F_2R_Text_NicolasPostRematch:
 	.string "ich stärker werden.$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
-	.string "URS: Wir haben immer in trauter Zwei-\n"
-	.string "samkeit mit unseren POKéMON gegen\l"
+	.string "Urs: Wir haben immer in trauter Zwei-\n"
+	.string "samkeit mit unseren Pokémon gegen\l"
 	.string "andere gekämpft. Wir werden siegen!$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "URS: O weh.\n"
+	.string "Urs: O weh.\n"
 	.string "Wir haben verloren, liebstes Weib.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "URS: Wir sind seit 50 Jahren glücklich\n"
+	.string "Urs: Wir sind seit 50 Jahren glücklich\n"
 	.string "verheiratet.\p"
 	.string "Und denk mal, ich habe es noch nie ge-\n"
 	.string "schafft, meine Frau zu besiegen.$"
@@ -126,19 +126,19 @@ MeteorFalls_1F_2R_Text_JohnRegister:
 	.string "antreten?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "EVI: Wir sind seit 50 Jahren glücklich\n"
+	.string "Evi: Wir sind seit 50 Jahren glücklich\n"
 	.string "verheiratet.\p"
 	.string "Das Band, das uns verbindet, kann\n"
 	.string "niemand durchtrennen.$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "EVI: O weh.\n"
+	.string "Evi: O weh.\n"
 	.string "Wir haben verloren, mein Lieber.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
-	.string "EVI: 50 Jahre verheiratet…\p"
+	.string "Evi: 50 Jahre verheiratet…\p"
 	.string "Immer wenn wir uneinig sind, ent-\n"
-	.string "scheiden wir es mit einem POKéMON-\l"
+	.string "scheiden wir es mit einem Pokémon-\l"
 	.string "Kampf.$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
@@ -149,39 +149,39 @@ MeteorFalls_1F_2R_Text_JayNotEnoughMons:
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
-	.string "URS: Wir haben immer in trauter Zwei-\n"
-	.string "samkeit mit unseren POKéMON gegen\l"
+	.string "Urs: Wir haben immer in trauter Zwei-\n"
+	.string "samkeit mit unseren Pokémon gegen\l"
 	.string "andere gekämpft. Wir werden siegen!$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "URS: O weh.\n"
+	.string "Urs: O weh.\n"
 	.string "Wir haben verloren, liebstes Weib.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
-	.string "URS: 50 Jahre verheiratet…\p"
+	.string "Urs: 50 Jahre verheiratet…\p"
 	.string "Rückblickend kann man sagen: Meine\n"
 	.string "Frau und ich haben Tag für Tag\l"
 	.string "miteinander gekämpft…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "URS: Nun, was für ein junger TRAINER!\n"
+	.string "Urs: Nun, was für ein junger Trainer!\n"
 	.string "\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
-	.string "dann musst du dir noch mehr POKéMON\l"
+	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "EVI: Wir sind seit 50 Jahren\n"
+	.string "Evi: Wir sind seit 50 Jahren\n"
 	.string "verheiratet.\p"
 	.string "Wir haben uns immer gegenseitig unter-\n"
 	.string "stützt. Das hat uns stark gemacht.$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "EVI: O weh.\n"
+	.string "Evi: O weh.\n"
 	.string "Wir haben verloren, mein Lieber.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "EVI: 50 Jahre verheiratet…\n"
+	.string "Evi: 50 Jahre verheiratet…\n"
 	.string "Vieles ist in dieser Zeit passiert.\p"
 	.string "Ich hoffe, wir werden noch lange\n"
 	.string "unsere\n"
@@ -189,9 +189,9 @@ MeteorFalls_1F_2R_Text_JayPostRematch:
 	.string "können.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "EVI: Hmm… Bist du nicht ein bisschen\n"
-	.string "zu klein für einen TRAINER?\p"
+	.string "Evi: Hmm… Bist du nicht ein bisschen\n"
+	.string "zu klein für einen Trainer?\p"
 	.string "Möchtest du gegen uns kämpfen? Dann\n"
-	.string "musst du dir noch mehr POKéMON\l"
+	.string "musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 

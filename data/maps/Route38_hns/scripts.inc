@@ -99,32 +99,31 @@ Route38_EventScript_Item_LaxIncense::
 	end
 
 Route38_Text_BirdKeeperTobySeen:
-	.string "Fliege hoch in die Luft,\n"
-	.string "mein herrliches Vogel-Pokémon!$"
+	.string "Fliegt hoch hinaus, meine\n"
+	.string "herrlichen Vogel-Pokémon!$"
 
 Route38_Text_BirdKeeperTobyBeaten:
-	.string "Ich fühle mich,\n"
-	.string "als würde ich mich selbst in die\l"
-	.string "Lüfte erheben.$"
+	.string "Ich wünschte, ich könnte mich\n"
+	.string "selbst in die Lüfte erheben.$"
 
 Route38_Text_BirdKeeperTobyAfter:
-	.string "Ich will in Anemonia City trainieren,\n"
-	.string "damit meine Pokémon Fliegen lernen.$"
+	.string "Ich habe vor, in Anemonia City\n"
+	.string "zu trainieren und meinen Pokémon\l"
+	.string "das Fliegen beizubringen.$"
 
 Route38_Text_SchoolboyChad1Seen:
-	.string "Jetzt probiere ich etwas aus,\n"
+	.string "Jetzt probiere ich gleich mal etwas aus,\n"
 	.string "das ich heute gelernt habe.$"
 
 Route38_Text_SchoolboyChad1Beaten:
-	.string "Ich fürchte, ich habe\n"
-	.string "noch nicht genug gelernt.$"
+	.string "Ich fürchte, ich habe noch nicht\n"
+	.string "genug gelernt.$"
 
 Route38_Text_SchoolboyChadAfter:
-	.string "Ich muss so viele Tests\n"
-	.string "schreiben, da bleibt kaum\l"
-	.string "Zeit für Pokémon.\p"
-	.string "Wenn ich dann spiele,\n"
-	.string "konzentriere ich mich voll.$"
+	.string "Bei so vielen Klassenarbeiten bleibt\n"
+	.string "mir nicht viel Zeit für Pokémon.\p"
+	.string "Wenn ich also mal Zeit zum Spielen habe,\n"
+	.string "bin ich mit voller Konzentration dabei.$"
 
 Route38_Text_ChadRegister:
     .string "Ich muss so viele Prüfungen\n"
@@ -157,37 +156,41 @@ Route38_Text_LassDana1Seen:
 	.string "ein paar Tipps?$"
 
 Route38_Text_LassDana1Beaten:
-	.string "Ich verstehe. So kämpfst du also.$"
+	.string "Aha…\n"
+	.string "Das ist also dein Kampfstil!$"
 
 Route38_Text_LassDanaAfter:
-	.string "Ich weiß etwas Tolles!\p"
-	.string "Die Milch der KUHMUH-FARM\n"
-	.string "ist für ihren Geschmack berühmt.$"
+	.string "Ich will dir auch etwas verraten!\p"
+	.string "Die Milch von der Kuhmuh-Farm ist\n"
+	.string "berühmt für ihren Geschmack!$"
 
 Route38_Text_BeautyValerieSeen:
-	.string "Hallo! Du bist bestimmt so nett\n"
-	.string "und zeigst mir deine Pokémon?$"
+	.string "Hallöchen!\n"
+	.string "Du bist doch bestimmt so nett\p"
+	.string "und lässt mich mal sehen, welche\n"
+	.string "Pokémon du dabeihast, oder?$"
 
 Route38_Text_BeautyValerieBeaten:
 	.string "Ich bin froh, dass ich\n"
-	.string "deine Pokémon sehen durfte!$"
+	.string "dein Pokémon-Team sehen durfte!$"
 
 Route38_Text_BeautyValerieAfter:
-	.string "Wenn ich Pokémon sehe,\n"
-	.string "beruhigt das meine Nerven.$"
+	.string "Wann immer ich Pokémon sehe, fühle ich\n"
+	.string "mich so… entspannt.\l"
+	.string "Da wird mir gleich ganz warm ums Herz.$"
 
 Route38_Text_SailorHarrySeen:
-	.string "Ich war im Ausland. Deswegen\n"
-	.string "kenne ich alle Pokémon-Arten!$"
+	.string "Ich habe die ganze Welt bereist.\n"
+	.string "Deswegen kenne ich alle Pokémon-Arten!$"
 
 Route38_Text_SailorHarryBeaten:
 	.string "Deine Fähigkeiten\n"
-	.string "sind Spitzenklasse!$"
+	.string "sind Weltklasse!$"
 
 Route38_Text_SailorHarryAfter:
-	.string "Überall auf der Welt leben\n"
-	.string "Menschen glücklich mit\l"
-	.string "Pokémon zusammen.$"
+	.string "Alle möglichen Menschen in\n"
+	.string "allen möglichen Ländern leben glücklich\l"
+	.string "zusammen mit den Pokémon.$"
 
 Route38_Text_BeautyOliviaSeen:
 	.string "Meine Pokémon und Ich\n"
@@ -207,14 +210,13 @@ Route38_Text_Sign:
 	.string "OLIVIANA CITY - TEAK CITY$"
 
 Route38_Text_TrainerTips:
-	.string "TIPPS für TRAINER Wenn sich ein\n"
-	.string "Pokémon weiterentwickelt, kannst\l"
-	.string "du diesen Prozess aufhalten.\p"
-	.string "Drücke während der Entwicklung\n"
-	.string "den B-Knopf.\p"
-	.string "So wird das Pokémon erschreckt\n"
-	.string "und es bricht die\l"
-	.string "Entwicklung ab.$"
+	.string "Tipps für Trainer\p"
+	.string "Wenn du die Entwicklung eines Pokémon\n"
+	.string "stoppen willst, musst du den B-Knopf\l"
+	.string "drücken, während es sich entwickeln\l"
+	.string "will.\p"
+	.string "Das Pokémon entwickelt sich dann nicht.\n"
+	.string "Das nennt man Entwicklungsstopp.$"
 
 
 Route38_Text_WaterSign:

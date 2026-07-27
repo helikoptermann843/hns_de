@@ -52,23 +52,28 @@ SSAqua_RoomNW_Text_SailorStanlyAfterBattle:
 	.string "Das ist echt anstrengend!$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardSeen:
-	.string "Oh nein. Ich habe etwas\n"
-	.string "sehr Wichtiges verloren.$"
+	.string "Oh nein! Ich habe etwas sehr\n"
+	.string "Wichtiges verloren.$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardBeaten:
 	.string "Ich… ich kann es nicht finden…$"
 
 SSAqua_RoomNW_Text_GentlemanEdwardAfterBattle:
-	.string "Ich gebe auf. Du musst nicht\n"
-	.string "weiter suchen. Vergiss es!$"
+	.string "Es bringt nichts, ich gebe auf.\n"
+	.string "He, du da!\l"
+	.string "Du musst nicht danach suchen.\l"
+	.string "Vergiss es einfach!$"
 
 SSAqua_RoomNW_Text_BurglarCoreySeen:
-	.string "Yeehaw! Glück gehabt!$"
+	.string "Juhu!\n"
+	.string "Was für ein Glück!$"
 
 SSAqua_RoomNW_Text_BurglarCoreyBeaten:
-	.string "Wie unglücklich! Ich verliere!$"
+	.string "Pech gehabt!\n"
+	.string "Ich habe verloren!$"
 
 SSAqua_RoomNW_Text_BurglarCoreyAfterBattle:
-	.string "Ich habe hier eine hübsche Münze\n"
-	.string "gefunden. Jemand muss sie\l"
-	.string "verloren haben…$"
+	.string "Ich habe hier im Zimmer\n"
+	.string "eine tolle Münze gefunden.\p"
+	.string "Einer der vorherigen Gäste\n"
+	.string "muss sie verloren haben…$"

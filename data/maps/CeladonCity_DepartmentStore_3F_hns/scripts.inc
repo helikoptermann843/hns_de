@@ -39,30 +39,29 @@ CeladonDept3_EventScript_Directory::
 	end
 
 CeladonDeptStore3F_Text_Youngster:
-	.string "Ich kann mich nicht entscheiden,\n"
-	.string "auf welches Pokémon ich diese TM\l"
-	.string "anwenden soll…$"
+	.string "Hm, ich kann mich nicht entscheiden,\n"
+	.string "welches Pokémon diese TM erhalten soll!$"
 
 CeladonDeptStore3F_Text_GameboyKid1:
-	.string "Oh-oh! Ich habe mein Pokémon\n"
-	.string "getauscht,\l"
-	.string "ohne das Upgrade vorher zu entfernen.$"
+	.string "Oh, oh! Ich habe mein Pokémon\n"
+	.string "getauscht, ohne ihm vorher\l"
+	.string "Up-Grade wegzunehmen!$"
 
 CeladonDeptStore3F_Text_GameboyKid2:
-	.string "Juhu! Endlich bekomme ich ein Porygon!\n"
-	.string "\p"
-	.string "Ich bin schlecht an den\n"
-	.string "Spielautomaten,\l"
-	.string "deshalb hatte ich nie genug Münzen…\p"
-	.string "…Huh?\p"
-	.string "Das getauschte Porygon hat sich in\n"
-	.string "ein anderes Pokémon verwandelt!$"
+	.string "Klasse! Jetzt kann ich mir endlich\n"
+	.string "doch noch ein PORYGON besorgen!\p"
+	.string "Ich habe einfach kein Händchen für\n"
+	.string "Münzspiele, und deshalb haben mir\l"
+	.string "immer noch ein paar Münzen gefehlt…\p"
+	.string "…Huch?\p"
+	.string "Das getauschte PORYGON hat sich\n"
+	.string "in ein anderes Pokémon verwandelt!$"
 
 CeladonDeptStore3F_Text_SuperNerd:
-	.string "Der TM-Laden verkauft ein paar seltene\n"
-	.string "Attacken.$"
+	.string "Der TM-Laden hat ein paar seltene\n"
+	.string "Attacken im Angebot!$"
 
 CeladonDeptStore3F_Text_Directory:
-	.string "2F: TM-LADEN\p"
-	.string "Stärke deine Pokémon!$"
+	.string "Wir peppen deine Pokémon auf!\n"
+	.string "2S: TM-Laden$"
 

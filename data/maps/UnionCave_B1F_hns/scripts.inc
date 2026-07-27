@@ -30,24 +30,24 @@ UnionCave_B1F_EventScript_Item_Xdefend::
 	end
 
 UnionCave_B1F_Text_HikerPhillipSeen:
-	.string "Schon lange sah ich niemanden\n"
-	.string "mehr hier.\p"
-	.string "Keine Scheu! Lass uns kämpfen!$"
+	.string "Ich habe schon lange keinen Menschen\n"
+	.string "mehr gesehen… los, lass uns kämpfen!$"
 
 UnionCave_B1F_Text_HikerPhillipBeaten:
-	.string "Uurggh…$"
+	.string "Urks…$"
 
 UnionCave_B1F_Text_HikerPhillipAfter:
-	.string "Ich bin schon lange verirrt…\p"
-	.string "Hier ist es nicht schlimm, aber\n"
-	.string "ich habe sooo Hunger!$"
+	.string "Ich irre hier schon ewig umher…\p"
+	.string "Dass ich hier nicht mehr rauskomme, ist\n"
+	.string "mir egal, aber ich habe echt Kohldampf!$"
 
 UnionCave_B1F_Text_HikerLeonardSeen:
-	.string "Was für eine Überraschung!\n"
-	.string "Ein Besucher!$"
+	.string "Oh!\n"
+	.string "Besuch bekomme ich hier nur selten!$"
 
 UnionCave_B1F_Text_HikerLeonardBeaten:
-	.string "Wahahah! Du bist ja echt wild!$"
+	.string "Wahahaha!\n"
+	.string "Ein sehr lebhafter Besuch! Sehr schön!$"
 
 UnionCave_B1F_Text_HikerLeonardAfter:
 	.string "Ich lebe hier unten.\p"
@@ -55,28 +55,28 @@ UnionCave_B1F_Text_HikerLeonardAfter:
 	.string "es ist genug Platz für alle.$"
 
 UnionCave_B1F_Text_PokemaniacAndrewSeen:
-	.string "Wer ist da?\p"
-	.string "Lass mich und meine Pokémon in\n"
-	.string "Ruhe!$"
+	.string "Wer bist du? Ich mag es nicht, wenn wer\n"
+	.string "meine Idylle mit den Pokémon stört!$"
 
 UnionCave_B1F_Text_PokemaniacAndrewBeaten:
-	.string "Geh… Geh weg!$"
+	.string "Grrr…\n"
+	.string "Verschwinde von hier!$"
 
 UnionCave_B1F_Text_PokemaniacAndrewAfter:
 	.string "Nur ich und meine Pokémon.\p"
 	.string "Ich bin voller Freude!$"
 
 UnionCave_B1F_Text_PokemaniacCalvinSeen:
-	.string "Ich bin extra hierher gekommen\n"
-	.string "für meine Pokémon-Forschung.\p"
-	.string "Ich zeige meine Ergebnisse in\n"
-	.string "einem richtigen Kampf!$"
+	.string "Ich bin bis nach hier draußen gekommen,\n"
+	.string "um die Pokémon zu erforschen.\p"
+	.string "Hier, ich will dir die Ergebnisse meiner\n"
+	.string "Studien im Kampf erläutern!$"
 
 UnionCave_B1F_Text_PokemaniacCalvinBeaten:
 	.string "Du hast es mir gezeigt!$"
 
 UnionCave_B1F_Text_PokemaniacCalvinAfter:
-	.string "Ich sollte meine Studien\n"
-	.string "veröffentlichen.\p"
-	.string "Vielleicht werde ich berühmt wie\n"
-	.string "PROF. Lind.$"
+	.string "Ich sollte vielleicht langsam meine\n"
+	.string "Forschungsergebnisse veröffentlichen!\p"
+	.string "Dann werde ich vielleicht genauso\n"
+	.string "berühmt wie Prof. Lind!$"

@@ -70,62 +70,65 @@ CianwoodCity_EventScript_KirkReturnedShuckie::
 	end
 
 CianwoodCity_Text_ManiacAskShuckle:
-	.string "I, ich bin schockiert!\p"
-	.string "Ein Typ in deinem Alter mit\n"
-	.string "starrem Blick und langen\l"
-	.string "Haaren kam herein.\p"
-	.string "Er hat mich erschreckt und mein\n"
-	.string "wertvolles Pokémon genommen!\p"
-	.string "Ich habe noch eins, aber was, wenn\n"
-	.string "er zurückkommt?\p"
-	.string "Du siehst stark aus. Könntest du\n"
-	.string "auf mein Pokémon aufpassen?$"
+	.string "I-ich bin mit den Nerven am Ende…\p"
+	.string "Irgend so ein fürchterlicher Junge in\n"
+	.string "deinem Alter mit einem finsteren Blick\l"
+	.string "und langen Haaren hat mir einfach meine\l"
+	.string "preisgekrönten Pokémon weggenommen!\p"
+	.string "Eins habe ich zwar noch übrig, aber ich\n"
+	.string "habe Angst, dass er wieder zuschlägt!\p"
+	.string "Du siehst stark aus! Bitte passe\n"
+	.string "eine Weile auf dieses Pokémon auf!$"
 
 CianwoodCity_Text_ManiacTakeCareShuckle:
-	.string "Oh, danke!\p"
-	.string "Pass gut auf es auf, bitte!$"
+	.string "V-v-vielen herzlichen Dank!\n"
+	.string "Bitte pass gut darauf auf!$"
 
 CianwoodCity_Text_ManiacGotShuckle:
-	.string "{PLAYER} erhielt ein Pokémon.$"
+	.string "{PLAYER} erhält das Pokémon\n"
+	.string "des Sammlers.$"
 
 CianwoodCity_Text_ManiacPartyFull:
-	.string "Dein Team ist voll.$"
+	.string "In deinem Team ist kein Platz mehr.$"
 
 CianwoodCity_Text_ManiacIfHeComesBack:
-	.string "Oh nein… Was soll ich tun, wenn\n"
-	.string "er zurückkommt?$"
+	.string "U-u-und was soll ich dann tun, wenn er\n"
+	.string "zurückkommt und wieder zuschlägt?$"
 
 CianwoodCity_Text_ManiacHowsdoing:
-	.string "Hi! Wie geht es meinem Pokémon?$"
+	.string "Wie geht es meinem Pokémon?$"
 
 CianwoodCity_Text_ManiacAskReturn:
-	.string "Hi! Wie geht es meinem Pokémon?\p"
-	.string "Ich glaube, ich bin jetzt sicher,\n"
-	.string "also kann ich es zurückhaben?$"
+	.string "Wie geht es meinem Pokémon?\p"
+	.string "So langsam ist die Gefahr wohl gebannt.\n"
+	.string "Kann ich jetzt mein Pokémon wieder\l"
+	.string "zurückhaben?$"
 
 CianwoodCity_Text_ManiacThankYou:
-	.string "Danke!$"
+	.string "DANKE SCHÖN$"
 
 CianwoodCity_Text_ManiacShuckleNotThere:
 	.string "Hey, du hast mein Pokémon nicht\n"
 	.string "bei dir.$"
 
 CianwoodCity_Text_ManiacShuckleLikesYou:
-	.string "Mein Pokémon mag dich jetzt.\p"
-	.string "Okay, du darfst es behalten.\p"
-	.string "Versprich nur, gut zu ihm zu sein!$"
+	.string "Mein Pokémon scheint dich ja richtig\n"
+	.string "ins Herz geschlossen zu haben!\p"
+	.string "In Ordnung, du kannst es behalten.\n"
+	.string "Aber versprich mir, dass du es auch\l"
+	.string "immer gut behandeln wirst!$"
 
 CianwoodCity_Text_ManiacRobbed:
 	.string "Huh, irgendwas stimmt nicht.$"
 
 CianwoodCity_Text_ManiacRobbed2:
-	.string "Oh nein… Das ist wie beraubt zu\n"
-	.string "werden.$"
+	.string "D-d-da hätte ich mich auch gleich von\n"
+	.string "diesem Jungen berauben lassen können!$"
 
 CianwoodCity_Text_ManiacHappinessSpeech:
-	.string "Für Pokémon bedeutet Glück, mit\n"
-	.string "einer Person zusammen zu sein,\l"
-	.string "die sie gut behandelt.$"
+	.string "Für Pokémon ist es das höchste Glück,\n"
+	.string "wenn sie bei jemandem sein dürfen,\l"
+	.string "der sie gut behandelt.$"
 
 CianwoodCity_Text_ManiacLastMon:
 	.string "Wenn ich mein Pokémon zurücknehme,\n"

@@ -44,36 +44,32 @@ CeladonCity_Gym_Text_ErikaBeforeBattle:
 	.string "verlieren.$"
 
 CeladonCity_Gym_Text_ErikaBeaten:
-	.string "Erika: Oh! Ich gebe auf…\p"
-	.string "Du bist bemerkenswert stark…\p"
-	.string "Ich werde dir den Farborden geben…$"
+	.string "Erika: Ich gebe mich geschlagen.\n"
+	.string "Du bist wirklich sehr stark…\p"
+	.string "Hier, nimm diesen Farborden.$"
 
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
 	.string "{PLAYER} erhielt den Farborden.$"
 
 CeladonCity_Gym_Text_ErikaExplainTM:
-	.string "Erika: Das war ein wunderbarer\n"
-	.string "Kampf.\p"
-	.string "Ich fühlte mich inspiriert. Bitte, ich\n"
-	.string "möchte, dass du diese TM erhältst.\p"
-	.string "Es ist Gigasauger.\p"
-	.string "Es ist eine hervorragende Attacke, die\n"
-	.string "die Hälfte des verursachten Schadens\l"
-	.string "zur Heilung deiner Pokémon absorbiert.\p"
-	.string "Bitte benutze sie, wenn sie dir\n"
-	.string "gefällt…$"
+	.string "Erika: Das war ein ganz ausgezeichneter\n"
+	.string "Kampf! Ich bin beeindruckt!\p"
+	.string "Dafür sollst du etwas ganz Besonderes\n"
+	.string "bekommen! Die TM19 Gigasauger!\p"
+	.string "Wenn eins deiner Pokémon diese Attacke\n"
+	.string "einsetzt, erhält es selbst die Hälfte\l"
+	.string "des Schadens, den sie angerichtet hat.\l"
+	.string "Eine gar teuflische Attacke!$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
-	.string "Erika: Verlieren hinterlässt einen\n"
-	.string "bitteren Nachgeschmack…\p"
-	.string "Aber zu wissen, dass es starke Trainer\n"
-	.string "gibt, spornt mich an, es besser zu\l"
-	.string "machen…$"
+	.string "Erika: Niemand verliert gerne…\p"
+	.string "Aber es wirkt immer anspornend, wenn\n"
+	.string "man einem starken Trainer begegnet.$"
 
 CeladonCity_Gym_Text_ErikaRematch:
 	.string "Erika: Oh, hallo.\p"
-	.string "Was für eine Überraschung, KANTO-\n"
-	.string "CHAMPION!\p"
+	.string "Was für eine Überraschung, Kanto-\n"
+	.string "Champion!\p"
 	.string "Es ist so schön, dich wiederzusehen.\p"
 	.string "Deine Reise muss sehr aufregend\n"
 	.string "gewesen sein.\p"
@@ -82,12 +78,9 @@ CeladonCity_Gym_Text_ErikaRematch:
 	.string "Willst du ein Rematch mit mir?$"
 
 CeladonCity_Gym_Text_ErikaRematchDefeat:
-	.string "Erika: Verlieren hinterlässt immer\n"
-	.string "noch einen\l"
-	.string "bitteren Nachgeschmack…\p"
-	.string "Aber zu wissen, dass es starke Trainer\n"
-	.string "gibt,\l"
-	.string "spornt mich an, es besser zu machen…$"
+	.string "Erika: Niemand verliert gerne…\p"
+	.string "Aber es wirkt immer anspornend, wenn\n"
+	.string "man einem starken Trainer begegnet.$"
 
 CeladonCity_Gym_EventScript_Michelle::
 	trainerbattle_single TRAINER_MICHELLE_HNS, CeladonCity_Gym_Text_LassMichelleSeen, CeladonCity_Gym_Text_LassMichelleBeaten
@@ -95,11 +88,12 @@ CeladonCity_Gym_EventScript_Michelle::
 	end
 
 CeladonCity_Gym_Text_LassMichelleSeen:
-	.string "Glaubst du es ist selten, nur\n"
-	.string "Mädchen in der Arena zu haben?$"
+	.string "Was guckst du denn so?!\n"
+	.string "Noch nie eine Pokémon-Arena\l"
+	.string "nur mit Mädchen gesehen?$"
 
 CeladonCity_Gym_Text_LassMichelleBeaten:
-	.string "Oh, blääh!$"
+	.string "Nein! Das ist so erniedrigend!$"
 
 CeladonCity_Gym_Text_LassMichelleAfter:
 	.string "Ich war nur unvorsichtig!$"
@@ -115,7 +109,7 @@ CeladonCity_Gym_Text_PicnickerTanyaSeen:
 	.string "aber OK!$"
 
 CeladonCity_Gym_Text_PicnickerTanyaBeaten:
-	.string "Oh, das wars?$"
+	.string "Das war schon alles?$"
 
 CeladonCity_Gym_Text_PicnickerTanyaAfter:
 	.string "Oh, du hast viele Orden.\n"
@@ -153,13 +147,14 @@ CeladonCity_Gym_Text_TwinsJoAndZoe1Seen:
 	.string "Erika uns beigebracht hat!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1Beaten:
-	.string "Oh… Wir haben verloren…$"
+	.string "Oh! Wir haben verloren!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe1After:
 	.string "Erika wird sich für uns rächen!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Seen:
-	.string "Wir werden Erikas Schild sein!$"
+	.string "Tara: Du wirst sehen!\n"
+	.string "Wir werden Erika beschützen!$"
 
 CeladonCity_Gym_Text_TwinsJoAndZoe2Beaten:
 	.string "Wir konnten nicht gewinnen…$"

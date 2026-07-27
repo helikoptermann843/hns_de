@@ -83,33 +83,28 @@ ViridianCity_EventScript_GymSign::
 	end
 
 ViridianCity_Text_CoffeeGramps_Question:
-	.string "He, Kurzbein! Ich hatte gerade einen\n"
-	.string "doppelten Espresso und ich\l"
-	.string "bin total aufgedreht!\p"
-	.string "Ich brauche jetzt jemanden\n"
-	.string "zum Reden und zwar dich!\p"
-	.string "Man sieht es mir jetzt vielleicht\n"
-	.string "nicht mehr an, aber ich war\l"
-	.string "ein Experte im Fangen von Pokémon.\p"
-	.string "Glaubst du mir?$"
+	.string "Hey, du da! Krächz… warte mal!\n"
+	.string "Hör mir gefälligst zu!\p"
+	.string "Ich sehe vielleicht alt aus, aber als\n"
+	.string "ich noch jung war, war ich eine ziemlich\l"
+	.string "große Nummer mit dem Pokéball!\p"
+	.string "Nimmst du mir das ab, Kurzbein?$"
 
 ViridianCity_Text_CoffeeGramps_Believed:
-	.string "Also gut. Ja, ich war wirklich etwas\n"
-	.string "Besonderes, das kann ich dir sagen!$"
+	.string "Na eben! Was denn auch sonst?\n"
+	.string "Natürlich nimmst du mir das ab!$"
 
 ViridianCity_Text_CoffeeGramps_Doubted:
-	.string "Was? Du kleiner Frechdachs!\p"
-	.string "Wenn ich etwas jünger wäre, würde\n"
-	.string "ich dir schon das\l"
-	.string "eine oder andere zeigen! Grummel.$"
+	.string "Was? Du ungezogene Rotznase!\p"
+	.string "Wenn ich nur etwas jünger wäre, würde\n"
+	.string "ich dir schon zeigen, wo's langgeht!$"
 
 ViridianCity_Text_GrampsNearGym:
-	.string "Bis vor kurzem gab es\n"
-	.string "in dieser PKMN-ARENA keinen\l"
-	.string "LEITER.\p"
-	.string "Ein junger Mann aus ALABASTIA ist\n"
-	.string "hier der LEITER geworden,\l"
-	.string "aber er ist oft unterwegs.$"
+	.string "Bis vor Kurzem gab es in dieser\n"
+	.string "Pokémon-Arena keinen Leiter…\p"
+	.string "Aber jetzt hat ein junger Mann aus\n"
+	.string "Alabastia den Posten übernommen.\p"
+	.string "Aber er ist gerade nicht da…$"
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "Wirst du den\n"
@@ -127,39 +122,37 @@ ViridianCity_Text_DreamEaterFisher_GotTM::
 	.string "…Zzzzz…$"
 
 ViridianCity_Text_DreamEaterFisher:
-	.string "Gähn!\p"
-	.string "Ich bin wohl in\n"
-	.string "der Sonne eingeschlafen.\p"
-	.string "…Ich hatte diesen Traum von einem\n"
-	.string "TRAUMATO, das meinen Traum\l"
-	.string "fressen wollte. Das ist doch\p"
-	.string "merkwürdig, nicht wahr?\p"
-	.string "Nanu! Was ist das?\p"
-	.string "Wo ist diese TM hergekommen?\p"
-	.string "Unheimlich!\n"
-	.string "Hier, du kannst die TM behalten.$"
+	.string "Gähn! Ich bin in der Sonne eingenickt!\n"
+	.string "Ich hatte einen ganz seltsamen Traum,\l"
+	.string "in dem TRAUMATO meine Träume frisst!\l"
+	.string "…Nanu? Wo kommt denn diese TM her?\p"
+	.string "Schauder…\n"
+	.string "Das gefällt mir nicht!\l"
+	.string "Hier, nimm du diese TM!$"
 
 ViridianCity_Text_DreamEaterFisher_GotDreamEater:
-	.string "TM42 enthält TRAUMFRESSER…\p"
-	.string "…Zzzzz…$"
+	.string "Die TM85 enthält… die Attacke…\n"
+	.string "Traum… fresser…\l"
+	.string "…Schnarch…$"
 
 ViridianCity_Text_Youngster:
-	.string "Ich habe gehört, dass man viele\n"
-	.string "Items im VERTANIAWALD findet.$"
+	.string "Ich habe gehört, dass über den ganzen\n"
+	.string "Vertania-Wald viele unsichtbare Items\l"
+	.string "verstreut liegen!$"
 
 ViridianCity_Text_Sign:
 	.string "VERTANIA CITY\p"
 	.string "Das Immergrüne Paradies$"
 
 ViridianCity_Text_GymSign:
-	.string "VERTANIA-CITY POKéMON ARENA\n"
-	.string "LEITER: …\p"
-	.string "Der Rest ist unlesbar…$"
+	.string "Pokémon-Arena von Vertania City\n"
+	.string "Leiter: …\l"
+	.string "Der Rest des Textes ist unlesbar!$"
 
 ViridianCity_Text_WelcomeSign:
-	.string "Willkommen in VERTANIA CITY,\p"
-	.string "dem Tor zum INDIGO PLATEAU$"
+	.string "Willkommen in Vertania City,\n"
+	.string "dem Tor zum Indigo Plateau$"
 
 ViridianCity_Text_TrainerHouseSign:
-	.string "TRAINER HAUS\p"
-	.string "Der Verein für Top Trainerkämpfe$"
+	.string "Trainer-Haus\n"
+	.string "Der Club, in dem die Top-Trainer kämpfen$"

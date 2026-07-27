@@ -152,23 +152,23 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 
 FortreeCity_Gym_Text_JaredIntro:
 	.string "Bewundere den eleganten Kampfstil der\n"
-	.string "VOGEL-POKéMON!$"
+	.string "Vogel-pokémon!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "Du… Du bist stark…$"
 
 FortreeCity_Gym_Text_JaredPostBattle:
-	.string "Ein TRAINER muss clever genug sein,\n"
+	.string "Ein Trainer muss clever genug sein,\n"
 	.string "mit den Wendungen im Kampf fertig zu\l"
 	.string "werden.\p"
 	.string "Mal sehen, ob du clever genug bist,\n"
-	.string "bis zu unserer LEITERIN vorzudringen.$"
+	.string "bis zu unserer Leiterin vorzudringen.$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "Liebhaber von VOGEL-POKéMON streben\n"
-	.string "danach, dieser ARENA beizutreten.\p"
-	.string "Als Mitglied der ARENA von BAUMHAUSEN\n"
-	.string "CITY darf ich nicht verlieren!$"
+	.string "Liebhaber von Vogel-pokémon streben\n"
+	.string "danach, dieser Arena beizutreten.\p"
+	.string "Als Mitglied der Arena von Baumhausen\n"
+	.string "City darf ich nicht verlieren!$"
 
 FortreeCity_Gym_Text_EdwardoDefeat:
 	.string "Das war doch etwas zu schwer für mich\n"
@@ -176,39 +176,39 @@ FortreeCity_Gym_Text_EdwardoDefeat:
 
 FortreeCity_Gym_Text_EdwardoPostBattle:
 	.string "Die Welt ist groß und es gibt\n"
-	.string "zahlreiche starke TRAINER.\p"
+	.string "zahlreiche starke Trainer.\p"
 	.string "Ich werde weiter trainieren und so\n"
 	.string "immer stärker werden!$"
 
 FortreeCity_Gym_Text_FlintIntro:
-	.string "Es gibt keinen Grund, dass WIBKE,\n"
-	.string "unsere ARENALEITERIN, sich mit dir\l"
+	.string "Es gibt keinen Grund, dass Wibke,\n"
+	.string "unsere Arenaleiterin, sich mit dir\l"
 	.string "abgibt!\p"
 	.string "Ich bin schon stark genug für dich!$"
 
 FortreeCity_Gym_Text_FlintDefeat:
-	.string "WIBKE… Ich…\n"
+	.string "Wibke… Ich…\n"
 	.string "Ich habe verlooooren!$"
 
 FortreeCity_Gym_Text_FlintPostBattle:
-	.string "WIBKE ist süß, aber auch stark.\n"
-	.string "Sie ist die ultimative LEITERIN!\p"
+	.string "Wibke ist süß, aber auch stark.\n"
+	.string "Sie ist die ultimative Leiterin!\p"
 	.string "Hups… Wie peinlich. Ich werde nicht\n"
 	.string "rot!$"
 
 FortreeCity_Gym_Text_AshleyIntro:
-	.string "WIBKE hat mich persönlich geschult!\n"
+	.string "Wibke hat mich persönlich geschult!\n"
 	.string "Du wirst kein leichtes Spiel haben!$"
 
 FortreeCity_Gym_Text_AshleyDefeat:
 	.string "Ich wurde geschlagen…$"
 
 FortreeCity_Gym_Text_AshleyPostBattle:
-	.string "Dank WIBKE leben die Einwohner von\n"
-	.string "BAUMHAUSEN CITY ohne Furcht.$"
+	.string "Dank Wibke leben die Einwohner von\n"
+	.string "Baumhausen City ohne Furcht.$"
 
 FortreeCity_Gym_Text_HumbertoIntro:
-	.string "WIBKEs Gesicht strahlt eine\n"
+	.string "Wibkes Gesicht strahlt eine\n"
 	.string "Entschlossenheit aus, wenn sie in den\l"
 	.string "Kampf geht. Sie ist dann wunderhübsch!\n"
 	.string "\p"
@@ -220,13 +220,13 @@ FortreeCity_Gym_Text_HumbertoDefeat:
 	.string "Ich konnte dich einfach nicht stoppen!$"
 
 FortreeCity_Gym_Text_HumbertoPostBattle:
-	.string "Pass mal besser auf! Du solltest WIBKE\n"
+	.string "Pass mal besser auf! Du solltest Wibke\n"
 	.string "nicht mit offenem Mund anstarren,\l"
 	.string "sonst gehst du erbärmlich unter!$"
 
 FortreeCity_Gym_Text_DariusIntro:
 	.string "Es gibt viele verschiedene\n"
-	.string "FLUG-POKéMON.\p"
+	.string "Flug-pokémon.\p"
 	.string "Das weißt du, oder?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
@@ -234,25 +234,25 @@ FortreeCity_Gym_Text_DariusDefeat:
 
 FortreeCity_Gym_Text_DariusPostBattle:
 	.string "Okay, du hast mich besiegt. Na und?\n"
-	.string "Aber gegen unsere LEITERIN WIBKE\l"
+	.string "Aber gegen unsere Leiterin Wibke\l"
 	.string "hast du keine Chance!$"
 
 FortreeCity_Gym_Text_WinonaIntro:
-	.string "Ich bin WIBKE, die LEITERIN der ARENA\n"
-	.string "von BAUMHAUSEN CITY.\p"
-	.string "Ich wurde das mit Hilfe meiner VOGEL-\n"
-	.string "POKéMON und habe den Himmel berührt.\p"
+	.string "Ich bin Wibke, die Leiterin der Arena\n"
+	.string "von Baumhausen City.\p"
+	.string "Ich wurde das mit Hilfe meiner Vogel-\n"
+	.string "Pokémon und habe den Himmel berührt.\p"
 	.string "Wie anstrengend der Kampf auch war,\n"
 	.string "wir haben mit Grazie gewonnen…\p"
 	.string "Werde Zeuge der eleganten Choreo-\n"
-	.string "graphie meiner VOGEL-POKéMON!$"
+	.string "graphie meiner Vogel-pokémon!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
-	.string "Ich habe noch nie einen TRAINER ge-\n"
-	.string "sehen, der seine POKéMON mit mehr\l"
+	.string "Ich habe noch nie einen Trainer ge-\n"
+	.string "sehen, der seine Pokémon mit mehr\l"
 	.string "Grazie trainiert als ich…\p"
 	.string "In Anbetracht deiner Fähigkeiten\n"
-	.string "überreiche ich dir diesen ARENAORDEN.$"
+	.string "überreiche ich dir diesen Arenaorden.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
 	.string "{PLAYER} erhält den FEDERORDEN von\n"
@@ -280,7 +280,7 @@ FortreeCity_Gym_Text_RegisteredWinona:
 FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "Auch wenn ich gegen dich verloren\n"
 	.string "habe,\l"
-	.string "gehört meine Liebe den VOGEL-POKéMON.$"
+	.string "gehört meine Liebe den Vogel-pokémon.$"
 
 FortreeCity_Gym_Text_GymStatue:
 	.string "POKéMON ARENA von BAUMHAUSEN CITY$"
@@ -291,13 +291,13 @@ FortreeCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:
-	.string "WIBKE: Wir Menschen können uns der\n"
+	.string "Wibke: Wir Menschen können uns der\n"
 	.string "Schwerkraft nicht widersetzen.\p"
 	.string "Aber in unserem Streben nach\n"
 	.string "Perfektion haben auch wir die Kraft,\l"
 	.string "vom Boden abzuheben!\p"
 	.string "Du hast den Gipfel erstürmt. Als\n"
-	.string "CHAMP.\p"
+	.string "Champ.\p"
 	.string "Bitte, zeig mir, wie du abhebst! Zeig\n"
 	.string "mir deine Kraft.$"
 
@@ -305,23 +305,23 @@ FortreeCity_Gym_Text_WinonaRematchDefeat:
 	.string "Du fliegst mir zu hoch…$"
 
 FortreeCity_Gym_Text_WinonaPostRematch:
-	.string "WIBKE: Auch wenn ich verloren habe,\n"
+	.string "Wibke: Auch wenn ich verloren habe,\n"
 	.string "mein Herz wird stets fliegen.\p"
 	.string "Ich werde immer wieder aufsteigen und\n"
 	.string "mich in die Lüfte erheben.\p"
 	.string "Das weiß ich genau!$"
 
 FortreeCity_Gym_Text_WinonaRematchNeedTwoMons:
-	.string "WIBKE: Wir Menschen können uns der\n"
+	.string "Wibke: Wir Menschen können uns der\n"
 	.string "Schwerkraft nicht widersetzen.\p"
 	.string "Aber in unserem Streben nach\n"
 	.string "Perfektion haben auch wir die Kraft,\l"
 	.string "vom Boden abzuheben!\p"
 	.string "Du hast den Gipfel erstürmt. Als\n"
-	.string "CHAMP.\p"
+	.string "Champ.\p"
 	.string "Bitte, zeig mir wie du abhebst! Zeig\n"
 	.string "mir deine Kraft.\p"
-	.string "Oh… Du hast nur ein POKéMON bei\n"
+	.string "Oh… Du hast nur ein Pokémon bei\n"
 	.string "dir?\p"
 	.string "Bitte komm später wieder und bring\n"
-	.string "mindestens zwei POKéMON mit.$"
+	.string "mindestens zwei Pokémon mit.$"

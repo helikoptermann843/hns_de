@@ -120,6 +120,6 @@ AquaHideout_1F_Text_Grunt1Defeat:
 	.string "Grrr… Ich habe verloren!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "Nun hat das TEAM verloren, aber ich\n"
+	.string "Nun hat das Team verloren, aber ich\n"
 	.string "habe meinen Job gemacht…$"
 

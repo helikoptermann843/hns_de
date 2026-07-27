@@ -76,13 +76,13 @@ Route15_EventScript_PPup::
 	end
 
 Route15_Text_TeacherColetteSeen:
-	.string "Hast du etwas vergessen?$"
+	.string "Hast du nicht was vergessen?$"
 
 Route15_Text_TeacherColetteBeaten:
-	.string "Uah!$"
+	.string "Jiiiek!$"
 
 Route15_Text_TeacherColetteAfterBattle:
-	.string "Ehe ich Lehrer wurde, vergaß ich\n"
+	.string "Ehe ich Lehrerin wurde, vergaß ich\n"
 	.string "immer eine Menge Dinge.$"
 
 Route15_Text_TeacherHillarySeen:
@@ -91,12 +91,11 @@ Route15_Text_TeacherHillarySeen:
 	.string "den Klassenzimmern zu lernen.$"
 
 Route15_Text_TeacherHillaryBeaten:
-	.string "Ich wollte nicht verlieren…$"
+	.string "Einen Versuch war's wert…$"
 
 Route15_Text_TeacherHillaryAfterBattle:
-	.string "Lernen ist sehr\n"
-	.string "wichtig, aber Bewegung ist genauso\l"
-	.string "essentiell.$"
+	.string "Lernen ist sehr wichtig, aber Bewegung\n"
+	.string "ist ebenfalls essentiell!$"
 
 Route15_Text_HillaryRegister:
 	.string "Du hast es mir gezeigt!\n"
@@ -109,57 +108,54 @@ Route15_Text_HillaryRematchDefeat:
 	.string "Zurück an die Tafel…$"
 
 Route15_Text_HillaryPostRematch:
-	.string "POKéMON und Kinder lernen gleich.\n"
+	.string "Pokémon und Kinder lernen gleich.\n"
 	.string "Immer nur geduldig sein.!$"
 
 Route15_Text_SchoolboyKippSeen:
-	.string "Warte! Ich muss meine Mutter anrufen.$"
+	.string "Warte! Ich muss kurz meine\n"
+	.string "Mutter anrufen.$"
 
 Route15_Text_SchoolboyKippBeaten:
-	.string "Tut mir Leid,\n"
-	.string "Mutter! Ich wurde besiegt!$"
+	.string "Tut mir leid, Mama!\n"
+	.string "Ich wurde besiegt!$"
 
 Route15_Text_SchoolboyKippAfterBattle:
 	.string "Meine Mutter macht sich immer große\n"
-	.string "Sorgen um mich.\p"
-	.string "Ständig muss ich sie anrufen.$"
+	.string "Sorgen. Ständig muss ich sie anrufen.$"
 
 Route15_Text_SchoolboyTommySeen:
 	.string "Lass uns kämpfen.\n"
 	.string "Ich werde nicht verlieren!$"
 
 Route15_Text_SchoolboyTommyBeaten:
-	.string "Ich hätte meine\n"
-	.string "Hausaufgaben machen sollen!$"
+	.string "Argh! Ich muss ja noch\n"
+	.string "Hausaufgaben machen!$"
 
 Route15_Text_SchoolboyTommyAfterBattle:
-	.string "Sayonara! Das habe\n"
-	.string "ich in meinem Japanischkurs gelernt.$"
+	.string "Sayonara! Das habe ich gestern\n"
+	.string "in der Schule gelernt!$"
 
 Route15_Text_SchoolboyJohnnySeen:
-	.string "Wir machen einen\n"
-	.string "Ausflug zum RADIOTURM in LAVANDIA,\p"
-	.string "um dort etwas in\n"
-	.string "Sozialkunde zu lernen.$"
+	.string "Meine Sozialkundeklasse und ich machen\n"
+	.string "einen Ausflug zum Radioturm in Lavandia!$"
 
 Route15_Text_SchoolboyJohnnyBeaten:
 	.string "Du bist unheimlich stark!$"
 
 Route15_Text_SchoolboyJohnnyAfterBattle:
-	.string "Ich bin müde vom\n"
-	.string "Laufen. Ich muss eine Pause machen.$"
+	.string "Ich bin müde vom Laufen.\n"
+	.string "Ich muss eine Pause machen.$"
 
 Route15_Text_SchoolboyBillySeen:
 	.string "Sport ist mein Lieblingsfach!$"
 
 Route15_Text_SchoolboyBillyBeaten:
-	.string "Oh, nein! Wie konnte ich nur\p"
-	.string "verlieren?$"
+	.string "Oh nein!\n"
+	.string "Wie konnte ich nur verlieren?$"
 
 Route15_Text_SchoolboyBillyAfterBattle:
-	.string "Wenn Pokémon ein\n"
-	.string "Unterrichtsfach wäre, dann wäre ich\l"
-	.string "bestimmt der Beste!$"
+	.string "Wenn Pokémon ein Unterrichtsfach wäre,\n"
+	.string "dann wäre ich der Klassenbeste!$"
 
 Route15_Text_BillyRegister:
 	.string "Ich hätte mehr aufpassen sollen in\n"

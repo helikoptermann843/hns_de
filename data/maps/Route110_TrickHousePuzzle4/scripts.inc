@@ -44,7 +44,7 @@ Route110_TrickHousePuzzle4_Text_CoraDefeat:
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
 	.string "Stimmst du mir zu? Du würdest überall\n"
-	.string "hingehen, wo man TRAINER findet.$"
+	.string "hingehen, wo man Trainer findet.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
 	.string "Hey! Felsen wie diese räume ich mit\n"
@@ -59,7 +59,7 @@ Route110_TrickHousePuzzle4_Text_YujiPostBattle:
 	.string "Gehirnschmalz ist wichtig. Sei helle!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "Das RÄTSELHAUS wird immer\n"
+	.string "Das Rätselhaus wird immer\n"
 	.string "verrätselter… äh, komplizierter, oder?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:

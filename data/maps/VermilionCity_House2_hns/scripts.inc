@@ -15,5 +15,7 @@ VermilionCity_House2_Text_PokefanF:
 	.string "in JOHTO.$"
 
 VermilionCity_House2_Text_Youngster:
-	.string "Ich will nach SAFFRONIA,\n"
-	.string "um den MAGNETZUG zu sehen.$"
+	.string "Saffronia! Saffronia! Saffronia!\n"
+	.string "Ich will nach Saffronia fahren!\p"
+	.string "Ich will nämlich den Magnetzug sehen!\n"
+	.string "Den Magnetzug! Den Magnetzug!$"

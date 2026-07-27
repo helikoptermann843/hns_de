@@ -59,20 +59,20 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "Willkommen. Mein Name ist FROSINA\n"
-	.string "von den TOP VIER.\p"
-	.string "Ich bin von weit her nach HOENN\n"
+	.string "Willkommen. Mein Name ist Frosina\n"
+	.string "von den Top Vier.\p"
+	.string "Ich bin von weit her nach Hoenn\n"
 	.string "gereist, um meine eisigen Talente zu\n"
 	.string "trainieren. \p"
 	.string "Aber bisher haben mich nur lausige\n"
-	.string "TRAINER mit noch lausigeren POKéMON\l"
+	.string "Trainer mit noch lausigeren Pokémon\l"
 	.string "herausgefordert.\p"
 	.string "Wie sieht es mit dir aus?\p"
 	.string "Es würde mich überaus freuen, wenn du\n"
 	.string "mich zwingst, alles zu geben!$"
 
 EverGrandeCity_GlaciasRoom_Text_Defeat:
-	.string "Du und deine POKéMON…\n"
+	.string "Du und deine Pokémon…\n"
 	.string "Euer Zusammenhalt verbrennt alles!\p"
 	.string "Diese Hitze besiegt jeden.\p"
 	.string "Kein Wunder, dass mein eisiges Talent\n"
@@ -81,5 +81,5 @@ EverGrandeCity_GlaciasRoom_Text_Defeat:
 EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech:
 	.string "Geh weiter in den nächsten Raum.\p"
 	.string "Und dort wirst du die schrecklichste\n"
-	.string "Seite der POKéMON LIGA kennen lernen.$"
+	.string "Seite der Pokémon Liga kennen lernen.$"
 

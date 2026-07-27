@@ -34,11 +34,11 @@ CeruleanHouse_Text_Granny:
 	.string "die er durch Tauschen bekommen hat.$"
 
 CeruleanHouse_Text_Gramps:
-	.string "Ah… Ich bin so glücklich…$"
+	.string "Ach, ich bin ja so glücklich…$"
 
 CeruleanHouse_Text_Kangaskhan:
-	.string "Kangama: Kaa Kaaa.$"
+	.string "KANGAMA: Kanga kanga!$"
 
 CeruleanHouse_Text_Zubat:
-	.string "Zubat: Zuba zubaa.$"
+	.string "ZUBAT: Zubat! Zubat!$"
 

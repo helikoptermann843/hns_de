@@ -285,38 +285,35 @@ CinnabarIsland_PokemonLab_ExperimentRoom_EventScript_CheckRevivedDome::
 	return
 
 Text_MetronomeTeach::
-	.string "Tch-tch-tch!\n"
-	.string "I'll teach you a nifty move.\p"
-	.string "Teach it to a POKéMON, and watch\n"
-	.string "the fun unfold!\p"
-	.string "It's a move called METRONOME.\n"
-	.string "Does it strike your fancy?$"
+	.string "Tak-tak-tak!\n"
+	.string "Ich kann einem POKéMON eine\l"
+	.string "tolle Attacke beibringen!\p"
+	.string "Die Attacke heißt METRONOM!\n"
+	.string "Könnte sie dir gefallen?$"
 
 Text_MetronomeDeclined::
-	.string "I tell you, it's a lot of fun!$"
+	.string "Ich sage dir, es macht viel Spaß!$"
 
 Text_MetronomeWhichMon::
-	.string "Okay!\n"
-	.string "Which POKéMON should I teach?$"
+	.string "O.K.! Welches POKéMON\n"
+	.string "soll sie erlernen?$"
 
 Text_MetronomeTaught::
-	.string "Tch-tch-tch!\n"
-	.string "That's the sound of a METRONOME.\p"
-	.string "It tweaks your POKéMON's brain into\n"
-	.string "using moves it doesn't even know.$"
+	.string "Tak-tak-tak!\n"
+	.string "So klingt ein METRONOM!\p"
+	.string "Damit setzt dein POKéMON Attacken\n"
+	.string "ein, die es gar nicht kennt!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
-	.string "Hiya!\p"
-	.string "I am important doctor.\n"
-	.string "Yes, very much so, indeed.\p"
-	.string "Here, I study rare POKéMON fossils.\n"
-	.string "All the time, I study.\p"
-	.string "You!\n"
-	.string "Have you a fossil for me?$"
+	.string "Hallo!\p"
+	.string "Ich leite hier die Forschungen!\p"
+	.string "Wir erforschen Fossilien von\n"
+	.string "URZEIT-POKéMON!\p"
+	.string "Hast du ein Fossil für mich?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
-	.string "No!\n"
-	.string "Is too bad!$"
+	.string "Nein?\n"
+	.string "Zu schade!$"
 
 @ Unused
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
@@ -325,10 +322,10 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
 	.string "ブラブラ　してくると　よろしー！$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
-	.string "You late.\n"
-	.string "Where were you?\p"
-	.string "Your fossil is back to life!\n"
-	.string "It was {STR_VAR_1} like I think!$"
+	.string "Wo warst du? Wir haben\n"
+	.string "dein Fossil wieder belebt!\p"
+	.string "Ein {VAR}, ganz wie ich es\n"
+	.string "vermutet habe!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
 	.string "{PLAYER} received the {STR_VAR_1}\n"
@@ -340,24 +337,25 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 	.string "Oh!\n"
-	.string "That is {STR_VAR_2}, it is!\p"
-	.string "It is fossil of {STR_VAR_1},\n"
-	.string "a POKéMON that is already extinct!\p"
-	.string "My Resurrection Machine will make\n"
-	.string "that POKéMON live again!$"
+	.string "Das ist ein {VAR}!\p"
+	.string "Es ist ein Fossil von {VAR},\n"
+	.string "einem schon lange ausgestorbenen\l"
+	.string "POKéMON!\p"
+	.string "Dank modernster Technik können wir\n"
+	.string "POKéMON aus Fossilien\l"
+	.string "wieder beleben!$"
 
 @ TODO: Resolve text dump error below?
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
-	.string "So!\n"
-	.string "You hurry and give me that!\p"
-	.string "{FONT_NORMAL}{PLAYER} handed over the\n"
-	.string "{STR_VAR_2} to the weird doctor.$"
+	.string "Gib es schnell her, damit ich\n"
+	.string "fortfahren kann!\p"
+	.string "{CTRL}{VAR} übergibt das\n"
+	.string "{VAR}!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
-	.string "I take a little time!\n"
-	.string "You go for walk a little while!$"
+	.string "Es wird einige Zeit dauern!\n"
+	.string "Komm einfach später wieder vorbei!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_YouComeAgain::
-	.string "Aiyah!\n"
-	.string "You come again!$"
+	.string "Du bist jederzeit willkommen!$"
 

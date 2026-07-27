@@ -123,40 +123,42 @@ MtEmber_Exterior_EventScript_Jocelyn::
 	end
 
 Text_ExplosionTeach::
-	.string "Can you imagine?\n"
-	.string "If this volcano were to erupt?\p"
-	.string "The explosion would be the end of\n"
-	.string "us. How terrifying is that?\p"
-	.string "While we're terrified, would you\n"
-	.string "like me to teach EXPLOSION?$"
+	.string "Stell dir vor, dieser Vulkan würde\n"
+	.string "ausbrechen!\p"
+	.string "Die Eruption wäre unser Ende! Ist\n"
+	.string "das nicht erschreckend?\p"
+	.string "Während uns die Knie schlottern,\n"
+	.string "könnte ich einem POKéMON\l"
+	.string "EXPLOSION lehren!$"
 
 Text_ExplosionDeclined::
-	.string "Yeah, you're right.\n"
-	.string "It is too terrifying.$"
+	.string "Ja, genau, du hast Recht!\n"
+	.string "Das ist zu erschreckend!$"
 
 Text_ExplosionWhichMon::
-	.string "You're terribly brave!\p"
-	.string "Which POKéMON should I teach\n"
-	.string "EXPLOSION?$"
+	.string "Du bist unheimlich tapfer!\p"
+	.string "Welches POKéMON soll\n"
+	.string "EXPLOSION erlernen?$"
 
 Text_ExplosionTaught::
-	.string "Using EXPLOSION while on this\n"
-	.string "volcano…\p"
-	.string "What a terrifying thrill!$"
+	.string "EXPLOSION auf diesem Vulkan\n"
+	.string "einzusetzen…\p"
+	.string "Was für ein aufreibender\n"
+	.string "Nervenkitzel!$"
 
 MtEmber_Exterior_Text_WellTryDiggingHere::
-	.string "Over here.\n"
-	.string "We'll try digging here.\p"
-	.string "That treasure the ADMINS've been\n"
-	.string "talking about should be here.$"
+	.string "Hier drüben!\n"
+	.string "Wir versuchen, hier zu graben.\p"
+	.string "Der Schatz, über den die VORS.\n"
+	.string "reden, muss hier irgendwo sein.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
-	.string "What the…?\n"
-	.string "You're in the way. Get lost.$"
+	.string "Was zur…?\n"
+	.string "Du bist im Weg! Verschwinde!$"
 
 MtEmber_Exterior_Text_PunchedThroughAtLast::
-	.string "Whew, punched through at last.\n"
-	.string "Let's go treasure hunting!$"
+	.string "Wow! Endlich durch! Auf zur\n"
+	.string "Schatzsuche!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
 	.string "Any treasure we find, we haul back\n"
@@ -165,83 +167,86 @@ MtEmber_Exterior_Text_WhatsPasswordAgain::
 	.string "At the ROCKET WAREHOUSE, I mean.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
-	.string "What, you forgot the password?\n"
-	.string "There're actually two.\p"
-	.string "The first one's “GOLDEEN need\n"
-	.string "log.”\p"
-	.string "And the second one is…$"
+	.string "Wie?!? Du hast das Passwort \n"
+	.string "vergessen? Eigentlich sind es zwei!\p"
+	.string "Das erste lautet "ARBOK Kobra".\p"
+	.string "Und das zweite ist…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::
-	.string "Hey!\n"
-	.string "This snoop's been listening in!$"
+	.string "Heh!\n"
+	.string "Das Balg belauscht uns!$"
 
 MtEmber_Exterior_Text_Grunt1Intro::
-	.string "You've been eavesdropping on us,\n"
-	.string "haven't you?$"
+	.string "Du hast uns bespitzelt, gib es zu!$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
 	.string "Huh, what?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
-	.string "Why'd you have to win?$"
+	.string "Warum musstest du gewinnen?$"
 
 MtEmber_Exterior_Text_Grunt2Intro::
-	.string "Trying to horn in on our treasure?\n"
-	.string "Don't bet on it!$"
+	.string "Du willst wohl etwas von unserem\n"
+	.string "Schatz? Das kannst du vergessen!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
 	.string "Wait!\n"
 	.string "But how?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
-	.string "Develop amnesia conveniently and\n"
-	.string "forget everything you heard!$"
+	.string "Fröne der Amnesie und vergiss,\n"
+	.string "was du gehört hast!$"
 
 MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
-	.string "What a setback…\n"
-	.string "We'll have to regroup.\p"
-	.string "You! Don't even think about taking\n"
-	.string "a step inside here!\p"
-	.string "If you know what's good for you,\n"
-	.string "don't even think about this!$"
+	.string "Welch Rückschlag…\n"
+	.string "Wir müssen uns neu gruppieren.\p"
+	.string "Du! Denk nicht einmal daran,\n"
+	.string "einzutreten!\p"
+	.string "Wenn du weißt, was gut für dich\n"
+	.string "ist, denk nicht einmal daran!$"
 
 MtEmber_Exterior_Text_LoganIntro::
-	.string "An active volcano is one that's\n"
-	.string "erupting, or about to.$"
+	.string "Ein Vulkan gilt als aktiv, wenn er\n"
+	.string "ausbricht oder kurz vor dem\l"
+	.string "Ausbruch steht.$"
 
 MtEmber_Exterior_Text_LoganDefeat::
-	.string "Whew… That was hot!\n"
-	.string "Sweat's erupting from me!$"
+	.string "Puh… das war heiß!\n"
+	.string "Ich hatte einen Schweißausbruch!$"
 
 MtEmber_Exterior_Text_LoganPostBattle::
-	.string "They say there're over 1,500\n"
-	.string "active volcanoes in the world.\p"
-	.string "Just thinking about them makes me\n"
-	.string "feel all hot and gooey inside!$"
+	.string "Es soll mehr als 1500 aktive\n"
+	.string "Vulkane in der Welt geben.\p"
+	.string "Allein beim Gedanken daran wird\n"
+	.string "mir heiß und mulmig!$"
 
 MtEmber_Exterior_Text_BethIntro::
-	.string "Do you know how caves form inside\n"
-	.string "volcanoes?$"
+	.string "Weißt du, wie in Vulkanen Höhlen\n"
+	.string "entstehen?$"
 
 MtEmber_Exterior_Text_BethDefeat::
-	.string "Atchah!\n"
-	.string "You're shockingly good!$"
+	.string "Aua!\n"
+	.string "Du bist erschreckend gut!$"
 
 MtEmber_Exterior_Text_BethPostBattle::
-	.string "When lava at the surface of magma\n"
-	.string "hardens, and the magma inside flows\l"
-	.string "out, caverns are left behind.$"
+	.string "Wenn die Lava an der Oberfläche\n"
+	.string "des Magmas erhärtet und das Magma\l"
+	.string "darunter herausfließt, entsteht\l"
+	.string "eine Höhle.$"
 
 MtEmber_Exterior_Text_JocelynIntro::
-	.string "I've been in training so I can mend\n"
-	.string "my broken heart…\p"
-	.string "It toughened me up physically at\n"
-	.string "least! Hi-yah!$"
+	.string "Ich habe hart trainiert, damit\n"
+	.string "ich meinen Liebeskummer\l"
+	.string "überwinde…\l"
+	.string "Es hat mich zumindest körperlich\l"
+	.string "gestärkt! Hey-Ho!$"
 
 MtEmber_Exterior_Text_JocelynDefeat::
-	.string "I think I tried to overdo it…$"
+	.string "Ich denke, ich habe es\n"
+	.string "übertrieben…$"
 
 MtEmber_Exterior_Text_JocelynPostBattle::
-	.string "The way you battle, it reminds me\n"
-	.string "of the guy who dumped me…$"
+	.string "Deine Art zu kämpfen erinnert mich\n"
+	.string "an den Kerl, der mich loswerden\l"
+	.string "wollte.$"
 

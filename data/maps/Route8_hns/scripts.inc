@@ -33,28 +33,28 @@ Route8_EventScript_Tom::
 	end
 
 Route8_Text_BikerDwayneSeen:
-	.string "Wir repräsentieren\n"
-	.string "die PokémonTRAINERGILDE aus KANTO.\p"
-	.string "Hier kommst du unter die Räder!$"
+	.string "Wir repräsentieren die\n"
+	.string "Pokémon-Trainergilde aus Kanto.\l"
+	.string "Einen wie dich erledigen wir mit links!$"
 
 Route8_Text_BikerDwayneBeaten:
-	.string "En-entschuldigung!$"
+	.string "E-entschuldigung!$"
 
 Route8_Text_BikerDwayneAfter:
-	.string "Die KANTO POKéMON GILDE\n"
-	.string "wird niemals fallen!$"
+	.string "Die Pokémon-Trainergilde aus Kanto\n"
+	.string "wird niemals untergehen!$"
 
 Route8_Text_BikerHarrisSeen:
-	.string "Das ORDNUNGSAMT hat unseren\n"
-	.string "TUNNELPFAD zuschütten lassen.\p"
-	.string "Das ängstigt mich!$"
+	.string "Das Ordnungsamt hat unseren\n"
+	.string "Tunnelpfad zuschütten lassen.\l"
+	.string "Uuuh, das macht mich ganz rasend!$"
 
 Route8_Text_BikerHarrisBeaten:
 	.string "V-vergib mir!$"
 
 Route8_Text_BikerHarrisAfter:
-	.string "Verprügelt von einem Bengel aus\n"
-	.string "JOHTO…$"
+	.string "In die Schranken gewiesen\n"
+	.string "von einem Rowdy aus Johto…$"
 
 Route8_Text_BikerZekeSeen:
 	.string "Wir sind die\n"
@@ -62,33 +62,38 @@ Route8_Text_BikerZekeSeen:
 	.string "dich in Acht!$"
 
 Route8_Text_BikerZekeBeaten:
-	.string "Uah! Entschuldige!$"
+	.string "E-entschuldige!$"
 
 Route8_Text_BikerZekeAfter:
-	.string "Wir werden von jetzt an\n"
-	.string "netter sein…$"
+	.string "Wir werden unser Bestes geben,\n"
+	.string "von nun an niemandem mehr\l"
+	.string "Ärger zu bereiten… wirklich!$"
 
 Route8_Text_SupernerdSamSeen:
-	.string "Wie funktioniert der MAGNETZUG?$"
+	.string "Möchte zu gerne mal wissen, wie\n"
+	.string "dieser Magnetzug funktioniert!$"
 
 Route8_Text_SupernerdSamBeaten:
 	.string "Ich möchte nur den MAGNETZUG sehen…$"
 
 Route8_Text_SupernerdSamAfter:
-	.string "Magnete sind super!$"
+	.string "Die Kraft von Magneten\n"
+	.string "ist schon beeindruckend!$"
 
 Route8_Text_SupernerdTomSeen:
-	.string "Hm… Du hast viele ORDEN.$"
+	.string "Toll… du hast aber\n"
+	.string "viele Orden!$"
 
 Route8_Text_SupernerdTomBeaten:
-	.string "Wie ich dachte… Du bist stark!$"
+	.string "Wie ich dachte…\n"
+	.string "Du bist stark!$"
 
 Route8_Text_SupernerdTomAfter:
 	.string "Arena-Orden verleihen Vorteile\n"
 	.string "in kämpfen.$"
 
 Route8_Text_LockedDoor:
-	.string "Es ist verriegelt…$"
+	.string "Abgeschlossen…$"
 
 Route8_Text_UndergroundPathSign:
 	.string "Das Flugblatt ist zerrissen.\p"

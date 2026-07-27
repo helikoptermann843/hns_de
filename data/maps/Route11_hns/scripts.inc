@@ -41,26 +41,28 @@ Route11_Text_Engineer:
 	.string "Es sah nicht wie ein Menki aus...$"
 
 Route11_Text_YoungsterOwenSeen:
-	.string "Bei Pokémon wird nicht gemogelt.\p"
-	.string "Immer fair spielen.$"
+	.string "Für Pokémon-Trainer ist Mogeln tabu!\n"
+	.string "Liefern wir uns einen fairen Kampf!$"
 
 Route11_Text_YoungsterOwenBeaten:
-	.string "Huch? Wie konnte das passieren?$"
+	.string "Huch? Wie ist\n"
+	.string "das denn passiert?$"
 
 Route11_Text_YoungsterOwenAfterBattle:
-	.string "Ich habe immer\n"
-	.string "fair und ehrenhaft gekämpft.\p"
-	.string "Ich habe es noch nie bedauert.$"
+	.string "Ich habe immer fair und ehrenhaft ge-\n"
+	.string "kämpft. Ich habe es noch nie bereut.$"
 
 Route11_Text_YoungsterJasonSeen:
-	.string "Es juckt und sticht, wenn ich\n"
-	.string "mit meinen Shorts durchs Gras laufe.$"
+	.string "Es juckt und sticht, wenn ich mit\n"
+	.string "meinen Shorts durchs Gras laufe.$"
 
 Route11_Text_YoungsterJasonBeaten:
-	.string "Aiyaaah! Ich bekam Dresche!$"
+	.string "Aiyaaah!\n"
+	.string "Ich gebe mich geschlagen!$"
 
 Route11_Text_YoungsterJasonAfterBattle:
-	.string "Im Gras werde ich mehr Pokémon fangen.$"
+	.string "Ich muss wohl noch ein paar mehr\n"
+	.string "Pokémon im Gras fangen.$"
 
 Route11_Text_PsychicHermanSeen:
 	.string "…$"
@@ -69,22 +71,23 @@ Route11_Text_PsychicHermanBeaten:
 	.string "…$"
 
 Route11_Text_PsychicHermanAfterBattle:
-	.string "…\p"
-	.string "Ich verlor, als\n"
-	.string "ich meine Augen schloss…$"
+	.string "… … … …\p"
+	.string "Ich schloss nur kurz die Augen und\n"
+	.string "schwupps, schon hatte ich verloren…$"
 
 Route11_Text_PsychicFidelSeen:
 	.string "Ich kann es sehen…\p"
 	.string "Ich kann alles über dich sehen…$"
 
 Route11_Text_PsychicFidelBeaten:
-	.string "Deine Stärke konnte ich nicht sehen…$"
+	.string "Dass du so stark sein würdest,\n"
+	.string "konnte ich nicht vorhersagen…$"
 
 Route11_Text_PsychicFidelAfterBattle:
-	.string "Deine Überzeugung ist stark…\p"
-	.string "Du bist stark,\n"
-	.string "weil du an deine Pokémon glaubst.$"
+	.string "Du bist von deiner Sache überzeugt…\p"
+	.string "Deine Stärke rührt von ebendiesem\n"
+	.string "Glauben an dein Pokémon-Team her…$"
 
 Route11_Text_Sign:
-	.string "ROUTE 11$"
+	.string "Route 11$"
 

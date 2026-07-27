@@ -47,9 +47,8 @@ SSAnne_CaptainsOffice_EventScript_Book::
 	end
 
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-	.string "CAPTAIN: Ooargh…\n"
-	.string "I feel hideous…\l"
-	.string "Urrp! Seasick…$"
+	.string "KAPITÄN: Urps...\n"
+	.string "Es geht mir gar nicht gut! Urps!$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
 	.string "{PLAYER} rubbed the CAPTAIN's\n"
@@ -58,44 +57,46 @@ SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
 	.string "Rub-rub…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-	.string "CAPTAIN: Whew! Thank you!\n"
-	.string "I'm feeling much better now.\p"
-	.string "You want to see my hidden CUT\n"
-	.string "technique?\p"
-	.string "I could show you my prized CUT\n"
-	.string "technique if I weren't so ill…\p"
-	.string "I know! You can have this!\n"
-	.string "This HIDDEN MACHINE!\p"
-	.string "Teach CUT to your POKéMON, and\n"
-	.string "you can see it CUT anytime!$"
+	.string "KAPITÄN: Ahhhhh! Ich danke dir!\n"
+	.string "Es geht mir schon viel besser...\p"
+	.string "Möchtest du den Umgang mit dem\n"
+	.string "ZERSCHNEIDER lernen?\p"
+	.string "Ich könnte es dir beibringen, aber\n"
+	.string "mir ist so übel.\p"
+	.string "Genau! Nimm einfach das hier!\p"
+	.string "Damit bringst du deinen POKéMON\n"
+	.string "den Umgang mit dem ZERSCHNEIDER\l"
+	.string "ganz leicht bei!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
 	.string "{PLAYER} obtained HM01\n"
 	.string "from the CAPTAIN!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-	.string "Using CUT, you can chop down\n"
-	.string "small trees.\p"
-	.string "Why not try it with the trees\n"
-	.string "around VERMILION CITY?$"
+	.string "Wenn du den ZERSCHNEIDER einsetzt,\n"
+	.string "kannst du kleine Bäume fällen.\p"
+	.string "Probiere es doch bei den Bäumen\n"
+	.string "um ORANIA CITY aus!$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-	.string "CAPTAIN: …Whew!\p"
-	.string "Now that I'm not sick anymore,\n"
-	.string "I guess it's time.\p"
-	.string "The S.S. ANNE will set sail soon!\p"
-	.string "Farewell, until our return to\n"
-	.string "VERMILION CITY!$"
+	.string "KAPITÄN: Super!\p"
+	.string "Endlich bin ich nicht mehr krank!\n"
+	.string "Es kann losgehen!\p"
+	.string "Jetzt kann die M.S. ANNE in See\n"
+	.string "stechen!\p"
+	.string "Auf Wiedersehen! Bis zum nächsten\n"
+	.string "Besuch in ORANIA CITY!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
-	.string "Oh, no!\n"
-	.string "You have no room for this!$"
+	.string "Oh, nein! Du hast keinen Platz für\n"
+	.string "weitere Items!$"
 
 SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
-	.string "Yuck!\n"
-	.string "Shouldn't have looked!$"
+	.string "Buäh! Manche Dinge macht man\n"
+	.string "besser nicht...$"
 
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
-	.string "How to Conquer Seasickness…\n"
-	.string "The CAPTAIN's reading this!$"
+	.string "1000 natürliche Hausmittel gegen\n"
+	.string "Seekrankheit...\l"
+	.string "Der KAPITÄN liest dieses Buch!$"
 

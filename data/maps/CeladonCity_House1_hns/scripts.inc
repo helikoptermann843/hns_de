@@ -54,10 +54,12 @@ CeladonCity_House1_EventScript_Sign::
 	end
 
 CeladonCity_House1_Text_ChefEatathon:
-	.string "Hi!\p"
-	.string "Wir veranstalten ein Wettessen.\p"
-	.string "Wir können dich gerade nicht bedienen.\n"
-	.string "Entschuldige.$"
+	.string "Willkommen in unserem Restaurant!\p"
+	.string "…Leider können wir dich im Moment\n"
+	.string "nicht bedienen, weil wir gerade mitten in\l"
+	.string "einem Wettessen stecken.\p"
+	.string "Aber wenn du möchtest, kannst du den\n"
+	.string "Teilnehmern beim Essen zuschauen!$"
 
 CeladonCity_House1_Text_Fisher1Snarfle:
 	.string "…Würg, kau…$"
@@ -90,13 +92,12 @@ CeladonCity_House1_Text_TeacherNoCoinCase:
 	.string "Du solltest in JOHTO nachsehen.$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
-	.string "Knirscher… Knirscher…\p"
-	.string "Ich kann weiter essen!\p"
-	.string "Mehr, CHEF!$"
+	.string "Schling, schlabber…\p"
+	.string "Ich habe immer noch etwas Platz!\p"
+	.string "Chefkoch! Nachschub!$"
 
 CeladonCity_House1_Text_EatathonContestPoster:
-	.string "Wettess-Wettbewerb! Keine\n"
-	.string "Zeitbegrenzung!\p"
-	.string "Ein Kampf ohne Ende! Wer am meisten\n"
-	.string "isst, bekommt alles gratis!$"
+	.string "Wettessen! Essen bis zum Umfallen!\n"
+	.string "Kein Zeitlimit! Der größte Vielfraß\l"
+	.string "bekommt alles umsonst!$"
 

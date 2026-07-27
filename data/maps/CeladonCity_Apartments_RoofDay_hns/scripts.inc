@@ -24,9 +24,9 @@ CeladonCity_Apartments_RoofDay_EventScript_Sign::
 	end
 
 CeladonMansionRoof_Text_Fisher:
-	.string "Hohe Orte--ich liebe sie so sehr!\p"
-	.string "Ich würde sagen, das Einzige, das die\n"
-	.string "Höhe so sehr liebt wie ich, ist Rauch!$"
+	.string "Hohe Orte habe ich am liebsten!\p"
+	.string "Außer mir und heißer Luft gibt es\n"
+	.string "keinen größeren Fan von Höhen!$"
 
 CeladonMansionRoof_Text_Graffiti:
 	.string "An der Wand ist Graffiti…\p"

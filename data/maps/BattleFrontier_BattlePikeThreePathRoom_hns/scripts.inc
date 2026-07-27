@@ -294,8 +294,8 @@ BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge_hns:
 	.string "fortsetzen?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit_hns:
-	.string "Möchtest du das Spiel speichern und\n"
-	.string "beenden?$"
+	.string "Möchtest du speichern und\n"
+	.string "das Spiel beenden?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge_hns:
 	.string "Möchtest du die Kampfbahn-\n"

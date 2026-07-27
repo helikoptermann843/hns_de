@@ -74,15 +74,16 @@ PalletTown_Lab_Text_OakLabDexCheck:
 	.string "Wie kommst du mit dem POKéDEX voran?$"
 
 PalletTown_Lab_Text_OakWelcomeKanto:
-	.string "Eich: Ah, {PLAYER}!\n"
-	.string "Schön, dass du den weiten Weg\l"
-	.string "nach KANTO auf dich genommen hast.\p"
-	.string "Was hältst du von den Trainern\n"
-	.string "hier? Ziemlich hart, oder?$"
+	.string "Eich: Oh, {PLAYER}!\n"
+	.string "Danke, dass du den weiten Weg bis hier\l"
+	.string "nach Kanto auf dich genommen hast!\p"
+	.string "Na? \n"
+	.string "Was hältst du von den Trainern hier?\l"
+	.string "Ziemlich stark, was?$"
 
 PalletTown_Lab_Text_OakLabGoodbye:
-	.string "Wenn du in der Nähe bist,\n"
-	.string "besuch mich doch wieder.$"
+	.string "Schau ruhig mal wieder vorbei,\n"
+	.string "wenn du in der Gegend bist!$"
 
 PalletTown_Lab_Text_OakOpenMtSilver:
 	.string "Eich: Wow! Hervorragend!\p"
@@ -115,21 +116,26 @@ PalletTown_Lab_Text_OakOpenIndigoPlateau:
 	.string "Viel Glück, {PLAYER}!$"
 
 PalletTown_Lab_Text_OakNoKantoBadges:
-	.string "Eich: Hm? Du sammelst keine\n"
-	.string "KANTO-ARENAORDEN?\p"
-	.string "Die ARENALEITER in KANTO sind\n"
-	.string "genauso stark wie die in JOHTO.\p"
-	.string "Ich empfehle dir, sie\n"
-	.string "herauszufordern.$"
+	.string "Eich: Hm?\n"
+	.string "Offensichtlich hast du hier in Kanto\l"
+	.string "noch keinen Orden erhalten.\p"
+	.string "Die Arenaleiter in Kanto brauchen sich\n"
+	.string "nicht vor denen aus Johto verstecken!\l"
+	.string "Sie sind alle ernstzunehmende Gegner!\p"
+	.string "Aber das hält dich natürlich nicht davon\n"
+	.string "ab, sie herauszufordern, oder?$"
 
 PalletTown_Lab_Text_OakYesKantoBadges:
-	.string "Eich: Ah, du sammelst also\n"
-	.string "KANTO-ARENAORDEN.\p"
-	.string "Das ist sicher schwer, aber die\n"
-	.string "Erfahrung wird dir helfen.\p"
-	.string "Komm zu mir, wenn du alle hast.\p"
-	.string "Ich habe dann ein Geschenk für dich.\p"
-	.string "Bleib dran, {PLAYER}!$"
+	.string "Eich: Ah, wie ich sehe, erkämpfst du dir\n"
+	.string "nach und nach auch die Orden der\l"
+	.string "Arenaleiter von Kanto!\p"
+	.string "Es ist sicher kein leichtes Unterfangen,\n"
+	.string "aber du sammelst dabei bestimmt viele\l"
+	.string "wertvolle Erfahrungen.\p"
+	.string "Besuche mich wieder, wenn du dir hier\n"
+	.string "auch alle Orden erkämpft hast!\l"
+	.string "Ein Geschenk wird auf dich warten!\p"
+	.string "Halte die Ohren steif, {PLAYER}!$"
 
 PalletTown_Lab_Text_OaksAssistant1:
 	.string "Die Radiosendung POKéMON TALK\n"

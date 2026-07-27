@@ -17,7 +17,7 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "Wenn TEAM MAGMA zum Appell antritt,\n"
+	.string "Wenn Team Magma zum Appell antritt,\n"
 	.string "bekommen wir wichtige Aufgaben\l"
 	.string "zugeteilt und zwar in der Reihenfolge,\n"
 	.string "\p"
@@ -38,7 +38,7 @@ MagmaHideout_1F_Text_Grunt1PostBattle:
 
 MagmaHideout_1F_Text_Grunt2Intro:
 	.string "Unser Boss hat uns gesagt, wir sollen\n"
-	.string "im SCHLOTBERG Grabungen durchführen,\l"
+	.string "im Schlotberg Grabungen durchführen,\l"
 	.string "daher haben wir gegraben und gegraben…\n"
 	.string "\p"
 	.string "Und dann haben wir etwas gefunden, was\n"

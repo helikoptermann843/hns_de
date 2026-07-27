@@ -469,7 +469,7 @@ GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
 	.string "Delegator  2000$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
-	.string "Abbrechen$"
+	.string "ZURÜCK$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_SoYourChoiceIsTM:
 	.string "Du möchtest also\n"
@@ -775,19 +775,19 @@ GoldenrodCity_GameCorner_EventScript_VFAttendant2::
 
 @ Voltorb Flip Menu Option Strings
 GoldenrodCity_GameCorner_Text_VF_OptPlay:
-	.string "SPIELEN$"
+	.string "Play$"
 
 GoldenrodCity_GameCorner_Text_VF_OptGameInfo:
-	.string "SPIEL INFO$"
-
-GoldenrodCity_GameCorner_Text_VF_OptQuit:
-	.string "VERLASSEN$"
-
-GoldenrodCity_GameCorner_Text_VF_OptHowToPlay:
 	.string "SPIELREGELN$"
 
+GoldenrodCity_GameCorner_Text_VF_OptQuit:
+	.string "Zurück$"
+
+GoldenrodCity_GameCorner_Text_VF_OptHowToPlay:
+	.string "WIE MAN SPIELT$"
+
 GoldenrodCity_GameCorner_Text_VF_OptHint:
-	.string "HINWEIS$"
+	.string "TIPPS!$"
 
 GoldenrodCity_GameCorner_Text_VF_OptAboutNotes:
 	.string "ÜBER HINWEISE$"
@@ -797,10 +797,10 @@ GoldenrodCity_GameCorner_Text_VF_OptReturn:
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:
-	.string "Willkommen bei VOLTOBALL-FLIP!\p$"
+	.string "{STR_VAR_1}"Voltofalle Lv. {STR_VAR_1}"$"
 
 GoldenrodCity_GameCorner_Text_VF_PlayLevel:
-	.string "VOLTOBALL-FLIP Lv. {STR_VAR_1} spielen?$"
+	.string "Möchtest du Voltofalle Lv. {STR_VAR_1} spielen?$"
 
 GoldenrodCity_GameCorner_Text_VF_GameClear:
 	.string "Geschafft!\p"
@@ -812,21 +812,22 @@ GoldenrodCity_GameCorner_Text_VF_ReceivedCoins:
 	.string "Münze(n) erhalten!$"
 
 GoldenrodCity_GameCorner_Text_VF_Advanced:
-	.string "Spielstufe {STR_VAR_1} erreicht!$"
+	.string "Der Schwierigkeitsgrad von Voltofalle\n"
+	.string "steigt auf Lv. {STR_VAR_1} an!$"
 
 GoldenrodCity_GameCorner_Text_VF_OhNo:
-	.string "Oh nein! Du erhältst 0 Münzen!$"
+	.string "So ein Pech! Du gehst leer aus!$"
 
 GoldenrodCity_GameCorner_Text_VF_Dropped:
-	.string "Auf Spielstufe {STR_VAR_1}\n"
-	.string "zurückgefallen.$"
+	.string "Der Schwierigkeitsgrad von Voltofalle\n"
+	.string "fällt auf Lv. {STR_VAR_1} zurück!$"
 
 GoldenrodCity_GameCorner_Text_VF_CoinCap:
-	.string "Du hast 9.999 MÜNZEN.\n"
+	.string "Du hast 9 999 Münzen gesammelt.\n"
 	.string "Mehr kannst du nicht tragen.$"
 
 GoldenrodCity_GameCorner_Text_VF_WhichInfo:
-	.string "Welche Erklärung möchtest du?$"
+	.string "Was möchtest du wissen?$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
 	.string "Bei VOLTOBALL-FLIP deckst du Karten\n"

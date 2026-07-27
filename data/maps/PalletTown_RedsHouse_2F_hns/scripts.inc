@@ -14,6 +14,5 @@ RedsHouse_Text_NES:
 	.string "Ich sollte aufhören--keine Zeit!$"
 
 RedsHouse_Text_PC:
-	.string "Es sieht aus, als\n"
-	.string "wäre er seit langer Zeit nicht mehr\l"
-	.string "benutzt worden…$"
+	.string "…Es sieht so aus, als wäre er schon\n"
+	.string "lange nicht mehr benutzt worden.$"

@@ -140,36 +140,40 @@ Route39_Barn_EventScript_TwinsAfter::
 	end
 
 Route39_Text_BarnTwinMoomooIsSick:
-	.string "MILTANK ist krank…\p"
-	.string "Es braucht viele BEEREN.$"
+	.string "Muhkuh ist krank… es braucht jetzt\n"
+	.string "sehr viele von den Sinelbeeren,\l"
+	.string "die es so gerne mag…$"
 
 Route39_Text_BarnTwinFeedingMoomoo:
 	.string "Wir füttern MILTANK!$"
 
 Route39_Text_MoomooWeakMoo:
-	.string "Miltank: …Muuh…$"
+	.string "MILTANK: …tank…$"
 
 Route39_Text_BarnCryIsWeak:
 	.string "Sein Ruf ist schwach…$"
 
 Route39_Text_MoomooHappyMoo:
-	.string "Miltank: Muuuuh!$"
+	.string "MILTANK: Miiillltank!$"
 
 Route39_Text_BarnGaveBerry:
-	.string "{PLAYER} gibt MILTANK eine BEERE.$"
+	.string "{PLAYER} gibt MILTANK eine\n"
+	.string "Sinelbeere!$"
 
 Route39_Text_BarnLittleHealthier:
-	.string "MILTANK ist etwas gesünder geworden!$"
+	.string "MILTANK geht es wieder etwas besser!$"
 
 Route39_Text_BarnQuiteHealthy:
 	.string "MILTANK ist viel gesünder geworden!$"
 
 Route39_Text_BarnTotallyHealthy:
-	.string "MILTANK ist völlig gesund geworden!$"
+	.string "MILTANK ist wieder voll bei Kräften!$"
 
 Route39_Text_BarnNoBerries:
-	.string "{PLAYER} hat keine BEEREN…$"
+	.string "{PLAYER} hat keine\n"
+	.string "Sinelbeeren dabei…$"
 
 Route39_Text_BarnRefusedBerry:
-	.string "{PLAYER} möchte keine BEERE verwenden.\n"
-	.string "MILTANK sieht traurig aus.$"
+	.string "{PLAYER} hat MILTANK keine\n"
+	.string "Sinelbeeren gegeben.\p"
+	.string "Es sieht dich ganz traurig an…$"

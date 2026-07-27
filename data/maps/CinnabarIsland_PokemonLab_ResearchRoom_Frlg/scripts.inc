@@ -18,21 +18,22 @@ CinnabarIsland_PokemonLab_ResearchRoom_EventScript_AmberPipe::
 	end
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
-	.string "EEVEE can evolve into one of three\n"
-	.string "kinds of POKéMON.$"
+	.string "Seeleute fangen ihre POKéMON auf\n"
+	.string "hoher See!$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
-	.string "There's an e-mail message.\p"
-	.string "… … …\p"
-	.string "There are three legendary bird\n"
-	.string "POKéMON.\p"
-	.string "They are ARTICUNO, ZAPDOS, and\n"
-	.string "MOLTRES.\p"
-	.string "Their whereabouts are unknown.\p"
-	.string "We plan to explore the cavern\n"
-	.string "close to CERULEAN.\p"
-	.string "From: POKéMON RESEARCH TEAM…$"
+	.string "Eine E-Mail ist angekommen!\p"
+	.string "...\p"
+	.string "ARKTOS, ZAPDOS und LAVADOS sind\n"
+	.string "die drei legendären Vogel-POKéMON.\p"
+	.string "Niemand weiß, in welcher Gegend sie\n"
+	.string "leben.\p"
+	.string "Wir werden als nächstes in der\n"
+	.string "Höhle nahe AZURIA CITY suchen.\p"
+	.string "\n"
+	.string "Von: POKéMON-FORSCHUNGSTEAM\p"
+	.string "...$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-	.string "An amber pipe!$"
+	.string "Willst du zur See fahren?$"
 

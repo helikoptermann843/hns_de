@@ -46,52 +46,52 @@ Route9_EventScript_Item_Flash_Cannon::
     end
 
 Route9_Text_CamperDeanSeen:
-	.string "Ich möchte den FELSTUNNEL erforschen.$"
+	.string "Ich bin hier, um den\n"
+	.string "Felstunnel zu erforschen.$"
 
 Route9_Text_CamperDeanBeaten:
 	.string "Boah! Vorsicht!$"
 
 Route9_Text_CamperDeanAfter:
-	.string "Meine Pokémon wurden verletzt,\n"
-	.string "noch bevor wir den FELSTUNNEL\l"
-	.string "betraten.\p"
-	.string "Ich bringe sie besser sofort ins\n"
-	.string "POKéMON CENTER.$"
+	.string "Mein Pokémon-Team wurde verletzt,\n"
+	.string "bevor ich den Felstunnel erreicht habe.\l"
+	.string "Jetzt aber schnell ins Pokémon-Center.$"
 
 Route9_Text_PicnickerHeidiSeen:
-	.string "Warst du schon beim Picknicken?\p"
+	.string "Warst du schon mal bei einem Picknick?\n"
 	.string "Das macht großen Spaß!$"
 
 Route9_Text_PicnickerHeidiBeaten:
-	.string "Ohhhh!$"
+	.string "Jiiieks!$"
 
 Route9_Text_PicnickerHeidiAfter:
-	.string "Wir backen viele Leckereien\n"
-	.string "und teilen sie mit allen.\p"
-	.string "Sie sind köstlich!$"
+	.string "Wir backen viele gute Sachen, die\n"
+	.string "wir mit allen teilen.\l"
+	.string "Die sind lecker, glaube es ruhig!$"
 
 Route9_Text_CamperSidSeen:
-	.string "Hey, du Lump!\n"
+	.string "He, du Lump!\n"
 	.string "Wirf deinen Müll nicht hier hin!$"
 
 Route9_Text_CamperSidBeaten:
-	.string "Ich wollte nur klarstellen, dass…$"
+	.string "Ich wollte dich doch nur\n"
+	.string "darauf hinweisen…$"
 
 Route9_Text_CamperSidAfter:
-	.string "Entschuldige. Du hast keinen\n"
-	.string "Müll liegen lassen. Mein Fehler.$"
+	.string "Entschuldige! Jetzt sehe ich's!\n"
+	.string "Das war ja gar nicht dein Müll!$"
 
 Route9_Text_PicnickerEdnaSeen:
-	.string "Die Leute sollten\n"
-	.string "ihren Müll nicht hier liegen lassen.$"
+	.string "Die Leute sollten ihren Müll nicht\n"
+	.string "hier liegen lassen.$"
 
 Route9_Text_PicnickerEdnaBeaten:
-	.string "Ohh… Ich habe verloren…$"
+	.string "Ach, Mist!\n"
+	.string "Verloren.$"
 
 Route9_Text_PicnickerEdnaAfter:
-	.string "Energie sparen ist wichtig,\n"
-	.string "doch die Umwelt ist noch viel\l"
-	.string "wichtiger.$"
+	.string "Energie sparen ist wichtig, aber\n"
+	.string "die Natur ist noch viel wichtiger.$"
 
 Route9_Text_HikerTimSeen:
 	.string "Sie wird beim MT.SILVER sein,\n"
@@ -103,19 +103,19 @@ Route9_Text_HikerTimBeaten:
 	.string "mit Singen beschäftigt…$"
 
 Route9_Text_HikerTimAfter:
-	.string "Kämpfe erfordern volle\n"
-	.string "Konzentration.$"
+	.string "Bei Kämpfen spielt Konzentration\n"
+	.string "eine wichtige Rolle.$"
 
 Route9_Text_HikerSidneySeen:
-	.string "Ich verrate dir ein Geheimnis.\p"
+	.string "Ich verrate dir ein Geheimnis.\n"
 	.string "Aber zuerst müssen wir kämpfen!$"
 
 Route9_Text_HikerSidneyBeaten:
 	.string "Oh, Mist! Ich habe verloren…$"
 
 Route9_Text_HikerSidneyAfter:
-	.string "Das Kraftwerk liegt hinter\n"
-	.string "einem kleinen Fluss.$"
+	.string "Jenseits dieses Flüssleins\n"
+	.string "liegt ein gigantisches Kraftwerk!$"
 
 Route9_Text_Sign:
 	.string "ROUTE 9\p"

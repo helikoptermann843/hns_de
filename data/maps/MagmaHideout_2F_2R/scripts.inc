@@ -31,18 +31,18 @@ MagmaHideout_2F_2R_Text_Grunt15Defeat:
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
 	.string "Wir haben etwas Unglaubliches\n"
-	.string "ausgegraben! Und… wir haben die BLAUE\l"
-	.string "KUGEL!\p"
+	.string "ausgegraben! Und… wir haben die Blaue\l"
+	.string "Kugel!\p"
 	.string "Nun muss unser Boss nur noch…\n"
 	.string "Hahaha… Muahahahahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
 	.string "Ich hasse Hitze! Ich hätte mich lieber\n"
-	.string "TEAM AQUA anschließen sollen…$"
+	.string "Team Aqua anschließen sollen…$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
 	.string "Ich bin tatsächlich nicht geschaffen\n"
-	.string "für TEAM MAGMA…$"
+	.string "für Team Magma…$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
 	.string "Bekommst du an einem Ort wie diesem\n"
@@ -52,7 +52,7 @@ MagmaHideout_2F_2R_Text_Grunt7Intro:
 	.string "Ab und zu bemerkt man hier\n"
 	.string "Erschütterungen.\p"
 	.string "Ob der Vulkan daran schuld ist?\n"
-	.string "Oder ist es GROU…\p"
+	.string "Oder ist es Grou…\p"
 	.string "Huuups! Ach, egal! Dummdidumm…$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
@@ -63,11 +63,11 @@ MagmaHideout_2F_2R_Text_Grunt7PostBattle:
 	.string "Dieses Mal hast du es tatsächlich\n"
 	.string "geschafft, zu gewinnen. Aber das macht\l"
 	.string "überhaupt nichts.\p"
-	.string "TEAM MAGMA ist bald am Ziel.$"
+	.string "Team Magma ist bald am Ziel.$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
 	.string "Eines unserer Mitglieder ist aus-\n"
-	.string "gerastet. Es hat sein MAGMAEMBLEM\l"
+	.string "gerastet. Es hat sein Magmaemblem\l"
 	.string "verloren!\p"
 	.string "Warte mal! Du hast das doch nicht\n"
 	.string "etwa gefunden?!?$"

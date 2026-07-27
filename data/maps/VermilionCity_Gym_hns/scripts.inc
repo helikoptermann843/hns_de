@@ -287,16 +287,16 @@ VermilionCity_Gym_EventScript_Surge_Defeated::
 	end
 
 VermilionGym_Text_LtSurgeIntro:
-	.string "Bob: Hey, du kleiner Wicht!\p"
-	.string "Ich muss es dir lassen.\p"
-	.string "Dich mir zu stellen ist nicht\n"
-	.string "klug, doch Mut beweist du!\p"
-	.string "Bei Elektro-Pokémon bin ich\n"
-	.string "die Nummer eins!\p"
-	.string "Auf dem Schlachtfeld habe\n"
-	.string "ich nie verloren.\p"
-	.string "Ich werde dich Schocken, wie\n"
-	.string "einst meine Feinde im Krieg!$"
+	.string "Major Bob: Hey, Rekrut!\p"
+	.string "Du forderst mich zum Kampf heraus?\n"
+	.string "Du weißt wohl nicht, wer ich bin!\l"
+	.string "Meine Elektro-Pokémon sind\l"
+	.string "unschlagbar! Die Besten der Besten!\p"
+	.string "Sie haben das Schlachtfeld bis\n"
+	.string "jetzt immer siegreich verlassen!\p"
+	.string "Nun werden ihre Elektroattacken auch\n"
+	.string "dich grillen, genau wie sie es mit den\l"
+	.string "Soldaten des Feindes taten!$"
 
 VermilionGym_Text_LtSurgeWinLoss:
 	.string "Bob: Arrrgh! Du bist stark!\p"
@@ -330,7 +330,7 @@ VermilionGym_Text_LtSurgePostBattle:
 
 VermilionGym_Text_SurgeRematch:
 	.string "Bob: Also, du bist jetzt\n"
-	.string "KANTO-CHAMPION!\p"
+	.string "Kanto-champion!\p"
 	.string "Beeindruckend, Kleiner!\n"
 	.string "Doch denk nicht, dass ich fertig\l"
 	.string "bin!\p"
@@ -341,8 +341,9 @@ VermilionGym_Text_SurgeRematchDefeat:
 	.string "so stark!$"
 
 VermilionGym_Text_GentlemanGregorySeen:
-	.string "Willst du Major Bob besiegen?\p"
-	.string "Nicht wenn ich es verhindern kann!$"
+	.string "Du bist hier, um Major Bob\n"
+	.string "zu besiegen?\l"
+	.string "Da musst du erst an mir vorbei!$"
 
 VermilionGym_Text_GentlemanGregoryBeaten:
 	.string "Entschuldigung, Major Bob!\n"
@@ -365,8 +366,8 @@ VermilionGym_Text_GuitaristVincentAfter:
 	.string "hätten, wärst du erledigt gewesen…$"
 
 VermilionGym_Text_JugglerHortonSeen:
-	.string "Ich werde dich besiegen!\n"
-	.string "Bereit für einen Schock!$"
+	.string "Ich werde dich fertigmachen!\n"
+	.string "Gleich versetzt's dir einen Schlag!$"
 
 VermilionGym_Text_JugglerHortonBeaten:
 	.string "Gwaaah! Ich wurde überrannt…$"
@@ -393,9 +394,8 @@ VermilionCity_Gym_Text_GymGuyAdvice::
 	.string "zu ihm zu gelangen.$"
 
 VermilionCity_Gym_Text_GymGuyPostVictory::
-	.string "Whew!\n"
-	.string "Elektrifizierend!\p"
-	.string "Das macht mich nervös.$"
+	.string "Was für ein aufregendes Match!\n"
+	.string "Ich habe richtig mitgefiebert!$"
 
 VermilionCity_Gym_Text_GymStatue::
     .string "ORANIA POKéMON ARENA\n"

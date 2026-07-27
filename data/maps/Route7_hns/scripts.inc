@@ -16,14 +16,15 @@ Route7_EventScript_Door::
 	end
 
 Route7_Text_UndergroundPathSign:
-	.string "Was steht auf dem Flugblatt?\p"
-	.string "…Ruppige Trainer tragen auf dem\n"
-	.string "TUNNELPFAD Kämpfe aus.\p"
+	.string "Was steht auf diesem Flugblatt?\p"
+	.string "Auf dem Tunnelpfad tragen\n"
+	.string "schlecht erzogene Trainer\l"
+	.string "Pokémon-Kämpfe aus.\p"
 	.string "Da sich die Beschwerden der Anwohner\n"
-	.string "häuften, wurde der TUNNELPFAD\l"
-	.string "auf unbestimmte Zeit geschlossen.\p"
-	.string "ORDNUNGSAMT VON PRISMANIA CITY$"
+	.string "häufen, wurde der Tunnelpfad auf\l"
+	.string "unbestimmte Zeit geschlossen!\l"
+	.string "…Das Ordnungsamt von Prismania City$"
 
 Route7_Text_LockedDoor:
-	.string "Es ist verriegelt…$"
+	.string "Abgeschlossen…$"
 

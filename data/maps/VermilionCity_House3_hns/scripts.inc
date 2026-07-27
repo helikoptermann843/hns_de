@@ -6,7 +6,6 @@ VermilionCity_House3_EventScript_Gentleman::
 	end
 
 VermilionCity_House3_Text_Gentleman:
-	.string "Über viele Jahre hat Digda\n"
-	.string "einen großen Tunnel gegraben.\p"
-	.string "Dieser Tunnel führt in eine\n"
-	.string "ferne Stadt.$"
+	.string "Der Tunnel, an dem die DIGDA all diese\n"
+	.string "Jahre gearbeitet haben, führt\l"
+	.string "zu einer entlegenen Stadt.$"

@@ -29,7 +29,7 @@ SaffronCity_SilphCo_EventScript_Refused::
 	end
 
 SaffronCity_SilphCo_Text_Refused:
-	.string "Oh...$"
+	.string "Wie?$"
 
 SaffronCity_SilphCo_EventScript_TreeckoChosen::
 	closemessage
@@ -91,38 +91,32 @@ SaffronCity_SilphCo_Movement_StevenLeave:
 
 
 SaffronCity_SilphCo_Text_Steven1:
-	.string "Hallo…\n"
-	.string "Die Verbindung ist schlecht…\l"
-	.string "Ich glaube, es liegt an meinem\l"
-	.string "Vater.\l"
-	.string "Ich verstehe…\p"
-	.string "Ich mach mich auf den Weg.\n"
-	.string "Bis bald.$"
+	.string "Ja, hallo?\n"
+	.string "Oh, äh, nein…\l"
+	.string "Nein, die Verbindung ist bloß…\p"
+	.string "Der Rest hängt von meinem Vater ab…\p"
+	.string "Ja, in Ordnung…\n"
+	.string "Ja, ich komme jetzt zurück. Bis gleich!$"
 
 SaffronCity_SilphCo_Text_Steven2:
-	.string "TROY: Du bist… Ich erinnere\n"
-	.string "mich an deine Augen.\p"
-	.string "Wenn ich einen TRAINER sehe,\n"
-	.string "dessen Augen leuchten, vergesse\l"
-	.string "ich das nie.\p"
-	.string "Du hast einen POKÉDEX! Du bist\n"
-	.string "also auch auf der Suche nach\l"
-	.string "POKÉMON!\l"
-	.string "Lass mich überlegen…\p"
-	.string "Ich glaube, ich kann dir dabei\n"
-	.string "helfen.\p"
-	.string "Stell dir vor, Steine liegen\n"
-	.string "vor dir. Welche Farbe würdest\l"
-	.string "du wählen?$"
+	.string "Troy: Oh, ist das nicht ein Pokédex?\n"
+	.string "Verstehe, dann bist du also auch\l"
+	.string "auf der Suche nach Pokémon!\p"
+	.string "Hm, in Ordnung… dann erlaube mir, dir\n"
+	.string "ein wenig unter die Arme zu greifen!\p"
+	.string "Stelle dir jetzt bitte mal einen wirklich\n"
+	.string "hübschen Stein vor. Welche Farbe\l"
+	.string "hat er in deinem Kopf?$"
 
 SaffronCity_SilphCo_Text_Steven3:
 	.string "Richtig gewählt! Ich gebe dir\n"
 	.string "{STR_VAR_1}!$"
 
 SaffronCity_SilphCo_Text_Steven4:
-	.string "Pass gut darauf auf. Wenn du\n"
-	.string "dich darum kümmerst, freut\l"
-	.string "mich das sehr.$"
+	.string "Troy: Trainiere es mit viel Liebe!\n"
+	.string "Du könntest mir keine größere Freude\l"
+	.string "machen, als es deinen Fähigkeiten\l"
+	.string "entsprechend zu trainieren!$"
 
 SaffronCity_SilphCo_EventScript_Receptionist::
 	msgbox SilphCo_Text_Receptionist, MSGBOX_NPC
@@ -153,8 +147,8 @@ SilphCo_Text_Sign2:
 	.string "FAHRSTUHL AUSSER BETRIEB.$"
 
 SilphCo_Text_Receptionist:
-	.string "Willkommen. Das\n"
-	.string "ist das BÜROGEBÄUDE der SILPH CO.$"
+	.string "Willkommen im Bürogebäude\n"
+	.string "der Silph Co.!$"
 
 SilphCo_Text_Officer:
 	.string "Nur das Personal\n"
@@ -164,5 +158,5 @@ SilphCo_Text_Officer:
 
 SilphCo_Text_Officer_GotUpGrade:
 	.string "Das ist das neueste Produkt\n"
-	.string "der SILPH CO. Das\l"
-	.string "gibt es noch nirgends zu kaufen.$"
+	.string "der Silph Co.! Das gibt es noch\l"
+	.string "nirgendwo zu kaufen!$"

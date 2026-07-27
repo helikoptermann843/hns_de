@@ -13,9 +13,10 @@ VermilionPortPassage_Text_Teacher:
 	.string "fährt immer mittwochs und sonntags.$"
 
 VermilionPort_Text_SuperNerd:
-	.string "Du kommst aus JOHTO?\p"
-	.string "Dort sollen viele\n"
-	.string "seltene Pokémon leben.$"
+	.string "Du kommst aus Johto?\p"
+	.string "Oh, toll!\n"
+	.string "Dort sollen viele seltene\l"
+	.string "Pokémon leben!$"
 
 VermilionPort_EventScript_Sailor::
 	lock

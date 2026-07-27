@@ -149,63 +149,64 @@ MrPokemonHouse_Movement_MrPokemon_Leave:
 
 MrPokemonHouse_Text_Intro1:
 	.string "Hallo! Du musst {PLAYER} sein.\p"
-	.string "PROF. LIND sagte,\n"
+	.string "Prof. Lind sagte,\n"
 	.string "dass du vorbeikommen würdest.$"
 
 MrPokemonHouse_Text_Intro2:
-	.string "PROF. LIND soll\n"
-	.string "das hier untersuchen.$"
+	.string "Das ist das Objekt, das Professor\n"
+	.string "Lind für mich untersuchen soll.$"
 
 MrPokemonHouse_Text_GotEgg:
 	.string "{PLAYER} erhält RÄTSEL-EI.$"
 
 MrPokemonHouse_Text_Intro3:
 	.string "Ich kenne ein Paar,\n"
-	.string "das eine Pokémon-PENSION leitet.\p"
-	.string "Sie gaben mir das EI.\p"
+	.string "das eine Pokémon-Pension leitet.\p"
+	.string "Sie gaben mir das Ei.\p"
 	.string "Ich war derart fasziniert,\n"
-	.string "dass ich PROF. LIND eine\l"
-	.string "E-Mail schrieb.\p"
+	.string "dass ich Prof. Lind eine\l"
+	.string "E-mail schrieb.\p"
 	.string "Was die Entwicklung von Pokémon\n"
-	.string "betrifft, ist PROF.LIND\l"
+	.string "betrifft, ist Prof.lind\l"
 	.string "wirklich genial.$"
 
 
 MrPokemonHouse_Text_Intro4:
-	.string "Sogar PROF. EICH schätzt ihn sehr.$"
+	.string "Sogar Prof. Eich schätzt ihn sehr.$"
 
 MrPokemonHouse_Text_Intro5:
 	.string "Ich gehe davon aus,\n"
-	.string "dass PROF. LIND mehr über\l"
+	.string "dass Prof. Lind mehr über\l"
 	.string "das EI weiß.$"
 
 MrPokemonHouse_Text_Heal:
-	.string "Du kehrst zu PROF.LIND zurück?\p"
-	.string "Hier. Deine POKéMON sollten\n"
-	.string "sich kurz ausruhen.$"
+	.string "Du gehst jetzt wieder zu Professor Lind\n"
+	.string "zurück, habe ich nicht recht?\p"
+	.string "Dann solltest du deinem Pokémon aber\n"
+	.string "vorher eine kurze Pause gönnen!$"
 
 MrPokemonHouse_Text_DependingOnYou:
 	.string "Ich verlasse mich auf dich!$"
 
 MrPokemonHouse_Text_AlwaysNewDiscoveries:
-	.string "Das Leben ist schön! Es gibt\n"
-	.string "immer etwas Neues zu entdecken!$"
+	.string "Das Leben ist schön! Es gibt immer\n"
+	.string "etwas Neues zu entdecken!$"
 
 MrPokemonHouse_Text_OakIntro:
-	.string "EICH: Aha! Du bist also {PLAYER}!\p"
-	.string "Mein Name ist PROF. EICH!\p"
+	.string "Eich: Aha! Du bist also {PLAYER}!\p"
+	.string "Mein Name ist Prof. Eich!\p"
 	.string "Ich bin von Beruf Pokémon-Forscher.\p"
 	.string "Ich besuche gerade\n"
-	.string "meinen alten Freund MR. Pokémon.\p"
+	.string "meinen alten Freund Mr. Pokémon.\p"
 	.string "Ich hörte, du sollst etwas für\n"
-	.string "PROF.LIND besorgen,\l"
+	.string "Prof.lind besorgen,\l"
 	.string "also habe ich gewartet.\p"
 	.string "Oh! Was ist das? Ein seltenes Pokémon!\p"
 	.string "Mal sehen…\p"
 	.string "Hm, ich verstehe!\p"
-	.string "Ich weiß, warum PROF. LIND dir ein\n"
+	.string "Ich weiß, warum Prof. Lind dir ein\n"
 	.string "Pokémon für die Besorgung gab.\p"
-	.string "Für Forscher wie PROF. LIND und\n"
+	.string "Für Forscher wie Prof. Lind und\n"
 	.string "mich sind Pokémon unsere Freunde.\p"
 	.string "Er erkannte, dass du deine Pokémon\n"
 	.string "liebevoll und umsichtig umsorgst.\p"
@@ -231,33 +232,35 @@ MrPokemonHouse_Text_OakParting:
 	.string "{PLAYER}, ich zähle auf dich!$"
 
 MrPokemonHouse_Text_GimmeTheScale:
-	.string "Hm? Diese HAUT!\n"
-	.string "Was ist das? Ein rotes GARADOS?\p"
-	.string "Das ist selten! Ich muss es haben…\p"
-	.string "{PLAYER}, möchtest du es tauschen?\p"
-	.string "Ich kann dir den EP-TEILER, den mir\n"
-	.string "PROF. EICH gegeben hat, anbieten.$"
+	.string "Hm? Diese Schuppe… kann das sein?\n"
+	.string "Ja! Die gehörte einem roten GARADOS!\p"
+	.string "Da… das nenne ich mal selten!\n"
+	.string "Ich muss sie haben!\p"
+	.string "{PLAYER}, würdest du sie mir\n"
+	.string "vielleicht im Tausch gegen diesen\l"
+	.string "EP-Teiler abtreten, den ich von\l"
+	.string "Professor Eich bekommen habe?$"
 
 MrPokemonHouse_Text_Disappointed:
-	.string "Wirklich schade!\n"
-	.string "Das gibt es nur selten.$"
+	.string "Oh, in Ordnung. Schade… dieses\n"
+	.string "Pokémon ist wirklich sehr selten…$"
 
 MrPokemonHouse_Text_ExpShare:
 	.string "Ich habe auch ein spezielles\n"
 	.string "Item für dich.$"
 
 MrPokemonHouse_Text_ForeignMagazines:
-	.string "Das sind ausländische Zeitungen.\p"
+	.string "Das sind Zeitungen aus aller Welt.\p"
 	.string "Ich kann die Schlagzeilen nicht lesen…$"
 
 MrPokemonHouse_Text_BrokenComputer:
-	.string "Dies ist ein großer Computer.\n"
-	.string "Hm, er ist kaputt.$"
+	.string "Das ist ein großer Computer.\n"
+	.string "Hm, er ist kaputt…$"
 
 MrPokemonHouse_Text_StrangeCoins:
-	.string "Ein ganzer Stapel seltsamer Münzen!\p"
-	.string "Vielleicht sind sie\n"
-	.string "aus einem anderen Land…$"
+	.string "Ein ganzer Stapel seltsamer Münzen!\n"
+	.string "Vielleicht stammen sie ja aus einem\l"
+	.string "anderen Land?$"
 
 MrPokemonHouse_Text_GotExpShare:
 	.string "{PLAYER} erhält EP-TEILER!$"

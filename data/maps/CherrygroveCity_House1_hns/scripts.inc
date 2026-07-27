@@ -18,15 +18,15 @@ CherrygroveCity_House1_EventScript_Kid::
 	end
 
 CherrygroveCity_GymSpeechHouse_Text_PokefanM:
-	.string "Du willst herausfinden, wie gut\n"
-	.string "du als Pokémon-Trainer bist?\p"
-	.string "Dann solltest du alle Pokémon-\n"
-	.string "ARENEN in JOHTO besuchen und\l"
-	.string "ORDEN sammeln.$"
+	.string "Möchtest du herausfinden, wie gut\n"
+	.string "du als Trainer wirklich bist?\p"
+	.string "Dann solltest du alle Pokémon-Arenen\n"
+	.string "in Johto aufsuchen und dir dort die\l"
+	.string "zugehörigen Orden erkämpfen!$"
 
 CherrygroveCity_GymSpeechHouse_Text_BugCatcher:
-	.string "Wenn ich älter bin, werde ich\n"
-	.string "ein ARENALEITER!\p"
-	.string "Ich lasse meine Pokémon gegen\n"
-	.string "die meiner Freunde kämpfen, um\l"
-	.string "sie stärker zu machen!$"
+	.string "Wenn ich mal groß bin, möchte ich\n"
+	.string "unbedingt Arenaleiter werden!\p"
+	.string "Ich lasse meine Pokémon jetzt schon\n"
+	.string "gegen die meiner Freunde antreten,\l"
+	.string "damit sie stärker werden!$"

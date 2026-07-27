@@ -189,115 +189,119 @@ TwoIsland_JoyfulGameCorner_EventScript_Lostelle::
 	end
 
 TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
-	.string "Now, where's LOSTELLE gotten to\n"
-	.string "today?\p"
-	.string "She always brings me lunch every\n"
-	.string "day right about now…$"
+	.string "Wo ist IRRMA heute?\p"
+	.string "Genau um diese Zeit bringt\n"
+	.string "sie mir immer mein Mittagessen…$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
-	.string "Hm? You, there!\n"
-	.string "Are you a friend of LOSTELLE's?\p"
-	.string "Have you seen LOSTELLE around?\n"
-	.string "I don't know where she might be.\l"
-	.string "She should've been here long ago.\p"
-	.string "LOSTELLE's a cutie - she got my\n"
-	.string "looks - so what if someone…\p"
-	.string "What if something's happened to\n"
-	.string "my LOSTELLE?!\p"
-	.string "Please, help me find her!\n"
-	.string "Please go search THREE ISLAND!$"
+	.string "Hm? Du da!\n"
+	.string "Bist du ein Freund von IRRMA?\p"
+	.string "Hast du IRRMA hier gesehen?\n"
+	.string "Ich weiß nicht, wo sie ist. Sie\l"
+	.string "sollte hier vor langer Zeit vorbei\l"
+	.string "gekommen sein.\l"
+	.string "IRRMA ist süß - sie sieht\l"
+	.string "mir ähnlich - was ist, wenn…\p"
+	.string "Was wäre, wenn meiner IRRMA\n"
+	.string "etwas zugestoßen ist?!?\p"
+	.string "Bitte hilf mir, sie zu finden!\n"
+	.string "Bitte suche auf EILAND DREI\l"
+	.string "nach ihr!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
-	.string "Hah? What is this GAME CORNER?\n"
-	.string "How much sadder can this get?\p"
-	.string "Those clowns…\p"
-	.string "They said they'd be waiting on the\n"
-	.string "island, so where are they?\p"
-	.string "Hey, you! Is this the only THREE\n"
-	.string "ISLAND around here?$"
+	.string "Häh? Das ist die SPIELHALLE?\n"
+	.string "Wie tief kann man noch sinken?\p"
+	.string "Diese Narren…\p"
+	.string "Sie sagten, sie würden auf der\n"
+	.string "Insel warten, also, wo sind sie?\p"
+	.string "Heh du! Ist das hier das einzige\n"
+	.string "EILAND DREI?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
-	.string "Try waking up before you crawl out\n"
-	.string "of bed, you punk.\p"
-	.string "This is TWO ISLAND!\p"
-	.string "Move it! Get your filthy motorbike\n"
-	.string "out of my place!$"
+	.string "Versuch aufzuwachen, bevor du aus\n"
+	.string "dem Bett kriechst, du Hallodri!\p"
+	.string "Das ist EILAND ZWEI!\p"
+	.string "Beweg dich und nimm\n"
+	.string "deine Dreckschleuder von\l"
+	.string "Motorrad mit!$"
 
 TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
-	.string "Huh…\n"
-	.string "Oh, oh, gotcha.\p"
-	.string "Tch…\n"
-	.string "These islands are confusing…$"
+	.string "Häh…\n"
+	.string "Oh, oh, hab dich!\p"
+	.string "Tss…\n"
+	.string "Diese Inseln sind verwirrend…$"
 
 TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
-	.string "Would you look at that?\n"
-	.string "That punk scuffed up my floor.$"
+	.string "Sieh dir das nur an!\n"
+	.string "Dieser Hallodri hat meinen\l"
+	.string "Teppich abgenutzt!$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
-	.string "Hey, but listen! I'm begging you,\n"
-	.string "you have to go to THREE ISLAND.\p"
-	.string "If anything were to happen to my\n"
-	.string "LOSTELLE…\p"
-	.string "My place is the house with the red\n"
-	.string "roof on THREE ISLAND.\p"
-	.string "She may just show up late here,\n"
-	.string "so I can't run off anywhere.\p"
-	.string "That's why I have to get you to do\n"
-	.string "me this big favor.$"
+	.string "Heh! Hör zu! Ich flehe dich an!\n"
+	.string "Geh nach EILAND DREI!\p"
+	.string "Falls meiner IRRMA etwas\n"
+	.string "zustößt…\p"
+	.string "Mein Haus auf EILAND DREI hat\n"
+	.string "ein rotes Dach!\p"
+	.string "Vielleicht taucht sie hier noch\n"
+	.string "auf, daher kann ich nicht weg!\p"
+	.string "Daher muss ich dich darum bitten!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
-	.string "I'm sorry.\n"
-	.string "We're not running any games today.$"
+	.string "Es tut mir Leid!\n"
+	.string "Heute gibt es hier keine Spiele!$"
 
 TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
-	.string "We'll get the games going soon\n"
-	.string "for you!$"
+	.string "Wir haben aber bald einige\n"
+	.string "Spielchen für dich!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-	.string "So you rescued LOSTELLE?\n"
-	.string "How can I thank you?\p"
-	.string "LOSTELLE, darling, forgive me!\p"
-	.string "Daddy didn't know you were scared\n"
-	.string "and in trouble!$"
+	.string "Du hast also IRRMA gerettet?\n"
+	.string "Wie kann ich dir danken?\p"
+	.string "IRRMA, Schnuckepuck,\n"
+	.string "verzeih mir!\l"
+	.string "Papsi wusste nicht, dass du Angst\l"
+	.string "und Probleme hattest!$"
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
-	.string "LOSTELLE: It's okay, Daddy.\n"
-	.string "I got to be friends with {PLAYER}!$"
+	.string "IRRMA: Ist schon gut, Papsi!\n"
+	.string "Ich habe mich mit {VAR}\l"
+	.string "angefreundet!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
-	.string "Oh, what's that?\n"
-	.string "You're saying that this is for me?\p"
-	.string "How did you know that I love rare\n"
-	.string "rocks and gems?\p"
-	.string "You sure know how to make a guy\n"
-	.string "happy.$"
+	.string "Oh, was ist das?\n"
+	.string "Das ist für mich?\p"
+	.string "Woher wusstest du, dass ich seltene\n"
+	.string "Gesteine liebe?\p"
+	.string "Du weißt, wie man einen Kerl\n"
+	.string "glücklich macht!$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
 	.string "{PLAYER} handed the METEORITE\n"
 	.string "to LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-	.string "Oh, I see, this is from BILL!\n"
-	.string "You have to thank him for me!\p"
-	.string "You know, you've been fantastic.\n"
-	.string "I want you to have this.$"
+	.string "Oh, das ist von BILL!\n"
+	.string "Richte ihm meinen Dank aus!\p"
+	.string "Du warst einfach fantastisch!\n"
+	.string "Das ist für dich!$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
 	.string "{PLAYER} received a MOON STONE\n"
 	.string "from LOSTELLE's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
-	.string "Your BAG's not going to fit another\n"
-	.string "thing…$"
+	.string "In deinem BEUTEL ist leider\n"
+	.string "kein Platz mehr…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
-	.string "All right, I'll get the GAME CORNER\n"
-	.string "running right away.\p"
-	.string "You have to come visit with a\n"
-	.string "friend.$"
+	.string "O.K. Die Spielhalle ist gleich\n"
+	.string "geöffnet.\p"
+	.string "Bringe einen Freund zum\n"
+	.string "Spielen mit!$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
-	.string "Listen, listen!\p"
-	.string "Please show me you being cool\n"
-	.string "again!$"
+	.string "Hör zu!\p"
+	.string "Bitte zeig mir erneut, wie cool\n"
+	.string "du bist!$"
 

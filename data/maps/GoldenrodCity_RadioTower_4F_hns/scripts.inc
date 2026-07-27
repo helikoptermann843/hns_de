@@ -88,53 +88,55 @@ GoldenrodCity_RadioTower_4F4_EventScript_Meowth::
 
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
-	.string "Lance: Moment mal!\p"
-	.string "Du bist doch derjenige, der uns am\n"
-	.string "Flegmon-Brunnen in die Quere kam!\p"
-	.string "Aha… Du tust all das nur, um mich\n"
-	.string "wütend zu machen.\p"
-	.string "Aber gut… Wenn du es unbedingt\n"
-	.string "darauf anlegst,\p"
-	.string "zeige ich dir den ganzen Zorn eines\n"
-	.string "TEAM-ROCKET-VORSTANDS!$"
+	.string "Lance: Halt!\p"
+	.string "…Ach? Dich kenne ich doch aus\n"
+	.string "dem FLEGMON-Brunnen? Dort hast du\l"
+	.string "unsere Pläne schon einmal vereitelt…\p"
+	.string "Ah, verstehe… du legst es wohl darauf\n"
+	.string "an, unseren Zorn zu provozieren?\p"
+	.string "Nun gut, ganz wie du willst.\n"
+	.string "Spüre die Rache eines Vorstands-\l"
+	.string "mitglieds von Team Rocket!$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Beaten:
 	.string "Puh…$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_After:
-	.string "Lance: Diesmal hast du\n"
-	.string "vielleicht gewonnen…\p"
-	.string "Aber du hast nur den Zorn von\n"
-	.string "TEAM ROCKET geschürt.$"
+	.string "Lance: Mich magst du besiegt haben…\n"
+	.string "Doch im Endeffekt ziehst du damit bloß\l"
+	.string "den Zorn von Team Rocket auf dich!$"
 
 GoldenrodCity_RadioTower_4F4_Text_Fisher:
-	.string "Als ich in den Ruinen war\n"
-	.string "hörte ich eine seltsame Radiosendung.$"
+	.string "Als ich bei den Ruinen mein Radio\n"
+	.string "angeschaltet habe, kamen sehr seltsame\l"
+	.string "Signale aus den Lautsprechern.$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMary:
-	.string "Margit: Warum? Warum muss ich so\n"
-	.string "etwas durchmachen?\p"
-	.string "Mauzi, hilf mir!$"
+	.string "Margit: Oh nein, wie konnte ich bloß in\n"
+	.string "so einen Schlamassel geraten?\p"
+	.string "Hilf mir, MAUZI! Hilf mir!$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryCleared:
-	.string "Margit: Oh! Mein kleiner Retter!\p"
-	.string "Nimm das als Dankeschön!$"
+	.string "Margit: Du bist der Trainer, der\n"
+	.string "mich gerettet hat, stimmt's?\p"
+	.string "Hier, nimm!\n"
+	.string "Das ist ein Zeichen meines Dankes!$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryPinkBow:
 	.string "Margit: Damit kannst du den Attacken\n"
 	.string "des Gegners besser ausweichen.$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryAfter:
-	.string "Margit: Hör unbedingt bei PROF.\n"
-	.string "EICHs Pokémon-TALK rein!$"
+	.string "Margit: Und hör dir den Pokémon-Talk\n"
+	.string "mit Prof. Eich und mir im Radio an, ja?$"
 
 GoldenrodCity_RadioTower_4F4_Text_Meowth:
-	.string "Mauzi: Mauzi…$"
+	.string "MAUZI: …Mauz!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Seen:
-	.string "Du willst den INTENDANTEN retten?\p"
-	.string "Das wird dir nicht gelingen, denn\n"
-	.string "ich werde dich besiegen!$"
+	.string "Du hast vor, den Intendanten zu\n"
+	.string "retten? Das kannst du dir abschminken,\l"
+	.string "denn ich werde dich besiegen!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Beaten:
 	.string "Nein! Unglaublich!$"
@@ -164,28 +166,29 @@ GoldenrodCity_RadioTower_4F4_Text_GruntF4Seen:
 	.string "wenn sie deine besiegt haben!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Beaten:
-	.string "Oh nein! Sie sind so nutzlos!$"
+	.string "Tse!\n"
+	.string "Was ein nutzloser Haufen!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4After:
 	.string "Ich liebe mich selbst!\p"
 	.string "Wen interessieren Pokémon?$"
 
 GoldenrodCity_RadioTower_4F4_Text_ScientistRichSeen:
-	.string "Ausgezeichnet.\p"
-	.string "Dieser Radioturm wird unseren\n"
-	.string "großen Plan erfüllen.$"
+	.string "Exzellent.\p"
+	.string "Mit dem Radioturm können wir\n"
+	.string "unser Vorhaben in die Tat umsetzen.$"
 
 GoldenrodCity_RadioTower_4F4_Text_ScientistRichBeaten:
-	.string "Hmmm…\p"
-	.string "Jeder große Plan hat seine\n"
-	.string "Schwierigkeiten.$"
+	.string "Hmmm…\n"
+	.string "Jeder große Plan\l"
+	.string "hat wohl einen Haken.$"
 
 GoldenrodCity_RadioTower_4F4_Text_ScientistRichAfter:
-	.string "Glaubst du wirklich, du kannst\n"
-	.string "TEAM ROCKET aufhalten?$"
+	.string "Glaubst du allen Ernstes, Team\n"
+	.string "Rocket aufhalten zu können?$"
 
 GoldenrodCity_RadioTower_4F4_Text_ProductionSign:
-	.string "3S PRODUKTION$"
+	.string "3S: Produktion$"
 
 GoldenrodCity_RadioTower_4F4_Text_Studio2Sign:
 	.string "3S STUDIO 2$"

@@ -127,13 +127,13 @@ MagmaHideout_4F_EventScript_Tabitha::
 
 MagmaHideout_4F_Text_Grunt11Intro:
 	.string "Ich würde so gerne einen Blick auf\n"
-	.string "GROUDON werfen, aber ich darf nicht\n"
+	.string "Groudon werfen, aber ich darf nicht\n"
 	.string "mal\l"
 	.string "einen Blick auf seinen Schweif werfen.\n"
 	.string "\p"
 	.string "Das frustriert mich total.\p"
 	.string "Oh, nein!\n"
-	.string "Ich klatsche hier über GROUDON!$"
+	.string "Ich klatsche hier über Groudon!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat:
 	.string "Wenn der Verstand durch andere Dinge\n"
@@ -141,7 +141,7 @@ MagmaHideout_4F_Text_Grunt11Defeat:
 	.string "zu gewinnen…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle:
-	.string "Ich frage mich, ob GROUDON überhaupt\n"
+	.string "Ich frage mich, ob Groudon überhaupt\n"
 	.string "einen Schweif hat?$"
 
 MagmaHideout_4F_Text_Grunt12Intro:
@@ -154,7 +154,7 @@ MagmaHideout_4F_Text_Grunt12Defeat:
 	.string "Ich bin so weit gekommen und nun das?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MARC, Sir!\n"
+	.string "Marc, Sir!\n"
 	.string "Ein Eindringling ist auf dem Weg!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
@@ -174,8 +174,8 @@ MagmaHideout_4F_Text_TabithaIntro:
 	.string "daher\l"
 	.string "verrate ich dir etwas!\p"
 	.string "Es stimmt!\n"
-	.string "Dort drüben schläft GROUDON!\p"
-	.string "MARC ist vor ein paar Sekunden zu ihm\n"
+	.string "Dort drüben schläft Groudon!\p"
+	.string "Marc ist vor ein paar Sekunden zu ihm\n"
 	.string "gegangen!\p"
 	.string "Es wird bald erwachen!\n"
 	.string "Hähä! Hähähähä!$"
@@ -186,8 +186,8 @@ MagmaHideout_4F_Text_TabithaDefeat:
 
 MagmaHideout_4F_Text_TabithaPostBattle:
 	.string "Und während du deine Zeit mit mir\n"
-	.string "verschwendest… sollte MARC\l"
-	.string "GROUDON aufgeweckt haben…$"
+	.string "verschwendest… sollte Marc\l"
+	.string "Groudon aufgeweckt haben…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "MARC: GROUDON…\p"
@@ -218,7 +218,7 @@ MagmaHideout_4F_Text_MaxieOhItWasYou:
 
 MagmaHideout_4F_Text_MaxieDefeat:
 	.string "Wie kommt es, dass du so gut mit\n"
-	.string "POKéMON umgehen kannst?$"
+	.string "Pokémon umgehen kannst?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
 	.string "MARC: Es muss einen Grund geben, warum\n"

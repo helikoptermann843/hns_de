@@ -18,27 +18,26 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 	end
 
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-	.string "We nicknamed the WARDEN\n"
-	.string "“SLOWPOKE.”\p"
-	.string "You know, he has that vacant look\n"
-	.string "like a SLOWPOKE.$"
+	.string "Der WÄRTER trägt den Spitznamen\n"
+	.string "FLEGMON.\p"
+	.string "Er und FLEGMON ähneln sich sehr!$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-	.string "WARDEN SLOWPOKE is very\n"
-	.string "knowledgeable about POKéMON.\p"
-	.string "He even has some fossils of rare,\n"
-	.string "extinct POKéMON.$"
+	.string "Mein Mann tauscht für sein Leben\n"
+	.string "gern POKéMON.\p"
+	.string "Bist du auch ein Sammler? Würdest\n"
+	.string "du bitte POKéMON mit ihm tauschen?$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-	.string "WARDEN SLOWPOKE came in, but\n"
-	.string "I couldn't understand him.\p"
-	.string "I think he's got a speech problem!$"
+	.string "Hallo!\p"
+	.string "Willst du dein {VAR} nicht\n"
+	.string "gegen ein {VAR} tauschen?$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-	.string "WARDEN SLOWPOKE is running a\n"
-	.string "promotion campaign right now.\p"
-	.string "Try to get to the farthest corner\n"
-	.string "of the SAFARI ZONE.\p"
-	.string "If you can make it, you'll win a\n"
-	.string "very convenient prize.$"
+	.string "FLEGMON hält zur Zeit eine\n"
+	.string "Werbekampagne.\p"
+	.string "Erreiche die abgelegenste\n"
+	.string "Stelle in der SAFARI-ZONE.\p"
+	.string "Wenn du das schaffst, erhältst\n"
+	.string "du einen praktischen Preis!$"
 

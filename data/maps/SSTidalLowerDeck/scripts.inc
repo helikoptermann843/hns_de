@@ -21,7 +21,7 @@ SSTidalLowerDeck_Text_PhillipDefeat:
 	.string "Brüderchen, ich habe verloren!$"
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
-	.string "Wir sind die GEBRÜDER SAUBERMANN!\p"
+	.string "Wir sind die Gebrüder Saubermann!\p"
 	.string "Der Ältere verteilt die Schmierseife\n"
 	.string "und der Jüngere schrubbt das Deck!$"
 
@@ -29,13 +29,13 @@ SSTidalLowerDeck_Text_LeonardIntro:
 	.string "Dies ist der untere Bereich des\n"
 	.string "Schiffs.\n"
 	.string "Hier gibt es sehr viel Platz.\l"
-	.string "Genau richtig für einen POKéMON-Kampf.$"
+	.string "Genau richtig für einen Pokémon-Kampf.$"
 
 SSTidalLowerDeck_Text_LeonardDefeat:
 	.string "Oh, großer Bruder. Ich habe verloren.$"
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
-	.string "Wir sind die GEBRÜDER SAUBERMANN!\p"
+	.string "Wir sind die Gebrüder Saubermann!\p"
 	.string "Der Ältere verteilt die Schmierseife\n"
 	.string "und der Jüngere schrubbt das Deck!$"
 

@@ -48,9 +48,9 @@ BurnedTower_Movement_Eusine2:
 
 
 BurnedTower_1FEusineIntroText:
-	.string "EUSIN: Mein Name ist Eusin.\p"
+	.string "Eusin: Mein Name ist Eusin.\p"
 	.string "Ich bin auf der Spur eines\n"
-	.string "POKéMON namens Suicune.\p"
+	.string "Pokémon namens Suicune.\p"
 	.string "Und du bist...?\p"
 	.string "{PLAYER}? Schön dich kennenzulernen!\p"
 	.string "Ich habe gehört, Suicune könnte\n"
@@ -166,9 +166,9 @@ BurnedTowerSilver_WinText:
 	.string "Wie armselig.$"
 
 BurnedTowerSilver_AfterText1:
-	.string "...Ach, egal.\p"
-	.string "Du wärst sowieso nicht fähig,\n"
-	.string "ein legendäres POKéMON zu fangen.$"
+	.string "{PLAYER}: …Ach egal.\p"
+	.string "Du schaffst es sowieso nie, dir ein\n"
+	.string "Legendäres Pokémon zu schnappen!$"
 
 BurnedTowerSilver_LossText:
 	.string "...Humph!\p"
@@ -192,23 +192,22 @@ BurnedTower_1F_EventScript_Richardo::
 	end
 
 BurnedTower_Text_NardSeen:
-	.string "Keine Sorge!\p"
-	.string "Wir Feuerspucker kennen die wahre\n"
-	.string "Stärke von Feuer besser als alle\l"
-	.string "anderen!$"
+	.string "He, keine Panik, Junior!\n"
+	.string "Wenn jemand weiß, wie gefährlich es ist,\l"
+	.string "mit Feuer zu spielen,\l"
+	.string "dann sind das wir Feuerspucker!$"
 BurnedTower_Text_NardBeaten:
-	.string "Danke für den hitzigen Kampf!$"
+	.string "Danke für den heißen Kampf.$"
 BurnedTower_Text_NardAfter:
-	.string "Der Grund, warum dieser Turm verbrannt\n"
-	.string "ist, ist, dass er vom\l"
-	.string "Blitz getroffen wurde\p"
-	.string "Mein Feuer ist im Vergleich dazu\n"
-	.string "winzig...$"
+	.string "Dieser Turm ist durch einen\n"
+	.string "Blitzschlag abgebrannt.\p"
+	.string "Dagegen sind unsere Flammen\n"
+	.string "bloß heiße Luft…$"
 
 BurnedTower_Text_RichardoSeen:
-	.string "Ich übe das Stehlen in der\n"
-	.string "Turmruine! Versuch das nicht\l"
-	.string "Zuhause!$"
+	.string "Ich übe in der Turmruine\n"
+	.string "das Feuerspucken!\l"
+	.string "Macht das nicht zu Hause nach, Kinder!$"
 BurnedTower_Text_RichardoBeaten:
 	.string "Pfffffffffffffff.$"
 BurnedTower_Text_RichardoAfter:

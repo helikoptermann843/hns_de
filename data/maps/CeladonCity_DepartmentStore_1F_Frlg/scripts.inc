@@ -14,19 +14,19 @@ CeladonCity_DepartmentStore_1F_EventScript_FloorSign::
 	end
 
 CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
-	.string "Hello!\n"
-	.string "Welcome to CELADON DEPT. STORE.\p"
-	.string "The board on the right describes\n"
-	.string "the store layout.$"
+	.string "Willkommen im EINKAUFSZENTRUM von\n"
+	.string "PRISMANIA CITY!\p"
+	.string "Auf der Tafel rechts findest du\n"
+	.string "eine Übersicht.$"
 
 CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
-	.string "1F: SERVICE COUNTER\p"
-	.string "2F: TRAINER'S MARKET\p"
-	.string "3F: TV GAME SHOP\p"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "5F: DRUGSTORE\p"
-	.string "ROOFTOP SQUARE: VENDING MACHINES$"
+	.string "EG: KUNDENINFORMATION\p"
+	.string "1S: ZUBEHÖR FÜR TRAINER\p"
+	.string "2S: VIDEOSPIELE-SHOP\p"
+	.string "3S: GESCHENKARTIKEL\p"
+	.string "4S: DROGERIE\p"
+	.string "DACHGARTEN: AUTOMATEN$"
 
 CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
-	.string "1F: SERVICE COUNTER$"
+	.string "EG: KUNDENINFORMATION$"
 

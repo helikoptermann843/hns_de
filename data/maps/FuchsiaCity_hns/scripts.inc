@@ -20,7 +20,7 @@ FuchsiaCity_EventScript_BaobaCall::
 	end
 
 FuchsiaCity_Text_BaobaName:
-	.string "BAOBA$"
+	.string "Baoba$"
 
 FuchsiaCity_Text_Baoba:
 	.string "AUFSEHER Baoba: {PLAYER}!\p"
@@ -101,14 +101,13 @@ FuchsiaCity_EventScript_SafariZone::
 	end
 
 FuchsiaCity_Text_Youngster:
-	.string "Einer der TOP VIER war früher einmal\p"
-	.string "der ARENALEITER in FUCHSANIA CITY.$"
+	.string "Einer der Top Vier war früher einmal\n"
+	.string "der Arenaleiter von Fuchsania City!$"
 
 FuchsiaCity_Text_PokefanM:
-	.string "KOGAs Tochter ist\n"
-	.string "jetzt ARENALEITERIN, nachdem\p"
-	.string "ihr Vater den TOP\n"
-	.string "VIER beigetreten ist.$"
+	.string "Die Tochter von Koga, einem der\n"
+	.string "Top Vier, hat es hier bis zur\l"
+	.string "Arenaleiterin gebracht!$"
 
 FuchsiaCity_Text_Teacher:
 	.string "Schade, dass die SAFARI-ZONE\p"
@@ -121,9 +120,9 @@ FuchsiaCity_Text_Sign:
 	.string "Sieh nur! Die Rosarote Lieblichkeit!$"
 
 FuchsiaCity_Text_GymSign:
-	.string "Fuchsania City Pokémon Arena\n"
-	.string "Leiter: Janina\p"
-	.string "Giftige Ninja-Meisterin$"
+	.string "Pokémon-Arena von Fuchsania City\n"
+	.string "Leiterin: Janina\l"
+	.string "Die giftige Ninja-Meisterin$"
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
 	.string "Hier ist eine Notiz…\p"

@@ -47,10 +47,11 @@ BlackthornCity_Text_BaobaCall:
 	.string "bitte komm vorbei!$"
 
 BlackthornCity_Text_ElmCall:
-	.string "PROF. Lind: Hallo, {PLAYER}?\p"
-	.string "Ich habe hier etwas für dich\n"
-	.string "Kommst du zu meinem Labor?\p"
-	.string "Bis Später!$"
+	.string "Hallo, {PLAYER}?\p"
+	.string "Professor Eich hat mir etwas\n"
+	.string "für dich mitgegeben.\p"
+	.string "Komm doch mal im Labor vorbei.\n"
+	.string "Ich zähle auf dich!$"
 
 BlackThornCity_EventScript_Sage::
 	lock
@@ -186,22 +187,20 @@ BlackthornCity_Text_ClairNotReady:
 	.string "die bereits 7 ORDEN besitzen.$"
 
 BlackthornCity_Text_ClairIsIn:
-	.string "Sandra, unsere Arenaleiterin, wartet\n"
-	.string "auf dich.\p"
-	.string "Für einen gewöhnlichen Trainer wäre es\n"
-	.string "jedoch unmöglich zu gewinnen.$"
+	.string "Sandra, unsere Arenaleiterin,\n"
+	.string "erwartet dich bereits.\p"
+	.string "Aber ein mittelmäßiger Trainer\n"
+	.string "könnte sie niemals besiegen!$"
 
 BlackthornCity_Text_ClairIsBeaten:
-	.string "Du hast Sandra besiegt?\p"
-	.string "Unglaublich!\p"
-	.string "Ich habe noch nie gehört,\n"
-	.string "dass sie gegen jemanden\l"
-	.string "außer Siegfried verloren hat.$"
+	.string "Du hast Sandra besiegt? Unglaublich!\p"
+	.string "Außer Siegfried ist es noch niemandem\n"
+	.string "gelungen, gegen sie zu gewinnen!$"
 
 BlackthornGrampsRefusesEntryText:
-	.string "Nein. Nur wüdige dürfen\n"
+	.string "Nein. Nur auserwählte Trainer dürfen\n"
 	.string "hier trainieren.\p"
-	.string "Bitte geh.$"
+	.string "Ich muss dich bitten, wieder zu gehen.$"
 
 BlackthornGrampsGrantsEntryText:
 	.string "Wenn Sandra es erlaubt,\n"
@@ -209,12 +208,12 @@ BlackthornGrampsGrantsEntryText:
 	.string "Meister ebenfalls tun. Tritt ein.$"
 
 BlackBeltText_VoicesInMyHead:
-	.string "Arooo! Stimmen in meinem Kopf!\p"
-	.string "Huh? Ich höre nur Radio!$"
+	.string "Aruuu! Stimmen in meinem Kopf!\p"
+	.string "Oh… ich höre ja bloß Radio!$"
 
 BlackthornCooltrainerF1Text:
-	.string "Wirst du deine POKéMON\n"
-	.string "Attacken erinnern lassen?$"
+	.string "Oh, sag mal, lässt du deine Pokémon\n"
+	.string "auch manchmal Attacken vergessen?$"
 
 BlackthornYoungsterText:
 	.string "Ebenholz-City ist berühmt für\n"
@@ -243,21 +242,23 @@ BlackthornCity_SantosNopeText:
 	.string "SAMSON: Ne.$"
 
 BlackthornCooltrainerF2Text:
-	.string "Wow, du kamst durch den Eispfad?\p"
-	.string "Du musst ein super Trainer sein!$"
+	.string "Wow, du bist über den Eispfad gekommen!\n"
+	.string "Dann musst du ein extrem talentierter\l"
+	.string "Trainer sein!$"
 
 BlackthornCitySignText:
-	.string "EBENHOLZ-CITY\p"
-	.string "Erholungsort in den Bergen.$"
+	.string "Ebenholz City\n"
+	.string "Ein ruhiger Ort in den Bergen$"
 
 BlackthornGymSignText:
-	.string "EBENHOLZ-CITY POKéMON ARENA\n"
-	.string "LEITER: SANDRA\p"
-	.string "Die gesegnete Drachenmeisterin.$"
+	.string "Pokémon-Arena von Ebenholz City\n"
+	.string "Leiterin: Sandra\l"
+	.string "Ein gesegneter Drachenprofi!$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
 	.string "ATTACKEN-VERLERNER HAUS$"
 
 BlackthornCity_Text_DragonDenSign:
-	.string "DRACHENHÖHLE VORAUS$"
+	.string "Drachenhöhle\n"
+	.string "Geradeaus$"
 

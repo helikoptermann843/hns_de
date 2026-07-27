@@ -140,28 +140,31 @@ Route39_Text_ChooseLegend::
 	.string "Ich konnte die Farbe nicht erkennen...$"
 
 Route39_Text_BaobaIntro::
-	.string "Hmm komisch...\p"
-	.string "...Ohh!\n"
-	.string "Was du da hast...\l"
-	.string "nennen sie... POKéDEX!\p"
-	.string "Ich habe ewig keinen gesehen.\p"
-	.string "Ich bin BAOBA!\n"
-	.string "Ich war mal Wärter der\l"
-	.string "SAFARIZONE in FUCHSANIA CITY.\p"
-	.string "Aber die geht leider nicht mehr\n"
-	.string "mit der Zeit, und ich wollte\l"
-	.string "erstmal verreisen um die\p"
-	.string "neuesten Technologien in dem\n"
-	.string "Bereich zu lernen.\p"
-	.string "Wieso tauschen wir nicht unsere\n"
-	.string "Nummern im POKéCOM aus?\p"
-	.string "Ich arbeite jetzt in der SAFARI in\n"
-	.string "Anemonia, ich kann dich anrufen\l"
-	.string "sobald sie öffnet!$"
+	.string "Baoba: …Sehe ich richtig?\n"
+	.string "Dieses Ding, das du da bei dir trägst,\l"
+	.string "ist doch ein Pokédex, oder?\p"
+	.string "Ach ja, da werden Erinnerungen wach!\p"
+	.string "Mein Name ist Baoba!\p"
+	.string "Bis vor Kurzem habe ich noch die Safari\n"
+	.string "in Fuchsania City geleitet. Aber es\l"
+	.string "tauchten immer neue Parks auf und \l"
+	.string "irgendwann blieb meine Safari-Zone\l"
+	.string "hinter der Konkurrenz zurück.\p"
+	.string "Also ergriff ich die Initiative!\n"
+	.string "Ich eignete mir im Ausland einige\l"
+	.string "neue Kniffe an und entschied mich,\l"
+	.string "in Anemonia City eine neue Safari\l"
+	.string "zu eröffnen!\p"
+	.string "Dass wir zwei uns hier kennenlernen,\n"
+	.string "ist bestimmt Schicksal!\p"
+	.string "Wenn das mal kein guter Grund dafür ist,\n"
+	.string "Telefonnummern auszutauschen, was?\p"
+	.string "Wenn die Safari-Zone eröffnet wird,\n"
+	.string "bist du der Erste, der davon erfährt!$"
 
 Route39_Text_Registered:
-	.string "{PLAYER} registriert Baoba\n"
-	.string "im POKéCOM!$"
+	.string "{PLAYER} hat Baobas Nummer\n"
+	.string "im Pokécom registriert!$"
 
 
 Route39_Text_WillCall:
@@ -230,7 +233,7 @@ Route39_EventScript_Miltank::
 	end
 
 Route39_Text_Miltank:
-	.string "MILTANK: Muh!$"
+	.string "MILTANK: Miiillltank!$"
 
 Route39_EventScript_Eugene::
 	trainerbattle_single TRAINER_EUGENE_HNS, Route39_Text_SailorEugeneSeen, Route39_Text_SailorEugeneBeaten
@@ -238,13 +241,11 @@ Route39_EventScript_Eugene::
 	end
 
 Route39_Text_SailorEugeneSeen:
-	.string "Ich bin gerade wieder in\n"
-	.string "OLIVIANA angekommen.\p"
-	.string "Wie steht es nun\n"
-	.string "mit dem PokémonKampf?$"
+	.string "Ich war lange nicht in Oliviana City.\n"
+	.string "Wie steht es mit dem Pokémon-Kampf?$"
 
 Route39_Text_SailorEugeneBeaten:
-	.string "Aah!$"
+	.string "Aaah!$"
 
 Route39_Text_SailorEugeneAfter:
 
@@ -290,17 +291,17 @@ Route39_EventScript_Ruth::
 	end
 
 Route39_Text_PokefanFRuthSeen:
-	.string "Was für süße Pokémon!\p"
-	.string "Zeigen wir uns gegenseitig\n"
-	.string "unsere Pokémon, und zwar\l"
-	.string "gleichzeitig!$"
+	.string "Zeigst du mir dein Pokémon-Team, zeige\n"
+	.string "ich dir meins! Aber nur gleichzeitig!$"
 
 Route39_Text_PokefanFRuthBeaten:
-	.string "Mir macht es nichts aus, zu verlieren.$"
+	.string "Mir macht es nichts aus\n"
+	.string "zu verlieren.$"
 
 Route39_Text_PokefanFRuthAfter:
-	.string "Kennst du Baby-Pokémon?\n"
-	.string "Sie sind unfassbar süß!$"
+	.string "Hast du schon mal ein Baby-Pokémon\n"
+	.string "gesehen?\l"
+	.string "Die sind bestimmt super-süß!$"
 
 Route39_EventScript_Norman::
 	trainerbattle_single TRAINER_NORMAN_HNS, Route39_Text_PsychicNormanSeen, Route39_Text_PsychicNormanBeaten
@@ -308,14 +309,18 @@ Route39_EventScript_Norman::
 	end
 
 Route39_Text_PsychicNormanSeen:
-	.string "Zeig doch mal, was\n"
-	.string "deine Pokémon drauf haben.$"
+	.string "Zeig doch mal, was dein Pokémon-Team\n"
+	.string "so drauf hat.$"
 
 Route39_Text_PsychicNormanBeaten:
-	.string "He, deine Pokémon sind sehr fähig!$"
+	.string "Nicht schlecht! Dein Team\n"
+	.string "hat viel Talent!$"
 
 Route39_Text_PsychicNormanAfter:
-	.string "He, deine Pokémon sind sehr fähig!$"
+	.string "Jedes Pokémon hat unterschiedliche\n"
+	.string "Fähigkeiten.\p"
+	.string "Bei Menschen ist das ganz ähnlich. Jeder\n"
+	.string "hat unterschiedliche Talente.$"
 
 Route39_EventScript_Jamie::
 	trainerbattle_single TRAINER_JAMIE_HNS, Route39_Text_PokefanFJaimeSeen, Route39_Text_PokefanFJaimeBeaten
@@ -327,7 +332,7 @@ Route39_Text_PokefanFJaimeSeen:
 	.string "Auf in den Kampf.$"
 
 Route39_Text_PokefanFJaimeBeaten:
-	.string "Oh, wie ernüchternd…$"
+	.string "Oh, was für eine Enttäuschung.$"
 
 Route39_Text_PokefanFJaimeAfter:
 	.string "Oh, menno…$"
@@ -351,8 +356,9 @@ Route39_EventScript_Sign2::
 	end
 
 Route39_Text_MoomooFarmSign:
-	.string "Kuhmuh-Farm\p"
-	.string "Genießt unsere leckere Milch!$"
+	.string "Kuhmuh-Farm\n"
+	.string "Hier wartet immer ein Glas frische\l"
+	.string "und bekömmliche Milch auf dich!$"
 
 Route39_EventScript_Sign3::
 	lock
@@ -362,13 +368,12 @@ Route39_EventScript_Sign3::
 	end
 
 Route39_Text_TrainerTips:
-	.string "TIPPS für TRAINER Benutze KOPFNUSS,\n"
-	.string "um Pokémon aus den Bäumen\l"
-	.string "zu schütteln.\p"
-	.string "Auf den Bäumen leben verschiedene\n"
-	.string "Arten von Pokémon.\p"
-	.string "Benutze KOPFNUSS an jedem\n"
-	.string "Baum, den du siehst!$"
+	.string "Tipps für Trainer\p"
+	.string "Benutze Kopfnuss, um Pokémon aus\n"
+	.string "Bäumen zu schütteln. Von jedem Baum\l"
+	.string "könnte ein anderes Pokémon purzeln!\p"
+	.string "Probiere Kopfnuss also an möglichst\n"
+	.string "vielen verschiedenen Bäumen aus!$"
 
 Route39_Text_DerekRegister:
     .string "Ich höre mir deine Angeberei\n"

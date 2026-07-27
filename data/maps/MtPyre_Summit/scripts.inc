@@ -422,12 +422,12 @@ MtPyre_Summit_EventScript_Grunt4::
 	end
 
 MtPyre_Summit_Text_Grunt1Intro:
-	.string "Nein! Die Idioten von TEAM MAGMA waren\n"
+	.string "Nein! Die Idioten von Team Magma waren\n"
 	.string "vor uns hier!\p"
 	.string "Wir müssen sie einholen!$"
 
 MtPyre_Summit_Text_Grunt1Defeat:
-	.string "Ich dachte, du würdest zu TEAM MAGMA\n"
+	.string "Ich dachte, du würdest zu Team Magma\n"
 	.string "gehören und wärest nochmal\l"
 	.string "zurückgekommen.$"
 
@@ -439,14 +439,14 @@ MtPyre_Summit_Text_Grunt2Intro:
 	.string "Hah! Pech für dich!\p"
 	.string "Wärest du eher hier gewesen, hättest\n"
 	.string "du\n"
-	.string "nur gegen das weinerliche TEAM MAGMA\l"
+	.string "nur gegen das weinerliche Team Magma\l"
 	.string "antreten müssen.\p"
 	.string "Aber jetzt muss du gegen unsere Stärke\n"
 	.string "antreten.$"
 
 MtPyre_Summit_Text_Grunt2Defeat:
-	.string "Argh… Ich hätte dich erst gegen TEAM\n"
-	.string "MAGMA kämpfen lassen sollen…$"
+	.string "Argh… Ich hätte dich erst gegen Team\n"
+	.string "Magma kämpfen lassen sollen…$"
 
 MtPyre_Summit_Text_Grunt2PostBattle:
 	.string "Du weißt doch gar nichts! Misch dich\n"
@@ -454,30 +454,30 @@ MtPyre_Summit_Text_Grunt2PostBattle:
 
 MtPyre_Summit_Text_Grunt3Intro:
 	.string "Hey…\n"
-	.string "Ich kenne dich doch vom SCHLOTBERG!\p"
-	.string "Du gehörst keinem TEAM an. Warum bist\n"
+	.string "Ich kenne dich doch vom Schlotberg!\p"
+	.string "Du gehörst keinem Team an. Warum bist\n"
 	.string "du hier?$"
 
 MtPyre_Summit_Text_Grunt3Defeat:
 	.string "Wenn du dich schon in fremde Ange-\n"
 	.string "legenheiten einmischen musst, dann\l"
-	.string "mach das bei TEAM MAGMA!$"
+	.string "mach das bei Team Magma!$"
 
 MtPyre_Summit_Text_Grunt3PostBattle:
 	.string "Ach, das spielt keine Rolle.\n"
 	.string "Wir haben Zeit herausgeschlagen!\p"
-	.string "Der BOSS müsste mittlerweile haben,\n"
+	.string "Der Boss müsste mittlerweile haben,\n"
 	.string "was er besorgen wollte!$"
 
 MtPyre_Summit_Text_Grunt4Intro:
 	.string "Ach, ich weiß!\n"
-	.string "Du wolltest Mitglied bei TEAM MAGMA\l"
+	.string "Du wolltest Mitglied bei Team Magma\l"
 	.string "werden, aber die wollten dich nicht!\p"
 	.string "Denk nur nicht, dass du Mitglied bei\n"
-	.string "TEAM AQUA werden kannst!$"
+	.string "Team Aqua werden kannst!$"
 
 MtPyre_Summit_Text_Grunt4Defeat:
-	.string "Wenn du TEAM AQUA unbedingt\n"
+	.string "Wenn du Team Aqua unbedingt\n"
 	.string "beitreten willst, können wir darüber\l"
 	.string "reden…$"
 

@@ -20,12 +20,11 @@ Route34IlexForestGate_EventScript_Butterfree::
 	end
 
 Route34IlexForestGate_Text_Lass:
-	.string "Hast du den Schrein gesehen,\n"
-	.string "der dem Schutzpatron huldigt?\p"
-	.string "Er wacht über den Wald,\n"
-	.string "aus einer anderen Zeit.\p"
-	.string "Ich glaube, das ist ein\n"
-	.string "Pflanzen-Pokémon.$"
+	.string "Hast du den Schrein im Wald gesehen,\n"
+	.string "wo man dem Schutzpatron huldigt?\p"
+	.string "Gestern, heute, morgen - der Patron\n"
+	.string "wacht zu jeder Zeit über den Wald.\l"
+	.string "Er ist bestimmt ein Pflanzen-Pokémon!$"
 
 Route34IlexForestGate_Text_Butterfree:
-	.string "SMETTBO: Boh!$"
+	.string "SMETTBO: Smett, Smettbooo!$"

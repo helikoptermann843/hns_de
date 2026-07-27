@@ -204,7 +204,7 @@ Route119_WeatherInstitute_2F_EventScript_WeatherScientist::
 	end
 
 Route119_WeatherInstitute_2F_Text_Grunt2Intro:
-	.string "Das INSTITUT hat ein POKéMON ent-\n"
+	.string "Das Institut hat ein Pokémon ent-\n"
 	.string "wickelt, das irgendwas mit dem Wetter\l"
 	.string "zu tun hat. Das müssen wir kriegen!$"
 
@@ -212,13 +212,13 @@ Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
 	.string "Ein Kind hat unsere Pläne durchkreuzt?$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
-	.string "Wenn sie hier tatsächlich ein POKéMON\n"
+	.string "Wenn sie hier tatsächlich ein Pokémon\n"
 	.string "entwickelt haben, das das Wetter kon-\l"
-	.string "trollieren kann, müssen wir von TEAM\l"
-	.string "AQUA es in unsere Gewalt bringen!$"
+	.string "trollieren kann, müssen wir von Team\l"
+	.string "Aqua es in unsere Gewalt bringen!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "Wir sind TEAM AQUA!\n"
+	.string "Wir sind Team Aqua!\n"
 	.string "Wir sind überall dort, wo Raritäten\l"
 	.string "gefunden wurden!$"
 
@@ -227,17 +227,17 @@ Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
 
 Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
 	.string "Du hast doch gar keine Ahnung, was wir\n"
-	.string "von TEAM AQUA vorbereiten!\l"
+	.string "von Team Aqua vorbereiten!\l"
 	.string "Geh uns gefälligst aus dem Weg!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Intro:
 	.string "Jetzt sag nicht, du bist auch auf der\n"
-	.string "Suche nach diesem Wetter-POKéMON?\p"
+	.string "Suche nach diesem Wetter-Pokémon?\p"
 	.string "Das erlaube ich nicht!\n"
 	.string "Wir waren schließlich zuerst hier!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
-	.string "Nun schau dir meine POKéMON an.$"
+	.string "Nun schau dir meine Pokémon an.$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
 	.string "Hmpf… Was soll’s?!?\n"
@@ -249,7 +249,7 @@ Route119_WeatherInstitute_2F_Text_ShellyIntro:
 	.string "Ahahahahaha!!!\p"
 	.string "Du willst dich allen Ernstes in die\l"
 	.string "Ange-\n"
-	.string "legenheiten von TEAM AQUA einmischen?\p"
+	.string "legenheiten von Team Aqua einmischen?\p"
 	.string "\p"
 	.string "Dann bist du entweder furchtlos oder\n"
 	.string "einfach dumm! Oder beides?\p"
@@ -262,7 +262,7 @@ Route119_WeatherInstitute_2F_Text_ShellyDefeat:
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
 	.string "Es ist schon schlimm genug, sich\n"
-	.string "ständig mit TEAM MAGMA auseinander-\p"
+	.string "ständig mit Team Magma auseinander-\p"
 	.string "setzen zu müssen, und jetzt kommst du\n"
 	.string "auch noch daher!\p"
 	.string "Warum musst du deine spitze Nase in\n"

@@ -36,20 +36,20 @@ CeladonCity_DepartmentStore_4F_Items::
 	end
 
 CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
-	.string "I'm getting a present for my\n"
-	.string "girlfriend.\p"
-	.string "I guess a POKé DOLL will be it.\n"
-	.string "It's the popular thing.$"
+	.string "Ich kaufe ein Geschenk für meine\n"
+	.string "Freundin.\p"
+	.string "Sie freut sich bestimmt über eine\n"
+	.string "POKéPUPPE!$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-	.string "I heard something useful.\p"
-	.string "If a wild POKéMON appears, you can\n"
-	.string "distract it with a POKé DOLL.\p"
-	.string "You can run away while the wild\n"
-	.string "POKéMON is distracted.$"
+	.string "Ah, wirklich beeindruckend.\n"
+	.string "Du behandelst deine POKéMON gut.\p"
+	.string "Ich denke, ich kann dir das\n"
+	.string "überlassen.\p"
+	.string "Bitte, nimm dies!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Express yourself with gifts!\n"
-	.string "4F: WISE MAN GIFTS\p"
-	.string "Evolution Special!\n"
-	.string "Element STONES on sale now!$"
+	.string "Ich habe das EI auf meinen Reisen\n"
+	.string "bekommen.\p"
+	.string "Ich bin froh, jemanden wie dich\n"
+	.string "getroffen zu haben.$"

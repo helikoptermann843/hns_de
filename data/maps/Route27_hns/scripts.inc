@@ -17,7 +17,7 @@ Route27_EventScript_BaobaCall::
 	end
 
 Route27_Text_BaobaName:
-	.string "BAOBA$"
+	.string "Baoba$"
 
 Route27_EventScript_FirstSteps::
     lock
