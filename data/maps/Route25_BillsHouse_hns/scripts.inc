@@ -316,49 +316,49 @@ Route25_BillsHouse_Movement_ShowPlayer:
 	step_end
 
 Route25_BillsHouse_hns_Text_Meowth:
-	.string "MEOWTH$"
+	.string "MAUZI$"
 
 Route25_BillsHouse_hns_Text_Ponyta:
-	.string "PONYTA$"
+	.string "PONITA$"
 
 Route25_BillsHouse_hns_Text_Rapidash:
-	.string "RAPIDASH$"
+	.string "GALOPPA$"
 
 Route25_BillsHouse_hns_Text_Slowpoke:
-	.string "SLOWPOKE$"
+	.string "FLEGMON$"
 
 Route25_BillsHouse_hns_Text_Slowbro:
-	.string "SLOWBRO$"
+	.string "LAHMUS$"
 
 Route25_BillsHouse_hns_Text_Slowking:
-	.string "SLOWKING$"
+	.string "LASCHOKING$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
-	.string "FARFETCH'D$"
+	.string "PORENTA$"
 
 Route25_BillsHouse_hns_Text_Weezing:
-	.string "WEEZING$"
+	.string "SMOGMOG$"
 
 Route25_BillsHouse_hns_Text_MrMime:
-	.string "MR. MIME$"
+	.string "PANTIMOS$"
 
 Route25_BillsHouse_hns_Text_Articuno:
-	.string "ARTICUNO$"
+	.string "ARKTOS$"
 
 Route25_BillsHouse_hns_Text_Zapdos:
 	.string "ZAPDOS$"
 
 Route25_BillsHouse_hns_Text_Moltres:
-	.string "MOLTRES$"
+	.string "LAVADOS$"
 
 Route25_BillsHouse_hns_Text_Corsola:
-	.string "CORSOLA$"
+	.string "CORASONN$"
 
 Route25_BillsHouse_hns_Text_Zigzagoon:
-	.string "ZIGZAGOON$"
+	.string "ZIGZACHS$"
 
 Route25_BillsHouse_hns_Text_Linoone:
-	.string "LINOONE$"
+	.string "GERADAKS$"
 
 Route25_BillsHouse_hns_Text_Cancel:
 	.string "ZURÜCK$"
