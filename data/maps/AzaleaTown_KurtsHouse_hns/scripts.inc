@@ -282,15 +282,15 @@ KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "aber nimm es.$"
 
 KurtsHouse_Text_KurtBallsFromApricorns:
-	.string "Kurt: Ich kann aus Aprikokos\n"
+	.string "Kurt: Ich kann aus Beeren\n"
 	.string "Spezialbälle anfertigen!\p"
-	.string "Pflücke überall fleißig Aprikokos von\n"
+	.string "Pflücke überall fleißig Beeren von\n"
 	.string "den Bäumen und bringe sie zu mir.\l"
 	.string "Ich verarbeite sie dann zu Bällen.$"
 
 KurtsHouse_Text_KurtAskYouHaveAnApricorn:
 	.string "Kurt: Oh, wie ich sehe, hast du ein\n"
-	.string "paar Aprikokos mitgebracht!\p"
+	.string "paar Beeren mitgebracht!\p"
 	.string "Na schön! Dann mache ich mich\n"
 	.string "mal ans Verarbeiten!$"
 
