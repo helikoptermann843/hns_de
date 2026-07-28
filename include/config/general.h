@@ -82,7 +82,7 @@
 #define UNITS_METRIC                 1       // meters, kilograms
 
 #define UNITS                        UNITS_IMPERIAL
-#define CHAR_DEC_SEPARATOR           CHAR_PERIOD // CHAR_PERIOD is used as a decimal separator only in the UK and the US. The rest of the world uses CHAR_COMMA.
+#define CHAR_DEC_SEPARATOR           CHAR_COMMA // CHAR_PERIOD is used as a decimal separator only in the UK and the US. The rest of the world uses CHAR_COMMA.
 
 // Naming Screen
 #define AUTO_LOWERCASE_KEYBOARD      GEN_LATEST  // Starting in GEN_6, after entering the first uppercase character, the keyboard switches to lowercase letters.

@@ -133,8 +133,8 @@ static const u8 sText_TenDashes[] = _("----------");
 ALIGNED(4) static const u8 sExpandedPlaceholder_PokedexDescription[] = _("");
 static const u16 sSizeScreenSilhouette_Pal[] = INCBIN_U16("graphics/pokedex/size_silhouette.gbapal");
 
-static const u8 sText_Stats_Buttons[] = _("{A_BUTTON}WECHSEL   {DPAD_UPDOWN}ATK");
-static const u8 sText_Stats_Buttons_Decapped[] = _("{A_BUTTON}Wechsel   {DPAD_UPDOWN}ATK");
+static const u8 sText_Stats_Buttons[] = _("{A_BUTTON}Wechsel   {DPAD_UPDOWN}Att.");
+static const u8 sText_Stats_Buttons_Decapped[] = _("{A_BUTTON}Wechsel   {DPAD_UPDOWN}Att.");
 static const u8 sText_Stats_HP[] = _("KP");
 static const u8 sText_Stats_Attack[] = _("ANG");
 static const u8 sText_Stats_Defense[] = _("VER");
@@ -154,81 +154,80 @@ static const u8 sText_Stats_Gender_50[] = _("♀ 1/1 ♂");     //_("♀ 50 / 50
 static const u8 sText_Stats_Gender_75[] = _("♀ 3/1 ♂");     //_("♀ 75 / 25 ♂");
 static const u8 sText_Stats_Gender_87_5[] = _("♀ 7/1 ♂");
 static const u8 sText_Stats_Gender_100[] = _("♀");
-static const u8 sText_Stats_CatchRate[] = _("FANG{0x5B}: ");
-static const u8 sText_Stats_CatchRate_Legend[] = _("LEGENDÄR");
-static const u8 sText_Stats_CatchRate_VeryHard[] = _("EXTREM");
-static const u8 sText_Stats_CatchRate_Difficult[] = _("SCHWER");
-static const u8 sText_Stats_CatchRate_Medium[] = _("MEDIUM");
-static const u8 sText_Stats_CatchRate_Relaxed[] = _("EINFACH");
-static const u8 sText_Stats_CatchRate_Easy[] = _("LEICHT");
-static const u8 sText_Stats_ExpYield[] = _("EXP RATE: ");
-static const u8 sText_Stats_EggCycles[] = _("SCHRITTE EI:");
+static const u8 sText_Stats_CatchRate[] = _("Fangrate:");
+static const u8 sText_Stats_CatchRate_Legend[] = _("Fast unmöglich");
+static const u8 sText_Stats_CatchRate_VeryHard[] = _("Sehr schwer");
+static const u8 sText_Stats_CatchRate_Difficult[] = _("Schwer");
+static const u8 sText_Stats_CatchRate_Medium[] = _("Mittel");
+static const u8 sText_Stats_CatchRate_Relaxed[] = _("Leicht");
+static const u8 sText_Stats_CatchRate_Easy[] = _("Sehr leicht");
+static const u8 sText_Stats_ExpYield[] = _("Basis-EP:");
+static const u8 sText_Stats_EggCycles[] = _("Schritte Ei:");
 static const u8 sText_Stats_EggCycles_VeryFast[] = _("{EMOJI_BOLT}{EMOJI_DIZZYEGG}");
 static const u8 sText_Stats_EggCycles_Fast[] = _("{EMOJI_DIZZYEGG}");
 static const u8 sText_Stats_EggCycles_Normal[] = _("{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}");
 static const u8 sText_Stats_EggCycles_Slow[] = _("{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}{EMOJI_DIZZYEGG}");
-static const u8 sText_Stats_Growthrate[] = _("WACHSTUM: ");
-static const u8 sText_Stats_Friendship[] = _("FREUNDSCHAFT:");
+static const u8 sText_Stats_Growthrate[] = _("Levelaufstieg:");
+static const u8 sText_Stats_Friendship[] = _("Freundschaft:");
 static const u8 sText_Stats_Friendship_BigAnger[] = _("{EMOJI_BIGANGER}");
 static const u8 sText_Stats_Friendship_Neutral[] = _("{EMOJI_NEUTRAL}");
 static const u8 sText_Stats_Friendship_Happy[] = _("{EMOJI_HAPPY}");
 static const u8 sText_Stats_Friendship_BigSmile[] = _("{EMOJI_BIGSMILE}");
-static const u8 sText_Stats_MEDIUM_FAST[] = _("MEDIUM");
-static const u8 sText_Stats_ERRATIC[] = _("UNBESTÄ.");
-static const u8 sText_Stats_FLUCTUATING[] = _("WECHSEL.");
-static const u8 sText_Stats_MEDIUM_SLOW[] = _("MEDIUM");
-static const u8 sText_Stats_FAST[] = _("SCHNELL");
-static const u8 sText_Stats_SLOW[] = _("LANGSAM");
+static const u8 sText_Stats_MEDIUM_FAST[] = _("Mittel-Schnell");
+static const u8 sText_Stats_ERRATIC[] = _("Absteigend");
+static const u8 sText_Stats_FLUCTUATING[] = _("Ansteigend");
+static const u8 sText_Stats_MEDIUM_SLOW[] = _("Mittel-Langsam");
+static const u8 sText_Stats_FAST[] = _("Schnell");
+static const u8 sText_Stats_SLOW[] = _("Langsam");
 static const u8 sText_Stats_ContestHeart[] = _("H");
 static const u8 sText_Stats_Minus[] = _("-");
-static const u8 sText_Stats_eggGroup[] = _("EGG G1:");
-static const u8 sText_Stats_eggGroup_Groups[] = _("{STR_VAR_1}/{STR_VAR_2}");
-static const u8 sText_Stats_eggGroup_MONSTER[] = _("MONSTER");
-static const u8 sText_Stats_eggGroup_WATER_1[] = _("WASSER {CIRCLE_1}");
-static const u8 sText_Stats_eggGroup_BUG[] = _("KÄFER");
-static const u8 sText_Stats_eggGroup_FLYING[] = _("FLUG");
-static const u8 sText_Stats_eggGroup_FIELD[] = _("FELD");
-static const u8 sText_Stats_eggGroup_FAIRY[] = _("FEE");
-static const u8 sText_Stats_eggGroup_GRASS[] = _("PFL");
-static const u8 sText_Stats_eggGroup_HUMAN_LIKE[] = _("HUMANOID");
-static const u8 sText_Stats_eggGroup_WATER_3[] = _("WASSER {CIRCLE_3}");
-static const u8 sText_Stats_eggGroup_MINERAL[] = _("MINERAL");
-static const u8 sText_Stats_eggGroup_AMORPHOUS[] = _("AMORPH");
-static const u8 sText_Stats_eggGroup_WATER_2[] = _("WASSER {CIRCLE_2}");
-static const u8 sText_Stats_eggGroup_DITTO[] = _("DITTO");
-static const u8 sText_Stats_eggGroup_DRAGON[] = _("DRACHE");
-static const u8 sText_Stats_eggGroup_NO_EGGS_DISCOVERED[] = _("---");
+static const u8 sText_Stats_eggGroup[] = _("Ei-Gruppe:");
+static const u8 sText_Stats_eggGroup_MONSTER[] = _("Monster");
+static const u8 sText_Stats_eggGroup_WATER_1[] = _("Wasser {CIRCLE_1}");
+static const u8 sText_Stats_eggGroup_BUG[] = _("Käfer");
+static const u8 sText_Stats_eggGroup_FLYING[] = _("Flug");
+static const u8 sText_Stats_eggGroup_FIELD[] = _("Feld");
+static const u8 sText_Stats_eggGroup_FAIRY[] = _("Fee");
+static const u8 sText_Stats_eggGroup_GRASS[] = _("Pflanze");
+static const u8 sText_Stats_eggGroup_HUMAN_LIKE[] = _("Humanotyp");
+static const u8 sText_Stats_eggGroup_WATER_3[] = _("Wasser {CIRCLE_3}");
+static const u8 sText_Stats_eggGroup_MINERAL[] = _("Mineral");
+static const u8 sText_Stats_eggGroup_AMORPHOUS[] = _("Amorph");
+static const u8 sText_Stats_eggGroup_WATER_2[] = _("Wasser {CIRCLE_2}");
+static const u8 sText_Stats_eggGroup_DITTO[] = _("Ditto");
+static const u8 sText_Stats_eggGroup_DRAGON[] = _("Drache");
+static const u8 sText_Stats_eggGroup_NO_EGGS_DISCOVERED[] = _("Unbekannt");
 static const u8 sText_Stats_eggGroup_UNKNOWN[] = _("???");
-static const u8 sText_Dex_SEEN[] = _("GES.");
-static const u8 sText_Dex_OWN[] = _("GEF.");
+static const u8 sText_Dex_SEEN[] = _("Ges.");
+static const u8 sText_Dex_OWN[] = _("Gef.");
 
-static const u8 sText_EVO_Buttons[] = _("{DPAD_UPDOWN}EVOs  {A_BUTTON}BERICHT");
+static const u8 sText_EVO_Buttons[] = _("{DPAD_UPDOWN}Evos  {A_BUTTON}Bericht");
 static const u8 sText_EVO_Buttons_Decapped[] = _("{DPAD_UPDOWN}Evos  {A_BUTTON}Bericht");
-static const u8 sText_EVO_Buttons_PE[] = _("{DPAD_UPDOWN}EVOs  {A_BUTTON}BERICHT  {START_BUTTON}FORM");
+static const u8 sText_EVO_Buttons_PE[] = _("{DPAD_UPDOWN}Evos  {A_BUTTON}Bericht  {START_BUTTON}Form");
 static const u8 sText_EVO_Buttons_Decapped_PE[] = _("{DPAD_UPDOWN}Evos  {A_BUTTON}Bericht  {START_BUTTON}Formen");
 static const u8 sText_EVO_Name[] = _("{STR_VAR_3}:");
 static const u8 sText_EVO_PreEvo[] = _("{STR_VAR_1} entwickelt von {STR_VAR_2}");
-static const u8 sText_EVO_PreEvo_PE_Mega[] = _("{STR_VAR_1} Mega Evo mit {STR_VAR_2}");
-static const u8 sText_EVO_LEVEL_SILCOON[] = _("{LV}{UP_ARROW} to {STR_VAR_2}, Schaloko persona");
-static const u8 sText_EVO_LEVEL_CASCOON[] = _("{LV}{UP_ARROW} to {STR_VAR_2}, Panekon persona");
+static const u8 sText_EVO_PreEvo_PE_Mega[] = _("{STR_VAR_1} Mega-Entw. mit {STR_VAR_2}");
+static const u8 sText_EVO_LEVEL_SILCOON[] = _("{LV}{UP_ARROW} zu {STR_VAR_2}, Schaloko-Wesen");
+static const u8 sText_EVO_LEVEL_CASCOON[] = _("{LV}{UP_ARROW} zu {STR_VAR_2}, Panekon-Wesen");
 static const u8 sText_EVO_MOVE[] = _("{LV}{UP_ARROW}, kennt {STR_VAR_2}");
 static const u8 sText_EVO_LEVEL_RAIN[] = _("{LV}{UP_ARROW} zu {STR_VAR_2} bei Regen");
-static const u8 sText_EVO_TRADE_SPECIFIC_MON[] = _("Getauscht für {STR_VAR_2}");
+static const u8 sText_EVO_TRADE_SPECIFIC_MON[] = _("Tausch gegen {STR_VAR_2}");
 static const u8 sText_EVO_CRITICAL_HITS[] = _("Lande {STR_VAR_2} krit. Treffer\nin Einzelkampf");
-static const u8 sText_EVO_SCRIPT_TRIGGER_DMG[] = _("Nimmt mind. {STR_VAR_2} KP schaden");
-static const u8 sText_EVO_DARK_SCROLL[] = _("UnlSchriftRl verwendet");
-static const u8 sText_EVO_WATER_SCROLL[] = _("WasserSchriftRl verwendet");
+static const u8 sText_EVO_SCRIPT_TRIGGER_DMG[] = _("Nimmt mind. {STR_VAR_2} KP Schaden");
+static const u8 sText_EVO_DARK_SCROLL[] = _("Unlichtschriftrolle verw.");
+static const u8 sText_EVO_WATER_SCROLL[] = _("Wasserschriftrolle verw.");
 static const u8 sText_EVO_USE_MOVE_TWENTY_TIMES[] = _("{LV}{UP_ARROW} nach 20x {STR_VAR_2}");
-static const u8 sText_EVO_RECOIL_DAMAGE_MALE[] = _("{LV}{UP_ARROW} mit {STR_VAR_2} rückstoss, mänl.");
-static const u8 sText_EVO_RECOIL_DAMAGE_FEMALE[] = _("{LV}{UP_ARROW} mit {STR_VAR_2} rückstoss, weibl.");
+static const u8 sText_EVO_RECOIL_DAMAGE_MALE[] = _("{LV}{UP_ARROW} mit {STR_VAR_2} Rückstoß, männl.");
+static const u8 sText_EVO_RECOIL_DAMAGE_FEMALE[] = _("{LV}{UP_ARROW} mit {STR_VAR_2} Rückstoß, weibl.");
 static const u8 sText_EVO_DEFEAT_THREE_WITH_ITEM[] = _("{LV}{UP_ARROW} besiege 3 {STR_VAR_3} mit {STR_VAR_2}");
-static const u8 sText_EVO_NONE[] = _("{STR_VAR_1} keine Entwicklung.");
+static const u8 sText_EVO_NONE[] = _("{STR_VAR_1} hat keine Entwicklung.");
 
-static const u8 sText_FORMS_Buttons_PE[] = _("{A_BUTTON}FORM MODUS  {START_BUTTON}EVOs");
-static const u8 sText_FORMS_Buttons_Decapped_PE[] = _("{START_BUTTON}Evos");
-static const u8 sText_FORMS_Buttons_Submenu_PE[] = _("{DPAD_NONE}FORM {A_BUTTON}BERICHT {START_BUTTON}EVOs");
-static const u8 sText_FORMS_Buttons_Submenu_Decapped_PE[] = _("{START_BUTTON}Evos");
-static const u8 sText_FORMS_NONE[] = _("{STR_VAR_1} keine alt. Formen.");
+static const u8 sText_FORMS_Buttons_PE[] = _("{A_BUTTON}Form Modus  {START_BUTTON}Evos");
+static const u8 sText_FORMS_Buttons_Decapped_PE[] = _("{A_BUTTON}Form Modus  {START_BUTTON}Evos");
+static const u8 sText_FORMS_Buttons_Submenu_PE[] = _("{DPAD_NONE}Form {A_BUTTON}Bericht {START_BUTTON}Evos");
+static const u8 sText_FORMS_Buttons_Submenu_Decapped_PE[] = _("{DPAD_NONE}Form {A_BUTTON}Bericht {START_BUTTON}Evos");
+static const u8 sText_FORMS_NONE[] = _("{STR_VAR_1} hat keine anderen Formen.");
 static const u8 sText_PlusSymbol[] = _("+");
 
 // static .rodata graphics
@@ -1327,8 +1326,7 @@ static const struct WindowTemplate sInfoScreen_WindowTemplates[] =
 #define WIN_STATS_MOVES_DESCRIPTION 7
 #define WIN_STATS_MOVES_BOTTOM 8
 #define WIN_STATS_ABILITIES 9
-#define WIN_STATS_LEFT_UNUSED 10
-#define WIN_STATS_END WIN_STATS_LEFT_UNUSED
+#define WIN_STATS_END WIN_STATS_ABILITIES
 static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
 {
     [WIN_STATS_TOPBAR] =
@@ -1367,7 +1365,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .tilemapLeft = 0,
         .tilemapTop = 6,
         .width = 12,
-        .height = 8,
+        .height = 12,   // war 8; nutzt jetzt die zuvor freien Kachelzeilen 14-17
         .paletteNum = 0,
         .baseBlock = 1 + 60 + 40 + 48,
     },
@@ -1379,7 +1377,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .width = 12,
         .height = 2,
         .paletteNum = 15,
-        .baseBlock = 1 + 60 + 40 + 48 + 96,
+        .baseBlock = 1 + 60 + 40 + 48 + 144,
     },
     [WIN_STATS_MOVES_TOP] =
     {
@@ -1389,7 +1387,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .width = 18,
         .height = 4,
         .paletteNum = 0,
-        .baseBlock = 1 + 60 + 40 + 48 + 96 + 24,
+        .baseBlock = 1 + 60 + 40 + 48 + 144 + 24,
     },
     [WIN_STATS_MOVES_DESCRIPTION] =
     {
@@ -1399,7 +1397,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .width = 18,
         .height = 4,
         .paletteNum = 0,
-        .baseBlock = 1 + 60 + 40 + 48 + 96 + 24 + 72,
+        .baseBlock = 1 + 60 + 40 + 48 + 144 + 24 + 72,
     },
     [WIN_STATS_MOVES_BOTTOM] =
     {
@@ -1409,7 +1407,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .width = 18,
         .height = 2,
         .paletteNum = 0,
-        .baseBlock = 1 + 60 + 40 + 48 + 96 + 24 + 72 + 72,
+        .baseBlock = 1 + 60 + 40 + 48 + 144 + 24 + 72 + 72,
     },
     [WIN_STATS_ABILITIES] =
     {
@@ -1419,17 +1417,7 @@ static const struct WindowTemplate sStatsScreen_WindowTemplates[] =
         .width = 18,
         .height = 8,
         .paletteNum = 0,
-        .baseBlock = 1 + 60 + 40 + 48 + 96 + 24 + 72 + 72 + 36,
-    },
-    [WIN_STATS_LEFT_UNUSED] =
-    {
-        .bg = 2,
-        .tilemapLeft = 0,
-        .tilemapTop = 14,
-        .width = 12,
-        .height = 4,
-        .paletteNum = 0,
-        .baseBlock = 1 + 60 + 40 + 48 + 96 + 24 + 72 + 72 + 36 + 144,
+        .baseBlock = 1 + 60 + 40 + 48 + 144 + 24 + 72 + 72 + 36,
     },
     DUMMY_WIN_TEMPLATE
 };
@@ -4783,7 +4771,7 @@ static void LoadTilesetTilemapHGSS(u8 page)
 static u8 ShowCategoryIcon(enum DamageCategory category)
 {
     if (sPokedexView->categoryIconSpriteId == 0xFF)
-        sPokedexView->categoryIconSpriteId = CreateSprite(&gSpriteTemplate_CategoryIcons, 139, 90, 0);
+        sPokedexView->categoryIconSpriteId = CreateSprite(&gSpriteTemplate_CategoryIcons, 143, 90, 0);
 
     gSprites[sPokedexView->categoryIconSpriteId].invisible = FALSE;
     StartSpriteAnim(&gSprites[sPokedexView->categoryIconSpriteId], category);
@@ -5644,18 +5632,19 @@ static void PrintStatsScreen_Left(u8 taskId)
 
         //Catch rate
         PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate, base_x, base_y + base_y_offset*base_i);
-        if (catchRate <= 10)
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Legend, base_x + x_offset_column, base_y + base_y_offset*base_i);
-        else if (catchRate <= 70)
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_VeryHard, base_x + x_offset_column, base_y + base_y_offset*base_i);
-        else if (catchRate <= 100)
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Difficult, base_x + x_offset_column, base_y + base_y_offset*base_i);
+        base_i++;
+        if (catchRate <= 15)
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Legend, base_x, base_y + base_y_offset*base_i);
+        else if (catchRate <= 45)
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_VeryHard, base_x, base_y + base_y_offset*base_i);
+        else if (catchRate <= 90)
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Difficult, base_x, base_y + base_y_offset*base_i);
         else if (catchRate <= 150)
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Medium, base_x + x_offset_column, base_y + base_y_offset*base_i);
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Medium, base_x, base_y + base_y_offset*base_i);
         else if (catchRate <= 200)
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Relaxed, base_x + x_offset_column, base_y + base_y_offset*base_i);
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Relaxed, base_x, base_y + base_y_offset*base_i);
         else
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Easy, base_x + x_offset_column, base_y + base_y_offset*base_i);
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_CatchRate_Easy, base_x, base_y + base_y_offset*base_i);
         base_i++;
 
         //Growth rate
@@ -5683,8 +5672,8 @@ static void PrintStatsScreen_Left(u8 taskId)
         default:
             break;
         }
-        align_x = GetStringRightAlignXOffset(0, strEV, total_x);
-        PrintStatsScreenTextSmall(WIN_STATS_LEFT, strEV, align_x, base_y + base_y_offset*base_i);
+        base_i++;
+        PrintStatsScreenTextSmall(WIN_STATS_LEFT, strEV, base_x, base_y + base_y_offset*base_i);
     }
     else
     {
@@ -5752,6 +5741,10 @@ static void PrintStatsScreen_Left(u8 taskId)
             }
             PrintStatsScreenTextSmall(WIN_STATS_LEFT, strEV, align_x, base_y + base_y_offset*base_i);
         }
+        base_i++;
+
+        //Egg group
+        PrintStatsScreenTextSmall(WIN_STATS_LEFT, sText_Stats_eggGroup, base_x, base_y + base_y_offset*base_i);
         base_i++;
 
         //Egg group 1
@@ -5860,13 +5853,13 @@ static void PrintStatsScreen_Left(u8 taskId)
                 StringCopy(gStringVar2, sText_Stats_eggGroup_UNKNOWN);
                 break;
             }
-            StringExpandPlaceholders(gStringVar3, sText_Stats_eggGroup_Groups);
-            align_x = GetStringRightAlignXOffset(0, gStringVar3, total_x);
-            PrintStatsScreenTextSmall(WIN_STATS_LEFT, gStringVar3, base_x, base_y + base_y_offset*base_i);
+            //Zwei Gruppen: untereinander, damit nichts an den Rahmen stoesst
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, gStringVar1, base_x, base_y + base_y_offset*base_i);
+            base_i++;
+            PrintStatsScreenTextSmall(WIN_STATS_LEFT, gStringVar2, base_x, base_y + base_y_offset*base_i);
         }
         else
         {
-            align_x = GetStringRightAlignXOffset(0, gStringVar1, total_x);
             PrintStatsScreenTextSmall(WIN_STATS_LEFT, gStringVar1, base_x, base_y + base_y_offset*base_i);
         }
         base_i++;
@@ -6634,20 +6627,20 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                 StringAppend(gStringVar4, GetSpeciesName(evolutions[i].param)); //mon name
                 break;
             case EVO_BATTLE_END:
-                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Kampf Beend."));
+                StringExpandPlaceholders(gStringVar4, COMPOUND_STRING("Kampfende"));
                 break;
             case EVO_SPIN:
                 StringCopy(gStringVar4, COMPOUND_STRING("drehen "));
                 if (evolutions[i].param == SPIN_CW_SHORT)
-                    StringAppend(gStringVar4, COMPOUND_STRING("CW <5s"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("UZS <5s"));
                 else if (evolutions[i].param == SPIN_CW_LONG)
-                    StringAppend(gStringVar4, COMPOUND_STRING("CW >5s"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("UZS >5s"));
                 else if (evolutions[i].param == SPIN_CCW_SHORT)
-                    StringAppend(gStringVar4, COMPOUND_STRING("CCW <5s"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("geg. UZS <5s"));
                 else if (evolutions[i].param == SPIN_CCW_LONG)
-                    StringAppend(gStringVar4, COMPOUND_STRING("CCW >5s"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("geg. UZS >5s"));
                 else
-                    StringAppend(gStringVar4, COMPOUND_STRING("CW/CCW >10s"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("UZS bel. >10s"));
                 break;
             }//Switch end
 
@@ -6674,13 +6667,13 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Zuneigung"));
                     break;
                 case IF_ATK_GT_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk > Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("Ang > Ver"));
                     break;
                 case IF_ATK_EQ_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk = Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("Ang = Ver"));
                     break;
                 case IF_ATK_LT_DEF:
-                    StringAppend(gStringVar4, COMPOUND_STRING("Atk < Def"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("Ang < Ver"));
                     break;
                 case IF_TIME:
                     switch (evolutions[i].params[j].arg1)
@@ -6728,19 +6721,19 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, gStringVar2);
                     break;
                 case IF_MIN_BEAUTY:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}schönheit"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Schönheit"));
                     break;
                 case IF_MIN_COOLNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}coolness"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Coolness"));
                     break;
                 case IF_MIN_SMARTNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}klugheit"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Klugheit"));
                     break;
                 case IF_MIN_TOUGHNESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}zähigkeit"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Stärke"));
                     break;
                 case IF_MIN_CUTENESS:
-                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}niedlich"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("{UP_ARROW_2}Anmut"));
                     break;
                 // Gen 4
                 case IF_SPECIES_IN_PARTY:
@@ -6777,7 +6770,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     break;
                 case IF_KNOWS_MOVE_TYPE:
                     StringAppend(gStringVar4, gTypesInfo[evolutions[i].params[j].arg1].name);
-                    StringAppend(gStringVar4, COMPOUND_STRING(" atk"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("-Att."));
                     break;
                 case IF_REGION:
                 case IF_NOT_REGION:
@@ -6797,7 +6790,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     case REGION_JOHTO: StringAppend(gStringVar4, COMPOUND_STRING("Johto")); break;
                     case REGION_HOENN: StringAppend(gStringVar4, COMPOUND_STRING("Hoenn")); break;
                     case REGION_SINNOH: StringAppend(gStringVar4, COMPOUND_STRING("Sinnoh")); break;
-                    case REGION_UNOVA: StringAppend(gStringVar4, COMPOUND_STRING("Unova")); break;
+                    case REGION_UNOVA: StringAppend(gStringVar4, COMPOUND_STRING("Einall")); break;
                     case REGION_KALOS: StringAppend(gStringVar4, COMPOUND_STRING("Kalos")); break;
                     case REGION_ALOLA: StringAppend(gStringVar4, COMPOUND_STRING("Alola")); break;
                     case REGION_GALAR: StringAppend(gStringVar4, COMPOUND_STRING("Galar")); break;
@@ -6813,13 +6806,13 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, COMPOUND_STRING(" Wesen"));
                     break;
                 case IF_AMPED_NATURE:
-                    StringAppend(gStringVar4, COMPOUND_STRING("amped natures"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("Wesen f. Hoch-Form"));
                     break;
                 case IF_LOW_KEY_NATURE:
-                    StringAppend(gStringVar4, COMPOUND_STRING("low-Key natures"));
+                    StringAppend(gStringVar4, COMPOUND_STRING("Wesen f. Tief-Form"));
                     break;
                 case IF_RECOIL_DAMAGE_GE:
-                    StringAppend(gStringVar4, COMPOUND_STRING("takes >= "));
+                    StringAppend(gStringVar4, COMPOUND_STRING("nimmt "));
                     ConvertIntToDecimalStringN(gStringVar2, evolutions[i].params[j].arg1, STR_CONV_MODE_LEFT_ALIGN, 3);
                     StringAppend(gStringVar4, gStringVar2);
                     StringAppend(gStringVar4, COMPOUND_STRING(" Rückstoß Schad."));
@@ -6835,7 +6828,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, COMPOUND_STRING(" krit. Treffer"));
                     break;
                 case IF_USED_MOVE_X_TIMES:
-                    StringAppend(gStringVar4, COMPOUND_STRING("verw. atk. "));
+                    StringAppend(gStringVar4, COMPOUND_STRING("verw. Att. "));
                     StringAppend(gStringVar4, GetMoveName(evolutions[i].params[j].arg1));
                     StringAppend(gStringVar4, COMPOUND_STRING(" "));
                     ConvertIntToDecimalStringN(gStringVar2, evolutions[i].params[j].arg2, STR_CONV_MODE_LEFT_ALIGN, 3);
@@ -6849,7 +6842,7 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
                     StringAppend(gStringVar4, gStringVar2);
                     StringAppend(gStringVar4, COMPOUND_STRING(" "));
                     StringAppend(gStringVar4, GetSpeciesName(evolutions[i].params[j].arg1));
-                    StringAppend(gStringVar4, COMPOUND_STRING(" that hold "));
+                    StringAppend(gStringVar4, COMPOUND_STRING(" mit "));
                     CopyItemName(evolutions[i].params[j].arg2, gStringVar2);
                     StringAppend(gStringVar4, gStringVar2);
                     break;

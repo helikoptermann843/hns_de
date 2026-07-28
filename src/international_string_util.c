@@ -84,9 +84,10 @@ int Intl_GetListMenuWidth(const struct ListMenuTemplate *listMenu)
 
 void CopyMonCategoryText(u16 species, u8 *dest)
 {
-    u8 *str = StringCopy(dest, GetSpeciesCategory(species));
-    *str = CHAR_SPACE;
-    StringCopy(str + 1, gText_Pokemon);
+    // Im offiziellen deutschen Spiel wird "POKéMON" nicht an die Kategorie
+    // angehaengt (im dt. Smaragd-Decomp ist dieser Anhang ENGLISH-exklusiv).
+    // Angezeigt wird also nur "Samen" statt "Samen Pokémon".
+    StringCopy(dest, GetSpeciesCategory(species));
 }
 
 u8 *GetStringClearToWidth(u8 *dest, int fontId, const u8 *str, int totalStringWidth)
