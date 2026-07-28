@@ -49,7 +49,7 @@ Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
 	.string "haben auch POKéBÄLLE im Sortiment!$"
 
 Route1_Text_PutPotionAway::
-	.string "{VAR} steckt den TRANK in die\n"
+	.string "{PLAYER} steckt den TRANK in die\n"
 	.string "ITEM-TASCHE des BEUTELs.$"
 
 Route1_Text_CanJumpFromLedges::

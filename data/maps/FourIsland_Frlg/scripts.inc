@@ -181,8 +181,8 @@ FourIsland_Text_LoreleiMetLaprasAsChild::
 	.string "gewichen.$"
 
 FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
-	.string "{VAR}: Heh!\n"
-	.string "{VAR}!\p"
+	.string "{RIVAL}: Heh!\n"
+	.string "{PLAYER}!\p"
 	.string "Was machst du hier auf\n"
 	.string "SEVII EILAND?\p"
 	.string "Du solltest aufhören, mich\n"

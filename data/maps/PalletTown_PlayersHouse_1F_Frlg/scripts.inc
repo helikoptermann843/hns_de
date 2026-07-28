@@ -68,7 +68,7 @@ PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
 	.string "hat nach dir gesucht!$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-	.string "MUTTER: {VAR}! Du solltest eine\n"
+	.string "MUTTER: {PLAYER}! Du solltest eine\n"
 	.string "kurze Pause einlegen.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::

@@ -329,7 +329,7 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	.string "Wie stehen die Dinge?\p"
 	.string "Hör mal, im Radio geschieht gerade\n"
 	.string "irgendetwas Merkwürdiges.\l"
-	.string "Ich höre immer bloß "Team Rocket"…\p"
+	.string "Ich höre immer bloß “Team Rocket”…\p"
 	.string "Da dachte ich, ich rufe mal an.\n"
 	.string "{PLAYER}, weißt du, was da los ist?\p"
 	.string "Team Rocket feiert doch nicht etwa\n"

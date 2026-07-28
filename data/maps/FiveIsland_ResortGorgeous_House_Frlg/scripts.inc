@@ -149,7 +149,7 @@ FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
 
 FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
 	.string "Ich möchte ein POKéMON sehen.\n"
-	.string "Ein bezauberndes {VAR}!\p"
+	.string "Ein bezauberndes {STR_VAR_1}!\p"
 	.string "Ich möchte es sofort und hier.\n"
 	.string "Bitte, erfülle mir diesen Traum!$"
 
@@ -163,7 +163,7 @@ FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
 FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "KEA: Oh, hallo!\p"
 	.string "Oh, wie grandios! Das muss das\n"
-	.string "{VAR} sein, das du für mich\l"
+	.string "{STR_VAR_1} sein, das du für mich\l"
 	.string "gefangen hast.\l"
 	.string "Kicher…\l"
 	.string "Es sieht dir ähnlich.\p"

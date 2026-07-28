@@ -10,7 +10,7 @@ Text_UltimateMoveThatMon::
 	.string "niemandem eingesetzt?\p"
 	.string "… hm?\p"
 	.string "D-du…\n"
-	.string "Da-das {VAR}…$"
+	.string "Da-das {STR_VAR_1}…$"
 
 Text_JustMistaken::
 	.string "… nein…\n"
@@ -19,10 +19,10 @@ Text_JustMistaken::
 Text_AllowMeToTeachMonUltimateMove::
 	.string "Oh! Das ist es!\n"
 	.string "Das ist das POKéMON!\p"
-	.string "Dieses {VAR} ist des\n"
+	.string "Dieses {STR_VAR_1} ist des\n"
 	.string "Erlernens meiner Attacke würdig!\p"
 	.string "Lässt du es zu?\p"
-	.string "Darf dein {VAR} {VAR}\n"
+	.string "Darf dein {STR_VAR_1} {STR_VAR_2}\n"
 	.string "lernen?$"
 
 Text_YouRejectIt::
@@ -31,8 +31,8 @@ Text_YouRejectIt::
 
 Text_LetMeConferUltimateMove::
 	.string "Du lässt es zu?\p"
-	.string "Somit lehre ich {VAR}\n"
-	.string "deinem {VAR}.\p"
+	.string "Somit lehre ich {STR_VAR_2}\n"
+	.string "deinem {STR_VAR_1}.\p"
 	.string "Cool!$"
 
 Text_TaughtMove::

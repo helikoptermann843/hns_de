@@ -946,7 +946,7 @@ PewterCity_Text_CitySign::
 	.string "Die steingraue Stadt!$"
 
 PewterCity_Text_OhPlayer::
-	.string "Oh, {VAR}{VAR}!$"
+	.string "Oh, {PLAYER}{KUN}!$"
 
 PewterCity_Text_AskedToDeliverThis::
 	.string "Ich bin froh, dass ich dich\n"
@@ -972,7 +972,7 @@ PewterCity_Text_MustBeGoingBackToLab::
 
 PewterCity_Text_RunningShoesLetterFromMom::
 	.string "Ein Brief ist dabei…\p"
-	.string "Hallo {VAR}!\p"
+	.string "Hallo {PLAYER}!\p"
 	.string "Hier ein Paar TURBOTRETER für\n"
 	.string "meinen geliebten TRAINER.\p"
 	.string "Denk daran, ich drücke dir stets\n"

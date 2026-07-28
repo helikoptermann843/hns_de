@@ -152,11 +152,11 @@ TwoIsland_House_Text_IllNeedMushroomOrTwo::
 	.string "What are you going to give me?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
-	.string "{VAR} übergibt zwei\n"
+	.string "{PLAYER} übergibt zwei\n"
 	.string "MINIPILZE.$"
 
 TwoIsland_House_Text_HandedOverOneBigMushroom::
-	.string "{VAR} übergibt einen\n"
+	.string "{PLAYER} übergibt einen\n"
 	.string "RIESENPILZ.$"
 
 TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::

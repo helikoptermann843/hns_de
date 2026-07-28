@@ -203,7 +203,7 @@ FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
 	.string "beschlagen!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
-	.string "LORELEI: {VAR}?!?\n"
+	.string "LORELEI: {PLAYER}?!?\n"
 	.string "Was machst du denn hier?\p"
 	.string "Wir unterhalten uns später. Ich\n"
 	.string "brauche jetzt deine Hilfe.\p"
@@ -257,7 +257,7 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "HARHARHAR!$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
-	.string "{VAR}, danke!\n"
+	.string "{PLAYER}, danke!\n"
 	.string "Aber das ist grausam…\p"
 	.string "Ich bin auf diesen Eilanden geboren\n"
 	.string "und aufgewachsen.\p"

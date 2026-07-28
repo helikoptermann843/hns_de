@@ -37,7 +37,7 @@ gText_PlayerFoundItems::
 	.string "{PLAYER} findet {STR_VAR_1} {STR_VAR_2}!$"
 
 gText_PutCoinsAwayInCoinCase::
-	.string "{VAR} legt die MÜNZEN in den\n"
+	.string "{PLAYER} legt die MÜNZEN in den\n"
 	.string "MÜNZKORB.$"
 
 gText_FoundXCoins::

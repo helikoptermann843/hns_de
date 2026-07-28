@@ -234,7 +234,7 @@ Route22_EventScript_LeagueGateSign::
 	end
 
 Route22_Text_EarlyRivalIntro::
-	.string "{VAR}: Heh! {VAR}!\p"
+	.string "{RIVAL}: Heh! {PLAYER}!\p"
 	.string "Bist du auf dem Weg zur POKéMON\n"
 	.string "LIGA? Vergiss es!\p"
 	.string "Wahrscheinlich besitzt du nicht\n"
@@ -265,13 +265,13 @@ Route22_Text_RivalShouldCatchSomeMons::
 	.string "つかまえれば　いい　じゃん！$"
 
 Route22_Text_LateRivalIntro::
-	.string "{VAR}: Was?! {VAR}!\n"
+	.string "{RIVAL}: Was?! {PLAYER}!\n"
 	.string "Was für eine Überraschung!\p"
 	.string "Du bist also auch auf dem Weg zur\n"
 	.string "POKéMON LIGA, oder?\p"
 	.string "Du besitzt auch alle ORDEN?\n"
 	.string "Das ist cool!\p"
-	.string "{VAR}, ich werde mich für die\n"
+	.string "{PLAYER}, ich werde mich für die\n"
 	.string "POKéMON LIGA aufwärmen, indem\l"
 	.string "ich dich besiege!\p"
 	.string "Also, los geht es!$"
@@ -284,7 +284,7 @@ Route22_Text_LateRivalPostBattle::
 	.string "Das war ein gutes Aufwärmtraining!\n"
 	.string "Ich bin gut auf die POKéMON LIGA\l"
 	.string "vorbereitet!\p"
-	.string "{VAR}, auch wenn du gewonnen\n"
+	.string "{PLAYER}, auch wenn du gewonnen\n"
 	.string "hast, musst du mehr trainieren!\p"
 	.string "Ich glaube, du bist dir dessen\n"
 	.string "bewusst! Bis dann!$"

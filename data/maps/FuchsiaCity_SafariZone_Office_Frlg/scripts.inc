@@ -30,8 +30,8 @@ FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
 	.string "Hallo!\p"
-	.string "Willst du dein {VAR} nicht\n"
-	.string "gegen ein {VAR} tauschen?$"
+	.string "Willst du dein {PLAYER} nicht\n"
+	.string "gegen ein {PLAYER} tauschen?$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
 	.string "FLEGMON hält zur Zeit eine\n"

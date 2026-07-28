@@ -283,7 +283,7 @@ CeladonCity_DepartmentStore_Roof_EventScript_ExitVendingMachine::
 CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
 	.string "Ich bin durstig!\n"
 	.string "Ich möchte etwas trinken!\p"
-	.string "{CTRL}Gibst du dem Mädchen ein Getränk?$"
+	.string "{FONT_NORMAL}Gibst du dem Mädchen ein Getränk?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
 	.string "Give her which drink?$"
@@ -355,7 +355,7 @@ CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
 	.string "Ups, nicht genug Geld!$"
 
 CeladonCity_DepartmentStore_Roof_Text_DrinkCanPoppedOut::
-	.string "Eine Flasche {VAR} liegt im\n"
+	.string "Eine Flasche {STR_VAR_1} liegt im\n"
 	.string "Schacht!$"
 
 CeladonCity_DepartmentStore_Roof_Text_NoMoreRoomForStuff::

@@ -170,7 +170,7 @@ PokemonFanClub_Text_Bayleef:
 	.string "LORBLATT: Looorblatt!$"
 
 PokemonFanClub_Text_Listen:
-	.string "Wenn dir jemand eine "wunderbare"\n"
+	.string "Wenn dir jemand eine “wunderbare”\n"
 	.string "Geschichte erzählen will, dann höre\l"
 	.string "ihm einfach geduldig zu.$"
 

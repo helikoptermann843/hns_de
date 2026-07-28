@@ -75,13 +75,13 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "Wenn du mindestens 40 verschiedene\n"
 	.string "POKéMON gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich: MÜNZAMULETT\p"
-	.string "Also, {VAR}, hast du 40\n"
+	.string "Also, {PLAYER}, hast du 40\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
 	.string "Ah! BISASAM soll es sein!\n"
 	.string "Es ist leicht zu trainieren!\p"
-	.string "{VAR}, du möchtest also das\n"
+	.string "{STR_VAR_3}, du möchtest also das\n"
 	.string "PFLANZEN-POKéMON BISASAM?$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
@@ -91,6 +91,6 @@ Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
 	.string "Ah! GLUMANDA soll es sein!\n"
 	.string "Trainiere es geduldig!\p"
-	.string "{VAR}, du möchtest also das\n"
+	.string "{PLAYER}, du möchtest also das\n"
 	.string "FEUER-POKéMON GLUMANDA?$"
 

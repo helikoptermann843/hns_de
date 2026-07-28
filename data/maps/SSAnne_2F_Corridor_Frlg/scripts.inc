@@ -175,11 +175,11 @@ SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
 	.string "ausschließlich geladene TRAINER!$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
-	.string "{VAR}: Sieh an!\n"
-	.string "{VAR}!\p"
+	.string "{RIVAL}: Sieh an!\n"
+	.string "{PLAYER}!\p"
 	.string "Ich wusste, ich würde dich hier\n"
 	.string "treffen!\p"
-	.string "{VAR}, hat man dich tatsächlich\n"
+	.string "{PLAYER}, hat man dich tatsächlich\n"
 	.string "eingeladen?\p"
 	.string "Wie kommst du mit deinem POKéDEX\n"
 	.string "voran?\p"
@@ -201,7 +201,7 @@ SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "きたえた　ほうが　いいぜ！$"
 
 SSAnne_2F_Corridor_Text_RivalPostBattle::
-	.string "{VAR}: Es soll angeblich ein\n"
+	.string "{RIVAL}: Es soll angeblich ein\n"
 	.string "großer Meister im Umgang mit dem\l"
 	.string "ZERSCHNEIDER an Bord sein.\p"
 	.string "Aber da war nur ein seekranker,\n"

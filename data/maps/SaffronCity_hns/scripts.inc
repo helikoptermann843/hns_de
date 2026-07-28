@@ -136,7 +136,7 @@ SaffronCity_Text_PokefanM_ReturnedPart:
 	.string "Du kommst aus Johto?\p"
 	.string "Mit dem Magnetzug gelangst du\n"
 	.string "schneller zurück nach Johto als du\l"
-	.string ""Schwupps!" sagen kannst!$"
+	.string "“Schwupps!” sagen kannst!$"
 
 SaffronCity_Text_CooltrainerM:
 	.string "Als ich die Pokémon-Arena betreten\n"

@@ -87,7 +87,7 @@ SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
 	.string "es ist?$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
-	.string "Ui! Es ist {VAR} cm lang! So etwas\n"
+	.string "Ui! Es ist {STR_VAR_2} cm lang! So etwas\n"
 	.string "habe ich noch nie gesehen!\l"
 	.string "Du verdienst eine Belohnung!$"
 
@@ -98,16 +98,16 @@ SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
 	.string "großen SKARABORN.$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
-	.string "Häh? {VAR} cm groß…\n"
+	.string "Häh? {STR_VAR_2} cm groß…\n"
 	.string "Oh, aha! Es ist genauso groß\l"
 	.string "wie das zuvor!$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
-	.string "Oh, es ist nur {VAR} cm groß.\n"
+	.string "Oh, es ist nur {STR_VAR_2} cm groß.\n"
 	.string "Das SKARABORN zuvor war größer.\p"
 	.string "Das größte SKARABORN, das\n"
 	.string "du mir gebracht hast, war\l"
-	.string "{VAR} cm groß.$"
+	.string "{STR_VAR_3} cm groß.$"
 
 SixIsland_WaterPath_House1_Text_ThisWontDo::
 	.string "Oh, nein! Da ist etwas falsch!\p"
@@ -122,7 +122,7 @@ SixIsland_WaterPath_House1_Text_YourBagIsFull::
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
 	.string "Das größte SKARABORN, das\n"
 	.string "ich je sah war\p"
-	.string "{VAR} cm groß!$"
+	.string "{STR_VAR_3} cm groß!$"
 
 SixIsland_WaterPath_House1_Text_BlankChartOfSomeSort::
 	.string "Es ist eine leere Tabelle!\p"

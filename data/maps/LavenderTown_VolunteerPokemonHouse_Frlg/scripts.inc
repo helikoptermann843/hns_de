@@ -111,7 +111,7 @@ LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
 	.string "ENTON: Quacka!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-	.string "MR. FUJI: {VAR}!\p"
+	.string "MR. FUJI: {PLAYER}!\p"
 	.string "Du kannst deinen POKéDEX nicht\n"
 	.string "vollenden, wenn du deinen POKéMON\l"
 	.string "nicht genügend Liebe und Respekt\l"

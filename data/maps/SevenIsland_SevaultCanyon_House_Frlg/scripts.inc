@@ -93,7 +93,7 @@ SevenIsland_SevaultCanyon_House_Text_ComeOnDance::
 	.string "Komm schon, tanze!$"
 
 SevenIsland_SevaultCanyon_House_Text_DancedChanseyDance::
-	.string "{VAR} tanzt den CHANEIRA-Tanz!$"
+	.string "{PLAYER} tanzt den CHANEIRA-Tanz!$"
 
 SevenIsland_SevaultCanyon_House_Text_YoureAllChipperNow::
 	.string "Ahahahaha!\p"

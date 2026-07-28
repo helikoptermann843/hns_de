@@ -698,7 +698,7 @@ SecretBase_Text_DataUnregistered:
 	.string "Data has been unregistered.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{VAR} schaltet den PC ein.$"
+	.string "{PLAYER} schaltet den PC ein.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
 	.string "Was möchtest du tun?$"

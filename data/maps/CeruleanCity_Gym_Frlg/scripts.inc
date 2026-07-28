@@ -79,7 +79,7 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "Pokémon?\p"
 	.string "Meine Strategie basiert auf dem\n"
 	.string "gnadenlosen Offensiv-Einsatz von\l"
-	.string "Wasser-pokémon!{CTRL}?À$"
+	.string "Wasser-pokémon!{PLAY_BGM}?À$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
 	.string "TM03 ist die AQUAWELLE!\p"
@@ -162,11 +162,11 @@ CeruleanCity_Gym_Text_GymStatue::
 	.string "AZURIA POKéMON-ARENA\n"
 	.string "LEITUNG: MISTY\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
 	.string "AZURIA POKéMON-ARENA\n"
 	.string "LEITUNG: MISTY\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

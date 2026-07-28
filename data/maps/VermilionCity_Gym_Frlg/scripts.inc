@@ -296,7 +296,7 @@ VermilionCity_Gym_Text_LtSurgeIntro::
 	.string "gerettet!\p"
 	.string "Sie haben meine Gegner mit Strom\n"
 	.string "paralysiert!\p"
-	.string "Das Gleiche steht dir nun bevor!{CTRL}?À$"
+	.string "Das Gleiche steht dir nun bevor!{PLAY_BGM}?À$"
 
 VermilionCity_Gym_Text_LtSurgePostBattle::
 	.string "Ich gebe dir noch einen Tipp!\p"
@@ -393,13 +393,13 @@ VermilionCity_Gym_Text_GymStatue::
 	.string "ORANIA POKéMON-ARENA\n"
 	.string "LEITUNG: MAJOR BOB\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
 	.string "ORANIA POKéMON-ARENA\n"
 	.string "LEITUNG: MAJOR BOB\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
 	.string "Hier ist nichts, bloß Abfall.$"

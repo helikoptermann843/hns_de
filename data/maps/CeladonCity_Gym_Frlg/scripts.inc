@@ -224,11 +224,11 @@ CeladonCity_Gym_Text_GymStatue::
 	.string "PRISMANIA POKéMON-ARENA\n"
 	.string "LEITUNG: ERIKA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
 	.string "PRISMANIA POKéMON-ARENA\n"
 	.string "LEITUNG: ERIKA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

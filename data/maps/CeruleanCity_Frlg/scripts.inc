@@ -358,13 +358,13 @@ CeruleanCity_EventScript_GymSign::
 	end
 
 CeruleanCity_Text_RivalIntro::
-	.string "{VAR}: Hi, {VAR}!\p"
+	.string "{RIVAL}: Hi, {PLAYER}!\p"
 	.string "Du bist also immer noch unterwegs!\p"
 	.string "Mir geht es bestens! Ich habe jede\n"
 	.string "Menge neue, starke POKéMON\l"
 	.string "gefangen!\p"
 	.string "Zeig, was du gefangen hast,\n"
-	.string "{VAR}!$"
+	.string "{PLAYER}!$"
 
 CeruleanCity_Text_RivalDefeat::
 	.string "Hey!\n"
@@ -372,7 +372,7 @@ CeruleanCity_Text_RivalDefeat::
 	.string "You won already!$"
 
 CeruleanCity_Text_RivalPostBattle::
-	.string "{VAR}: Soll ich dir was\n"
+	.string "{RIVAL}: Soll ich dir was\n"
 	.string "verraten?\p"
 	.string "Ich war bei BILL und habe mir\n"
 	.string "seine seltenen POKéMON zeigen\l"

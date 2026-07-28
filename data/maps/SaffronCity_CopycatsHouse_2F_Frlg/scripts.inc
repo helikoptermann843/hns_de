@@ -54,11 +54,11 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 	.string "Und besorge dir FEUERHEILER!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
-	.string "{VAR}: Hallo!\n"
+	.string "{PLAYER}: Hallo!\n"
 	.string "Magst du POKéMON?\p"
-	.string "{VAR}: Halt, ich habe doch dich\n"
+	.string "{PLAYER}: Halt, ich habe doch dich\n"
 	.string "gefragt.\p"
-	.string "{VAR}: Wie?\n"
+	.string "{PLAYER}: Wie?\n"
 	.string "Du bist komisch!\p"
 	.string "NACHAHMERIN: Hmm? Ich soll die\n"
 	.string "Nachahmerei aufgeben?\p"
@@ -81,19 +81,19 @@ Text_MimicWhichMon::
 	.string "Wer soll es erlernen?$"
 
 Text_MimicTaughtMale::
-	.string "{VAR}: Hallo!\n"
+	.string "{PLAYER}: Hallo!\n"
 	.string "Vielen Dank!\p"
-	.string "{VAR}: Entschuldigung?\p"
-	.string "{VAR}: … macht es dir wirklich\n"
+	.string "{PLAYER}: Entschuldigung?\p"
+	.string "{PLAYER}: … macht es dir wirklich\n"
 	.string "so viel Spaß, mich nachzuahmen?\p"
 	.string "NACHAHMERIN: Darauf kannst du\n"
 	.string "wetten! Es ist grandios!$"
 
 Text_MimicTaughtFemale::
-	.string "{VAR}: Hallo!\n"
+	.string "{PLAYER}: Hallo!\n"
 	.string "Vielen Dank!\p"
-	.string "{VAR}: Entschuldigung?\p"
-	.string "{VAR}: … macht es dir wirklich\n"
+	.string "{PLAYER}: Entschuldigung?\p"
+	.string "{PLAYER}: … macht es dir wirklich\n"
 	.string "so viel Spaß, mich nachzuahmen?\p"
 	.string "NACHAHMERIN: Darauf kannst du\n"
 	.string "wetten! Es ist grandios!$"

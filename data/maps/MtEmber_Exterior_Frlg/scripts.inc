@@ -169,7 +169,7 @@ MtEmber_Exterior_Text_WhatsPasswordAgain::
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 	.string "Wie?!? Du hast das Passwort \n"
 	.string "vergessen? Eigentlich sind es zwei!\p"
-	.string "Das erste lautet "ARBOK Kobra".\p"
+	.string "Das erste lautet “ARBOK Kobra”.\p"
 	.string "Und das zweite ist…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::

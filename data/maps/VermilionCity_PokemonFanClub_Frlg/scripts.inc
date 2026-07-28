@@ -188,7 +188,7 @@ VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
 	.string "dir etwas erzählen soll!$"
 
 VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
-	.string "Hallo, {VAR}!\p"
+	.string "Hallo, {PLAYER}!\p"
 	.string "Soll ich dir von meinen POKéMON\n"
 	.string "erzählen?\p"
 	.string "Nein? Schade!$"

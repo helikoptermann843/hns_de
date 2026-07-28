@@ -56,8 +56,8 @@ FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
 	.string "パスワードが　2つ　いるようだ$"
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
-	.string "{VAR} gab ein Passwort ein.\p"
-	.string ""ARBOK Kobra"\p"
+	.string "{PLAYER} gab ein Passwort ein.\p"
+	.string "“ARBOK Kobra”\p"
 	.string "…………\n"
 	.string "……\p"
 	.string "Um die Türe zu öffnen, wird ein\n"

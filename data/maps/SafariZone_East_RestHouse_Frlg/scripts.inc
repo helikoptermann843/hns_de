@@ -18,8 +18,8 @@ SafariZone_East_Text_HowManyDidYouCatch::
 	.string "dem TUNNELPFAD verloren.$"
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
-	.string "Wie geht es {VAR}?\p"
-	.string "Mein {VAR} fühlt sich super!$"
+	.string "Wie geht es {PLAYER}?\p"
+	.string "Mein {PLAYER} fühlt sich super!$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
 	.string "Ein verschlafenes POKéMON ist in\n"

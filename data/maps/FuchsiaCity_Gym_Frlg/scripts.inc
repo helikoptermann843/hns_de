@@ -97,7 +97,7 @@ FuchsiaCity_Gym_Text_KogaIntro::
 	.string "Schreckens, bevor ich dich\l"
 	.string "besiege!\p"
 	.string "An meinen Schlaf- und Gift-\n"
-	.string "Attacken sollst du verzweifeln!{CTRL}?À$"
+	.string "Attacken sollst du verzweifeln!{PLAY_BGM}?À$"
 
 FuchsiaCity_Gym_Text_KogaDefeat::
 	.string "Na so was!\n"
@@ -226,11 +226,11 @@ FuchsiaCity_Gym_Text_GymStatue::
 	.string "FUCHSANIA POKéMON-ARENA\n"
 	.string "LEITUNG: KOGA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
 	.string "FUCHSANIA POKéMON-ARENA\n"
 	.string "LEITUNG: KOGA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

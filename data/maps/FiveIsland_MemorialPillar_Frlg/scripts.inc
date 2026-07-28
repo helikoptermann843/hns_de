@@ -133,8 +133,8 @@ FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
 	.string "Es hieß TECTONIX…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-	.string ""TECTONIX ruht hier in\n"
-	.string "Frieden" ist in den Stein\l"
+	.string "“TECTONIX ruht hier in\n"
+	.string "Frieden“ ist in den Stein\l"
 	.string "gemeißelt.\p"
 	.string "Vor dem Grab wurde eine LIMONADE\n"
 	.string "zum Gedenken dargereicht.$"
@@ -179,7 +179,7 @@ FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
 	.string "Die Felsen und Steine bilden eine\n"
 	.string "ordentlich angelegte Pyramide.\p"
-	.string ""TECTONIX ruht hier in\n"
-	.string "Frieden" ist in den Stein\l"
+	.string "“TECTONIX ruht hier in\n"
+	.string "Frieden“ ist in den Stein\l"
 	.string "gemeißelt.$"
 

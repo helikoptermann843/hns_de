@@ -70,7 +70,7 @@ OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
 OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
 	.string "Das Wasser ist schön warm!\n"
 	.string "Genau richtig! Klasse…\p"
-	.string "{VAR} und das Team fühlen sich\n"
+	.string "{PLAYER} und das Team fühlen sich\n"
 	.string "erfrischt!$"
 
 OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::

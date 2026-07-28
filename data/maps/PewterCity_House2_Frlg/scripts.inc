@@ -10,13 +10,13 @@ PewterCity_House2_EventScript_LittleBoy::
 	end
 
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-	.string "{VAR}, gibt es etwas, das du\n"
+	.string "{PLAYER}, gibt es etwas, das du\n"
 	.string "nicht leiden kannst?\p"
 	.string "BILL kann offensichtlich\n"
 	.string "Milch nicht leiden!$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-	.string "{VAR}, was sind deine Lieblings-\n"
+	.string "{PLAYER}, was sind deine Lieblings-\n"
 	.string "POKéMON?\p"
 	.string "BILL ist ein POKéMANIAC, also mag\n"
 	.string "er alle POKéMON.\p"

@@ -476,10 +476,10 @@ PalletTown_Text_OakPokemonResearchLab::
 	.string "POKéMON-LABOR$"
 
 PalletTown_Text_PlayersHouse::
-	.string "Haus von {VAR}$"
+	.string "Haus von {PLAYER}$"
 
 PalletTown_Text_RivalsHouse::
-	.string "Haus von {VAR}$"
+	.string "Haus von {RIVAL}$"
 
 PalletTown_Text_TownSign::
 	.string "ALABASTIA\n"
@@ -487,7 +487,7 @@ PalletTown_Text_TownSign::
 	.string "Abenteuer!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-	.string "EICH: Ah, {VAR}!\n"
+	.string "EICH: Ah, {PLAYER}!\n"
 	.string "Du bist also zurück?\p"
 	.string "Wie ist es denn um deinen\n"
 	.string "POKéDEX bestellt?\p"
@@ -495,25 +495,25 @@ PalletTown_Text_OakLetMeSeePokedex::
 	.string "Aha…$"
 
 PalletTown_Text_CaughtXPuttingInHonestEffort::
-	.string "Du hast {VAR} gefangen…\p"
+	.string "Du hast {STR_VAR_2} gefangen…\p"
 	.string "Hmm, es scheint, du würdest dich\n"
 	.string "wirklich anstrengen.\p"
 	.string "Wenn du mehr Einträge hast,\n"
 	.string "musst du ihn mir erneut zeigen.$"
 
 PalletTown_Text_CaughtXImpressiveFollowMe::
-	.string "Du hast {VAR} gefangen…\n"
+	.string "Du hast {STR_VAR_2} gefangen…\n"
 	.string "Das ist wirklich beeindruckend!\p"
 	.string "Es gibt etwas, das ich dich fragen\n"
-	.string "wollte, {VAR}.\p"
+	.string "wollte, {PLAYER}.\p"
 	.string "Komm!\n"
 	.string "Folge mir!$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-	.string "EICH: Ah, {VAR}!\n"
+	.string "EICH: Ah, {PLAYER}!\n"
 	.string "Dir scheint das Reisen Spaß zu\l"
 	.string "machen!\l"
-	.string "Da ich dich kenne, {VAR},\l"
+	.string "Da ich dich kenne, {PLAYER},\l"
 	.string "kann ich mir vorstellen, dass du\l"
 	.string "auch abgelegene Orte bereist.\p"
 	.string "Das ist gut!\n"

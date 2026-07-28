@@ -182,7 +182,7 @@ SilphCo_11F_Text_ThanksForRescuingUs::
 	.string "Danke!$"
 
 SilphCo_11F_Text_GiovanniIntro::
-	.string "Ah, {VAR}!\n"
+	.string "Ah, {PLAYER}!\n"
 	.string "So trifft man sich wieder!\p"
 	.string "Ich führe gerade äußerst wichtige\n"
 	.string "Verhandlungen mit dem PRÄSIDENTEN.\p"

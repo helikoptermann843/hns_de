@@ -15,7 +15,7 @@ Route2_ViridianForest_SouthEntrance_Text_ForestIsMaze::
 	.string "wie mein kleiner Bruder…$"
 
 Route2_ViridianForest_SouthEntrance_Text_RattataHasWickedBite::
-	.string "Besitzt du ein {VAR}?\p"
-	.string "Willst du es gegen {VAR}\n"
+	.string "Besitzt du ein {PLAYER}?\p"
+	.string "Willst du es gegen {PLAYER}\n"
 	.string "tauschen?$"
 

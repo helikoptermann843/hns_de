@@ -29,7 +29,7 @@ CopycatsHouse1F_Text_PokefanM:
 	.string "Tochter gerne andere Leute nach.\p"
 	.string "Keine Minute vergeht, in der sie normal\n"
 	.string "mit mir spricht. Die Nachbarn nennen sie\l"
-	.string "sogar schon die "Nachahmerin"!$"
+	.string "sogar schon die “Nachahmerin”!$"
 
 CopycatsHouse1F_Text_PokefanF:
 	.string "Meine Tochter ist sehr ichbezogen…\p"

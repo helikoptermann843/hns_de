@@ -113,7 +113,7 @@ ViridianCity_Gym_Text_GiovanniIntro::
 	.string "aufgespürt! Also gut! Dieses Mal\l"
 	.string "kenne ich keine Gnade!\p"
 	.string "Ich, Giovanni, der größte aller\n"
-	.string "Trainer, fordere Revanche!{CTRL}éÀ$"
+	.string "Trainer, fordere Revanche!{PLAY_BGM}éÀ$"
 
 ViridianCity_Gym_Text_GiovanniDefeat::
 	.string "Ha!\n"
@@ -267,11 +267,11 @@ ViridianCity_Gym_Text_GymStatue::
 	.string "VERTANIA POKéMON-ARENA\n"
 	.string "LEITUNG: ?\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
 	.string "VERTANIA POKéMON-ARENA\n"
 	.string "LEITUNG: GIOVANNI\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

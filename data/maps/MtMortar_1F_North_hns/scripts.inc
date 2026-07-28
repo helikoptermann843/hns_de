@@ -58,7 +58,7 @@ MountMortar2_Text_PokemaniacMillerAfter:
 	.string "Der war vielleicht stark!\l"
 	.string "Mir tun immer noch alle Knochen weh!\p"
 	.string "Am Schluss blaffte er mich an:\n"
-	.string ""Du brauchst mehr Training!"\l"
+	.string "“Du brauchst mehr Training!”\l"
 	.string "und verschwand im Berginneren.\l"
 	.string "Was der wohl hier macht?$"
 

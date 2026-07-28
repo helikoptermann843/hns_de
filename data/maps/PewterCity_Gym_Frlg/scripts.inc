@@ -91,7 +91,7 @@ PewterCity_Gym_Text_BrockIntro::
 	.string "Pokémon!\p"
 	.string "Willst du es noch immer mit mir\n"
 	.string "aufnehmen?\p"
-	.string "O.k.! Zeige mir, wie gut du bist!{CTRL}?À$"
+	.string "O.k.! Zeige mir, wie gut du bist!{PLAY_BGM}?À$"
 
 PewterCity_Gym_Text_BrockDefeat::
 	.string "Ich habe dich falsch eingeschätzt!\p"
@@ -190,11 +190,11 @@ PewterCity_Gym_Text_GymStatue::
 	.string "MARMORIA POKéMON-ARENA\n"
 	.string "LEITUNG: ROCKO\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
 	.string "MARMORIA POKéMON-ARENA\n"
 	.string "LEITUNG: ROCKO\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

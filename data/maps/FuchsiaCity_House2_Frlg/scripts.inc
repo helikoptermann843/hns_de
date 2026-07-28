@@ -62,7 +62,7 @@ FuchsiaCity_House2_Text_OhThatsDisappointing::
 	.string "Das ist so enttäuschend...$"
 
 FuchsiaCity_House2_Text_HowAreTheFishBiting::
-	.string "Hallo, {VAR}!\p"
+	.string "Hallo, {PLAYER}!\p"
 	.string "Wie beißen die Fische?$"
 
 FuchsiaCity_House2_Text_YouHaveNoRoomForGift::

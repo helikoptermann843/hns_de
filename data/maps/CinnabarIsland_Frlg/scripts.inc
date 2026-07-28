@@ -377,7 +377,7 @@ CinnabarIsland_Text_GymSign::
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
 	.string "Häh?\n"
-	.string "Wenn das nicht {VAR} ist!$"
+	.string "Wenn das nicht {PLAYER} ist!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "Ich bin es, BILL.\n"

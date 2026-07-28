@@ -233,7 +233,7 @@ TrainerTower_Lobby_Text_TrainersUpToFloorNum::
 	.string "kommen hierher, um zu kämpfen.\p"
 	.string "Lass mich mal sehen…\p"
 	.string "Momentan findest du TRAINER\n"
-	.string "bis in Stockwerk {VAR}.$"
+	.string "bis in Stockwerk {STR_VAR_1}.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
 	.string "Bis zum achten Stock erwarten\n"
@@ -304,7 +304,7 @@ TrainerTower_Roof_Text_IdLikeToSeeBetterTime::
 	.string "Bis demnächst, mach es gut…$"
 
 TrainerTower_Text_XMinYZSec::
-	.string "{VAR} Min. {VAR},{VAR} Sek.$"
+	.string "{STR_VAR_1} Min. {STR_VAR_2},{STR_VAR_3} Sek.$"
 
 TrainerTower_Lobby_Text_HereAreTheResults::
 	.string "せいせきひょうです$"

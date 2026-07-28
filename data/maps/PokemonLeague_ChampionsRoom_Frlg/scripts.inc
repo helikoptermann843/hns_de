@@ -225,9 +225,9 @@ PokemonLeague_ChampionsRoom_Movement_RivalWatchOakEnter::
 	step_end
 
 PokemonLeague_ChampionsRoom_Text_Intro::
-	.string "{VAR}: Hallo!\p"
+	.string "{RIVAL}: Hallo!\p"
 	.string "Auf diesen Moment warte ich schon\n"
-	.string "lange, {VAR}!\p"
+	.string "lange, {PLAYER}!\p"
 	.string "Ich brauche einen starken Gegner,\n"
 	.string "um mich in Form zu halten!\p"
 	.string "Während ich meinen POKéDEX\n"
@@ -239,15 +239,15 @@ PokemonLeague_ChampionsRoom_Text_Intro::
 	.string "Und nun...\p"
 	.string "... bin ich Champion der POKéMON\n"
 	.string "LIGA!\p"
-	.string "{VAR}!\n"
+	.string "{PLAYER}!\n"
 	.string "Weißt du, was das bedeutet?\p"
 	.string "Ich werde es dir sagen!\p"
 	.string "Ich bin der mächtigste TRAINER der\n"
 	.string "Welt!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchIntro::
-	.string "{VAR}: Hallo!\p"
-	.string "Du bist zurück, {VAR}!\n"
+	.string "{RIVAL}: Hallo!\p"
+	.string "Du bist zurück, {PLAYER}!\n"
 	.string "Das ist großartig!\p"
 	.string "Ich brauche einen starken Gegner,\n"
 	.string "um mich in Form zu halten!\p"
@@ -260,7 +260,7 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 	.string "Und nun...\p"
 	.string "... bin ich Champion der POKéMON\n"
 	.string "LIGA!\p"
-	.string "{VAR}!\n"
+	.string "{PLAYER}!\n"
 	.string "Weißt du, was das bedeutet?\p"
 	.string "Ich werde es dir sagen!\p"
 	.string "Ich bin der mächtigste TRAINER der\n"
@@ -296,7 +296,7 @@ PokemonLeague_ChampionsRoom_Text_PostBattle::
 	.string "Aber ich gönne dir das nicht!$"
 
 PokemonLeague_ChampionsRoom_Text_OakPlayer::
-	.string "EICH: {VAR}!$"
+	.string "EICH: {PLAYER}!$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 	.string "EICH: Du hast also gewonnen!\n"
@@ -304,19 +304,19 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 	.string "Du bist der neue Champion der\n"
 	.string "POKéMON LIGA!\p"
 	.string "Du hast viel dazugelernt, seit du\n"
-	.string "dich mit {VAR} auf den Weg\l"
+	.string "dich mit {STR_VAR_1} auf den Weg\l"
 	.string "gemacht hast!\p"
-	.string "{VAR}, du bist schon viel\n"
+	.string "{PLAYER}, du bist schon viel\n"
 	.string "erfahrener!$"
 
 PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
-	.string "EICH: {VAR}!\n"
+	.string "EICH: {RIVAL}!\n"
 	.string "Du hast mich sehr enttäuscht!\p"
 	.string "Als ich hörte, du hättest die TOP\n"
 	.string "VIER besiegt, kam ich hierher!\p"
 	.string "Doch als ich ankam, warst du der\n"
 	.string "Verlierer!\p"
-	.string "{VAR}, weißt du, warum du\n"
+	.string "{RIVAL}, weißt du, warum du\n"
 	.string "verloren hast?\p"
 	.string "Du hast deinen POKéMON nicht genug\n"
 	.string "Liebe und Vertrauen \l"
@@ -324,11 +324,11 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
 	.string "So wirst du niemals Sieger werden!$"
 
 PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe::
-	.string "EICH: {VAR}!\p"
+	.string "EICH: {PLAYER}!\p"
 	.string "Du hast begriffen, dass dein Sieg\n"
 	.string "nicht allein dein Verdienst war!\p"
 	.string "Die Beziehung zu deinen POKéMON\n"
 	.string "ist vorbildlich!\p"
-	.string "{VAR}!\n"
+	.string "{PLAYER}!\n"
 	.string "Folge mir!$"
 

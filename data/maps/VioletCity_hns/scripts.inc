@@ -402,15 +402,15 @@ VioletCity_Text_EarlAsksIfYouBeatFalkner:
 	.string "ARENALEITER gewonnen?$"
 
 VioletCity_Text_VeryNiceIndeed:
-	.string "Ooh, la la!\n"
-	.string "Wirklich sehr schön!$"
+	.string "Olala! Äußörst beeindrückönd!$"
 
 VioletCity_Text_FollowEarl:
-	.string "Ist das so?\n"
-	.string "Dann lerne gut!$"
+	.string "Wirklisch? Da ilft nur die Training!\n"
+	.string "Folge mir, d'accord?$"
 
 VioletCity_Text_HereTeacherIAm:
-	.string "METTWURST! Schlagfertig, nicht?$"
+	.string "Isch bin ier die Lehrör!\p"
+	.string "Du solltöst machön die Training ier!$"
 
 VioletCity_Text_Lass:
 	.string "Man sagt, dass im\n"
@@ -425,28 +425,28 @@ VioletCity_Text_Boy:
 	.string "Neues lernen!$"
 
 VioletCity_Text_Gramps:
-	.string "FALK von der PKMN-ARENA in\n"
-	.string "VIOLA CITY ist\l"
-	.string "ein großartiger Trainer!\p"
-	.string "Er hat die PKMN-ARENA\n"
-	.string "seines Vaters geerbt und\l"
-	.string "hat dort sehr gute Arbeit geleistet.$"
+	.string "Falk, der Leiter der Pokémon-Arena von\n"
+	.string "Viola City, ist ein großartiger Trainer!\p"
+	.string "Er ist in die Fußstapfen seines Vaters\n"
+	.string "getreten und leitet die Arena hier mit\l"
+	.string "sehr viel Können.$"
 
 VioletCity_Text_Youngster:
-	.string "Ich habe einen wackeligen\n"
-	.string "Baum gesehen!\p"
+	.string "Ich habe einen\n"
+	.string "wackeligen Baum gesehen!\p"
 	.string "Wenn du ihn berührst,\n"
 	.string "windet er sich und tanzt!\l"
 	.string "So Cool!$"
 
 VioletCity_Text_Sign:
-	.string "VIOLA CITY\p"
+	.string "Viola City\n"
 	.string "Die Stadt der Nostalgie$"
 
 VioletCity_Text_GymSign:
-	.string "VIOLA CITY POKéMON ARENA\p"
-	.string "LEITER: FALK, Der elegante\n"
-	.string "Meister der Flug-POKéMON$"
+	.string "Pokémon-Arena von Viola City\n"
+	.string "Leiter: Falk\l"
+	.string "Der elegante Meister der\l"
+	.string "Flug-Pokémon$"
 
 VioletCity_Text_SproutTowerSign:
 	.string "Knofensa-Turm\p"
@@ -468,12 +468,12 @@ VioletCity_Text_ElmName:
 	.string "PROF.ELM$"
 
 VioletCity_Text_Elm_Call:
-	.string "Lind: Hallo, {PLAYER}? Wir\n"
-	.string "haben etwas über das Ei\l"
-	.string "herausgefunden!\p"
-	.string "Mein Assistent ist im\n"
-	.string "POKéMON-CENTER in Viola.\p"
-	.string "Kannst du mit ihm sprechen?$"
+	.string "Hallo {PLAYER}?\n"
+	.string "Ich habe Neuigkeiten über das Ei!\p"
+	.string "Im Pokémon-Supermarkt von Viola\n"
+	.string "City solltest du einen meiner\l"
+	.string "Assistenten antreffen.\l"
+	.string "Lass dir von ihm alles erklären!$"
 
 VioletCity_Text_Kimono_Girl1:
 	.string "Oh je…\n"

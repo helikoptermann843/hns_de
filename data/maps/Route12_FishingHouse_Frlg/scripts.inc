@@ -130,7 +130,7 @@ Route12_FishingHouse_Text_OhThatsDisappointing::
 	.string "Das ist so enttäuschend...$"
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
-	.string "Hallo, {VAR}!\p"
+	.string "Hallo, {PLAYER}!\p"
 	.string "Benutze die SUPERANGEL in allen\n"
 	.string "Gewässern.\p"
 	.string "Du kannst die verschiedensten\n"
@@ -139,13 +139,13 @@ Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
 	.string "KARPADOR für mich zu fangen.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
-	.string "Oh? {VAR}?\n"
+	.string "Oh? {PLAYER}?\n"
 	.string "Wenn das nicht KARPADOR ist!\p"
 	.string "Darf ich es sehen, bitte!$"
 
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
 	.string "……… Wow!\n"
-	.string "{VAR} cm!\p"
+	.string "{STR_VAR_2} cm!\p"
 	.string "Du hast eine seltene, elitäre\n"
 	.string "Affinität zu den poetischen\l"
 	.string "Gesichtspunkten des Angelns!\l"
@@ -158,13 +158,13 @@ Route12_FishingHouse_Text_LookForwardToGreaterRecords::
 
 Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
 	.string "Häh!\n"
-	.string "{VAR} cm?\p"
+	.string "{STR_VAR_2} cm?\p"
 	.string "Das ist genauso groß, wie zuvor!$"
 
 Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
 	.string "Hm…\n"
-	.string "Dieses ist {VAR} cm groß!\p"
-	.string "Das ist weniger als die {VAR} cm,\n"
+	.string "Dieses ist {STR_VAR_2} cm groß!\p"
+	.string "Das ist weniger als die {STR_VAR_3} cm,\n"
 	.string "die du mir zuvor gezeigt hast.$"
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
@@ -179,7 +179,7 @@ Route12_FishingHouse_Text_NoRoomForGift::
 Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
 	.string "Das größte KARPADOR, das\n"
 	.string "ich je sah, hatte…\p"
-	.string "{VAR} cm!$"
+	.string "{STR_VAR_3} cm!$"
 
 Route12_FishingHouse_Text_BlankChartOfSomeSort::
 	.string "Es ist eine leere Tabelle!\p"

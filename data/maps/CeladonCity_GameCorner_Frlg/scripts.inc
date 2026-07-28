@@ -504,7 +504,7 @@ CeladonCity_GameCorner_Text_DoYouWantToPlay::
 	.string "Möchtest du auch spielen?$"
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
-	.string "{VAR} erhält\n"
+	.string "{PLAYER} erhält\n"
 	.string "10 MÜNZEN!$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
@@ -541,7 +541,7 @@ CeladonCity_GameCorner_Text_WantSomeCoins::
 	.string "Brauchst du ein paar MÜNZEN?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
-	.string "{VAR} erhält\n"
+	.string "{PLAYER} erhält\n"
 	.string "20 MÜNZEN!$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
@@ -556,7 +556,7 @@ CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
 	.string "Hier, nimm ein paar MÜNZEN!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
-	.string "{VAR} erhält\n"
+	.string "{PLAYER} erhält\n"
 	.string "20 MÜNZEN!$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::

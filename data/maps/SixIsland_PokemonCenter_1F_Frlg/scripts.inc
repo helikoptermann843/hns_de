@@ -93,7 +93,7 @@ SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
 	.string "auftauen!$"
 
 SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
-	.string "{VAR}: Heh {VAR}!\n"
+	.string "{RIVAL}: Heh {PLAYER}!\n"
 	.string "Wie ist es um deinen POKéDEX\l"
 	.string "bestellt?\l"
 	.string "Es scheint unmöglich zu sein, alle\l"

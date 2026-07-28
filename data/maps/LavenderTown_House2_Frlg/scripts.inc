@@ -72,7 +72,7 @@ LavenderTown_House2_Text_CritiqueWhichMonsNickname::
 	.string "Kosenamen bewerten?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
-	.string "Der Spitzname ist {VAR},\n"
+	.string "Der Spitzname ist {STR_VAR_1},\n"
 	.string "oder? Ein schöner Name!\p"
 	.string "Gefällt er dir noch immer, oder\n"
 	.string "möchtest du ihn ändern?\p"
@@ -100,9 +100,9 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
 	.string "er um einiges besser! Welch ein Glück!$"
 
 LavenderTown_House2_Text_TrulyImpeccableName::
-	.string "{VAR}! Ein wirklich tadelloser\n"
+	.string "{STR_VAR_1}! Ein wirklich tadelloser\n"
 	.string "Name!\p"
-	.string "Kümmere dich gut um {VAR}!$"
+	.string "Kümmere dich gut um {STR_VAR_1}!$"
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
 	.string "Mhm, mhm…\n"

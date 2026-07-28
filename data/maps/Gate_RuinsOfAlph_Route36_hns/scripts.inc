@@ -26,16 +26,18 @@ Gate_RuinsOfAlph_Route36_EventScript_Youngster::
 	end
 
 Gate_RuinsOfAlph_Route36_Text_Officer:
-	.string "Die Alph-Ruinen sind\n"
-	.string "eine archäoligische Stätte\l"
-	.string "zum anfassen!\p"
-	.string "Versuche dich an den Puzzeln.$"
+	.string "In den Alph-Ruinen wird dir Geschichte\n"
+	.string "zum Anfassen und Bestaunen geboten.\p"
+	.string "Du darfst gerne auch mal versuchen, die\n"
+	.string "Steintafeln zu bewegen!$"
 
 Gate_RuinsOfAlph_Route36_Text_PokefanM:
-	.string "Seltsame Ruinen oder?\p"
-	.string "Vielleicht finde ich ja etwas.$"
+	.string "Oh, du untersuchst die Ruinen?\n"
+	.string "Aus dir wird bestimmt mal ein\l"
+	.string "guter Wissenschaftler!$"
 
 Gate_RuinsOfAlph_Route36_Text_Youngster:
-	.string "Es gibt viele unterschiedliche\n"
-	.string "ICOGNITO, die wir für unsere\l"
-	.string "Geheimcodes benötigen.$"
+	.string "Auf den Steintafeln sind Zeichnungen!\n"
+	.string "Ich habe versucht, sie ein bisschen\l"
+	.string "zu bewegen, aber ich habe immer noch\l"
+	.string "keine Ahnung, zu was sie gut sind.$"

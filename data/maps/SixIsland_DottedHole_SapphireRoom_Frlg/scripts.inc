@@ -259,7 +259,7 @@ SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
 	.string "Passwörter für das LAGER\l"
 	.string "von TEAM ROCKET.\l"
 	.string "Das Passwort, das ich kenne, lautet\l"
-	.string ""MAKUHITA Atihu kam".\p"
+	.string "“MAKUHITA Atihu kam”.\p"
 	.string "Vorbei.\n"
 	.string "Nichts für ungut!$"
 

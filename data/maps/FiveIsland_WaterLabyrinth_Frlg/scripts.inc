@@ -105,7 +105,7 @@ FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
 
 FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "Oh, hallo!\n"
-	.string "Das ist ein süßes {VAR}.\p"
+	.string "Das ist ein süßes {STR_VAR_2}.\p"
 	.string "Beim Betrachten fällt mir ein\n"
 	.string "kleines Mädchen ein, das\l"
 	.string "ich auf einer meiner Reisen traf.\p"

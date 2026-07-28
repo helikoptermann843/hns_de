@@ -324,7 +324,7 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalkJP::
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_FossilMonBackToLife::
 	.string "Wo warst du? Wir haben\n"
 	.string "dein Fossil wieder belebt!\p"
-	.string "Ein {VAR}, ganz wie ich es\n"
+	.string "Ein {STR_VAR_1}, ganz wie ich es\n"
 	.string "vermutet habe!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ReceivedMonFromDoctor::
@@ -337,8 +337,8 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoRoomForPokemon::
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 	.string "Oh!\n"
-	.string "Das ist ein {VAR}!\p"
-	.string "Es ist ein Fossil von {VAR},\n"
+	.string "Das ist ein {STR_VAR_2}!\p"
+	.string "Es ist ein Fossil von {STR_VAR_1},\n"
 	.string "einem schon lange ausgestorbenen\l"
 	.string "POKéMON!\p"
 	.string "Dank modernster Technik können wir\n"
@@ -349,8 +349,8 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HandedFossilToWeirdDoctor::
 	.string "Gib es schnell her, damit ich\n"
 	.string "fortfahren kann!\p"
-	.string "{CTRL}{VAR} übergibt das\n"
-	.string "{VAR}!$"
+	.string "{FONT_NORMAL}{PLAYER} übergibt das\n"
+	.string "{STR_VAR_2}!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_TakesTimeGoForWalk::
 	.string "Es wird einige Zeit dauern!\n"

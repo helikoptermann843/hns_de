@@ -23,11 +23,11 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "Psychokräfte!$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
-	.string "EICH: {VAR}!\p"
+	.string "EICH: {PLAYER}!\p"
 	.string "Du hast begriffen, dass dein Sieg\n"
 	.string "nicht allein dein Verdienst war!\p"
 	.string "Die Beziehung zu deinen POKéMON\n"
 	.string "ist vorbildlich!\p"
-	.string "{VAR}!\n"
+	.string "{PLAYER}!\n"
 	.string "Folge mir!$"
 

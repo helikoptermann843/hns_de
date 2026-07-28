@@ -166,12 +166,12 @@ PalletTown_RivalsHouse_EventScript_Picture::
 	end
 
 PalletTown_RivalsHouse_Text_HiBrothersAtLab::
-	.string "SARAH: Hallo {VAR}!\p"
-	.string "{VAR} wartet in Opas LABOR.$"
+	.string "SARAH: Hallo {PLAYER}!\p"
+	.string "{RIVAL} wartet in Opas LABOR.$"
 
 PalletTown_RivalsHouse_Text_HeardYouBattledRival::
-	.string "SARAH: Hallo {VAR}! Ich hörte,\n"
-	.string "dass du gegen {VAR} \l"
+	.string "SARAH: Hallo {PLAYER}! Ich hörte,\n"
+	.string "dass du gegen {RIVAL} \l"
 	.string "gekämpft hast.\l"
 	.string "Das hätte ich gerne gesehen!$"
 
@@ -248,7 +248,7 @@ PalletTown_RivalsHouse_Text_MayISeeFirstMon::
 	.string "SARAH: Deine POKéMON werden dich\n"
 	.string "lieben, wenn du sie mit Liebe\l"
 	.string "trainierst.\l"
-	.string "{VAR}, darf ich dein erstes\l"
+	.string "{PLAYER}, darf ich dein erstes\l"
 	.string "POKéMON sehen?$"
 
 PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
@@ -259,7 +259,7 @@ PalletTown_RivalsHouse_Text_CouldntLoveYouMore::
 
 PalletTown_RivalsHouse_Text_ItLooksVeryHappy::
 	.string "Es ist sehr glücklich!\p"
-	.string "Ich wünschte, {VAR} könnte das\n"
+	.string "Ich wünschte, {RIVAL} könnte das\n"
 	.string "sehen und etwas daraus lernen.$"
 
 PalletTown_RivalsHouse_Text_ItsQuiteFriendly::
@@ -277,7 +277,7 @@ PalletTown_RivalsHouse_Text_NotFamiliarWithYouYet::
 	.string "wenn man sie fängt!$"
 
 PalletTown_RivalsHouse_Text_DontLikeWayItGlaresAtYou::
-	.string "{VAR}, ich mag gar nicht, wie es\n"
+	.string "{PLAYER}, ich mag gar nicht, wie es\n"
 	.string "dich anschaut!\p"
 	.string "Du solltest etwas liebevoller mit\n"
 	.string "ihm umgehen!$"

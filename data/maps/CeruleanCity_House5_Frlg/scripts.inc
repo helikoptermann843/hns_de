@@ -227,7 +227,7 @@ CeruleanCity_House5_Text_ExchangeWithWhat::
 	.string "exchange it?$"
 
 CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
-	.string "Gut, ich gebe dir {VAR} im\n"
+	.string "Gut, ich gebe dir {STR_VAR_1} im\n"
 	.string "Austausch für deinen\l"
 	.string "BEERENPUDER!$"
 

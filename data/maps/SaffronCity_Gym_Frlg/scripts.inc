@@ -104,7 +104,7 @@ SaffronCity_Gym_Text_SabrinaIntro::
 	.string "Psychokinese Löffel zu verbiegen.\p"
 	.string "Ich verabscheue den Kampf!\n"
 	.string "Aber wenn du es wünschst, beweise\l"
-	.string "ich dir meine Kräfte!{CTRL}?À$"
+	.string "ich dir meine Kräfte!{PLAYER}?À$"
 
 SaffronCity_Gym_Text_SabrinaDefeat::
 	.string "Ich bin erschüttert!\n"
@@ -255,11 +255,11 @@ SaffronCity_Gym_Text_GymStatue::
 	.string "SAFFRONIA POKéMON-ARENA\n"
 	.string "LEITUNG: SABRINA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
 	.string "SAFFRONIA POKéMON-ARENA\n"
 	.string "LEITUNG: SABRINA\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 

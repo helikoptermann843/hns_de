@@ -29,7 +29,7 @@ PalletTown_PlayersHouse_2F_EventScript_Sign::
 	end
 
 PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
-	.string "{VAR} spielt NES!\p"
+	.string "{PLAYER} spielt NES!\p"
 	.string "O.K.!\n"
 	.string "Die Reise kann beginnen!$"
 

@@ -74,7 +74,7 @@ Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
 	.string "böse GEISTER spuken!$"
 
 Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
-	.string "Oh… {VAR}!\n"
+	.string "Oh… {PLAYER}!\n"
 	.string "Ich habe schon nach dir gesucht!\p"
 	.string "Ich bin es, der allzeit präsente\n"
 	.string "ASSISTENT von PROF. EICH.\p"
@@ -83,12 +83,12 @@ Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
 	.string "ich dir von PROF. EICH eine\l"
 	.string "Belohnung geben.\l"
 	.string "Er gab mir diesen EWIGSTEIN.\p"
-	.string "Also, {VAR}, ich frage dich!\p"
+	.string "Also, {PLAYER}, ich frage dich!\p"
 	.string "Hast du mindestens 20 verschiedene\n"
 	.string "POKéMON in deinem Besitz?$"
 
 Route10_PokemonCenter_1F_Text_GreatHereYouGo::
-	.string "Super! Du hast {VAR} verschiedene\n"
+	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"

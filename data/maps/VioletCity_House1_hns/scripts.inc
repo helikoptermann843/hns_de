@@ -35,10 +35,10 @@ VioletCity_House1_EventScript_TradeCompleted::
 	end
 
 VioletCity_House1_Text_YouWillTradeWontYou:
-	.string "Ich sammle Pokémon!\n"
-	.string "Hast du ein {STR_VAR_1}?\p"
-	.string "Willst du es gegen mein\n"
-	.string "{STR_VAR_2} tauschen?$"
+	.string "Ich sammele Pokémon!\n"
+	.string "Hast du ein TRAUMATO?\p"
+	.string "Möchtest du es gegen\n"
+	.string "mein MACHOLLO tauschen?$"
 
 VioletCity_House1_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe {STR_VAR_1}!\p"
@@ -49,15 +49,16 @@ VioletCity_House1_Text_ThisIsntAMon:
 	.string "Das ist kein {STR_VAR_1}.$"
 
 VioletCity_House1_Text_YouWontTradeMe:
-	.string "Du willst nicht tauschen? Oh…$"
+	.string "Du möchtest also nicht tauschen?\n"
+	.string "Schade…$"
 
 VioletCity_House1_Text_After:
-	.string "Hi, wie geht es meinem alten Onix?$"
+	.string "Ach, hallo! Wie geht es dem ONIX, das\n"
+	.string "du im Tausch von mir bekommen hast?$"
 
 VioletCity_House1_Text_PokefanM:
-	.string "Ein Pokémon, das du durch\n"
-	.string "Tausch erhalten hast,\l"
-	.string "wird schneller wachsen.\p"
-	.string "Aber wenn du nicht im Besitz\n"
-	.string "des passenden ORDENs bist,\l"
-	.string "gehorchen sie dir vielleicht nicht.$"
+	.string "Pokémon, die du im Tausch mit anderen\n"
+	.string "Trainern erhalten hast, lassen sich\l"
+	.string "schneller und leichter trainieren!\p"
+	.string "…Aber wenn du nicht den richtigen\n"
+	.string "Orden besitzt, gehorchen sie dir nicht.$"

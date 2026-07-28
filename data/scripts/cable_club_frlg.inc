@@ -1281,7 +1281,7 @@ CableClub_Text_NeedTwoMonsToTrade_Frlg::
 	.string "haben.$"
 
 CableClub_Text_CantTradeEnigmaBerry_Frlg::
-	.string "Ein POKéMON, das eine {VAR}BEERE\n"
+	.string "Ein POKéMON, das eine {STR_VAR_1}BEERE\n"
 	.string "hält, kann nicht getauscht werden.$"
 
 CableClub_Text_PleaseWaitBCancel_Frlg::
@@ -1338,11 +1338,11 @@ CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 
 CableClub_Text_CantSingleBattleWithXPlayers_Frlg::
 	.string "Ein EINZELKAMPF kann nicht von\n"
-	.string "{VAR} Spielern geführt werden.$"
+	.string "{STR_VAR_1} Spielern geführt werden.$"
 
 CableClub_Text_CantDoubleBattleWithXPlayers_Frlg::
 	.string "Ein DOPPELKAMPF kann nicht von\n"
-	.string "{VAR} Spielern geführt werden.$"
+	.string "{STR_VAR_1} Spielern geführt werden.$"
 
 CableClub_Text_NeedFourPlayers_Frlg::
 	.string "Für diesen Kampfmodus werden vier\n"
@@ -1368,12 +1368,12 @@ Text_TrainerTooBusyToNotice_Frlg::
 
 Text_LookedAtPlayersTrainerCard_Frlg::
 	.string "Heh! Schau dir den\n"
-	.string "TRAINERPASS von {VAR} an!$"
+	.string "TRAINERPASS von {STR_VAR_1} an!$"
 
 Text_LookedAtPlayersTrainerCardColored_Frlg::
 	.string "Heh! Schau dir den\n"
-	.string "TRAINERPASS von {VAR} an!\p"
-	.string "Es ist ein {VAR}PASS.$"
+	.string "TRAINERPASS von {STR_VAR_1} an!\p"
+	.string "Es ist ein {STR_VAR_2}PASS.$"
 
 Text_TakeSeatStartBattle_Frlg::
 	.string "Bitte geh in Position und beginne\n"
@@ -1464,7 +1464,7 @@ CableClub_Text_NeedTwoMonsForUnionRoom_Frlg::
 	.string "POKéMON besitzen.$"
 
 CableClub_Text_NoEnigmaBerryInUnionRoom_Frlg::
-	.string "Ein POKéMON, das eine {VAR}BEERE\n"
+	.string "Ein POKéMON, das eine {STR_VAR_1}BEERE\n"
 	.string "hält, darf den KONNEX-KLUB nicht\l"
 	.string "betreten.$"
 
@@ -1488,7 +1488,7 @@ Text_DescribeWhichGame_Frlg::
 	.string "bekommen?$"
 
 Text_PokemonJumpInfo_Frlg::
-	.string ""POKéMON-SPRUNG"\p"
+	.string "“POKéMON-SPRUNG”\p"
 	.string "Springe mit deinem POKéMON durch\n"
 	.string "Drücken des A-Knopfs über den\l"
 	.string "RANKENHIEB.\l"
@@ -1557,7 +1557,7 @@ EventScript_ExplainPokemonJumpRequirements_Frlg::
 	.string "POKéMON teilnehmen dürfen?$"
 
 Text_ShortJumpingPokemonAllowed_Frlg::
-	.string "Am "POKéMON-SPRUNG"\n"
+	.string "Am “POKéMON-SPRUNG”\n"
 	.string "dürfen POKéMON, die 70 cm oder\l"
 	.string "kleiner sind, teilnehmen.\p"
 	.string "POKéMON, die nicht springen können,\n"
@@ -1567,7 +1567,7 @@ Text_ShortJumpingPokemonAllowed_Frlg::
 	.string "Das ist schon alles!$"
 
 Text_OnlyDodrioAllowed_Frlg::
-	.string ""BEERENERNTE MIT DODRI"…\n"
+	.string "“BEERENERNTE MIT DODRI”…\n"
 	.string "Nun, der Name sagt alles!\p"
 	.string "Du musst ein DODRI besitzen, um\n"
 	.string "teilnehmen zu dürfen.$"
@@ -1692,7 +1692,7 @@ CableClub_Text_ExplainWirelessClubFirstTime_Frlg::
 	.string "Kommunikations-System.$"
 
 CableClub_Text_AskAboutLinking_Frlg::
-	.string "Hallo, {VAR}!\p"
+	.string "Hallo, {PLAYER}!\p"
 	.string "Ich bin es, TEALA, die Angestellte\n"
 	.string "vom 1. Stock im POKéMON-CENTER.\p"
 	.string "Möchtest du mich etwas über das\n"

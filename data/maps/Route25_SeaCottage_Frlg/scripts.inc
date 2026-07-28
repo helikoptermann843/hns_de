@@ -383,7 +383,7 @@ Route25_SeaCottage_Text_TeleporterIsDisplayed::
 	.string "Steuerung des TELEPORTERs.$"
 
 Route25_SeaCottage_Text_InitiatedTeleportersCellSeparator::
-	.string "{VAR} hat den\n"
+	.string "{PLAYER} hat den\n"
 	.string "ZELL-SEPARATOR in Gang gesetzt!$"
 
 Route25_SeaCottage_Text_BillsFavoriteMonList::

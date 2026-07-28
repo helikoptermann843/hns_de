@@ -10,7 +10,7 @@ SSAnne_2F_Room3_EventScript_OldMan::
 	end
 
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-	.string "{VAR}! Du hast uns mit Hilfe\n"
+	.string "{PLAYER}! Du hast uns mit Hilfe\n"
 	.string "deiner POKéMON gerettet!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::

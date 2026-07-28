@@ -332,11 +332,11 @@ SilphCo_7F_Text_Grunt2PostBattle::
 	.string "dich in den Boden stampft!$"
 
 SilphCo_7F_Text_RivalWhatKeptYou::
-	.string "{VAR}: Was hat dich aufgehalten,\n"
-	.string "{VAR}?$"
+	.string "{RIVAL}: Was hat dich aufgehalten,\n"
+	.string "{PLAYER}?$"
 
 SilphCo_7F_Text_RivalIntro::
-	.string "{VAR}: Hahaha! Ich wusste, du\n"
+	.string "{RIVAL}: Hahaha! Ich wusste, du\n"
 	.string "würdest hier vorbeikommen!\p"
 	.string "Ich schätze, das TEAM ROCKET hat\n"
 	.string "dir ganz schön zugesetzt!\p"
@@ -350,7 +350,7 @@ SilphCo_7F_Text_RivalDefeat::
 	.string "Rocket!$"
 
 SilphCo_7F_Text_RivalPostBattle::
-	.string "Also, {VAR}!\n"
+	.string "Also, {PLAYER}!\n"
 	.string "Ich ziehe dann weiter!\p"
 	.string "Wenn ich in den POKéDEX sehe,\n"
 	.string "erkenne ich, wie stark die POKéMON\l"
@@ -360,7 +360,7 @@ SilphCo_7F_Text_RivalPostBattle::
 	.string "ausstechen!\p"
 	.string "Bald bin ich der mächtigste\n"
 	.string "TRAINER der Welt!\p"
-	.string "Viel Glück, {VAR}!\n"
+	.string "Viel Glück, {PLAYER}!\n"
 	.string "Und trainiere schön weiter!\l"
 	.string "Ciao!$"
 

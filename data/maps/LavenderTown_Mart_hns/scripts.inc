@@ -10,7 +10,7 @@ LavenderTown_Mart_EventScript_Rocker::
 	end
 
 LavenderMart_Text_PokefanM:
-	.string ""Schutz" ist auf jeder Erkundungstour\n"
+	.string "“Schutz” ist auf jeder Erkundungstour\n"
 	.string "ein unabdingbares Item!\p"
 	.string "Ich liebe es zwar, fremde Orte zu\n"
 	.string "erkunden, aber es gibt immer noch\l"

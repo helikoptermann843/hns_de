@@ -299,7 +299,7 @@ Route22_Text_Giovanni1:
 
 Route22_Text_Silver2:
 	.string "{RIVAL}: Wo ist denn jetzt bitte\n"
-	.string "deine "Stärke"?\p"
+	.string "deine “Stärke”?\p"
 	.string "Du hattest so viele Leute um dich\n"
 	.string "versammelt, und trotzdem konnte\l"
 	.string "uns ein einzelnes Kind im\l"

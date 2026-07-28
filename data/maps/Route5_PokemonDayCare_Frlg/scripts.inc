@@ -20,7 +20,7 @@ Route5_PokemonDayCare_Text_ComeAnytimeYouLike::
 
 Route5_PokemonDayCare_Text_LookAfterMonForAWhile::
 	.string "O.K., ich kümmere mich eine Weile\n"
-	.string "um {VAR}.$"
+	.string "um {STR_VAR_1}.$"
 
 Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
 	.string "Komm später wieder vorbei, um es\n"
@@ -28,21 +28,21 @@ Route5_PokemonDayCare_Text_ComeSeeMeInAWhile::
 
 Route5_PokemonDayCare_Text_MonNeedsToSpendMoreTime::
 	.string "Du bist schon wieder zurück?\p"
-	.string "{VAR} sollte noch ein\n"
+	.string "{STR_VAR_1} sollte noch ein\n"
 	.string "bisschen bei mir bleiben.$"
 
 Route5_PokemonDayCare_Text_OweMeXForMonsReturn::
 	.string "Bevor du dein POKéMON wieder\n"
 	.string "mitnimmst, bekomme ich noch\l"
-	.string "{VAR}¥ von dir!$"
+	.string "{STR_VAR_2}¥ von dir!$"
 
 Route5_PokemonDayCare_Text_ThankYouHeresMon::
 	.string "Vielen Dank!\n"
 	.string "Hier ist dein POKéMON!$"
 
 Route5_PokemonDayCare_Text_PlayerGotMonBack::
-	.string "{VAR} erhält\n"
-	.string "{VAR} zurück!$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_1} zurück!$"
 
 Route5_PokemonDayCare_Text_OnlyHaveOneMonWithYou::
 	.string "Du hast nur ein POKéMON dabei!$"
@@ -52,9 +52,9 @@ Route5_PokemonDayCare_Text_WhatWillYouBattleWith::
 	.string "überlässt, womit willst du kämpfen?$"
 
 Route5_PokemonDayCare_Text_MonHasGrownByXLevels::
-	.string "{VAR} hat sich toll \n"
+	.string "{STR_VAR_1} hat sich toll \n"
 	.string "entwickelt!\p"
-	.string "Es ist um {VAR} Level gestiegen!\p"
+	.string "Es ist um {STR_VAR_2} Level gestiegen!\p"
 	.string "Das habe ich gut gemacht, oder?$"
 
 Route5_PokemonDayCare_Text_YouveGotNoRoomForIt::

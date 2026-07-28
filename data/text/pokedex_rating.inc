@@ -133,8 +133,8 @@ PokedexRating_Text_HowIsPokedexComingAlong::
 
 PokedexRating_Text_SeenXOwnedY::
 	.string "In deinem POKéDEX steht:\p"
-	.string "Gesehen: {VAR} POKéMON\n"
-	.string "  Besitz: {VAR} POKéMON\p"
+	.string "Gesehen: {STR_VAR_1} POKéMON\n"
+	.string "  Besitz: {STR_VAR_2} POKéMON\p"
 	.string "PROF. EICHs Bewertung:$"
 
 PokedexRating_Text_LessThan10::
@@ -216,8 +216,8 @@ PokedexRating_Text_Complete::
 PokedexRating_Text_NationalDexSeenXOwnedY::
 	.string "In deinem NATIONALEN POKéDEX\n"
 	.string "steht:\p"
-	.string "Gesehen: {VAR} POKéMON\n"
-	.string "Besitz: {VAR} POKéMON.$"
+	.string "Gesehen: {STR_VAR_1} POKéMON\n"
+	.string "Besitz: {STR_VAR_2} POKéMON.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "Ich bin gespannt, ob du den\n"
@@ -233,7 +233,7 @@ PokedexRating_Text_Wroooaaarrr::
 	.string "Wroooooooaaaaaarrrr!$"
 
 PokedexRating_Text_ThankYouMadeDreamReality::
-	.string "Danke, {VAR}!\n"
+	.string "Danke, {PLAYER}!\n"
 	.string "Meinen aufrichtigen Dank!\l"
 	.string "Du hast meinen Traum erfüllt.$"
 

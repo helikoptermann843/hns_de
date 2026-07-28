@@ -720,7 +720,7 @@ CinnabarIsland_Gym_Text_BlaineIntro::
 	.string "meiner Gegner in\l"
 	.string "Flammen aufgehen!\p"
 	.string "Du solltest Feuerheiler\n"
-	.string "parat halten!{CTRL}?À$"
+	.string "parat halten!{PLAY_BGM}?À$"
 
 CinnabarIsland_Gym_Text_BlaineDefeat::
 	.string "Mein Feuer ist erloschen!\p"
@@ -850,20 +850,20 @@ CinnabarIsland_Gym_Text_GymGuyAdvice::
 	.string "Und besorge dir FEUERHEILER!$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
-	.string "{VAR}! Du hast den Unruhestifter\n"
+	.string "{PLAYER}! Du hast den Unruhestifter\n"
 	.string "gebrandmarkt!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
 	.string "ZINNOBERINSEL POKéMON-ARENA\n"
 	.string "LEITUNG: PYRO\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}$"
+	.string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
 	.string "ZINNOBERINSEL POKéMON-ARENA\n"
 	.string "LEITUNG: PYRO\p"
 	.string "BISHERIGE SIEGER:\n"
-	.string "{VAR}, {VAR}$"
+	.string "{RIVAL}, {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
 	.string "Willkommen beim POKéMON-Quiz!\p"

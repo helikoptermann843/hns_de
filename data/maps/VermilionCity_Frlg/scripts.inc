@@ -326,13 +326,13 @@ VermilionCity_Text_DoYouHaveATicket::
 	.string "Verzeihung, hast du ein Ticket?$"
 
 VermilionCity_Text_FlashedSSTicket::
-	.string "{CTRL}{VAR} zeigt das BOOTSTICKET!\p"
-	.string "{CTRL}Großartig!\n"
+	.string "{FONT_NORMAL}{PLAYER} zeigt das BOOTSTICKET!\p"
+	.string "{FONT_MALE}Großartig!\n"
 	.string "Willkommen auf der M.S. ANNE!$"
 
 VermilionCity_Text_DontHaveNeededSSTicket::
-	.string "{CTRL}{VAR} hat kein BOOTSTICKET!\p"
-	.string "{CTRL}Tut mir Leid!\p"
+	.string "{FONT_NORMAL}{PLAYER} hat kein BOOTSTICKET!\p"
+	.string "{FONT_MALE}Tut mir Leid!\p"
 	.string "Du brauchst ein Ticket, um an Bord\n"
 	.string "gehen zu können.$"
 
@@ -383,16 +383,16 @@ VermilionCity_Text_Seagallop12Departing::
 	.string "sofort ablegen.$"
 
 VermilionCity_Text_Route2AideHasPackageForYou::
-	.string "Oh, hallo, {VAR}!\n"
+	.string "Oh, hallo, {PLAYER}!\n"
 	.string "Wie geht es dir?\p"
 	.string "Ich bin es, einer von PROF. EICHs\n"
 	.string "ASSISTENTEN.\p"
 	.string "Hast du bereits einen anderen\n"
 	.string "ASSISTENTEN getroffen?\p"
 	.string "Er hatte ein Paket von PROF. EICH\n"
-	.string "für dich, {VAR}.\p"
+	.string "für dich, {PLAYER}.\p"
 	.string "Er sagte, er sucht dich bei\n"
-	.string "ROUTE 2, {VAR}.\p"
+	.string "ROUTE 2, {PLAYER}.\p"
 	.string "Wenn du bei ROUTE 2 bist, \n"
 	.string "halte nach ihm Ausschau.$"
 

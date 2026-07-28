@@ -129,7 +129,7 @@ SixIsland_PatternBush_Text_JonahDefeat::
 	.string "auch den Reiz von Pokémon aus.$"
 
 SixIsland_PatternBush_Text_JonahPostBattle::
-	.string "Apropos, "Reiz" ist ein\n"
+	.string "Apropos, “Reiz” ist ein\n"
 	.string "merkwürdiges Wort, wenn man\l"
 	.string "darüber nachdenkt.\p"
 	.string "Wie, wie eine Orangenschale?\n"

@@ -190,10 +190,10 @@ SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
 	.string "Ich will dir etwas erzählen. Im\n"
 	.string "Keller gibt es ein geheimes\l"
 	.string "Zimmer.\l"
-	.string "Ein TRAINER namens {VAR}\l"
+	.string "Ein TRAINER namens {STR_VAR_1}\l"
 	.string "wartet dort.\p"
 	.string "Du bist bestimmt gekommen, um\n"
-	.string "{VAR} herauszufordern, oder?$"
+	.string "{STR_VAR_1} herauszufordern, oder?$"
 
 SevenIsland_House_Room1_Text_OhYouWontBattle::
 	.string "Oh…\n"

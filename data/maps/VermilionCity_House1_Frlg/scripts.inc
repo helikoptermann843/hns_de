@@ -56,7 +56,7 @@ VermilionCity_House1_Text_OhThatsSoDisappointing::
 	.string "Das ist so enttäuschend...$"
 
 VermilionCity_House1_Text_HowAreTheFishBiting::
-	.string "Hallo, {VAR}!\p"
+	.string "Hallo, {PLAYER}!\p"
 	.string "Wie beißen die Fische?$"
 
 VermilionCity_House1_Text_NoRoomForNiceGift::

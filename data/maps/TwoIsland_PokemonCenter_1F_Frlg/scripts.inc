@@ -23,16 +23,16 @@ TwoIsland_PokemonCenter_1F_EventScript_BugCatcher::
 	end
 
 TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
-	.string "Es ist {VAR}!\n"
-	.string "Es ist {VAR}!\p"
+	.string "Es ist {PLAYER}!\n"
+	.string "Es ist {PLAYER}!\p"
 	.string "Ich möchte eines Tages wie\n"
-	.string "{VAR} sein!$"
+	.string "{PLAYER} sein!$"
 
 TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
 	.string "Keiner ist mehr ein Fan von\n"
-	.string "{VAR}…\p"
+	.string "{PLAYER}…\p"
 	.string "Das heißt aber auch, dass ich\n"
-	.string "{VAR} für mich alleine habe!\p"
+	.string "{PLAYER} für mich alleine habe!\p"
 	.string "Yo! Los!\n"
-	.string "Mein Ein und Alles, {VAR}!$"
+	.string "Mein Ein und Alles, {PLAYER}!$"
 

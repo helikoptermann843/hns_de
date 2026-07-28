@@ -69,11 +69,11 @@ FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
 	.string "werden?$"
 
 FuchsiaCity_House3_Text_MonOnlyKnowsOneMove::
-	.string "{VAR} kennt scheinbar nur eine\n"
+	.string "{STR_VAR_1} kennt scheinbar nur eine\n"
 	.string "einzige Attacke...$"
 
 FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten::
-	.string "Hm! {VAR} von {VAR}?\n"
+	.string "Hm! {STR_VAR_1} von {STR_VAR_2}?\n"
 	.string "Diese Attacke soll vergessen\l"
 	.string "werden?$"
 

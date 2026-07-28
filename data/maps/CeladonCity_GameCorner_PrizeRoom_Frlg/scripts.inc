@@ -402,12 +402,12 @@ CeladonCity_GameCorner_PrizeRoom_Text_HereYouGo::
 	.string "はい どうぞ$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantPrize::
-	.string "Du möchtest also {VAR}\n"
+	.string "Du möchtest also {STR_VAR_1}\n"
 	.string "haben?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
 	.string "O.K.! Du willst eine\n"
-	.string "TM von {VAR}?$"
+	.string "TM von {STR_VAR_2}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
 	.string "Schade. Du hast zu wenig MÜNZEN!$"

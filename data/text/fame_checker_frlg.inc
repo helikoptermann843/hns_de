@@ -1474,7 +1474,7 @@ PokemonJournal_Text_SpecialFeatureProfOak::
 	.string "POKéMON-Forscher!\p"
 	.string "Berichten zufolge lebt PROF. EICH\n"
 	.string "mit seinen Enkeln SARAH und\l"
-	.string "{VAR} zusammen.$"
+	.string "{RIVAL} zusammen.$"
 
 PokemonJournal_Text_SpecialFeatureDaisyOak::
 	.string "Dies ist ein Jahre altes POKéMON\n"

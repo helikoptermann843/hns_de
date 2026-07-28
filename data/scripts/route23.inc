@@ -214,7 +214,7 @@ Route23_Movement_WalkDown::
 Text_OnlySkilledTrainersAllowedThrough::
 	.string "Hier dürfen nur erfahrene TRAINER\n"
 	.string "passieren!\p"
-	.string "Und du besitzt den {VAR}\n"
+	.string "Und du besitzt den {STR_VAR_1}\n"
 	.string "noch nicht!$"
 
 Text_CantLetYouPass::

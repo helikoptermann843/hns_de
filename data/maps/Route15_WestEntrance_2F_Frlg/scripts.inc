@@ -54,11 +54,11 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
 	.string "Hallo! Erinnerst du dich?\n"
 	.string "Ich bin PROF. EICHs\l"
 	.string "ASSISTENT!\p"
-	.string "Wenn du mindestens {VAR} verschiedene\n"
+	.string "Wenn du mindestens {STR_VAR_1} verschiedene\n"
 	.string "POKéMON gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich:\l"
-	.string "{VAR}\p"
-	.string "Also, {VAR}, hast du {VAR}\n"
+	.string "{STR_VAR_2}\p"
+	.string "Also, {PLAYER}, hast du {STR_VAR_1}\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::

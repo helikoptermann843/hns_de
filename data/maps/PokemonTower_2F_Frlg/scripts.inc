@@ -106,7 +106,7 @@ PokemonTower_2F_Text_RivalIntro::
 	.string "POKéMON-Forscher!\p"
 	.string "Berichten zufolge lebt PROF. EICH\n"
 	.string "mit seinen Enkeln SARAH und\l"
-	.string "{VAR} zusammen.$"
+	.string "{RIVAL} zusammen.$"
 
 PokemonTower_2F_Text_RivalDefeat::
 	.string "What?\n"

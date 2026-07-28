@@ -265,7 +265,7 @@ TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
 	.string "IRRMA: Ist schon gut, Papsi!\n"
-	.string "Ich habe mich mit {VAR}\l"
+	.string "Ich habe mich mit {PLAYER}\l"
 	.string "angefreundet!$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::

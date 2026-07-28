@@ -44,11 +44,11 @@ Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "Wenn du mindestens 10 verschiedene\n"
 	.string "POKéMON gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich: VM05\p"
-	.string "Also, {VAR}, hast du 10\n"
+	.string "Also, {PLAYER}, hast du 10\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
-	.string "Super! Du hast {VAR} verschiedene\n"
+	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"

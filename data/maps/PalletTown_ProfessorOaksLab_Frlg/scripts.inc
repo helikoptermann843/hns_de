@@ -1299,35 +1299,35 @@ PalletTown_ProfessorOaksLab_EventScript_RightSignAlt::
 	end
 
 PalletTown_ProfessorOaksLab_Text_RivalGrampsIsntAround::
-	.string "{VAR}: Hallo {VAR}!\n"
+	.string "{RIVAL}: Hallo {PLAYER}!\n"
 	.string "Opa ist gerade nicht da!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalFedUpWithWaiting::
-	.string "{VAR}: Opa!\n"
+	.string "{RIVAL}: Opa!\n"
 	.string "Ich will nicht länger warten!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalNoFairWhatAboutMe::
-	.string "{VAR}: Halt!\n"
+	.string "{RIVAL}: Halt!\n"
 	.string "Opa! Und was ist mit mir?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoChoosePlayer::
-	.string "{VAR}: Ich bin nicht so\n"
+	.string "{RIVAL}: Ich bin nicht so\n"
 	.string "ungeduldig wie du!\p"
-	.string "Du darfst zuerst wählen, {VAR}!$"
+	.string "Du darfst zuerst wählen, {PLAYER}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
-	.string "{VAR}: Ich nehme dieses hier.$"
+	.string "{RIVAL}: Ich nehme dieses hier.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
 	.string "{RIVAL} received the {STR_VAR_1}\n"
 	.string "from PROF. OAK!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
-	.string "{VAR}: Mein POKéMON sieht viel\n"
+	.string "{RIVAL}: Mein POKéMON sieht viel\n"
 	.string "stärker aus!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
-	.string "{VAR}: Warte, {VAR}!\n"
+	.string "{RIVAL}: Warte, {PLAYER}!\n"
 	.string "Lass uns unsere POKéMON testen!\p"
 	.string "Komm schon!\n"
 	.string "Ich fordere dich heraus!$"
@@ -1342,37 +1342,37 @@ Text_RivalVictory::
 	.string "Am I great or what?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
-	.string "{VAR}: O.K.! Ich werde meine\n"
+	.string "{RIVAL}: O.K.! Ich werde meine\n"
 	.string "POKéMON trainieren, damit sie\l"
 	.string "stärker werden!\p"
-	.string "{VAR}! Opa!\n"
+	.string "{PLAYER}! Opa!\n"
 	.string "Wir sehen uns später!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGramps::
-	.string "{VAR}: Opa!$"
+	.string "{RIVAL}: Opa!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalWhatDidYouCallMeFor::
-	.string "{VAR}: Warum hast du mich\n"
+	.string "{RIVAL}: Warum hast du mich\n"
 	.string "hierher bestellt?$"
 
 PalletTown_ProfessorOaksLab_Text_RivalLeaveItToMeGramps::
-	.string "{VAR}: Alles klar, Opa!\n"
+	.string "{RIVAL}: Alles klar, Opa!\n"
 	.string "Überlass es ruhig mir!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalTellSisNotToGiveYouMap::
-	.string "{VAR}, es tut mir Leid, aber ich\n"
+	.string "{PLAYER}, es tut mir Leid, aber ich\n"
 	.string "brauche deine Hilfe nicht!\p"
 	.string "Genau! Ich leihe mir von\n"
 	.string "meiner Schwester eine KARTE!\p"
 	.string "Und dir soll sie keine geben,\n"
-	.string "{VAR}! Hahaha!$"
+	.string "{PLAYER}! Hahaha!$"
 
 PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
-	.string "PROF. EICH: {VAR}?\n"
+	.string "PROF. EICH: {RIVAL}?\n"
 	.string "Lass mich nachdenken...\p"
 	.string "Ach richtig! Ihr solltet ja zu mir\n"
 	.string "kommen! Wartet einen Moment!\p"
-	.string "Hier, {VAR}!\p"
+	.string "Hier, {PLAYER}!\p"
 	.string "Dort liegen drei POKéMON!\p"
 	.string "Haha!\p"
 	.string "Sie befinden sich in den\n"
@@ -1385,11 +1385,11 @@ PalletTown_ProfessorOaksLab_Text_OakThreeMonsChooseOne::
 
 PalletTown_ProfessorOaksLab_Text_OakBePatientRival::
 	.string "PROF. EICH: Habe ein wenig Geduld,\n"
-	.string "{VAR}!\l"
+	.string "{RIVAL}!\l"
 	.string "Auch du sollst eines bekommen!$"
 
 PalletTown_ProfessorOaksLab_Text_OakWhichOneWillYouChoose::
-	.string "EICH: Also {VAR}!\p"
+	.string "EICH: Also {PLAYER}!\p"
 	.string "In diesen POKéBÄLLEN sind\n"
 	.string "POKéMON.\p"
 	.string "Welches möchtest du haben?$"
@@ -1401,19 +1401,19 @@ PalletTown_ProfessorOaksLab_Text_OakHeyDontGoAwayYet::
 PalletTown_ProfessorOaksLab_Text_OakChoosingCharmander::
 	.string "Ah! GLUMANDA soll es sein!\n"
 	.string "Trainiere es geduldig!\p"
-	.string "{VAR}, du möchtest also das\n"
+	.string "{PLAYER}, du möchtest also das\n"
 	.string "FEUER-POKéMON GLUMANDA?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingSquirtle::
 	.string "Ah! SCHIGGY soll es sein!\n"
 	.string "Es ist das Training wert!\p"
-	.string "{VAR}, du möchtest also das\n"
+	.string "{PLAYER}, du möchtest also das\n"
 	.string "WASSER-POKéMON SCHIGGY?$"
 
 PalletTown_ProfessorOaksLab_Text_OakChoosingBulbasaur::
 	.string "Ah! BISASAM soll es sein!\n"
 	.string "Es ist leicht zu trainieren!\p"
-	.string "{VAR}, du möchtest also das\n"
+	.string "{PLAYER}, du möchtest also das\n"
 	.string "PFLANZEN-POKéMON BISASAM?$"
 
 PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
@@ -1429,12 +1429,12 @@ PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
 	.string "POKéMON dagegen kämpfen!$"
 
 PalletTown_ProfessorOaksLab_Text_OakBattleMonForItToGrow::
-	.string "PROF. EICH: {VAR}, wenn du dein\n"
+	.string "PROF. EICH: {PLAYER}, wenn du dein\n"
 	.string "POKéMON kämpfen lässt, wird es\l"
 	.string "stärker!$"
 
 PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
-	.string "PROF. EICH: Hallo, {VAR}!\p"
+	.string "PROF. EICH: Hallo, {PLAYER}!\p"
 	.string "Wie geht es dem POKéMON?\p"
 	.string "Es scheint dich sehr zu mögen!\p"
 	.string "Du musst als POKéMON TRAINER sehr\n"
@@ -1462,7 +1462,7 @@ PalletTown_ProfessorOaksLab_Text_OakPokedexOnDesk::
 	.string "Er ist eine Art Hi-Tech-Lexikon!$"
 
 PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
-	.string "PROF. EICH: {VAR}! {VAR}!\n"
+	.string "PROF. EICH: {PLAYER}! {RIVAL}!\n"
 	.string "Diese beiden sind für euch!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
@@ -1505,16 +1505,16 @@ PalletTown_ProfessorOaksLab_Text_OakCompleteMonGuideWasMyDream::
 	.string "POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMonsAroundWorldWait::
-	.string "{VAR}, überall in dieser Welt\n"
+	.string "{PLAYER}, überall in dieser Welt\n"
 	.string "erwarten dich POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_OakAddedNothingToPokedex::
-	.string "Ah, {VAR}!\n"
+	.string "Ah, {PLAYER}!\n"
 	.string "Was macht dein POKéDEX?\p"
-	.string "{VAR} hat bereits einige POKéMON\n"
+	.string "{RIVAL} hat bereits einige POKéMON\n"
 	.string "gefangen und die Infos erhalten.\p"
 	.string "Zeig mir deinen POKéDEX,\n"
-	.string "{VAR}!\p"
+	.string "{PLAYER}!\p"
 	.string "… was ist los?\n"
 	.string "Du hast keine neuen Infos!\p"
 	.string "Ich gebe dir das, damit du dich\n"
@@ -1570,7 +1570,7 @@ PalletTown_ProfessorOaksLab_Text_StudyAsOaksAide::
 	.string "Ich studiere mit ihm die POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_DaisyWillGroomMons::
-	.string "Hallo {VAR}! Ich wette, du hast\n"
+	.string "Hallo {PLAYER}! Ich wette, du hast\n"
 	.string "mit deinen POKéMON\l"
 	.string "Freundschaft geschlossen.\l"
 	.string "Kennst du eigentlich SARAH?\p"
@@ -1596,7 +1596,7 @@ PalletTown_ProfessorOaksLab_Text_OakIsAuthorityOnMons::
 
 PalletTown_ProfessorOaksLab_Text_OakFavorToAskYouPlayer::
 	.string "Ah, das ist fantastisch!\p"
-	.string "{VAR}, ich muss dich um noch\n"
+	.string "{PLAYER}, ich muss dich um noch\n"
 	.string "einen wichtigen Gefallen bitten.\p"
 	.string "Bitte höre genau zu!$"
 
@@ -1608,13 +1608,13 @@ PalletTown_ProfessorOaksLab_Text_OakSightingsOfRareMons::
 	.string "Ich würde mir das gerne selbst\n"
 	.string "ansehen, aber ich bin zu alt!\p"
 	.string "Da ich nicht kann, möchte ich\n"
-	.string "dich, {VAR}, bitten, an meiner\l"
+	.string "dich, {PLAYER}, bitten, an meiner\l"
 	.string "statt zu gehen.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalJustLetMeHandleEverything::
-	.string "{VAR}: Das habe ich gehört!\p"
+	.string "{RIVAL}: Das habe ich gehört!\p"
 	.string "Opsi, warum gibst du immer\n"
-	.string "{VAR} den Vorzug gegenüber mir?\p"
+	.string "{PLAYER} den Vorzug gegenüber mir?\p"
 	.string "Ich habe mehr POKéMON gefangen\n"
 	.string "und auch noch schneller!\p"
 	.string "Ich sollte mich also um alles\n"
@@ -1640,7 +1640,7 @@ PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
 	.string "{PLAYER}'s POKéDEX was upgraded!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
-	.string "Also, {VAR} und {VAR}!\p"
+	.string "Also, {PLAYER} und {RIVAL}!\p"
 	.string "Dieses Mal müsst ihr den POKéDEX\n"
 	.string "wirklich vervollständigen.\p"
 	.string "Es soll der beste und voll-\n"
@@ -1651,7 +1651,7 @@ PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
 	.string "der POKéMON!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalIllCompleteThePokedex::
-	.string "{VAR}: Ruhig, Opsi! Keine\n"
+	.string "{RIVAL}: Ruhig, Opsi! Keine\n"
 	.string "Aufregung!\p"
 	.string "Ich vervollständige den POKéDEX!\n"
 	.string "Mach dir keine Gedanken!\p"
