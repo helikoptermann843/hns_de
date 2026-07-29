@@ -57,24 +57,24 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_MonSprawledOutInSlumber::
-	.string "Ein schlafendes POKéMON\n"
+	.string "Ein schlafendes Pokémon\n"
 	.string "versperrt den Weg!$"
 
 Text_SnorlaxWokeUp::
-	.string "RELAXO ist aufgewacht!\p"
+	.string "Relaxo ist aufgewacht!\p"
 	.string "Es ist brummig und greift\n"
 	.string "verschlafen an!$"
 
 Text_SnorlaxReturnedToMountains::
-	.string "RELAXO hat sich wieder beruhigt!\n"
+	.string "Relaxo hat sich wieder beruhigt!\n"
 	.string "Es gähnt und läuft in die Berge\l"
 	.string "zurück!$"
 
 Text_WantToUsePokeFlute::
-	.string "Die POKéFLÖTE spielen?$"
+	.string "Die Pokéflöte spielen?$"
 
 Text_PlayedPokeFlute::
-	.string "{PLAYER} played the POKé FLUTE.$"
+	.string "{PLAYER} played the Poké Flute.$"
 
 Route12_Text_NedIntro::
 	.string "Cool!\n"
@@ -156,11 +156,11 @@ Route12_Text_AndrewPostBattle::
 	.string "sie sind so schwach!$"
 
 Route12_Text_RouteSign::
-	.string "ROUTE 12\n"
-	.string "NORDEN: LAVANDIA$"
+	.string "Route 12\n"
+	.string "Norden: Lavandia$"
 
 Route12_Text_SportfishingArea::
-	.string "SPORTANGEL-ZONE$"
+	.string "Sportangel-Zone$"
 
 Route12_Text_JesIntro::
 	.string "Deniz: Falls ich gewinne, mache\n"
@@ -171,14 +171,14 @@ Route12_Text_JesDefeat::
 	.string "uns nicht gewinnen lassen?$"
 
 Route12_Text_JesPostBattle::
-	.string "DENIZ: OH, SIRA, meine Liebste,\n"
+	.string "Deniz: Oh, Sira, meine Liebste,\n"
 	.string "verzeih mir!$"
 
 Route12_Text_JesNotEnoughMons::
-	.string "DENIZ: SIRA und ich werden für\n"
+	.string "Deniz: Sira und ich werden für\n"
 	.string "immer zusammen sein.\p"
 	.string "Wir werden nicht kämpfen, ehe du\n"
-	.string "nicht zwei POKéMON mitbringst.$"
+	.string "nicht zwei Pokémon mitbringst.$"
 
 Route12_Text_GiaIntro::
 	.string "Sira: Heh, Deniz…\p"
@@ -192,7 +192,7 @@ Route12_Text_GiaPostBattle::
 	.string "Du hast es vermasselt!$"
 
 Route12_Text_GiaNotEnoughMons::
-	.string "SIRA: Ich ertrage es nicht, ohne\n"
-	.string "meinen DENIZ zu kämpfen.\p"
+	.string "Sira: Ich ertrage es nicht, ohne\n"
+	.string "meinen Deniz zu kämpfen.\p"
 	.string "Hast du nicht noch ein weiteres\n"
-	.string "POKéMON?$"
+	.string "Pokémon?$"

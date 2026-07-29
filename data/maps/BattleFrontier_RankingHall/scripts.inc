@@ -101,20 +101,20 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "Dies ist die ERGEBNISHALLE.\n"
-	.string "Hier sind die Namen der TRAINER\p"
+	.string "Dies ist die Ergebnishalle.\n"
+	.string "Hier sind die Namen der Trainer\p"
 	.string "verewigt, die sich durch ihre\n"
 	.string "Ergebnisse\n"
-	.string "bei den KAMPFZONEn-Kämpfen\l"
+	.string "bei den Kampfzonen-Kämpfen\l"
 	.string "unsterblich gemacht haben.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "Ergebnisse: KAMPFSTADION, KAMPFIPITIS\n"
-	.string "und KAMPFFABRIK$"
+	.string "Ergebnisse: Kampfstadion, Kampfipitis\n"
+	.string "und Kampffabrik$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "Ergebnisse: KAMPFPALAST, KAMPF-\n"
-	.string "RING und KAMPFPYRAMIDE$"
+	.string "Ergebnisse: Kampfpalast, Kampf-\n"
+	.string "ring und Kampfpyramide$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
 	.string "Hallo. Steht dein Name auch auf der\n"

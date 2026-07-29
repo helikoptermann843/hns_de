@@ -49,12 +49,12 @@ CeladonDeptStore3F_Text_GameboyKid1:
 
 CeladonDeptStore3F_Text_GameboyKid2:
 	.string "Klasse! Jetzt kann ich mir endlich\n"
-	.string "doch noch ein PORYGON besorgen!\p"
+	.string "doch noch ein Porygon besorgen!\p"
 	.string "Ich habe einfach kein Händchen für\n"
 	.string "Münzspiele, und deshalb haben mir\l"
 	.string "immer noch ein paar Münzen gefehlt…\p"
 	.string "…Huch?\p"
-	.string "Das getauschte PORYGON hat sich\n"
+	.string "Das getauschte Porygon hat sich\n"
 	.string "in ein anderes Pokémon verwandelt!$"
 
 CeladonDeptStore3F_Text_SuperNerd:

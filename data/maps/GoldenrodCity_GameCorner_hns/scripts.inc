@@ -191,7 +191,7 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_PartyMon::
 	call Common_EventScript_GetGiftMonPartySlot
 	call Common_EventScript_NameReceivedPartyMon
 	end
-	
+
 GoldenrodCity_GameCorner_PrizeRoom_EventScript_PcMon::
 	msgbox gText_NicknameThisPokemon, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, GoldenrodCity_GameCorner_EventScript_SendMon
@@ -469,7 +469,7 @@ GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
 	.string "Delegator  2000$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
-	.string "ZURÜCK$"
+	.string "Abbruch$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_SoYourChoiceIsTM:
 	.string "Du möchtest also\n"
@@ -568,14 +568,14 @@ GoldenrodCity_GameCorner_Text_PrizeVendorNeedMoreCoins:
 	.string "du brauchst mehr Münzen.$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNoMoreRoom:
-	.string "Du kannst nichts mehr tragen.$"
+	.string "Dein Beutel scheint voll zu sein!$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorQuit:
-	.string "Sammle ein paar Münzen\n"
-	.string "und komm dann wieder!$"
+	.string "Oh, in Ordnung! Dann spare dir ein paar\n"
+	.string "Münzen zusammen, bis du wiederkommst!$"
 
 GoldenrodCity_GameCorner_Text_PrizeVendorNoCoinCase:
-	.string "Oh? Du hast keinen MÜNZKORB.$"
+	.string "Oh? Du hast keinen Münzkorb.$"
 
 GoldenrodCity_GameCorner_Text_Pharmacist:
 	.string "Ich spiele nur an diesem Automaten.\p"
@@ -584,13 +584,13 @@ GoldenrodCity_GameCorner_Text_Pharmacist:
 
 GoldenrodCity_GameCorner_Text_Woman:
 	.string "Dein Spielplatz!\p"
-	.string "DUKATIA CITY SPIELHALLE$"
+	.string "Dukatia City Spielhalle$"
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
 	.string "Ich liebe diesen neuen Automaten.\p"
 	.string "Er stellt eine\n"
 	.string "größere Herausforderung dar als jene\l"
-	.string "in PRISMANIA CITY.$"
+	.string "in Prismania City.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
 	.string "Das Leben ist ein Spiel.\p"
@@ -609,7 +609,7 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
 
 GoldenrodCity_GameCorner_Text_Gentleman:
 	.string "Ich habe meinen\n"
-	.string "Pokémon BLIZZARD beigebracht.\p"
+	.string "Pokémon Blizzard beigebracht.\p"
 	.string "Es hat zwar gedauert, bis ich genug\n"
 	.string "Münzen hatte, aber\l"
 	.string "es hat sich gelohnt.$"
@@ -619,7 +619,7 @@ GoldenrodCity_GameCorner_Text_PokefanM2:
 	.string "Glück. Bei den Karten sieht es\l"
 	.string "auch nicht anders aus…\p"
 	.string "Ich war so zornig, dass ich meinen\n"
-	.string "MÜNZKORB im UNTERGRUND\l"
+	.string "Münzkorb im Untergrund\l"
 	.string "weggeworfen habe.$"
 
 GoldenrodCity_GameCorner_Text_MoveTutorInside:
@@ -775,25 +775,25 @@ GoldenrodCity_GameCorner_EventScript_VFAttendant2::
 
 @ Voltorb Flip Menu Option Strings
 GoldenrodCity_GameCorner_Text_VF_OptPlay:
-	.string "Play$"
+	.string "Spielen$"
 
 GoldenrodCity_GameCorner_Text_VF_OptGameInfo:
-	.string "SPIELREGELN$"
+	.string "Spielregeln$"
 
 GoldenrodCity_GameCorner_Text_VF_OptQuit:
-	.string "Zurück$"
+	.string "Ende$"
 
 GoldenrodCity_GameCorner_Text_VF_OptHowToPlay:
-	.string "WIE MAN SPIELT$"
+	.string "Wie man spielt$"
 
 GoldenrodCity_GameCorner_Text_VF_OptHint:
-	.string "TIPPS!$"
+	.string "Tipps!$"
 
 GoldenrodCity_GameCorner_Text_VF_OptAboutNotes:
-	.string "ÜBER HINWEISE$"
+	.string "Über Hinweise$"
 
 GoldenrodCity_GameCorner_Text_VF_OptReturn:
-	.string "ZURÜCK$"
+	.string "Zurück$"
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:
@@ -830,21 +830,21 @@ GoldenrodCity_GameCorner_Text_VF_WhichInfo:
 	.string "Was möchtest du wissen?$"
 
 GoldenrodCity_GameCorner_Text_VF_HowToPlay:
-	.string "Bei VOLTOBALL-FLIP deckst du Karten\n"
+	.string "Bei Voltoball-Flip deckst du Karten\n"
 	.string "mit versteckten Zahlen auf.\p"
 	.string "Unter ihnen liegen die Zahlen\n"
-	.string "1 bis 3 und VOLTOBALL.\p"
+	.string "1 bis 3 und Voltoball.\p"
 	.string "Die erste Zahl bringt dir\n"
 	.string "entsprechend viele Münzen.\p"
 	.string "Jede weitere Zahl vervielfacht\n"
 	.string "deinen bisherigen Gewinn.\p"
 	.string "Eine 2 verdoppelt, eine 3\n"
 	.string "verdreifacht ihn.\p"
-	.string "Triffst du VOLTOBALL,\n"
+	.string "Triffst du Voltoball,\n"
 	.string "ist das Spiel vorbei.\p"
 	.string "Alle in der Runde gesammelten\n"
 	.string "Münzen gehen verloren!\p"
-	.string "Mit AUFGEBEN sicherst du dir\n"
+	.string "Mit Aufgeben sicherst du dir\n"
 	.string "deine bisherigen Münzen.\p"
 	.string "Finde alle x2- und x3-Karten,\n"
 	.string "um die nächste Stufe zu erreichen!$"
@@ -856,7 +856,7 @@ GoldenrodCity_GameCorner_Text_VF_HintText:
 	.string "jeweilige Reihe oder Spalte.\p"
 	.string "Je höher die Zahl, desto mehr\n"
 	.string "wertvolle Karten gibt es dort.\p"
-	.string "Die VOLTOBALL-Anzahl zeigt,\n"
+	.string "Die Voltoball-Anzahl zeigt,\n"
 	.string "wie viele sich dort verstecken.\p"
 	.string "Nutze beide Hinweise, um\n"
 	.string "sichere Karten zu finden!$"
@@ -864,17 +864,17 @@ GoldenrodCity_GameCorner_Text_VF_HintText:
 GoldenrodCity_GameCorner_Text_VF_AboutNotes:
 	.string "Mit dem Notizmodus\n"
 	.string "({L_BUTTON} & {R_BUTTON}) markierst du\p"
-	.string "Karten mit 1-3 oder VOLTOBALL.\p"
+	.string "Karten mit 1-3 oder Voltoball.\p"
 	.string "Markiere vermutete Felder und\n"
 	.string "decke sie später auf.\p"
 	.string "Eine weitere Markierung\n"
 	.string "entfernt die Notiz.$"
 
 GoldenrodCity_GameCorner_Text_VF_NeedCoinCase:
-	.string "Oh? Du hast keinen MÜNZKORB.$"
+	.string "Oh? Du hast keinen Münzkorb.$"
 
 GoldenrodCity_GameCorner_Text_VFAttendant1:
-	.string "Du willst VOLTOBALL-FLIP spielen?\p"
+	.string "Du willst Voltoball-Flip spielen?\p"
 	.string "Dazu musst du auf die andere\n"
 	.string "Seite des Tisches gehen.$"
 

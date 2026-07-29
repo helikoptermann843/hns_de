@@ -191,8 +191,8 @@ FourIsland_IcefallCave_Back_EventScript_Lorelei::
 	end
 
 FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
-	.string "LORELEI: Lasst eure Griffel von\n"
-	.string "den POKéMON in der Höhle!\p"
+	.string "Lorelei: Lasst eure Griffel von\n"
+	.string "den Pokémon in der Höhle!\p"
 	.string "Tut, was ich euch sage oder ihr\n"
 	.string "werdet mich kennen lernen!$"
 
@@ -203,20 +203,20 @@ FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
 	.string "beschlagen!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
-	.string "LORELEI: {PLAYER}?!?\n"
+	.string "Lorelei: {PLAYER}?!?\n"
 	.string "Was machst du denn hier?\p"
 	.string "Wir unterhalten uns später. Ich\n"
 	.string "brauche jetzt deine Hilfe.\p"
 	.string "Hilf mir, diese Wilderer zu vertrei-\n"
 	.string "ben, ehe sie noch mehr anrichten.\p"
-	.string "Sie haben hier POKéMON gefangen\n"
+	.string "Sie haben hier Pokémon gefangen\n"
 	.string "und sie anschließend verkauft!\p"
 	.string "Bist du bereit?\n"
 	.string "Du übernimmst diesen, los!$"
 
 FourIsland_IcefallCave_Back_Text_GruntIntro::
 	.string "W-Was!?!\p"
-	.string "Wer sagt, dass wir mit den POKéMON\n"
+	.string "Wer sagt, dass wir mit den Pokémon\n"
 	.string "nicht das anstellen können, was wir\l"
 	.string "wollen?$"
 
@@ -224,12 +224,12 @@ FourIsland_IcefallCave_Back_Text_GruntDefeat::
 	.string "We didn't plan on this!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
-	.string "LORELEI: Umpf!\n"
+	.string "Lorelei: Umpf!\n"
 	.string "Wie erbärmlich schwach!\p"
 	.string "Du!\n"
 	.string "Sprich!\p"
 	.string "Wohin habt ihr die gefangenen\n"
-	.string "POKéMON gebracht?\p"
+	.string "Pokémon gebracht?\p"
 	.string "Ich zerschlage eure Organisation,\n"
 	.string "ein für alle Mal.$"
 
@@ -238,23 +238,23 @@ FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
 	.string "Das werde ich nie verraten!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
-	.string "LORELEI: If you won't confess,\n"
+	.string "Lorelei: If you won't confess,\n"
 	.string "we'll deep-freeze you.\p"
-	.string "My LAPRAS is furious for what\n"
+	.string "My Lapras is furious for what\n"
 	.string "you've done to its friends.\p"
-	.string "Go, LAPRAS!\n"
-	.string "ICE BEAM…$"
+	.string "Go, Lapras!\n"
+	.string "Ice Beam…$"
 
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "Bitte nicht! O.K.!\n"
 	.string "Ich sage es dir!\p"
-	.string "Die POKéMON sind im ROCKET-LAGER\n"
-	.string "auf EILAND FÜNF.\p"
+	.string "Die Pokémon sind im Rocket-Lager\n"
+	.string "auf Eiland Fünf.\p"
 	.string "So! Jetzt weißt du es!\n"
 	.string "Wir verschwinden jetzt!\p"
 	.string "… aber ich bezweifle, dass du es\n"
-	.string "je bis zum ROCKET-LAGER schaffst!\p"
-	.string "HARHARHAR!$"
+	.string "je bis zum Rocket-Lager schaffst!\p"
+	.string "Harharhar!$"
 
 FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
 	.string "{PLAYER}, danke!\n"

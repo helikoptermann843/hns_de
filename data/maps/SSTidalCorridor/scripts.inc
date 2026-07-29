@@ -251,28 +251,28 @@ SSTidalCorridor_Movement_SailorReturn:
 	step_end
 
 SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Hallo!!!\n"
+	.string "Scott: Hallo!!!\n"
 	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
 	.string "Irgendetwas Großes wird passieren,\n"
 	.string "daher habe ich es eilig. Aber ich habe\l"
 	.string "mich gefreut, dich zu treffen!\p"
-	.string "Herzlichen Glückwunsch, CHAMP der\n"
-	.string "POKéMON LIGA!\p"
+	.string "Herzlichen Glückwunsch, Champ der\n"
+	.string "Pokémon Liga!\p"
 	.string "Jemanden wie dich würde ich gerne ein-\n"
 	.string "laden. Es gibt da einen besonderen\n"
 	.string "Ort… \p"
 	.string "Und zwar…\n"
-	.string "Die KAMPFZONE!\p"
+	.string "Die Kampfzone!\p"
 	.string "Was das für ein Ort ist?\n"
 	.string "Schau ihn dir einfach an!\p"
-	.string "Ich habe mich bereits mit dem KAPITÄN\n"
+	.string "Ich habe mich bereits mit dem Kapitän\n"
 	.string "darüber unterhalten.\p"
 	.string "Nächstes Mal, wenn du die Fähre\n"
 	.string "nimmst,\n"
-	.string "kannst du zur KAMPFZONE fahren.\p"
+	.string "kannst du zur Kampfzone fahren.\p"
 	.string "Okay, {PLAYER}{KUN}, ich erwarte dich\n"
 	.string "also in\l"
-	.string "der KAMPFZONE!$"
+	.string "der Kampfzone!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
 	.string "Diese Fähre ist so konstruiert, dass\n"
@@ -288,12 +288,12 @@ SSTidal_Text_HopeYouEnjoyVoyage:
 	.string "um.$"
 
 SSTidal_Text_MadeLandInSlateport:
-	.string "Wir gehen in GRAPHITPORT CITY vor\n"
+	.string "Wir gehen in Graphitport City vor\n"
 	.string "Anker. Danke, dass du mit uns gefahren\l"
 	.string "bist.$"
 
 SSTidal_Text_MadeLandInLilycove:
-	.string "Wir gehen in SEEGRASULB CITY vor\n"
+	.string "Wir gehen in Seegrasulb City vor\n"
 	.string "Anker.\l"
 	.string "Danke, dass du mit uns gefahren bist.$"
 
@@ -311,7 +311,7 @@ SSTidalCorridor_Text_WeveArrived:
 SSTidalCorridor_Text_VisitOtherCabins:
 	.string "Schau dir ruhig die anderen Kabinen\n"
 	.string "an.\n"
-	.string "TRAINER langweilen sich auf der Über-\l"
+	.string "Trainer langweilen sich auf der Über-\l"
 	.string "fahrt und werden sicher gerne kämpfen.$"
 
 SSTidalCorridor_Text_EnjoyYourCruise:
@@ -322,12 +322,12 @@ SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
 	.string "den Horizont.$"
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
-	.string "MR. BRACK: Willkommen an Bord,\n"
+	.string "Mr. Brack: Willkommen an Bord,\n"
 	.string "{PLAYER}{KUN}! \p"
 	.string "Ich bin jetzt der Kapitän der\n"
-	.string "MS TIDE!\p"
+	.string "MS Tide!\p"
 	.string "Du kannst mich ab sofort\n"
-	.string "KAPITÄN BRACK nennen.\p"
+	.string "Kapitän Brack nennen.\p"
 	.string "Ich war zwar schon in Rente gegangen,\n"
 	.string "aber als ich dieses majestätische\l"
 	.string "Schiff gesehen habe…\p"
@@ -335,7 +335,7 @@ SSTidalCorridor_Text_BrineyWelcomeAboard:
 	.string "schlafende Seele des Seemannes in mir.$"
 
 SSTidalCorridor_Text_Peeko:
-	.string "PECKO: Pihyo pihyohyo…$"
+	.string "Pecko: Pihyo pihyohyo…$"
 
 SSTidalCorridor_Text_Cabin1:
 	.string "Kabine 1$"

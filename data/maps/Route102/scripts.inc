@@ -74,20 +74,20 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "HEIKO: {PLAYER}…\n"
-	.string "POKéMON verstecken sich in hohem Gras\l"
+	.string "Heiko: {PLAYER}…\n"
+	.string "Pokémon verstecken sich in hohem Gras\l"
 	.string "wie diesem hier, oder?\p"
 	.string "Bitte bleib hier und schau, ob ich sie\n"
 	.string "auch richtig fange.\p"
 	.string "… Whoa!$"
 
 Route102_Text_WallyIDidIt:
-	.string "HEIKO: Ich habe es geschafft… Es\n"
-	.string "gehört mir… Mein POKéMON!!!$"
+	.string "Heiko: Ich habe es geschafft… Es\n"
+	.string "gehört mir… Mein Pokémon!!!$"
 
 Route102_Text_LetsGoBack:
 	.string "{PLAYER}, danke schön!\n"
-	.string "Lass uns zurück zur ARENA gehen!$"
+	.string "Lass uns zurück zur Arena gehen!$"
 
 Route102_Text_ImNotVeryTall:
 	.string "Ich… bin nicht groß, ich versinke im\n"
@@ -97,12 +97,12 @@ Route102_Text_ImNotVeryTall:
 	.string "Haaatschiiii!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "Ich werde jede Menge POKéMON fangen!$"
+	.string "Ich werde jede Menge Pokémon fangen!$"
 
 Route102_Text_RouteSignOldale:
-	.string "ROUTE 102\n"
-	.string "{RIGHT_ARROW} ROSALTSTADT$"
+	.string "Route 102\n"
+	.string "{RIGHT_ARROW} Rosaltstadt$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "ROUTE 102\n"
-	.string "{LEFT_ARROW} BLÜTENBURG CITY$"
+	.string "Route 102\n"
+	.string "{LEFT_ARROW} Blütenburg City$"

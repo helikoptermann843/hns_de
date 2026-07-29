@@ -14,7 +14,7 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy_hns::
 	end
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds_hns:
-	.string "Was braucht ein TRAINER?\p"
+	.string "Was braucht ein Trainer?\p"
 	.string "Kenntnis… Strategie…\l"
 	.string "Ein glückliches Los…\l"
 	.string "Einen groben Überblick…\l"
@@ -24,23 +24,23 @@ BattleFrontier_Lounge8_Text_WhatATrainerNeeds_hns:
 	.string "Nun, das bringe ich alles mit!\n"
 	.string "Ich werde überall einfach unschlagbar\l"
 	.string "sein!\p"
-	.string "Was? POKéMON?!?\n"
+	.string "Was? Pokémon?!?\n"
 	.string "Was ist das denn? Kann man das essen?$"
 
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains_hns:
 	.string "Hast du schon mal was über die\n"
-	.string "KAMPFKORYPHÄEN gehört?\p"
-	.string "So nennt SCOTT die sieben TRAINER,\n"
+	.string "Kampfkoryphäen gehört?\p"
+	.string "So nennt Scott die sieben Trainer,\n"
 	.string "die die sieben Einrichtungen der\l"
-	.string "KAMPFZONE leiten.$"
+	.string "Kampfzone leiten.$"
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling_hns:
-	.string "Im DUELLTURM hat mir ein älteres\n"
+	.string "Im Duellturm hat mir ein älteres\n"
 	.string "Mädchen gesagt, dass ich sehr viel\l"
 	.string "Talent für’s Kämpfen habe!\p"
-	.string "Ich mag aber lieber POKéMON\n"
-	.string "WETTBEWERBE!\p"
-	.string "Aber bei den WETTBEWERBEn schneide\n"
+	.string "Ich mag aber lieber Pokémon\n"
+	.string "Wettbewerbe!\p"
+	.string "Aber bei den Wettbewerben schneide\n"
 	.string "ich nie so sonderlich gut ab.\p"
 	.string "Ob man auch für etwas Talent haben\n"
 	.string "kann, obwohl man was anderes lieber\l"

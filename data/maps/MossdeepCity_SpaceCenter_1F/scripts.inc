@@ -308,8 +308,8 @@ MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
 	.string "Warum? Weil es ein ewiger Traum ist.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Die Gauner von MAGMA haben unser\n"
-	.string "RAUMFAHRTZENTRUM im Visier.\p"
+	.string "Die Gauner von Magma haben unser\n"
+	.string "Raumfahrtzentrum im Visier.\p"
 	.string "Aber wir können es niemandem erlauben,\n"
 	.string "den Raktenstart zu gefährden!$"
 
@@ -320,32 +320,32 @@ MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
 	.string "kannst du es haben.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "Die HOENN-Region ist bekannt für die\n"
+	.string "Die Hoenn-Region ist bekannt für die\n"
 	.string "Häufigkeit der Meteoriteneinschläge.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA darf den Raketentreibstoff\n"
+	.string "Team Magma darf den Raketentreibstoff\n"
 	.string "nicht in die Finger bekommen!\p"
 	.string "Übrigens: Möchtest du diesen Stein\n"
 	.string "haben? Den habe ich am Strand\l"
 	.string "gefunden.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "Wenn TEAM MAGMA in der Nähe ist, sind\n"
+	.string "Wenn Team Magma in der Nähe ist, sind\n"
 	.string "Spaziergänge am Strand bestimmt\l"
 	.string "gefährlich.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
 	.string "Einige Menschen nehmen an, dass die\n"
-	.string "POKéMON aus dem Weltall kommen. Ob das\l"
+	.string "Pokémon aus dem Weltall kommen. Ob das\l"
 	.string "stimmt?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA sollte sich um TEAM MAGMA\n"
+	.string "Team Aqua sollte sich um Team Magma\n"
 	.string "kümmern!\p"
 	.string "Aber wenn sie das machen, dann haben\n"
-	.string "wir hinterher ein Problem mit TEAM\l"
-	.string "AQUA.$"
+	.string "wir hinterher ein Problem mit Team\l"
+	.string "Aqua.$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
 	.string "Ein gigantischer Brocken Metall durch-\n"
@@ -357,14 +357,14 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
 	.string "Ein gigantischer Brocken Metall durch-\n"
 	.string "bricht den Himmel und fliegt ins All…\n"
 	.string "\p"
-	.string "Aber TEAM MAGMA will meinen Traum\n"
+	.string "Aber Team Magma will meinen Traum\n"
 	.string "vernichten!\p"
 	.string "Ich versteh das nicht.$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "TROY: Hast du die Bekanntmachung schon\n"
+	.string "Troy: Hast du die Bekanntmachung schon\n"
 	.string "gelesen, {PLAYER}{KUN}?\p"
-	.string "TEAM MAGMA will sich den Raketentreib-\n"
+	.string "Team Magma will sich den Raketentreib-\n"
 	.string "stoff unter den Nagel reißen.\p"
 	.string "Ich weiß zwar nicht, wofür sie ihn\n"
 	.string "brauchen, aber das können wir ihnen\l"
@@ -433,7 +433,7 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
 	.string "Das ist…\n"
 	.string "Eine Ankündigung eines Diebstahls?!?\p"
 	.string "“An die Belegschaft des\n"
-	.string "RAUMFAHRTZENTRUMs\p"
+	.string "Raumfahrtzentrums\p"
 	.string "Wie geht es euch? Wir hoffen, gut.\n"
 	.string "Schon bald werden wir euch einen\n"
 	.string "Besuch \p"
@@ -443,4 +443,4 @@ MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
 	.string "Wir nehmen den Treibstoff auf jeden\l"
 	.string "Fall mit! Egal, was ihr unternehmt.\p"
 	.string "Auf dass die Landmassen wachsen!\p"
-	.string "TEAM MAGMA”$"
+	.string "Team Magma”$"

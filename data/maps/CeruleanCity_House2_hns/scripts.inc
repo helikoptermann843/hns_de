@@ -30,4 +30,4 @@ CeruleanPolice_Text_PokefanF:
 	.string "ein Dieb eingestiegen, weißt du?$"
 
 CeruleanPolice_Text_Diglett:
-	.string "DIGDA: Dig da!$"
+	.string "Digda: Dig da!$"

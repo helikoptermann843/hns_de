@@ -83,9 +83,9 @@ ThreeIsland_BondBridge_Text_JoyPostBattle::
 	.string "Ich hoffe, wir wiederholen das!$"
 
 ThreeIsland_BondBridge_Text_JoyNotEnoughMons::
-	.string "UTE: Ich wollte wirklich mit IDA\n"
+	.string "Ute: Ich wollte wirklich mit Ida\n"
 	.string "kämpfen.\p"
-	.string "Ein POKéMON reicht nicht aus!$"
+	.string "Ein Pokémon reicht nicht aus!$"
 
 ThreeIsland_BondBridge_Text_MegIntro::
 	.string "Ida: Wir zeigen dir unsere\n"
@@ -99,15 +99,15 @@ ThreeIsland_BondBridge_Text_MegPostBattle::
 	.string "Ida: Ute, das war ein Spaß!$"
 
 ThreeIsland_BondBridge_Text_MegNotEnoughMons::
-	.string "IDA: Ich möchte mit UTE\n"
+	.string "Ida: Ich möchte mit Ute\n"
 	.string "kämpfen.\p"
-	.string "Ein POKéMON ist nicht genug.$"
+	.string "Ein Pokémon ist nicht genug.$"
 
 ThreeIsland_BondBridge_Text_BerryForestAhead::
-	.string "BEERENFORST VORAUS$"
+	.string "Beerenforst Voraus$"
 
 ThreeIsland_BondBridge_Text_BondBridgeSign::
-	.string "BUNDBRÜCKE\n"
+	.string "Bundbrücke\n"
 	.string "Beim Überqueren bitte Ruhe!\p"
-	.string "BEERENFORST VORAUS$"
+	.string "Beerenforst Voraus$"
 

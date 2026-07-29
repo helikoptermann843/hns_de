@@ -36,28 +36,28 @@ CeruleanCity_PokemonCenter_1F_EventScript_Lass::
 
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
 	.string "Die Leute hier wurden beraubt.\p"
-	.string "Das TEAM ROCKET steckt hinter dem\n"
+	.string "Das Team Rocket steckt hinter dem\n"
 	.string "abscheulichen Verbrechen!\p"
-	.string "Sogar die POLIZEI ist gegen das\n"
-	.string "TEAM ROCKET machtlos!$"
+	.string "Sogar die Polizei ist gegen das\n"
+	.string "Team Rocket machtlos!$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
-	.string "Hat man dir schon von BILL\n"
+	.string "Hat man dir schon von Bill\n"
 	.string "erzählt?\p"
-	.string "Jeder nennt ihn den POKéMANIAC!\p"
+	.string "Jeder nennt ihn den Pokémaniac!\p"
 	.string "Aber ich glaube, die Leute sind\n"
-	.string "bloß neidisch auf BILL.\p"
+	.string "bloß neidisch auf Bill.\p"
 	.string "Wer würde denn nicht mit seinen\n"
-	.string "POKéMON prahlen?$"
+	.string "Pokémon prahlen?$"
 
 CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
-	.string "BILL besitzt viele POKéMON!\p"
+	.string "Bill besitzt viele Pokémon!\p"
 	.string "Er hat einige sehr seltene in\n"
 	.string "seiner Sammlung!$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
-	.string "POKéMON können Büsche mit dem\n"
-	.string "ZERSCHNEIDER klein hacken.\p"
+	.string "Pokémon können Büsche mit dem\n"
+	.string "Zerschneider klein hacken.\p"
 	.string "Auch der kleine Baum vor dem\n"
 	.string "Geschäft kann entfernt werden.\p"
 	.string "Aber es gibt auch einen anderen\n"

@@ -201,7 +201,7 @@ CianwoodCity_EventScript_SuicuneTrigger::
 	waitmovement 0
 	delay 55
 	applymovement LOCALID_CIANWOOD_EUSINE, CianwoodCity_Movement_Eusine2
-	waitmovement 0 
+	waitmovement 0
 	msgbox CianwoodCity_Text_EusineSuicune, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_EUSINE_HNS, CianwoodCity_Text_EusineBeaten
 	playbgm MUS_HG_EUSINE, TRUE
@@ -273,19 +273,19 @@ CianwoodCity_Movement_Eusine3:
 
 CianwoodCity_Text_EusineSuicune:
 	.string "Eusin: Hallo, {PLAYER}!\p"
-	.string "Sag mal… war das eben nicht SUICUNE?\p"
+	.string "Sag mal… war das eben nicht Suicune?\p"
 	.string "Ich konnte es nicht richtig erkennen,\n"
 	.string "aber für den Hauch einer Sekunde meinte\l"
 	.string "ich wirklich, gesehen zu haben, wie da\l"
-	.string "SUICUNE über das Meer gebrettert ist.\p"
-	.string "SUICUNE ist so schön und so stolz…\p"
+	.string "Suicune über das Meer gebrettert ist.\p"
+	.string "Suicune ist so schön und so stolz…\p"
 	.string "Außerdem läuft es mit atemberaubender\n"
 	.string "Geschwindigkeit Städte und Straßen ab!\p"
 	.string "Es ist einfach ein wundervolles Pokémon.\p"
 	.string "Ich würde es nur zu gerne mal aus\n"
 	.string "nächster Nähe sehen…\p"
 	.string "Los, lass uns kämpfen! Wenn ich dich\n"
-	.string "besiege, erkennt mich SUICUNE vielleicht\l"
+	.string "besiege, erkennt mich Suicune vielleicht\l"
 	.string "als würdigen Trainer an!\p"
 	.string "Komm schon, {PLAYER}!$"
 
@@ -354,7 +354,7 @@ CianwoodCity_EventScript_Engineer::
 	end
 
 CianwoodCity_Text_Safari:
-	.string "FELSSCHLUNDHÖHLE Weg zur Safari-Zone.$"
+	.string "Felsschlundhöhle Weg zur Safari-Zone.$"
 
 CianwoodCity_Text_Engineer:
 	.string "Hier sind aktuell Bauarbeiten.\n"

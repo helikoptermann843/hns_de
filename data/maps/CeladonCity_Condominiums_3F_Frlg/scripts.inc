@@ -61,21 +61,21 @@ CeladonCity_Condominiums_3F_Text_ImTheGraphicArtist::
 
 CeladonCity_Condominiums_3F_Text_IWroteTheStory::
 	.string "Die Geschichte stammt von mir!\n"
-	.string "Ist ERIKA nicht süß?\p"
-	.string "Aber MISTY mag ich auch gerne!\n"
-	.string "Und nicht zu vergessen, SABRINA!$"
+	.string "Ist Erika nicht süß?\p"
+	.string "Aber Misty mag ich auch gerne!\n"
+	.string "Und nicht zu vergessen, Sabrina!$"
 
 CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
 	.string "Gefällt dir das Spiel?\p"
 	.string "Ich habe das Spiel gestaltet!\p"
 	.string "Auch wenn es sehr mühsam ist, den\n"
-	.string "POKéDEX zu erstellen: Gib nicht\l"
+	.string "Pokédex zu erstellen: Gib nicht\l"
 	.string "auf!\p"
 	.string "Zeige ihn mir, wenn er komplett ist!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
 	.string "Wow! Excellent!\n"
-	.string "You completed your POKéDEX!\l"
+	.string "You completed your Pokédex!\l"
 	.string "Congratulations!\l"
 	.string "…$"
 
@@ -92,5 +92,5 @@ CeladonCity_Condominiums_3F_Text_ItsScriptBetterNotLookAtEnding::
 	.string "Ende besser nicht an!$"
 
 CeladonCity_Condominiums_3F_Text_GameFreakDevelopmentRoom::
-	.string "GAME FREAK Entwicklungs-Abteilung$"
+	.string "Game Freak Entwicklungs-Abteilung$"
 

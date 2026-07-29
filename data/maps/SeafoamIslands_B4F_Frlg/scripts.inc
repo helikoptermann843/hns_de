@@ -202,15 +202,15 @@ Text_RockSlideTeach::
 	.string "Das wäre doch…\n"
 	.string "Einfach unvorstellbar schrecklich!\p"
 	.string "Du scheinst keine Angst zu haben.\n"
-	.string "Soll ein POKéMON STEINHAGEL\l"
+	.string "Soll ein Pokémon Steinhagel\l"
 	.string "erlernen?$"
 
 Text_RockSlideDeclined::
 	.string "Oh, du hast also doch Angst!$"
 
 Text_RockSlideWhichMon::
-	.string "Welches POKéMON soll\n"
-	.string "STEINHAGEL erlernen?$"
+	.string "Welches Pokémon soll\n"
+	.string "Steinhagel erlernen?$"
 
 Text_RockSlideTaught::
 	.string "Es wäre sehr gruselig, das in\n"
@@ -218,7 +218,7 @@ Text_RockSlideTaught::
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
 	.string "Ein Tipp? Du brauchst einen\n"
-	.string "TÜRÖFFNER!$"
+	.string "Türöffner!$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
 	.string "Pst! Siehst du nicht, dass\n"

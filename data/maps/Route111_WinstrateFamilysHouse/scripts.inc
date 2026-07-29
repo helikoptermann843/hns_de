@@ -57,25 +57,25 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "Ich habe noch nie einen TRAINER ge-\n"
-	.string "sehen, der seine POKéMON so meister-\l"
+	.string "Ich habe noch nie einen Trainer ge-\n"
+	.string "sehen, der seine Pokémon so meister-\l"
 	.string "haft einsetzt wie du.\p"
 	.string "Aber, ich muss dir auch sagen… mein\n"
 	.string "Sohn ist stärker als du.\p"
-	.string "Er hat sogar die POKéMON LIGA heraus-\n"
+	.string "Er hat sogar die Pokémon Liga heraus-\n"
 	.string "gefordert. Das solltest du wissen.$"
 
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "Wir benutzen dieses MACHOBAND, um die\n"
-	.string "POKéMON im Training noch mehr\l"
+	.string "Wir benutzen dieses Machoband, um die\n"
+	.string "Pokémon im Training noch mehr\l"
 	.string "zu stärken.\p"
 	.string "Da du unsere gesamte Familie besiegt\n"
 	.string "hast, brauchst du es vielleicht gar\l"
 	.string "nicht. Aber wir möchten dir dieses\l"
-	.string "MACHOBAND trotzdem gerne schenken.$"
+	.string "Machoband trotzdem gerne schenken.$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "Wenn es um POKéMON-Kämpfe geht, ist\n"
+	.string "Wenn es um Pokémon-Kämpfe geht, ist\n"
 	.string "die ganze Familie sehr\l"
 	.string "leidenschaftlich.$"
 
@@ -93,18 +93,18 @@ Route111_WinstrateFamilysHouse_Text_GrandsonStrong:
 	.string "treten willst, bringt dir das nur\n"
 	.string "Tränen\l"
 	.string "der Frustration ein.\p"
-	.string "Er ist viel stärker als jeder TRAINER,\n"
+	.string "Er ist viel stärker als jeder Trainer,\n"
 	.string "den unsere Familie kennt.\p"
 	.string "Er müsste jetzt gerade eigentlich\n"
-	.string "dabei sein, die POKéMON LIGA\l"
+	.string "dabei sein, die Pokémon Liga\l"
 	.string "herauszufordern.\p"
 	.string "Wie ich meinen Enkel kenne, ist er\n"
-	.string "mittlerweile bestimmt schon der CHAMP!$"
+	.string "mittlerweile bestimmt schon der Champ!$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort:
 	.string "Mein Enkel müsste jetzt gerade dabei\n"
-	.string "sein, die POKéMON LIGA\l"
+	.string "sein, die Pokémon Liga\l"
 	.string "herauszufordern.\p"
 	.string "Wie ich meinen Enkel kenne, ist er\n"
-	.string "mittlerweile bestimmt schon der CHAMP!$"
+	.string "mittlerweile bestimmt schon der Champ!$"
 

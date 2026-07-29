@@ -3,9 +3,9 @@ RuinsOfAlph_Outside_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-RuinsOfAlph_Outside_OnTransition: 
+RuinsOfAlph_Outside_OnTransition:
 	callnative SetTimeBasedEncounters
-	end	
+	end
 
 RuinsOfAlph_Outside_EventScript_Quagsire::
 	lock
@@ -19,7 +19,7 @@ RuinsOfAlph_Outside_EventScript_Quagsire::
 
 RuinsOfAlph_Outside_Text_Quagsire:
 	.string "Es gibt viele unterschiedliche\p"
-	.string "ICOGNITO, die wir\n"
+	.string "Icognito, die wir\n"
 	.string "für unsere Geheimcodes benötigen.$"
 
 RuinsOfAlph_Outside_EventScript_Stan::
@@ -111,14 +111,14 @@ RuinsOfAlph_Outside_Text_SuperNerdStan_Beaten:
     .string "mangelndes Verständnis…$"
 
 RuinsOfAlph_Outside_Text_SuperNerdStan_After:
-    .string "Die RUINEN sind etwa 1500 Jahre alt.\p"
+    .string "Die Ruinen sind etwa 1500 Jahre alt.\p"
     .string "Niemand weiß, wer sie erbaut hat.\p"
-    .string "Auch ist unklar, ob die POKéMON-\n"
+    .string "Auch ist unklar, ob die Pokémon-\n"
     .string "Statuen eine Bedeutung haben.\p"
     .string "Alles ist ein großes Rätsel…$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Seen:
-    .string "Hmm… Das ist ein seltsamer Ort.$"
+	.string "Hm… dies ist ein merkwürdiger Ort.$"
 
 RuinsOfAlph_Outside_Text_PsychicNathan_Beaten:
     .string "…$"
@@ -128,7 +128,7 @@ RuinsOfAlph_Outside_Text_PsychicNathan_After:
 	.string "um nachzudenken.$"
 
 RuinsOfAlph_Outside_Text_MysteryChamberSign:
-	.string "RÄTSELSTEIN PUZZLEKAMMER$"
+	.string "Rätselstein Puzzlekammer$"
 
 RuinsOfAlph_Outside_Text_MainSign:
 	.string "Alph-Ruinen\p"
@@ -140,20 +140,20 @@ RuinsOfAlph_Outside_Text_ResearchSign:
 	.string "Die Autorität der Alph-Ruinen$"
 
 RuinsOfAlph_Outside_Text_Fisher1:
-	.string "Beim Erkunden der RUINEN haben wir\p"
+	.string "Beim Erkunden der Ruinen haben wir\p"
 	.string "plötzlich eine seltsame\n"
 	.string "Gegenwart gespürt.\p"
 	.string "Alle hatten Angst und liefen davon.\p"
 	.string "Du solltest auch vorsichtig sein.$"
 
 RuinsOfAlph_Outside_Text_Fisher2:
-	.string "Den RUINEN wohnt\n"
+	.string "Den Ruinen wohnt\n"
 	.string "ein großes Geheimnis inne!\p"
 	.string "…Ich denke…$"
 
 RuinsOfAlph_Outside_Text_Youngster1:
 	.string "Es gibt viele unterschiedliche\n"
-	.string "ICOGNITO, die wir\l"
+	.string "Icognito, die wir\l"
 	.string "für unsere Geheimcodes benötigen.$"
 
 RuinsOfAlph_Outside_Text_Youngster2:

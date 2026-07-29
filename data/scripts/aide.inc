@@ -16,7 +16,7 @@ Aide_EventScript_DeclineCheckMons::
 Aide_Text_HaventCaughtEnoughMonsForItem::
 	.string "Mal sehen…\n"
 	.string "Oh! Du hast erst {STR_VAR_3}\l"
-	.string "POKéMON-ARTEN gefangen!\p"
+	.string "Pokémon-Arten gefangen!\p"
 	.string "Für das {STR_VAR_2} brauchst\n"
 	.string "du {STR_VAR_1} Arten.$"
 

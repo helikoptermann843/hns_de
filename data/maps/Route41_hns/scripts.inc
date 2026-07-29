@@ -130,7 +130,7 @@ Route41_Text_SwimmerfSusieBeaten:
 
 Route41_Text_SwimmerfSusieAfter:
 	.string "Da gab es doch diesen Song über den\n"
-	.string "Jungen, der auf einem LAPRAS reitet…$"
+	.string "Jungen, der auf einem Lapras reitet…$"
 
 Route41_EventScript_Denise::
 	trainerbattle_single TRAINER_DENISE_HNS, Route41_Text_SwimmerfDeniseSeen, Route41_Text_SwimmerfDeniseBeaten
@@ -175,14 +175,14 @@ Route41_EventScript_Wendy::
 
 Route41_Text_SwimmerfWendySeen:
 	.string "Wenn es Nacht wird, sammeln sich\n"
-	.string "Schwärme von STERNDU\l"
+	.string "Schwärme von Sterndu\l"
 	.string "nahe der Küste von Oliviana City.$"
 
 Route41_Text_SwimmerfWendyBeaten:
-	.string "MEINE GÜTE$"
+	.string "Oje…$"
 
 Route41_Text_SwimmerfWendyAfter:
-	.string "In der Gruppe fangen STERNDU an zu\n"
+	.string "In der Gruppe fangen Sterndu an zu\n"
 	.string "leuchten. Das ist so wunderschön, dass\l"
 	.string "man fast schon Angst bekommt!$"
 
@@ -290,7 +290,7 @@ Route41_Text_Tentacruel:
 	.string "Tentoxa: Cruooo...$"
 
 Route41_Text_TentacruelAttack:
-	.string "Tentoxa: CRUOOOOOO!$"
+	.string "Tentoxa: Cruoooooo!$"
 
 Route41_Text_TentacruelHeal:
 	.string "Das Tentoxa benutzt Genesung!\n"

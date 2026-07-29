@@ -89,8 +89,8 @@ Route40_EventScript_Woman1::
 
 Route40_Text_Lass1:
 	.string "Du kannst es zwar nicht von hier\n"
-	.string "sehen, aber ANEMONIA-\l"
-	.string "CITY liegt jenseits des Meeres.$"
+	.string "sehen, aber Anemonia-\l"
+	.string "City liegt jenseits des Meeres.$"
 
 Route40_EventScript_Woman2::
 	lock
@@ -102,7 +102,7 @@ Route40_EventScript_Woman2::
 
 Route40_Text_Lass2:
 	.string "Ich reiste mit dem Schiff nach\n"
-	.string "OLIVIANA, um die Sehenswürdigkeiten\l"
+	.string "Oliviana, um die Sehenswürdigkeiten\l"
 	.string "und die Atmosphäre zu genießen.\p"
 	.string "Da es eine Hafenstadt ist, unter-\n"
 	.string "scheidet sie sich\l"
@@ -117,17 +117,17 @@ Route40_EventScript_Youngster::
 	end
 
 Route40_Text_StandingYoungster:
-	.string "Warst du schon am DUELLTURM?\p"
+	.string "Warst du schon am Duellturm?\p"
 	.string "Ich denke, dass sich bereits viele\n"
 	.string "starke Trainer dort versammeln.\p"
-	.string "Da du so viele ORDEN besitzt,\n"
+	.string "Da du so viele Orden besitzt,\n"
 	.string "wirst du dich dort wacker schlagen.$"
 
 Route40_Text_Monica:
-    .string "MONIKA: Freut mich, dich\n"
+    .string "Monika: Freut mich, dich\n"
     .string "kennenzulernen.\p"
-    .string "Ich bin MONIKA von der WOCHEN-\n"
-    .string "TAGSFAMILIE.\p"
+    .string "Ich bin Monika von der Wochen-\n"
+    .string "tagsfamilie.\p"
     .string "Ich wette, du errätst nicht,\n"
     .string "welcher Wochentag mein\l"
     .string "Lieblingstag ist!$"
@@ -138,18 +138,19 @@ Route40_Text_MonicaGivesGift:
     .string "habe ich ein Geschenk für dich!$"
 
 Route40_Text_MonicaGaveGift:
-    .string "MONIKA: Dieses Item verstärkt\n"
-    .string "ATTACKEN vom Typ FLUG.\p"
-    .string "Du solltest es einem Vogel-\n"
-    .string "POKéMON zum Tragen geben.$"
+	.string "Monja: Dieses Item verstärkt\n"
+	.string "Flug-Attacken.\p"
+	.string "Damit solltest du ein Vogel-Pokémon\n"
+	.string "ausstatten.$"
 
 Route40_Text_MonicaMonday:
-    .string "MONIKA: Meine Brüder und\n"
-    .string "Schwestern sind überall verstreut.\p"
-    .string "Versuch doch, sie alle zu finden!$"
+	.string "Monja: Meine Geschwister findest du\n"
+	.string "überall.\p"
+	.string "Versuche mal, ob du sie alle aufspüren\n"
+	.string "kannst!$"
 
 Route40_Text_MonicaNotMonday:
-	.string "MONJA: Ich fürchte,\n"
+	.string "Monja: Ich fürchte,\n"
 	.string "heute ist nicht Montag.\l"
 	.string "Wie schade…$"
 

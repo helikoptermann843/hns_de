@@ -44,12 +44,12 @@ Route18_EastEntrance_2F_EventScript_AlreadyTraded::
 	end
 
 Route18_EastEntrance_2F_Text_PalletTownInWest::
-	.string "Das TEAM ROCKET-Hauptquartier hat\n"
+	.string "Das Team Rocket-Hauptquartier hat\n"
 	.string "vier Untergeschosse.\p"
-	.string "Du findest den BOSS niemals!!!$"
+	.string "Du findest den Boss niemals!!!$"
 
 Route18_EastEntrance_2F_Text_PeopleSwimming::
-	.string "Das SILPH SCOPE? Das Gerät, das\n"
-	.string "der BOSS geraubt hat?\p"
+	.string "Das Silph Scope? Das Gerät, das\n"
+	.string "der Boss geraubt hat?\p"
 	.string "Das ist hier irgendwo...$"
 

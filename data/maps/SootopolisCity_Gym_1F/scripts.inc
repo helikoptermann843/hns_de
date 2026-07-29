@@ -177,9 +177,9 @@ SootopolisCity_Gym_1F_EventScript_GymStatue::
 
 SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "ARENALEITER JUAN in XENEROVILLE\n"
-	.string "ist der Meister der WASSER-POKéMON.\p"
+	.string "Champ, {PLAYER}?\p"
+	.string "Arenaleiter Juan in Xeneroville\n"
+	.string "ist der Meister der Wasser-Pokémon.\p"
 	.string "Und auf dem Weg zu ihm wirst du auf\n"
 	.string "gefrorenem Boden ins Rutschen kommen.\n"
 	.string "\p"
@@ -189,13 +189,13 @@ SootopolisCity_Gym_1F_Text_GymGuideAdvice:
 	.string "meistern.$"
 
 SootopolisCity_Gym_1F_Text_GymGuidePostVictory:
-	.string "Hui! Du hast JUAN besiegt, von dem\n"
-	.string "man sagt, er sei der beste TRAINER in\l"
-	.string "der HOENN-Region.\p"
+	.string "Hui! Du hast Juan besiegt, von dem\n"
+	.string "man sagt, er sei der beste Trainer in\l"
+	.string "der Hoenn-Region.\p"
 	.string "Okay! Schau auf deinem\n"
-	.string "TRAINERPASS nach.\p"
-	.string "Wenn du alle ORDEN erhalten hast,\n"
-	.string "kannst du die POKéMON LIGA\l"
+	.string "Trainerpass nach.\p"
+	.string "Wenn du alle Orden erhalten hast,\n"
+	.string "kannst du die Pokémon Liga\l"
 	.string "herausfordern!$"
 
 SootopolisCity_Gym_1F_Text_JuanIntro:
@@ -239,28 +239,28 @@ SootopolisCity_Gym_1F_Text_JuanDefeat:
 	.string "dir den Schauerorden.$"
 
 SootopolisCity_Gym_1F_Text_ReceivedRainBadge:
-	.string "{PLAYER} erhält den SCHAUERORDEN\n"
-	.string "von JUAN.$"
+	.string "{PLAYER} erhält den Schauerorden\n"
+	.string "von Juan.$"
 
 SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis:
-	.string "Dieser ORDEN sorgt dafür, dass dir\n"
-	.string "alle deine POKéMON gehorchen.\p"
-	.string "Der ORDEN befähigt dich außerdem dazu,\n"
-	.string "mit der VM KASKADE Wasserfälle in jede\l"
+	.string "Dieser Orden sorgt dafür, dass dir\n"
+	.string "alle deine Pokémon gehorchen.\p"
+	.string "Der Orden befähigt dich außerdem dazu,\n"
+	.string "mit der VM Kaskade Wasserfälle in jede\l"
 	.string "Richtung zu passieren.\p"
 	.string "Und damit du unseren Kampf stets in\n"
 	.string "Erinnerung behältst, gebe ich dir\l"
 	.string "dies…$"
 
 SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
-	.string "Diese TM enthält AQUAWELLE.\p"
-	.string "Damit kann das gegnerische POKéMON\n"
+	.string "Diese TM enthält Aquawelle.\p"
+	.string "Damit kann das gegnerische Pokémon\n"
 	.string "mit Ultraschallwellen verwirrt werden.\n"
 	.string "\p"
 	.string "… … … … … …$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "ARENALEITER JUAN  wurde im POKéNAV-\n"
+	.string "Arenaleiter Juan  wurde im Pokénav-\n"
 	.string "Verzeichnis eingetragen.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:
@@ -273,18 +273,18 @@ SootopolisCity_Gym_1F_Text_JuanPostBattle:
 	.string "Dort findest du die Pokémon Liga.$"
 
 SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
-	.string "In HOENN gibt es nur noch einen ORDEN\n"
+	.string "In Hoenn gibt es nur noch einen Orden\n"
 	.string "zu verdienen.\p"
-	.string "Wenn du die POKéMON LIGA herausfordern\n"
-	.string "willst, musst du zuerst den ORDEN der\l"
-	.string "ARENA in BAUMHAUSEN CITY bekommen.$"
+	.string "Wenn du die Pokémon Liga herausfordern\n"
+	.string "willst, musst du zuerst den Orden der\l"
+	.string "Arena in Baumhausen City bekommen.$"
 
 SootopolisCity_Gym_1F_Text_GymStatue:
-	.string "POKéMON ARENA von XENEROVILLE$"
+	.string "Pokémon Arena von Xeneroville$"
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified:
-	.string "POKéMON ARENA von XENEROVILLE\p"
-	.string "JUANS ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Xeneroville\p"
+	.string "Juans anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 SootopolisCity_Gym_1F_Text_JuanPreRematch:

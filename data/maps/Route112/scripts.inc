@@ -112,11 +112,11 @@ Route112_Text_LeaderGoingToAwakenThing:
 
 Route112_Text_YeahWeNeedMeteorite:
 	.string "Hört sich so an, ja. Aber wir brauchen\n"
-	.string "einen METEORITen dafür.$"
+	.string "einen Meteoriten dafür.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
 	.string "Ach, jetzt verstehe ich! Deshalb sind\n"
-	.string "die anderen nach LAUBWECHSELFELD\l"
+	.string "die anderen nach Laubwechselfeld\l"
 	.string "gegangen.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
@@ -124,21 +124,21 @@ Route112_Text_CantLetAnyonePassUntilTheyreBack:
 	.string "hier niemand durch.$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Ich würde gerne nach MALVENFROH CITY,\n"
+	.string "Ich würde gerne nach Malvenfroh City,\n"
 	.string "aber wenn ich diese Stufen hinunter-\p"
 	.string "gehe, komme ich kaum wieder nach\n"
-	.string "BAD LAVASTADT.$"
+	.string "Bad Lavastadt.$"
 
 Route112_Text_MtChimneyCableCarSign:
-	.string "SEILBAHN ZUM SCHLOTBERG\n"
+	.string "Seilbahn zum Schlotberg\n"
 	.string "“Ein kurzer Weg nach {UP_ARROW}!”$"
 
 Route112_Text_MtChimneySign:
-	.string "SCHLOTBERG\p"
-	.string "“BAD LAVASTADT oder den Gipfel\n"
-	.string "erreichen Sie mit der SEILBAHN.”$"
+	.string "Schlotberg\p"
+	.string "“Bad Lavastadt oder den Gipfel\n"
+	.string "erreichen Sie mit der Seilbahn.”$"
 
 Route112_Text_RouteSignLavaridge:
-	.string "ROUTE 112\n"
-	.string "{LEFT_ARROW} BAD LAVASTADT$"
+	.string "Route 112\n"
+	.string "{LEFT_ARROW} Bad Lavastadt$"
 

@@ -41,10 +41,10 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "“TIEFSEE-FORSCHUNGSBOOT 1” steht auf\n"
+	.string "“Tiefsee-Forschungsboot 1” steht auf\n"
 	.string "der Außenhülle.\p"
-	.string "Das ist das U-Boot, das TEAM AQUA in\n"
-	.string "GRAPHITPORT CITY gestohlen hat!\p"
-	.string "TEAM AQUA muss hier also an Land\n"
+	.string "Das ist das U-Boot, das Team Aqua in\n"
+	.string "Graphitport City gestohlen hat!\p"
+	.string "Team Aqua muss hier also an Land\n"
 	.string "gegangen sein.$"
 

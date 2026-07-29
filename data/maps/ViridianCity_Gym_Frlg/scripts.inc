@@ -126,34 +126,34 @@ ViridianCity_Gym_Text_GiovanniDefeat::
 ViridianCity_Gym_Text_GiovanniPostBattle::
 	.string "Ich habe meinen Meister gefunden!\n"
 	.string "Meine Taten waren schlecht...\l"
-	.string "Ich löse das TEAM ROCKET auf!\p"
+	.string "Ich löse das Team Rocket auf!\p"
 	.string "Von nun an widme ich mein Leben\n"
-	.string "dem Studium der POKéMON!\p"
+	.string "dem Studium der Pokémon!\p"
 	.string "Vielleicht sehen wir uns eines\n"
 	.string "Tages wieder! Lebe wohl!$"
 
 ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
-	.string "Als Träger des ERDORDENS werden\n"
-	.string "dir alle POKéMON jeglichen Levels\l"
+	.string "Als Träger des Erdordens werden\n"
+	.string "dir alle Pokémon jeglichen Levels\l"
 	.string "gehorchen!\p"
 	.string "Er stellt den Beweis deines Könnens\n"
-	.string "als POKéMON TRAINER dar!\p"
+	.string "als Pokémon Trainer dar!\p"
 	.string "Außerdem gewährt er dir den Zugang\n"
-	.string "zur POKéMON LIGA!\p"
+	.string "zur Pokémon Liga!\p"
 	.string "Nimm dieses Geschenk mit in dein\n"
-	.string "POKéMON LIGA-Abenteuer!$"
+	.string "Pokémon Liga-Abenteuer!$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
 	.string "{PLAYER} received TM26\n"
-	.string "from GIOVANNI.$"
+	.string "from Giovanni.$"
 
 ViridianCity_Gym_Text_ExplainTM26::
-	.string "TM26 ist ERDBEBEN!\p"
+	.string "TM26 ist Erdbeben!\p"
 	.string "Eine sehr starke Attacke, die ein\n"
 	.string "starkes Beben verursacht.\p"
 	.string "Ich habe sie vor langer Zeit\n"
 	.string "geschaffen, als ich hier noch\l"
-	.string "ARENALEITER war.$"
+	.string "Arenaleiter war.$"
 
 ViridianCity_Gym_Text_YouDoNotHaveSpace::
 	.string "Du kannst keine weiteren Items mehr\n"
@@ -200,7 +200,7 @@ ViridianCity_Gym_Text_KiyoDefeat::
 	.string "Ahh!$"
 
 ViridianCity_Gym_Text_KiyoPostBattle::
-	.string "Ach, wären meine POKéMON doch\n"
+	.string "Ach, wären meine Pokémon doch\n"
 	.string "auch so starke Karateka wie ich!$"
 
 ViridianCity_Gym_Text_WarrenIntro::
@@ -252,26 +252,26 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
 	.string "Nicht einmal ich kenne die\n"
-	.string "Identität des ARENALEITERs\l"
-	.string "von VERTANIA CITY!\p"
+	.string "Identität des Arenaleiters\l"
+	.string "von Vertania City!\p"
 	.string "Soweit ich weiß, ist er von allen\n"
-	.string "ARENALEITERn der gefährlichste!\p"
-	.string "Die TRAINER hier setzen gerne\n"
-	.string "BODEN-POKéMON ein!$"
+	.string "Arenaleitern der gefährlichste!\p"
+	.string "Die Trainer hier setzen gerne\n"
+	.string "Boden-Pokémon ein!$"
 
 ViridianCity_Gym_Text_GymGuyPostVictory::
 	.string "Das gibt es nicht!\n"
-	.string "GIOVANNI war hier ARENALEITER?$"
+	.string "Giovanni war hier Arenaleiter?$"
 
 ViridianCity_Gym_Text_GymStatue::
-	.string "VERTANIA POKéMON-ARENA\n"
-	.string "LEITUNG: ?\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Vertania Pokémon-Arena\n"
+	.string "Leitung: ?\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-	.string "VERTANIA POKéMON-ARENA\n"
-	.string "LEITUNG: GIOVANNI\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Vertania Pokémon-Arena\n"
+	.string "Leitung: Giovanni\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

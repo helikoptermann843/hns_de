@@ -310,15 +310,15 @@ VermilionCity_Movement_EusineLeave:
 
 VermilionCity_Text_Eusine:
 	.string "Eusin: Um ein Haar hätte es geklappt!\p"
-	.string "Ich dachte, ich könnte SUICUNE\n"
+	.string "Ich dachte, ich könnte Suicune\n"
 	.string "überraschen, wenn ich ihm hier\l"
 	.string "auflauern würde…\p"
 	.string "Aber wie soll man schon ein Pokémon\n"
 	.string "fangen, das übers Wasser laufen kann?\l"
-	.string "Ich habe SUICUNE jetzt allerdings lange\l"
+	.string "Ich habe Suicune jetzt allerdings lange\l"
 	.string "genug verfolgt, um allmählich die Regeln\l"
 	.string "zu erkennen, nach denen es handelt.\p"
-	.string "SUICUNE erscheint vor allem an Orten,\n"
+	.string "Suicune erscheint vor allem an Orten,\n"
 	.string "wo es Wasser gibt!\l"
 	.string "Das würde demnach bedeuten, dass…$"
 
@@ -338,10 +338,10 @@ VermilionCity_Text_MachopOwner:
 	.string "genügend Geld für das gesamte Projekt.$"
 
 VermilionCity_Text_Machop1:
-	.string "MACHOLLO: Ma, machollo!$"
+	.string "Machollo: Ma, machollo!$"
 
 VermilionCity_Text_Machop2:
-	.string "Ein MACHOLLO\n"
+	.string "Ein Machollo\n"
 	.string "brüllt laut, während es auf den Boden\l"
 	.string "stampft.$"
 
@@ -352,14 +352,14 @@ VermilionCity_Text_SuperNerd:
 	.string "Citys Arenaleiter Major Bob.$"
 
 VermilionCity_Text_SnorlaxSleeping:
-	.string "RELAXO schläft friedlich…$"
+	.string "Relaxo schläft friedlich…$"
 
 VermilionCity_Text_RadioNearSnorlax:
-	.string "Der PokéCOM wird\n"
-	.string "in der Nähe des schlafenden RELAXOs\l"
+	.string "Der PokéCom wird\n"
+	.string "in der Nähe des schlafenden Relaxos\l"
 	.string "platziert…\p"
 	.string "…\p"
-	.string "RELAXO ist aufgewacht!$"
+	.string "Relaxo ist aufgewacht!$"
 
 VermilionCity_Text_BadgeGuy_Trainer:
 	.string "In Kanto gibt es einen ganzen Haufen\n"
@@ -390,7 +390,7 @@ VermilionCity_Text_BadgeGuy_BattleEdge:
 	.string "Pokémon verschie-\l"
 	.string "dener Elemente kämpfen lässt.\p"
 	.string "Ich bin sicher,\n"
-	.string "dass die ORDEN der ARENEN in KANTO dir\l"
+	.string "dass die Orden der Arenen in Kanto dir\l"
 	.string "helfen werden.$"
 
 VermilionCity_EventScript_CitySign::
@@ -420,7 +420,7 @@ VermilionCity_Text_FanClubSign:
 	.string "Alle Pokémon-Fans sind willkommen!$"
 
 VermilionCity_Text_DiglettsCaveSign:
-	.string "DIGDAs Höhle$"
+	.string "Digdas Höhle$"
 
 VermilionCity_Text_PortSign:
 	.string "Eingang zum Hafen von Orania City$"
@@ -460,7 +460,7 @@ VermilionCity_EventScript_TriggerStevenMiddle::
 	removeobject LOCALID_VERMILIONCITY_STEVEN
 	release
 	end
- 
+
 VermilionCity_EventScript_TriggerStevenRight::
 	lock
 	playse SE_PIN
@@ -483,7 +483,7 @@ VermilionCity_EventScript_TriggerStevenRight::
 
 VermilionCity_EventScript_LatiChoice::
 	applymovement2 LOCALID_VERMILIONCITY_STEVEN, VermilionCity_Movement_StevenWalkToPlayer
-	waitmovement 0	
+	waitmovement 0
 	msgbox VermilionCity_Text_StevenIntro, MSGBOX_DEFAULT
 	multichoice 20, 8, MULTI_TV_LATI, TRUE
 	@goto_if_eq VAR_RESULT, MULTI_B_PRESSED, VermilionCity_EventScript_LatiCancel
@@ -516,7 +516,7 @@ VermilionCity_Text_StevenIntro:
 	.string "Besonders die, die mir harte\n"
 	.string "Kämpfe geliefert haben.\p"
 	.string "Ich bin geschäftlich in Kanto.\n"
-	.string "Viele Hoenn PokÉMon sind kürzlich\l"
+	.string "Viele Hoenn Pokémon sind kürzlich\l"
 	.string "in diese Region eingewandert.\l"
 	.string "Das gefährdet das natürliche\l"
 	.string "Ökosystem hier.\p"
@@ -525,7 +525,7 @@ VermilionCity_Text_StevenIntro:
 	.string "Lebensraum für die invasivsten\l"
 	.string "Arten.\p"
 	.string "Halt die Augen offen und fange\n"
-	.string "alle Hoenn-pokÉMon, die du siehst.\p"
+	.string "alle Hoenn-pokémon, die du siehst.\p"
 	.string "Manche Trainer haben sogar eines\n"
 	.string "gesichtet, das wie ein Jet durch\l"
 	.string "den Himmel fliegt…\l"

@@ -28,6 +28,6 @@ SixIsland_GreenPath_Text_LeftRouteSign::
 	.string "sehr lange gewartet!$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
-	.string "GRÜNER PFAD\n"
+	.string "Grüner Pfad\n"
 	.string "Sei umweltbewusst!$"
 

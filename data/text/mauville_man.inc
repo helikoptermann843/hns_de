@@ -59,5 +59,5 @@ GiddyText_LyingBackInTheGreenGrass::
 	.string "Oh, das ist so was von angenehm!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-	.string "GEHEIMBASen sind superklasse!\n"
+	.string "Geheimbasen sind superklasse!\n"
 	.string "Findest du das nicht auch aufregend?$"

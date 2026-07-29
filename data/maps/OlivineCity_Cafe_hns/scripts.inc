@@ -22,7 +22,7 @@ OlivineCity_Cafe_Text_Jasmine:
 	.string "Eigentlich hat die Person, die\n"
 	.string "vor mir saß, viel gegessen…\p"
 	.string "Wenn du wieder kämpfen willst,\n"
-	.string "besuche mich bitte im Kampf-DOJO\l"
+	.string "besuche mich bitte im Kampf-Dojo\l"
 	.string "in Saffronia City.$"
 
 OlivineCity_EventScript_SailorA::
@@ -69,8 +69,8 @@ OlivineCity_Text_CafeSailorGotStrength:
 	.string "Ich bin so stolz auf mich selbst!$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "Im OLIVIANA CAFE gibt es nur\n"
-	.string "delikate Seemannskost für MATROSEN\l"
+	.string "Im Oliviana Cafe gibt es nur\n"
+	.string "delikate Seemannskost für Matrosen\l"
 	.string "auf dem Speiseplan!$"
 
 OlivineCity_Text_CafeSailor:

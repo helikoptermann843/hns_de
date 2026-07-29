@@ -3,7 +3,7 @@ Route1_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route1_OnTransition: 
+Route1_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -45,5 +45,5 @@ Route1_Text_CooltrainerFQuinn_AfterBattle:
 	.string "offenbar hart trainiert.$"
 
 Route1_Text_Sign:
-	.string "ROUTE 1\p"
-	.string "ALABASTIA - VERTANIA CITY$"
+	.string "Route 1\p"
+	.string "Alabastia - Vertania City$"

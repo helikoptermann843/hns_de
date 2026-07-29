@@ -1,13 +1,13 @@
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
-	.string "Dies ist die POKéMON-LOTTERIE.\p"
-	.string "Alle Besucher des EINKAUFSZENTRUMs\n"
-	.string "können einen POKéMON-LOTTOSCHEIN\l"
+	.string "Dies ist die Pokémon-Lotterie.\p"
+	.string "Alle Besucher des Einkaufszentrums\n"
+	.string "können einen Pokémon-Lottoschein\l"
 	.string "ziehen.\p"
-	.string "Wenn die Nummer des LOTTOSCHEINs mit\n"
-	.string "der ID-Nummer eines deiner POKéMON\l"
+	.string "Wenn die Nummer des Lottoscheins mit\n"
+	.string "der ID-Nummer eines deiner Pokémon\l"
 	.string "übereinstimmt, gewinnst du einen Preis.\p"
 	.string "Möchtest du einen\n"
-	.string "POKéMON-LOTTOSCHEIN ziehen?$"
+	.string "Pokémon-Lottoschein ziehen?$"
 
 LilycoveCity_DepartmentStore_1F_Text_ComeBackTomorrow:
 	.string "Bitte, komme morgen wieder.$"
@@ -16,26 +16,26 @@ LilycoveCity_DepartmentStore_1F_Text_PleaseVisitAgain:
 	.string "Bitte, komm bald wieder.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PleasePickTicket:
-	.string "Bitte, ziehe einen LOTTOSCHEIN.\n"
+	.string "Bitte, ziehe einen Lottoschein.\n"
 	.string "…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}…{PAUSE 15}{PAUSE 15}{PAUSE 15}{PAUSE 15}$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketNumberIsXPleaseWait:
-	.string "Der LOTTOSCHEIN hat die Nummer {STR_VAR_1}.\p"
+	.string "Der Lottoschein hat die Nummer {STR_VAR_1}.\p"
 	.string "Ich muss diese Nummer jetzt prüfen,\n"
 	.string "um zu sehen, ob sie mit der ID-Nummer\l"
-	.string "eines deiner POKéMON übereinstimmt.$"
+	.string "eines deiner Pokémon übereinstimmt.$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPartyMon:
 	.string "Herzlichen Glückwunsch!\p"
 	.string "Die ID-Nummer deines {STR_VAR_1} im\n"
-	.string "Team stimmt mit der des LOTTO-\l"
-	.string "SCHEINs überein!$"
+	.string "Team stimmt mit der des Lotto-\l"
+	.string "scheins überein!$"
 
 LilycoveCity_DepartmentStore_1F_Text_TicketMatchesPCMon:
 	.string "Herzlichen Glückwunsch!\p"
 	.string "Die ID-Nummer deines {STR_VAR_1} in\n"
 	.string "der Box des PCs stimmt mit der des\l"
-	.string "LOTTOSCHEINs überein!$"
+	.string "Lottoscheins überein!$"
 
 LilycoveCity_DepartmentStore_1F_Text_NoNumbersMatched:
 	.string "Tut mir Leid.\n"
@@ -65,7 +65,7 @@ LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "Oh! Du scheinst keinen Platz\n"
 	.string "dafür zu haben.\p"
-	.string "Wenn du wieder Platz in deinem BEUTEL\n"
+	.string "Wenn du wieder Platz in deinem Beutel\n"
 	.string "hast, lass es mich wissen.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:

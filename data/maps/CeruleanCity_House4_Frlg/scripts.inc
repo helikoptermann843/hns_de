@@ -118,7 +118,7 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
 	.string "habe ich lange nicht mehr gehört!\p"
 	.string "Danke, dass du mit mir diese\n"
 	.string "Nachricht geteilt hast. Nimm\l"
-	.string "ein paar BEEREN.$"
+	.string "ein paar Beeren.$"
 
 CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
 	.string "Es ist so traurig, diese Nachricht\n"
@@ -143,7 +143,7 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
 	.string "Ja, wirklich!\p"
 	.string "Die Nachricht und ich wissen\n"
 	.string "das zu schätzen und möchten dir\l"
-	.string "mehr BEEREN als sonst geben.$"
+	.string "mehr Beeren als sonst geben.$"
 
 CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
 	.string "Ich amüsiere mich mit allen Arten\n"
@@ -153,6 +153,6 @@ CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
 	.string "langweilen!$"
 
 CeruleanCity_House4_Text_YourBerryPouchIsFull::
-	.string "Hm? Deine BEERENTÜTE ist voll.\n"
+	.string "Hm? Deine Beerentüte ist voll.\n"
 	.string "Mein Geschenk kommt nicht an!$"
 

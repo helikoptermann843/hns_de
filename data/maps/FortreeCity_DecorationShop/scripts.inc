@@ -62,9 +62,9 @@ FortreeCity_DecorationShop_Text_MerchandiseSentToPC:
 	.string "senden lassen.$"
 
 FortreeCity_DecorationShop_Text_BuyingDeskForDolls:
-	.string "Ich kaufe mir einen EDLEN TISCH, auf\n"
-	.string "den ich meine PUPPEn setze.\p"
+	.string "Ich kaufe mir einen Edlen Tisch, auf\n"
+	.string "den ich meine Puppen setze.\p"
 	.string "Wenn ich das nicht tue, werden meine\n"
-	.string "PUPPEn schmutzig, wenn ich damit meine\l"
-	.string "GEHEIMBASIS dekoriere.$"
+	.string "Puppen schmutzig, wenn ich damit meine\l"
+	.string "Geheimbasis dekoriere.$"
 

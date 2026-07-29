@@ -34,9 +34,9 @@ IcePath_B1F_EventScript_Sign::
 	end
 
 IcePath_B1F_Text_Sign:
-	.string "ACHTUNG DÜNNES EIS\n"
-	.string "BENUTZE FAHRRAD\l"
-	.string "GANGSCHALTUNG\l"
-	.string "MIT ...\l"
+	.string "Achtung Dünnes Eis\n"
+	.string "Benutze Fahrrad\l"
+	.string "Gangschaltung\l"
+	.string "Mit ...\l"
 	.string "Das Schild ist verwischt...$"
 

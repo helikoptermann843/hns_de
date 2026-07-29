@@ -6641,15 +6641,12 @@ static void BufferStatRoseMessage(enum Stat statIdx)
 {
     gBattlerTarget = gBattlerInMenuId;
     StringCopy(gBattleTextBuff1, gStatNamesTable[sStatsToRaise[statIdx]]);
+    // Deutsch: gText_StatSharply enthaelt bereits die vollstaendige Verbphrase
+    // ("steigt stark!"), darf also nicht mit gText_StatRose kombiniert werden.
     if (B_X_ITEMS_BUFF >= GEN_7)
-    {
         StringCopy(gBattleTextBuff2, gText_StatSharply);
-        StringAppend(gBattleTextBuff2, gText_StatRose);
-    }
     else
-    {
         StringCopy(gBattleTextBuff2, gText_StatRose);
-    }
     BattleStringExpandPlaceholdersToDisplayedString(gText_DefendersStatRose);
 }
 

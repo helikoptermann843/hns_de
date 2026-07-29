@@ -41,22 +41,22 @@ MossdeepCity_House4_EventScript_Skitty::
 
 MossdeepCity_House4_Text_BrotherLikesToFindBases:
 	.string "Mein kleiner Bruder liebt es, die\n"
-	.string "GEHEIMBASEN der anderen zu finden.$"
+	.string "Geheimbasen der anderen zu finden.$"
 
 MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle:
 	.string "Mein kleiner Bruder sagt, er liebt es,\n"
-	.string "die GEHEIMBASEN der anderen zu finden\l"
-	.string "und Kämpfe mit POKéMON auszutragen.$"
+	.string "die Geheimbasen der anderen zu finden\l"
+	.string "und Kämpfe mit Pokémon auszutragen.$"
 
 MossdeepCity_House4_Text_YouMadeSecretBaseNearX:
-	.string "Hast du dir eine GEHEIMBASIS in\n"
+	.string "Hast du dir eine Geheimbasis in\n"
 	.string "{STR_VAR_1} eingerichtet?$"
 
 MossdeepCity_House4_Text_MakeSecretBase:
-	.string "Solltest du dir irgendwo eine GEHEIM-\n"
-	.string "BASIS einrichten, werde ich sie sicher\l"
+	.string "Solltest du dir irgendwo eine Geheim-\n"
+	.string "basis einrichten, werde ich sie sicher\l"
 	.string "finden.$"
 
 MossdeepCity_House4_Text_Skitty:
-	.string "ENECO: Miayaan?$"
+	.string "Eneco: Miayaan?$"
 

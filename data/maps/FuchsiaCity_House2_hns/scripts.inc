@@ -1,7 +1,7 @@
 FuchsiaCity_House2_hns_MapScripts::
 	.byte 0
 
-FuchsiaCity_House2_EventScript_Granddaughter::	
+FuchsiaCity_House2_EventScript_Granddaughter::
 	goto_if_set FLAG_TEMP_1, FuchsiaCity_House2_EventScript_Granddaughter2
 	msgbox FuchsiaCity_House2_Text_WardensGranddaughter1, MSGBOX_NPC
 	setflag FLAG_TEMP_1

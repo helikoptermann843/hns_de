@@ -69,36 +69,36 @@ IndigoPlateau_PokemonCenter_1F_EventScript_Nurse::
 	end
 
 IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
-	.string "Hi! Ich arbeite in einem POKéMON-\n"
-	.string "SUPERMARKT.\p"
+	.string "Hi! Ich arbeite in einem Pokémon-\n"
+	.string "Supermarkt.\p"
 	.string "Wir verkaufen viele praktische\n"
 	.string "Dinge!\p"
 	.string "Du findest unseren Laden in\n"
-	.string "VERTANIA CITY.\p"
+	.string "Vertania City.\p"
 	.string "Am besten gebe ich dir ein\n"
 	.string "Werbegeschenk! Hier, bitte!$"
 
 IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
 	.string "Laufe hier weiter und du erreichst\n"
-	.string "den WASSERWEG.\p"
+	.string "den Wasserweg.\p"
 	.string "Wenn du dann noch weiter läufst,\n"
-	.string "erreichst du das RUINENTAL.$"
+	.string "erreichst du das Ruinental.$"
 
 IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
 	.string "Es tut mir Leid, aber du hast deine\n"
 	.string "Zeit verschwendet, hier\l"
 	.string "herzukommen.\l"
-	.string "LORELEI von den TOP VIER ist\l"
+	.string "Lorelei von den Top Vier ist\l"
 	.string "nicht zugegen, weißt du!\p"
-	.string "Daher ist die POKéMON LIGA\n"
+	.string "Daher ist die Pokémon Liga\n"
 	.string "vorübergehend geschlossen.$"
 
 IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
-	.string "AGATHEs GEIST-POKéMON\n"
+	.string "Agathes Geist-Pokémon\n"
 	.string "sind erschreckend hartnäckig.\p"
-	.string "Ich habe meine KAMPF-POKéMON\n"
+	.string "Ich habe meine Kampf-Pokémon\n"
 	.string "bis zum Äußersten trainiert.\p"
-	.string "Ich bin selbstbewusst zu AGATHE\n"
+	.string "Ich bin selbstbewusst zu Agathe\n"
 	.string "gegangen, aber sie hat uns mit\l"
 	.string "Leichtigkeit besiegt.\l"
 	.string "Die alte Dame ist auch leicht\l"
@@ -109,8 +109,8 @@ IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
 
 IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
 	.string "Vielleicht liegt eine Mitgliedschaft\n"
-	.string "bei den TOP VIER in den Genen.\p"
-	.string "Ich habe gehört, dass SIEGFRIED\n"
+	.string "bei den Top Vier in den Genen.\p"
+	.string "Ich habe gehört, dass Siegfried\n"
 	.string "einen Cousin hat, der irgendwo\l"
-	.string "weit weg ARENALEITER ist.$"
+	.string "weit weg Arenaleiter ist.$"
 

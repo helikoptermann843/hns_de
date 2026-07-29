@@ -75,14 +75,14 @@ SixIsland_WaterPath_House1_EventScript_SizeRecordNonEmpty::
 	end
 
 SixIsland_WaterPath_House1_Text_LoveItNeedItHeracross::
-	.string "Skara, Skara, SKARABORN!\n"
+	.string "Skara, Skara, Skaraborn!\n"
 	.string "Unter Käfern hochwohlgeboren!\l"
 	.string "Fühle seinen royalen Zorn,\l"
-	.string "Skara, Skara, SKARABORN!$"
+	.string "Skara, Skara, Skaraborn!$"
 
 SixIsland_WaterPath_House1_Text_MayIMeasureHeracross::
 	.string "Wow!\n"
-	.string "Das ist SKARABORN!\p"
+	.string "Das ist Skaraborn!\p"
 	.string "Darf ich bitte messen, wie groß\n"
 	.string "es ist?$"
 
@@ -93,9 +93,9 @@ SixIsland_WaterPath_House1_Text_ItsXInchesDeserveReward::
 
 SixIsland_WaterPath_House1_Text_WantToSeeBiggerOne::
 	.string "Ich möchte ein noch größeres\n"
-	.string "SKARABORN sehen.\p"
+	.string "Skaraborn sehen.\p"
 	.string "Oh, wie ich sie verehre, die\n"
-	.string "großen SKARABORN.$"
+	.string "großen Skaraborn.$"
 
 SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
 	.string "Häh? {STR_VAR_2} cm groß…\n"
@@ -104,23 +104,23 @@ SixIsland_WaterPath_House1_Text_ItsXInchesSameAsBefore::
 
 SixIsland_WaterPath_House1_Text_ItsXInchesYInchesWasBiggest::
 	.string "Oh, es ist nur {STR_VAR_2} cm groß.\n"
-	.string "Das SKARABORN zuvor war größer.\p"
-	.string "Das größte SKARABORN, das\n"
+	.string "Das Skaraborn zuvor war größer.\p"
+	.string "Das größte Skaraborn, das\n"
 	.string "du mir gebracht hast, war\l"
 	.string "{STR_VAR_3} cm groß.$"
 
 SixIsland_WaterPath_House1_Text_ThisWontDo::
 	.string "Oh, nein! Da ist etwas falsch!\p"
-	.string "SKARABORN ist mehr ein Macho\n"
+	.string "Skaraborn ist mehr ein Macho\n"
 	.string "und cool dazu mit einem Horn!$"
 
 SixIsland_WaterPath_House1_Text_YourBagIsFull::
-	.string "Dein BEUTEL ist voll.\n"
+	.string "Dein Beutel ist voll.\n"
 	.string "Meine Belohnung geht nicht\l"
 	.string "mehr hinein!$"
 
 SixIsland_WaterPath_House1_Text_BiggestHeracrossIsXInches::
-	.string "Das größte SKARABORN, das\n"
+	.string "Das größte Skaraborn, das\n"
 	.string "ich je sah war\p"
 	.string "{STR_VAR_3} cm groß!$"
 

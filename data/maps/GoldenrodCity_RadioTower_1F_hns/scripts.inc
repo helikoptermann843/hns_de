@@ -164,7 +164,7 @@ GoldenrodCity_RadioTower_1F_EventScript_Sign::
 	end
 
 RadioTower1F_Text_ReceptionistWelcome:
-	.string "Willkommen!$"
+	.string "Komm Rein$"
 
 RadioTower1F_Text_ReceptionistNoTours:
 	.string "Guten Tag! Leider\n"
@@ -175,8 +175,8 @@ RadioTower1F_Text_RadioCardWomanOfferQuiz:
 	.string "ein besonderes Quiz.\p"
 	.string "Beantworte die\n"
 	.string "fünf Fragen richtig, um ein\l"
-	.string "RADIO-MODUL zu gewinnen.\p"
-	.string "Stecke es in den COM, um\n"
+	.string "Radio-Modul zu gewinnen.\p"
+	.string "Stecke es in den Com, um\n"
 	.string "überall und zu jeder Zeit\l"
 	.string "Radio hören zu können.\p"
 	.string "Möchtest du am Quiz teilnehmen?$"
@@ -189,7 +189,7 @@ RadioTower1F_Text_QuizQuestion1:
 RadioTower1F_Text_QuizQuestion2:
 	.string "Richtig! Frage 2:\p"
 	.string "Ist diese Aussage korrekt?\p"
-	.string "Man kann im SHOP keine Beere\n"
+	.string "Man kann im Shop keine Beere\n"
 	.string "kaufen.$"
 
 RadioTower1F_Text_QuizQuestion3:
@@ -201,36 +201,33 @@ RadioTower1F_Text_QuizQuestion4:
 	.string "Bis hierher gut!\n"
 	.string "Frage 4:\p"
 	.string "Ist Falk der Leiter von\n"
-	.string "VIOLA, der Vogel-Pokémon nutzt?$"
+	.string "Viola, der Vogel-Pokémon nutzt?$"
 
 RadioTower1F_Text_QuizQuestion5:
 	.string "Wow! Wieder richtig!\n"
 	.string "Hier die letzte Frage:\p"
-	.string "Haben die Slots im GAME CORNER\n"
+	.string "Haben die Slots im Game Corner\n"
 	.string "Glumanda auf den Walzen?$"
 
 RadioTower1F_Text_QuizWin:
 	.string "Bingo! Volltreffer!\n"
 	.string "Glückwunsch!\p"
-	.string "Hier dein Preis: ein RADIO!$"
+	.string "Hier dein Preis: ein Radio!$"
 
 RadioTower1F_Text_PokegearRadio:
 	.string "{PLAYER}s Pokécom\n"
 	.string "kann jetzt Radio empfangen!$"
 
 RadioTower1F_Text_TuneIn:
-	.string "Bitte hör in unsere Radio-\n"
-	.string "sendungen rein.$"
+	.string "Wir hoffen, dir gefällt unser Programm!$"
 
 RadioTower1F_Text_WrongAnswer:
-	.string "Oh mann,\n"
-	.string "Tut mir leid, leider falsch.\p"
-	.string "Versuch es nochmal!$"
+	.string "Oh, das ist aber schade. Das war leider\n"
+	.string "falsch. Versuch’s einfach noch einmal!$"
 
 RadioTower1F_Text_DeclineQuiz:
-	.string "Oh. Verstehe.\p"
-	.string "Komm wieder, falls du es dir\n"
-	.string "anders überlegst.$"
+	.string "Das geht schon in Ordnung. Komme\n"
+	.string "einfach wieder, wenn du Lust hast.$"
 
 RadioTower1F_Text_Lass:
 	.string "Ben ist ein großartiger DJ.\p"
@@ -238,15 +235,16 @@ RadioTower1F_Text_Lass:
 	.string "dahinschmelzen!$"
 
 RadioTower1F_Text_Youngster:
-	.string "Ich liebe Margit vom POKéMON-\n"
-	.string "TALK.\p"
-	.string "Ich kenne aber nur ihre Stimme.$"
+	.string "Ich stehe absolut auf Margit, die\n"
+	.string "Co-Moderatorin beim Pokémon-Talk!\p"
+	.string "…Nun ja, zumindest glaube ich das.\n"
+	.string "Bisher kenne ich ja bloß ihre Stimme!$"
 
 RadioTower1F_Text_GruntM3Seen:
 	.string "Wir haben endlich den\n"
 	.string "Radioturm übernommen!\p"
 	.string "Jetzt wird jeder die wahre Macht\n"
-	.string "von TEAM ROCKET spüren!\p"
+	.string "von Team Rocket spüren!\p"
 	.string "Wir zeigen dir, wie furchtbar wir\n"
 	.string "sein können!$"
 
@@ -259,9 +257,9 @@ RadioTower1F_Text_GruntM3After:
 	.string "Ich muss die anderen warnen…$"
 
 RadioTower1F_Text_Directory:
-	.string "EG REZEPTION 1S VERKAUF\p"
-	.string "2S PERSONAL 3S PRODUKTION\p"
-	.string "4S BÜRO DES INTENDANTEN$"
+	.string "EG: Rezeption 1S: Geschäftsabteilung\n"
+	.string "2S: Allgemeine Angelegenheiten 3S:\l"
+	.string "Produktion 4S: Büro des Intendanten$"
 
 
 GoldenrodCity_RadioTower_1F_EventScript_LotteryClerk::
@@ -379,10 +377,10 @@ GoldenrodCity_RadioTower_1F_Text_ComeBackTomorrow:
 	.string "Bitte komm morgen wieder.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain:
-	.string "Bis zum nächsten Mal.$"
+	.string "Bitte, komm bald wieder.$"
 
 GoldenrodCity_RadioTower_1F_Text_PleasePickTicket:
-	.string "Bitte wähle ein LOTO TICKET.\n"
+	.string "Bitte wähle ein Loto Ticket.\n"
 	.string "…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}…{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}{PAUSE 0x0F}$"
 
 GoldenrodCity_RadioTower_1F_Text_TicketNumberIsXPleaseWait:
@@ -437,6 +435,6 @@ GoldenrodCity_RadioTower_1F_Text_PrizeWeveBeenHolding:
 	.string "aufbewahrt. Hier, bitte schön!$"
 
 GoldenrodCity_RadioTower_1F_Text_PleaseVisitAgain2:
-	.string "Bis zum nächsten Mal.$"
+	.string "Bitte, komm bald wieder.$"
 
 

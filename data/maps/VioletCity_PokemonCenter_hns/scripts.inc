@@ -92,30 +92,30 @@ VioletCity_PokemonCenter_Text_BookshelfWoman::
 
 VioletCity_PokeCenter_Text_ElmsAideFavor:
 	.string "Hallo! Lange nicht gesehen.\p"
-	.string "PROF. LIND hat mich gebeten,\n"
+	.string "Prof. Lind hat mich gebeten,\n"
 	.string "nach dir zu suchen.\p"
 	.string "Er hat noch eine Bitte an dich.\p"
-	.string "Nimm bitte das Pokémon-EI!$"
+	.string "Nimm bitte das Pokémon-Ei!$"
 
 VioletCity_PokeCenter_Text_ElmsAideNoRoom:
 	.string "Hallo! Lange nicht gesehen.\p"
-	.string "PROF. LIND hat mich gebeten,\n"
+	.string "Prof. Lind hat mich gebeten,\n"
 	.string "nach dir zu suchen.\p"
 	.string "Er hat noch eine Bitte an dich.\p"
-	.string "Nimm bitte das Pokémon-EI!p"
+	.string "Nimm bitte das Pokémon-Ei!p"
 	.string "Oh, du hast keinen Platz!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "Wir haben entdeckt, dass ein\n"
 	.string "Pokémon erst schlüpft, nachdem\l"
-	.string "es im EI gewachsen ist.\p"
+	.string "es im Ei gewachsen ist.\p"
 	.string "Außerdem muss es sich in der Nähe\n"
 	.string "anderer Pokémon\l"
 	.string "befinden, um zu schlüpfen.\p"
 	.string "Du bist die einzige Person,\n"
 	.string "auf die wir uns verlassen können.\p"
-	.string "Bitte ruf PROF.LIND an,\n"
-	.string "wenn das EI soweit ist!$"
+	.string "Bitte ruf Prof.Lind an,\n"
+	.string "wenn das Ei soweit ist!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
 	.string "Oh, das hier könnte helfen,\n"
@@ -125,15 +125,15 @@ VioletCity_PokeCenter_Text_ElmsAideFullParty:
 	.string "Oh, du hast keinen Platz\n"
 	.string "mehr für ein weiteres Pokémon.\p"
 	.string "Ich warte hier,\n"
-	.string "bis du Platz für das EI geschaffen\l"
+	.string "bis du Platz für das Ei geschaffen\l"
 	.string "hast.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "A-Aber… PROF.\n"
-	.string "LIND hat nach dir gefragt…$"
+	.string "A-Aber… Prof.\n"
+	.string "Lind hat nach dir gefragt…$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
-	.string "Während meine POKÉMON sich\n"
+	.string "Während meine Pokémon sich\n"
 	.string "erholen, lese ich gerne ein\l"
 	.string "gutes Buch.$"
 
@@ -147,13 +147,13 @@ VioletCity_PokeCenter_Text_MobileAdapter:
 	.string "hähhhh?$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
-	.string "Ein Kerl namens BILL hat das\n"
-	.string "Pokémon-PC-LAGERUNGS-SYSTEM\l"
+	.string "Ein Kerl namens Bill hat das\n"
+	.string "Pokémon-PC-Lagerungs-System\l"
 	.string "erfunden.$"
 
 VioletCity_PokeCenter_Text_Gentleman:
 	.string "Es war vor etwa drei Jahren.\p"
-	.string "TEAM ROCKET hatte\n"
+	.string "Team Rocket hatte\n"
 	.string "etwas Übles mit den Pokémon vor.\p"
 	.string "Aber die Gerechtigkeit\n"
 	.string "hat gesiegt! Ein junger\l"
@@ -163,5 +163,5 @@ VioletCity_PokeCenter_Text_Youngster:
 	.string "Pokémon sind schlau.\n"
 	.string "Sie gehorchen nur Trainern,\l"
 	.string "vor denen sie auch Respekt haben.\p"
-	.string "Hat der Trainer nicht genug ORDEN,\n"
+	.string "Hat der Trainer nicht genug Orden,\n"
 	.string "machen sie, was sie wollen.$"

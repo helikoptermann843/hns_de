@@ -7,12 +7,12 @@ SaffronCity_PokemonCenter_OnTransition::
 	end
 
 SaffronCity_PokemonCenter_EventScript_Teacher::
-	msgbox SaffronCity_PokemonCenter1F_Text_Teacher, MSGBOX_NPC	
+	msgbox SaffronCity_PokemonCenter1F_Text_Teacher, MSGBOX_NPC
 	end
 
 SaffronCity_PokemonCenter_EventScript_Fisher::
 	goto_if_set FLAG_RETURNED_MACHINE_PART, SaffronCity_PokemonCenter_EventScript_FisherReturnedMachinePart
-	msgbox SaffronCity_PokemonCenter1F_Text_Fisher, MSGBOX_NPC	
+	msgbox SaffronCity_PokemonCenter1F_Text_Fisher, MSGBOX_NPC
 	end
 SaffronCity_PokemonCenter_EventScript_FisherReturnedMachinePart::
 	msgbox SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart, MSGBOX_NPC
@@ -28,7 +28,7 @@ SaffronCity_PokemonCenter1F_Text_Teacher:
 	.string "…Oh, aha. Sie unterscheiden sich also\n"
 	.string "nicht so sehr von denen in Kanto…\p"
 	.string "Dann sage ich meinem Kumpel aus Johto,\n"
-	.string "dass er ein MARILL fangen und es mit\l"
+	.string "dass er ein Marill fangen und es mit\l"
 	.string "mir tauschen soll!$"
 
 SaffronCity_PokemonCenter1F_Text_Fisher:
@@ -40,9 +40,9 @@ SaffronCity_PokemonCenter1F_Text_Fisher_ReturnedPart:
 	.string "Die Höhlen stürzen leicht ein.\p"
 	.string "In letzter Zeit sind einige Höhlen\n"
 	.string "verschwunden. Wie\l"
-	.string "die Höhle vor AZURIA CITY.\p"
+	.string "die Höhle vor Azuria City.\p"
 	.string "Für einen Profi-\n"
-	.string "WANDERER ist das Grundwissen.$"
+	.string "Wanderer ist das Grundwissen.$"
 
 SaffronCity_PokemonCenter1F_Text_Youngster:
 	.string "Saffronia City ist berühmt für die\n"

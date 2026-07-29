@@ -6,9 +6,9 @@ OldaleTown_House1_EventScript_Woman::
 	end
 
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
-	.string "Das POKéMON auf der linken Seite der\n"
+	.string "Das Pokémon auf der linken Seite der\n"
 	.string "Liste tritt im Kampf als Erstes an.\p"
-	.string "Hast du mehrere POKéMON in deinem\l"
+	.string "Hast du mehrere Pokémon in deinem\l"
 	.string "Team,\n"
 	.string "stelle sie so der Reihe nach auf, wie\p"
 	.string "es\l"

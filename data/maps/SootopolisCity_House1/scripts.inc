@@ -29,15 +29,15 @@ SootopolisCity_House1_EventScript_Kecleon::
 	end
 
 SootopolisCity_House1_Text_DevelopedThisTM:
-	.string "Seit 30 Jahren lebe ich in XENEROVILLE\n"
+	.string "Seit 30 Jahren lebe ich in Xeneroville\n"
 	.string "und verbessere meine Fähigkeiten.\p"
 	.string "Ich habe eine alles erschütternde TM\n"
 	.string "entwickelt. Die schenke ich dir!$"
 
 SootopolisCity_House1_Text_ExplainBrickBreak:
-	.string "TM31 enthält DURCHBRUCH! Eine schier\n"
+	.string "TM31 enthält Durchbruch! Eine schier\n"
 	.string "unbeschreibliche Attacke. Horror!$"
 
 SootopolisCity_House1_Text_Kecleon:
-	.string "KECLEON: Puu puhyaah.$"
+	.string "Kecleon: Puu puhyaah.$"
 

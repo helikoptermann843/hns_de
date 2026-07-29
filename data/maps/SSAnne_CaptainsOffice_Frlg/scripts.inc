@@ -47,45 +47,45 @@ SSAnne_CaptainsOffice_EventScript_Book::
 	end
 
 SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
-	.string "KAPITÄN: Urps...\n"
+	.string "Kapitän: Urps...\n"
 	.string "Es geht mir gar nicht gut! Urps!$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-	.string "{PLAYER} rubbed the CAPTAIN's\n"
+	.string "{PLAYER} rubbed the Captain's\n"
 	.string "back!\p"
 	.string "Rub-rub…\n"
 	.string "Rub-rub…$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
-	.string "KAPITÄN: Ahhhhh! Ich danke dir!\n"
+	.string "Kapitän: Ahhhhh! Ich danke dir!\n"
 	.string "Es geht mir schon viel besser...\p"
 	.string "Möchtest du den Umgang mit dem\n"
-	.string "ZERSCHNEIDER lernen?\p"
+	.string "Zerschneider lernen?\p"
 	.string "Ich könnte es dir beibringen, aber\n"
 	.string "mir ist so übel.\p"
 	.string "Genau! Nimm einfach das hier!\p"
-	.string "Damit bringst du deinen POKéMON\n"
-	.string "den Umgang mit dem ZERSCHNEIDER\l"
+	.string "Damit bringst du deinen Pokémon\n"
+	.string "den Umgang mit dem Zerschneider\l"
 	.string "ganz leicht bei!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
 	.string "{PLAYER} obtained HM01\n"
-	.string "from the CAPTAIN!$"
+	.string "from the Captain!$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
-	.string "Wenn du den ZERSCHNEIDER einsetzt,\n"
+	.string "Wenn du den Zerschneider einsetzt,\n"
 	.string "kannst du kleine Bäume fällen.\p"
 	.string "Probiere es doch bei den Bäumen\n"
-	.string "um ORANIA CITY aus!$"
+	.string "um Orania City aus!$"
 
 SSAnne_CaptainsOffice_Text_SSAnneWillSetSailSoon::
-	.string "KAPITÄN: Super!\p"
+	.string "Kapitän: Super!\p"
 	.string "Endlich bin ich nicht mehr krank!\n"
 	.string "Es kann losgehen!\p"
-	.string "Jetzt kann die M.S. ANNE in See\n"
+	.string "Jetzt kann die M.S. Anne in See\n"
 	.string "stechen!\p"
 	.string "Auf Wiedersehen! Bis zum nächsten\n"
-	.string "Besuch in ORANIA CITY!$"
+	.string "Besuch in Orania City!$"
 
 SSAnne_CaptainsOffice_Text_YouHaveNoRoomForThis::
 	.string "Oh, nein! Du hast keinen Platz für\n"
@@ -98,5 +98,5 @@ SSAnne_CaptainsOffice_Text_YuckShouldntHaveLooked::
 SSAnne_CaptainsOffice_Text_HowToConquerSeasickness::
 	.string "1000 natürliche Hausmittel gegen\n"
 	.string "Seekrankheit...\l"
-	.string "Der KAPITÄN liest dieses Buch!$"
+	.string "Der Kapitän liest dieses Buch!$"
 

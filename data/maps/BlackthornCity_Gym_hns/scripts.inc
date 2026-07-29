@@ -143,7 +143,7 @@ BlackthornGym_MapScript_BuildBridge3::
 	setmetatile 22, 28, 0x35A, FALSE
 	setmetatile 23, 27, 0x35A, FALSE
 	setmetatile 23, 28, 0x35A, FALSE
-	return	
+	return
 
 BlackthornGym_TriggerBridge4::
 	call BlackthornGym_MapScript_BuildBridge4
@@ -244,9 +244,9 @@ BlackthornGym_Text_ClairIntroText:
 	.string "werde ich mich nicht zurückhalten!$"
 
 BlackthornGym_Text_ClairWinText:
-	.string "Ich habe verloren?\p"
-	.string "Ich glaube es nicht. Das muss ein\n"
-	.string "Fehler sein…$"
+	.string "Ich soll verloren haben?\p"
+	.string "Ich will das einfach nicht glauben. Das\n"
+	.string "muss ein Irrtum sein…$"
 
 BlackthornGym_Text_ClairText_GoToDragonsDen:
 	.string "Ich gestehe das nicht ein.\p"
@@ -279,20 +279,20 @@ BlackthornGym_Text_ClairText_DescribeTM:
 BlackthornGym_Text_ClairText_League:
 	.string "Was ist los?\p"
 	.string "Gehst du nicht zur Pokémon\n"
-	.string "LIGA?\p"
+	.string "Liga?\p"
 	.string "Kennst du den Weg nicht?\p"
 	.string "Gehe von hier nach Neuborkia.\p"
 	.string "Surfe dann nach Osten. der Weg\n"
 	.string "wird dann sehr beschwerlich.\p"
 	.string "Wage es nicht in der Pokémon\n"
-	.string "LIGA zu verlieren!\p"
+	.string "Liga zu verlieren!\p"
 	.string "Das würde meine Niederlage gegen\n"
 	.string "dich noch schlimmer machen!\p"
 	.string "Gib dein Bestes!$"
 
 BlackthornGym_Text_ClairAfterLeague:
 	.string "Du hast es geschafft, huh?\p"
-	.string "Du bist jetzt der JOHTO CHAMP.$"
+	.string "Du bist jetzt der Johto Champ.$"
 
 BlackthornGym_Text_ClairRematchText:
 	.string "Du hast es geschafft, huh?\p"
@@ -334,8 +334,8 @@ BlackthornGym_Text_CooltrainerfFranAfterBattleText:
 	.string "Uh-oh… Sandra wird sauer sein…$"
 
 BlackthornGym_Text_CooltrainermPaulSeenText:
-	.string "Dein erster Kampf gegen Drachen?\p"
-	.string "Ich zeige dir wie stark sie sind!$"
+	.string "Ist das dein erster Kampf gegen\n"
+	.string "Drachen-Pokémon? Dann pass mal auf!$"
 
 BlackthornGym_Text_CooltrainermPaulBeatenText:
 	.string "Mein Drachen-Pokémon hat verloren?$"
@@ -350,24 +350,24 @@ BlackthornGym_Text_CooltrainermMikeSeenText:
 	.string "Nicht mal ein Prozent!$"
 
 BlackthornGym_Text_CooltrainermMikeBeatenText:
-	.string "Hm, eigenartig.$"
+	.string "Hmmm… eigenartig.$"
 
 BlackthornGym_Text_CooltrainermMikeAfterBattleText:
-	.string "Ich kenne jetzt meine Schwachstellen.\p"
-	.string "Danke für den Hinweis!$"
+	.string "Dann kenne ich ja jetzt meine\n"
+	.string "Schwachstellen. Danke für den Hinweis!$"
 
 BlackthornGym_Text_CooltrainerfLolaSeenText:
-	.string "Drachen sind heilige Pokémon.\p"
-	.string "Sie sind voller Leben und Energie.\p"
-	.string "Wenn du es nicht ernst meinst\n"
+	.string "Drachen sind ehrwürdige Pokémon. Sie\n"
+	.string "sind voller Lebensenergie.\p"
+	.string "Wenn du es nicht ernst meinst, dann\n"
 	.string "wirst du sie nicht besiegen können.$"
 
 BlackthornGym_Text_CooltrainerfLolaBeatenText:
-	.string "Großartig!$"
+	.string "He! Das war gar nicht so schlecht.$"
 
 BlackthornGym_Text_CooltrainerfLolaAfterBattleText:
-	.string "Drachen sind schwach gegen\n"
-	.string "Typ Drache Attacken.$"
+	.string "Übrigens - Drachen sind schwach gegen\n"
+	.string "Drachen-Attacken.$"
 
 BlackthornGym_EventScript_GymGuy::
 	lock
@@ -377,7 +377,7 @@ BlackthornGym_EventScript_GymGuy::
 	closemessage
 	release
 	end
-	
+
 BlackthornGym_EventScript_GymGuy2::
 	goto_if_set FLAG_BADGE08_GET, BlackthornGym_EventScript_GymGuy3
 	msgbox BlackthornGym_Text_GuideGotoDragonsDen, MSGBOX_DEFAULT
@@ -387,10 +387,10 @@ BlackthornGym_EventScript_GymGuy2::
 BlackthornGym_EventScript_GymGuy3::
 	msgbox BlackthornGym_Text_GuideWinText, MSGBOX_DEFAULT
 	release
-	end	
+	end
 
 BlackthornGym_Text_GuideText:
-	.string "Yo! CHAMP in spe!\p"
+	.string "Yo! Champ in spe!\p"
 	.string "Es war eine lange Reise, aber\n"
 	.string "bald sind wir da! Zähle auf mich!\p"
 	.string "Während Sandra zum Drachenmeister\n"
@@ -417,7 +417,7 @@ BlackthornGym_Text_GuideWinText:
 	.string "eine Meisterleistung!\p"
 	.string "Alles was dir nun bevorsteht.\n"
 	.string "Ist die Pokémon Liga und\l"
-	.string "Pokémon CHAMPION zu werden!$"
+	.string "Pokémon Champion zu werden!$"
 
 
 BlackthornGym_EventScript_Statue::

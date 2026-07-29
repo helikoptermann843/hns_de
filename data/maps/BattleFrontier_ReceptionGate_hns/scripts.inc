@@ -301,26 +301,26 @@ BattleFrontier_ReceptionGate_Text_FirstTimeHereThisWay_hns:
 BattleFrontier_ReceptionGate_Text_WelcomeToBattleFrontier_hns:
 	.string "Der ultimative Ort für ultimative\n"
 	.string "Kämpfe! Willkommen in der\l"
-	.string "KAMPFZONE!$"
+	.string "Kampfzone!$"
 
 BattleFrontier_ReceptionGate_Text_IssueFrontierPass_hns:
 	.string "Jeder, der zum ersten Mal hier ist,\n"
-	.string "bekommt einen KAMPFZONENPASS von uns.\n"
+	.string "bekommt einen Kampfzonenpass von uns.\n"
 	.string "\p"
 	.string "Damit kannst du alle Einrichtungen der\n"
-	.string "KAMPFZONE besuchen.\p"
+	.string "Kampfzone besuchen.\p"
 	.string "Hier, bitte schön!$"
 
 BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass_hns:
-	.string "{PLAYER} erhält den KAMPFZONENPASS.$"
+	.string "{PLAYER} erhält den Kampfzonenpass.$"
 
 BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass_hns:
-	.string "{PLAYER} steckt den TRAINERPASS\n"
-	.string "zum KAMPFZONENPASS.$"
+	.string "{PLAYER} steckt den Trainerpass\n"
+	.string "zum Kampfzonenpass.$"
 
 BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier_hns:
 	.string "Wir hoffen, dir gefällt, was die\n"
-	.string "KAMPF- ZONE zu bieten hat.$"
+	.string "Kampf- Zone zu bieten hat.$"
 
 BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame_hns:
 	.string "???: Oh, wenn das nicht {PLAYER}{KUN}\n"
@@ -328,11 +328,11 @@ BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame_hns:
 	.string "Du bist also doch gekommen! Schön!$"
 
 BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay_hns:
-	.string "TUTOR: Oh! Herr SCOTT!\n"
+	.string "Tutor: Oh! Herr Scott!\n"
 	.string "Einen schönen guten Tag, der Herr!$"
 
 BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere_hns:
-	.string "SCOTT: Es ist großartig, dich hier\n"
+	.string "Scott: Es ist großartig, dich hier\n"
 	.string "zu sehen!\p"
 	.string "Ich hoffe, du hast ein bisschen Zeit\n"
 	.string "mitgebracht, um dir hier alles\l"
@@ -345,143 +345,143 @@ BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere_hns:
 
 BattleFrontier_ReceptionGate_Text_YourGuideToFacilities_hns:
 	.string "Ich begleite dich durch die\n"
-	.string "Einrichtungen der KAMPFZONE.$"
+	.string "Einrichtungen der Kampfzone.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhich2_hns:
 	.string "Was möchtest du gerne wissen?$"
 
 BattleFrontier_ReceptionGate_Text_BattleTowerInfo_hns:
 	.string "Der riesige Turm ist das Symbol der\n"
-	.string "KAMPFZONE.\p"
+	.string "Kampfzone.\p"
 	.string "Es gibt vier verschiedene Arten von\n"
-	.string "KAMPFRÄUMEN - für EINZEL-, DOPPEL-,\l"
-	.string "MULTI- und LINK-MULTIKÄMPFE.$"
+	.string "Kampfräumen - für Einzel-, Doppel-,\l"
+	.string "Multi- und Link-Multikämpfe.$"
 
 BattleFrontier_ReceptionGate_Text_BattleDomeInfo_hns:
-	.string "Das KAMPFSTADION hat die Form eines\n"
+	.string "Das Kampfstadion hat die Form eines\n"
 	.string "gewaltigen Eis.\p"
 	.string "Hier werden so genannte Kampfturniere\n"
 	.string "abgehalten.\p"
-	.string "Diese können in EINZEL- oder DOPPEL-\n"
-	.string "KÄMPFEN ausgefochten werden.$"
+	.string "Diese können in Einzel- oder Doppel-\n"
+	.string "kämpfen ausgefochten werden.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePalaceInfo_hns:
-	.string "Der KAMPFPALAST ist das rote Gebäude,\n"
-	.string "ganz rechts in der KAMPFZONE.\p"
-	.string "Hier gibt es zwei KAMPFHALLEn: Eine\n"
-	.string "für EINZEL- und eine für DOPPELKÄMPFE.$"
+	.string "Der Kampfpalast ist das rote Gebäude,\n"
+	.string "ganz rechts in der Kampfzone.\p"
+	.string "Hier gibt es zwei Kampfhallen: Eine\n"
+	.string "für Einzel- und eine für Doppelkämpfe.$"
 
 BattleFrontier_ReceptionGate_Text_BattleArenaInfo_hns:
 	.string "Das einem Dojo nachempfundene Gebäude\n"
-	.string "ist der KAMPFRING, er ist in der\l"
+	.string "ist der Kampfring, er ist in der\l"
 	.string "Mitte rechts zu finden.\p"
 	.string "Hier findet das K.O.-Teamturnier\n"
 	.string "statt.$"
 
 BattleFrontier_ReceptionGate_Text_BattleFactoryInfo_hns:
 	.string "Uns am nächsten ist das große Gebäude\n"
-	.string "der KAMPFFABRIK.\p"
+	.string "der Kampffabrik.\p"
 	.string "Hier findet der so genannte Wechsel-\n"
 	.string "kampf statt.\p"
-	.string "Auch hier kannst du in EINZEL- oder\n"
-	.string "DOPPELKÄMPFEN antreten.$"
+	.string "Auch hier kannst du in Einzel- oder\n"
+	.string "Doppelkämpfen antreten.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePikeInfo_hns:
-	.string "Das Gebäude, das wie ein POKéMON\n"
-	.string "aussieht, ist die KAMPFIPITIS - in der\l"
+	.string "Das Gebäude, das wie ein Pokémon\n"
+	.string "aussieht, ist die Kampfipitis - in der\l"
 	.string "Mitte links.\p"
 	.string "Hier findet man die Kampfbahnen.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePyramidInfo_hns:
-	.string "Die KAMPFPYRAMIDE ist eine riesen-\n"
+	.string "Die Kampfpyramide ist eine riesen-\n"
 	.string "große Pyramide.\p"
 	.string "Hier finden die so genannten Kampf-\n"
 	.string "forschungen statt.$"
 
 BattleFrontier_ReceptionGate_Text_RankingHallInfo_hns:
-	.string "Die ERGEBNISHALLE befindet sich in der\n"
-	.string "Nähe des DUELLTURMs.\p"
+	.string "Die Ergebnishalle befindet sich in der\n"
+	.string "Nähe des Duellturms.\p"
 	.string "Hier kannst du dir die Rekorde\n"
-	.string "der TRAINER anschauen, die sich den\l"
-	.string "Herausforderungen der KAMPFZONE\l"
+	.string "der Trainer anschauen, die sich den\l"
+	.string "Herausforderungen der Kampfzone\l"
 	.string "gestellt haben.$"
 
 BattleFrontier_ReceptionGate_Text_ExchangeCornerInfo_hns:
-	.string "Die TAUSCHECKE befindet\n"
-	.string "sich in der Nähe des DUELLTURMs.\p"
+	.string "Die Tauschecke befindet\n"
+	.string "sich in der Nähe des Duellturms.\p"
 	.string "Hier kannst du Gewinnpunkte, die du in\n"
-	.string "der KAMPFZONE erhalten hast,\l"
+	.string "der Kampfzone erhalten hast,\l"
 	.string "gegen tolle Preise eintauschen.$"
 
 BattleFrontier_ReceptionGate_Text_YourGuideToRules_hns:
 	.string "Ich erkläre dir die Basisregeln, die\n"
 	.string "für\n"
-	.string "alle Herausforderungen der KAMPFZONE\l"
+	.string "alle Herausforderungen der Kampfzone\l"
 	.string "gelten.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhat_hns:
-	.string "Was darf ich dir näher erklären?\n$"
+	.string "Was möchtest du gerne wissen?$"
 
 BattleFrontier_ReceptionGate_Text_LevelModeInfo_hns:
-	.string "Alle Herausforderungen der KAMPFZONE\n"
+	.string "Alle Herausforderungen der Kampfzone\n"
 	.string "haben zwei Kategorien:\l"
 	.string "Level 50 und Offene Kämpfe.$"
 
 BattleFrontier_ReceptionGate_Text_Level50Info_hns:
 	.string "Die Level 50-Herausforderungen sind\n"
-	.string "offen für POKéMON bis einschließlich\l"
+	.string "offen für Pokémon bis einschließlich\l"
 	.string "Level 50.\p"
-	.string "Beachte aber, dass kein TRAINER, gegen\n"
-	.string "den du antrittst, POKéMON besitzt, die\l"
+	.string "Beachte aber, dass kein Trainer, gegen\n"
+	.string "den du antrittst, Pokémon besitzt, die\l"
 	.string "unter Level 50 sind!\p"
 	.string "Diese Kategorie ist die Eingangsstufe\n"
-	.string "für die Kämpfe in der KAMPFZONE.\p"
+	.string "für die Kämpfe in der Kampfzone.\p"
 	.string "Wir hoffen, dass du dich am Anfang\n"
 	.string "für diese Stufe entscheiden wirst.$"
 
 BattleFrontier_ReceptionGate_Text_OpenLevelInfo_hns:
 	.string "In den Offenen Kämpfen gibt es kein\n"
-	.string "Limit für die Level der POKéMON.\p"
+	.string "Limit für die Level der Pokémon.\p"
 	.string "Der Level deiner Gegner wird dem\n"
-	.string "Level deiner POKéMON angepasst.\p"
-	.string "Trotzdem wird kein TRAINER, gegen den\n"
-	.string "du antrittst, ein POKéMON haben, das\l"
+	.string "Level deiner Pokémon angepasst.\p"
+	.string "Trotzdem wird kein Trainer, gegen den\n"
+	.string "du antrittst, ein Pokémon haben, das\l"
 	.string "unter Level 60 ist.$"
 
 BattleFrontier_ReceptionGate_Text_MonEntryInfo_hns:
 	.string "Praktisch gesehen, kann jede Art von\n"
-	.string "POKéMON an jeder Herausforderung\l"
+	.string "Pokémon an jeder Herausforderung\l"
 	.string "teilnehmen.\p"
-	.string "EIer und bestimmte Arten von POKéMON\n"
+	.string "Eier und bestimmte Arten von Pokémon\n"
 	.string "sind dennoch nicht zugelassen.\p"
-	.string "Die Anzahl der POKéMON, die du mit in\n"
+	.string "Die Anzahl der Pokémon, die du mit in\n"
 	.string "den\n"
 	.string "Kampf nehmen kannst, variiert von\l"
 	.string "Einrichtung zu Einrichtung.\p"
 	.string "In allen Einrichtungen gilt aber: Zwei\n"
-	.string "oder mehr PKMN der gleichen Art dürfen\l"
+	.string "oder mehr Pkmn der gleichen Art dürfen\l"
 	.string "nicht in einen Kampf gebracht werden.$"
 
 BattleFrontier_ReceptionGate_Text_HoldItemsInfo_hns:
 	.string "Nimmst du eine Herausforderung der\n"
-	.string "KAMPFZONE an, musst du\p"
-	.string "darauf achten, dass deine POKéMON\n"
+	.string "Kampfzone an, musst du\p"
+	.string "darauf achten, dass deine Pokémon\n"
 	.string "unterschiedliche Items halten.$"
 
 BattleFrontier_ReceptionGate_Text_YourGuideToFrontierPass_hns:
-	.string "Ich erkläre dir den KAMPFZONENPASS.$"
+	.string "Ich erkläre dir den Kampfzonenpass.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhich1_hns:
 	.string "Was möchtest du wissen?$"
 
 BattleFrontier_ReceptionGate_Text_SymbolsInfo_hns:
 	.string "Es gibt sieben Einrichtungen hier in\n"
-	.string "der KAMPFZONE.\p"
-	.string "TRAINER, die sich durch hervorragendes\n"
+	.string "der Kampfzone.\p"
+	.string "Trainer, die sich durch hervorragendes\n"
 	.string "Talent auszeichnen, können als\l"
-	.string "Anerkennung SYMBOLE erlangen.\p"
+	.string "Anerkennung Symbole erlangen.\p"
 	.string "Um diese Medaillen zu erhalten, müssen\n"
-	.string "mehrere TRAINER in Folge besiegt\l"
+	.string "mehrere Trainer in Folge besiegt\l"
 	.string "werden und manchmal auch bestimmte\p"
 	.string "Herausforderungen mehrmals bestritten\n"
 	.string "werden. Es ist sicherlich nicht\n"
@@ -491,15 +491,15 @@ BattleFrontier_ReceptionGate_Text_SymbolsInfo_hns:
 BattleFrontier_ReceptionGate_Text_RecordedBattleInfo_hns:
 	.string "Du hast die Möglichkeit, einen Kampf\n"
 	.string "in\n"
-	.string "deinen KAMPFZONENPASS aufnehmen zu\l"
+	.string "deinen Kampfzonenpass aufnehmen zu\l"
 	.string "lassen.\p"
 	.string "Vielleicht möchtest du einen Kampf,\n"
 	.string "den\n"
 	.string "du gegen oder mit Freunden geführt\l"
 	.string "hast, dort eintragen lassen.\p"
-	.string "Oder du lässt Kämpfe in der KAMPFZONE\n"
+	.string "Oder du lässt Kämpfe in der Kampfzone\n"
 	.string "eintragen. Kämpfe der\l"
-	.string "KAMPFIPITIS und der KAMPFPYRAMIDE\l"
+	.string "Kampfipitis und der Kampfpyramide\l"
 	.string "werden nicht eingetragen.\p"
 	.string "Am Ende eines Kampfes kannst du dich\n"
 	.string "entscheiden, ob du ihn eintragen\n"
@@ -507,9 +507,9 @@ BattleFrontier_ReceptionGate_Text_RecordedBattleInfo_hns:
 	.string "möchtest oder nicht.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePointsInfo_hns:
-	.string "TRAINER, die herausragend in der\n"
-	.string "KAMPFZONE gekämpft haben,\l"
+	.string "Trainer, die herausragend in der\n"
+	.string "Kampfzone gekämpft haben,\l"
 	.string "erhalten so genannte Gewinnpunkte.\p"
 	.string "Diese kannst du nach Belieben in der\n"
-	.string "TAUSCHECKE gegen Preise eintauschen.$"
+	.string "Tauschecke gegen Preise eintauschen.$"
 

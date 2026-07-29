@@ -143,18 +143,18 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "Hier gibt es viele niedliche PUPPEn.\p"
+	.string "Hier gibt es viele niedliche Puppen.\p"
 	.string "Ich sollte mir lieber selbst welche\n"
 	.string "kaufen, anstatt immer für meine\l"
 	.string "Kinder.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "Ich bin noch zu klein, um POKéMON auf-\n"
+	.string "Ich bin noch zu klein, um Pokémon auf-\n"
 	.string "zuziehen, daher bekomme ich eine\l"
-	.string "PUPPE.$"
+	.string "Puppe.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "Sie verkaufen viele hübsche MATTEn.\p"
+	.string "Sie verkaufen viele hübsche Matten.\p"
 	.string "Welche soll ich nur kaufen?\n"
 	.string "Ich sollte sie alle kaufen…$"
 

@@ -66,9 +66,8 @@ VictoryRoad_B2F_Text_CarolineDefeat:
 	.string "Keine Anzeichen von Müdigkeit…$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "Die Siegesstrasse und die Pokémon\n"
-	.string "Liga sind große und langwierige\n"
-	.string "Heraus-\l"
+	.string "Die Siegesstraße und die Pokémon\n"
+	.string "Liga sind große und langwierige Heraus-\l"
 	.string "forderungen. Werde bloß nicht müde!!!$"
 
 VictoryRoad_B2F_Text_JulieIntro:

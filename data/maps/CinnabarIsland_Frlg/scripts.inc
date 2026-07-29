@@ -355,8 +355,8 @@ CinnabarIsland_Text_DoorIsLocked::
 	.string "Die Tür ist geschlossen.$"
 
 CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
-	.string "PYRO, der ARENALEITER der\n"
-	.string "ZINNOBERINSEL, ist ein seltsamer\l"
+	.string "Pyro, der Arenaleiter der\n"
+	.string "Zinnoberinsel, ist ein seltsamer\l"
 	.string "Mann. Er lebt hier seit Jahren.$"
 
 CinnabarIsland_Text_ScientistsExperimentInMansion::
@@ -364,15 +364,15 @@ CinnabarIsland_Text_ScientistsExperimentInMansion::
 	.string "ausgebrannten Gebäude.$"
 
 CinnabarIsland_Text_IslandSign::
-	.string "ZINNOBERINSEL\n"
+	.string "Zinnoberinsel\n"
 	.string "Die Stadt brennender Leidenschaft!$"
 
 CinnabarIsland_Text_PokemonLab::
-	.string "POKéMON-LABOR$"
+	.string "Pokémon-Labor$"
 
 CinnabarIsland_Text_GymSign::
-	.string "ZINNOBERINSEL POKéMON-ARENA\n"
-	.string "ARENALEITER: PYRO\l"
+	.string "Zinnoberinsel Pokémon-Arena\n"
+	.string "Arenaleiter: Pyro\l"
 	.string "Der Hitzköpfige Quizmaster!$"
 
 CinnabarIsland_Text_HeyIfItIsntPlayer::
@@ -380,7 +380,7 @@ CinnabarIsland_Text_HeyIfItIsntPlayer::
 	.string "Wenn das nicht {PLAYER} ist!$"
 
 CinnabarIsland_Text_ComeWithMeToOneIsland::
-	.string "Ich bin es, BILL.\n"
+	.string "Ich bin es, Bill.\n"
 	.string "Lange nicht gesehen!\p"
 	.string "Ich hoffe, du benutzt noch mein\n"
 	.string "PC-System.\p"
@@ -388,7 +388,7 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "treffen, wie wäre es, wenn du\l"
 	.string "mit mir kommst?\l"
 	.string "Es gibt eine kleine Insel tief im\l"
-	.string "Süden, die EILAND EINS genannt\l"
+	.string "Süden, die Eiland Eins genannt\l"
 	.string "wird.\l"
 	.string "Ein Freund hat mich eingeladen und\l"
 	.string "ich bin auf dem Weg dorthin.\p"
@@ -403,7 +403,7 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
 	.string "Wie, du bist zu beschäftigt?\p"
 	.string "Nun gut.\n"
 	.string "Das Schiff hat noch nicht angelegt.\p"
-	.string "Ich warte am POKéMON-CENTER\n"
+	.string "Ich warte am Pokémon-Center\n"
 	.string "dort drüben auf dich.\p"
 	.string "Hol mich ab, wenn du deine\n"
 	.string "Geschäfte erledigt hast.$"
@@ -412,17 +412,17 @@ CinnabarIsland_Text_MyPalsBoatArrived::
 	.string "Scheint, dass das Schiff von\n"
 	.string "meinem Freund auch angekommen\l"
 	.string "ist.\l"
-	.string "Er hat es extra zur ZINNOBERINSEL\l"
+	.string "Er hat es extra zur Zinnoberinsel\l"
 	.string "geschickt, um mich abzuholen.$"
 
 CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
 	.string "Das war eine lange Fahrt, oder?\p"
-	.string "Mein Kamerad CELIO scheint deine\n"
+	.string "Mein Kamerad Celio scheint deine\n"
 	.string "Gegenwart genossen zu haben.\p"
 	.string "Ich bin sicher, er würde dich gerne\n"
 	.string "erneut willkommen heißen.\p"
-	.string "Wenn du den TRI-PASS hast, kannst\n"
+	.string "Wenn du den Tri-Pass hast, kannst\n"
 	.string "du jederzeit mit der Fähre von\l"
-	.string "ORANIA CITY zu ihm fahren.\p"
+	.string "Orania City zu ihm fahren.\p"
 	.string "Danke für die Begleitung!$"
 

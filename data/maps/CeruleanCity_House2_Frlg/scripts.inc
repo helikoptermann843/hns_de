@@ -23,25 +23,25 @@ CeruleanCity_House2_EventScript_WallHole::
 	end
 
 CeruleanCity_House2_Text_RocketsStoleTMForDig::
-	.string "Dieses gemeine TEAM ROCKET!\p"
+	.string "Dieses gemeine Team Rocket!\p"
 	.string "Hör dir an, was sie wieder\n"
 	.string "verbrochen haben!\p"
-	.string "Sie haben den SCHAUFLER gestohlen,\n"
-	.string "eine TM, mit der POKéMON Löcher\l"
+	.string "Sie haben den Schaufler gestohlen,\n"
+	.string "eine TM, mit der Pokémon Löcher\l"
 	.string "graben können!\p"
-	.string "Der SCHAUFLER war sündhaft teuer!$"
+	.string "Der Schaufler war sündhaft teuer!$"
 
 CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
 	.string "Was weg ist, ist weg!\p"
-	.string "Ich werde DIGDA beibringen, ohne\n"
-	.string "den SCHAUFLER zu graben!$"
+	.string "Ich werde Digda beibringen, ohne\n"
+	.string "den Schaufler zu graben!$"
 
 CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
-	.string "Das TEAM ROCKET braucht den\n"
-	.string "SCHAUFLER sicher für irgendeine\l"
+	.string "Das Team Rocket braucht den\n"
+	.string "Schaufler sicher für irgendeine\l"
 	.string "Schandtat!$"
 
 CeruleanCity_House2_Text_TeamRocketLeftWayOut::
-	.string "Das TEAM ROCKET hat Spuren\n"
+	.string "Das Team Rocket hat Spuren\n"
 	.string "hinterlassen!$"
 

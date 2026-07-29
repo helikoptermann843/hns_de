@@ -28,7 +28,7 @@ Route116_TunnelersRestHouse_EventScript_TunnelOpened::
 	end
 
 Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
-	.string "Der METAFLURTUNNEL…\p"
+	.string "Der Metaflurtunnel…\p"
 	.string "Zunächst hatten wir ein großes Team,\n"
 	.string "das mit schweren Maschinen durch den\l"
 	.string "Felsen brechen sollte. Dann mussten\n"
@@ -36,29 +36,29 @@ Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
 	.string "die Arbeit stoppen.\p"
 	.string "Es stellte sich heraus, dass sich\n"
 	.string "unsere Arbeit negativ auf die wilden\l"
-	.string "POKéMON in dieser Gegend auswirkte.\p"
+	.string "Pokémon in dieser Gegend auswirkte.\p"
 	.string "Und daher haben wir nun nichts mehr zu\n"
 	.string "tun, außer hier faul herumzuhängen.$"
 
 Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
 	.string "Da ist ein Mann, der sich ganz alleine\n"
-	.string "seinen Weg nach WIESENFLUR gräbt. Er\l"
+	.string "seinen Weg nach Wiesenflur gräbt. Er\l"
 	.string "versucht verzweifelt durchzukommen.\p"
 	.string "Er sagt, wenn er Schritt für Schritt\n"
 	.string "ohne laute Maschinen gräbt, werden die\l"
-	.string "POKéMON nicht gestört und ihr natür-\l"
+	.string "Pokémon nicht gestört und ihr natür-\l"
 	.string "licher Lebensraum bleibt erhalten.$"
 
 Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel:
-	.string "Um ohne diesen Tunnel nach WIESENFLUR\n"
+	.string "Um ohne diesen Tunnel nach Wiesenflur\n"
 	.string "zu kommen, muss man das Meer bei\p"
-	.string "FAUSTAUHAVEN überqueren, nach\n"
-	.string "GRAPHITPORT CITY segeln und durch\l"
-	.string "MALVENFROH CITY reisen.$"
+	.string "Faustauhaven überqueren, nach\n"
+	.string "Graphitport City segeln und durch\l"
+	.string "Malvenfroh City reisen.$"
 
 Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough:
-	.string "Hast du schon gehört!?! Der TUNNEL bei\n"
-	.string "WIESENFLUR ist fertig!\p"
+	.string "Hast du schon gehört!?! Der Tunnel bei\n"
+	.string "Wiesenflur ist fertig!\p"
 	.string "Wenn man nur fest an seine Träume\n"
 	.string "glaubt, werden sie irgendwann wahr.$"
 

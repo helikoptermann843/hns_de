@@ -346,8 +346,8 @@ VermilionGym_Text_GentlemanGregorySeen:
 	.string "Da musst du erst an mir vorbei!$"
 
 VermilionGym_Text_GentlemanGregoryBeaten:
-	.string "Entschuldigung, Major Bob!\n"
-	.string "Ich habe versagt!$"
+	.string "Ich habe versagt, Major Bob. Es tut mir\n"
+	.string "leid!$"
 
 VermilionGym_Text_GentlemanGregoryAfter:
 	.string "Als ich noch in der Armee war,\n"
@@ -379,16 +379,16 @@ VermilionGym_Text_JugglerHortonAfter:
 
 VermilionCity_Gym_Text_GymGuyAdvice::
 	.string "Yo!\n"
-	.string "CHAMP in spe!\p"
-	.string "MAJOR BOB hat einen Spitznamen.\p"
+	.string "Champ in spe!\p"
+	.string "Major Bob hat einen Spitznamen.\p"
 	.string "Die Leute nennen ihn den\n"
 	.string "Blitz-Amerikaner!\p"
 	.string "Er ist ein Experte für Elektro-\n"
-	.string "POKÉMON.\p"
-	.string "FLUG- und WASSER-POKÉMON haben\n"
+	.string "Pokémon.\p"
+	.string "Flug- und Wasser-Pokémon haben\n"
 	.string "einen Nachteil gegen Elektro.\p"
 	.string "Pass auch auf Paralyse auf.\p"
-	.string "MAJOR BOB ist sehr vorsichtig.\p"
+	.string "Major Bob ist sehr vorsichtig.\p"
 	.string "Er hat sich eingeschlossen, also\n"
 	.string "wird es nicht einfach sein,\l"
 	.string "zu ihm zu gelangen.$"
@@ -398,17 +398,17 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 	.string "Ich habe richtig mitgefiebert!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "ORANIA POKéMON ARENA\n"
-    .string "LEITER: MAJOR BOB\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Orania Pokémon Arena\n"
+    .string "Leiter: Major Bob\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "ORANIA POKéMON ARENA\n"
-    .string "LEITER: MAJOR BOB\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Orania Pokémon Arena\n"
+    .string "Leiter: Major Bob\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::
 	.string "Nein!\n"

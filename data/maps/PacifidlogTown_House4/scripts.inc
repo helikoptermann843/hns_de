@@ -29,19 +29,19 @@ PacifidlogTown_House4_EventScript_No::
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
 	.string "Die Menschen sagen, sie hätten ein \n"
-	.string "POKéMON über HOENN FLIEGEN sehen.\p"
-	.string "FLIEGT es die ganze Zeit über herum?\n"
+	.string "Pokémon über Hoenn Fliegen sehen.\p"
+	.string "Fliegt es die ganze Zeit über herum?\n"
 	.string "Muss es sich nicht ausruhen?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
-	.string "Ein Himmels-POKéMON!\n"
-	.string "Ein Himmels-POKéMON!$"
+	.string "Ein Himmels-Pokémon!\n"
+	.string "Ein Himmels-Pokémon!$"
 
 PacifidlogTown_House4_Text_WhereDidYouComeFrom:
 	.string "Woher kommst du?$"
 
 PacifidlogTown_House4_Text_YesTown:
-	.string "Ja? JA-Stadt???\p"
+	.string "Ja? Ja-Stadt???\p"
 	.string "Davon habe ich ja noch nie gehört!$"
 
 PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:

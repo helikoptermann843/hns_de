@@ -16,14 +16,14 @@ Ecruteak_Text_ItemfinderTrueSpirit:
 Ecruteak_Text_ItemfinderExplanation:
 	.string "Manchmal liegen Items herum,\n"
 	.string "die man leicht übersieht.\p"
-	.string "Setze den DETEKTOR ein,\n"
+	.string "Setze den Detektor ein,\n"
 	.string "um Items aufzuspüren, die sich\l"
 	.string "in der Nähe befinden.\p"
 	.string "Den exakten Fundort musst du aber\n"
 	.string "selbst herausfinden.\p"
 	.string "Ich hörte auch,\n"
-	.string "dass in der TURMRUINE von TEAK\l"
-	.string "CITY Items zu finden wären.$"
+	.string "dass in der Turmruine von Teak\l"
+	.string "City Items zu finden wären.$"
 
 Ecruteak_Text_ItemfinderToEachHisOwn:
 	.string "…Na gut, wenn du meinst!$"
@@ -71,7 +71,7 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "TEAK-City ist eine sehr alte Stadt.\n"
+	.string "Teak-City ist eine sehr alte Stadt.\n"
 	.string "Viele Generationen Geschichte\l"
 	.string "stehen in Büchern wie diesem.$"
 

@@ -117,7 +117,7 @@ Route8_Text_EliRematchIntro::
 	.string "noch stärker!$"
 
 Route8_Text_AnneRematchIntro::
-	.string "JO: Zwillinge sind doppelt stark!$"
+	.string "Jo: Zwillinge sind doppelt stark!$"
 
 Route9_Text_AliciaRematchIntro::
 	.string "Kämpfen wir erneut?\n"
@@ -226,7 +226,7 @@ Route11_Text_BernieRematchIntro::
 	.string "Keep your eyes out for live wires!$"
 
 Route11_Text_DaveRematchIntro::
-	.string "Meine POKéMON müssten bereit sein!\n"
+	.string "Meine Pokémon müssten bereit sein!\n"
 	.string "Dieses Mal gewinne ich!$"
 
 Route12_Text_NedRematchIntro::
@@ -289,7 +289,7 @@ Route13_Text_ValerieRematchIntro::
 	.string "Du hast noch mehr coole Orden!$"
 
 Route13_Text_GwenRematchIntro::
-	.string "Meine niedlichen POKéMON möchten\n"
+	.string "Meine niedlichen Pokémon möchten\n"
 	.string "dich erneut gern kennen lernen.$"
 
 Route13_Text_AlmaRematchIntro::
@@ -323,7 +323,7 @@ Route14_Text_CarterRematchIntro::
 	.string "TMs gute Attacken beigebracht.$"
 
 Route14_Text_MitchRematchIntro::
-	.string "Meine Vogel-POKéMON sind dieses\n"
+	.string "Meine Vogel-Pokémon sind dieses\n"
 	.string "Mal noch besser vorbereitet!$"
 
 Route14_Text_BeckRematchIntro::
@@ -478,7 +478,7 @@ Route17_Text_BillyRematchIntro::
 	.string "We rule the roads, man!$"
 
 Route17_Text_NikolasRematchIntro::
-	.string "VOLTOBAL wird dich heute\n"
+	.string "Voltobal wird dich heute\n"
 	.string "ernsthaft frizzeln!$"
 
 Route17_Text_ZeekRematchIntro::

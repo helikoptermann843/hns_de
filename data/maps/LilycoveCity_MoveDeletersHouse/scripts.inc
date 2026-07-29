@@ -68,13 +68,13 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Äh… Oh, ja. Ich bin der\n"
-	.string "ATTACKEN-VERLERNER. \p"
-	.string "Ich sorge dafür, dass die POKéMON ihre\n"
+	.string "Attacken-Verlerner. \p"
+	.string "Ich sorge dafür, dass die Pokémon ihre\n"
 	.string "Attacken vergessen.\p"
 	.string "Möchtest du, dass ich dir helfe?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Welches POKéMON soll eine Attacke\n"
+	.string "Welches Pokémon soll eine Attacke\n"
 	.string "vergessen?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
@@ -98,10 +98,10 @@ LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
 	.string "gibt, die vergessen werden sollen.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "Was? Ein EI kennt doch keine Attacken!$"
+	.string "Was? Ein Ei kennt doch keine Attacken!$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Dein {STR_VAR_1} möchte SURFER nicht\n"
+	.string "Dein {STR_VAR_1} möchte Surfer nicht\n"
 	.string "vergessen.$"
 

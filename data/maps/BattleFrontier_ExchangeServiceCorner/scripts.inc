@@ -358,7 +358,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
-	.string "Hallo, dies ist die TAUSCHECKE.\p"
+	.string "Hallo, dies ist die Tauschecke.\p"
 	.string "Wir tauschen deine Gewinnpunkte gegen\n"
 	.string "großartige Preise ein.\p"
 	.string "Bitte such dir einen Preis von dieser\n"
@@ -397,8 +397,8 @@ BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "Oh, die sind so hübsch.\n"
 	.string "Die hätte ich auch gerne!\l"
 	.string "Niedliche Kissen!\l"
-	.string "Große, fluffige PUPPEn!\l"
-	.string "Kleine, fluffige PUPPEn!\l"
+	.string "Große, fluffige Puppen!\l"
+	.string "Kleine, fluffige Puppen!\l"
 	.string "Ich würde sie am liebsten alle nehmen!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
@@ -408,7 +408,7 @@ BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 	.string "Hätte ich nur eines dieser Items hier,\n"
-	.string "würden meine POKéMON viel stärker!\p"
+	.string "würden meine Pokémon viel stärker!\p"
 	.string "Mit Sicherheit! Darauf kannst du\n"
 	.string "wetten! Das steht fest!$"
 
@@ -417,80 +417,75 @@ BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 	.string "Ich mag es nicht, wie du meine\n"
 	.string "Plüschpuppe anstarrst!\p"
 	.string "Wenn du auch so eine haben willst,\n"
-	.string "besorg dir eine! Nicht wahr, KUSSILLA?$"
+	.string "besorg dir eine! Nicht wahr, Kussilla?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Weißt du was?\n"
 	.string "Wenn du deine Ergebnisse hier in den\p"
-	.string "KAMPF-Einrichtungen stetig\n"
+	.string "Kampf-Einrichtungen stetig\n"
 	.string "verbesserst, geben sie dir mehr\l"
 	.string "Gewinnpunkte.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
-	.string "Ein großes Poster von KUSSILLA.$"
+	.string "Ein großes Poster von Kussilla.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "KUSSILLA-Kissen.\n"
+	.string "Kussilla-Kissen.\n"
 	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "KUSSILLA-PUPPE.\n"
+	.string "Kussilla-Puppe.\n"
 	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "TOGEPI-PUPPE. Leg sie auf eine Matte\n"
+	.string "Togepi-Puppe. Leg sie auf eine Matte\n"
 	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "MAUZI-PUPPE. Leg sie auf eine Matte\n"
+	.string "Mauzi-Puppe. Leg sie auf eine Matte\n"
 	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "PIEPI-PUPPE. Leg sie auf eine Matte\n"
+	.string "Piepi-Puppe. Leg sie auf eine Matte\n"
 	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "DITTO-PUPPE. Leg sie auf eine Matte\n"
+	.string "Ditto-Puppe. Leg sie auf eine Matte\n"
 	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "FEURIGEL-PUPPE.\n"
+	.string "Feurigel-Puppe.\n"
 	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "ENDIVIE-PUPPE. Leg sie auf eine Matte\n"
+	.string "Endivie-Puppe. Leg sie auf eine Matte\n"
 	.string "oder einen Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "KARNIMANI-PUPPE.\n"
+	.string "Karnimani-Puppe.\n"
 	.string "Für eine Matte oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "Große PUPPE. Leg sie auf eine Matte\n"
+	.string "Große Puppe. Leg sie auf eine Matte\n"
 	.string "oder den Tisch.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Raises the stat ATTACK of one\n"
-	.string "POKéMON.$"
+	.string "Hebt den Angr.-Wert eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Raises the stat SP. ATK of one\n"
-	.string "POKéMON.$"
+	.string "Hebt den SP. Angr.-Wert eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Raises the stat DEFENSE of one\n"
-	.string "POKéMON.$"
+	.string "Hebt den Vert.-Wert eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Raises the stat SP. DEF of one\n"
-	.string "POKéMON.$"
+	.string "Hebt den SP. Vert.-Wert eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
-	.string "Raises the stat SPEED of one\n"
-	.string "POKéMON.$"
+	.string "Hebt den INIT.-Wert eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc::
-	.string "Hebt die KP eines POKéMON.$"
+	.string "Hebt die KP eines Pokémon.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
 	.string "Item (Tragen) füllt im Kampf langsam\n"
@@ -505,7 +500,7 @@ BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
 	.string "Erstschlagquote.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-	.string "Item (Tragen) erlöst POKéMON von der\n"
+	.string "Item (Tragen) erlöst Pokémon von der\n"
 	.string "Anziehung.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
@@ -521,8 +516,8 @@ BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
 	.string "zurückweichen lassen.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "A hold item that occasionally\n"
-	.string "prevents fainting.$"
+	.string "Item (Tragen) kann manchmal K.O.\n"
+	.string "verhindern.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
 	.string "Item (Tragen) erhöht die\n"

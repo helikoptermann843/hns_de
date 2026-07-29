@@ -5,22 +5,22 @@ SecretBase_Text_TreeCanBeClimbed:
 SecretBase_Text_TreeUseSecretPower:
 	.string "Wenn einige Äste herunterhängen, kann\n"
 	.string "man auf den Baum klettern.\p"
-	.string "Möchtest du GEHEIMPOWER einsetzen?$"
+	.string "Möchtest du Geheimpower einsetzen?$"
 
 SecretBase_Text_VineDroppedDown:
-	.string "A thick vine dropped down!$"
+	.string "Ein dicker Ast fällt herunter!$"
 
 SecretBase_Text_ClumpOfGrass:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.$"
+	.string "Dieser Busch kann bewegt werden,\n"
+	.string "so dass man hineinklettern kann.$"
 
 SecretBase_Text_ClumpUseSecretPower:
 	.string "Dieser Busch kann bewegt werden,\n"
 	.string "so dass man hineinklettern kann.\p"
-	.string "Möchtest du GEHEIMPOWER einsetzen?$"
+	.string "Möchtest du Geheimpower einsetzen?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
-	.string "Discovered a small entrance!$"
+	.string "Ein kleiner Eingang wird sichtbar.$"
 
 	.include "data/text/secret_base_trainers.inc"
 
@@ -674,12 +674,12 @@ SecretBase_EventScript_CushionInteract::
 
 SecretBase_Text_AllDecorationsWillBeReturned:
 	.string "Alle Dekorationsgegenstände und das\n"
-	.string "Mobiliar aus deiner GEHEIMBASIS werden\l"
+	.string "Mobiliar aus deiner Geheimbasis werden\l"
 	.string "auf deinen PC gesendet.\p"
 	.string "Einverstanden?$"
 
 SecretBase_Text_WantToRegisterSecretBase:
-	.string "Möchtest du die GEHEIMBASIS von\n"
+	.string "Möchtest du die Geheimbasis von\n"
 	.string "{STR_VAR_1} eintragen?$"
 
 SecretBase_Text_AlreadyRegisteredDelete:
@@ -687,15 +687,17 @@ SecretBase_Text_AlreadyRegisteredDelete:
 	.string "eingetragen. Möchtest du sie löschen?$"
 
 SecretBase_Text_TooManyBasesDeleteSome:
-	.string "Up to 10 locations can be registered.\p"
-	.string "Delete a location if you want to\n"
-	.string "register another location.$"
+	.string "Bis zu 10 Orte können eingetragen\n"
+	.string "werden.\p"
+	.string "Lösche einen Ort, um einen neuen\n"
+	.string "eintragen zu können.$"
 
 SecretBase_Text_RegistrationCompleted:
-	.string "Registration completed.$"
+	.string "Registrierung abgeschlossen.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Daten wurden aus der Registrierung\n"
+	.string "genommen.$"
 
 SecretBase_Text_BootUpPC:
 	.string "{PLAYER} schaltet den PC ein.$"
@@ -704,10 +706,10 @@ SecretBase_Text_WhatWouldYouLikeToDo:
 	.string "Was möchtest du tun?$"
 
 SecretBase_Text_RegistryInfo:
-	.string "Die eingetragene GEHEIMBASIS bleibt\n"
+	.string "Die eingetragene Geheimbasis bleibt\n"
 	.string "erhalten, bis der Eigentümer umzieht.\p"
 	.string "Wird sie aus dem Grundbuch ent-\n"
-	.string "fernt, kann eine andere GEHEIMBASIS\l"
+	.string "fernt, kann eine andere Geheimbasis\l"
 	.string "diesen Platz einnehmen.\p"
 	.string "Bis zu 10 Orte können eingetragen\n"
 	.string "werden.$"
@@ -715,7 +717,7 @@ SecretBase_Text_RegistryInfo:
 SecretBase_Text_BattleTowerShield:
 	.string "Ein Schild aus {STR_VAR_2}, welches zeigt,\n"
 	.string "dass {STR_VAR_1}-mal hintereinander im\l"
-	.string "DUELLTURM ein Kampf gewonnen wurde.$"
+	.string "Duellturm ein Kampf gewonnen wurde.$"
 
 SecretBase_Text_ToyTV:
 	.string "Ein sehr realistischer Spielzeug-\n"
@@ -724,21 +726,21 @@ SecretBase_Text_ToyTV:
 
 SecretBase_Text_SeedotTV:
 	.string "Ein Spielzeug-Fernseher, der aussieht\n"
-	.string "wie ein SAMURZEL. Er scheint von\l"
+	.string "wie ein Samurzel. Er scheint von\l"
 	.string "alleine davonrollen zu wollen…$"
 
 SecretBase_Text_SkittyTV:
 	.string "Ein Spielzeug-Fernseher, der aussieht\n"
-	.string "wie ein ENECO. Es scheint, als wolle\l"
+	.string "wie ein Eneco. Es scheint, als wolle\l"
 	.string "er sich langsam davonschleichen…$"
 
 SecretBase_Text_WouldYouLikeToMoveBases:
-	.string "Du kannst dir nur eine GEHEIMBASIS\n"
+	.string "Du kannst dir nur eine Geheimbasis\n"
 	.string "einrichten.\p"
-	.string "Möchtest du deine GEHEIMBASIS in der\n"
+	.string "Möchtest du deine Geheimbasis in der\n"
 	.string "Nähe von {STR_VAR_1} hierher\l"
 	.string "verlegen?$"
 
 SecretBase_Text_MovingCompletedUseSecretPower:
 	.string "Umzug wurde abgeschlossen.\p"
-	.string "Möchtest du GEHEIMPOWER einsetzen?$"
+	.string "Möchtest du Geheimpower einsetzen?$"

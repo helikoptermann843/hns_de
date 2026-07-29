@@ -28,11 +28,11 @@ VioletCity_EventScript_Trigger::
 	clearflag FLAG_GOT_POISON_BARB
 	clearflag FLAG_HIDE_UNION_CAVE_LAPRAS
 	clearflag FLAG_GOT_BLACK_GLASSES
-	
+
 	setvar VAR_SLOWPOKE_TAIL, 0
 	setvar VAR_VIOLET_CITY_KIMONO_GIRL, 0
 	setvar VAR_RUINSOFALPH_STATE, 0
-	
+
 	setflag FLAG_ITEM_GS_BALL
 	setflag FLAG_ITEM_DOME_FOSSIL
 	setflag FLAG_ITEM_HELIX_FOSSIL
@@ -41,7 +41,7 @@ VioletCity_EventScript_Trigger::
 	setflag FLAG_HIDE_VIOLET_CITY_AIDE
 	setflag FLAG_VISITED_VIOLET_CITY
 	setflag FLAG_HIDE_VIOLET_CITY_KIMONO_GIRL
-	
+
 	setvar VAR_SPROUT_TOWER, 0
 	setvar VAR_VIOLET_CITY_STATE, 1
 	end
@@ -379,7 +379,7 @@ VioletCity_Movement_Kimono_Girl_5:
 	walk_up
 	walk_up
 	walk_up
-	step_end	
+	step_end
 
 VioletCity_EventScript_LiquidJustice::
 	msgbox VioletCity_Text_LiquidJustice, MSGBOX_NPC
@@ -399,7 +399,7 @@ VioletCity_Text_LiquidJustice:
 VioletCity_Text_EarlAsksIfYouBeatFalkner:
 	.string "Hallo! Bist du ein Trainer?\p"
 	.string "Hast du den Kampf gegen den\n"
-	.string "ARENALEITER gewonnen?$"
+	.string "Arenaleiter gewonnen?$"
 
 VioletCity_Text_VeryNiceIndeed:
 	.string "Olala! Äußörst beeindrückönd!$"
@@ -414,13 +414,13 @@ VioletCity_Text_HereTeacherIAm:
 
 VioletCity_Text_Lass:
 	.string "Man sagt, dass im\n"
-	.string "KNOFENSA-TURM Geister umgehen.\p"
+	.string "Knofensa-Turm Geister umgehen.\p"
 	.string "Pokémon-Attacken des Typs Normal\n"
 	.string "zeigen bei Geistern keine Wirkung.$"
 
 VioletCity_Text_Boy:
 	.string "Hey, du bist ein Pokémon-Trainer?\p"
-	.string "Wenn du zur AKADEMIE gehst,\n"
+	.string "Wenn du zur Akademie gehst,\n"
 	.string "kannst du vielleicht etwas\l"
 	.string "Neues lernen!$"
 
@@ -462,10 +462,10 @@ VioletCity_Text_Bellsprout:
 	.string "Knofensa: Spuuuu.$"
 
 VioletCity_Text_Rattata:
-	.string "Rattfratz: RATTATARATTA!$"
+	.string "Rattfratz: Rattataratta!$"
 
 VioletCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 VioletCity_Text_Elm_Call:
 	.string "Hallo {PLAYER}?\n"
@@ -476,32 +476,21 @@ VioletCity_Text_Elm_Call:
 	.string "Lass dir von ihm alles erklären!$"
 
 VioletCity_Text_Kimono_Girl1:
-	.string "Oh je…\n"
-	.string "Dieses Ei muss…!$"
-.string "Me oh my...\n"
-.string "That EGG must be...!$"
+	.string "Nanu, dieses Ei…$"
 
 VioletCity_Text_Kimono_Girl2:
 	.string "Ich verstehe…\p"
-	.string "Es ging von Mr.Pokémon\n"
-	.string "zu PROF. Lind, dann zu dir.\p"
+	.string "Es ging von Mr. Pokémon\n"
+	.string "zu Prof. Lind, dann zu dir.\p"
 	.string "Jetzt kapiere ich es…$"
-.string "I see...\p"
-.string "So it was handed from MR. POKéMON\n"
-.string "to PROF.ELM, then from \l"
-.string "PROF.ELM to you.\p"
-.string "Now I get it...$"
 
 VioletCity_Text_Kimono_Girl3:
-	.string "Dieses Ei ist wirklich sehr wichtig.\p"
-	.string "Bitte passe gut darauf auf.\n"
-	.string "Okay?$"
-.string "That EGG is truly an important EGG.\p"
-.string "Please do take good care of it\n"
-.string "for me. Is that understood?$"
+	.string "Das ist ein wirklich äußerst kostbares\n"
+	.string "Ei, vergesst das bitte nicht! Zieht es\l"
+	.string "bitte mit viel Hingabe auf!\p"
+	.string "Verstehen wir uns?$"
 
 VioletCity_Text_Kimono_Girl4:
-	.string "Ich zähle auf dich.$"
-.string "I am counting on you.$"
+	.string "Gut, dann gehabt Euch wohl!$"
 
 

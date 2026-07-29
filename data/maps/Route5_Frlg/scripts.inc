@@ -6,6 +6,6 @@ Route5_EventScript_UndergroundPathSign::
 	end
 
 Route5_Text_UndergroundPathSign::
-	.string "TUNNELPFAD\n"
-	.string "AZURIA CITY - ORANIA CITY$"
+	.string "Tunnelpfad\n"
+	.string "Azuria City - Orania City$"
 

@@ -79,27 +79,27 @@ SixIsland_PokemonCenter_1F_EventScript_OldMan::
 
 SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
 	.string "Seit zehn Jahren erforsche ich die\n"
-	.string "RUINEN.\p"
+	.string "Ruinen.\p"
 	.string "Nein, es sind zwanzig.\p"
 	.string "Ich habe das Gefühl, dass auf die-\n"
 	.string "ser Insel irgendein Geheimnis ist.$"
 
 SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
-	.string "Ein eingefrorenes POKéMON ist\n"
+	.string "Ein eingefrorenes Pokémon ist\n"
 	.string "bewegungsunfähig.\p"
 	.string "Es behält auch nach dem Kampf\n"
 	.string "diesen Zustand bei.\p"
-	.string "Nur der EISHEILER kann es wieder\n"
+	.string "Nur der Eisheiler kann es wieder\n"
 	.string "auftauen!$"
 
 SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
 	.string "{RIVAL}: Heh {PLAYER}!\n"
-	.string "Wie ist es um deinen POKéDEX\l"
+	.string "Wie ist es um deinen Pokédex\l"
 	.string "bestellt?\l"
 	.string "Es scheint unmöglich zu sein, alle\l"
-	.string "POKéMON zu finden, wenn man\l"
+	.string "Pokémon zu finden, wenn man\l"
 	.string "sich nur hier aufhält.\l"
-	.string "Vielleicht gibt es irgendwo PKMN,\l"
+	.string "Vielleicht gibt es irgendwo Pkmn,\l"
 	.string "über die wir nichts wissen…\p"
 	.string "…………\n"
 	.string "…………\l"
@@ -107,7 +107,7 @@ SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
 	.string "Nun, wenn ich das nicht erledigen\l"
 	.string "kann, musst du das übernehmen.\p"
 	.string "Ich werde daran nicht verzweifeln.\p"
-	.string "Ich sammle POKéMON in meinem\n"
+	.string "Ich sammle Pokémon in meinem\n"
 	.string "Tempo, während ich sie trainiere.\p"
 	.string "Das mache ich!\n"
 	.string "Also macht es für mich keinen Sinn\l"

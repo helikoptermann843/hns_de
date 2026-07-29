@@ -102,7 +102,7 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER} hat den geheimen Code auf die\n"
 	.string "Tür geschrieben.\p"
-	.string "“RÄTSELMEISTER ist gewieft.”\n"
+	.string "“Rätselmeister ist gewieft.”\n"
 	.string "… … … … … … … …\p"
 	.string "Das Schloss geht klickend auf.$"
 

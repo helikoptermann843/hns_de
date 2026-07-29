@@ -728,27 +728,27 @@ CinnabarIsland_Gym_Text_BlaineDefeat::
 	.string "redlich verdient.$"
 
 CinnabarIsland_Gym_Text_FireBlastIsUltimateFireMove::
-	.string "FEUERSTURM ist die mächtigste\n"
+	.string "Feuersturm ist die mächtigste\n"
 	.string "Feuerattacke!\p"
-	.string "Allerdings ist sie gegen WASSER-\n"
-	.string "POKéMON machtlos!$"
+	.string "Allerdings ist sie gegen Wasser-\n"
+	.string "Pokémon machtlos!$"
 
 CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
 	.string "Haha!\p"
-	.string "Der VULKANORDEN steigert die\n"
-	.string "SPEZIAL-FÄHIGKEITEN deiner\l"
-	.string "POKéMON!\p"
+	.string "Der Vulkanorden steigert die\n"
+	.string "Spezial-Fähigkeiten deiner\l"
+	.string "Pokémon!\p"
 	.string "Nimm zusätzlich dieses Geschenk!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
 	.string "{PLAYER} received TM38\n"
-	.string "from BLAINE.$"
+	.string "from Blaine.$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
-	.string "TM38 ist FEUERSTURM!\p"
-	.string "FEUER-POKéMON können diese Attacke\n"
+	.string "TM38 ist Feuersturm!\p"
+	.string "Feuer-Pokémon können diese Attacke\n"
 	.string "erlernen!\p"
-	.string "GLUTEXO und VULPIX sind dafür\n"
+	.string "Glutexo und Vulpix sind dafür\n"
 	.string "prädestiniert!$"
 
 CinnabarIsland_Gym_Text_MakeSpaceForThis::
@@ -810,11 +810,11 @@ CinnabarIsland_Gym_Text_DerekDefeat::
 	.string "Autsch!$"
 
 CinnabarIsland_Gym_Text_DerekPostBattle::
-	.string "PYRO hatte sich als Kind in den\n"
+	.string "Pyro hatte sich als Kind in den\n"
 	.string "Bergen verlaufen, als über ihm ein\l"
-	.string "FEUERVOGEL erschien!\p"
-	.string "Der Schein dieses POKéMON wies\n"
-	.string "PYRO den Rückweg!$"
+	.string "Feuervogel erschien!\p"
+	.string "Der Schein dieses Pokémon wies\n"
+	.string "Pyro den Rückweg!$"
 
 CinnabarIsland_Gym_Text_DustyIntro::
 	.string "Ich war in vielen Pokémon-Arenen,\n"
@@ -843,65 +843,65 @@ CinnabarIsland_Gym_Text_ZacPostBattle::
 CinnabarIsland_Gym_Text_GymGuyAdvice::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
-	.string "Der hitzköpfige PYRO ist ein\n"
-	.string "FEUER-POKéMON-Spezialist!\p"
+	.string "Der hitzköpfige Pyro ist ein\n"
+	.string "Feuer-Pokémon-Spezialist!\p"
 	.string "Du solltest sein Mütchen mit Wasser\n"
 	.string "kühlen!\p"
-	.string "Und besorge dir FEUERHEILER!$"
+	.string "Und besorge dir Feuerheiler!$"
 
 CinnabarIsland_Gym_Text_GymGuyPostVictory::
 	.string "{PLAYER}! Du hast den Unruhestifter\n"
 	.string "gebrandmarkt!$"
 
 CinnabarIsland_Gym_Text_GymStatue::
-	.string "ZINNOBERINSEL POKéMON-ARENA\n"
-	.string "LEITUNG: PYRO\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Zinnoberinsel Pokémon-Arena\n"
+	.string "Leitung: Pyro\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 CinnabarIsland_Gym_Text_GymStatuePlayerWon::
-	.string "ZINNOBERINSEL POKéMON-ARENA\n"
-	.string "LEITUNG: PYRO\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Zinnoberinsel Pokémon-Arena\n"
+	.string "Leitung: Pyro\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 
 CinnabarIsland_Gym_Text_PokemonQuizRules::
-	.string "Willkommen beim POKéMON-Quiz!\p"
+	.string "Willkommen beim Pokémon-Quiz!\p"
 	.string "Weißt du die richtige Antwort, dann\n"
 	.string "öffnet sich die Tür!\p"
 	.string "Ist die Antwort falsch, dann musst\n"
 	.string "du kämpfen...\p"
 	.string "Je mehr Antworten du weißt, desto\n"
-	.string "fitter sind deine POKéMON beim\l"
-	.string "Kampf gegen den ARENALEITER!\p"
+	.string "fitter sind deine Pokémon beim\l"
+	.string "Kampf gegen den Arenaleiter!\p"
 	.string "Lass uns beginnen!$"
 
 CinnabarIsland_Gym_Text_QuizQuestion1::
-	.string "Entwickelt sich RAUPY zu SAFCON?$"
+	.string "Entwickelt sich Raupy zu Safcon?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion2::
-	.string "Gibt es neun offizielle POKéMON-\n"
-	.string "ORDEN?$"
+	.string "Gibt es neun offizielle Pokémon-\n"
+	.string "Orden?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion3::
-	.string "Entwickelt sich QUAPSEL dreimal?$"
+	.string "Entwickelt sich Quapsel dreimal?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion4::
-	.string "Sind ELEKTRO-ATTACKEN gegen\n"
-	.string "BODEN-POKéMON sehr effektiv?$"
+	.string "Sind Elektro-Attacken gegen\n"
+	.string "Boden-Pokémon sehr effektiv?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion5::
 	.string "Unterscheiden sich zwei gleiche\n"
-	.string "POKéMON mit gleichem Level?$"
+	.string "Pokémon mit gleichem Level?$"
 
 CinnabarIsland_Gym_Text_QuizQuestion6::
-	.string "Ist TM28 die FROSCH-ATTACKE?$"
+	.string "Ist TM28 die Frosch-Attacke?$"
 
 CinnabarIsland_Gym_Text_CorrectGoOnThrough::
-	.string "Und die Antwort ist... RICHTIG!\p"
+	.string "Und die Antwort ist... Richtig!\p"
 	.string "Geh weiter!$"
 
 CinnabarIsland_Gym_Text_SorryBadCall::
-	.string "FALSCH!\n"
+	.string "Falsch!\n"
 	.string "So ein Pech!$"
 

@@ -271,38 +271,38 @@ Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
 
 Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
 	.string "Wir haben hier eine Krisensituation!\p"
-	.string "Eine Gruppe von TEAM MAGMA ist gerade\n"
-	.string "am KLIMA-INSTITUT vorbeigelaufen!\p"
-	.string "Sie ist wohl auf dem Weg zum PYROBERG!$"
+	.string "Eine Gruppe von Team Magma ist gerade\n"
+	.string "am Klima-Institut vorbeigelaufen!\p"
+	.string "Sie ist wohl auf dem Weg zum Pyroberg!$"
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
 	.string "Was?!?\n"
 	.string "Dann lasst uns von hier verschwinden!\n"
 	.string "\p"
 	.string "Und zwar schnell! Wir müssen so\n"
-	.string "schnell wie möglich zum PYROBERG!\p"
+	.string "schnell wie möglich zum Pyroberg!\p"
 	.string "Ahahahahahaha!\n"
-	.string "TEAM MAGMA, mach dich auf was gefasst!$"
+	.string "Team Magma, mach dich auf was gefasst!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
 	.string "Danke! Vielen Dank! Nun sind wir in\n"
 	.string "Sicherheit! \p"
 	.string "Es ist vielleicht eine seltsame Art\n"
-	.string "danke zu sagen, aber dieses POKéMON\l"
+	.string "danke zu sagen, aber dieses Pokémon\l"
 	.string "ist für dich!$"
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
 	.string "Hm? You don’t seem to have any room\n"
-	.string "for this POKéMON.$"
+	.string "for this Pokémon.$"
 
 Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
-	.string "{PLAYER} erhält FORMEO!$"
+	.string "{PLAYER} erhält Formeo!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "Dieses POKéMON ändert seine Gestalt\n"
+	.string "Dieses Pokémon ändert seine Gestalt\n"
 	.string "abhängig vom jeweiligen Wetter.\p"
-	.string "Hier im INSTITUT gibt es sehr viele\n"
+	.string "Hier im Institut gibt es sehr viele\n"
 	.string "davon - du kannst es ruhig annehmen.$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
@@ -313,7 +313,7 @@ Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
 
 Route119_WeatherInstitute_2F_Text_GroudonWeather:
 	.string "Ich zeichne die Klimaveränderungen in\n"
-	.string "der HOENN-Region auf.\p"
+	.string "der Hoenn-Region auf.\p"
 	.string "Im Moment gibt es eine Dürre. Und\n"
 	.string "zwar… auf der {STR_VAR_1}.\p"
 	.string "Bedeutet das, dass auf der\n"
@@ -321,7 +321,7 @@ Route119_WeatherInstitute_2F_Text_GroudonWeather:
 
 Route119_WeatherInstitute_2F_Text_KyogreWeather:
 	.string "Ich zeichne die Klimaveränderungen in\n"
-	.string "der HOENN-Region auf.\p"
+	.string "der Hoenn-Region auf.\p"
 	.string "Im Moment gibt es starke\n"
 	.string "Niederschläge.\n"
 	.string "Und zwar… auf der {STR_VAR_1}.\p"

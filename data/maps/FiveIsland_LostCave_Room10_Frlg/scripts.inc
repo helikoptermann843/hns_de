@@ -62,8 +62,8 @@ FiveIsland_LostCave_Room10_Movement_SelphyApproach::
 	step_end
 
 FiveIsland_LostCave_Room10_Text_SelphyIntro::
-	.string "Über die POKéMON-Welt hinaus!\n"
-	.string "POKéMON NETZWERK-CENTER$"
+	.string "Über die Pokémon-Welt hinaus!\n"
+	.string "Pokémon Netzwerk-Center$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
 	.string "Oh… I was afraid that you meant to\n"

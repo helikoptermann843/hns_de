@@ -44,12 +44,12 @@ CeladonCity_Restaurant_Text_TakingBreakRightNow::
 	.string "Wir machen gerade eine Pause.$"
 
 CeladonCity_Restaurant_Text_OftenGoToDrugstore::
-	.string "Meine POKéMON sind ziemlich\n"
+	.string "Meine Pokémon sind ziemlich\n"
 	.string "schwach, deshalb gehe ich oft zur\l"
-	.string "DROGERIE.$"
+	.string "Drogerie.$"
 
 CeladonCity_Restaurant_Text_PsstBasementUnderGameCorner::
-	.string "Pst! Unter der SPIELHALLE\n"
+	.string "Pst! Unter der Spielhalle\n"
 	.string "befindet sich ein Keller!$"
 
 CeladonCity_Restaurant_Text_ManLostItAllAtSlots::
@@ -66,7 +66,7 @@ CeladonCity_Restaurant_Text_TakeThisImBusted::
 	.string "gebrauchen!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-	.string "{PLAYER} received a COIN CASE\n"
+	.string "{PLAYER} received a Coin Case\n"
 	.string "from the man.$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::

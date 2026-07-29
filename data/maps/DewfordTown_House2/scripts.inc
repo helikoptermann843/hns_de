@@ -28,7 +28,7 @@ DewfordTown_House2_EventScript_Boy::
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 	.string "Wirf dein Auge mal hierauf!\p"
-	.string "Das ist ein SEIDENSCHAL. Das ist\n"
+	.string "Das ist ein Seidenschal. Das ist\n"
 	.string "der letzte Schrei in der Mode. Yeah!\p"
 	.string "Oh, deine Augen blitzen.\n"
 	.string "Du magst meinen Stil, nicht wahr?\p"
@@ -38,21 +38,21 @@ DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 DewfordTown_House2_Text_NoRoom:
 	.string "Och, du hast ja gar keinen Platz mehr.\n"
 	.string "\p"
-	.string "Nun, hör gut zu… Diesen SCHAL musst\n"
+	.string "Nun, hör gut zu… Diesen Schal musst\n"
 	.string "du einfach haben! Ich würde alle meine\l"
 	.string "Items verkaufen, um ihn zu bekommen!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "Dieser SEIDENSCHAL steigert die Stärke\n"
-	.string "der NORMALen Attacken.\p"
-	.string "Dieser wunderbare SCHAL passt einfach\n"
-	.string "zu fast allen POKéMON!$"
+	.string "Dieser Seidenschal steigert die Stärke\n"
+	.string "der Normalen Attacken.\p"
+	.string "Dieser wunderbare Schal passt einfach\n"
+	.string "zu fast allen Pokémon!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
 	.string "Wow, du hast die beschwerliche Reise\n"
 	.string "über das Meer auf dich genommen, um\l"
-	.string "nach FAUSTAUHAVEN zu gelangen?\p"
-	.string "Bist du hier, weil du von KAMILLO\n"
+	.string "nach Faustauhaven zu gelangen?\p"
+	.string "Bist du hier, weil du von Kamillo\n"
 	.string "gehört hast?\p"
 	.string "Er ist sooo cool…\n"
 	.string "Er ist ein Idol für jeden!$"

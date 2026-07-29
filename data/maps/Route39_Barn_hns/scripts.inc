@@ -106,7 +106,7 @@ Route39_Barn_EventScript_Miltank_NeedBerries1::
 	msgbox Route39_Text_BarnGaveBerry, MSGBOX_AUTOCLOSE
 	waitse
 	msgbox Route39_Text_BarnTotallyHealthy, MSGBOX_DEFAULT
-	playfanfare MUS_OBTAIN_BADGE 
+	playfanfare MUS_OBTAIN_BADGE
 	waitfanfare
 	closemessage
 	setvar VAR_ROUTE39_BARN, 5
@@ -145,35 +145,35 @@ Route39_Text_BarnTwinMoomooIsSick:
 	.string "die es so gerne mag…$"
 
 Route39_Text_BarnTwinFeedingMoomoo:
-	.string "Wir füttern MILTANK!$"
+	.string "Wir füttern Miltank!$"
 
 Route39_Text_MoomooWeakMoo:
-	.string "MILTANK: …tank…$"
+	.string "Miltank: …tank…$"
 
 Route39_Text_BarnCryIsWeak:
 	.string "Sein Ruf ist schwach…$"
 
 Route39_Text_MoomooHappyMoo:
-	.string "MILTANK: Miiillltank!$"
+	.string "Miltank: Miiillltank!$"
 
 Route39_Text_BarnGaveBerry:
-	.string "{PLAYER} gibt MILTANK eine\n"
+	.string "{PLAYER} gibt Miltank eine\n"
 	.string "Sinelbeere!$"
 
 Route39_Text_BarnLittleHealthier:
-	.string "MILTANK geht es wieder etwas besser!$"
+	.string "Miltank geht es wieder etwas besser!$"
 
 Route39_Text_BarnQuiteHealthy:
-	.string "MILTANK ist viel gesünder geworden!$"
+	.string "Miltank ist viel gesünder geworden!$"
 
 Route39_Text_BarnTotallyHealthy:
-	.string "MILTANK ist wieder voll bei Kräften!$"
+	.string "Miltank ist wieder voll bei Kräften!$"
 
 Route39_Text_BarnNoBerries:
 	.string "{PLAYER} hat keine\n"
 	.string "Sinelbeeren dabei…$"
 
 Route39_Text_BarnRefusedBerry:
-	.string "{PLAYER} hat MILTANK keine\n"
+	.string "{PLAYER} hat Miltank keine\n"
 	.string "Sinelbeeren gegeben.\p"
 	.string "Es sieht dich ganz traurig an…$"

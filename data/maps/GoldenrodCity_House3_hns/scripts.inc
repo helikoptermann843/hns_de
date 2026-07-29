@@ -18,11 +18,11 @@ GoldenrodCity_House3_EventScript_Twin::
 	end
 
 GoldenrodHappinessRater_Text_PokefanM:
-	.string "Ständig verliere ich in Kämpfen und\n"
-	.string "meine Pokémon werden immer besiegt…\p"
-	.string "Das mag der Grund sein,\n"
-	.string "warum mich meine Pokémon nicht mögen…$"
+	.string "Ständig werden meine Pokémon bei\n"
+	.string "Kämpfen besiegt und bewusstlos…\p"
+	.string "Vielleicht ist das ja der Grund, weshalb\n"
+	.string "sie mich nicht ausstehen können.$"
 
 GoldenrodHappinessRater_Text_Twin:
-	.string "Wenn ich meinem Pokémon\n"
-	.string "ein Item gebe, dann freut es sich!$"
+	.string "Wenn ich Items auf meine Pokémon\n"
+	.string "anwende, freuen sie sich immer sehr!$"

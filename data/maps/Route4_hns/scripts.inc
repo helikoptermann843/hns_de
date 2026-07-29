@@ -3,7 +3,7 @@ Route4_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route4_OnTransition: 
+Route4_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -55,7 +55,7 @@ Route4_Text_PicnickerHope_Beaten:
 
 Route4_Text_PicnickerHope_AfterBattle:
 	.string "Ich hörte, dass man am Mondberg\n"
-	.string "PIEPI über den Weg laufen kann.\l"
+	.string "Piepi über den Weg laufen kann.\l"
 	.string "Aber wo genau finde ich sie?$"
 
 Route4_Text_PicnickerSharon_Seen:
@@ -66,10 +66,10 @@ Route4_Text_PicnickerSharon_Beaten:
 	.string "…$"
 
 Route4_Text_PicnickerSharon_AfterBattle:
-	.string "… Seufz…\n"
-	.string "Immer noch nicht genug trainiert…$"
+	.string "… … …\p"
+	.string "…Ich sollte wohl noch mehr trainieren…$"
 
 Route4_Text_MtMoonSquareSign:
-	.string "MONDBERGPLATZ\p"
+	.string "Mondbergplatz\p"
 	.string "Geh einfach die Treppe hoch$"
 

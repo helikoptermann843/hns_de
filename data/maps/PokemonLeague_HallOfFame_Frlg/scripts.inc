@@ -54,20 +54,20 @@ PokemonLeague_HallOfFame_Movement_EnterRoom::
 	step_end
 
 PokemonLeague_HallOfFame_Text_OakCongratulations::
-	.string "EICH: Herzlichen Glückwunsch,\n"
+	.string "Eich: Herzlichen Glückwunsch,\n"
 	.string "{PLAYER}!\p"
-	.string "Das hier ist die POKéMON-\n"
-	.string "RUHMESHALLE!\p"
-	.string "Alle Champions der POKéMON LIGA\n"
+	.string "Das hier ist die Pokémon-\n"
+	.string "Ruhmeshalle!\p"
+	.string "Alle Champions der Pokémon Liga\n"
 	.string "werden hier für ihre Heldentaten\l"
 	.string "ausgezeichnet!\p"
 	.string "Zusätzlich werden hier all ihre\n"
-	.string "POKéMON geehrt!\p"
+	.string "Pokémon geehrt!\p"
 	.string "{PLAYER}!\p"
 	.string "Du hast hart gekämpft und die\n"
-	.string "Herausforderungen der POKéMON LIGA\l"
+	.string "Herausforderungen der Pokémon Liga\l"
 	.string "bestanden!\p"
 	.string "{PLAYER}! Du wirst gemeinsam mit\n"
-	.string "deinen POKéMON in der RUHMESHALLE\l"
+	.string "deinen Pokémon in der Ruhmeshalle\l"
 	.string "verewigt!$"
 

@@ -235,7 +235,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
 	.string "berühmte Werke begrenzt!\p"
 	.string "In diesem Ausstellungsraum will ich…\p"
 	.string "moderne und lebendige Kunst über\n"
-	.string "POKéMON sehen, die bereit sind, in\l"
+	.string "Pokémon sehen, die bereit sind, in\l"
 	.string "ein ruhmreiches Leben zu treten!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
@@ -244,7 +244,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
 	.string "mit meinen Monologen langweilen.\p"
 	.string "Nun, du bist jung und offensichtlich\n"
 	.string "weit gereist…\p"
-	.string "Du hast bestimmt schon viele POKéMON\n"
+	.string "Du hast bestimmt schon viele Pokémon\n"
 	.string "gesehen und Bilder, die sie\n"
 	.string "darstellen. \p"
 	.string "Wenn du ein solches Bild siehst,\n"
@@ -255,13 +255,13 @@ LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
 LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
 	.string "Ich möchte diesen Ausstellungsraum mit\n"
 	.string "modernen und lebendigen Gemälden von\l"
-	.string "POKéMON füllen.$"
+	.string "Pokémon füllen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
 	.string "Dank dir konnten wir ein neues Gemälde\n"
 	.string "für unsere Kollektion erwerben!\p"
 	.string "Ich habe gehört, es stellt dein\n"
-	.string "POKéMON dar. Wirklich einzigartig!\p"
+	.string "Pokémon dar. Wirklich einzigartig!\p"
 	.string "Vielen, vielen Dank!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
@@ -274,7 +274,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
 	.string "Jedes einzelne makellos!\n"
 	.string "Keines besser als das andere!\p"
 	.string "Diese Gemälde ziehen viele neue\n"
-	.string "Besucher für unser KUNSTMUSEUM an.\p"
+	.string "Besucher für unser Kunstmuseum an.\p"
 	.string "Ehrlich, ich danke dir, {PLAYER}.\n"
 	.string "Mein Traum ist wahr geworden!$"
 
@@ -314,24 +314,24 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
 	.string "Verzierungen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-	.string "Ein Bild eines POKéMON.$"
+	.string "Ein Bild eines Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
 	.string "Ich war eine Weile nicht hier, daher\n"
 	.string "haben mich die neuen Gemälde über-\l"
 	.string "rascht.\p"
 	.string "Ich wünschte, jemand würde mein\n"
-	.string "POKéMON so wunderbar porträtieren.$"
+	.string "Pokémon so wunderbar porträtieren.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
 	.string "Nun… Hier stellen sie also Werke zum\n"
-	.string "Thema POKéMON aus.\p"
+	.string "Thema Pokémon aus.\p"
 	.string "Ich sehe schon. Die Gemälde sind\n"
 	.string "wirklich amüsant.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
 	.string "Wow, ehrlich?\n"
-	.string "Das sind Gemälde deiner POKéMON?\p"
+	.string "Das sind Gemälde deiner Pokémon?\p"
 	.string "Ist das nicht die absolute Freude für\n"
-	.string "einen TRAINER?$"
+	.string "einen Trainer?$"
 

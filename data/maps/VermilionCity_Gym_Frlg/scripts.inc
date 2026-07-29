@@ -303,23 +303,23 @@ VermilionCity_Gym_Text_LtSurgePostBattle::
 	.string "Die Elektrizität ist enorm\n"
 	.string "kraftvoll!\p"
 	.string "Doch sie hat keine Wirkung auf\n"
-	.string "BODEN-POKéMON!$"
+	.string "Boden-Pokémon!$"
 
 VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
-	.string "Der DONNERORDEN erhöht die\n"
-	.string "INITIATIVE deiner POKéMON!\p"
-	.string "Außerdem können deine POKéMON nun\n"
-	.string "jederzeit FLIEGEN einsetzen!\p"
+	.string "Der Donnerorden erhöht die\n"
+	.string "Initiative deiner Pokémon!\p"
+	.string "Außerdem können deine Pokémon nun\n"
+	.string "jederzeit Fliegen einsetzen!\p"
 	.string "Du bist ein besonderes Kind!\n"
 	.string "Nimm das hier!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
 	.string "{PLAYER} received TM34\n"
-	.string "from LT. SURGE.$"
+	.string "from Lt. Surge.$"
 
 VermilionCity_Gym_Text_ExplainTM34::
-	.string "TM34 ist SCHOCKWELLE!\p"
-	.string "ELEKTRO-POKéMON können diese\n"
+	.string "TM34 ist Schockwelle!\p"
+	.string "Elektro-Pokémon können diese\n"
 	.string "Attacke erlernen!$"
 
 VermilionCity_Gym_Text_MakeRoomInYourBag::
@@ -373,15 +373,15 @@ VermilionCity_Gym_Text_DwaynePostBattle::
 VermilionCity_Gym_Text_GymGuyAdvice::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
-	.string "MAJOR BOB hat einen Spitznamen.\n"
-	.string "Man nennt ihn den BLITZSCHNELLEN\l"
-	.string "ARENALEITER!\p"
-	.string "Er ist ein Experte für ELEKTRO-\n"
-	.string "POKéMON!\p"
-	.string "FLUG- und WASSER-POKéMON sind\n"
+	.string "Major Bob hat einen Spitznamen.\n"
+	.string "Man nennt ihn den Blitzschnellen\l"
+	.string "Arenaleiter!\p"
+	.string "Er ist ein Experte für Elektro-\n"
+	.string "Pokémon!\p"
+	.string "Flug- und Wasser-Pokémon sind\n"
 	.string "ihm hilflos ausgeliefert! Er nutzt\l"
-	.string "auch gern PARALYSE!\p"
-	.string "MAJOR BOB ist sehr vorsichtig!\p"
+	.string "auch gern Paralyse!\p"
+	.string "Major Bob ist sehr vorsichtig!\p"
 	.string "Du musst ein Rätsel lösen, um ihn\n"
 	.string "zu treffen!$"
 
@@ -390,15 +390,15 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 	.string "Ein elektrisierender Kampf!$"
 
 VermilionCity_Gym_Text_GymStatue::
-	.string "ORANIA POKéMON-ARENA\n"
-	.string "LEITUNG: MAJOR BOB\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Orania Pokémon-Arena\n"
+	.string "Leitung: Major Bob\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-	.string "ORANIA POKéMON-ARENA\n"
-	.string "LEITUNG: MAJOR BOB\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Orania Pokémon-Arena\n"
+	.string "Leitung: Major Bob\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::

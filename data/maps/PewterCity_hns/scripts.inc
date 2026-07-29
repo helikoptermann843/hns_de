@@ -64,7 +64,7 @@ PewterCity_Text_CooltrainerF:
 	.string "Gestein-Pokémon!$"
 
 PewterCity_Text_BugCatcher:
-	.string "Nachts spielen PIEPI beim Mondberg.\n"
+	.string "Nachts spielen Piepi beim Mondberg.\n"
 	.string "Aber scheinbar nicht in jeder Nacht!$"
 
 PewterCity_Text_Gramps:
@@ -104,7 +104,7 @@ PewterCity_EventScript_WelcomeSign::
 	end
 
 PewterCity_Text_Sign:
-	.string "MARMORIA CITY Eine Steingraue Stadt$"
+	.string "Marmoria City Eine Steingraue Stadt$"
 
 PewterCity_Text_GymSign:
 	.string "Pokémon-Arena von Marmoria City\n"
@@ -113,14 +113,14 @@ PewterCity_Text_GymSign:
 
 PewterCity_Text_MuseumSign:
 	.string "Hier ist eine Nachricht…\p"
-	.string "MARMORIAS MUSEUM\n"
-	.string "DER WISSENSCHAFT ist wegen\l"
+	.string "Marmorias Museum\n"
+	.string "Der Wissenschaft ist wegen\l"
 	.string "Renovierungsarbeiten geschlossen…$"
 
 PewterCity_Text_MtMoonGiftShopSign:
 	.string "Hier ist eine Nachricht…\p"
-	.string "SOUVENIRLADEN AM\n"
-	.string "MONDBERG Jetzt geöffnet!$"
+	.string "Souvenirladen am\n"
+	.string "Mondberg Jetzt geöffnet!$"
 
 PewterCity_Text_WelcomeSign:
 	.string "Willkommen in Marmoria City!$"

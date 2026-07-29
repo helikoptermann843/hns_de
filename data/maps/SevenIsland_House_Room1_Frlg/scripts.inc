@@ -174,7 +174,7 @@ SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
 	.string "Ich stelle momentan nichts mehr\n"
 	.string "dar, aber als ich jünger war…\p"
 	.string "Ich bin überall hingeflogen und\n"
-	.string "habe jeden TRAINER heraus-\l"
+	.string "habe jeden Trainer heraus-\l"
 	.string "gefordert.\l"
 	.string "Jetzt besteht meine einzige\l"
 	.string "Lebensfreude darin, mich an\l"
@@ -190,7 +190,7 @@ SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
 	.string "Ich will dir etwas erzählen. Im\n"
 	.string "Keller gibt es ein geheimes\l"
 	.string "Zimmer.\l"
-	.string "Ein TRAINER namens {STR_VAR_1}\l"
+	.string "Ein Trainer namens {STR_VAR_1}\l"
 	.string "wartet dort.\p"
 	.string "Du bist bestimmt gekommen, um\n"
 	.string "{STR_VAR_1} herauszufordern, oder?$"
@@ -213,7 +213,7 @@ SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
 	.string "Dieses geheime Zimmer ist nicht\n"
 	.string "sehr stabil gebaut.\p"
 	.string "Können wir uns auf den Einsatz\n"
-	.string "von maximal drei POKéMON\l"
+	.string "von maximal drei Pokémon\l"
 	.string "beschränken?$"
 
 SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::

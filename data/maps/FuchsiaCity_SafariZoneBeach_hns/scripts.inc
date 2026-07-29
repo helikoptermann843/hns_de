@@ -62,15 +62,15 @@ SafariZoneFuchsia_Approved::
 
 SafariZoneFuchsia_Text_Attendant1:
 	.string "Areal benötigt\n"
-	.string "SAFARI LEVEL 2.$"
+	.string "Safari Level 2.$"
 
 SafariZoneFuchsia_Text_Attendant2:
 	.string "Areal benötigt\n"
-	.string "SAFARI LEVEL 3.$"
+	.string "Safari Level 3.$"
 
 SafariZoneFuchsia_Text_Attendant3:
 	.string "Areal benötigt\n"
-	.string "SAFARI LEVEL 4.$"
+	.string "Safari Level 4.$"
 
 SafariZoneFuchsia_Text_Approved:
 	.string "Geh ruhig durch.$"

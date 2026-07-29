@@ -129,13 +129,13 @@ BattleFacility_TrainerBattle_PlaceholderText_hns:
 	.string "Dies ist ein Beispiel.$"
 
 gText_BattlePyramidConfirmRest_hns::
-	.string "Dein Abenteuer in der KAMPFPYRAMIDE\n"
+	.string "Dein Abenteuer in der Kampfpyramide\n"
 	.string "wird gespeichert, damit du es\l"
 	.string "unterbrechen kannst. Einverstanden?$"
 
 gText_BattlePyramidConfirmRetire_hns::
 	.string "Möchtest du das Abenteuer in der\n"
-	.string "KAMPFPYRAMIDE wirklich unterbrechen?$"
+	.string "Kampfpyramide wirklich unterbrechen?$"
 
 BattlePyramid_Text_ExitHintUp1_hns::
 	.string "Der Ausgang dieser Ebene\n"
@@ -143,15 +143,15 @@ BattlePyramid_Text_ExitHintUp1_hns::
 
 BattlePyramid_Text_ExitHintLeft1_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight1_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown1_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp2_hns::
 	.string "Der Ausgang dieser Ebene\n"
@@ -159,15 +159,15 @@ BattlePyramid_Text_ExitHintUp2_hns::
 
 BattlePyramid_Text_ExitHintLeft2_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight2_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown2_hns::
 	.string "Der Ausgang dieser Ebene\n"
-	.string "befindet sich: {UP_ARROW}$"
+	.string "befindet sich: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp3_hns::
 	.string "Der Ausgang befindet sich\n"
@@ -175,15 +175,15 @@ BattlePyramid_Text_ExitHintUp3_hns::
 
 BattlePyramid_Text_ExitHintLeft3_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight3_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown3_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp4_hns::
 	.string "Der Ausgang befindet sich irgendwo\n"
@@ -191,15 +191,15 @@ BattlePyramid_Text_ExitHintUp4_hns::
 
 BattlePyramid_Text_ExitHintLeft4_hns::
 	.string "Der Ausgang befindet sich irgendwo\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight4_hns::
 	.string "Der Ausgang befindet sich irgendwo\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown4_hns::
 	.string "Der Ausgang befindet sich irgendwo\n"
-	.string "in dieser Richtung: {UP_ARROW}$"
+	.string "in dieser Richtung: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp5_hns::
 	.string "Der Ausgang?\n"
@@ -207,15 +207,15 @@ BattlePyramid_Text_ExitHintUp5_hns::
 
 BattlePyramid_Text_ExitHintLeft5_hns::
 	.string "Der Ausgang?\n"
-	.string "Da entlang: {UP_ARROW}$"
+	.string "Da entlang: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight5_hns::
 	.string "Der Ausgang?\n"
-	.string "Da entlang: {UP_ARROW}$"
+	.string "Da entlang: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown5_hns::
 	.string "Der Ausgang?\n"
-	.string "Da entlang: {UP_ARROW}$"
+	.string "Da entlang: {DOWN_ARROW}$"
 
 BattlePyramid_Text_ExitHintUp6_hns::
 	.string "Der Ausgang befindet sich\n"
@@ -223,15 +223,15 @@ BattlePyramid_Text_ExitHintUp6_hns::
 
 BattlePyramid_Text_ExitHintLeft6_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "dort drüben: {UP_ARROW}$"
+	.string "dort drüben: {LEFT_ARROW}$"
 
 BattlePyramid_Text_ExitHintRight6_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "dort drüben: {UP_ARROW}$"
+	.string "dort drüben: {RIGHT_ARROW}$"
 
 BattlePyramid_Text_ExitHintDown6_hns::
 	.string "Der Ausgang befindet sich\n"
-	.string "dort drüben: {UP_ARROW}$"
+	.string "dort drüben: {DOWN_ARROW}$"
 
 BattlePyramid_Text_EightItemsRemaining1_hns::
 	.string "Suchst du nach Items?\p"
@@ -420,39 +420,39 @@ BattlePyramid_Text_ZeroItemsRemaining4_hns::
 	.string "Items mehr versteckt zu sein.$"
 
 BattlePyramid_Text_EightItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… acht Items liegen.$"
 
 BattlePyramid_Text_SevenItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… sieben Items liegen.$"
 
 BattlePyramid_Text_SixItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… sechs Items liegen.$"
 
 BattlePyramid_Text_FiveItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… fünf Items liegen.$"
 
 BattlePyramid_Text_FourItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… vier Items liegen.$"
 
 BattlePyramid_Text_ThreeItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… drei Items liegen.$"
 
 BattlePyramid_Text_TwoItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… zwei Items liegen.$"
 
 BattlePyramid_Text_OneItemRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "soll… ein Item liegen.$"
 
 BattlePyramid_Text_ZeroItemsRemaining5_hns::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "soll es keine Items geben…$"
 
 BattlePyramid_Text_EightItemsRemaining6_hns::
@@ -503,37 +503,37 @@ BattlePyramid_Text_ZeroItemsRemaining6_hns::
 BattlePyramid_Text_SevenTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch sieben\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_SixTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch sechs\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch fünf\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_FourTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch vier\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch drei\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch zwei\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_OneTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es wartet noch ein\n"
-	.string "weiterer starker TRAINER auf dich!$"
+	.string "weiterer starker Trainer auf dich!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1_hns::
 	.string "Du warst wirklich unglaublich gut!\p"
@@ -543,109 +543,109 @@ BattlePyramid_Text_ZeroTrainersRemaining1_hns::
 BattlePyramid_Text_SevenTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch sieben weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_SixTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch sechs weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_FiveTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch fünf weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_FourTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch vier weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch drei weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_TwoTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch zwei weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_OneTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch einen weiteren\n"
-	.string "TRAINER. Der wird dich zu Fall bringen!$"
+	.string "Trainer. Der wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2_hns::
 	.string "Das ist doch einfach ärgerlich!\p"
-	.string "Aber es gibt keine weiteren TRAINER!\n"
+	.string "Aber es gibt keine weiteren Trainer!\n"
 	.string "Keiner wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_SevenTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch sieben weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch sechs weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch fünf weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch vier weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch drei weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch zwei weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier ist noch ein weiterer\n"
-	.string "TRAINER. Kannst du den auch besiegen?$"
+	.string "Trainer. Kannst du den auch besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3_hns::
 	.string "Wow! Das war beeindruckend!\p"
-	.string "Du hast alle TRAINER auf dieser\n"
+	.string "Du hast alle Trainer auf dieser\n"
 	.string "Ebene besiegt.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die sieben TRAINER\n"
+	.string "Vielleicht kannst du die sieben Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die sechs TRAINER\n"
+	.string "Vielleicht kannst du die sechs Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die fünf TRAINER\n"
+	.string "Vielleicht kannst du die fünf Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die vier TRAINER\n"
+	.string "Vielleicht kannst du die vier Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die drei TRAINER\n"
+	.string "Vielleicht kannst du die drei Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining4_hns::
-	.string "Vielleicht kannst du die zwei TRAINER\n"
+	.string "Vielleicht kannst du die zwei Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining4_hns::
-	.string "Vielleicht kannst du den TRAINER\n"
+	.string "Vielleicht kannst du den Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4_hns::
@@ -654,64 +654,64 @@ BattlePyramid_Text_ZeroTrainersRemaining4_hns::
 
 BattlePyramid_Text_SevenTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die sieben TRAINER hier zu besiegen.$"
+	.string "die sieben Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_SixTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die sechs TRAINER hier zu besiegen.$"
+	.string "die sechs Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_FiveTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die fünf TRAINER hier zu besiegen.$"
+	.string "die fünf Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_FourTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die vier TRAINER hier zu besiegen.$"
+	.string "die vier Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die drei TRAINER hier zu besiegen.$"
+	.string "die drei Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_TwoTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die zwei TRAINER hier zu besiegen.$"
+	.string "die zwei Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_OneTrainersRemaining5_hns::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "den TRAINER hier zu besiegen.$"
+	.string "den Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5_hns::
 	.string "Deine Fähigkeiten sind unerreichbar!\p"
-	.string "Es sind keine TRAINER mehr vorhanden,\n"
+	.string "Es sind keine Trainer mehr vorhanden,\n"
 	.string "gegen die du antreten könntest.$"
 
 BattlePyramid_Text_SevenTrainersRemaining6_hns::
 	.string "Schaffst du es, die sieben\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining6_hns::
 	.string "Schaffst du es, die sechs\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining6_hns::
 	.string "Schaffst du es, die fünf\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining6_hns::
 	.string "Schaffst du es, die vier\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6_hns::
 	.string "Schaffst du es, die drei\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining6_hns::
 	.string "Schaffst du es, die zwei\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining6_hns::
 	.string "Schaffst du es, den\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6_hns::
 	.string "Es ist niemand mehr da, dem du dein\n"

@@ -59,16 +59,16 @@ Route10_PowerPlantBackRoom_EventScript_Engineer::
 	end
 
 Route10_PowerPlantBackRoom_Text_ManagerWhoWouldRuinMyGenerator:
-	.string "DIREKTOR: Ich, ich\n"
+	.string "Direktor: Ich, ich\n"
 	.string "werde ihm nie verzeihen!\p"
 	.string "Wer wagt es,\n"
 	.string "meinen Generator zu demolieren?\p"
 	.string "Ich habe so lange daran gearbeitet!\p"
 	.string "Wenn ich den erwische, dann\n"
-	.string "lernt er meine BLITZKANONE kennen!$"
+	.string "lernt er meine Blitzkanone kennen!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
-	.string "DIREKTOR: Das kann\n"
+	.string "Direktor: Das kann\n"
 	.string "ich ihm nicht verzeihen!\p"
 	.string "Der Schurke kann weinen und sich\p"
 	.string "entschuldigen, ich\n"
@@ -76,8 +76,8 @@ Route10_PowerPlantBackRoom_Text_ManagerIWontForgiveCulprit:
 	.string "Uahahaha!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerThatsThePart:
-	.string "MANAGER: Ah! Ja!\p"
-	.string "Das ist das fehlende TEIL von\n"
+	.string "Manager: Ah! Ja!\p"
+	.string "Das ist das fehlende Teil von\n"
 	.string "meinem geliebten Generator!\p"
 	.string "Du hast es gefunden?$"
 
@@ -87,14 +87,14 @@ Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 	.string "erkenntlich zu zeigen!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
-	.string "DIREKTOR: TM25\n"
-	.string "enthält BLITZKANONE. Eine sehr\p"
+	.string "Direktor: TM25\n"
+	.string "enthält Blitzkanone. Eine sehr\p"
 	.string "starke Attacke! Sie ist nicht sehr\n"
 	.string "präzise, aber du kannst jemanden\l"
 	.string "damit ordentlich schmoren!$"
 
 Route10_PowerPlantBackRoom_Text_ManagerMyBelovedGenerator:
-	.string "DIREKTOR: Mein geliebter Generator!\p"
+	.string "Direktor: Mein geliebter Generator!\p"
 	.string "Produziere weiter viel Energie!$"
 
 Route10_PowerPlantBackRoom_Text_Engineer:

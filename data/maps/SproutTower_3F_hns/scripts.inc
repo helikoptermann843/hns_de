@@ -3,7 +3,7 @@ SproutTower_3F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-SproutTower_3F_OnTransition: 
+SproutTower_3F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -46,7 +46,7 @@ SproutTower_3F_EventScript_TriggerSceneLeft::
 	msgbox SproutTower_Text_ElderLecturesRival, MSGBOX_DEFAULT
 	closemessage
 	playse SE_PIN
-	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark
 	delay 60
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverLeft
 	waitmovement 0
@@ -76,7 +76,7 @@ SproutTower_3F_EventScript_TriggerSceneRight::
 	msgbox SproutTower_Text_ElderLecturesRival, MSGBOX_DEFAULT
 	closemessage
 	playse SE_PIN
-	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark
 	delay 60
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverRight
 	waitmovement 0
@@ -159,7 +159,7 @@ SproutTower_3F_Movement_EscapeRope:
 	step_end
 
 SproutTower_Text_ElderLecturesRival:
-	.string "WEISER: Du bist wirklich\n"
+	.string "Weiser: Du bist wirklich\n"
 	.string "ein begabter Trainer.\p"
 	.string "Wie abgemacht, bekommst du die VM.\p"
 	.string "Eines gebe ich dir noch mit:\p"
@@ -169,7 +169,7 @@ SproutTower_Text_ElderLecturesRival:
 
 SproutTower_Text_RivalOnlyCaresStrong:
 	.string "… …Hmpf!\p"
-	.string "Er behauptet, ein WEISER zu sein.\p"
+	.string "Er behauptet, ein Weiser zu sein.\p"
 	.string "Aber er ist schwach.\p"
 	.string "Das muss noch geklärt werden.\p"
 	.string "Ich würde nie gegen\n"
@@ -187,7 +187,7 @@ SproutTower_Text_RivalUsedEscapeRope:
 SproutTower_Text_SageLi_Seen:
 	.string "Sehr gut. Du hast dich\n"
 	.string "wacker geschlagen!\p"
-	.string "Hier im KNOFENSA-Turm erarbeiten sich\n"
+	.string "Hier im Knofensa-Turm erarbeiten sich\n"
 	.string "Pokémon und Menschen eine strahlende\l"
 	.string "gemeinsame Zukunft oder suchen im\l"
 	.string "Training Bestätigung.\p"
@@ -210,7 +210,7 @@ SproutTower_Text_SageLi_FlashExplain:
 	.string "dunkelsten Orte.\p"
 	.string "Um es außerhalb des Kampfes\n"
 	.string "zu nutzen, brauchst du den\l"
-	.string "Orden aus der VIOLA Arena.$"
+	.string "Orden aus der Viola Arena.$"
 
 SproutTower_Text_SageLi_AfterBattle:
 	.string "Möge deine Reise einmal\n"
@@ -257,4 +257,4 @@ SproutTower_Text_SageNeal_AfterBattle:
 
 SproutTower_Text_3F_Painting:
 	.string "Hier hat jemand mit kräftigem Strich\n"
-	.string "ein KNOFENSA gezeichnet…$"
+	.string "ein Knofensa gezeichnet…$"

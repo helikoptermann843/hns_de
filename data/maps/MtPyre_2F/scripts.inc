@@ -44,7 +44,7 @@ MtPyre_2F_EventScript_Zander::
 
 MtPyre_2F_Text_MemoriesOfSkitty:
 	.string "Die Erinnerungen an meinen Liebling\n"
-	.string "ENECO… Ich könnte weinen…$"
+	.string "Eneco… Ich könnte weinen…$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
 	.string "Au au au au… Der Boden hat an einigen\n"
@@ -84,8 +84,8 @@ MtPyre_2F_Text_LukePostBattle:
 	.string "werden diese Mutprobe bestehen!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LEIF: Wenn du es mit mir aufnehmen\n"
-	.string "willst, brauchst du mehr POKéMON.\p"
+	.string "Leif: Wenn du es mit mir aufnehmen\n"
+	.string "willst, brauchst du mehr Pokémon.\p"
 	.string "Hast du die nicht, kann ich meiner An-\n"
 	.string "gebeteten nicht beweisen, wie cool ich\l"
 	.string "bin!$"
@@ -107,12 +107,12 @@ MtPyre_2F_Text_DezPostBattle:
 	.string "daher stört uns eine Niederlage nicht.$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "INA: Wenn du gegen uns antreten\n"
+	.string "Ina: Wenn du gegen uns antreten\n"
 	.string "willst,\n"
-	.string "solltest du mindestens zwei POKéMON\l"
+	.string "solltest du mindestens zwei Pokémon\l"
 	.string "besitzen.\p"
 	.string "Mein Freund ist stark. Daher wirst du\n"
-	.string "mit einem POKéMON nichts ausrichten.$"
+	.string "mit einem Pokémon nichts ausrichten.$"
 
 MtPyre_2F_Text_LeahIntro:
 	.string "Dein Anblick ist echt ungewöhnlich…\n"

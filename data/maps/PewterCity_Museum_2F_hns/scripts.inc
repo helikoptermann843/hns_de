@@ -33,7 +33,7 @@ PewterCity_Museum_2F_Text_Nerd:
 	.string "entfernt…$"
 
 PewterCity_Museum_2F_Text_AskedDaddyToCatchPikachu::
-    .string "Ich will ein PIKACHU!\n"
+    .string "Ich will ein Pikachu!\n"
     .string "Es ist so süß!\p"
     .string "Ich frag Vati mir eines zu fangen!$"
 

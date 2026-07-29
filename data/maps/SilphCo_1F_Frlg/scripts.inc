@@ -20,6 +20,6 @@ SilphCo_1F_Text_WelcomePresidentInBoardroom::
 	.string "aber das ist es wert!$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "Waren die Fossilien vom MONDBERG\n"
+	.string "Waren die Fossilien vom Mondberg\n"
 	.string "nicht einmalig?$"
 

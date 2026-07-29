@@ -23,11 +23,11 @@ DragonsDen_Text_Clair:
 	.string "{PLAYER}… du bist also hier.\p"
 	.string "Wenn du denkst, dass du mit mir\n"
 	.string "mithalten kannst, komm zum\l"
-	.string "Kampf DOJO in Saffronia-City.$"
+	.string "Kampf Dojo in Saffronia-City.$"
 
 DragonsDen_Cavern_Trigger_ClairLeft::
 	lock
-	setflag FLAG_TEMP_HIDE_FOLLOWER 
+	setflag FLAG_TEMP_HIDE_FOLLOWER
 	playse SE_PIN
 	applymovement2 LOCALID_DRAGONSDEN2_CLAIR, Common_Movement_ExclamationMark
 	delay 60
@@ -45,7 +45,7 @@ DragonsDen_Cavern_Trigger_ClairLeft::
 	end
 
 DragonsDen_Cavern_Trigger_ClairMid::
-	lock 
+	lock
 	playse SE_PIN
 	applymovement2 LOCALID_DRAGONSDEN2_CLAIR, Common_Movement_ExclamationMark
 	delay 60
@@ -61,7 +61,7 @@ DragonsDen_Cavern_Trigger_ClairMid::
 	end
 
 DragonsDen_Cavern_Trigger_ClairRight::
-	lock 
+	lock
 	playse SE_PIN
 	applymovement2 LOCALID_DRAGONSDEN2_CLAIR, Common_Movement_ExclamationMark
 	delay 60
@@ -134,7 +134,7 @@ DragonsDen_Cavern_Movement_ClairLeaveRight:
 	step_end
 
 DragonsDen_Cavern_Text_ClairGiveDragonclaw:
-	.string "Sandra: WARTE!\p"
+	.string "Sandra: Warte!\p"
 	.string "Es tut mir leid.\n"
 	.string "Hier, nimm das als Entschuldigung.$"
 
@@ -147,18 +147,18 @@ DragonsDen_Cavern_Text_ClairDescribeDragonclaw:
 
 DragonsDen_Cavern_Text_ClairWhatsTheMatter:
 	.string "Was ist los? Gehst du nicht\n"
-	.string "weiter zur Pokémon-LIGA?\p"
-	.string "Wenn du CHAMPION werden willst,\n"
+	.string "weiter zur Pokémon-Liga?\p"
+	.string "Wenn du Champion werden willst,\n"
 	.string "kannst du jeden Arenaleiter\l"
 	.string "noch einmal herausfordern.\p"
-	.string "Geh zur Pokémon-LIGA.\p"
+	.string "Geh zur Pokémon-Liga.\p"
 	.string "Weißt du, wie du dorthin kommst?\p"
 	.string "Von hier aus nach Neuborkia.\p"
 	.string "Dann nach Osten surfen zur\n"
-	.string "Pokémon-LIGA.\p"
+	.string "Pokémon-Liga.\p"
 	.string "Der Weg dorthin ist sehr hart.\p"
 	.string "Verlier bloß nicht in der Pokémon-\n"
-	.string "LIGA!\p"
+	.string "Liga!\p"
 	.string "Wenn doch, fühle ich mich noch\n"
 	.string "schlechter, weil ich gegen dich\l"
 	.string "verloren habe!\p"
@@ -180,7 +180,7 @@ DragonsDen_Cavern_EventScript_TwinLea::
 	msgbox DragonsDen_Cavern_Text_TwinsLeaandPia1After, MSGBOX_DEFAULT
 	release
 	end
-	
+
 DragonsDen_Cavern_EventScript_TwinPia::
 	trainerbattle_double TRAINER_LEA_AND_PIA_HNS, DragonsDen_Cavern_Text_TwinsLeaandPia2Seen, DragonsDen_Cavern_Text_TwinsLeaandPia2Beaten, Route104_Text_GinaNotEnoughMons
 	special GetPlayerBigGuyGirlString
@@ -201,10 +201,10 @@ DragonsDen_Cavern_EventScript_Item_PP_Max::
 
 
 DragonsDen_Cavern_Text_DragonShrineSign:
-	.string "DRACHEN-SCHREIN\p"
+	.string "Drachen-Schrein\p"
 	.string "Ein Schrein zu Ehren der Drachen-\n"
 	.string "Pokémon\p"
-	.string "die einst in der Drachen-HÖHLE\n"
+	.string "die einst in der Drachen-Höhle\n"
 	.string "lebten.$"
 
 DragonsDen_Cavern_Text_SilverTraining1:
@@ -223,47 +223,48 @@ DragonsDen_Cavern_Text_SilverTraining2:
 	.string "Lern, mir aus dem Weg zu gehen…$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinSeen:
-	.string "Du! Wie wagst du es,\n"
-	.string "hier ungebeten hereinzuplatzen!$"
+	.string "Du! Was hast du hier zu suchen? Hier\n"
+	.string "darf nicht einfach jeder rein!$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinBeaten:
-	.string "S-stark!$"
+	.string "Uff! Ich bin bedient!$"
 
 DragonsDen_Cavern_Text_CooltrainermDarinAfter:
-	.string "Der SCHREIN hier gehört dem\n"
-	.string "MEISTER unseres Drachen-Clans.\p"
+	.string "Der Schrein hier gehört dem\n"
+	.string "Meister unseres Drachen-Clans.\p"
 	.string "Du darfst nicht einfach hineingehen!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraSeen:
-	.string "Du solltest hier nicht sein!$"
+	.string "He! Hier haben einfache Leute keinen\n"
+	.string "Zutritt!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraBeaten:
-	.string "Oh nein, ich habe verloren!$"
+	.string "Mist, verloren!$"
 
 DragonsDen_Cavern_Text_CooltrainerfCaraAfter:
 	.string "Bald bekomme ich die Erlaubnis\n"
-	.string "vom MEISTER, Drachen zu nutzen.\p"
+	.string "vom Meister, Drachen zu nutzen.\p"
 	.string "Dann werde ich ein bewunderter\n"
 	.string "Drachen-Trainer und erhalte die\l"
-	.string "Zustimmung unseres MEISTERS.$"
+	.string "Zustimmung unseres Meisters.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1Seen:
 	.string "Da ist ein Fremder, den wir\n"
 	.string "nicht kennen.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1Beaten:
-	.string "Autsch!$"
+	.string "Jana: Aua! Das tat weh!$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia1After:
-	.string "Es war, als müssten wir gegen\n"
+	.string "Jana: Es kam mir vor, als würde ich gegen\n"
 	.string "Siegfried kämpfen.$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2Seen:
-	.string "Wer seid ihr?$"
+	.string "Wer… bist du?$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2Beaten:
-	.string "Fiesling.$"
+	.string "Nana: Du Fiesling!$"
 
 DragonsDen_Cavern_Text_TwinsLeaandPia2After:
-	.string "Wir werden es dem MEISTER sagen.\p"
-	.string "Er wird wütend auf dich sein.$"
+	.string "Nana: Das verraten wir dem Meister! Der\n"
+	.string "versohlt dir den Hosenboden!$"

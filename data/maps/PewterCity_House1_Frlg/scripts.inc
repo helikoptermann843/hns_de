@@ -31,17 +31,17 @@ PewterCity_House1_EventScript_DoNidoranCry::
 	return
 
 PewterCity_House1_Text_Nidoran::
-	.string "NIDORAN♂: NIDORAN!$"
+	.string "Nidoran♂: Nidoran!$"
 
 PewterCity_House1_Text_NidoranSit::
-	.string "NIDORAN, sitz!$"
+	.string "Nidoran, sitz!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
 	.string "Wieso?\n"
 	.string "Wieso habe ich verloren?\p"
-	.string "Ich habe meine POKéMON doch sehr\n"
+	.string "Ich habe meine Pokémon doch sehr\n"
 	.string "sorgfältig aufgezogen...\p"
 	.string "Verdammt! Du bist der neue\n"
-	.string "CHAMPION der POKéMON LIGA!\p"
+	.string "Champion der Pokémon Liga!\p"
 	.string "Aber ich gönne dir das nicht!$"
 

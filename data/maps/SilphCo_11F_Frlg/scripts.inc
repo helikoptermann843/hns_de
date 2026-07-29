@@ -133,8 +133,8 @@ SilphCo_11F_EventScript_Grunt2::
 	end
 
 SilphCo_11F_Text_ThanksForSavingMeDearBoy::
-	.string "PRÄSIDENT: Ich danke dir für die\n"
-	.string "Rettung der SILPH CO.\p"
+	.string "Präsident: Ich danke dir für die\n"
+	.string "Rettung der Silph Co.\p"
 	.string "Ich werde niemals vergessen, wie\n"
 	.string "du uns trotz größter Gefahren\l"
 	.string "tapfer gerettet hast!\p"
@@ -146,8 +146,8 @@ SilphCo_11F_Text_ThanksForSavingMeDearBoy::
 	.string "etwas für dich!$"
 
 SilphCo_11F_Text_ThanksForSavingMeDearGirl::
-	.string "PRÄSIDENT: Ich danke dir für die\n"
-	.string "Rettung der SILPH CO.\p"
+	.string "Präsident: Ich danke dir für die\n"
+	.string "Rettung der Silph Co.\p"
 	.string "Ich werde niemals vergessen, wie\n"
 	.string "du uns trotz größter Gefahren\l"
 	.string "tapfer gerettet hast!\p"
@@ -159,16 +159,16 @@ SilphCo_11F_Text_ThanksForSavingMeDearGirl::
 	.string "etwas für dich!$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-	.string "{PLAYER} obtained a MASTER BALL\n"
-	.string "from the PRESIDENT!$"
+	.string "{PLAYER} obtained a Master Ball\n"
+	.string "from the President!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
-	.string "PRÄSIDENT: Man kann das nirgends\n"
+	.string "Präsident: Man kann das nirgends\n"
 	.string "kaufen!\p"
 	.string "Es ist der streng geheime Prototyp\n"
-	.string "des MEISTERBALLs!\p"
-	.string "Du kannst mit ihm JEDES POKéMON\n"
-	.string "BEIM 1. VERSUCH einfangen!\p"
+	.string "des Meisterballs!\p"
+	.string "Du kannst mit ihm jedes Pokémon\n"
+	.string "Beim 1. Versuch einfangen!\p"
 	.string "Wäge jedoch sorgfältig ab, wann du\n"
 	.string "ihn einsetzt!$"
 
@@ -176,7 +176,7 @@ SilphCo_11F_Text_YouHaveNoRoomForThis::
 	.string "Du hast keinen Platz mehr!$"
 
 SilphCo_11F_Text_ThanksForRescuingUs::
-	.string "SEKRETÄRIN: Wir danken dir für\n"
+	.string "Sekretärin: Wir danken dir für\n"
 	.string "deinen Heldenmut!\p"
 	.string "Du hast uns alle gerettet!\n"
 	.string "Danke!$"
@@ -185,7 +185,7 @@ SilphCo_11F_Text_GiovanniIntro::
 	.string "Ah, {PLAYER}!\n"
 	.string "So trifft man sich wieder!\p"
 	.string "Ich führe gerade äußerst wichtige\n"
-	.string "Verhandlungen mit dem PRÄSIDENTEN.\p"
+	.string "Verhandlungen mit dem Präsidenten.\p"
 	.string "Halte dich ein für allemal aus den\n"
 	.string "Geschäften Erwachsener heraus!\p"
 	.string "Oder du lernst eine Welt voller\n"
@@ -231,10 +231,10 @@ SilphCo_11F_Text_Grunt1PostBattle::
 	.string "werden dich fertig machen!$"
 
 SilphCo_11F_Text_MonitorHasMonsOnIt::
-	.string "Auf dem Monitor sind POKéMON zu\n"
+	.string "Auf dem Monitor sind Pokémon zu\n"
 	.string "sehen!$"
 
 SilphCo_11F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "10 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "10 Og$"
 

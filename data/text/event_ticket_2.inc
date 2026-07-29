@@ -9,7 +9,7 @@ EventTicket_Text_OldSeaMapTooFar:
 	.string "glaube nicht, dass ich dir helfen kann…$"
 
 EventTicket_Text_BrineyHoldOnASecond:
-	.string "BRACK: Warte einen Moment!\p"
+	.string "Brack: Warte einen Moment!\p"
 	.string "Warum sollte ich jemandem Hilfe\n"
 	.string "verweigern, dem ich so viel zu\l"
 	.string "verdanken habe?$"
@@ -20,7 +20,7 @@ EventTicket_Text_BrineyLetsSail:
 	.string "hätte dich beinahe im Stich gelassen.\p"
 	.string "Nun, lass mich das wieder hinbiegen.\p"
 	.string "Wir setzen sofort Segel!\p"
-	.string "Schauen wir auf die ALTE KARTE.\n"
+	.string "Schauen wir auf die alte Karte.\n"
 	.string "Wo wir die Insel finden.$"
 
 EventTicket_Text_OddTicketGetOnBoard:
@@ -34,14 +34,14 @@ EventTicket_Text_OddTicketGetOnBoard:
 	.string "Dann komm an Bord, Kindchen!$"
 
 FarawayIsland_Entrance_Text_SailorReturn:
-	.string "KAPITÄN BRACK ist manchmal\n"
+	.string "Kapitän Brack ist manchmal\n"
 	.string "unberechenbar…\p"
-	.string "Möchtest du zurück nach SEEGRASULB?$"
+	.string "Möchtest du zurück nach Seegrasulb?$"
 
 BirthIsland_Harbor_Text_SailorReturn:
 	.string "Diese Insel hat wirklich eine höchst\n"
 	.string "merkwürdige Form, findest du nicht?\l"
-	.string "Möchtest du zurück nach SEEGRASULB?$"
+	.string "Möchtest du zurück nach Seegrasulb?$"
 
 EventTicket_Text_OddTicketsWhereTo:
 	.string "Ach, du besitzt diese merkwürdigen\n"

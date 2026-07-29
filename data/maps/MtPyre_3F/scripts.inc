@@ -76,7 +76,7 @@ MtPyre_3F_Text_GabriellePostBattle:
 	.string "Vergiss das nicht.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "Ich würde mir gerne deine POKéMON\n"
+	.string "Ich würde mir gerne deine Pokémon\n"
 	.string "anschauen, wenn sie stärker geworden\l"
 	.string "sind…\p"
 	.string "Bitte, zeig sie mir dann unbedingt!$"

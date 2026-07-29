@@ -20,15 +20,15 @@ PacifidlogTown_House5_EventScript_Gentleman::
 	end
 
 PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
-	.string "Ich kann WUNDEREILAND heute\n"
+	.string "Ich kann Wundereiland heute\n"
 	.string "nicht sehen…$"
 
 PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
-	.string "Oh! Oh! Heute kann ich WUNDEREILAND\n"
+	.string "Oh! Oh! Heute kann ich Wundereiland\n"
 	.string "sehen!$"
 
 PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
-	.string "WUNDEREILAND…\p"
+	.string "Wundereiland…\p"
 	.string "Die Insel ist sichtbar oder nicht\n"
 	.string "sichtbar. Das hängt vom Wetter ab, das\l"
 	.string "Fata Morganen möglich macht oder\n"

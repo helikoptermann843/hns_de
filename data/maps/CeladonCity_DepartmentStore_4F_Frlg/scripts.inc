@@ -39,17 +39,17 @@ CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 	.string "Ich kaufe ein Geschenk für meine\n"
 	.string "Freundin.\p"
 	.string "Sie freut sich bestimmt über eine\n"
-	.string "POKéPUPPE!$"
+	.string "Poképuppe!$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
 	.string "Ah, wirklich beeindruckend.\n"
-	.string "Du behandelst deine POKéMON gut.\p"
+	.string "Du behandelst deine Pokémon gut.\p"
 	.string "Ich denke, ich kann dir das\n"
 	.string "überlassen.\p"
 	.string "Bitte, nimm dies!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Ich habe das EI auf meinen Reisen\n"
+	.string "Ich habe das Ei auf meinen Reisen\n"
 	.string "bekommen.\p"
 	.string "Ich bin froh, jemanden wie dich\n"
 	.string "getroffen zu haben.$"

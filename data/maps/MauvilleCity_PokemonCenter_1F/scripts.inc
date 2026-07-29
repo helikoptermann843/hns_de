@@ -41,16 +41,16 @@ MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
 	.string "Den werde ich wohl nicht vergessen!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
-	.string "Wenn ich auf STATISTIKTAUSCH Zugriff\n"
+	.string "Wenn ich auf Statistiktausch Zugriff\n"
 	.string "nehme, werden die neuesten Nachrichten\l"
-	.string "aus FAUSTAUHAVEN hochgeladen.\p"
+	.string "aus Faustauhaven hochgeladen.\p"
 	.string "Diese Daten decken sich nun mit denen\n"
 	.string "meines Freundes!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
-	.string "Im oberen Stockwerk des POKéMON-\n"
-	.string "CENTERs wurde die Möglichkeit des\l"
-	.string "STATISTIKTAUSCHes eingerichtet.\p"
+	.string "Im oberen Stockwerk des Pokémon-\n"
+	.string "Centers wurde die Möglichkeit des\l"
+	.string "Statistiktausches eingerichtet.\p"
 	.string "Ich weiß nicht genau, was das ist.\n"
 	.string "Aber das werde ich herausfinden! Ist\l"
 	.string "bestimmt lustig!$"

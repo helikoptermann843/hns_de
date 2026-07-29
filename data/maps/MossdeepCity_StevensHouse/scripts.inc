@@ -148,47 +148,47 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "TROY: {PLAYER}{KUN}?\p"
+	.string "Troy: {PLAYER}{KUN}?\p"
 	.string "Ja, das ist mein Zuhause. Peinlich,\n"
 	.string "wie kahl die Räume hier sind.\p"
 	.string "Oh, hier, nimm diese VM.\p"
-	.string "Sie enthält TAUCHER. Ich habe das\n"
-	.string "meinen POKéMON schon beigebracht.$"
+	.string "Sie enthält Taucher. Ich habe das\n"
+	.string "meinen Pokémon schon beigebracht.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "TROY: Wenn du SURFER einsetzt und\n"
+	.string "Troy: Wenn du Surfer einsetzt und\n"
 	.string "über das Meer gleitest, wirst du\n"
 	.string "dunkle\l"
 	.string "Stellen im Wasser bemerken können.\p"
-	.string "Setze hier TAUCHER ein und du kannst\n"
+	.string "Setze hier Taucher ein und du kannst\n"
 	.string "hinabtauchen bis zum Meeresboden.\p"
 	.string "Wenn du wieder auftauchen möchtest,\n"
-	.string "setze ebenfalls TAUCHER ein.\p"
+	.string "setze ebenfalls Taucher ein.\p"
 	.string "An manchen Stellen ist das Auftauchen\n"
 	.string "allerdings nicht möglich.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "TROY: Zwischen MOOSBACH CITY und\n"
-	.string "XENEROVILLE gibt es eine Unterwasser-\l"
+	.string "Troy: Zwischen Moosbach City und\n"
+	.string "Xeneroville gibt es eine Unterwasser-\l"
 	.string "höhle.\p"
-	.string "Die, die KAPT. BRIGG auf seiner\n"
+	.string "Die, die Kapt. Brigg auf seiner\n"
 	.string "Expedition entdeckt hat, weißt du.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
-	.string "{PLAYER} überprüft den POKéBALL.\p"
-	.string "Er enthält das POKéMON\n"
-	.string "TANHEL.\p"
-	.string "Den POKéBALL nehmen?$"
+	.string "{PLAYER} überprüft den Pokéball.\p"
+	.string "Er enthält das Pokémon\n"
+	.string "Tanhel.\p"
+	.string "Den Pokéball nehmen?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} hat TANHEL erhalten.$"
+	.string "{PLAYER} hat Tanhel erhalten.$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "There is no space for another Pokémon.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} legt den POKéBALL zurück.$"
+	.string "{PLAYER} legt den Pokéball zurück.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "Das ist ein Brief.\p"
@@ -202,16 +202,16 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "Hause kommen.\p"
 	.string "Ich möchte dich um einen Gefallen\n"
 	.string "bitten.\p"
-	.string "Ich möchte, dass du den POKéBALL\n"
+	.string "Ich möchte, dass du den Pokéball\n"
 	.string "nimmst, der auf dem Tisch liegt.\p"
-	.string "Er enthält mein Lieblings-POKéMON\n"
-	.string "TANHEL.\p"
+	.string "Er enthält mein Lieblings-Pokémon\n"
+	.string "Tanhel.\p"
 	.string "Ich verlasse mich auf dich.\p"
 	.string "Mögen wir uns eines Tages wiedersehen.\n"
 	.string "\p"
-	.string "TROY TRUMM$"
+	.string "Troy Trumm$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
 	.string "Eine Kollektion seltener Steine,\n"
-	.string "zusammengetragen von TROY.$"
+	.string "zusammengetragen von Troy.$"
 

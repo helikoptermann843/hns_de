@@ -62,23 +62,23 @@ VictoryRoad_3F_EventScript_Tyra::
 Text_DoubleEdgeTeach::
 	.string "Du kannst stolz auf dich sein, weil\n"
 	.string "du dich so wacker auf der\l"
-	.string "SIEGESSTRASSE geschlagen hast.\p"
+	.string "Siegesstraße geschlagen hast.\p"
 	.string "Als Anerkennung deiner Leistung\n"
-	.string "möchte ich einem deiner POKéMON\l"
-	.string "RISIKOTACKLE beibringen.\p"
-	.string "Soll ich einem POKéMON diese\n"
+	.string "möchte ich einem deiner Pokémon\l"
+	.string "Risikotackle beibringen.\p"
+	.string "Soll ich einem Pokémon diese\n"
 	.string "Attacke beibringen?$"
 
 Text_DoubleEdgeDeclined::
 	.string "Ich bringe diese Attacke einem\n"
-	.string "deiner POKéMON jederzeit bei.$"
+	.string "deiner Pokémon jederzeit bei.$"
 
 Text_DoubleEdgeWhichMon::
-	.string "Welches POKéMON soll\n"
-	.string "RISIKOTACKLE erlernen?$"
+	.string "Welches Pokémon soll\n"
+	.string "Risikotackle erlernen?$"
 
 Text_DoubleEdgeTaught::
-	.string "Mach in der POKéMON LIGA so\n"
+	.string "Mach in der Pokémon Liga so\n"
 	.string "weiter!\p"
 	.string "Überrumple sie und mach sie fertig!$"
 
@@ -139,9 +139,9 @@ VictoryRoad_3F_Text_RayPostBattle::
 	.string "ist nicht leicht zu vollbringen!$"
 
 VictoryRoad_3F_Text_RayNotEnoughMons::
-	.string "TYRO: Zusammen streben wir beide\n"
+	.string "Tyro: Zusammen streben wir beide\n"
 	.string "nach dem Gipfel.\p"
-	.string "Du musst zwei POKéMON gegen\n"
+	.string "Du musst zwei Pokémon gegen\n"
 	.string "uns einsetzen!$"
 
 VictoryRoad_3F_Text_TyraIntro::
@@ -157,6 +157,6 @@ VictoryRoad_3F_Text_TyraPostBattle::
 	.string "kann.$"
 
 VictoryRoad_3F_Text_TyraNotEnoughMons::
-	.string "LORE: Mit nur einem POKéMON\n"
+	.string "Lore: Mit nur einem Pokémon\n"
 	.string "kannst du nicht gegen uns antreten!$"
 

@@ -191,7 +191,7 @@ OlivineCity_Gym_EventScript_GymGuideAfter::
 	end
 
 OlivineCity_Gym_Text_GymGuideText:
-	.string "JASMIN setzt den\n"
+	.string "Jasmin setzt den\n"
 	.string "neu entdeckten Typ Stahl ein.\p"
 	.string "Ich weiß nicht viel darüber.$"
 
@@ -242,7 +242,7 @@ OlivineCity_Gym_EventScript_CianwoodCheckMahog::
 OlivineCity_Gym_EventScript_MahogCheckCianwood::
 	goto_if_set FLAG_DEFEATED_CIANWOOD_GYM, OlivineCity_Gym_EventScript_Jasmine_Battle3
 	goto OlivineCity_Gym_EventScript_Jasmine_Battle2
-	
+
 OlivineCity_Gym_EventScript_Jasmine_Battle1::
 	trainerbattle_no_intro TRAINER_JASMINE_1_HNS, OlivineCity_Gym_Text_JasmineBetterTrainer
 	goto OlivineCity_Gym_EventScript_JasmineVictory
@@ -283,16 +283,16 @@ OlivineCity_Gym_Text_JasmineBetterTrainer:
 	.string "Liga überreiche ich dir diesen Orden!$"
 
 OlivineCity_Gym_Text_ReceivedMineralBadge:
-	.string "{PLAYER} erhielt MINERALORDEN.$"
+	.string "{PLAYER} erhielt Mineralorden.$"
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
-	.string "MINERALORDEN erhöht die\n"
-	.string "SPEZIAL-VERTEIDIGUNG von Pokémon.\p"
+	.string "Mineralorden erhöht die\n"
+	.string "Spezial-Verteidigung von Pokémon.\p"
 	.string "…Ähm… Bitte nimm dies auch…$"
 
 OlivineCity_Gym_Text_JasmineIronTailSpeech:
 	.string "…Du kannst damit TM lehren:\n"
-	.string "EISENSCHWEIF.$"
+	.string "Eisenschweif.$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
 	.string "Jasmin: Ähm… ich weiß nicht, wie\n"
@@ -365,14 +365,14 @@ OlivineCity_Gym_Text_JasmineWantToTrade:
 	.string "Ich wollte dich was fragen.\p"
 	.string "Ich habe dieses Stahlos aufgezogen\n"
 	.string "seit es ein kleines Onix war.\p"
-	.string "Aber ich glaube RUSTY wäre\n"
+	.string "Aber ich glaube Rusty wäre\n"
 	.string "glücklicher bei einem Trainer\l"
 	.string "Wie dir. Möchtest du ein\p"
-	.string "POKéMON für mein RUSTY tauschen?$"
+	.string "Pokémon für mein Rusty tauschen?$"
 
 OlivineCity_Gym_Text_JasmineTakeCare:
 	.string "…Ich danke dir.\n"
-	.string "Sei bitte nett zu RUSTY…$"
+	.string "Sei bitte nett zu Rusty…$"
 
 OlivineCity_Gym_Text_JasmineDeclineTrade:
 	.string "…Oh… schon okay.\n"

@@ -57,5 +57,5 @@ Route18_Text_BirdKeeperBobAfterBattle:
 	.string "du dir schon ein Fahrrad besorgen!$"
 
 Route18_Text_Sign:
-	.string "ROUTE 18\p"
-	.string "PRISMANIA CITY - FUCHSANIA CITY$"
+	.string "Route 18\p"
+	.string "Prismania City - Fuchsania City$"

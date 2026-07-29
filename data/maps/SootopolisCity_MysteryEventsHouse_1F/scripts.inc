@@ -165,17 +165,17 @@ SootopolisCity_MysteryEventsHouse_1F_Movement_OldManMoveAsideRight:
 
 SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
 	.string "Als ich noch jung war, bin ich als\n"
-	.string "POKéMON-TRAINER durch die Welt\l"
+	.string "Pokémon-Trainer durch die Welt\l"
 	.string "gereist.\p"
 	.string "Nun, da ich ein alter Knabe geworden\n"
 	.string "bin, beobachte ich mit Freuden die\l"
-	.string "jungen TRAINER bei ihren Kämpfen.$"
+	.string "jungen Trainer bei ihren Kämpfen.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
 	.string "Diese Tür ist verschlossen.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
-	.string "Ein TRAINER namens {STR_VAR_1} ist bei\n"
+	.string "Ein Trainer namens {STR_VAR_1} ist bei\n"
 	.string "mir zu Besuch.\p"
 	.string "Möchtest du einmal gegen {STR_VAR_1}\n"
 	.string "antreten?$"

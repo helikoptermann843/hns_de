@@ -45,7 +45,7 @@ WhirlIslands_LugiaChamber_EventScript_TalkToKimono::
 	applymovement LOCALID_KIMONO_2, WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Mid
 	applymovement LOCALID_KIMONO_3, WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Mid
 	applymovement LOCALID_KIMONO_4, WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Mid
-	applymovement LOCALID_KIMONO_MID, WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Mid	
+	applymovement LOCALID_KIMONO_MID, WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Mid
 	waitmovement 0
 	playse SE_M_PETAL_DANCE
 	setweather WEATHER_FOG_HORIZONTAL
@@ -164,7 +164,7 @@ WhirlIslands_LugiaChamber_EventScript_TalkToKimono::
 	waitmessage
 	setobjectxyperm LOCALID_LUGIA, 29, 12
 
-	
+
 	closemessage
 	releaseall
 	end
@@ -289,7 +289,7 @@ WhirlIslands_LugiaChamber_EventScript_KuniAfter::
 	end
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterNotCaught:
-	.string "Ihr habt LUGIA nicht nur hierher\n"
+	.string "Ihr habt Lugia nicht nur hierher\n"
 	.string "gerufen, sondern Ihr konntet es auch,\l"
 	.string "wie durch ein Wunder, einfangen…\p"
 	.string "Das war wahrlich eine große Heldentat.\n"
@@ -299,7 +299,7 @@ WhirlIslands_LugiaChamber_Text_Kimono_AfterNotCaught:
 	.string "Eurer Reise alles Gute…$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_AfterCaught:
-	.string "Ihr habt LUGIA nicht nur hierher\n"
+	.string "Ihr habt Lugia nicht nur hierher\n"
 	.string "gerufen, sondern Ihr konntet es auch,\l"
 	.string "wie durch ein Wunder, einfangen…\p"
 	.string "Das war wahrlich eine große Heldentat.\n"
@@ -564,28 +564,28 @@ WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 WhirlIslands_LugiaChamber_Text_Zuki_Before::
-	.string "Tamao: Geh nun, zu LUGIA. $"
+	.string "Tamao: Geh nun, zu Lugia. $"
 WhirlIslands_LugiaChamber_Text_Naoko_Before::
-	.string "Umeko: Geh nun, zu LUGIA. $"
+	.string "Umeko: Geh nun, zu Lugia. $"
 WhirlIslands_LugiaChamber_Text_Miki_Before::
-	.string "Satsuki: Geh nun, zu LUGIA. $"
+	.string "Satsuki: Geh nun, zu Lugia. $"
 WhirlIslands_LugiaChamber_Text_Sayo_Before::
-	.string "Sakura: Geh nun, zu LUGIA. $"
+	.string "Sakura: Geh nun, zu Lugia. $"
 WhirlIslands_LugiaChamber_Text_Kuni_Before::
-	.string "Komono: Geh nun, zu LUGIA. $"
+	.string "Komono: Geh nun, zu Lugia. $"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Opening::
 	.string "Tamao: Dies ist der Ort, an dem wir\n"
-	.string "mit LUGIA in Kontakt treten werden.\p"
+	.string "mit Lugia in Kontakt treten werden.\p"
 	.string "Wenn sich hier der Klang des Tanzes,\n"
 	.string "den wir täglich proben, mit dem\l"
 	.string "Eurer Gischtglocke überlagert, wird\l"
-	.string "LUGIA aus seinem Schlaf tief am Grund\p"
+	.string "Lugia aus seinem Schlaf tief am Grund\p"
 	.string "des Wasserfalls erwachen und sich\n"
 	.string "von uns erblicken lassen!$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Closing1::
-	.string "Was Ihr da vor Euch seht, ist LUGIA…\n"
+	.string "Was Ihr da vor Euch seht, ist Lugia…\n"
 	.string "Seit Urzeiten erzählt man sich hier\l"
 	.string "von ihm, dem Schutzpatron der Meere…\p"
 	.string "Schon viele vor Euch haben sich daran\n"
@@ -596,6 +596,6 @@ WhirlIslands_LugiaChamber_Text_Kimono_Closing1::
 	.string "der Gischtglocke in Einklang stand…$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_After::
-	.string "KIMONO-GIRL: Heute hast du\n"
+	.string "Kimono-Girl: Heute hast du\n"
 	.string "dich wahrlich bewiesen,\l"
 	.string "{PLAYER}.$"

@@ -128,16 +128,16 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "Ein guter {POKEBLOCK} hat einen\n"
 	.string "niedrigen\n"
 	.string "Würzwert und einen hohen Level.\p"
-	.string "Ein POKéMON kann mehr gute {POKEBLOCK}\n"
+	.string "Ein Pokémon kann mehr gute {POKEBLOCK}\n"
 	.string "essen als durchschnittliche.\p"
 	.string "Und das ist wichtig.\p"
 	.string "Wenn du weiche {POKEBLOCK} herstellen\n"
-	.string "willst, benutze verschiedene BEEREn.\p"
-	.string "Sei nicht geizig - die Art der BEEREn\n"
+	.string "willst, benutze verschiedene Beeren.\p"
+	.string "Sei nicht geizig - die Art der Beeren\n"
 	.string "beeinflusst die Weichheit der\n"
 	.string "{POKEBLOCK}. \p"
 	.string "Und noch etwas:\p"
-	.string "Je mehr Leute BEEREn mixen,\n"
+	.string "Je mehr Leute Beeren mixen,\n"
 	.string "desto weicher werden die {POKEBLOCK}.\n"
 	.string "\p"
 	.string "Daher solltest du andere Leute an-\n"
@@ -146,7 +146,7 @@ LilycoveCity_House3_Text_ExplainPokeblocks:
 	.string "Das ist alles, was du wissen musst, um\n"
 	.string "gute {POKEBLOCK} herstellen zu können.\n"
 	.string "\p"
-	.string "Wenn jeder POKéMON hätte, die er\l"
+	.string "Wenn jeder Pokémon hätte, die er\l"
 	.string "liebt,\n"
 	.string "weiche {POKEBLOCK} und eine liebevolle\p"
 	.string "\p"
@@ -162,21 +162,21 @@ LilycoveCity_House3_Text_HappyToHaveQuadruplets:
 	.string "glücklich.$"
 
 LilycoveCity_House3_Text_GoingToWinMultiBattles:
-	.string "Wir üben MULTIKÄMPFe, aber ich\n"
+	.string "Wir üben Multikämpfe, aber ich\n"
 	.string "weiß, dass ich gewinnen werde.$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
-	.string "Wir lieben es, Sachen beim STATISTIK-\n"
-	.string "TAUSCH durcheinander zu würfeln.\p"
+	.string "Wir lieben es, Sachen beim Statistik-\n"
+	.string "tausch durcheinander zu würfeln.\p"
 	.string "Aber, was kann man durcheinander\n"
 	.string "würfeln?$"
 
 LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
 	.string "Wir wollen super {POKEBLOCK}\n"
-	.string "im BEERENMIXER machen!$"
+	.string "im Beerenmixer machen!$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
 	.string "Ich möchte damit angeben, wie stark\n"
-	.string "mein POKéMON ist, daher werden wir\l"
-	.string "an einem WETTBEWERB teilnehmen.$"
+	.string "mein Pokémon ist, daher werden wir\l"
+	.string "an einem Wettbewerb teilnehmen.$"
 

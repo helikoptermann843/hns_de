@@ -15,4 +15,4 @@ VermilionMart_Text_SuperNerd:
 
 VermilionMart_Text_Beauty:
 	.string "Ich habe vor, in\n"
-	.string "SAFFRONIA CITY einkaufen zu gehen.$"
+	.string "Saffronia City einkaufen zu gehen.$"

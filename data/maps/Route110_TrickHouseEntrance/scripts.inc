@@ -742,14 +742,14 @@ Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "Sieh und staune!\p"
 	.string "Ich bin das größte lebende menschliche\n"
-	.string "Mysterium in ganz HOENN!\l"
+	.string "Mysterium in ganz Hoenn!\l"
 	.string "Man nennt mich…\p"
-	.string "RÄTSELMEISTER!\n"
+	.string "Rätselmeister!\n"
 	.string "Hahaha! Erfreut, dich kennen zu\l"
 	.string "lernen!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
-	.string "Du, du bist hier, um mein RÄTSELHAUS\n"
+	.string "Du, du bist hier, um mein Rätselhaus\n"
 	.string "herauszufordern, oder?\p"
 	.string "Deshalb bist du doch hier?\n"
 	.string "Ja, ja, so muss es sein!\p"
@@ -770,7 +770,7 @@ Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
 	.string "Auf der Schriftrolle steht etwas…\p"
 	.string "“Ich bin auf eine Reise gegangen.\n"
-	.string "Sucht mich nicht. RÄTSELMEISTER.”$"
+	.string "Sucht mich nicht. Rätselmeister.”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
 	.string "Nächstes Mal nehme ich diesen Trick,\n"
@@ -801,19 +801,19 @@ Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
 	.string "Belohnung abzuholen?$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "ROBOPUPPE 5 BIN ICH!\n"
-	.string "HOLST DU DIE BELOHNUNG NICHT AB,\l"
-	.string "DANN KANNST DU RÄTSELMEISTER NICHT\l"
-	.string "FOLGEN!\p"
-	.string "ROTES ZELT ODER BLAUES ZELT,\n"
-	.string "WOFÜR ENTSCHEIDEST DU DICH?$"
+	.string "Robopuppe 5 bin ich!\n"
+	.string "Holst du die Belohnung nicht ab,\l"
+	.string "Dann Kannst du Rätselmeister nicht\l"
+	.string "folgen!\p"
+	.string "Rotes Zelt oder blaues Zelt,\n"
+	.string "Wofür entscheidest du dich?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
-	.string "DANN LEBE WOHL.$"
+	.string "Dann lebe wohl.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "PC-STATUS: WIEDER VOLL.\n"
-	.string "GEMEIN DU BIST.$"
+	.string "PC-Status: Wieder voll.\n"
+	.string "Gemein du bist.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
 	.string "{PLAYER} findet eine Schriftrolle.$"

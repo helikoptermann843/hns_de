@@ -44,7 +44,7 @@ SilphCo_4F_Text_CantYouSeeImHiding::
 	.string "ich mich verstecke?$"
 
 SilphCo_4F_Text_TeamRocketIsGone::
-	.string "Das TEAM ROCKET ist verschwunden?$"
+	.string "Das Team Rocket ist verschwunden?$"
 
 SilphCo_4F_Text_Grunt1Intro::
 	.string "Das Team Rocket hat die Kontrolle\n"
@@ -79,6 +79,6 @@ SilphCo_4F_Text_Grunt2PostBattle::
 	.string "Stock warnen!$"
 
 SilphCo_4F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "3 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "3 Og$"
 

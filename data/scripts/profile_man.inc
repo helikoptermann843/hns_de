@@ -92,10 +92,10 @@ ProfileMan_EventScript_Ret::
 	return
 
 ProfileMan_Text_CollectTrainerProfiles:
-	.string "Hallo, du! TRAINER!\n"
+	.string "Hallo, du! Trainer!\n"
 	.string "Du hast ein wundervolles Lächeln.\p"
 	.string "Ich habe ein Hobby: Ich sammle die\n"
-	.string "Profile von POKéMON-TRAINERn.$"
+	.string "Profile von Pokémon-Trainern.$"
 
 ProfileMan_Text_MayISeeYourProfile:
 	.string "Nun, wie sieht es aus?\n"
@@ -113,7 +113,7 @@ ProfileMan_Text_EasyChatExplanation:
 	.string "Dir stehen sehr viele Begriffe\n"
 	.string "zur Verfügung.\p"
 	.string "Sie sind nach Gruppen sortiert wie\n"
-	.string "POKéMON, Lifestyle und Hobbies. So\l"
+	.string "Pokémon, Lifestyle und Hobbies. So\l"
 	.string "hast du einen besseren Überblick.\p"
 	.string "Wähle zunächst eine Gruppe aus, um\n"
 	.string "eine Liste entsprechender Begriffe\p"
@@ -123,8 +123,8 @@ ProfileMan_Text_EasyChatExplanation:
 	.string "Profil zu erstellen.$"
 
 ProfileMan_Text_LetsSeeItThen:
-	.string "Yes! Thank you!\n"
-	.string "So, let's see it, then.$"
+	.string "Ja! Danke schön!\n"
+	.string "Zeigst du mir jetzt dein Profil?$"
 
 ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile:
 	.string "Oh, nein, ehrlich?\p"
@@ -136,8 +136,8 @@ ProfileMan_Text_NotIntoItRightNow:
 	.string "Nun, dann zeig es mir doch später!$"
 
 ProfileMan_Text_YouHaveWonderfulSmile:
-	.string "Hello there, TRAINER!\n"
-	.string "You've got a wonderful smile.$"
+	.string "Hallo, da drüben! Trainer!\p"
+	.string "Du hast ein wundervolles Lächeln.$"
 
 ProfileMan_Text_MayISeeYourNewProfile:
 	.string "Darf ich dein neues Profil sehen?$"
@@ -165,4 +165,4 @@ ProfileMan_Text_YouKnowSecretSaying:
 	.string "Oh?\n"
 	.string "You know the secret saying!\p"
 	.string "That means you're now a fellow member\n"
-	.string "of the MYSTERY EVENT CLUB!$"
+	.string "of the Mystery Event Club!$"

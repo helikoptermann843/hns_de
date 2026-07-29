@@ -28,7 +28,7 @@ Route12_House_EventScript_SuperRodGot::
 
 Route12_House_Text_OfferSuperRod:
 	.string "Ich bin der jüngere Bruder\n"
-	.string "des ANGEL-GURUS.\p"
+	.string "des Angel-Gurus.\p"
 	.string "Ich sehe, dass du gern angelst.\p"
 	.string "Daran besteht kein Zweifel!\p"
 	.string "Na? Hab ich recht?$"

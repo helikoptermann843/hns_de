@@ -18,7 +18,7 @@ SSAnne_1F_Corridor_Text_LeStrongSilentType::
 	.string "glücklich macht!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
-	.string "Oh, das ist von BILL!\n"
+	.string "Oh, das ist von Bill!\n"
 	.string "Richte ihm meinen Dank aus!\p"
 	.string "Du warst einfach fantastisch!\n"
 	.string "Das ist für dich!$"

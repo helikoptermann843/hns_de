@@ -239,7 +239,7 @@ SixIsland_DottedHole_SapphireRoom_EventScript_BrailleMessage::
 	end
 
 SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire::
-	.string "{PLAYER} found a SAPPHIRE!$"
+	.string "{PLAYER} found a Sapphire!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
 	.string "Fufu… fufufufu…\n"
@@ -248,18 +248,18 @@ SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
 
 SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
 	.string "Ich wusste, dass es hier einen\n"
-	.string "SAPHIR gibt, also gehört er mir!\p"
+	.string "Saphir gibt, also gehört er mir!\p"
 	.string "Ich verkaufe ihn für viel Geld an\n"
-	.string "TEAM ROCKET.\p"
+	.string "Team Rocket.\p"
 	.string "… s-starr mich nicht so an!\p"
 	.string "Wenn du ihn wieder haben möchtest,\n"
 	.string "warum versuchst du es nicht,\l"
 	.string "nachdem ich ihn verkauft habe?\l"
 	.string "Ich verrate dir auch eines der\l"
-	.string "Passwörter für das LAGER\l"
-	.string "von TEAM ROCKET.\l"
+	.string "Passwörter für das Lager\l"
+	.string "von Team Rocket.\l"
 	.string "Das Passwort, das ich kenne, lautet\l"
-	.string "“MAKUHITA Atihu kam”.\p"
+	.string "“Makuhita Atihu kam”.\p"
 	.string "Vorbei.\n"
 	.string "Nichts für ungut!$"
 

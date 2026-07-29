@@ -13,12 +13,12 @@ MysteryGiftScript_AlteringCave_:
 	end
 
 sText_MysteryGiftAlteringCave:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast!\p"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast!\p"
 	.string "In letzter Zeit gab es Gerüchte,\n"
-	.string "dass seltene POKéMON\l"
+	.string "dass seltene Pokémon\l"
 	.string "plötzlich auftauchen.\p"
 	.string "Die Gerüchte beziehen sich auf\n"
-	.string "die WANDELHÖHLE an der Route 103.\p"
+	.string "die Wandelhöhle an der Route 103.\p"
 	.string "Warum schaust du dich dort nicht\n"
 	.string "ein wenig um?$"

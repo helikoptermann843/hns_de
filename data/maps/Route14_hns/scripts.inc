@@ -211,13 +211,13 @@ Route14_Text_Eusine:
 	.string "Aber diesmal schaffe ich es wirklich!\n"
 	.string "Ich bin den ganzen Weg bis hierher\l"
 	.string "gereist und weiß nun wieder etwas\l"
-	.string "genauer, wo SUICUNE hin will!\p"
+	.string "genauer, wo Suicune hin will!\p"
 	.string "Eigentlich würde ich mein Wissen\n"
 	.string "ja für mich behalten, aber\l"
-	.string "vor SUICUNE will ich ganz offen sein.\p"
+	.string "vor Suicune will ich ganz offen sein.\p"
 	.string "Daher will ich dir einen\n"
 	.string "kleinen Hinweis geben!\p"
-	.string "SUICUNE bevorzugt\n"
+	.string "Suicune bevorzugt\n"
 	.string "nördliche Ufer…\l"
 	.string "und luftige Höhen…\l"
 	.string "Dort soll man diesem\l"
@@ -234,7 +234,7 @@ Route14_Text_PokefanmTrevorSeen:
 	.string "ihnen bekannten Platz trainierst?$"
 
 Route14_Text_PokefanmTrevorBeaten:
-	.string "Wo traf ich dieses ENTON?$"
+	.string "Wo traf ich dieses Enton?$"
 
 Route14_Text_PokefanmTrevorAfterBattle:
 	.string "Gäbe es doch einen einfachen Weg, um\n"
@@ -264,7 +264,7 @@ Route14_Text_PokefanmCarterBeaten:
 	.string "Uaaaaah!$"
 
 Route14_Text_PokefanmCarterAfterBattle:
-	.string "SCHIGGY, GLUMANDA und BISASAM…\p"
+	.string "Schiggy, Glumanda und Bisasam…\p"
 	.string "Ich denke, das ist\n"
 	.string "ein ausgeglichenes Team.$"
 

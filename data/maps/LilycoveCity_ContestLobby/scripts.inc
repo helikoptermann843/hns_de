@@ -990,13 +990,13 @@ LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
 	.string "sie darin.\p"
 	.string "Wenn ihr einen {POKEBLOCK} herstellt,\n"
 	.string "muss\l"
-	.string "jeder eine andere BEERE einsetzen.$"
+	.string "jeder eine andere Beere einsetzen.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "Herzlichen Glückwunsch!\p"
-	.string "Ich habe dein POKéMON gezeichnet, zum\n"
+	.string "Ich habe dein Pokémon gezeichnet, zum\n"
 	.string "Andenken an seinen Sieg…\p"
-	.string "Nun, der Auftritt deines POKéMON war\n"
+	.string "Nun, der Auftritt deines Pokémon war\n"
 	.string "so\n"
 	.string "fantastisch, dass er mich zu einer\l"
 	.string "künstlerischen Hochleistung\l"
@@ -1028,14 +1028,14 @@ LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
 	.string "Oh, richtig!\p"
-	.string "Da ich dein POKéMON malen durfte,\n"
+	.string "Da ich dein Pokémon malen durfte,\n"
 	.string "möchte ich dir dies gerne geben.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
-	.string "{PLAYER} erhält ein BAND.$"
+	.string "{PLAYER} erhält ein Band.$"
 
 LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon:
-	.string "{PLAYER} befestigt das BAND an\n"
+	.string "{PLAYER} befestigt das Band an\n"
 	.string "{STR_VAR_1}.$"
 
 LilycoveCity_ContestLobby_Text_OkaySeeYou:
@@ -1055,33 +1055,33 @@ LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
 	.string "geben. Bis bald mal.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
-	.string "Hoo, Junge. WETTBEWERB der\n"
-	.string "MASTER-KLASSE, jetzt komme ich.\p"
+	.string "Hoo, Junge. Wettbewerb der\n"
+	.string "Master-Klasse, jetzt komme ich.\p"
 	.string "Bald wird die Welt wissen, dass mein\n"
-	.string "POKéMON das niedlichste aller POKéMON\l"
+	.string "Pokémon das niedlichste aller Pokémon\l"
 	.string "ist. Die Zeit ist reif!\l"
 	.string "Ahahahaha.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
 	.string "Hier sieht man eine ganze Reihe der\n"
-	.string "unterschiedlichsten POKéMON.\p"
+	.string "unterschiedlichsten Pokémon.\p"
 	.string "Daher mache ich hier jeden Tag eine\n"
 	.string "kurze Stippvisite.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, so ein POKéMON WETTBEWERB ist ein\n"
+	.string "Wow, so ein Pokémon Wettbewerb ist ein\n"
 	.string "Fest für die Augen!\p"
-	.string "Schau dir all die POKéMON an, die\n"
+	.string "Schau dir all die Pokémon an, die\n"
 	.string "danach schreien, gemalt zu werden!$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "Der WETTBEWERB der STÄRKE ist tierisch\n"
+	.string "Der Wettbewerb der Stärke ist tierisch\n"
 	.string "hart!\p"
 	.string "Dieses Muskelspiel… Schweiß, der\n"
 	.string "rinnt… Da fall ich glatt in Ohnmacht!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
-	.string "Tag für Tag habe ich dieses POKéMON\n"
+	.string "Tag für Tag habe ich dieses Pokémon\n"
 	.string "mit\n"
 	.string "meiner Liebe und Fürsorge überhäuft.\p"
 	.string "Seine Kondition ist einfach unver-\n"

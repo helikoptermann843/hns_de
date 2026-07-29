@@ -78,10 +78,10 @@ CianwoodGym_EventScript_ChuckGotoDojo::
 	end
 
 CianwoodGym_Text_ChuckGotoDojo:
-	.string "WAHAHAHA {PLAYER}!\n"
+	.string "Wahahaha {PLAYER}!\n"
 	.string "Ich bin mitten im Training!\p"
 	.string "Wenn du erneut kämpfen willst,\n"
-	.string "komm zum Kampf DOJO in Saffronia!$"
+	.string "komm zum Kampf Dojo in Saffronia!$"
 
 CianwoodGym_EventScript_ChuckAtDojo::
 	msgbox CianwoodGym_Text_ChuckAtDojo, MSGBOX_DEFAULT
@@ -90,8 +90,8 @@ CianwoodGym_EventScript_ChuckAtDojo::
 	end
 
 CianwoodGym_Text_ChuckAtDojo:
-	.string "Wir sehen uns im DOJO!\n"
-	.string "WAHAHAHAHAHA$"
+	.string "Wir sehen uns im Dojo!\n"
+	.string "Wahahahahaha$"
 
 CianwoodGym_EventScript_OlivineCheckMahog::
 	goto_if_set FLAG_DEFEATED_MAHOGANY_TOWN_GYM, CianwoodGym_EventScript_Chuck_Battle3
@@ -100,7 +100,7 @@ CianwoodGym_EventScript_OlivineCheckMahog::
 CianwoodGym_EventScript_MahogCheckOlivine::
 	goto_if_set FLAG_DEFEATED_OLIVINE_CITY_GYM, CianwoodGym_EventScript_Chuck_Battle3
 	goto CianwoodGym_EventScript_Chuck_Battle2
-	
+
 CianwoodGym_EventScript_Chuck_Battle1::
 	trainerbattle_no_intro TRAINER_CHUCK_1_HNS, CianwoodGym_Text_ChuckIntro2
 	goto CianwoodGym_EventScript_ChuckVictory

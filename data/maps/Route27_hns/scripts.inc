@@ -3,7 +3,7 @@ Route27_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route27_OnTransition: 
+Route27_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -39,7 +39,7 @@ Route27_EventScript_FirstSteps::
     setflag FLAG_HIDE_VICTORY_ROAD_SILVER
     setflag FLAG_HIDE_INDIGO_PLATEAU_SILVER
     setflag FLAG_HIDE_INDIGO_PLATEAU_MARY_OAK
-    
+
     clearflag FLAG_GOT_TM_SANDSTORM
     clearflag FLAG_INDIGOJUNCTION_HIDE_SILVER_GUARD
     clearflag FLAG_INDIGOJUNCTION_HIDE_KANTO_GUARD
@@ -170,15 +170,13 @@ Route27_EventScript_TohjoFallsSign::
     end
 
 Route27_Text_FisherHey:
-	.string "Heh!$"
+	.string "Hey$"
 
 Route27_Text_FisherMessage:
-	.string "Weißt du, was du gerade getan\n"
-	.string "hast?\p"
-	.string "Du hast deinen ersten Schritt\n"
-	.string "nach KANTO gemacht.\p"
-	.string "Sieh auf der POKéCOM-KARTE\n"
-	.string "nach.$"
+	.string "Soll ich dir was sagen?\p"
+	.string "Du hast eben den ersten Schritt in\n"
+	.string "Richtung Kanto getan!\p"
+	.string "Wirf mal einen Blick auf deine Karte!$"
 
 Route27_Text_CooltrainermBlakeSeen:
 	.string "Du siehst sehr stark aus.\n"
@@ -188,21 +186,20 @@ Route27_Text_CooltrainermBlakeBeaten:
 	.string "Juhu!$"
 
 Route27_Text_CooltrainermBlakeAfter:
-	.string "Wenn du diesen harten Weg\n"
-	.string "bestehst, wird dir die\l"
-	.string "Wahrheit offenbart!\p"
-	.string "Hey, sorry, ich wollte nur\n"
-	.string "etwas Cooles sagen.$"
+	.string "Wenn du das hier erfolgreich über-\n"
+	.string "stehst, wirst du die Wahrheit erkennen!\p"
+	.string "Entschuldigung, ich wollte nur etwas\n"
+	.string "Geistreiches sagen.$"
 
 Route27_Text_CooltrainermBrianSeen:
-	.string "Hm? Du bist gut, nicht wahr?$"
+	.string "Du bist gut, oder?$"
 
 Route27_Text_CooltrainermBrianBeaten:
 	.string "Wie ich dachte!$"
 
 Route27_Text_CooltrainermBrianAfter:
-	.string "Ein guter Trainer erkennt\n"
-	.string "andere gute Trainer.$"
+	.string "Ein guter Trainer weiß, woran man einen\n"
+	.string "guten Trainer erkennt!$"
 
 Route27_Text_CooltrainerfReenaSeen:
 	.string "Du solltest die wilden Pokémon,\n"
@@ -220,7 +217,7 @@ Route27_Text_ReenaRegister:
     .string "sollte dich nicht unterschätzen.$"
 
 Route27_Text_ReenaRematchIntro:
-    .string "Die wilden POKéMON in dieser Gegend\n"
+    .string "Die wilden Pokémon in dieser Gegend\n"
     .string "solltest du nicht unterschätzen.$"
 
 Route27_Text_ReenaRematchDefeat:
@@ -231,60 +228,60 @@ Route27_Text_ReenaPostRematch:
     .string "sollte dich nicht unterschätzen.$"
 
 Route27_Text_CooltrainerfMeganSeen:
-	.string "Hier kommen nur\n"
-	.string "selten Menschen vorbei.\p"
-	.string "Trainierst du vollkommen allein?$"
+	.string "Huch! Hier kommen nur selten Menschen\n"
+	.string "vorbei. Bist du hier auf Lehr- und\l"
+	.string "Wanderreise?$"
 
 Route27_Text_CooltrainerfMeganBeaten:
-	.string "Oh! Du bist wirklich stark!$"
+	.string "Oh! Du bist wirklich auf Zack!$"
 
 Route27_Text_CooltrainerfMeganAfter:
-	.string "Ich untersuche Pokémon vor\n"
-	.string "und nach ihrer Entwicklung.\p"
-	.string "Entwicklung macht Pokémon\n"
-	.string "wirklich stärker.\p"
-	.string "Doch entwickelte Formen\n"
-	.string "lernen Attacken oft später.$"
+	.string "Ich vergleiche entwickelte und nicht\n"
+	.string "entwickelte Pokémon miteinander und\l"
+	.string "erforsche so ihre Eigenschaften.\p"
+	.string "Entwickelte Pokémon sind zwar stärker,\n"
+	.string "aber sie erlernen erst spät Attacken.$"
 
 Route27_Text_PsychicGilbertSeen:
-	.string "Sag nichts!\p"
-	.string "Lass mich raten, woran du denkst.\p"
+	.string "Lass mich raten, woran du jetzt denkst.\p"
 	.string "Mmmmmmm…\p"
-	.string "Ich weiß! Du denkst darüber\n"
-	.string "nach, zur Pokémon LIGA\l"
-	.string "zu gehen!$"
+	.string "Ich weiß! Du denkst darüber nach, zur\n"
+	.string "Pokémon Liga zu gehen!$"
 
 Route27_Text_PsychicGilbertBeaten:
-	.string "Das ist zuviel!$"
+	.string "…Du bist echt die Wucht!$"
 
 Route27_Text_PsychicGilbertAfter:
 	.string "Mit deinen Fähigkeiten wirst\n"
-	.string "du in der LIGA bestehen.\p"
+	.string "du in der Liga bestehen.\p"
 	.string "Das sagt meine Vorahnung.$"
 
 Route27_Text_BirdKeeperJoseSeen:
-	.string "Zwitscher! Zwitscher!$"
+	.string "Tschilp! Tschilp! Tschiiilp!$"
 
 Route27_Text_BirdKeeperJoseBeaten:
-	.string "Zwitscher!$"
+	.string "Tschilp!$"
 
 Route27_Text_BirdKeeperJoseAfter:
-    .string "VOGELFÄNGER wie ich ahmen Vogelrufe\n"
-    .string "nach, um POKéMON zu befehligen.$"
+	.string "Vogelfänger wie ich imitieren\n"
+	.string "Vogelstimmen, um dadurch unserem\l"
+	.string "Pokémon-Team Befehle zu erteilen.$"
 
 Route27_Text_JoseRegister:
-    .string "VOGELFÄNGER wie ich ahmen Vogelrufe\n"
-    .string "nach, um POKéMON zu befehligen.$"
+	.string "Vogelfänger wie ich imitieren\n"
+	.string "Vogelstimmen, um dadurch unserem\l"
+	.string "Pokémon-Team Befehle zu erteilen.$"
 
 Route27_Text_JoseRematchIntro:
-    .string "Zwitscher! Zwitscher! Zwitscheriiit!$"
+	.string "Tschilp! Tschilp! Tschiiilp!$"
 
 Route27_Text_JoseRematchDefeat:
-    .string "Zwitscher!$"
+	.string "Tschilp!$"
 
 Route27_Text_JosePostRematch:
-    .string "VOGELFÄNGER wie ich ahmen Vogelrufe\n"
-    .string "nach, um POKéMON zu befehligen.$"
+	.string "Vogelfänger wie ich imitieren\n"
+	.string "Vogelstimmen, um dadurch unserem\l"
+	.string "Pokémon-Team Befehle zu erteilen.$"
 
 Route27_Text_JoseHasItem:
     .string "Hey! Beim Beobachten der Vögel habe\n"
@@ -292,30 +289,29 @@ Route27_Text_JoseHasItem:
     .string "Hier, du kannst es haben!$"
 
 Route27_Text_JoseGaveItem:
-    .string "Hier auf ROUTE 27 finde ich die\n"
+    .string "Hier auf Route 27 finde ich die\n"
     .string "verschiedensten Dinge.\p"
     .string "Ich sage dir Bescheid, wenn ich\n"
     .string "wieder etwas finde!$"
 
 Route27_Text_JoseNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"
 
 TohjoFalls_Text_Sign:
-	.string "TOHJO-FÄLLE\p"
-	.string "Die Verbindung zwischen\n"
-	.string "KANTO und JOHTO$"
+	.string "Die Tohjo-Fälle Die Grenzlinie zwischen\n"
+	.string "Kanto und Johto$"
 
 Route27_Text_FisherScottSeen:
-	.string "Heute fühle ich mich grossartig!\p"
+	.string "Heute fühle ich mich großartig!\p"
 	.string "Ich fühle mich so\n"
-	.string "stark, dass ich den LIGA-CHAMP\l"
+	.string "stark, dass ich den Liga-Champ\l"
 	.string "besiegen könnte!$"
 
 Route27_Text_FisherScottBeaten:
-	.string "Nein! Nicht in diesem Kampf!$"
+	.string "Oh nein! Ich bin wohl nicht zum Kämpfen\n"
+	.string "geboren!$"
 
 Route27_Text_FisherScottAfter:
-	.string "Genau wie beim Angeln,\n"
-	.string "wenn du bei Pokémon aufgibst,\l"
-	.string "ist alles vorbei.$"
+	.string "Angeln und Pokémon sind sehr ähnlich.\n"
+	.string "Wenn du einmal aufgibst, ist es vorbei.$"

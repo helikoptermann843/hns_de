@@ -287,17 +287,17 @@ Route103_EventScript_Isabelle::
 	end
 
 Route103_Text_MayRoute103Pokemon:
-	.string "MAIKE: Mal seh’n… Das POKéMON von\n"
-	.string "ROUTE 103 besitzt…$"
+	.string "Maike: Mal seh’n… Das Pokémon von\n"
+	.string "Route 103 besitzt…$"
 
 Route103_Text_MayLetsBattle:
 	.string "Oh, hi, {PLAYER}{KUN}!\p"
 	.string "… Oh… Ich seh schon. Mein Vater hat\n"
-	.string "dir ein POKéMON geschenkt.\p"
+	.string "dir ein Pokémon geschenkt.\p"
 	.string "Wenn wir schon mal hier sind, lass uns\n"
 	.string "doch kämpfen!\p"
 	.string "Ich gebe dir einen Vorgeschmack auf\n"
-	.string "das Leben als TRAINER.$"
+	.string "das Leben als Trainer.$"
 
 Route103_Text_MayDefeated:
 	.string "Wow! Das war spitze!\n"
@@ -305,28 +305,28 @@ Route103_Text_MayDefeated:
 	.string "Naturtalent!$"
 
 Route103_Text_MayTimeToHeadBack:
-	.string "MAIKE: Ich glaube, ich weiß jetzt,\n"
+	.string "Maike: Ich glaube, ich weiß jetzt,\n"
 	.string "warum\n"
 	.string "mein Vater dich ausgesucht hat.\p"
-	.string "Ich meine, du hast dein POKéMON erst\n"
+	.string "Ich meine, du hast dein Pokémon erst\n"
 	.string "sehr kurze Zeit und es mag dich\n"
 	.string "bereits. \p"
 	.string "Du wirst es einfach haben, dich mit\n"
-	.string "jeder Art von POKéMON anzufreunden.\p"
+	.string "jeder Art von Pokémon anzufreunden.\p"
 	.string "Nun wird es aber Zeit, zurück ins\n"
-	.string "LABOR zu gehen!$"
+	.string "Labor zu gehen!$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRIX: So… Dieses und dieses leben an\n"
-	.string "der ROUTE 103…$"
+	.string "Brix: So… Dieses und dieses leben an\n"
+	.string "der Route 103…$"
 
 Route103_Text_BrendanLetsBattle:
 	.string "Hey, da ist ja {PLAYER}!\p"
 	.string "… Oh ja. Mein Vater hat dir ein\n"
-	.string "POKéMON geschenkt, nicht wahr?\p"
+	.string "Pokémon geschenkt, nicht wahr?\p"
 	.string "Wenn wir schon mal hier sind, lass uns\n"
 	.string "doch einen kleinen Kampf austragen.\p"
-	.string "Ich bringe dir bei, was ein TRAINER\n"
+	.string "Ich bringe dir bei, was ein Trainer\n"
 	.string "wissen muss.$"
 
 Route103_Text_BrendanDefeated:
@@ -334,29 +334,29 @@ Route103_Text_BrendanDefeated:
 	.string "übel.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRIX: Ich denke, ich habe es kapiert.\n"
+	.string "Brix: Ich denke, ich habe es kapiert.\n"
 	.string "Ich weiß jetzt, warum mein Vater dich\l"
 	.string "ausgesucht hat.\p"
-	.string "Du hast dein POKéMON noch nicht lange,\n"
+	.string "Du hast dein Pokémon noch nicht lange,\n"
 	.string "und doch mag es dich schon.\p"
 	.string "{PLAYER}, ich glaube, du kannst mit\n"
-	.string "jedem POKéMON Freundschaft schließen.\n"
+	.string "jedem Pokémon Freundschaft schließen.\n"
 	.string "\p"
-	.string "Wir sollten nun zurück zum LABOR\n"
+	.string "Wir sollten nun zurück zum Labor\n"
 	.string "gehen.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "Mein POKéMON ist unglaublich müde…\n"
-	.string "Ich hätte einen TRANK mitnehmen\l"
+	.string "Mein Pokémon ist unglaublich müde…\n"
+	.string "Ich hätte einen Trank mitnehmen\l"
 	.string "sollen.$"
 
 Route103_Text_ShortcutToOldale:
 	.string "Wenn du von hier das Meer überquerst,\n"
 	.string "nimmst du eine Abkürzung nach\l"
-	.string "ROSALTSTADT.\p"
+	.string "Rosaltstadt.\p"
 	.string "Hahaha, ist das kein praktischer Tipp?$"
 
 Route103_Text_RouteSign:
-	.string "ROUTE 103\n"
-	.string "{DOWN_ARROW} ROSALTSTADT$"
+	.string "Route 103\n"
+	.string "{DOWN_ARROW} Rosaltstadt$"
 

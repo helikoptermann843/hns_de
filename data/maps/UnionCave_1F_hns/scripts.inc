@@ -52,7 +52,7 @@ UnionCave_1F_EventScript_FirebreatherBill::
 UnionCave_1F_EventScript_FirebreatherRay::
 	trainerbattle_single TRAINER_RAY_HNS, UnionCave_1F_Text_FirebreatherRaySeen, UnionCave_1F_Text_FirebreatherRayBeaten
 	msgbox UnionCave_1F_Text_FirebreatherRayAfter, MSGBOX_AUTOCLOSE
-	end	
+	end
 
 UnionCave_1F_EventScript_Item_Potion::
 	finditem ITEM_POTION
@@ -106,11 +106,11 @@ UnionCave_1F_Text_HikerDanielBeaten:
 
 UnionCave_1F_Text_HikerDanielAfter:
 	.string "Man hat mich genötigt,\n"
-	.string "eine FLEGMON-Rute zu kaufen.\l"
+	.string "eine Flegmon-Rute zu kaufen.\l"
 	.string "Mir tut das arme Pokémon leid.$"
 
 UnionCave_1F_Text_FirebreatherBillSeen:
-	.string "Diese ZUBAT verwirren ständig\n"
+	.string "Diese Zubat verwirren ständig\n"
 	.string "meine Pokémon mit ihrem Superschall!\l"
 	.string "Das ist zum Aus-der-Haut-Fahren!$"
 

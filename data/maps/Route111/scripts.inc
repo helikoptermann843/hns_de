@@ -569,7 +569,7 @@ Route111_Text_BattleOurFamily:
 	.string "Hallo! Ich hab’s, du bist ein\n"
 	.string "Reisender. \p"
 	.string "Was hältst du davon? Du trittst mit\n"
-	.string "deinen POKéMON gegen alle vier\l"
+	.string "deinen Pokémon gegen alle vier\l"
 	.string "Familienmitglieder hintereinander an?$"
 
 Route111_Text_IsThatSo:
@@ -631,47 +631,47 @@ Route111_Text_VickyPostBattle:
 	.string "besuche uns doch mal wieder!$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "Wenn du deine POKéMON nicht ein\n"
+	.string "Wenn du deine Pokémon nicht ein\n"
 	.string "bisschen besser trainierst, wird es\l"
 	.string "schwer, sich hier durchzukämpfen.\p"
-	.string "Ich habe gehört, dass die TOP VIER der\n"
-	.string "POKéMON LIGA um einiges schwerer zu\l"
-	.string "besiegen sind als die ARENALEITER.$"
+	.string "Ich habe gehört, dass die Top Vier der\n"
+	.string "Pokémon Liga um einiges schwerer zu\l"
+	.string "besiegen sind als die Arenaleiter.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "Ich habe die Familie SIHGERS heraus-\n"
+	.string "Ich habe die Familie Sihgers heraus-\n"
 	.string "gefordert und viermal hintereinander\l"
 	.string "gekämpft… Hinterher war ich kaputt…$"
 
 Route111_Text_RouteSignMauville:
-	.string "ROUTE 111\n"
-	.string "{DOWN_ARROW} MALVENFROH CITY$"
+	.string "Route 111\n"
+	.string "{DOWN_ARROW} Malvenfroh City$"
 
 Route111_Text_WinstrateHouseSign:
-	.string "DAS HAUS DER SIHGERS\n"
+	.string "Das Haus der Sihgers\n"
 	.string "“Die Herzen unserer Familie schlagen\n"
 	.string "im\l"
 	.string "Einklang!”$"
 
 Route111_Text_RouteSign112:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 112$"
+	.string "Route 111\n"
+	.string "{LEFT_ARROW} Route 112$"
 
 Route111_Text_RouteSign113:
-	.string "ROUTE 111\n"
-	.string "{LEFT_ARROW} ROUTE 113$"
+	.string "Route 111\n"
+	.string "{LEFT_ARROW} Route 113$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "HOTEL DER ALTEN DAME\n"
+	.string "Hotel der Alten Dame\n"
 	.string "“Komm, ruh deine müden Knochen aus.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
-	.string "TIPPS für TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Ein Indikator für die Stärke eines\n"
-	.string "POKéMON ist der SP. ANG. Das steht\l"
-	.string "für “SPEZIAL ANGRIFF”.\p"
-	.string "SP. VER. steht für “SPEZIAL\n"
-	.string "VERTEIDIGUNG”.$"
+	.string "Pokémon ist der SP. ANG. Das steht\l"
+	.string "für “Spezial Angriff”.\p"
+	.string "SP. Ver. steht für “Spezial\n"
+	.string "Verteidigung”.$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "Hier in der Nähe sollte eigentlich ein\n"
@@ -679,7 +679,7 @@ Route111_Text_ShouldBeMirageTowerAroundHere:
 	.string "\p"
 	.string "Aber aus irgendeinem Grund ist er\n"
 	.string "nur manchmal sichtbar.\p"
-	.string "Deshalb nenne ich ihn WUNDERTURM.$"
+	.string "Deshalb nenne ich ihn Wunderturm.$"
 
 Route111_Text_MirageTowerClearlyVisible:
 	.string "Ich sehe ihn!\n"
@@ -704,27 +704,27 @@ Route111_Text_MirageTowerHasntBeenSeenSince:
 	.string "gesprochen habe, ist der Turm noch\l"
 	.string "nicht wieder sichtbar gewesen.\p"
 	.string "Vielleicht war es wirklich der\n"
-	.string "WUNDERTURM…$"
+	.string "Wunderturm…$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "Das KLAUENFOSSIL ist im Sand\n"
+	.string "Das Klauenfossil ist im Sand\n"
 	.string "versunken…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "Das WURZELFOSSIL ist im Sand\n"
+	.string "Das Wurzelfossil ist im Sand\n"
 	.string "versunken…$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Oh, nein!\p"
-	.string "Und mein Onkel in MALVENFROH CITY hat\n"
+	.string "Und mein Onkel in Malvenfroh City hat\n"
 	.string "mir extra noch gesagt, ich soll\l"
-	.string "ZERTRÜMMERER mitnehmen, wenn ich\p"
-	.string "zur ROUTE 111 gehe.\n"
+	.string "Zertrümmerer mitnehmen, wenn ich\p"
+	.string "zur Route 111 gehe.\n"
 	.string "Mein Onkel? Der lebt gegenüber vom\l"
-	.string "Fahrradladen in MALVENFROH.$"
+	.string "Fahrradladen in Malvenfroh.$"
 
 Route111_Text_TrainerHillSign:
-	.string "{RIGHT_ARROW} EINGANG TRAINERBERG\p"
+	.string "{RIGHT_ARROW} Eingang Trainerberg\p"
 	.string "“Erklimm den Gipfel, heißblütiger\n"
-	.string "TRAINER!”$"
+	.string "Trainer!”$"
 

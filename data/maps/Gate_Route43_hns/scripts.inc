@@ -75,7 +75,7 @@ Gate_Route43_Rocket_Text_TollFee:
 	.string "durchzugehen.$"
 
 Gate_Route43_Rocket_Text_ThankYou:
-	.string "Vielen Dank!$"
+	.string "Hehehe! Du bist ein guter Kunde!$"
 
 Gate_Route43_Rocket_Text_AllYouGot:
 	.string "Dann zahl, was du hast, bitte.$"
@@ -89,9 +89,10 @@ Gate_Route43_Rocket_Text_KickOut:
 	.string "Wächter, verstanden?$"
 
 Gate_Route43_Rocket_Text_MakingABundle:
-	.string "He-he-he. Wir machen Kasse.\p"
-	.string "Jeder will sehen, was am SEE DES\n"
-	.string "ZORNS los ist.$"
+	.string "Hehehe, seitdem das Gerücht kursiert,\n"
+	.string "dass am See des Zorns irgendwas ganz\l"
+	.string "Merkwürdiges im Busch sein soll,\l"
+	.string "strömen die Leute hier in Massen durch!$"
 
 Route43Gate_Text_OfficerFoundTM:
 	.string "Ich wurde von diesen Dieben"

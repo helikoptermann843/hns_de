@@ -80,7 +80,7 @@ MeteorFalls_1F_2R_Text_NicolasPostBattle:
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
 	.string "Von dir möchte ich noch mehr erfahren.\n"
-	.string "Ich trage dich in meinen POKéNAV ein.$"
+	.string "Ich trage dich in meinen Pokénav ein.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
 	.string "Seit wir uns das letzte Mal gesehen\n"
@@ -113,14 +113,14 @@ MeteorFalls_1F_2R_Text_JohnPostBattle:
 	.string "schafft, meine Frau zu besiegen.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "URS: Nun, was für ein junger TRAINER!\n"
+	.string "Urs: Nun, was für ein junger Trainer!\n"
 	.string "\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
-	.string "dann musst du dir noch mehr POKéMON\l"
+	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "URS: Junger TRAINER! Wenn du die\n"
+	.string "Urs: Junger Trainer! Wenn du die\n"
 	.string "Chance\n"
 	.string "hast, wirst du wieder gegen uns\l"
 	.string "antreten?$"
@@ -142,10 +142,10 @@ MeteorFalls_1F_2R_Text_JayPostBattle:
 	.string "Kampf.$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "EVI: Hmm… Bist du nicht ein bisschen\n"
-	.string "zu klein für einen TRAINER?\p"
+	.string "Evi: Hmm… Bist du nicht ein bisschen\n"
+	.string "zu klein für einen Trainer?\p"
 	.string "Möchtest du mit uns kämpfen? Dann\n"
-	.string "musst du dir noch mehr POKéMON\l"
+	.string "musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:

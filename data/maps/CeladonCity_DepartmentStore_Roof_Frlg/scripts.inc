@@ -290,7 +290,7 @@ CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 	.string "Ja!\p"
-	.string "TAFELWASSER!\p"
+	.string "Tafelwasser!\p"
 	.string "Vielen Dank!\n"
 	.string "Nimm bitte dieses Geschenk!$"
 
@@ -299,30 +299,30 @@ Text_ReceivedItemFromLittleGirl::
 	.string "from the little girl.$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
-	.string "TM16 ist LICHTSCHILD!\p"
+	.string "TM16 ist Lichtschild!\p"
 	.string "Damit schwächst du die gegne-\n"
 	.string "rischen Spezial-Attacken.$"
 
 CeladonCity_DepartmentStore_Roof_Text_YaySodaPopHaveThis::
 	.string "Cool!\p"
-	.string "SPRUDEL!\p"
+	.string "Sprudel!\p"
 	.string "Vielen Dank!\n"
 	.string "Nimm bitte dieses Geschenk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM20::
-	.string "TM20 ist BODYGUARD!\p"
+	.string "TM20 ist Bodyguard!\p"
 	.string "Diese Attacke verhindert\n"
 	.string "Statusprobleme bei deinen\l"
-	.string "POKéMON!$"
+	.string "Pokémon!$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayLemonadeHaveThis::
 	.string "Cool!\p"
-	.string "LIMONADE!\p"
+	.string "Limonade!\p"
 	.string "Vielen Dank!\n"
 	.string "Nimm bitte dieses Geschenk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM33::
-	.string "TM33 ist REFLEKTOR!\p"
+	.string "TM33 ist Reflektor!\p"
 	.string "Diese Attacke schwächt\n"
 	.string "physische Angriffe des Gegners.$"
 
@@ -335,7 +335,7 @@ CeladonCity_DepartmentStore_Roof_Text_ImNotThirstyAfterAll::
 
 CeladonCity_DepartmentStore_Roof_Text_MySisterIsImmature::
 	.string "Ob du es glaubst oder nicht: Meine\n"
-	.string "Schwester ist eine TRAINERin!\p"
+	.string "Schwester ist eine Trainerin!\p"
 	.string "Aber sie ist so kindisch! Ich werde\n"
 	.string "noch ganz verrückt!$"
 
@@ -344,8 +344,8 @@ CeladonCity_DepartmentStore_Roof_Text_ImThirstyIWantDrink::
 	.string "Ein Königreich für ein Getränk!$"
 
 CeladonCity_DepartmentStore_Roof_Text_FloorSign::
-	.string "DACHGARTEN:\n"
-	.string "AUTOMATEN$"
+	.string "Dachgarten:\n"
+	.string "Automaten$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
 	.string "A vending machine!\n"

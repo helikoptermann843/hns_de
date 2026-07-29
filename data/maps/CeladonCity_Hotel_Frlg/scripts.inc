@@ -18,14 +18,14 @@ CeladonCity_Hotel_EventScript_BeautyBrother::
 	end
 
 CeladonCity_Hotel_Text_ThisHotelIsForPeople::
-	.string "In diesem Hotel sind keine POKéMON\n"
+	.string "In diesem Hotel sind keine Pokémon\n"
 	.string "erlaubt!\p"
 	.string "Tut mir Leid.$"
 
 CeladonCity_Hotel_Text_OnVacationWithBrotherAndBoyfriend::
 	.string "Ich mache hier mit meinem Bruder\n"
 	.string "und meinem Freund Urlaub.\p"
-	.string "PRISMANIA CITY ist wunderschön!$"
+	.string "Prismania City ist wunderschön!$"
 
 CeladonCity_Hotel_Text_WhyDidSheBringBrother::
 	.string "Warum nur musste sie ihren Bruder\n"

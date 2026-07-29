@@ -4,14 +4,14 @@ Route30_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, Route30_OnFrame
 	.byte 0
 
-Route30_OnTransition: 
+Route30_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
 Route30_OnFrame::
 	map_script_2 VAR_CHERRYGROVE_CITY_STATE, 2, Route30_EventScript_ElmCall_Trigger
 	.2byte 0
-	
+
 Route30_EventScript_Boy::
 	lock
 	faceplayer
@@ -76,7 +76,7 @@ Route30_EventScript_Youngster_Mikey::
 	trainerbattle_single TRAINER_MIKEY_HNS, Route30_Text_YoungsterMikeySeen, Route30_Text_YoungsterMikeyBeaten
 	msgbox Route30_Text_YoungsterMikeyAfter, MSGBOX_AUTOCLOSE
 	end
-	
+
 Route30_EventScript_Bugcatcher_Don::
 	trainerbattle_single TRAINER_DON_HNS, Route30_Text_BugCatcherDonSeen, Route30_Text_BugCatcherDonBeaten
 	msgbox Route30_Text_BugCatcherDonAfter, MSGBOX_AUTOCLOSE
@@ -104,7 +104,7 @@ Route30_EventScript_TrainerTips::
 	msgbox Route30_Text_TrainerTips, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 Route30_EventScript_Poliwag::
 	lock
@@ -121,10 +121,10 @@ Route30_EventScript_Mailbox::
 	end
 
 Route30_Text_Mailbox:
-	.string "MR.Pokémon's Haus$"
+	.string "Das Haus von Mr. Pokémon$"
 
 Route30_Text_UseTackle:
-	.string "Los, RATTFRATZ!\p"
+	.string "Los, Rattfratz!\p"
 	.string "Tackle!$"
 
 Route30_Text_ThisIsABigBattle:
@@ -175,7 +175,7 @@ Route30_Text_BugCatcherDonAfter:
 	.string "Ich hätte mehr kaufen sollen…$"
 
 Route30_Text_YoungsterDirectionsToMrPokemon:
-	.string "Das Haus von MR. Pokémon\n"
+	.string "Das Haus von Mr. Pokémon\n"
 	.string "ist gleich da vorne!$"
 
 Route30_Text_YoungsterEveryoneIsBattling:
@@ -188,8 +188,8 @@ Route30_Text_CooltrainerF:
 	.string "einen Kampf vorbereiten!$"
 
 Route30_Text_Sign:
-	.string "ROUTE 30\p"
-	.string "VIOLA CITY - ROSALIA CITY$"
+	.string "Route 30\p"
+	.string "Viola City - Rosalia City$"
 
 Route30_Text_MrPokemonsHouseDirectionsSign:
 	.string "Das Haus von Mr. Pokémon?\n"
@@ -207,11 +207,11 @@ Route30_Text_TrainerTips:
 
 Route30_Text_JoeyRegister:
     .string "Du bist ziemlich gut!\p"
-    .string "Mein RATTFRATZ will wie immer\n"
+    .string "Mein Rattfratz will wie immer\n"
     .string "sofort loslegen.\p"
-    .string "Es ist mein einziges POKéMON.\n"
+    .string "Es ist mein einziges Pokémon.\n"
     .string "Mit ihm werde ich ein großer\l"
-    .string "TRAINER werden!\p"
+    .string "Trainer werden!\p"
     .string "Lass uns irgendwann wieder\n"
     .string "kämpfen!$"
 
@@ -225,7 +225,7 @@ Route30_Text_JoeyRematchDefeat:
 
 Route30_Text_JoeyPostRematch:
     .string "Ich überprüfe die Attacken\n"
-    .string "meines RATTFRATZ und tüftele\l"
+    .string "meines Rattfratz und tüftele\l"
     .string "an neuen Strategien.\p"
     .string "Wenn ich eine gute gefunden\n"
     .string "habe, kämpfen wir wieder!$"
@@ -240,7 +240,7 @@ Route30_Text_YoungsterJoeyGiveHPUp:
 	.string "Ich werde auch stärker werden.$"
 
 Route30_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 Route30_Text_Elm_Disaster:
 	.string "H-hallo, {PLAYER}?\n"

@@ -46,7 +46,7 @@ Route114_LanettesHouse_EventScript_PC::
 	end
 
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
-	.string "LANETTE: Oh! {PLAYER}{KUN}!\p"
+	.string "Lanette: Oh! {PLAYER}{KUN}!\p"
 	.string "Entschuldige, dass es hier so\n"
 	.string "chaotisch\n"
 	.string "aussieht. Immer, wenn ich forsche,\l"
@@ -57,39 +57,39 @@ Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
 	.string "Soll ich dir einige Hinweise zum\n"
-	.string "POKéMON-Lagerungs-System geben?\p"
-	.string "Du solltest deine BOXen gut verwalten,\n"
-	.string "damit du weißt, welche POKéMON sich \l"
-	.string "in welcher BOX befinden…$"
+	.string "Pokémon-Lagerungs-System geben?\p"
+	.string "Du solltest deine Boxen gut verwalten,\n"
+	.string "damit du weißt, welche Pokémon sich \l"
+	.string "in welcher Box befinden…$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "LANETTEs Forschungs-Aufzeichnungen.\n"
-	.string "Das sind Informationen zu den BOXen.\p"
-	.string "Es sollten BOXen eingerichtet werden,\n"
-	.string "die jeweils 30 POKéMON aufnehmen\l"
+	.string "Lanettes Forschungs-Aufzeichnungen.\n"
+	.string "Das sind Informationen zu den Boxen.\p"
+	.string "Es sollten Boxen eingerichtet werden,\n"
+	.string "die jeweils 30 Pokémon aufnehmen\l"
 	.string "können.\p"
-	.string "Jeder TRAINER sollte in der Lage sein,\n"
-	.string "420 POKéMON im PC-System zu lagern.\p"
+	.string "Jeder Trainer sollte in der Lage sein,\n"
+	.string "420 Pokémon im PC-System zu lagern.\p"
 	.string "Weiterlesen?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
 	.string "Es muss ein Markierungssystem einge-\n"
 	.string "richtet werden, mit dem man eine gute\l"
-	.string "Übersicht über die POKéMON bekommt.\p"
-	.string "Der Name und der Hintergrund jeder BOX\n"
+	.string "Übersicht über die Pokémon bekommt.\p"
+	.string "Der Name und der Hintergrund jeder Box\n"
 	.string "lassen sich verändern, zur Freude der\l"
-	.string "darin gelagerten POKéMON.\p"
+	.string "darin gelagerten Pokémon.\p"
 	.string "Weiterlesen?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage3:
-	.string "Immer, wenn ein POKéMON gelagert wird,\n"
-	.string "wird es in der BOX gelagert, die als\l"
+	.string "Immer, wenn ein Pokémon gelagert wird,\n"
+	.string "wird es in der Box gelagert, die als\l"
 	.string "Letzte geöffnet wurde.\p"
-	.string "Ist diese BOX voll, wird das POKéMON\n"
-	.string "in der nächsten BOX gelagert.\p"
+	.string "Ist diese Box voll, wird das Pokémon\n"
+	.string "in der nächsten Box gelagert.\p"
 	.string "Mit anderen Worten, die zuletzt ge-\n"
-	.string "öffnete BOX wird automatisch gewählt,\l"
-	.string "um ein POKéMON zu lagern.$"
+	.string "öffnete Box wird automatisch gewählt,\l"
+	.string "um ein Pokémon zu lagern.$"
 
 Route114_LanettesHouse_Text_ClosedTheNotebook:
 	.string "{PLAYER} schließt das Notizbuch.$"
@@ -108,5 +108,5 @@ Route114_LanettesHouse_Text_EmailFromBill:
 	.string "Ich hoffe sehr, du setzt deine For-\n"
 	.string "schungen in diesem Bereich weiter\n"
 	.string "fort. \p"
-	.string "BILL … … … … … … … …”$"
+	.string "Bill … … … … … … … …”$"
 

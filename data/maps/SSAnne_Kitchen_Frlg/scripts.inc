@@ -55,7 +55,7 @@ SSAnne_Kitchen_Text_BusyOutOfTheWay::
 
 SSAnne_Kitchen_Text_SawOddBerryInTrash::
 	.string "Im Abfalleimer habe ich eine\n"
-	.string "merkwürdige BEERE gesehen!\l"
+	.string "merkwürdige Beere gesehen!\l"
 	.string "Ich frage mich, was das genau\l"
 	.string "war!$"
 
@@ -69,7 +69,7 @@ SSAnne_Kitchen_Text_PeelSpudsEveryDay::
 	.string "schälen...$"
 
 SSAnne_Kitchen_Text_HearAboutSnorlaxItsAGlutton::
-	.string "Hast du schon von RELAXO gehört?\p"
+	.string "Hast du schon von Relaxo gehört?\p"
 	.string "Es schläft und frisst den ganzen\n"
 	.string "Tag!$"
 

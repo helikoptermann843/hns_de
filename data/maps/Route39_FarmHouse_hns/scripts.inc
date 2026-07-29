@@ -16,7 +16,7 @@ Route39House_EventScript_FarmerFAfter::
 	msgbox Route39_Text_FarmerFHealedMiltank, MSGBOX_DEFAULT
 	giveitem ITEM_TM_SNATCH
 	msgbox Route39_Text_FarmerFSnatchSpeech, MSGBOX_DEFAULT
-	closemessage 
+	closemessage
 	setflag FLAG_GOT_TM_SNATCH
 	release
 	end
@@ -49,7 +49,7 @@ Route39_FarmHouse_EventScript_FarmerMBuyMilk::
 	msgbox Route39FarmHouse_Text_WouldYouLikeAnother, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, TRUE, Route39_FarmHouse_EventScript_FarmerMBuyMilk
 
-	
+
 	msgbox Route39_Text_FarmerMGotMilk, MSGBOX_DEFAULT
 	closemessage
 	playse MUS_OBTAIN_ITEM
@@ -80,7 +80,7 @@ Route39_FarmHouse_EventScript_FarmerM_NotEnough::
 	end
 
 Route39_Text_FarmerMSickCow:
-	.string "Unser MILTANK gibt keine Milch mehr!\p"
+	.string "Unser Miltank gibt keine Milch mehr!\p"
 	.string "Diese Farm ist berühmt für die Milch,\n"
 	.string "die hier produziert wird. Die Leute\l"
 	.string "reißen sich richtiggehend darum!\p"
@@ -103,7 +103,7 @@ Route39_Text_FarmerMNoMoney:
 	.string "Oh, dein Geld reicht leider nicht!$"
 
 Route39_Text_FarmerMNoRoom:
-	.string "Hm, dein BEUTEL ist wohl\n"
+	.string "Hm, dein Beutel ist wohl\n"
 	.string "schon voll.$"
 
 Route39_Text_FarmerMNoSale:
@@ -115,7 +115,7 @@ Route39FarmHouse_Text_WouldYouLikeAnother:
 
 Route39_Text_GotMilk:
 	.string "{PLAYER} erhielt\n"
-	.string "KUHMUH-MILCH.$"
+	.string "Kuhmuh-Milch.$"
 
 Route39_Text_FarmerMMilking:
 	.string "Hm, vielleicht sollte ich mal mit dem\n"
@@ -124,16 +124,16 @@ Route39_Text_FarmerMMilking:
 Route39_Text_FarmerFInTrouble:
 	.string "Unsere Milch wird sogar bis nach\n"
 	.string "Kanto geliefert!\p"
-	.string "Wenn unser MILTANK keine Milch mehr\n"
+	.string "Wenn unser Miltank keine Milch mehr\n"
 	.string "gibt, haben wir also echt Probleme!$"
 
 Route39_Text_FarmerFHealedMiltank:
 	.string "Dir haben wir zu verdanken, dass unser\n"
-	.string "MILTANK wieder leckere Milch gibt!\p"
+	.string "Miltank wieder leckere Milch gibt!\p"
 	.string "Hier, das ist für deine Mühen!$"
 
 Route39_Text_FarmerFSnatchSpeech:
-	.string "Das ist ÜBERNAHME.\p"
+	.string "Das ist Übernahme.\p"
 	.string "Eine knifflige Attacke, mit\n"
 	.string "der ein Pokémon die Attacke\l"
 	.string "des Gegners kurz vor dem\p"

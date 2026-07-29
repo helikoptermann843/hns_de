@@ -40,17 +40,17 @@ RS_MysteryEventsHouse_EventScript_Door::
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
 	.string "Als ich noch jung war, bin ich als\n"
-	.string "POKéMON-TRAINER durch die Welt\l"
+	.string "Pokémon-Trainer durch die Welt\l"
 	.string "gereist.\p"
 	.string "Nun, da ich ein alter Knabe geworden\n"
 	.string "bin, beobachte ich mit Freuden die\l"
-	.string "jungen TRAINER bei ihren Kämpfen.$"
+	.string "jungen Trainer bei ihren Kämpfen.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
 	.string "Diese Tür ist verschlossen.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "Ein TRAINER namens {STR_VAR_1} ist bei\n"
+	.string "Ein Trainer namens {STR_VAR_1} ist bei\n"
 	.string "mir zu Besuch.\p"
 	.string "Möchtest du einmal gegen {STR_VAR_1}\n"
 	.string "antreten?$"
@@ -67,16 +67,14 @@ RS_MysteryEventsHouse_Text_KeepItToA3On3:
 	.string "ausfechten?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Bevor ihr gegeneinander antretet,\n"
+	.string "solltet ihr eure Spiele speichern!$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
 	.string "Ich hoffe, einen guten Kampf zu sehen!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Der Kampf endet unentschieden.$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
 	.string "Das war absolute Spitzenklasse!\p"

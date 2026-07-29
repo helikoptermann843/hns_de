@@ -449,31 +449,31 @@ PalletTown_EventScript_SignLadyStartShowSign::
 	end
 
 PalletTown_Text_OakDontGoOut::
-	.string "OAK: Hey! Wait!\n"
+	.string "Oak: Hey! Wait!\n"
 	.string "Don't go out!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
-	.string "PROF. EICH: Draußen ist es\n"
-	.string "gefährlich! Wilde POKéMON leben im\l"
+	.string "Prof. Eich: Draußen ist es\n"
+	.string "gefährlich! Wilde Pokémon leben im\l"
 	.string "hohen Gras!\p"
-	.string "Du brauchst eigene POKéMON, um\n"
+	.string "Du brauchst eigene Pokémon, um\n"
 	.string "dich zu schützen.\p"
 	.string "Komm, folge mir!$"
 
 PalletTown_Text_RaisingMonsToo::
-	.string "Auch ich ziehe POKéMON auf!\p"
+	.string "Auch ich ziehe Pokémon auf!\p"
 	.string "Wenn sie stark sind, können sie mich\n"
 	.string "beschützen!$"
 
 PalletTown_Text_CanStoreItemsAndMonsInPC::
 	.string "Die Technik heutzutage ist\n"
 	.string "unglaublich!\p"
-	.string "Man kann sogar Items und POKéMON\n"
+	.string "Man kann sogar Items und Pokémon\n"
 	.string "via PC lagern und wieder abrufen!$"
 
 PalletTown_Text_OakPokemonResearchLab::
-	.string "PROFESSOR EICH\n"
-	.string "POKéMON-LABOR$"
+	.string "Professor Eich\n"
+	.string "Pokémon-Labor$"
 
 PalletTown_Text_PlayersHouse::
 	.string "Haus von {PLAYER}$"
@@ -482,15 +482,15 @@ PalletTown_Text_RivalsHouse::
 	.string "Haus von {RIVAL}$"
 
 PalletTown_Text_TownSign::
-	.string "ALABASTIA\n"
+	.string "Alabastia\n"
 	.string "Dich erwarten aufregende\l"
 	.string "Abenteuer!$"
 
 PalletTown_Text_OakLetMeSeePokedex::
-	.string "EICH: Ah, {PLAYER}!\n"
+	.string "Eich: Ah, {PLAYER}!\n"
 	.string "Du bist also zurück?\p"
 	.string "Wie ist es denn um deinen\n"
-	.string "POKéDEX bestellt?\p"
+	.string "Pokédex bestellt?\p"
 	.string "Darf ich ihn sehen?\p"
 	.string "Aha…$"
 
@@ -510,7 +510,7 @@ PalletTown_Text_CaughtXImpressiveFollowMe::
 	.string "Folge mir!$"
 
 PalletTown_Text_OakYouEnjoyingTraveling::
-	.string "EICH: Ah, {PLAYER}!\n"
+	.string "Eich: Ah, {PLAYER}!\n"
 	.string "Dir scheint das Reisen Spaß zu\l"
 	.string "machen!\l"
 	.string "Da ich dich kenne, {PLAYER},\l"
@@ -533,7 +533,7 @@ PalletTown_Text_ReadItReadIt::
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::
-	.string "Drücke START, um das MENÜ\n"
+	.string "Drücke Start, um das Menü\n"
 	.string "aufzurufen!$"
 
 PalletTown_Text_SignsAreUsefulArentThey::
@@ -542,12 +542,12 @@ PalletTown_Text_SignsAreUsefulArentThey::
 PalletTown_Text_LookCopiedTrainerTipsSign::
 	.string "Sieh nur!\p"
 	.string "Ich habe das, was auf einem dieser\n"
-	.string "TIPPS für TRAINER-Schilder\l"
+	.string "Tipps für Trainer-Schilder\l"
 	.string "steht, abgeschrieben!$"
 
 @ Used by NPC
 PalletTown_Text_PressStartToOpenMenuCopy::
-	.string "Drücke START, um das MENÜ\n"
+	.string "Drücke Start, um das Menü\n"
 	.string "aufzurufen!$"
 
 

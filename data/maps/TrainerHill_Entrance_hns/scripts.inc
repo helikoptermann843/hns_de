@@ -295,17 +295,17 @@ TrainerHill_Entrance_hns_Text_Money:
 	.string "Belohnung geringer aus…$"
 
 TrainerHill_Entrance_hns_Text_StillGettingReady:
-	.string "Dies ist der TRAINERBERG,\n"
-	.string "wo viele DOPPELKÄMPFE auf dich\l"
+	.string "Dies ist der Trainerberg,\n"
+	.string "wo viele Doppelkämpfe auf dich\l"
 	.string "warten.\p"
 	.string "Leider sind wir noch mit den\n"
 	.string "Vorbereitungen beschäftigt.$"
 
 TrainerHill_Entrance_hns_Text_WelcomeToTrainerHill:
 	.string "Willkommen!\p"
-	.string "Dies ist der TRAINERBERG,\n"
-	.string "wo viele DOPPELKÄMPFE mit\l"
-	.string "TRAINERN stattfinden!$"
+	.string "Dies ist der Trainerberg,\n"
+	.string "wo viele Doppelkämpfe mit\l"
+	.string "Trainern stattfinden!$"
 
 TrainerHill_Entrance_hns_Text_SaveGameBeforeEnter:
 	.string "Ist das dein erster Besuch?\p"
@@ -314,19 +314,19 @@ TrainerHill_Entrance_hns_Text_SaveGameBeforeEnter:
 
 TrainerHill_Entrance_hns_Text_TrainersUpToFloorX:
 	.string "Mal sehen…\n"
-	.string "Die TRAINER befinden sich…\p"
+	.string "Die Trainer befinden sich…\p"
 	.string "bis einschließlich Etage\n"
 	.string "{STR_VAR_1}.$"
 
 TrainerHill_Entrance_hns_Text_TrainersInEveryRoom:
 	.string "Mal sehen…\n"
-	.string "Die TRAINER befinden sich…\p"
+	.string "Die Trainer befinden sich…\p"
 	.string "Offenbar wartet in jedem Raum\n"
-	.string "mindestens ein TRAINER.$"
+	.string "mindestens ein Trainer.$"
 
 TrainerHill_Entrance_hns_Text_LikeToChallengeTrainers:
 	.string "Möchtest du die wartenden\n"
-	.string "TRAINER herausfordern?$"
+	.string "Trainer herausfordern?$"
 
 TrainerHill_Entrance_hns_Text_TimeProgessGetSetGo:
 	.string "Ich messe deine Zeit.\n"
@@ -348,7 +348,7 @@ TrainerHill_Entrance_hns_Text_HopeYouGiveItYourBest:
 	.string "Ich wünsche dir viel Erfolg!$"
 
 TrainerHill_Entrance_hns_Text_MovedReceptionHereForSwitch:
-	.string "Beim Wechsel der TRAINER geht\n"
+	.string "Beim Wechsel der Trainer geht\n"
 	.string "es manchmal sehr hektisch zu.\p"
 	.string "Darum haben wir den Empfang\n"
 	.string "hierher verlegt.\p"
@@ -358,7 +358,7 @@ TrainerHill_Entrance_hns_Text_ThankYouForPlaying:
 	.string "Danke fürs Mitmachen!$"
 
 TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
-	.string "Im TRAINERBERG gibt es den\n"
+	.string "Im Trainerberg gibt es den\n"
 	.string "Zeitangriff-Wettbewerb.\p"
 	.string "Gemessen wird die Zeit vom\n"
 	.string "Empfang bis zum Besitzer auf\l"
@@ -370,14 +370,14 @@ TrainerHill_Entrance_hns_Text_ExplainTrainerHill:
 	.string "weder Erfahrung noch Geld.$"
 
 TrainerHill_Entrance_hns_Text_WhatSortOfTrainersAreAhead:
-	.string "Wer weiß, welche TRAINER und\n"
-	.string "POKéMON-Kombinationen warten?\p"
+	.string "Wer weiß, welche Trainer und\n"
+	.string "Pokémon-Kombinationen warten?\p"
 	.string "Egal wer mir im Weg steht,\n"
 	.string "ich werde ihn besiegen!$"
 
 TrainerHill_Entrance_hns_Text_CantWaitToTestTheWaters:
-	.string "Starke TRAINER aus aller Welt\n"
-	.string "kommen zum TRAINERBERG.\p"
+	.string "Starke Trainer aus aller Welt\n"
+	.string "kommen zum Trainerberg.\p"
 	.string "Ich kann es kaum erwarten,\n"
 	.string "mich mit ihnen zu messen!\p"
 	.string "Niemand wird mich aufhalten!$"

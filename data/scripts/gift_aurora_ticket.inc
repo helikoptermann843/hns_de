@@ -35,24 +35,24 @@ AuroraTicket_Obtained:
 	end
 
 sText_AuroraTicketForYou:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast.\p"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast.\p"
 	.string "Du musst {PLAYER} sein.\n"
 	.string "Hier ist ein Ticket für dich!$"
 
 sText_AuroraTicketUseAtPort:
 	.string "Du kannst es am Hafen von\n"
-	.string "SEEGRASULB CITY einsetzen.\p"
+	.string "Seegrasulb City einsetzen.\p"
 	.string "Warum probierst du es nicht\n"
 	.string "einfach aus?$"
 
 sText_AuroraTicketThankYou:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast!$"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast!$"
 
 sText_AuroraTicketBagFull:
 	.string "Oh, es tut mir Leid, {PLAYER}! Die\n"
-	.string "BASIS-ITEM-TASCHE in deinem\l"
-	.string "BEUTEL ist voll.\l"
+	.string "Basis-Item-Tasche in deinem\l"
+	.string "Beutel ist voll.\l"
 	.string "Lagere etwas auf deinem PC und\l"
 	.string "komme anschließend zurück.$"

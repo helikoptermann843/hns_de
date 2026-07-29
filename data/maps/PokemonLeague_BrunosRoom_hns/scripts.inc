@@ -10,7 +10,7 @@ PokemonLeague_BrunosRoom_OnResume::
 	end
 
 PokemonLeague_BrunosRoom_EventScript_Bruno::
-	lock 
+	lock
 	faceplayer
 	goto_if_ge VAR_LEAGUE_STATE, 4, PokemonLeague_BrunosRoom_EventScript_BrunoDefeated
 	goto_if_set FLAG_IS_CHAMPION, PokemonLeague_BrunosRoom_EventScript_BrunoRematch
@@ -28,11 +28,11 @@ PokemonLeague_BrunosRoom_EventScript_BrunoRematch::
 	goto PokemonLeague_BrunosRoom_EventScript_BrunoOnDefeat
 
 PokemonLeague_BrunosRoom_EventScript_BrunoOnDefeat::
-	clearflag FLAG_TEMP_5	
+	clearflag FLAG_TEMP_5
 	msgbox PokemonLeague_BrunosRoom_Text_Defeat, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x28E, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -66,7 +66,7 @@ PokemonLeague_BrunosRoom_Text_RematchBefore:
 
 PokemonLeague_BrunosRoom_Text_Before:
 	.string "Ich bin Bruno von den\n"
-	.string "TOP VIER.\p"
+	.string "Top Vier.\p"
 	.string "Ich trainiere bis ans Limit,\n"
 	.string "denn ich glaube an unser Potenzial.\p"
 	.string "So sind wir stark geworden.\p"
@@ -80,8 +80,7 @@ PokemonLeague_BrunosRoom_Text_Before:
 	.string "Hoo hah!$"
 
 PokemonLeague_BrunosRoom_Text_Beaten:
-	.string "Warum? Wie konnten wir\n"
-	.string "verlieren?$"
+	.string "Warum? Wie konnte ich nur verlieren?$"
 
 PokemonLeague_BrunosRoom_Text_Defeat:
 	.string "Nach dieser Niederlage habe ich\n"

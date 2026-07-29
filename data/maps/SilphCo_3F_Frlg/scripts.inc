@@ -35,11 +35,11 @@ SilphCo_3F_EventScript_Grunt::
 	end
 
 SilphCo_3F_Text_WhatAmIToDo::
-	.string "Ich arbeite für die SILPH CO.!\n"
+	.string "Ich arbeite für die Silph Co.!\n"
 	.string "Was soll ich bloß machen?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-	.string "Zunächst solltest du deine POKéMON\n"
+	.string "Zunächst solltest du deine Pokémon\n"
 	.string "vollständig heilen.$"
 
 SilphCo_3F_Text_GruntIntro::
@@ -66,6 +66,6 @@ SilphCo_3F_Text_JosePostBattle::
 	.string "lassen!$"
 
 SilphCo_3F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "2 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "2 Og$"
 

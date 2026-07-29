@@ -47,7 +47,7 @@ LavenderTown_EventScript_PokemonTowerSign::
 	end
 
 LavenderTown_Text_DoYouBelieveInGhosts::
-	.string "Glaubst du an GEISTER?$"
+	.string "Glaubst du an Geister?$"
 
 LavenderTown_Text_SoThereAreBelievers::
 	.string "Echt?\n"
@@ -60,30 +60,30 @@ LavenderTown_Text_JustImaginingWhiteHand::
 
 LavenderTown_Text_TownKnownAsMonGraveSite::
 	.string "Diese Stadt ist als Ruhestätte für\n"
-	.string "POKéMON bekannt.\p"
-	.string "Im POKéMON-TURM werden Andachten\n"
+	.string "Pokémon bekannt.\p"
+	.string "Im Pokémon-Turm werden Andachten\n"
 	.string "gehalten.$"
 
 LavenderTown_Text_GhostsAppearedInTower::
-	.string "GEISTER spuken im POKéMON-TURM.\p"
+	.string "Geister spuken im Pokémon-Turm.\p"
 	.string "Ich glaube, das sind die Geister\n"
-	.string "jener POKéMON, die das TEAM\l"
-	.string "ROCKET auf dem Gewissen hat!$"
+	.string "jener Pokémon, die das Team\l"
+	.string "Rocket auf dem Gewissen hat!$"
 
 LavenderTown_Text_TownSign::
-	.string "LAVANDIA\n"
+	.string "Lavandia\n"
 	.string "Die edle, violette Stadt!$"
 
 LavenderTown_Text_SilphScopeNotice::
-	.string "SILPH SCOPE!\n"
+	.string "Silph Scope!\n"
 	.string "Macht das Unsichtbare sichtbar!\p"
-	.string "SILPH CO.$"
+	.string "Silph Co.$"
 
 LavenderTown_Text_VolunteerPokemonHouse::
-	.string "LAVANDIA \n"
-	.string "POKéMON-HAUS$"
+	.string "Lavandia \n"
+	.string "Pokémon-Haus$"
 
 LavenderTown_Text_PokemonTowerSign::
-	.string "Mögen die Seelen der POKéMON im\n"
-	.string "POKéMON-TURM in Frieden ruhen!$"
+	.string "Mögen die Seelen der Pokémon im\n"
+	.string "Pokémon-Turm in Frieden ruhen!$"
 

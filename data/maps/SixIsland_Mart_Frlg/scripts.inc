@@ -30,11 +30,11 @@ SixIsland_Mart_EventScript_Picnicker::
 	end
 
 SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
-	.string "Spiele viel mit POKéMON und\n"
+	.string "Spiele viel mit Pokémon und\n"
 	.string "führe ein langes Leben!\p"
-	.string "Nimm z.B. AGATHE!\p"
+	.string "Nimm z.B. Agathe!\p"
 	.string "Sie hält den Rekord als ältestes\n"
-	.string "Mitglied der TOP VIER.\p"
+	.string "Mitglied der Top Vier.\p"
 	.string "Sie ist mein Ansporn nach\n"
 	.string "Größerem zu streben.$"
 

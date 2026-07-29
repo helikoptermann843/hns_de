@@ -171,29 +171,29 @@ Route123_EventScript_RematchFernando::
 	end
 
 Route123_Text_LoveGrassMonsHaveAny:
-	.string "Ich liebe PFLANZEN-POKéMON!\p"
-	.string "Hast du einige PFLANZEN-POKéMON?$"
+	.string "Ich liebe Pflanzen-Pokémon!\p"
+	.string "Hast du einige Pflanzen-Pokémon?$"
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
 	.string "Oh?\p"
-	.string "Du magst PFLANZEN-POKéMON auch sehr\n"
+	.string "Du magst Pflanzen-Pokémon auch sehr\n"
 	.string "gerne, habe ich Recht?\p"
 	.string "Das freut mich sehr. Ich schenke dir\n"
 	.string "ein Zeichen unserer Freundschaft.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
 	.string "Ich prüfe die Bäume mit Hilfe meiner\n"
-	.string "PFLANZEN-POKéMON. Ich bin so etwas wie\l"
+	.string "Pflanzen-Pokémon. Ich bin so etwas wie\l"
 	.string "ein Baumdoktor.$"
 
 Route123_Text_RouteSign:
-	.string "{RIGHT_ARROW} ROUTE 123\n"
-	.string "{LEFT_ARROW} ROUTE 118$"
+	.string "{RIGHT_ARROW} Route 123\n"
+	.string "{LEFT_ARROW} Route 118$"
 
 Route123_Text_RouteSignMtPyre:
-	.string "{UP_ARROW} PYROBERG\n"
+	.string "{UP_ARROW} Pyroberg\n"
 	.string "“Für Zaghafte verboten.”$"
 
 Route123_Text_BerryMastersHouse:
-	.string "VILLA DES BEERENMEISTERS$"
+	.string "Villa des Beerenmeisters$"
 

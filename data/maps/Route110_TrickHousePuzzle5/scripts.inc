@@ -898,105 +898,105 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER} hat den geheimen Code auf die\n"
 	.string "Tür geschrieben.\p"
-	.string "“RÄTSELMEISTER ist ein Genie.”\n"
+	.string "“Rätselmeister ist ein Genie.”\n"
 	.string "… … … … … … … …\p"
 	.string "Das Schloss geht klickend auf.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
 	.string "Klick-klack… Robopuppe 1 Ich Bin!\p"
-	.string "Gibst DU IM Quiz Richtige Antworten,\n"
-	.string "Erreichst DU Bald Robopuppe 5.\l"
-	.string "Dort Erhältst DU Den Geheimen Code.$"
+	.string "Gibst du im Quiz Richtige Antworten,\n"
+	.string "Erreichst du Bald Robopuppe 5.\l"
+	.string "Dort Erhältst du Den Geheimen Code.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
-	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON kann man nicht\n"
-	.string "auf der ROUTE 110 finden. Welches?$"
+	.string "Robopuppe 1 Quiz.\p"
+	.string "Eines dieser Pokémon kann man nicht\n"
+	.string "auf der Route 110 finden. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
-	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON ist kein\n"
-	.string "WASSER-POKéMON. Welches?$"
+	.string "Robopuppe 1 Quiz.\p"
+	.string "Eines dieser Pokémon ist kein\n"
+	.string "Wasser-Pokémon. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
-	.string "ROBOPUPPE 1 QUIZ.\p"
-	.string "Eines dieser POKéMON setzt\n"
-	.string "nicht BLUTSAUGER ein. Welches?$"
+	.string "Robopuppe 1 Quiz.\p"
+	.string "Eines dieser Pokémon setzt\n"
+	.string "nicht Blutsauger ein. Welches?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "GLÜCKWUNSCH! RICHTIG.\n"
-	.string "GEHE HINDURCH. BITTE.$"
+	.string "Glückwunsch! Richtig.\n"
+	.string "Gehe hindurch. Bitte.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. ENTTÄUSCHEND.\n"
-	.string "FEHLER.$"
+	.string "Bzzzt. Enttäuschend.\n"
+	.string "Fehler.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
-	.string "WAHAHAHAHA! WAHAHAHAHA!\n"
-	.string "KLICK-KLACK!$"
+	.string "Wahahahaha! Wahahahaha!\n"
+	.string "Klick-Klack!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
-	.string "DEINE NÄCHSTE HERAUSFORDERUNG WIR\n"
-	.string "ERWARTEN.$"
+	.string "Deine Nächste Herausforderung wir\n"
+	.string "erwarten.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
 	.string "Klick-klack… Robopuppe 2 Ich Bin!\p"
 	.string "Robopuppe 1 Quiz-schwierigkeits-\n"
-	.string "Grad Ist ZU Niedrig.$"
+	.string "Grad Ist zu Niedrig.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
-	.string "ROBOPUPPE 2 QUIZ.\p"
-	.string "Welches POKéMON leiht HEIKO sich von\n"
+	.string "Robopuppe 2 Quiz.\p"
+	.string "Welches Pokémon leiht Heiko sich von\n"
 	.string "deinem Vater aus?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
-	.string "ROBOPUPPE 2 QUIZ.\p"
-	.string "Von welchem POKéMON wird PROF. BIRK\n"
+	.string "Robopuppe 2 Quiz.\p"
+	.string "Von welchem Pokémon wird Prof. Birk\n"
 	.string "verfolgt?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
-	.string "ROBOPUPPE 2 QUIZ.\p"
-	.string "Welches POKéMON hat TEAM AQUA\n"
-	.string "im BLÜTENBURGWALD eingesetzt?$"
+	.string "Robopuppe 2 Quiz.\p"
+	.string "Welches Pokémon hat Team Aqua\n"
+	.string "im Blütenburgwald eingesetzt?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
 	.string "Klick-klack… Robopuppe 3 Ich Bin!\p"
 	.string "Für Mich Zählt Nur Geld.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
-	.string "ROBOPUPPE 3 QUIZ.\p"
-	.string "Was ist teurer? Drei HAFENBRIEFe\n"
-	.string "oder ein FEUERHEILER?$"
+	.string "Robopuppe 3 Quiz.\p"
+	.string "Was ist teurer? Drei Hafenbriefe\n"
+	.string "oder ein Feuerheiler?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
-	.string "ROBOPUPPE 3 QUIZ.\p"
-	.string "Verkaufe einen SUPERBALL und kaufe\n"
-	.string "einen TRANK. Wie viel Geld bleibt\l"
+	.string "Robopuppe 3 Quiz.\p"
+	.string "Verkaufe einen Superball und kaufe\n"
+	.string "einen Trank. Wie viel Geld bleibt\l"
 	.string "übrig?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
-	.string "ROBOPUPPE 3 QUIZ.\p"
-	.string "Kosten ein SCHUTZ und ein\n"
-	.string "SPRUDEL mehr als ein SUPERTRANK?$"
+	.string "Robopuppe 3 Quiz.\p"
+	.string "Kosten ein Schutz und ein\n"
+	.string "Sprudel mehr als ein Supertrank?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
 	.string "Klick-klack… Robopuppe 4 Ich Bin!\p"
 	.string "Ich Interessiere Mich Für Schönes.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
-	.string "ROBOPUPPE 4 QUIZ.\p"
-	.string "Befanden sich im STRANDHAUS mehr\n"
+	.string "Robopuppe 4 Quiz.\p"
+	.string "Befanden sich im Strandhaus mehr\n"
 	.string "Frauen oder mehr Männer?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
-	.string "ROBOPUPPE 4 QUIZ.\p"
-	.string "Waren in BAD LAVASTADT mehr ältere\n"
+	.string "Robopuppe 4 Quiz.\p"
+	.string "Waren in Bad Lavastadt mehr ältere\n"
 	.string "Männer oder mehr ältere Frauen?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
-	.string "ROBOPUPPE 4 QUIZ.\p"
+	.string "Robopuppe 4 Quiz.\p"
 	.string "Wie viele Schülerinnen waren in der\n"
-	.string "TRAINERSCHULE?$"
+	.string "Trainerschule?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
 	.string "Klick-klack… Robopuppe 5 Ich Bin!\p"
@@ -1004,16 +1004,16 @@ Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
 	.string "Erfindung Ich Bin.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
-	.string "ROBOPUPPE 5 QUIZ.\p"
-	.string "Wie viele POKéMON waren im\n"
-	.string "GRAPHITPORT POKéMON-FANCLUB?$"
+	.string "Robopuppe 5 Quiz.\p"
+	.string "Wie viele Pokémon waren im\n"
+	.string "Graphitport Pokémon-Fanclub?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
-	.string "ROBOPUPPE 5 QUIZ.\p"
+	.string "Robopuppe 5 Quiz.\p"
 	.string "Wie viele Baumhäuser gibt es in\n"
-	.string "BAUMHAUSEN CITY?$"
+	.string "Baumhausen City?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
-	.string "ROBOPUPPE 5 QUIZ.\p"
+	.string "Robopuppe 5 Quiz.\p"
 	.string "Wie viele Triathleten waren auf dem\n"
-	.string "RADWEG?$"
+	.string "Radweg?$"

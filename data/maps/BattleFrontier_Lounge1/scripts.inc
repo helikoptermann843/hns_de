@@ -189,23 +189,23 @@ BattleFrontier_Lounge1_Text_BestAspectHP:
 
 BattleFrontier_Lounge1_Text_BestAspectAtk:
 	.string "Meiner Meinung nach liegt seine Stärke\n"
-	.string "in seinem ANGRIFF…$"
+	.string "in seinem Angriff…$"
 
 BattleFrontier_Lounge1_Text_BestAspectDef:
 	.string "Meiner Meinung nach liegt seine Stärke\n"
-	.string "in seiner VERTEIDIGUNG…$"
+	.string "in seiner Verteidigung…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpAtk:
 	.string "Meiner Meinung nach liegt seine Stärke\n"
-	.string "in seinem SPEZIAL-ANGRIFF…$"
+	.string "in seinem Spezial-Angriff…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpDef:
 	.string "Meiner Meinung nach liegt seine Stärke\n"
-	.string "in seiner SPEZIAL-VERTEIDIGUNG…$"
+	.string "in seiner Spezial-Verteidigung…$"
 
 BattleFrontier_Lounge1_Text_BestAspectSpeed:
 	.string "Meiner Meinung nach liegt seine Stärke\n"
-	.string "in seiner INITIATIVE…$"
+	.string "in seiner Initiative…$"
 
 BattleFrontier_Lounge1_Text_StatRelativelyGood:
 	.string "Sein Status ist relativ gut.\n"
@@ -237,25 +237,25 @@ BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
 	.string "Ah, ein junges Gesicht! Interessieren\n"
-	.string "dich die Fähigkeiten deiner POKéMON?\p"
+	.string "dich die Fähigkeiten deiner Pokémon?\p"
 	.string "Dann komm! Lass uns einen Blick\n"
-	.string "auf deine POKéMON werfen.$"
+	.string "auf deine Pokémon werfen.$"
 
 BattleFrontier_Lounge1_Text_EvenICantTell:
 	.string "Ich bin zwar ein Experte, aber auch\n"
 	.string "ich\n"
 	.string "bin nicht in der Lage, etwas zu einem\l"
-	.string "ungeschlüpften POKéMON zu sagen.\p"
-	.string "Zeig mir ein POKéMON!\n"
+	.string "ungeschlüpften Pokémon zu sagen.\p"
+	.string "Zeig mir ein Pokémon!\n"
 	.string "Ich muss nur einen Blick drauf werfen.$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "Er hat gesagt, mein POKéMON sei\n"
+	.string "Er hat gesagt, mein Pokémon sei\n"
 	.string "herausragend! Ich bin froh, dass ich\l"
 	.string "es sorgfältig aufgezogen habe.$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:
-	.string "Er hat gesagt, mein POKéMON sei\n"
+	.string "Er hat gesagt, mein Pokémon sei\n"
 	.string "herausragend! Dabei habe ich gar\n"
 	.string "nichts\l"
 	.string "Besonderes bei der Aufzucht gemacht…$"

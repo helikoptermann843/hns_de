@@ -10,7 +10,7 @@ Gate_EcruteakCity_Route42_EventScript_Policeman::
 	end
 
 Route42_Text_EcruteakGateOfficer:
-	.string "Der Vertania-Wald ist wie ein\n"
-	.string "natürlicher Irrgarten.\l"
-	.string "Pass auf, dass du dich nicht verläufst!$"
+	.string "Das Innere des Kesselbergs ist ein\n"
+	.string "natürlicher Irrgarten. Pass auf, dass\l"
+	.string "du dich nicht verläufst!$"
 

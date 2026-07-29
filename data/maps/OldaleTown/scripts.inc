@@ -345,58 +345,58 @@ OldaleTown_Text_SavingMyProgress:
 
 OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Hi!\n"
-	.string "Ich arbeite in einem PKMN-SUPERMARKT.\n"
+	.string "Ich arbeite in einem Pkmn-Supermarkt.\n"
 	.string "\p"
 	.string "Kommst du bitte einmal mit mir?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "Dies ist ein PKMN-SUPERMARKT.\n"
+	.string "Dies ist ein Pkmn-Supermarkt.\n"
 	.string "Er ist an dem blauen Dach erkennbar.\p"
 	.string "Wir verkaufen eine Menge nützlicher\n"
-	.string "Dinge, wie POKéBÄLLe, mit denen man\l"
-	.string "POKéMON fängt.\p"
+	.string "Dinge, wie Pokébälle, mit denen man\l"
+	.string "Pokémon fängt.\p"
 	.string "Hier, dies ist ein Item, quasi als\n"
 	.string "Werbe- geschenk für dich.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "Ein TRANK kann zu jeder Zeit\n"
+	.string "Ein Trank kann zu jeder Zeit\n"
 	.string "eingesetzt\n"
 	.string "werden, daher ist er in manchen\l"
 	.string "Situationen wertvoller als ein\n"
-	.string "POKéMON-\l"
-	.string "CENTER.$"
+	.string "Pokémon-\l"
+	.string "Center.$"
 
 OldaleTown_Text_WaitDontComeInHere:
 	.string "Aaaah! Warte!\n"
 	.string "Bitte nicht dort entlang laufen!\p"
 	.string "Ich habe dort die Fußspuren eines\n"
-	.string "seltenen POKéMON gesehen!\p"
+	.string "seltenen Pokémon gesehen!\p"
 	.string "Warte, bis ich fertig bin, sie\n"
 	.string "abzuzeichnen, okay?$"
 
 OldaleTown_Text_DiscoveredFootprints:
 	.string "Ich habe dort die Fußspuren eines\n"
-	.string "seltenen POKéMON gesehen!\p"
+	.string "seltenen Pokémon gesehen!\p"
 	.string "Warte, bis ich fertig bin, sie\n"
 	.string "abzuzeichnen, okay?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
 	.string "Ich habe die Fußspuren eines seltenen\n"
-	.string "POKéMON abgezeichnet.\p"
+	.string "Pokémon abgezeichnet.\p"
 	.string "Aber hinterher habe ich festgestellt,\n"
 	.string "dass es meine eigenen Spuren waren…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAIKE: {PLAYER}{KUN}!\n"
+	.string "Maike: {PLAYER}{KUN}!\n"
 	.string "Hier entlang!\l"
 	.string "Lass uns nach Hause gehen!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRIX: Ich gehe nun in das LABOR\n"
+	.string "Brix: Ich gehe nun in das Labor\n"
 	.string "meines Vaters. {PLAYER}, du solltest\l"
 	.string "auch zurücklaufen.$"
 
 OldaleTown_Text_TownSign:
-	.string "ROSALTSTADT\n"
+	.string "Rosaltstadt\n"
 	.string "“Wo Dinge selten ihren Anfang nehmen.”$"
 

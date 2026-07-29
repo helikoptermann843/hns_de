@@ -3,7 +3,7 @@ Route10_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route10_OnTransition: 
+Route10_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -25,7 +25,7 @@ Route10_Text_Surge:
 	.string "Pass gut auf dich auf hier draußen,\n"
 	.string "dieser Ort ist voller Energie!\p"
 	.string "Willst du ein Re-Match, geh ins\n"
-	.string "Kampf-DOJO!$"
+	.string "Kampf-Dojo!$"
 
 Route10_EventScript_Item_Rock_Polish::
     finditem ITEM_TM_ROCK_POLISH
@@ -97,8 +97,8 @@ Route10_Text_PokefanmRobertAfter:
 	.string "Pokémon gemacht hast…$"
 
 Route10_Text_PowerPlant:
-	.string "KRAFTWERK$"
+	.string "Kraftwerk$"
 
 Route10_Text_Sign:
-	.string "ROUTE 10\p"
-	.string "AZURIA CITY - LAVANDIA$"
+	.string "Route 10\p"
+	.string "Azuria City - Lavandia$"

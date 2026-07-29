@@ -24,7 +24,7 @@ SecretBase_Text_Trainer0PostBattle:
 	.string "Komm mich doch morgen wieder besuchen!$"
 
 SecretBase_Text_Trainer0PreChampion:
-	.string "Hast du dir schon eine GEHEIMBASIS\n"
+	.string "Hast du dir schon eine Geheimbasis\n"
 	.string "eingerichtet?\p"
 	.string "Ich bin hier und dort, überall hin-\n"
 	.string "gelaufen, bevor ich mich für diesen\l"
@@ -56,7 +56,7 @@ SecretBase_Text_Trainer5PostBattle:
 
 SecretBase_Text_Trainer5PreChampion:
 	.string "Es gibt eine Menge Orte, an denen man\n"
-	.string "eine GEHEIMBASIS einrichten kann.\p"
+	.string "eine Geheimbasis einrichten kann.\p"
 	.string "Aber dieser hier gefällt mir am besten.\n"
 	.string "Findest du es nicht auch nett hier?$"
 
@@ -70,7 +70,7 @@ SecretBase_Text_Trainer1Intro:
 
 SecretBase_Text_Trainer1AcceptBattle:
 	.string "Okay! Ich werde meine\n"
-	.string "GEHEIMBASIS verteidigen!$"
+	.string "Geheimbasis verteidigen!$"
 
 SecretBase_Text_Trainer1DeclineBattle:
 	.string "Was? Stimmt das? Du hast gar\n"
@@ -112,7 +112,7 @@ SecretBase_Text_Trainer6PostBattle:
 	.string "Komm doch bitte morgen wieder.$"
 
 SecretBase_Text_Trainer6PreChampion:
-	.string "Willkommen in meinem POKéMON-LABOR.\p"
+	.string "Willkommen in meinem Pokémon-Labor.\p"
 	.string "Ich forsche, indem ich im Geheimen\n"
 	.string "kämpfe.$"
 
@@ -169,7 +169,7 @@ SecretBase_Text_Trainer7PostBattle:
 SecretBase_Text_Trainer7PreChampion:
 	.string "Ich liebe es, Dekorationen und Möbel\n"
 	.string "zu kaufen!!!\p"
-	.string "Ich liebe es genauso, POKéMON aufzu-\n"
+	.string "Ich liebe es genauso, Pokémon aufzu-\n"
 	.string "ziehen!$"
 
 SecretBase_Text_Trainer3Intro:
@@ -194,7 +194,7 @@ SecretBase_Text_Trainer3PostBattle:
 	.string "Ich sollte dich dort mal besuchen.$"
 
 SecretBase_Text_Trainer3PreChampion:
-	.string "Einige Leute richten ihre GEHEIMBASIS\n"
+	.string "Einige Leute richten ihre Geheimbasis\n"
 	.string "an gut versteckten Orten ein. Wollen\l"
 	.string "sie sich nicht mehr sehen lassen?$"
 
@@ -207,7 +207,7 @@ SecretBase_Text_Trainer8Intro:
 	.string "Aber zuerst lass uns kämpfen.$"
 
 SecretBase_Text_Trainer8AcceptBattle:
-	.string "Das ist meine GEHEIMBASIS.\n"
+	.string "Das ist meine Geheimbasis.\n"
 	.string "Ich kann hier gar nicht verlieren!$"
 
 SecretBase_Text_Trainer8DeclineBattle:
@@ -258,7 +258,7 @@ SecretBase_Text_Trainer4PreChampion:
 	.string "Ich habe einen Ort gefunden, der mir\n"
 	.string "gefällt und den ich mit meinen Lieb-\l"
 	.string "lingsdekorationen ausgestattet habe.\p"
-	.string "Dort ziehe ich meine Lieblings-POKéMON\n"
+	.string "Dort ziehe ich meine Lieblings-Pokémon\n"
 	.string "auf und werde mit ihnen stärker.\p"
 	.string "Jeder Tag ist mein Lieblingstag.$"
 

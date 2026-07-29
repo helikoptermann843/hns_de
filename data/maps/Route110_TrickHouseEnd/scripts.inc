@@ -280,7 +280,7 @@ Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
 	.string "Ich habe die ganze Nacht gebraucht,\n"
-	.string "die ROBOPUPPEn zu konstruieren und\l"
+	.string "die Robopuppen zu konstruieren und\l"
 	.string "mir das Quiz auszudenken…\p"
 	.string "Du bist meiner Größe fast ebenbürtig,\n"
 	.string "bis auf ein oder zwei Punkte!$"

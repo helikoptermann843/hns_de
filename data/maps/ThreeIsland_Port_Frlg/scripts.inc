@@ -37,15 +37,15 @@ ThreeIsland_Port_EventScript_Biker2::
 	end
 
 ThreeIsland_Port_Text_WereKantoRiderFederation::
-	.string "Wir sind der MOTORRADKLUB aus\n"
-	.string "KANTO! Töff! Töfftööööfff! Töff!\p"
+	.string "Wir sind der Motorradklub aus\n"
+	.string "Kanto! Töff! Töfftööööfff! Töff!\p"
 	.string "Mein Motorrad hat einen kleinen\n"
 	.string "Motor, daher muss ich die\l"
 	.string "Geräusche selbst machen!$"
 
 ThreeIsland_Port_Text_ForkOverMoney::
 	.string "Heh, Lady!\n"
-	.string "Haste mal einen POKéDOLLAR?$"
+	.string "Haste mal einen Pokédollar?$"
 
 ThreeIsland_Port_Text_IllCallThePolice::
 	.string "Heija!\p"
@@ -53,13 +53,13 @@ ThreeIsland_Port_Text_IllCallThePolice::
 	.string "Ich… ich rufe die Polizei!$"
 
 ThreeIsland_Port_Text_ThankGoodnessBikersGone::
-	.string "Diese BIKER…\n"
+	.string "Diese Biker…\n"
 	.string "Sind sie weg?\p"
 	.string "Oh, Gott sei Dank!\n"
 	.string "Die haben mir Angst eingejagt!$"
 
 ThreeIsland_Port_Text_EverythingTurnedOutForBest::
-	.string "Die BIKER sind verduftet und\n"
-	.string "IRRMA war in Sicherheit.\p"
+	.string "Die Biker sind verduftet und\n"
+	.string "Irrma war in Sicherheit.\p"
 	.string "Jetzt ist alles gut!$"
 

@@ -118,25 +118,25 @@ FiveIsland_MemorialPillar_Text_HaroldDefeat::
 	.string "Ich könnte schlafen…$"
 
 FiveIsland_MemorialPillar_Text_HaroldPostBattle::
-	.string "Es freut mich, wenn Vogel-POKéMON\n"
+	.string "Es freut mich, wenn Vogel-Pokémon\n"
 	.string "verspielt Männchen machen…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-	.string "EINE STIMME: Lauf nicht davon!$"
+	.string "Eine Stimme: Lauf nicht davon!$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
 	.string "Hallo…\n"
-	.string "Deine POKéMON sehen gesund aus…$"
+	.string "Deine Pokémon sehen gesund aus…$"
 
 FiveIsland_MemorialPillar_Text_ThisIsWhereIBuriedMyOnix::
-	.string "Hier habe ich mein ONIX begraben…\n"
-	.string "Es hieß TECTONIX…$"
+	.string "Hier habe ich mein Onix begraben…\n"
+	.string "Es hieß Tectonix…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonixLemonadeOffering::
-	.string "“TECTONIX ruht hier in\n"
+	.string "“Tectonix ruht hier in\n"
 	.string "Frieden“ ist in den Stein\l"
 	.string "gemeißelt.\p"
-	.string "Vor dem Grab wurde eine LIMONADE\n"
+	.string "Vor dem Grab wurde eine Limonade\n"
 	.string "zum Gedenken dargereicht.$"
 
 FiveIsland_MemorialPillar_Text_LeaveAnotherLemonadeOffering::
@@ -150,7 +150,7 @@ FiveIsland_MemorialPillar_Text_PlacedCanOfLemonade::
 FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
 	.string "D-danke…\p"
 	.string "Das war das Lieblingsgetränk von\n"
-	.string "meinem TECTONIX…\p"
+	.string "meinem Tectonix…\p"
 	.string "Ich kenne dich nicht, aber du hast\n"
 	.string "Edelmut bewiesen…\p"
 	.string "Das hat mich aufgemuntert.\p"
@@ -158,7 +158,7 @@ FiveIsland_MemorialPillar_Text_ThankYouPleaseTakeThis::
 	.string "Wertschätzung. Danke!$"
 
 FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
-	.string "Ein POKéMON ist im Fernsehen!\n"
+	.string "Ein Pokémon ist im Fernsehen!\n"
 	.string "Es scheint Spaß zu haben!$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
@@ -174,12 +174,12 @@ FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
 FiveIsland_MemorialPillar_Text_ScrubScrubTectonix::
 	.string "Putz, putz…\p"
 	.string "………\n"
-	.string "TECTONIX…$"
+	.string "Tectonix…$"
 
 FiveIsland_MemorialPillar_Text_HereLiesTectonix::
 	.string "Die Felsen und Steine bilden eine\n"
 	.string "ordentlich angelegte Pyramide.\p"
-	.string "“TECTONIX ruht hier in\n"
+	.string "“Tectonix ruht hier in\n"
 	.string "Frieden“ ist in den Stein\l"
 	.string "gemeißelt.$"
 

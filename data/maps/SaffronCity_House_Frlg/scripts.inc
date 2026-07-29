@@ -30,15 +30,15 @@ SaffronCity_House_Text_DontLookAtMyLetter::
 	.string "Lies meinen Brief nicht!$"
 
 SaffronCity_House_Text_Pidgey::
-	.string "TAUBSI: TAUBSI!$"
+	.string "Taubsi: Taubsi!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-	.string "Die Türen der ARENA sind\n"
+	.string "Die Türen der Arena sind\n"
 	.string "verschlossen...$"
 
 SaffronCity_House_Text_ExplainPPUp::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Fange POKéMON, um deine Sammlung\n"
+	.string "Tipps für Trainer\p"
+	.string "Fange Pokémon, um deine Sammlung\n"
 	.string "zu erweitern!\p"
 	.string "Je mehr du besitzt, desto leichter\n"
 	.string "werden die Kämpfe!$"

@@ -31,7 +31,7 @@ RustboroCity_House1_EventScript_Hiker::
 	end
 
 RustboroCity_House1_Text_IllTradeIfYouWant:
-	.string "Wie? Mein POKéMON ist niedlich?\n"
+	.string "Wie? Mein Pokémon ist niedlich?\n"
 	.string "Sicher, das weiß ich doch!\p"
 	.string "Aber ich weiß auch, dass ich es gerne\n"
 	.string "mit dir tauschen würde.\p"
@@ -40,7 +40,7 @@ RustboroCity_House1_Text_IllTradeIfYouWant:
 	.string "Einverstanden?$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
-	.string "Ähähähähä… Sei nett zu meinem POKéMON.$"
+	.string "Ähähähähä… Sei nett zu meinem Pokémon.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:
 	.string "Wie? Das sieht für mich aber nicht wie\n"
@@ -49,18 +49,18 @@ RustboroCity_House1_Text_DoesntLookLikeMonToMe:
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
 	.string "Du willst nicht tauschen? Kein\l"
 	.string "Problem.\n"
-	.string "Aber mein POKéMON ist wirklich\p"
+	.string "Aber mein Pokémon ist wirklich\p"
 	.string "niedlich,\l"
 	.string "das weißt du schon?!?$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
-	.string "Jedes POKéMON ist niedlich, wenn es\n"
+	.string "Jedes Pokémon ist niedlich, wenn es\n"
 	.string "mit Freundlichkeit und Fürsorge\l"
 	.string "aufgezogen wird.$"
 
 RustboroCity_House1_Text_AllSortsOfPlaces:
 	.string "An allen Orten gibt es alle Sorten von\n"
-	.string "POKéMON und Menschen.\p"
+	.string "Pokémon und Menschen.\p"
 	.string "Ich finde das faszinierend, daher\n"
 	.string "besuche ich alle möglichen Orte.$"
 

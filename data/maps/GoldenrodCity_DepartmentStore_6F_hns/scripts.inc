@@ -19,7 +19,7 @@ GoldenrodDeptStore6_Text_Whitney:
 	.string "{PLAYER}! Schön dich zu sehen!\p"
 	.string "Ich hole etwas für mein Miltank.\p"
 	.string "Wenn du kämpfen willst komm zum\n"
-	.string "Kampf DOJO$"
+	.string "Kampf Dojo$"
 
 GoldenrodCity_DepartmentStore_6F_EventScript_Jose::
 	lock
@@ -48,9 +48,9 @@ GoldenrodCity_DepartmentStore_6F_EventScript_TradeCompleted::
 
 GoldenrodCity_DepartmentStore_6F_Text_YouWillTradeWontYou:
 	.string "Ich sammele Pokémon!\n"
-	.string "Hast du ein TRAUMATO?\p"
+	.string "Hast du ein Traumato?\p"
 	.string "Möchtest du es gegen\n"
-	.string "mein MACHOLLO tauschen?$"
+	.string "mein Machollo tauschen?$"
 
 GoldenrodCity_DepartmentStore_6F_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe ein {STR_VAR_1}!\p"
@@ -65,7 +65,7 @@ GoldenrodCity_DepartmentStore_6F_Text_YouWontTradeMe:
 	.string "Schade…$"
 
 GoldenrodCity_DepartmentStore_6F_Text_After:
-	.string "Hi! Wie geht es meinem MACHOLLO?\n"
+	.string "Hi! Wie geht es meinem Machollo?\n"
 	.string "Irgendwelche Probleme?$"
 
 
@@ -94,7 +94,7 @@ GoldenrodDeptStore6_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_6FLass:
-	.string "Hörst du den GLÜCKSKANAL?\p"
+	.string "Hörst du den Glückskanal?\p"
 	.string "Möchtest du gewinnen,\n"
 	.string "tausche Pokémon mit so vielen\p"
 	.string "Leuten wie möglich,\n"
@@ -102,11 +102,10 @@ GoldenrodDeptStore_Text_6FLass:
 	.string "erhalten.$"
 
 GoldenrodDeptStore_Text_6FSuperNerd:
-	.string "Wenn du müde bist,\n"
-	.string "dann hol dir ein Getränk aus dem\l"
-	.string "Automaten.\p"
-	.string "Auch deine Pokémon werden sie mögen.$"
+	.string "Wenn man erschöpft ist, geht nichts\n"
+	.string "über ein Getränk aus dem Automaten!\l"
+	.string "Auch deine Pokémon werden sie mögen!$"
 
 GoldenrodDeptStore_Text_6FDirectory:
 	.string "Mach eine Einkaufspause!\p"
-	.string "5S PLATZ DER EWIGEN STILLE$"
+	.string "5S Platz der ewigen Stille$"

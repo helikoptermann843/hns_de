@@ -28,17 +28,17 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "Welche Farbe hat dein TRAINERPASS?\n"
+	.string "Welche Farbe hat dein Trainerpass?\n"
 	.string "Meiner ist kupferrot.$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "FLOSSBRUNN schwimmt auf einer\n"
-	.string "Kolonie von CORASONN.\p"
+	.string "Flossbrunn schwimmt auf einer\n"
+	.string "Kolonie von Corasonn.\p"
 	.string "Glaubst du mir das?$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
 	.string "Man sagt, die Vorfahren der Menschen\n"
-	.string "in FLOSSBRUNN wurden an Bord von\l"
+	.string "in Flossbrunn wurden an Bord von\l"
 	.string "Schiffen geboren, lebten und starben\l"
 	.string "auch dort.\p"
 	.string "Diese Lebensart ist verständlich, denn\n"

@@ -274,89 +274,89 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAIKE: {PLAYER}{KUN}! Wir haben uns\n"
+	.string "Maike: {PLAYER}{KUN}! Wir haben uns\n"
 	.string "lange nicht gesehen!\p"
 	.string "Oh? Als ich die Heißen Quellen aufge-\n"
-	.string "sucht habe, habe ich den ORDEN der\p"
-	.string "ARENA von BAD LAVASTADT erhalten.\n"
-	.string "Du hast anscheinend viele POKéMON\p"
+	.string "sucht habe, habe ich den Orden der\p"
+	.string "Arena von Bad Lavastadt erhalten.\n"
+	.string "Du hast anscheinend viele Pokémon\p"
 	.string "gefangen… Äh, ich meine, du hast ja\n"
-	.string "schon einige POKéMON aufgezogen. \p"
+	.string "schon einige Pokémon aufgezogen. \p"
 	.string "Ich denke, das hier wirst du gut\n"
 	.string "gebrauchen können.$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "MAIKE: Mit diesem WÜSTENGLAS wirst du\n"
+	.string "Maike: Mit diesem Wüstenglas wirst du\n"
 	.string "keine Probleme haben, durch die Wüste\l"
-	.string "in der Nähe von ROUTE 111 zu gehen.\p"
+	.string "in der Nähe von Route 111 zu gehen.\p"
 	.string "Aber, wow, {PLAYER}{KUN}…\n"
-	.string "In ARENen antreten…\p"
+	.string "In Arenen antreten…\p"
 	.string "Du strengst dich bestimmt sehr an,\l"
 	.string "weil\n"
 	.string "du nicht gegen mich verlieren willst!\p"
 	.string "\p"
 	.string "{PLAYER}{KUN}, ich glaube, ich sollte\n"
 	.string "deinen\n"
-	.string "Vater in der ARENA von BLÜTENBURG\l"
-	.string "CITY herausfordern.\p"
+	.string "Vater in der Arena von Blütenburg\l"
+	.string "City herausfordern.\p"
 	.string "{PLAYER}{KUN}, man sieht sich!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRIX: {PLAYER}, wie geht es dir?\p"
+	.string "Brix: {PLAYER}, wie geht es dir?\p"
 	.string "Hmm… Das ist eine beachtliche\n"
-	.string "Sammlung von ORDEN.\p"
+	.string "Sammlung von Orden.\p"
 	.string "Also gut.\n"
 	.string "Hier, dies schenke ich dir.$"
 
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "BRIX: Nimm das mit, wenn du in die\n"
-	.string "Wüste in der Nähe von ROUTE 111\n"
+	.string "Brix: Nimm das mit, wenn du in die\n"
+	.string "Wüste in der Nähe von Route 111\n"
 	.string "willst. \p"
-	.string "Da sollten sich einige POKéMON fangen\n"
+	.string "Da sollten sich einige Pokémon fangen\n"
 	.string "lassen, die Wüstenbewohner sind. Schau\l"
 	.string "dich nach ihnen um.\p"
 	.string "Und ich…\n"
-	.string "Ich werde wohl NORMAN, den ARENALEITER\l"
-	.string "in BLÜTENBURG CITY, herausfordern.\p"
+	.string "Ich werde wohl Norman, den Arenaleiter\l"
+	.string "in Blütenburg City, herausfordern.\p"
 	.string "Im Gegensatz zu dir, macht dein Vater\n"
 	.string "einen sehr starken Eindruck.\p"
 	.string "Man sieht sich!$"
 
 LavaridgeTown_Text_HaveEggWillYouTakeIt:
-	.string "Ich habe hier ein EI.\p"
+	.string "Ich habe hier ein Ei.\p"
 	.string "Ich dachte, ich könnte es ausbrüten,\n"
 	.string "indem ich es im heißen Sand bei den\p"
 	.string "Heißen Quellen vergrabe. Aber das\n"
 	.string "reicht offensichtlich nicht aus.\p"
 	.string "Jemand erzählte mir, dass man es\n"
-	.string "zusammen mit den POKéMON tragen\l"
+	.string "zusammen mit den Pokémon tragen\l"
 	.string "soll.\p"
-	.string "Du bist ein TRAINER, nicht wahr? Und\n"
-	.string "deine POKéMON strahlen Vitalität aus.\n"
+	.string "Du bist ein Trainer, nicht wahr? Und\n"
+	.string "deine Pokémon strahlen Vitalität aus.\n"
 	.string "\p"
-	.string "So, was meinst du? Wirst du das EI\n"
+	.string "So, was meinst du? Wirst du das Ei\n"
 	.string "mit-\l"
 	.string "nehmen und zum Ausschlüpfen bringen?$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
 	.string "Gut! Ich hoffe, du hast mehr Glück\n"
-	.string "mit diesem EI!$"
+	.string "mit diesem Ei!$"
 
 LavaridgeTown_Text_ReceivedTheEgg:
-	.string "{PLAYER} erhält ein EI.$"
+	.string "{PLAYER} erhält ein Ei.$"
 
 LavaridgeTown_Text_NoRoomForThisEgg:
-	.string "Oh! Du hast zu viele POKéMON dabei.\n"
-	.string "Du hast keinen Platz für das EI…$"
+	.string "Oh! Du hast zu viele Pokémon dabei.\n"
+	.string "Du hast keinen Platz für das Ei…$"
 
 LavaridgeTown_Text_AsYouWishThen:
 	.string "Ganz, wie du willst…\p"
 	.string "Wenn dein Herz sich anders entscheidet\n"
-	.string "und das EI haben möchte, ich bin hier.$"
+	.string "und das Ei haben möchte, ich bin hier.$"
 
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
 	.string "Von Zeit zu Zeit findet man in der\n"
-	.string "PENSION ein EI.\p"
+	.string "Pension ein Ei.\p"
 	.string "So zumindest erzählt man es sich.$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
@@ -378,7 +378,7 @@ LavaridgeTown_Text_PokemonNippedBackside:
 	.string "So warm und einfach himmlisch… Seufz…\n"
 	.string "\p"
 	.string "Äh? Gyaah! Aua!\p"
-	.string "Ein POKéMON hat meinen Rücken ange-\n"
+	.string "Ein Pokémon hat meinen Rücken ange-\n"
 	.string "knabbert!$"
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
@@ -390,10 +390,10 @@ LavaridgeTown_Text_BatheInHotSpringsEveryDay:
 	.string "Ich bade jeden Tag in den\n"
 	.string "Heißen Quellen.\p"
 	.string "Ich will ein wunderschöner und starker\n"
-	.string "ARENALEITER wie FLAVIA werden.$"
+	.string "Arenaleiter wie Flavia werden.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
-	.string "Wenn Leute ihre POKéMON in die Heißen\n"
+	.string "Wenn Leute ihre Pokémon in die Heißen\n"
 	.string "Quellen setzen, ist das schon\l"
 	.string "merkwürdig.\p"
 	.string "Nun, es könnte auch ein Bad in\n"
@@ -408,16 +408,16 @@ LavaridgeTown_Text_HotSpringsClaims:
 	.string "auch bei Geldsorgen…$"
 
 LavaridgeTown_Text_TownSign:
-	.string "BAD LAVASTADT\p"
-	.string "“POKéMON-CENTER - HEISSE QUELLEN\n"
+	.string "Bad Lavastadt\p"
+	.string "“Pokémon-Center - Heiße Quellen\n"
 	.string "Der ideale Ort zum Entspannen!”$"
 
 LavaridgeTown_Text_GymSign:
-	.string "POKéMON ARENA von BAD LAVASTADT\n"
-	.string "LEITERIN: FLAVIA\l"
+	.string "Pokémon Arena von Bad Lavastadt\n"
+	.string "Leiterin: Flavia\l"
 	.string "“Die mit der brennenden Leidenschaft!”$"
 
 LavaridgeTown_Text_HerbShopSign:
-	.string "POKéMON KRÄUTERLADEN\n"
+	.string "Pokémon Kräuterladen\n"
 	.string "“Bitterer Geschmack - Bessere Kur!”$"
 

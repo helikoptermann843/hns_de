@@ -311,16 +311,16 @@ FallarborTown_BattleTentLobby_hns_Text_MakeThinkImJustKid:
 	.string "Überraschungsmoment!$"
 
 FallarborTown_BattleTentLobby_hns_Text_FallarborTentMyFavorite:
-	.string "Das KAMPFCAMP hat verschiedene\n"
+	.string "Das Kampfcamp hat verschiedene\n"
 	.string "Aktivitäten anzubieten.\p"
 	.string "Ich mag am liebsten das\n"
 	.string "rote Zelt.\p"
 	.string "Ich finde es fantastisch wie\n"
 	.string "Trainer mit aller Kraft gewinnen\l"
-	.string "wollen, zusammen mit ihren POKéMON.$"
+	.string "wollen, zusammen mit ihren Pokémon.$"
 
 FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
-	.string "Ich hörte vom KAMPFCAMP als bin\n"
+	.string "Ich hörte vom Kampfcamp als bin\n"
 	.string "ich hier angereist.\p"
 	.string "Ich wusste nicht das sie so\n"
 	.string "luxuriös sein würden!\p"
@@ -328,8 +328,8 @@ FallarborTown_BattleTentLobby_hns_Text_CameToCampOut:
 	.string "versuche ich mein Glück!$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
-	.string "SCOTT: Hi, {PLAYER}!\n"
-	.string "Du bist also nun im KAMPFCAMP!\p"
+	.string "Scott: Hi, {PLAYER}!\n"
+	.string "Du bist also nun im Kampfcamp!\p"
 	.string "Die Menschen in dieser Gegend sind\n"
 	.string "eher entspannt und ruhig.\p"
 	.string "Aber weißt du ich suche Leute\n"
@@ -342,7 +342,7 @@ FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
 	.string "Nur nicht aufgeben, das wird schon!$"
 
 FallarborTown_BattleTentLobby_hns_Text_ScottMakeChallenge:
-	.string "SCOTT: Statt deine Zeit mit\n"
+	.string "Scott: Statt deine Zeit mit\n"
 	.string "mir zu verschwenden, versuche\l"
 	.string "doch eines der Events?$"
 

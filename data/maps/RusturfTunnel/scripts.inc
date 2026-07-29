@@ -423,7 +423,7 @@ RusturfTunnel_Text_ComeAndGetSome:
 	.string "Na, dann hol dir eine Tracht Prügel.$"
 
 RusturfTunnel_Text_Peeko:
-	.string "PECKO: Pii pihyoh!$"
+	.string "Pecko: Pii pihyoh!$"
 
 RusturfTunnel_Text_GruntIntro:
 	.string "Grrr, man sollte sie alle kielholen.\p"
@@ -442,20 +442,20 @@ RusturfTunnel_Text_GruntDefeat:
 
 RusturfTunnel_Text_GruntTakePackage:
 	.string "Das ist einfach nicht fair…\p"
-	.string "Der BOSS hat doch gesagt, der Job sei\n"
+	.string "Der Boss hat doch gesagt, der Job sei\n"
 	.string "ein wahres Kinderspiel.\p"
 	.string "Alles, was ich zu tun hatte, war, ein\n"
-	.string "Paket von DEVON zu stehlen.\p"
+	.string "Paket von Devon zu stehlen.\p"
 	.string "Tse! Wenn du es so dringend wieder-\n"
 	.string "haben willst, dann nimm es halt!$"
 
 RusturfTunnel_Text_PeekoGladToSeeYouSafe:
-	.string "PECKO! Bin ich froh, dass du\n"
+	.string "Pecko! Bin ich froh, dass du\n"
 	.string "unversehrt wieder bei mir bist.$"
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
-	.string "PECKO verdankt dir ihr Leben!\p"
-	.string "Man nennt mich MR. BRACK.\n"
+	.string "Pecko verdankt dir ihr Leben!\p"
+	.string "Man nennt mich Mr. Brack.\n"
 	.string "Und du bist…\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
@@ -464,29 +464,29 @@ RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "Wenn du irgendein Problem hast, zögere\n"
 	.string "nicht, mich um Hilfe zu bitten!\p"
 	.string "Ich wohne in dem kleinen Haus am Meer\n"
-	.string "in der Nähe des BLÜTENBURGWALDs.\p"
-	.string "Komm, PECKO, wir sollten uns auf den\n"
+	.string "in der Nähe des Blütenburgwalds.\p"
+	.string "Komm, Pecko, wir sollten uns auf den\n"
 	.string "Heimweg machen.\p"
-	.string "PECKO: Pihyoh!$"
+	.string "Pecko: Pihyoh!$"
 
 RusturfTunnel_Text_WhyCantTheyKeepDigging:
 	.string "… …\p"
 	.string "Warum graben sie nicht weiter?\n"
 	.string "Ist das Gestein zu hart?\p"
-	.string "Meine Geliebte wartet in WIESENFLUR\n"
+	.string "Meine Geliebte wartet in Wiesenflur\n"
 	.string "auf mich, gleich hinter diesen\l"
 	.string "Felsen…\p"
-	.string "Wenn METAROST CITY und WIESENFLUR\n"
+	.string "Wenn Metarost City und Wiesenflur\n"
 	.string "durch diesen Tunnel verbunden wären,\l"
 	.string "könnte ich sie jeden Tag besuchen!\p"
 	.string "Aber so…\n"
 	.string "Was soll ich nur machen?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
-	.string "Um von METAROST CITY nach WIESENFLUR\n"
-	.string "zu gelangen, muss man nach FAUSTAU-\l"
-	.string "HAVEN und dann über GRAPHITPORT CITY\l"
-	.string "und MALVENFROH CITY reisen…$"
+	.string "Um von Metarost City nach Wiesenflur\n"
+	.string "zu gelangen, muss man nach Faustau-\l"
+	.string "haven und dann über Graphitport City\l"
+	.string "und Malvenfroh City reisen…$"
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "Wow! Du hast den Felsen, der den Weg\n"
@@ -495,16 +495,16 @@ RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "daher möchte ich dir diese VM geben.$"
 
 RusturfTunnel_Text_ExplainStrength:
-	.string "Diese VM enthält STÄRKE.\p"
-	.string "Wenn ein kräftiges POKéMON diese VM\n"
+	.string "Diese VM enthält Stärke.\p"
+	.string "Wenn ein kräftiges Pokémon diese VM\n"
 	.string "lernt, ist es in der Lage, sogar die\l"
 	.string "schwersten Felsen zu bewegen.$"
 
 RusturfTunnel_Text_WandaReunion:
-	.string "HEIKE!\n"
+	.string "Heike!\n"
 	.string "Nun kann ich dich jederzeit besuchen!\n"
 	.string "\p"
-	.string "HEIKE: Das ist… wunderbar.\p"
+	.string "Heike: Das ist… wunderbar.\p"
 	.string "Bitte, ruh dich ein bisschen in meinem\n"
 	.string "Haus aus.$"
 

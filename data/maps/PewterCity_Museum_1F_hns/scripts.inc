@@ -57,7 +57,7 @@ PewterCity_Museum_1F_Text_FossilWoman:
 
 PewterCity_Museum_1F_Text_FossilWomanAfter:
 	.string "Wir teilen oft Forschung mit\n"
-	.string "den Forschern der ALPH-RUINEN.\p"
+	.string "den Forschern der Alph-Ruinen.\p"
 	.string "Sogar Fossilien senden wir ihnen\n"
 	.string "über den PC!$"
 

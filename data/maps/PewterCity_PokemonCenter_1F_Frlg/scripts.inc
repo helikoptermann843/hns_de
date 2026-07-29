@@ -46,28 +46,28 @@ PewterCity_PokemonCenter_1F_EventScript_GBAKid2::
 
 PewterCity_PokemonCenter_1F_Text_TeamRocketMtMoonImOnPhone::
 	.string "Was!?\p"
-	.string "Das TEAM ROCKET befindet sich auf\n"
-	.string "dem MONDBERG? Das muss ich sofort\l"
+	.string "Das Team Rocket befindet sich auf\n"
+	.string "dem Mondberg? Das muss ich sofort\l"
 	.string "melden!\p"
 	.string "Verschwinde!$"
 
 PewterCity_PokemonCenter_1F_Text_Jigglypuff::
-	.string "JIGGLYPUFF: Puu pupuu!$"
+	.string "Jigglypuff: Puu pupuu!$"
 
 PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
 	.string "Gähn!\p"
-	.string "Von PUMMELUFFs GESANG werden\n"
-	.string "POKéMON ganz müde...\p"
+	.string "Von Pummeluffs Gesang werden\n"
+	.string "Pokémon ganz müde...\p"
 	.string "Ich auch...\n"
 	.string "Schnarch...$"
 
 PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu::
-	.string "Hast du schon den PROFI-ANGLER in\n"
-	.string "ORANIA CITY besucht?$"
+	.string "Hast du schon den Profi-Angler in\n"
+	.string "Orania City besucht?$"
 
 PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
-	.string "Mein POKéMON, MASCHOCK, ist\n"
+	.string "Mein Pokémon, Maschock, ist\n"
 	.string "superstark!!!\p"
-	.string "Mit seiner STÄRKE kann es sogar\n"
+	.string "Mit seiner Stärke kann es sogar\n"
 	.string "Felsen bewegen!$"
 

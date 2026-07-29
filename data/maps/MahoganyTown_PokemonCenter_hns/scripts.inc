@@ -9,7 +9,7 @@ MahoganyTown_PokemonCenter_OnTransition::
 MahoganyTown_PokemonCenter_EventScript_Hiker::
 	msgbox MahoganyTown_PokemonCenter_Text_PokefanM, MSGBOX_NPC
 	end
-	
+
 MahoganyTown_PokemonCenter_EventScript_Boy::
 	msgbox MahoganyTown_PokemonCenter_Text_Youngster, MSGBOX_NPC
 	end
@@ -19,19 +19,19 @@ MahoganyTown_PokemonCenter_EventScript_Girl::
 	end
 
 MahoganyTown_PokemonCenter_Text_PokefanM:
-	.string "Wie? TEAM ROCKET ist wieder da?\p"
+	.string "Wie? Team Rocket ist wieder da?\p"
 	.string "Ich sah einige Männer in\n"
-	.string "Schwarz am SEE DES ZORNS…$"
+	.string "Schwarz am See des Zorns…$"
 
 MahoganyTown_PokemonCenter_Text_Youngster:
-	.string "Ich verhindere, dass sich\n"
-	.string "meine Pokémon zu rasch\l"
-	.string "entwickeln.\p"
-	.string "Ich bringe ihnen verschiedene\n"
-	.string "Attacken bei, bevor ich\l"
-	.string "sie sich entwickeln lasse.$"
+	.string "Ich benutze den Entwicklungsstopp,\n"
+	.string "damit sich meine Pokémon nicht zu rasch\l"
+	.string "entwickeln, denn dann würden sie nur\l"
+	.string "noch sehr langsam neue Attacken\l"
+	.string "erlernen.$"
 
 MahoganyTown_PokemonCenter_Text_CooltrainerF:
-	.string "Pokémon werden stärker, wenn sie\n"
-	.string "sich entwickeln. Aber sie erlernen\l"
-	.string "neue Attacken auch langsamer.$"
+	.string "Wenn Pokémon sich entwickeln, werden\n"
+	.string "sie zwar stärker, aber dafür brauchen\l"
+	.string "sie auch länger, um neue Attacken zu\l"
+	.string "erlernen.$"

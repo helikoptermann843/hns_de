@@ -29,9 +29,9 @@ ViridianCity_PokemonCenter_Text_1FCooltrainerM:
 	.string "Ich wollte ihn doch herausfordern…$"
 
 ViridianCity_PokemonCenter_Text_1FCooltrainerM_BlueReturned:
-	.string "In der PKMN-ARENA\n"
-	.string "von VERTANIA gibt es keine TRAINER.\p"
-	.string "Der ARENALEITER vertritt den\n"
+	.string "In der Pkmn-Arena\n"
+	.string "von Vertania gibt es keine Trainer.\p"
+	.string "Der Arenaleiter vertritt den\n"
 	.string "Grundsatz, auch ohne die\l"
 	.string "Hilfe von Untergebenen\l"
 	.string "gewinnen zu können.$"

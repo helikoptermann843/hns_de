@@ -57,12 +57,12 @@ MahoganyTown_EventScript_TownTrigger::
 	clearflag FLAG_HIDE_ROCKETHIDEOUT2_GATE
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_GATE
 	clearflag FLAG_GOT_PASSWORD_FROM_ETO
-	clearflag FLAG_GOT_PASSWORD_FROM_GRUNTF 
+	clearflag FLAG_GOT_PASSWORD_FROM_GRUNTF
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_MURKROW
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_GIOVANNI
-	clearflag FLAG_HIDE_ROCKETHIDEOUT_ELECTRODE1 
+	clearflag FLAG_HIDE_ROCKETHIDEOUT_ELECTRODE1
 	clearflag FLAG_HIDE_ROCKETHIDEOUT_ELECTRODE2
-	clearflag FLAG_HIDE_ROCKETHIDEOUT_ELECTRODE3 
+	clearflag FLAG_HIDE_ROCKETHIDEOUT_ELECTRODE3
 	clearflag FLAG_GOT_HIDDEN_POWER
 	clearflag FLAG_HIDE_ICE_PATH_KIMONO
 
@@ -77,11 +77,11 @@ MahoganyTown_EventScript_TownTrigger::
 	setflag FLAG_HIDE_ROCKETHIDEOUT2_MURKROWGATE
 	setflag FLAG_HIDE_ROCKETHIDEOUT3_MURKROWSTAIRS
 	setflag FLAG_HIDE_ROCKETHIDEOUT2_ARIANA_AND_GRUNT
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER1     
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER2      
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER3         
+	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER1
+	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER2
+	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER3
 	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER4
-	
+
 	setvar VAR_ROCKET_HIDEOUT_STATUE_1, 0
 	setvar VAR_ROCKET_HIDEOUT_STATUE_2, 0
 	setvar VAR_ROCKET_HIDEOUT_STATUE_3, 0
@@ -283,17 +283,17 @@ MahoganyTown_Text_RageCandyBarMerchantRefused:
 	.string "Dann eben nicht…$"
 
 MahoganyTown_Text_RageCandyBarMerchantSoldOut:
-	.string "Die WUTKEKSE sind ausverkauft.\p"
+	.string "Die Wutkekse sind ausverkauft.\p"
 	.string "Ich verschwinde.\n"
 	.string "Stör mich nicht, Kind.$"
 
 MahoganyTown_Text_Gramps:
-	.string "Hast du vor, die GARADOS\n"
-	.string "am SEE anzusehen?$"
+	.string "Willst du auch zum See und dir das\n"
+	.string "Garados ansehen?$"
 
 MahoganyTown_Text_GrampsClearedRocketHideout:
-	.string "Die KARPADOR sind zum\n"
-	.string "SEE DES ZORNS zurückgekehrt.\p"
+	.string "Die Karpador sind zum\n"
+	.string "See des Zorns zurückgekehrt.\p"
 	.string "Das sind gute Neuigkeiten\n"
 	.string "für die Angler.$"
 
@@ -303,7 +303,7 @@ MahoganyTown_Text_Fisher:
 	.string "Zeit nehmen, um etwas\p"
 	.string "die Gegend zu besichtigen.\p"
 	.string "Geh nach Norden und sieh dir den\n"
-	.string "SEE DES ZORNS an.$"
+	.string "See des Zorns an.$"
 
 MahoganyTown_Text_Lass:
 	.string "Besuche Großmutters Laden.\p"
@@ -311,18 +311,19 @@ MahoganyTown_Text_Lass:
 	.string "die du sonst nirgends bekommen kannst.$"
 
 MahoganyTown_Text_Sign:
-	.string "MAHAGONIA CITY\p"
+	.string "Mahagonia City\p"
 	.string "Willkommen in der Stadt der Ninja.$"
 
 MahoganyTown_Text_RagecandybarSign:
-	.string "Versuchen Sie den leckeren WUTKEKS!$"
+	.string "Versuchen Sie den leckeren Wutkeks!$"
 
 MahoganyTown_Text_GymSign:
-	.string "MAHAGONIA CITY POKéMON ARENA\p"
-	.string "Eine eiskalte Herausforderung.$"
+	.string "Pokémon-Arena von Mahagonia City\n"
+	.string "Leiter: Norbert Er wird dir beibringen,\l"
+	.string "was ein harter Winter ist!$"
 
 Mahoganytown_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "He, {PLAYER}!\n"
@@ -339,16 +340,16 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	.string "beunruhigen. Pass auf dich auf!$"
 
 ElmPhoneRoute39LegendaryText:
-	.string "PROF.LIND: WOW!\n"
+	.string "Prof.Lind: Wow!\n"
 	.string "{PLAYER}, hast du das gesehen?!\p"
-	.string "Ein riesiges POKéMON flog über\n"
-	.string "TEAK CITY hinweg!\p"
+	.string "Ein riesiges Pokémon flog über\n"
+	.string "Teak City hinweg!\p"
 	.string "Ich konnte es sogar von meinem\n"
-	.string "LABOR aus sehen!\p"
+	.string "Labor aus sehen!\p"
 	.string "War es eines der legendären\n"
-	.string "POKéMON??\p"
+	.string "Pokémon??\p"
 	.string "Es flog nach Westen,\n"
-	.string "Richtung ROUTE 39.\p"
+	.string "Richtung Route 39.\p"
 	.string "{PLAYER}!\n"
 	.string "Das könnte eine seltene Chance\l"
 	.string "zur Verfolgung sein!$"

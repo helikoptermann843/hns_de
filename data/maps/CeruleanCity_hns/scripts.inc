@@ -24,14 +24,14 @@ CeruleanCity_EventScript_Guard::
 	end
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-    .string "Dies ist die AZURIA-Höhle.\p"
-    .string "Unglaublich starke POKéMON\n"
+    .string "Dies ist die Azuria-Höhle.\p"
+    .string "Unglaublich starke Pokémon\n"
     .string "leben hier.\p"
     .string "Es braucht einen wirklich\n"
     .string "unglaublichen Trainer,\l"
     .string "um einlass zu erhalten.\p"
-    .string "Werde zuerst KANTO POKéMON-\n"
-    .string "LIGA CHAMPION.\p"
+    .string "Werde zuerst Kanto Pokémon-\n"
+    .string "Liga Champion.\p"
     .string "Und du müsstest eine große\n"
     .string "Tat vollbracht haben.$"
 
@@ -48,7 +48,7 @@ CeruleanCity_Text_CooltrainerM2:
 	.string "Aber es zahlt sich sicher auch aus!$"
 
 CeruleanCity_Text_SuperNerd:
-	.string "Das KAP im Norden ist ein guter\n"
+	.string "Das Kap im Norden ist ein guter\n"
 	.string "Ort für Dates.\p"
 	.string "Mädchen mögen das!$"
 
@@ -63,7 +63,7 @@ CeruleanCity_EventScript_Slowbro::
 	end
 
 CeruleanCity_Text_Slowbro:
-	.string "LAHMUS: Laaahm?$"
+	.string "Lahmus: Laaahm?$"
 
 CeruleanCity_EventScript_SlowbroWoman::
 	msgbox CeruleanCity_Text_CooltrainerF1, MSGBOX_NPC
@@ -154,7 +154,7 @@ CeruleanCity_Text_GymSign:
 CeruleanCity_Text_BikeShopSign:
 	.string "Hier ist eine Nachricht…\p"
 	.string "Der Fahrradladen ist jetzt\n"
-	.string "in Dukatia City in JOHTO…$"
+	.string "in Dukatia City in Johto…$"
 
 CeruleanCity_Text_PoliceSign:
 	.string "Da ist ein Flugblatt…\p"

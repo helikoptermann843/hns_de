@@ -24,14 +24,14 @@ VermilionPokeCenter_EventScript_Bugcatcher::
 	end
 
 VermilionCity_PokemonCenter1F_Text_FishingGuru:
-	.string "Vor DIGDAs\n"
-	.string "HÖHLE liegt ein schlafendes.\p"
+	.string "Vor Digdas\n"
+	.string "Höhle liegt ein schlafendes.\p"
 	.string "Pokémon Das wäre eine\n"
 	.string "fantastische Gelegenheit, es zu\l"
 	.string "fangen! Aber wie weckt man es auf?$"
 
 VermilionCity_PokemonCenter1F_Text_FishingGuru_FoughtSnorlax:
-	.string "Vor DIGDAs HÖHLE lag ein\n"
+	.string "Vor Digdas Höhle lag ein\n"
 	.string "schlafendes Pokémon.\p"
 	.string "Aber jetzt scheint\n"
 	.string "es verschwunden zu sein.$"

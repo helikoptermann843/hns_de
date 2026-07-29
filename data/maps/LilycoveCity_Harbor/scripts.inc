@@ -543,16 +543,16 @@ LilycoveCity_Harbor_Text_FerryUnavailable:
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
 	.string "Hallo, du willst mit der Fähre fahren?\n"
-	.string "Zeigst du mir dann bitte dein TICKET?$"
+	.string "Zeigst du mir dann bitte dein Ticket?$"
 
 LilycoveCity_Harbor_Text_NoTicket:
-	.string "{PLAYER} besitzt kein TICKET.\p"
+	.string "{PLAYER} besitzt kein Ticket.\p"
 	.string "Das tut mir Leid!\p"
-	.string "Du benötigst ein TICKET, um mit der\n"
+	.string "Du benötigst ein Ticket, um mit der\n"
 	.string "Fähre fahren zu können.$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
-	.string "{PLAYER} zeigt das TICKET.\p"
+	.string "{PLAYER} zeigt das Ticket.\p"
 	.string "Perfekt! Das ist alles, was du\n"
 	.string "brauchst! \p"
 	.string "Und wo soll die Reise hingehen?$"
@@ -561,10 +561,10 @@ LilycoveCity_Harbor_Text_SailAnotherTime:
 	.string "Bitte fahre bald mit uns!$"
 
 LilycoveCity_Harbor_Text_SlateportItIs:
-	.string "Nach GRAPHITPORT CITY, einverstanden?$"
+	.string "Nach Graphitport City, einverstanden?$"
 
 LilycoveCity_Harbor_Text_BattleFrontierItIs:
-	.string "Zur KAMPFZONE, einverstanden?$"
+	.string "Zur Kampfzone, einverstanden?$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
 	.string "Bitte komm an Bord. Wir legen bald ab.$"
@@ -578,12 +578,12 @@ LilycoveCity_Harbor_Text_SailorFerryUnavailable:
 	.string "nichts zu tun…\p"
 	.string "Ich wünschte, sie würden sich ein\n"
 	.string "bisschen beeilen - die Leute von der\l"
-	.string "WERFT von GRAPHITPORT CITY.$"
+	.string "Werft von Graphitport City.$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "Die Fähre MS TIDE ist endlich in\n"
+	.string "Die Fähre MS Tide ist endlich in\n"
 	.string "Betrieb.\p"
-	.string "Die Leute von der WERFT in\n"
-	.string "GRAPHITPORT CITY müssen wirklich\l"
+	.string "Die Leute von der Werft in\n"
+	.string "Graphitport City müssen wirklich\l"
 	.string "hart gearbeitet haben.\p"
 	.string "Nun, jetzt ist meine Arbeit gefragt!$"

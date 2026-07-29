@@ -99,7 +99,7 @@ DragonsDen_Shrine_EventScript_ElderOfferQuiz::
 
 DragonsDen_Shrine_EventScript_ElderQuiz1::
 	message DragonsDen_Shrine_Text_Question1
-	multichoice 20, 6, MULTI_ELDERQUIIZ1, FALSE 
+	multichoice 20, 6, MULTI_ELDERQUIIZ1, FALSE
 	switch VAR_RESULT
 	case 0, DragonsDen_Shrine_EventScript_ElderQuiz1Correct
 	case 2, DragonsDen_Shrine_EventScript_ElderQuiz1Correct
@@ -113,7 +113,7 @@ DragonsDen_Shrine_EventScript_ElderQuiz1Correct::
 
 DragonsDen_Shrine_EventScript_ElderQuiz2::
 	message DragonsDen_Shrine_Text_Question2
-	multichoice 20, 6, MULTI_ELDERQUIIZ2, FALSE 
+	multichoice 20, 6, MULTI_ELDERQUIIZ2, FALSE
 	switch VAR_RESULT
 	case 0, DragonsDen_Shrine_EventScript_ElderQuiz2Correct
 	case 1, DragonsDen_Shrine_EventScript_ElderQuiz2Correct
@@ -127,7 +127,7 @@ DragonsDen_Shrine_EventScript_ElderQuiz2Correct::
 
 DragonsDen_Shrine_EventScript_ElderQuiz3::
 	message DragonsDen_Shrine_Text_Question3
-	multichoice 20, 6, MULTI_ELDERQUIIZ3, FALSE 
+	multichoice 20, 6, MULTI_ELDERQUIIZ3, FALSE
 	switch VAR_RESULT
 	case 1, DragonsDen_Shrine_EventScript_ElderQuiz3Correct
 	case 2, DragonsDen_Shrine_EventScript_ElderQuiz3Correct
@@ -141,7 +141,7 @@ DragonsDen_Shrine_EventScript_ElderQuiz3Correct::
 
 DragonsDen_Shrine_EventScript_ElderQuiz4::
 	message DragonsDen_Shrine_Text_Question4
-	multichoice 20, 6, MULTI_ELDERQUIIZ4, FALSE 
+	multichoice 20, 6, MULTI_ELDERQUIIZ4, FALSE
 	switch VAR_RESULT
 	case 0, DragonsDen_Shrine_EventScript_ElderQuiz4Correct
 	case 2, DragonsDen_Shrine_EventScript_ElderQuiz4Correct
@@ -155,7 +155,7 @@ DragonsDen_Shrine_EventScript_ElderQuiz4Correct::
 
 DragonsDen_Shrine_EventScript_ElderQuiz5::
 	message DragonsDen_Shrine_Text_Question5
-	multichoice 20, 6, MULTI_ELDERQUIIZ5, FALSE 
+	multichoice 20, 6, MULTI_ELDERQUIIZ5, FALSE
 	switch VAR_RESULT
 	case 2, DragonsDen_Shrine_EventScript_ElderQuizFinish
 	case MULTI_B_PRESSED, DragonsDen_Shrine_EventScript_ElderQuiz5
@@ -176,16 +176,16 @@ DragonsDen_Shrine_EventScript_ElderQuizFinish::
 
 
 DragonsDen_Shrine_Text_ElderGreeting:
-	.string "Hm… Schön, dass du da bist.\p"
-	.string "Du musst nicht er-\n"
-	.string "klären, warum du hier bist.\p"
-	.string "SANDRA hat dich geschickt, oder?\p"
-	.string "Sie ist ein wirklich…\p"
-	.string "Tut mir Leid, aber\n"
-	.string "ich muss dich prüfen.\p"
-	.string "Keine Angst, du\n"
-	.string "musst nur einige Fragen beantworten.\p"
-	.string "Fertig?$"
+	.string "Oh! Willkommen!\p"
+	.string "Aber nicht doch! Du musst dich für\n"
+	.string "nichts rechtfertigen! Sandra hat dich\l"
+	.string "zu mir geschickt, habe ich nicht recht?\p"
+	.string "Sie ist so ein eigensinniges Mädchen…\p"
+	.string "Sei mir nicht böse, aber ich muss dich\n"
+	.string "einem winzig kleinen Test unterziehen.\l"
+	.string "Oh nein! Keine Sorge, ich werde dir nur\l"
+	.string "ein paar Fragen stellen.\p"
+	.string "Gut, dann fangen wir mal an…$"
 
 DragonsDen_Shrine_Text_Question1:
 	.string "Was bedeuten dir Pokémon?$"
@@ -206,13 +206,14 @@ DragonsDen_Shrine_Text_Question5:
 	.string "Was ist wichtiger?$"
 
 DragonsDen_Shrine_Text_WrongAnswer1:
-	.string "Hah? Ich höre so schlecht…$"
+	.string "Was sagst du da? Ich habe dich nicht\n"
+	.string "richtig verstanden…$"
 
 DragonsDen_Shrine_Text_WrongAnswer2:
-	.string "Was hast du gesagt?$"
+	.string "Was hast du da gerade gesagt?$"
 
 DragonsDen_Shrine_Text_RightAnswer:
-	.string "Oh, verstehe…$"
+	.string "Hm, ich verstehe…$"
 
 DragonsDen_Shrine_Text_PassedTest:
 	.string "Hm… Ich verstehe…\p"
@@ -220,9 +221,9 @@ DragonsDen_Shrine_Text_PassedTest:
 	.string "von Herzen um Pokémon.\p"
 	.string "Sehr löblich.\p"
 	.string "Überzeugung ist wichtig!\p"
-	.string "<PLAYER>, mach weiter so.\p"
+	.string "<Player>, mach weiter so.\p"
 	.string "Ich treffe dich\n"
-	.string "dann bei der Pokémon LIGA.$"
+	.string "dann bei der Pokémon Liga.$"
 
 DragonsDen_Shrine_EventScript_ClairEnter::
 	clearflag FLAG_HIDE_DRAGONS_DEN_SHRINE_CLAIR
@@ -236,7 +237,7 @@ DragonsDen_Shrine_EventScript_ClairEnter::
 	turnobject OBJ_EVENT_ID_FOLLOWER, DIR_SOUTH
 	applymovement2 LOCALID_DRAGONSDEN3_CLAIR, DragonsDen_Shrine_Movement_ClairEnter
 	waitmovement 0
-	turnobject LOCALID_DRAGONSDEN3_ELDER, DIR_WEST	
+	turnobject LOCALID_DRAGONSDEN3_ELDER, DIR_WEST
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST
 	turnobject OBJ_EVENT_ID_FOLLOWER, DIR_NORTH
 	msgbox DragonsDen_Shrine_Text_ClairYouPassed, MSGBOX_DEFAULT
@@ -336,61 +337,65 @@ DragonsDen_Shrine_Movement_ClairLeave:
 	step_end
 
 DragonsDen_Shrine_Text_ClairYouPassed:
-	.string "Wie ist es gelaufen?\p"
-	.string "Ich muss nicht danach fragen.\p"
-	.string "Du hast versagt?\p"
-	.string "..................................\p"
-	.string "…Wie? Bestanden?$"
+	.string "Na, wie hast du abgeschnitten?\p"
+	.string "Warte, lass mich raten… Bei dir ist\n"
+	.string "Hopfen und Malz verloren! … … … …Was! Du\l"
+	.string "hast bestanden?!?$"
 
 DragonsDen_Shrine_Text_ClairThatCantBe:
 	.string "Das kann nicht sein!$"
 
 DragonsDen_Shrine_Text_ClairYoureLying:
-	.string "Du lügst!\p"
-	.string "Sogar ich habe es nicht geschafft!$"
+	.string "Das darf doch nicht wahr sein! N-nicht\n"
+	.string "einmal ich wurde von ihm als würdig\l"
+	.string "anerkannt!$"
 
 DragonsDen_Shrine_Text_MustIInformLance:
-	.string "SANDRA!\p"
-	.string "Dieses Kind ist\n"
-	.string "tadellos, in Geist und Talent!\p"
-	.string "Gestehe deine Niederlage\n"
-	.string "und übergib den\l"
-	.string "DRACHENORDEN!\p"
-	.string "…Oder soll ich das SIEGFRIED erzählen?$"
+	.string "Sandra!\p"
+	.string "Dieses Kind ist eine wahre Offenbarung,\n"
+	.string "was Technik und Einstellung angeht!\l"
+	.string "Nun spring endlich über deinen\l"
+	.string "Schatten und rücke mit dem\l"
+	.string "Drachenorden heraus!\p"
+	.string "Wenn du dich weigerst… sehe ich mich\n"
+	.string "gezwungen, Siegfried davon zu\l"
+	.string "erzählen!$"
 
 DragonsDen_Shrine_Text_IUnderstand:
-	.string "I-Ich verstehe…$"
+	.string "I-in Ordnung…$"
 
 DragonsDen_Shrine_Text_HereRisingBadge:
-	.string "Hier das ist der DRACHENORDEN…\p"
-	.string "Jetzt nimm schon!$"
+	.string "Hier, das ist der Drachenorden… Los,\n"
+	.string "jetzt nimm ihn schon!$"
 
 DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
-	.string "{PLAYER} erhält den DRACHENORDEN.$"
+	.string "{PLAYER} erhält den Drachenorden.$"
 
 DragonsDen_Shrine_Text_RisingBadgeExplanation:
 	.string "Von nun an können deine Pokémon die\n"
-	.string "Fähigkeit KASKADE einsetzen.\p"
+	.string "Fähigkeit Kaskade einsetzen.\p"
 	.string "Ferner werden dich alle Pokémon\n"
 	.string "als Trainer anerkennen und dir\l"
 	.string "bedingungslos gehorchen.$"
 
 DragonsDen_Shrine_Text_ElderScoldsClair:
-	.string "SANDRA…\p"
-	.string "Dieses Kind spiegelt das wider,\n"
-	.string "was dir noch fehlt.$"
+	.string "Sandra…\p"
+	.string "Dieses Kind besitzt etwas, das dir\n"
+	.string "fehlt… Denke mal in Ruhe darüber nach,\l"
+	.string "was ich damit meinen könnte.$"
 
 DragonsDen_Shrine_Text_Speechless:
 	.string "..................................$"
 
 DragonsDen_Shrine_Text_ComeAgain:
-	.string "Komme wieder, wenn du möchtest.$"
+	.string "Komm wieder, wenn du es dir anders\n"
+	.string "überlegen solltest!$"
 
 DragonsDen_Shrine_Text_SilverIsInTraining:
-	.string "Ein Junge in deinem Alter ist\n"
-	.string "hier am Trainieren.\p"
-	.string "Er ähnelt Sandra, als sie jünger\n"
-	.string "war. Es macht mir ein wenig Sorgen…$"
+	.string "Ein Junge deines Alters ist gerade hier,\n"
+	.string "um unterwiesen zu werden.\p"
+	.string "Er ist ein bisschen so, wie Sandra\n"
+	.string "früher war. Das besorgt mich etwas…$"
 
 DragonsDen_Shrine_EventScript_Elder2::
 	msgbox DragonsDen_Shrine_Text_Elder2, MSGBOX_NPC
@@ -401,18 +406,15 @@ DragonsDen_Shrine_EventScript_Elder3::
 	end
 
 DragonsDen_Shrine_Text_Elder2:
-	.string "Es ist schon lange her, seit ein\n"
-	.string "Trainer die Anerkennung unseres\l"
-	.string "MEISTERs erhielt.\p"
-	.string "Tatsächlich nicht seit Meister\n"
-	.string "SIEGFRIED.$"
+	.string "Es ist schon lange her, seit jemand die\n"
+	.string "Anerkennung unseres Meisters erhielt.\l"
+	.string "Der letzte vor dir war Siegfried!$"
 
 DragonsDen_Shrine_Text_Elder3:
-	.string "Kennst du den jungen Meister\n"
-	.string "SIEGFRIED? \p"
-	.string "Er ähnelt unserem MEISTER sehr,\n"
-	.string "wie er in seiner Jugend war.\p"
-	.string "Es liegt ihnen im Blut.$"
+	.string "Kennst du Siegfried?\p"
+	.string "Er ist das genaue Ebenbild unseres\n"
+	.string "Meisters in seinen jungen Jahren. Sie\l"
+	.string "sind aus demselben Holz geschnitzt.$"
 
 DragonsDen_Shrine_EventScript_ElderChooseDratini::
 	goto_if_eq VAR_DRAGONS_DEN_QUIZ, 0, DragonsDen_Shrine_EventScript_ElderGiveSpecialDratini
@@ -455,17 +457,15 @@ DragonsDen_Shrine_Text_TakeThisDratini:
 	.string "Hm… Schön, dass du hier bist.\p"
 	.string "Du kommst zur richtigen Zeit.\p"
 	.string "Ich habe etwas für dich.\p"
-	.string "Nimm dieses DRATINI als\n"
+	.string "Nimm dieses Dratini als\n"
 	.string "Zeichen meiner Wertschätzung.$"
 
 DragonsDen_Shrine_Text_SymbolicDragon:
-	.string "Drachen-Pokémon\n"
-	.string "sind das Symbol unseres Klans.\p"
-	.string "Du hast bewiesen, dass man dir eines\n"
-	.string "anvertrauen kann.$"
+	.string "Drachen-Pokémon sind das\n"
+	.string "Markenzeichen unseres Klans!\p"
+	.string "Dir kann ich eins von ihnen anvertrauen.$"
 
 DragonsDen_Shrine_Text_ClairsGrandfather:
-	.string "SANDRA scheint eine wertvolle\n"
-	.string "Lektion von dir gelernt zu haben.\p"
-	.string "Ich bin ihr Groß-\n"
-	.string "vater und danke dir dafür.$"
+	.string "Sandra scheint aus ihrer Begegnung mit\n"
+	.string "dir etwas mitgenommen zu haben…\p"
+	.string "Ich, ihr Großvater, danke dir dafür.$"

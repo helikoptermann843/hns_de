@@ -75,11 +75,11 @@ LilycoveCity_CoveLilyMotel_1F_Movement_OwnerReturn:
 
 LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot:
 	.string "Hm, so haben sie also die Anzahl der\n"
-	.string "Gäste verdoppelt. Indem sie POKéMON\l"
+	.string "Gäste verdoppelt. Indem sie Pokémon\l"
 	.string "als Attraktion präsentieren?\p"
 	.string "Hm, vielleicht sollte ich ein\n"
 	.string "niedliches\n"
-	.string "POKéMON zum Maskottchen meines\l"
+	.string "Pokémon zum Maskottchen meines\l"
 	.string "Gasthofes machen…\p"
 	.string "Ich frage mich, ob ich so mehr\n"
 	.string "Gäste hätte?$"
@@ -88,7 +88,7 @@ LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua:
 	.string "Oh, tut mir Leid, tut mir Leid!\n"
 	.string "Ich habe so konzentriert ferngesehen!\n"
 	.string "\p"
-	.string "Seit TEAM AQUA in diesem Ort ist,\n"
+	.string "Seit Team Aqua in diesem Ort ist,\n"
 	.string "bleiben die Gäste aus.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
@@ -96,11 +96,11 @@ LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
 	.string "Du bist doch nicht aus Glas!$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
-	.string "Interessant! Du sagst, ein POKéMON\n"
+	.string "Interessant! Du sagst, ein Pokémon\n"
 	.string "hat ein Item gefunden, das jemand ver-\l"
 	.string "loren hat?\p"
 	.string "Das ist ja was! Wenn wir auch so\n"
-	.string "clevere POKéMON hätten…\p"
+	.string "clevere Pokémon hätten…\p"
 	.string "Dann könnten wir alles wiederfinden,\n"
 	.string "was unsere Gäste verloren haben.$"
 
@@ -108,18 +108,18 @@ LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
 	.string "Oh, tut mir Leid, tut mir Leid!\n"
 	.string "Ich habe so konzentriert ferngesehen!\n"
 	.string "\p"
-	.string "Ich habe gehört, dass jemand das VER-\n"
-	.string "STECK von TEAM AQUA auffliegen ließ.\p"
+	.string "Ich habe gehört, dass jemand das Ver-\n"
+	.string "steck von Team Aqua auffliegen ließ.\p"
 	.string "Gut! Dadurch haben wir endlich Gäste.\n"
 	.string "Eine ganze Gruppe hat reserviert!\p"
 	.string "Das sind Angestellte einer Firma… Äh…\n"
-	.string "GAME irgendwas…$"
+	.string "Game irgendwas…$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
-	.string "Irre! Ein POKéMON, das das Haus be-\n"
+	.string "Irre! Ein Pokémon, das das Haus be-\n"
 	.string "wachte, hat Einbrecher geschnappt?\p"
 	.string "Klasse! Wir sollten auch über einen\n"
-	.string "Wachschutz durch POKéMON nachdenken.\p"
+	.string "Wachschutz durch Pokémon nachdenken.\p"
 	.string "Dadurch könnten wir unseren Gästen\n"
 	.string "viel mehr Sicherheit bieten.$"
 
@@ -129,7 +129,7 @@ LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner:
 	.string "\p"
 	.string "Oh, ja. Eine große Gruppe von Gästen\n"
 	.string "ist vor kurzem hier eingetroffen.\p"
-	.string "Sie haben sich als GAME FREAK einge-\n"
+	.string "Sie haben sich als Game Freak einge-\n"
 	.string "tragen. Ich denke, sie entwickeln\l"
 	.string "Spiele.\p"
 	.string "Oh oh, ich sollte mich besser um ihr\n"

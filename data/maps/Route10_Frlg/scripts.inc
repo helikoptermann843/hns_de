@@ -44,7 +44,7 @@ Route10_Text_HermanIntro::
 
 Route10_Text_HermanDefeat::
 	.string "Nein!\n"
-	.string "Meine POKéMON!$"
+	.string "Meine Pokémon!$"
 
 Route10_Text_HermanPostBattle::
 	.string "Ich nehme dir übel, dass du mich\n"
@@ -88,12 +88,12 @@ Route10_Text_CarolPostBattle::
 	.string "einem Blumenmuster!$"
 
 Route10_Text_RockTunnelDetourToLavender::
-	.string "FELSTUNNEL\n"
-	.string "Umleitung nach LAVANDIA$"
+	.string "Felstunnel\n"
+	.string "Umleitung nach Lavandia$"
 
 Route10_Text_RockTunnel::
-	.string "FELSTUNNEL$"
+	.string "Felstunnel$"
 
 Route10_Text_PowerPlant::
-	.string "KRAFTWERK$"
+	.string "Kraftwerk$"
 

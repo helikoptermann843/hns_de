@@ -31,8 +31,8 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "Mein großer Bruder ist ein FOSSIL-\n"
-	.string "MANIAC… Er ist ein netter Kerl, der\l"
+	.string "Mein großer Bruder ist ein Fossil-\n"
+	.string "maniac… Er ist ein netter Kerl, der\l"
 	.string "Fossilien liebt…\p"
 	.string "Er liebt es auch, Löcher zu graben…\n"
 	.string "Dieses Loch hat er alleine gegraben!\p"
@@ -41,8 +41,8 @@ Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
 	.string "du Löcher graben, wie mein Bruder…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "Wenn ein POKéMON in einer Höhle\n"
-	.string "SCHAUFLER einsetzt, kommst du zum\l"
+	.string "Wenn ein Pokémon in einer Höhle\n"
+	.string "Schaufler einsetzt, kommst du zum\l"
 	.string "Eingang zurück.$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
@@ -50,8 +50,8 @@ Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
 	.string "Formen liegen im Glasschaukasten.$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "DIE ZUSAMMENSETZUNG DER ERDSCHICHT…\n"
-	.string "WIE REGEN DAS LAND FORMT…\l"
-	.string "STEINE, BODEN UND FELSEN…\p"
+	.string "Die Zusammensetzung der Erdschicht…\n"
+	.string "Wie Regen das Land formt…\l"
+	.string "Steine, Boden und Felsen…\p"
 	.string "Gerammelt voll mit Büchern.$"
 

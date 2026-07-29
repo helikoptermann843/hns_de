@@ -31,21 +31,24 @@ SafariZoneGate_PokemonCenter_Text_Boy::
 	end
 
 SafariZoneGate_PokemonCenter_Text_NPC1:
-    .string "Diejenigen, die ein POKéMON-CENTER\n"
-    .string "besuchen, kümmern sich oft gut um ihre\l"
-    .string "POKéMON.\p"
-    .string "Stimmst du zu?$"
+	.string "Leute, die man ständig im Pokémon-\n"
+	.string "Center sieht, sorgen sich bestimmt sehr\l"
+	.string "um ihre Pokémon.\p"
+	.string "Denkst du nicht auch?$"
 
 SafariZoneGate_PokemonCenter_Text_NPC2:
-    .string "Nach einem langen Marsch durch die\n"
-    .string "Berge, um ein POKéMONCENTER zu finden\l"
-    .string "wenn man kurz davor ist umzufallen…\p"
-    .string "Dann fühlt es sich an wie im Paradies!$"
+	.string "Jemandem, der nach einem langen\n"
+	.string "Aufstieg kurz vor dem Umkippen steht,\l"
+	.string "muss der Anblick eines Pokémon-Centers\l"
+	.string "wie eine Oase nach einem Marsch durch\l"
+	.string "die Wüste vorkommen!$"
 
 SafariZoneGate_PokemonCenter_Text_SafariSong:
-    .string "Safari, Safari, es macht so viel Spaß.\n"
-    .string "Safari, Safari, so interessant, was!\p"
-    .string "So viele POKéMON warten auf uns!\p"
-    .string "...Das ist ein Lied, das ich mir\n"
-    .string "ausgedacht habe. Ich singe es wenn\l"
-    .string "ich in der SAFARI-ZONE bin.$"
+	.string "Safari, Safari! So ein Spaß!\p"
+	.string "Safari, Safari! Hier geb ich Gas!\p"
+	.string "Wo in Schilf und Schlamm in Massen die\n"
+	.string "Pokémon lauern im hohen Gras!\p"
+	.string "Dieses Lied habe ich selbst\n"
+	.string "geschrieben!\p"
+	.string "Singe es doch auf deinen Streifzügen\n"
+	.string "durch die Safari-Zone vor dich hin!$"

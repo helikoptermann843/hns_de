@@ -542,11 +542,11 @@ MtChimney_EventScript_SawyerRematch::
 	end
 
 MtChimney_Text_MeteoriteWillActivateVolcano:
-	.string "Die Kraft, die in dem METEORITen\n"
+	.string "Die Kraft, die in dem Meteoriten\n"
 	.string "steckt…\p"
 	.string "Wenn man die mit dieser Maschine\n"
 	.string "verstärkt, würde die Aktivität des\l"
-	.string "SCHLOTBERGs enorm verstärkt…\p"
+	.string "Schlotbergs enorm verstärkt…\p"
 	.string "Die Energie wird tief im Krater\n"
 	.string "ansteigen und…\l"
 	.string "Hähähähä…$"
@@ -591,16 +591,16 @@ MtChimney_Text_MaxieDefeat:
 	.string "besiegt?!?$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MARC: Genug.\n"
+	.string "Marc: Genug.\n"
 	.string "Ich ziehe mich für den Moment zurück.\n"
 	.string "\p"
 	.string "Aber das ist nicht das letzte Mal,\n"
 	.string "dass\n"
-	.string "du TEAM MAGMA zu Gesicht bekommen\l"
+	.string "du Team Magma zu Gesicht bekommen\l"
 	.string "hast.\p"
 	.string "Hähähä…\p"
-	.string "Auch ohne METEORIT… Wenn wir erst die\n"
-	.string "KUGEL haben… Hähähähä…$"
+	.string "Auch ohne Meteorit… Wenn wir erst die\n"
+	.string "Kugel haben… Hähähähä…$"
 
 MtChimney_Text_TabithaIntro:
 	.string "Hahahahaha!\p"
@@ -653,12 +653,12 @@ MtChimney_Text_Grunt1PostBattle:
 	.string "vergnügen.$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "Dieses lästige TEAM AQUA… Sie ver-\n"
+	.string "Dieses lästige Team Aqua… Sie ver-\n"
 	.string "suchen alles, unsere Pläne zu\l"
 	.string "vereiteln.$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
-	.string "METEORITen stecken voller Energie.$"
+	.string "Meteoriten stecken voller Energie.$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
 	.string "Du gehst uns besser aus dem Weg!\p"
@@ -666,8 +666,8 @@ MtChimney_Text_YouBetterNotMessWithUs:
 	.string "erwecken. Zum Wohle aller.$"
 
 MtChimney_Text_AquasNameSimilar:
-	.string "Wir sind TEAM MAGMA!\p"
-	.string "Sie sind TEAM AQUA!\p"
+	.string "Wir sind Team Magma!\p"
+	.string "Sie sind Team Aqua!\p"
 	.string "Ich finde es total bescheuert, dass\n"
 	.string "sie\l"
 	.string "einen Namen haben, der unserem ähnelt.$"
@@ -683,39 +683,39 @@ MtChimney_Text_Bufoh:
 	.string "Hahoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ADRIAN: Grrr, {PLAYER}!\n"
+	.string "Adrian: Grrr, {PLAYER}!\n"
 	.string "Ich hätte es wissen müssen. War doch\l"
 	.string "klar, dass du hier auftauchst.\p"
 	.string "Schau dir ruhig an, was die Fanatiker\n"
-	.string "von TEAM MAGMA vorhaben!\p"
+	.string "von Team Magma vorhaben!\p"
 	.string "Sie wollen die Kraft des gestohlenen\n"
-	.string "METEORITen in den Vulkan geben!\p"
+	.string "Meteoriten in den Vulkan geben!\p"
 	.string "Und das wird den Vulkan zum Ausbruch\n"
 	.string "bringen!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
-	.string "ADRIAN: Grrr…\p"
-	.string "Ich möchte MARC aufhalten, aber ich\n"
+	.string "Adrian: Grrr…\p"
+	.string "Ich möchte Marc aufhalten, aber ich\n"
 	.string "kann es nicht!\p"
 	.string "Nicht, wenn ich mich drei Gegnern\n"
 	.string "gleichzeitig stellen muss.$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "ADRIAN: {PLAYER}!\n"
+	.string "Adrian: {PLAYER}!\n"
 	.string "Danke!\p"
 	.string "Mit deiner Hilfe haben wir den\n"
-	.string "zerstörerischen Plan von TEAM MAGMA\l"
+	.string "zerstörerischen Plan von Team Magma\l"
 	.string "durchkreuzt!\p"
 	.string "Aber… Du…\n"
 	.string "Auf welcher Seite stehst du?\p"
 	.string "Ach, das ist egal.\p"
 	.string "Wir werden weiter unsere Augen\n"
-	.string "aufhalten und TEAM MAGMA beobachten.\p"
+	.string "aufhalten und Team Magma beobachten.\p"
 	.string "{PLAYER}, wir sehen uns bestimmt\n"
 	.string "wieder!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Mist… TEAM MAGMA ist uns zahlenmäßig\n"
+	.string "Mist… Team Magma ist uns zahlenmäßig\n"
 	.string "überlegen! Wir können es nicht mit\n"
 	.string "ihnen\l"
 	.string "aufnehmen!$"
@@ -723,11 +723,11 @@ MtChimney_Text_MagmaOutnumbersUs:
 MtChimney_Text_LessHabitatForWaterPokemon:
 	.string "Wenn sie die Landmassen vergrößern,\n"
 	.string "gibt es weniger Lebensraum für\l"
-	.string "WASSER-POKéMON!$"
+	.string "Wasser-Pokémon!$"
 
 MtChimney_Text_MagmasNameSimilar:
-	.string "Wir sind TEAM AQUA!\p"
-	.string "Sie sind TEAM MAGMA!\p"
+	.string "Wir sind Team Aqua!\p"
+	.string "Sie sind Team Magma!\p"
 	.string "Ich koche über vor Wut, weil sie so\n"
 	.string "einen verwirrenden Namen verwenden.$"
 
@@ -735,8 +735,8 @@ MtChimney_Text_Bushaa:
 	.string "Bushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVAKEKSE sind die Spezialität am\n"
-	.string "SCHLOTBERG.\p"
+	.string "Lavakekse sind die Spezialität am\n"
+	.string "Schlotberg.\p"
 	.string "Nimm einen. Er kostet nur ¥200.$"
 
 MtChimney_Text_ThankYouDear:
@@ -750,22 +750,22 @@ MtChimney_Text_OhFineThen:
 	.string "Oh, ist gut.$"
 
 MtChimney_Text_MetoriteFittedOnMachine:
-	.string "Ein METEORIT steckt in dieser\n"
+	.string "Ein Meteorit steckt in dieser\n"
 	.string "mysteriösen Vorrichtung…\p"
-	.string "Die Maschine scheint den METEORITen\n"
+	.string "Die Maschine scheint den Meteoriten\n"
 	.string "mit Energie zu versorgen.$"
 
 MtChimney_Text_RemoveTheMeteorite:
-	.string "Ein METEORIT steckt in dieser\n"
+	.string "Ein Meteorit steckt in dieser\n"
 	.string "mysteriösen Vorrichtung…\p"
-	.string "Willst du den METEORITen nehmen?$"
+	.string "Willst du den Meteoriten nehmen?$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} entfernt den METEORITen aus\n"
+	.string "{PLAYER} entfernt den Meteoriten aus\n"
 	.string "der mysteriösen Vorrichtung.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
-	.string "{PLAYER} fasst den METEORITen nicht\n"
+	.string "{PLAYER} fasst den Meteoriten nicht\n"
 	.string "an.$"
 
 MtChimney_Text_MachineMakesNoResponse:
@@ -773,8 +773,8 @@ MtChimney_Text_MachineMakesNoResponse:
 	.string "Sie reagiert in keiner Weise.$"
 
 MtChimney_Text_RouteSign:
-	.string "{DOWN_ARROW} STEILPASS\n"
-	.string "BAD LAVASTADT GERADEAUS$"
+	.string "{DOWN_ARROW} Steilpass\n"
+	.string "Bad Lavastadt geradeaus$"
 
 MtChimney_Text_ShelbyIntro:
 	.string "Ich war bei den Heißen Quellen und\n"
@@ -866,7 +866,7 @@ MtChimney_Text_SawyerPostBattle:
 
 MtChimney_Text_SawyerRegister:
 	.string "Ich mag Hitzköpfe wie dich.\n"
-	.string "Ich trage dich in meinen POKéNAV ein.$"
+	.string "Ich trage dich in meinen Pokénav ein.$"
 
 MtChimney_Text_SawyerRematchIntro:
 	.string "Ich freue mich, denn hier gibt es\n"

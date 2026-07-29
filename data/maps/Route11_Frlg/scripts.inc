@@ -116,5 +116,5 @@ Route11_Text_DavePostBattle::
 	.string "Ich muss ein paar stärkere fangen!$"
 
 Route11_Text_DiglettsCave::
-	.string "DIGDAs HÖHLE$"
+	.string "Digdas Höhle$"
 

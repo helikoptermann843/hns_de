@@ -33,15 +33,15 @@ LavaridgeTown_Mart_EventScript_OldWoman::
 	end
 
 LavaridgeTown_Mart_Text_XSpeedFirstStrike:
-	.string "Mit X-TEMPO kannst du die INITIATIVE\n"
+	.string "Mit X-Tempo kannst du die Initiative\n"
 	.string "im Kampf erhöhen.\p"
 	.string "So kann man eventuell den ersten\n"
 	.string "Angriff ausführen - ein entscheidender\l"
 	.string "Vorteil!$"
 
 LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney:
-	.string "Auf dem Gipfel des SCHLOTBERGs wird\n"
+	.string "Auf dem Gipfel des Schlotbergs wird\n"
 	.string "eine lokale Spezialität angeboten.\p"
-	.string "Gib sie einem POKéMON und es wird\n"
+	.string "Gib sie einem Pokémon und es wird\n"
 	.string "begeistert sein.$"
 

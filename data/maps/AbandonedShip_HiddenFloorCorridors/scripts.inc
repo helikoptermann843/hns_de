@@ -148,8 +148,8 @@ AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
 	.string "“K. 6” steht auf der Tür.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "{PLAYER} steckt den SCHLÜSSEL ins\n"
+	.string "{PLAYER} steckt den Schlüssel ins\n"
 	.string "Schloss und dreht ihn um.\p"
-	.string "Der SCHLÜSSEL ist schwergängig, aber\n"
+	.string "Der Schlüssel ist schwergängig, aber\n"
 	.string "die Tür öffnet sich.$"
 

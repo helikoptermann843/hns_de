@@ -5,7 +5,7 @@ BurnedTower_1F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-BurnedTower_1F_OnTransition: 
+BurnedTower_1F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -83,17 +83,17 @@ BurnedTower_1F_EventScript_Morty::
 	end
 
 BurnedTower_1FEusineText:
-	.string "EUSINE: Ich habe gehört,\n"
+	.string "Eusine: Ich habe gehört,\n"
 	.string "Suicune könnte in dieser\l"
 	.string "Turmruine sein, also kam ich her\p"
 	.string "Aber wo genau könnte es sein?$"
 
 BurnedTower_1FMortyText:
-	.string "JENS: Der ARENALEITER von\n"
-	.string "TEAK-CITY, muss die sogenannten\l"
-	.string "Legendären POKéMON\p"
-	.string "SUICUNE, ENTEI und RAIKOU studieren.\p"
-	.string "EUSIN ist gekommen, also habe\n"
+	.string "Jens: Der Arenaleiter von\n"
+	.string "Teak-City, muss die sogenannten\l"
+	.string "Legendären Pokémon\p"
+	.string "Suicune, Entei und Raikou studieren.\p"
+	.string "Eusin ist gekommen, also habe\n"
 	.string "ich beschlossen, den Turm\l"
 	.string "mit ihm zu untersuchen.$"
 
@@ -152,7 +152,7 @@ BurnedTowerSilver_BeforeText:
 	.string "..............................\p"
 	.string "...Oh, du bist es.\p"
 	.string "Ich suchte nach Legendären\n"
-	.string "POKéMON die angeblich hier leben.\p"
+	.string "Pokémon die angeblich hier leben.\p"
 	.string "Aber hier ist nichts!\p"
 	.string "Nichts, was den Aufwand hierher\n"
 	.string "zu kommen rechtfertigt, absolut?\l"

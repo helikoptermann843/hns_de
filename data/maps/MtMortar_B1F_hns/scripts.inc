@@ -3,7 +3,7 @@ MtMortar_B1F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-MtMortar_B1F_OnTransition: 
+MtMortar_B1F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -77,7 +77,7 @@ MountMortar4_Text_ReceiveTyrogue:
 	.string "{PLAYER} erhält Rabauz.$"
 
 MountMortar4_Text_KiyoGotTyrogue:
-	.string "RABAUZ ist ein Pokémon vom Typ Kampf!\p"
+	.string "Rabauz ist ein Pokémon vom Typ Kampf!\p"
 	.string "Zieht man es auf, entwickelt es sich\n"
 	.string "angeblich zu einem mächtigen Pokémon!\p"
 	.string "Also hergehört! Streng dich an!\n"

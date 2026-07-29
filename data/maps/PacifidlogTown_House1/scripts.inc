@@ -10,8 +10,8 @@ PacifidlogTown_House1_EventScript_Woman::
 	end
 
 PacifidlogTown_House1_Text_RegiStory:
-	.string "In der HOENN-Region gibt es drei\n"
-	.string "POKéMON, die die Stärke von Gestein,\l"
+	.string "In der Hoenn-Region gibt es drei\n"
+	.string "Pokémon, die die Stärke von Gestein,\l"
 	.string "Eis und Stahl repräsentieren.\p"
 	.string "Man sagt, sie verstecken sich in\n"
 	.string "Höhlen vor den Augen der Menschen.\p"

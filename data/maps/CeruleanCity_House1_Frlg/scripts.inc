@@ -73,15 +73,15 @@ CeruleanCity_House1_EventScript_StopDescribingBadges::
 	end
 
 CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
-	.string "Nur sehr begabte TRAINER tragen\n"
-	.string "POKéMON-ORDEN.\p"
+	.string "Nur sehr begabte Trainer tragen\n"
+	.string "Pokémon-Orden.\p"
 	.string "Wie ich sehe, bist du bereits\n"
-	.string "Träger eines ORDENs.\p"
-	.string "Die ORDEN sind geheimnisumwoben!$"
+	.string "Träger eines Ordens.\p"
+	.string "Die Orden sind geheimnisumwoben!$"
 
 CeruleanCity_House1_Text_DescribeWhichBadge::
 	.string "Now then…\p"
-	.string "Which of the eight BADGES should\n"
+	.string "Which of the eight Badges should\n"
 	.string "I describe?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
@@ -89,57 +89,57 @@ CeruleanCity_House1_Text_ComeVisitAnytime::
 	.string "möchtest.$"
 
 CeruleanCity_House1_Text_AttackStatFlash::
-	.string "Die ANGRIFFE deiner POKéMON\n"
+	.string "Die Angriffe deiner Pokémon\n"
 	.string "werden ein wenig verstärkt.\p"
-	.string "Außerdem kannst du jederzeit BLITZ\n"
+	.string "Außerdem kannst du jederzeit Blitz\n"
 	.string "einsetzen.$"
 
 CeruleanCity_House1_Text_ObeyLv30Cut::
-	.string "POKéMON bis Level 30 folgen deinen\n"
+	.string "Pokémon bis Level 30 folgen deinen\n"
 	.string "Befehlen!\p"
-	.string "POKéMON höherer Level gehorchen\n"
+	.string "Pokémon höherer Level gehorchen\n"
 	.string "dir jedoch nicht!\p"
-	.string "Ferner kannst du den ZERSCHNEIDER\n"
+	.string "Ferner kannst du den Zerschneider\n"
 	.string "außerhalb von Kämpfen nutzen!$"
 
 CeruleanCity_House1_Text_SpeedStatFly::
-	.string "Die INITIATIVE deiner POKéMON\n"
+	.string "Die Initiative deiner Pokémon\n"
 	.string "nimmt zu.\p"
 	.string "Des Weiteren ist es dir möglich,\n"
-	.string "FLIEGEN außerhalb von Kämpfen\l"
+	.string "Fliegen außerhalb von Kämpfen\l"
 	.string "einzusetzen.$"
 
 CeruleanCity_House1_Text_ObeyLv50Strength::
-	.string "POKéMON bis Level 50 folgen deinen\n"
+	.string "Pokémon bis Level 50 folgen deinen\n"
 	.string "Befehlen.\p"
-	.string "POKéMON höherer Level gehorchen\n"
+	.string "Pokémon höherer Level gehorchen\n"
 	.string "dir jedoch nicht!\p"
 	.string "Zusätzlich kannst du außerhalb von\n"
-	.string "Kämpfen STÄRKE einsetzen.$"
+	.string "Kämpfen Stärke einsetzen.$"
 
 CeruleanCity_House1_Text_DefenseStatSurf::
-	.string "Die VERTEIDIGUNG deiner POKéMON\n"
+	.string "Die Verteidigung deiner Pokémon\n"
 	.string "wird verbessert.\p"
 	.string "Ferner kannst du außerhalb von\n"
-	.string "Kämpfen SURFER verwenden.$"
+	.string "Kämpfen Surfer verwenden.$"
 
 CeruleanCity_House1_Text_ObeyLv70RockSmash::
-	.string "POKéMON bis Level 70 folgen deinen\n"
+	.string "Pokémon bis Level 70 folgen deinen\n"
 	.string "Befehlen.\p"
 	.string "Das gilt auch für getauschte\n"
-	.string "POKéMON!\p"
-	.string "POKéMON höherer Level gehorchen\n"
+	.string "Pokémon!\p"
+	.string "Pokémon höherer Level gehorchen\n"
 	.string "dir jedoch nicht!\p"
-	.string "Du kannst den ZERSCHMETTERER\n"
+	.string "Du kannst den Zerschmetterer\n"
 	.string "nun auch außerhalb eines Kampfes\l"
 	.string "anwenden.$"
 
 CeruleanCity_House1_Text_SpStatsWaterfall::
-	.string "Der SP. ANG.- und SP. VER.-Wert\n"
-	.string "deiner POKéMON steigt geringfügig.\p"
-	.string "Du kannst die Attacke KASKADE\n"
+	.string "Der SP. ANG.- und SP. Ver.-Wert\n"
+	.string "deiner Pokémon steigt geringfügig.\p"
+	.string "Du kannst die Attacke Kaskade\n"
 	.string "außerhalb eines Kampfes anwenden.$"
 
 CeruleanCity_House1_Text_AllMonsWillObeyYou::
-	.string "Jegliches POKéMON gehorcht dir!$"
+	.string "Jegliches Pokémon gehorcht dir!$"
 

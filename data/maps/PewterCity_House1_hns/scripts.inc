@@ -16,7 +16,7 @@ PewterCity_House1_EventScript_Nidorian::
 	end
 
 PewterCity_House1_Text_SuperNerd:
-	.string "NIDORAN, los!$"
+	.string "Nidoran, los!$"
 
 PewterCity_House1_Text_Nidoran:
-	.string "NIDORAN♂: NIDORAN!$"
+	.string "Nidoran♂: Nidoran!$"

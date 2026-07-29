@@ -61,7 +61,7 @@ LavenderTown_Text_Sign:
 	.string "Stadt des gewissen Etwas$"
 
 LavenderTown_Text_KantoRadioStationSign:
-	.string "KANTO RADIO\p"
+	.string "Kanto Radio\p"
 	.string "Deine liebsten Programme,\n"
 	.string "Rund um die Uhr!$"
 
@@ -70,6 +70,6 @@ LavenderTown_Text_VolunteerPokemonHouseSign:
 	.string "Waisenhaus für Pokémon\n$"
 
 LavenderTown_Text_SoulHouseSign:
-	.string "HAUS DER SEELEN\p"
+	.string "Haus der Seelen\p"
 	.string "Mögen die Seelen der Pokémon\n"
 	.string "in Frieden ruhen$"

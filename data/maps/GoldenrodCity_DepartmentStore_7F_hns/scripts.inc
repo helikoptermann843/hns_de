@@ -86,7 +86,7 @@ GoldenrodDeptStore_Text_RoofTwin:
 	.string "Oft gibt es hier Sonderangebote.$"
 
 GoldenrodDeptStore_Text_RoofSuperNerdOhWow:
-	.string "Oh, wow!$"
+	.string "Oh$"
 
 GoldenrodDeptStore_Text_RoofSuperNerdQuitBotheringMe:
 	.string "Hörst du auf, mich zu belästigen?$"
@@ -96,16 +96,16 @@ GoldenrodDeptStore_Text_RoofPokefanM:
 	.string "möchte, aber mir\l"
 	.string "fehlt das nötige Kleingeld…\p"
 	.string "Soll ich meine\n"
-	.string "gesammelten BEEREN verkaufen…$"
+	.string "gesammelten Beeren verkaufen…$"
 
 GoldenrodDeptStore_Text_RoofTeacher:
 	.string "Oh, alles ist so billig!\p"
 	.string "Ich habe soviel\n"
-	.string "gekauft, dass mein BEUTEL voll ist!$"
+	.string "gekauft, dass mein Beutel voll ist!$"
 
 GoldenrodDeptStore_Text_RoofBugCatcher:
 	.string "Meine Pokémon\n"
 	.string "sind immer paralysiert oder vergiftet,\l"
 	.string "wenn es darauf ankommt…\p"
-	.string "Daher möchte ich HYPERHEILER kaufen.\p"
+	.string "Daher möchte ich Hyperheiler kaufen.\p"
 	.string "Hoffentlich gibt es noch welche?$"

@@ -2,7 +2,7 @@ SaffronCity_SilphCo_hns_MapScripts::
 	.byte 0
 
 SaffronCity_SilphCo_EventScript_Steven::
-	lock 
+	lock
 	msgbox SaffronCity_SilphCo_Text_Steven1, MSGBOX_DEFAULT
 	closemessage
 	delay 20
@@ -139,12 +139,12 @@ SaffronCity_SilphCo_EventScript_Sign2::
 	end
 
 SilphCo_Text_Sign1:
-	.string "SILPH CO.\n"
-	.string "EG REZEPTION.$"
+	.string "Silph Co.\n"
+	.string "EG Rezeption.$"
 
 SilphCo_Text_Sign2:
-	.string "SILPH CO.\n"
-	.string "FAHRSTUHL AUSSER BETRIEB.$"
+	.string "Silph Co.\n"
+	.string "Fahrstuhl außer Betrieb.$"
 
 SilphCo_Text_Receptionist:
 	.string "Willkommen im Bürogebäude\n"

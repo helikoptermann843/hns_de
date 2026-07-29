@@ -10,7 +10,7 @@ PokemonLeague_KarensRoom_OnResume::
 	end
 
 PokemonLeague_KarensRoom_EventScript_Karen::
-	lock 
+	lock
 	faceplayer
 	goto_if_ge VAR_LEAGUE_STATE, 5, PokemonLeague_KarensRoom_EventScript_KarenDefeated
 	goto_if_set FLAG_IS_CHAMPION, PokemonLeague_KarensRoom_EventScript_KarenRematch
@@ -32,7 +32,7 @@ PokemonLeague_KarensRoom_EventScript_KarenOnDefeat::
 	msgbox PokemonLeague_KarensRoom_Text_Defeat, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x28E, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -67,7 +67,7 @@ PokemonLeague_KarensRoom_Text_RematchBefore:
 	.string "mit deinen Pokémon.$"
 
 PokemonLeague_KarensRoom_Text_Before:
-	.string "Ich bin Melanie von der TOP VIER.\p"
+	.string "Ich bin Melanie von der Top Vier.\p"
 	.string "Du bist {PLAYER}? Wie amüsant.\p"
 	.string "Ich liebe Unlicht-Pokémon.\p"
 	.string "Ihr wildes, hartes Image finde ich\n"
@@ -78,8 +78,8 @@ PokemonLeague_KarensRoom_Text_Before:
 	.string "Los geht's.$"
 
 PokemonLeague_KarensRoom_Text_Beaten:
-	.string "Nun, du bist wirklich gut. Das gefällt\n"
-	.string "mir an einem Trainer.$"
+	.string "Hm, du bist gut. Das gefällt mir an einem\n"
+	.string "Trainer.$"
 
 PokemonLeague_KarensRoom_Text_Defeat:
 	.string "Starke Pokémon.\p"

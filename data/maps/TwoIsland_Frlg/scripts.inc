@@ -216,15 +216,15 @@ TwoIsland_EventScript_FastCurrentSign::
 	end
 
 TwoIsland_Text_IslandSign::
-	.string "EILAND ZWEI\n"
+	.string "Eiland Zwei\n"
 	.string "Ein Paradies für Zwei$"
 
 TwoIsland_Text_JoyfulGameCornerSign::
 	.string "Entertainment & Snacks!\n"
-	.string "Action pur in der SPIELHALLE$"
+	.string "Action pur in der Spielhalle$"
 
 TwoIsland_Text_DangerFastCurrent::
-	.string "ACHTUNG! STARKE STRÖMUNG!\n"
+	.string "Achtung! Starke Strömung!\n"
 	.string "Angeln und Surfen verboten!$"
 
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
@@ -236,12 +236,12 @@ TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "I can't tell you how grateful I am\n"
-	.string "for your rescue of LOSTELLE.\p"
+	.string "for your rescue of Lostelle.\p"
 	.string "Thanks to your feat, the people of\n"
-	.string "THREE ISLAND have changed their\l"
-	.string "attitudes about KANTO people.\p"
-	.string "And, I'm from KANTO, you see.\p"
-	.string "The people of THREE ISLAND\n"
+	.string "Three Island have changed their\l"
+	.string "attitudes about Kanto people.\p"
+	.string "And, I'm from Kanto, you see.\p"
+	.string "The people of Three Island\n"
 	.string "helped me add to my merchandise.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
@@ -257,8 +257,8 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 	.string "Please have a look!$"
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
-	.string "Dieser Mann dort ist von PRISMANIA\n"
-	.string "CITY hergezogen.\p"
+	.string "Dieser Mann dort ist von Prismania\n"
+	.string "City hergezogen.\p"
 	.string "Er hat mit seinem kleinen Bruder\n"
 	.string "einen Laden aufgemacht.\p"
 	.string "Ich weiß nicht, ob er sich bewusst\n"
@@ -266,7 +266,7 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
 
 TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "Der Bruder des Ladenbesitzers hat\n"
-	.string "einen Job in der SPIELHALLE\l"
+	.string "einen Job in der Spielhalle\l"
 	.string "angenommen.\l"
 	.string "Er versucht, mehr Geld zu\l"
 	.string "verdienen, damit sie ihr Waren-\l"
@@ -275,23 +275,23 @@ TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "Hör zu!\n"
 	.string "Wusstest du…\p"
-	.string "Ein berühmter TRAINER ist vor\n"
-	.string "geraumer Zeit auf das EILAND\l"
+	.string "Ein berühmter Trainer ist vor\n"
+	.string "geraumer Zeit auf das Eiland\l"
 	.string "gekommen.\l"
-	.string "Er ist einer der TOP VIER!\l"
-	.string "Sein Name ist BRUNO!\p"
+	.string "Er ist einer der Top Vier!\l"
+	.string "Sein Name ist Bruno!\p"
 	.string "Er ist gegangen, weil er enttäuscht\n"
-	.string "war, dass alle WUTKEKSE\l"
+	.string "war, dass alle Wutkekse\l"
 	.string "ausverkauft waren.$"
 
 TwoIsland_Text_BuyRareItemsHere::
-	.string "Der anspruchsvolle TRAINER\n"
+	.string "Der anspruchsvolle Trainer\n"
 	.string "kauft hier seltene Items!$"
 
 TwoIsland_Text_OldWomanLivesOutOnCape::
 	.string "Am Kap lebt eine alte Frau in einer\n"
 	.string "Hütte.\p"
-	.string "Sie begutachtet POKéMON ganz\n"
+	.string "Sie begutachtet Pokémon ganz\n"
 	.string "genau. Es ist ein wenig\l"
 	.string "merkwürdig.$"
 
@@ -299,7 +299,7 @@ TwoIsland_Text_HaveYouTriedJumpingGame::
 	.string "Boing! Boing!\n"
 	.string "Hast du schon das Sprungspiel\l"
 	.string "ausprobiert?\l"
-	.string "Die POKéMON, die daran teilnehmen…\l"
+	.string "Die Pokémon, die daran teilnehmen…\l"
 	.string "Boing!\p"
 	.string "Einige machen boing!\p"
 	.string "Und andere machen boooooooing!\p"

@@ -59,7 +59,7 @@ FuchsiaCity_WardensHouse_EventScript_DisplaySign2::
 	end
 
 FuchsiaCity_WardensHouse_Text_HifFuffHefifoo::
-	.string "WÄRTER: Hef faff heffee!\p"
+	.string "Wärter: Hef faff heffee!\p"
 	.string "Ha lof ha feef ee haffhe he.\n"
 	.string "Heff hee fiee!$"
 
@@ -72,21 +72,21 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
 	.string "Hei heff heh ha hef ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-	.string "{PLAYER} gave the GOLD TEETH\n"
-	.string "to the WARDEN.$"
+	.string "{PLAYER} gave the Gold Teeth\n"
+	.string "to the Warden.$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
-	.string "Der WÄRTER setzt das Gebiss ein!$"
+	.string "Der Wärter setzt das Gebiss ein!$"
 
 FuchsiaCity_WardensHouse_Text_ThanksSonGiveYouSomething::
-	.string "WÄRTER: Danke!\n"
+	.string "Wärter: Danke!\n"
 	.string "Niemand hat auch nur ein Wort von\l"
 	.string "mir verstanden!\p"
 	.string "So konnte ich nicht arbeiten.\n"
 	.string "Nimm das hier für deine Mühen.$"
 
 FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
-	.string "WÄRTER: Danke!\n"
+	.string "Wärter: Danke!\n"
 	.string "Niemand hat auch nur ein Wort von\l"
 	.string "mir verstanden!\p"
 	.string "So konnte ich nicht arbeiten.\n"
@@ -94,15 +94,15 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
 	.string "{PLAYER} received HM04\n"
-	.string "from the WARDEN.$"
+	.string "from the Warden.$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
-	.string "WÄRTER: VM04 ist STÄRKE!\p"
-	.string "Damit lernen POKéMON, Felsen zu\n"
+	.string "Wärter: VM04 ist Stärke!\p"
+	.string "Damit lernen Pokémon, Felsen zu\n"
 	.string "verschieben, auch wenn sie nicht\l"
 	.string "kämpfen!\p"
-	.string "Hast du bereits das GEHEIME HAUS\n"
-	.string "in der SAFARI-ZONE gefunden?$"
+	.string "Hast du bereits das Geheime Haus\n"
+	.string "in der Safari-Zone gefunden?$"
 
 @ Unused
 FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
@@ -110,10 +110,10 @@ FuchsiaCity_WardensHouse_Text_YouHaveTooMuchStuff::
 	.string "いっぱいやんけ！$"
 
 FuchsiaCity_WardensHouse_Text_MonPhotosFossilsOnDisplay::
-	.string "Fotos von POKéMON\n"
+	.string "Fotos von Pokémon\n"
 	.string "und Fossilien.$"
 
 FuchsiaCity_WardensHouse_Text_OldMonMerchandiseOnDisplay::
-	.string "Alte POKéMON-\n"
+	.string "Alte Pokémon-\n"
 	.string "Spielsachen.$"
 

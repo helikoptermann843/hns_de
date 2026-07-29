@@ -1,21 +1,21 @@
 gBirchDexRatingText_AreYouCurious::
-	.string "PROF. BIRK: Ah, {PLAYER}{KUN}!\p"
+	.string "Prof. Birk: Ah, {PLAYER}{KUN}!\p"
 	.string "Möchtest du mir deine Fortschritte\n"
-	.string "mit dem POKéDEX zeigen?$"
+	.string "mit dem Pokédex zeigen?$"
 
 gBirchDexRatingText_Cancel::
 	.string "Ach? Du hast erst so wenige\n"
-	.string "POKéMON gefangen, dass es sich\l"
+	.string "Pokémon gefangen, dass es sich\l"
 	.string "nicht lohnt, ihn mir zu zeigen?$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught::
 	.string "Hmhm…\p"
-	.string "Oh, du hast {STR_VAR_1} POKéMON gesehen\n"
-	.string "und {STR_VAR_2} POKéMON gefangen…$"
+	.string "Oh, du hast {STR_VAR_1} Pokémon gesehen\n"
+	.string "und {STR_VAR_2} Pokémon gefangen…$"
 
 gBirchDexRatingText_LessThan10::
 	.string "Du solltest mehr ins hohe Gras\n"
-	.string "gehen und mehr auf POKéMON\l"
+	.string "gehen und mehr auf Pokémon\l"
 	.string "achten.$"
 
 gBirchDexRatingText_LessThan20::
@@ -24,14 +24,14 @@ gBirchDexRatingText_LessThan20::
 	.string "werden!$"
 
 gBirchDexRatingText_LessThan30::
-	.string "Einige POKéMON tauchen nur in be-\n"
+	.string "Einige Pokémon tauchen nur in be-\n"
 	.string "stimmten Regionen auf.\l"
 	.string "Hab nur Geduld.$"
 
 gBirchDexRatingText_LessThan40::
 	.string "Nun, er könnte mehr Einträge\n"
 	.string "enthalten, aber es sieht schon\l"
-	.string "eher nach einem POKéDEX aus.$"
+	.string "eher nach einem Pokédex aus.$"
 
 gBirchDexRatingText_LessThan50::
 	.string "Das läuft doch wunderbar.\n"
@@ -39,16 +39,16 @@ gBirchDexRatingText_LessThan50::
 
 gBirchDexRatingText_LessThan60::
 	.string "Verwendest du irgendwelche\n"
-	.string "ANGELn?\l"
-	.string "Hier gibt es viele POKéMON im Meer.$"
+	.string "Angeln?\l"
+	.string "Hier gibt es viele Pokémon im Meer.$"
 
 gBirchDexRatingText_LessThan70::
-	.string "Statt die POKéMON nur zu fangen,\n"
+	.string "Statt die Pokémon nur zu fangen,\n"
 	.string "wie wäre es, sie sich entwickeln zu\l"
 	.string "lassen?$"
 
 gBirchDexRatingText_LessThan80::
-	.string "Der POKéDEX wird einfach\n"
+	.string "Der Pokédex wird einfach\n"
 	.string "fantastisch.\l"
 	.string "Das habe ich im Gefühl…$"
 
@@ -59,127 +59,127 @@ gBirchDexRatingText_LessThan90::
 
 gBirchDexRatingText_LessThan100::
 	.string "Warst du schon mal in der\n"
-	.string "SAFARI-ZONE?\p"
-	.string "Ich habe gehört, es gibt POKéMON,\n"
+	.string "Safari-Zone?\p"
+	.string "Ich habe gehört, es gibt Pokémon,\n"
 	.string "die man nur dort finden kann.$"
 
 gBirchDexRatingText_LessThan110::
 	.string "Du hast die 100er-Marke\n"
 	.string "überschritten!\p"
 	.string "Das ist ein beeindruckender\n"
-	.string "POKéDEX!$"
+	.string "Pokédex!$"
 
 gBirchDexRatingText_LessThan120::
-	.string "Es gibt auch POKéMON, die man\n"
+	.string "Es gibt auch Pokémon, die man\n"
 	.string "durch den Einsatz von\l"
-	.string "ZERTRÜMMERER findet.$"
+	.string "Zertrümmerer findet.$"
 
 gBirchDexRatingText_LessThan130::
-	.string "Du solltest einige POKéMON fangen\n"
+	.string "Du solltest einige Pokémon fangen\n"
 	.string "und sie mit anderen tauschen.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "Ich habe von POKéMON gehört, die\n"
+	.string "Ich habe von Pokémon gehört, die\n"
 	.string "sich entwickeln, wenn sie ihren\l"
-	.string "TRAINER sehr lieben.$"
+	.string "Trainer sehr lieben.$"
 
 gBirchDexRatingText_LessThan150::
 	.string "Ich hatte keine Ahnung, dass es in\n"
-	.string "der HOENN-Region so viele\l"
-	.string "verschiedene POKéMON-Arten gibt.$"
+	.string "der Hoenn-Region so viele\l"
+	.string "verschiedene Pokémon-Arten gibt.$"
 
 gBirchDexRatingText_LessThan160::
 	.string "Manchmal erscheinen einige\n"
-	.string "POKéMON in großer Anzahl\p"
+	.string "Pokémon in großer Anzahl\p"
 	.string "wie bei einem Ausbruch.\n"
 	.string "Das solltest du nicht verpassen!$"
 
 gBirchDexRatingText_LessThan170::
-	.string "Dein POKéDEX liefert einen\n"
+	.string "Dein Pokédex liefert einen\n"
 	.string "erstaunlich guten Einblick in die\l"
-	.string "POKéMON der HOENN-Region!$"
+	.string "Pokémon der Hoenn-Region!$"
 
 gBirchDexRatingText_LessThan180::
 	.string "Ich sage, du hast dich bereits als\n"
-	.string "guter POKéMON-PROFESSOR\l"
+	.string "guter Pokémon-Professor\l"
 	.string "qualifiziert.$"
 
 gBirchDexRatingText_LessThan190::
-	.string "Mit diesem POKéDEX, der schon so\n"
+	.string "Mit diesem Pokédex, der schon so\n"
 	.string "weit gediehen ist, bist du ein\l"
 	.string "echter Profi.$"
 
 gBirchDexRatingText_LessThan200::
 	.string "Du bist sehr nahe dran, den\n"
-	.string "POKéDEX zu vervollständigen.\l"
+	.string "Pokédex zu vervollständigen.\l"
 	.string "Das fühle ich einfach.$"
 
 gBirchDexRatingText_DexCompleted::
 	.string "Herzlichen Glückwunsch!\n"
-	.string "Dein POKéDEX ist vollständig!$"
+	.string "Dein Pokédex ist vollständig!$"
 
 gBirchDexRatingText_OnANationwideBasis::
 	.string "Hmhm…\n"
 	.string "Auf nationaler Ebene…\p"
-	.string "hast du {STR_VAR_1} POKéMON gesehen\n"
-	.string "und {STR_VAR_2} POKéMON gefangen…$"
+	.string "hast du {STR_VAR_1} Pokémon gesehen\n"
+	.string "und {STR_VAR_2} Pokémon gefangen…$"
 
 @ FRLG
 
 PokedexRating_Text_HowIsPokedexComingAlong::
-	.string "PROF. EICH: Ich freue mich, dich\n"
-	.string "zu sehen! Was macht dein POKéDEX?\p"
+	.string "Prof. Eich: Ich freue mich, dich\n"
+	.string "zu sehen! Was macht dein Pokédex?\p"
 	.string "Zeig ihn mir!$"
 
 PokedexRating_Text_SeenXOwnedY::
-	.string "In deinem POKéDEX steht:\p"
-	.string "Gesehen: {STR_VAR_1} POKéMON\n"
-	.string "  Besitz: {STR_VAR_2} POKéMON\p"
-	.string "PROF. EICHs Bewertung:$"
+	.string "In deinem Pokédex steht:\p"
+	.string "Gesehen: {STR_VAR_1} Pokémon\n"
+	.string "  Besitz: {STR_VAR_2} Pokémon\p"
+	.string "Prof. Eichs Bewertung:$"
 
 PokedexRating_Text_LessThan10::
 	.string "You still have lots to do.\p"
 	.string "Go into every patch of grass you\n"
-	.string "see and look for POKéMON!$"
+	.string "see and look for Pokémon!$"
 
 PokedexRating_Text_LessThan20::
 	.string "It looks as if you're getting on\n"
 	.string "the right track!\p"
-	.string "I've given one of my AIDES a FLASH\n"
+	.string "I've given one of my Aides a Flash\n"
 	.string "HM. Make sure you go get it!$"
 
 PokedexRating_Text_LessThan30::
-	.string "Your POKéDEX could use a bit more\n"
+	.string "Your Pokédex could use a bit more\n"
 	.string "volume still!\p"
 	.string "Try to catch other species of\n"
-	.string "POKéMON!$"
+	.string "Pokémon!$"
 
 PokedexRating_Text_LessThan40::
 	.string "Good, it's apparent that you're\n"
 	.string "trying hard!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "ITEMFINDER. Be sure to collect it!$"
+	.string "I've given one of my Aides an\n"
+	.string "Itemfinder. Be sure to collect it!$"
 
 PokedexRating_Text_LessThan50::
-	.string "Your POKéDEX is coming along quite\n"
+	.string "Your Pokédex is coming along quite\n"
 	.string "well!\p"
-	.string "I've given one of my AIDES an\n"
-	.string "AMULET COIN. Be sure to get it!$"
+	.string "I've given one of my Aides an\n"
+	.string "Amulet Coin. Be sure to get it!$"
 
 PokedexRating_Text_LessThan60::
 	.string "Ah, you've finally topped 50\n"
 	.string "species!\p"
-	.string "I've given one of my AIDES an EXP.\n"
-	.string "SHARE. Be sure to go get it!$"
+	.string "I've given one of my Aides an EXP.\n"
+	.string "Share. Be sure to go get it!$"
 
 PokedexRating_Text_LessThan70::
 	.string "Hoho! This is turning into quite the\n"
-	.string "respectable POKéDEX!$"
+	.string "respectable Pokédex!$"
 
 PokedexRating_Text_LessThan80::
 	.string "Very good!\p"
 	.string "I think you'll collect even more\n"
-	.string "POKéMON by going fishing!$"
+	.string "Pokémon by going fishing!$"
 
 PokedexRating_Text_LessThan90::
 	.string "Wonderful! Let me guess… You\n"
@@ -195,7 +195,7 @@ PokedexRating_Text_LessThan110::
 
 PokedexRating_Text_LessThan120::
 	.string "You even have the evolved forms\n"
-	.string "of POKéMON! Super!$"
+	.string "of Pokémon! Super!$"
 
 PokedexRating_Text_LessThan130::
 	.string "Excellent! Trade with friends to\n"
@@ -207,25 +207,25 @@ PokedexRating_Text_LessThan140::
 
 PokedexRating_Text_LessThan150::
 	.string "I have nothing left to say!\n"
-	.string "You're the POKéMON PROFESSOR now!$"
+	.string "You're the Pokémon Professor now!$"
 
 PokedexRating_Text_Complete::
-	.string "Your POKéDEX is entirely complete!\n"
+	.string "Your Pokédex is entirely complete!\n"
 	.string "Congratulations!!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
-	.string "In deinem NATIONALEN POKéDEX\n"
+	.string "In deinem Nationalen Pokédex\n"
 	.string "steht:\p"
-	.string "Gesehen: {STR_VAR_1} POKéMON\n"
-	.string "Besitz: {STR_VAR_2} POKéMON.$"
+	.string "Gesehen: {STR_VAR_1} Pokémon\n"
+	.string "Besitz: {STR_VAR_2} Pokémon.$"
 
 PokedexRating_Text_LookForwardToFilledNationalDex::
 	.string "Ich bin gespannt, ob du den\n"
-	.string "NATIONALEN POKéDEX füllen kannst.$"
+	.string "Nationalen Pokédex füllen kannst.$"
 
 PokedexRating_Text_YouveCompletedDex::
 	.string "Endlich…\p"
-	.string "Dein POKéDEX ist komplett!\p"
+	.string "Dein Pokédex ist komplett!\p"
 	.string "Das ist traumhaft!\n"
 	.string "Wirklich fantastisch!$"
 
@@ -238,8 +238,8 @@ PokedexRating_Text_ThankYouMadeDreamReality::
 	.string "Du hast meinen Traum erfüllt.$"
 
 PokedexRating_Text_LoveSeeingYourPokedex::
-	.string "EICH: Ah, willkommen!\p"
-	.string "Wie ist es um deinen POKéDEX\n"
+	.string "Eich: Ah, willkommen!\p"
+	.string "Wie ist es um deinen Pokédex\n"
 	.string "bestellt?\p"
 	.string "Wow!\p"
 	.string "Ich weiß es natürlich, aber ich\n"
@@ -249,18 +249,18 @@ PokedexRating_Text_LoveSeeingYourPokedex::
 @ HnS (mostly directly copied from HGSS)
 
 gElmDexRatingText_AreYouCurious::
-	.string "PROF. LIND: Ah, {PLAYER}{KUN}!\p"
+	.string "Prof. Lind: Ah, {PLAYER}{KUN}!\p"
 	.string "Möchtest du mir deine Fortschritte\n"
-	.string "mit dem POKéDEX zeigen?$"
+	.string "mit dem Pokédex zeigen?$"
 
 gElmDexRatingText_AreYouCuriousNational::
-	.string "PROF. LIND: Ah, {PLAYER}{KUN}!\p"
+	.string "Prof. Lind: Ah, {PLAYER}{KUN}!\p"
 	.string "Möchtest du mir deine Fortschritte\n"
-	.string "mit dem nationalen POKéDEX zeigen?$"
+	.string "mit dem nationalen Pokédex zeigen?$"
 
 gJohtoDexRatingText_LessThan10::
 	.string "Du solltest mehr ins hohe Gras\n"
-	.string "gehen und mehr auf POKéMON\l"
+	.string "gehen und mehr auf Pokémon\l"
 	.string "achten.$"
 
 gJohtoDexRatingText_LessThan20::
@@ -269,7 +269,7 @@ gJohtoDexRatingText_LessThan20::
 	.string "werden!$"
 
 gJohtoDexRatingText_LessThan35::
-	.string "Einige POKéMON tauchen nur in be-\n"
+	.string "Einige Pokémon tauchen nur in be-\n"
 	.string "stimmten Regionen auf.\l"
 	.string "Hab nur Geduld.$"
 
@@ -279,11 +279,11 @@ gJohtoDexRatingText_LessThan50::
 
 gJohtoDexRatingText_LessThan65::
 	.string "Verwendest du irgendwelche\n"
-	.string "ANGELn?\l"
-	.string "Hier gibt es viele POKéMON im Meer.$"
+	.string "Angeln?\l"
+	.string "Hier gibt es viele Pokémon im Meer.$"
 
 gJohtoDexRatingText_LessThan80::
-	.string "Der POKéDEX wird einfach\n"
+	.string "Der Pokédex wird einfach\n"
 	.string "fantastisch.\l"
 	.string "Das habe ich im Gefühl…$"
 
@@ -296,7 +296,7 @@ gJohtoDexRatingText_LessThan110::
 	.string "Du hast die 100er-Marke\n"
 	.string "überschritten!\p"
 	.string "Das ist ein beeindruckender\n"
-	.string "POKéDEX!$"
+	.string "Pokédex!$"
 
 gJohtoDexRatingText_LessThan125::
 	.string "Schon über 120,\n"
@@ -345,7 +345,7 @@ gJohtoDexRatingText_LessThan275::
 	.string "weiter so.$"
 
 gJohtoDexRatingText_LessThanMaxDex::
-	.string "Super POKéDEX!\n"
+	.string "Super Pokédex!\n"
 	.string "Wird richtig professionell!$"
 
 gJohtoDexRatingText_Complete::
@@ -381,7 +381,7 @@ gNationalDexRatingText_LessThan350::
 
 gNationalDexRatingText_LessThan400::
 @	.string "Musik im Radio könnte\n"
-@	.string "POKéMON herauslocken$"
+@	.string "Pokémon herauslocken$"
 	.string "Es gibt überall versteckte\n"
 	.string "Orte, überall auf der Welt.$"
 
@@ -403,7 +403,7 @@ gNationalDexRatingText_LessThanMaxDex::
 
 gNationalDexRatingText_Complete::
 	.string "Exzellent! Ein fantastischer\n"
-	.string "Nationaler POKéDEX!\p"
+	.string "Nationaler Pokédex!\p"
 	.string "Wow...{PAUSE 10}\p"
 	.string "Du hast meine kühnsten\n"
 	.string "Erwartungen übertroffen!\p"

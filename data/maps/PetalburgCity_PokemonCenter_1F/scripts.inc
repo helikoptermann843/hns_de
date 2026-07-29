@@ -53,43 +53,43 @@ PetalburgCity_PokemonCenter_1F_EventScript_SayMudkipType::
 	return
 
 PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
-	.string "Computerbasiertes POKéMON-Lagerungs-\n"
+	.string "Computerbasiertes Pokémon-Lagerungs-\n"
 	.string "System…\p"
 	.string "Wer auch immer dies entwickelt hat,\n"
 	.string "muss ein wahrer Zauberer sein!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "Als mein POKéMON eine SINELBEERE\n"
+	.string "Als mein Pokémon eine Sinelbeere\n"
 	.string "aß, wurden seine KP aufgefüllt!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
-	.string "Es gibt viele Typen von POKéMON.\p"
+	.string "Es gibt viele Typen von Pokémon.\p"
 	.string "Jeder Typ hat seine Stärken und\n"
 	.string "Schwächen gegenüber anderen Typen.\p"
-	.string "Je nach Typ des POKéMON kann der\n"
+	.string "Je nach Typ des Pokémon kann der\n"
 	.string "Kampf leicht oder schwer sein.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "Dein GECKARBOR ist beispielsweise ein\n"
-	.string "PFLANZEN-Typ.\p"
-	.string "Es ist stark gegenüber dem WASSER-\n"
-	.string "und BODEN-Typ.\p"
+	.string "Dein Geckarbor ist beispielsweise ein\n"
+	.string "Pflanzen-Typ.\p"
+	.string "Es ist stark gegenüber dem Wasser-\n"
+	.string "und Boden-Typ.\p"
 	.string "Aber es ist schwach gegenüber den\n"
-	.string "FEUER-POKéMON.$"
+	.string "Feuer-Pokémon.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "Dein FLEMMLI ist beispielsweise ein\n"
-	.string "FEUER-Typ.\p"
-	.string "Es ist stark gegenüber dem PFLANZEN-\n"
-	.string "und KÄFER-Typ.\p"
+	.string "Dein Flemmli ist beispielsweise ein\n"
+	.string "Feuer-Typ.\p"
+	.string "Es ist stark gegenüber dem Pflanzen-\n"
+	.string "und Käfer-Typ.\p"
 	.string "Aber es ist schwach gegenüber den\n"
-	.string "WASSER-POKéMON.$"
+	.string "Wasser-Pokémon.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "Dein HYDROPI ist beispielsweise ein\n"
-	.string "WASSER-Typ.\p"
-	.string "Es ist stark gegenüber dem FEUER-Typ.\n"
+	.string "Dein Hydropi ist beispielsweise ein\n"
+	.string "Wasser-Typ.\p"
+	.string "Es ist stark gegenüber dem Feuer-Typ.\n"
 	.string "\p"
 	.string "Aber es ist schwach gegenüber den\n"
-	.string "PFLANZEN- und ELEKTRO-POKéMON.$"
+	.string "Pflanzen- und Elektro-Pokémon.$"
 

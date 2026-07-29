@@ -215,7 +215,7 @@ JaggedPass_Text_EthanRegister:
 	.string "Wenn ich mich erstmal an diesen\n"
 	.string "unebenen Boden gewöhnt habe,\l"
 	.string "werde ich mit Sicherheit gewinnen!\p"
-	.string "Trägst du mich in deinen POKéNAV ein?$"
+	.string "Trägst du mich in deinen Pokénav ein?$"
 
 JaggedPass_Text_EthanRematchIntro:
 	.string "Ich habe mich an die Unebenheiten ge-\n"
@@ -247,7 +247,7 @@ JaggedPass_Text_GoWhereverYouWant:
 
 JaggedPass_Text_BoulderShakingInResponseToEmblem:
 	.string "Oh! Der Felsen reagiert auf das\n"
-	.string "MAGMAEMBLEM.$"
+	.string "Magmaemblem.$"
 
 JaggedPass_Text_JulioIntro:
 	.string "Aiyeeeh! Man bekommt wirklich Angst,\n"

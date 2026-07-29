@@ -38,6 +38,6 @@ CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
 	.string "schälen...$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-	.string "KAPITÄN: Urps...\n"
+	.string "Kapitän: Urps...\n"
 	.string "Es geht mir gar nicht gut! Urps!$"
 

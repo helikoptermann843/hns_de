@@ -3,7 +3,7 @@ Route31_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route31_OnTransition: 
+Route31_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -146,7 +146,7 @@ Route31_Text_SleepyMan:
 
 Route31_Text_SleepyManGotMail:
 	.string "…Zzzz… Häh?\p"
-	.string "Was ist? Du hast einen BRIEF für mich?$"
+	.string "Was ist? Du hast einen Brief für mich?$"
 
 Route31_Text_SleepyManFail:
 	.string "…Zzzz…$"
@@ -157,11 +157,11 @@ Route31_Text_HandOverMailMon:
 
 Route31_Text_ReadingMail:
 	.string "Mal sehen…\p"
-	.string "…die DUNKELHÖHLE\n"
+	.string "…die Dunkelhöhle\n"
 	.string "führt zu einem anderen Weg…\p"
 	.string "Gut zu wissen.\p"
 	.string "Danke, dass du mir\n"
-	.string "den BRIEF brachtest.\p"
+	.string "den Brief brachtest.\p"
 	.string "Mein Freund ist\n"
 	.string "ein netter Mensch, genau wie du!\p"
 	.string "Ich möchte mich\n"
@@ -187,7 +187,7 @@ Route31_Text_WrongMail:
 Route31_Text_MissingMail:
 	.string "Was ist so besonders\n"
 	.string "an diesem Pokémon?\p"
-	.string "Es trägt keinen BRIEF.$"
+	.string "Es trägt keinen Brief.$"
 
 Route31_Text_DeclinedToHandOverMail:
 	.string "Was? Du möchtest nichts?$"
@@ -204,29 +204,29 @@ Route31_Text_Youngster:
 	.string "von Viola City anzutreten!$"
 
 Route31_Text_Sign:
-	.string "ROUTE 31\p"
-	.string "VIOLA CITY - ROSALIA CITY$"
+	.string "Route 31\p"
+	.string "Viola City - Rosalia City$"
 
 Route31_Text_WadeRegister:
     .string "Du bist spitze! Ich mag dich!\p"
     .string "Ich suche hier jeden Tag nach\n"
-    .string "POKéMON.\p"
+    .string "Pokémon.\p"
     .string "Im hohen Gras finde ich alle\n"
-    .string "möglichen BEEREN.\p"
+    .string "möglichen Beeren.\p"
     .string "Wenn du möchtest, teile ich\n"
     .string "sie mit dir.$"
 
 Route31_Text_WadeRematchIntro:
-    .string "Ich habe auf dich gewartet.\n"
-    .string "Lass uns kämpfen!$"
+	.string "Ich habe schon auf dich gewartet. Los\n"
+	.string "geht’s!$"
 
 Route31_Text_WadeRematchDefeat:
-    .string "Awwwww…$"
+	.string "Also… irgendwas lief hier gerade\n"
+	.string "mächtig schief!$"
 
 Route31_Text_WadePostRematch:
-    .string "Ich melde mich sofort, wenn\n"
-    .string "ich etwas finde, das dir\l"
-    .string "gefallen könnte.$"
+	.string "Ich melde mich, sobald ich etwas finde.\n"
+	.string "Du darfst schon jetzt gespannt sein!$"
 
 Route31_Text_WadeHasItem:
     .string "Hey! Ich habe nach dir\n"
@@ -240,7 +240,7 @@ Route31_Text_WadeGaveItem:
     .string "ich noch etwas finde!$"
 
 Route31_Text_WadeNoRoom:
-    .string "Hm, dein BEUTEL scheint\n"
+    .string "Hm, dein Beutel scheint\n"
     .string "voll zu sein.\p"
     .string "Komm wieder, wenn du Platz\n"
     .string "hast!$"

@@ -84,7 +84,7 @@ MtChimney_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 MtChimney_CableCarStation_Text_CableCarReadyGetOn:
-	.string "Die SEILBAHN fährt gleich hinab.\n"
+	.string "Die Seilbahn fährt gleich hinab.\n"
 	.string "Möchtest du mit?$"
 
 MtChimney_CableCarStation_Text_StepThisWay:

@@ -63,40 +63,45 @@ SafariZoneGate_EventScript_SlowpokeLady::
 
 
 SafariZone_Text_ForeignFeeling:
-    .string "SAFARI ZONE...\n"
-    .string "Sie gibt mir das Gefühl, in einem\l"
-    .string "fremden Land zu sein.\p"
-    .string "Sie löst ein seltsames Gefühl aus.$"
+	.string "Das ist also die Safari-Zone…\p"
+	.string "Es ist echt seltsam… seit ich hier bin,\n"
+	.string "komme ich mir wie auf einem Jahrmarkt in\l"
+	.string "einem fremden Land vor - weit, weit weg…$"
 
 SafariZone_Text_SilentNPC:
-    .string "..................\p"
-    .string "(Ich bin nicht Gesprächig.)$"
+	.string "… … … (Ich bin nicht sehr gesprächig.)$"
 
 SafariZone_Text_Kangaskhan:
-	.string "KANGAMA: … … …$"
+	.string "Kangama: … … …$"
 
 SafariZone_Text_JigglypuffTrainer:
-    .string "Diese SAFARI-ZONE ist großartig!\n"
-    .string "Ich bin einfach immer weiter hinter\l"
-    .string "POKéMON hergegangen!\p"
-    .string "Das hat mein Pummeluff aber verärgert.$"
+	.string "Junge, Junge, hier in der Safari-Zone\n"
+	.string "wird’s einem echt nicht langweilig!\p"
+	.string "Ich laufe hier wie besessen nur noch\n"
+	.string "irgendwelchen Pokémon hinterher!\p"
+	.string "Ich befürchte, dieses Pummeluff hier,\n"
+	.string "mein ständiger Begleiter, ist deswegen\l"
+	.string "etwas angefressen…$"
 
 SafariZone_Text_FirstCatch:
-    .string "Ich wollte schon immer mein erstes\n"
-    .string "POKéMON in der SAFARI-ZONE fangen.$"
+	.string "Die Entscheidung ist gefallen! Mein\n"
+	.string "allererstes Pokémon fange ich mir in der\l"
+	.string "Safari-Zone!$"
 
 SafariZone_Text_SlowpokeFan:
-    .string "Es gibt viele POKéMON zur Auswahl,\n"
-    .string "aber nichts schlägt die Niedlichkeit\l"
-    .string "von FLEGMON.\p"
-    .string "Die Leute sagen oft, dass ich selbst\n"
-    .string "wie eines aussehe!$"
+	.string "Unter all den vielen Pokémon sind mir\n"
+	.string "die Flegmon immer noch am liebsten!\l"
+	.string "Diese kleinen Dinger sind einfach zu\l"
+	.string "süß!\p"
+	.string "Ich höre auch oft von Leuten, dass ich\n"
+	.string "selbst wie ein Flegmon aussehe!$"
 
 SafariZone_Text_CustomSystem:
-    .string "Du hast vielleicht den Eindruck,\n"
-    .string "dass es ein ausgeklügeltes System zur\l"
-    .string "Anpassung der SAFARI-ZONE gibt, oder?\p"
-    .string "Die Wahrheit ist…$"
+	.string "Du hältst es bestimmt für extrem\n"
+	.string "futuristisch, deine Safari-Erfahrung\l"
+	.string "genau an deinen Geschmack anpassen zu\l"
+	.string "können, oder?\p"
+	.string "Tja, aber in Wahrheit…$"
 
 SafariZone_Text_Sign:
 	.string "Willkommen in der Safari-Zone!\p"

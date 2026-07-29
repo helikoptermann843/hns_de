@@ -54,7 +54,7 @@ LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
 	.string "Eine offensive Attacke…\n"
 	.string "oder eine defensive Attacke…\p"
 	.string "Es ist nicht einfach, zu entscheiden,\n"
-	.string "welche TM ein POKéMON lernen soll.$"
+	.string "welche TM ein Pokémon lernen soll.$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
 	.string "Es gibt so viele verschiedene Arten\n"
@@ -64,6 +64,6 @@ LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
 	.string "Ich hätte gerne all die unterschied-\n"
-	.string "lichen TMs, aber ein POKéMON kann nur\l"
+	.string "lichen TMs, aber ein Pokémon kann nur\l"
 	.string "vier Attacken lernen.$"
 

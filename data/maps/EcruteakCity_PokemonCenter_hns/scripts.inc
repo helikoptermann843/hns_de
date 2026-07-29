@@ -97,29 +97,29 @@ EcruteakCity_PokemonCenter_Movement_BillBot:
 
 
 EcruteakCity_PokemonCenter1F_Text_Bill1:
-	.string "Hi, ich bin BILL. Und wer bist du?\p"
+	.string "Hi, ich bin Bill. Und wer bist du?\p"
 	.string "Hmm, {PLAYER}?\n"
 	.string "Du bist gerade zum richtigen Zeitpunkt\l"
 	.string "gekommen.$"
 
 EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "Ich habe gerade mein Pokémon\n"
-	.string "LAGER-SYSTEM fertig eingestellt.\p"
+	.string "Lager-System fertig eingestellt.\p"
 	.string "Du kennst doch den PC, den du\n"
 	.string "zum Aufbewahren deiner Pokémon\p"
 	.string "benutzt, oder?\p"
 	.string "Diesen habe ich selbst entwickelt!\p"
 	.string "Jetzt, wo ich diesen hier installiert\n"
 	.string "habe, läuft mein PC in allen\l"
-	.string "POKéCENTER in JOHTO und KANTO.\p"
+	.string "Pokécenter in Johto und Kanto.\p"
 	.string "Ich muss schnell zurück nach\n"
-	.string "DUKATIA und meine Leute sehen.\l"
+	.string "Dukatia und meine Leute sehen.\l"
 	.string "Du kannst aber jederzeit vorbeikommen!\n"
 	.string "\p"
 	.string "Tschüss!$"
 
 EcruteakCity_PokemonCenter1F_Text_PokefanM:
-	.string "Sowohl der Tanz der KIMONO-GIRLS\p"
+	.string "Sowohl der Tanz der Kimono-Girls\p"
 	.string "als auch die Art,\n"
 	.string "wie sie ihre Pokémon einsetzen,\l"
 	.string "ist wunderbar!$"
@@ -130,7 +130,7 @@ EcruteakCity_PokemonCenter1F_Text_PokefanM_Mobile:
 	.string "Es gibt offensichtlich einen\p"
 	.string "Ort, an dem sich Trainer treffen.\p"
 	.string "Wo, fragst du?\p"
-	.string "Kurz nach OLIVIANA CITY.$"
+	.string "Kurz nach Oliviana City.$"
 
 EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "Jens, der Arenaleiter, ist sooo cool!\n"
@@ -138,6 +138,6 @@ EcruteakCity_PokemonCenter1F_Text_CooltrainerF:
 
 EcruteakCity_PokemonCenter1F_Text_GymGuide:
 	.string "Hm, der See des Zorns… das plötzliche\n"
-	.string "Erscheinen des roten GARADOS…\l"
+	.string "Erscheinen des roten Garados…\l"
 	.string "Da ist doch irgendwas im Busch!\n$"
 

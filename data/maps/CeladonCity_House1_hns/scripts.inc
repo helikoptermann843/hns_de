@@ -88,8 +88,8 @@ CeladonCity_House1_Text_TeacherCrunchCrunch:
 
 CeladonCity_House1_Text_TeacherNoCoinCase:
 	.string "Hier wird dir niemand einen\n"
-	.string "MÜNZKORB geben.\l"
-	.string "Du solltest in JOHTO nachsehen.$"
+	.string "Münzkorb geben.\l"
+	.string "Du solltest in Johto nachsehen.$"
 
 CeladonCity_House1_Text_TeacherKeepEating:
 	.string "Schling, schlabber…\p"

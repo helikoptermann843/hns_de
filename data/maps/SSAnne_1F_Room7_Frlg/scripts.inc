@@ -14,5 +14,5 @@ SSAnne_1F_Room7_Text_ThomasDefeat::
 	.string "Oh weh, verloren!$"
 
 SSAnne_1F_Room7_Text_ThomasPostBattle::
-	.string "Sei immer nett zu deinen POKéMON!$"
+	.string "Sei immer nett zu deinen Pokémon!$"
 

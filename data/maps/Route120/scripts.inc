@@ -360,7 +360,7 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "TROY: Hm? {PLAYER}{KUN}, hi.\n"
+	.string "Troy: Hm? {PLAYER}{KUN}, hi.\n"
 	.string "Es ist lange her…\p"
 	.string "Hier ist etwas, das du nicht sehen\n"
 	.string "kannst, richtig?\p"
@@ -369,44 +369,44 @@ Route120_Text_StevenGreeting:
 	.string "Nein, nein. Statt es zu beschreiben,\n"
 	.string "zeige ich es dir lieber.\l"
 	.string "Das macht mehr Spaß.\p"
-	.string "{PLAYER}{KUN}, sind deine POKéMON\n"
+	.string "{PLAYER}{KUN}, sind deine Pokémon\n"
 	.string "bereit für einen Kampf?$"
 
 Route120_Text_StevenIllWaitHere:
-	.string "TROY: Nein?\p"
+	.string "Troy: Nein?\p"
 	.string "Ich warte hier, dann kannst du sie\n"
 	.string "vor- bereiten.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "TROY: {PLAYER}{KUN}, sind deine\n"
-	.string "POKéMON bereit für einen Kampf?$"
+	.string "Troy: {PLAYER}{KUN}, sind deine\n"
+	.string "Pokémon bereit für einen Kampf?$"
 
 Route120_Text_StevenShowMeYourPower:
-	.string "TROY: {PLAYER}{KUN}, zeig mir deine\n"
-	.string "wahre Stärke als TRAINER!$"
+	.string "Troy: {PLAYER}{KUN}, zeig mir deine\n"
+	.string "wahre Stärke als Trainer!$"
 
 Route120_Text_StevenUsedDevonScope:
-	.string "TROY setzt das DEVON-SCOPE ein.\p"
-	.string "Ein unsichtbares POKéMON wird\n"
+	.string "Troy setzt das Devon-Scope ein.\p"
+	.string "Ein unsichtbares Pokémon wird\n"
 	.string "sichtbar!\p"
-	.string "Das erschreckte POKéMON greift an!$"
+	.string "Das erschreckte Pokémon greift an!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "TROY: Bemerkenswert… Dein\n"
+	.string "Troy: Bemerkenswert… Dein\n"
 	.string "Kampfstil ist wirklich bemerkenswert.\n"
 	.string "\p"
-	.string "Deine POKéMON sind offensichtlich sehr\n"
+	.string "Deine Pokémon sind offensichtlich sehr\n"
 	.string "gewachsen, seit wir uns das erste Mal\n"
 	.string "in\l"
-	.string "FAUSTAUHAVEN getroffen haben.\p"
-	.string "Ich möchte dir dieses DEVON-SCOPE\n"
+	.string "Faustauhaven getroffen haben.\p"
+	.string "Ich möchte dir dieses Devon-Scope\n"
 	.string "geben.\p"
 	.string "Wer weiß, es gibt bestimmt noch andere\n"
-	.string "verborgene POKéMON.$"
+	.string "verborgene Pokémon.$"
 
 Route120_Text_StevenGoodbye:
-	.string "TROY: {PLAYER}{KUN}.\p"
-	.string "Ich liebe es, TRAINER und POKéMON zu\n"
+	.string "Troy: {PLAYER}{KUN}.\p"
+	.string "Ich liebe es, Trainer und Pokémon zu\n"
 	.string "sehen, die fest zusammenhalten.\p"
 	.string "Ich finde, du machst das großartig.\p"
 	.string "Nun, mach’s gut. Wir sehen uns!$"
@@ -417,18 +417,18 @@ Kecleon_Text_SomethingUnseeable:
 Kecleon_Text_WantToUseDevonScope:
 	.string "Etwas Unsichtbares blockiert den Weg.\n"
 	.string "\p"
-	.string "Willst du das DEVON-SCOPE einsetzen?$"
+	.string "Willst du das Devon-Scope einsetzen?$"
 
 Kecleon_Text_UseDevonScopeMonAttacked:
-	.string "{PLAYER} setzt DEVON-SCOPE ein.\p"
-	.string "Ein unsichtbares POKéMON wird\n"
+	.string "{PLAYER} setzt Devon-Scope ein.\p"
+	.string "Ein unsichtbares Pokémon wird\n"
 	.string "sichtbar!\p"
-	.string "Das erschreckte POKéMON greift an!$"
+	.string "Das erschreckte Pokémon greift an!$"
 
 Route120_Text_RouteSignFortree:
-	.string "ROUTE 120\n"
-	.string "{LEFT_ARROW} BAUMHAUSEN CITY$"
+	.string "Route 120\n"
+	.string "{LEFT_ARROW} Baumhausen City$"
 
 Route120_Text_RouteSign121:
-	.string "{RIGHT_ARROW} ROUTE 121\n"
-	.string "{LEFT_ARROW} ROUTE 120$"
+	.string "{RIGHT_ARROW} Route 121\n"
+	.string "{LEFT_ARROW} Route 120$"

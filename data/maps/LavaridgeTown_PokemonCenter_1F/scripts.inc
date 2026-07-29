@@ -29,8 +29,8 @@ LavaridgeTown_PokemonCenter_1F_EventScript_Gentleman::
 	end
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether:
-	.string "Ich denke, die POKéMON fühlen sich\n"
-	.string "ihrem TRAINER mehr verbunden, wenn sie\l"
+	.string "Ich denke, die Pokémon fühlen sich\n"
+	.string "ihrem Trainer mehr verbunden, wenn sie\l"
 	.string "viel Zeit miteinander verbringen.\p"
 	.string "Je länger, desto besser.\n"
 	.string "Das ist meine Meinung.$"
@@ -39,11 +39,11 @@ LavaridgeTown_PokemonCenter_1F_Text_HotSpringCanInvigorate:
 	.string "Es grenzt an Magie, wie ein Bad in der\n"
 	.string "Heißen Quelle einen stärkt.\p"
 	.string "Ich wünschte, ich könnte meinen\n"
-	.string "POKéMON auch so ein Bad gönnen.$"
+	.string "Pokémon auch so ein Bad gönnen.$"
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo:
 	.string "Hohoho! Hey, Kindchen, du kannst von\n"
 	.string "hier die Heißen Quellen erreichen.\p"
-	.string "Wenn POKéMON ruhen, sollten sich\n"
-	.string "ihre TRAINER auch ausruhen.$"
+	.string "Wenn Pokémon ruhen, sollten sich\n"
+	.string "ihre Trainer auch ausruhen.$"
 

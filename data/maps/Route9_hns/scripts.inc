@@ -3,7 +3,7 @@ Route9_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route9_OnTransition: 
+Route9_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -86,17 +86,16 @@ Route9_Text_PicnickerEdnaSeen:
 	.string "hier liegen lassen.$"
 
 Route9_Text_PicnickerEdnaBeaten:
-	.string "Ach, Mist!\n"
-	.string "Verloren.$"
+	.string "Schaaade… Ich habe verloren.$"
 
 Route9_Text_PicnickerEdnaAfter:
 	.string "Energie sparen ist wichtig, aber\n"
 	.string "die Natur ist noch viel wichtiger.$"
 
 Route9_Text_HikerTimSeen:
-	.string "Sie wird beim MT.SILVER sein,\n"
+	.string "Sie wird beim Silberberg sein,\n"
 	.string "wenn sie kommt…\p"
-	.string "MT.SILVER ist in JOHTO, richtig?$"
+	.string "Silberberg ist in Johto, richtig?$"
 
 Route9_Text_HikerTimBeaten:
 	.string "Ich war zu sehr\n"
@@ -118,5 +117,5 @@ Route9_Text_HikerSidneyAfter:
 	.string "liegt ein gigantisches Kraftwerk!$"
 
 Route9_Text_Sign:
-	.string "ROUTE 9\p"
-	.string "AZURIA CITY - FELSTUNNEL$"
+	.string "Route 9\p"
+	.string "Azuria City - Felstunnel$"

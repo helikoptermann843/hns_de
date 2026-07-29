@@ -120,7 +120,7 @@ Route17_Text_BikerCharlesAfterBattle:
 
 Route17_Text_RileyRegister:
 	.string "Gar nicht schlecht für ein Kind\n"
-	.string "aus JOHTO!$"
+	.string "aus Johto!$"
 
 Route17_Text_RileyRematchIntro:
 	.string "Punks aus Johto gewinnen nur\n"

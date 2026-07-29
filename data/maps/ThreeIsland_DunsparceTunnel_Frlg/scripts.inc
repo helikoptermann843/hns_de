@@ -56,7 +56,7 @@ ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
 	.string "Du fragst, was ich hier mache?\n"
 	.string "Warum? Ich suche nach Gold!\p"
 	.string "Wenn ich reich bin, kaufe ich\n"
-	.string "ein Haus in KANTO.$"
+	.string "ein Haus in Kanto.$"
 
 ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
 	.string "Heh, du! Wie geht es dir?\n"
@@ -75,6 +75,6 @@ ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
 	.string "mitgeben, das hier muss ausreichen!$"
 
 ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
-	.string "Ups! Dein BEUTEL ist voll!\n"
+	.string "Ups! Dein Beutel ist voll!\n"
 	.string "Ich gebe es dir später!$"
 

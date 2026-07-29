@@ -3,13 +3,13 @@ Route29_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route29_OnTransition: 
+Route29_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
 Route29_Trigger_Monview::
 	special SpawnCameraObject
-	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1 
+	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1
 	waitmovement 0
 	applymovement2 OBJ_EVENT_ID_CAMERA, Common_Movement_WalkUp1
 	waitmovement 0
@@ -177,7 +177,7 @@ Route29_Text_OldManExplanation:
 	.string "Wirf dann einen Ball aus deinem\n"
 	.string "Beutel! Jeder Ball reicht.\p"
 	.string "Wenn du mehr lernen willst,\n"
-	.string "geh zur AKADEMIE in Viola City!\p"
+	.string "geh zur Akademie in Viola City!\p"
 	.string "Die Schüler dort wissen viel\n"
 	.string "über Pokémon.$"
 
@@ -185,10 +185,10 @@ Route29_Text_OldManDeclined:
 	.string "Oh… Na gut.\p"
 	.string "Untersuche jede Route, um\n"
 	.string "verschiedene Pokémon zu finden.\p"
-	.string "Dein POKéDEX zeigt dir auch,\n"
+	.string "Dein Pokédex zeigt dir auch,\n"
 	.string "wo sie leben!\p"
 	.string "Wenn du mehr lernen willst,\n"
-	.string "geh zur AKADEMIE in Viola City!\p"
+	.string "geh zur Akademie in Viola City!\p"
 	.string "Die Schüler wissen viel über\n"
 	.string "Pokémon.$"
 
@@ -224,7 +224,7 @@ Route29_Text_MeetTuscany:
 	.string "Dietlinde: Ich glaube, wir treffen\n"
 	.string "uns heute zum ersten Mal?\p"
 	.string "Ich bin Dietlinde aus der\n"
-	.string "WOCHENTAGSFAMILIE.\p"
+	.string "Wochentagsfamilie.\p"
 	.string "Wenn du meinen Lieblingstag\n"
 	.string "errätst, gebe ich dir eine Belohnung.$"
 
@@ -233,7 +233,7 @@ Route29_Text_TuscanyNope:
 
 Route29_Text_TuscanyGivesGift:
 	.string "Ja! Da wir uns zum ersten Mal sehen,\p"
-	.string "schenke ich dir einen SEIDENSCHAL.$"
+	.string "schenke ich dir einen Seidenschal.$"
 
 Route29_Text_TuscanyGaveGift:
 	.string "Dietlinde: Findest du nicht auch, dass\n"
@@ -250,6 +250,6 @@ Route29_Text_TuscanyTuesday:
 	.string "Ich bin das zweite von sieben Kindern.$"
 
 Route29_Text_Sign1:
-	.string "ROUTE 29\p"
-	.string "ROSALIA CITY - NEUBORKIA$"
+	.string "Route 29\p"
+	.string "Rosalia City - Neuborkia$"
 

@@ -27,7 +27,7 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted_hns::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade_hns:
-	.string "Mein POKéMON ist ein {STR_VAR_2}.\n"
+	.string "Mein Pokémon ist ein {STR_VAR_2}.\n"
 	.string "Kennst du das?\l"
 	.string "Es ist sehr süß und hübsch.\p"
 	.string "Diesen kleinen Schatz könnte ich ohne\n"
@@ -54,5 +54,5 @@ BattleFrontier_Lounge6_Text_WellThatsFineToo_hns:
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined_hns:
 	.string "Kicher!\n"
-	.string "Ein ENECO ist viel süüüßer, als ich\l"
+	.string "Ein Eneco ist viel süüüßer, als ich\l"
 	.string "gedacht habe. Ich bin total glücklich!$"

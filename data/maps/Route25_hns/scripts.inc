@@ -26,14 +26,14 @@ Route25_EventScript_MistyRematch::
     end
 
 Route25_Text_Misty:
-	.string "MISTY: Ich liebe den Sonnenuntergang\n"
+	.string "Misty: Ich liebe den Sonnenuntergang\n"
 	.string "hier!\p"
 	.string "Er gibt mir den Mut,\n"
 	.string "weiterzumachen, weißt du?\p"
 	.string "Richtig!\p"
 	.string "Wenn du bereit bist,\n"
 	.string "Welle zu machen,\l"
-	.string "triff mich im KAMPF-DOJO!$"
+	.string "triff mich im Kampf-Dojo!$"
 
 Route25_EventScript_Dudley::
 	trainerbattle_single TRAINER_DUDLEY_HNS, Route25_Text_SchoolboyDudleySeen, Route25_Text_SchoolboyDudleyBeaten
@@ -178,7 +178,7 @@ Route25_EventScript_SuicuneMerge::
 	setvar VAR_SUICUNE_ENCOUNTERS, 7
 	release
 	end
-	
+
 Route25_Trigger_SuicuneRightRight::
 	lock
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkLeft1
@@ -199,11 +199,11 @@ Route25_Text_Eusine1:
 	.string "Schon seit wir uns in der Turmruine von\n"
 	.string "Teak City zum ersten Mal gesehen\l"
 	.string "haben, wusste ich tief in mir drin, dass\l"
-	.string "SUICUNE dich auserwählen würde.$"
+	.string "Suicune dich auserwählen würde.$"
 
 Route25_Text_Eusine2:
 	.string "Eusin: Da, sieh nur!\n"
-	.string "SUICUNE wartet auf dich!\l"
+	.string "Suicune wartet auf dich!\l"
 	.string "Es wartet darauf, dass es von einem\l"
 	.string "Trainer herausgefordert wird, der sich\l"
 	.string "mit voller Kraft in den Kampf wirft!$"
@@ -215,7 +215,7 @@ Route25_Text_Eusine3:
 	.string "beiwohnen durfte, gibt es echt\l"
 	.string "nichts mehr, worüber ich mich\l"
 	.string "noch beklagen könnte…\p"
-	.string "Lebe wohl, SUICUNE!\n"
+	.string "Lebe wohl, Suicune!\n"
 	.string "Und lebe wohl, {PLAYER}!$"
 
 Route25_EventScript_Eusine::
@@ -463,7 +463,7 @@ Route25_Text_LassShannonSeen:
 	.string "Ich bin eine harte Nuss!$"
 
 Route25_Text_LassShannonBeaten:
-	.string "Du machst Witze!$"
+	.string "…Ich habe was?$"
 
 Route25_Text_LassShannonAfter:
 	.string "Ich habe mein Bestes gegeben.\n"

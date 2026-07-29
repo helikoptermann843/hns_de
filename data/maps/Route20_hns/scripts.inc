@@ -34,12 +34,12 @@ Route20_EventScript_RematchNicole::
 Route20_EventScript_Lori::
 	trainerbattle_single TRAINER_LORI_HNS, Route20_Text_SwimmerfLoriSeen, Route20_Text_SwimmerfLoriBeaten
 	msgbox Route20_Text_SwimmerfLoriAfterBattle, MSGBOX_AUTOCLOSE
-	end	
+	end
 
 Route20_EventScript_Cameron::
 	trainerbattle_single TRAINER_CAMERON_HNS, Route20_Text_SwimmermCameronSeen, Route20_Text_SwimmermCameronBeaten
 	msgbox Route20_Text_SwimmermCameronAfterBattle, MSGBOX_AUTOCLOSE
-	end	
+	end
 
 Route20_EventScript_SeafoamSign::
 	msgbox Route20_Text_SeafoamSign, MSGBOX_SIGN
@@ -96,7 +96,7 @@ Route20_Text_Headlocker:
 	.string "Manchmal trägt es auch einen\n"
 	.string "seltenen Entwicklungsstein.\p"
 	.string "Doppelt selten also!\p"
-	.string "Ich muss meinen POKéDEX füllen,\n"
+	.string "Ich muss meinen Pokédex füllen,\n"
 	.string "darum angle ich hier schon Stunden!$"
 
 Route20_Text_Seel:
@@ -109,7 +109,7 @@ Route20_Text_SeafoamSign:
 	.string "Seeschauminseln$"
 
 Route20_Text_NicoleRegister:
-	.string "Deine POKéMON schwimmen echt\n"
+	.string "Deine Pokémon schwimmen echt\n"
 	.string "schnell! Gib mir deine Nummer!$"
 
 Route20_Text_NicoleRematchIntro:
@@ -139,7 +139,7 @@ Route20_Text_SwimmerfLoriSeen:
 	.string "Orden! Gegen dich will ich kämpfen!$"
 
 Route20_Text_SwimmerfLoriBeaten:
-	.string "NEIN$"
+	.string "Nein$"
 
 Route20_Text_SwimmerfLoriAfterBattle:
 	.string "Außer Surfer gibt es auch noch andere\n"

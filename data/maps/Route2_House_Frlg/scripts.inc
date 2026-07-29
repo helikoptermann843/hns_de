@@ -40,8 +40,8 @@ Route2_House_EventScript_AlreadyTraded::
 	end
 
 Route2_House_Text_FaintedMonsCanUseFieldMoves::
-	.string "Auch wenn ein POKéMON ausscheidet,\n"
+	.string "Auch wenn ein Pokémon ausscheidet,\n"
 	.string "kann es weiter Spezial-Techniken,\l"
-	.string "wie zum Beispiel den ZERSCHNEIDER,\l"
+	.string "wie zum Beispiel den Zerschneider,\l"
 	.string "anwenden!$"
 

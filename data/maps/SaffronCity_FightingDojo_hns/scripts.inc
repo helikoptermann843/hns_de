@@ -45,9 +45,9 @@ SaffronCity_FightingDojo_EventScript_BattleLickilicky_EV_HP::
 	setflag FLAG_TEMP_1
 	release
 	end
-	
+
 SaffronCity_FightingDojo_Text_Lickilicky:
-	.string "Schlurplek: LIIIIICK!$"
+	.string "Schlurplek: Liiiiick!$"
 
 SaffronCity_FightingDojo_EventScript_Machamp_EV_Attack::
 	lock
@@ -75,7 +75,7 @@ SaffronCity_FightingDojo_EventScript_BattleMachamp_EV_Attack::
 	end
 
 SaffronCity_FightingDojo_Text_Machamp:
-	.string "Machomei: CHAMP!$"
+	.string "Machomei: Champ!$"
 
 SaffronCity_FightingDojo_EventScript_Steelix_EV_Defense::
 	lock
@@ -103,7 +103,7 @@ SaffronCity_FightingDojo_EventScript_BattleSteelix_EV_Defense::
 	end
 
 SaffronCity_FightingDojo_Text_Steelix:
-	.string "Stahlos: GRRRIND!$"
+	.string "Stahlos: Grrrind!$"
 
 SaffronCity_FightingDojo_EventScript_Alakazam_EV_SpecialAttack::
 	lock
@@ -131,7 +131,7 @@ SaffronCity_FightingDojo_EventScript_BattleAlakazam_EV_SpecialAttack::
 	end
 
 SaffronCity_FightingDojo_Text_Alakazam:
-	.string "Simsala: ZAM!$"
+	.string "Simsala: Zam!$"
 
 SaffronCity_FightingDojo_EventScript_Slowking_EV_SpecialDefense::
 	lock
@@ -159,7 +159,7 @@ SaffronCity_FightingDojo_EventScript_BattleSlowking_EV_SpecialDefense::
 	end
 
 SaffronCity_FightingDojo_Text_Slowking:
-	.string "Laschoking: HMMM...$"
+	.string "Laschoking: Hmmm...$"
 
 SaffronCity_FightingDojo_EventScript_Pidgeot_EV_Speed::
 	lock
@@ -187,7 +187,7 @@ SaffronCity_FightingDojo_EventScript_BattlePidgeot_EV_Speed::
 	end
 
 SaffronCity_FightingDojo_Text_Pidgeot:
-	.string "PIDGEOT: ZWITSCHER!$"
+	.string "Tauboss: Zwitscher!$"
 SaffronCity_FightingDojo_Text_HP:
 	.string "KP$"
 SaffronCity_FightingDojo_Text_Attack:
@@ -195,20 +195,20 @@ SaffronCity_FightingDojo_Text_Attack:
 SaffronCity_FightingDojo_Text_Defense:
 	.string "DEF$"
 SaffronCity_FightingDojo_Text_SpecialAttack:
-	.string "SP.ATK$"
+	.string "Sp. Ang.$"
 SaffronCity_FightingDojo_Text_SpecialDefense:
-	.string "SP.DEF$"
+	.string "Sp. Ver.$"
 SaffronCity_FightingDojo_Text_Speed:
 	.string "SPD$"
 
 SaffronCity_FightingDojo_Text_WouldYouLikeToBattle:
 	.string "Bekämpfe {STR_VAR_1} für 3 {STR_VAR_2}\n"
-	.string "EVs?$"
+	.string "Evs?$"
 
 SaffronCity_FightingDojo_Text_BlackBelt:
-	.string "Du betrittst das KAMPFDOJO!\p"
+	.string "Du betrittst das Kampfdojo!\p"
 	.string "Hier kannst du die Werte deiner\n"
-	.string "POKÉMON im Kampf stählen!$"
+	.string "Pokémon im Kampf stählen!$"
 
 SaffronCity_FightingDojo_Text_Sign1:
 	.string "Links: KP, DEF, SDEF$"
@@ -217,7 +217,7 @@ SaffronCity_FightingDojo_Text_Sign2:
 	.string "Rechts: ATK, SPATK, SPD$"
 
 SaffronCity_FightingDojo_Text_Cooltrainer::
-	.string "Nur Trainer mit allen KANTO-ORDEN\n"
+	.string "Nur Trainer mit allen Kanto-Orden\n"
 	.string "dürfen in die VIP-Lounge.$"
 
 @Ability swapper
@@ -292,7 +292,7 @@ SaffronCity_FightingDojo_Ability_Text1:
 	.string "Ich tausche Fähigkeiten\p"
 	.string "für nur 25.000¥!\p"
 	.string "Möchtest du eine Fähigkeit\n"
-	.string "eines POKéMON tauschen?$"
+	.string "eines Pokémon tauschen?$"
 
 SaffronCity_FightingDojo_Ability_Text_No:
 	.string "Kein Problem. Ich bin hier,\n"
@@ -300,12 +300,12 @@ SaffronCity_FightingDojo_Ability_Text_No:
 
 SaffronCity_FightingDojo_Ability_Text_Cant:
 	.string "Das geht leider nicht. Dieses\n"
-	.string "POKÉMON hat keine zweite FÄHIGKEIT!$"
+	.string "Pokémon hat keine zweite Fähigkeit!$"
 
 SaffronCity_FightingDojo_Ability_Text_NoChampion:
 	.string "Willkommen! Ich bin der\n"
-	.string "FÄHIGKEITS-EXPERTE!\p"
-	.string "Ich kann POKÉMON-Fähigkeiten\n"
+	.string "Fähigkeits-Experte!\p"
+	.string "Ich kann Pokémon-Fähigkeiten\n"
 	.string "im Nu tauschen.\p"
 	.string "Leider tut mir der Rücken weh\n"
 	.string "und ich kann heute nicht\l"

@@ -235,13 +235,13 @@ Route22_EventScript_LeagueGateSign::
 
 Route22_Text_EarlyRivalIntro::
 	.string "{RIVAL}: Heh! {PLAYER}!\p"
-	.string "Bist du auf dem Weg zur POKéMON\n"
-	.string "LIGA? Vergiss es!\p"
+	.string "Bist du auf dem Weg zur Pokémon\n"
+	.string "Liga? Vergiss es!\p"
 	.string "Wahrscheinlich besitzt du nicht\n"
-	.string "einmal einen ORDEN!\p"
+	.string "einmal einen Orden!\p"
 	.string "Die Wache wird dich gar nicht erst\n"
 	.string "durchlassen!\p"
-	.string "Ach, sind deine POKéMON\n"
+	.string "Ach, sind deine Pokémon\n"
 	.string "eigentlich stärker geworden?$"
 
 Route22_Text_EarlyRivalDefeat::
@@ -249,8 +249,8 @@ Route22_Text_EarlyRivalDefeat::
 	.string "Ich bin der Größte!$"
 
 Route22_Text_EarlyRivalPostBattle::
-	.string "In der POKéMON LIGA gibt es viele\n"
-	.string "starke TRAINER!\p"
+	.string "In der Pokémon Liga gibt es viele\n"
+	.string "starke Trainer!\p"
 	.string "Ich muss einen Weg finden, an ihnen\n"
 	.string "vorbeizukommen.\p"
 	.string "Du solltest aufhören zu bummeln\n"
@@ -268,11 +268,11 @@ Route22_Text_LateRivalIntro::
 	.string "{RIVAL}: Was?! {PLAYER}!\n"
 	.string "Was für eine Überraschung!\p"
 	.string "Du bist also auch auf dem Weg zur\n"
-	.string "POKéMON LIGA, oder?\p"
-	.string "Du besitzt auch alle ORDEN?\n"
+	.string "Pokémon Liga, oder?\p"
+	.string "Du besitzt auch alle Orden?\n"
 	.string "Das ist cool!\p"
 	.string "{PLAYER}, ich werde mich für die\n"
-	.string "POKéMON LIGA aufwärmen, indem\l"
+	.string "Pokémon Liga aufwärmen, indem\l"
 	.string "ich dich besiege!\p"
 	.string "Also, los geht es!$"
 
@@ -282,7 +282,7 @@ Route22_Text_LateRivalDefeat::
 
 Route22_Text_LateRivalPostBattle::
 	.string "Das war ein gutes Aufwärmtraining!\n"
-	.string "Ich bin gut auf die POKéMON LIGA\l"
+	.string "Ich bin gut auf die Pokémon Liga\l"
 	.string "vorbereitet!\p"
 	.string "{PLAYER}, auch wenn du gewonnen\n"
 	.string "hast, musst du mehr trainieren!\p"
@@ -299,6 +299,6 @@ Route22_Text_LateRivalVictory::
 	.string "あははーッ！$"
 
 Route22_Text_LeagueGateSign::
-	.string "POKéMON LIGA\n"
+	.string "Pokémon Liga\n"
 	.string "Haupteingang$"
 

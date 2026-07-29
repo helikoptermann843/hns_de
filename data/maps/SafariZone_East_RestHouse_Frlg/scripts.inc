@@ -15,13 +15,13 @@ SafariZone_East_RestHouse_EventScript_BaldingMan::
 
 SafariZone_East_Text_HowManyDidYouCatch::
 	.string "Schon viele Leute haben Dinge auf\n"
-	.string "dem TUNNELPFAD verloren.$"
+	.string "dem Tunnelpfad verloren.$"
 
 SafariZone_East_Text_CaughtChanseyAllWorthwhile::
 	.string "Wie geht es {PLAYER}?\p"
 	.string "Mein {PLAYER} fühlt sich super!$"
 
 SafariZone_East_Text_TiredFromAllTheFun::
-	.string "Ein verschlafenes POKéMON ist in\n"
-	.string "PRISMANIA CITY aufgetaucht!$"
+	.string "Ein verschlafenes Pokémon ist in\n"
+	.string "Prismania City aufgetaucht!$"
 

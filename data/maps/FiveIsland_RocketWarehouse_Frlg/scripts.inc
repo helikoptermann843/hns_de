@@ -173,12 +173,12 @@ FiveIsland_RocketWarehouse_Movement_AdminWalkToSwitch::
 	step_end
 
 FiveIsland_RocketWarehouse_Text_ManyMonsLockedInPen::
-	.string "Viele POKéMON sind in diesem\n"
+	.string "Viele Pokémon sind in diesem\n"
 	.string "Schuppen eingesperrt…$"
 
 FiveIsland_RocketWarehouse_Text_PenUnlockedMonsFled::
 	.string "Die Tür ist unverschlossen.\n"
-	.string "Die POKéMON sind geflohen.$"
+	.string "Die Pokémon sind geflohen.$"
 
 FiveIsland_RocketWarehouse_Text_Grunt2Intro::
 	.string "Wusstest du, dass dies das Lager\n"
@@ -204,7 +204,7 @@ FiveIsland_RocketWarehouse_Text_Grunt1Defeat::
 
 FiveIsland_RocketWarehouse_Text_Grunt1PostBattle::
 	.string "Wir machen dir einen guten Preis.\n"
-	.string "Verkaufe uns deine POKéMON!$"
+	.string "Verkaufe uns deine Pokémon!$"
 
 FiveIsland_RocketWarehouse_Text_Grunt3Intro::
 	.string "Die anderen haben mir bereits\n"
@@ -243,8 +243,8 @@ FiveIsland_RocketWarehouse_Text_MadeItSoYouCanComeBackThrough::
 	.string "wieder kommst.\l"
 	.string "Warum erholst und erfrischst du\l"
 	.string "dich nicht, um gewappnet zu sein?\p"
-	.string "Der VORS. nach mir ist ein viel\n"
-	.string "gewissenhafterer TRAINER als ich.\p"
+	.string "Der Vors. nach mir ist ein viel\n"
+	.string "gewissenhafterer Trainer als ich.\p"
 	.string "Mach dich lieber auf einen harten\n"
 	.string "Kampf bereit.$"
 
@@ -285,7 +285,7 @@ FiveIsland_RocketWarehouse_Text_ReportWithGraphsAndText::
 	.string "gestatteter Bericht ist auf dem\l"
 	.string "PC-Monitor.\l"
 	.string "“Der Einfluss von Magnet-\l"
-	.string "wellen bei der POKéMON-\l"
+	.string "wellen bei der Pokémon-\l"
 	.string "Entwicklung“…\l"
 	.string "…………\l"
 	.string "……\p"
@@ -315,7 +315,7 @@ FiveIsland_RocketWarehouse_Text_GetLostLeaveMeBe::
 FiveIsland_RocketWarehouse_Text_GiovannisKidHasRedHair::
 	.string "Was, du schon wieder?\p"
 	.string "Du… du bist nicht das Kind von\n"
-	.string "GIOVANNI! Sein Kind ist rothaarig.\p"
+	.string "Giovanni! Sein Kind ist rothaarig.\p"
 	.string "Du hast keinen Grund, mich zu\n"
 	.string "ärgern. Lass mich in Frieden!$"
 

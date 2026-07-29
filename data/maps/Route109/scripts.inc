@@ -477,46 +477,46 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "MR. BRACK: Ahoi! Wir haben in\n"
-	.string "GRAPHITPORT CITY angelegt.\p"
-	.string "Ich vermute, du gehst jetzt zu KAPT.\n"
-	.string "BRIGG und bringst ihm die DEVON-\l"
-	.string "WAREN?$"
+	.string "Mr. Brack: Ahoi! Wir haben in\n"
+	.string "Graphitport City angelegt.\p"
+	.string "Ich vermute, du gehst jetzt zu Kapt.\n"
+	.string "Brigg und bringst ihm die Devon-\l"
+	.string "waren?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
-	.string "MR. BRACK: Überbringst du nicht die\n"
-	.string "DEVON-WAREN?\p"
-	.string "Heißt das, du willst nach FAUSTAUHAVEN\n"
+	.string "Mr. Brack: Überbringst du nicht die\n"
+	.string "Devon-waren?\p"
+	.string "Heißt das, du willst nach Faustauhaven\n"
 	.string "zurücksegeln?$"
 
 Route109_Text_BrineyDewfordItIs:
-	.string "MR. BRACK: Also, auf nach\n"
-	.string "FAUSTAUHAVEN! \p"
+	.string "Mr. Brack: Also, auf nach\n"
+	.string "Faustauhaven! \p"
 	.string "Anker gelichtet!\n"
-	.string "PECKO, wir setzen Segel, mein\l"
+	.string "Pecko, wir setzen Segel, mein\l"
 	.string "Liebling!$"
 
 Route109_Text_BrineyDeliverDevonGoods:
-	.string "MR. BRACK: Dann geh und überbringe die\n"
-	.string "DEVON-WAREN. Ich warte hier.$"
+	.string "Mr. Brack: Dann geh und überbringe die\n"
+	.string "Devon-waren. Ich warte hier.$"
 
 DewfordTown_Text_BrineyLandedInSlateport:
-	.string "MR. BRACK: Ahoi! Wir haben in\n"
-	.string "GRAPHITPORT CITY angelegt!\p"
+	.string "Mr. Brack: Ahoi! Wir haben in\n"
+	.string "Graphitport City angelegt!\p"
 	.string "Wann immer du magst, können wir wieder\n"
 	.string "die Segel setzen.$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "MR. BRACK: Ahoi! Für dich fahre ich\n"
+	.string "Mr. Brack: Ahoi! Für dich fahre ich\n"
 	.string "jederzeit wieder raus!\p"
 	.string "Nun, wo soll es hingehen?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "MR. BRACK: Sag mir einfach Bescheid,\n"
+	.string "Mr. Brack: Sag mir einfach Bescheid,\n"
 	.string "wenn wir wieder Segel setzen sollen.$"
 
 Route109_Text_ChillAtMyPapasSpot:
-	.string "Yo, TRAINER!\n"
+	.string "Yo, Trainer!\n"
 	.string "Seid ihr in Eile,\l"
 	.string "müsst wieder fort,\l"
 	.string "erfrischt euch doch an Papas Ort!$"
@@ -526,7 +526,7 @@ Route109_Text_LittleKidsDartAround:
 	.string "flink.\p"
 	.string "Du darfst sie nicht eine Sekunde aus\n"
 	.string "den Augen lassen. Das strengt an.\p"
-	.string "Meine Kinder sind mit meinen POKéMON\n"
+	.string "Meine Kinder sind mit meinen Pokémon\n"
 	.string "zusammen, da sind sie gut aufgehoben.$"
 
 Route109_Text_SandCastleTakingLongTime:
@@ -547,7 +547,7 @@ Route109_Text_ZigzagoonPicksUpLitter:
 	.string "Das Wasser in diesen Breiten ist\n"
 	.string "sauber. \p"
 	.string "Aber ich sammle zusammen mit meinem\n"
-	.string "ZIGZACHS den Müll am Ufer auf.\p"
+	.string "Zigzachs den Müll am Ufer auf.\p"
 	.string "Verschmutztes Wasser wird zu Regen und\n"
 	.string "gelangt in die Flüsse, aus denen wir\l"
 	.string "unser Trinkwasser gewinnen…\p"
@@ -555,18 +555,18 @@ Route109_Text_ZigzagoonPicksUpLitter:
 	.string "wir den Schmutz wieder zurück.$"
 
 Route109_Text_ZigzagoonCry:
-	.string "ZIGZACHS: Guguu?$"
+	.string "Zigzachs: Guguu?$"
 
 Route109_Text_SeashoreHouseSign:
-	.string "STRANDHAUS\p"
+	.string "Strandhaus\p"
 	.string "“Mögen heiße Kämpfe im heißen Sand\n"
-	.string "stattfinden! Heiße TRAINER\l"
+	.string "stattfinden! Heiße Trainer\l"
 	.string "willkommen!”$"
 
 Route109_Text_TrainerTipsSign:
-	.string "TIPPS für TRAINER\p"
-	.string "POKéMON mit gleichem Level haben nicht\n"
+	.string "Tipps für Trainer\p"
+	.string "Pokémon mit gleichem Level haben nicht\n"
 	.string "unbedingt identische Statuswerte.\p"
-	.string "POKéMON, die von TRAINERn aufgezogen\n"
+	.string "Pokémon, die von Trainern aufgezogen\n"
 	.string "werden, wachsen schneller als wilde\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"

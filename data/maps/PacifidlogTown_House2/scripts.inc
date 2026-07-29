@@ -93,54 +93,54 @@ PacifidlogTown_House2_EventScript_UnhappyAzurill::
 PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation:
 	.string "Ähhäm!\p"
 	.string "Ich bin die wichtigste Person des\n"
-	.string "POKéMON-FANCLUBs, ich bin der kleine\l"
-	.string "Bruder des VORSITZENDEN.\p"
+	.string "Pokémon-Fanclubs, ich bin der kleine\l"
+	.string "Bruder des Vorsitzenden.\p"
 	.string "Ich genieße hier die Ferien mit meinen\n"
-	.string "POKéMON. Ja, das tue ich.$"
+	.string "Pokémon. Ja, das tue ich.$"
 
 PacifidlogTown_House2_Text_AhYourPokemon:
-	.string "Ah! Dein POKéMON…$"
+	.string "Ah! Dein Pokémon…$"
 
 PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
 	.string "Es mag dich offensichtlich sehr.\p"
 	.string "Ein derart liebevolles und wunderbares\n"
-	.string "POKéMON verdient eine TM wie diese!$"
+	.string "Pokémon verdient eine TM wie diese!$"
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
 	.string "Hmm…\n"
 	.string "Nicht schlecht… Aber auch nicht gut.\p"
-	.string "Du musst dich als TRAINER mehr\n"
+	.string "Du musst dich als Trainer mehr\n"
 	.string "anstrengen.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
 	.string "Es hat einen bösartigen Blick.\p"
-	.string "Ein Furcht erregendes POKéMON wie\n"
+	.string "Ein Furcht erregendes Pokémon wie\n"
 	.string "dieses verdient eine TM wie diese!$"
 
 PacifidlogTown_House2_Text_ExplainReturnFrustration:
-	.string "Wenn ein POKéMON dich sehr mag, wird\n"
-	.string "die Kraft von RÜCKKEHR verstärkt.\p"
+	.string "Wenn ein Pokémon dich sehr mag, wird\n"
+	.string "die Kraft von Rückkehr verstärkt.\p"
 	.string "Wenn es dich nicht mag, wird die Kraft\n"
-	.string "von FRUSTRATION verstärkt.$"
+	.string "von Frustration verstärkt.$"
 
 PacifidlogTown_House2_Text_GetGoodTMInXDays:
 	.string "Oh, ja. In {STR_VAR_1} Tag(en) müsste\n"
 	.string "ich eine gute TM bekommen haben.\p"
 	.string "Komm doch dann wieder vorbei.\n"
 	.string "Ich werde dir dann eine TM geben, die\l"
-	.string "wunderbar zu deinem POKéMON passt.$"
+	.string "wunderbar zu deinem Pokémon passt.$"
 
 PacifidlogTown_House2_Text_Rurii:
-	.string "AZURILL: Rurii.$"
+	.string "Azurill: Rurii.$"
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
 	.string "Es scheint freundschaftlich mit dem\n"
-	.string "TRAINER umzugehen.$"
+	.string "Trainer umzugehen.$"
 
 PacifidlogTown_House2_Text_Rururi:
-	.string "AZURILL: Rururi!$"
+	.string "Azurill: Rururi!$"
 
 PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
-	.string "Es scheint den TRAINER nicht\n"
+	.string "Es scheint den Trainer nicht\n"
 	.string "sonderlich zu mögen.$"
 

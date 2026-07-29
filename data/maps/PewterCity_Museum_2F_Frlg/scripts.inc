@@ -38,8 +38,8 @@ Text_SeismicTossTeach::
 	.string "zu hinterfragen und nicht das\l"
 	.string "Handtuch zu werfen?\l"
 	.string "Der einzige erlaubte Wurf…\p"
-	.string "Wie wäre es mit GEOWURF?\n"
-	.string "Soll ich das einem POKéMON\l"
+	.string "Wie wäre es mit Geowurf?\n"
+	.string "Soll ich das einem Pokémon\l"
 	.string "beibringen?$"
 
 Text_SeismicTossDeclined::
@@ -47,7 +47,7 @@ Text_SeismicTossDeclined::
 	.string "Ich bin sicher, du kommst zurück!$"
 
 Text_SeismicTossWhichMon::
-	.string "Welches POKéMON soll die\n"
+	.string "Welches Pokémon soll die\n"
 	.string "Attacke erlernen?$"
 
 Text_SeismicTossTaught::
@@ -55,7 +55,7 @@ Text_SeismicTossTaught::
 	.string "Handtuch! Mach weiter so!$"
 
 PewterCity_Museum_1F_Text_WhatsSpecialAboutMoonStone::
-	.string "MONDSTEIN?\p"
+	.string "Mondstein?\p"
 	.string "Was ist daran so einzigartig?$"
 
 PewterCity_Museum_1F_Text_BoughtColorTVForMoonLanding::
@@ -70,18 +70,18 @@ PewterCity_Museum_1F_Text_RunningSpaceExhibitThisMonth::
 	.string "Raumfahrt-Ausstellung.$"
 
 PewterCity_Museum_1F_Text_AskedDaddyToCatchPikachu::
-	.string "Ich hätte gerne ein PIKACHU!\n"
+	.string "Ich hätte gerne ein Pikachu!\n"
 	.string "Es ist so furchtbar süß!\p"
 	.string "Mein Papa soll mir eines fangen!$"
 
 PewterCity_Museum_1F_Text_PikachuSoonIPromise::
-	.string "Ja, ein PIKACHU!\n"
+	.string "Ja, ein Pikachu!\n"
 	.string "Ich verspreche, ich fange eins!$"
 
 PewterCity_Museum_1F_Text_SpaceShuttle::
-	.string "SPACE SHUTTLE$"
+	.string "Space Shuttle$"
 
 PewterCity_Museum_1F_Text_MeteoriteThatFellOnMtMoon::
-	.string "Auf dem MONDBERG gefundenes\n"
-	.string "Meteoritengestein “MONDSTEIN?”$"
+	.string "Auf dem Mondberg gefundenes\n"
+	.string "Meteoritengestein “Mondstein?”$"
 

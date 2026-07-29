@@ -233,17 +233,17 @@ MeteorFalls_1F_1R_EventScript_MetCozmo::
 
 MeteorFalls_1F_1R_Text_WithThisMeteorite:
 	.string "Hähähä!\p"
-	.string "Mit diesem METEORITen wird das Ding\n"
-	.string "am SCHLOTBERG…$"
+	.string "Mit diesem Meteoriten wird das Ding\n"
+	.string "am Schlotberg…$"
 
 MeteorFalls_1F_1R_Text_DontExpectMercyFromMagma:
 	.string "Häh?\p"
 	.string "Ich weiß zwar nicht, wer du bist. Aber\n"
-	.string "wenn du dich TEAM MAGMA in den Weg\l"
+	.string "wenn du dich Team Magma in den Weg\l"
 	.string "stellst, erwarte keine Gnade!$"
 
 MeteorFalls_1F_1R_Text_HoldItRightThereMagma:
-	.string "Bleibt sofort stehen, TEAM MAGMA!\p"
+	.string "Bleibt sofort stehen, Team Magma!\p"
 	.string "Ihr irrt euch gewaltig, wenn ihr\l"
 	.string "meint,\n"
 	.string "ihr könntet mit der Welt machen, was\p"
@@ -251,63 +251,63 @@ MeteorFalls_1F_1R_Text_HoldItRightThereMagma:
 	.string "wollt!$"
 
 MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
-	.string "Hähähä! Sogar TEAM AQUA leistet uns\l"
+	.string "Hähähä! Sogar Team Aqua leistet uns\l"
 	.string "Gesellschaft!\p"
 	.string "Aber es ist viel zu anstrengend, sich\n"
 	.string "mit allen auseinander zu setzen…\p"
 	.string "Hey, das spielt auch keine Rolle!\p"
-	.string "Wir haben den METEORITen und so\n"
-	.string "machen wir uns auf zum SCHLOTBERG!\p"
+	.string "Wir haben den Meteoriten und so\n"
+	.string "machen wir uns auf zum Schlotberg!\p"
 	.string "Hähähä! Wir sehen uns, ihr Würstchen\n"
-	.string "von TEAM AQUA!$"
+	.string "von Team Aqua!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
-	.string "ADRIAN: Dich kenne ich doch!\n"
-	.string "Vom MUSEUM in GRAPHITPORT.\p"
+	.string "Adrian: Dich kenne ich doch!\n"
+	.string "Vom Museum in Graphitport.\p"
 	.string "Ah, du bist {PLAYER}.\p"
 	.string "Damals dachte ich, du würdest zu\n"
-	.string "TEAM MAGMA gehören.\p"
+	.string "Team Magma gehören.\p"
 	.string "Hmpf… Du bist ein merkwürdiges Kind.\p"
-	.string "TEAM MAGMA besteht aus Fanatikern.\p"
+	.string "Team Magma besteht aus Fanatikern.\p"
 	.string "Sie zerstören alles und behaupten,\n"
 	.string "die Landmasse vergrößern zu wollen.\p"
-	.string "Wir, TEAM AQUA, lieben das Meer über\n"
-	.string "alles. TEAM MAGMA ist unser Erzfeind!$"
+	.string "Wir, Team Aqua, lieben das Meer über\n"
+	.string "alles. Team Magma ist unser Erzfeind!$"
 
 MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma:
-	.string "BOSS, wir sollten TEAM MAGMA\n"
+	.string "Boss, wir sollten Team Magma\n"
 	.string "verfolgen…$"
 
 MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo:
-	.string "ADRIAN: Ja, ja. Das müssen wir!\n"
+	.string "Adrian: Ja, ja. Das müssen wir!\n"
 	.string "Wir müssen uns beeilen.\p"
-	.string "Nicht auszudenken, was TEAM MAGMA am\n"
-	.string "SCHLOTBERG anrichten will!$"
+	.string "Nicht auszudenken, was Team Magma am\n"
+	.string "Schlotberg anrichten will!$"
 
 MeteorFalls_1F_1R_Text_ArchieFarewell:
-	.string "ADRIAN: {PLAYER}, du solltest\n"
-	.string "TEAM MAGMA im Auge behalten.\p"
+	.string "Adrian: {PLAYER}, du solltest\n"
+	.string "Team Magma im Auge behalten.\p"
 	.string "Leb wohl!$"
 
 MeteorFalls_1F_1R_Text_MeetProfCozmo:
-	.string "Ich… Ich bin KOSMO…\n"
+	.string "Ich… Ich bin Kosmo…\n"
 	.string "Ich bin Professor…\p"
-	.string "Einige Typen von TEAM MAGMA haben\n"
-	.string "mich überredet, sie zu METEOR-\l"
-	.string "FÄLLE zu führen…\p"
+	.string "Einige Typen von Team Magma haben\n"
+	.string "mich überredet, sie zu Meteor-\l"
+	.string "fälle zu führen…\p"
 	.string "Sie haben mich hereingelegt.\n"
-	.string "Sie haben sogar den METEORITen\l"
+	.string "Sie haben sogar den Meteoriten\l"
 	.string "mitgenommen…\p"
-	.string "Und dann tauchte TEAM AQUA auf. Die\n"
+	.string "Und dann tauchte Team Aqua auf. Die\n"
 	.string "sind auch nicht anders.\p"
 	.string "Und ich?\n"
 	.string "Ich verstehe absolut nicht, was los\n"
 	.string "ist. \p"
-	.string "TEAM MAGMA…\p"
-	.string "Was haben sie mit dem METEORITen am\n"
-	.string "SCHLOTBERG vor?$"
+	.string "Team Magma…\p"
+	.string "Was haben sie mit dem Meteoriten am\n"
+	.string "Schlotberg vor?$"
 
 MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney:
-	.string "PROF. KOSMO: Dieses TEAM MAGMA…\p"
-	.string "Was haben sie mit dem METEORITen am\n"
-	.string "SCHLOTBERG vor?$"
+	.string "Prof. Kosmo: Dieses Team Magma…\p"
+	.string "Was haben sie mit dem Meteoriten am\n"
+	.string "Schlotberg vor?$"

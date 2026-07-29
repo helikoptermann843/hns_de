@@ -59,17 +59,17 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast.\p"
-	.string "Im POKéMON-CENTER wartet\n"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast.\p"
+	.string "Im Pokémon-Center wartet\n"
 	.string "ein Geschenk auf dich. Ein\l"
-	.string "POKéMON-EI!\l"
-	.string "Bitte trainiere das POKéMON\l"
+	.string "Pokémon-Ei!\l"
+	.string "Bitte trainiere das Pokémon\l"
 	.string "mit Liebe und Sorgfalt.$"
 
 sText_FullParty:
 	.string "Oh, du hast keinen Platz in deinem\n"
 	.string "Team!\l"
 	.string "Bitte komme wieder, nachdem du\l"
-	.string "ein POKéMON auf einem PC\l"
+	.string "ein Pokémon auf einem PC\l"
 	.string "gelagert hast.$"

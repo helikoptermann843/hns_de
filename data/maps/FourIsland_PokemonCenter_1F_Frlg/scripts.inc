@@ -30,22 +30,22 @@ FourIsland_PokemonCenter_1F_EventScript_Gentleman::
 Text_BodySlamTeach::
 	.string "Fertig?\n"
 	.string "Boing!\p"
-	.string "Wir tragen einen BODYSLAM-Kampf\n"
+	.string "Wir tragen einen Bodyslam-Kampf\n"
 	.string "aus, um herauszufinden, wer als\l"
 	.string "Erster umfällt.\l"
 	.string "Wenn du mitmachst, wirst du\l"
 	.string "allerdings wie ein Käfer\l"
 	.string "zerquetscht…\l"
-	.string "Soll ich BODYSLAM einem deiner\l"
-	.string "POKéMON beibringen?$"
+	.string "Soll ich Bodyslam einem deiner\l"
+	.string "Pokémon beibringen?$"
 
 Text_BodySlamDeclined::
 	.string "Komme wieder!\n"
 	.string "Boing!$"
 
 Text_BodySlamWhichMon::
-	.string "Welches POKéMON soll\n"
-	.string "BODYSLAM erlernen?$"
+	.string "Welches Pokémon soll\n"
+	.string "Bodyslam erlernen?$"
 
 Text_BodySlamTaught::
 	.string "Hoho!$"
@@ -56,20 +56,20 @@ FourIsland_House1_Text_FatMan::
 
 FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
 	.string "Dort gibt es eine seltene Art\n"
-	.string "EIS-POKéMON in der Höhle.\p"
+	.string "Eis-Pokémon in der Höhle.\p"
 	.string "Viele Besucher kommen nur,\n"
-	.string "um dieses POKéMON zu sehen.$"
+	.string "um dieses Pokémon zu sehen.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-	.string "Der DONNERORDEN erhöht die\n"
-	.string "INITIATIVE deiner POKéMON!\p"
-	.string "Außerdem können deine POKéMON nun\n"
-	.string "jederzeit FLIEGEN einsetzen!\p"
+	.string "Der Donnerorden erhöht die\n"
+	.string "Initiative deiner Pokémon!\p"
+	.string "Außerdem können deine Pokémon nun\n"
+	.string "jederzeit Fliegen einsetzen!\p"
 	.string "Du bist ein besonderes Kind!\n"
 	.string "Nimm das hier!$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-	.string "TM34 ist SCHOCKWELLE!\p"
-	.string "ELEKTRO-POKéMON können diese\n"
+	.string "TM34 ist Schockwelle!\p"
+	.string "Elektro-Pokémon können diese\n"
 	.string "Attacke erlernen!$"
 

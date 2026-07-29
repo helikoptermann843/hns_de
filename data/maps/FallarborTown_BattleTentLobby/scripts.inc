@@ -308,13 +308,13 @@ FallarborTown_BattleTentLobby_Text_MakeThinkImJustKid:
 	.string "mir den Titel!$"
 
 FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite:
-	.string "Wusstest du, dass KAMPFCAMPs in jedem\n"
+	.string "Wusstest du, dass Kampfcamps in jedem\n"
 	.string "Ort andere Veranstaltungen anbieten?\p"
-	.string "Das KAMPFCAMP in LAUBWECHSELFELD\n"
+	.string "Das Kampfcamp in Laubwechselfeld\n"
 	.string "ist mein Lieblingsort.\p"
 	.string "Ich finde es einfach fantastisch, wie\n"
-	.string "die TRAINER versuchen zu gewinnen\l"
-	.string "und ganz fest an ihre POKéMON glauben.$"
+	.string "die Trainer versuchen zu gewinnen\l"
+	.string "und ganz fest an ihre Pokémon glauben.$"
 
 FallarborTown_BattleTentLobby_Text_CameToCampOut:
 	.string "Ich habe etwas über ein Zelt gehört,\n"
@@ -325,8 +325,8 @@ FallarborTown_BattleTentLobby_Text_CameToCampOut:
 	.string "ich auch ein bisschen kämpfen.$"
 
 FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
-	.string "SCOTT: Hi {PLAYER}{KUN}!\n"
-	.string "Du schaust dir also auch ein KAMPFCAMP\l"
+	.string "Scott: Hi {PLAYER}{KUN}!\n"
+	.string "Du schaust dir also auch ein Kampfcamp\l"
 	.string "an!\p"
 	.string "Die Leute in dieser Gegend sind sehr\n"
 	.string "entspannt und nehmen alles leicht.\p"
@@ -334,13 +334,13 @@ FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
 	.string "Wie soll ich sagen?\p"
 	.string "Jemanden, der von Leidenschaft\n"
 	.string "getrieben wird und siegen will.\p"
-	.string "Wenn ich einen TRAINER finden würde,\n"
+	.string "Wenn ich einen Trainer finden würde,\n"
 	.string "der diese Eigenschaften hätte…\p"
 	.string "Hups! Entschuldige!\n"
 	.string "Mach weiter so!$"
 
 FallarborTown_BattleTentLobby_Text_ScottMakeChallenge:
-	.string "SCOTT: Wie wäre es, wenn du eine\n"
+	.string "Scott: Wie wäre es, wenn du eine\n"
 	.string "Herausforderung annimmst, statt mit\l"
 	.string "mir die Zeit zu vergeuden?$"
 

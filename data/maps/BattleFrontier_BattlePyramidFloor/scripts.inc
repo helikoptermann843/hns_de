@@ -129,13 +129,13 @@ BattleFacility_TrainerBattle_PlaceholderText:
 	.string "Dies ist ein Beispiel.$"
 
 gText_BattlePyramidConfirmRest::
-	.string "Dein Abenteuer in der KAMPFPYRAMIDE\n"
+	.string "Dein Abenteuer in der Kampfpyramide\n"
 	.string "wird gespeichert, damit du es\l"
 	.string "unterbrechen kannst. Einverstanden?$"
 
 gText_BattlePyramidConfirmRetire::
 	.string "Möchtest du das Abenteuer in der\n"
-	.string "KAMPFPYRAMIDE wirklich unterbrechen?$"
+	.string "Kampfpyramide wirklich unterbrechen?$"
 
 BattlePyramid_Text_ExitHintUp1::
 	.string "Der Ausgang dieser Ebene\n"
@@ -420,39 +420,39 @@ BattlePyramid_Text_ZeroItemsRemaining4::
 	.string "Items mehr versteckt zu sein.$"
 
 BattlePyramid_Text_EightItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… acht Items liegen.$"
 
 BattlePyramid_Text_SevenItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… sieben Items liegen.$"
 
 BattlePyramid_Text_SixItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… sechs Items liegen.$"
 
 BattlePyramid_Text_FiveItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… fünf Items liegen.$"
 
 BattlePyramid_Text_FourItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… vier Items liegen.$"
 
 BattlePyramid_Text_ThreeItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… drei Items liegen.$"
 
 BattlePyramid_Text_TwoItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "sollen… zwei Items liegen.$"
 
 BattlePyramid_Text_OneItemRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "soll… ein Item liegen.$"
 
 BattlePyramid_Text_ZeroItemsRemaining5::
-	.string "Auf dieser Ebene der PYRAMIDE\n"
+	.string "Auf dieser Ebene der Pyramide\n"
 	.string "soll es keine Items geben…$"
 
 BattlePyramid_Text_EightItemsRemaining6::
@@ -503,37 +503,37 @@ BattlePyramid_Text_ZeroItemsRemaining6::
 BattlePyramid_Text_SevenTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch sieben\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_SixTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch sechs\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_FiveTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch fünf\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_FourTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch vier\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch drei\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_TwoTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es warten noch zwei\n"
-	.string "weitere starke TRAINER auf dich!$"
+	.string "weitere starke Trainer auf dich!$"
 
 BattlePyramid_Text_OneTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
 	.string "Aber es wartet noch ein\n"
-	.string "weiterer starker TRAINER auf dich!$"
+	.string "weiterer starker Trainer auf dich!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining1::
 	.string "Du warst wirklich unglaublich gut!\p"
@@ -543,109 +543,109 @@ BattlePyramid_Text_ZeroTrainersRemaining1::
 BattlePyramid_Text_SevenTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch sieben weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_SixTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch sechs weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_FiveTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch fünf weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_FourTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch vier weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_ThreeTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch drei weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_TwoTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch zwei weitere\n"
-	.string "TRAINER. Einer wird dich zu Fall bringen!$"
+	.string "Trainer. Einer wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_OneTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
 	.string "Aber es gibt hier noch einen weiteren\n"
-	.string "TRAINER. Der wird dich zu Fall bringen!$"
+	.string "Trainer. Der wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_ZeroTrainersRemaining2::
 	.string "Das ist doch einfach ärgerlich!\p"
-	.string "Aber es gibt keine weiteren TRAINER!\n"
+	.string "Aber es gibt keine weiteren Trainer!\n"
 	.string "Keiner wird dich zu Fall bringen!$"
 
 BattlePyramid_Text_SevenTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch sieben weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch sechs weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch fünf weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch vier weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch drei weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier sind noch zwei weitere\n"
-	.string "TRAINER. Kannst du die auch besiegen?$"
+	.string "Trainer. Kannst du die auch besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
 	.string "Aber hier ist noch ein weiterer\n"
-	.string "TRAINER. Kannst du den auch besiegen?$"
+	.string "Trainer. Kannst du den auch besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining3::
 	.string "Wow! Das war beeindruckend!\p"
-	.string "Du hast alle TRAINER auf dieser\n"
+	.string "Du hast alle Trainer auf dieser\n"
 	.string "Ebene besiegt.$"
 
 BattlePyramid_Text_SevenTrainersRemaining4::
-	.string "Vielleicht kannst du die sieben TRAINER\n"
+	.string "Vielleicht kannst du die sieben Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining4::
-	.string "Vielleicht kannst du die sechs TRAINER\n"
+	.string "Vielleicht kannst du die sechs Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining4::
-	.string "Vielleicht kannst du die fünf TRAINER\n"
+	.string "Vielleicht kannst du die fünf Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining4::
-	.string "Vielleicht kannst du die vier TRAINER\n"
+	.string "Vielleicht kannst du die vier Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining4::
-	.string "Vielleicht kannst du die drei TRAINER\n"
+	.string "Vielleicht kannst du die drei Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining4::
-	.string "Vielleicht kannst du die zwei TRAINER\n"
+	.string "Vielleicht kannst du die zwei Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining4::
-	.string "Vielleicht kannst du den TRAINER\n"
+	.string "Vielleicht kannst du den Trainer\n"
 	.string "auf dieser Ebene besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining4::
@@ -654,64 +654,64 @@ BattlePyramid_Text_ZeroTrainersRemaining4::
 
 BattlePyramid_Text_SevenTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die sieben TRAINER hier zu besiegen.$"
+	.string "die sieben Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_SixTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die sechs TRAINER hier zu besiegen.$"
+	.string "die sechs Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_FiveTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die fünf TRAINER hier zu besiegen.$"
+	.string "die fünf Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_FourTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die vier TRAINER hier zu besiegen.$"
+	.string "die vier Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_ThreeTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die drei TRAINER hier zu besiegen.$"
+	.string "die drei Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_TwoTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "die zwei TRAINER hier zu besiegen.$"
+	.string "die zwei Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_OneTrainersRemaining5::
 	.string "Du könntest es tatsächlich schaffen,\n"
-	.string "den TRAINER hier zu besiegen.$"
+	.string "den Trainer hier zu besiegen.$"
 
 BattlePyramid_Text_ZeroTrainersRemaining5::
 	.string "Deine Fähigkeiten sind unerreichbar!\p"
-	.string "Es sind keine TRAINER mehr vorhanden,\n"
+	.string "Es sind keine Trainer mehr vorhanden,\n"
 	.string "gegen die du antreten könntest.$"
 
 BattlePyramid_Text_SevenTrainersRemaining6::
 	.string "Schaffst du es, die sieben\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_SixTrainersRemaining6::
 	.string "Schaffst du es, die sechs\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_FiveTrainersRemaining6::
 	.string "Schaffst du es, die fünf\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_FourTrainersRemaining6::
 	.string "Schaffst du es, die vier\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_ThreeTrainersRemaining6::
 	.string "Schaffst du es, die drei\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_TwoTrainersRemaining6::
 	.string "Schaffst du es, die zwei\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_OneTrainersRemaining6::
 	.string "Schaffst du es, den\n"
-	.string "verbleibenden TRAINER zu besiegen?$"
+	.string "verbleibenden Trainer zu besiegen?$"
 
 BattlePyramid_Text_ZeroTrainersRemaining6::
 	.string "Es ist niemand mehr da, dem du dein\n"

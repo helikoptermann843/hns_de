@@ -1,37 +1,37 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Willkommen im POKéMON-CENTER!\p"
-	.string "Wir heilen deine POKéMON und\n"
+	.string "Willkommen im Pokémon-Center!\p"
+	.string "Wir heilen deine Pokémon und\n"
 	.string "machen sie wieder fit.\p"
-	.string "O.K. Wir benötigen deine POKéMON.$"
+	.string "O.K. Wir benötigen deine Pokémon.$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, ich nehme deine POKéMON für einen\n"
+	.string "Okay, ich nehme deine Pokémon für einen\n"
 	.string "Moment in meine Obhut.$"
 
 gText_RestoredPkmnToFullHealth::
 	.string "Danke!\p"
-	.string "Deine POKéMON sind wieder topfit!$"
+	.string "Deine Pokémon sind wieder topfit!$"
 
 gText_WeHopeToSeeYouAgain::
 	.string "Komm jederzeit wieder vorbei!$"
 
 gText_WelcomeCutShort::
-	.string "Willkommen im POKéMON-CENTER!\p"
-	.string "Wir heilen deine POKéMON und\n"
+	.string "Willkommen im Pokémon-Center!\p"
+	.string "Wir heilen deine Pokémon und\n"
 	.string "machen sie wieder fit.\p"
-	.string "O.K. Wir benötigen deine POKéMON.$"
+	.string "O.K. Wir benötigen deine Pokémon.$"
 
 gText_NoticesGoldCard::
 	.string "Di-dieser Pass…\n"
-	.string "Ist das der… GOLDPASS?!?\p"
+	.string "Ist das der… Goldpass?!?\p"
 	.string "Diese goldene Farbe ist brillant!\n"
 	.string "Die vier Sterne funkeln richtig!\p"
-	.string "Ich habe schon viele TRAINER mit einem\n"
-	.string "SILBERPASS gesehen, aber, {PLAYER},\l"
-	.string "du bist der erste TRAINER mit einem\l"
-	.string "GOLDPASS!\p"
+	.string "Ich habe schon viele Trainer mit einem\n"
+	.string "Silberpass gesehen, aber, {PLAYER},\l"
+	.string "du bist der erste Trainer mit einem\l"
+	.string "Goldpass!\p"
 	.string "Okay, {PLAYER}, bitte gib mir die Ehre,\n"
-	.string "mich um deine POKéMON kümmern\l"
+	.string "mich um deine Pokémon kümmern\l"
 	.string "zu dürfen!$"
 
 gText_YouWantTheUsual::
@@ -39,7 +39,7 @@ gText_YouWantTheUsual::
 	.string "Das Übliche, nicht wahr?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, ich nehme deine POKéMON für einen\n"
+	.string "Okay, ich nehme deine Pokémon für einen\n"
 	.string "Moment in meine Obhut.$"
 
 gText_ThankYouForWaiting::
@@ -50,5 +50,5 @@ gText_WeHopeToSeeYouAgain2::
 
 gText_PkmnCenterChallenge_NoVisitsLeft:: @ tx_difficulty_challenge
     .string "Sorry, du spielst mit\n"
-    .string "der POKéCENTER-Challenge!\p"
+    .string "der Pokécenter-Challenge!\p"
     .string "Viel Glück!{PAUSE_UNTIL_PRESS}$"

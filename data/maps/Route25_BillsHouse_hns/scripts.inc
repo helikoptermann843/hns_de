@@ -36,11 +36,11 @@ Route25_BillsHouse_hns_EventScript_TeleporterTest::
 	end
 
 Route25_BillsHouse_Text_Teleporter:
-	.string "GALAR TRANSFORMATOR:\p"
-	.string "DIESE MASCHINE TRANSFORMIERT\n"
-	.string "EIN POKéMON IN SEINE GALAR-FORM\l"
-	.string "PROZESS IST PERMANENT.\l"
-	.string "FORTSETZEN?$"
+	.string "Galar Transformator:\p"
+	.string "Diese Maschine transformiert\n"
+	.string "Ein Pokémon in seine Galar-Form\l"
+	.string "Prozess ist permanent.\l"
+	.string "Fortsetzen?$"
 
 Route25_BillsHouse_hns_PickMeowth::
 	setvar VAR_0x8004, SPECIES_MEOWTH
@@ -183,7 +183,7 @@ Route25_BillsHouse_hns_CutsceneBeforeTeleport::
 	opendoor 10, 3
 	waitdooranim
 	playmoncry VAR_TEMP_0, CRY_MODE_NORMAL
-	waitmoncry 
+	waitmoncry
 	applymovement LOCALID_BILLS_GRANDPA_OLD_MON, Common_Movement_WalkUp1
 	waitmovement 0
 	turnobject LOCALID_BILLS_GRANDPA_OLD_MON, DIR_SOUTH
@@ -227,7 +227,7 @@ Route25_BillsHouse_hns_CutsceneTeleport::
 	clearflag FLAG_TEMP_2
 	copyvar VAR_OBJ_GFX_ID_1, VAR_TEMP_1
 	addvar VAR_OBJ_GFX_ID_1, OBJ_EVENT_GFX_MON_BASE
-	
+
 Route25_BillsHouse_hns_CutsceneAfterTeleport::
 	opendoor 3, 3
 	delay 10
@@ -316,55 +316,55 @@ Route25_BillsHouse_Movement_ShowPlayer:
 	step_end
 
 Route25_BillsHouse_hns_Text_Meowth:
-	.string "MAUZI$"
+	.string "Mauzi$"
 
 Route25_BillsHouse_hns_Text_Ponyta:
-	.string "PONITA$"
+	.string "Ponita$"
 
 Route25_BillsHouse_hns_Text_Rapidash:
-	.string "GALOPPA$"
+	.string "Gallopa$"
 
 Route25_BillsHouse_hns_Text_Slowpoke:
-	.string "FLEGMON$"
+	.string "Flegmon$"
 
 Route25_BillsHouse_hns_Text_Slowbro:
-	.string "LAHMUS$"
+	.string "Lahmus$"
 
 Route25_BillsHouse_hns_Text_Slowking:
-	.string "LASCHOKING$"
+	.string "Laschoking$"
 
 Route25_BillsHouse_hns_Text_Farfetchd:
-	.string "PORENTA$"
+	.string "Farfetch'D$"
 
 Route25_BillsHouse_hns_Text_Weezing:
-	.string "SMOGMOG$"
+	.string "Smogmog$"
 
 Route25_BillsHouse_hns_Text_MrMime:
-	.string "PANTIMOS$"
+	.string "Pantimos$"
 
 Route25_BillsHouse_hns_Text_Articuno:
-	.string "ARKTOS$"
+	.string "Arktos$"
 
 Route25_BillsHouse_hns_Text_Zapdos:
-	.string "ZAPDOS$"
+	.string "Zapdos$"
 
 Route25_BillsHouse_hns_Text_Moltres:
-	.string "LAVADOS$"
+	.string "Lavados$"
 
 Route25_BillsHouse_hns_Text_Corsola:
-	.string "CORASONN$"
+	.string "Corasonn$"
 
 Route25_BillsHouse_hns_Text_Zigzagoon:
-	.string "ZIGZACHS$"
+	.string "Zigzachs$"
 
 Route25_BillsHouse_hns_Text_Linoone:
-	.string "GERADAKS$"
+	.string "Geradaks$"
 
 Route25_BillsHouse_hns_Text_Cancel:
-	.string "ZURÜCK$"
+	.string "Abbruch$"
 
 Route25_BillsHouse_hns_Text_NotInParty:
-	.string "POKéMON NICHT GEFUNDEN.$"
+	.string "Pokémon nicht gefunden.$"
 
 @VAR_BILLS_GRANDPA
 
@@ -540,41 +540,41 @@ Route25_BillsHouse_Text_GrandpaIntro:
 	.string "Deshalb hüte ich hier das Haus für ihn.$"
 
 Route25_BillsHouse_Text_GrampsMeowth:
-	.string "Mein Enkel BILL erzählte mir\n"
-	.string "von einem POKéMON mit scharfen\l"
+	.string "Mein Enkel Bill erzählte mir\n"
+	.string "von einem Pokémon mit scharfen\l"
 	.string "Krallen, einer Münze auf dem\p"
 	.string "Kopf und dem Ruf,\n"
 	.string "Glück zu bringen.$"
 
 Route25_BillsHouse_Text_GrampsZigzagoon:
-	.string "BILL erwähnte ein POKéMON,\n"
+	.string "Bill erwähnte ein Pokémon,\n"
 	.string "das im Zickzack umherläuft.\p"
 	.string "Es soll ein echter kleiner\n"
 	.string "Sammler sein.$"
 
 Route25_BillsHouse_Text_GrampsPonyta:
-	.string "Kennst du das POKéMON mit der\n"
+	.string "Kennst du das Pokémon mit der\n"
 	.string "feurigen Mähne?\p"
 	.string "Es soll schneller laufen als\n"
 	.string "die meisten Züge.$"
 
 Route25_BillsHouse_Text_GrampsFarfetchd:
-	.string "BILL erzählte mir von einem\n"
-	.string "POKéMON, das immer eine\l"
+	.string "Bill erzählte mir von einem\n"
+	.string "Pokémon, das immer eine\l"
 	.string "Lauchstange mit sich trägt.\p"
 	.string "Schon ein seltsames Wesen.$"
 
 Route25_BillsHouse_Text_GrampsSlowpoke:
-	.string "Kennst du das POKéMON, das\n"
+	.string "Kennst du das Pokémon, das\n"
 	.string "ständig ins Leere starrt?\p"
 	.string "Sein Schweif wird oft auf dem\n"
 	.string "Schwarzmarkt verkauft.$"
 
 Route25_BillsHouse_Text_TeleporterUnlocked:
 	.string "Ach, noch etwas!\p"
-	.string "BILL hat eine Notiz hinter-\n"
+	.string "Bill hat eine Notiz hinter-\n"
 	.string "lassen. Falls ich jemanden\l"
-	.string "finde, der POKéMON wirklich\p"
+	.string "finde, der Pokémon wirklich\p"
 	.string "schätzt, soll ich ihn seine\n"
 	.string "Maschine nutzen lassen.\p"
 	.string "Benutz ihn jederzeit!\p"

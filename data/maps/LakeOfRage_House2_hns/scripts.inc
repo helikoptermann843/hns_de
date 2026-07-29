@@ -9,7 +9,7 @@ LakeOfRage_House2_EventScript_Fisher::
 	msgbox LakeOfRage_House2_Text_MenInBlack, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 LakeOfRage_House2_EventScript_FisherFirstMeeting::
 	msgbox LakeOfRage_House2_Text_LakeHistory, MSGBOX_DEFAULT
@@ -104,42 +104,42 @@ LakeOfRage_House2_EventScript_FisherSatisfied::
 	end
 
 LakeOfRage_House2_Text_LakeHistory:
-	.string "DER SEE DER WUT ist eigentlich\n"
+	.string "Der See der Wut ist eigentlich\n"
 	.string "ein Krater, den ein wütendes\l"
-	.string "GARADOS verursacht hat.\p"
+	.string "Garados verursacht hat.\p"
 	.string "Der Krater füllte sich mit Regen-\n"
-	.string "wasser, so entstand der SEE.\p"
+	.string "wasser, so entstand der See.\p"
 	.string "So erzählt es der Ur-Ur-Großvater\n"
 	.string "meines Großvaters.\p"
 	.string "Früher konnte man dort lebhafte\n"
-	.string "KARPADOR fangen, aber…\n"
+	.string "Karpador fangen, aber…\n"
 	.string "Ich verstehe nicht, was passiert.$"
 
 LakeOfRage_House2_Text_MenInBlack:
-	.string "Der SEE ist seit der Ankunft der\n"
+	.string "Der See ist seit der Ankunft der\n"
 	.string "Männer in Schwarz nicht mehr normal.$"
 
 LakeOfRage_House2_Text_LastMon:
-	.string "Lass mich dein letztes POKéMON\n"
+	.string "Lass mich dein letztes Pokémon\n"
 	.string "nicht nehmen!$"
 
 LakeOfRage_House2_Text_WorldsLargest:
-	.string "DER SEE DER WUT ist wieder normal.\p"
-	.string "Die KARPADOR sind zurück.\p"
+	.string "Der See der Wut ist wieder normal.\p"
+	.string "Die Karpador sind zurück.\p"
 	.string "Vielleicht erfülle ich mir meinen\n"
-	.string "Traum, das größte KARPADOR der\l"
+	.string "Traum, das größte Karpador der\l"
 	.string "Welt zu besitzen.\p"
 	.string "Tatsächlich… Ich zahle dir ¥2000\n"
-	.string "für jedes KARPADOR und ¥100.000\l"
-	.string "für ein RIESEN-KARPADOR!$"
+	.string "für jedes Karpador und ¥100.000\l"
+	.string "für ein Riesen-Karpador!$"
 
 LakeOfRage_House2_Text_ForMe:
-	.string "Also… Hast du einen KARPADOR\n"
+	.string "Also… Hast du einen Karpador\n"
 	.string "für mich?$"
 
 LakeOfRage_House2_Text_HaveMagikarp:
-	.string "Ah, du hast einen KARPADOR!\n"
-	.string "Mal sehen, wie groß der ist.$"
+	.string "Ah, du hast ein Karpador! Dann wollen\n"
+	.string "wir doch mal sehen, wie groß es ist!$"
 
 LakeOfRage_House2_Text_BigPayout:
 	.string "Wow! Der ist großartig!\p"
@@ -148,8 +148,9 @@ LakeOfRage_House2_Text_BigPayout:
 	.string "für deine Mühe.$"
 
 LakeOfRage_House2_Text_Bonus:
-	.string "Der Rekord ist das Wichtige.\p"
-	.string "Betrachte das als Bonus!$"
+	.string "So! Aber vergiss nicht, dass es hier vor\n"
+	.string "allem um deinen Rekord geht! Sieh das\l"
+	.string "einfach als kleinen Bonus an.$"
 
 LakeOfRage_House2_Text_TooShort:
 	.string "Wow! Der ist großartig!\p"
@@ -159,9 +160,9 @@ LakeOfRage_House2_Text_TooShort:
 	.string "etwas wert.$"
 
 LakeOfRage_House2_Text_NotMagikarp:
-	.string "Was? Das ist kein KARPADOR!$"
+	.string "Was? Das ist kein Karpador!$"
 
 LakeOfRage_House2_Text_Refused:
-	.string "Oh… Du hast kein gutes\n"
-	.string "KARPADOR gefunden?\p"
-	.string "Vielleicht beim nächsten Mal.$"
+	.string "Oh… du hast also keins, das es wert\n"
+	.string "wäre, mir zu zeigen? Na ja, vielleicht\l"
+	.string "beim nächsten Mal.$"

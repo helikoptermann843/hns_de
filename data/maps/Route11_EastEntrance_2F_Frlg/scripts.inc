@@ -86,29 +86,29 @@ Route11_EastEntrance_2F_EventScript_GetAideRequestInfo::
 
 Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
 	.string "Hallo! Erinnerst du dich?\n"
-	.string "Ich bin PROF. EICHs\l"
-	.string "ASSISTENT!\p"
+	.string "Ich bin Prof. Eichs\l"
+	.string "Assistent!\p"
 	.string "Wenn du mindestens {STR_VAR_1} verschiedene\n"
-	.string "POKéMON gefangen hast, habe ich\l"
+	.string "Pokémon gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich:\l"
 	.string "{STR_VAR_2}\p"
 	.string "Also, {PLAYER}, hast du {STR_VAR_1}\n"
-	.string "unterschiedliche POKéMON gefangen?$"
+	.string "unterschiedliche Pokémon gefangen?$"
 
 Route11_EastEntrance_2F_Text_GreatHereYouGo::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
-	.string "POKéMON gefangen!\p"
+	.string "Pokémon gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the AIDE.$"
+	.string "from the Aide.$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
 	.string "Auf dem Boden liegen oft Items,\n"
 	.string "die man nicht sehen kann.\p"
-	.string "Der DETEKTOR spürt Items in deiner\n"
+	.string "Der Detektor spürt Items in deiner\n"
 	.string "Nähe auf!\p"
 	.string "Allerdings ortet er nicht die\n"
 	.string "exakte Position!\p"
@@ -120,7 +120,7 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
 Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Mitten auf dem Weg schläft ein\n"
-	.string "großes POKéMON!$"
+	.string "großes Pokémon!$"
 
 Route11_EastEntrance_2F_Text_WhatABreathtakingView::
 	.string "Du schaust durch das Fernrohr.\p"
@@ -128,7 +128,7 @@ Route11_EastEntrance_2F_Text_WhatABreathtakingView::
 
 Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
 	.string "Du schaust durch das Fernrohr.\p"
-	.string "Der einzige Weg von AZURIA CITY\n"
-	.string "nach LAVANDIA führt durch den\l"
-	.string "FELSTUNNEL.$"
+	.string "Der einzige Weg von Azuria City\n"
+	.string "nach Lavandia führt durch den\l"
+	.string "Felstunnel.$"
 

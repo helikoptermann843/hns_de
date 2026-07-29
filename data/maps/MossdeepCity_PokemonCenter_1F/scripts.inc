@@ -24,14 +24,14 @@ MossdeepCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable:
-	.string "Die ARENALEITER dieses Ortes sind ein\n"
+	.string "Die Arenaleiter dieses Ortes sind ein\n"
 	.string "ausgezeichnetes Team.\p"
 	.string "Die Kombination ihrer Attacken ist\n"
 	.string "einfach exzellent und… wow!$"
 
 MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves:
 	.string "Abhängig von den speziellen\n"
-	.string "Fähigkeiten eines POKéMON, werden\p"
+	.string "Fähigkeiten eines Pokémon, werden\p"
 	.string "einige Attacken in ihrer Wirkung\n"
 	.string "verändert oder sogar wirkungslos.$"
 

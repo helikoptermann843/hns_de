@@ -11,15 +11,15 @@ PewterCity_Mart_EventScript_Nerd::
 
 PewterCity_Mart_Text_Youngster:
 	.string "Hi! Mach doch Bekanntschaft\n"
-	.string "mit meinem GARADOS!\p"
-	.string "Ich habe es als KARPADOR\n"
+	.string "mit meinem Garados!\p"
+	.string "Ich habe es als Karpador\n"
 	.string "aufgezogen. Kaum zu\l"
 	.string "glauben, wie stark es geworden ist.$"
 
 PewterCity_Mart_Text_SuperNerd:
 	.string "Es gab mal einen\n"
-	.string "komischen, alten Mann, der KARPADOR\l"
+	.string "komischen, alten Mann, der Karpador\l"
 	.string "verkaufte.\p"
-	.string "Er sagte immer, die KARPADOR im\n"
-	.string "SEE DES ZORNS seien außergewöhnlich.$"
+	.string "Er sagte immer, die Karpador im\n"
+	.string "See des Zorns seien außergewöhnlich.$"
 

@@ -18,11 +18,11 @@ EcruteakCity_Mart_EventScript_Granny::
 	end
 
 EcruteakMart_Text_SuperNerd:
-	.string "Mein EVOLI hat sich zu einem PSIANA\n"
-	.string "entwickelt, aber aus dem EVOLI eines\l"
-	.string "Freundes von mir wurde ein NACHTARA…\p"
+	.string "Mein Evoli hat sich zu einem Psiana\n"
+	.string "entwickelt, aber aus dem Evoli eines\l"
+	.string "Freundes von mir wurde ein Nachtara…\p"
 	.string "Was hat er bloß anders gemacht als ich?\p"
-	.string "Wir haben unsere EVOLI schließlich\n"
+	.string "Wir haben unsere Evoli schließlich\n"
 	.string "immer gleich trainiert…$"
 
 EcruteakMart_Text_Granny:

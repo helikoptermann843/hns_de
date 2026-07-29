@@ -3,7 +3,7 @@ Route46_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route46_OnTransition: 
+Route46_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -62,8 +62,8 @@ Route46_Text_HikerBaileyAfterBattle:
 	.string "Wanderer sehen niemals zurück.$"
 
 Route46_Text_CamperTedSeen:
-    .string "Ich ziehe auch POKéMON groß!\p"
-    .string "Willst du gegen mich kämpfen?$"
+	.string "Ich trainiere auch Pokémon! Möchtest\n"
+	.string "du gegen mich kämpfen?$"
 
 Route46_Text_CamperTedBeaten:
 	.string "Was?$"
@@ -80,27 +80,27 @@ Route46_Text_PicnickerErinBeaten:
 	.string "Oh, Mistkerle!$"
 
 Route46_Text_PicnickerErinAfterBattle:
-	.string "Ich war in vielen PKMN-ARENEN,\n"
-	.string "aber die PKMN-ARENA in\l"
-	.string "DUKATIA CITY ist am schönsten.\p"
+	.string "Ich war in vielen Pkmn-Arenen,\n"
+	.string "aber die Pkmn-Arena in\l"
+	.string "Dukatia City ist am schönsten.\p"
 	.string "Dort sind wunderschöne Blumen!$"
 
 Route46_Text_ErinRegister:
-    .string "Ich war schon in vielen ARENEN,\n"
-    .string "aber die ARENA in DUKATIA ist\l"
+    .string "Ich war schon in vielen Arenen,\n"
+    .string "aber die Arena in Dukatia ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 
 Route46_Text_ErinRematchIntro:
-    .string "Ich ziehe auch POKéMON groß!\p"
-    .string "Willst du gegen mich kämpfen?$"
+	.string "Ich bin auch ein Pokémon-Trainer! Hast\n"
+	.string "du Zeit für ein Match?$"
 
 Route46_Text_ErinRematchDefeat:
     .string "Oh nein!$"
 
 Route46_Text_ErinPostRematch:
-    .string "Ich war schon in vielen ARENEN,\n"
-    .string "aber die ARENA in DUKATIA ist\l"
+    .string "Ich war schon in vielen Arenen,\n"
+    .string "aber die Arena in Dukatia ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 
@@ -113,4 +113,4 @@ Route46_Text_PicnickerErin2Beaten:
 	.string "letzen Mal.$"
 
 Route46_Text_Sign:
-	.string "ROUTE 46 BERGWEG VORAUS$"
+	.string "Route 46 Bergweg voraus$"

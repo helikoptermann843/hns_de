@@ -9,7 +9,7 @@ Common_EventScript_SetGymTrainers::
 	case 7, MossdeepCity_Gym_SetGymTrainers
 	case 8, SootopolisCity_Gym_SetGymTrainers
 	end
-	
+
 Common_EventScript_SetGymTrainers_Frlg::
 	switch VAR_0x8008
 	case 1, EventScript_SetPewterGymTrainers

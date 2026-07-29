@@ -33,11 +33,11 @@ FuchsiaCity_Mart_Items::
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
 	.string "Selbst wir können die eigenwilligen\n"
-	.string "GEISTER nicht identifizieren!\p"
-	.string "Man benötigt das SILPH SCOPE, um\n"
+	.string "Geister nicht identifizieren!\p"
+	.string "Man benötigt das Silph Scope, um\n"
 	.string "sie zu erkennen!$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-	.string "Der POKéMON-TURM wurde im Andenken\n"
-	.string "an verblichene POKéMON errichtet.$"
+	.string "Der Pokémon-Turm wurde im Andenken\n"
+	.string "an verblichene Pokémon errichtet.$"
 

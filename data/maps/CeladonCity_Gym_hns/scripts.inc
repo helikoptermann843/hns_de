@@ -34,8 +34,8 @@ CeladonCity_Gym_Text_ErikaBeforeBattle:
 	.string "nicht wahr? So angenehm…\p"
 	.string "…Ich fürchte, ich könnte einnicken…\p"
 	.string "Mein Name ist Erika. Ich bin die\n"
-	.string "Leiterin der PRISMANIA City Arena.\p"
-	.string "…Oh? Ganz aus JOHTO, sagst du?\n"
+	.string "Leiterin der Prismania City Arena.\p"
+	.string "…Oh? Ganz aus Johto, sagst du?\n"
 	.string "Wie schön…\p"
 	.string "Oh. Entschuldigung, ich habe nicht\n"
 	.string "gemerkt, dass du mich herausfordern\l"
@@ -175,13 +175,13 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "PRISMANIA POKéMON ARENA\n"
-    .string "LEITER: ERIKA\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Prismania Pokémon Arena\n"
+    .string "Leiter: Erika\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "PRISMANIA POKéMON ARENA\n"
-    .string "LEITER: ERIKA\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Prismania Pokémon Arena\n"
+    .string "Leiter: Erika\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"

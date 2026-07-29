@@ -26,7 +26,7 @@ EcruteakCity_EventScript_Trigger::
 	clearflag FLAG_DEFEATED_LUGIA
 	clearflag FLAG_CAUGHT_LUGIA
 	clearflag FLAG_HIDE_ECRUTEAK_ROCKET
-	clearflag FLAG_HIDE_BURNED_TOWER_NPCS  
+	clearflag FLAG_HIDE_BURNED_TOWER_NPCS
 	clearflag FLAG_HIDE_BURNED_TOWER_BEASTS
 	clearflag FLAG_HIDE_BURNED_TOWER_B1F_EUSINE
 	clearflag FLAG_HIDE_ECRUTEAK_CITY_SAGE
@@ -54,7 +54,7 @@ EcruteakCity_EventScript_Trigger::
 	setflag FLAG_HIDE_ECRUTEAK_SILVER
 	setvar VAR_COMPLETED_HO_OH, 0
 	setvar VAR_COMPLETED_LUGIA, 0
-	setvar VAR_ECRUTEAK_CITY_THEATER, 0 
+	setvar VAR_ECRUTEAK_CITY_THEATER, 0
 	setvar VAR_ECRUTEAK_CITY_STATE, 1
 	end
 
@@ -70,7 +70,7 @@ EcruteakCity_Trigger_Silver::
 	applymovement LOCALID_ECRUTEK_SILVER, EcruteakCity_Movement_Silver1
 	applymovement OBJ_EVENT_ID_PLAYER, EcruteakCity_Movement_Silver1
 	message EcruteakCity_Text_Silver1
-	
+
 	waitmovement OBJ_EVENT_ID_PLAYER
 	waitmovement LOCALID_ECRUTEK_SILVER
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
@@ -117,7 +117,7 @@ EcruteakCity_Movement_Silver2:
 	step_end
 
 EcruteakCity_Text_Silver1:
-	.string "…Bumms.$"
+	.string "Rumms!$"
 
 EcruteakCity_Text_Silver2:
 	.string "{RIVAL}: Warum, warum, warum?!?\n"
@@ -153,7 +153,7 @@ EcruteakCity_EventScript_Gramps::
 	closemessage
 	release
 	end
-		
+
 EcruteakCity_EventScript_Lass::
 	lock
 	faceplayer
@@ -229,28 +229,28 @@ EcruteakCity_EventScript_TheaterSign::
 	msgbox EcruteakCity_Text_DanceTheaterSign, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 EcruteakCity_EventScript_OfficeSign::
 	lock
 	msgbox EcruteakCity_Text_OfficeSign, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 EcruteakCity_EventScript_BurnedSign::
 	lock
 	msgbox EcruteakCity_Text_BurnedTowerSign, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 EcruteakCity_EventScript_CitySign::
 	lock
 	msgbox EcruteakCity_Text_Sign, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 EcruteakCity_EventScript_GymSign::
 	lock
@@ -294,7 +294,7 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oh nein. Oh nein…\p"
 	.string "Meine Tochter ist verschwunden.\p"
 	.string "Nein… Sie kann doch nicht in den\n"
-	.string "ABGEBRANNTEN TURM gegangen sein!$"
+	.string "Abgebrannten Turm gegangen sein!$"
 
 EcruteakCity_Text_Gramps1:
 	.string "Es gab wohl mal zwei Türme in Teak City,\n"
@@ -302,12 +302,12 @@ EcruteakCity_Text_Gramps1:
 
 EcruteakCity_Text_Gramps2:
 	.string "Na, Kröte? Hast du gelernt zu\n"
-	.string "tanzen wie die KIMONO-GIRLS?\p"
+	.string "tanzen wie die Kimono-Girls?\p"
 	.string "Ich habe gehört, dass dir\n"
 	.string "ein eigenartiger Mann etwas\l"
 	.string "Nettes geben wird,\p"
 	.string "wenn du zu ihrem\n"
-	.string "TANZTHEATER gehst.$"
+	.string "Tanztheater gehst.$"
 
 EcruteakCity_Text_Lass1:
 	.string "Ich bin auf dem Weg zum Tanztheater,\n"
@@ -326,16 +326,16 @@ EcruteakCity_Text_Lass2_ReleasedBeasts:
 
 EcruteakCity_Text_Fisher:
 	.string "Es kursiert ein Gerücht\n"
-	.string "über den LEUCHTTURM in\l"
-	.string "OLIVIANA CITY.\p"
+	.string "über den Leuchtturm in\l"
+	.string "Oliviana City.\p"
 	.string "Das Pokémon, das als Leuchtfeuer\n"
 	.string "dient, wurde krank.\p"
 	.string "Sieht so aus, als wären sie\n"
 	.string "in Schwierigkeiten.$"
 
 EcruteakCity_Text_Fisher_JasmineReturned:
-	.string "Das Pokémon im LEUCHTTURM\n"
-	.string "von OLIVIANA CITY wurde\l"
+	.string "Das Pokémon im Leuchtturm\n"
+	.string "von Oliviana City wurde\l"
 	.string "geheilt.\p"
 	.string "Jetzt können die Schiffe\n"
 	.string "wieder gefahrlos nachts in See\l"
@@ -343,7 +343,7 @@ EcruteakCity_Text_Fisher_JasmineReturned:
 
 EcruteakCity_Text_Youngster:
 	.string "Ich hörte, dass Pokémon am\n"
-	.string "SEE DES ZORNS Unruhe stiften.\p"
+	.string "See des Zorns Unruhe stiften.\p"
 	.string "Das würde ich gerne sehen.$"
 
 EcruteakCity_Text_Gramps3:
@@ -354,8 +354,8 @@ EcruteakCity_Text_Gramps3:
 	.string "Ein regenbogenfarbenes Pokémon\n"
 	.string "kam herab und hauchte ihnen\l"
 	.string "wieder Leben ein…\p"
-	.string "Diese Legende wird von jedem LEITER\n"
-	.string "der PKMN-ARENA von TEAK CITY an den\l"
+	.string "Diese Legende wird von jedem Leiter\n"
+	.string "der Pkmn-Arena von Teak City an den\l"
 	.string "nächsten weitergegeben.\p"
 	.string "Ich?\p"
 	.string "Damals war ich ein Trainer. Hohoho!$"
@@ -363,16 +363,16 @@ EcruteakCity_Text_Gramps3:
 EcruteakCity_Text_SageGym:
 	.string "Arenaleiter Jens ist gerade\n"
 	.string "nicht hier. Du kannst ihn vielleicht\l"
-	.string "an der TURMRUINE finden.$"
+	.string "an der Turmruine finden.$"
 
 EcruteakCity_Text_Sign:
-	.string "TEAK CITY Eine historische Stadt,\n"
+	.string "Teak City Eine historische Stadt,\n"
 	.string "wo Vergangenheit und\l"
 	.string "Gegenwart aufeinandertreffen$"
 
 EcruteakCity_Text_TinTowerSign:
-	.string "ZINNTURM\p"
-	.string "Hier soll ein legendäres POKéMON\n"
+	.string "Zinnturm\p"
+	.string "Hier soll ein legendäres Pokémon\n"
 	.string "ruhen.$"
 
 EcruteakCity_Text_OfficeSign:

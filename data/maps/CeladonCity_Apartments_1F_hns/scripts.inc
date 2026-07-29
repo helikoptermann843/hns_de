@@ -16,4 +16,4 @@ CeladonMansion_Text_Manager:
 	.string "Mauzi bringt sogar Geld nach Hause.$"
 
 CeladonMansion_Text_ManagersSuiteSign:
-	.string "PRISMANIA HOTEL MANAGER-RAUM.$"
+	.string "Prismania Hotel Manager-Raum.$"

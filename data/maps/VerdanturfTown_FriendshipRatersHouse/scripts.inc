@@ -63,9 +63,9 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Zeig mir doch mal dein POKéMON.\n"
+	.string "Zeig mir doch mal dein Pokémon.\n"
 	.string "Ich prüfe, wie sehr es dich mag.\p"
-	.string "Oh. Dein POKéMON…$"
+	.string "Oh. Dein Pokémon…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
 	.string "Es liebt dich über alles.\n"
@@ -97,9 +97,9 @@ VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
 	.string "Es fällt mir schwer, das zu sagen…\p"
-	.string "Dein POKéMON hasst dich. Das ist nicht\n"
+	.string "Dein Pokémon hasst dich. Das ist nicht\n"
 	.string "gerade angenehm für dich, oder?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
-	.string "PIKACHU: Pika pika!$"
+	.string "Pikachu: Pika pika!$"
 

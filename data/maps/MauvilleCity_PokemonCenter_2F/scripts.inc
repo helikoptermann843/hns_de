@@ -24,7 +24,7 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
 	.string "Wusstest du, dass du von hier aus via\n"
-	.string "Link Kämpfe im KOLOSSEUM ausfechten\l"
+	.string "Link Kämpfe im Kolosseum ausfechten\l"
 	.string "kannst?\p"
 	.string "Deine Ergebnisse werden dann an der\n"
 	.string "Wand ausgehängt, wo sie jeder sieht.\p"

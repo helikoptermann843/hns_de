@@ -1,11 +1,11 @@
 BerryBlender_Text_BlendWithTheBlendMaster:
-	.string "MIXMEISTER: Genau das bin ich!\n"
-	.string "Ich bin der MIXMEISTER!\p"
+	.string "Mixmeister: Genau das bin ich!\n"
+	.string "Ich bin der Mixmeister!\p"
 	.string "Mixe mit mir und du wirst Zeuge meines\n"
 	.string "meisterhaften Mixens!$"
 
 BerryBlender_Text_SeeMyMasteryInAction:
-	.string "MIXMEISTER: Hmm! Du willst mich also\n"
+	.string "Mixmeister: Hmm! Du willst mich also\n"
 	.string "in Aktion sehen?!?$"
 
 BerryBlender_Text_TooBusyNowIsee:
@@ -17,21 +17,21 @@ BerryBlender_Text_TooBusyNowIsee:
 
 BerryBlender_Text_BlendMasterNoBerries:
 	.string "Hmmm!\p"
-	.string "Du hast keine einzige BEERE!\p"
+	.string "Du hast keine einzige Beere!\p"
 	.string "Ich bin den ganzen Tag hier!\n"
-	.string "Besorg dir BEEREn und komm wieder.$"
+	.string "Besorg dir Beeren und komm wieder.$"
 
 BerryBlender_Text_BlendMasterKnowHowToMakePokeblocks:
 	.string "Sicher!\n"
 	.string "Sicher!\p"
 	.string "Übrigens…\n"
-	.string "Weißt du eigentlich, wie man aus BEEREn\l"
+	.string "Weißt du eigentlich, wie man aus Beeren\l"
 	.string "{POKEBLOCK} herstellt?$"
 
 BerryBlender_Text_BlendMasterExplainBerryBlending:
 	.string "Hmm!\p"
 	.string "Das ist so etwas von einfach!\p"
-	.string "Wenn der Pfeil des BEERENMIXERs an\n"
+	.string "Wenn der Pfeil des Beerenmixers an\n"
 	.string "deine Markierung gelangt, musst du den\l"
 	.string "A-Knopf drücken.\p"
 	.string "Das ist auch schon alles, was du zu tun\n"
@@ -43,18 +43,18 @@ BerryBlender_Text_BlendMasterLetsBerryBlender:
 	.string "Sehr schön!\p"
 	.string "Dann lass uns loslegen!\p"
 	.string "Lass uns zusammen mit dem\n"
-	.string "MIXMEISTER BEEREn MIXEN!$"
+	.string "Mixmeister Beeren Mixen!$"
 
 BerryBlender_Text_BlendMasterNoPokeblockCase:
 	.string "Hmm!\p"
-	.string "Du hast keine {POKEBLOCK}BOX!\p"
+	.string "Du hast keine {POKEBLOCK}Box!\p"
 	.string "Ich bin den ganzen Tag hier!\n"
-	.string "Hol dir die {POKEBLOCK}BOX und komm dann\l"
+	.string "Hol dir die {POKEBLOCK}Box und komm dann\l"
 	.string "wieder.$"
 
 BerryBlender_Text_BlendMasterPokeblockCaseFull:
 	.string "Hmm!\p"
-	.string "Deine {POKEBLOCK}BOX scheint voll zu sein.\p"
+	.string "Deine {POKEBLOCK}Box scheint voll zu sein.\p"
 	.string "Ich bin den ganzen Tag hier!\n"
 	.string "Verwende einige {POKEBLOCK} und komm\l"
 	.string "dann wieder.$"
@@ -79,12 +79,12 @@ BerryBlender_Text_QualitiesOfBlendMaster:
 	.string "genau folgen…\p"
 	.string "Eine Hand, die den A-Knopf mit der\n"
 	.string "Präzision einer Uhr drückt…\p"
-	.string "Diese Fähigkeiten machen den MIX-\n"
-	.string "MEISTER zu dem Meister schlechthin!$"
+	.string "Diese Fähigkeiten machen den Mix-\n"
+	.string "meister zu dem Meister schlechthin!$"
 
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
-	.string "Der MIXMEISTER arbeitet im Gebirge\n"
+	.string "Der Mixmeister arbeitet im Gebirge\n"
 	.string "an der Vollendung seiner Fähigkeiten.\p"
-	.string "Manchmal kommt er nach SEEGRASULB, um\n"
-	.string "den ganzen Tag BEEREn zu mixen.$"
+	.string "Manchmal kommt er nach Seegrasulb, um\n"
+	.string "den ganzen Tag Beeren zu mixen.$"
 

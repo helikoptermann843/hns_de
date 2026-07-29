@@ -41,7 +41,7 @@ PalletTown_House2_EventScript_DaisyGrooming::
 	specialvar VAR_RESULT, ScriptGetPartyMonSpecies
 	goto_if_eq VAR_RESULT, SPECIES_EGG, PalletTown_House2_EventScript_Egg
 	goto_if_eq VAR_RESULT, FALSE, PalletTown_House2_EventScript_DaisyDeclineGrooming
-	
+
 	msgbox PalletTown_House2_Text_Alright
 	closemessage
 	fadescreen FADE_TO_BLACK
@@ -66,7 +66,7 @@ PalletTown_House2_Text_OfferGrooming:
 	.string "Sarah: Hallo! Gutes Timing.\n"
 	.string "Ich wollte gerade Tee trinken.\p"
 	.string "Möchtest du auch einen?\p"
-	.string "Oh, deine POKéMON sind etwas\n"
+	.string "Oh, deine Pokémon sind etwas\n"
 	.string "schmutzig.\p"
 	.string "Soll ich eines pflegen?$"
 

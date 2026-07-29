@@ -36,7 +36,7 @@ Route8_Text_GlennDefeat::
 	.string "Das ist nicht logisch!$"
 
 Route8_Text_GlennPostBattle::
-	.string "SLEIMA kämpft als Erstes... und...\n"
+	.string "Sleima kämpft als Erstes... und...\n"
 	.string "und... dann...$"
 
 Route8_Text_PaigeIntro::
@@ -61,7 +61,7 @@ Route8_Text_LeslieDefeat::
 
 Route8_Text_LesliePostBattle::
 	.string "Wir sitzen hier fest, weil\n"
-	.string "SAFFRONIA CITY abgeriegelt wird.$"
+	.string "Saffronia City abgeriegelt wird.$"
 
 Route8_Text_AndreaIntro::
 	.string "Mauzi ist so süß!\n"
@@ -113,8 +113,8 @@ Route8_Text_JuliaPostBattle::
 	.string "gibt.$"
 
 Route8_Text_UndergroundPathSign::
-	.string "TUNNELPFAD\n"
-	.string "PRISMANIA CITY - LAVANDIA$"
+	.string "Tunnelpfad\n"
+	.string "Prismania City - Lavandia$"
 
 Route8_Text_EliIntro::
 	.string "Nora: Die Kraft von Zwillingen ist\n"
@@ -126,26 +126,26 @@ Route8_Text_EliDefeat::
 
 Route8_Text_EliPostBattle::
 	.string "Nora: Ich habe mein Pokémon mit\n"
-	.string "JO gefangen!$"
+	.string "Jo gefangen!$"
 
 Route8_Text_EliNotEnoughMons::
-	.string "NORA: Wir können nicht kämpfen,\n"
-	.string "wenn du keine zwei POKéMON hast.$"
+	.string "Nora: Wir können nicht kämpfen,\n"
+	.string "wenn du keine zwei Pokémon hast.$"
 
 Route8_Text_AnneIntro::
-	.string "JO: Wir überrumpeln dich mit\n"
+	.string "Jo: Wir überrumpeln dich mit\n"
 	.string "unserer Zwillings-Kraft.$"
 
 Route8_Text_AnneDefeat::
-	.string "JO: Unsere Zwillings-Kraft…$"
+	.string "Jo: Unsere Zwillings-Kraft…$"
 
 Route8_Text_AnnePostBattle::
-	.string "JO: Ich trainiere Pokémon mit\n"
+	.string "Jo: Ich trainiere Pokémon mit\n"
 	.string "Nora!$"
 
 Route8_Text_AnneNotEnoughMons::
-	.string "JO: Hallo! Lass uns kämpfen!\n"
-	.string "Aber bring zwei POKéMON mit!$"
+	.string "Jo: Hallo! Lass uns kämpfen!\n"
+	.string "Aber bring zwei Pokémon mit!$"
 
 Route8_Text_RicardoIntro::
 	.string "Mein Motorrad spielt verrückt!$"

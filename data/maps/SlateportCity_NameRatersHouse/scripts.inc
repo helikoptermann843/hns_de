@@ -62,13 +62,13 @@ SlateportCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 SlateportCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "Hallo! Ich bin der NAMENBEWERTER!\n"
+	.string "Hallo! Ich bin der Namenbewerter!\n"
 	.string "Ich bin das Orakel der Namen!\p"
 	.string "Ich würde mich freuen, die Kosenamen\n"
-	.string "deiner POKéMON bewerten zu dürfen.$"
+	.string "deiner Pokémon bewerten zu dürfen.$"
 
 SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Für welches POKéMON soll ich den\n"
+	.string "Für welches Pokémon soll ich den\n"
 	.string "Kosenamen bewerten?$"
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
@@ -83,7 +83,7 @@ SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe:
 	.string "Kosename lauten?$"
 
 SlateportCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Das ist ein besserer Name als der\n"
 	.string "vorherige. Welch ein Glück für dich!$"
@@ -93,7 +93,7 @@ SlateportCity_NameRatersHouse_Text_DoVisitAgain:
 	.string "Komm mich mal wieder besuchen.$"
 
 SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Eigentlich unterscheidet sich der Name\n"
 	.string "nicht von dem vorherigen, und doch ist\l"
@@ -108,5 +108,5 @@ SlateportCity_NameRatersHouse_Text_MagnificentName:
 
 SlateportCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
 	.string "Mhm, mhm…\n"
-	.string "Das ist eigentlich ein EI!$"
+	.string "Das ist eigentlich ein Ei!$"
 

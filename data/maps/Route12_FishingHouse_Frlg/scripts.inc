@@ -99,7 +99,7 @@ Route12_FishingHouse_EventScript_MagikarpRecordSignRecordSet::
 	end
 
 Route12_FishingHouse_Text_DoYouLikeToFish::
-	.string "Mein Bruder ist der PROFI-ANGLER!\p"
+	.string "Mein Bruder ist der Profi-Angler!\p"
 	.string "Ich liebe den Angelsport!\p"
 	.string "Möchtest du auch angeln?$"
 
@@ -109,8 +109,8 @@ Route12_FishingHouse_Text_TakeThisAndFish::
 	.string "Nimm das hier und gehe angeln!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-	.string "{PLAYER} received a SUPER ROD from\n"
-	.string "the FISHING GURU's brother.$"
+	.string "{PLAYER} received a Super Rod from\n"
+	.string "the Fishing Guru's brother.$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
 	.string "Angeln ist nicht nur ein Sport, es\n"
@@ -118,12 +118,12 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
 	.string "Nun ziehe los, um den großen Fang\n"
 	.string "zu landen!\p"
 	.string "Ich habe eine Bitte:\p"
-	.string "Fängst du mit dieser ANGEL\n"
-	.string "ein großes KARPADOR, möchte\l"
+	.string "Fängst du mit dieser Angel\n"
+	.string "ein großes Karpador, möchte\l"
 	.string "ich es sehen.\p"
 	.string "Meine Liebe zum Angeln steht\n"
 	.string "meiner Liebe für große\l"
-	.string "KARPADOR in nichts nach!$"
+	.string "Karpador in nichts nach!$"
 
 Route12_FishingHouse_Text_OhThatsDisappointing::
 	.string "Oh!\n"
@@ -131,16 +131,16 @@ Route12_FishingHouse_Text_OhThatsDisappointing::
 
 Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
 	.string "Hallo, {PLAYER}!\p"
-	.string "Benutze die SUPERANGEL in allen\n"
+	.string "Benutze die Superangel in allen\n"
 	.string "Gewässern.\p"
 	.string "Du kannst die verschiedensten\n"
-	.string "POKéMON damit fangen!\p"
+	.string "Pokémon damit fangen!\p"
 	.string "Und vergiss nicht, ein großes\n"
-	.string "KARPADOR für mich zu fangen.$"
+	.string "Karpador für mich zu fangen.$"
 
 Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
 	.string "Oh? {PLAYER}?\n"
-	.string "Wenn das nicht KARPADOR ist!\p"
+	.string "Wenn das nicht Karpador ist!\p"
 	.string "Darf ich es sehen, bitte!$"
 
 Route12_FishingHouse_Text_WhoaXInchesTakeThis::
@@ -169,7 +169,7 @@ Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
 
 Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
 	.string "Uh… das sieht gar nicht\n"
-	.string "wie ein KARPADOR aus!$"
+	.string "wie ein Karpador aus!$"
 
 Route12_FishingHouse_Text_NoRoomForGift::
 	.string "Oh nein!\p"
@@ -177,7 +177,7 @@ Route12_FishingHouse_Text_NoRoomForGift::
 	.string "Aber du kannst nichts mehr tragen!$"
 
 Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
-	.string "Das größte KARPADOR, das\n"
+	.string "Das größte Karpador, das\n"
 	.string "ich je sah, hatte…\p"
 	.string "{STR_VAR_3} cm!$"
 

@@ -14,22 +14,22 @@ Route2_ViridianForest_NorthEntrance_EventScript_CooltrainerF::
 	end
 
 Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
-	.string "Viele POKéMON leben in Höhlen und\n"
+	.string "Viele Pokémon leben in Höhlen und\n"
 	.string "Wäldern.\p"
 	.string "Du solltest dich überall umsehen,\n"
 	.string "um verschiedene zu finden!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-	.string "FLEGMON war hier, aber ich habe\n"
+	.string "Flegmon war hier, aber ich habe\n"
 	.string "ihn nicht verstehen können!\p"
 	.string "Ich glaube, er hat keine Zähne\n"
 	.string "mehr!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-	.string "FLEGMON hält zur Zeit eine\n"
+	.string "Flegmon hält zur Zeit eine\n"
 	.string "Werbekampagne.\p"
 	.string "Erreiche die abgelegenste\n"
-	.string "Stelle in der SAFARI-ZONE.\p"
+	.string "Stelle in der Safari-Zone.\p"
 	.string "Wenn du das schaffst, erhältst\n"
 	.string "du einen praktischen Preis!$"
 

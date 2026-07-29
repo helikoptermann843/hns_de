@@ -268,64 +268,64 @@ EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 	.string "dich hiermit…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
-	.string "MAIKE: {PLAYER}{KUN}!\p"
+	.string "Maike: {PLAYER}{KUN}!\p"
 	.string "Ich muss dir unbedingt einen Rat\n"
 	.string "geben,\l"
-	.string "bevor du gegen den CHAMP antrittst!$"
+	.string "bevor du gegen den Champ antrittst!$"
 
 EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
-	.string "MAIKE: Wie? Waswaswas?\p"
+	.string "Maike: Wie? Waswaswas?\p"
 	.string "{PLAYER}{KUN}… Das kann nicht sein…\l"
 	.string "Es ist schon vorbei?$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
-	.string "BRIX: {PLAYER}!\p"
+	.string "Brix: {PLAYER}!\p"
 	.string "Möchtest du nicht ein paar Tipps,\n"
-	.string "bevor du den CHAMP herausforderst?$"
+	.string "bevor du den Champ herausforderst?$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
-	.string "BRIX: {PLAYER}!\p"
+	.string "Brix: {PLAYER}!\p"
 	.string "Willst du mir etwa sagen…\n"
-	.string "Du hast den CHAMP besiegt?!?!?!$"
+	.string "Du hast den Champ besiegt?!?!?!$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
-	.string "PROF. BIRK: Siehst du?\n"
+	.string "Prof. Birk: Siehst du?\n"
 	.string "Was habe ich dir gesagt, {RIVAL}?\p"
 	.string "Ich wusste, du brauchst dir keine\n"
 	.string "Sorgen um {PLAYER}{KUN} zu machen!\p"
 	.string "… … … … … … … …\n"
 	.string "{PLAYER}{KUN}, du hast es geschafft.\p"
 	.string "Als ich hörte, dass du deinen Vater in\n"
-	.string "der ARENA von BLÜTENBURG CITY\p"
+	.string "der Arena von Blütenburg City\p"
 	.string "besiegt hast, wusste ich, dass du eine\n"
 	.string "Chance hast…\p"
-	.string "Aber, dass du dann sogar CHAMP\n"
+	.string "Aber, dass du dann sogar Champ\n"
 	.string "geworden bist!\p"
 	.string "Oh, ja!\p"
-	.string "Was ist aus deinem POKéDEX geworden?\n"
+	.string "Was ist aus deinem Pokédex geworden?\n"
 	.string "Lass mich mal sehen…$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
-	.string "PROF. BIRK: Also, dann sage ich:\n"
+	.string "Prof. Birk: Also, dann sage ich:\n"
 	.string "Herzlichen Glückwunsch!\p"
 	.string "Nun kannst du mit Stolz den letzten\n"
 	.string "Raum betreten!$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
-	.string "WASSILI: {PLAYER}{KUN}…\p"
+	.string "Wassili: {PLAYER}{KUN}…\p"
 	.string "Nein! Lass es mich richtig ausdrücken!\n"
 	.string "\p"
-	.string "Neuer CHAMP!\p"
+	.string "Neuer Champ!\p"
 	.string "Komm mit mir.$"
 
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
-	.string "WASSILI: Tut mir Leid, aber…\p"
-	.string "Diesen Raum dürfen nur TRAINER\n"
-	.string "betreten, die CHAMPs geworden sind.\p"
-	.string "Warte bitte draußen mit dem PROFESSOR.$"
+	.string "Wassili: Tut mir Leid, aber…\p"
+	.string "Diesen Raum dürfen nur Trainer\n"
+	.string "betreten, die Champs geworden sind.\p"
+	.string "Warte bitte draußen mit dem Professor.$"
 
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
-	.string "MAIKE: Grummel…\p"
+	.string "Maike: Grummel…\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Ich mache nur Spaß! Ist schon okay!\n"
@@ -334,7 +334,7 @@ EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
 	.string "Ehrlich. Herzlichen Glückwunsch!$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:
-	.string "BRIX: … … … … … …\n"
+	.string "Brix: … … … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Na, wenn es die Regeln so bestimmen…\p"
 	.string "{PLAYER}, das ist dein Tag!\n"

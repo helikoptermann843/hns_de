@@ -19,7 +19,7 @@ OlivineCity_PortOutside_Text_Sabrina:
 	.string "Sabrina: Aus dem blauen heraus,\n"
 	.string "habe ich das Bedürfnis,\l"
 	.string "das Meer zu sehen.\p"
-	.string "Triff mich zum kämpfen im DOJO.$"
+	.string "Triff mich zum kämpfen im Dojo.$"
 
 OlivineCity_PortOutside_EventScript_Fisherman1::
 	lock
@@ -38,7 +38,7 @@ OlivineCity_PortOutside_EventScript_Fisherman2::
 	end
 
 OlivineCity_PortOutside_Text_PortFisherman1:
-	.string "Die M.S.AQUA ist früher nur\n"
+	.string "Die M.S.Aqua ist früher nur\n"
 	.string "Montags und Freitags nach Kanto\l"
 	.string "gefahren, heutzutage fast täglich!$"
 

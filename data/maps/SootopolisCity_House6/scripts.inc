@@ -35,7 +35,7 @@ SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
 	.string "Hallo! Du bist nach langer Zeit der\n"
 	.string "erste Gast, den ich begrüße.\p"
 	.string "Du hast mir den Tag gerettet, daher\n"
-	.string "möchte ich dir diese WAILMER-PUPPE\l"
+	.string "möchte ich dir diese Wailmer-Puppe\l"
 	.string "schenken.$"
 
 SootopolisCity_House6_Text_TakeGoodCareOfIt:
@@ -48,9 +48,9 @@ SootopolisCity_House6_Text_IllHoldItForYou:
 
 SootopolisCity_House6_Text_DontWantThisDoll:
 	.string "Bist du sicher?\n"
-	.string "Du möchtest diese PUPPE wirklich\l"
+	.string "Du möchtest diese Puppe wirklich\l"
 	.string "nicht?$"
 
 SootopolisCity_House6_Text_LovePlushDolls:
-	.string "Ich liiiiebe Plüsch-PUPPEn!$"
+	.string "Ich liiiiebe Plüsch-Puppen!$"
 

@@ -15,6 +15,6 @@ OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
 	.string "Eine Art Hi-Tech-Transportsystem!$"
 
 OneIsland_House1_Text_LastTimeMtEmberErupted::
-	.string "Die SILPH CO. und das TEAM ROCKET\n"
+	.string "Die Silph Co. und das Team Rocket\n"
 	.string "werden demnächst fusionieren!$"
 

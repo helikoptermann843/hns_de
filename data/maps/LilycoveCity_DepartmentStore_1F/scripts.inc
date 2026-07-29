@@ -139,11 +139,11 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Willkommen im EINKAUFSZENTRUM von\n"
-	.string "SEEGRASULB CITY.$"
+	.string "Willkommen im Einkaufszentrum von\n"
+	.string "Seegrasulb City.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Immer wenn ich in das EINKAUFSZENTRUM\n"
+	.string "Immer wenn ich in das Einkaufszentrum\n"
 	.string "gehe, endet das damit, dass ich\n"
 	.string "tausend\l"
 	.string "Dinge kaufe, weil es so viel Spaß\n"
@@ -155,20 +155,20 @@ LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
 	.string "Ich kaufe etwas Schönes für mein\n"
-	.string "AZUMARILL, weil es einen WETTBEWERB\l"
+	.string "Azumarill, weil es einen Wettbewerb\l"
 	.string "gewonnen hat.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
-	.string "AZUMARILL: Maririroo!$"
+	.string "Azumarill: Maririroo!$"
 
 LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign:
-	.string "EG: INFORMATION\n"
-	.string "       LOTTERIE\p"
-	.string "1S: ALLES FÜR DEN TRAINER\p"
-	.string "2S: ALLES FÜR DEN KAMPF\p"
+	.string "EG: Information\n"
+	.string "       Lotterie\p"
+	.string "1S: Alles für den Trainer\p"
+	.string "2S: Alles für den Kampf\p"
 	.string "3S: TM\p"
-	.string "4S: POKéPUPPEN\p"
-	.string "DACH: DACHTERRASSE$"
+	.string "4S: Poképuppen\p"
+	.string "Dach: Dachterrasse$"
 
 @ Unused
 LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun:

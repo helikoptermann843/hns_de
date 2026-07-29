@@ -63,7 +63,7 @@ PokemonLeague_WillsRoom_EventScript_LanceOnDefeatJohto::
 	msgbox PokemonLeague_ChampionsRoom_Text_BattleAfter, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x3F2, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -131,7 +131,7 @@ PokemonLeague_WillsRoom_EventScript_LanceOnDefeatKanto::
 	msgbox PokemonLeague_ChampionsRoom_Text_BattleAfter, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x3F2, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -342,13 +342,12 @@ PokemonLeague_ChampionsRoom_Text_BattleIntro:
 	.string "nehme deine Herausforderung an!$"
 
 PokemonLeague_ChampionsRoom_Text_BattleWin:
-	.string "…Es ist vorbei.\p"
-	.string "Doch es fühlt sich seltsam an.\p"
-	.string "Ich bin nicht wütend über die\n"
-	.string "Niederlage.\p"
-	.string "Im Gegenteil, ich bin froh.\p"
-	.string "Froh, den Aufstieg eines neuen\n"
-	.string "großen CHAMPIONS gesehen zu haben!$"
+	.string "Es ist vorbei.\p"
+	.string "Ein seltsames Gefühl.\p"
+	.string "Ich bin nicht wütend, dass ich verloren\n"
+	.string "habe. Ich bin glücklich. Glücklich, dass\l"
+	.string "ich den Aufstieg eines neuen Champs\l"
+	.string "miterleben durfte.$"
 
 PokemonLeague_ChampionsRoom_Text_BattleAfter:
 	.string "…Puh.\p"
@@ -361,13 +360,13 @@ PokemonLeague_ChampionsRoom_Text_BattleAfter:
 
 PokemonLeague_ChampionsRoom_Text_MaryOhNoOak:
 	.string "Margit: Oh nein! Es ist vorbei!\p"
-	.string "PROF. Eich, wärst du nicht so langsam…$"
+	.string "Prof. Eich, wärst du nicht so langsam…$"
 
 PokemonLeague_ChampionsRoom_Text_OakCongratulations:
-	.string "PROF. Eich: Ah, {PLAYER}!\p"
+	.string "Prof. Eich: Ah, {PLAYER}!\p"
 	.string "Es ist lange her.\p"
 	.string "Du wirkst sehr beeindruckend.\p"
-	.string "Dein Sieg in der JOHTO-LIGA\n"
+	.string "Dein Sieg in der Johto-Liga\n"
 	.string "ist wirklich fantastisch!\p"
 	.string "Dein Einsatz, Vertrauen und\n"
 	.string "deine Liebe zu Pokémon\l"
@@ -401,7 +400,7 @@ PokemonLeague_ChampionsRoom_Text_RematchOakCongratulations:
 
 PokemonLeague_ChampionsRoom_Text_MaryInterview:
 	.string "Margit: Interview mit dem neuen\p"
-	.string "JOHTO-CHAMPION!$"
+	.string "Johto-Champion!$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryInterview:
 	.string "Margit: Interview mit dem neuen\p"
@@ -413,8 +412,8 @@ PokemonLeague_ChampionsRoom_Text_Noisy:
 	.string "{PLAYER}, komm bitte mit mir.$"
 
 PokemonLeague_ChampionsRoom_Text_MaryNoInterview:
-	.string "Margit: Moment! Das Interview\p"
-	.string "fehlt noch!$"
+	.string "Margit: Halt, Moment mal! Was wird denn\n"
+	.string "jetzt aus unserem Interview?$"
 
 PokemonLeague_ChampionsRoom_Text_RematchMaryNoInterview:
 	.string "Margit: Hey! Du kannst das\p"

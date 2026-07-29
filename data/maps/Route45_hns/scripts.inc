@@ -105,16 +105,15 @@ Route45_EventScript_Item_Nugget::
 	end
 
 Route45_Text_HikerErikSeen:
-    .string "Sei auf alles vorbereitet!\p"
-    .string "Ich will sehen, ob deine POKéMON\n"
-    .string "richtig trainiert wurden!$"
+	.string "Sei auf alles vorbereitet! Zeig mal, wie\n"
+	.string "gut du deine Pokémon trainiert hast!$"
 
 Route45_Text_HikerErikBeaten:
     .string "Oh, ich habe verloren!$"
 
 Route45_Text_HikerErikAfter:
-    .string "Ich gehe zurück zur EISPFAD in\n"
-    .string "EWIGAU und trainiere weiter.$"
+	.string "Ich gehe zum Eispfad bei Ebenholz City,\n"
+	.string "um noch etwas mehr zu trainieren.$"
 
 Route45_Text_HikerMichaelSeen:
     .string "Yo! Du hast echt viel Energie!\p"
@@ -123,58 +122,53 @@ Route45_Text_HikerMichaelSeen:
     .string "ich der Mann!$"
 
 Route45_Text_HikerMichaelBeaten:
-    .string "Meine POKéMON hatten nicht genug\n"
+    .string "Meine Pokémon hatten nicht genug\n"
     .string "Energie!$"
 
 Route45_Text_HikerMichaelAfter:
-    .string "Oh Mann, ich liebe KP-PLUS! Mmmh,\n"
-    .string "lecker!\p"
-    .string "Ich trinke ständig das meiner\n"
-    .string "POKéMON!\p"
-    .string "Ich kann nicht anders!$"
+	.string "Mensch, wie ich diese KP-Plus liebe! Mm,\n"
+	.string "lecker!\p"
+	.string "Ich trinke immer die von meinen\n"
+	.string "Pokémon! Ich kann nichts dagegen tun!$"
 
 Route45_Text_HikerParrySeen:
-    .string "Meine POKéMON sind voll mit Power!$"
+	.string "Meine Pokémon stecken voller Energie!$"
 
 Route45_Text_HikerParryBeaten:
-    .string "Wahahah! Ich bin der große Verlierer!$"
+	.string "Hahaha! Jetzt hast du’s mir aber richtig\n"
+	.string "gezeigt!$"
 
 Route45_Text_HikerParryAfter:
-    .string "Ich bin nicht gut im Nachdenken,\n"
-    .string "weißt du?\p"
-    .string "Also gehe ich einfach mit Kraft\n"
-    .string "voran!$"
+	.string "Mein Köpfchen ist nicht das schnellste,\n"
+	.string "weißt du? Deswegen setze ich auf Kraft.$"
 
 Route45_Text_ParryRegister:
-    .string "Ich bin nicht gut im Nachdenken,\n"
-    .string "weißt du?\p"
-    .string "Also gehe ich einfach mit Kraft\n"
-    .string "voran!$"
+	.string "Mein Köpfchen ist nicht das schnellste,\n"
+	.string "weißt du? Deswegen setze ich auf Kraft.$"
 
 Route45_Text_ParryRematchIntro:
-    .string "Meine POKéMON sind voll mit Power!$"
+	.string "Meine Pokémon stecken voller Energie!$"
 
 Route45_Text_ParryRematchDefeat:
-    .string "Wahahah! Ich bin der große Verlierer!$"
+	.string "Hahaha! Jetzt hast du’s mir aber richtig\n"
+	.string "gezeigt!$"
 
 Route45_Text_ParryPostRematch:
-    .string "Ich bin nicht gut im Nachdenken,\n"
-    .string "weißt du?\p"
-    .string "Also gehe ich einfach mit Kraft\n"
-    .string "voran!$"
+	.string "Mein Köpfchen ist nicht das schnellste,\n"
+	.string "weißt du? Deswegen setze ich auf Kraft.$"
 
 Route45_Text_HikerTimothySeen:
-    .string "Warum ich Berge besteige?\p"
-    .string "Weil sie da sind.\p"
-    .string "Warum ich POKéMON trainiere?\p"
-    .string "Weil sie da sind!$"
+	.string "Warum ich auf Berge klettere? Weil es\n"
+	.string "sie gibt.\p"
+	.string "Warum ich Pokémon trainiere?\p"
+	.string "Weil es sie gibt!$"
 
 Route45_Text_HikerTimothyBeaten:
     .string "Niederlagen… Die gibt es auch!$"
 
 Route45_Text_HikerTimothyAfter:
     .string "Das Beste, was mir je passiert ist,\n"
-    .string "war die Entdeckung von POKéMON.$"
+    .string "war die Entdeckung von Pokémon.$"
 
 Route45_Text_HikerParryGivesIron:
     .string "Ich finde einfach keinen Weg zu\n"
@@ -189,29 +183,26 @@ Route45_Text_BlackbeltKenjiSeen:
     .string "Sieh die Früchte meiner Arbeit!$"
 
 Route45_Text_BlackbeltKenjiBeaten:
-    .string "Waaaargh!$"
+	.string "Neiiin!$"
 
 Route45_Text_BlackbeltKenjiAfter:
-    .string "Das erfordert extreme Maßnahmen.\p"
-    .string "Ich muss in die Berge ziehen und\n"
-    .string "in Einsamkeit trainieren.$"
+	.string "Da helfen nur extreme Trainingsmaßnah-\n"
+	.string "men. Ich ziehe mich in die Berge zurück.$"
 
 Route45_Text_KenjiRegister:
-    .string "Das erfordert extreme Maßnahmen.\p"
-    .string "Ich muss in die Berge ziehen und\n"
-    .string "in Einsamkeit trainieren.$"
+	.string "Da helfen nur extreme Trainingsmaßnah-\n"
+	.string "men. Ich ziehe mich in die Berge zurück.$"
 
 Route45_Text_KenjiRematchIntro:
     .string "Ich habe hier allein trainiert.\p"
     .string "Sieh die Früchte meiner Arbeit!$"
 
 Route45_Text_KenjiRematchDefeat:
-    .string "Waaaargh!$"
+	.string "Neiiin!$"
 
 Route45_Text_KenjiPostRematch:
-    .string "Das erfordert extreme Maßnahmen.\p"
-    .string "Ich muss in die Berge ziehen und\n"
-    .string "in Einsamkeit trainieren.$"
+	.string "Da helfen nur extreme Trainingsmaßnah-\n"
+	.string "men. Ich ziehe mich in die Berge zurück.$"
 
 Route45_Text_KenjiHasItem:
     .string "Hey! Ich mache gerade eine Pause\n"
@@ -225,7 +216,7 @@ Route45_Text_KenjiGaveItem:
     .string "Oooooaaarrrgh!$"
 
 Route45_Text_KenjiNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"
 
 Route45_Text_BlackbeltKenjiMorning:
@@ -240,41 +231,42 @@ Route45_Text_BlackbeltKenjiNight:
     .string "Wir trainieren weiter!$"
 
 Route45_Text_CooltrainermRyanSeen:
-    .string "Was hältst du vom Training von\n"
-    .string "POKéMON?$"
+	.string "Was ist deine Philosophie, wenn es darum\n"
+	.string "geht, Pokémon großzuziehen?$"
 
 Route45_Text_CooltrainermRyanBeaten:
-    .string "Du hast meinen Respekt gewonnen.$"
+	.string "Du verdienst meinen vollen Respekt!$"
 
 Route45_Text_CooltrainermRyanAfter:
-    .string "Ich sehe, du ziehst deine POKéMON\n"
-    .string "mit Sorgfalt auf.\p"
-    .string "Die Bindung, die du aufbaust,\n"
-    .string "hilft dir in schweren Situationen.$"
+	.string "Wie ich sehe, ziehst du deine Pokémon\n"
+	.string "mit Sorgfalt auf.\p"
+	.string "Eure Freundschaft wird dich noch aus\n"
+	.string "so mancher Gefahr retten!$"
 
 Route45_Text_CooltrainerfKellySeen:
-    .string "Was ist deine Kampfstrategie?\p"
-    .string "Es ist töricht, starke Attacken\n"
-    .string "unüberlegt einzusetzen.$"
+	.string "Welche Strategie verwendest du im\n"
+	.string "Kampf?\p"
+	.string "Man darf nicht einfach nur willkürlich\n"
+	.string "starke Attacken einsetzen!$"
 
 Route45_Text_CooltrainerfKellyBeaten:
-    .string "Gut. Ich habe verloren.$"
+	.string "Gut. Dann habe ich eben verloren.$"
 
 Route45_Text_CooltrainerfKellyAfter:
     .string "Ich bin kein Fan übermäßig starker\n"
     .string "Attacken.\p"
     .string "Ich will gewinnen, aber ich will\n"
-    .string "POKéMON auch nicht verletzen.$"
+    .string "Pokémon auch nicht verletzen.$"
 
 Route45_Text_CamperQuentinSeen:
     .string "Ich bin wirklich, wirklich stark!$"
 
 Route45_Text_CamperQuentinBeaten:
-    .string "Ich war stark aufm TRAINER-HÜGEL…$"
+    .string "Ich war stark aufm Trainer-Hügel…$"
 
 Route45_Text_CamperQuentinAfter:
-    .string "Warst du schon im TRAINER-HÜGEL?\p"
+    .string "Warst du schon im Trainer-Hügel?\p"
     .string "Dort verliere ich nie, aber…$"
 
 Route45_Text_Sign:
-	.string "ROUTE 45 BERGWEG VORAUS$"
+	.string "Route 45 Bergweg voraus$"

@@ -52,31 +52,31 @@ Route15_WestEntrance_2F_EventScript_GetAideRequestInfo::
 
 Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
 	.string "Hallo! Erinnerst du dich?\n"
-	.string "Ich bin PROF. EICHs\l"
-	.string "ASSISTENT!\p"
+	.string "Ich bin Prof. Eichs\l"
+	.string "Assistent!\p"
 	.string "Wenn du mindestens {STR_VAR_1} verschiedene\n"
-	.string "POKéMON gefangen hast, habe ich\l"
+	.string "Pokémon gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich:\l"
 	.string "{STR_VAR_2}\p"
 	.string "Also, {PLAYER}, hast du {STR_VAR_1}\n"
-	.string "unterschiedliche POKéMON gefangen?$"
+	.string "unterschiedliche Pokémon gefangen?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
-	.string "Ich tausche POKéMON mit dem\n"
+	.string "Ich tausche Pokémon mit dem\n"
 	.string "Kind dort drüben!\p"
-	.string "Da ich zwei PIKACHU besaß, konnte\n"
+	.string "Da ich zwei Pikachu besaß, konnte\n"
 	.string "ich eines tauschen.$"
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
 	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the AIDE.$"
+	.string "from the Aide.$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
-	.string "Der EP-TEILER kann einem\n"
-	.string "POKéMON zum Tragen gegeben\l"
+	.string "Der EP-Teiler kann einem\n"
+	.string "Pokémon zum Tragen gegeben\l"
 	.string "werden.\l"
-	.string "Mit dem EP-TEILER bekommt das\l"
-	.string "POKéMON, das ihn trägt, nach einem\l"
+	.string "Mit dem EP-Teiler bekommt das\l"
+	.string "Pokémon, das ihn trägt, nach einem\l"
 	.string "Kampf E.-Punkte, ohne gekämpft\l"
 	.string "zu haben.$"
 

@@ -52,18 +52,18 @@ SilphCo_10F_Text_TravisDefeat::
 	.string "Meine Reserven sind erschöpft!$"
 
 SilphCo_10F_Text_TravisPostBattle::
-	.string "Die TRAINER hier sind auf dem Weg\n"
-	.string "zur POKéMON LIGA! Sei vorsichtig!$"
+	.string "Die Trainer hier sind auf dem Weg\n"
+	.string "zur Pokémon Liga! Sei vorsichtig!$"
 
 SilphCo_10F_Text_WaaaImScared::
 	.string "Hilfe!\n"
 	.string "Ich habe Angst!$"
 
 SilphCo_10F_Text_KeepMeCryingASecret::
-	.string "Du beschreitest die SIEGESSTRASSE\n"
+	.string "Du beschreitest die Siegesstraße\n"
 	.string "nicht ohne Grund!$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "Hast du wirklich GIOVANNI vom TEAM\n"
-	.string "ROCKET besiegt?$"
+	.string "Hast du wirklich Giovanni vom Team\n"
+	.string "Rocket besiegt?$"
 

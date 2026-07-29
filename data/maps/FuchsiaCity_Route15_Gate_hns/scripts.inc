@@ -7,5 +7,5 @@ Route15_EventScript_Officer::
 	end
 
 Route15FuchsiaGate_Text_Officer:
-	.string "Du arbeitest an einem DEX? Das\n"
+	.string "Du arbeitest an einem Dex? Das\n"
 	.string "ist doch schon etwas. Gib nicht auf!$"

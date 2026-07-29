@@ -258,11 +258,11 @@ MauvilleCity_Gym_EventScript_GymStatue::
 
 MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, wie sieht es aus, auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "WALTER, der ARENALEITER von\n"
-	.string "MALVENFROH CITY, setzt\l"
-	.string "ELEKTRO-POKéMON ein.\p"
-	.string "Wenn du ihn mit WASSER-POKéMON\n"
+	.string "Champ, {PLAYER}?\p"
+	.string "Walter, der Arenaleiter von\n"
+	.string "Malvenfroh City, setzt\l"
+	.string "Elektro-Pokémon ein.\p"
+	.string "Wenn du ihn mit Wasser-Pokémon\n"
 	.string "angreifst, macht er sie fertig!\n"
 	.string "Britzel! \p"
 	.string "Und die Türen lassen sich nur mit\n"
@@ -361,26 +361,26 @@ MauvilleCity_Gym_Text_WattsonDefeat:
 	.string "Orden!$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
-	.string "{PLAYER} hat den DYNAMO-ORDEN von\n"
-	.string "WALTER erhalten.$"
+	.string "{PLAYER} hat den Dynamo-Orden von\n"
+	.string "Walter erhalten.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
-	.string "Mit dem DYNAMO-ORDEN können POKéMON\n"
-	.string "ZERTRÜMMERER auch außerhalb eines\l"
+	.string "Mit dem Dynamo-Orden können Pokémon\n"
+	.string "Zertrümmerer auch außerhalb eines\l"
 	.string "Kampfes einsetzen.\p"
-	.string "Und außerdem werden deine POKéMON ein\n"
+	.string "Und außerdem werden deine Pokémon ein\n"
 	.string "kleines bisschen schneller.\p"
 	.string "Hmm…\n"
 	.string "Dies hier solltest du auch nehmen!$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
-	.string "Dies ist TM34 - SCHOCKWELLE.\p"
+	.string "Dies ist TM34 - Schockwelle.\p"
 	.string "Eine verlässliche Attacke, die niemals\n"
 	.string "daneben geht! Verlass dich drauf!\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "ARENALEITER WALTER wurde im POKéNAV-\n"
+	.string "Arenaleiter Walter wurde im Pokénav-\n"
 	.string "Verzeichnis eingetragen.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
@@ -394,11 +394,11 @@ MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
 	.string "Mach weiter so, streng dich an, Kind!$"
 
 MauvilleCity_Gym_Text_GymStatue:
-	.string "POKéMON ARENA von MALVENFROH CITY$"
+	.string "Pokémon Arena von Malvenfroh City$"
 
 MauvilleCity_Gym_Text_GymStatueCertified:
-	.string "POKéMON ARENA von MALVENFROH CITY\p"
-	.string "WALTERS ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Malvenfroh City\p"
+	.string "Walters anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch:

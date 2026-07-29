@@ -269,7 +269,7 @@ DewfordTown_Hall_Text_GettingBoredOfTrend:
 	.string "umsehen.$"
 
 DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "Ich bringe meinen POKéMON etwas über\n"
+	.string "Ich bringe meinen Pokémon etwas über\n"
 	.string "“{STR_VAR_1}” bei,\l"
 	.string "aber es klappt nicht so recht.\p"
 	.string "Scheinbar sind sie damit überfordert.$"
@@ -317,32 +317,32 @@ DewfordTown_Hall_Text_CollectTrendMerchandise:
 	.string "Und ich gebe dir nichts ab! Ätsch!$"
 
 DewfordTown_Hall_Text_BooksAboutTrend:
-	.string "GUTE “{STR_VAR_1}” &\n"
-	.string "SCHLECHTE\l"
+	.string "Gute “{STR_VAR_1}” &\n"
+	.string "Schlechte\l"
 	.string "“{STR_VAR_1}”…\p"
-	.string "DAS BAND ZWISCHEN\n"
+	.string "Das Band Zwischen\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "UND POKéMON…\p"
-	.string "HILFREICHE “{STR_VAR_1}”…\p"
+	.string "Und Pokémon…\p"
+	.string "Hilfreiche “{STR_VAR_1}”…\p"
 	.string "Es ist total voll gestopft mit Büchern\n"
 	.string "über “{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_TrendsScream:
-	.string "“DER RUF VON\n"
+	.string "“Der Ruf von\n"
 	.string "{STR_VAR_1}”\l"
 	.string "ist der Titel.$"
 
 DewfordTown_Hall_Text_TrendsSmile:
-	.string "“DAS LÄCHELN VON\n"
+	.string "“Das Lächeln von\n"
 	.string "{STR_VAR_1}”\l"
 	.string "ist der Titel.$"
 
 DewfordTown_Hall_Text_LastTrend:
-	.string "Es heißt “DAS LETZTE\n"
+	.string "Es heißt “das Letzte\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_BirthOfTrend:
-	.string "Es heißt “DIE GEBURT EINES\n"
+	.string "Es heißt “die Geburt eines\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
@@ -412,7 +412,7 @@ DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
 	.string "im Schlafen.\p"
 	.string "Du bist mit Sicherheit der\n"
 	.string "“{STR_VAR_1}”-\l"
-	.string "PROFESSOR!$"
+	.string "Professor!$"
 
 DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
 	.string "Wenn du und ich ein Team bilden,\n"
@@ -422,22 +422,22 @@ DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
 DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Licht an, mein Freund!\p"
 	.string "Wir sind das\n"
-	.string "“{STR_VAR_1}”-DUO!\p"
+	.string "“{STR_VAR_1}”-Duo!\p"
 	.string "Ist das nicht eine irre Vorstellung?\n"
 	.string "Hahahaha!$"
 
 DewfordTown_Hall_Text_GiveYouSludgeBomb:
-	.string "Für mich ist MATSCHBOMBE das absolut\n"
+	.string "Für mich ist Matschbombe das absolut\n"
 	.string "Größte!\p"
 	.string "Wie? Du willst mir doch nicht\n"
-	.string "weismachen, dass du MATSCHBOMBE\l"
+	.string "weismachen, dass du Matschbombe\l"
 	.string "nicht kennst?\p"
 	.string "Das ist aber jammerschade.\n"
 	.string "Ich werde dir eine geben.$"
 
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
-	.string "Ich liebe MATSCHBOMBE.\p"
-	.string "Aber POKéMON, die\n"
+	.string "Ich liebe Matschbombe.\p"
+	.string "Aber Pokémon, die\n"
 	.string "“{STR_VAR_1}” kennen,\l"
 	.string "sind auch absolut angesagt.$"
 

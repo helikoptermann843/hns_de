@@ -284,19 +284,19 @@ DewfordTown_Gym_EventScript_GymStatue::
 
 DewfordTown_Gym_Text_GymGuideAdvice:
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "FAUSTAUHAVENs ARENALEITER KAMILLO\n"
-	.string "besitzt KAMPF-POKéMON.\p"
-	.string "Wenn du dort NORMAL-POKéMON antreten\n"
+	.string "Champ, {PLAYER}?\p"
+	.string "Faustauhavens Arenaleiter Kamillo\n"
+	.string "besitzt Kampf-Pokémon.\p"
+	.string "Wenn du dort Normal-Pokémon antreten\n"
 	.string "lässt, sind Probleme vorprogrammiert!\n"
 	.string "\p"
-	.string "KAMPF-POKéMON schlagen die NORMALEN\n"
-	.string "POKéMON einfach nieder. Pass gut auf!\n"
+	.string "Kampf-Pokémon schlagen die Normalen\n"
+	.string "Pokémon einfach nieder. Pass gut auf!\n"
 	.string "\p"
-	.string "Und das Schlimme ist: Die ARENA ist\n"
+	.string "Und das Schlimme ist: Die Arena ist\n"
 	.string "dunkel wie die Tiefsee!\p"
-	.string "Aber mit jedem TRAINER, den du auf dem\n"
-	.string "Weg zum ARENALEITER besiegst, wird sie\l"
+	.string "Aber mit jedem Trainer, den du auf dem\n"
+	.string "Weg zum Arenaleiter besiegst, wird sie\l"
 	.string "heller!\p"
 	.string "Also, dann leg mal los!$"
 
@@ -406,28 +406,28 @@ DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Nimm den Orden dieser Arena!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} erhält den KNÖCHELORDEN von\n"
-	.string "KAMILLO.$"
+	.string "{PLAYER} erhält den Knöchelorden von\n"
+	.string "Kamillo.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
-	.string "Dank des KNÖCHELORDENs werden dir alle\n"
-	.string "POKéMON bis Level 30 gehorchen, auch\l"
+	.string "Dank des Knöchelordens werden dir alle\n"
+	.string "Pokémon bis Level 30 gehorchen, auch\l"
 	.string "die, die du durch Tausch erhalten\n"
 	.string "hast. \p"
-	.string "Und du kannst die VM BLITZ auch\n"
+	.string "Und du kannst die VM Blitz auch\n"
 	.string "außerhalb eines Kampfes anwenden.\p"
 	.string "Und wenn du magst, kannst du auch\n"
-	.string "diese TECHNISCHE MASCHINE anwenden.$"
+	.string "diese Technische Maschine anwenden.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "Die TM08 enthält PROTZER.\p"
+	.string "Die TM08 enthält Protzer.\p"
 	.string "Diese Attacke hebt den Status des\n"
-	.string "ANGRIFFs und der VERTEIDIGUNG.\p"
+	.string "Angriffs und der Verteidigung.\p"
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "ARENALEITER KAMILLO wurde\n"
-	.string "im POKéNAV eingetragen.$"
+	.string "Arenaleiter Kamillo wurde\n"
+	.string "im Pokénav eingetragen.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "Ich sehe in dir ein Talent, das eines\n"
@@ -436,11 +436,11 @@ DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "Trainern entfachen wird!$"
 
 DewfordTown_Gym_Text_GymStatue:
-	.string "POKéMON ARENA von FAUSTAUHAVEN$"
+	.string "Pokémon Arena von Faustauhaven$"
 
 DewfordTown_Gym_Text_GymStatueCertified:
-	.string "POKéMON ARENA von FAUSTAUHAVEN\p"
-	.string "KAMILLOS ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Faustauhaven\p"
+	.string "Kamillos anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:

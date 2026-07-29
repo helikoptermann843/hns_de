@@ -224,23 +224,23 @@ TrainerTower_Lobby_EventScript_BaldingMan::
 
 TrainerTower_Lobby_Text_WelcomeToTrainerTower::
 	.string "Hallo!\p"
-	.string "Willkommen im TRAINERTURM,\n"
-	.string "wo sich TRAINER von nah und\l"
+	.string "Willkommen im Trainerturm,\n"
+	.string "wo sich Trainer von nah und\l"
 	.string "fern versammeln.$"
 
 TrainerTower_Lobby_Text_TrainersUpToFloorNum::
-	.string "TRAINER aus aller Herren Länder\n"
+	.string "Trainer aus aller Herren Länder\n"
 	.string "kommen hierher, um zu kämpfen.\p"
 	.string "Lass mich mal sehen…\p"
-	.string "Momentan findest du TRAINER\n"
+	.string "Momentan findest du Trainer\n"
 	.string "bis in Stockwerk {STR_VAR_1}.$"
 
 TrainerTower_Lobby_Text_TrainersUpEighthFloor::
 	.string "Bis zum achten Stock erwarten\n"
-	.string "TRAINER deine Herausforderung.$"
+	.string "Trainer deine Herausforderung.$"
 
 TrainerTower_Lobby_Text_LikeToChallengeTrainers::
-	.string "Möchtest du die wartenden TRAINER\n"
+	.string "Möchtest du die wartenden Trainer\n"
 	.string "herausfordern?$"
 
 TrainerTower_Lobby_Text_StartClockGetSetGo::
@@ -264,7 +264,7 @@ TrainerTower_Lobby_Text_GiveItYourBest::
 	.string "Ich hoffe, du strengst dich wirklich an!$"
 
 TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
-	.string "Tauschen die TRAINER ihre Plätze, kann\n"
+	.string "Tauschen die Trainer ihre Plätze, kann\n"
 	.string "es hektisch werden.\p"
 	.string "Um eine Panik zu vermeiden, haben wir\n"
 	.string "die Rezeption hierher verlegt.\p"
@@ -272,7 +272,7 @@ TrainerTower_Lobby_Text_MoveCounterHereWhenTrainersSwitch::
 
 TrainerTower_Roof_Text_ImOwnerBattledPerfectly::
 	.string "Hallo…\p"
-	.string "Mir gehört dieser TURM…\p"
+	.string "Mir gehört dieser Turm…\p"
 	.string "Wie der Himmel über dem Dach\n"
 	.string "emporsteigt…\p"
 	.string "Die Macht des Windes hier oben…\p"
@@ -312,13 +312,13 @@ TrainerTower_Lobby_Text_HereAreTheResults::
 TrainerTower_Lobby_Text_NeedTwoMonsForDouble::
 	.string "Dies ist ein Zwei-gegen-Zwei-Kampf!\p"
 	.string "Du musst mindestens zwei\n"
-	.string "POKéMON mitbringen.$"
+	.string "Pokémon mitbringen.$"
 
 TrainerTower_Lobby_Text_ExplainTrainerTower::
-	.string "Hier im TRAINERTURM gibt es\n"
-	.string "unter anderem den BESTZEIT-Modus.\l"
+	.string "Hier im Trainerturm gibt es\n"
+	.string "unter anderem den Bestzeit-Modus.\l"
 	.string "Es wird gestoppt, wie lange du von\l"
-	.string "der Rezeption zum EIGENTÜMER\l"
+	.string "der Rezeption zum Eigentümer\l"
 	.string "auf dem Dach brauchst.\l"
 	.string "Die besten Zeiten werden an der\l"
 	.string "Rekordtafel präsentiert.\l"
@@ -333,7 +333,7 @@ TrainerTower_Lobby_Text_ThanksForCompeting::
 TrainerTower_Lobby_Text_WonderWhatKindsOfTrainers::
 	.string "Ich möchte herausfinden, wie gut\n"
 	.string "ich bin.\p"
-	.string "Ich bin gespannt, welche TRAINER\n"
+	.string "Ich bin gespannt, welche Trainer\n"
 	.string "auf mich warten.\p"
 	.string "Das ist nervenaufreibend!$"
 

@@ -44,7 +44,7 @@ GoldenrodCity_BillsHouse_EventScript_Bill_Eevee::
 	givenamedmon 3
 	call Common_EventScript_GiftMonNamed
 
-    
+
 
 	setflag FLAG_GOT_EEVEE
 	msgbox BillHouse_Text_EeveeMayEvolve, MSGBOX_DEFAULT
@@ -60,11 +60,11 @@ GoldenrodCity_BillsHouse_EventScript_Bill_Refused::
 	end
 
 BillHouse_Text_TakeThisEevee:
-	.string "BILL: Hi, {PLAYER}!\p"
+	.string "Bill: Hi, {PLAYER}!\p"
 	.string "Tu uns einen Gefallen und nimm dieses\n"
-	.string "EVOLI.\p"
+	.string "Evoli.\p"
 	.string "Es kam hierher,\n"
-	.string "als ich an der ZEITKAPSEL gearbeitet\l"
+	.string "als ich an der Zeitkapsel gearbeitet\l"
 	.string "habe.\p"
 	.string "Jemand sollte sich darum kümmern,\n"
 	.string "aber ich gehe nicht gerne raus.\p"
@@ -72,7 +72,7 @@ BillHouse_Text_TakeThisEevee:
 	.string "mit ihm spielen, {PLAYER}?$"
 
 BillHouse_Text_CountingOnYou:
-	.string "BILL: Ich wusste, dass du es\n"
+	.string "Bill: Ich wusste, dass du es\n"
 	.string "schaffst! Noch ein kleines Stück!\p"
 	.string "Du bist einzigartig!\p"
 	.string "O.K., ich zähle auf dich.\p"
@@ -82,7 +82,7 @@ BillHouse_Text_ReceivedEevee:
 	.string "{PLAYER} erhält Evoli!$"
 
 BillHouse_Text_EeveeMayEvolve:
-	.string "BILL: PROF. LIND sagt, EVOLI kann\n"
+	.string "Bill: Prof. Lind sagt, Evoli kann\n"
 	.string "sich in neue, unbekannte\l"
 	.string "Arten entwickeln.$"
 
@@ -91,24 +91,24 @@ BillHouse_Text_PartyFull:
 	.string "keinen Platz mehr in deinem Team.$"
 
 BillHouse_Text_NoEevee:
-	.string "Oh… Was soll ich tun?$"
+	.string "Oh, verstehe…$"
 
 BillHouse_Text_PopWontWork:
-	.string "BILL: Mein Paps arbeitet nicht.\p"
+	.string "Bill: Mein Paps arbeitet nicht.\p"
 	.string "Er geht den ganzen Tag müßig.\p"
 	.string "Er fängt an, zu nerven…$"
 
 BillHouse_Text_MomBeforeEcruteak:
 	.string "Oh, du sammelst Pokémon?\p"
-	.string "Mein Sohn BILL ist ein Experte.\p"
-	.string "Er wurde gerade in das Pokémon-CENTER\n"
-	.string "von TEAK CITY gerufen.\p"
-	.string "Mein Mann ging in die SPIELHALLE,\p"
+	.string "Mein Sohn Bill ist ein Experte.\p"
+	.string "Er wurde gerade in das Pokémon-Center\n"
+	.string "von Teak City gerufen.\p"
+	.string "Mein Mann ging in die Spielhalle,\p"
 	.string "ohne vorher anzurufen…$"
 
 BillHouse_Text_MomAfterEcruteak:
-	.string "Mein Mann war als MANIAC bekannt.\p"
-	.string "BILL muss nach seinem Vater kommen.$"
+	.string "Mein Mann war als Maniac bekannt.\p"
+	.string "Bill muss nach seinem Vater kommen.$"
 
 BillHouse_Text_SisterUsefulNumber:
 	.string "Bist du ein Trainer?\p"
@@ -116,20 +116,20 @@ BillHouse_Text_SisterUsefulNumber:
 	.string "nützliche Telefonnummer für dich.$"
 
 BillHouse_Text_RecordedBillsNumber:
-	.string "{PLAYER} speichert BILLs Nummer.$"
+	.string "{PLAYER} speichert Bills Nummer.$"
 
 BillHouse_Text_SisterRefusedNumber:
 	.string "Mein Bruder hat\n"
-	.string "das PC-PokémonLAGERUNGS-SYSTEM\l"
+	.string "das PC-PokémonLagerungs-System\l"
 	.string "erfunden.\p"
 	.string "Ich wollte dir gerade\n"
-	.string "BILLs Nummer geben…$"
+	.string "Bills Nummer geben…$"
 
 BillHouse_Text_SisterPhoneFull:
 	.string "Du kannst keine\n"
 	.string "Nummern mehr speichern.$"
 
 BillHouse_Text_SisterStorageSystem:
-	.string "Mein großer Bruder BILL\n"
-	.string "hat das PC-LAGERUNGSSYSTEM\l"
+	.string "Mein großer Bruder Bill\n"
+	.string "hat das PC-Lagerungssystem\l"
 	.string "erfunden.$"

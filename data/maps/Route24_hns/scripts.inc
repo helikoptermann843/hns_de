@@ -117,7 +117,7 @@ Route24_Movement_GruntLeave:
 
 Route24_Text_RocketSeen:
 	.string "Hey, Minimensch!\n"
-	.string "Ich sein von TEAM ROCKET.\p"
+	.string "Ich sein von Team Rocket.\p"
 	.string "Sein aus fremde\n"
 	.string "Land, Trainer eins ich sein!\p"
 	.string "Geglaubt, wenn nix Energie mehr,\n"
@@ -153,7 +153,7 @@ Route24_Text_RocketAfter:
 
 Route24_Text_RocketDisappears:
 	.string "…\p"
-	.string "Was du sagen? TEAM ROCKET nix mehr\n"
+	.string "Was du sagen? Team Rocket nix mehr\n"
 	.string "gibt? Kaputt gemacht, du sagen?\p"
 	.string "Oh, nein! Ich tun was jetzt machen?$"
 
@@ -173,4 +173,4 @@ Route24_Text_ManRocket:
 Route24_Text_WomanAfterRocket:
 	.string "Was sollte das denn?$"
 Route24_Text_ManAfterRocket:
-	.string "War das etwa ein ROCKET?$"
+	.string "War das etwa ein Rocket?$"

@@ -67,7 +67,7 @@ GoldenrodDeptStore_Text_5FReceptionistOhYourMon:
 
 GoldenrodDeptStore_Text_5FReceptionistWait:
 	.string "Willkommen im\n"
-	.string "KAUFHAUS von DUKATIA CITY.$"
+	.string "Kaufhaus von Dukatia City.$"
 
 GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "Hmm…\p"
@@ -77,9 +77,10 @@ GoldenrodDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "etwas mehr anstrengen.$"
 
 GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
-	.string "Es hängt sehr an dir.\p"
-	.string "Diese Attacke\n"
-	.string "passt genau zu euch beiden.$"
+	.string "Es hängt sehr an dir, nicht wahr? Ein\n"
+	.string "eingespieltes Team, wie ihr es seid, weiß\l"
+	.string "doch bestimmt, wie man mit dieser\l"
+	.string "Attacke hier umzugehen hat.$"
 
 GoldenrodDeptStore_Text_5FLass:
 	.string "Sonntags kommt eine Dame,\n"
@@ -87,11 +88,10 @@ GoldenrodDeptStore_Text_5FLass:
 	.string "Sie verteilt sogar TMs!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
-	.string "Ein Pokémon, das\n"
-	.string "du durch Tausch erhalten hast, kannst\l"
-	.string "du nicht umbenennen.\p"
-	.string "Der Name spiegelt die Gefühle des\n"
-	.string "Original-Trainers wieder.$"
+	.string "Ein Pokémon, das du im Tausch erhalten\n"
+	.string "hast, kannst du nicht umbenennen.\p"
+	.string "Der Name spiegelt nämlich die Gefühle\n"
+	.string "des Original-Trainers wider.$"
 
 GoldenrodDeptStore_Text_Girl:
 	.string "Technische Maschinen!\p"
@@ -123,5 +123,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-	.string "Rüste deine - MON auf.\p"
-	.string "4S TM-ECKE$"
+	.string "Rüste deine - Mon auf.\p"
+	.string "4S TM-Ecke$"

@@ -54,7 +54,7 @@ OlivineCity_EventScript_CityTrigger:: @FLAGHEAP
 	clearflag FLAG_HIDE_LIGHTHOUSE_JASMINE
 	clearflag FLAG_HIDE_WHIRL_ISLANDS_TENTACRUEL
 	setvar VAR_GETFLY, 0
-	
+
 	setvar VAR_OLIVINE_CITY_STATE, 1
 
 	@cianwood flags
@@ -70,7 +70,7 @@ OlivineCity_EventScript_SilverTrigger::
 	opendoor 11, 27
 	addobject LOCALID_OLIVINE_SILVER
 	playbgm MUS_HG_ENCOUNTER_RIVAL, TRUE
-	delay 20 
+	delay 20
 	closedoor 11, 27
 	getplayerxy VAR_TEMP_0, VAR_TEMP_1
 	call_if_eq VAR_TEMP_1, 28, OlivineCity_EventScript_SilverWalkToPlayer1
@@ -258,11 +258,11 @@ OlivineCity_EventScript_EonTicketWomanAfter::
 	end
 
 OlivineCity_Text_CafeSign:
-	.string "OLIVIANA CITY CAFE\p"
+	.string "Oliviana City Cafe\p"
 	.string "Lachs und Aal, Phänomenal.$"
 
 OlivineCity_Text_EonTicketWoman1:
-	.string "Ich bin MARY!\p"
+	.string "Ich bin Mary!\p"
 	.string "Ich mache nur Spaß!\n"
 	.string "Aber ich mag ihre Radiosendung!$"
 
@@ -270,7 +270,7 @@ OlivineCity_Text_EonTicketWoman2:
 	.string "Du musst {PLAYER} sein!!!\p"
 	.string "Oh mein Gott! Der Champion!\p"
 	.string "Ich hörte von dir in\n"
-	.string "MARYs Radiosendung!\p"
+	.string "Marys Radiosendung!\p"
 	.string "Hier, nimm das!$"
 
 OlivineCity_Text_EonTicketWoman3:
@@ -299,12 +299,12 @@ OlivineCity_Text_Sailor2:
 	.string "Yo-ho! Seebären sind so cool!…$"
 
 OlivineCity_Text_Sign:
-	.string "OLIVIANA CITY\p"
+	.string "Oliviana City\p"
 	.string "Das Tor zu einer neuen Welt$"
 
 OlivineCity_Text_PortSign:
-	.string "HAFEN von OLIVIANA\n"
-	.string "CITY SCHNELLBOOT-PIER$"
+	.string "Hafen von Oliviana\n"
+	.string "City Schnellboot-Pier$"
 
 OlivineCity_Text_GymSign:
 	.string "Pokémon-Arena von Oliviana City\n"
@@ -317,7 +317,7 @@ OlivineCity_Text_LighthouseSign:
 	.string "Glitzer-Leuchtturm$"
 
 OlivineCity_Text_BattleTowerSign:
-	.string "DUELLTURM VORAUS Geöffnet!$"
+	.string "Duellturm Voraus Geöffnet!$"
 
 OlivineCity_Text_Machoke:
-	.string "Maschock: CHO!$"
+	.string "Maschock: Cho!$"

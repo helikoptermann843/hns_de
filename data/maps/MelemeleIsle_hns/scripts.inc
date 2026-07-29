@@ -644,7 +644,7 @@ Alola_Melemele_BattleSandygast_Text_0:
 	.string "Coorr!$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_0:
-	.string "ALOLA!$"
+	.string "Alola!$"
 
 Alola_Melemele_SamsonOak_Trigger_Beginning_Text_1:
 	.string "Welcome to the Alola Isles!$"
@@ -727,7 +727,7 @@ Alola_Melemele_Totem_sign_Text_4:
 	.string "Poni Isle$"
 
 Alola_Melemele_Totem_sign_Text_5:
-	.string "ZURÜCK$"
+	.string "Zurück$"
 
 Alola_Melemele_Totem_sign_Text_6:
 	.string "A strange totem stands here,\n"

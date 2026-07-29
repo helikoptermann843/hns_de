@@ -53,7 +53,7 @@ NewBarkTown_PlayersHouse_2F_Movement_PlayerWalkToClock1:
 	delay_8
 	step_end
 
-NewBarkTown_PlayersHouse_2F_Movement_PlayerWalkToClock2:	
+NewBarkTown_PlayersHouse_2F_Movement_PlayerWalkToClock2:
 	walk_up
 	delay_8
 	step_end

@@ -2,7 +2,7 @@ CinnabarIsland_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, CinnabarIsland_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
-	
+
 CinnabarIsland_OnTransition:
 	setflag FLAG_VISITED_CINNABAR_ISLAND
 	callnative SetTimeBasedEncounters
@@ -26,7 +26,7 @@ CinnabarIsland_Text_Blaine:
 	.string "bis zu dem Tag an dem die\l"
 	.string "Die Zinnoberinsel Arena wieder\l"
 	.string "aufgebaut wurde!\p"
-	.string "Bis dahin bin ich im Kampf DOJO\n"
+	.string "Bis dahin bin ich im Kampf Dojo\n"
 	.string "Wir sehen uns.$"
 
 
@@ -55,7 +55,7 @@ CinnabarIsland_Text_BlueBefore:
 	.string "Es ist offensichtlich, dass du\n"
 	.string "ein Trainer bist…\p"
 	.string "Ich heiße Blau.\p"
-	.string "Ich war einst der CHAMPION, auch\n"
+	.string "Ich war einst der Champion, auch\n"
 	.string "wenn nur für kurze Zeit…\p"
 	.string "Dieser Rot hat mir dazwischengefunkt…\n"
 	.string "...\p"
@@ -85,7 +85,7 @@ CinnabarIsland_Text_Blue:
 	.string "Es ist offensichtlich, dass du\n"
 	.string "ein Trainer bist…\p"
 	.string "Ich heiße Blau.\p"
-	.string "Ich war einst der CHAMPION, auch\n"
+	.string "Ich war einst der Champion, auch\n"
 	.string "wenn nur für kurze Zeit…\p"
 	.string "Dieser Rot hat mir dazwischengefunkt…\n"
 	.string "...\p"

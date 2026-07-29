@@ -144,17 +144,17 @@ MtMoon_B2F_Text_MiguelDefeat::
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
 	.string "Heh, nicht so gierig!\n"
-	.string "Ich sagte, ich gebe dir EINES ab!$"
+	.string "Ich sagte, ich gebe dir eines ab!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
 	.string "All right.\n"
 	.string "Then this fossil is mine!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
-	.string "Auf der fernen ZINNOBERINSEL\n"
-	.string "gibt es ein POKéMON-LABOR.\p"
+	.string "Auf der fernen Zinnoberinsel\n"
+	.string "gibt es ein Pokémon-Labor.\p"
 	.string "Dort versucht man, aus fossilem\n"
-	.string "Gen-Material POKéMON zu\l"
+	.string "Gen-Material Pokémon zu\l"
 	.string "erschaffen.$"
 
 MtMoon_B2F_Text_Grunt1Intro::
@@ -202,17 +202,17 @@ MtMoon_B2F_Text_Grunt4Defeat::
 
 MtMoon_B2F_Text_Grunt4PostBattle::
 	.string "Schon lange vor den Menschen\n"
-	.string "haben POKéMON hier gelebt...$"
+	.string "haben Pokémon hier gelebt...$"
 
 MtMoon_B2F_Text_YouWantDomeFossil::
-	.string "Möchtest du das DOMFOSSIL?$"
+	.string "Möchtest du das Domfossil?$"
 
 MtMoon_B2F_Text_YouWantHelixFossil::
-	.string "Möchtest du das HELIXFOSSIL?$"
+	.string "Möchtest du das Helixfossil?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-	.string "Obtained the HELIX FOSSIL!$"
+	.string "Obtained the Helix Fossil!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-	.string "Obtained the DOME FOSSIL!$"
+	.string "Obtained the Dome Fossil!$"
 

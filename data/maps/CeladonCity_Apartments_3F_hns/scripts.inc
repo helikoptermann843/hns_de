@@ -27,28 +27,28 @@ CeladonCity_Apartments_3F_EventScript_CharacterDesigner::
 
 GameFreak_Text_GameDesigner:
 	.string "Ist das richtig?\p"
-	.string "Ich bin der SPIELDESIGNER!\p"
-	.string "Deinen POKéDEX zu füllen ist schwer,\n"
+	.string "Ich bin der Spieldesigner!\p"
+	.string "Deinen Pokédex zu füllen ist schwer,\n"
 	.string "aber gib nicht auf!$"
 
 GameFreak_Text_GameDesignerCompletedPokedex:
 	.string "Wow! Hervorragend! Du hast\n"
-	.string "deinen POKéDEX vervollständigt!\p"
+	.string "deinen Pokédex vervollständigt!\p"
 	.string "Herzlichen Glückwunsch!$"
 
 GameFreak_Text_GraphicArtist:
-	.string "Ich bin der GRAFIKDESIGNER.\p"
+	.string "Ich bin der Grafikdesigner.\p"
 	.string "Ich habe dich gezeichnet!$"
 
 GameFreak_Text_GraphicArtistPrintDiploma:
-	.string "Ich bin der GRAFIKDESIGNER.\p"
-	.string "Oh, du hast deinen POKéDEX\n"
+	.string "Ich bin der Grafikdesigner.\p"
+	.string "Oh, du hast deinen Pokédex\n"
 	.string "vervollständigt?\p"
-	.string "Willst du, dass ich dein DIPLOM\n"
+	.string "Willst du, dass ich dein Diplom\n"
 	.string "ausdrucke?$"
 
 GameFreak_Text_GraphicArtistRefused:
-	.string "Sag Bescheid, wenn du dein DIPLOM\n"
+	.string "Sag Bescheid, wenn du dein Diplom\n"
 	.string "ausgedruckt haben willst.$"
 
 GameFreak_Text_GraphicArtistError:
@@ -56,11 +56,11 @@ GameFreak_Text_GraphicArtistError:
 	.string "Druck abbrechen.$"
 
 GameFreak_Text_Programmer:
-	.string "Wer, ich? Ich bin der PROGRAMMIERER.\p"
+	.string "Wer, ich? Ich bin der Programmierer.\p"
 	.string "Spiel die Spielautomaten!$"
 
 GameFreak_Text_CharacterDesigner:
-	.string "Sind die ZWILLINGE nicht süß?\p"
+	.string "Sind die Zwillinge nicht süß?\p"
 	.string "Jasmin ist auch hübsch.\p"
 	.string "Oh, ich liebe sie!$"
 

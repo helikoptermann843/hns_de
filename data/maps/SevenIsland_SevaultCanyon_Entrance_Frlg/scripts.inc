@@ -72,9 +72,9 @@ SevenIsland_SevaultCanyon_Entrance_Text_EvePostBattle::
 	.string "trainieren.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_EveNotEnoughMons::
-	.string "TIZIA: Ich möchte gemeinsam\n"
-	.string "mit TILL gegen dich antreten.\p"
-	.string "Komme mit zwei POKéMON wieder!$"
+	.string "Tizia: Ich möchte gemeinsam\n"
+	.string "mit Till gegen dich antreten.\p"
+	.string "Komme mit zwei Pokémon wieder!$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonIntro::
 	.string "Till: Wenn ich an der Seite von\n"
@@ -92,14 +92,14 @@ SevenIsland_SevaultCanyon_Entrance_Text_JonPostBattle::
 	.string "egal, ob ich gewinne oder verliere.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_JonNotEnoughMons::
-	.string "TILL: Wenn ich mit TIZIA gegen\n"
+	.string "Till: Wenn ich mit Tizia gegen\n"
 	.string "dich kämpfe, bin ich glücklich.\p"
 	.string "Ich möchte also einen Zwei-gegen-\n"
 	.string "Zwei-Kampf mit dir austragen.$"
 
 SevenIsland_SevaultCanyon_Entrance_Text_RouteSign::
-	.string "EINGANG zur 7-SCHATZSCHLUCHT\p"
-	.string "TRAINER werden gebeten, die\n"
-	.string "Pflanzen in der SCHLUCHT\l"
+	.string "Eingang zur 7-Schatzschlucht\p"
+	.string "Trainer werden gebeten, die\n"
+	.string "Pflanzen in der Schlucht\l"
 	.string "nicht zu beschädigen!$"
 

@@ -53,7 +53,7 @@ RockTunnel_1F_Text_LennyDefeat::
 	.string "Du hast gewonnen!$"
 
 RockTunnel_1F_Text_LennyPostBattle::
-	.string "Nimm dich vor ONIX in Acht! Es\n"
+	.string "Nimm dich vor Onix in Acht! Es\n"
 	.string "quetscht dich wie eine Zitrone aus!$"
 
 RockTunnel_1F_Text_OliverIntro::
@@ -127,6 +127,6 @@ RockTunnel_1F_Text_ArianaPostBattle::
 	.string "Ich bin ganz nass geschwitzt!$"
 
 RockTunnel_1F_Text_RouteSign::
-	.string "FELSTUNNEL\n"
-	.string "AZURIA CITY - LAVANDIA$"
+	.string "Felstunnel\n"
+	.string "Azuria City - Lavandia$"
 

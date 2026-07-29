@@ -112,7 +112,7 @@ TohjoFalls_EventScript_GiovanniScene::
 	msgbox TohjoFalls_GiovanniRoom_Text_GiovanniAfter, MSGBOX_DEFAULT
 	closemessage
 	applymovement2 LOCALID_TOHJOFALLS_GIOVANNI, TohjoFalls_Movement_GiovanniLeave
-	waitmovement 0 
+	waitmovement 0
 	fadescreen FADE_TO_BLACK
 	removeobject LOCALID_TOHJOFALLS_GIOVANNI
 	playse SE_EXIT
@@ -188,8 +188,8 @@ TohjoFalls_Movement_GiovanniLeave:
 	step_end
 
 TohjoFalls_GiovanniRoom_Text_Radio:
-	.string "RADIO: ... ...\n"
-	.string "Ahem, wir sind TEAM ROCKET!\p"
+	.string "Radio: ... ...\n"
+	.string "Ahem, wir sind Team Rocket!\p"
 	.string "Nach drei Jahren Vorbereitung\n"
 	.string "steigen wir wieder aus der Asche!\p"
 	.string "Giovanni! Hörst du uns?\p"

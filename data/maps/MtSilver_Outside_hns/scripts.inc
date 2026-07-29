@@ -3,7 +3,7 @@ MtSilver_Outside_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-MtSilver_Outside_OnTransition: 
+MtSilver_Outside_OnTransition:
 	callnative SetTimeBasedEncounters
 	setflag FLAG_VISITED_MT_SILVER
 	end

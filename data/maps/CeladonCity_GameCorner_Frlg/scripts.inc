@@ -467,11 +467,11 @@ CeladonCity_GameCorner_EventScript_UnusableSlotMachine3::
 CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
 	.string "Willkommen!\p"
 	.string "Nebenan kannst du deine\n"
-	.string "MÜNZEN gegen Preise tauschen.$"
+	.string "Münzen gegen Preise tauschen.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-	.string "Welcome to ROCKET GAME CORNER!\p"
-	.string "Do you need some game COINS?\n"
+	.string "Welcome to Rocket Game Corner!\p"
+	.string "Do you need some game Coins?\n"
 	.string "Would you like to buy some?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
@@ -479,22 +479,22 @@ CeladonCity_GameCorner_Text_ComePlaySometime::
 	.string "spielen möchtest!$"
 
 CeladonCity_GameCorner_Text_SorryDontHaveCoinCase::
-	.string "Du benötigst einen MÜNZKORB!$"
+	.string "Du benötigst einen Münzkorb!$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsFull::
-	.string "Dein MÜNZKORB ist voll!$"
+	.string "Dein Münzkorb ist voll!$"
 
 CeladonCity_GameCorner_Text_CantAffordCoins::
 	.string "Du hast nicht genug Geld!$"
 
 CeladonCity_GameCorner_Text_HereAreYourCoins::
 	.string "Danke!\n"
-	.string "Hier sind deine MÜNZEN!$"
+	.string "Hier sind deine Münzen!$"
 
 CeladonCity_GameCorner_Text_RumoredTeamRocketRunsThisPlace::
 	.string "Pst! Höre mir zu!\p"
-	.string "Man sagt, diese SPIELHALLE gehöre\n"
-	.string "dem TEAM ROCKET!$"
+	.string "Man sagt, diese Spielhalle gehöre\n"
+	.string "dem Team Rocket!$"
 
 CeladonCity_GameCorner_Text_ThinkMachinesHaveDifferentOdds::
 	.string "Ich glaube, jeder Spielautomat hat\n"
@@ -505,10 +505,10 @@ CeladonCity_GameCorner_Text_DoYouWantToPlay::
 
 CeladonCity_GameCorner_Text_Received10CoinsFromMan::
 	.string "{PLAYER} erhält\n"
-	.string "10 MÜNZEN!$"
+	.string "10 Münzen!$"
 
 CeladonCity_GameCorner_Text_DontNeedMyCoins::
-	.string "Du brauchst meine MÜNZEN nicht!$"
+	.string "Du brauchst meine Münzen nicht!$"
 
 CeladonCity_GameCorner_Text_WinsComeAndGo::
 	.string "Man gewinnt, man verliert!$"
@@ -521,15 +521,15 @@ CeladonCity_GameCorner_Text_GymGuyAdvice::
 	.string "Heh!\p"
 	.string "Du hast Wichtigeres zu tun,\n"
 	.string "Champion in spe!\p"
-	.string "Die ARENALEITERIN von PRISMANIA\n"
-	.string "CITY heißt ERIKA.\p"
-	.string "Sie trainiert PFLANZEN-POKéMON!\p"
+	.string "Die Arenaleiterin von Prismania\n"
+	.string "City heißt Erika.\p"
+	.string "Sie trainiert Pflanzen-Pokémon!\p"
 	.string "Sie wirkt sanft, doch man sollte\n"
 	.string "sie nicht unterschätzen!$"
 
 CeladonCity_GameCorner_Text_RareMonsForCoins::
-	.string "Man kann die MÜNZEN gegen seltene\n"
-	.string "POKéMON eintauschen.\p"
+	.string "Man kann die Münzen gegen seltene\n"
+	.string "Pokémon eintauschen.\p"
 	.string "Aber ich habe kein Glück im Spiel!$"
 
 CeladonCity_GameCorner_Text_SoEasyToGetHooked::
@@ -538,29 +538,29 @@ CeladonCity_GameCorner_Text_SoEasyToGetHooked::
 
 CeladonCity_GameCorner_Text_WantSomeCoins::
 	.string "Wie geht es dir?\n"
-	.string "Brauchst du ein paar MÜNZEN?$"
+	.string "Brauchst du ein paar Münzen?$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromNiceGuy::
 	.string "{PLAYER} erhält\n"
-	.string "20 MÜNZEN!$"
+	.string "20 Münzen!$"
 
 CeladonCity_GameCorner_Text_YouHaveLotsOfCoins::
-	.string "Heh, du besitzt genug MÜNZEN!$"
+	.string "Heh, du besitzt genug Münzen!$"
 
 CeladonCity_GameCorner_Text_NeedMoreCoinsForMonIWant::
 	.string "Mist! Ich habe noch immer nicht\n"
-	.string "genug MÜNZEN für das POKéMON!$"
+	.string "genug Münzen für das Pokémon!$"
 
 CeladonCity_GameCorner_Text_HereAreSomeCoinsShoo::
 	.string "Heh! Willst du mich ablenken?\n"
-	.string "Hier, nimm ein paar MÜNZEN!$"
+	.string "Hier, nimm ein paar Münzen!$"
 
 CeladonCity_GameCorner_Text_Received20CoinsFromMan::
 	.string "{PLAYER} erhält\n"
-	.string "20 MÜNZEN!$"
+	.string "20 Münzen!$"
 
 CeladonCity_GameCorner_Text_YouveGotPlentyCoins::
-	.string "Du hast deine eigenen MÜNZEN!$"
+	.string "Du hast deine eigenen Münzen!$"
 
 CeladonCity_GameCorner_Text_WatchReelsClosely::
 	.string "Du musst die Walzen genau im Auge\n"
@@ -584,21 +584,21 @@ CeladonCity_GameCorner_Text_SwitchBehindPosterPushIt::
 	.string "Tja…$"
 
 CeladonCity_GameCorner_Text_CoinCaseIsRequired::
-	.string "Du benötigst einen MÜNZKORB!$"
+	.string "Du benötigst einen Münzkorb!$"
 
 CeladonCity_GameCorner_Text_DontHaveCoinCase::
 	.string "Ups!\n"
-	.string "Ich habe den MÜNZKORB vergessen!$"
+	.string "Ich habe den Münzkorb vergessen!$"
 
 CeladonCity_GameCorner_Text_SlotMachineWantToPlay::
 	.string "Ein einarmiger Bandit!\n"
 	.string "Möchtest du spielen?$"
 
 CeladonCity_GameCorner_Text_OutOfOrder::
-	.string "AUSSER BETRIEB!$"
+	.string "außer Betrieb!$"
 
 CeladonCity_GameCorner_Text_OutToLunch::
-	.string "BIN ZU TISCH!\n"
+	.string "Bin zu Tisch!\n"
 	.string "Oh, dieser Platz ist besetzt.$"
 
 CeladonCity_GameCorner_Text_SomeonesKeys::

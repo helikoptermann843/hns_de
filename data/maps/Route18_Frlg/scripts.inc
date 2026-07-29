@@ -60,10 +60,10 @@ Route18_Text_JacobPostBattle::
 	.string "gejagt!$"
 
 Route18_Text_RouteSign::
-	.string "ROUTE 18\n"
-	.string "PRISMANIA CITY - FUCHSANIA CITY$"
+	.string "Route 18\n"
+	.string "Prismania City - Fuchsania City$"
 
 Route18_Text_CyclingRoadSign::
-	.string "Das Betreten des RADWEGES ist\n"
+	.string "Das Betreten des Radweges ist\n"
 	.string "Fußgängern untersagt!$"
 

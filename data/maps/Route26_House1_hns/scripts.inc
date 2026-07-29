@@ -17,6 +17,6 @@ Route26_Text_HealHouseRest:
 	.string "Gönne ihnen eine kleine Pause.$"
 
 Route26_Text_HealHouseKeepAtIt:
-	.string "Na bitte!\p"
-	.string "Deine Pokémon sehen gut aus!\p"
-	.string "Mach weiter so!$"
+	.string "In Ordnung! Deine Pokémon sind wieder\n"
+	.string "fit! Dann stürze dich wieder ins\l"
+	.string "Abenteuer!$"

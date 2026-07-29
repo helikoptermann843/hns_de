@@ -62,7 +62,7 @@ PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Rocko: {PLAYER}, danke.\n"
 	.string "Der Kampf hat mir gefallen,\l"
 	.string "auch wenn ich etwas enttäuscht bin.\p"
-	.string "Der FELSORDEN macht deine\n"
+	.string "Der Felsorden macht deine\n"
 	.string "Pokémon noch stärker.$"
 
 PewterCity_Gym_Text_Brock_FightDone:
@@ -125,16 +125,16 @@ PewterCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 PewterCity_Gym_Text_GymStatue::
-    .string "MARMORIA POKéMON ARENA\n"
-    .string "LEITER: ROCKO\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Marmoria Pokémon Arena\n"
+    .string "Leiter: Rocko\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
-    .string "MARMORIA POKéMON ARENA\n"
-    .string "LEITER: ROCKO\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Marmoria Pokémon Arena\n"
+    .string "Leiter: Rocko\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"
 
 PewterCity_Gym_EventScript_Brock_Trade::
 	goto_if_set FLAG_PEWTER_GYM_NPC_TRADE_COMPLETED, PewterCity_Gym_EventScript_BrockTradeCompleted
@@ -160,7 +160,7 @@ PewterCity_Gym_EventScript_BrockTradeCompleted::
 	end
 
 PewterCity_Gym_Text_BrockWantToTrade:
-	.string "ROCKO: Hey, {PLAYER}. Ich habe\n"
+	.string "Rocko: Hey, {PLAYER}. Ich habe\n"
 	.string "dieses Mobai gefunden, während\l"
 	.string "ich in den Bergen trainierte.\p"
 	.string "Es ist süß, braucht aber einen\n"
@@ -169,17 +169,17 @@ PewterCity_Gym_Text_BrockWantToTrade:
 	.string "für mein {STR_VAR_2} tauschen?$"
 
 PewterCity_Gym_Text_BrockTakeCare:
-	.string "ROCKO: Danke!\n"
-	.string "Kümmere dich gut um WOODY!$"
+	.string "Rocko: Danke!\n"
+	.string "Kümmere dich gut um Woody!$"
 
 PewterCity_Gym_Text_BrockDeclineTrade:
-	.string "ROCKO: Nein? Das ist ok.\n"
-	.string "WOODY und ich werden trainieren.$"
+	.string "Rocko: Nein? Das ist ok.\n"
+	.string "Woody und ich werden trainieren.$"
 
 PewterCity_Gym_Text_BrockNotRequestedMon:
-	.string "ROCKO: Das ist kein {STR_VAR_1}.\n"
+	.string "Rocko: Das ist kein {STR_VAR_1}.\n"
 	.string "Das möchte ich nicht.$"
 
 PewterCity_Gym_Text_BrockTradeCompleted:
-	.string "ROCKO: Wie geht es WOODY?\n"
+	.string "Rocko: Wie geht es Woody?\n"
 	.string "Mobai sind härter als sie aussehen!$"

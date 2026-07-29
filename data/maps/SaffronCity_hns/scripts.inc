@@ -23,17 +23,17 @@ SaffronCity_Text_BaobaName:
 	.string "Baoba$"
 
 SaffronCity_Text_Baoba:
-	.string "WÄRTER BAOBA: {PLAYER}!\p"
-	.string "Hier ist WÄRTER BAOBA.\p"
+	.string "Wärter Baoba: {PLAYER}!\p"
+	.string "Hier ist Wärter Baoba.\p"
 	.string "Ich ruf an, um dir zu sagen,\n"
-	.string "dass die SAFARIZONE wieder\l"
+	.string "dass die Safarizone wieder\l"
 	.string "gewachsen ist!\p"
-	.string "Endlich ist meine SAFARIZONE\n"
+	.string "Endlich ist meine Safarizone\n"
 	.string "vollständig!\p"
 	.string "Du weißt noch, wo sie ist,\n"
 	.string "oder?\p"
 	.string "Direkt westlich von\n"
-	.string "ANEMONIA!\l"
+	.string "Anemonia!\l"
 	.string "Bis bald!$"
 
 SaffronCity_EventScript_Lass1A::
@@ -123,12 +123,12 @@ SaffronCity_Text_Lass1:
 SaffronCity_Text_Lass1_ReturnedPart:
 	.string "Die junge Nachahmerin hat ihre\n"
 	.string "geliebte Poképuppe verloren, eine\l"
-	.string "Nachbildung eines PIEPI. Das scheint\l"
+	.string "Nachbildung eines Piepi. Das scheint\l"
 	.string "sie sehr mitzunehmen…$"
 
 SaffronCity_Text_PokefanM:
-	.string "Du bist von JOHTO hergekommen?\p"
-	.string "Wenn der MAGNETZUG\n"
+	.string "Du bist von Johto hergekommen?\p"
+	.string "Wenn der Magnetzug\n"
 	.string "läuft, bist du ganz schnell wieder zu\l"
 	.string "Hause.$"
 
@@ -155,14 +155,14 @@ SaffronCity_Text_CooltrainerF:
 SaffronCity_Text_Fisher:
 	.string "Mampf… Mampf…\p"
 	.string "Wie ich höre,\n"
-	.string "braut sich da etwas im KRAFTWERK\l"
+	.string "braut sich da etwas im Kraftwerk\l"
 	.string "zusammen.\p"
 	.string "Mampf… Mampf…$"
 
 SaffronCity_Text_Fisher_ReturnedPart:
 	.string "Mampf… Mampf…\p"
 	.string "Wie ich höre,\n"
-	.string "braute sich da etwas im KRAFTWERK\l"
+	.string "braute sich da etwas im Kraftwerk\l"
 	.string "zusammen.\p"
 	.string "Mampf… Mampf… Aah, ich bin satt!$"
 
@@ -183,22 +183,22 @@ SaffronCity_Text_Lass2:
 	.string "ist mir auch ein klein wenig peinlich.$"
 
 SaffronCity_Text_Sign:
-	.string "SAFFRONIA CITY\p"
+	.string "Saffronia City\p"
 	.string "Golden Schimmernde Stadt des Handels$"
 
 SaffronCity_Text_GymSign:
-	.string "SAFFRONIA CITY POKéMON-ARENA\n"
-	.string "ARENALEITERIN: SABRINA\l"
-	.string "Die Herrin der PSYCHO-POKéMON!$"
+	.string "Saffronia City Pokémon-Arena\n"
+	.string "Arenaleiterin: Sabrina\l"
+	.string "Die Herrin der Psycho-Pokémon!$"
 
 SaffronCity_Text_FightingDojoSign:
 	.string "Willkommen im Karate Dojo!$"
 
 SaffronCity_Text_SilphCoSign:
-	.string "SILPH CO. BÜROGEBÄUDE$"
+	.string "Silph Co. Bürogebäude$"
 
 SaffronCity_Text_MrPsychicHouseSign:
-	.string "MR.Psychokinese's HAUS$"
+	.string "Mr. Psychos Haus$"
 
 SaffronCity_Text_MagnetTrainStationSign:
 	.string "Saffronia City, Bahnhof für die Magnet-\n"

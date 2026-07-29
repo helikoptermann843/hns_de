@@ -57,7 +57,7 @@ SaffronStation_EventScript_BoardTrain::
 	playse SE_EXIT
 	waitse
 	fadescreen FADE_TO_BLACK
-	
+
 	applymovement OBJ_EVENT_ID_CAMERA, SaffronStation_Movement_CameraPanUp
 	waitmovement 0
 	applymovement OBJ_EVENT_ID_CAMERA, SaffronStation_Movement_CameraPanRight
@@ -147,7 +147,7 @@ SaffronStation_Movement_CameraPanRight:
 	slide_right
 	slide_right
 	slide_right
-	slide_right	
+	slide_right
 	step_end
 
 SaffronStation_Movement_SlideLeft:
@@ -288,36 +288,38 @@ SaffronStation_Movement_SlideLeft:
 	step_end
 
 SaffronMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-	.string "Es tut mir Leid,\n"
-	.string "aber der MAGNETZUG ist im Moment nicht\l"
-	.string "in Betrieb.$"
+	.string "Es fahren keine Züge mehr!\p"
+	.string "Ich könnte alle Fahrgäste Huckepack\n"
+	.string "nehmen und sie auf meinem Rücken…\p"
+	.string "Aber wenn ich’s mir genau überlege…\n"
+	.string "Nein, besser doch nicht.$"
 
 SaffronMagnetTrainStation_Text_OfficerComingAboard:
 	.string "Abfahrt nach\n"
-	.string "DUKATIA CITY in wenigen Minuten.\p"
+	.string "Dukatia City in wenigen Minuten.\p"
 	.string "Steigst du auch ein?$"
 
 SaffronMagnetTrainStation_Text_OfficerRightThisWay:
 	.string "Darf ich bitte\n"
-	.string "deinen FAHRSCHEIN sehen?\p"
+	.string "deinen Fahrschein sehen?\p"
 	.string "Danke sehr. Hier lang, bitte.$"
 
 SaffronMagnetTrainStation_Text_OfficerNoRailPass:
 	.string "Es tut mir Leid,\n"
-	.string "aber du hast keinen FAHRSCHEIN.$"
+	.string "aber du hast keinen Fahrschein.$"
 
 SaffronMagnetTrainStation_Text_OfficerHopeToSeeYouAgain:
-	.string "Beehre uns bald wieder.$"
+	.string "Komm bald wieder!$"
 
 SaffronMagnetTrainStation_Text_OfficerArrivedInSaffron:
-	.string "Ankunft in SAFFRONIA CITY.\p"
+	.string "Ankunft in Saffronia City.\p"
 	.string "Beehre uns bald wieder.$"
 
 @=============================================================================================================================
 
 SaffronMagnetTrainStation_Text_Officer_TrainNotOperating:
 	.string "Es tut mir Leid,\n"
-	.string "aber der MAGNETZUG ist im Moment nicht\l"
+	.string "aber der Magnetzug ist im Moment nicht\l"
 	.string "in Betrieb.$"
 
 SaffronMagnetTrainStation_Text_GymGuide:

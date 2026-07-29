@@ -69,9 +69,9 @@ GoldenrodCity_UndergroundSwitches_EventScript_Panel1Activate:: @unlock basic
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall1
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall2
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall3
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4
 	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall5
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6
 	special DrawWholeMapView
 	waitse
 	release
@@ -123,9 +123,9 @@ GoldenrodCity_UndergroundSwitches_EventScript_Panel2Activate:: @unlock basic
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall1
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall2
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall3
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4
 	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall5
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6
 	special DrawWholeMapView
 	waitse
 	release
@@ -139,9 +139,9 @@ GoldenrodCity_UndergroundSwitches_EventScript_Panel2ActivateWrong:: @unlock basi
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall1
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall2
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall3
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4
 	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall5
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6
 	special DrawWholeMapView
 	waitse
 	release
@@ -156,9 +156,9 @@ GoldenrodCity_UndergroundSwitches_EventScript_Panel2ActivateCorrect:: @unlock it
 	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall1
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall2
 	call GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall3
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall4
 	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall5
-	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6	
+	call GoldenrodCity_UndergroundSwitches_EventScript_CreateWall6
 	special DrawWholeMapView
 	waitse
 	release
@@ -269,7 +269,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall1::
 	setmetatile 5, 7, 0x378, FALSE
 	setmetatile 6, 7, 0x379, FALSE
 	setmetatile 7, 7, 0x37A, FALSE
-	
+
 	setmetatile 5, 8, 0x380, FALSE
 	setmetatile 6, 8, 0x381, FALSE
 	setmetatile 7, 8, 0x382, FALSE
@@ -279,7 +279,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall2::
 	setmetatile 14, 7, 0x378, FALSE
 	setmetatile 15, 7, 0x379, FALSE
 	setmetatile 16, 7, 0x37A, FALSE
-	
+
 	setmetatile 14, 8, 0x380, FALSE
 	setmetatile 15, 8, 0x381, FALSE
 	setmetatile 16, 8, 0x382, FALSE
@@ -289,7 +289,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall3::
 	setmetatile 23, 7, 0x378, FALSE
 	setmetatile 24, 7, 0x379, FALSE
 	setmetatile 25, 7, 0x37A, FALSE
-	
+
 	setmetatile 23, 8, 0x380, FALSE
 	setmetatile 24, 8, 0x381, FALSE
 	setmetatile 25, 8, 0x382, FALSE
@@ -299,7 +299,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall4::
 	setmetatile 5, 11, 0x378, FALSE
 	setmetatile 6, 11, 0x379, FALSE
 	setmetatile 7, 11, 0x37A, FALSE
-	
+
 	setmetatile 5, 12, 0x380, FALSE
 	setmetatile 6, 12, 0x381, FALSE
 	setmetatile 7, 12, 0x382, FALSE
@@ -309,7 +309,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall5::
 	setmetatile 14, 11, 0x378, FALSE
 	setmetatile 15, 11, 0x379, FALSE
 	setmetatile 16, 11, 0x37A, FALSE
-	
+
 	setmetatile 14, 12, 0x380, FALSE
 	setmetatile 15, 12, 0x381, FALSE
 	setmetatile 16, 12, 0x382, FALSE
@@ -319,7 +319,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_RemoveWall6::
 	setmetatile 23, 11, 0x378, FALSE
 	setmetatile 24, 11, 0x379, FALSE
 	setmetatile 25, 11, 0x37A, FALSE
-	
+
 	setmetatile 23, 12, 0x380, FALSE
 	setmetatile 24, 12, 0x381, FALSE
 	setmetatile 25, 12, 0x382, FALSE
@@ -457,7 +457,7 @@ GoldenrodCity_UndergroundSwitches_Movement_SilverLeaveBot:
 	walk_up
 	walk_up
 	face_right
-	step_end	
+	step_end
 
 GoldenrodCity_UndergroundSwitches_EventScript_Grunt10::
     trainerbattle_single TRAINER_GRUNT_10_HNS, GoldenrodUnderground_Text_GruntM11Seen, GoldenrodUnderground_Text_GruntM11Beaten
@@ -507,7 +507,7 @@ GoldenrodUnderground_Text_SilverBefore:
 	.string "bin dir gefolgt.\p"
 	.string "Ich kann dich hier nicht\n"
 	.string "gebrauchen, während ich\l"
-	.string "TEAM ROCKET erledige.\p"
+	.string "Team Rocket erledige.\p"
 	.string "…Moment. Du hast mich\n"
 	.string "schon mal besiegt, oder?\p"
 	.string "Das war ein Zufall.\p"
@@ -516,11 +516,11 @@ GoldenrodUnderground_Text_SilverBefore:
 	.string "begleichen!$"
 
 GoldenrodUnderground_Text_SilverWin:
-	.string "…Warum… Warum verliere ich?\p"
-	.string "Ich habe die stärksten\n"
-	.string "Pokémon aufgestellt.\p"
-	.string "Ich habe mich nicht zurück-\n"
-	.string "gehalten. Warum verliere ich?$"
+	.string "Wie ist das möglich? Wie konnte ich nur\n"
+	.string "verlieren?\p"
+	.string "Ich hatte doch alle starken Pokémon!\n"
+	.string "Und ich habe mich nicht zurückgehalten!\p"
+	.string "Wie kann das also sein?$"
 
 GoldenrodUnderground_Text_SilverAfter:
 	.string "…Ich verstehe nicht…\p"
@@ -539,12 +539,10 @@ GoldenrodUnderground_Text_SilverAfter:
 	.string "der weltbeste Trainer zu werden!$"
 
 GoldenrodUnderground_Text_SilverLoss:
-	.string "Humph. Das ist meine wahre\n"
-	.string "Kraft, Schwächling.\p"
-	.string "Ich werde TEAM ROCKET Geschichte\n"
-	.string "schreiben.\p"
-	.string "Und Siegfried werde ich\n"
-	.string "unter meine Fersen bringen.$"
+	.string "Jetzt kennst du meine wahre Macht!\p"
+	.string "Mit ihr werde ich Team Rocket schlagen!\n"
+	.string "Ja, und diesen Siegfried werde ich auch\l"
+	.string "vollends in die Knie zwingen!$"
 
 GoldenrodUnderground_Text_GruntM11Seen:
 	.string "Ein Tor auf, das andere zu.\p"
@@ -566,7 +564,7 @@ GoldenrodUnderground_Text_GruntM25Seen:
 	.string "du mich besiegst!$"
 
 GoldenrodUnderground_Text_GruntM25Beaten:
-	.string "Uwww… Ich hab’s vergeigt.$"
+	.string "Argh… Ich hab’s vermasselt.$"
 
 GoldenrodUnderground_Text_GruntM25After:
 	.string "Gut. Ein Hinweis!\p"
@@ -579,42 +577,44 @@ GoldenrodUnderground_Text_BurglarDuncanSeen:
 	.string "Raus mit deinen Sachen!$"
 
 GoldenrodUnderground_Text_BurglarDuncanBeaten:
-	.string "Gnade!$"
+	.string "Eleni$"
 
 GoldenrodUnderground_Text_BurglarDuncanAfter:
-	.string "Stehlen und verkaufen! Das ist\n"
-	.string "Kriminologie, Kind!$"
+	.string "Stehlen und Hehlen! Das ist meine\n"
+	.string "Methode…$"
 
 GoldenrodUnderground_Text_BurglarEddieSeen:
-	.string "Die haben das Projekt abgebrochen\n"
-	.string "bevor sie fertig waren.\p"
-	.string "Ich suche nach Resten.$"
+	.string "Sie haben den Bau abgebrochen, noch\n"
+	.string "ehe sie fertig waren. Nun wühle ich mich\l"
+	.string "durch die Überreste.$"
 
 GoldenrodUnderground_Text_BurglarEddieBeaten:
 	.string "Übertrieben!$"
 
 GoldenrodUnderground_Text_BurglarEddieAfter:
-	.string "UNTERGRUND-WARENHAUS?\p"
+	.string "Untergrund-Warenhaus?\p"
 	.string "Warum willst du dahin?\p"
 	.string "Da ist nichts.$"
 
 GoldenrodUnderground_Text_GruntM13Seen:
-	.string "Mir egal, ob du verirrt bist.\p"
-	.string "Wenn du hier bist, du bist nur\n"
-	.string "ein Opfer!$"
+	.string "Verlaufen? Erzähl das deiner Mama.\n"
+	.string "Sobald du mir unter die Augen kommst,\l"
+	.string "bist du nur noch eines: mein Opfer!$"
 
 GoldenrodUnderground_Text_GruntM13Beaten:
-	.string "Urk! Denkst du, du bist cool?$"
+	.string "Urks! Du hältst dich wohl für ganz cool,\n"
+	.string "was?$"
 
 GoldenrodUnderground_Text_GruntM13After:
 	.string "Du musst Eis in den Adern haben,\p"
-	.string "um TEAM ROCKET zu dissen.$"
+	.string "um Team Rocket zu dissen.$"
 
 GoldenrodUnderground_Text_GruntF3Seen:
-	.string "Haust du ab? Nein,\n"
-	.string "ich denke nicht.\p"
-	.string "Du siehst nicht ängstlich aus.\p"
-	.string "Ich zeig dir, was Angst ist!$"
+	.string "Hast du dich verirrt? Nein, das kann\n"
+	.string "nicht sein.\p"
+	.string "Es ist keine Angst in deinem Blick. Aber\n"
+	.string "das macht nichts. Ich bringe dir schon\l"
+	.string "bei, was wahre Angst ist!$"
 
 GoldenrodUnderground_Text_GruntF3Beaten:
 	.string "Wie konntest du…?$"
@@ -624,19 +624,19 @@ GoldenrodUnderground_Text_GruntF3After:
 	.string "Mir egal wo!$"
 
 GoldenrodUnderground_Text_Switch1:
-	.string "SCHALTER 1 aktiviert.$"
+	.string "Schalter 1 aktiviert.$"
 
 GoldenrodUnderground_Text_Switch2:
-	.string "SCHALTER 2 aktiviert.$"
+	.string "Schalter 2 aktiviert.$"
 
 GoldenrodUnderground_Text_Switch3:
-	.string "SCHALTER 3 aktiviert.$"
+	.string "Schalter 3 aktiviert.$"
 
 GoldenrodUnderground_Text_Switch1Off:
-	.string "SCHALTER 1 deaktiviert.$"
+	.string "Schalter 1 deaktiviert.$"
 
 GoldenrodUnderground_Text_Switch2Off:
-	.string "SCHALTER 2 deaktiviert.$"
+	.string "Schalter 2 deaktiviert.$"
 
 GoldenrodUnderground_Text_Switch3Off:
-	.string "SCHALTER 3 deaktiviert.$"
+	.string "Schalter 3 deaktiviert.$"

@@ -27,8 +27,9 @@ AzaleaMart_Text_CooltrainerM:
 	.string "paar seiner Bälle anfertigen.$"
 
 AzaleaMart_Text_BugCatcher:
-	.string "Ein Superball ist besser als\n"
-	.string "ein Pokéball um Pokémon zu fangen.\p"
-	.string "Aber manchmal sind Kurts\n"
-	.string "Bälle besser.$"
+	.string "Mit einem Superball lassen sich Pokémon\n"
+	.string "sehr viel leichter fangen als mit einem\l"
+	.string "regulären Pokéball.\p"
+	.string "Aber manchmal geht einfach nichts über\n"
+	.string "einen von Kurts Bällen!$"
 

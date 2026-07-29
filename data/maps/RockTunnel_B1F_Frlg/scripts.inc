@@ -98,7 +98,7 @@ RockTunnel_B1F_Text_AllenDefeat::
 
 RockTunnel_B1F_Text_AllenPostBattle::
 	.string "In den Bergen findet man viele\n"
-	.string "STEIN-POKéMON.$"
+	.string "Stein-Pokémon.$"
 
 RockTunnel_B1F_Text_MarthaIntro::
 	.string "Ich komme nicht oft hierher.\n"

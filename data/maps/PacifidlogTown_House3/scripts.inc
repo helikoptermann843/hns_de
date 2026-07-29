@@ -61,13 +61,13 @@ PacifidlogTown_House3_Text_NotDesperateOrAnything:
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
 	.string "Ich weiß, ich könnte mir ja auch\n"
 	.string "selbst eines suchen…\p"
-	.string "Aber ich hätte gerne ein KINDWURM, das\n"
-	.string "von einem anderen TRAINER\l"
+	.string "Aber ich hätte gerne ein Kindwurm, das\n"
+	.string "von einem anderen Trainer\l"
 	.string "gefangen wurde…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Ist das ein POKéDEX?\p"
+	.string "Ist das ein Pokédex?\p"
 	.string "Hast du schon viele verschiedene\n"
-	.string "POKéMON getroffen?\p"
+	.string "Pokémon getroffen?\p"
 	.string "Ich wollte, ich wäre wie du.$"
 

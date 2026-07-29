@@ -3,7 +3,7 @@ IcePath_B4F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-IcePath_B4F_OnTransition: 
+IcePath_B4F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 

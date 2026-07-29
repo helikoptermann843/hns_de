@@ -33,11 +33,11 @@ MahoganyTown_GymEventScript_GymGuy::
 	closemessage
 	release
 	end
-	
+
 MahoganyTown_Gym_EventScript_GymGuy2::
 	msgbox MahoganyTown_Gym_Text_GuideWin, MSGBOX_DEFAULT
 	release
-	end	
+	end
 
 MahoganyTown_Gym_EventScript_Ronald::
 	trainerbattle_single TRAINER_RONALD_HNS, MahoganyTown_Gym_Text_BoarderRonaldSeen, MahoganyTown_Gym_Text_BoarderRonaldBeaten
@@ -98,7 +98,7 @@ MahoganyTown_Gym_EventScript_OlivineCheckCianwood::
 MahoganyTown_Gym_EventScript_CianwoodCheckOlivine::
 	goto_if_set FLAG_DEFEATED_OLIVINE_CITY_GYM, MahoganyTown_Gym_EventScript_Pryce_Battle3
 	goto MahoganyTown_Gym_EventScript_Pryce_Battle2
-	
+
 MahoganyTown_Gym_EventScript_Pryce_Battle1::
 	trainerbattle_no_intro TRAINER_PRYCE_1_HNS, MahoganyTown_Gym_Text_PryceImpressed
 	goto MahoganyTown_Gym_EventScript_PryceVictory
@@ -141,8 +141,8 @@ MahoganyTown_Gym_Text_ReceivedBadge:
 	.string "{PLAYER} erhielt Gletscherorden.$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
-	.string "Der Orden erhöht die SPEZIAL-\n"
-	.string "ATTACKE deiner Pokémon.\p"
+	.string "Der Orden erhöht die Spezial-\n"
+	.string "attacke deiner Pokémon.\p"
 	.string "Er erlaubt deinen Pokémon,\n"
 	.string "Whirlpool zu benutzen, um\l"
 	.string "echte Strudel zu überqueren.\p"
@@ -178,7 +178,7 @@ MahoganyTown_Gym_Text_PryceRematchDefeat:
 	.string "du alle Hindernisse überwinden.$"
 
 MahoganyTown_Gym_Text_Guide:
-	.string "NORBERT ist ein Veteran, der\n"
+	.string "Norbert ist ein Veteran, der\n"
 	.string "seine Pokémon seit fast 50 Jahren\l"
 	.string "trainiert.\p"
 	.string "Angeblich friert er Gegner gerne\n"
@@ -186,7 +186,7 @@ MahoganyTown_Gym_Text_Guide:
 	.string "Also, nutze deinen Ehrgeiz!$"
 
 MahoganyTown_Gym_Text_GuideWin:
-	.string "NORBERT ist stark,\n"
+	.string "Norbert ist stark,\n"
 	.string "aber du bist besser!\p"
 	.string "Ein heißer Kampf, der die\n"
 	.string "Generationen überbrückt hat.$"
@@ -204,13 +204,14 @@ MahoganyTown_Gym_Text_BoarderRonaldAfter:
 	.string "wenn sie eingefroren sind.$"
 
 MahoganyTown_Gym_Text_BoarderBradSeen:
-	.string "Dieser Boden ist rutschig.\p"
-	.string "Spaßig, nicht?\p"
-	.string "Aber wir spielen hier keine\n"
-	.string "Spiele!$"
+	.string "Diese Pokémon-Arena hat einen\n"
+	.string "rutschigen Boden. Lustig, oder?\p"
+	.string "Aber wir sind nicht hier, um\n"
+	.string "rumzublödeln!$"
 
 MahoganyTown_Gym_Text_BoarderBradBeaten:
-	.string "Siehst du, wie Ernst wir sind?$"
+	.string "Siehst du jetzt, wie ernst wir es\n"
+	.string "meinen?$"
 
 MahoganyTown_Gym_Text_BoarderBradAfter:
 	.string "Diese Arena ist großartig.\n"
@@ -221,7 +222,7 @@ MahoganyTown_Gym_Text_BoarderDouglasSeen:
 	.string "Ich kenne Norberts Geheimnis.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasBeaten:
-	.string "Ok. Ich erzähle dir Norberts\n"
+	.string "Na gut. Ich verrate dir Norberts\n"
 	.string "Geheimnis.$"
 
 MahoganyTown_Gym_Text_BoarderDouglasAfter:
@@ -231,25 +232,26 @@ MahoganyTown_Gym_Text_BoarderDouglasAfter:
 	.string "stärken.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneSeen:
-	.string "Um zu Norbert zu gelangen,\n"
-	.string "musst du beim Skaten nachdenken.$"
+	.string "Um zu Norbert, unserem Arenaleiter, zu\n"
+	.string "gelangen, musst du denken, bevor du\l"
+	.string "losrutschst.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneBeaten:
-	.string "Ich hätte beim Skifahren nicht\n"
-	.string "gegen dich verloren!$"
+	.string "Beim Skifahren würde ich nie gegen dich\n"
+	.string "verlieren.$"
 
 MahoganyTown_Gym_Text_SkierRoxanneAfter:
-	.string "Wer nicht präzise skatet,\n"
-	.string "kommt in dieser Arena nicht weit.$"
+	.string "Wenn du nicht genau rutschst, kommst\n"
+	.string "du in dieser Arena nicht weit. Gerade\l"
+	.string "das macht ihren Charme aus.$"
 
 MahoganyTown_Gym_Text_SkierClarissaSeen:
-	.string "Sieh dir meine Parallelkurve an!$"
+	.string "Sieh dir meinen Parallelschwung an!$"
 
 MahoganyTown_Gym_Text_SkierClarissaBeaten:
-	.string "Nein! Du hast mich ausrutschen\n"
-	.string "lassen!$"
+	.string "Nein! Jetzt bin ich weggerutscht!$"
 
 MahoganyTown_Gym_Text_SkierClarissaAfter:
-	.string "Ich hätte nicht mit dem Skaten\n"
-	.string "angeben sollen…$"
+	.string "Ich hätte mit meinen Ski-Künsten nicht\n"
+	.string "so angeben sollen…$"
 

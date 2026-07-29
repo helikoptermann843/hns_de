@@ -420,12 +420,12 @@ Alola_Akala_House_Sign_Text_0:
 	.string "on Akala Isle.$"
 
 Alola_Akala_Natu_Text_0:
-	.string "NATU: TUUUUU!$"
+	.string "Natu: Tuuuuu!$"
 
 Alola_Akala_OldManOnBench_Text_0:
 	.string "Ah the weather is so nice today,\n"
 	.string "isn't it?\p"
-	.string "I was just feeding the NATU and this\n"
+	.string "I was just feeding the Natu and this\n"
 	.string "one decided to join me on my bench!$"
 
 Alola_Akala_TotemBattle_Text_0:
@@ -458,7 +458,7 @@ Alola_Akala_Totem_sign_Text_3:
 	.string "Poni Isle$"
 
 Alola_Akala_Totem_sign_Text_4:
-	.string "ZURÜCK$"
+	.string "Zurück$"
 
 Alola_Akala_Totem_sign_Text_5:
 	.string "A strange totem stands here,\n"

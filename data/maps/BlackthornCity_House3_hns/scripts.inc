@@ -68,7 +68,7 @@ BlackthornCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 
 BlackthornCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
 	.string "Äh… Oh, ja, ich bin der Attacken-\n"
-	.string "Verlerner.\p"
+	.string "verlerner.\p"
 	.string "Ich kann Pokémon ihre Attacken\n"
 	.string "vergessen lassen.\p"
 	.string "Möchtest du das?$"
@@ -104,7 +104,7 @@ BlackthornCity_MoveDeletersHouse_Text_EggCantForgetMoves:
 
 BlackthornCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Dein {STR_VAR_1} scheint SURFER\n"
+	.string "Dein {STR_VAR_1} scheint Surfer\n"
 	.string "nicht vergessen zu wollen.$"
 
 BlackthornCity_MoveRelearnersHouse_EventScript_MoveRelearner::
@@ -176,13 +176,13 @@ BlackthornCity_MoveRelearnersHouse_Text_SorryCantHelp:
 	.string "Sorry, ich kann dir nicht helfen.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
-	.string "Ich bin der Attacken-TUTOR.\p"
+	.string "Ich bin der Attacken-Tutor.\p"
 	.string "Ich kenne alle Attacken, die Pokémon\n"
 	.string "lernen--jede einzelne--und ich kann\l"
 	.string "Pokémon diese Attacken beibringen.\p"
 	.string "Ich kann einem deiner Pokémon eine\n"
 	.string "Attacke beibringen, wenn du möchtest.\p"
-	.string "Ich tue es für eine HERZSCHUPPE.\n"
+	.string "Ich tue es für eine Herzschuppe.\n"
 	.string "Die sammle ich gerade.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
@@ -217,7 +217,7 @@ BlackthornCity_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
 
 BlackthornCity_MoveRelearnersHouse_Text_CantTeachEgg:
 	.string "Hm? Es gibt keine einzige Attacke,\n"
-	.string "die ich einem EI beibringen kann.$"
+	.string "die ich einem Ei beibringen kann.$"
 
 
 

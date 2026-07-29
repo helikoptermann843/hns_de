@@ -219,22 +219,22 @@ SeafloorCavern_Room9_Movement_Delay32:
 	step_end
 
 SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
-	.string "ADRIAN: Bleib sofort stehen!$"
+	.string "Adrian: Bleib sofort stehen!$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "ADRIAN: Hahahaha…\n"
+	.string "Adrian: Hahahaha…\n"
 	.string "Du warst das also die ganze Zeit.$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
-	.string "ADRIAN: Schau nur, schau nur!\p"
+	.string "Adrian: Schau nur, schau nur!\p"
 	.string "Schau, wie schön die schlafende\n"
 	.string "Gestalt\n"
-	.string "des antiken POKéMON KYOGRE ist!\p"
+	.string "des antiken Pokémon Kyogre ist!\p"
 	.string "Ich habe so lange auf diesen Tag\n"
 	.string "gewartet…$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
-	.string "ADRIAN: Es überrascht mich, wie du es\n"
+	.string "Adrian: Es überrascht mich, wie du es\n"
 	.string "geschafft hast, mir zu folgen.\p"
 	.string "Aber das ist nun alles Nebensache.\p"
 	.string "Damit meine Träume wahr werden, musst\n"
@@ -245,35 +245,35 @@ SeafloorCavern_Room9_Text_ArchieDefeat:
 	.string "Ich habe gegen ein Kind verloren?!?$"
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
-	.string "ADRIAN: Hahahaha…\p"
+	.string "Adrian: Hahahaha…\p"
 	.string "Ich empfehle mich. Ich muss sagen, du\n"
 	.string "bist wirklich sehr talentiert.\p"
 	.string "Aber!\n"
 	.string "Ich habe dieses hier in meinem Besitz!\n"
 	.string "\p"
-	.string "Mit dieser ROTEn KUGEL kann ich\n"
-	.string "KYOGRE…$"
+	.string "Mit dieser roten Kugel kann ich\n"
+	.string "Kyogre…$"
 
 SeafloorCavern_Room9_Text_RedOrbShinesByItself:
-	.string "Die ROTE KUGEL beginnt plötzlich von\n"
+	.string "Die rote Kugel beginnt plötzlich von\n"
 	.string "innen heraus zu leuchten!$"
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
-	.string "ADRIAN: Was?!?\p"
+	.string "Adrian: Was?!?\p"
 	.string "Ich habe doch gar nichts gemacht.\n"
-	.string "Die ROTE KUGEL… Warum…\p"
-	.string "Wo ist KYOGRE geblieben?$"
+	.string "Die rote Kugel… Warum…\p"
+	.string "Wo ist Kyogre geblieben?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
-	.string "ADRIAN: Hm? Dies ist eine Nachricht\n"
+	.string "Adrian: Hm? Dies ist eine Nachricht\n"
 	.string "unserer Mitglieder draußen…$"
 
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
-	.string "ADRIAN: Ja, was ist denn jetzt los?\p"
+	.string "Adrian: Ja, was ist denn jetzt los?\p"
 	.string "Hm… Es regnet? So heftig?\p"
 	.string "Gut… Genau darauf habe ich gewartet.\n"
-	.string "Deshalb haben wir KYOGRE erweckt.\l"
-	.string "Um TEAM AQUAs Vision von der Erweite-\l"
+	.string "Deshalb haben wir Kyogre erweckt.\l"
+	.string "Um Team Aquas Vision von der Erweite-\l"
 	.string "rung der Meere zu realisieren.\p"
 	.string "Was?!?\p"
 	.string "Es regnet stärker, als wir es voraus-\n"
@@ -284,18 +284,18 @@ SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "Situation im Auge!$"
 
 SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
-	.string "ADRIAN: Irgendetwas stimmt da ganz und\n"
+	.string "Adrian: Irgendetwas stimmt da ganz und\n"
 	.string "gar nicht…\p"
-	.string "Die ROTE KUGEL sollte KYOGRE auf-\n"
+	.string "Die rote Kugel sollte Kyogre auf-\n"
 	.string "wecken und unter Kontrolle halten…\p"
 	.string "Aber… Warum?\n"
-	.string "Warum ist KYOGRE verschwunden?\p"
+	.string "Warum ist Kyogre verschwunden?\p"
 	.string "Warum?!?$"
 
 SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
-	.string "MARC: Was hast du da nur herauf-\n"
+	.string "Marc: Was hast du da nur herauf-\n"
 	.string "beschworen?\p"
-	.string "ADRIAN… Du hast KYOGRE aufge-\n"
+	.string "Adrian… Du hast Kyogre aufge-\n"
 	.string "weckt, stimmt’s?\p"
 	.string "Was wird nur aus der Welt, wenn es\n"
 	.string "bis in alle Ewigkeit regnen wird?\p"
@@ -303,17 +303,17 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 	.string "Meer verschwinden…$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "ADRIAN: Was?!?\n"
+	.string "Adrian: Was?!?\n"
 	.string "Behandle mich nicht so von oben herab!\n"
 	.string "\p"
-	.string "Wart ihr es nicht, TEAM MAGMA, die\n"
-	.string "GROUDON erzürnt habt?\p"
-	.string "Solange ich die ROTE KUGEL habe, habe\n"
-	.string "ich auch die Kontrolle über KYOGRE…\p"
+	.string "Wart ihr es nicht, Team Magma, die\n"
+	.string "Groudon erzürnt habt?\p"
+	.string "Solange ich die rote Kugel habe, habe\n"
+	.string "ich auch die Kontrolle über Kyogre…\p"
 	.string "Ich sollte es kontrollieren können…$"
 
 SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
-	.string "MARC: Wir haben keine Zeit für\n"
+	.string "Marc: Wir haben keine Zeit für\n"
 	.string "Diskussionen!\p"
 	.string "Geh nach draußen und sieh es dir\n"
 	.string "selber an!\p"
@@ -321,5 +321,5 @@ SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
 	.string "hast, das ist, was du wolltest!$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
-	.string "MARC: {PLAYER}, komm, du musst\n"
+	.string "Marc: {PLAYER}, komm, du musst\n"
 	.string "ebenfalls von hier verschwinden!$"

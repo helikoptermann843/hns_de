@@ -52,7 +52,7 @@ PokemonMansion_1F_Text_BraydonPostBattle::
 	.string "einfach da drüben herunter!$"
 
 PokemonMansion_1F_Text_MewGaveBirthToMewtwo::
-	.string "TAGEBUCH: 6. FEBRUAR\n"
-	.string "MEW hat ein Junges geboren!\p"
-	.string "Wir haben es MEWTU genannt.$"
+	.string "Tagebuch: 6. Februar\n"
+	.string "Mew hat ein Junges geboren!\p"
+	.string "Wir haben es Mewtu genannt.$"
 

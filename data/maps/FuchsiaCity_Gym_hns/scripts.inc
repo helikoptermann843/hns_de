@@ -223,8 +223,7 @@ FuchsiaCity_Gym_Text_LassAlice_After:
 	.string "erkennen?$"
 
 FuchsiaCity_Gym_Text_LassLinda_Before:
-	.string "Reingelegt!\n"
-	.string "Hahaha!$"
+	.string "Hahahaha! Mann, ist das ein Spaß!$"
 
 FuchsiaCity_Gym_Text_LassLinda_Beaten:
 	.string "Oh… ich habe verloren… Ein\n"
@@ -280,16 +279,16 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "FUCHSANIA POKéMON ARENA\n"
-    .string "LEITER: JANINA\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Fuchsania Pokémon Arena\n"
+    .string "Leiter: Janina\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "FUCHSANIA POKéMON ARENA\n"
-    .string "LEITER: JANINA\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Fuchsania Pokémon Arena\n"
+    .string "Leiter: Janina\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:
 	.string "Hey, du! Zukünftiger Champ!\p"

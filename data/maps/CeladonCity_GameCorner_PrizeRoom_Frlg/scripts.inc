@@ -380,7 +380,7 @@ CeladonCity_GameCorner_PrizeRoom_EventScript_YellowFlute::
 	end
 
 CeladonCity_GameCorner_PrizeRoom_Text_FancyThatPorygon::
-	.string "Ich hätte gerne ein PORYGON!\p"
+	.string "Ich hätte gerne ein Porygon!\p"
 	.string "Aber ich habe kein Glück an den\n"
 	.string "einarmigen Banditen!$"
 
@@ -389,10 +389,10 @@ CeladonCity_GameCorner_PrizeRoom_Text_RakedItInToday::
 	.string "Glückssträhne!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_CoinCaseRequired::
-	.string "Du benötigst einen MÜNZKORB!$"
+	.string "Du benötigst einen Münzkorb!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WeExchangeCoinsForPrizes::
-	.string "Wir tauschen MÜNZEN gegen Preise\n"
+	.string "Wir tauschen Münzen gegen Preise\n"
 	.string "ein.$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_WhichPrize::
@@ -410,7 +410,7 @@ CeladonCity_GameCorner_PrizeRoom_Text_YouWantTM::
 	.string "TM von {STR_VAR_2}?$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_NeedMoreCoins::
-	.string "Schade. Du hast zu wenig MÜNZEN!$"
+	.string "Schade. Du hast zu wenig Münzen!$"
 
 CeladonCity_GameCorner_PrizeRoom_Text_OopsNotEnoughRoom::
 	.string "おきゃくさん もう もてないよ$"

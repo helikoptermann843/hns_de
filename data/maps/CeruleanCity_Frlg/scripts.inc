@@ -361,7 +361,7 @@ CeruleanCity_Text_RivalIntro::
 	.string "{RIVAL}: Hi, {PLAYER}!\p"
 	.string "Du bist also immer noch unterwegs!\p"
 	.string "Mir geht es bestens! Ich habe jede\n"
-	.string "Menge neue, starke POKéMON\l"
+	.string "Menge neue, starke Pokémon\l"
 	.string "gefangen!\p"
 	.string "Zeig, was du gefangen hast,\n"
 	.string "{PLAYER}!$"
@@ -374,14 +374,14 @@ CeruleanCity_Text_RivalDefeat::
 CeruleanCity_Text_RivalPostBattle::
 	.string "{RIVAL}: Soll ich dir was\n"
 	.string "verraten?\p"
-	.string "Ich war bei BILL und habe mir\n"
-	.string "seine seltenen POKéMON zeigen\l"
+	.string "Ich war bei Bill und habe mir\n"
+	.string "seine seltenen Pokémon zeigen\l"
 	.string "lassen!\p"
 	.string "Das hat mir einige Einträge in\n"
-	.string "meinem POKéDEX gebracht!\p"
-	.string "BILL ist weltweit als POKéMANIAC\n"
+	.string "meinem Pokédex gebracht!\p"
+	.string "Bill ist weltweit als Pokémaniac\n"
 	.string "bekannt!\p"
-	.string "Er hat das POKéMON-Lagerungs-\n"
+	.string "Er hat das Pokémon-Lagerungs-\n"
 	.string "System für den PC entwickelt!\p"
 	.string "Du kannst dich bei ihm dafür\n"
 	.string "bedanken!\p"
@@ -421,7 +421,7 @@ CeruleanCity_Text_OkayIllReturnStolenTM::
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
 	.string "{PLAYER} recovered TM28 from\n"
-	.string "the TEAM ROCKET GRUNT.$"
+	.string "the Team Rocket Grunt.$"
 
 CeruleanCity_Text_BetterGetMovingBye::
 	.string "Ich gehe wohl besser!\n"
@@ -433,20 +433,20 @@ CeruleanCity_Text_MakeRoomForThisCantRun::
 	.string "dir gegeben habe!$"
 
 CeruleanCity_Text_TrainerLifeIsToughIsntIt::
-	.string "Du bist auch ein TRAINER?\p"
+	.string "Du bist auch ein Trainer?\p"
 	.string "Zu sammeln und zu kämpfen ist nicht\n"
 	.string "immer so leicht!$"
 
 CeruleanCity_Text_YouCanCutDownSmallTrees::
-	.string "POKéMON können Büsche mit dem\n"
-	.string "ZERSCHNEIDER klein hacken.\p"
+	.string "Pokémon können Büsche mit dem\n"
+	.string "Zerschneider klein hacken.\p"
 	.string "Auch der kleine Baum vor dem\n"
 	.string "Geschäft kann entfernt werden.\p"
 	.string "Aber es gibt auch einen anderen\n"
 	.string "Weg!$"
 
 CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
-	.string "Wenn das LAHMUS nicht im Weg wäre,\n"
+	.string "Wenn das Lahmus nicht im Weg wäre,\n"
 	.string "könntest du den kleinen Baum\l"
 	.string "fällen.\p"
 	.string "Dann könntest du auf die andere\n"
@@ -456,87 +456,87 @@ CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
 
 CeruleanCity_Text_PokemonEncyclopediaAmusing::
 	.string "Du erstellst eine Enzyklopädie der\n"
-	.string "POKéMON? Das klingt lustig!$"
+	.string "Pokémon? Das klingt lustig!$"
 
 CeruleanCity_Text_PeopleHereWereRobbed::
 	.string "Die Leute hier wurden beraubt.\p"
-	.string "Das TEAM ROCKET steckt hinter dem\n"
+	.string "Das Team Rocket steckt hinter dem\n"
 	.string "abscheulichen Verbrechen!\p"
-	.string "Sogar die POLIZEI ist gegen das\n"
-	.string "TEAM ROCKET machtlos!$"
+	.string "Sogar die Polizei ist gegen das\n"
+	.string "Team Rocket machtlos!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
-	.string "Okay! SLOWBRO!\n"
-	.string "Use SONICBOOM!$"
+	.string "Okay! Slowbro!\n"
+	.string "Use Sonicboom!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
-	.string "Los, mach schon, LAHMUS!$"
+	.string "Los, mach schon, Lahmus!$"
 
 CeruleanCity_Text_SlowbroPunch::
-	.string "SLOWBRO, punch!$"
+	.string "Slowbro, punch!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
 	.string "Oh nein!\n"
 	.string "Wieder nicht...$"
 
 CeruleanCity_Text_SlowbroWithdraw::
-	.string "SLOWBRO, WITHDRAW!$"
+	.string "Slowbro, Withdraw!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
 	.string "Nein, nicht!!! Es ist schwer, ein\n"
-	.string "POKéMON zu kontrollieren!\p"
-	.string "Ob dein POKéMON gehorcht, hängt\n"
-	.string "von deinen Fähigkeiten als TRAINER\l"
+	.string "Pokémon zu kontrollieren!\p"
+	.string "Ob dein Pokémon gehorcht, hängt\n"
+	.string "von deinen Fähigkeiten als Trainer\l"
 	.string "ab!$"
 
 CeruleanCity_Text_SlowbroTookSnooze::
-	.string "LAHMUS macht ein Nickerchen...$"
+	.string "Lahmus macht ein Nickerchen...$"
 
 CeruleanCity_Text_SlowbroLoafingAround::
-	.string "LAHMUS bummelt herum...$"
+	.string "Lahmus bummelt herum...$"
 
 CeruleanCity_Text_SlowbroTurnedAway::
-	.string "LAHMUS wendet sich ab...$"
+	.string "Lahmus wendet sich ab...$"
 
 CeruleanCity_Text_SlowbroIgnoredOrders::
-	.string "LAHMUS ignoriert die Befehle...$"
+	.string "Lahmus ignoriert die Befehle...$"
 
 CeruleanCity_Text_WantBrightRedBicycle::
-	.string "Ich hätte gern ein rotes FAHRRAD!\p"
+	.string "Ich hätte gern ein rotes Fahrrad!\p"
 	.string "Aber ich würde nicht damit fahren,\n"
 	.string "damit es nicht schmutzig wird!$"
 
 CeruleanCity_Text_ThisIsCeruleanCave::
-	.string "Die AZURIA HÖHLE!\n"
-	.string "Dort leben extrem starke POKéMON!\p"
-	.string "Nur außergewöhnlichen TRAINERn\n"
+	.string "Die Azuria Höhle!\n"
+	.string "Dort leben extrem starke Pokémon!\p"
+	.string "Nur außergewöhnlichen Trainern\n"
 	.string "wird der Zutritt gewährt.\p"
 	.string "Du musst stark genug sein, um der\n"
-	.string "POKéMON LIGA-Champion zu\l"
+	.string "Pokémon Liga-Champion zu\l"
 	.string "werden!\p"
 	.string "Und du solltest bereits Großes\n"
 	.string "geleistet haben.$"
 
 CeruleanCity_Text_CitySign::
-	.string "AZURIA CITY\n"
+	.string "Azuria City\n"
 	.string "Eine mysteriöse blaue Aura umgibt\l"
 	.string "die Stadt!$"
 
 CeruleanCity_Text_TrainerTipsHeldItems::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Einem POKéMON kann ein\n"
+	.string "Tipps für Trainer\p"
+	.string "Einem Pokémon kann ein\n"
 	.string "Item zum Halten gegeben werden.\p"
 	.string "Manche Items können sogar vom\n"
-	.string "POKéMON im Kampf eingesetzt\l"
+	.string "Pokémon im Kampf eingesetzt\l"
 	.string "werden.$"
 
 CeruleanCity_Text_BikeShopSign::
-	.string "FAHRRADLADEN\n"
+	.string "Fahrradladen\n"
 	.string "Fahre leicht und schnell mit dem\l"
 	.string "Rad durch Höhlen und Gras!$"
 
 CeruleanCity_Text_GymSign::
-	.string "AZURIA CITY POKéMON-ARENA\n"
-	.string "ARENALEITERIN: MISTY\l"
+	.string "Azuria City Pokémon-Arena\n"
+	.string "Arenaleiterin: Misty\l"
 	.string "Die Burschikose Meerjungfrau!$"
 

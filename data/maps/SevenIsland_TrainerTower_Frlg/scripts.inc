@@ -41,7 +41,7 @@ SevenIsland_TrainerTower_Text_RodettePostBattle::
 	.string "warten?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "Ob die SILPH CO. schon erledigt\n"
+	.string "Ob die Silph Co. schon erledigt\n"
 	.string "ist?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::

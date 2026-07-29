@@ -19,19 +19,18 @@ SSAqua_RoomSE_EventScript_Peg::
 	end
 
 SSAqua_RoomSE_Text_PokefanmColinSeen:
-	.string "Hey, Kind! Willst du gegen mich\n"
-	.string "kämpfen?$"
+	.string "Obacht, hier komme ich!$"
 
 SSAqua_RoomSE_Text_PokefanmColinBeaten:
-	.string "Du bist stark!$"
+	.string "Du bist aber stark!$"
 
 SSAqua_RoomSE_Text_PokefanmColinAfter:
-	.string "Du reist ganz allein?\n"
-	.string "Ist deine Mama nicht besorgt?$"
+	.string "Du reist ganz alleine? Ist deine Mutter\n"
+	.string "nicht besorgt?$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1Seen:
-	.string "Denkst du, ich sei ein Baby?\n"
-	.string "Das ist unfair!$"
+	.string "Du denkst, ich bin noch ein Baby? Das\n"
+	.string "ist gemein!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg1Beaten:
 	.string "Oh! Wir haben verloren!$"
@@ -49,5 +48,5 @@ SSAqua_RoomSE_Text_TwinsMegandpeg2Beaten:
 	.string "Oh! Wir haben verloren!$"
 
 SSAqua_RoomSE_Text_TwinsMegandpeg2After:
-	.string "Manchmal sind Kinder klüger\n"
-	.string "als Erwachsene!$"
+	.string "Manchmal sind Kinder schlauer als\n"
+	.string "Erwachsene!$"

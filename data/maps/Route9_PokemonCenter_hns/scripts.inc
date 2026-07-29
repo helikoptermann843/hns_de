@@ -13,7 +13,7 @@ Route9_PokemonCenter_EventScript_Engineer2::
 Route9_PokemonCenter_Text_Engineer1:
 	.string "Manchmal kommen wir Ingenieure\n"
 	.string "hierher, um eine Pause zu machen\l"
-	.string "oder um dem CHEF zu entkommen.\p"
+	.string "oder um dem Chef zu entkommen.\p"
 	.string "Der Typ ist verrückt.$"
 
 Route9_PokemonCenter_Text_Engineer2:

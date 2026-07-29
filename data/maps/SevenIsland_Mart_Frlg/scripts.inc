@@ -39,13 +39,13 @@ SevenIsland_Mart_EventScript_Fisher::
 	end
 
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-	.string "Diese POKéMON-ARENA ist stets\n"
+	.string "Diese Pokémon-Arena ist stets\n"
 	.string "geschlossen!\p"
 	.string "Ich frage mich, wer hier wohl der\n"
-	.string "ARENALEITER sein mag?$"
+	.string "Arenaleiter sein mag?$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
-	.string "Der ARENALEITER von VERTANIA CITY\n"
+	.string "Der Arenaleiter von Vertania City\n"
 	.string "ist zurück!$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
@@ -53,5 +53,5 @@ SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
 	.string "Kaffee bekommen!\p"
 	.string "Aber er war zu stark. Jetzt habe\n"
 	.string "ich Kopfschmerzen…\p"
-	.string "Hilft dir mein LEHRKANAL?$"
+	.string "Hilft dir mein Lehrkanal?$"
 

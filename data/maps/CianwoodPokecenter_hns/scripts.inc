@@ -51,7 +51,7 @@ CianwoodPokecenter_EventScript_Lass::
 	end
 
 CianwoodCity_Text_PokecenterLass:
-	.string "Hast du den POKéMANIAC getroffen?\p"
+	.string "Hast du den Pokémaniac getroffen?\p"
 	.string "Er gibt immer mit seinen seltenen\n"
 	.string "Pokémon an.$"
 

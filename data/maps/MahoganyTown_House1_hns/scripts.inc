@@ -18,17 +18,18 @@ MahoganyTown_House1_EventScript_TeacherDuring::
 
 
 MahoganyRedGyaradosHouse_Text_BlackBelt:
-	.string "Ich hörte, dass ein rotes GARADOS\n"
-	.string "am SEE erschienen sein soll.\p"
+	.string "Ich hörte, dass ein rotes Garados\n"
+	.string "am See erschienen sein soll.\p"
 	.string "Das ist seltsam, da schon normale\n"
-	.string "GARADOS in diesem See sehr selten\l"
+	.string "Garados in diesem See sehr selten\l"
 	.string "sind…$"
 
 MahoganyRedGyaradosHouse_Text_Teacher:
 	.string "Mein Lieblingsprogramm\n"
 	.string "im Radio? Ich würde sagen\l"
-	.string "Pokémon-MUSIK.$"
+	.string "Pokémon-Musik.$"
 
 MahoganyRedGyaradosHouse_Text_Teacher_Rockets:
-	.string "Ich habe lachen aus dem Radio\n"
-	.string "gehört...gruselig.$"
+	.string "Seit Kurzem ertönt immer wieder dieses\n"
+	.string "seltsame Gelächter aus dem Radio… Das\l"
+	.string "ist echt unheimlich!$"

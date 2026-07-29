@@ -40,22 +40,22 @@ Route2_EastBuilding_EventScript_Rocker::
 
 Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "Hallo! Erinnerst du dich?\n"
-	.string "Ich bin PROF. EICHs ASSISTENT!\p"
+	.string "Ich bin Prof. Eichs Assistent!\p"
 	.string "Wenn du mindestens 10 verschiedene\n"
-	.string "POKéMON gefangen hast, habe ich\l"
+	.string "Pokémon gefangen hast, habe ich\l"
 	.string "ein Geschenk für dich: VM05\p"
 	.string "Also, {PLAYER}, hast du 10\n"
-	.string "unterschiedliche POKéMON gefangen?$"
+	.string "unterschiedliche Pokémon gefangen?$"
 
 Route2_EastBuilding_Text_GreatHereYouGo::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
-	.string "POKéMON gefangen!\p"
+	.string "Pokémon gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
 	.string "{PLAYER} received HM05\n"
-	.string "from the AIDE.$"
+	.string "from the Aide.$"
 
 Route2_EastBuilding_Text_ExplainHM05::
 	.string "... vielen Dank für deinen Brief!\n"
@@ -64,6 +64,6 @@ Route2_EastBuilding_Text_ExplainHM05::
 	.string "Lies meinen Brief nicht!$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-	.string "Ich mag die NACHAHMERIN!\n"
-	.string "Ich kaufe ihr eine POKéPUPPE!$"
+	.string "Ich mag die Nachahmerin!\n"
+	.string "Ich kaufe ihr eine Poképuppe!$"
 

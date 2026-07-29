@@ -31,19 +31,19 @@ Route34_DayCare_Bookshelf4::
 
 Route34_DayCare_Text_Bookshelf1:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
-	.string "TEIL 1: Über Fähigkeiten.$"
+	.string "Teil 1: Über Fähigkeiten.$"
 
 Route34_DayCare_Text_Bookshelf2:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
-	.string "TEIL 2: Typen.$"
+	.string "Teil 2: Typen.$"
 
 Route34_DayCare_Text_Bookshelf3:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
-	.string "TEIL 3: Geräusche von Babies.$"
+	.string "Teil 3: Geräusche von Babies.$"
 
 Route34_DayCare_Text_Bookshelf4:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
-	.string "TEIL 4: Süße Eigenheiten.$"
+	.string "Teil 4: Süße Eigenheiten.$"
 
 Route34_DayCare_EventScript_Clerk::
 	lock
@@ -151,9 +151,9 @@ Route34_DayCare_EventScript_ClerkAfter::
 	end
 
 Route34_DayCare_Text_ClerkBefore:
-	.string "Ich bin der Sohn des PENSIONS-\n"
+	.string "Ich bin der Sohn des Pensions-\n"
 	.string "Paars.\p"
-	.string "Ein SELTSAMES Ei wurde bei einem\n"
+	.string "Ein Seltsames Ei wurde bei einem\n"
 	.string "Trainer gefunden, doch er wollte\n"
 	.string "es nicht…\p"
 	.string "Ich könnte es dir geben…\n"
@@ -177,7 +177,7 @@ Route34_DayCare_Text_Rejection:
 	.string "genug mit Baby-Pokémon auskennt!$"
 
 Route34_DayCare_Text_ReceivedOddEgg:
-	.string "{PLAYER} erhielt das SELTSAME Ei.$"
+	.string "{PLAYER} erhielt das Seltsame Ei.$"
 
 Route34_DayCare_Text_TakeCare:
 	.string "Ich wusste, dass du der richtige\n"
@@ -497,7 +497,7 @@ Route34_Text_FriendlyWithOtherTrainersMon:
 	.string "freundlich zu {STR_VAR_2}s\n"
 	.string "{STR_VAR_3}. \p"
 	.string "Ich habe sogar gesehen, wie es\n"
-	.string "POST bekam.$"
+	.string "Post bekam.$"
 
 @ Unused
 Route34_Text_SeeWifeIfYouWantToPickUpMon:

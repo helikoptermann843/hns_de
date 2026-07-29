@@ -88,6 +88,6 @@ SilphCo_9F_Text_Grunt2PostBattle::
 	.string "Aber meine Brüder rächen mich!$"
 
 SilphCo_9F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "8 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "8 Og$"
 

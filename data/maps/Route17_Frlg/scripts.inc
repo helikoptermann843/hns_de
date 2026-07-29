@@ -137,26 +137,26 @@ Route17_Text_WatchOutForDiscardedItems::
 	.string "Achte auf weggeworfene Items!$"
 
 Route17_Text_SameSpeciesGrowDifferentRates::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Jedes POKéMON ist einzigartig.\p"
-	.string "Selbst gleiche POKéMON mit\n"
+	.string "Tipps für Trainer\p"
+	.string "Jedes Pokémon ist einzigartig.\p"
+	.string "Selbst gleiche Pokémon mit\n"
 	.string "identischem Level unterscheiden\l"
 	.string "sich voneinander.$"
 
 Route17_Text_PressBToStayInPlace::
-	.string "TIPPS FÜR TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Drücke den B-Knopf, um auch bei\n"
 	.string "Gefälle die Position zu halten.$"
 
 Route17_Text_RouteSign::
-	.string "ROUTE 17\n"
-	.string "PRISMANIA CITY - FUCHSANIA CITY$"
+	.string "Route 17\n"
+	.string "Prismania City - Fuchsania City$"
 
 Route17_Text_DontThrowGameThrowBalls::
 	.string "Ein Hinweis!\p"
 	.string "Gib niemals auf! Versuche dein\n"
-	.string "Glück mit POKéBÄLLEN!$"
+	.string "Glück mit Pokébällen!$"
 
 Route17_Text_CyclingRoadSign::
-	.string "Der RADWEG endet hier!$"
+	.string "Der Radweg endet hier!$"
 

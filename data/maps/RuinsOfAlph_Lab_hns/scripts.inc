@@ -26,18 +26,18 @@ RuinsOfAlph_Lab_EventScript_Fossils::
 	end
 
 RuinsOfAlph_Lab_Text_Scientist1:
-    .string "Die RUINEN sind etwa 1500 Jahre alt.\p"
+    .string "Die Ruinen sind etwa 1500 Jahre alt.\p"
     .string "Aber man weiß nicht, warum sie\n"
     .string "erbaut wurden oder von wem.$"
 
 RuinsOfAlph_Lab_Text_Scientist2:
-    .string "An den Wänden der RUINEN sind\n"
+    .string "An den Wänden der Ruinen sind\n"
     .string "seltsame Muster zu sehen.\p"
     .string "Sie müssen der Schlüssel sein, um\n"
-    .string "das Geheimnis der RUINEN zu lösen.$"
+    .string "das Geheimnis der Ruinen zu lösen.$"
 
 RuinsOfAlph_Lab_Text_Fossils:
-    .string "Fossilien, die in den RUINEN\n"
+    .string "Fossilien, die in den Ruinen\n"
     .string "gefunden wurden.\p"
     .string "Vielleicht gibt es noch mehr irgendwo…$"
 
@@ -299,7 +299,7 @@ RuinsOfAlph_Lab_EventScript_ReceiveLileepPC_Nuzlocke::
 	call Common_EventScript_NameReceivedBoxMon
 	goto RuinsOfAlph_Lab_EventScript_TransferLileepToPC
 	end
-	
+
 RuinsOfAlph_Lab_EventScript_TransferLileepToPC::
 	call Common_EventScript_TransferredToPC
 	goto RuinsOfAlph_Lab_EventScript_FinishReceivingLileep
@@ -404,7 +404,7 @@ RuinsOfAlph_Lab_EventScript_ReceiveOmanytePC_Nuzlocke::
 	call Common_EventScript_NameReceivedBoxMon
 	goto RuinsOfAlph_Lab_EventScript_TransferOmanyteToPC
 	end
-	
+
 RuinsOfAlph_Lab_EventScript_TransferOmanyteToPC::
 	call Common_EventScript_TransferredToPC
 	goto RuinsOfAlph_Lab_EventScript_FinishReceivingOmanyte
@@ -473,7 +473,7 @@ RuinsOfAlph_Lab_EventScript_ReceiveKabutoPC_Nuzlocke::
 	call Common_EventScript_NameReceivedBoxMon
 	goto RuinsOfAlph_Lab_EventScript_TransferKabutoToPC
 	end
-	
+
 RuinsOfAlph_Lab_EventScript_TransferKabutoToPC::
 	call Common_EventScript_TransferredToPC
 	goto RuinsOfAlph_Lab_EventScript_FinishReceivingKabuto
@@ -533,7 +533,7 @@ RuinsOfAlph_Lab_EventScript_ReceiveAeroPC_Nuzlocke::
 	call Common_EventScript_NameReceivedBoxMon
 	goto RuinsOfAlph_Lab_EventScript_TransferAeroToPC
 	end
-	
+
 RuinsOfAlph_Lab_EventScript_TransferAeroToPC::
 	call Common_EventScript_TransferredToPC
 	goto RuinsOfAlph_Lab_EventScript_FinishReceivingAero
@@ -610,40 +610,40 @@ RuinsOfAlph_Lab_EventScript_WorkOnNext::
 
 RuinsOfAlph_Lab_Text_DeviceForTalkingToPokemon:
     .string "Wir entwickeln ein Gerät, mit dem\n"
-    .string "man mit POKéMON sprechen kann.\p"
+    .string "man mit Pokémon sprechen kann.\p"
     .string "Aber wir hatten bisher nicht viel\n"
     .string "Erfolg…$"
 
 RuinsOfAlph_Lab_Text_DevelopingNewBalls:
     .string "Ich entwickle neue Arten von\n"
-    .string "POKéBALLS…\p"
+    .string "Pokéballs…\p"
     .string "Aber ich komme nicht richtig\n"
     .string "voran…$"
 
 RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
     .string "Wir haben endlich neue Arten von\n"
-    .string "POKéBALLS entwickelt!\p"
-    .string "Der WIEDERHOLBALL erleichtert es,\n"
-    .string "POKéMON zu fangen, die du schon\n"
+    .string "Pokéballs entwickelt!\p"
+    .string "Der Wiederholball erleichtert es,\n"
+    .string "Pokémon zu fangen, die du schon\n"
     .string "einmal gefangen hast.\p"
-    .string "Der TIMERBALL wird umso effektiver,\n"
+    .string "Der Timerball wird umso effektiver,\n"
     .string "je länger ein Kampf dauert.\p"
-    .string "Beide wurden stolz von der DEVON-\n"
-    .string "CORPORATION entwickelt.\p"
+    .string "Beide wurden stolz von der Devon-\n"
+    .string "Corporation entwickelt.\p"
     .string "Bitte probiere sie aus!$"
 
 RuinsOfAlph_Lab_Text_IMadePokenav:
-    .string "Ich habe den POKéCOM entwickelt!\p"
+    .string "Ich habe den Pokécom entwickelt!\p"
     .string "Als Ingenieur bin ich glücklich,\n"
     .string "so etwas Großartiges geschaffen zu\n"
     .string "haben!$"
 
 RuinsOfAlph_Lab_Text_WowThatsAPokenav:
     .string "Oh wow!\n"
-    .string "Das ist ein POKéCOM!\p"
+    .string "Das ist ein Pokécom!\p"
     .string "Er entstand aus dem Wunsch unseres\n"
-    .string "PRÄSIDENTEN, mehr über die Gefühle\l"
-    .string "von POKéMON zu erfahren.\p"
+    .string "Präsidenten, mehr über die Gefühle\l"
+    .string "von Pokémon zu erfahren.\p"
     .string "Möchtest du, dass ich dir seine\n"
     .string "Funktionen im Detail erkläre?\p"
     .string "Nein, nein. Ich denke, du wirst es\n"
@@ -651,23 +651,23 @@ RuinsOfAlph_Lab_Text_WowThatsAPokenav:
 
 RuinsOfAlph_Lab_Text_DeviceToVisualizePokemonDreams:
     .string "Ich versuche, ein Gerät zu entwickeln,\n"
-    .string "das die Träume von POKéMON sichtbar\l"
+    .string "das die Träume von Pokémon sichtbar\l"
     .string "macht…\p"
     .string "Aber es läuft nicht gut.$"
 
 RuinsOfAlph_Lab_Text_DevelopDeviceToResurrectFossils:
     .string "Ich habe versucht, ein Gerät zu\n"
-    .string "entwickeln, das POKéMON aus Fossilien\l"
+    .string "entwickeln, das Pokémon aus Fossilien\l"
     .string "wiederbelebt…\p"
     .string "Und es funktioniert!$"
 
 RuinsOfAlph_Lab_Text_WantToBringFossilBackToLife:
     .string "Warte! Das Ding, das du da hast…\n"
-    .string "Ist das ein POKéMON-Fossil?\p"
-    .string "Möchtest du dieses POKéMON wieder\n"
+    .string "Ist das ein Pokémon-Fossil?\p"
+    .string "Möchtest du dieses Pokémon wieder\n"
     .string "zum Leben erwecken?\p"
     .string "Das kann ich mit meinem neu\n"
-    .string "entwickelten FOSSILREGENERATOR.$"
+    .string "entwickelten Fossilregenerator.$"
 
 RuinsOfAlph_Lab_Text_OhIsThatSo:
     .string "Oh, ist das so?\p"
@@ -682,7 +682,7 @@ RuinsOfAlph_Lab_Text_TwoFossilsPickOne:
     .string "Oh, das ist eine Überraschung!\n"
     .string "Du hast mehr als ein Fossil?\p"
     .string "Leider kann meine Maschine nur ein\n"
-    .string "POKéMON gleichzeitig regenerieren.\p"
+    .string "Pokémon gleichzeitig regenerieren.\p"
     .string "Welches Fossil möchtest du\n"
     .string "wiederbeleben?$"
 
@@ -690,10 +690,10 @@ RuinsOfAlph_Lab_Text_HandedFossilToResearcher:
     .string "Ausgezeichnet!\n"
     .string "Dann legen wir sofort los.\p"
     .string "{PLAYER} übergab das {STR_VAR_1} an\n"
-    .string "den RUINEN-FORSCHER.$"
+    .string "den Ruinen-Forscher.$"
 
 RuinsOfAlph_Lab_Text_FossilRegeneratorTakesTime:
-    .string "Der FOSSILREGENERATOR, den ich gebaut\n"
+    .string "Der Fossilregenerator, den ich gebaut\n"
     .string "habe, ist unglaublich.\p"
     .string "Aber er hat einen Nachteil, er braucht\n"
     .string "viel Zeit.\p"
@@ -702,23 +702,23 @@ RuinsOfAlph_Lab_Text_FossilRegeneratorTakesTime:
 
 RuinsOfAlph_Lab_Text_FossilizedMonBroughtBackToLife:
     .string "Danke fürs Warten!\p"
-    .string "Dein versteinertes POKéMON wurde\n"
+    .string "Dein versteinertes Pokémon wurde\n"
     .string "wieder zum Leben erweckt!\p"
-    .string "Das Fossil war ein uraltes POKéMON.\n"
+    .string "Das Fossil war ein uraltes Pokémon.\n"
     .string "{STR_VAR_2}, es war es!$"
 
 RuinsOfAlph_Lab_Text_ReceivedMonFromResearcher:
     .string "{PLAYER} erhielt {STR_VAR_2} vom\n"
-    .string "FORSCHER.$"
+    .string "Forscher.$"
 
 @ Unused
 RuinsOfAlph_Lab_Text_TooManyPokemon:
-    .string "Oh nein, du hast zu viele POKéMON.\n"
+    .string "Oh nein, du hast zu viele Pokémon.\n"
     .string "Kein Platz für dieses hier.$"
 
 RuinsOfAlph_Lab_Text_DevelopNewPokenavFeature:
     .string "Ich versuche, eine neue Funktion\n"
-    .string "für den POKéCOM zu entwickeln…\p"
+    .string "für den Pokécom zu entwickeln…\p"
     .string "Aber es läuft nicht gut.$"
 
 RuinsOfAlph_Lab_Text_WhatToWorkOnNext:

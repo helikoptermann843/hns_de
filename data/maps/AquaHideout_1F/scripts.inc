@@ -51,9 +51,9 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "Was? Wie? Was hast du mit TEAM AQUA zu\n"
+	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser BOSS ist nicht hier! Er ist\n"
+	.string "Unser Boss ist nicht hier! Er ist\n"
 	.string "dabei,\n"
 	.string "sich etwas sehr Wichtiges unter den\l"
 	.string "Nagel zu reißen.\p"
@@ -64,16 +64,16 @@ AquaHideout_1F_Text_OurBossIsSnatchingSomething:
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 	.string "Was? Wie?!?\n"
-	.string "Du bist einer von TEAM MAGMA?\p"
-	.string "Ich habe gehört, dass TEAM MAGMA\n"
-	.string "versucht, ein großartiges POKéMON in\l"
-	.string "seinem VERSTECK aufzuwecken.\p"
-	.string "Aber wo ist das VERSTECK wohl?$"
+	.string "Du bist einer von Team Magma?\p"
+	.string "Ich habe gehört, dass Team Magma\n"
+	.string "versucht, ein großartiges Pokémon in\l"
+	.string "seinem Versteck aufzuwecken.\p"
+	.string "Aber wo ist das Versteck wohl?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "Was? Wie? Was hast du mit TEAM AQUA zu\n"
+	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser BOSS ist nicht hier! Er ist\n"
+	.string "Unser Boss ist nicht hier! Er ist\n"
 	.string "dabei,\n"
 	.string "sich ein U-Boot unter den Nagel zu\l"
 	.string "reißen.\p"
@@ -83,11 +83,11 @@ AquaHideout_1F_Text_BossWentToJackASubmarine:
 	.string "Ernst, dass ich dir das verrate!?!$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "Was? Wie? Was hast du mit TEAM AQUA zu\n"
+	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser BOSS ist nicht hier! Er ist auf\n"
-	.string "dem Weg nach PYROBERG auf der\l"
-	.string "ROUTE 122!\p"
+	.string "Unser Boss ist nicht hier! Er ist auf\n"
+	.string "dem Weg nach Pyroberg auf der\l"
+	.string "Route 122!\p"
 	.string "… …\n"
 	.string "Warum er dorthin ist?\p"
 	.string "Uahahaha! Du glaubst doch nicht im\n"
@@ -95,18 +95,18 @@ AquaHideout_1F_Text_BossIsOnRoute122:
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
 	.string "Was? Wie?!?\n"
-	.string "Bist du einer von den TEAM MAGMA\l"
+	.string "Bist du einer von den Team Magma\l"
 	.string "Rüpeln?\p"
-	.string "Ich habe gehört, dass TEAM MAGMA am\n"
-	.string "SCHLOTBERG nach einem unglaublichen\l"
-	.string "POKéMON sucht.\p"
-	.string "Was ist das wohl für ein POKéMON?$"
+	.string "Ich habe gehört, dass Team Magma am\n"
+	.string "Schlotberg nach einem unglaublichen\l"
+	.string "Pokémon sucht.\p"
+	.string "Was ist das wohl für ein Pokémon?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
-	.string "Was? Wie? Was hast du mit TEAM AQUA zu\n"
+	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser BOSS ist nicht hier! Er ist auf\n"
-	.string "dem Weg nach GRAPHITPORT CITY!\p"
+	.string "Unser Boss ist nicht hier! Er ist auf\n"
+	.string "dem Weg nach Graphitport City!\p"
 	.string "… …\n"
 	.string "Warum er dorthin ist?\p"
 	.string "Uahahaha! Du glaubst doch nicht im\n"

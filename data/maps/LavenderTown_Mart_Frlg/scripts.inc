@@ -40,22 +40,22 @@ LavenderTown_Mart_Items::
 
 LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 	.string "Ich suche nach Items, die die\n"
-	.string "Fähigkeiten meiner POKéMON während\l"
+	.string "Fähigkeiten meiner Pokémon während\l"
 	.string "eines Kampfes verbessern!\p"
-	.string "Zum Beispiel X-ANGRIFF, X-ABWEHR,\n"
-	.string "X-TEMPO und X-SPEZIAL.\p"
+	.string "Zum Beispiel X-Angriff, X-Abwehr,\n"
+	.string "X-Tempo und X-Spezial.\p"
 	.string "Weißt du, wo ich sie kaufen kann?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
 	.string "Der Vorsitzende redet sehr gerne\n"
-	.string "über POKéMON!$"
+	.string "über Pokémon!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
 	.string "Der Vorsitzende redet sehr gerne\n"
-	.string "über POKéMON!\p"
+	.string "über Pokémon!\p"
 	.string "Aber die Person, die von den\n"
-	.string "POKéMON am meisten\l"
-	.string "geliebt wird, ist SARAH!$"
+	.string "Pokémon am meisten\l"
+	.string "geliebt wird, ist Sarah!$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
 	.string "この　あいだ　やまおくで\n"

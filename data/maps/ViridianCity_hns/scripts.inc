@@ -22,10 +22,10 @@ ViridianCity_EventScript_OakCall::
 	end
 
 ViridianCity_Text_OakName:
-	.string "OAK$"
+	.string "Oak$"
 
 ViridianCity_Text_OakCall:
-	.string "EICH: Ah, {PLAYER}!\p"
+	.string "Eich: Ah, {PLAYER}!\p"
 	.string "Komm und besuche mich\n"
 	.string "im Labor in Alabastia\l"
 	.string "wenn du Zeit hast.$"
@@ -108,7 +108,7 @@ ViridianCity_Text_GrampsNearGym:
 
 ViridianCity_Text_GrampsNearGym_BlueReturned:
 	.string "Wirst du den\n"
-	.string "ARENALEITER herausfordern?\p"
+	.string "Arenaleiter herausfordern?\p"
 	.string "Viel Glück! Du wirst es brauchen.$"
 
 ViridianCity_Text_DreamEaterFisherNew:
@@ -124,7 +124,7 @@ ViridianCity_Text_DreamEaterFisher_GotTM::
 ViridianCity_Text_DreamEaterFisher:
 	.string "Gähn! Ich bin in der Sonne eingenickt!\n"
 	.string "Ich hatte einen ganz seltsamen Traum,\l"
-	.string "in dem TRAUMATO meine Träume frisst!\l"
+	.string "in dem Traumato meine Träume frisst!\l"
 	.string "…Nanu? Wo kommt denn diese TM her?\p"
 	.string "Schauder…\n"
 	.string "Das gefällt mir nicht!\l"
@@ -141,7 +141,7 @@ ViridianCity_Text_Youngster:
 	.string "verstreut liegen!$"
 
 ViridianCity_Text_Sign:
-	.string "VERTANIA CITY\p"
+	.string "Vertania City\p"
 	.string "Das Immergrüne Paradies$"
 
 ViridianCity_Text_GymSign:

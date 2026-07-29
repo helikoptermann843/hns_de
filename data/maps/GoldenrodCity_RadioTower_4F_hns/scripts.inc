@@ -90,7 +90,7 @@ GoldenrodCity_RadioTower_4F4_EventScript_Meowth::
 GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
 	.string "Lance: Halt!\p"
 	.string "…Ach? Dich kenne ich doch aus\n"
-	.string "dem FLEGMON-Brunnen? Dort hast du\l"
+	.string "dem Flegmon-Brunnen? Dort hast du\l"
 	.string "unsere Pläne schon einmal vereitelt…\p"
 	.string "Ah, verstehe… du legst es wohl darauf\n"
 	.string "an, unseren Zorn zu provozieren?\p"
@@ -99,7 +99,7 @@ GoldenrodCity_RadioTower_4F4_Text_Proton_Seen:
 	.string "mitglieds von Team Rocket!$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_Beaten:
-	.string "Puh…$"
+	.string "Pfuuuh…$"
 
 GoldenrodCity_RadioTower_4F4_Text_Proton_After:
 	.string "Lance: Mich magst du besiegt haben…\n"
@@ -114,7 +114,7 @@ GoldenrodCity_RadioTower_4F4_Text_Fisher:
 GoldenrodCity_RadioTower_4F4_Text_DJMary:
 	.string "Margit: Oh nein, wie konnte ich bloß in\n"
 	.string "so einen Schlamassel geraten?\p"
-	.string "Hilf mir, MAUZI! Hilf mir!$"
+	.string "Hilf mir, Mauzi! Hilf mir!$"
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryCleared:
 	.string "Margit: Du bist der Trainer, der\n"
@@ -131,7 +131,7 @@ GoldenrodCity_RadioTower_4F4_Text_DJMaryAfter:
 	.string "mit Prof. Eich und mir im Radio an, ja?$"
 
 GoldenrodCity_RadioTower_4F4_Text_Meowth:
-	.string "MAUZI: …Mauz!$"
+	.string "Mauzi: …Mauz!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntM10Seen:
 	.string "Du hast vor, den Intendanten zu\n"
@@ -147,7 +147,7 @@ GoldenrodCity_RadioTower_4F4_Text_GruntM10After:
 
 GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2Seen:
 	.string "Stopp! Man nennt mich die\n"
-	.string "TEAM-ROCKET-Festung!\p"
+	.string "Team-Rocket-Festung!\p"
 	.string "Keinen Schritt weiter!$"
 
 GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2Beaten:
@@ -191,4 +191,4 @@ GoldenrodCity_RadioTower_4F4_Text_ProductionSign:
 	.string "3S: Produktion$"
 
 GoldenrodCity_RadioTower_4F4_Text_Studio2Sign:
-	.string "3S STUDIO 2$"
+	.string "3S Studio 2$"

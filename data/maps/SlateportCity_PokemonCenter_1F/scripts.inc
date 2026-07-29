@@ -28,17 +28,17 @@ SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
 	.string "Möchtest du einen Tipp?\p"
 	.string "Ich sage dir, es ist wichtig, die\l"
 	.string "unter-\n"
-	.string "schiedlichsten POKéMON zu trainieren.\p"
+	.string "schiedlichsten Pokémon zu trainieren.\p"
 	.string "\p"
 	.string "Gleichmäßigkeit ist wichtig. Ein\n"
-	.string "einzelnes starkes POKéMON reicht\l"
+	.string "einzelnes starkes Pokémon reicht\l"
 	.string "nicht.\p"
 	.string "Wenn es vom Typ her Nachteile besitzt,\n"
-	.string "kann auch ein sehr starkes POKéMON\l"
+	.string "kann auch ein sehr starkes Pokémon\l"
 	.string "einen Kampf verlieren.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "Ich tausche mit Freunden POKéMON.\p"
-	.string "Und wenn ein getauschtes POKéMON ein\n"
+	.string "Ich tausche mit Freunden Pokémon.\p"
+	.string "Und wenn ein getauschtes Pokémon ein\n"
 	.string "Item trägt, bin ich umso glücklicher!$"
 

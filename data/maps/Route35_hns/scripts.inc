@@ -157,7 +157,7 @@ Route35_Text_BirdKeeperBryanAfter:
 	.string "daraus einen maßgefertigten Pokéball.$"
 
 Route35_Text_JugglerIrwinSeen:
-	.string "Sieh meine elegante BALL-Kunst!$"
+	.string "Sieh meine elegante Ball-Kunst!$"
 
 Route35_Text_JugglerIrwinBeaten:
 	.string "Puh, das war ein Schlag!$"
@@ -175,27 +175,27 @@ Route35_Text_BugCatcherArnieBeaten:
 	.string "Ich hätte nicht verlieren dürfen…$"
 
 Route35_Text_BugCatcherArnieAfter:
-	.string "Mit meinem BLUZUK habe ich das\n"
+	.string "Mit meinem Bluzuk habe ich das\n"
 	.string "Käferturnier im Nationalpark gewonnen.$"
 
 Route35_Text_ArnieRegister:
-    .string "Mein ONIX hat mir den Käferturnier-\n"
-    .string "Sieg im NATIONALPARK beschert.$"
+	.string "Mit meinem Bluzuk habe ich das\n"
+	.string "Käferturnier im Nationalpark gewonnen.$"
 
 Route35_Text_ArnieRematchIntro:
-    .string "Ich gehe überall hin, wenn es dort\n"
-    .string "KÄFER-POKéMON gibt.$"
+	.string "Mich zieht es überall dort hin, wo es\n"
+	.string "Käfer-Pokémon gibt!$"
 
 Route35_Text_ArnieRematchDefeat:
     .string "Hä? Das hätte ich doch nicht\n"
     .string "verlieren dürfen…$"
 
 Route35_Text_ArniePostRematch:
-    .string "Mein ONIX hat mir den Käferturnier-\n"
-    .string "Sieg im NATIONALPARK beschert.$"
+	.string "Mit meinem Bluzuk habe ich das\n"
+	.string "Käferturnier im Nationalpark gewonnen.$"
 
 Route35_Text_BugCatcherArnieYanma:
-	.string "Wow… Sieh, all die YANMA!\p"
+	.string "Wow… Sieh, all die Yanma!\p"
 	.string "Ich bin über-\n"
 	.string "wältigt und kann mich nicht rühren.$"
 

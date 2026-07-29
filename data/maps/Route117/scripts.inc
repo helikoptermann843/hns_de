@@ -216,7 +216,7 @@ Route117_EventScript_Aisha::
 	end
 
 Route117_Text_DayCarePokemonHadNewMove:
-	.string "Ich habe mein POKéMON in der PENSION\n"
+	.string "Ich habe mein Pokémon in der Pension\n"
 	.string "abgegeben.\p"
 	.string "Als ich es wieder abholte, kannte es\n"
 	.string "eine Attacke, die ich ihm nicht beige-\l"
@@ -232,13 +232,13 @@ Route117_Text_AirIsTastyHere:
 	.string "Die Luft hier ist wunderbar frisch.$"
 
 Route117_Text_RouteSignVerdanturf:
-	.string "ROUTE 117\n"
-	.string "{LEFT_ARROW} WIESENFLUR$"
+	.string "Route 117\n"
+	.string "{LEFT_ARROW} Wiesenflur$"
 
 Route117_Text_RouteSignMauville:
-	.string "ROUTE 117\n"
-	.string "{RIGHT_ARROW} MALVENFROH CITY$"
+	.string "Route 117\n"
+	.string "{RIGHT_ARROW} Malvenfroh City$"
 
 Route117_Text_DayCareSign:
-	.string "POKéMON-PENSION\n"
-	.string "“Lass uns deine POKéMON aufziehen.”$"
+	.string "Pokémon-Pension\n"
+	.string "“Lass uns deine Pokémon aufziehen.”$"

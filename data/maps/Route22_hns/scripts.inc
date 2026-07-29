@@ -3,7 +3,7 @@ Route22_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route22_OnTransition: 
+Route22_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -28,7 +28,7 @@ Route22_EventScript_TriggerBottom::
 	specialvar VAR_RESULT, CheckCelebi
 	goto_if_eq VAR_RESULT, FALSE, Route22_EventScript_DoNothing
 	goto Route22_EventScript_Scene
-	
+
 Route22_EventScript_TriggerTop::
 	goto_if_ne VAR_ROUTE22_GIOVANNI_STATE, 0, Route22_EventScript_DoNothing
 	specialvar VAR_RESULT, CheckCelebi
@@ -202,15 +202,15 @@ Route22_EventScript_PlayerFaceSouth::
 Route22_EventScript_PlayerFaceWest::
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST
 	return
-	
+
 Route22_EventScript_PlayerFaceNorth::
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	return
-	
+
 Route22_EventScript_PlayerFaceEast::
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_EAST
 	return
-	
+
 Route22_Movement_CameraPanLeft:
 	walk_up
 	walk_left
@@ -338,7 +338,7 @@ Route22_Text_Silver4:
 	.string "Ich werde ganz alleine stark werden!$"
 
 Route22_Text_Silver5:
-	.string "ALLEIN!$"
+	.string "Allein!$"
 
 Route22_Text_Silver6:
 	.string "{RIVAL}: ...Wieso starrst du?$"

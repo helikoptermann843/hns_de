@@ -63,20 +63,20 @@ PetalburgCity_Mart_EventScript_Man::
 	end
 
 PetalburgCity_Mart_Text_WeakWillGrowStronger:
-	.string "Auch wenn ein POKéMON jetzt noch\n"
+	.string "Auch wenn ein Pokémon jetzt noch\n"
 	.string "schwach ist - es wird ständig stärker.\n"
 	.string "\p"
 	.string "Das Schlüsselwort heißt Liebe!\n"
-	.string "Liebe für deine POKéMON!$"
+	.string "Liebe für deine Pokémon!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful:
-	.string "Setzt du SCHUTZ ein?\n"
-	.string "Das hält POKéMON fern und ist sehr\l"
+	.string "Setzt du Schutz ein?\n"
+	.string "Das hält Pokémon fern und ist sehr\l"
 	.string "nützlich, wenn du es eilig hast.$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
-	.string "Hast du etwas GEGENGIFT dabei?\p"
-	.string "Ein vergiftetes POKéMON verliert\n"
+	.string "Hast du etwas Gegengift dabei?\p"
+	.string "Ein vergiftetes Pokémon verliert\n"
 	.string "ständig KP, bis es kampfunfähig wird.\l"
-	.string "Halte deshalb stets GEGENGIFT bereit!$"
+	.string "Halte deshalb stets Gegengift bereit!$"
 

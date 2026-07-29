@@ -287,7 +287,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals_hns:
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons_hns:
-	.string "Bitte wähle zwei POKéMON aus, die\n"
+	.string "Bitte wähle zwei Pokémon aus, die\n"
 	.string "am Kampf teilnehmen sollen.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay_hns:
@@ -295,7 +295,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay_hns:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth_hns:
 	.string "Vielen Dank für die Teilnahme!\p"
-	.string "Deine POKéMON sind gleich wieder\n"
+	.string "Deine Pokémon sind gleich wieder\n"
 	.string "topfit!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete_hns:
@@ -322,7 +322,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals_hns:
 	.string "Glückwunsch! Du hast es bis zum finalen\n"
 	.string "Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 @ Unused
@@ -330,12 +330,12 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
 	.string "Glückwunsch! Du hast es bis zum finalen\n"
 	.string "Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer_hns:
 	.string "Der nächste Gegner von {PLAYER} ist\n"
-	.string "dieser TRAINER.$"
+	.string "dieser Trainer.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1_hns:
 	.string "Das Turnier befindet sich in der\n"
@@ -343,19 +343,17 @@ BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1_hns:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2_hns:
 	.string "Das Turnier befindet sich in der\n"
-	.string "1. Runde.$"
-
-BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals_hns:
-	.string "Das Turnier befindet sich in der\n"
 	.string "2. Runde.$"
 
+BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals_hns:
+	.string "Das Turnier befindet sich im Halbfinale.$"
+
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals_hns:
-	.string "Das Turnier befindet sich im\n"
-	.string "Halbfinale.$"
+	.string "Das Turnier befindet sich im Finale.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du speichern und\n"
-	.string "das Spiel beenden?$"
+	.string "Möchtest du das Spiel speichern und\n"
+	.string "beenden?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge_hns:
 	.string "Möchtest du dich aus dem Turnier\n"
@@ -367,13 +365,13 @@ BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait_hns:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch_hns:
 	.string "Soll ich den letzten Kampf in deinen\n"
-	.string "KAMPFZONENPASS eintragen?$"
+	.string "Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver_hns:
 	.string "Glückwunsch! Du hast es bis zum\n"
 	.string "finalen Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 @ Identical to ReadyForTuckerSilver
@@ -381,14 +379,14 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold_hns:
 	.string "Glückwunsch! Du hast es bis zum\n"
 	.string "finalen Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver_hnsShort_hns:
 	.string "Dies ist das Finale. Du trittst gegen\n"
-	.string "TASSO an. Bist du bereit?$"
+	.string "Tasso an. Bist du bereit?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold_hnsShort_hns:
 	.string "Dies ist das Finale. Du trittst gegen\n"
-	.string "TASSO an. Bist du bereit?$"
+	.string "Tasso an. Bist du bereit?$"

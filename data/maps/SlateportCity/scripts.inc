@@ -920,7 +920,7 @@ SlateportCity_EventScript_BerryCrushRankingsSign::
 	end
 
 SlateportCity_Text_EnergyGuruSellWhatYouNeed:
-	.string "Ich bin der STATUSWERTE GURU!\n"
+	.string "Ich bin der Statuswerte Guru!\n"
 	.string "Ich werde dir verkaufen, was du\l"
 	.string "brauchst!$"
 
@@ -930,29 +930,29 @@ SlateportCity_Text_OhYourPokemon:
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
 	.string "Es hat sich enorm angestrengt!\p"
 	.string "Gib ihm als Belohnung bitte dieses\n"
-	.string "FLEISS-BAND.$"
+	.string "Fleiß-Band.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
-	.string "{PLAYER} erhält das FLEISS-BAND.$"
+	.string "{PLAYER} erhält das Fleiß-Band.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
 	.string "{PLAYER} steckt {STR_VAR_1} das\n"
-	.string "FLEISS-BAND an.$"
+	.string "Fleiß-Band an.$"
 
 SlateportCity_Text_GoForItLittleHarder:
 	.string "Du musst dich mehr anstrengen.\p"
-	.string "Dann gebe ich dir und deinen POKéMON\n"
+	.string "Dann gebe ich dir und deinen Pokémon\n"
 	.string "ein schönes Geschenk.$"
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
 	.string "Oh! Dein {STR_VAR_1} sieht gut mit dem\n"
-	.string "FLEISS-BAND aus!$"
+	.string "Fleiß-Band aus!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
 	.string "Das Licht dieses Leuchtturms sieht man\n"
 	.string "dutzende von Kilometern weit.\p"
 	.string "Ich frage mich, ob es nicht die\n"
-	.string "POKéMON im Meer verwirrt.$"
+	.string "Pokémon im Meer verwirrt.$"
 
 SlateportCity_Text_SeaweedFullOfLife:
 	.string "Ooh, schau dir das an!\p"
@@ -971,37 +971,37 @@ SlateportCity_Text_HowTownIsBornAndGrows:
 SlateportCity_Text_SlateportWonderfulPlace:
 	.string "Einkaufen, wo man die salzige Luft des\n"
 	.string "Meeres einatmen kann…\p"
-	.string "GRAPHITPORT CITY ist so ein toller\n"
+	.string "Graphitport City ist so ein toller\n"
 	.string "Ort!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "Wenn du PUPPEn oder KISSEN einfach auf\n"
+	.string "Wenn du Puppen oder Kissen einfach auf\n"
 	.string "den Boden legst, werden sie schmutzig.\n"
 	.string "\p"
-	.string "Ich kaufe mir einige BACKSTEINe, auf\n"
-	.string "die ich meine PUPPEn und KISSEN lege.\l"
+	.string "Ich kaufe mir einige Backsteine, auf\n"
+	.string "die ich meine Puppen und Kissen lege.\l"
 	.string "So bleiben sie schön sauber.$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wroooaaar! Ich werde auch im KAMPFCAMP\n"
+	.string "Wroooaaar! Ich werde auch im Kampfcamp\n"
 	.string "mein Können unter Beweis stellen! \p"
 	.string "Aber vorher muss ich mir einige\n"
-	.string "POKéMON fangen!$"
+	.string "Pokémon fangen!$"
 
 SlateportCity_Text_BushedHikingFromMauville:
 	.string "Puuuh… Ich bin fix und fertig…\p"
-	.string "Ich komme aus MALVENFROH CITY. Diese\n"
+	.string "Ich komme aus Malvenfroh City. Diese\n"
 	.string "Stadt ist vielleicht groß! Riesengroß!\n"
 	.string "\p"
 	.string "Hätte ich das gewusst, wäre ich mit\n"
-	.string "dem RAD gekommen.$"
+	.string "dem Rad gekommen.$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "Der Typ, der das MUSEUM gebaut\n"
+	.string "Der Typ, der das Museum gebaut\n"
 	.string "hat, ist auch der Leiter eines Teams\n"
 	.string "zur\l"
 	.string "Erforschung der Tiefsee.\p"
-	.string "Daher nennt ihn jeder KAPT. BRIGG.$"
+	.string "Daher nennt ihn jeder Kapt. Brigg.$"
 
 SlateportCity_Text_WhatsLongLineOverThere:
 	.string "Was ist das dort drüben?\n"
@@ -1009,7 +1009,7 @@ SlateportCity_Text_WhatsLongLineOverThere:
 
 SlateportCity_Text_VisitedMuseumOften:
 	.string "Als ich noch ein Kind war, war ich oft\n"
-	.string "in dem MUSEUM.\p"
+	.string "in dem Museum.\p"
 	.string "Ich habe danach immer von den\n"
 	.string "Mysterien des Meeres geträumt.$"
 
@@ -1018,23 +1018,23 @@ SlateportCity_Text_QuitPushing:
 	.string "Wir stehen hier ordentlich an!$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA verfolgt die Strategie des\n"
+	.string "Team Aqua verfolgt die Strategie des\n"
 	.string "Versammelns und Verteilens.$"
 
 SlateportCity_Text_BossIsBrilliant:
-	.string "Unser BOSS ist brillant.\p"
+	.string "Unser Boss ist brillant.\p"
 	.string "Wozu er jetzt wohl Interesse am\n"
-	.string "MUSEUM zeigt?$"
+	.string "Museum zeigt?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
 	.string "Was hat diese neue Masche zu bedeuten?\n"
 	.string "\p"
-	.string "Unser BOSS ist richtig Furcht ein-\n"
+	.string "Unser Boss ist richtig Furcht ein-\n"
 	.string "flößend, wenn er so abgedreht ist. Ich\l"
 	.string "halte lieber Abstand und frage nicht…$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "Wenn es im MUSEUM etwas Brauchbares\n"
+	.string "Wenn es im Museum etwas Brauchbares\n"
 	.string "gibt, dann müssen wir das an uns\l"
 	.string "nehmen!$"
 
@@ -1087,37 +1087,37 @@ SlateportCity_Text_HotSpringsAfterOperation:
 SlateportCity_Text_SeaIsSoWet:
 	.string "Das Meer ist wirklich überwältigend…\p"
 	.string "Ob es durch die vergossenen Tränen der\n"
-	.string "POKéMON entstanden ist?$"
+	.string "Pokémon entstanden ist?$"
 
 SlateportCity_Text_SinkOldBoats:
 	.string "Weißt du, was mit alten, nicht mehr\n"
 	.string "seetüchtigen Schiffen gemacht wird?\p"
 	.string "Sie werden im Meer versenkt und so\n"
-	.string "zu Lebensraum für POKéMON.$"
+	.string "zu Lebensraum für Pokémon.$"
 
 SlateportCity_Text_BuyTooMuch:
 	.string "Immer wenn ich hierher komme, vergesse\n"
 	.string "ich mich und kaufe wie bescheuert ein.$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "Wenn du die Kosenamen deiner POKéMON\n"
-	.string "ändern willst, solltest du den NAMEN-\l"
-	.string "BEWERTER um Hilfe bitten.$"
+	.string "Wenn du die Kosenamen deiner Pokémon\n"
+	.string "ändern willst, solltest du den Namen-\l"
+	.string "bewerter um Hilfe bitten.$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Erhältst du ein POKéMON durch Tausch,\n"
+	.string "Erhältst du ein Pokémon durch Tausch,\n"
 	.string "kannst du den Kosenamen nicht ändern.\n"
 	.string "\p"
-	.string "Die Liebe des ursprünglichen TRAINERs\n"
+	.string "Die Liebe des ursprünglichen Trainers\n"
 	.string "drückt sich in dem Kosenamen aus.$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
-	.string "In GRAPHITPORT CITY wurde vor kurzem\n"
-	.string "ein KAMPFCAMP aufgebaut.\p"
-	.string "ARENen machen Spaß, aber die KAMPF-\n"
-	.string "CAMPs sind einfach unglaublich!\p"
+	.string "In Graphitport City wurde vor kurzem\n"
+	.string "ein Kampfcamp aufgebaut.\p"
+	.string "Arenen machen Spaß, aber die Kampf-\n"
+	.string "camps sind einfach unglaublich!\p"
 	.string "Such dir aber erst ein paar starke\n"
-	.string "POKéMON, bevor du in ein KAMPFCAMP\l"
+	.string "Pokémon, bevor du in ein Kampfcamp\l"
 	.string "gehst.$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
@@ -1126,7 +1126,7 @@ SlateportCity_Text_CaptSternBeingInterviewed:
 	.string "Star. Dann hätte ich mir ein Autogramm\l"
 	.string "geben lassen.\p"
 	.string "Aber wer wird denn da interviewt?\n"
-	.string "Ist das nicht KAPT. BRIGG?$"
+	.string "Ist das nicht Kapt. Brigg?$"
 
 SlateportCity_Text_InterviewerSoCool:
 	.string "Die Interviewerin ist so cool und\n"
@@ -1135,14 +1135,14 @@ SlateportCity_Text_InterviewerSoCool:
 	.string "weltberühmter Journalist.$"
 
 SlateportCity_Text_SternSaysDiscoveredSomething:
-	.string "KAPT. BRIGG sagt, sie hätten etwas auf\n"
+	.string "Kapt. Brigg sagt, sie hätten etwas auf\n"
 	.string "dem Meeresgrund entdeckt.\p"
 	.string "Ich frage mich, was das wohl ist.\n"
 	.string "Was könnte das sein???$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
 	.string "Was ist denn hier los?\p"
-	.string "Hat KAPT. BRIGG etwa einen Riesen-\n"
+	.string "Hat Kapt. Brigg etwa einen Riesen-\n"
 	.string "fisch vom Meeresgrund mitgebracht?$"
 
 SlateportCity_Text_AmIOnTV:
@@ -1151,23 +1151,23 @@ SlateportCity_Text_AmIOnTV:
 
 SlateportCity_Text_CaptainsACelebrity:
 	.string "Ein TV-Interview! Hier!!!\n"
-	.string "Der KAPITÄN ist ein Star!$"
+	.string "Der Kapitän ist ein Star!$"
 
 SlateportCity_Text_BigSmileForCamera:
-	.string "UDO: Okay, KAPT. BRIGG, schenken Sie\n"
+	.string "Udo: Okay, Kapt. Brigg, schenken Sie\n"
 	.string "unserer Kamera Ihr schönstes Lächeln!$"
 
 SlateportCity_Text_MostInvaluableExperience:
-	.string "PIA: Ich verstehe, ich verstehe. Sie\n"
+	.string "Pia: Ich verstehe, ich verstehe. Sie\n"
 	.string "haben eine unschätzbare Entdeckung\l"
 	.string "gemacht…$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "KAPT. BRIGG: Ja, genau. Wir haben vor,\n"
+	.string "Kapt. Brigg: Ja, genau. Wir haben vor,\n"
 	.string "unsere Expedition weiter fortzuführen.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "PIA: Das ist wunderbar, KAPT. BRIGG!\n"
+	.string "Pia: Das ist wunderbar, Kapt. Brigg!\n"
 	.string "Vielen Dank, dass Sie trotz Ihres\n"
 	.string "vollen\l"
 	.string "Terminkalenders Zeit für uns gefunden\l"
@@ -1177,7 +1177,7 @@ SlateportCity_Text_GabbyWonderfulThanksForInterview:
 	.string "dürfen!$"
 
 SlateportCity_Text_SternWhewFirstInterview:
-	.string "KAPT. BRIGG: Puuh…\p"
+	.string "Kapt. Brigg: Puuh…\p"
 	.string "Das war das erste Mal, dass ich für\n"
 	.string "eine\n"
 	.string "Fernsehsendung interviewt wurde. Ich\l"
@@ -1189,24 +1189,24 @@ SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "Wir haben bei unserer letzten Tiefsee-\n"
 	.string "Expedition eine großartige Entdeckung\l"
 	.string "gemacht. \p"
-	.string "Wir haben auf der ROUTE 128 eine\n"
+	.string "Wir haben auf der Route 128 eine\n"
 	.string "Unter- wasserhöhle entdeckt.\p"
 	.string "Wir glauben, es ist die Höhle eines\n"
-	.string "POKéMON, das schon lange ausge-\l"
+	.string "Pokémon, das schon lange ausge-\l"
 	.string "storben ist.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Hähähä… KAPT. BRIGG, nehme ich an.\p"
-	.string "Wir von TEAM AQUA werden das U-Boot\n"
+	.string "Hähähä… Kapt. Brigg, nehme ich an.\p"
+	.string "Wir von Team Aqua werden das U-Boot\n"
 	.string "in unsere Gewalt nehmen!\p"
 	.string "Eure Einwände sind bedeutungslos!\n"
 	.string "Wir erwarten absolute Kooperation!\p"
 	.string "Hähähä…\n"
 	.string "Mal sehen, was ihr zu den Plänen von\l"
-	.string "TEAM AQUA sagt!$"
+	.string "Team Aqua sagt!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "KAPT. BRIGG: Was soll das Ganze?\p"
+	.string "Kapt. Brigg: Was soll das Ganze?\p"
 	.string "Sieht aus, als benutze jemand ein\n"
 	.string "Megaphon…\p"
 	.string "Wo kommt das her?$"
@@ -1220,152 +1220,152 @@ SlateportCity_Text_PleaseComeWithMe:
 	.string "{PLAYER}{KUN}! Bitte, komm mit mir!$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "KAMPFCAMP GRAPHITPORT CITY\n"
-	.string "“Finde es! Das ultimative POKéMON!”$"
+	.string "Kampfcamp Graphitport City\n"
+	.string "“Finde es! Das ultimative Pokémon!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
-	.string "BRIGGWERFT\p"
+	.string "Briggwerft\p"
 	.string "“Gesucht: Ein erfahrener Seemann,\n"
 	.string "der die Gefahr nicht scheut.”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
-	.string "BRIGGWERFT\p"
-	.string "“Die Fähre MS TIDE wird bald fertig\n"
+	.string "Briggwerft\p"
+	.string "“Die Fähre MS Tide wird bald fertig\n"
 	.string "gestellt sein und die Häfen von\l"
-	.string "GRAPHITPORT CITY und SEEGRASULB CITY\l"
+	.string "Graphitport City und Seegrasulb City\l"
 	.string "bedienen.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
-	.string "BRIGGWERFT\p"
-	.string "“Bordkarten für die GRAPHITPORT CITY-\n"
-	.string "SEEGRASULB CITY Fähre MS TIDE werden\l"
-	.string "am HAFEN ausgegeben.”$"
+	.string "Briggwerft\p"
+	.string "“Bordkarten für die Graphitport City-\n"
+	.string "Seegrasulb City Fähre MS Tide werden\l"
+	.string "am Hafen ausgegeben.”$"
 
 SlateportCity_Text_PokemonFanClubSign:
-	.string "POKéMON-FANCLUB\n"
-	.string "“Wir rufen alle Fans der POKéMON!”$"
+	.string "Pokémon-Fanclub\n"
+	.string "“Wir rufen alle Fans der Pokémon!”$"
 
 SlateportCity_Text_OceanicMuseumSign:
-	.string "OZEANMUSEUM\p"
+	.string "Ozeanmuseum\p"
 	.string "“Das unendliche Meer erhält\n"
 	.string "alles Leben.”$"
 
 SlateportCity_Text_CitySign:
-	.string "GRAPHITPORT CITY\p"
+	.string "Graphitport City\p"
 	.string "“Der Hafen, an dem sich Menschen\n"
-	.string "und POKéMON begegnen.”$"
+	.string "und Pokémon begegnen.”$"
 
 SlateportCity_Text_MarketSign:
-	.string "GRAPHITPORT CITY MARKT\n"
+	.string "Graphitport City Markt\n"
 	.string "“Einzigartige Items, die es\l"
 	.string "nirgendwo sonst gibt!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
-	.string "HAFEN GRAPHITPORT CITY\p"
-	.string "“Die Fähre MS TIDE wird momentan\n"
-	.string "in der WERFT gebaut. \p"
+	.string "Hafen Graphitport City\p"
+	.string "“Die Fähre MS Tide wird momentan\n"
+	.string "in der Werft gebaut. \p"
 	.string "Die Fähre wird so bald wie möglich\n"
 	.string "ihren Dienst aufnehmen.”$"
 
 SlateportCity_Text_HarborSign:
-	.string "HAFEN GRAPHITPORT CITY\p"
+	.string "Hafen Graphitport City\p"
 	.string "“Genießen Sie die entspannende Fahrt\n"
-	.string "mit der Fähre MS TIDE.”$"
+	.string "mit der Fähre MS Tide.”$"
 
 SlateportCity_Text_NameRatersHouseSign:
-	.string "HAUS DES NAMENBEWERTERS\n"
-	.string "“Bewertung von POKéMON-Kosenamen.”$"
+	.string "Haus des Namenbewerters\n"
+	.string "“Bewertung von Pokémon-Kosenamen.”$"
 
 SlateportCity_Text_ExplainBerries:
-	.string "Verletzt sich ein wildes POKéMON,\n"
-	.string "heilt es sich, indem es BEEREn isst.\p"
+	.string "Verletzt sich ein wildes Pokémon,\n"
+	.string "heilt es sich, indem es Beeren isst.\p"
 	.string "Wusstest du das?\p"
 	.string "Irgendjemand hat dies beobachtet und\n"
-	.string "kam so auf die Idee, aus BEEREn\n"
+	.string "kam so auf die Idee, aus Beeren\n"
 	.string "Medizin\l"
 	.string "herzustellen.\p"
 	.string "Und weißt du noch etwas?\p"
-	.string "Um aus BEEREn Medizin herzustellen,\n"
+	.string "Um aus Beeren Medizin herzustellen,\n"
 	.string "muss man sie zu Pulver verarbeiten.\p"
 	.string "Wusstest du das?\p"
 	.string "Du scheinst sehr interessiert an\n"
-	.string "BEEREn zu sein!\p"
+	.string "Beeren zu sein!\p"
 	.string "Ich habe etwas Gutes für jemanden\n"
 	.string "wie dich.$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "Ich habe vor kurzem in den POKéMON-\n"
-	.string "CENTERn Maschinen installiert,\l"
-	.string "mit denen man BEEREn mahlen kann.\p"
-	.string "Du findest sie im DIREKTKLUB\n"
+	.string "Ich habe vor kurzem in den Pokémon-\n"
+	.string "Centern Maschinen installiert,\l"
+	.string "mit denen man Beeren mahlen kann.\p"
+	.string "Du findest sie im Direktklub\n"
 	.string "im oberen Stockwerk.\p"
 	.string "Wusstest du das?\p"
 	.string "Kannst du mit dieser Maschine\n"
-	.string "BEERENPUDER für mich\lherstellen?\p"
+	.string "Beerenpuder für mich\lherstellen?\p"
 	.string "Ich werde Medizin herstellen,\n"
-	.string "wenn du mir BEERENPUDER\lbringst.$"
+	.string "wenn du mir Beerenpuder\lbringst.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
-	.string "Hast du mir BEERENPUDER\ngebracht?$"
+	.string "Hast du mir Beerenpuder\ngebracht?$"
 
 SlateportCity_Text_ExchangeWhatWithIt:
 	.string "Wogegen möchtest du ihn tauschen?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
 	.string "Gut, ich gebe dir {STR_VAR_1} im\n"
-	.string "Austausch für deinen\lBEERENPUDER!$"
+	.string "Austausch für deinen\lBeerenpuder!$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
 	.string "Hm? Du hast nicht genügend\n"
-	.string "BEERENPUDER!$"
+	.string "Beerenpuder!$"
 
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
 	.string "Das ist wirklich erstklassiger\n"
-	.string "BEERENPUDER! Daraus lässt\l"
+	.string "Beerenpuder! Daraus lässt\l"
 	.string "sich gute Medizin herstellen. \p"
-	.string "Möchtest du noch mehr BEERENPUDER\n"
+	.string "Möchtest du noch mehr Beerenpuder\n"
 	.string "tauschen?$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
-	.string "Fein! Wenn du mehr BEERENPUDER hast,\n"
+	.string "Fein! Wenn du mehr Beerenpuder hast,\n"
 	.string "kannst du mir ihn bitte geben?$"
 
 SlateportCity_Text_ComeBackToTradeBerryPowder:
 	.string "Komm einfach vorbei, wenn du\n"
-	.string "BEERENPUDER tauschen möchtest! \p"
+	.string "Beerenpuder tauschen möchtest! \p"
 	.string "Ich leite hier den Bazar und bin daher\n"
 	.string "ständig hier. \p"
 	.string "Wusstest du das?$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Wie?\n"
+	.string "Scott: Wie?\n"
 	.string "Ich bin mir sicher, dich irgendwo\n"
 	.string "schon\l"
 	.string "mal gesehen zu haben.\p"
 	.string "Habe ich mich eigentlich schon\n"
-	.string "vorgestellt? Ich bin SCOTT.\p"
-	.string "Eben ist TEAM AQUA von hier geflohen,\n"
+	.string "vorgestellt? Ich bin Scott.\p"
+	.string "Eben ist Team Aqua von hier geflohen,\n"
 	.string "als sei eine Horde Hornissen hinter\l"
 	.string "ihnen her.\p"
 	.string "Lass mich raten - du hast sie verjagt?$"
 
 SlateportCity_Text_MaybeThisTrainer:
-	.string "SCOTT: Hmm…\n"
-	.string "Vielleicht, vielleicht dieser TRAINER…$"
+	.string "Scott: Hmm…\n"
+	.string "Vielleicht, vielleicht dieser Trainer…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: Sehr gut! Ich denke, wir werden\n"
+	.string "Scott: Sehr gut! Ich denke, wir werden\n"
 	.string "gute Freunde werden. \p"
-	.string "Wir sollten uns in unseren POKéNAVs\n"
+	.string "Wir sollten uns in unseren Pokénavs\n"
 	.string "eintragen. \p"
 	.string "… … … … …\n…$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Dieser SCOTT wurde im POKéNAV-\n"
+	.string "Dieser Scott wurde im Pokénav-\n"
 	.string "Verzeichnis eingetragen.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: Ich würde dich gerne auf deinem\n"
+	.string "Scott: Ich würde dich gerne auf deinem\n"
 	.string "Weg begleiten, aber natürlich möchte\l"
 	.string "ich auch andere Talente im Auge \p"
 	.string "behalten. Daher werde ich jetzt andere\n"
@@ -1373,14 +1373,14 @@ SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
 	.string "Wir sehen uns, {PLAYER}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
-	.string "SCOTT: Oh, hey!\n"
+	.string "Scott: Oh, hey!\n"
 	.string "Wenn das nicht {PLAYER}{KUN} ist!\p"
 	.string "Lass mich raten, {PLAYER}{KUN} - du\l"
 	.string "stellst\n"
-	.string "dich der Herausforderung im KAMPFCAMP?\p"
+	.string "dich der Herausforderung im Kampfcamp?\p"
 	.string "\p"
 	.string "Yeah! Eine gute Idee!\n"
 	.string "Eine wirklich sehr gute Idee!\p"
-	.string "Denn ein starker TRAINER ist wie\n"
-	.string "geschaffen für das KAMPFCAMP! \p"
+	.string "Denn ein starker Trainer ist wie\n"
+	.string "geschaffen für das Kampfcamp! \p"
 	.string "Gib dein Bestes!$"

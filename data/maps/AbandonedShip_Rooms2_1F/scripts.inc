@@ -62,7 +62,7 @@ AbandonedShip_Rooms2_1F_Text_DanPostBattle:
 	.string "Ob uns jemand zuvorgekommen ist?$"
 
 AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons:
-	.string "MAX: Du hast keine zwei POKéMON.\n"
+	.string "Max: Du hast keine zwei Pokémon.\n"
 	.string "So kannst du nicht gegen uns antreten.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraIntro:
@@ -79,12 +79,12 @@ AbandonedShip_Rooms2_1F_Text_KiraPostBattle:
 	.string "würde, wenn ich reich wäre…$"
 
 AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
-	.string "JULE: Hast du keine zwei POKéMON?\n"
+	.string "Jule: Hast du keine zwei Pokémon?\n"
 	.string "Dann können wir jetzt nicht kämpfen.$"
 
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
-	.string "JULE: Du machst mich echt wütend!\n"
-	.string "Ich werde dich im POKéNAV eintragen.$"
+	.string "Jule: Du machst mich echt wütend!\n"
+	.string "Ich werde dich im Pokénav eintragen.$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
 	.string "Max: Wir haben die ganze Zeit nur nach\n"

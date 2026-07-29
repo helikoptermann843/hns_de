@@ -87,7 +87,7 @@ RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "Oh, hallo!\n"
-	.string "Willkommen im Hause SCHLÄFER.\p"
+	.string "Willkommen im Hause Schläfer.\p"
 	.string "Ich würde dir gerne eine Frage\n"
 	.string "stellen. Hast du jemals auf ein Kind\l"
 	.string "aufgepasst?\p"
@@ -96,7 +96,7 @@ RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
 	.string "und ein Kind zu haben, ist eine völlig\l"
 	.string "neue Erfahrung für mich.\p"
 	.string "Ich habe ein Problem: Meine Tochter\n"
-	.string "TAPETRA lacht so selten.\p"
+	.string "Tapetra lacht so selten.\p"
 	.string "Vielleicht lacht sie ja für mich, wenn\n"
 	.string "ich ihr etwas Lustiges erzähle…\p"
 	.string "Fällt dir nicht etwas Lustiges ein,\n"
@@ -133,7 +133,7 @@ RustboroCity_Flat1_2F_Text_LetsGiveItATry:
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "{STR_VAR_1}. {STR_VAR_1}.\p"
 	.string "Hmmm… Sie lächelt noch nicht\n"
-	.string "einmal… Vielleicht ist TAPETRA\l"
+	.string "einmal… Vielleicht ist Tapetra\l"
 	.string "ja einfach nur ein sehr ernstes Kind…$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
@@ -146,7 +146,7 @@ RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}. {STR_VAR_1}.\p"
 	.string "Hmmm… Sie lächelt noch nicht\n"
-	.string "einmal… Vielleicht ist TAPETRA\l"
+	.string "einmal… Vielleicht ist Tapetra\l"
 	.string "ja einfach nur ein sehr ernstes Kind…$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
@@ -159,22 +159,22 @@ RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "Vielen Dank!\p"
-	.string "Dank dir hat meine TAPETRA\n"
+	.string "Dank dir hat meine Tapetra\n"
 	.string "für mich gelacht!\p"
 	.string "Ich mag vielleicht nicht so aussehen,\n"
 	.string "aber ich bin einer der Topforscher der\l"
-	.string "DEVON CORPORATION.\p"
+	.string "Devon Corporation.\p"
 	.string "Ich würde dir gerne etwas zum Dank\n"
 	.string "schenken.\p"
 	.string "Da fällt mir was ein! Ich werde dir\n"
-	.string "für die BOXen in deinem POKéMON-\p"
-	.string "LAGERUNGS-SYSTEM ein neues\n"
+	.string "für die Boxen in deinem Pokémon-\p"
+	.string "Lagerungs-System ein neues\n"
 	.string "Hintergrund-Muster schenken!\p"
 	.string "Wenn du dich dort im Menü befindest,\n"
-	.string "dann wähle einfach “FREUNDE”.\p"
+	.string "dann wähle einfach “Freunde”.\p"
 	.string "Damit kannst du auf die neuen Muster\n"
 	.string "zugreifen.$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "Das ist eine POKéMON Plüsch-PUPPE.$"
+	.string "Das ist eine Pokémon Plüsch-Puppe.$"
 

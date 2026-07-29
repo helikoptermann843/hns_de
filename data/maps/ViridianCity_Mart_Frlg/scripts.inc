@@ -85,26 +85,26 @@ ViridianCity_Mart_EventScript_Youngster::
 
 ViridianCity_Mart_Text_YouCameFromPallet::
 	.string "Heh!\n"
-	.string "Kommst du aus ALABASTIA?$"
+	.string "Kommst du aus Alabastia?$"
 
 ViridianCity_Mart_Text_TakeThisToProfOak::
-	.string "PROF. EICH schickt dich, oder?\p"
+	.string "Prof. Eich schickt dich, oder?\p"
 	.string "Seine Bestellung ist angekommen!\n"
 	.string "Holst du das Paket für ihn ab?$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
-	.string "{PLAYER} received OAK'S PARCEL\n"
-	.string "from the POKéMON MART clerk.$"
+	.string "{PLAYER} received Oak'S Parcel\n"
+	.string "from the Pokémon Mart clerk.$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
-	.string "O.K.! Grüße PROF. EICH von mir!$"
+	.string "O.K.! Grüße Prof. Eich von mir!$"
 
 ViridianCity_Mart_Text_ShopDoesGoodBusinessInAntidotes::
 	.string "Dieser Laden führt viele\n"
-	.string "GEGENGIFTE.$"
+	.string "Gegengifte.$"
 
 ViridianCity_Mart_Text_GotToBuySomePotions::
-	.string "Ich muss TRÄNKE kaufen!\p"
-	.string "Man weiß nie, wann ein POKéMON\n"
+	.string "Ich muss Tränke kaufen!\p"
+	.string "Man weiß nie, wann ein Pokémon\n"
 	.string "schnell geheilt werden muss.$"
 

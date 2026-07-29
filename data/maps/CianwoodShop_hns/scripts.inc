@@ -1,7 +1,7 @@
 CianwoodShop_hns_MapScripts::
 	.byte 0
 
-CianwoodShop_EventScriptMan::	
+CianwoodShop_EventScriptMan::
 	setvar VAR_OLIVINE_CITY_STATE, 4
 	giveitem ITEM_SECRET_POTION
 	end
@@ -28,7 +28,7 @@ CianwoodCity_EventScript_PharmacistAfter::
 
 CianwoodCity_Text_PharmacistGivePotion:
 	.string "Hm? Medizin willst du von mir?\p"
-	.string "Dein PKMN-Team wirkt jetzt nicht gerade\n"
+	.string "Dein Pkmn-Team wirkt jetzt nicht gerade\n"
 	.string "schwerverletzt oder krank auf mich…\l"
 	.string "Wo drückt denn der Schuh?\p"
 	.string "… … …\p"
@@ -42,6 +42,6 @@ CianwoodCity_Text_ReceivedSecretpotion:
 	.string "{STR_VAR_1}?-Öffner{STR_VAR_1} erhalten!$"
 
 CianwoodCity_Text_PharmacistDescribePotion:
-	.string "Mein GEHEIMTRANK ist etwas zu\n"
+	.string "Mein Geheimtrank ist etwas zu\n"
 	.string "stark, deshalb gebe ich ihn nur\l"
 	.string "im Notfall.$"

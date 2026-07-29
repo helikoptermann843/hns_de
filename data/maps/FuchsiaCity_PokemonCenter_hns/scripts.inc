@@ -41,8 +41,8 @@ FuchsiaCity_PokemonCenter_EventScript_JanineClone::
 	end
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerM:
-	.string "He! Du hast einen völlig neuen DEX!\p"
-	.string "Hat PROF. EICH dir den gegeben?$"
+	.string "He! Du hast einen völlig neuen Dex!\p"
+	.string "Hat Prof. Eich dir den gegeben?$"
 
 FuchsiaCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "Ich habe mich in der Pokémon-Arena\n"

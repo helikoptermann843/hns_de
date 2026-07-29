@@ -19,7 +19,7 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 	return
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
-	.string "PYROBERG…\p"
+	.string "Pyroberg…\p"
 	.string "Auf seiner Spitze sind 2 Kugeln neben-\n"
 	.string "einander angebracht. Wusstest du das?$"
 

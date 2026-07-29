@@ -92,11 +92,11 @@ SSAqua_RoomSSE_Text_GrandpaHaveThis:
 	.string "Ich möchte, dass du das nimmst!$"
 
 SSAqua_RoomSSE_Text_GrandpaTravelling:
-	.string "Wir reisen um die Welt.$"
+	.string "Wir machen eine Reise rund um die Welt!$"
 
 SSAqua_RoomSSE_Text_GranddaughterWasPlaying:
 	.string "Hallo Opa, hier bin ich! Ich habe\p"
-	.string "mit dem KAPITÄN und ihm hier gespielt!$"
+	.string "mit dem Kapitän und ihm hier gespielt!$"
 
 SSAqua_RoomSSE_Text_GranddaughterHadFun:
 	.string "Das Spielen hat mir Spaß gemacht!$"

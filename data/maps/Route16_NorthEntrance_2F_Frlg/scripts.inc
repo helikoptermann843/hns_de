@@ -59,38 +59,38 @@ Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
 
 Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
 	.string "Du schaust durch das Fernrohr.\p"
-	.string "Du siehst das EINKAUFSZENTRUM von\n"
-	.string "PRISMANIA CITY!$"
+	.string "Du siehst das Einkaufszentrum von\n"
+	.string "Prismania City!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-	.string "PROF. EICH: Besuche mich von Zeit\n"
+	.string "Prof. Eich: Besuche mich von Zeit\n"
 	.string "zu Zeit.\p"
 	.string "Es interessiert mich, wie du mit\n"
-	.string "deinem POKéDEX voranschreitest.$"
+	.string "deinem Pokédex voranschreitest.$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "Hallo! Erinnerst du dich?\n"
-	.string "Ich bin PROF. EICHs\l"
-	.string "ASSISTENT!\p"
+	.string "Ich bin Prof. Eichs\l"
+	.string "Assistent!\p"
 	.string "Wenn du mindestens 40 verschiedene\n"
-	.string "POKéMON gefangen hast, habe ich\l"
-	.string "ein Geschenk für dich: MÜNZAMULETT\p"
+	.string "Pokémon gefangen hast, habe ich\l"
+	.string "ein Geschenk für dich: Münzamulett\p"
 	.string "Also, {PLAYER}, hast du 40\n"
-	.string "unterschiedliche POKéMON gefangen?$"
+	.string "unterschiedliche Pokémon gefangen?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-	.string "Ah! BISASAM soll es sein!\n"
+	.string "Ah! Bisasam soll es sein!\n"
 	.string "Es ist leicht zu trainieren!\p"
 	.string "{STR_VAR_3}, du möchtest also das\n"
-	.string "PFLANZEN-POKéMON BISASAM?$"
+	.string "Pflanzen-Pokémon Bisasam?$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-	.string "{PLAYER} received the AMULET COIN\n"
-	.string "from the AIDE.$"
+	.string "{PLAYER} received the Amulet Coin\n"
+	.string "from the Aide.$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "Ah! GLUMANDA soll es sein!\n"
+	.string "Ah! Glumanda soll es sein!\n"
 	.string "Trainiere es geduldig!\p"
 	.string "{PLAYER}, du möchtest also das\n"
-	.string "FEUER-POKéMON GLUMANDA?$"
+	.string "Feuer-Pokémon Glumanda?$"
 

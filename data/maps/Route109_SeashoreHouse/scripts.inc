@@ -112,7 +112,7 @@ Route109_SeashoreHouse_Text_SeashoreHouseIntro:
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
 	.string "Zeig mir heiße Kämpfe!\p"
-	.string "Nur für diese habe ich das STRANDHAUS\n"
+	.string "Nur für diese habe ich das Strandhaus\n"
 	.string "überhaupt geöffnet!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
@@ -121,16 +121,16 @@ Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
 	.string "Ich bin mehr als zufrieden!\p"
 	.string "Du hast deine Fertigkeiten bewiesen.\n"
 	.string "Zum Dank schenke ich dir etwas.\p"
-	.string "Es sind sechs Flaschen SPRUDEL!$"
+	.string "Es sind sechs Flaschen Sprudel!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Aber dein BEUTEL ist ja gerammelt\n"
+	.string "Aber dein Beutel ist ja gerammelt\n"
 	.string "voll.\l"
 	.string "Ich werde sie für dich aufbewahren.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Möchtest du etwas SPRUDEL kaufen?\n"
-	.string "POKéMON lieben ihn!\p"
+	.string "Möchtest du etwas Sprudel kaufen?\n"
+	.string "Pokémon lieben ihn!\p"
 	.string "Nur ¥300 pro Flasche!\n"
 	.string "Kauf doch welchen!$"
 

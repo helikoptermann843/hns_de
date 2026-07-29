@@ -170,9 +170,9 @@ SSAnne_2F_Corridor_EventScript_Sailor::
 
 SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
 	.string "Dieses luxuriöse Traumschiff fährt\n"
-	.string "exklusiv für TRAINER zur See!\p"
+	.string "exklusiv für Trainer zur See!\p"
 	.string "In jedem Hafen besuchen uns\n"
-	.string "ausschließlich geladene TRAINER!$"
+	.string "ausschließlich geladene Trainer!$"
 
 SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "{RIVAL}: Sieh an!\n"
@@ -181,12 +181,12 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "treffen!\p"
 	.string "{PLAYER}, hat man dich tatsächlich\n"
 	.string "eingeladen?\p"
-	.string "Wie kommst du mit deinem POKéDEX\n"
+	.string "Wie kommst du mit deinem Pokédex\n"
 	.string "voran?\p"
 	.string "Ich habe bereits 40 verschiedene\n"
-	.string "POKéMON gefangen!\p"
+	.string "Pokémon gefangen!\p"
 	.string "Es gibt eine riesige Vielfalt an\n"
-	.string "POKéMON!\p"
+	.string "Pokémon!\p"
 	.string "Versuch dein Glück in hohem Gras!$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
@@ -203,10 +203,10 @@ SSAnne_2F_Corridor_Text_RivalVictory::
 SSAnne_2F_Corridor_Text_RivalPostBattle::
 	.string "{RIVAL}: Es soll angeblich ein\n"
 	.string "großer Meister im Umgang mit dem\l"
-	.string "ZERSCHNEIDER an Bord sein.\p"
+	.string "Zerschneider an Bord sein.\p"
 	.string "Aber da war nur ein seekranker,\n"
 	.string "alter Mann!\p"
-	.string "Der ZERSCHNEIDER ist äußerst\n"
+	.string "Der Zerschneider ist äußerst\n"
 	.string "nützlich!\p"
 	.string "Du solltest den alten Mann\n"
 	.string "besuchen! Ciao!$"

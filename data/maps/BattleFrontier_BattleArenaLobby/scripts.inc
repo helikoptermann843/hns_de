@@ -358,30 +358,30 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Hier wird der Kampfgeist der TRAINER\n"
+	.string "Hier wird der Kampfgeist der Trainer\n"
 	.string "auf die Probe gestellt!\p"
-	.string "Willkommen im KAMPFRING!\p"
+	.string "Willkommen im Kampfring!\p"
 	.string "Ich begleite dich beim\n"
 	.string "K.O.-Teamturnier!$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
 	.string "Möchtest du dich der Herausforderung\n"
-	.string "des KAMPFRINGs stellen?$"
+	.string "des Kampfrings stellen?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
 	.string "Wir freuen uns auf deine nächste\n"
 	.string "Herausforderung.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "Im KAMPFRING fechten\n"
+	.string "Im Kampfring fechten\n"
 	.string "wir K.O.-Teamturniere aus.\p"
-	.string "Jeder Teilnehmer nimmt drei POKéMON\n"
+	.string "Jeder Teilnehmer nimmt drei Pokémon\n"
 	.string "mit in den Wettkampf.\p"
-	.string "Die POKéMON müssen in der Reihenfolge\n"
+	.string "Die Pokémon müssen in der Reihenfolge\n"
 	.string "platziert werden, in der sie kämpfen\p"
 	.string "sollen. In dieser Folge kämpfen sie\n"
 	.string "dann nacheinander.\p"
-	.string "Sobald ein POKéMON in den Kampf\n"
+	.string "Sobald ein Pokémon in den Kampf\n"
 	.string "gerufen wurde, muss es kämpfen, bis\n"
 	.string "der \p"
 	.string "Kampf entschieden ist. Sollte ein\n"
@@ -392,31 +392,31 @@ BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
 	.string "brechen, speichere bitte dein Spiel.\n"
 	.string "Ohne Speichern kannst du den Wett-\p"
 	.string "kampf später nicht fortsetzen.\p"
-	.string "Besiegst du sieben TRAINER in Folge,\n"
+	.string "Besiegst du sieben Trainer in Folge,\n"
 	.string "erhältst du Gewinnpunkte.$"
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave:
-	.string "Bevor du den KAMPFRING betrittst,\n"
+	.string "Bevor du den Kampfring betrittst,\n"
 	.string "musst du dein Spiel speichern. Okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "Im KAMPFRING wird in zwei\n"
+	.string "Im Kampfring wird in zwei\n"
 	.string "Kategorien gekämpft: Lv. 50 und Offene\l"
 	.string "Kämpfe. Wofür entscheidest du dich?$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
-	.string "Bitte wähle drei POKéMON aus, die\n"
+	.string "Bitte wähle drei Pokémon aus, die\n"
 	.string "antreten sollen.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du bereit\n"
 	.string "bist.$"
 
@@ -424,18 +424,18 @@ BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsEnd:
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON von Level 50 oder weniger.\p"
+	.string "Pokémon von Level 50 oder weniger.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du bereit\n"
 	.string "bist.$"
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena:
-	.string "Ich werde dich nun in den KAMPFRING\n"
+	.string "Ich werde dich nun in den Kampfring\n"
 	.string "begleiten.$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
@@ -450,7 +450,7 @@ BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
 	.string "Herzlichen Glückwunsch! Du hast sieben\n"
-	.string "TRAINER in Folge besiegt!$"
+	.string "Trainer in Folge besiegt!$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
 	.string "Dein Erfolg wird gespeichert.\n"
@@ -468,8 +468,8 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "Oh, dein BEUTEL ist voll.\p"
-	.string "Bitte schaffe Platz in deinem BEUTEL\n"
+	.string "Oh, dein Beutel ist voll.\p"
+	.string "Bitte schaffe Platz in deinem Beutel\n"
 	.string "und komme dann wieder.$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
@@ -483,15 +483,15 @@ BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
 	.string "Wir haben schon auf dich gewartet!\p"
-	.string "Bevor du den KAMPFRING betrittst,\n"
+	.string "Bevor du den Kampfring betrittst,\n"
 	.string "musst du dein Spiel speichern. Okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Soll ich den KAMPFRING-Kampf\n"
-	.string "in deinen KAMPFZONENPASS eintragen?$"
+	.string "Soll ich den Kampfring-Kampf\n"
+	.string "in deinen Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "Ich habe aufgrund der REFEREE-\n"
+	.string "Ich habe aufgrund der Referee-\n"
 	.string "Entscheidung verloren…\p"
 	.string "Ich hätte nicht nur defensive Attacken\n"
 	.string "verwenden dürfen, sondern auch\p"
@@ -499,23 +499,23 @@ BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked:
 	.string "Ich habe durch die richtige\n"
-	.string "Entscheidung des REFEREEs gewonnen!\p"
+	.string "Entscheidung des Referees gewonnen!\p"
 	.string "Kontinuierliche Treffer auf das gegne-\n"
-	.string "rische POKéMON haben sich ausgezahlt.$"
+	.string "rische Pokémon haben sich ausgezahlt.$"
 
 BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
 	.string "Unser Kampf wurde als Unentschieden\n"
 	.string "gewertet.\p"
 	.string "Als die Zeit abgelaufen war, hatten\n"
-	.string "meine und die gegnerischen POKéMON\l"
+	.string "meine und die gegnerischen Pokémon\l"
 	.string "die gleiche Anzahl KP übrig.$"
 
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "Im KAMPFRING ist die Reihenfolge\n"
-	.string "der POKéMON entscheidend.\p"
-	.string "Hat dein erstes POKéMON bestimmte\n"
+	.string "Im Kampfring ist die Reihenfolge\n"
+	.string "der Pokémon entscheidend.\p"
+	.string "Hat dein erstes Pokémon bestimmte\n"
 	.string "Nachteile aufgrund seiner Element-\l"
-	.string "klasse, sollte dein zweites POKéMON\l"
+	.string "klasse, sollte dein zweites Pokémon\l"
 	.string "diese Nachteile ausgleichen.\p"
 	.string "Ich denke, so stellt man ein hervor-\n"
 	.string "ragendes Team zusammen.$"
@@ -533,10 +533,10 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
 	.string "Erstens: Ein Kampf dauert drei Runden.\n"
 	.string "Wenn nach drei Runden kein Sieger\p"
 	.string "feststeht, wird eine richterliche\n"
-	.string "Entscheidung getroffen. Der REFEREE\p"
+	.string "Entscheidung getroffen. Der Referee\p"
 	.string "wird den Sieger bestimmen, indem er\n"
 	.string "die Art des Kampfes beurteilt. Ein\n"
-	.string "PKMN \p"
+	.string "Pkmn \p"
 	.string "kann nicht ausgetauscht werden, bevor\n"
 	.string "der Kampf entschieden ist.$"
 
@@ -547,7 +547,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
 	.string "wie aggressiv die Kämpfer waren.\p"
 	.string "Die Beurteilung richtet sich danach,\n"
 	.string "wie\n"
-	.string "oft der TRAINER offensive Attacken\l"
+	.string "oft der Trainer offensive Attacken\l"
 	.string "eingesetzt hat.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
@@ -563,11 +563,11 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
 	.string "oben, wenn sie “sehr effektiv” war.\l"
 	.string "Sie geht nach unten, wenn sie “nicht\p"
 	.string "sehr effektiv war”. Für Attacken wie\n"
-	.string "SCHUTZSCHILD oder SCANNER gibt es\l"
+	.string "Schutzschild oder Scanner gibt es\l"
 	.string "keine höhere Bewertung.\p"
-	.string "Setzt der Gegner SCHUTZSCHILD oder\n"
-	.string "SCANNER ein und die Attacke deines\l"
-	.string "PKMN scheitert, wird die Beurteilung\l"
+	.string "Setzt der Gegner Schutzschild oder\n"
+	.string "Scanner ein und die Attacke deines\l"
+	.string "Pkmn scheitert, wird die Beurteilung\l"
 	.string "nicht nach unten gehen.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
@@ -576,7 +576,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
 	.string "Ende verbleibenden KP sind ausschlag-\n"
 	.string "\p"
 	.string "gebend. Die Anzahl der KP, mit der ein\n"
-	.string "PKMN in den Kampf geht, wird mit der\l"
+	.string "Pkmn in den Kampf geht, wird mit der\l"
 	.string "am Ende des Kampfes verglichen.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:

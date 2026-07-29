@@ -26,7 +26,7 @@ VioletCity_Mart_EventScript_Rocker::
 	closemessage
 	release
 	end
-	
+
 VioletCity_Mart_Text_Granny:
 	.string "Selbst ein schwaches Pokémon wird mit\n"
 	.string "dem richtigen Training mal stark!\p"

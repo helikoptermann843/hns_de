@@ -5,7 +5,7 @@ GoldenrodCity_RadioTower_3F_hns_MapScripts::
 GoldenrodCity_RadioTower_3F_OnLoad::
 	call_if_set FLAG_HIDE_RADIOTOWER_GATE, GoldenrodCity_RadioTower_3F_HideGate
 	end
-	
+
 GoldenrodCity_RadioTower_3F_HideGate::
 	setmetatile 25, 8, 0x335, FALSE
 	setmetatile 25, 9, 0x335, FALSE
@@ -135,7 +135,7 @@ GoldenrodCity_RadioTower_3F_Text_CardKeySlot:
 
 GoldenrodCity_RadioTower_3F_Text_InsertedCardKey:
 	.string "{PLAYER} verwendet den Türöffner!$"
- 
+
 GoldenrodCity_RadioTower_3F_Text_Open:
 	.string "Das Tor wurde geöffnet.$"
 
@@ -203,7 +203,7 @@ GoldenrodCity_RadioTower_3F_Text_GruntM8Seen:
 	.string "für Verbrechen einzusetzen!$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8Beaten:
-	.string "Du machst Witze!$"
+	.string "…Ich habe was?$"
 
 GoldenrodCity_RadioTower_3F_Text_GruntM8After:
 	.string "Verlieren dagegen ist ein mieses Gefühl!\n"

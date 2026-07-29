@@ -55,17 +55,17 @@ OldaleTown_Mart_EventScript_Boy::
 OldaleTown_Mart_Text_PokeBallsAreSoldOut:
 	.string "Der Verkäufer sagt, es sei alles\n"
 	.string "ausverkauft. Jetzt stehe ich ohne\l"
-	.string "POKéBÄLLE da.$"
+	.string "Pokébälle da.$"
 
 OldaleTown_Mart_Text_ImGoingToBuyPokeBalls:
-	.string "Ich will mir viele POKéBÄLLe kaufen\n"
+	.string "Ich will mir viele Pokébälle kaufen\n"
 	.string "und\l"
-	.string "damit genauso viele POKéMON fangen!$"
+	.string "damit genauso viele Pokémon fangen!$"
 
 OldaleTown_Mart_Text_RestoreHPWithPotion:
-	.string "Wird ein POKéMON verletzt und verliert\n"
+	.string "Wird ein Pokémon verletzt und verliert\n"
 	.string "alle KP, so ist es kampfunfähig.\p"
 	.string "Um das zu vermeiden, solltest du die\n"
 	.string "KP\l"
-	.string "bei Bedarf mit einem TRANK auffüllen.$"
+	.string "bei Bedarf mit einem Trank auffüllen.$"
 

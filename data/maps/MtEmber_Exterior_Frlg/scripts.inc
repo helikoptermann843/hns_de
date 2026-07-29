@@ -128,8 +128,8 @@ Text_ExplosionTeach::
 	.string "Die Eruption wäre unser Ende! Ist\n"
 	.string "das nicht erschreckend?\p"
 	.string "Während uns die Knie schlottern,\n"
-	.string "könnte ich einem POKéMON\l"
-	.string "EXPLOSION lehren!$"
+	.string "könnte ich einem Pokémon\l"
+	.string "Explosion lehren!$"
 
 Text_ExplosionDeclined::
 	.string "Ja, genau, du hast Recht!\n"
@@ -137,11 +137,11 @@ Text_ExplosionDeclined::
 
 Text_ExplosionWhichMon::
 	.string "Du bist unheimlich tapfer!\p"
-	.string "Welches POKéMON soll\n"
-	.string "EXPLOSION erlernen?$"
+	.string "Welches Pokémon soll\n"
+	.string "Explosion erlernen?$"
 
 Text_ExplosionTaught::
-	.string "EXPLOSION auf diesem Vulkan\n"
+	.string "Explosion auf diesem Vulkan\n"
 	.string "einzusetzen…\p"
 	.string "Was für ein aufreibender\n"
 	.string "Nervenkitzel!$"
@@ -149,7 +149,7 @@ Text_ExplosionTaught::
 MtEmber_Exterior_Text_WellTryDiggingHere::
 	.string "Hier drüben!\n"
 	.string "Wir versuchen, hier zu graben.\p"
-	.string "Der Schatz, über den die VORS.\n"
+	.string "Der Schatz, über den die Vors.\n"
 	.string "reden, muss hier irgendwo sein.$"
 
 MtEmber_Exterior_Text_YoureInTheWayGetLost::
@@ -162,14 +162,14 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
 	.string "Any treasure we find, we haul back\n"
-	.string "to the WAREHOUSE, understood?\p"
+	.string "to the Warehouse, understood?\p"
 	.string "…Oh, and what're the passwords?\n"
-	.string "At the ROCKET WAREHOUSE, I mean.$"
+	.string "At the Rocket Warehouse, I mean.$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 	.string "Wie?!? Du hast das Passwort \n"
 	.string "vergessen? Eigentlich sind es zwei!\p"
-	.string "Das erste lautet “ARBOK Kobra”.\p"
+	.string "Das erste lautet “Arbok Kobra”.\p"
 	.string "Und das zweite ist…$"
 
 MtEmber_Exterior_Text_SnoopsBeenListeningIn::

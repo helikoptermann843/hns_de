@@ -26,7 +26,7 @@ SSAnne_1F_Room2_Text_TylerDefeat::
 SSAnne_1F_Room2_Text_TylerPostBattle::
 	.string "Es liebt dich über alles! Das ist\n"
 	.string "so wunderbar und toll!\p"
-	.string "Dein POKéMON könnte nicht\n"
+	.string "Dein Pokémon könnte nicht\n"
 	.string "glücklicher sein!$"
 
 SSAnne_1F_Room2_Text_AnnIntro::

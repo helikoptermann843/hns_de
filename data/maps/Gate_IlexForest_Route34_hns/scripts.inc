@@ -27,4 +27,4 @@ Route34IlexForestGate_Text_Lass:
 	.string "Er ist bestimmt ein Pflanzen-Pokémon!$"
 
 Route34IlexForestGate_Text_Butterfree:
-	.string "SMETTBO: Smett, Smettbooo!$"
+	.string "Smettbo: Smett, Smettbooo!$"

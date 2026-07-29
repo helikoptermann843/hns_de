@@ -104,26 +104,26 @@ CeladonCity_Gym_Text_ErikaDefeat::
 	.string "Ich übergebe dir den Farborden!$"
 
 CeladonCity_Gym_Text_ErikaPostBattle::
-	.string "Du katalogisierst POKéMON?\n"
+	.string "Du katalogisierst Pokémon?\n"
 	.string "Ich bin beeindruckt!\p"
-	.string "Ich würde niemals POKéMON sammeln,\n"
+	.string "Ich würde niemals Pokémon sammeln,\n"
 	.string "die mich nicht interessieren!$"
 
 CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
-	.string "Der FARBORDEN lässt POKéMON bis\n"
+	.string "Der Farborden lässt Pokémon bis\n"
 	.string "Level 50 deinen Befehlen folgen!\p"
-	.string "Außerdem können deine POKéMON nun\n"
-	.string "STÄRKE außerhalb von Kämpfen\l"
+	.string "Außerdem können deine Pokémon nun\n"
+	.string "Stärke außerhalb von Kämpfen\l"
 	.string "anwenden.\p"
 	.string "Nimm bitte noch dieses Geschenk:$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
 	.string "{PLAYER} received TM19\n"
-	.string "from ERIKA.$"
+	.string "from Erika.$"
 
 CeladonCity_Gym_Text_ExplainTM19::
-	.string "TM19 ist GIGASAUGER.\p"
-	.string "Dein POKéMON erhält die Hälfte der\n"
+	.string "TM19 ist Gigasauger.\p"
+	.string "Dein Pokémon erhält die Hälfte der\n"
 	.string "KP, die diese Attacke dem Gegner\l"
 	.string "abzieht!$"
 
@@ -190,9 +190,9 @@ CeladonCity_Gym_Text_LisaDefeat::
 	.string "Du Grobian!$"
 
 CeladonCity_Gym_Text_LisaPostBattle::
-	.string "Wenngleich ERIKA schüchtern wirkt,\n"
+	.string "Wenngleich Erika schüchtern wirkt,\n"
 	.string "ist sie eine sehr begabte\l"
-	.string "ARENALEITERIN!$"
+	.string "Arenaleiterin!$"
 
 CeladonCity_Gym_Text_LoriIntro::
 	.string "Ich habe die Ehre... ich liebe\n"
@@ -221,14 +221,14 @@ CeladonCity_Gym_Text_MaryPostBattle::
 	.string "Warte nur, beim nächsten Mal…$"
 
 CeladonCity_Gym_Text_GymStatue::
-	.string "PRISMANIA POKéMON-ARENA\n"
-	.string "LEITUNG: ERIKA\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Prismania Pokémon-Arena\n"
+	.string "Leitung: Erika\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-	.string "PRISMANIA POKéMON-ARENA\n"
-	.string "LEITUNG: ERIKA\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Prismania Pokémon-Arena\n"
+	.string "Leitung: Erika\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

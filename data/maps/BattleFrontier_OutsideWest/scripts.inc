@@ -299,42 +299,42 @@ BattleFrontier_OutsideWest_EventScript_PokefanF::
 	end
 
 BattleFrontier_OutsideWest_Text_BattleDomeSign:
-	.string "Dies ist das KAMPFSTADION!\n"
+	.string "Dies ist das Kampfstadion!\n"
 	.string "Dein Weg zum unschlagbaren Superstar!$"
 
 BattleFrontier_OutsideWest_Text_BattleFactorySign:
-	.string "Dies ist die KAMPFFABRIK!\n"
-	.string "Hier gibt es die härtesten POKéMON!$"
+	.string "Dies ist die Kampffabrik!\n"
+	.string "Hier gibt es die härtesten Pokémon!$"
 
 BattleFrontier_OutsideWest_Text_BattlePikeSign:
-	.string "Dies ist die KAMPFIPITIS!\n"
+	.string "Dies ist die Kampfipitis!\n"
 	.string "Welche der drei Bahnen betrittst du?$"
 
 BattleFrontier_OutsideWest_Text_ThisIsBattleTower:
-	.string "Dies ist der DUELLTURM.\p"
-	.string "TRAINER tragen mit ihren besten\n"
-	.string "POKéMON Ausscheidungskämpfe aus.$"
+	.string "Dies ist der Duellturm.\p"
+	.string "Trainer tragen mit ihren besten\n"
+	.string "Pokémon Ausscheidungskämpfe aus.$"
 
 BattleFrontier_OutsideWest_Text_MayISeeYourTicket:
 	.string "Hi! Möchtest du mit der Fähre fahren?\n"
-	.string "Zeigst du mir bitte dein TICKET?$"
+	.string "Zeigst du mir bitte dein Ticket?$"
 
 BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
-	.string "{PLAYER} hat kein TICKET…\p"
+	.string "{PLAYER} hat kein Ticket…\p"
 	.string "Das tut mir schrecklich Leid.\p"
-	.string "Nur mit einem TICKET kannst du mit der\n"
+	.string "Nur mit einem Ticket kannst du mit der\n"
 	.string "Fähre fahren.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} zückt das TICKET.\p"
+	.string "{PLAYER} zückt das Ticket.\p"
 	.string "Perfekt! Damit kannst du an Bord!\p"
 	.string "Und wo soll die Reise hingehen?$"
 
 BattleFrontier_OutsideWest_Text_SlateportItIs:
-	.string "Nach GRAPHITPORT CITY?$"
+	.string "Nach Graphitport City?$"
 
 BattleFrontier_OutsideWest_Text_LilycoveItIs:
-	.string "Nach SEEGRASULB CITY?$"
+	.string "Nach Seegrasulb City?$"
 
 BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime:
 	.string "Bitte komm später noch einmal wieder!$"
@@ -351,10 +351,10 @@ BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends:
 	.string "Hier bin ich echt aufgeschmissen!$"
 
 BattleFrontier_OutsideWest_Text_CantFindBattleTower:
-	.string "Ich möchte gerne in den DUELLTURM,\n"
+	.string "Ich möchte gerne in den Duellturm,\n"
 	.string "aber ich finde den einfach nicht,\n"
 	.string "obwohl\l"
-	.string "ich eine Karte der KAMPFZONE\p"
+	.string "ich eine Karte der Kampfzone\p"
 	.string "habe. Hier ist alles so groß…$"
 
 BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
@@ -367,17 +367,17 @@ BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere:
 BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere:
 	.string "Weißt du, hier kann nicht einfach\n"
 	.string "jeder hinkommen.\p"
-	.string "Nur die TRAINER, die durch ihr Talent\n"
+	.string "Nur die Trainer, die durch ihr Talent\n"
 	.string "und ihre Stärke aufgefallen sind,\l"
 	.string "werden eingeladen.\p"
-	.string "Deshalb haben viele TRAINER noch nie\n"
-	.string "etwas über die KAMPFZONE gehört.$"
+	.string "Deshalb haben viele Trainer noch nie\n"
+	.string "etwas über die Kampfzone gehört.$"
 
 BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons:
 	.string "Hey, Brüderchen…\p"
 	.string "Bist du sicher, wir können Heraus-\n"
 	.string "forderungen annehmen, obwohl wir\l"
-	.string "keine POKéMON besitzen?$"
+	.string "keine Pokémon besitzen?$"
 
 BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "Ääh… Ich bin sicher, dass das geht!\p"
@@ -385,17 +385,17 @@ BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons:
 	.string "Erinnerst du dich an diesen großen\n"
 	.string "unheimlichen Kerl, der sagte “Ich\n"
 	.string "leihe\l"
-	.string "euch POKéMON!”?$"
+	.string "euch Pokémon!”?$"
 
 BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons:
-	.string "Dies ist die KAMPFFABRIK. Hier\n"
-	.string "kannst du dir starke POKéMON leihen.\p"
-	.string "Ich frage mich nur, wer diese POKéMON\n"
+	.string "Dies ist die Kampffabrik. Hier\n"
+	.string "kannst du dir starke Pokémon leihen.\p"
+	.string "Ich frage mich nur, wer diese Pokémon\n"
 	.string "aufzieht?$"
 
 BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper:
-	.string "Ich habe Angst, zur KAMPFIPITIS zu\n"
-	.string "gehen. Ich fürchte mich vor VIPITIS…\p"
+	.string "Ich habe Angst, zur Kampfipitis zu\n"
+	.string "gehen. Ich fürchte mich vor Vipitis…\p"
 	.string "Ab-aber ich bin von so weit gekommen,\n"
 	.string "ich muss einfach weitergehen!\l"
 	.string "… Zitter bibber…$"
@@ -408,7 +408,7 @@ BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors:
 
 BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge:
 	.string "Juhuu! Ich habe geeewonnen!!!\n"
-	.string "Ich werde die KAMPFIPITIS-Heraus-\l"
+	.string "Ich werde die Kampfipitis-Heraus-\l"
 	.string "forderung annehmen!$"
 
 BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge:
@@ -416,7 +416,7 @@ BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge:
 	.string "Ich habe verloren.\p"
 	.string "Heute ist anscheinend nicht mein\n"
 	.string "Glückstag. Ich warte mit der Eroberung\l"
-	.string "der KAMPFIPITIS bis morgen.$"
+	.string "der Kampfipitis bis morgen.$"
 
 BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
 	.string "Ich glaube, ich bin das einzige Wesen\n"
@@ -427,12 +427,12 @@ BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol:
 	.string "Heute werde ich unter allen Umständen\n"
-	.string "so lange kämpfen, bis ich ein SYMBOL\l"
+	.string "so lange kämpfen, bis ich ein Symbol\l"
 	.string "bekomme!$"
 
 BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome:
 	.string "Wie? Du willst dich den Heraus-\n"
-	.string "forderungen des KAMPFSTADIONs\l"
+	.string "forderungen des Kampfstadions\l"
 	.string "stellen?\p"
 	.string "Dann wünsche ich dir viel Glück!\n"
 	.string "Wir siegen uns den Weg nach oben und\l"
@@ -440,12 +440,12 @@ BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome:
 
 BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa:
 	.string "Opa, hier drüben!\n"
-	.string "Das KAMPFSTADION ist hier!\l"
+	.string "Das Kampfstadion ist hier!\l"
 	.string "Los, Opa, zeig’s ihnen!$"
 
 BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
-	.string "So, dies ist also das KAMPFSTADION?!?\n"
-	.string "Kein GENTLEMAN wird mich besiegen!\p"
+	.string "So, dies ist also das Kampfstadion?!?\n"
+	.string "Kein Gentleman wird mich besiegen!\p"
 	.string "Aber wo ist denn nur der Eingang?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
@@ -458,7 +458,7 @@ BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
 	.string "hierher bringen, damit sie das sieht.$"
 
 BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier:
-	.string "Endlich habe ich die KAMPFZONE\n"
+	.string "Endlich habe ich die Kampfzone\n"
 	.string "erreicht.\p"
 	.string "Mit meinem Aussehen und meinem Talent\n"
 	.string "sorge ich bestimmt für Aufsehen.$"
@@ -473,14 +473,14 @@ BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
 	.string "… Mampf… … Mampf…\p"
 	.string "Vor einiger Zeit habe ich dieses\l"
 	.string "ältere\n"
-	.string "Mädchen an der KAMPFIPITIS getroffen.\p"
+	.string "Mädchen an der Kampfipitis getroffen.\p"
 	.string "\p"
 	.string "Ihre Augen hatten einen bösartigen\n"
 	.string "Ausdruck, sie machte einem richtig\l"
 	.string "Angst.\p"
 	.string "… Mampf… … Mampf…\p"
-	.string "Sie wurde richtig giftig: “KÖNNTEST DU\n"
-	.string "WOHL ENDLICH AUFHÖREN ZU ESSEN?!?”\p"
+	.string "Sie wurde richtig giftig: “Könntest du\n"
+	.string "Wohl Endlich Aufhören zu Essen?!?”\p"
 	.string "Dann hat sie sich lustig über mich\n"
 	.string "gemacht.\p"
 	.string "Das war wirklich haarsträubend\n"
@@ -490,24 +490,24 @@ BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
 	.string "Was? Hör dir doch mal selber zu!\n"
 	.string "Das ist doch wirklich popelig!\p"
-	.string "Das letzte Mal als ICH ihm zugejubelt\n"
+	.string "Das letzte Mal als ich ihm zugejubelt\n"
 	.string "habe, haben sich unsere Augen\p"
 	.string "getroffen. Es hat richtig gefunkt\n"
 	.string "zwischen uns!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering:
-	.string "WIIIIIE BITTE?!?\n"
-	.string "HAH! Ha ha ha!\p"
-	.string "Der STADIONSTAR hat doch nur in deine\n"
-	.string "Richtung geschaut, weil ICH ihm\l"
+	.string "Wiiiiie bitte?!?\n"
+	.string "Hah! Ha ha ha!\p"
+	.string "Der Stadionstar hat doch nur in deine\n"
+	.string "Richtung geschaut, weil ich ihm\l"
 	.string "zugejubelt habe!$"
 
 BattleFrontier_OutsideWest_Text_DomeAceIsMine:
 	.string "Oh, bitte, vertragt euch!\n"
 	.string "Hört auf zu streiten!\p"
-	.string "Ihr solltet lieber einem ARENALEITER\n"
+	.string "Ihr solltet lieber einem Arenaleiter\n"
 	.string "zujubeln!\p"
-	.string "Der STADIONSTAR ist mein großes Idol!\n"
+	.string "Der Stadionstar ist mein großes Idol!\n"
 	.string "Ihr seid zu jung, um sein Talent zu\l"
 	.string "verstehen!$"
 
@@ -515,24 +515,24 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers:
 	.string "Diese Leute da, die sich gerade in den\n"
 	.string "Haaren liegen…\p"
 	.string "Es ist schwer zu glauben, aber das\n"
-	.string "waren mal TRAINER. Gute TRAINER sogar!\n"
+	.string "waren mal Trainer. Gute Trainer sogar!\n"
 	.string "\p"
 	.string "Sie waren stark und auch berühmt.\p"
-	.string "Aber ein bestimmter TRAINER hat sie\n"
+	.string "Aber ein bestimmter Trainer hat sie\n"
 	.string "bei\n"
 	.string "einem Turnier mit Pauken und Trompeten\l"
 	.string "besiegt.\p"
 	.string "Trotz ihrer Niederlage haben sie sich\n"
 	.string "regelrecht in ihn verliebt.\p"
 	.string "Nun leben sie ihr Leben als Fans und\n"
-	.string "jubeln diesem TRAINER jeden Tag im\l"
-	.string "KAMPFSTADION zu.$"
+	.string "jubeln diesem Trainer jeden Tag im\l"
+	.string "Kampfstadion zu.$"
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
 	.string "Ich habe gehört, dass jemand gehört\n"
-	.string "hat, ein PKMN mit einem ungewöhnlich\l"
+	.string "hat, ein Pkmn mit einem ungewöhnlich\l"
 	.string "langen Schweif sei hier in der\p"
-	.string "KAMPFZONE aufgetaucht. Das ist\n"
+	.string "Kampfzone aufgetaucht. Das ist\n"
 	.string "bestimmt anbetungswürdig…\p"
 	.string "Die Herausforderungen können warten.\n"
 	.string "Ich will dieses hübsche Geschöpf\l"

@@ -82,17 +82,17 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "Wasser-pokémon!{PLAY_BGM}?À$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
-	.string "TM03 ist die AQUAWELLE!\p"
-	.string "WASSER-POKéMON können diese\n"
+	.string "TM03 ist die Aquawelle!\p"
+	.string "Wasser-Pokémon können diese\n"
 	.string "Attacke erlernen!$"
 
 CeruleanCity_Gym_Text_ExplainCascadeBadge::
-	.string "Der QUELLORDEN lässt alle POKéMON\n"
+	.string "Der Quellorden lässt alle Pokémon\n"
 	.string "bis Level 30 deinen Befehlen\l"
 	.string "gehorchen!\p"
 	.string "Sogar Außenseiter gehorchen dir!\p"
-	.string "Deine POKéMON können den\n"
-	.string "ZERSCHNEIDER nun jederzeit \l"
+	.string "Deine Pokémon können den\n"
+	.string "Zerschneider nun jederzeit \l"
 	.string "einsetzen!\p"
 	.string "Du kannst kleine Büsche zerhacken\n"
 	.string "und so neue Wege freilegen!\p"
@@ -101,7 +101,7 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
 	.string "{PLAYER} received TM03\n"
-	.string "from MISTY.$"
+	.string "from Misty.$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
 	.string "Du hast momentan keinen Platz für\n"
@@ -137,7 +137,7 @@ CeruleanCity_Gym_Text_LuisDefeat::
 	.string "Das darf nicht wahr sein!$"
 
 CeruleanCity_Gym_Text_LuisPostBattle::
-	.string "MISTY verbessert stets ihr Können!\p"
+	.string "Misty verbessert stets ihr Können!\p"
 	.string "Jemand wie du hat keine Chance,\n"
 	.string "sie zu besiegen!$"
 
@@ -145,28 +145,28 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
 	.string "Ich habe einen Tipp für dich!\p"
-	.string "MISTY, die ARENALEITERIN, kämpft\n"
-	.string "mit WASSER-POKéMON!\p"
+	.string "Misty, die Arenaleiterin, kämpft\n"
+	.string "mit Wasser-Pokémon!\p"
 	.string "Du kannst ihnen das Wasser mit\n"
-	.string "PFLANZEN-POKéMON entziehen!\p"
-	.string "ELEKTRO-POKéMON dürften sich auch\n"
+	.string "Pflanzen-Pokémon entziehen!\p"
+	.string "Elektro-Pokémon dürften sich auch\n"
 	.string "als nützlich erweisen!$"
 
 CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
-	.string "Du hast MISTY besiegt! Habe ich es\n"
+	.string "Du hast Misty besiegt! Habe ich es\n"
 	.string "nicht gesagt?\p"
 	.string "Glaub mir, wir beide bilden ein\n"
 	.string "sehr gutes Team!$"
 
 CeruleanCity_Gym_Text_GymStatue::
-	.string "AZURIA POKéMON-ARENA\n"
-	.string "LEITUNG: MISTY\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Azuria Pokémon-Arena\n"
+	.string "Leitung: Misty\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-	.string "AZURIA POKéMON-ARENA\n"
-	.string "LEITUNG: MISTY\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Azuria Pokémon-Arena\n"
+	.string "Leitung: Misty\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

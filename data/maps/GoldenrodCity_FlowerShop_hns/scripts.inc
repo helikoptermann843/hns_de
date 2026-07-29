@@ -84,7 +84,7 @@ GoldenrodCity_FlowerShop_EventScript_Floria1::
 	closemessage
 	release
 	end
-	
+
 GoldenrodCity_FlowerShop_EventScript_Floria2::
 	msgbox GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney, MSGBOX_DEFAULT
 	closemessage
@@ -115,53 +115,27 @@ GoldenrodCity_FlowerShop_Text_Owner1:
 	.string "Zu gefährlich!\p"
 	.string "Vielleicht, wenn du Arena Leiter\n"
 	.string "Bianka besiegst, ist es okay.$"
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, of course not!\p"
-.string "This is a flower shop, so we do\n"
-.string "have watering cans...\p"
-.string "But I cannot let you have one!\n"
-.string "It's too dangerous!\p"
-.string "Well, maybe if you manage to\n"
-.string "defeat gym leader WHITNEY, it\l"
-.string "might be okay.$"
 
 GoldenrodCity_FlowerShop_Text_Owner2:
 	.string "Anscheinend gibt es einen seltsamen\n"
 	.string "Baum auf Route 36.\p"
 	.string "Er soll tanzen, wenn man ihn gießt…\p"
 	.string "Oh, das ist ein Normalorden von\n"
-	.string "der DUKATIA-Arena!\p"
+	.string "der Dukatia-Arena!\p"
 	.string "Hast du Bianka besiegt?!\p"
 	.string "Dann ist alles in Ordnung.\p"
-	.string "Ich leihe dir diese SCHIGGYKANNE.\p"
+	.string "Ich leihe dir diese Schiggykanne.\p"
 	.string "…\p"
 	.string "Ach, egal. Behalte sie!$"
-.string "Apparently, there is an odd tree\n"
-.string "on ROUTE 36.\p"
-.string "They say it dances when you water\n"
-.string "it...\p"
-.string "Oh, that's a PLAINBADGE from\n"
-.string "The GOLDENROD GYM!\p"
-.string "Did you defeat WHITNEY?!\p"
-.string "Well, then there's nothing to worry\n"
-.string "about, is there?\p"
-.string "I'll let you use this SQUIRTBOTTLE\n"
-.string "for a while then.\l"
-.string "...\p"
-.string "Oh, never mind. Keep it!$"
 
 GoldenrodCity_FlowerShop_Text_Owner3:
-	.string "Der seltsame Baum steht auf Route 36.\n"
-	.string "Bitte sei vorsichtig!$"
-.string "The odd tree is on ROUTE 36.\n"
-.string "Please be careful!$"
+	.string "Dieser merkwürdige Baum soll sich auf\n"
+	.string "Route 36 befinden.\p"
+	.string "Sei vorsichtig, hörst du?$"
 
 GoldenrodCity_FlowerShop_Text_Owner4:
-	.string "Lalala lalalala. Trinke viel\n"
-	.string "Wasser, meine Liebe!$"
+	.string "Lalala, lalalala! Hier habt ihr euer\n"
+	.string "Wasser, meine Hübschen!$"
 
 GoldenrodCity_FlowerShop_Text_FloriaYouBeatWhitney:
 	.string "Wow, du hast Bianka besiegt? Super!$"

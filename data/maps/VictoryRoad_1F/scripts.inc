@@ -119,7 +119,7 @@ VictoryRoad_1F_EventScript_Katelynn::
 	end
 
 VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
-	.string "HEIKO: Hallo, {PLAYER}!\p"
+	.string "Heiko: Hallo, {PLAYER}!\p"
 	.string "Du bist bestimmt überrascht, mich hier\n"
 	.string "zu treffen!\p"
 	.string "Ich habe es bis hierher geschafft und\n"
@@ -127,7 +127,7 @@ VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore:
 	.string "{PLAYER}, meine Niederlage gegen dich\n"
 	.string "hat mich viel stärker gemacht!\p"
 	.string "Ich werde nie wieder verlieren!\p"
-	.string "Ich werde gewinnen! Für die POKéMON,\n"
+	.string "Ich werde gewinnen! Für die Pokémon,\n"
 	.string "die mir Mut und Kraft gegeben haben!\p"
 	.string "Okay… Jetzt komme ich!$"
 
@@ -135,7 +135,7 @@ VictoryRoad_1F_Text_WallyEntranceDefeat:
 	.string "Wow! {PLAYER}, du wirst immer stärker!$"
 
 VictoryRoad_1F_Text_WallyPostEntranceBattle:
-	.string "HEIKO: Ich konnte dich heute nicht be-\n"
+	.string "Heiko: Ich konnte dich heute nicht be-\n"
 	.string "siegen, aber eines Tages werde ich es\l"
 	.string "mit dir aufnehmen!$"
 
@@ -195,7 +195,7 @@ VictoryRoad_1F_Text_HopePostBattle:
 	.string "Champ zu werden.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "Was ist das? Die Siegesstrasse?\n"
+	.string "Was ist das? Die Siegesstraße?\n"
 	.string "Wenn du gewinnst, verrat ich es dir.$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
@@ -205,7 +205,7 @@ VictoryRoad_1F_Text_QuincyPostBattle:
 	.string "Hier sicher durchzukommen, das ist der\n"
 	.string "letzte Test für einen Trainer, der\l"
 	.string "Champ werden will.\p"
-	.string "Daher nennt man sie Siegesstrasse.$"
+	.string "Daher nennt man sie Siegesstraße.$"
 
 VictoryRoad_1F_Text_KatelynnIntro:
 	.string "Ich habe jemandem, der so weit\n"

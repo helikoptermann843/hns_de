@@ -286,29 +286,29 @@ CinnabarIsland_PokemonLab_ExperimentRoom_EventScript_CheckRevivedDome::
 
 Text_MetronomeTeach::
 	.string "Tak-tak-tak!\n"
-	.string "Ich kann einem POKéMON eine\l"
+	.string "Ich kann einem Pokémon eine\l"
 	.string "tolle Attacke beibringen!\p"
-	.string "Die Attacke heißt METRONOM!\n"
+	.string "Die Attacke heißt Metronom!\n"
 	.string "Könnte sie dir gefallen?$"
 
 Text_MetronomeDeclined::
 	.string "Ich sage dir, es macht viel Spaß!$"
 
 Text_MetronomeWhichMon::
-	.string "O.K.! Welches POKéMON\n"
+	.string "O.K.! Welches Pokémon\n"
 	.string "soll sie erlernen?$"
 
 Text_MetronomeTaught::
 	.string "Tak-tak-tak!\n"
-	.string "So klingt ein METRONOM!\p"
-	.string "Damit setzt dein POKéMON Attacken\n"
+	.string "So klingt ein Metronom!\p"
+	.string "Damit setzt dein Pokémon Attacken\n"
 	.string "ein, die es gar nicht kennt!$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_HaveYouAFossilForMe::
 	.string "Hallo!\p"
 	.string "Ich leite hier die Forschungen!\p"
 	.string "Wir erforschen Fossilien von\n"
-	.string "URZEIT-POKéMON!\p"
+	.string "Urzeit-Pokémon!\p"
 	.string "Hast du ein Fossil für mich?$"
 
 CinnabarIsland_PokemonLab_ExperimentRoom_Text_NoIsTooBad::
@@ -340,9 +340,9 @@ CinnabarIsland_PokemonLab_ExperimentRoom_Text_ThatFossilIsOfMonMakeItLiveAgain::
 	.string "Das ist ein {STR_VAR_2}!\p"
 	.string "Es ist ein Fossil von {STR_VAR_1},\n"
 	.string "einem schon lange ausgestorbenen\l"
-	.string "POKéMON!\p"
+	.string "Pokémon!\p"
 	.string "Dank modernster Technik können wir\n"
-	.string "POKéMON aus Fossilien\l"
+	.string "Pokémon aus Fossilien\l"
 	.string "wieder beleben!$"
 
 @ TODO: Resolve text dump error below?

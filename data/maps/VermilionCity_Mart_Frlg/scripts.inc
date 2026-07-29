@@ -33,15 +33,15 @@ VermilionCity_Mart_Items::
 	end
 
 VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
-	.string "Es gibt böse Menschen, die POKéMON\n"
+	.string "Es gibt böse Menschen, die Pokémon\n"
 	.string "für Verbrechen missbrauchen.\p"
-	.string "Das TEAM ROCKET macht mit seltenen\n"
-	.string "POKéMON Geschäfte.\p"
-	.string "Die POKéMON, die ihrer Meinung nach\n"
+	.string "Das Team Rocket macht mit seltenen\n"
+	.string "Pokémon Geschäfte.\p"
+	.string "Die Pokémon, die ihrer Meinung nach\n"
 	.string "nicht selten genug sind, werden von\l"
 	.string "ihnen ausgesetzt.$"
 
 VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
 	.string "Ich habe lange gesucht, aber keine\n"
-	.string "neuen POKéMON gefunden.$"
+	.string "neuen Pokémon gefunden.$"
 

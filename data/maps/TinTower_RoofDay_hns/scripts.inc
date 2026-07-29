@@ -55,7 +55,7 @@ TinTower_RoofDay_EventScript_TalkToKimono::
 	applymovement LOCALID_TINTOWER_KIMONO_2, TinTower_RoofDay_Movement_Kimono_Dance_Mid
 	applymovement LOCALID_TINTOWER_KIMONO_3, TinTower_RoofDay_Movement_Kimono_Dance_Mid
 	applymovement LOCALID_KIMONO_4, TinTower_RoofDay_Movement_Kimono_Dance_Mid
-	applymovement LOCALID_KIMONO_MID, TinTower_RoofDay_Movement_Kimono_Dance_Mid	
+	applymovement LOCALID_KIMONO_MID, TinTower_RoofDay_Movement_Kimono_Dance_Mid
 	waitmovement 0
 	playse SE_M_PETAL_DANCE
 	setweather WEATHER_DROUGHT
@@ -286,7 +286,7 @@ TinTower_RoofDay_EventScript_KuniAfter::
 	end
 
 TinTower_RoofDay_Text_Kimono_AfterNotCaught:
-	.string "Ihr habt HO-OH nicht nur hierher\n"
+	.string "Ihr habt Ho-Oh nicht nur hierher\n"
 	.string "gerufen, sondern Ihr konntet es auch\l"
 	.string "wie durch ein Wunder einfangen…\p"
 	.string "Das war wirklich eine Glanzleistung.\n"
@@ -296,7 +296,7 @@ TinTower_RoofDay_Text_Kimono_AfterNotCaught:
 	.string "Eurer Reise alles Gute…$"
 
 TinTower_RoofDay_Text_Kimono_AfterCaught:
-	.string "Ihr habt HO-OH nicht nur hierher\n"
+	.string "Ihr habt Ho-Oh nicht nur hierher\n"
 	.string "gerufen, sondern Ihr konntet es auch\l"
 	.string "wie durch ein Wunder einfangen…\p"
 	.string "Das war wirklich eine Glanzleistung.\n"
@@ -558,37 +558,37 @@ TinTower_RoofDay_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 TinTower_RoofDay_Text_Zuki_Before::
-	.string "Tamao: Geh nun, zu HO-OH. $"
+	.string "Tamao: Geh nun, zu Ho-Oh. $"
 TinTower_RoofDay_Text_Naoko_Before::
-	.string "Umeko: Geh nun, zu HO-OH. $"
+	.string "Umeko: Geh nun, zu Ho-Oh. $"
 TinTower_RoofDay_Text_Miki_Before::
-	.string "Satsuki: Geh nun, zu HO-OH. $"
+	.string "Satsuki: Geh nun, zu Ho-Oh. $"
 TinTower_RoofDay_Text_Sayo_Before::
-	.string "Sakura: Geh nun, zu HO-OH. $"
+	.string "Sakura: Geh nun, zu Ho-Oh. $"
 TinTower_RoofDay_Text_Kuni_Before::
-	.string "Komomo: Geh nun, zu HO-OH. $"
+	.string "Komomo: Geh nun, zu Ho-Oh. $"
 
 TinTower_RoofDay_Text_Kimono_Opening::
 	.string "Tamao: Dies ist der Ort, an dem wir\n"
-	.string "mit HO-OH in Kontakt treten werden.\p"
+	.string "mit Ho-Oh in Kontakt treten werden.\p"
 	.string "Wenn hier gleichzeitig der Klang des\n"
 	.string "Tanzes, den wir täglich proben, und der\l"
 	.string "Klang der Klarglocke, die Ihr erhalten\l"
-	.string "habt, ertönt, wird HO-OH wieder vom\p"
+	.string "habt, ertönt, wird Ho-Oh wieder vom\p"
 	.string "weiten Himmelszelt zu uns\n"
 	.string "herabsteigen!$"
 
 TinTower_RoofDay_Text_Kimono_Closing1::
-	.string "Das ist tatsächlich HO-OH…\n"
+	.string "Das ist tatsächlich Ho-Oh…\n"
 	.string "Der Hüter des Himmels aus\p"
 	.string "alten Zeiten…\p"
 	.string "So viele haben es immer wieder\n"
 	.string "versucht und sind gescheitert…\p"
 	.string "{PLAYER}, dein Herz in völliger\n"
-	.string "Harmonie mit der KLARGLOCKE\p"
+	.string "Harmonie mit der Klarglocke\p"
 	.string "hat es endlich erscheinen lassen…\n"
 	.string "{PLAYER}, siehst du das nicht?\p"
-	.string "HO-OH… Es muss die ganze Zeit auf\n"
+	.string "Ho-Oh… Es muss die ganze Zeit auf\n"
 	.string "jemanden wie dich gewartet haben.\p"
 	.string "Stimmst du mir zu?$"
 

@@ -274,10 +274,10 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Hier wird das Glück der TRAINER\n"
+	.string "Hier wird das Glück der Trainer\n"
 	.string "auf die Probe gestellt…\p"
-	.string "Willkommen bei der KAMPFIPITIS…\p"
-	.string "Ich begleite dich zur KAMPFIPITIS…$"
+	.string "Willkommen bei der Kampfipitis…\p"
+	.string "Ich begleite dich zur Kampfipitis…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
 	.string "Möchtest du gerne an der Kampfbahn-\n"
@@ -290,7 +290,7 @@ BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
 	.string "\p"
 	.string "Wähle einen von drei möglichen Wegen\n"
 	.string "und schlag dich zu deinem Ziel durch,\l"
-	.string "das am Ende der KAMPFIPITIS liegt…\p"
+	.string "das am Ende der Kampfipitis liegt…\p"
 	.string "Das, was dir auf deinem Weg an Heraus-\n"
 	.string "forderungen begegnet, hängt allein\l"
 	.string "von deinem Glück ab…\p"
@@ -315,13 +315,13 @@ BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
 	.string "Ich bitte vielmals um Entschuldigung,\n"
 	.string "aber…\p"
-	.string "Deine POKéMON sind nicht\n"
+	.string "Deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON von Level 50 oder weniger.\p"
+	.string "Pokémon von Level 50 oder weniger.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du so weit\n"
 	.string "bist…$"
 
@@ -330,18 +330,18 @@ BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsEnd:
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Ich bitte vielmals um Entschuldigung,\n"
 	.string "aber…\p"
-	.string "Deine POKéMON sind nicht\n"
+	.string "Deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du so weit\n"
 	.string "bist…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Bitte wähle 3 POKéMON, mit denen du\n"
+	.string "Bitte wähle 3 Pokémon, mit denen du\n"
 	.string "dich\l"
 	.string "der Herausforderung stellen möchtest.$"
 
@@ -392,7 +392,7 @@ BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
 	.string "Herzlichen Glückwunsch!\p"
-	.string "Du hast dir von der PFIPITISTIN den\n"
+	.string "Du hast dir von der Pfipitistin den\n"
 	.string "Sieg geholt und die Herausforderung\l"
 	.string "gemeistert!$"
 
@@ -410,12 +410,12 @@ BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
 	.string "Ich habe die Herausforderung bereits\n"
 	.string "zum 10. Mal gemeistert, trotzdem\p"
 	.string "habe ich noch nie gegen einen\n"
-	.string "TRAINER gekämpft.$"
+	.string "Trainer gekämpft.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 	.string "Überleg mal!\p"
 	.string "Meinst du nicht auch, dass die\n"
-	.string "besonderen Fähigkeiten der POKéMON\l"
+	.string "besonderen Fähigkeiten der Pokémon\l"
 	.string "hier sehr nützlich sein können?$"
 
 @ Unused
@@ -425,7 +425,7 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "I’ve taken the challenge a bunch\n"
 	.string "of times, but all I ever do is run\n"
 	.string "into\l"
-	.string "TRAINERS whichever path I choose.$"
+	.string "Trainers whichever path I choose.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 	.string "Die Regeln der Kampfbahn hängen\n"
@@ -435,17 +435,17 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 	.string "Wähle bitte ein Themengebiet aus.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "BEUTEL und POKéNAV dürfen nicht\n"
+	.string "Beutel und Pokénav dürfen nicht\n"
 	.string "auf die Kampfbahn mitgenommen werden.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
 	.string "Auf der Kampfbahn ist jede\n"
-	.string "BEERE und jedes Kraut nur einmal\l"
+	.string "Beere und jedes Kraut nur einmal\l"
 	.string "wirksam.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
 	.string "Auf der Kampfbahn kann die\n"
-	.string "Reihenfolge der POKéMON nicht\l"
+	.string "Reihenfolge der Pokémon nicht\l"
 	.string "verändert werden.\p"
 	.string "Du musst die Reihenfolge festlegen,\n"
 	.string "bevor du die Herausforderung annimmst.$"

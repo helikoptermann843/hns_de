@@ -5,16 +5,16 @@ gText_WhichPCShouldBeAccessed::
 	.string "Zugriff auf wessen PC?$"
 
 gText_AccessedSomeonesPC::
-	.string "Verbindung zu JEMANDES PC hergestellt.$"
+	.string "Verbindung zu Jemandes PC hergestellt.$"
 
 gText_StorageSystemOpened::
-	.string "POKéMON-Lagerungs-System geöffnet.$"
+	.string "Pokémon-Lagerungs-System geöffnet.$"
 
 gText_AccessedPlayersPC::
 	.string "Verbindung mit PC von {PLAYER}.$"
 
 gText_AccessedLanettesPC::
-	.string "Mit BILL'S PC verbunden.$"
+	.string "Verbindung zu Lanettes PC hergestellt.$"
 
 gText_AccessedBillsPC::
-	.string "Verbindung zu BILL'S PC hergestellt.$"
+	.string "Verbindung zu Bill'S PC hergestellt.$"

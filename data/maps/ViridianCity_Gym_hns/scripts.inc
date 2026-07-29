@@ -44,7 +44,7 @@ ViridianCity_Gym_EventScript_BlueGotoDojo::
 ViridianCity_Gym_Text_BlueGotoDojo:
 	.string "Blau: Zurück für mehr?\p"
 	.string "wenn du kämpfen willst,\n"
-	.string "komm zum KAMPFDOJO!$"
+	.string "komm zum Kampfdojo!$"
 
 ViridianCity_Gym_EventScript_BlueAtDojo::
 	msgbox ViridianCity_Gym_Text_LeaderBlue_Epilogue, MSGBOX_DEFAULT
@@ -105,11 +105,11 @@ ViridianCity_Gym_EventScript_GymGuyAfter::
 	end
 
 ViridianCity_Gym_Text_Guide:
-	.string "He! Ein CHAMP in spe!\p"
+	.string "He! Ein Champ in spe!\p"
 	.string "Wie läuft es so?\n"
 	.string "Du hast wohl gerade eine\l"
 	.string "Glückssträhne.\p"
-	.string "Der ARENALEITER hat den CHAMP\n"
+	.string "Der Arenaleiter hat den Champ\n"
 	.string "vor drei Jahren besiegt.\p"
 	.string "Das wird kein Kinderspiel!\p"
 	.string "Gib alles, was du hast!$"
@@ -134,13 +134,13 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "VERTANIA POKéMON ARENA\n"
-    .string "LEITER: BLAU\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Vertania Pokémon Arena\n"
+    .string "Leiter: Blau\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "VERTANIA POKéMON ARENA\n"
-    .string "LEITER: BLAU\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$$"
+    .string "Vertania Pokémon Arena\n"
+    .string "Leiter: Blau\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"

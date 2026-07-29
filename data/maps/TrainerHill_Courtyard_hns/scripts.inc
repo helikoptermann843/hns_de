@@ -8,32 +8,32 @@ TrainerHill_Courtyard_OnTransition::
 
 TrainerHill_Courtyard_EventScript_BattleTowerSign::
 	lock
-	msgbox BattleTowerOutsideSignText, MSGBOX_SIGN	
-	closemessage	
+	msgbox BattleTowerOutsideSignText, MSGBOX_SIGN
+	closemessage
 	release
 	end
 
 TrainerHill_Courtyard_EventScript_Tent_Factory::
 	lock
-	msgbox BattleTower_Battle_Tent_Text_Factory, MSGBOX_SIGN	
-	closemessage	
+	msgbox BattleTower_Battle_Tent_Text_Factory, MSGBOX_SIGN
+	closemessage
 	release
 	end
 
 TrainerHill_Courtyard_EventScript_Tent_Palace::
 	lock
-	msgbox BattleTower_Battle_Tent_Text_Palace, MSGBOX_SIGN	
-	closemessage	
+	msgbox BattleTower_Battle_Tent_Text_Palace, MSGBOX_SIGN
+	closemessage
 	release
 	end
 
 TrainerHill_Courtyard_EventScript_Tent_Arena::
 	lock
-	msgbox BattleTower_Battle_Tent_Text_Arena, MSGBOX_SIGN	
-	closemessage	
+	msgbox BattleTower_Battle_Tent_Text_Arena, MSGBOX_SIGN
+	closemessage
 	release
 	end
-	
+
 TrainerHill_Courtyard_EventScript_Engineer::
 	lock
 	faceplayer
@@ -67,13 +67,13 @@ TrainerHill_Courtyard_EventScript_Sailor::
 	end
 
 BattleTowerOutsideYoungsterText:
-	.string "Wow, der TRAINERBERG ist riesig!\p"
+	.string "Wow, der Trainerberg ist riesig!\p"
 	.string "Dort gibt es sicher viele\n"
-	.string "verschiedene POKéMON!$"
+	.string "verschiedene Pokémon!$"
 
 BattleTowerOutsideBeautyText:
-	.string "In den KAMPFZELTEN darfst du\n"
-	.string "nur drei POKéMON einsetzen.\p"
+	.string "In den Kampfzelten darfst du\n"
+	.string "nur drei Pokémon einsetzen.\p"
 	.string "Es ist schwer, die richtigen\n"
 	.string "drei auszuwählen…$"
 
@@ -85,25 +85,25 @@ BattleTowerOutsideSailorText:
 	.string "Ich muss den Sieg holen!$"
 
 BattleTowerOutsideSignText:
-	.string "{UP_ARROW} EINGANG TRAINERBERG\p"
+	.string "{UP_ARROW} Eingang Trainerberg\p"
 	.string "Erklimmt die Höhen,\n"
-	.string "hitzblütige TRAINER!\p"
-	.string "{RIGHT_ARROW} KAMPFZELTE.$"
+	.string "hitzblütige Trainer!\p"
+	.string "{RIGHT_ARROW} Kampfzelte.$"
 
 BattleTower_Battle_Tent_Text_Factory:
-	.string "KAMPFZELT: FABRIK\n"
-	.string "Finde das ultimative POKéMON!$"
+	.string "Kampfzelt: Fabrik\n"
+	.string "Finde das ultimative Pokémon!$"
 
 BattleTower_Battle_Tent_Text_Palace:
-	.string "KAMPFZELT: PALAST\n"
+	.string "Kampfzelt: Palast\n"
 	.string "Erlebe packende Kämpfe!$"
 
 BattleTower_Battle_Tent_Text_Arena:
-	.string "KAMPFZELT: ARENA\n"
+	.string "Kampfzelt: Arena\n"
 	.string "Die stärksten Teams treffen sich!$"
 
 BattleTowerOutsideText_Closed:
-	.string "Der TRAINERBERG ist derzeit\n"
+	.string "Der Trainerberg ist derzeit\n"
 	.string "wegen Reparaturen geschlossen.$"
 
 
@@ -200,13 +200,13 @@ TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan::
 	end
 
 TrainerHill_Courtyard_ExchangeServiceCorner_EventScript_OldWTMan_Text:
-	.string "Hallo! Die WUNDERTAUSCH-Stationen\l"
+	.string "Hallo! Die Wundertausch-Stationen\l"
 	.string "gibt es jetzt in jedem\l"
-	.string "POKéMON-CENTER. Viel Spaß!$"
+	.string "Pokémon-Center. Viel Spaß!$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 	.string "Willkommen im\n"
-	.string "TAUSCH-SERVICE.\p"
+	.string "Tausch-Service.\p"
 	.string "Hier kannst du deine gesammelten\l"
 	.string "Kampfpunkte gegen tolle Preise\l"
 	.string "eintauschen.\p"
@@ -216,8 +216,8 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_WishIHadAllDolls:
 	.string "Oh, die sind so süß!\n"
 	.string "Ich hätte sie alle gern!\l"
 	.string "Niedliche Kissen!\l"
-	.string "Große PLÜSCHIS!\l"
-	.string "Kleine PLÜSCHIS!\l"
+	.string "Große Plüschis!\l"
+	.string "Kleine Plüschis!\l"
 	.string "Ich will sie wirklich alle!$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
@@ -228,7 +228,7 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 	.string "Wenn ich diese Items bekomme,\n"
-	.string "werden meine POKéMON stärker.\p"
+	.string "werden meine Pokémon stärker.\p"
 	.string "Darauf kannst du wetten!\n"
 	.string "Ganz bestimmt!$"
 
@@ -239,11 +239,11 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
 	.string "Plüschi so anstarrst.\p"
 	.string "Wenn du eins willst, hol dir\n"
 	.string "doch selbst eins!\p"
-	.string "Nicht wahr, SMOOCHUM?$"
+	.string "Nicht wahr, Kussilla?$"
 
 TrainerHill_Courtyard_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Wusstest du das?\p"
-	.string "Wenn du in den KAMPFANLAGEN\l"
+	.string "Wenn du in den Kampfanlagen\l"
 	.string "immer bessere Rekorde schaffst,\p"
 	.string "erhältst du nach und nach mehr\n"
 	.string "Kampfpunkte.$"

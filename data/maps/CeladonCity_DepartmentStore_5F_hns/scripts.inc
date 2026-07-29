@@ -30,7 +30,7 @@ CeladonDeptStore5_EventScript_Receptionist_Already::
 	end
 
 CeladonDeptStore_Text_5FReceptionistOhYourMon:
-    .string "Hallo. Oh, dein POKéMON…$"
+    .string "Hallo. Oh, dein Pokémon…$"
 
 CeladonDeptStore_Text_5FReceptionistWait:
     .string "Warte, die TM hab ich dir\n"
@@ -39,7 +39,7 @@ CeladonDeptStore_Text_5FReceptionistWait:
 CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "Hmm…\n"
 	.string "Nicht besonders gut oder schlecht.\p"
-	.string "Du als TRAINER musst dich\n"
+	.string "Du als Trainer musst dich\n"
 	.string "etwas mehr anstrengen.$"
 
 CeladonDeptStore_Text_5FReceptionistItLooksEvilHowAboutThisTM:
@@ -78,7 +78,7 @@ CeladonDeptStore5_Text_Falkner:
 	.string "Ich besorge Items für meine\n"
 	.string "Flug-Pokémon.\p"
 	.string "Wenn du mich noch einmal herausfordern\n"
-	.string "willst, bin ich im DOJO in Saffronia\l"
+	.string "willst, bin ich im Dojo in Saffronia\l"
 	.string "City.$"
 
 CeladonDeptStore5F_Text_Gentleman:
@@ -98,4 +98,4 @@ CeladonDeptStore5F_Text_Teacher:
 	.string "sie scheinbar auch verzichten…$"
 
 CeladonDeptStore5F_Text_Directory:
-	.string "4F: DROGERIE$"
+	.string "4F: Drogerie$"

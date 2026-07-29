@@ -304,20 +304,20 @@ MossdeepCity_Movement_ScottExitEast:
 	step_end
 
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
-	.string "Ich habe das von TROY bekommen, weiß\n"
+	.string "Ich habe das von Troy bekommen, weiß\n"
 	.string "aber nicht, was ich damit machen soll.\n"
 	.string "\p"
-	.string "Ich glaube, es heißt KING-STEIN.\n"
+	.string "Ich glaube, es heißt King-Stein.\n"
 	.string "Möchtest du das haben?$"
 
 MossdeepCity_Text_YouCanKeepIt:
 	.string "Warum willst du das haben?\n"
 	.string "Du bist komisch.\p"
 	.string "Du kannst es behalten, aber erzähle\n"
-	.string "es nicht TROY.$"
+	.string "es nicht Troy.$"
 
 MossdeepCity_Text_StevensHouseOverThere:
-	.string "TROYs Haus befindet sich gleich\n"
+	.string "Troys Haus befindet sich gleich\n"
 	.string "dort drüben.$"
 
 MossdeepCity_Text_WhatToDoWithWeirdRock:
@@ -325,38 +325,38 @@ MossdeepCity_Text_WhatToDoWithWeirdRock:
 	.string "auch mit komischen Steinen anfangen?$"
 
 MossdeepCity_Text_WailmerWatching:
-	.string "In der Nähe von MOOSBACH CITY\n"
-	.string "kann man wilde WAILMER sehen.\p"
+	.string "In der Nähe von Moosbach City\n"
+	.string "kann man wilde Wailmer sehen.\p"
 	.string "Das nennt man, äh…\n"
 	.string "Nennt man… äh… ähm…\p"
 	.string "WAI…, WAI…, WAI…\p"
-	.string "WAILMER Watching!$"
+	.string "Wailmer Watching!$"
 
 MossdeepCity_Text_SpaceCenterReceivedLetter:
-	.string "Am RAUMFAHRTZENTRUM auf der Insel\n"
+	.string "Am Raumfahrtzentrum auf der Insel\n"
 	.string "werden große Raketen gestartet.\p"
 	.string "Dort ist vor kurzem ein Brief ange-\n"
 	.string "kommen, der für Aufregung sorgte.$"
 
 MossdeepCity_Text_SpaceCenterLaunchingRockets:
-	.string "Am RAUMFAHRTZENTRUM auf der Insel\n"
+	.string "Am Raumfahrtzentrum auf der Insel\n"
 	.string "werden große Raketen gestartet.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
 	.string "Ich habe von einem Freund, einem\l"
-	.string "MATROSEN, gehört, dass TEAM AQUA sich\n"
-	.string "\pin SEEGRASULB CITY aufgehalten\p"
+	.string "Matrosen, gehört, dass Team Aqua sich\n"
+	.string "\pin Seegrasulb City aufgehalten\p"
 	.string "haben soll.\p"
 	.string "Aber dann ist jemand gekommen und hat\n"
 	.string "sie aufgemischt.\p"
-	.string "Und in MOOSBACH CITY ist TEAM\n"
-	.string "MAGMA.\p"
+	.string "Und in Moosbach City ist Team\n"
+	.string "Magma.\p"
 	.string "Wenn du wissen willst, was sie\n"
 	.string "vorhaben,\l"
-	.string "dann geh zum RAUMFAHRTZENTRUM.$"
+	.string "dann geh zum Raumfahrtzentrum.$"
 
 MossdeepCity_Text_FeelReliefOnLand:
-	.string "Ich bin ein MATROSE, daher ist das\n"
+	.string "Ich bin ein Matrose, daher ist das\n"
 	.string "Meer sehr wichtig für mich.\p"
 	.string "Aber weißt du, was? Wenn ich nach\n"
 	.string "einer\n"
@@ -384,14 +384,14 @@ MossdeepCity_Text_LifeNeedsSeaToLive:
 MossdeepCity_Text_SurfExhilarating:
 	.string "Eine Reise auf einem Schiff ist toll.\n"
 	.string "\p"
-	.string "Aber das Meer auf einem POKéMON zu\n"
-	.string "überqueren, das SURFER einsetzt…\p"
+	.string "Aber das Meer auf einem Pokémon zu\n"
+	.string "überqueren, das Surfer einsetzt…\p"
 	.string "Das ist wirklich eine aufregende\n"
 	.string "Sache. Meinst du nicht auch, Kindchen?$"
 
 MossdeepCity_Text_SpecialSpaceCenterRock:
 	.string "Dieser Felsen hat eine ganz besondere\n"
-	.string "Bedeutung für das RAUMFAHRTZENTRUM.\p"
+	.string "Bedeutung für das Raumfahrtzentrum.\p"
 	.string "Sie haben ihn hier hingesetzt als\n"
 	.string "Glücksbringer für den sicheren Flug\n"
 	.string "der\l"
@@ -405,23 +405,23 @@ MossdeepCity_Text_ItsAWhiteRock:
 	.string "Ein weißer Felsen.$"
 
 MossdeepCity_Text_GymSign:
-	.string "POKéMON ARENA von MOOSBACH CITY \n"
-	.string "LEITER: SVENJA & BEN\p"
+	.string "Pokémon Arena von Moosbach City \n"
+	.string "Leiter: Svenja & Ben\p"
 	.string "“Die mystische Kombination!”$"
 
 MossdeepCity_Text_CitySign:
-	.string "MOOSBACH CITY\n"
-	.string "“Unser Motto: Liebe POKéMON!”$"
+	.string "Moosbach City\n"
+	.string "“Unser Motto: Liebe Pokémon!”$"
 
 MossdeepCity_Text_SpaceCenterSign:
-	.string "MOOSBACH CITY RAUMFAHRTZENTRUM\n"
+	.string "Moosbach City Raumfahrtzentrum\n"
 	.string "“Der letzte Ort vor dem All.”$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
-	.string "SCOTT: Geht es dir gut, {PLAYER}{KUN}?\n"
+	.string "Scott: Geht es dir gut, {PLAYER}{KUN}?\n"
 	.string "Mir geht es fantastisch!\p"
 	.string "Ich habe mir sagen lassen, dass die\n"
-	.string "ARENALEITER von MOOSBACH sehr stark\l"
+	.string "Arenaleiter von Moosbach sehr stark\l"
 	.string "sein sollen.\p"
 	.string "Davon musste ich mich einfach selbst\n"
 	.string "überzeugen.\p"
@@ -429,7 +429,7 @@ MossdeepCity_Text_ScottSomethingWrongWithTown:
 	.string "Merkwürdiges vor.\p"
 	.string "Die Leute reden über einen Brief mit\n"
 	.string "einer Warnung und dem\l"
-	.string "RAUMFAHRTZENTRUM…\p"
+	.string "Raumfahrtzentrum…\p"
 	.string "Aber ich glaube nicht, dass mich das\n"
 	.string "etwas angeht.$"
 
@@ -437,9 +437,9 @@ MossdeepCity_Text_SootopolisNewGymLeader:
 	.string "Ahh… Ein großartiges Gefühl, wenn\n"
 	.string "die Wellen über meine Füße spülen…\p"
 	.string "Apropos Wellen. Kennst du die Stadt\n"
-	.string "XENEROVILLE?\p"
-	.string "Ich glaube, die ARENA dort hat einen\n"
-	.string "neuen LEITER.\p"
+	.string "Xeneroville?\p"
+	.string "Ich glaube, die Arena dort hat einen\n"
+	.string "neuen Leiter.\p"
 	.string "Das soll der frühere Mentor von\n"
-	.string "WASSILI sein.$"
+	.string "Wassili sein.$"
 

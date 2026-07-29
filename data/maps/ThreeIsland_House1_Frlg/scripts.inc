@@ -16,7 +16,7 @@ ThreeIsland_House1_EventScript_DisplayCase::
 ThreeIsland_House1_Text_YoureAlwaysSoCool::
 	.string "Pst!\n"
 	.string "Ich bin ein Geheimagent!\p"
-	.string "Ich verfolge das TEAM ROCKET!\n"
+	.string "Ich verfolge das Team Rocket!\n"
 	.string "Pst!$"
 
 ThreeIsland_House1_Text_RareRocksGemsDisplayed::

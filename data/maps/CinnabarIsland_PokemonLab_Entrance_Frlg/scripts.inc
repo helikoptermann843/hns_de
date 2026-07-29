@@ -31,22 +31,22 @@ CinnabarIsland_PokemonLab_Entrance_EventScript_TestingRoomSign::
 	end
 
 CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
-	.string "Ein Foto von PYRO und MR. FUJI!\p"
+	.string "Ein Foto von Pyro und Mr. Fuji!\p"
 	.string "Sie stehen eng beisammen und\n"
 	.string "grinsen!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-	.string "Der KAPITÄN ist ein Meister des\n"
+	.string "Der Kapitän ist ein Meister des\n"
 	.string "Schwertkampfes!\p"
-	.string "Er unterrichtet sogar POKéMON im\n"
-	.string "Umgang mit dem ZERSCHNEIDER!$"
+	.string "Er unterrichtet sogar Pokémon im\n"
+	.string "Umgang mit dem Zerschneider!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
 	.string "Sperrstunde! Die Party ist vorbei!\n"
 	.string "Das Schiff sticht bald in See!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
-	.string "POKéMON-LABOR\n"
+	.string "Pokémon-Labor\n"
 	.string "Konferenzraum$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
@@ -55,5 +55,5 @@ CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
 	.string "Hast du eine Ahnung, wie viele\n"
-	.string "unterschiedliche POKéMON es gibt?$"
+	.string "unterschiedliche Pokémon es gibt?$"
 

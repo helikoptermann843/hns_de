@@ -85,7 +85,7 @@ Route112_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
-	.string "Die SEILBAHN fährt gleich hinauf.\n"
+	.string "Die Seilbahn fährt gleich hinauf.\n"
 	.string "Möchtest du mit?$"
 
 Route112_CableCarStation_Text_StepThisWay:

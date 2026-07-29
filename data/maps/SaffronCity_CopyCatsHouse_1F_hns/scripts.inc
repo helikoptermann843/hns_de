@@ -43,4 +43,4 @@ CopycatsHouse1F_Text_PokefanF_ReturnedPart:
 	.string "Sie wurde einfach immer besser darin…$"
 
 CopycatsHouse1F_Text_Blissey:
-	.string "HEITEIRA: Hei! Teira!$"
+	.string "Heiteira: Hei! Teira!$"

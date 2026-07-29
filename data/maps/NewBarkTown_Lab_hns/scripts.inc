@@ -10,7 +10,7 @@ NewBarkTown_Lab_OnTransition::
 	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 2, NewBarkTown_Lab_EventScript_ElmAtComputer
 	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 3, NewBarkTown_Lab_EventScript_ElmAtComputer
 	end
-	
+
 NewBarkTown_Lab_OnFrame::
 	map_script_2 VAR_NEWBARKTOWN_LABSTATE, 4, NewBarkTown_Lab_EventScript_PoliceEpisode
 	.2byte 0
@@ -20,7 +20,7 @@ NewBarkTown_Lab_EventScript_ElmAtComputer::
 	setobjectmovementtype LOCALID_ELM, MOVEMENT_TYPE_FACE_UP
 	end
 
-NewBarkTown_Lab_EventScript_TriggerStartLabLeft::	
+NewBarkTown_Lab_EventScript_TriggerStartLabLeft::
 	lock
 	applymovement OBJ_EVENT_ID_PLAYER, NewBarkTown_Lab_Movement_WalkRight
 	waitmovement 0
@@ -194,7 +194,7 @@ NewBarkTown_Lab_EventScript_CyndaquilBall_Choice::
 	playmoncry PLAYER_STARTER_SPECIES, CRY_MODE_NORMAL
 	bufferspeciesname STR_VAR_1, PLAYER_STARTER_SPECIES
 	buffermoncategory STR_VAR_2, PLAYER_STARTER_SPECIES
-	msgbox NewBarkTown_Lab_Text_ChooseCyndaquil, MSGBOX_YESNO	
+	msgbox NewBarkTown_Lab_Text_ChooseCyndaquil, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, YES, NewBarkTown_Lab_EventScript_ChoseStarter
 	goto_if_eq VAR_RESULT, NO, NewBarkTown_Lab_EventScript_DeclinedStarter
 	end
@@ -270,7 +270,7 @@ NewBarkTown_Lab_EventScript_GiveStarter_NotShiny::
 	return
 
 NewBarkTown_Lab_EventScript_GiveStarter_Shiny::
-	givemon PLAYER_STARTER_SPECIES, 5, ITEM_NONE, BALL_POKE, NATURE_RANDOM, NUM_ABILITY_PERSONALITY, MON_GENDER_RANDOM, 0, 0, 0, 0, 0, 0, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, MOVE_DEFAULT, MOVE_DEFAULT, MOVE_DEFAULT, MOVE_DEFAULT, SHINY_MODE_ALWAYS	
+	givemon PLAYER_STARTER_SPECIES, 5, ITEM_NONE, BALL_POKE, NATURE_RANDOM, NUM_ABILITY_PERSONALITY, MON_GENDER_RANDOM, 0, 0, 0, 0, 0, 0, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, USE_RANDOM_IVS, MOVE_DEFAULT, MOVE_DEFAULT, MOVE_DEFAULT, MOVE_DEFAULT, SHINY_MODE_ALWAYS
 	return
 
 NewBarkTown_Lab_EventScript_NicknameStarter::
@@ -430,7 +430,7 @@ NewBarkTown_Lab_EventScript_ElmState5::
 	applymovement LOCALID_ELM Common_Movement_FaceOriginalDirection
 	release
 	end
-	
+
 NewBarkTown_Lab_EventScript_ElmMasterBall::
 	lock
 	faceplayer
@@ -708,26 +708,26 @@ NewBarkTown_Lab_Text_ElmChooseAPokemon:
 	.string "Wähle jetzt!$"
 
 NewBarkTown_Lab_Text_ElmWhereGoing:
-	.string "LIND: Halt! Wohin willst du?$"
+	.string "Lind: Halt! Wohin willst du?$"
 
 NewBarkTown_Lab_Text_ChooseCyndaquil:
-	.string "LIND: Du nimmst Feurigel,\n"
+	.string "Lind: Du nimmst Feurigel,\n"
 	.string "das Feuer-Pokémon?$"
 
 NewBarkTown_Lab_Text_ChooseTotodile:
-	.string "LIND: Willst du Karnimani,\n"
+	.string "Lind: Willst du Karnimani,\n"
 	.string "das Wasser-Pokémon?$"
 
 NewBarkTown_Lab_Text_ChooseChikorita:
-	.string "LIND: Also, Endivie gefällt dir,\n"
+	.string "Lind: Also, Endivie gefällt dir,\n"
 	.string "das Pflanzen-Pokémon?$"
 
 NewBarkTown_Lab_Text_DidntChooseStarter:
-	.string "LIND: Denk gut nach.\p"
+	.string "Lind: Denk gut nach.\p"
 	.string "Dein Partner ist wichtig.$"
 
 NewBarkTown_Lab_Text_ChoseStarter:
-	.string "LIND: Das ist auch ein\n"
+	.string "Lind: Das ist auch ein\n"
 	.string "tolles Pokémon!$"
 
 NewBarkTown_Lab_Text_ReceivedStarter:
@@ -739,7 +739,7 @@ NewBarkTown_Lab_Text_Nickname:
 
 NewBarkTown_Lab_Text_ElmDirections1:
 	.string "Mr. Pokémon wohnt etwas\n"
-	.string "hinter ROSALIA,\l"
+	.string "hinter Rosalia,\l"
 	.string "der nächsten Stadt.\p"
 	.string "Du kannst es kaum verfehlen.\n"
 	.string "Aber sicher ist sicher.\p"
@@ -756,11 +756,11 @@ NewBarkTown_Lab_Text_ElmDirections2:
 	.string "erscheint, lass deines kämpfen!\p"
 	.string "Wenn es verletzt ist, heile es\n"
 	.string "an der Maschine links oder im\l"
-	.string "POKéCENTER.\p"
+	.string "Pokécenter.\p"
 	.string "Ich zähle auf dich!$"
 
 NewBarkTown_Lab_Text_GotElmsNumber:
-	.string "{PLAYER} bekam LINDs\n"
+	.string "{PLAYER} bekam Linds\n"
 	.string "Telefonnummer.$"
 
 NewBarkTown_Lab_Text_ElmDescribesMrPokemon:
@@ -771,7 +771,7 @@ NewBarkTown_Lab_Text_ElmDescribesMrPokemon:
 
 NewBarkTown_Lab_Text_ElmPokeBall:
 	.string "Enthält ein Pokémon, das\n"
-	.string "PROF.LIND gefangen hat.$"
+	.string "Prof.Lind gefangen hat.$"
 
 @THEFT================================================================================
 
@@ -784,22 +784,22 @@ NewBarkTown_Lab_Text_ElmAfterTheft1:
 
 NewBarkTown_Lab_Text_ElmAfterTheft2:
 	.string "{PLAYER} übergab das Rätsel-Ei\n"
-	.string "an PROF.LIND.$"
+	.string "an Prof.Lind.$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft3:
-	.string "LIND: Hmm... das?$"
+	.string "Lind: Hmm... das?$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "Aber… Ist es ein Pokémon-Ei?\p"
 	.string "Wenn ja, ist es eine große Entdeckung!\p"
-	.string "LIND: Was?!?\p"
-	.string "PROF.EICH gab dir einen POKéDEX?\p"
+	.string "Lind: Was?!?\p"
+	.string "Prof.Eich gab dir einen Pokédex?\p"
 	.string "{PLAYER}, stimmt das?\n"
 	.string "Unglaublich!\p"
 	.string "Er erkennt das Potential von\n"
 	.string "Menschen als Trainer.\p"
 	.string "Wow, {PLAYER}. Du könntest\n"
-	.string "CHAMPION werden.\p"
+	.string "Champion werden.\p"
 	.string "Du kommst gut mit Pokémon klar.\p"
 	.string "Versuche die Arenaleiter\n"
 	.string "herauszufordern.\p"
@@ -815,7 +815,7 @@ NewBarkTown_Lab_Text_ElmStudyingEgg:
 	.string "Ei herausgefunden habe!$"
 
 NewBarkTown_Lab_Text_ElmAideHasEgg:
-	.string "LIND: {PLAYER}? Hast du meinen\n"
+	.string "Lind: {PLAYER}? Hast du meinen\n"
 	.string "Assistenten getroffen?\p"
 	.string "Er hätte dich mit dem Ei\n"
 	.string "im Pokémon-Center von Viola\n"
@@ -824,7 +824,7 @@ NewBarkTown_Lab_Text_ElmAideHasEgg:
 	.string "Versuch es dort noch einmal.$"
 
 NewBarkTown_Lab_Text_ElmWaitingEggHatch:
-	.string "LIND: Hey, hat sich am Ei\n"
+	.string "Lind: Hey, hat sich am Ei\n"
 	.string "etwas getan?$"
 
 NewBarkTown_Lab_Text_ElmThoughtEggHatched:
@@ -833,7 +833,7 @@ NewBarkTown_Lab_Text_ElmThoughtEggHatched:
 	.string "Wo ist das Pokémon?$"
 
 NewBarkTown_Lab_Text_ShowTogepi1:
-	.string "LIND: {PLAYER}, das sieht toll aus!$"
+	.string "Lind: {PLAYER}, das sieht toll aus!$"
 
 NewBarkTown_Lab_Text_ShowTogepi2:
 	.string "Was? Dieses Pokémon!?!$"
@@ -860,7 +860,7 @@ NewBarkTown_Lab_Text_ElmGiveEverstone2:
 	.string "du nicht entwickeln willst.$"
 
 NewBarkTown_Lab_Text_ElmCallYou:
-	.string "LIND: {PLAYER}, ich rufe an,\n"
+	.string "Lind: {PLAYER}, ich rufe an,\n"
 	.string "wenn etwas passiert.$"
 
 NewBarkTown_Lab_Text_AideAfterTheft:
@@ -903,8 +903,8 @@ NewBarkTown_Lab_Text_KimonoGirls:
 	.string "Schluss durchhältst!$"
 
 NewBarkTown_Lab_Text_KimonoWaiting:
-	.string "PROF. LIND: Die KIMONO MÄDCHEN\n"
-	.string "warten im TEAK-CITY TANZTHEATER.$"
+	.string "Prof. Lind: Die Kimono Mädchen\n"
+	.string "warten im Teak-City Tanztheater.$"
 
 NewBarkTown_Lab_Text_League:
 	.string "Lind: Haha, gute Arbeit!\p"
@@ -950,7 +950,7 @@ NewBarkTown_Lab_Text_ElmGiveTicket2:
 
 NewBarkTown_Lab_Text_LabMonEgg:
 	.string "Es ist das Pokémon-Ei, das\n"
-	.string "von PROF.LIND erforscht wird.$"
+	.string "von Prof.Lind erforscht wird.$"
 
 NewBarkTown_Lab_Text_AideGivePotion:
 	.string "{PLAYER}, nimm das für\n"
@@ -963,8 +963,8 @@ NewBarkTown_Lab_Text_AideAlwaysBusy:
 NewBarkTown_Lab_Text_AideSave:
 	.string "Vergiss nicht regelmäßig zu\n"
 	.string "speichern!\p"
-	.string "Drücke START und dann\n"
-	.string "SICHERN!$"
+	.string "Drücke Start und dann\n"
+	.string "Sichern!$"
 
 NewBarkTown_Lab_Text_AideTheftTestimony:
 	.string "Wir haben ein schrecklich lautes\n"
@@ -981,17 +981,17 @@ NewBarkTown_Lab_Text_AideTheftTestimony:
 NewBarkTown_Lab_Text_AideGiveBalls:
 	.string "{PLAYER}!\p"
 	.string "Benutze diese für deine\n"
-	.string "POKéDEX-Mission!$"
+	.string "Pokédex-Mission!$"
 
 NewBarkTown_Lab_Text_AideExplainBalls:
-	.string "Um deinen POKéDEX zu füllen,\n"
+	.string "Um deinen Pokédex zu füllen,\n"
 	.string "musst du Pokémon fangen.\p"
 	.string "Wirf Pokébälle auf wilde Pokémon!$"
 
 NewBarkTown_Lab_Text_Officer1:
 	.string "Ich hörte, hier wurde ein\n"
 	.string "Pokémon gestohlen…\p"
-	.string "Ich wollte Infos von PROF.LIND.\p"
+	.string "Ich wollte Infos von Prof.Lind.\p"
 	.string "Offenbar war es ein junger\n"
 	.string "Mann mit langen, roten Haaren…\p"
 	.string "Was?\p"
@@ -1011,7 +1011,7 @@ NewBarkTown_Lab_Text_OfficerNo:
 
 NewBarkTown_Lab_Text_Elm_CallMe:
 	.string "Ah, {PLAYER}!\p"
-	.string "Wie läufts mit dem POKéDEX?\p"
+	.string "Wie läufts mit dem Pokédex?\p"
 	.string "Ich bin gerade beschäftigt, aber\n"
 	.string "ruf mich mal an, dann kann ich\l"
 	.string "deinen Fortschritt prüfen!$"

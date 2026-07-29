@@ -63,16 +63,16 @@ GoldenrodCity_RadioTower_5F_EventScript_Director::
 	goto_if_eq VAR_RESULT, TRUE, GoldenrodCity_RadioTower_5F_EventScript_DirectorDone
 	checkitem ITEM_RAINBOW_WING
 	goto_if_eq VAR_RESULT, TRUE, GoldenrodCity_RadioTower_5F_EventScript_DirectorDone
-	
+
 	@ If player has neither wing, and hasn't spoken to Baoba, direct them toward him
 	goto_if_eq VAR_LUGIA_OR_HOOH, 0, GoldenrodCity_RadioTower_5F_EventScript_DirectorWest
-	
+
 	@ If player has neither wing and has spoken to Baoba, give one
 	msgbox GoldenrodCity_RadioTower_5F_Text_DirectorThanksAgain, MSGBOX_DEFAULT
 	closemessage
 	call_if_eq VAR_LUGIA_OR_HOOH, 1, GoldenrodCity_RadioTower_5F_EventScript_GiveTidalWing2
 	call_if_eq VAR_LUGIA_OR_HOOH, 2, GoldenrodCity_RadioTower_5F_EventScript_GiveClearWing2
-	
+
 	playse SE_PIN
 	applymovement LOCALID_DIRECTOR_STUDIO, Common_Movement_ExclamationMark
 	delay 60
@@ -139,7 +139,7 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirector2:
 	.string "Hast du das etwa erwartet?\p"
 	.string "Falsch! Ich bin ein Betrüger!\p"
 	.string "Willst du wissen, wo wir den\n"
-	.string "ECHTEN DIREKTOR versteckt haben?\p"
+	.string "Echten Direktor versteckt haben?\p"
 	.string "Schon gut, ich sag es dir. Aber\n"
 	.string "nur, wenn du mich besiegst!$"
 
@@ -148,24 +148,24 @@ GoldenrodCity_RadioTower_5F_Text_FakeDirectorWin:
 	.string "Ich sage dir, wo der Intendant ist.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter:
-	.string "Der Boss hat den DIREKTOR im\n"
-	.string "UNTERGRUND-LAGER versteckt.\p"
+	.string "Der Boss hat den Direktor im\n"
+	.string "Untergrund-Lager versteckt.\p"
 	.string "Es liegt ganz am Ende des\n"
-	.string "UNTERGRUND.\p"
+	.string "Untergrund.\p"
 	.string "Ich bin nett und gebe dir den\n"
 	.string "Kelleröffner für das\l"
-	.string "UNTERGRUND-LAGER.\p"
+	.string "Untergrund-Lager.\p"
 	.string "Aber ich bezweifle, dass du\n"
 	.string "so weit kommst.$"
 
 GoldenrodCity_RadioTower_5F_Text_FakeDirectorAfter2:
-	.string "Der Boss hat den DIREKTOR im\n"
-	.string "UNTERGRUND-LAGER versteckt.\p"
+	.string "Der Boss hat den Direktor im\n"
+	.string "Untergrund-Lager versteckt.\p"
 	.string "Es liegt ganz am Ende des\n"
-	.string "UNTERGRUND.\p"
+	.string "Untergrund.\p"
 	.string "Ich bin nett und gebe dir den\n"
 	.string "Kelleröffner für das\l"
-	.string "UNTERGRUND-LAGER.\p"
+	.string "Untergrund-Lager.\p"
 	.string "Aber ich bezweifle, dass du\n"
 	.string "so weit kommst.$"
 
@@ -378,7 +378,7 @@ GoldenrodCity_RadioTower_5F_Movement_Leave2:
 
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Seen:
 	.string "Erinnerst du dich an mich aus dem\n"
-	.string "VERSTECK in Mahagonia?\p"
+	.string "Versteck in Mahagonia?\p"
 	.string "Mein Boss hat mich ausgeschimpft,\n"
 	.string "aber ich bin stärker!\p"
 	.string "Damals verlor ich...\n"
@@ -392,7 +392,7 @@ GoldenrodCity_RadioTower_5F_Text_ExecutiveF1Beaten:
 GoldenrodCity_RadioTower_5F_Text_ExecutiveF1After:
 	.string "{PLAYER}, richtig?\p"
 	.string "Ein Gör wie du versteht die Größe\n"
-	.string "von TEAM ROCKET nicht.\p"
+	.string "von Team Rocket nicht.\p"
 	.string "Schade… Ich bewundere deine Stärke.$"
 
 GoldenrodCity_RadioTower_5F_Text_RocketBossSeen:
@@ -425,15 +425,15 @@ GoldenrodCity_RadioTower_5F_Text_RocketBossAfter:
 	.string "Leb wohl.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorThanks:
-	.string "INTENDANT: {PLAYER}, danke!\p"
+	.string "Intendant: {PLAYER}, danke!\p"
 	.string "Dein Mut hat Pokémon im ganzen\n"
 	.string "Land gerettet.\p"
 	.string "Es ist nicht viel, aber bitte,\n"
 	.string "nimm dies.$"
 
 GoldenrodCity_RadioTower_5F_Text_DirectorThanksAgain:
-	.string "INTENDANT: {PLAYER}, nochmals, danke!\p"
-	.string "Das POKéMON mit den großen Schwingen\n"
+	.string "Intendant: {PLAYER}, nochmals, danke!\p"
+	.string "Das Pokémon mit den großen Schwingen\n"
 	.string "das hier vorbei geflogen ist erinnert\l"
 	.string "mich an etwas, ich habe eine Belohnung\p"
 	.string "für dich. Es ist nicht viel aber\n"
@@ -443,12 +443,12 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation:
 	.string "Dukatia City.\p"
 	.string "Er war morsch und klapprig…\p"
 	.string "Darum ersetzten wir ihn durch den\n"
-	.string "RADIOTURM.\p"
+	.string "Radioturm.\p"
 	.string "Beim Bau fanden wir diese Feder.\p"
 	.string "Man sagt, früher lebten viele\n"
-	.string "Pokémon in DUKATIA.\p"
+	.string "Pokémon in Dukatia.\p"
 	.string "Vielleicht…\p"
-	.string "Hat sie etwas mit dem ZINNTURM\n"
+	.string "Hat sie etwas mit dem Zinnturm\n"
 	.string "in Teak City zu tun…\p"
 	.string "Ich gehe nun in mein Büro.$"
 
@@ -458,12 +458,12 @@ GoldenrodCity_RadioTower_5F_Text_DirectorClearWingExplanation2:
 	.string "Dukatia City.\p"
 	.string "Er war morsch und klapprig…\p"
 	.string "Darum ersetzten wir ihn durch den\n"
-	.string "RADIOTURM.\p"
+	.string "Radioturm.\p"
 	.string "Beim Bau fanden wir diese Feder.\p"
 	.string "Man sagt, früher lebten viele\n"
-	.string "Pokémon in DUKATIA.\p"
+	.string "Pokémon in Dukatia.\p"
 	.string "Vielleicht…\p"
-	.string "Hat sie etwas mit dem ZINNTURM\n"
+	.string "Hat sie etwas mit dem Zinnturm\n"
 	.string "in Teak City zu tun…\p"
 	.string "Ich gehe nun in mein Büro.$"
 
@@ -471,10 +471,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation:
 	.string "Hier stand einst ein alter Turm in\n"
 	.string "Dukatia City.\p"
 	.string "Er war alt und klapprig…\p"
-	.string "Darum bauten wir den RADIOTURM.\p"
+	.string "Darum bauten wir den Radioturm.\p"
 	.string "Dabei fanden wir diese Feder.\p"
 	.string "Früher lebten viele Pokémon in\n"
-	.string "DUKATIA.\p"
+	.string "Dukatia.\p"
 	.string "Vielleicht…\p"
 	.string "Hat sie etwas mit den\n"
 	.string "Strudelinseln bei Anemonia zu tun…\p"
@@ -485,10 +485,10 @@ GoldenrodCity_RadioTower_5F_Text_DirectorTidalWingExplanation2:
 	.string "Hier stand einst ein alter Turm in\n"
 	.string "Dukatia City.\p"
 	.string "Er war alt und klapprig…\p"
-	.string "Darum bauten wir den RADIOTURM.\p"
+	.string "Darum bauten wir den Radioturm.\p"
 	.string "Dabei fanden wir diese Feder.\p"
 	.string "Früher lebten viele Pokémon in\n"
-	.string "DUKATIA.\p"
+	.string "Dukatia.\p"
 	.string "Vielleicht…\p"
 	.string "Hat sie etwas mit den\n"
 	.string "Strudelinseln bei Anemonia zu tun…\p"
@@ -498,7 +498,7 @@ GoldenrodCity_RadioTower_5F_Text_DirectorLegendary:
 	.string "Ah!\p"
 	.string "Da fällt mir ein…\p"
 	.string "Die Feder, die ich dir gab…\n"
-	.string "Sie soll mit den LEGENDÄREN\l"
+	.string "Sie soll mit den Legendären\l"
 	.string "Pokémon zu tun haben.\p"
 	.string "Aber! Allein die Feder reicht nicht…\p"
 	.string "Man braucht noch etwas\n"
@@ -523,13 +523,13 @@ GoldenrodCity_RadioTower_5F_Text_DirectorIntro:
 
 @ 1.3 Sequence Break - Directs player toward Baoba
 GoldenrodCity_RadioTower_5F_Text_DirectorWest:
-	.string "INTENDANT: Hallo, {PLAYER}!\p"
-	.string "Hast du das POKéMON mit den\n"
+	.string "Intendant: Hallo, {PLAYER}!\p"
+	.string "Hast du das Pokémon mit den\n"
 	.string "großen Flügeln hier vorbei\l"
 	.string "fliegen sehen? Die ganze Stadt\p"
 	.string "redet darüber!\p"
 	.string "Es scheint nach Westen zu fliegen,\n"
-	.string "in Richtung ROUTE 39.$"
+	.string "in Richtung Route 39.$"
 
 GoldenrodCity_RadioTower_5F_Text_Ben:
 	.string "Ben: Hörst du gerne Musik?$"
@@ -538,4 +538,4 @@ GoldenrodCity_RadioTower_5F_Text_DirectorOfficeSign:
 	.string "4S: Büro des Intendanten$"
 
 GoldenrodCity_RadioTower_5F_Text_Studio1Sign:
-	.string "4S   STUDIO 1$"
+	.string "4S   Studio 1$"

@@ -3,7 +3,7 @@ MtMortar_2F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-MtMortar_2F_OnTransition: 
+MtMortar_2F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -46,7 +46,7 @@ MtMortar_2F_Text_SupernerdHughBeaten:
 
 MtMortar_2F_Text_SupernerdHughAfter:
 	.string "Ich untersuche den\n"
-	.string "KESSELBERG, aber mein\l"
+	.string "Kesselberg, aber mein\l"
 	.string "Kumpel ist verschwunden.\p"
 	.string "Hast du einen Trainer\n"
 	.string "gesehen, dessen Flegmon\l"

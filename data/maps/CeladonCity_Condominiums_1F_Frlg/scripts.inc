@@ -62,7 +62,7 @@ CeladonCity_Condominiums_1F_EventScript_SuiteSign::
 	end
 
 CeladonCity_Condominiums_1F_Text_Meowth::
-	.string "MAUZI: Miau!$"
+	.string "Mauzi: Miau!$"
 
 CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
 	.string "Du solltest dein ganzes Geld\n"
@@ -71,34 +71,34 @@ CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
 
 CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
 	.string "Gegen Durst ist nichts besser als\n"
-	.string "heißer TEE.\p"
+	.string "heißer Tee.\p"
 	.string "Er ist einfach am besten!$"
 
 CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
-	.string "Meine treuen POKéMON leisten mir\n"
+	.string "Meine treuen Pokémon leisten mir\n"
 	.string "Gesellschaft.\p"
-	.string "MAUZI bringt sogar Geld mit nach\n"
+	.string "Mauzi bringt sogar Geld mit nach\n"
 	.string "Hause!$"
 
 CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "Oh, hallo!\n"
-	.string "Hat dir mein TEE geschmeckt?\p"
+	.string "Hat dir mein Tee geschmeckt?\p"
 	.string "Apropos, bist du zufällig aus\n"
-	.string "ALABASTIA?\p"
-	.string "Ein Mädchen aus ALABASTIA\n"
-	.string "namens SARAH trinkt jeden Tag\l"
-	.string "TEE.\l"
-	.string "Sie kommt ins EINKAUFSZENTRUM\l"
-	.string "von PRISMANIA CITY, um TEE\l"
+	.string "Alabastia?\p"
+	.string "Ein Mädchen aus Alabastia\n"
+	.string "namens Sarah trinkt jeden Tag\l"
+	.string "Tee.\l"
+	.string "Sie kommt ins Einkaufszentrum\l"
+	.string "von Prismania City, um Tee\l"
 	.string "zu kaufen!$"
 
 CeladonCity_Condominiums_1F_Text_Clefairy::
-	.string "PIEPI: Pi pippi!$"
+	.string "Piepi: Pi pippi!$"
 
 CeladonCity_Condominiums_1F_Text_Nidoran::
-	.string "NIDORAN♀: NIDORAN!$"
+	.string "Nidoran♀: Nidoran!$"
 
 CeladonCity_Condominiums_1F_Text_ManagersSuite::
-	.string "PRISMANIA-VILLA\n"
+	.string "Prismania-Villa\n"
 	.string "Manager Suite$"
 

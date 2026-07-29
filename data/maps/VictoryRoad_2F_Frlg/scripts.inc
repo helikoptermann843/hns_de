@@ -132,7 +132,7 @@ VictoryRoad_2F_Text_GregoryDefeat::
 
 VictoryRoad_2F_Text_GregoryPostBattle::
 	.string "Sehr schön!\n"
-	.string "Hier ist dein POKéMON!$"
+	.string "Hier ist dein Pokémon!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::

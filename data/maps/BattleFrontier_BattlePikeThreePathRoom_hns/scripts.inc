@@ -294,8 +294,8 @@ BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge_hns:
 	.string "fortsetzen?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit_hns:
-	.string "Möchtest du speichern und\n"
-	.string "das Spiel beenden?$"
+	.string "Möchtest du das Spiel speichern und\n"
+	.string "beenden?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge_hns:
 	.string "Möchtest du die Kampfbahn-\n"
@@ -342,11 +342,11 @@ BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath_hns:
 	.string "mit dem Weg dort links…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon_hns:
-	.string "Der typische Duft von POKéMON scheint\n"
+	.string "Der typische Duft von Pokémon scheint\n"
 	.string "dort vorhanden zu sein…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople_hns:
-	.string "Ist das ein… TRAINER? Ich\n"
+	.string "Ist das ein… Trainer? Ich\n"
 	.string "spüre die Anwesenheit von Menschen…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering_hns:

@@ -36,7 +36,7 @@ SaffronCity_PokemonCenter_1F_EventScript_YoungsterRocketsGone::
 	end
 
 SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpecies::
-	.string "{PLAYER}: Mein POKéMON sieht viel\n"
+	.string "{PLAYER}: Mein Pokémon sieht viel\n"
 	.string "stärker aus!$"
 
 SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::
@@ -45,8 +45,8 @@ SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::
 	.string "Du darfst zuerst wählen, {PLAYER}!$"
 
 SaffronCity_PokemonCenter_1F_Text_GreatIfEliteFourCameBeatRockets::
-	.string "Ich wünschte, die TOP VIER kämen\n"
-	.string "und stampften das TEAM ROCKET in\l"
+	.string "Ich wünschte, die Top Vier kämen\n"
+	.string "und stampften das Team Rocket in\l"
 	.string "den Boden!$"
 
 SaffronCity_PokemonCenter_1F_Text_TeamRocketTookOff::

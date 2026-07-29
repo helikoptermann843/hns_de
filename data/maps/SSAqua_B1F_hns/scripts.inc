@@ -8,7 +8,7 @@ SSAqua_B1F_EventScript_Trigger::
 	msgbox SSAqua_B1F_Text_FastShipOnDutySailor, MSGBOX_DEFAULT
 	closemessage
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
-	waitmovement 0 
+	waitmovement 0
 	turnobject LOCALID_SSAQUA_B1F_SAILORLOOKING, DIR_SOUTH
 	release
 	end
@@ -55,7 +55,7 @@ SSAqua_B1F_Text_FastShipOnDutySailor:
 
 SSAqua_B1F_Text_FastShipOnDutySailorRefused:
 	.string "Oh, oh…\p"
-	.string "Der KAPITÄN wird wütend sein…$"
+	.string "Der Kapitän wird wütend sein…$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorThanks:
 	.string "Danke! Ich habe mit ihm geredet.\n"
@@ -69,7 +69,7 @@ SSAqua_B1F_Text_FastShipOnDutySailorSawGirl:
 SSAqua_B1F_Text_FastShipOnDutySailorDirections:
 	.string "Der Speisesaal ist geradeaus.\p"
 	.string "Die Treppen am\n"
-	.string "Ende führen in die KAPITÄNSKAJÜTE.$"
+	.string "Ende führen in die Kapitänskajüte.$"
 
 SSAqua_B1F_EventScript_Jeff::
 	trainerbattle_single TRAINER_JEFF_HNS, SSAqua_B1F_Text_SailorJeffSeen, SSAqua_B1F_Text_SailorJeffBeaten
@@ -150,8 +150,7 @@ SSAqua_B1F_Text_FisherJonahSeen:
 	.string "ich kann nicht angeln! Kämpfen wir!$"
 
 SSAqua_B1F_Text_FisherJonahBeaten:
-	.string "Ich… mir ist nicht mehr\n"
-	.string "langweilig…$"
+	.string "J-jetzt ist mir nicht mehr langweilig…$"
 
 SSAqua_B1F_Text_FisherJonahAfter:
 	.string "Ich werde am Kai von\n"
@@ -192,8 +191,8 @@ SSAqua_B1F_Text_SailorKennethBeaten:
 	.string "ist offensichtlich…$"
 
 SSAqua_B1F_Text_SailorKennethAfter:
-	.string "Acht ORDEN! Sie zeigen, dass\n"
-	.string "du die Arena-LEITER besiegt hast.\p"
+	.string "Acht Orden! Sie zeigen, dass\n"
+	.string "du die Arena-Leiter besiegt hast.\p"
 	.string "Kein Wunder, dass du so gut bist!$"
 
 SSAqua_B1F_EventScript_Shirley::

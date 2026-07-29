@@ -15,15 +15,15 @@ ReceptionGate_EventScript_Janine::
     end
 
 ReceptionGate_Text_Janine:
-	.string "JANINA: Ich bin auf dem Weg zu\n"
+	.string "Janina: Ich bin auf dem Weg zu\n"
 	.string "meinem Vater, um ihm das Mittagessen\l"
 	.string "zu bringen.\p"
-	.string "Die TOP VIER hat keine Zeit für\n"
+	.string "Die Top Vier hat keine Zeit für\n"
 	.string "Erholung, Tag oder Nacht.\p"
 	.string "Es ist wirklich harte Arbeit, weißt\n"
 	.string "du? \p"
 	.string "Wenn du bereit für einen weiteren\n"
-	.string "Kampf bist, ich bin später im DOJO.$"
+	.string "Kampf bist, ich bin später im Dojo.$"
 
 
 ReceptionGate_EventScript_Officer::
@@ -50,7 +50,7 @@ ReceptionGate_EventScript_Kimono::
     applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
     waitmovement 0
     release
-    end 
+    end
 
 ReceptionGate_EventScript_NotEnough::
     msgbox VictoryRoadGate_Text_NotEnoughBadges, MSGBOX_DEFAULT
@@ -79,21 +79,21 @@ VictoryRoadGate_Text_Kimono:
 	.string "Legendären Pokémon's annimmt...$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
-	.string "Du besitzt nicht alle ORDEN von JOHTO.\p"
+	.string "Du besitzt nicht alle Orden von Johto.\p"
 	.string "Tut mir Leid. Ich\n"
 	.string "darf dich nicht passieren lassen.$"
 
 VictoryRoadGate_Text_EightBadges:
-	.string "Oh! Alle acht ORDEN von JOHTO!\p"
+	.string "Oh! Alle acht Orden von Johto!\p"
 	.string "Geh bitte weiter!$"
 
 VictoryRoadGate_Text_LeftBlackBelt:
-	.string "Dieser Weg führt zum SILBERBERG.\p"
+	.string "Dieser Weg führt zum Silberberg.\p"
 	.string "Dir werden be-\n"
 	.string "ängstigend starke Pokémon begegnen.$"
 
 VictoryRoadGate_Text_RightBlackBelt:
 	.string "Du bist auf dem\n"
-	.string "Weg zur Pokémon LIGA, nicht wahr?\p"
-	.string "Die TOP VIER sind so stark, dass es\n"
+	.string "Weg zur Pokémon Liga, nicht wahr?\p"
+	.string "Die Top Vier sind so stark, dass es\n"
 	.string "einem Angst macht. Sie erwarten dich!$"

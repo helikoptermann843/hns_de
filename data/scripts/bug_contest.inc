@@ -125,11 +125,11 @@ BugContest_EventScript_SideEnd::
 
 BugContest_Text_Judging0::
 	.string "Der Wettbewerb ist beendet.\n"
-	.string "Wähle das POKéMON aus,\l"
+	.string "Wähle das Pokémon aus,\l"
 	.string "das bewertet werden soll.$"
 
 BugContest_Text_Judging1::
-	.string "Nun bewerten wir die POKéMON,\n"
+	.string "Nun bewerten wir die Pokémon,\n"
 	.string "die ihr gefangen habt.\p"
 	.string "...................\n"
 	.string "...................\p"
@@ -137,11 +137,11 @@ BugContest_Text_Judging1::
 	.string "Seid ihr bereit?$"
 
 BugContest_Text_WrongChoiceMon:
-	.string "Wähle das POKéMON aus,\n"
+	.string "Wähle das Pokémon aus,\n"
 	.string "das bewertet werden soll.$"
 
 BugContest_Text_DidntCatch:
-	.string "Oh nein! Du hast kein POKéMON\n"
+	.string "Oh nein! Du hast kein Pokémon\n"
 	.string "gefangen.\p"
 	.string "Du scheidest aus dem Wettbewerb\n"
 	.string "aus.\p"
@@ -152,18 +152,18 @@ BugContest_Text_TimesUp:
 
 BugContest_Text_WhiteOut:
 	.string "{PLAYER} hat keine kampffähigen\n"
-	.string "POKéMON mehr.\p"
+	.string "Pokémon mehr.\p"
 	.string "{PLAYER} scheidet aus.$"
 
 BugContest_Text_First1:
 	.string "Den dritten Platz belegt\n"
-	.string "ASS-TRAINERIN BELINDA\l"
-	.string "mit einem SAFCON!$"
+	.string "Ass-Trainerin Belinda\l"
+	.string "mit einem Safcon!$"
 
 BugContest_Text_First2:
 	.string "Den zweiten Platz belegt\n"
-	.string "KÄFERSAMMLER SHAUN\l"
-	.string "mit einem PINSIR!$"
+	.string "Käfersammler Shaun\l"
+	.string "mit einem Pinsir!$"
 
 BugContest_Text_First3:
 	.string "Der Sieger des Käferturniers\n"
@@ -173,8 +173,8 @@ BugContest_Text_First3:
 
 BugContest_Text_Second1:
 	.string "Den dritten Platz belegt\n"
-	.string "ASS-TRAINERIN BELINDA\l"
-	.string "mit einem SAFCON!$"
+	.string "Ass-Trainerin Belinda\l"
+	.string "mit einem Safcon!$"
 
 BugContest_Text_Second2:
 	.string "Den zweiten Platz belegt\n"
@@ -184,8 +184,8 @@ BugContest_Text_Second2:
 BugContest_Text_Second3:
 	.string "Der Sieger des Käferturniers\n"
 	.string "ist...\p"
-	.string "KÄFERSAMMLER SHAUN\n"
-	.string "mit einem PINSIR!$"
+	.string "Käfersammler Shaun\n"
+	.string "mit einem Pinsir!$"
 
 BugContest_Text_Third1:
 	.string "Den dritten Platz belegt\n"
@@ -194,14 +194,14 @@ BugContest_Text_Third1:
 
 BugContest_Text_Third2:
 	.string "Den zweiten Platz belegt\n"
-	.string "ASS-TRAINERIN BELINDA\l"
-	.string "mit einem SAFCON!$"
+	.string "Ass-Trainerin Belinda\l"
+	.string "mit einem Safcon!$"
 
 BugContest_Text_Third3:
 	.string "Der Sieger des Käferturniers\n"
 	.string "ist...\p"
-	.string "KÄFERSAMMLER SHAUN\n"
-	.string "mit einem PINSIR!$"
+	.string "Käfersammler Shaun\n"
+	.string "mit einem Pinsir!$"
 
 BugContest_Text_TakePartInFuture:
 	.string "Danke für deine Teilnahme!\n"
@@ -209,7 +209,7 @@ BugContest_Text_TakePartInFuture:
 	.string "du machst bald wieder mit.$"
 
 BugContest_Text_TransferAndReturn:
-	.string "Dein ausgewähltes KÄFER-POKéMON\n"
+	.string "Dein ausgewähltes Käfer-Pokémon\n"
 	.string "wird auf den PC übertragen.\p"
 	.string "Danach erhältst du dein Team\n"
 	.string "zurück.$"

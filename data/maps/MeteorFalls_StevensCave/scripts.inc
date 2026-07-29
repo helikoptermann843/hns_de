@@ -27,14 +27,14 @@ MeteorFalls_StevensCave_EventScript_Defeated::
 	end
 
 MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
-	.string "TROY: Oh, wow, {PLAYER}{KUN}!\n"
+	.string "Troy: Oh, wow, {PLAYER}{KUN}!\n"
 	.string "Ich bin erstaunt, dass du mich\l"
 	.string "gefunden hast!\p"
 	.string "Du, äh… denkst bestimmt, ich bin nur\n"
 	.string "verrückt nach Steinen, nicht wahr?\p"
 	.string "Nein, das tust du bestimmt nicht.\p"
 	.string "Wir haben ja schon als Team im\n"
-	.string "MOOSBACH CITY RAUMFAHRTZENTRUM\l"
+	.string "Moosbach City Raumfahrtzentrum\l"
 	.string "gekämpft.\p"
 	.string "Da hast du bestimmt einen Eindruck\n"
 	.string "davon gewonnen, wie gut ich bin.\p"
@@ -50,14 +50,14 @@ MeteorFalls_StevensCave_Text_StevenDefeat:
 	.string "werden würdest…$"
 
 MeteorFalls_StevensCave_Text_MyPredictionCameTrue:
-	.string "TROY: Aber, wenn ich es recht bedenke…\n"
+	.string "Troy: Aber, wenn ich es recht bedenke…\n"
 	.string "Damals, als wir uns zum ersten Mal in\n"
 	.string "der \p"
-	.string "GRANITHÖHLE von FAUSTAUHAVEN\n"
+	.string "Granithöhle von Faustauhaven\n"
 	.string "begegneten, hatte ich schon dieses\l"
 	.string "Gefühl.\p"
 	.string "Ich wusste, du würdest irgendwann der\n"
-	.string "CHAMP werden.\p"
+	.string "Champ werden.\p"
 	.string "Und mein Gefühl trügt mich nie!\p"
 	.string "Wohin wird dein Weg dich jetzt führen?\n"
 	.string "\p"

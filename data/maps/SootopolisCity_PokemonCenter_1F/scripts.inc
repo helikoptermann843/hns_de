@@ -44,16 +44,16 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WASSILI, der ehemalige ARENALEITER\n"
-	.string "dieses Ortes, ist ein starker TRAINER.\n"
+	.string "Wassili, der ehemalige Arenaleiter\n"
+	.string "dieses Ortes, ist ein starker Trainer.\n"
 	.string "\p"
-	.string "Man sagt, er sei der beste TRAINER der\n"
-	.string "ganzen HOENN-Region.\p"
-	.string "Der LEITER dieser ARENA ist der\n"
-	.string "Lehrer von WASSILI.\p"
-	.string "Aber die TOP VIER…\p"
+	.string "Man sagt, er sei der beste Trainer der\n"
+	.string "ganzen Hoenn-Region.\p"
+	.string "Der Leiter dieser Arena ist der\n"
+	.string "Lehrer von Wassili.\p"
+	.string "Aber die Top Vier…\p"
 	.string "Man sagt, sie seien stärker als\n"
-	.string "WASSILIs Lehrer.\p"
+	.string "Wassilis Lehrer.\p"
 	.string "Wie stark müssen sie dann erst sein?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
@@ -65,13 +65,13 @@ SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
 	.string "Was auch immer wann oder wo passiert,\n"
-	.string "meine Freundschaft zu den POKéMON\l"
+	.string "meine Freundschaft zu den Pokémon\l"
 	.string "leidet darunter bestimmt nicht!\p"
-	.string "Ich liebe es, mit POKéMON zusammen\n"
+	.string "Ich liebe es, mit Pokémon zusammen\n"
 	.string "zu sein.$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Sind POKéMON nicht unsere Freunde?\p"
+	.string "Sind Pokémon nicht unsere Freunde?\p"
 	.string "Warum sind sie dann auf einmal so\n"
 	.string "wild?$"
 

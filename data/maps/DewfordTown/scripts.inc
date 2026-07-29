@@ -628,70 +628,70 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "FAUSTAUHAVEN ist eine kleine\n"
+	.string "Faustauhaven ist eine kleine\n"
 	.string "Inselgemeinschaft. Wenn hier etwas in\l"
 	.string "Mode kommt, will jeder es haben.$"
 
 DewfordTown_Text_TownSign:
-	.string "FAUSTAUHAVEN\n"
+	.string "Faustauhaven\n"
 	.string "“Eine kleine Insel im blauen Meer.”$"
 
 DewfordTown_Text_GymSign:
-	.string "POKéMON ARENA von FAUSTAUHAVEN\n"
-	.string "LEITER: KAMILLO\l"
+	.string "Pokémon Arena von Faustauhaven\n"
+	.string "Leiter: Kamillo\l"
 	.string "“Eine große Welle des Kampfes!”$"
 
 DewfordTown_Text_HallSign:
-	.string "FAUSTAUHAVEN HALLE\n"
+	.string "Faustauhaven Halle\n"
 	.string "“Die Informationsbörse für jedermann!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "MR. BRACK: Ahoi! Wir haben in\n"
-	.string "FAUSTAUHAVEN Anker geworfen.\p"
-	.string "Ich vermute, du wirst diesen BRIEF\n"
-	.string "jetzt diesem… TROY bringen!?!$"
+	.string "Mr. Brack: Ahoi! Wir haben in\n"
+	.string "Faustauhaven Anker geworfen.\p"
+	.string "Ich vermute, du wirst diesen Brief\n"
+	.string "jetzt diesem… Troy bringen!?!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "MR. BRACK: Hast du den BRIEF\n"
+	.string "Mr. Brack: Hast du den Brief\n"
 	.string "überbracht?\p"
 	.string "Oder meinst du, wir müssen zurück\n"
-	.string "nach BLÜTENBURG CITY segeln?$"
+	.string "nach Blütenburg City segeln?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
-	.string "MR. BRACK: BLÜTENBURG CITY…\n"
+	.string "Mr. Brack: Blütenburg City…\n"
 	.string "In Ordnung.\p"
 	.string "Anker gelichtet!\n"
-	.string "PECKO, mein Schatz, wir setzen Segel!$"
+	.string "Pecko, mein Schatz, wir setzen Segel!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
-	.string "MR. BRACK: Dann bring den BRIEF zu\n"
+	.string "Mr. Brack: Dann bring den Brief zu\n"
 	.string "seinem Empfänger. Ich warte hier.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRACK: Ahoi! Wir haben in\n"
-	.string "FAUSTAUHAVEN Anker geworfen!\p"
+	.string "Mr. Brack: Ahoi! Wir haben in\n"
+	.string "Faustauhaven Anker geworfen!\p"
 	.string "Komm, wenn wir wieder Segel\n"
 	.string "setzen sollen.$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "MR. BRACK: Ahoi! Für dich fahre ich\n"
+	.string "Mr. Brack: Ahoi! Für dich fahre ich\n"
 	.string "jederzeit wieder raus!\p"
 	.string "Nun, wo soll es hingehen?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
-	.string "MR. BRACK: BLÜTENBURG CITY soll es\n"
+	.string "Mr. Brack: Blütenburg City soll es\n"
 	.string "sein?\p"
 	.string "Anker gelichtet!\n"
-	.string "PECKO, mein Schatz, wir setzen Segel!$"
+	.string "Pecko, mein Schatz, wir setzen Segel!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
-	.string "MR. BRACK: GRAPHITPORT CITY soll\n"
+	.string "Mr. Brack: Graphitport City soll\n"
 	.string "es sein?\p"
 	.string "Anker gelichtet!\n"
-	.string "PECKO, mein Schatz, wir setzen Segel!$"
+	.string "Pecko, mein Schatz, wir setzen Segel!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "MR. BRACK: Sag mir einfach Bescheid,\n"
+	.string "Mr. Brack: Sag mir einfach Bescheid,\n"
 	.string "wenn wir wieder Segel setzen sollen.$"
 
 DewfordTown_Text_GettingItchToFish:
@@ -701,19 +701,19 @@ DewfordTown_Text_GettingItchToFish:
 DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "Ich habe dir genau zugehört und mir\n"
 	.string "gefällt, was du gesagt hast!\p"
-	.string "Ich werde dir eine meiner ANGELn\n"
+	.string "Ich werde dir eine meiner Angeln\n"
 	.string "geben.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
 	.string "Und, als kleine Zugabe, gebe ich dir\n"
 	.string "noch einige Tipps zum Angeln!\p"
 	.string "Schau dir zuerst das Wasser an und\n"
-	.string "dann benutze deine ANGEL.\p"
+	.string "dann benutze deine Angel.\p"
 	.string "Konzentriere dich… Wenn etwas anbeißt,\n"
-	.string "hol die ANGEL ein.\p"
+	.string "hol die Angel ein.\p"
 	.string "Manchmal kannst du mit einem Mal etwas\n"
 	.string "Großes fangen, manchmal musst du\l"
-	.string "immer wieder kurz die ANGEL anheben,\l"
+	.string "immer wieder kurz die Angel anheben,\l"
 	.string "um etwas an Land zu ziehen.$"
 
 DewfordTown_Text_ThatsTooBadThen:
@@ -732,12 +732,12 @@ DewfordTown_Text_FishingAdvice:
 	.string "Hey, lass den Kopf nicht hängen! Ich\n"
 	.string "gebe dir einige Tipps zum Angeln!\p"
 	.string "Schau dir zuerst das Wasser an\n"
-	.string "und dann benutze deine ANGEL.\p"
+	.string "und dann benutze deine Angel.\p"
 	.string "Konzentriere dich… Wenn etwas\n"
-	.string "anbeißt, hol die ANGEL ein.\p"
+	.string "anbeißt, hol die Angel ein.\p"
 	.string "Manchmal kannst du mit einem Mal etwas\n"
 	.string "Großes fangen, manchmal musst du\l"
-	.string "immer wieder kurz die ANGEL anheben,\l"
+	.string "immer wieder kurz die Angel anheben,\l"
 	.string "um etwas an Land zu ziehen.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:

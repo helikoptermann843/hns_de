@@ -42,27 +42,27 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "Wenn ich doch nur ein RAD hätte…\n"
-	.string "Dann könnte ich nach GRAPHITPORT\l"
-	.string "CITY zum Einkaufen fahren.\p"
-	.string "Dort würde ich mir dann einen HAFEN-\n"
-	.string "BRIEF im PKMN-SUPERMARKT kaufen…$"
+	.string "Wenn ich doch nur ein Rad hätte…\n"
+	.string "Dann könnte ich nach Graphitport\l"
+	.string "City zum Einkaufen fahren.\p"
+	.string "Dort würde ich mir dann einen Hafen-\n"
+	.string "brief im Pkmn-Supermarkt kaufen…$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Oh! Du besitzt einen HAFENBRIEF!!!\n"
-	.string "Würdest du den gegen einen MÜNZKORB\l"
+	.string "Oh! Du besitzt einen Hafenbrief!!!\n"
+	.string "Würdest du den gegen einen Münzkorb\l"
 	.string "tauschen?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
 	.string "Oh, ich bin so glücklich!\n"
-	.string "Okay, ich gebe dir diesen MÜNZKORB!$"
+	.string "Okay, ich gebe dir diesen Münzkorb!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "Diesen MÜNZKORB brauchst du in der\n"
-	.string "SPIELHALLE.$"
+	.string "Diesen Münzkorb brauchst du in der\n"
+	.string "Spielhalle.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
 	.string "Oh, das ist schade.\p"
-	.string "In der SPIELHALLE benötigt man einen\n"
-	.string "MÜNZKORB.$"
+	.string "In der Spielhalle benötigt man einen\n"
+	.string "Münzkorb.$"
 

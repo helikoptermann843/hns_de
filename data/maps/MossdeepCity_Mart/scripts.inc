@@ -37,24 +37,24 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "BELEBER ist einfach fantastisch!\p"
-	.string "Gib es einem besiegten POKéMON und\n"
+	.string "Beleber ist einfach fantastisch!\p"
+	.string "Gib es einem besiegten Pokémon und\n"
 	.string "es ist wieder fit.\p"
-	.string "Aber Vorsicht! BELEBER füllt nicht die\n"
+	.string "Aber Vorsicht! Beleber füllt nicht die\n"
 	.string "verbrauchten AP neu auf!$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "TOP-SCHUTZ hält alle schwachen\n"
-	.string "POKéMON auf Distanz.\p"
-	.string "Von allen SCHUTZ-Sprays hält dieses am\n"
+	.string "Top-Schutz hält alle schwachen\n"
+	.string "Pokémon auf Distanz.\p"
+	.string "Von allen Schutz-Sprays hält dieses am\n"
 	.string "längsten an.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "Der NETZ- und der TAUCHBALL sind\n"
-	.string "seltene POKéBÄLLe, die in\l"
-	.string "MOOSBACH CITY hergestellt werden.\p"
-	.string "Ein NETZBALL ist höchst wirkungsvoll\n"
-	.string "bei KÄFER- und WASSER-POKéMON.\p"
-	.string "Der TAUCHBALL ist wirkungsvoll bei\n"
-	.string "POKéMON, die in der Tiefsee leben.$"
+	.string "Der Netz- und der Tauchball sind\n"
+	.string "seltene Pokébälle, die in\l"
+	.string "Moosbach City hergestellt werden.\p"
+	.string "Ein Netzball ist höchst wirkungsvoll\n"
+	.string "bei Käfer- und Wasser-Pokémon.\p"
+	.string "Der Tauchball ist wirkungsvoll bei\n"
+	.string "Pokémon, die in der Tiefsee leben.$"
 

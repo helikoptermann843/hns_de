@@ -12,4 +12,4 @@ Route16_EventScript_Sign::
 	end
 
 Route16_Text_Sign:
-	.string "RADWEG$"
+	.string "Radweg$"

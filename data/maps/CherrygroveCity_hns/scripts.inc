@@ -21,9 +21,9 @@ CherryGroveCity_EventScript_TriggerGent_Top::
 	msgbox CherrygroveCity_Text_GuideGentTourStart, MSGBOX_DEFAULT
 	closemessage
 	applymovement OBJ_EVENT_ID_PLAYER, CherryGroveCity_Movement_Trigger_Top
-	waitmovement 0 
+	waitmovement 0
 	applymovement LOCALID_GUIDE_GENT, CherryGroveCity_Movement_Trigger_Gent
-	waitmovement 0 
+	waitmovement 0
 	goto CherryGroveCity_EventScript_GentTour
 	release
 	end
@@ -42,7 +42,7 @@ CherryGroveCity_EventScript_TriggerGent_Mid::
 	msgbox CherrygroveCity_Text_GuideGentTourStart, MSGBOX_DEFAULT
 	closemessage
 	applymovement LOCALID_GUIDE_GENT, CherryGroveCity_Movement_Trigger_Gent
-	waitmovement 0 
+	waitmovement 0
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST
 	goto CherryGroveCity_EventScript_GentTour
 	release
@@ -62,9 +62,9 @@ CherryGroveCity_EventScript_TriggerGent_Bottom::
 	msgbox CherrygroveCity_Text_GuideGentTourStart, MSGBOX_DEFAULT
 	closemessage
 	applymovement LOCALID_GUIDE_GENT, CherryGroveCity_Movement_Trigger_Gent
-	waitmovement 0 
+	waitmovement 0
 	applymovement OBJ_EVENT_ID_PLAYER, CherryGroveCity_Movement_Trigger_Bottom
-	waitmovement 0 
+	waitmovement 0
 	goto CherryGroveCity_EventScript_GentTour
 	release
 	end
@@ -119,7 +119,7 @@ CherryGroveCity_EventScript_GentTour::
 	removeobject LOCALID_GUIDE_GENT
 	closedoor 42, 14
 	waitdooranim
-	
+
 	clearflag FLAG_HIDE_CHERRYGROVE_GUIDE_GENT_HOUSE
 	setflag FLAG_HIDE_GUIDE_GENT_CHERRYGROVE
 	setvar VAR_CHERRYGROVE_CITY_STATE, 1
@@ -134,7 +134,7 @@ CherryGroveCity_EventScript_Fisherman::
 	msgbox CherrygroveCity_Text_MysticWaterGuyBefore, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, CherryGroveCity_EventScript_Fisherman2
 	giveitem ITEM_MYSTIC_WATER
-	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull 
+	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
 	closemessage
 	setflag FLAG_GOT_MYSTICWATER
 	release
@@ -204,7 +204,7 @@ CherryGroveCity_EventScript_Sign::
 	msgbox CherrygroveCity_Text_CitySign, MSGBOX_SIGN
 	closemessage
 	release
-	end	
+	end
 
 CherryGroveCity_EventScript_TriggerSilver_Top::
 	lock
@@ -302,7 +302,7 @@ CherrygroveCity_Text_GuideGentMart:
 	.string "viele weitere nützliche Items.$"
 
 CherrygroveCity_Text_GuideGentRoute30:
-	.string "ROUTE 30 liegt hier entlang.\p"
+	.string "Route 30 liegt hier entlang.\p"
 	.string "Dort kämpfen Trainer mit ihren\n"
 	.string "geschätzten Pokémon.$"
 
@@ -316,7 +316,7 @@ CherrygroveCity_Text_GuideGentMap:
 	.string "Das ist mein Haus! Danke für\n"
 	.string "deine Gesellschaft.\p"
 	.string "Wenn du dich mal verirrst,\n"
-	.string "sieh auf deine KARTE!\p"
+	.string "sieh auf deine Karte!\p"
 	.string "Ich wünsche dir viel Glück\n"
 	.string "auf deiner Reise!$"
 
@@ -389,7 +389,7 @@ CherrygroveCity_Text_CitySign:
 	.string "Die Stadt des Blumendufts$"
 
 CherrygroveCity_Text_GuideGentsHouseSign:
-	.string "HAUS DES REISEFÜHRERS$"
+	.string "Haus des Reiseführers$"
 
 CherryGroveCity_Text_Staryu:
 	.string "Sterndu: Duuuuuuuu.$"
@@ -398,7 +398,7 @@ CherryGroveCity_Text_Corsola:
 	.string "Corasonn: Corasonn! La!$"
 
 CherryGroveCity_Text_Krabby:
-	.string "Krabby: KRAAAAAH!$"
+	.string "Krabby: Kraaaaah!$"
 
 CherryGroveCity_Movement_Trigger_Gent:
 	walk_down

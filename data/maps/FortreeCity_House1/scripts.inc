@@ -65,16 +65,16 @@ FortreeCity_House1_Text_YouWontTradeMe:
 	.string "habe?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "Ich werde dafür sorgen, dass VOLBEAT\n"
+	.string "Ich werde dafür sorgen, dass Volbeat\n"
 	.string "super-megastark wird!\p"
 	.string "Ich hoffe, du sorgst dich genauso um\n"
-	.string "PLUSLE!$"
+	.string "Plusle!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
-	.string "Mit anderen POKéMON tauschen…\p"
+	.string "Mit anderen Pokémon tauschen…\p"
 	.string "Das ist, als ob du die Erinnerungen\n"
 	.string "mit anderen Menschen teilst.$"
 
 FortreeCity_House1_Text_Zigzagoon:
-	.string "ZIGZACHS: Gumomoh?$"
+	.string "Zigzachs: Gumomoh?$"
 

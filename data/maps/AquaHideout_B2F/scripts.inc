@@ -105,7 +105,7 @@ AquaHideout_B2F_Text_MattDefeat:
 AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
 	.string "Hehehe!\p"
 	.string "Während ich mit dir gespielt habe, hat\n"
-	.string "sich unser BOSS vorbereitet!$"
+	.string "sich unser Boss vorbereitet!$"
 
 AquaHideout_B2F_Text_MattPostBattle:
 	.string "Hehehe!\p"

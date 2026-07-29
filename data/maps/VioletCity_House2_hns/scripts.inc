@@ -34,7 +34,7 @@ VioletCity_NicknameHouse_Text_Teacher:
 	.string "So süß.$"
 
 VioletCity_NicknameHouse_Text_Lass:
-	.string "Mein TAUBSI heißt Erdbeere!$"
+	.string "Mein Taubsi heißt Erdbeere!$"
 
 VioletCity_NicknameHouse_Text_Bird:
 	.string "Erdbeere: Tataubsi!$"

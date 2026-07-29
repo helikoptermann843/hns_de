@@ -3,7 +3,7 @@ IcePath_B3F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-IcePath_B3F_OnTransition: 
+IcePath_B3F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -151,15 +151,15 @@ IcePath_B3F_Text_Swinub:
 IcePath_B3F_Text_SwinubBerry:
 	.string "Willst du Quiekel eine Beere geben?$"
 IcePath_B3F_Text_SwinubAteBerry:
-	.string "Quiekel hat die ASPEAR-Beere genossen!$"
+	.string "Quiekel hat die Aspear-Beere genossen!$"
 IcePath_B3F_Text_SwinubTurnedAway:
 	.string "Quiekel mag das nicht!$"
 
 IcePath_B3F_Text_Delibird:
-	.string "Botogel: SKWAAAAA!$"
+	.string "Botogel: Skwaaaaa!$"
 IcePath_B3F_Text_DelibirdBerry:
 	.string "Willst du Botogel eine Beere geben?$"
 IcePath_B3F_Text_DelibirdAteBerry:
-	.string "Botogel hat die ASPEAR-Beere genossen!$"
+	.string "Botogel hat die Aspear-Beere genossen!$"
 IcePath_B3F_Text_DelibirdTurnedAway:
 	.string "Botogel mag das nicht!$"

@@ -273,7 +273,7 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "Ich habe keine POKéMON gefunden,\n"
+	.string "Ich habe keine Pokémon gefunden,\n"
 	.string "die, nun ja, wie für mich gemacht\n"
 	.string "sind. \p"
 	.string "Und da habe ich mir gedacht, ich\n"
@@ -286,17 +286,17 @@ SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
 	.string "Das ist die TM41, weißt du?\n"
-	.string "Hey, das ist FOLTERKNECHT, sag ich\n"
+	.string "Hey, das ist Folterknecht, sag ich\n"
 	.string "dir. \p"
 	.string "Der Gegner wird so daran gehindert,\n"
 	.string "eine Attacke zweimal hintereinander\l"
 	.string "auszuführen.\p"
-	.string "Aber nun hör mir gut zu. Ich würde NIE\n"
-	.string "FOLTERKNECHT gegen dich einsetzen.$"
+	.string "Aber nun hör mir gut zu. Ich würde nie\n"
+	.string "Folterknecht gegen dich einsetzen.$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "Ich mag eigentlich keine KÄFER-\n"
-	.string "POKéMON, aber vielleicht sollte ich\n"
+	.string "Ich mag eigentlich keine Käfer-\n"
+	.string "Pokémon, aber vielleicht sollte ich\n"
 	.string "zur\l"
 	.string "Abwechslung doch welche fangen?\p"
 	.string "Wer weiß, vielleicht finde ich sie\n"
@@ -305,7 +305,7 @@ SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
 	.string "Du kannst hier so viel kämpfen, wie du\n"
 	.string "willst, selbst wenn du keine starken\l"
-	.string "POKéMON hast.$"
+	.string "Pokémon hast.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
 	.string "Wäre es nicht schön, wenn sie eine\n"

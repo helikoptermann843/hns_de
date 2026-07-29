@@ -115,7 +115,7 @@ SSTidalRooms_Text_JedPostBattle:
 	.string "Du bist ein unglaublicher Trainer!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "UWE: Du hast nur ein POKéMON?\n"
+	.string "Uwe: Du hast nur ein Pokémon?\n"
 	.string "Fühlt es sich nicht sehr einsam?$"
 
 SSTidalRooms_Text_LeaIntro:
@@ -132,8 +132,8 @@ SSTidalRooms_Text_LeaPostBattle:
 	.string "Du bist ein unglaublicher Trainer!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LENA: Ich möchte kämpfen…\n"
-	.string "Aber du hast nur ein POKéMON…$"
+	.string "Lena: Ich möchte kämpfen…\n"
+	.string "Aber du hast nur ein Pokémon…$"
 
 SSTidalRooms_Text_GarretIntro:
 	.string "Ah, du kommst gerade rechtzeitig.\p"
@@ -170,11 +170,11 @@ SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "haupt nicht verdächtig! Äh… hier, das\l"
 	.string "ist für dich! Es kostet dich nichts!\p"
 	.string "Es… Ehrlich! Ich habe es nicht von\n"
-	.string "jemandem ÜBERNOMMEN! Das würde ich\l"
+	.string "jemandem Übernommen! Das würde ich\l"
 	.string "nie tun! Es ist sauber! Nimm es ruhig!$"
 
 SSTidalRooms_Text_ExplainSnatch:
-	.string "ÜBERNAHME raubt die nächste Attacke\n"
-	.string "eines POKéMON und setzt sie dann\l"
+	.string "Übernahme raubt die nächste Attacke\n"
+	.string "eines Pokémon und setzt sie dann\l"
 	.string "gegen diesen Gegner ein.$"
 

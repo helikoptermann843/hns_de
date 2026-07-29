@@ -52,13 +52,13 @@ PokemonMansion_1F_Text_ArniePostBattle::
 	.string "Schalter schließen oder öffnen!$"
 
 PokemonMansion_1F_Text_NewMonDiscoveredInGuyanaJungle::
-	.string "TAGEBUCH: 5. JULI\n"
+	.string "Tagebuch: 5. Juli\n"
 	.string "Der Dschungel im Niemandsland.\p"
 	.string "Wir haben tief im Dschungel ein\n"
-	.string "völlig neues POKéMON gefunden.$"
+	.string "völlig neues Pokémon gefunden.$"
 
 PokemonMansion_1F_Text_ChristenedDiscoveredMonMew::
-	.string "TAGEBUCH: 10. JULI\n"
+	.string "Tagebuch: 10. Juli\n"
 	.string "Wir nennen das neu entdeckte\l"
-	.string "POKéMON MEW.$"
+	.string "Pokémon Mew.$"
 

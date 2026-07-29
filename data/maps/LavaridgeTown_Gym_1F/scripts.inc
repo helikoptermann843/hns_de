@@ -182,11 +182,11 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "Die ARENALEITERIN von BAD LAVA-\n"
-	.string "STADT, FLAVIA, setzt FEUER-POKéMON\l"
+	.string "Champ, {PLAYER}?\p"
+	.string "Die Arenaleiterin von Bad Lava-\n"
+	.string "stadt, Flavia, setzt Feuer-Pokémon\l"
 	.string "ein.\p"
-	.string "Ihre Leidenschaft für POKéMON brennt\n"
+	.string "Ihre Leidenschaft für Pokémon brennt\n"
 	.string "heißer und stärker als ein Vulkan.\p"
 	.string "Komm ihr nicht zu nahe - du verbrennst\n"
 	.string "dich! Lösche die Glut mit Wasser und\l"
@@ -308,7 +308,7 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "Ich bin verantwortlich für, äh…\n"
 	.string "Nein, warte.\p"
 	.string "Ich bin Flavia und ich bin die Arena-\n"
-	.string "Leiterin hier!\p"
+	.string "leiterin hier!\p"
 	.string "Äh… Du solltest mich nicht\n"
 	.string "unterschätzen, nur weil ich noch nicht\l"
 	.string "so lange Leiterin bin!\p"
@@ -332,30 +332,30 @@ LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
 	.string "Du hast dir das hier wohl verdient!$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
-	.string "{PLAYER} erhält den HITZEORDEN\n"
-	.string "von FLAVIA.$"
+	.string "{PLAYER} erhält den Hitzeorden\n"
+	.string "von Flavia.$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "Mit dem HITZEORDEN gehorchen dir alle\n"
-	.string "POKéMON bis Level 50, auch die, die du\l"
+	.string "Mit dem Hitzeorden gehorchen dir alle\n"
+	.string "Pokémon bis Level 50, auch die, die du\l"
 	.string "durch Tausch erhalten hast.\p"
-	.string "Und du kannst ab sofort STÄRKE auch\n"
+	.string "Und du kannst ab sofort Stärke auch\n"
 	.string "außerhalb eines Kampfes einsetzen.\p"
 	.string "Dies ist das Zeichen meiner\n"
 	.string "Anerkennung. Nimm es ruhig an!$"
 
 LavaridgeTown_Gym_1F_Text_ExplainOverheat:
-	.string "Die TM50 enthält HITZEKOLLER.\p"
+	.string "Die TM50 enthält Hitzekoller.\p"
 	.string "Diese Attacke richtet beim Gegner\n"
 	.string "großen Schaden an.\p"
 	.string "Aber gleichzeitig wird der SP. ANG.\n"
-	.string "des POKéMON, das die Attacke\p"
+	.string "des Pokémon, das die Attacke\p"
 	.string "anwendet, herabgesetzt. Für längere\n"
 	.string "Kämpfe ist sie daher nicht geeignet.$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
-	.string "ARENALEITERIN FLAVIA wurde\n"
-	.string "im POKéNAV eingetragen.$"
+	.string "Arenaleiterin Flavia wurde\n"
+	.string "im Pokénav eingetragen.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "Deine Stärke erinnert mich an\n"
@@ -365,11 +365,11 @@ LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "der Arenaleiter von Blütenburg City.$"
 
 LavaridgeTown_Gym_1F_Text_GymStatue:
-	.string "POKéMON ARENA von BAD LAVASTADT$"
+	.string "Pokémon Arena von Bad Lavastadt$"
 
 LavaridgeTown_Gym_1F_Text_GymStatueCertified:
-	.string "POKéMON ARENA von BAD LAVASTADT\p"
-	.string "FLAVIAs ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Bad Lavastadt\p"
+	.string "Flavias anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:

@@ -133,14 +133,14 @@ Route115_Text_NeverKnowWhenCavePokemonWillAppear:
 	.string "Höhlenforschung ist nicht mit einem\n"
 	.string "Spaziergang auf einer Straße zu\l"
 	.string "vergleichen.\p"
-	.string "Du weißt nie, wann ein wildes POKéMON\n"
+	.string "Du weißt nie, wann ein wildes Pokémon\n"
 	.string "auftaucht. Du bist immer angespannt.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "ROUTE 115\n"
-	.string "{DOWN_ARROW} METAROST CITY$"
+	.string "Route 115\n"
+	.string "{DOWN_ARROW} Metarost City$"
 
 Route115_Text_MeteorFallsSign:
-	.string "METEORFÄLLE\n"
-	.string "LAUBWECHSELFELD HIER ENTLANG$"
+	.string "Meteorfälle\n"
+	.string "Laubwechselfeld hier entlang$"
 

@@ -58,11 +58,11 @@ SilphCo_5F_EventScript_Dalton::
 	end
 
 SilphCo_5F_Text_RocketsInUproarAboutIntruder::
-	.string "Ein Eindringling mischt das TEAM\n"
-	.string "ROCKET auf...  das bist du, oder?$"
+	.string "Ein Eindringling mischt das Team\n"
+	.string "Rocket auf...  das bist du, oder?$"
 
 SilphCo_5F_Text_YoureOurHeroThankYou::
-	.string "Das TEAM ROCKET ist geflüchtet!\n"
+	.string "Das Team Rocket ist geflüchtet!\n"
 	.string "Du bist ein Held!$"
 
 SilphCo_5F_Text_Grunt1Intro::
@@ -113,28 +113,28 @@ SilphCo_5F_Text_Grunt2PostBattle::
 	.string "sich zu Smogmog!$"
 
 SilphCo_5F_Text_PorygonFirstVRMon::
-	.string "Ein ARTIKEL über POKéMON!\p"
-	.string "PORYGON! POKéMON-LABOR ERZEUGT\n"
-	.string "VIRTUELLES POKéMON!$"
+	.string "Ein Artikel über Pokémon!\p"
+	.string "Porygon! Pokémon-Labor Erzeugt\n"
+	.string "Virtuelles Pokémon!$"
 
 SilphCo_5F_Text_Over350TechniquesConfirmed::
-	.string "Eine Studie über POKéMON!\p"
-	.string "Es gibt mehr als 350 POKéMON-\n"
+	.string "Eine Studie über Pokémon!\p"
+	.string "Es gibt mehr als 350 Pokémon-\n"
 	.string "Kampftechniken!$"
 
 SilphCo_5F_Text_SomeMonsEvolveWhenTraded::
-	.string "Ein POKéMON-BERICHT!\p"
-	.string "Einige POKéMON entwickeln sich\n"
+	.string "Ein Pokémon-Bericht!\p"
+	.string "Einige Pokémon entwickeln sich\n"
 	.string "erst beim Tausch.$"
 
 SilphCo_5F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "4 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "4 Og$"
 
 SilphCo_5F_Text_RocketBossLookingForStrongMons::
 	.string "Diese Rüpel haben die Kontrolle in\n"
 	.string "diesem Gebäude übernommen…\p"
-	.string "Der BOSS sagte, dass er nach\n"
-	.string "starken POKéMON sucht.\p"
-	.string "Ich hoffe, dass unser PRÄSIDENT\n"
+	.string "Der Boss sagte, dass er nach\n"
+	.string "starken Pokémon sucht.\p"
+	.string "Ich hoffe, dass unser Präsident\n"
 	.string "Ärger vermeiden konnte…$"

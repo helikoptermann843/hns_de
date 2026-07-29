@@ -25,8 +25,8 @@ CeladonCity_PokemonCenter1F_Text_CooltrainerF:
 	.string "dein blaues Wunder erleben!$"
 
 CeladonCity_PokemonCenter1F_Text_Pharmacist:
-	.string "TEAM ROCKETs Versteck befindet sich\n"
-	.string "im Keller des SPIELE-ECKS.\p"
+	.string "Team Rockets Versteck befindet sich\n"
+	.string "im Keller des Spiele-Ecks.\p"
 	.string "Oh, Moment. Das war vor drei Jahren.$"
 
 Celadon_Text_Eusine1:

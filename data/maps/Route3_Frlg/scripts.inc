@@ -12,7 +12,7 @@ Route3_EventScript_RouteSign::
 Route3_Text_TunnelFromCeruleanTiring::
 	.string "Puh! Ich muss eine Pause machen!\p"
 	.string "Der Weg durch den Tunnel aus\n"
-	.string "AZURIA CITY ist sehr beschwerlich!$"
+	.string "Azuria City ist sehr beschwerlich!$"
 
 Route3_Text_ColtonIntro::
 	.string "Heh! Ich kenne dich aus dem\n"
@@ -22,9 +22,9 @@ Route3_Text_ColtonDefeat::
 	.string "Du hast mich wieder besiegt!$"
 
 Route3_Text_ColtonPostBattle::
-	.string "Neben den POKéMON hier im Wald,\n"
+	.string "Neben den Pokémon hier im Wald,\n"
 	.string "gibt es noch Unmengen anderer\l"
-	.string "POKéMON zu entdecken!$"
+	.string "Pokémon zu entdecken!$"
 
 Route3_Text_BenIntro::
 	.string "Überall sind Brennnesseln! Und ich\n"
@@ -108,6 +108,6 @@ Route3_Text_RobinPostBattle::
 	.string "Mondberges.$"
 
 Route3_Text_RouteSign::
-	.string "ROUTE 3\n"
-	.string "ZUM MONDBERG$"
+	.string "Route 3\n"
+	.string "Zum Mondberg$"
 

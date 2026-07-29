@@ -119,9 +119,9 @@ GoldenrodCity_RadioTower_2F_EventScript_Teacher::
 	lock
 	faceplayer
 	goto_if_eq VAR_GOLDENROD_CITY_STATE, 6, GoldenrodCity_RadioTower_2F_EventScript_Teacher2
-	goto_if_eq VAR_GOLDENROD_CITY_STATE, 7, GoldenrodCity_RadioTower_2F_EventScript_Teacher2 
-	goto_if_eq VAR_GOLDENROD_CITY_STATE, 8, GoldenrodCity_RadioTower_2F_EventScript_Teacher2 
-	goto_if_eq VAR_GOLDENROD_CITY_STATE, 9, GoldenrodCity_RadioTower_2F_EventScript_Teacher2 
+	goto_if_eq VAR_GOLDENROD_CITY_STATE, 7, GoldenrodCity_RadioTower_2F_EventScript_Teacher2
+	goto_if_eq VAR_GOLDENROD_CITY_STATE, 8, GoldenrodCity_RadioTower_2F_EventScript_Teacher2
+	goto_if_eq VAR_GOLDENROD_CITY_STATE, 9, GoldenrodCity_RadioTower_2F_EventScript_Teacher2
 	msgbox GoldenrodCity_RadioTower_2F_Text_Teacher, MSGBOX_DEFAULT
 	closemessage
 	release
@@ -146,7 +146,7 @@ GoldenrodCity_RadioTower_2F_EventScript_Jigglypuff::
 RadioTower2FBuenaPasswordIsHelpText:
 	.string "Buena: Was fragst du da?\n"
 	.string "Wie das heutige Passwort lautet?\p"
-	.string "ZU HILFE natürlich!$"
+	.string "Zu Hilfe natürlich!$"
 
 GoldenrodCity_RadioTower_2F_Text_SuperNerd:
 	.string "Du kannst überall Radio hören.\n"
@@ -165,7 +165,7 @@ GoldenrodCity_RadioTower_2F_Text_TeacherRockets:
 	.string "den Radiosender zu besetzen?$"
 
 GoldenrodCity_RadioTower_2F_Text_Jigglypuff:
-	.string "PUMMELUFF: Pummel… uff…$"
+	.string "Pummeluff: Pummel… uff…$"
 
 GoldenrodCity_RadioTower_2F_Text_BlackBelt1:
 	.string "Der Zutritt zu den höheren Stockwerken\n"
@@ -193,7 +193,7 @@ GoldenrodCity_RadioTower_2F_Text_GruntM4After:
 	.string "unsere Pläne durchkreuzt!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM5Seen:
-	.string "Wir sind TEAM ROCKET, die\n"
+	.string "Wir sind Team Rocket, die\n"
 	.string "Ausbeuter von Pokémon!\p"
 	.string "Wir lieben das Böse!\n"
 	.string "Na, Angst?$"
@@ -205,7 +205,7 @@ GoldenrodCity_RadioTower_2F_Text_GruntM5Beaten:
 GoldenrodCity_RadioTower_2F_Text_GruntM5After:
 	.string "Genau genommen tun wir gar\n"
 	.string "nichts Böses.\l"
-	.string "Wir tun einfach, was wir WOLLEN.$"
+	.string "Wir tun einfach, was wir wollen.$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6Seen:
 	.string "He! Halte dich aus\n"
@@ -234,36 +234,36 @@ GoldenrodCity_RadioTower_2F_Text_GruntF2After:
 
 GoldenrodCity_RadioTower_2F_Text_BuenaShowPromo:
 	.string "Buena: Hör in meine\n"
-	.string "PASSWORT-SHOW rein!$"
+	.string "Passwort-Show rein!$"
 	.string "Höre das heutige\n"
 	.string "Passwort!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaAskPassword:
-	.string "BUENA: Hey du!\p"
+	.string "Buena: Hey du!\p"
 	.string "So, weißt du das heutige\n"
 	.string "Passwort?\p"
 	.string "OK! Wie lautet es?$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaCorrect:
-	.string "BUENA: Richtig!\p"
+	.string "Buena: Richtig!\p"
 	.string "Hier, nimm {STR_VAR_1}\n"
 	.string "als deinen Preis!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaWrong:
-	.string "BUENA: Bzzt! Schade!\p"
+	.string "Buena: Bzzt! Schade!\p"
 	.string "Versuche es wieder morgen!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaComeBack:
-	.string "BUENA: Keine Idee?\n"
+	.string "Buena: Keine Idee?\n"
 	.string "Komm später wieder!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaAlreadyPlayed:
-	.string "BUENA: Du hast heute bereits\n"
+	.string "Buena: Du hast heute bereits\n"
 	.string "das Passwort erraten!\p"
 	.string "Schalte morgen wieder ein!$"
 
 GoldenrodCity_RadioTower_2F_Text_BuenaBagFull:
-	.string "BUENA: Du hast es,\n"
+	.string "Buena: Du hast es,\n"
 	.string "aber deine Tasche ist voll!\p"
 	.string "Schaffe etwas platz\n"
 	.string "und komm zurück!$"
@@ -272,7 +272,7 @@ GoldenrodCity_RadioTower_2F_Text_SalesSign:
 	.string "1S: Geschäftsabteilung$"
 
 GoldenrodCity_RadioTower_2F_Text_OakTalkSign:
-	.string "PROF. EICHs POKéMON-TALK\p"
+	.string "Prof. Eichs Pokémon-Talk\p"
 	.string "Die heißeste Show im Radio!$"
 
 GoldenrodCity_RadioTower_2F_Text_PokemonRadioSign:

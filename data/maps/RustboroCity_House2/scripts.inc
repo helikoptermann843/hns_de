@@ -10,12 +10,12 @@ RustboroCity_House2_EventScript_LittleGirl::
 	end
 
 RustboroCity_House2_Text_TrainerSchoolExcellent:
-	.string "Die TRAINERSCHULE ist hervorragend.\p"
+	.string "Die Trainerschule ist hervorragend.\p"
 	.string "Wenn du dort lernst, kannst du später\n"
-	.string "sogar ARENALEITER werden.$"
+	.string "sogar Arenaleiter werden.$"
 
 RustboroCity_House2_Text_RoxanneKnowsALot:
-	.string "FELIZIA, die ARENALEITERIN, weiß\n"
-	.string "wirklich eine Menge über POKéMON.\p"
+	.string "Felizia, die Arenaleiterin, weiß\n"
+	.string "wirklich eine Menge über Pokémon.\p"
 	.string "Und sie ist sehr stark!$"
 

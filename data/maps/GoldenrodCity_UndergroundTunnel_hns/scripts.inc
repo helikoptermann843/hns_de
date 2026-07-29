@@ -5,7 +5,7 @@ GoldenrodCity_UndergroundTunnel_hns_MapScripts::
 GoldenrodCity_UndergroundTunnel_OnLoad::
 	goto GoldenrodCity_UndergroundTunnel_MapScript_TryOpenDoor
 	end
-	
+
 GoldenrodCity_UndergroundTunnel_EventScript_KimonoTriggerBot::
 	lock
 	playbgm MUS_HG_KIMONO_GIRL, TRUE
@@ -321,7 +321,7 @@ GoldenrodCity_UndergroundTunnel_EventScript_Item_Antidote::
 
 
 GoldenrodUnderground_Text_YoungerBrotherOffer:
-	.string "Willkommen im Pokémon-SALON!\p"
+	.string "Willkommen im Pokémon-Salon!\p"
 	.string "Ich bin der jüngere und\n"
 	.string "preiswertere Coiffeur-Bruder.\p"
 	.string "Ich verschönere dein Pokémon\n"
@@ -338,7 +338,7 @@ GoldenrodUnderground_Text_YoungerBrotherAllDone:
 	.string "Bitte schön! Fertig!$"
 
 GoldenrodUnderground_Text_YoungerBrotherDisappointed:
-	.string "Nein? Schade!$"
+	.string "Nein? Wie schade!$"
 
 GoldenrodUnderground_Text_YoungerBrotherShortOnFunds:
 	.string "Du hast nicht genügend Geld.$"
@@ -351,7 +351,7 @@ GoldenrodUnderground_Text_YoungerBrotherOnePerDay:
 
 GoldenrodUnderground_Text_OlderBrotherOffer:
 	.string "Willkommen!\p"
-	.string "Ich leite den Pokémon-SALON!\p"
+	.string "Ich leite den Pokémon-Salon!\p"
 	.string "Ich bin der ältere und bessere\n"
 	.string "Coiffeur-Bruder.\p"
 	.string "Ich verschönere dein Pokémon\n"
@@ -363,13 +363,14 @@ GoldenrodUnderground_Text_OlderBrotherAskWhich:
 	.string "Hand anlegen?$"
 
 GoldenrodUnderground_Text_OlderBrotherWatchItBeautiful:
-	.string "O.K.! Sieh her, wie schön es wird!$"
+	.string "Alles klar! Du wirst deinen Augen nicht\n"
+	.string "trauen!$"
 
 GoldenrodUnderground_Text_OlderBrotherAllDone:
 	.string "Hier! Fertig!$"
 
 GoldenrodUnderground_Text_OlderBrotherThatsAShame:
-	.string "Ist das wahr? Schade!$"
+	.string "Wenn du meinst. Zu schade.$"
 
 GoldenrodUnderground_Text_OlderBrotherNeedMoreMoney:
 	.string "Du hast nicht genügend Geld.$"
@@ -379,7 +380,7 @@ GoldenrodUnderground_Text_OlderBrotherOnePerDay:
 	.string "pro Tag; für heute bin ich fertig.$"
 
 GoldenrodUnderground_Text_SupernerdEricSeen:
-	.string "Ich wurde aus der SPIELHALLE\n"
+	.string "Ich wurde aus der Spielhalle\n"
 	.string "geworfen.\p"
 	.string "Ich wollte mit Pokémon betrügen…$"
 
@@ -387,7 +388,8 @@ GoldenrodUnderground_Text_SupernerdEricBeaten:
 	.string "…Grummel…$"
 
 GoldenrodUnderground_Text_SupernerdEricAfterBattle:
-	.string "Ich muss wohl fair spielen…$"
+	.string "Vielleicht spiele ich in Zukunft doch\n"
+	.string "lieber fair…$"
 
 GoldenrodUnderground_Text_SupernerdTeruSeen:
 	.string "Denkst du bei Kämpfen an Typen?\p"
@@ -395,40 +397,40 @@ GoldenrodUnderground_Text_SupernerdTeruSeen:
 	.string "wirst du besser kämpfen.$"
 
 GoldenrodUnderground_Text_SupernerdTeruBeaten:
-	.string "Autsch, autsch, autsch!$"
+	.string "Aua, aua, aua!$"
 
 GoldenrodUnderground_Text_SupernerdTeruAfterBattle:
 	.string "Ich kenne die Typ-Vorteile.\p"
 	.string "Aber ich nutze nur einen Typ.$"
 
 GoldenrodUnderground_Text_PokemaniacIssacSeen:
-	.string "Mein Pokémon hat einen Haarschnitt!\p"
-	.string "Ich zeige dir, wie stark es ist!$"
+	.string "Mein Pokémon kommt frisch vom\n"
+	.string "Coiffeur! Ich zeige dir, wie stark es\l"
+	.string "ist!$"
 
 GoldenrodUnderground_Text_PokemaniacIssacBeaten:
-	.string "Aiyeeee!$"
+	.string "Aaargh!$"
 
 GoldenrodUnderground_Text_PokemaniacIssacAfterBattle:
-	.string "Pokémon mögen dich mehr, wenn\n"
-	.string "du ihnen Haarschnitte gibst.$"
+	.string "Deine Pokémon werden zutraulicher,\n"
+	.string "wenn du sie zum Coiffeur bringst.$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldSeen:
-	.string "Ich glaube, du hast seltene Pokémon\n"
-	.string "bei dir.\p"
-	.string "Zeig sie mir!$"
+	.string "Du hast doch todsicher ein paar seltene\n"
+	.string "Pokémon dabei. Zeig mal her!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
 	.string "Gaah! Ich verlor! Wie ärgerlich!$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
-	.string "Gestern Abend beim FAHRRADLADEN\n"
+	.string "Gestern Abend beim Fahrradladen\n"
 	.string "fühte ich mich von den Dächern\l"
 	.string "beobachtet…$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:
-	.string "Sammelst du für den POKéDEX?\p"
-	.string "Tipp: Der Wanderer auf ROUTE 33,\n"
-	.string "TOM, ist nett.\p"
+	.string "Sammelst du für den Pokédex?\p"
+	.string "Tipp: Der Wanderer auf Route 33,\n"
+	.string "Tom, ist nett.\p"
 	.string "Er ruft dich, wenn er seltene\n"
 	.string "Pokémon sieht.$"
 
@@ -439,7 +441,7 @@ GoldenrodUnderground_Text_DoorIsOpen:
 	.string "Die Tür ist entriegelt.$"
 
 GoldenrodUnderground_Text_KeyOpenedDoor:
-	.string "KELLERÖFFNER entriegelt die Tür.$"
+	.string "Kelleröffner entriegelt die Tür.$"
 
 GoldenrodUnderground_Text_NoEntry:
-	.string "BIS HIERHER UND NICHT WEITER$"
+	.string "Bis hierher und nicht weiter$"

@@ -287,7 +287,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Bitte wähle zwei POKéMON aus, die\n"
+	.string "Bitte wähle zwei Pokémon aus, die\n"
 	.string "am Kampf teilnehmen sollen.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
@@ -295,7 +295,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
 	.string "Vielen Dank für die Teilnahme!\p"
-	.string "Deine POKéMON sind gleich wieder\n"
+	.string "Deine Pokémon sind gleich wieder\n"
 	.string "topfit!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
@@ -333,7 +333,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
 	.string "Der nächste Gegner von {PLAYER} ist\n"
-	.string "dieser TRAINER.$"
+	.string "dieser Trainer.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
 	.string "Das Turnier befindet sich in der\n"
@@ -364,13 +364,13 @@ BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
 	.string "Soll ich den letzten Kampf in deinen\n"
-	.string "KAMPFZONENPASS eintragen?$"
+	.string "Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
 	.string "Glückwunsch! Du hast es bis zum\n"
 	.string "finalen Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 @ Identical to ReadyForTuckerSilver
@@ -378,15 +378,15 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
 	.string "Glückwunsch! Du hast es bis zum\n"
 	.string "finalen Kampf geschafft!\p"
 	.string "In diesem Finale wirst du auf den\n"
-	.string "STADIONSTAR TASSO treffen.\p"
+	.string "Stadionstar Tasso treffen.\p"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
 	.string "Dies ist das Finale. Du trittst gegen\n"
-	.string "TASSO an. Bist du bereit?$"
+	.string "Tasso an. Bist du bereit?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:
 	.string "Dies ist das Finale. Du trittst gegen\n"
-	.string "TASSO an. Bist du bereit?$"
+	.string "Tasso an. Bist du bereit?$"
 

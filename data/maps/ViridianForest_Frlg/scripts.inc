@@ -65,8 +65,8 @@ ViridianForest_EventScript_Charlie::
 
 ViridianForest_Text_FriendsItchingToBattle::
 	.string "Meine Freunde und ich wollten hier\n"
-	.string "KÄFER-POKéMON fangen…\p"
-	.string "Unsere POKéMON wollen kämpfen!!!$"
+	.string "Käfer-Pokémon fangen…\p"
+	.string "Unsere Pokémon wollen kämpfen!!!$"
 
 ViridianForest_Text_RickIntro::
 	.string "Heh! Du hast auch Pokémon! Los!\n"
@@ -133,43 +133,43 @@ ViridianForest_Text_CharliePostBattle::
 	.string "schnell. Sie sind einfach toll!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::
-	.string "Verdammt! Mir sind die POKéBÄLLE\n"
+	.string "Verdammt! Mir sind die Pokébälle\n"
 	.string "ausgegangen! Wie fange ich nun\l"
-	.string "bloß POKéMON?\p"
-	.string "Du solltest immer genug POKéBÄLLE\n"
+	.string "bloß Pokémon?\p"
+	.string "Du solltest immer genug Pokébälle\n"
 	.string "bei dir haben!$"
 
 ViridianForest_Text_AvoidGrassyAreasWhenWeak::
-	.string "TIPPS FÜR TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Wenn du Kämpfe meiden möchtest,\n"
 	.string "bleibe hohem Gras fern!$"
 
 ViridianForest_Text_UseAntidoteForPoison::
 	.string "Bei Vergiftungen hat sich das\n"
-	.string "GEGENGIFT aus dem POKéMON-\l"
-	.string "SUPERMARKT bewährt.$"
+	.string "Gegengift aus dem Pokémon-\l"
+	.string "Supermarkt bewährt.$"
 
 ViridianForest_Text_ContactOakViaPCToRatePokedex::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Du kannst deinen POKéDEX jederzeit\n"
-	.string "von PROF. EICH via PC bewerten\l"
+	.string "Tipps für Trainer\p"
+	.string "Du kannst deinen Pokédex jederzeit\n"
+	.string "von Prof. Eich via PC bewerten\l"
 	.string "lassen!$"
 
 ViridianForest_Text_CantCatchOwnedMons::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Es ist verboten, anderen TRAINERn\n"
-	.string "POKéMON zu stehlen! Fang nur wilde\l"
-	.string "POKéMON!$"
+	.string "Tipps für Trainer\p"
+	.string "Es ist verboten, anderen Trainern\n"
+	.string "Pokémon zu stehlen! Fang nur wilde\l"
+	.string "Pokémon!$"
 
 ViridianForest_Text_WeakenMonsBeforeCapture::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Geschwächte POKéMON sind leichter\n"
+	.string "Tipps für Trainer\p"
+	.string "Geschwächte Pokémon sind leichter\n"
 	.string "zu fangen!\p"
 	.string "Sind sie bei Kräften, könnten sie\n"
 	.string "fliehen!$"
 
 ViridianForest_Text_LeavingViridianForest::
-	.string "AUF WIEDERSEHEN IM VERTANIA-WALD\n"
-	.string "DER NÄCHSTE ORT IST MARMORIA\l"
-	.string "CITY.$"
+	.string "Auf Wiedersehen im Vertania-Wald\n"
+	.string "Der Nächste Ort ist Marmoria\l"
+	.string "City.$"
 

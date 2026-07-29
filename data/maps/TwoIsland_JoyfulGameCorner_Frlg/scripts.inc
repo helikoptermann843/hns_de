@@ -189,38 +189,38 @@ TwoIsland_JoyfulGameCorner_EventScript_Lostelle::
 	end
 
 TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
-	.string "Wo ist IRRMA heute?\p"
+	.string "Wo ist Irrma heute?\p"
 	.string "Genau um diese Zeit bringt\n"
 	.string "sie mir immer mein Mittagessen…$"
 
 TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
 	.string "Hm? Du da!\n"
-	.string "Bist du ein Freund von IRRMA?\p"
-	.string "Hast du IRRMA hier gesehen?\n"
+	.string "Bist du ein Freund von Irrma?\p"
+	.string "Hast du Irrma hier gesehen?\n"
 	.string "Ich weiß nicht, wo sie ist. Sie\l"
 	.string "sollte hier vor langer Zeit vorbei\l"
 	.string "gekommen sein.\l"
-	.string "IRRMA ist süß - sie sieht\l"
+	.string "Irrma ist süß - sie sieht\l"
 	.string "mir ähnlich - was ist, wenn…\p"
-	.string "Was wäre, wenn meiner IRRMA\n"
+	.string "Was wäre, wenn meiner Irrma\n"
 	.string "etwas zugestoßen ist?!?\p"
 	.string "Bitte hilf mir, sie zu finden!\n"
-	.string "Bitte suche auf EILAND DREI\l"
+	.string "Bitte suche auf Eiland Drei\l"
 	.string "nach ihr!$"
 
 TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
-	.string "Häh? Das ist die SPIELHALLE?\n"
+	.string "Häh? Das ist die Spielhalle?\n"
 	.string "Wie tief kann man noch sinken?\p"
 	.string "Diese Narren…\p"
 	.string "Sie sagten, sie würden auf der\n"
 	.string "Insel warten, also, wo sind sie?\p"
 	.string "Heh du! Ist das hier das einzige\n"
-	.string "EILAND DREI?$"
+	.string "Eiland Drei?$"
 
 TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
 	.string "Versuch aufzuwachen, bevor du aus\n"
 	.string "dem Bett kriechst, du Hallodri!\p"
-	.string "Das ist EILAND ZWEI!\p"
+	.string "Das ist Eiland Zwei!\p"
 	.string "Beweg dich und nimm\n"
 	.string "deine Dreckschleuder von\l"
 	.string "Motorrad mit!$"
@@ -238,10 +238,10 @@ TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
 
 TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
 	.string "Heh! Hör zu! Ich flehe dich an!\n"
-	.string "Geh nach EILAND DREI!\p"
-	.string "Falls meiner IRRMA etwas\n"
+	.string "Geh nach Eiland Drei!\p"
+	.string "Falls meiner Irrma etwas\n"
 	.string "zustößt…\p"
-	.string "Mein Haus auf EILAND DREI hat\n"
+	.string "Mein Haus auf Eiland Drei hat\n"
 	.string "ein rotes Dach!\p"
 	.string "Vielleicht taucht sie hier noch\n"
 	.string "auf, daher kann ich nicht weg!\p"
@@ -256,15 +256,15 @@ TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
 	.string "Spielchen für dich!$"
 
 TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
-	.string "Du hast also IRRMA gerettet?\n"
+	.string "Du hast also Irrma gerettet?\n"
 	.string "Wie kann ich dir danken?\p"
-	.string "IRRMA, Schnuckepuck,\n"
+	.string "Irrma, Schnuckepuck,\n"
 	.string "verzeih mir!\l"
 	.string "Papsi wusste nicht, dass du Angst\l"
 	.string "und Probleme hattest!$"
 
 TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
-	.string "IRRMA: Ist schon gut, Papsi!\n"
+	.string "Irrma: Ist schon gut, Papsi!\n"
 	.string "Ich habe mich mit {PLAYER}\l"
 	.string "angefreundet!$"
 
@@ -277,21 +277,21 @@ TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
 	.string "glücklich macht!$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
-	.string "{PLAYER} handed the METEORITE\n"
-	.string "to LOSTELLE's daddy.$"
+	.string "{PLAYER} handed the Meteorite\n"
+	.string "to Lostelle's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
-	.string "Oh, das ist von BILL!\n"
+	.string "Oh, das ist von Bill!\n"
 	.string "Richte ihm meinen Dank aus!\p"
 	.string "Du warst einfach fantastisch!\n"
 	.string "Das ist für dich!$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
-	.string "{PLAYER} received a MOON STONE\n"
-	.string "from LOSTELLE's daddy.$"
+	.string "{PLAYER} received a Moon Stone\n"
+	.string "from Lostelle's daddy.$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
-	.string "In deinem BEUTEL ist leider\n"
+	.string "In deinem Beutel ist leider\n"
 	.string "kein Platz mehr…$"
 
 TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::

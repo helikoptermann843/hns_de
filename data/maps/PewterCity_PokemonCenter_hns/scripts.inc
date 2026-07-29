@@ -22,7 +22,7 @@ PewterCity_PokemonCenter1F_Text_Teacher:
 	.string "ich hier gerade telefoniere?$"
 
 PewterCity_PokemonCenter1F_Text_Jigglypuff:
-	.string "PUMMELUFF: Pummel… uff!$"
+	.string "Pummeluff: Pummel… uff!$"
 
 PewterCity_PokemonCenter_EventScript_Mondo::
 	lock
@@ -73,6 +73,6 @@ PewterCity_PokemonCenter_Text_TradeCompleted:
 
 PewterCity_PokemonCenter1F_Text_BugCatcher:
 	.string "Die meisten Pokémon werden schläfrig,\n"
-	.string "wenn PUMMELUFF anfängt zu singen.\p"
+	.string "wenn Pummeluff anfängt zu singen.\p"
 	.string "Es gibt viele Attacken, die wie für\n"
 	.string "diesen Augenblick gemacht sind!$"

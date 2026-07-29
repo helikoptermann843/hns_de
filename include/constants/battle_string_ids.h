@@ -702,6 +702,10 @@ enum StringID
     STRINGID_ZENMODEENDED,
     STRINGID_WILDPKMNDROPPEDITEM,
     STRINGID_DROPPEDITEMBAGFULL,
+    // Deutsch: Die Verbphrase steht komplett in B_BUFF2, wie im
+    // offiziellen deutschen Smaragd. Siehe AENDERUNGSPROTOKOLL.
+    STRINGID_STATROSE,
+    STRINGID_STATFELL,
     STRINGID_COUNT
 };
 

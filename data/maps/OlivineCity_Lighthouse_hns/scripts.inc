@@ -39,15 +39,15 @@ OlivineLighthouse_EventScript_1FPokefanF::
 
 OlivineLighthouse_Text_1FSailor:
 	.string "Die Leute kommen zum\n"
-	.string "LEUCHTTURM, um zu trainieren.\p"
+	.string "Leuchtturm, um zu trainieren.\p"
 	.string "Aufgrund der vielen Trainer\n"
 	.string "ist es nicht einfach,\l"
 	.string "sich bis ganz nach oben vorzukämpfen.$"
 
 OlivineLighthouse_Text_1FPokefanF:
 	.string "Früher haben Pokémon nachts die\n"
-	.string "Gewässer um OLIVIANA CITY erhellt.\p"
-	.string "Der LEUCHTTURM wurde errichtet,\n"
+	.string "Gewässer um Oliviana City erhellt.\p"
+	.string "Der Leuchtturm wurde errichtet,\n"
 	.string "um diese Pokémon zu ehren.$"
 
 @2nd floor==============================================================================================================================
@@ -115,7 +115,7 @@ OlivineLighthouse_Text_GentlemanAlfredBeaten:
 
 OlivineLighthouse_Text_GentlemanAlfredAfter:
 	.string "Oben ist ein Pokémon, das\n"
-	.string "den LEUCHTTURM erhellt.\p"
+	.string "den Leuchtturm erhellt.\p"
 	.string "Doch es ist nun krank und\n"
 	.string "lässt sich nicht normal heilen.$"
 
@@ -151,7 +151,7 @@ OlivineLighthouse_Text_BirdKeeperTheoAfter:
 	.string "aber ich finde den Weg zur Spitze nicht.$"
 
 OlivineLighthouse_Text_SailorTerrellSeen:
-	.string "Seeleute sind hart UND zart in einem.\n"
+	.string "Seeleute sind hart und zart in einem.\n"
 	.string "Eine perfekte Mischung, wie ich meine.\l"
 	.string "Wie steht es mit dir?$"
 
@@ -176,7 +176,7 @@ OlivineLighthouse_Text_GentlemanPrestonBeaten:
 
 OlivineLighthouse_Text_GentlemanPrestonAfter:
 	.string "Jasmin war ursprünglich auf\n"
-	.string "Gestein-Pokémon wie ONIX spezialisiert.$"
+	.string "Gestein-Pokémon wie Onix spezialisiert.$"
 
 @4th floor==============================================================================================================================
 
@@ -219,7 +219,7 @@ OlivineLighthouse_Text_LassConnieAfter:
 	.string "Richtig. Jeder wäre besorgt, wenn\n"
 	.string "seine Pokémon verletzt wären.\p"
 	.string "Ich werde für die Pokémon hier beten,\n"
-	.string "damit JASMIN zurück zur Arena kann.$"
+	.string "damit Jasmin zurück zur Arena kann.$"
 
 @5th floor==============================================================================================================================
 
@@ -256,7 +256,7 @@ OlivineLighthouse_Text_BirdKeeperDenisBeaten:
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
 	.string "Meine Pokémon lernten Fliegen in\n"
-	.string "ANEMONIA.\p"
+	.string "Anemonia.\p"
 	.string "Da ich ein Verlierer bin, werde ich\n"
 	.string "über das Meer fliegen…$"
 
@@ -325,10 +325,10 @@ OlivineLighthouse_Text_JasmineGetMedicine:
 	.string "kaufen, bitte!$"
 
 OlivineLighthouse_Text_JasmineGetMedicine2:
-	.string "In ANEMONIA gibt es eine tolle\n"
-	.string "APOTHEKE…\p"
+	.string "In Anemonia gibt es eine tolle\n"
+	.string "Apotheke…\p"
 	.string "Aber das ist über das Meer…\n"
-	.string "Und AMPHY kann ich nicht allein\n"
+	.string "Und Amphy kann ich nicht allein\n"
 	.string "lassen… \p"
 	.string "…Kannst du bitte Medizin für mich\n"
 	.string "holen? Bitte?$"
@@ -403,7 +403,7 @@ OlivineLighthouse_EventScript_JasmineRefuse::
 
 OlivineLighthouse_Text_PlayerHandedSecretpotion:
 	.string "{PLAYER} übergab Jasmin den\n"
-	.string "GEHEIMTRANK.$"
+	.string "Geheimtrank.$"
 
 OlivineLighthouse_Text_JasmineDontBeOffended:
 	.string "Jasmin: Ni-nimm mir das\n"
@@ -425,17 +425,16 @@ OlivineLighthouse_Text_JasmineThankYou:
 	.string "ich jetzt zurück in die Arena!$"
 
 OlivineLighthouse_Text_JasmineISee:
-	.string "JASMINE: …Oh mann…\n"
-	.string "…AMPHY, halt durch!$"
+	.string "Jasmine: …Oh mann…\n"
+	.string "…Amphy, halt durch!$"
 
 OlivineLighthouse_Text_AmphyPalPaloo:
-	.string "AMPHY: …\n"
-	.string "…Pa… paloo…$"
+	.string "Amphi: … …Am… pha…$"
 
 OlivineLighthouse_Text_AmphyBreathingLabored:
 	.string "Sein Atem ist schwer…$"
 
 OlivineLighthouse_Text_AmphyPaluPalulu:
-	.string "Amphi: Ampha! Ampha!$"
+	.string "Amphi: Ampha! Ampharos!$"
 
 

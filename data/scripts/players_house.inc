@@ -366,8 +366,8 @@ PlayersHouse_1F_EventScript_MomHealsParty_PokecenterChallenge::
 	end
 
 PlayersHouse_1F_Text_YouShouldRestABit_PokecenterChallenge:
-	.string "MUTTI: Tut mir leid, Schatz,\n"
-	.string "du spielst mit POKéCENTER challenge!$"
+	.string "Mutti: Tut mir leid, Schatz,\n"
+	.string "du spielst mit Pokécenter challenge!$"
 
 PlayersHouse_1F_EventScript_SeeYouHoney::
 	msgbox PlayersHouse_1F_Text_SeeYouHoney, MSGBOX_DEFAULT

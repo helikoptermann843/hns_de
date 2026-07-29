@@ -149,9 +149,9 @@ OneIsland_KindleRoad_Text_KiaPostBattle::
 	.string "als mein Bruder sein?$"
 
 OneIsland_KindleRoad_Text_KiaNotEnoughMons::
-	.string "HEIDI: Wenn du gegen uns kämpfen\n"
+	.string "Heidi: Wenn du gegen uns kämpfen\n"
 	.string "möchtest, musst du mindestens\l"
-	.string "zwei POKéMON mitbringen!$"
+	.string "zwei Pokémon mitbringen!$"
 
 OneIsland_KindleRoad_Text_MikIntro::
 	.string "Dirk: An der Seite von Heidi\n"
@@ -166,11 +166,11 @@ OneIsland_KindleRoad_Text_MikPostBattle::
 	.string "Seite von Heidi verlieren?$"
 
 OneIsland_KindleRoad_Text_MikNotEnoughMons::
-	.string "DIRK: Möchtest du gegen uns beide\n"
+	.string "Dirk: Möchtest du gegen uns beide\n"
 	.string "kämpfen?$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-	.string "Ich habe ein CHANEIRA gefangen!\p"
+	.string "Ich habe ein Chaneira gefangen!\p"
 	.string "Die Mühe hat sich gelohnt!$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::

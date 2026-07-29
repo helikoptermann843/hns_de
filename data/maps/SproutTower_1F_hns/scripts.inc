@@ -63,14 +63,14 @@ SproutTower_Text_1F_Sage1:
 	.string "erhältst du eine VM.$"
 
 SproutTower_Text_1F_Sage2:
-	.string "Der KNOFENSA-Turm wurde vor\n"
+	.string "Der Knofensa-Turm wurde vor\n"
 	.string "langer Zeit als Trainingsstätte\l"
 	.string "für Pokémon errichtet.$"
 
 SproutTower_Text_1F_Granny:
 	.string "Die Trägersäule des Turms soll einst\n"
 	.string "aus einem über 30 Meter hohen\l"
-	.string "KNOFENSA entstanden sein.$"
+	.string "Knofensa entstanden sein.$"
 
 SproutTower_Text_1F_Teacher:
 	.string "Siehst du, wie sie sich bewegt?\n"

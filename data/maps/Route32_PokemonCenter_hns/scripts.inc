@@ -1,5 +1,5 @@
 Route32_PokemonCenter_hns_MapScripts::
-	map_script MAP_SCRIPT_ON_TRANSITION, Route32_PokemonCenter_OnTransition	
+	map_script MAP_SCRIPT_ON_TRANSITION, Route32_PokemonCenter_OnTransition
 	.byte 0
 
 Route32_PokemonCenter_OnTransition::
@@ -45,7 +45,7 @@ Route32_Pokecenter_Text_FishingGuruQuestion:
 	.string "zum Angeln.\p"
 	.string "Hast du Leute beim Angeln gesehen?\p"
 	.string "Wie steht es mit dir?\p"
-	.string "Hättest du gerne eine ANGEL von mir?$"
+	.string "Hättest du gerne eine Angel von mir?$"
 
 Route32_Pokecenter_Text_FishingGuruYes:
 	.string "He! Das höre ich wirklich gerne!\p"
@@ -54,7 +54,7 @@ Route32_Pokecenter_Text_FishingGuruYes:
 Route32_Pokecenter_Text_FishingGuruGiveRod:
 	.string "Angeln ist toll!\p"
 	.string "Probiere überall, wo Wasser ist,\n"
-	.string "deine ANGEL aus; sei es am Meer\l"
+	.string "deine Angel aus; sei es am Meer\l"
 	.string "oder an einem Fluss.$"
 
 Route32_Pokecenter_Text_FishingGuruNo:

@@ -9,11 +9,11 @@ EcruteakCity_Gym_EventScript_GymGuy::
 	closemessage
 	release
 	end
-	
+
 EcruteakCity_Gym_EventScript_GymGuy2::
 	msgbox EcruteakCity_GymGuideWinText, MSGBOX_DEFAULT
 	release
-	end	
+	end
 
 EcruteakCity_Gym_EventScript_Jeffrey::
 	trainerbattle_single TRAINER_JEFFREY_HNS, SageJeffreySeenText, SageJeffreyBeatenText
@@ -105,20 +105,20 @@ MortyIntroText:
 MortyWinLossText:
 	.string "Ich bin noch nicht gut genug...\p"
 	.string "In Ordnung.\n"
-	.string "Dieser ORDEN gehört dir.$"
+	.string "Dieser Orden gehört dir.$"
 
 Text_ReceivedFogBadge:
-	.string "{PLAYER} erhielt den PHANTOMORDEN.$"
+	.string "{PLAYER} erhielt den Phantomorden.$"
 
 MortyText_FogBadgeSpeech:
-	.string "Mit dem PHANTOMORDEN gehorchen dir\n"
-	.string "POKéMON bis Level 50.\p"
-	.string "Außerdem können POKéMON mit\n"
-	.string "SURFER es jederzeit einsetzen.\p"
+	.string "Mit dem Phantomorden gehorchen dir\n"
+	.string "Pokémon bis Level 50.\p"
+	.string "Außerdem können Pokémon mit\n"
+	.string "Surfer es jederzeit einsetzen.\p"
 	.string "Nimm auch das hier.$"
 
 MortyText_ShadowBallSpeech:
-	.string "Das ist SPUKBALL.\n"
+	.string "Das ist Spukball.\n"
 	.string "Die Attacke richtet Schaden an\l"
 	.string "und kann die Sp.-Vert. senken.\p"
 	.string "Nutze sie, wenn sie dir nützt.$"
@@ -171,7 +171,7 @@ SagePingBeatenText:
 	.string "Ah! Gut gemacht!$"
 
 SagePingAfterBattleText:
-	.string "Wir nutzen GEIST-POKéMON.\p"
+	.string "Wir nutzen Geist-Pokémon.\p"
 	.string "Normale Attacken können ihnen\n"
 	.string "nichts anhaben!$"
 
@@ -200,12 +200,12 @@ MediumGraceAfterBattleText:
 	.string "deinen Augen!$"
 
 EcruteakCity_GymGuideText:
-	.string "Hey CHAMP! Fast die Hälfte\n"
+	.string "Hey Champ! Fast die Hälfte\n"
 	.string "ist geschafft!\p"
-	.string "Die Trainer hier nutzen GEIST-\n"
-	.string "und UNLICHT-POKéMON.\p"
-	.string "JENS ist ein Meister der\n"
-	.string "GEIST-POKéMON, doch hüte dich\l"
+	.string "Die Trainer hier nutzen Geist-\n"
+	.string "und Unlicht-Pokémon.\p"
+	.string "Jens ist ein Meister der\n"
+	.string "Geist-Pokémon, doch hüte dich\l"
 	.string "vor seinem mystischen Hirsch.\p"
 	.string "Man sagt, er verursacht\n"
 	.string "schreckliche Albträume...$"
@@ -218,7 +218,7 @@ EcruteakCity_GymGuideWinText:
 	.string "eine Ecke verkrochen habe!$"
 
 EcruteakCity_GymClosedText:
-	.string "JENS, der ARENALEITER,\n"
+	.string "Jens, der Arenaleiter,\n"
 	.string "ist nicht da.\p"
 	.string "Tut mir leid,\n"
 	.string "du musst wieder gehen.\p"

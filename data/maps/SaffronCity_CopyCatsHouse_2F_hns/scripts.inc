@@ -225,7 +225,7 @@ Copycat_Text_QuickMimicking:
 Copycat_Text_Male_2:
 	.string "{PLAYER}: Hallo! Wie geht's dir so?\n"
 	.string "Du bist traurig, weil du deine Poképuppe\l"
-	.string "von PIEPI verloren hast, stimmt's?\p"
+	.string "von Piepi verloren hast, stimmt's?\p"
 	.string "{PLAYER}: Gibst du mir einen\n"
 	.string "Fahrschein, wenn ich sie finde?\p"
 	.string "{PLAYER}: In Ordnung, dann werde\n"
@@ -240,23 +240,23 @@ Copycat_Text_Worried:
 	.string "Was, wenn jemand sie finden sollte?$"
 
 Copycat_Text_GiveDoll:
-	.string "NACHAHMERIN: Jaa!\n"
-	.string "Das ist meine PIEPI-PUPPE!\p"
+	.string "Nachahmerin: Jaa!\n"
+	.string "Das ist meine Piepi-Puppe!\p"
 	.string "Siehst du die Naht am rechten\n"
 	.string "Bein? Das ist der Beweis!$"
 
 Copycat_Text_GivePass:
 	.string "Also gut. Hier ist\n"
-	.string "der FAHRSCHEIN für den MAGNETZUG! Wie\l"
+	.string "der Fahrschein für den Magnetzug! Wie\l"
 	.string "versprochen.$"
 
 Copycat_Text_ExplainPass:
-	.string "NACHAHMERIN: Das\n"
-	.string "ist der FAHRSCHEIN für den MAGNETZUG.\p"
+	.string "Nachahmerin: Das\n"
+	.string "ist der Fahrschein für den Magnetzug.\p"
 	.string "Der Mann von der Eisenbahn gab mir\n"
 	.string "das, als sie unser altes\l"
 	.string "Haus niederrissen, um den\p"
-	.string "BAHNHOF zu bauen.$"
+	.string "Bahnhof zu bauen.$"
 
 Copycat_Text_Male_3:
 	.string "{PLAYER}: Hallo! Vielen Dank für\n"
@@ -270,12 +270,12 @@ Copycat_Text_ItsAScream:
 	.string "Ich amüsiere mich wie verrückt!$"
 
 Copycat_Text_Dodrio1:
-	.string "DODRI: Gii giii!$"
+	.string "Dodri: Gii giii!$"
 
 Copycat_Text_Dodrio2:
-	.string "SPIEGLEIN, SPIEGLEIN AN DER WAND,\p"
-	.string "WER IST DIE SCHÖNSTE IM GANZEN\p"
-	.string "LAND?$"
+	.string "Spieglein, Spieglein an der Wand,\p"
+	.string "Wer ist die Schönste im ganzen\p"
+	.string "Land?$"
 
 Copycat_Text_2FDoll:
 	.string "Das ist ein seltenes Pokémon! Was?\p"

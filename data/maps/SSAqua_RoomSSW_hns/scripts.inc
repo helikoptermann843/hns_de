@@ -12,24 +12,24 @@ SSAqua_RoomSSW_EventScript_Ken::
 	end
 
 SSAqua_RoomSSW_Text_FirebreatherLyleSeen:
-	.string "Ich gehe nach KANTO, um\n"
-	.string "als Feuerspucker aufzutreten!$"
+	.string "Ich gehe nach Kanto, um meine\n"
+	.string "Feuerspuck-Künste vorzuführen!$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleBeaten:
-	.string "Fizzle… Die Flamme ist winzig…$"
+	.string "Zisch… Die Flamme ist so klein…$"
 
 SSAqua_RoomSSW_Text_FirebreatherLyleAfterBattle:
-	.string "Ich denke, Feuer\n"
-	.string "ist schwach auf hoher See.\p"
-	.string "Das ist egal? Wirklich?$"
+	.string "Ich vermute mal, Feuer ist schwach auf\n"
+	.string "hoher See.\p"
+	.string "Was, das ist egal? Ach wirklich?$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenSeen:
-	.string "Ich besuche meine Oma, um\n"
-	.string "ein paar Käfer zu fangen!$"
+	.string "Ich besuche meine Oma, um mir ein paar\n"
+	.string "Käfer-Pokémon zu fangen!$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenBeaten:
-	.string "Oh wow. Du bist stark!$"
+	.string "Boah! Du bist aber stark!$"
 
 SSAqua_RoomSSW_Text_BugCatcherKenAfterBattle:
 	.string "Viele Pokémon kannst du in\n"
-	.string "den Bäumen von JOHTO finden!$"
+	.string "den Bäumen von Johto finden!$"

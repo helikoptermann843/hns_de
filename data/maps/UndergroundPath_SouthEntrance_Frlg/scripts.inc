@@ -7,5 +7,5 @@ UndergroundPath_SouthEntrance_EventScript_Woman::
 
 UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness::
 	.string "Schon viele Leute haben Dinge auf\n"
-	.string "dem TUNNELPFAD verloren.$"
+	.string "dem Tunnelpfad verloren.$"
 

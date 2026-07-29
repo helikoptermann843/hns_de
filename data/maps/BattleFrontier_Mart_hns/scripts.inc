@@ -53,12 +53,12 @@ BattleFrontier_Mart_Text_ChaperonGrandson_hns:
 BattleFrontier_Mart_Text_ProteinMakeNiceGift_hns:
 	.string "Schau mal. Was hältst du hiervon? Wäre\n"
 	.string "das nicht ein hübsches Geschenk?\p"
-	.string "…PRO…TE…IN?\n"
+	.string "…Pro…TE…In?\n"
 	.string "Das scheint doch lecker zu sein, oder?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems_hns:
-	.string "In vielen Einrichtungen der KAMPF-\n"
-	.string "ZONE ist der Einsatz von Items in\l"
+	.string "In vielen Einrichtungen der Kampf-\n"
+	.string "zone ist der Einsatz von Items in\l"
 	.string "Kämpfen nicht erlaubt.\p"
 	.string "Das macht alles viel schwerer, als es\n"
 	.string "eh schon ist!$"

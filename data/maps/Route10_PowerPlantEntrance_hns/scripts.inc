@@ -146,8 +146,8 @@ Route10_PowerPlantEntrance_Text_Engineer2GeneratorIsRunningAgain:
 	.string "Der Generator läuft wieder!$"
 
 Route10_PowerPlantEntrance_Text_Officer2ManagerHasBeenSadAndFurious:
-	.string "Der DIREKTOR des\n"
-	.string "KRAFTWERKs sitzt da vorne.\p"
+	.string "Der Direktor des\n"
+	.string "Kraftwerks sitzt da vorne.\p"
 	.string "Seit jemand den\n"
 	.string "Generator demolierte, ist er traurig\l"
 	.string "und wütend zugleich…$"
@@ -189,7 +189,7 @@ Route10_PowerPlantEntrance_EventScript_TradeCompleted::
 
 Route10_PowerPlantEntrance_Text_WantToTrade:
 	.string "Ich arbeite hier im Kraftwerk.\n"
-	.string "Mein MAGNETON ist schon seit\l"
+	.string "Mein Magneton ist schon seit\l"
 	.string "Jahren mein Partner.\p"
 	.string "Aber ich wollte schon immer ein\n"
 	.string "{STR_VAR_1}.\p"
@@ -198,7 +198,7 @@ Route10_PowerPlantEntrance_Text_WantToTrade:
 
 Route10_PowerPlantEntrance_Text_TakeCare:
 	.string "Danke! Kümmere dich gut um\n"
-	.string "MAGGIE für mich!$"
+	.string "Maggie für mich!$"
 
 Route10_PowerPlantEntrance_Text_DeclineTrade:
 	.string "Nein? Schade.\n"

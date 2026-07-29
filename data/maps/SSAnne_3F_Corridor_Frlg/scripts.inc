@@ -6,8 +6,8 @@ SSAnne_3F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_3F_Corridor_Text_CaptainTeachesCutToMons::
-	.string "Der KAPITÄN ist ein Meister des\n"
+	.string "Der Kapitän ist ein Meister des\n"
 	.string "Schwertkampfes!\p"
-	.string "Er unterrichtet sogar POKéMON im\n"
-	.string "Umgang mit dem ZERSCHNEIDER!$"
+	.string "Er unterrichtet sogar Pokémon im\n"
+	.string "Umgang mit dem Zerschneider!$"
 

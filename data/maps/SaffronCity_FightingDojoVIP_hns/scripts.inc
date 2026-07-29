@@ -276,7 +276,7 @@ SaffronCity_FightingDojoVIP_EventScript_Miltank::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Miltank:
-	.string "Miltank: MuuhHHO!$"
+	.string "Miltank: MuuhHho!$"
 
 SaffronCity_FightingDojoVIP_EventScript_Poliwhirl::
 	lock
@@ -318,7 +318,7 @@ SaffronCity_FightingDojoVIP_EventScript_Steelix::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Steelix:
-	.string "Stahlos: GraaAAANk!$"
+	.string "Stahlos: GraaAaank!$"
 
 SaffronCity_FightingDojoVIP_EventScript_Kingdra::
 	lock
@@ -430,7 +430,7 @@ SaffronCity_FightingDojoVIP_EventScript_Raichu::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Raichu:
-	.string "Raichu: Rai-CHU!$"
+	.string "Raichu: Rai-Chu!$"
 
 SaffronCity_FightingDojoVIP_EventScript_Machamp::
 	lock
@@ -451,19 +451,19 @@ SaffronCity_FightingDojo_EventScript_Chased::
 	end
 
 SaffronCity_FightingDojoVIP_Text_Chased:
-	.string "HELP$"
+	.string "Help$"
 
 SaffronCity_FightingDojoVIP_EvetScript_Statue::
 	msgbox SaffronCity_FightingDojoVIP_Text_Statue, MSGBOX_SIGN
 	end
 
 SaffronCity_FightingDojoVIP_Text_Statue:
-	.string "Kampf DOJO VIP LOUNGE$"
+	.string "Kampf Dojo VIP Lounge$"
 
 SaffronCity_FightingDojoVIP_Text_Falkner_Rematch:
 	.string "Glückwunsch zum Sieg gegen\n"
 	.string "die Elite Vier!\p"
-	.string "Ich hab meine Flug-pokÉMon\n"
+	.string "Ich hab meine Flug-pokémon\n"
 	.string "noch härter trainiert.\p"
 	.string "Kannst du die Kraft des\n"
 	.string "Himmels nochmal bezwingen?$"
@@ -514,7 +514,7 @@ SaffronCity_FightingDojoVIP_Text_Morty_Rematch:
 	.string "seit unserem letzten Kampf\l"
 	.string "verbessert?\p"
 	.string "Ich hab mit meinen Geist-\n"
-	.string "PokÉMon trainiert.\p"
+	.string "Pokémon trainiert.\p"
 	.string "Kannst du die Schatten\n"
 	.string "nochmal überwinden?\p"
 	.string "Möchtest du einen Rückkampf?$"
@@ -597,7 +597,7 @@ SaffronCity_FightingDojoVIP_Text_Brock_Rematch:
 	.string "Möchtest du einen Rückkampf?$"
 
 SaffronCity_FightingDojoVIP_Text_Brock_RematchDefeat:
-	.string "Rocko: Deine PokÉMon haben\n"
+	.string "Rocko: Deine Pokémon haben\n"
 	.string "meine felsenharte Verteidigung\l"
 	.string "wieder gebrochen…$"
 
@@ -650,7 +650,7 @@ SaffronCity_FightingDojoVIP_Text_Sabrina_Rematch:
 
 SaffronCity_FightingDojoVIP_Text_Sabrina_RematchDefeat:
 	.string "Sabrina: Deine Liebe zu\n"
-	.string "deinen PokÉMon hat meine\l"
+	.string "deinen Pokémon hat meine\l"
 	.string "Psychokraft wieder\l"
 	.string "überwältigt…$"
 

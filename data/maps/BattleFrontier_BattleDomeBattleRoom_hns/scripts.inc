@@ -924,233 +924,238 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit_hns:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome_hns:
-	.string "{PLAYER} betritt die KAMPFKUPPEL!$"
+	.string "{PLAYER} hat das Kampfstadion\n"
+	.string "betreten!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer_hns:
-	.string "{STR_VAR_1}\n"
-	.string "Kampf!\p"
+	.string "{STR_VAR_1}kampf!\p"
 	.string "{PLAYER} gegen {STR_VAR_2}!\p"
-	.string "Der Kampf beginnt!$"
+	.string "Lasst den Kampf beginnen!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner_hns:
-	.string "{PLAYER} gewinnt!\n"
+	.string "Der Gewinner heißt {PLAYER}!\n"
 	.string "Herzlichen Glückwunsch!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner_hns:
-	.string "{STR_VAR_2} gewinnt!\n"
+	.string "Der Gewinner heißt {STR_VAR_2}!\n"
 	.string "Herzlichen Glückwunsch!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ_hns:
-	.string "{PLAYER} ist der Level-50-\n"
-	.string "Kampfturnier-Champion!\p"
+	.string "Der Gewinner des Level 50-\n"
+	.string "Kampfturniers heißt {PLAYER}!\l"
 	.string "Herzlichen Glückwunsch!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp_hns:
-	.string "{PLAYER} ist der Offenes-Level-\n"
-	.string "Kampfturnier-Champion!\p"
+	.string "Der Gewinner des Offene Kämpfe-\n"
+	.string "Kampfturniers heißt {PLAYER}!\l"
 	.string "Herzlichen Glückwunsch!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait_hns:
-	.string "Ein unglaubliches Finale!\n"
-	.string "Beide POKÉMON sind besiegt!\p"
-	.string "Nach den Regeln des Kampfturniers\n"
-	.string "entscheidet nun der SCHIRI.\p"
-	.string "Bitte warten, während die\n"
-	.string "Bewertung läuft.$"
+	.string "Das ist ja ein unglaubliches Ende!\n"
+	.string "Einfach spektakulär! Ein doppelter K.O.!\p"
+	.string "In diesem Fall muss der Referee mit\n"
+	.string "seinem Urteil den Sieger bestimmen.\p"
+	.string "Ich bitte um etwas Geduld, bis die\n"
+	.string "Entscheidung gefällt wurde.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer_hns:
-	.string "Die SCHIRIS haben entschieden!\p"
-	.string "Der Sieger ist…\n"
-	.string "Unglaublich!\l"
-	.string "{STR_VAR_1} gewinnt!\l"
-	.string "Herzlichen Glückwunsch!$"
+	.string "Der Referee hat eine Entscheidung\n"
+	.string "getroffen!\p"
+	.string "Der Gewinner heißt…\n"
+	.string "Du meine Güüüüte!\l"
+	.string "Der Gewinner heißt {STR_VAR_1}!!!\l"
+	.string "Glückwunsch!!!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer_hns:
-	.string "Die SCHIRIS haben entschieden!\p"
-	.string "Der Sieger ist…\n"
-	.string "Unglaublich!\l"
-	.string "{PLAYER} gewinnt!\l"
-	.string "Herzlichen Glückwunsch!$"
+	.string "Der Referee hat eine Entscheidung\n"
+	.string "getroffen!\p"
+	.string "Der Gewinner heißt…\n"
+	.string "Du meine Güüüüte!\l"
+	.string "Der Gewinner heißt {PLAYER}!!!\l"
+	.string "Glückwunsch!!!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope_hns:
-	.string "Die große neue Hoffnung!\p"
+	.string "Eine strahlende Hoffnung!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar_hns:
-	.string "Der aufgehende Stern!\p"
+	.string "Die Geburt eines Stars!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship_hns:
-	.string "Schafft dieser TRAINER den\n"
-	.string "Weg zum Titel?\p"
+	.string "Wird dieser Trainer der neue\n"
+	.string "Meister werden?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry_hns:
-	.string "Gelingt der Titel bereits\n"
-	.string "beim ersten Versuch?\p"
+	.string "Kann die Meisterschaft gleich beim\n"
+	.string "ersten Schritt erreicht werden?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged_hns:
-	.string "Wird die letzte Niederlage\n"
-	.string "heute gerächt?\p"
+	.string "Kann die Niederlage des letzten\n"
+	.string "Kampfes gerächt werden?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship_hns:
-	.string "Dieser TRAINER brennt für den\n"
-	.string "ersten Titelgewinn!\p"
+	.string "Der Trainer lodert vor Leidenschaft\n"
+	.string "beim Ringen um die Meisterschaft!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal_hns:
-	.string "Ein Sieg hier bringt diesen\n"
-	.string "TRAINER ins Finale!\p"
+	.string "Ein Sieg hier würde bedeuten, dass der\n"
+	.string "Trainer im Finale steht!!!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue_hns:
-	.string "Geht der lang ersehnte\n"
-	.string "Titeltraum endlich in Erfüllung?\p"
+	.string "Wird der lang gehegte Traum von der\n"
+	.string "Meisterschaft endlich wahr?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion_hns:
-	.string "Der unbesiegbare Champion!\p"
+	.string "Der unbesiegbare Meister!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer_hns:
-	.string "Kann überhaupt jemand diesen\n"
-	.string "TRAINER besiegen?\p"
+	.string "Kann sich überhaupt jemand Hoffnung\n"
+	.string "machen, ihn zu schlagen?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer_hns:
-	.string "Existieren Kämpfe nur für\n"
-	.string "diesen TRAINER?\p"
+	.string "Sind diese Kämpfe nur für diesen\n"
+	.string "Trainer gemacht?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle_hns:
-	.string "Der amtierende Champion will\n"
-	.string "den Titel verteidigen!\p"
+	.string "Der amtierende Champion wird alles\n"
+	.string "versuchen, den Titel zu behalten!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned_hns:
-	.string "Der frühere Champion\n"
-	.string "ist zurück!\p"
+	.string "Der ehemalige Champion ist zurück!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned_hns:
-	.string "Die frühere Stärke\n"
-	.string "ist zurückgekehrt!\p"
+	.string "Die alte Stärke ist zurück!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals_hns:
-	.string "Zieht dieser TRAINER wie\n"
-	.string "erwartet ins Finale ein?\p"
+	.string "Wird dieser Trainer den Erwartungen\n"
+	.string "entsprechen und das Finale erreichen?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory_hns:
-	.string "Erlangt der frühere Champion\n"
-	.string "seinen Ruhm zurück?\p"
+	.string "Wird der ehemalige Champion seinen\n"
+	.string "Ruhm zurückerlangen?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster_hns:
-	.string "Spür den Glanz eines wahren\n"
+	.string "Sonnt euch im Licht des wahren\n"
 	.string "Meisters!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker_hns:
-	.string "Und nun… Der TRAINER, der\n"
-	.string "{PLAYER}s Siegesserie stoppt…\p"
-	.string "Ja! Der Einzigartige!\n"
-	.string "Der KAMPFKUPPEL-KOMMISSAR!\l"
-	.string "Unser KUPPEL-ASS!\l"
-	.string "Platz für TUCKER!$"
+	.string "Und nun…\p"
+	.string "Der Trainer, der {PLAYER} eventuell\n"
+	.string "noch aufhalten kann…\p"
+	.string "Jawohl! Der Einzigartige!\n"
+	.string "Der Held des Kampfstadions!\l"
+	.string "Unser aller Stadionstar!\l"
+	.string "Macht Platz für Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant_hns:
-	.string "Zuschauer: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.string "Zuschauer: Tasso! Tasso! Tasso!\n"
+	.string "Tasso! Tasso! Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro_hns:
-	.string "Tucker: Ahahah!\p"
-	.string "Hörst du das? Die Menge!\n"
-	.string "Alle wollen unseren Kampf sehen!\p"
-	.string "Ahahah!\p"
-	.string "Ich wette, du zitterst vor\n"
-	.string "Aufregung, gegen mich zu kämpfen!\p"
-	.string "Aber keine Sorge!\p"
-	.string "Ich bin der Star der Kampfkuppel!\n"
-	.string "Ich, Tucker das Kuppel-ass, hülle\l"
-	.string "dich in meinen Glanz!$"
+	.string "Tasso: Ahahaha!\p"
+	.string "Hörst du das? Die begeisterte Menge\n"
+	.string "kann unseren Kampf kaum erwarten!\p"
+	.string "Ahahaha!\p"
+	.string "Ich wette, du zitterst vor Anspannung\n"
+	.string "und Aufregung, gleich gegen mich\p"
+	.string "antreten zu können!\n"
+	.string "Aber mach dir mal keine Gedanken!\p"
+	.string "Ich bin die Nummer eins des Kampf-\n"
+	.string "Stadions! Ich, Tasso, der \p"
+	.string "Stadionstar, werde dich in meinem\n"
+	.string "Glanz ertränken!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy_hns:
 	.string "Deine Strategie!\n"
-	.string "Zeig mir, was du drauf hast!$"
+	.string "Zeig sie mir!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer_hns:
-	.string "Unglaublich! Fantastisch!\n"
-	.string "{PLAYER} gewinnt!$"
+	.string "Unglaublich! Einfach unglaublich!\n"
+	.string "Der Sieger heißt {PLAYER}!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker_hns:
-	.string "TUCKER gewinnt!\n"
-	.string "Das KUPPEL-ASS triumphiert!\p"
-	.string "Herzlichen Glückwunsch, TUCKER!$"
+	.string "Der Sieger heißt Tasso!\n"
+	.string "Der Stadionstar hat sich behauptet!\p"
+	.string "Herzlichen Glückwunsch, Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass_hns:
-	.string "TUCKER: Regeln sind Regeln!\n"
-	.string "Zeig mir deinen GRENZPASS.$"
+	.string "Tasso: Regeln sind Regeln.\n"
+	.string "Zeig mir deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol_hns:
-	.string "Das Taktik-Symbol wurde in den\n"
-	.string "GRENZPASS geprägt!$"
+	.string "Das Taktiksymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime_hns:
-	.string "… … … … … …\p"
-	.string "Ich hab dich unterschätzt.\n"
-	.string "Beim nächsten Mal nicht mehr…$"
+	.string "… … … … …\n"
+	.string "…\p"
+	.string "Ich habe dich tüchtig unterschätzt!\n"
+	.string "Dieser Fehler wird mir nicht noch\p"
+	.string "einmal passieren… … …$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched_hns:
-	.string "Kann die Siegesserie ausgebaut\n"
-	.string "werden? Das Vertrauen ist da!$"
+	.string "Wird die Siegesfolge weiter anhalten?\n"
+	.string "Die Zuversicht ist vorhanden.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker_hns:
-	.string "Meine Damen und Herren!\n"
-	.string "Kinder und POKÉMON!\p"
+	.string "Meine Damen! Meine Herren!\n"
+	.string "Liebe Mädchen, Jungen und Pokémon!\p"
 	.string "Endlich!\n"
-	.string "Die Legende ist zurückgekehrt!\p"
-	.string "Der Name dieser Legende!\n"
-	.string "Unser KUPPEL-ASS!\l"
-	.string "Es ist TUCKER!$"
+	.string "Endlich ist die Legende zurückgekehrt!\p"
+	.string "Und der Name dieser Legende?\n"
+	.string "Stadionstar! Unser Stadionstar!\l"
+	.string "Niemand anderer als Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro_hns:
-	.string "Tucker: Ah…\n"
-	.string "Das tosende Brüllen der Menge…\l"
-	.string "Ihre Begeisterung wie ein Feuer…\l"
-	.string "Was für ein wunderbarer Ort…\p"
-	.string "Für sie bin ich das Kuppel-ass…\n"
-	.string "Ich verkörpere ihre Träume…\l"
-	.string "Ich darf nie aus ihrem Blick\l"
-	.string "verschwinden…\p"
+	.string "Tasso: Ah…\n"
+	.string "Die Begeisterung des Publikums…\l"
+	.string "Die aufgeheizte Atmosphäre…\l"
+	.string "Was für ein wundervoller Ort…\p"
+	.string "Für das Publikum bin ich der Stadion-\n"
+	.string "Star… Ich repräsentiere ihre\l"
+	.string "Träume und Hoffnungen…\l"
+	.string "Sie dürfen mich niemals verlieren…\p"
 	.string "Ich muss brennen!\n"
-	.string "Heller und strahlender!\l"
-	.string "Ich erleuchte alle hier!$"
+	.string "Leuchtend hell und strahlend!\l"
+	.string "Ich muss ihnen mein Licht zeigen!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess_hns:
-	.string "Ich setze meine gesamte Kraft\n"
-	.string "ein! Hier und jetzt!$"
+	.string "Ich werde dir meine ganze Kraft zeigen.\n"
+	.string "Hier und jetzt!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed_hns:
-	.string "TUCKER: Du bist wirklich fantastisch!\p"
-	.string "Noch nie! Wenn ich alles gebe,\n"
-	.string "verliere ich nie.\p"
+	.string "Tasso: Du bist einfach fantastisch!\p"
+	.string "Das ist noch nie passiert! Ich habe\n"
+	.string "noch nie verloren, wenn es drauf ankam!\p"
 	.string "Ja, wirklich fantastisch!\n"
-	.string "Deinen GRENZPASS, bitte?$"
+	.string "Gib mir bitte deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine_hns:
-	.string "Das Taktik-Symbol erstrahlt\n"
-	.string "in goldenem Glanz!$"
+	.string "Das Taktiksymbol erscheint in einem\n"
+	.string "goldenen Glanz!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter_hns:
-	.string "Du bist stark, aber vor allem\n"
-	.string "hast du einen besonderen Charme!\p"
-	.string "In dir sehe ich das Potenzial\n"
-	.string "für einen Superstar wie mich.\p"
-	.string "Ich freue mich sehr auf unser\n"
-	.string "nächstes Aufeinandertreffen!$"
+	.string "Du bist stark, aber vor allem bestichst\n"
+	.string "du durch deinen einzigartigen Charme.\p"
+	.string "Du hast das Potenzial Superstar zu\n"
+	.string "werden, so wie ich einer bin.\p"
+	.string "Ich freue mich schon auf unsere\n"
+	.string "nächste Begegnung!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ_hns2_hns:
@@ -1166,14 +1171,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp_hns2_hns:
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker_hns:
 	.string "Das Finale!\p"
-	.string "{PLAYER} gegen KUPPEL-ASS TUCKER!\p"
-	.string "Der Kampf beginnt!$"
+	.string "{PLAYER} gegen Stadionstar Tasso!\p"
+	.string "Lasst den Kampf beginnen!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker_hns:
-	.string "Die SCHIRIS haben entschieden!\p"
-	.string "Der Sieger ist…\n"
-	.string "Unglaublich!\l"
-	.string "Unser eigenes KUPPEL-ASS gewinnt!\l"
-	.string "Es ist TUCKER!\p"
-	.string "Glückwunsch! Danke!\n"
-	.string "Ein Hoch auf KUPPEL-ASS TUCKER!$"
+	.string "Der Referee ist zu einer\n"
+	.string "Entscheidung gekommen!\p"
+	.string "Der Gewinner heißt…\n"
+	.string "Oh, fantastisch!!!\l"
+	.string "Der Gewinner ist unser Stadionstar!\l"
+	.string "Tasso!\p"
+	.string "Herzlichen Glückwunsch! Und danke!\n"
+	.string "Das ist unser Stadionstar, Tasso!!!$"

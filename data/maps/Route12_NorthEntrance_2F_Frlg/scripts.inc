@@ -44,14 +44,14 @@ Route12_NorthEntrance_2F_EventScript_ExplainTM27::
 
 @ Male and female text identical, differ (presumably) in JP
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreMale::
-	.string "Meine POKéMON wurden im POKéMON-\n"
-	.string "TURM zur letzten Ruhe gebettet.\p"
+	.string "Meine Pokémon wurden im Pokémon-\n"
+	.string "turm zur letzten Ruhe gebettet.\p"
 	.string "Ich gebe dir diese TM. Ich\n"
 	.string "benötige sie nicht länger...$"
 
 Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
-	.string "Meine POKéMON wurden im POKéMON-\n"
-	.string "TURM zur letzten Ruhe gebettet.\p"
+	.string "Meine Pokémon wurden im Pokémon-\n"
+	.string "turm zur letzten Ruhe gebettet.\p"
 	.string "Ich gebe dir diese TM. Ich\n"
 	.string "benötige sie nicht länger...$"
 
@@ -60,8 +60,8 @@ Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
 	.string "from the little girl.$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
-	.string "TM27 ist RÜCKKEHR.\p"
-	.string "Behandelst du deine POKéMON\n"
+	.string "TM27 ist Rückkehr.\p"
+	.string "Behandelst du deine Pokémon\n"
 	.string "gut, geben sie Liebe zurück, indem\l"
 	.string "sie sich im Kampf besonders\l"
 	.string "anstrengen.$"
@@ -71,10 +71,10 @@ Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
 	.string "Die Barriere verschwindet nicht?\p"
-	.string "MAJOR BOB war immer sehr\n"
+	.string "Major Bob war immer sehr\n"
 	.string "vorsichtig!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
 	.string "Du schaust durch das Fernrohr.\p"
-	.string "Du siehst den POKéMON-TURM!$"
+	.string "Du siehst den Pokémon-Turm!$"
 

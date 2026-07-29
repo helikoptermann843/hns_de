@@ -50,35 +50,35 @@ CeladonCity_DepartmentStore_3F_EventScript_Poster::
 	end
 
 CeladonCity_DepartmentStore_3F_Text_OTStandsForOriginalTrainer::
-	.string "Jedes gefangene POKéMON erhält\n"
+	.string "Jedes gefangene Pokémon erhält\n"
 	.string "eine ID-Nr. und wird mit dem Namen\l"
-	.string "des ORIGINALTRAINERs, OT,\l"
+	.string "des Originaltrainers, OT,\l"
 	.string "registriert. \p"
-	.string "Der OT ist der TRAINER, der das\n"
-	.string "POKéMON gefangen hat!$"
+	.string "Der OT ist der Trainer, der das\n"
+	.string "Pokémon gefangen hat!$"
 
 CeladonCity_DepartmentStore_3F_Text_BuddyTradingKangaskhanForHaunter::
 	.string "Cool!\p"
-	.string "Mein Kumpel tauscht sein KANGAMA\n"
-	.string "gegen mein GEOROK!$"
+	.string "Mein Kumpel tauscht sein Kangama\n"
+	.string "gegen mein Georok!$"
 
 CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
-	.string "Komm, GEOROK!\p"
-	.string "Ich bin GEOROK-Sammler!\p"
+	.string "Komm, Georok!\p"
+	.string "Ich bin Georok-Sammler!\p"
 	.string "Nanu?\p"
-	.string "GEOROK hat sich zu einem anderen\n"
-	.string "POKéMON entwickelt!$"
+	.string "Georok hat sich zu einem anderen\n"
+	.string "Pokémon entwickelt!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
 	.string "Ach, wäre mein Freund doch auch\n"
 	.string "so toll wie du!$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
-	.string "Das ist ein SUPER NINTENDO!$"
+	.string "Das ist ein Super Nintendo!$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
 	.string "Mist!\n"
-	.string "Mich hat ein ZUBAT gebissen!$"
+	.string "Mich hat ein Zubat gebissen!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
 	.string "Ein Rennspiel!\n"
@@ -86,25 +86,25 @@ CeladonCity_DepartmentStore_3F_Text_SportsGame::
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
 	.string "Der Pfad dort unten ist eine\n"
-	.string "Abkürzung nach AZURIA CITY.$"
+	.string "Abkürzung nach Azuria City.$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
 	.string "Ein Kampfsport-Spiel!\n"
 	.string "Aufregend!$"
 
 CeladonCity_DepartmentStore_3F_Text_TVGameShop::
-	.string "2S: VIDEOSPIELE-SHOP$"
+	.string "2S: Videospiele-Shop$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-	.string "Ist mein POKéMON zu schwach,\n"
+	.string "Ist mein Pokémon zu schwach,\n"
 	.string "oder bin ich etwa nicht gut genug?$"
 
 Text_CounterTeach::
-	.string "Hallo! Ich habe kürzlich POKéMON\n"
+	.string "Hallo! Ich habe kürzlich Pokémon\n"
 	.string "durchgespielt!\p"
 	.string "Du bist noch nicht soweit?\n"
 	.string "Vielleicht hilft dir das hier!\p"
-	.string "Ich denke an die Attacke KONTER.\p"
+	.string "Ich denke an die Attacke Konter.\p"
 	.string "Nicht, dass ich mich darauf\n"
 	.string "verlassen würde!$"
 
@@ -114,9 +114,9 @@ Text_CounterDeclined::
 	.string "geändert hast!$"
 
 Text_CounterWhichMon::
-	.string "Welches POKéMON soll sie lernen?$"
+	.string "Welches Pokémon soll sie lernen?$"
 
 Text_CounterTaught::
-	.string "Setzt du die KONTER-Attacke ein,\n"
-	.string "die ich einem deiner POKéMON\l"
+	.string "Setzt du die Konter-Attacke ein,\n"
+	.string "die ich einem deiner Pokémon\l"
 	.string "beigebracht habe?$"

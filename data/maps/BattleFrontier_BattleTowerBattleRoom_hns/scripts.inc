@@ -432,78 +432,78 @@ BattleFrontier_BattleTowerBattleRoom_EventScript_RetireChallenge_hns::
 	end
 
 BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth_hns:
-	.string "Wir heilen deine POKéMON und machen\n"
+	.string "Wir heilen deine Pokémon und machen\n"
 	.string "sie wieder fit!$"
 
 @ Unused
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "You will be facing opponent no. {STR_VAR_1}.\n"
+	.string "Are you ready?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 2 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 3 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 4 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 5 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 6 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent_hns:
-	.string "Dein {STR_VAR_1}. Gegner erwartet dich!\n"
-	.string "Bist du bereit?$"
+	.string "Gegner Nr. 7 erwartet dich.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle_hns:
 	.string "Möchtest du die Resultate in deinen\n"
-	.string "KAMPFZONENPASS eintragen?$"
+	.string "Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass_hns:
 	.string "Der Kampf von {PLAYER} wurde im\n"
-	.string "KAMPFZONENPASS eingetragen.$"
+	.string "Kampfzonenpass eingetragen.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame_hns:
-	.string "Möchtest du speichern und\n"
-	.string "das Spiel beenden?$"
+	.string "Möchtest du das Spiel speichern und\n"
+	.string "beenden?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait_hns:
 	.string "Deine Kampfdaten werden gespeichert.\n"
 	.string "Bitte warte einen Moment.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge_hns:
-	.string "Möchtest du deine Herausforderung\n"
-	.string "im Kampfraum abbrechen?$"
+	.string "Möchtest du die Herausforderung im\n"
+	.string "Kampfraum abbrechen?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved_hns::
-	.string "Es gab einen Fehler.\n"
-	.string "Deine Stand wurde nicht gespeichert.$"
+	.string "Es gab einen Fehler. Deine Daten\n"
+	.string "konnten nicht gespeichert werden.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay_hns:
 	.string "Entschuldige, aber…\p"
-	.string "Unser KAMPFKOLOSS ist\n"
+	.string "Unser Kampfkoloss ist\n"
 	.string "gerade auf dem Weg hierher.\p"
 	.string "Sie hofft auf einen Kampf.\n"
 	.string "Sie sollte bald hier sein.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden_hns:
-	.string "Auf dich wartet der KAMPFKOLOSS.\n"
+	.string "Auf dich wartet der Kampfkoloss.\n"
 	.string "Bist du so weit?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel_hns:
-	.string "Hallo… Mein Name ist ANABEL.\p"
-	.string "Ich bin der KAMPFKOLOSS und\n"
+	.string "Hallo… Mein Name ist Anabel.\p"
+	.string "Ich bin der Kampfkoloss und\n"
 	.string "ich bin hier verantwortlich für den\l"
-	.string "DUELLTURM…\p"
+	.string "Duellturm…\p"
 	.string "Ich habe schon verschiedene Gerüchte\n"
 	.string "über dich gehört…\p"
 	.string "Ehrlich gesagt waren das keine schönen\n"
@@ -515,13 +515,13 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent_hns:
 	.string "Zeig mir dein ganzes Können…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized_hns:
-	.string "ANABEL: Hahaha, sehr schön…\p"
-	.string "Gib mir bitte deinen KAMPFZONENPASS…\n"
+	.string "Anabel: Hahaha, sehr schön…\p"
+	.string "Gib mir bitte deinen Kampfzonenpass…\n"
 	.string "Dein Talent soll jeder sehen.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol_hns:
-	.string "Das ANLAGESYMBOL wurde dem KAMPF-\n"
-	.string "ZONENPASS hinzugefügt!$"
+	.string "Das Anlagesymbol wurde dem Kampf-\n"
+	.string "zonenpass hinzugefügt!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
 	.string "…………… …\p"
@@ -533,7 +533,7 @@ BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime_hns:
 	.string "Bis zum nächsten Mal…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack_hns:
-	.string "ANABEL: Du bist wirklich wieder-\n"
+	.string "Anabel: Du bist wirklich wieder-\n"
 	.string "gekommen…\p"
 	.string "…………… …\p"
 	.string "Du hast mehrmals in Folge gesiegt, nur\n"
@@ -548,16 +548,16 @@ BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe_hns:
 	.string "Sollen wir anfangen?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease_hns:
-	.string "ANABEL: Hähä, Glückwunsch…\n"
-	.string "Gib mir deinen KAMPFZONENPASS…$"
+	.string "Anabel: Hähä, Glückwunsch…\n"
+	.string "Gib mir deinen Kampfzonenpass…$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine_hns:
-	.string "Das ANLAGESYMBOL erscheint in einem\n"
+	.string "Das Anlagesymbol erscheint in einem\n"
 	.string "goldenen Glanz!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain_hns:
 	.string "Das hat Spaß gemacht…\p"
-	.string "So einen tollen POKéMON-Kampf habe ich\n"
+	.string "So einen tollen Pokémon-Kampf habe ich\n"
 	.string "bisher noch nicht erlebt…\p"
 	.string "Ich wünschte, ich könnte öfter gegen\n"
 	.string "dich antreten…$"

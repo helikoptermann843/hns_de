@@ -8,7 +8,7 @@ SafronMart_EventScript_CooltrainerF::
 	msgbox SaffronMart_Text_CooltrainerF, MSGBOX_NPC
 	end
 SaffronMart_Text_CooltrainerM:
-	.string "In LAVANDIA ist ein großer RADIOTURM.$"
+	.string "In Lavandia ist ein großer Radioturm.$"
 
 SaffronMart_Text_CooltrainerF:
 	.string "Ich will stärker werden, aber\n"

@@ -43,13 +43,13 @@ BattleFrontier_Lounge5_EventScript_LittleBoy::
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting::
 	.string "Hihihi! Ich kann die Gedanken\n"
-	.string "von POKéMON lesen!\p"
-	.string "Bitte! Darf ich deine POKéMON mal\n"
+	.string "von Pokémon lesen!\p"
+	.string "Bitte! Darf ich deine Pokémon mal\n"
 	.string "sehen? Bitte, bitte, bitte, bitte…$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
-	.string "Boo!\n"
-	.string "Cheapie!$"
+	.string "Booh!\n"
+	.string "Fiesling!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow::
 	.string "Hmm…\p"
@@ -105,13 +105,13 @@ BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow::
 	.string "Autschies hat, wird es das tun.$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "Du bist komisch! Das ist ein EI. Das\n"
+	.string "Du bist komisch! Das ist ein Ei. Das\n"
 	.string "schläft doch! Wie soll ich damit reden?!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
 	.string "Wie charmant!\n"
 	.string "Diese kleine Dame hier behauptet, sie\l"
-	.string "könne die POKéMON verstehen!$"
+	.string "könne die Pokémon verstehen!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
 	.string "Ich habe das Gefühl, dies kleine\n"

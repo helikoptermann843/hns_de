@@ -379,33 +379,33 @@ BattleFrontier_BattlePalaceLobby_EventScript_ExitRules_hns::
 	end
 
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForSingleBattle_hns:
-	.string "Hier wird das Herz der TRAINER\n"
+	.string "Hier wird das Herz der Trainer\n"
 	.string "auf die Probe gestellt!\p"
-	.string "Willkommen im KAMPFPALAST!\p"
+	.string "Willkommen im Kampfpalast!\p"
 	.string "Ich nehme Herausforderungen für die\n"
-	.string "EINZELKAMPF-Hallen entgegen!$"
+	.string "Einzelkampf-Hallen entgegen!$"
 
 BattleFrontier_BattlePalaceLobby_Text_TakeSingleBattleChallenge_hns:
 	.string "Möchtest du dich der Herausforderung\n"
-	.string "der EINZELKAMPF-Hallen stellen?$"
+	.string "der Einzelkampf-Hallen stellen?$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge_hns:
-	.string "Im KAMPFPALAST gibt es verschiedene\n"
-	.string "EINZELKAMPF-Hallen für\l"
-	.string "EINZELKÄMPFE.\p"
-	.string "Die EINZELKÄMPFE verlaufen auf die\n"
+	.string "Im Kampfpalast gibt es verschiedene\n"
+	.string "Einzelkampf-Hallen für\l"
+	.string "Einzelkämpfe.\p"
+	.string "Die Einzelkämpfe verlaufen auf die\n"
 	.string "übliche Weise. Es gibt eine entschei-\l"
 	.string "dende Regel, die es zu beachten\n"
 	.string "gilt!!! \p"
-	.string "TRAINER dürfen ihre POKéMON lediglich\n"
+	.string "Trainer dürfen ihre Pokémon lediglich\n"
 	.string "in den Kampf rufen und zurückziehen.\p"
-	.string "Ansonsten dürfen sie ihren POKéMON\n"
+	.string "Ansonsten dürfen sie ihren Pokémon\n"
 	.string "keinerlei Anweisungen geben!\p"
-	.string "Die POKéMON sollen sich ihrem Wesen\n"
+	.string "Die Pokémon sollen sich ihrem Wesen\n"
 	.string "entsprechend verhalten und eigen-\p"
 	.string "ständig kämpfen! Vertrau deinen\n"
-	.string "POKéMON und achte auf sie.\p"
-	.string "Schaffst du es, sieben TRAINER in\n"
+	.string "Pokémon und achte auf sie.\p"
+	.string "Schaffst du es, sieben Trainer in\n"
 	.string "Folge\n"
 	.string "zu besiegen, erhältst du von uns\l"
 	.string "Gewinnpunkte.\p"
@@ -416,23 +416,23 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge_hns:
 	.string "disqualifiziert.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified_hns:
-	.string "Stärke dein Herz und deine POKéMON und\n"
+	.string "Stärke dein Herz und deine Pokémon und\n"
 	.string "komm dann wieder.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WhichChallenge_hns:
-	.string "Es gibt zwei KAMPFHALLEN:\n"
+	.string "Es gibt zwei Kampfhallen:\n"
 	.string "Für Level 50 und Offene Kämpfe.\l"
 	.string "Wofür entscheidest du dich?$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON von Level 50 oder weniger.\p"
+	.string "Pokémon von Level 50 oder weniger.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du bereit\n"
 	.string "bist.$"
 
@@ -442,21 +442,21 @@ BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsEnd_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen_hns:
 	.string "Entschuldigung!\p"
-	.string "Aber deine POKéMON sind nicht\n"
+	.string "Aber deine Pokémon sind nicht\n"
 	.string "teilnahmeberechtigt.\p"
 	.string "Du brauchst drei verschiedene\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Jedes muss außerdem ein anderes Item\n"
 	.string "halten.\p"
-	.string "EIer{STR_VAR_1} nicht zugelassen.\p"
+	.string "Eier{STR_VAR_1} nicht zugelassen.\p"
 	.string "Bitte komm wieder, wenn du bereit\n"
 	.string "bist.$"
 
 BattleFrontier_BattlePalaceLobby_Text_NowSelectThreeMons_hns:
-	.string "Gut. Nun wähle deine drei POKéMON aus.$"
+	.string "Gut. Nun wähle deine drei Pokémon aus.$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge_hns2_hns:
-	.string "Bevor du die KAMPFHALLE betrittst,\n"
+	.string "Bevor du die Kampfhalle betrittst,\n"
 	.string "musst du dein Spiel speichern. Okay?$"
 
 BattleFrontier_BattlePalaceLobby_Text_FollowMe_hns:
@@ -464,14 +464,14 @@ BattleFrontier_BattlePalaceLobby_Text_FollowMe_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_ResultsWillBeRecorded_hns:
 	.string "Ich fühle mich geehrt, dass ich deine\n"
-	.string "POKéMON sehen durfte.\p"
+	.string "Pokémon sehen durfte.\p"
 	.string "Dein Erfolg wird gespeichert.\n"
 	.string "Bitte warte einen Moment.$"
 
 BattleFrontier_BattlePalaceLobby_Text_FirmTrueBondsFor7WinStreak_hns:
 	.string "Sieben Siege in Folge…\p"
 	.string "Das Band zwischen deinem Herzen und\n"
-	.string "deinen POKéMON scheint stark zu sein.$"
+	.string "deinen Pokémon scheint stark zu sein.$"
 
 BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded_hns:
 	.string "Dein Erfolg wird gespeichert.\n"
@@ -484,14 +484,14 @@ BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "Du hast keinen Platz für den Preis?\p"
-	.string "Räum deinen BEUTEL auf und komm\n"
+	.string "Räum deinen Beutel auf und komm\n"
 	.string "dann wieder.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting_hns:
 	.string "Wir haben auf dich gewartet…$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge_hns:
-	.string "Bevor du die KAMPFHALLE betrittst,\n"
+	.string "Bevor du die Kampfhalle betrittst,\n"
 	.string "musst du dein Spiel speichern.$"
 
 BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge_hns:
@@ -503,12 +503,12 @@ BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge_hns:
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_ReceivedPrize_hns:
-	.string "{PLAYER} gewinnt\n"
+	.string "{PLAYER} received the prize\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink_hns:
 	.string "Für so einen kräftigen Burschen wie\n"
-	.string "mich sind kräftige POKéMON das Wahre!\n"
+	.string "mich sind kräftige Pokémon das Wahre!\n"
 	.string "\p"
 	.string "Angriff ist die beste Verteidigung!\n"
 	.string "Eine rücksichtslose Attacke das Beste!\n"
@@ -518,7 +518,7 @@ BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink_hns:
 	.string "Manchmal kommt hier eine niedliche\n"
 	.string "Lady vorbei.\p"
 	.string "Sie sagt, sie kann erkennen, was\n"
-	.string "POKéMON denken.\p"
+	.string "Pokémon denken.\p"
 	.string "Ich kenn mich damit nicht aus, aber\l"
 	.string "ich\n"
 	.string "weiß, dass die Lady verdammt süß ist.\p"
@@ -528,21 +528,21 @@ BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere_hns:
 	.string "Hmm…\p"
-	.string "Das Wesen der POKéMON und die\n"
+	.string "Das Wesen der Pokémon und die\n"
 	.string "Attacken, die sie gelernt haben,\l"
 	.string "scheinen der Schlüssel zu sein.\p"
 	.string "Um es deutlicher zu machen: Die\n"
 	.string "Attacken sollten zum Wesen der\l"
-	.string "POKéMON passen.\p"
-	.string "Wenn dein POKéMON Schwierigkeiten\n"
+	.string "Pokémon passen.\p"
+	.string "Wenn dein Pokémon Schwierigkeiten\n"
 	.string "hat und nicht alles gibt, dann\n"
 	.string "solltest\l"
 	.string "du prüfen, wie gut seine Attacken zu\l"
 	.string "seinem Wesen passen.$"
 
 BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms_hns:
-	.string "Mein POKéMON ist sehr sanftmütig.\p"
-	.string "Aber wenn ich es in eine KAMPFHALLE\n"
+	.string "Mein Pokémon ist sehr sanftmütig.\p"
+	.string "Aber wenn ich es in eine Kampfhalle\n"
 	.string "mitnehme, scheint es sich manchmal\l"
 	.string "ganz merkwürdig zu verändern!\p"
 	.string "Es wirkt dann regelrecht\n"
@@ -550,40 +550,40 @@ BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway_hns:
 	.string "Ich frage mich, welches Wesen ein\n"
-	.string "POKéMON hat, das seine Gegner schwächt\l"
+	.string "Pokémon hat, das seine Gegner schwächt\l"
 	.string "und dann langsam zur Strecke bringt.\p"
 	.string "Ich würde mich echt wundern, wenn es\n"
-	.string "dann ein LASCHes Wesen hätte.\p"
+	.string "dann ein Lasches Wesen hätte.\p"
 	.string "Nee, bestimmt nicht!$"
 
 BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle_hns:
-	.string "Hier wird das Herz der TRAINER\n"
+	.string "Hier wird das Herz der Trainer\n"
 	.string "auf die Probe gestellt!\p"
-	.string "Willkommen im KAMPFPALAST!\p"
+	.string "Willkommen im Kampfpalast!\p"
 	.string "Ich nehme Herausforderungen für die\n"
-	.string "DOPPELKAMPF-Hallen entgegen!$"
+	.string "Doppelkampf-Hallen entgegen!$"
 
 BattleFrontier_BattlePalaceLobby_Text_TakeDoubleBattleChallenge_hns:
 	.string "Möchtest du dich der Herausforderung\n"
-	.string "der DOPPELKAMPF-Hallen stellen?$"
+	.string "der Doppelkampf-Hallen stellen?$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge_hns:
-	.string "Im KAMPFPALAST gibt es verschiedene\n"
-	.string "DOPPELKAMPF-Hallen für\l"
-	.string "DOPPELKÄMPFE.\p"
-	.string "Die DOPPELKÄMPFE verlaufen auf die\n"
+	.string "Im Kampfpalast gibt es verschiedene\n"
+	.string "Doppelkampf-Hallen für\l"
+	.string "Doppelkämpfe.\p"
+	.string "Die Doppelkämpfe verlaufen auf die\n"
 	.string "übliche Weise. Es gibt eine entschei-\l"
 	.string "dende Regel, die es zu beachten\n"
 	.string "gilt!!! \p"
-	.string "TRAINER dürfen ihre POKéMON lediglich\n"
+	.string "Trainer dürfen ihre Pokémon lediglich\n"
 	.string "in den Kampf rufen und zurückziehen.\p"
-	.string "Ansonsten dürfen sie ihren POKéMON\n"
+	.string "Ansonsten dürfen sie ihren Pokémon\n"
 	.string "keinerlei Anweisungen geben!\p"
-	.string "Die POKéMON sollen sich ihrem Wesen\n"
+	.string "Die Pokémon sollen sich ihrem Wesen\n"
 	.string "entsprechend verhalten und eigen-\p"
 	.string "ständig kämpfen! Vertrau deinen\n"
-	.string "POKéMON und achte auf sie.\p"
-	.string "Schaffst du es, sieben TRAINER in\n"
+	.string "Pokémon und achte auf sie.\p"
+	.string "Schaffst du es, sieben Trainer in\n"
 	.string "Folge\n"
 	.string "zu besiegen, erhältst du von uns\l"
 	.string "Gewinnpunkte.\p"
@@ -599,30 +599,30 @@ BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers_hns:
 
 BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints_hns:
 	.string "In Anerkennung des Bandes zwischen dir\n"
-	.string "und deinen POKéMON geben wir dir\l"
+	.string "und deinen Pokémon geben wir dir\l"
 	.string "Gewinnpunkte.$"
 
 BattleFrontier_BattlePalaceLobby_Text_LikeToRecordMatch_hns:
-	.string "Möchtest du deinen letzten KAMPF-\n"
-	.string "PALAST-Kampf in deinen\l"
-	.string "KAMPFZONENPASS eintragen?$"
+	.string "Möchtest du deinen letzten Kampf-\n"
+	.string "palast-Kampf in deinen\l"
+	.string "Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattlePalaceLobby_Text_RulesAreListed_hns:
-	.string "Die Regeln der KAMPFHALLE hängen\n"
+	.string "Die Regeln der Kampfhalle hängen\n"
 	.string "öffentlich aus.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading_hns:
 	.string "Wähle bitte ein Themengebiet aus.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics_hns:
-	.string "Hier müssen die POKéMON selbständig\n"
+	.string "Hier müssen die Pokémon selbständig\n"
 	.string "handeln und kämpfen.\p"
-	.string "Anders als wilde POKéMON reagieren\n"
-	.string "POKéMON, die mit Menschen zusammen-\l"
+	.string "Anders als wilde Pokémon reagieren\n"
+	.string "Pokémon, die mit Menschen zusammen-\l"
 	.string "leben, abhängig von ihrem Wesen.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature_hns:
-	.string "Je nach Wesenheit wird ein POKéMON\n"
+	.string "Je nach Wesenheit wird ein Pokémon\n"
 	.string "eventuell angreifen, egal, was\n"
 	.string "passiert. \p"
 	.string "Ein anderes wird sich vielleicht\n"
@@ -632,7 +632,7 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature_hns:
 	.string "irritiert oder verwirrt seinen Gegner.\n"
 	.string "\p"
 	.string "Abhängig von seinem Wesen wird ein\n"
-	.string "POKéMON Lieblingsattacken haben, die\l"
+	.string "Pokémon Lieblingsattacken haben, die\l"
 	.string "es hervorragend beherrscht.\p"
 	.string "Auf der anderen Seite wird es Attacken\n"
 	.string "kennen, die es nicht mag und die ihm\l"
@@ -648,25 +648,25 @@ BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves_hns:
 	.string "schwächen, indem sie Statusprobleme\l"
 	.string "verursachen, wie Vergiftungen oder\l"
 	.string "Paralyse.\p"
-	.string "POKéMON werden diese 3 Kategorien mit\n"
+	.string "Pokémon werden diese 3 Kategorien mit\n"
 	.string "Sicherheit im Kampf in Betracht\l"
 	.string "ziehen!$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered_hns:
-	.string "Gibt ein TRAINER seinem POKéMON keine\n"
+	.string "Gibt ein Trainer seinem Pokémon keine\n"
 	.string "Anweisungen, wird es vielleicht nicht\n"
 	.string "in\l"
 	.string "der Lage sein, bestimmte Attacken\p"
-	.string "einzusetzen. Ein POKéMON hat\n"
+	.string "einzusetzen. Ein Pokémon hat\n"
 	.string "Schwierigkeiten mit Attacken, die es\l"
 	.string "nicht mag.\p"
-	.string "Kennt ein POKéMON nur Attacken, die\n"
+	.string "Kennt ein Pokémon nur Attacken, die\n"
 	.string "seinem Wesen widersprechen, so kann es\l"
 	.string "nicht immer sein ganzes Können zeigen.$"
 
 BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger_hns:
 	.string "Abhängig von seinem Wesen, wird ein\n"
-	.string "POKéMON vielleicht auch Attacken ein-\l"
+	.string "Pokémon vielleicht auch Attacken ein-\l"
 	.string "setzen, die seinem Wesen\n"
 	.string "widersprechen. \p"
 	.string "Benimmt es sich in bestimmten\n"

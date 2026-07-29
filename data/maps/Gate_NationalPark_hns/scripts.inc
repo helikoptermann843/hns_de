@@ -72,13 +72,13 @@ Gate_NationalPark_EventScript_AttendantEnterBot::
 	return
 
 
-Gate_NationalPark_EventScript_AttendantFaint::	
+Gate_NationalPark_EventScript_AttendantFaint::
 	msgbox Route35NationalParkGate_Text_FirstMonCantBattle, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
-Gate_NationalPark_EventScript_AttendantCancel::	
+Gate_NationalPark_EventScript_AttendantCancel::
 	msgbox Route35NationalParkGate_Text_TakePartInFuture, MSGBOX_DEFAULT
 	closemessage
 	release
@@ -213,16 +213,16 @@ Route35NationalParkGate_Text_OfficerAskToParticipate:
 	.string "Möchtest du es versuchen?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Hier sind die PARKBÄLLE\n"
+	.string "Hier sind die Parkbälle\n"
 	.string "für das Turnier.$"
 
 Route35NationalParkGate_Text_ReceivedSportBalls:
-	.string "{PLAYER} erhält PARKBÄLLE.$"
+	.string "{PLAYER} erhält Parkbälle.$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
 	.string "Wer das stärkste\n"
 	.string "Käfer-Pokémon fängt, hat gewonnen.\p"
-	.string "Wenn du keine PARKBÄLLE\n"
+	.string "Wenn du keine Parkbälle\n"
 	.string "mehr hast, ist das Turnier\l"
 	.string "beendet.\p"
 	.string "Du darfst das letzte Pokémon,\n"
@@ -245,7 +245,7 @@ Route35NationalParkGate_Text_OfficerHoldYourMon:
 
 Route35NationalParkGate_Text_MonLeftWithHelper:
 	.string "Die Pokémon von {PLAYER}\n"
-	.string "wurden dem TURNIERHELFER\l"
+	.string "wurden dem Turnierhelfer\l"
 	.string "übergeben.$"
 
 Route35NationalParkGate_Text_ChooseMonAndComeBack:
@@ -267,15 +267,15 @@ Route35NationalParkGate_Text_FirstMonCantBattle:
 
 Route35NationalParkGate_Text_MakeRoom:
 	.string "Oh, oh… Dein Team und\n"
-	.string "deine PC-BOX ist voll besetzt.\p"
+	.string "deine PC-Box ist voll besetzt.\p"
 	.string "Du hast keinen Platz für\n"
 	.string "ein Käfer-Pokémon, das du\l"
 	.string "fängst.\p"
 	.string "Schaffe Platz in deinem Team oder\n"
-	.string "in deiner PC-BOX und komm dann wieder.$"
+	.string "in deiner PC-Box und komm dann wieder.$"
 
 Route35NationalParkGate_Text_EggAsFirstMon:
-	.string "Oh, oh… Ein EI ist an\n"
+	.string "Oh, oh… Ein Ei ist an\n"
 	.string "erster Stelle in deinem Team.\p"
 	.string "Tausche es bitte mit dem Pokémon,\n"
 	.string "das du im Turnier einsetzen möchtest\l"
@@ -337,7 +337,7 @@ Route35NationalParkGate_Text_Beauty:
 
 Route35NationalParkGate_Text_WeHoldContests:
 	.string "Die Turniere werden regelmäßig\n"
-	.string "hier im PARK abgehalten.\l"
+	.string "hier im Park abgehalten.\l"
 	.string "Nimm doch auch daran teil!$"
 
 Route35NationalParkGate_Text_YoungsterWonders:

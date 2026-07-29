@@ -58,7 +58,7 @@ SSAqua_1F_EventScript_LeaveBoat::
 	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU3
 	setflag FLAG_HIDE_VIRIDIAN_FOREST_SPIKY_EARED_PICHU4
 	setflag FLAG_HIDE_ROUTE13_BOAT
-	
+
 	clearflag FLAG_BADGE09_GET
 	clearflag FLAG_BADGE10_GET
 	clearflag FLAG_BADGE11_GET
@@ -124,15 +124,15 @@ SSAqua_1F_EventScript_LeaveBoat::
 	setvar VAR_NUM_BADGES, 8
 	setvar VAR_VERMILION_CITY_STATE, 1
 
-	setvar VAR_KANTO_SAFARI_ZONE_PROGRESS, 0 
-	clearflag FLAG_IN_KANTO_SAFARI_ZONE 
-	clearflag FLAG_IS_KANTO_CHAMPION 
-	setvar VAR_BAOBA_QUEST_STATE, 0 
-	setvar VAR_CINNABAR_ISLAND_STATE, 0 
-	setvar VAR_MT_SILVER_STATE, 0, 
-	setvar VAR_PALLETTOWN_LABSTATE, 0 
-	clearflag FLAG_HIDE_LEAGUE_BLACKBELT 
-	
+	setvar VAR_KANTO_SAFARI_ZONE_PROGRESS, 0
+	clearflag FLAG_IN_KANTO_SAFARI_ZONE
+	clearflag FLAG_IS_KANTO_CHAMPION
+	setvar VAR_BAOBA_QUEST_STATE, 0
+	setvar VAR_CINNABAR_ISLAND_STATE, 0
+	setvar VAR_MT_SILVER_STATE, 0,
+	setvar VAR_PALLETTOWN_LABSTATE, 0
+	clearflag FLAG_HIDE_LEAGUE_BLACKBELT
+
 	setflag FLAG_HIDE_DOJO_FALKNER
 	setflag FLAG_HIDE_DOJO_BUGSY
 	setflag FLAG_HIDE_DOJO_WHITNEY
@@ -180,7 +180,7 @@ SSAqua_1F_Trigger_Grandpa::
 	waitmovement 0
 	playse SE_DOOR
 	removeobject LOCALID_SSAQUA_1F_GRANDPA
-	
+
 	setflag FLAG_HIDE_SSAQUA_1F_GRANDPA		@flagheap
 	setflag FLAG_HIDE_SSAQUA_ROOM_SSE_GRANDDAUGHTER
 
@@ -247,22 +247,22 @@ SSAqua_1F_Movement_GrandpaLeave:
 	step_end
 
 SSAqua_1F_Text_Sailor1_ToVermilion:
-	.string "Die M.S. AQUA ist\n"
-	.string "auf dem Weg nach ORANIA CITY.\p"
-	.string "Wir machen eine\n"
-	.string "Durchsage, wenn wir dort ankommen.$"
+	.string "Die M.S. Aqua ist auf dem Weg nach\n"
+	.string "Orania City.\p"
+	.string "Wenn wir dort in den Hafen einlaufen,\n"
+	.string "machen wir eine Durchsage.$"
 
 SSAqua_1F_Text_Sailor1_ToOlivine:
-	.string "Die M.S.AQUA ist\n"
-	.string "auf dem Weg nach Oliviana City.\p"
-	.string "Wir geben Bescheid, sobald wir\n"
-	.string "angekommen sind.$"
+	.string "Die M.S. Aqua ist auf dem Weg nach\n"
+	.string "Oliviana City.\p"
+	.string "Wenn wir dort in den Hafen einlaufen,\n"
+	.string "machen wir eine Durchsage.$"
 
 SSAqua_1F_Text_Sailor2_FirstTime:
-	.string "Hier ist deine Kabine.\p"
-	.string "Wenn deine Pokémon verletzt sind,\n"
-	.string "mach ein Nickerchen im Bett.\p"
-	.string "Das heilt sie.$"
+	.string "Das ist deine Kabine.\p"
+	.string "Wenn dein Pokémon-Team verletzt ist,\n"
+	.string "dann mache hier ein Nickerchen. Dadurch\l"
+	.string "wird es geheilt.$"
 
 SSAqua_1F_Text_Sailor3:
 	.string "Alle Passagiere sind Trainer.\p"
@@ -270,20 +270,19 @@ SSAqua_1F_Text_Sailor3:
 	.string "Kabinen zu kämpfen.$"
 
 SSAqua_1F_Text_Grandpa:
-	.string "Oh! Entschuldigung, ich hatte\n"
-	.string "es eilig!\p"
-	.string "Meine Enkelin fehlt!\p"
-	.string "Sie ist noch ein kleines Mädchen.\n"
-	.string "Wenn du sie siehst, sag mir bitte\l"
-	.string "Bescheid!$"
+	.string "Entschuldigung, ich bin in Eile!\p"
+	.string "Ich bin auf der Suche nach meiner\n"
+	.string "Enkelin! Sie ist verschwunden! Wenn du\l"
+	.string "ein kleines Mädchen siehst, dann sag\l"
+	.string "bitte Bescheid!$"
 
 SSAqua_1F_Text_Sailor1_InOlivine:
-	.string "Die M.S.AQUA ist\n"
-	.string "in Oliviana City angekommen.$"
+	.string "Die M.S. Aqua hat nun in Oliviana City\n"
+	.string "angelegt!$"
 
 SSAqua_1F_Text_Sailor1_InVermilion:
-	.string "Die M.S. AQUA legt in\p"
-	.string "ORANIA CITY an.$"
+	.string "Die M.S. Aqua hat nun in Orania City\n"
+	.string "angelegt!$"
 
 
 SSAqua_1F_Text_SailorDoorArrived:

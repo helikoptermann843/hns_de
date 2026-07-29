@@ -17,8 +17,8 @@ Route21_North_Text_WadeIntro::
 	.string "gemacht! Möchtest du ihn sehen?$"
 
 Route21_North_Text_WadeDefeat::
-	.string "NEIN!\n"
-	.string "KARPADOR!$"
+	.string "Nein!\n"
+	.string "Karpador!$"
 
 Route21_North_Text_WadePostBattle::
 	.string "Oh nein! Ich habe schon wieder\n"

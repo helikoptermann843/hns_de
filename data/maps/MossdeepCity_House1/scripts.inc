@@ -37,5 +37,5 @@ MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
 	.string "Mein Mann weiß auf den ersten Blick,\n"
 	.string "welche Art von {POKEBLOCK}\l"
-	.string "ein POKéMON mag und welche nicht.$"
+	.string "ein Pokémon mag und welche nicht.$"
 

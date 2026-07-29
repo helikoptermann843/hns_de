@@ -25,7 +25,7 @@ Route19_Text_ReeceDefeat::
 	.string "Mir ist kalt!$"
 
 Route19_Text_ReecePostBattle::
-	.string "Nimm dich vor TENTACHA in Acht!$"
+	.string "Nimm dich vor Tentacha in Acht!$"
 
 Route19_Text_MatthewIntro::
 	.string "Ich gehe gerne schwimmen!\n"
@@ -56,7 +56,7 @@ Route19_Text_DavidDefeat::
 	.string "Hilfe!$"
 
 Route19_Text_DavidPostBattle::
-	.string "Nach WASSER-POKéMON sollte man\n"
+	.string "Nach Wasser-Pokémon sollte man\n"
 	.string "lieber angeln!$"
 
 Route19_Text_TonyIntro::
@@ -117,8 +117,8 @@ Route19_Text_ConniePostBattle::
 	.string "tragen kann!$"
 
 Route19_Text_RouteSign::
-	.string "SEE-ROUTE 19\n"
-	.string "FUCHSANIA CITY - SEESCHAUMINSELN$"
+	.string "See-Route 19\n"
+	.string "Fuchsania City - Seeschauminseln$"
 
 Route19_Text_LiaIntro::
 	.string "Nora: Ich kümmere mich um\n"
@@ -135,9 +135,9 @@ Route19_Text_LiaPostBattle::
 	.string "Mögliche bei.$"
 
 Route19_Text_LiaNotEnoughMons::
-	.string "NORA: Ich möchte mit meinem kleinen\n"
+	.string "Nora: Ich möchte mit meinem kleinen\n"
 	.string "Bruder zusammen kämpfen.\p"
-	.string "Hast du keine zwei POKéMON?$"
+	.string "Hast du keine zwei Pokémon?$"
 
 Route19_Text_LucIntro::
 	.string "Tom: Meine große Schwester hat\n"
@@ -155,6 +155,6 @@ Route19_Text_LucPostBattle::
 	.string "stark und nett. Sie ist wundervoll.$"
 
 Route19_Text_LucNotEnoughMons::
-	.string "TOM: Ich will nicht ohne meine\n"
+	.string "Tom: Ich will nicht ohne meine\n"
 	.string "Schwester gegen dich kämpfen.\p"
-	.string "Hast du keine zwei POKéMON?$"
+	.string "Hast du keine zwei Pokémon?$"

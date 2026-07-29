@@ -23,7 +23,7 @@ SixIsland_Text_IslandSign::
 	.string "ist mit ein wenig Spucke geheilt.$"
 
 SixIsland_Text_ThatWayToWaterPathRuinValley::
-	.string "Ich werde weiterhin KÄFER-POKéMON\n"
+	.string "Ich werde weiterhin Käfer-Pokémon\n"
 	.string "fangen.\p"
 	.string "Bin ich das einzige Mädchen, das\n"
 	.string "dies so macht?$"

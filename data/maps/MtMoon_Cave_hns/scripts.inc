@@ -4,7 +4,7 @@ MtMoon_Cave_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-MtMoon_Cave_OnTransition: 
+MtMoon_Cave_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -118,8 +118,8 @@ MtMoon_Cave_Text_Rival_Loss:
 	.string "Ich habe meine\n"
 	.string "Schuld bei dir abgegolten.\p"
 	.string "Mit meinen Pokémon werde ich den\n"
-	.string "CHAMP besiegen\l"
+	.string "Champ besiegen\l"
 	.string "und weltbester Trainer werden.$"
 
 MtMoon_Cave_Text_Sign:
-	.string "MONDBERG VORPLATZ ->$"
+	.string "Mondberg Vorplatz ->$"

@@ -24,4 +24,4 @@ BlackthornCity_House1_Text_Granny:
 	.string "sich um die Drachen-Pokémon ranken.$"
 
 BlackthornCity_House1_Text_Dratini:
-	.string "DRATINI: Draaa!$"
+	.string "Dratini: Draaa!$"

@@ -15,8 +15,8 @@ MysteryGiftScript_StampCard::
 	end
 
 sText_MysteryGiftStampCard:
-	.string "Danke, dass du das STEMPELKARTEn-\n"
+	.string "Danke, dass du das Stempelkarten-\n"
 	.string "System benutzt hast.\p"
 	.string "Du musst noch {STR_VAR_1} sammeln, um\n"
-	.string "deine STEMPELKARTE zu\l"
+	.string "deine Stempelkarte zu\l"
 	.string "vervollständigen.$"

@@ -159,18 +159,18 @@ LilycoveCity_LilycoveMuseum_1F_EventScript_FatMan::
 	end
 
 LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
-	.string "Willkommen im MUSEUM von\n"
-	.string "SEEGRASULB CITY.\p"
+	.string "Willkommen im Museum von\n"
+	.string "Seegrasulb City.\p"
 	.string "Bitte nimm dir die Zeit, unsere\n"
 	.string "Sammlung\n"
 	.string "wunderbarer Kunstwerke zum Thema\l"
-	.string "POKéMON zu betrachten.$"
+	.string "Pokémon zu betrachten.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
-	.string "Ich bin der KURATOR dieses MUSEUMs der\n"
+	.string "Ich bin der Kurator dieses Museums der\n"
 	.string "schönen Künste.\p"
 	.string "Es freut mich immer wieder, junge\n"
-	.string "Menschen wie dich im MUSEUM zu\n"
+	.string "Menschen wie dich im Museum zu\n"
 	.string "treffen. \p"
 	.string "Hast du dir schon unsere Gemäldesamm-\n"
 	.string "lung angesehen?$"
@@ -180,8 +180,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
 	.string "aufhalten. Bitte, nimm dir Zeit.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
-	.string "Oh? Ich glaube, du bist ein POKéMON-\n"
-	.string "TRAINER.\p"
+	.string "Oh? Ich glaube, du bist ein Pokémon-\n"
+	.string "Trainer.\p"
 	.string "Bist du auch an Gemälden interessiert?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
@@ -206,38 +206,38 @@ LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
 	.string "Das Bildnis einer hübschen, lächelnden\n"
-	.string "Frau mit einem POKéMON auf dem Schoß.$"
+	.string "Frau mit einem Pokémon auf dem Schoß.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "Das Bild eines legendären POKéMON aus\n"
+	.string "Das Bild eines legendären Pokémon aus\n"
 	.string "längst vergangener Zeit.\p"
 	.string "Der Künstler hat dies aus der\n"
 	.string "Vorstellung heraus gemalt.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "PFLANZEN-POKéMON, die sich im\n"
+	.string "Pflanzen-Pokémon, die sich im\n"
 	.string "Wind wiegen.\p"
 	.string "Es scheint, als genießen sie das zarte\n"
 	.string "Streicheln des Windes.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "BEEREn. Sie sehen äußerst delikat aus.\n"
+	.string "Beeren. Sie sehen äußerst delikat aus.\n"
 	.string "\p"
 	.string "Das Bild kann einen hungrig machen!$"
 
 LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "Ein Replikat einer berühmten Skulptur.\n"
 	.string "\p"
-	.string "Es zeigt ein antikes VOGEL-POKéMON.$"
+	.string "Es zeigt ein antikes Vogel-Pokémon.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "Ein großer POKéBALL, aus schwarzem\n"
+	.string "Ein großer Pokéball, aus schwarzem\n"
 	.string "Stein gehauen.\p"
 	.string "In früheren Zeiten wurde er zu\n"
 	.string "Festlichkeiten ausgestellt.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
-	.string "Eine große Steintafel, auf der POKéMON\n"
+	.string "Eine große Steintafel, auf der Pokémon\n"
 	.string "und eng gesetzte, kleine Schrift-\l"
 	.string "zeichen einer alten, unverständlichen\l"
 	.string "Sprache eingraviert sind.$"
@@ -247,30 +247,30 @@ LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
 	.string "What works of great magnificence…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "Die Kämpfe mit POKéMON machen schon\n"
+	.string "Die Kämpfe mit Pokémon machen schon\n"
 	.string "Spaß, das gebe ich zu.\p"
 	.string "Aber man darf darüber nicht seine\n"
 	.string "Liebe\l"
 	.string "zu den schönen Künsten vergessen.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "Dieses KUNSTMUSEUM… Hier bekommst du\n"
+	.string "Dieses Kunstmuseum… Hier bekommst du\n"
 	.string "viele fantastische Gemälde zu sehen.\p"
-	.string "Und der KURATOR ist einfach wunderbar.\n"
+	.string "Und der Kurator ist einfach wunderbar.\n"
 	.string "\p"
 	.string "Unter Künstlern wie mir ist dieses\n"
-	.string "MUSEUM einfach eine Inspiration.$"
+	.string "Museum einfach eine Inspiration.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
 	.string "Diese Frau ist hübsch!\n"
 	.string "Genau wie meine Mama!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "Dieses POKéMON ist anbetungswürdig!\n"
+	.string "Dieses Pokémon ist anbetungswürdig!\n"
 	.string "Genau wie unser kleiner Sohn!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
-	.string "Ich habe gehört, dass das KUNSTMUSEUM\n"
+	.string "Ich habe gehört, dass das Kunstmuseum\n"
 	.string "einige neue Gemälde erhalten hat.\p"
 	.string "Die will ich mir natürlich sofort\n"
 	.string "anschauen.\p"
@@ -278,7 +278,7 @@ LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
 	.string "zweiten Stockwerk?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "In letzter Zeit war der KURATOR außer-\n"
+	.string "In letzter Zeit war der Kurator außer-\n"
 	.string "gewöhnlich gut gelaunt.\p"
 	.string "Ich wette, er hat etwas Tolles erlebt.\n"
 	.string "Mit Sicherheit!$"
@@ -290,13 +290,13 @@ LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
 	.string "meine eigene Ausstellung zu haben.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
-	.string "Das KUNSTMUSEUM ist zu einem\n"
+	.string "Das Kunstmuseum ist zu einem\n"
 	.string "beliebten Ziel für Touristen geworden.\n"
 	.string "\p"
-	.string "Das ist großartig für SEEGRASULB CITY.\n"
-	.string "Nein, großartig für die ganze HOENN-\l"
+	.string "Das ist großartig für Seegrasulb City.\n"
+	.string "Nein, großartig für die ganze Hoenn-\l"
 	.string "Region!\p"
-	.string "Ein einziger TRAINER soll all die\n"
+	.string "Ein einziger Trainer soll all die\n"
 	.string "Gemälde im oberen Stockwerk beschafft\l"
 	.string "haben.$"
 

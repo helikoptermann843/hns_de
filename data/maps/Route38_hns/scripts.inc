@@ -3,7 +3,7 @@ Route38_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route38_OnTransition: 
+Route38_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -128,23 +128,23 @@ Route38_Text_SchoolboyChadAfter:
 Route38_Text_ChadRegister:
     .string "Ich muss so viele Prüfungen\n"
     .string "schreiben, dass ich kaum Zeit\l"
-    .string "für POKéMON habe.\p"
+    .string "für Pokémon habe.\p"
     .string "Darum konzentriere ich mich\n"
     .string "voll und ganz, wenn ich einmal\l"
     .string "spielen kann.$"
 
 Route38_Text_ChadRematchIntro:
-    .string "Ich zeige dir etwas, das ich\n"
-    .string "heute gelernt habe.$"
+	.string "Jetzt probiere ich gleich mal etwas aus,\n"
+	.string "das ich heute gelernt habe.$"
 
 Route38_Text_ChadRematchDefeat:
-    .string "Ich habe wohl nicht genug\n"
-    .string "gelernt.$"
+	.string "Ich fürchte, ich habe noch nicht genug\n"
+	.string "gelernt.$"
 
 Route38_Text_ChadPostRematch:
     .string "Ich muss so viele Prüfungen\n"
     .string "schreiben, dass ich kaum Zeit\l"
-    .string "für POKéMON habe.\p"
+    .string "für Pokémon habe.\p"
     .string "Darum konzentriere ich mich\n"
     .string "voll und ganz, wenn ich einmal\l"
     .string "spielen kann.$"
@@ -156,8 +156,7 @@ Route38_Text_LassDana1Seen:
 	.string "ein paar Tipps?$"
 
 Route38_Text_LassDana1Beaten:
-	.string "Aha…\n"
-	.string "Das ist also dein Kampfstil!$"
+	.string "Ich verstehe. So kämpfst du also.$"
 
 Route38_Text_LassDanaAfter:
 	.string "Ich will dir auch etwas verraten!\p"
@@ -197,17 +196,17 @@ Route38_Text_BeautyOliviaSeen:
 	.string "sind wunderschön, nicht wahr?$"
 
 Route38_Text_BeautyOliviaBeaten:
-	.string "Wir trinken täglich KUHMUH-MILCH.$"
+	.string "Wir trinken täglich Kuhmuh-Milch.$"
 
 Route38_Text_BeautyOliviaAfter:
-	.string "KUHMUH-MILCH ist gut für\n"
+	.string "Kuhmuh-Milch ist gut für\n"
 	.string "Schönheit und Gesundheit.\p"
 	.string "Doch leider wird sie nur\n"
 	.string "flaschenweise verkauft.$"
 
 Route38_Text_Sign:
-	.string "ROUTE 38\p"
-	.string "OLIVIANA CITY - TEAK CITY$"
+	.string "Route 38\p"
+	.string "Oliviana City - Teak City$"
 
 Route38_Text_TrainerTips:
 	.string "Tipps für Trainer\p"
@@ -220,28 +219,27 @@ Route38_Text_TrainerTips:
 
 
 Route38_Text_WaterSign:
-	.string "SCHWIMMEN UND ANGELN VERBOTEN.\p"
-	.string "WASSER NUR FÜR LANDWIRTSCHAFT.\p"
-	.string "-TEAK CITY BÜRGERMEISTER-$"
+	.string "Schwimmen und Angeln verboten.\p"
+	.string "Wasser nur für Landwirtschaft.\p"
+	.string "-Teak City Bürgermeister-$"
 
 Route38_Text_DanaRegister:
     .string "Ich kenne etwas wirklich Gutes!\p"
-    .string "Die Milch der MUHMUH-FARM ist\n"
+    .string "Die Milch der Muhmuh-Farm ist\n"
     .string "für ihren Geschmack berühmt.$"
 
 Route38_Text_DanaRematchIntro:
     .string "Du scheinst dich gut mit\n"
-    .string "POKéMON auszukennen.\p"
+    .string "Pokémon auszukennen.\p"
     .string "Wenn das so ist, könntest du\n"
     .string "mir vielleicht ein paar Tipps geben?$"
 
 Route38_Text_DanaRematchDefeat:
-    .string "Ich verstehe. So kann man also\n"
-    .string "kämpfen.$"
+	.string "Ich verstehe. So kämpfst du also.$"
 
 Route38_Text_DanaPostRematch:
     .string "Ich kenne etwas wirklich Gutes!\p"
-    .string "Die Milch der MUHMUH-FARM ist\n"
+    .string "Die Milch der Muhmuh-Farm ist\n"
     .string "für ihren Geschmack berühmt.$"
 
 Route38_Text_DanaHasItem:
@@ -254,5 +252,5 @@ Route38_Text_DanaGaveItem:
     .string "noch etwas finde!$"
 
 Route38_Text_DanaNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"

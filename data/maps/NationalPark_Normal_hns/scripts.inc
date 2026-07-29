@@ -3,7 +3,7 @@ NationalPark_Normal_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-NationalPark_Normal_OnTransition: 
+NationalPark_Normal_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -74,7 +74,7 @@ NationalPark_Normal_Text_Lass:
 
 NationalPark_Normal_Text_PokefanF:
 	.string "Das ist ein\n"
-	.string "BRIEF von meiner Tochter. Das macht\l"
+	.string "Brief von meiner Tochter. Das macht\l"
 	.string "mir Freude.$"
 
 NationalPark_Normal_Text_Teacher1:
@@ -93,21 +93,21 @@ NationalPark_Normal_Text_Teacher1_QuickClaw:
 
 NationalPark_Normal_Text_Youngster1:
 	.string "Ich spiele mit\n"
-	.string "Stickern, die ich aus meinem DEX\l"
+	.string "Stickern, die ich aus meinem Dex\l"
 	.string "gedruckt habe.$"
 
 NationalPark_Normal_Text_Youngster2:
 	.string "Falls ich gewinne,\n"
-	.string "erhalte ich die DEX-Sticker meines\l"
+	.string "erhalte ich die Dex-Sticker meines\l"
 	.string "Gegners.$"
 
 NationalPark_Normal_Text_Teacher2:
-	.string "Ich gehe oft im PARK spazieren,\p"
+	.string "Ich gehe oft im Park spazieren,\p"
 	.string "aber ich meide das hohe Gras.\p"
 	.string "Trainer möchten immer kämpfen…$"
 
 NationalPark_Normal_Text_Persian:
-	.string "SNOBILIKAT: Snooobi, snobi!$"
+	.string "Snobilikat: Snooobi, snobi!$"
 
 NationalPark_Normal_EventScript_Jack::
 	trainerbattle_single TRAINER_JACK_HNS, NationalPark_Normal_Text_SchoolboyJack1_Seen, NationalPark_Normal_Text_SchoolboyJack1_Beaten, NationalPark_Normal_EventScript_RegisterJack
@@ -243,7 +243,7 @@ NationalPark_Normal_Text_LassKrise_Seen:
 	.string "Oh, ein Kampf?$"
 
 NationalPark_Normal_Text_LassKrise_Beaten:
-	.string "…Ho, ho!$"
+	.string "…Hmmm…$"
 
 NationalPark_Normal_Text_LassKrise_After:
 	.string "Ich dachte, du starrst mich an,\n"
@@ -260,10 +260,10 @@ NationalPark_Normal_Text_Sign_BattleNotice:
 	.string "- Das Büro des Wächters$"
 
 NationalPark_Normal_Text_TrainerTips:
-	.string "TIPPS für TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Möchtest du deine\n"
-	.string "BRIEFE drucken, öffne sie und drücke\l"
-	.string "START.$"
+	.string "Briefe drucken, öffne sie und drücke\l"
+	.string "Start.$"
 
 NationalPark_Normal_Text_BeverlyRegister:
 	.string "Ich muss zugeben… dein Pokémon-\n"
@@ -276,7 +276,7 @@ NationalPark_Normal_Text_BeverlyHasItem:
 	.string "meiner Dankbarkeit!$"
 
 NationalPark_Normal_Text_BeverlyGaveItem:
-	.string "Meine POKéMON und ich\n"
+	.string "Meine Pokémon und ich\n"
 	.string "werden dich anfeuern!$"
 
 NationalPark_Normal_Text_BeverlyNoRoom:

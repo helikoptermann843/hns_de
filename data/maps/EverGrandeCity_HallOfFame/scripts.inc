@@ -82,17 +82,17 @@ EverGrandeCity_HallOfFame_Movement_WalkIntoHallOfFame2:
 	step_end
 
 EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
-	.string "WASSILI: Dieser Raum…\p"
-	.string "Hier verzeichnen wir die POKéMON, die\n"
+	.string "Wassili: Dieser Raum…\p"
+	.string "Hier verzeichnen wir die Pokémon, die\n"
 	.string "siegreich aus harten Kämpfen hervorge-\l"
 	.string "gangen sind.\p"
-	.string "Hier werden die CHAMPs der POKéMON\n"
-	.string "LIGA geehrt.$"
+	.string "Hier werden die Champs der Pokémon\n"
+	.string "Liga geehrt.$"
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
-	.string "WASSILI: Komm, schreiben wir deinen\n"
-	.string "Namen nieder, als ein TRAINER, der\n"
+	.string "Wassili: Komm, schreiben wir deinen\n"
+	.string "Namen nieder, als ein Trainer, der\n"
 	.string "über\l"
-	.string "die POKéMON LIGA triumphiert hat - und\l"
+	.string "die Pokémon Liga triumphiert hat - und\l"
 	.string "die Namen deiner Partner ebenfalls.$"
 

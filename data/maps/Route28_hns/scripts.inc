@@ -3,7 +3,7 @@ Route28_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route28_OnTransition: 
+Route28_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 

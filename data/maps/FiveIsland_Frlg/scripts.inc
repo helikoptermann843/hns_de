@@ -24,7 +24,7 @@ FiveIsland_Text_IslandSign::
 
 FiveIsland_Text_WeirdBuildingInMeadow::
 	.string "Igitt, das stinkt! Ich wollte auf\n"
-	.string "der WEIDE spielen.\p"
+	.string "der Weide spielen.\p"
 	.string "Aber sie haben dort ein merk-\n"
 	.string "würdiges Gebäude errichtet und\l"
 	.string "ich kann dort nicht spielen.$"

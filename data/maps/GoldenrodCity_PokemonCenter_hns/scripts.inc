@@ -144,10 +144,10 @@ GoldenrodCity_PokemonCenter_LinkNpc_Text_Intro:
 	.string "Wähle Link-typ.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_BattleMode:
-	.string "WÄHLE KAMPFTYP.$"
+	.string "Wähle Kampftyp.$"
 
 GoldenrodCity_PokemonCenter_LinkNpc_Text_Goodbye:
-	.string "TSCHÜSS$"
+	.string "Tschüss$"
 
 GoldenrodCity_PokemonCenter_EventScript_LinkExplainerNpc::
 	msgbox GoldenrodCity_PokemonCenter_Text_LinkExplainer, MSGBOX_NPC
@@ -206,14 +206,16 @@ GoldenrodCity_PokemonCenter_GameboyKidText2:
 	.string "nicht aufgehoben.$"
 
 GoldenrodCity_PokemonCenter_LassText:
-	.string "Meine Oma ist ein wenig verrückt,\n"
-	.string "aber ihre Spaghetti sind die besten.$"
+	.string "Jedes Pokémon hat seine Stärken und\n"
+	.string "Schwächen, egal wie hoch sein Level ist.\p"
+	.string "So etwas wie ein allmächtiges Pokémon\n"
+	.string "gibt es deshalb auch nicht.$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseAcceptGSBallText:
 	.string "{PLAYER}, oder?\p"
 	.string "Glückwunsch!\p"
 	.string "Nur für dich wurde\n"
-	.string "ein GS-BALL geschickt!\p"
+	.string "ein GS-Ball geschickt!\p"
 	.string "Nimm ihn bitte!$"
 
 GoldenrodPokeCenter_LinkReceptionistPleaseDoComeAgainText:
@@ -222,12 +224,12 @@ GoldenrodPokeCenter_LinkReceptionistPleaseDoComeAgainText:
 GoldenrodCity_PokemonCenter_PokefanFDoYouHaveEonMailText:
 	.string "Oh, dein Beutel sieht schwer aus!\p"
 	.string "Oh! Hast du zufällig etwas,\n"
-	.string "das man ANARA-BRIEF nennt?\p"
+	.string "das man Anara-Brief nennt?\p"
 	.string "Meine Tochter sucht danach.\p"
 	.string "Du gibst mir doch einen, nicht wahr?$"
 
 GoldenrodCity_PokemonCenter_AskGiveAwayAnEonMailText:
-	.string "ANARA-BRIEF weggeben?$"
+	.string "Anara-Brief weggeben?$"
 
 GoldenrodCity_PokemonCenter_PokefanFThisIsForYouText:
 	.string "Oh, großartig! Danke, Schatz!\p"
@@ -244,4 +246,4 @@ GoldenrodCity_PokemonCenter_PokefanFAnotherTimeThenText:
 	.string "Oh… Ein anderes Mal vielleicht.$"
 
 GoldenrodCity_PokemonCenter_PlayerGaveAwayTheEonMailText:
-	.string "{PLAYER} gibt den ANARA-BRIEF weg.$"
+	.string "{PLAYER} gibt den Anara-Brief weg.$"

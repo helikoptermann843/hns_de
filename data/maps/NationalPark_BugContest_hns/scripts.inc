@@ -6,7 +6,7 @@ NationalPark_BugContest_hns_MapScripts::
 NationalPark_BugContest_OnTransition::
 	goto_if_eq VAR_BUG_CONTEST_STATE, 3, NationalPark_BugContest_EventScript_JudgeScene
 	end
-	
+
 NationalPark_BugContest_OnFrame::
 	map_script_2 VAR_BUG_CONTEST_STATE, 1, NationalPark_BugContest_EventScript_Enter
 	map_script_2 VAR_BUG_CONTEST_STATE, 5, NationalPark_BugContest_EventScript_EnterSide
@@ -159,25 +159,25 @@ NationalPark_BugContest_Movement_AttendantSide:
 	step_end
 
 NationalPark_BugContest_Text_Trash:
-	.string "TIPPS für TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Möchtest du deine\n"
-	.string "BRIEFE drucken, öffne sie und drücke\l"
-	.string "START.$"
+	.string "Briefe drucken, öffne sie und drücke\l"
+	.string "Start.$"
 
 NationlParkBugContest_Text_EnjoyTheContest:
-	.string "ATTENDANT: Viel Spaß!$"
+	.string "Attendant: Viel Spaß!$"
 
 NationalParkBugContest_Text_Attendant:
 	.string "Was steht denn hier?\p"
 	.string "Kämpfe sind nur im Gras gestattet.\p"
-	.string "NATIONALPARK BÜRO DES WÄCHTERs$"
+	.string "Nationalpark Büro des Wächters$"
 
 NationalParkBugContest_Text_ContestantBelinda:
 	.string "Uli: Ich werde hier der Gewinner sein!\n"
 	.string "Wehe, du kommst mir in die Quere!$"
 
 NationalParkBugContest_Text_Contestant2A:
-	.string "Alan: Mein PARASEK versetzt\n"
+	.string "Alan: Mein Parasek versetzt\n"
 	.string "Pokémon mittels Pilzspore\l"
 	.string "in einen tiefen Schlaf.$"
 
@@ -191,7 +191,7 @@ NationalParkBugContest_Text_Contestant6A:
 	.string "bevor du einen Pokéball wirfst!$"
 
 NationalParkBugContest_Text_Contestant7A:
-	.string "CINDY: Ich liebe Käfer-Pokémon.\n"
+	.string "Cindy: Ich liebe Käfer-Pokémon.\n"
 	.string "Du magst sie wohl auch.$"
 
 NationalParkBugContest_Text_Contestant8A:
@@ -220,8 +220,8 @@ NationalParkBugContest_Text_Sign_BattleNotice:
 	.string "- Das Büro des Wächters$"
 
 NationalParkBugContest_Text_TrainerTips:
-	.string "TIPPS für TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Möchtest du deine\n"
-	.string "BRIEFE drucken, öffne sie und drücke\l"
-	.string "START.$"
+	.string "Briefe drucken, öffne sie und drücke\l"
+	.string "Start.$"
 

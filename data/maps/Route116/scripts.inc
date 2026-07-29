@@ -350,11 +350,11 @@ Route116_EventScript_Johnson::
 
 Route116_Text_ScoundrelMadeOffWithPeeko:
 	.string "Oooh, was mache ich nur?!?\p"
-	.string "PECKO und ich waren auf einem Spazier-\n"
+	.string "Pecko und ich waren auf einem Spazier-\n"
 	.string "gang und da kam so ein Schlägertyp…\p"
 	.string "Der Schurke hat mir meinen Liebling\n"
-	.string "PECKO geklaut!\p"
-	.string "Ooooooooooooaaaargh! PECKO!$"
+	.string "Pecko geklaut!\p"
+	.string "Ooooooooooooaaaargh! Pecko!$"
 
 Route116_Text_WantToDigTunnel:
 	.string "Nnn… Brüll!\p"
@@ -367,7 +367,7 @@ Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
 	.string "Ich war dabei, einen Tunnel ohne Werk-\n"
 	.string "zeug zu graben, als so ein Idiot mich\l"
 	.string "verjagt hat!\p"
-	.string "Dieser Tunnel ist voller POKéMON, die\n"
+	.string "Dieser Tunnel ist voller Pokémon, die\n"
 	.string "sensibel auf Lärm reagieren. Sie\n"
 	.string "können\l"
 	.string "einen Aufruhr veranstalten.\p"
@@ -375,7 +375,7 @@ Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
 	.string "Maschinen an dem Tunnel…\p"
 	.string "Ich befürchte, dieser Idiot wird\n"
 	.string "irgendetwas Dummes tun und die\l"
-	.string "POKéMON in Aufruhr versetzen.$"
+	.string "Pokémon in Aufruhr versetzen.$"
 
 Route116_Text_GoonHightailedItOutOfTunnel:
 	.string "Nnn… Brüll!\p"
@@ -384,41 +384,41 @@ Route116_Text_GoonHightailedItOutOfTunnel:
 
 Route116_Text_ThankYouTokenOfAppreciation:
 	.string "Oh! Du bist das!\p"
-	.string "Du hast mir nicht nur im BLÜTEN-\n"
-	.string "BURGWALD geholfen, sondern auch\l"
+	.string "Du hast mir nicht nur im Blüten-\n"
+	.string "burgwald geholfen, sondern auch\l"
 	.string "mein gestohlenes Paket zurückgeholt\l"
-	.string "und nach GRAPHITPORT CITY gebracht!\p"
-	.string "KAPT. BRIGG hat uns über die Ankunft\n"
+	.string "und nach Graphitport City gebracht!\p"
+	.string "Kapt. Brigg hat uns über die Ankunft\n"
 	.string "des Paketes unterrichtet!\p"
 	.string "Vielen, vielen Dank!\p"
 	.string "Wäre ich ein Meer, würde ich\n"
 	.string "dich in Dankbarkeit baden und als\l"
 	.string "Held auf meinen Wellen tragen!\p"
 	.string "Ich habe für dich, den wunderbarsten\n"
-	.string "TRAINER, gute Nachrichten!\p"
+	.string "Trainer, gute Nachrichten!\p"
 	.string "Unsere Firma hat vor kurzem eine\n"
-	.string "neue Art von POKéBALL entwickelt…\p"
+	.string "neue Art von Pokéball entwickelt…\p"
 	.string "Als Zeichen meiner Dankbarkeit\n"
 	.string "schenke ich ihn dem wunderbarsten\l"
-	.string "TRAINER!$"
+	.string "Trainer!$"
 
 Route116_Text_NewBallAvailableAtMart:
-	.string "Unser neuer POKéBALL wird im PKMN-\n"
-	.string "MARKT in METAROST CITY erhältlich\n"
+	.string "Unser neuer Pokéball wird im Pkmn-\n"
+	.string "Markt in Metarost City erhältlich\n"
 	.string "sein. \p"
 	.string "Bitte, probiere ihn aus!\n"
 	.string "Vielen Dank und Lebewohl.$"
 
 Route116_Text_BagIsJamPacked:
-	.string "Dein BEUTEL ist brechend voll.\n"
-	.string "Ich kann dir diesen WIEDERBALL nicht\l"
+	.string "Dein Beutel ist brechend voll.\n"
+	.string "Ich kann dir diesen Wiederball nicht\l"
 	.string "geben.$"
 
 Route116_Text_TokenOfAppreciation:
 	.string "Als Zeichen unseres Dankes für die\n"
 	.string "Überbringung unseres Paketes, habe ich\l"
-	.string "eine neue Art von POKéBALL für dich.\l"
-	.string "Für unseren wunderbarsten TRAINER!$"
+	.string "eine neue Art von Pokéball für dich.\l"
+	.string "Für unseren wunderbarsten Trainer!$"
 
 Route116_Text_CanYouHelpMeFindGlasses:
 	.string "Ich habe meine Brille fallen lassen…\n"
@@ -429,7 +429,7 @@ Route116_Text_MayISeeThoseGlasses:
 	.string "Darf ich sie mal kurz ausprobieren?$"
 
 Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
-	.string "Hmm… Das ist ein SCHATTENGLAS.\l"
+	.string "Hmm… Das ist ein Schattenglas.\l"
 	.string "Das habe ich nicht gesucht…\p"
 	.string "Vielleicht ist meine Brille gar nicht\n"
 	.string "hier zu finden…$"
@@ -440,37 +440,37 @@ Route116_Text_CantFindGlassesNotHere:
 	.string "Vielleicht liegt sie gar nicht hier…$"
 
 Route116_Text_NotWhatImLookingFor:
-	.string "Hmm… Das ist ein SCHATTENGLAS.\l"
+	.string "Hmm… Das ist ein Schattenglas.\l"
 	.string "Das habe ich nicht gesucht…$"
 
 Route116_Text_RouteSignRustboro:
-	.string "ROUTE 116\n"
-	.string "{LEFT_ARROW} METAROST CITY$"
+	.string "Route 116\n"
+	.string "{LEFT_ARROW} Metarost City$"
 
 Route116_Text_RusturfTunnelSign:
-	.string "METAFLURTUNNEL\n"
-	.string "“Verbindet METAROST CITY und\p"
-	.string "WIESENFLUR.\n"
+	.string "Metaflurtunnel\n"
+	.string "“Verbindet Metarost City und\p"
+	.string "Wiesenflur.\n"
 	.string "Das Tunnelprojekt wurde abgebrochen.”$"
 
 Route116_Text_TunnelersRestHouse:
-	.string "BERGRASTHAUS$"
+	.string "Bergrasthaus$"
 
 Route116_Text_TrainerTipsBToStopEvolution:
-	.string "TIPPS für TRAINER\p"
-	.string "Wenn du die Entwicklung eines POKéMON\n"
+	.string "Tipps für Trainer\p"
+	.string "Wenn du die Entwicklung eines Pokémon\n"
 	.string "stoppen willst, musst du den B-Knopf\l"
 	.string "drücken, während es sich entwickeln\l"
 	.string "will.\p"
-	.string "Das POKéMON entwickelt sich dann\n"
+	.string "Das Pokémon entwickelt sich dann\n"
 	.string "nicht.\l"
 	.string "Das nennt man Entwicklungsstopp.$"
 
 Route116_Text_TrainerTipsBagHasPockets:
-	.string "TIPPS für TRAINER\p"
-	.string "Dein BEUTEL hat mehrere TASCHEn.\p"
+	.string "Tipps für Trainer\p"
+	.string "Dein Beutel hat mehrere Taschen.\p"
 	.string "Items werden automatisch in die dafür\n"
-	.string "vorgesehene TASCHE gelegt.\p"
-	.string "Kein TRAINER kann auf einen eigenen\n"
-	.string "BEUTEL verzichten.$"
+	.string "vorgesehene Tasche gelegt.\p"
+	.string "Kein Trainer kann auf einen eigenen\n"
+	.string "Beutel verzichten.$"
 

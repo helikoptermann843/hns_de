@@ -129,7 +129,7 @@ VictoryRoadKanto_1F_Movement_SilverLeave:
 VictoryRoad_Text_RivalBefore:
 	.string "Moment.\p"
 	.string "…Wirst du das Abenteuer der\n"
-	.string "Pokémon LIGA bestreiten?\p"
+	.string "Pokémon Liga bestreiten?\p"
 	.string "…Bring mich nicht zum Lachen.\p"
 	.string "Du bist viel schwächer als ich.\p"
 	.string "Ich bin nicht mehr so wie früher.\p"

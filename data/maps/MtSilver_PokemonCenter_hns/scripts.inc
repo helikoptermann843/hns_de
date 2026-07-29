@@ -12,7 +12,7 @@ MtSilver_PokemonCenter_EventScript_Meara::
 
 MtSilver_PokemonCenter_Text_Meara:
 	.string "Ich bin eine Forscherin aus dem\n"
-	.string "MUSEUM von MARMORIA.\p"
+	.string "Museum von Marmoria.\p"
 	.string "In dieser Gegend wurden ungewöhnlich\n"
 	.string "viele Artefakte entdeckt, also bin\l"
 	.string "ich hier, um Nachforschungen\p"

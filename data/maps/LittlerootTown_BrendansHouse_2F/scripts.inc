@@ -280,15 +280,15 @@ PlayersHouse_2F_EventScript_GameCube::
 
 PlayersHouse_2F_Text_ClockIsStopped:
 	.string "Die Uhr ist stehen geblieben…\p"
-	.string "Ich stelle sie besser ein!$"
+	.string "Stelle sie besser ein und ziehe sie auf.$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MUTTER: {PLAYER}, wie gefällt dir dein\n"
+	.string "Mutter: {PLAYER}, wie gefällt dir dein\n"
 	.string "neues Zimmer?\p"
 	.string "Gut! Alles ist wunderbar aufgeräumt!\p"
 	.string "Auch im Erdgeschoss ist alles\n"
 	.string "komplett eingerichtet.\p"
-	.string "POKéMON-Umzugshelfer sind so\n"
+	.string "Pokémon-Umzugshelfer sind so\n"
 	.string "praktisch.\p"
 	.string "Oh, du solltest prüfen, ob dein\n"
 	.string "Schreib-\l"
@@ -296,10 +296,10 @@ PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 
 PlayersHouse_2F_Text_Notebook:
 	.string "{PLAYER} schlägt das Notizbuch auf.\p"
-	.string "REGEL NR. 1 FÜR ABENTEURER\n"
-	.string "Öffne das MENÜ mit START.\p"
-	.string "REGEL NR. 2 FÜR ABENTEURER\n"
-	.string "Speichere den Fortschritt mit SICHERN.\n"
+	.string "Regel NR. 1 Für Abenteurer\n"
+	.string "Öffne das Menü mit Start.\p"
+	.string "Regel NR. 2 Für Abenteurer\n"
+	.string "Speichere den Fortschritt mit Sichern.\n"
 	.string "\p"
 	.string "Die übrigen Seiten sind leer.$"
 

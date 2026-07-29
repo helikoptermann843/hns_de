@@ -63,8 +63,8 @@ UnionCave_B1F_Text_PokemaniacAndrewBeaten:
 	.string "Verschwinde von hier!$"
 
 UnionCave_B1F_Text_PokemaniacAndrewAfter:
-	.string "Nur ich und meine Pokémon.\p"
-	.string "Ich bin voller Freude!$"
+	.string "Hier gibt es nur mich und meine Pokémon.\n"
+	.string "Ja, das ist das pure Glück…$"
 
 UnionCave_B1F_Text_PokemaniacCalvinSeen:
 	.string "Ich bin bis nach hier draußen gekommen,\n"

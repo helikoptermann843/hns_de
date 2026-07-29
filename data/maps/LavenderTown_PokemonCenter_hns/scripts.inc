@@ -31,9 +31,9 @@ LavenderTown_PokemonCenter1F_Text_Gentleman:
 LavenderTown_PokemonCenter1F_Text_Teacher:
 	.string "Es gibt eine\n"
 	.string "Musiksendung im Radio, die Melodien\l"
-	.string "auf der - FLÖTE sendet.\p"
+	.string "auf der - Flöte sendet.\p"
 	.string "Ach ja? Ah, dein\n"
-	.string "Radio braucht ein ZUSATZSET, damit du\l"
+	.string "Radio braucht ein Zusatzset, damit du\l"
 	.string "das empfangen kannst.$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster:

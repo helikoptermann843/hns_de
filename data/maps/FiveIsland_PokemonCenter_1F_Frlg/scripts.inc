@@ -23,12 +23,12 @@ FiveIsland_PokemonCenter_1F_EventScript_CooltrainerF::
 	end
 
 FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal::
-	.string "ROCKET SPIELHALLE\n"
+	.string "Rocket Spielhalle\n"
 	.string "Ein Spielplatz für Erwachsene!$"
 
 FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon::
-	.string "Hast du schon das SAFARI-SPIEL\n"
+	.string "Hast du schon das Safari-Spiel\n"
 	.string "gespielt?\p"
-	.string "Manche POKéMON kann man nur dabei\n"
+	.string "Manche Pokémon kann man nur dabei\n"
 	.string "fangen!$"
 

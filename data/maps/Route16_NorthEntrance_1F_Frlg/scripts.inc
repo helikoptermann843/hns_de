@@ -114,11 +114,11 @@ Route16_NorthEntrance_1F_EventScript_OldMan::
 	end
 
 Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
-	.string "SILPH SCOPE?\n"
+	.string "Silph Scope?\n"
 	.string "Ich weiß nicht, wovon du redest!$"
 
 Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
-	.string "Willst du dich mit dem TEAM ROCKET\n"
+	.string "Willst du dich mit dem Team Rocket\n"
 	.string "anlegen?$"
 
 Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
@@ -127,5 +127,5 @@ Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
 
 Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
 	.string "O.K., O.K., ich packe aus!\n"
-	.string "Benutze den Aufzug zum BOSS!$"
+	.string "Benutze den Aufzug zum Boss!$"
 

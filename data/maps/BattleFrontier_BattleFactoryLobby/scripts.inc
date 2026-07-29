@@ -323,9 +323,9 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Hier wird die Intelligenz der TRAINER\n"
+	.string "Hier wird die Intelligenz der Trainer\n"
 	.string "auf die Probe gestellt!\p"
-	.string "Willkommen in der KAMPFFABRIK!\p"
+	.string "Willkommen in der Kampffabrik!\p"
 	.string "Ich begleite dich beim Einzel-Wechsel-\n"
 	.string "kampf-Turnier!$"
 
@@ -335,14 +335,14 @@ BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
 	.string "Im Einzel-Wechselkampf-Turnier\n"
-	.string "werden EINZELKÄMPFE mit\l"
-	.string "Leih-POKéMON ausgetragen.\p"
+	.string "werden Einzelkämpfe mit\l"
+	.string "Leih-Pokémon ausgetragen.\p"
 	.string "Zunächst suchst du dir drei Leih-\n"
-	.string "POKéMON aus.\p"
+	.string "Pokémon aus.\p"
 	.string "Danach stellst du dich mit diesen\n"
 	.string "deinem Herausforderer.\p"
 	.string "Gewinnst du, darfst du eines deiner\n"
-	.string "Leih-POKéMON austauschen.\p"
+	.string "Leih-Pokémon austauschen.\p"
 	.string "Wiederhole diese Schritte - wenn du\n"
 	.string "sieben Mal in Folge gewinnst, erhältst\l"
 	.string "du Gewinnpunkte.\p"
@@ -367,7 +367,7 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your POKéMON for\n"
+	.string "Okay, I will hold your Pokémon for\n"
 	.string "safekeeping while you compete.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
@@ -375,15 +375,15 @@ BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
 	.string "Vielen Dank für deine Teilnahme!\p"
-	.string "Ich gebe dir nun deine POKéMON\n"
+	.string "Ich gebe dir nun deine Pokémon\n"
 	.string "zurück.\p"
 	.string "Ich werde deinen Erfolg speichern.\n"
 	.string "Bitte warte einen Moment.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your POKéMON in exchange\n"
-	.string "for our rental POKéMON.$"
+	.string "I will return your Pokémon in exchange\n"
+	.string "for our rental Pokémon.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
 	.string "Herzlichen Glückwunsch! Du hast sieben\n"
@@ -416,7 +416,7 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We’ll return your personal POKéMON.$"
+	.string "We’ll return your personal Pokémon.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
@@ -424,9 +424,9 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Hier wird die Intelligenz der TRAINER\n"
+	.string "Hier wird die Intelligenz der Trainer\n"
 	.string "auf die Probe gestellt!\p"
-	.string "Willkommen in der KAMPFFABRIK!\p"
+	.string "Willkommen in der Kampffabrik!\p"
 	.string "Ich begleite dich beim Doppel-Wechsel-\n"
 	.string "kampf-Turnier!$"
 
@@ -436,14 +436,14 @@ BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
 	.string "Im Doppel-Wechselkampf-Turnier\n"
-	.string "werden DOPPELKÄMPFE mit\l"
-	.string "Leih-POKéMON ausgetragen.\p"
+	.string "werden Doppelkämpfe mit\l"
+	.string "Leih-Pokémon ausgetragen.\p"
 	.string "Zunächst suchst du dir drei Leih-\n"
-	.string "POKéMON aus.\p"
+	.string "Pokémon aus.\p"
 	.string "Danach stellst du dich mit diesen\n"
 	.string "deinen Herausforderern.\p"
 	.string "Gewinnst du, darfst du eines deiner\n"
-	.string "Leih-POKéMON austauschen.\p"
+	.string "Leih-Pokémon austauschen.\p"
 	.string "Wiederhole diese Schritte - wenn du\n"
 	.string "sieben Mal in Folge gewinnst, erhältst\l"
 	.string "du Gewinnpunkte.\p"
@@ -464,30 +464,30 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
 	.string "diese Gewinnpunkte.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
-	.string "Ich gebe dir nun deine POKéMON\n"
+	.string "Ich gebe dir nun deine Pokémon\n"
 	.string "zurück.\p"
 	.string "Ich werde deinen Erfolg speichern.\n"
 	.string "Bitte warte einen Moment.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
-	.string "Möchtest du den letzten KAMPFFABRIK-\n"
-	.string "Kampf auf deinem KAMPFZONEN-\l"
-	.string "PASS eintragen lassen?$"
+	.string "Möchtest du den letzten Kampffabrik-\n"
+	.string "Kampf auf deinem Kampfzonen-\l"
+	.string "pass eintragen lassen?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
 	.string "Hallo! Du da! Dich meine ich!\p"
 	.string "Du denkst bestimmt, die Kämpfe hier\n"
 	.string "sind einfach, da man keine eigenen\l"
-	.string "POKéMON mitbringen muss, was?\p"
+	.string "Pokémon mitbringen muss, was?\p"
 	.string "Ich wäre an deiner Stelle nicht so\n"
 	.string "überzeugt davon.\p"
-	.string "Wenn du keine Ahnung von POKéMON\n"
+	.string "Wenn du keine Ahnung von Pokémon\n"
 	.string "und ihren Attacken hast, dann wirst du\l"
 	.string "keinen leichten Stand haben!$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
 	.string "Ich habe mich auf ein schwaches\n"
-	.string "POKéMON verlassen… Ich dachte,\p"
+	.string "Pokémon verlassen… Ich dachte,\p"
 	.string "es wäre eine gute Entscheidung… \n"
 	.string "Sie haben uns platt gemacht… $"
 
@@ -495,7 +495,7 @@ BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
 	.string "Die Dinge laufen überhaupt nicht so,\n"
 	.string "wie ich es mir vorgestellt habe!\p"
 	.string "Du musst in einem Kampf unbedingt die\n"
-	.string "gegnerischen POKéMON prüfen, damit\l"
+	.string "gegnerischen Pokémon prüfen, damit\l"
 	.string "du siehst, was dich erwartet.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
@@ -515,7 +515,7 @@ BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
 	.string "and battling over and over.\p"
 	.string "So anyway, when I kept entering\n"
 	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental POKéMON.$"
+	.string "varied the rental Pokémon.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
 	.string "Die Regeln des Wechselkampfes hängen\n"
@@ -526,32 +526,32 @@ BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
 	.string "In einem Wechselkampf kannst du\n"
-	.string "nur drei POKéMON einsetzen.\p"
+	.string "nur drei Pokémon einsetzen.\p"
 	.string "Egal, ob du diese ausleihst oder\n"
 	.string "tauschst, dein Team darf nicht aus\p"
-	.string "zwei oder mehr POKéMON der gleichen\n"
+	.string "zwei oder mehr Pokémon der gleichen\n"
 	.string "Art bestehen.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "Du kannst mit einem TRAINER nur dann\n"
-	.string "POKéMON tauschen, wenn du diesen\p"
+	.string "Du kannst mit einem Trainer nur dann\n"
+	.string "Pokémon tauschen, wenn du diesen\p"
 	.string "besiegt hast. Und nur mit diesem\n"
-	.string "TRAINER ist ein Tausch möglich.$"
+	.string "Trainer ist ein Tausch möglich.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
 	.string "Nach jedem gewonnenen Kampf kannst\n"
-	.string "du ein POKéMON mit dem besiegten\l"
-	.string "TRAINER tauschen.\p"
-	.string "Mit dem siebten TRAINER kannst du\n"
-	.string "allerdings kein POKéMON tauschen.$"
+	.string "du ein Pokémon mit dem besiegten\l"
+	.string "Trainer tauschen.\p"
+	.string "Mit dem siebten Trainer kannst du\n"
+	.string "allerdings kein Pokémon tauschen.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "Bei dem POKéMON-Tausch sind zwei\n"
+	.string "Bei dem Pokémon-Tausch sind zwei\n"
 	.string "Dinge zu beachten:\p"
-	.string "Du kannst den Status des POKéMON,\n"
+	.string "Du kannst den Status des Pokémon,\n"
 	.string "welches du haben möchtest, nicht\l"
 	.string "überprüfen.\p"
-	.string "Deine POKéMON stehen in der\n"
+	.string "Deine Pokémon stehen in der\n"
 	.string "Reihenfolge, in der du sie ausgeliehen\l"
 	.string "hast.\p"
 	.string "Diese Reihenfolge ändert sich auch\n"
@@ -559,5 +559,5 @@ BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
 	.string "In den Offenen Kämpfen stehen die\n"
-	.string "Leih-POKéMON und die der gegnerischen\l"
-	.string "TRAINER auf Level 100.$"
+	.string "Leih-Pokémon und die der gegnerischen\l"
+	.string "Trainer auf Level 100.$"

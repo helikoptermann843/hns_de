@@ -20,7 +20,7 @@ NewBarkTown_EventScript_ElmCallAfterLeague::
 	end
 
 NewBarkTown_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 NewBarkTown_OnTransition::
 	goto_if_eq VAR_NEWBARK_TOWN_STATE, 2, NewBarkTown_Set_TalkToElm
@@ -221,8 +221,8 @@ NewBarkTown_Movement_FaceDown:
 	step_end
 
 NewBarkTown_Text_LabSign:
-	.string "PROF. LINDs\n"
-	.string "POKéMON LABOR$"
+	.string "Prof. Linds\n"
+	.string "Pokémon Labor$"
 
 NewBarkTown_Text_Door:
 	.string "Die Tür ist verschlossen.$"
@@ -261,9 +261,9 @@ NewBarkTown_Text_LassState5:
 	.string "wie es dir so geht!$"
 
 NewBarkTown_Text_Silver1:
-	.string ". . .\p"
-	.string "Also das ist das berühmte\n"
-	.string "Lind-Pokémon-LAB…$"
+	.string "… … …\p"
+	.string "Das ist also das berühmte\n"
+	.string "Lind-Pokémon-Labor…$"
 
 NewBarkTown_Text_Silver2:
 	.string "…Hey! Starre mich nicht so an!$"
@@ -284,4 +284,4 @@ NewBarkTown_Text_PlayersHouse:
 	.string "Haus von {PLAYER}$"
 
 NewBarkTown_Text_ElmsHouse:
-	.string "PROF. LINDs HAUS$"
+	.string "Prof. Linds Haus$"

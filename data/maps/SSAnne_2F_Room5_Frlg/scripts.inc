@@ -16,7 +16,7 @@ SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
 	.string "freundlicherweise hingewiesen.$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-	.string "Im POKéMON-CENTER kannst du müde,\n"
-	.string "verletzte und besiegte POKéMON\l"
+	.string "Im Pokémon-Center kannst du müde,\n"
+	.string "verletzte und besiegte Pokémon\l"
 	.string "heilen!$"
 

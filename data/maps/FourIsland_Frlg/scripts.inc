@@ -161,22 +161,22 @@ FourIsland_EventScript_LoreleisHouseSign::
 	end
 
 FourIsland_Text_IslandSign::
-	.string "EILAND VIER\n"
+	.string "Eiland Vier\n"
 	.string "Warmes, blaues Eisschollen-Eiland$"
 
 FourIsland_Text_LoreleiHasReturned::
-	.string "LORELEI ist zurückgekehrt.\p"
+	.string "Lorelei ist zurückgekehrt.\p"
 	.string "War das Leben in der Stadt\n"
 	.string "etwa zu stressig?$"
 
 FourIsland_Text_LoreleiMetLaprasAsChild::
-	.string "LORELEI ist zurück.\p"
-	.string "Sie hat immer noch das LAPRAS,\n"
+	.string "Lorelei ist zurück.\p"
+	.string "Sie hat immer noch das Lapras,\n"
 	.string "das sie in ihrer Kindheit traf.\p"
 	.string "Ich erinnere mich, dass sie es\n"
-	.string "in der EISKASKADENHÖHLE\l"
+	.string "in der Eiskaskadenhöhle\l"
 	.string "gefangen hatte.\l"
-	.string "Womöglich ist dieses POKéMON\l"
+	.string "Womöglich ist dieses Pokémon\l"
 	.string "seither nicht von ihrer Seite\l"
 	.string "gewichen.$"
 
@@ -184,16 +184,16 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "{RIVAL}: Heh!\n"
 	.string "{PLAYER}!\p"
 	.string "Was machst du hier auf\n"
-	.string "SEVII EILAND?\p"
+	.string "Sevii Eiland?\p"
 	.string "Du solltest aufhören, mich\n"
 	.string "nachzuahmen!\p"
-	.string "Egal, ich habe mein POKéMON-EI\n"
+	.string "Egal, ich habe mein Pokémon-Ei\n"
 	.string "bereits, also hält mich nichts mehr\l"
 	.string "hier.\l"
 	.string "Heh, ich glaube, du weißt nichts\l"
-	.string "über POKéMON-EIER.\p"
-	.string "Du wirst nie deinen NATIONALEN\n"
-	.string "POKéDEX vervollständigen.\p"
+	.string "über Pokémon-Eier.\p"
+	.string "Du wirst nie deinen Nationalen\n"
+	.string "Pokédex vervollständigen.\p"
 	.string "Apropos, ich sah jemanden auf\n"
 	.string "dieser Insel, den wir beide kennen.\p"
 	.string "Warum siehst du dich nicht um, wenn\n"
@@ -204,19 +204,19 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 
 FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 	.string "Oh, du hast mich gefunden!\n"
-	.string "Bitte verrate LORELEI nichts.\p"
-	.string "Wusstest du, dass LORELEI eine\n"
+	.string "Bitte verrate Lorelei nichts.\p"
+	.string "Wusstest du, dass Lorelei eine\n"
 	.string "ganze Menge Plüschpuppen besitzt?\p"
-	.string "Bei jedem Besuch auf EILAND VIER\n"
+	.string "Bei jedem Besuch auf Eiland Vier\n"
 	.string "wächst ihre Sammlung!$"
 
 FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
 	.string "Oh, fröstel!\p"
 	.string "Ich habe aus dem Eis, das ich in\n"
-	.string "der EISKASKADENHÖHLE abgetragen\l"
+	.string "der Eiskaskadenhöhle abgetragen\l"
 	.string "habe, einen Eis-Drink zubereitet.\p"
 	.string "Frostig und lecker!$"
 
 FourIsland_Text_LoreleisHouse::
-	.string "HAUS von LORELEI$"
+	.string "Haus von Lorelei$"
 

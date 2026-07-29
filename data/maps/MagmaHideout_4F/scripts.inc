@@ -190,10 +190,10 @@ MagmaHideout_4F_Text_TabithaPostBattle:
 	.string "Groudon aufgeweckt haben…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
-	.string "MARC: GROUDON…\p"
+	.string "Marc: Groudon…\p"
 	.string "Nichts kann deinen Schlummer in\n"
 	.string "dem heißen Magma stören…\p"
-	.string "Du wolltest diese BLAUE KUGEL haben,\n"
+	.string "Du wolltest diese blaue Kugel haben,\n"
 	.string "nicht wahr?\p"
 	.string "Ich habe sie dir gebracht.\n"
 	.string "Ihr Licht soll dich aufwecken!\p"
@@ -201,14 +201,14 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "Zeig mir deine ganze Kraft!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
-	.string "MARC: GROUDON!\n"
+	.string "Marc: Groudon!\n"
 	.string "Was ist los?\p"
-	.string "Die BLAUE KUGEL ist doch der\n"
+	.string "Die blaue Kugel ist doch der\n"
 	.string "Schlüssel, oder etwa nicht?\p"
-	.string "GROUDON! Wo bist du hin…$"
+	.string "Groudon! Wo bist du hin…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
-	.string "MARC: Du warst das also!\p"
+	.string "Marc: Du warst das also!\p"
 	.string "Ich habe gesehen, wie du unerlaubter-\n"
 	.string "weise deine Nase hier und dort\l"
 	.string "hineingesteckt hast.\p"
@@ -221,8 +221,8 @@ MagmaHideout_4F_Text_MaxieDefeat:
 	.string "Pokémon umgehen kannst?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MARC: Es muss einen Grund geben, warum\n"
-	.string "GROUDON geflohen ist…\p"
+	.string "Marc: Es muss einen Grund geben, warum\n"
+	.string "Groudon geflohen ist…\p"
 	.string "Das willst du mir doch sagen, oder?\p"
 	.string "… … … … …\n"
 	.string "…\l"
@@ -230,7 +230,7 @@ MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
 	.string "…\p"
 	.string "Hmpf…\n"
 	.string "Du meinst, das wüsste ich nicht?\p"
-	.string "Da GROUDON weg ist, hat dieser Vulkan\n"
+	.string "Da Groudon weg ist, hat dieser Vulkan\n"
 	.string "keinen Nutzen mehr.\p"
-	.string "Ich werde GROUDON folgen. Hier trennen\n"
+	.string "Ich werde Groudon folgen. Hier trennen\n"
 	.string "sich unsere Wege.$"

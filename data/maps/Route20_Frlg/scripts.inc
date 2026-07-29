@@ -114,7 +114,7 @@ Route20_Text_NoraDefeat::
 	.string "Lass die Finger von meiner Perle!$"
 
 Route20_Text_NoraPostBattle::
-	.string "Ob meine Perle in einem AUSTOS\n"
+	.string "Ob meine Perle in einem Austos\n"
 	.string "größer werden würde?$"
 
 Route20_Text_MissyIntro::
@@ -141,11 +141,11 @@ Route20_Text_MelissaPostBattle::
 	.string "vulkanisches Eiland!$"
 
 Route20_Text_SeafoamIslands::
-	.string "SEESCHAUMINSELN$"
+	.string "Seeschauminseln$"
 
 Route20_Text_MistyTrainsHere::
-	.string "Starke TRAINER und WASSER-\n"
-	.string "POKéMON sind hier weit verbreitet.\p"
-	.string "Man sagt, dass MISTY aus der\n"
-	.string "ARENA von AZURIA CITY\l"
+	.string "Starke Trainer und Wasser-\n"
+	.string "Pokémon sind hier weit verbreitet.\p"
+	.string "Man sagt, dass Misty aus der\n"
+	.string "Arena von Azuria City\l"
 	.string "hier häufig trainiert.$"

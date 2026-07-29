@@ -54,26 +54,26 @@ PalletTown_PlayersHouse_1F_EventScript_TVScreenFemale::
 	return
 
 PalletTown_PlayersHouse_1F_Text_AllBoysLeaveOakLookingForYou::
-	.string "MUTTER: Richtig. Irgendwann gehen\n"
+	.string "Mutter: Richtig. Irgendwann gehen\n"
 	.string "alle Kinder fort, um ein Abenteuer\l"
 	.string "zu erleben!\p"
-	.string "PROF. EICH von nebenan hat nach\n"
+	.string "Prof. Eich von nebenan hat nach\n"
 	.string "dir gefragt.$"
 
 PalletTown_PlayersHouse_1F_Text_AllGirlsLeaveOakLookingForYou::
-	.string "MUTTER: … genau!\n"
+	.string "Mutter: … genau!\n"
 	.string "Jedes Mädchen träumt vom Reisen.\l"
 	.string "Das sieht man im Fernsehen.\p"
-	.string "Oh, ja, PROF. EICH von nebenan\n"
+	.string "Oh, ja, Prof. Eich von nebenan\n"
 	.string "hat nach dir gesucht!$"
 
 PalletTown_PlayersHouse_1F_Text_YouShouldTakeQuickRest::
-	.string "MUTTER: {PLAYER}! Du solltest eine\n"
+	.string "Mutter: {PLAYER}! Du solltest eine\n"
 	.string "kurze Pause einlegen.$"
 
 PalletTown_PlayersHouse_1F_Text_LookingGreatTakeCare::
-	.string "MUTTER: Sehr gut! Du und deine\n"
-	.string "POKéMON sehen großartig aus!\l"
+	.string "Mutter: Sehr gut! Du und deine\n"
+	.string "Pokémon sehen großartig aus!\l"
 	.string "Achte auf dich!$"
 
 PalletTown_PlayersHouse_1F_Text_MovieOnTVFourBoysOnRailroad::

@@ -87,7 +87,7 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl_hns::
 	end
 
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize_hns:
-	.string "Hallo, dies ist die TAUSCHECKE.\p"
+	.string "Hallo, dies ist die Tauschecke.\p"
 	.string "Wir tauschen deine Gewinnpunkte gegen\n"
 	.string "großartige Preise ein.\p"
 	.string "Bitte such dir einen Preis von dieser\n"
@@ -97,8 +97,8 @@ BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls_hns:
 	.string "Oh, die sind so hübsch.\n"
 	.string "Die hätte ich auch gerne!\l"
 	.string "Niedliche Kissen!\l"
-	.string "Große, fluffige PUPPEn!\l"
-	.string "Kleine, fluffige PUPPEn!\l"
+	.string "Große, fluffige Puppen!\l"
+	.string "Kleine, fluffige Puppen!\l"
 	.string "Ich würde sie am liebsten alle nehmen!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant_hns:
@@ -108,7 +108,7 @@ BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant_hns:
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher_hns:
 	.string "Hätte ich nur eines dieser Items hier,\n"
-	.string "würden meine POKéMON viel stärker!\p"
+	.string "würden meine Pokémon viel stärker!\p"
 	.string "Mit Sicherheit! Darauf kannst du\n"
 	.string "wetten! Das steht fest!$"
 
@@ -117,11 +117,11 @@ BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll_hns:
 	.string "Ich mag es nicht, wie du meine\n"
 	.string "Plüschpuppe anstarrst!\p"
 	.string "Wenn du auch so eine haben willst,\n"
-	.string "besorg dir eine! Nicht wahr, KUSSILLA?$"
+	.string "besorg dir eine! Nicht wahr, Kussilla?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord_hns:
 	.string "Weißt du was?\n"
 	.string "Wenn du deine Ergebnisse hier in den\p"
-	.string "KAMPF-Einrichtungen stetig\n"
+	.string "Kampf-Einrichtungen stetig\n"
 	.string "verbesserst, geben sie dir mehr\l"
 	.string "Gewinnpunkte.$"

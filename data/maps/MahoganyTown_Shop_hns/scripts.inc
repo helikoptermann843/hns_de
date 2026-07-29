@@ -66,7 +66,7 @@ MahoganyTown_Shop_EventScript_Raid::
 	special ShakeCamera
 
 	waitmovement 0
-	
+
 	setmetatile 8, 4, 0x28D, FALSE
 	special DrawWholeMapView
 	delay 40
@@ -232,18 +232,17 @@ MahoganyMart1F_Text_Pharmacist_Lance:
 	.string "die Geheimtreppe gefunden…$"
 
 MahoganyMart1F_Text_BlackBelt:
-	.string "Heheh! Das Experiment verlief\n"
-	.string "wie am Schnürchen.\p"
-	.string "KARPADOR ist wertlos, aber\n"
-	.string "GARADOS verkauft sich gut.$"
+	.string "Hehehe! Das Experiment war ein voller\n"
+	.string "Erfolg!\p"
+	.string "Karpador sind echte Ladenhüter, aber\n"
+	.string "Garados will einfach jeder!$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
 	.string "Urrgh... die Pokémon von diesem\n"
 	.string "Typen sind stark.$"
 
 MahoganyMart1F_Text_Lance_HyperBeam:
-	.string "SIEGFRIED: DRAGORAN,\p"
-	.string "HYPERSTRAHL!$"
+	.string "Siegfried: Dragoran! Den Hyperstrahl!$"
 
 MahoganyMart1F_Text_Lance_Radio:
 	.string "Wo bleibst du, {PLAYER}?\p"
@@ -255,6 +254,6 @@ MahoganyMart1F_Text_Lance_Stairs:
 	.string "Die Treppe ist hier.$"
 
 MahoganyMart1F_Text_Lance_SplitUp:
-	.string "SIEGFRIED: {PLAYER},\n"
+	.string "Siegfried: {PLAYER},\n"
 	.string "wir sollten uns trennen, um diesen\l"
 	.string "Ort zu erforschen. Ich gehe vor.$"

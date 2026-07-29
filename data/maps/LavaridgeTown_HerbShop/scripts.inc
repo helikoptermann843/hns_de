@@ -40,25 +40,25 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Willkommen im KRÄUTERLADEN! Dem Heim\n"
+	.string "Willkommen im Kräuterladen! Dem Heim\n"
 	.string "wirkungsvoller und preiswerter\l"
 	.string "Medizin!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
-	.string "Du kommst nach BAD LAVASTADT, um\n"
+	.string "Du kommst nach Bad Lavastadt, um\n"
 	.string "Kräutermedizin zu kaufen?\p"
 	.string "Das ist lobenswert!\p"
 	.string "Ich finde dich nett! Hier, für dich!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "Mit dieser HOLZKOHLE wird die Kräuter-\n"
+	.string "Mit dieser Holzkohle wird die Kräuter-\n"
 	.string "medizin hergestellt.\p"
 	.string "Sie wirkt auch Wunder, wenn sie von\n"
-	.string "einem POKéMON getragen wird.\p"
-	.string "Sie verstärkt FEUER-Attacken.$"
+	.string "einem Pokémon getragen wird.\p"
+	.string "Sie verstärkt Feuer-Attacken.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
 	.string "Kräutermedizin ist erstaunlich\n"
-	.string "wirkungsvoll. Aber deine POKéMON mögen\l"
+	.string "wirkungsvoll. Aber deine Pokémon mögen\l"
 	.string "sie nicht. Sie schmeckt bitter…$"
 

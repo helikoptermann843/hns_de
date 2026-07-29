@@ -5,7 +5,7 @@ Route2_House_EventScript_Man::
 	lock
 	faceplayer
 	goto_if_set FLAG_GOT_ROUTE2_NUGGET, Route2_House_EventScript_ManAfter
-	msgbox Route2_House_Text_Fisher, MSGBOX_DEFAULT 
+	msgbox Route2_House_Text_Fisher, MSGBOX_DEFAULT
 	giveitem ITEM_NUGGET
 	goto_if_eq VAR_RESULT, FALSE, Common_EventScript_ShowBagIsFull
 	msgbox Route2_House_Text_Fisher_GotNugget, MSGBOX_DEFAULT

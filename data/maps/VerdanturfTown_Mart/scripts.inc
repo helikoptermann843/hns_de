@@ -39,20 +39,20 @@ VerdanturfTown_Mart_EventScript_Lass::
 	end
 
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
-	.string "X-SPEZIAL ist für jeden POKéMON-Kampf\n"
+	.string "X-Spezial ist für jeden Pokémon-Kampf\n"
 	.string "äußerst wichtig.\p"
 	.string "Es erhöht die Stärke mancher Attacken.\n"
 	.string "Aber leider nur für einen Kampf.$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
-	.string "Strategie-Ratgeber für das KAMPFCAMP\n"
+	.string "Strategie-Ratgeber für das Kampfcamp\n"
 	.string "scheinen sie hier leider nicht zu\p"
 	.string "verkaufen… Man muss sich\n"
 	.string "auf sich selbst verlassen.$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
-	.string "Der NESTBALL ist bei schwächeren\n"
-	.string "POKéMON hervorragend geeignet.\p"
-	.string "Den kannst du nur in WIESENFLUR\n"
+	.string "Der Nestball ist bei schwächeren\n"
+	.string "Pokémon hervorragend geeignet.\p"
+	.string "Den kannst du nur in Wiesenflur\n"
 	.string "kaufen.$"
 

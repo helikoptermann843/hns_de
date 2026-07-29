@@ -25,13 +25,13 @@ Text_SwordsDanceTeach::
 	.string "lässt.\l"
 	.string "Jawohl, immer stärker…\p"
 	.string "Möchtest du eine solche Attacke\n"
-	.string "lernen? Sie heißt SCHWERTTANZ!$"
+	.string "lernen? Sie heißt Schwerttanz!$"
 
 Text_SwordsDanceDeclined::
 	.string "Nun, das ist auch gut!$"
 
 Text_SwordsDanceWhichMon::
-	.string "In Ordnung, welchem POKéMON\n"
+	.string "In Ordnung, welchem Pokémon\n"
 	.string "soll ich die Attacke beibringen?$"
 
 Text_SwordsDanceTaught::
@@ -43,17 +43,17 @@ SevenIsland_Text_IslandSign::
 	.string "Halt dich da raus!$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-	.string "EILAND DREI ist die beliebteste\n"
+	.string "Eiland Drei ist die beliebteste\n"
 	.string "aller Inseln.\p"
 	.string "Dennoch könnte dort ein wenig\n"
 	.string "mehr geboten werden.\p"
 	.string "Aber ich möchte solche Typen\n"
-	.string "wie diese BIKER hier nicht noch\l"
+	.string "wie diese Biker hier nicht noch\l"
 	.string "einmal sehen.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-	.string "Ich trainiere mein DODU im\n"
-	.string "BEERENFORST.\p"
+	.string "Ich trainiere mein Dodu im\n"
+	.string "Beerenforst.\p"
 	.string "Sobald es sich entwickelt, spiele\n"
-	.string "ich auf EILAND ZWEI.$"
+	.string "ich auf Eiland Zwei.$"
 

@@ -3,7 +3,7 @@ Route44_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route44_OnTransition: 
+Route44_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -106,42 +106,42 @@ Route44_EventScript_Item_Elixir::
 	end
 
 Route44_Text_FisherWilton1Seen:
-	.string "Aah! Wegen dir\n"
-	.string "habe ich ein QUAPSEL verloren!\p"
-	.string "Was wirst du deswegen unternehmen?$"
+	.string "Oh nein! Na, besten Dank! Jetzt ist mir\n"
+	.string "das Quapsel durch die Lappen gegangen!\l"
+	.string "Das schreit nach Genugtuung!$"
 
 Route44_Text_FisherWilton1Beaten:
-	.string "Vergiss es einfach.$"
+	.string "Mir reicht’s langsam…$"
 
 Route44_Text_FisherWiltonHugePoliwag:
-	.string "Dieses QUAPSEL,\n"
+	.string "Dieses Quapsel,\n"
 	.string "das geflohen ist… Das war riesig.\p"
 	.string "Ich könnte\n"
 	.string "schwören, dass es 5 Meter lang war!$"
 
 Route44_Text_WiltonRegister:
-    .string "Das QUAPUTZI, das mir entkommen ist…\n"
+    .string "Das Quaputzi, das mir entkommen ist…\n"
     .string "es war riesig.\p"
     .string "Ich schwöre, es muss über\n"
     .string "5 Meter groß gewesen sein!$"
 
 Route44_Text_WiltonRematchIntro:
-    .string "Aah!\p"
-    .string "Wegen dir ist mir ein QUAPUTZI\n"
-    .string "entkommen! Was hast du dazu zu sagen?$"
+	.string "Oh nein! Na, besten Dank! Jetzt ist mir\n"
+	.string "das Quapsel durch die Lappen gegangen!\l"
+	.string "Das schreit nach Genugtuung!$"
 
 Route44_Text_WiltonRematchDefeat:
-    .string "Vergiss es einfach.$"
+	.string "Mir reicht’s langsam…$"
 
 Route44_Text_WiltonPostRematch:
-    .string "Das QUAPUTZI, das mir entkommen ist…\n"
+    .string "Das Quaputzi, das mir entkommen ist…\n"
     .string "es war riesig.\p"
     .string "Ich schwöre, es muss über\n"
     .string "5 Meter groß gewesen sein!$"
 
 Route44_Text_WiltonHasItem:
     .string "Hey! Ich habe etwas anderes als\n"
-    .string "ein POKéMON an Land gezogen!\p"
+    .string "ein Pokémon an Land gezogen!\p"
     .string "Hier, du kannst es haben!$"
 
 Route44_Text_WiltonGaveItem:
@@ -149,95 +149,96 @@ Route44_Text_WiltonGaveItem:
     .string "noch etwas aus dem Wasser ziehe!$"
 
 Route44_Text_WiltonNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"
 
 Route44_Text_FisherEdgarSeen:
-	.string "Ich angle so\n"
-	.string "lange, bis ich nicht mehr kann.\p"
-	.string "Und ich kämpfe bis zum Umfallen.\p"
-	.string "So gehe ich\n"
-	.string "auch mit meinen Pokémon um.$"
+	.string "Ich angele so lange, bis ich nicht mehr\n"
+	.string "kann, und ich kämpfe bis zum Umfallen!\l"
+	.string "So handhabe ich das mit meinen Pokémon!$"
 
 Route44_Text_FisherEdgarBeaten:
-	.string "Hmm… Das ist nicht\p"
-	.string "richtig.$"
+	.string "Hmm… Irgendwas ist schiefgelaufen.$"
 
 Route44_Text_FisherEdgarAfter:
-    .string "Das sind 100 Siege zu 101 Niederlagen.\p"
-    .string "Ich werde eine Weile nicht mehr kämpfen.$"
+	.string "Das macht dann 100 Siege und 101\n"
+	.string "verlorene Kämpfe.\p"
+	.string "Ich höre besser eine Weile mit dem\n"
+	.string "Kämpfen auf.$"
 
 Route44_Text_BirdKeeperVance1Seen:
-	.string "Hast du schon von\n"
-	.string "dem legendären Vogel-Pokémon gehört?$"
+	.string "Hast du schon von den Legendären\n"
+	.string "Vogel-Pokémon gehört?$"
 
 Route44_Text_BirdKeeperVance1Beaten:
-	.string "Puh! Du bist nicht\n"
-	.string "von schlechten Eltern.$"
+	.string "Puh! Du machst echt keine halben\n"
+	.string "Sachen.$"
 
 Route44_Text_BirdKeeperVanceBirds:
-    .string "ARKTOS, ZAPDOS und LAVADOS sind\n"
-    .string "die drei legendären Vogel-POKéMON.\p"
-    .string "Ich habe gehört, es soll noch andere\n"
-    .string "legendäre Vögel geben.$"
+	.string "Man sagt, es gebe drei Arten von\n"
+	.string "Legendären Vogel-Pokémon. Arktos,\l"
+	.string "Zapdos und Lavados.\p"
+	.string "Aber so, wie es aussieht, gibt es noch\n"
+	.string "viel mehr als nur diese drei.$"
 
 Route44_Text_VanceRegister:
-    .string "ARKTOS, ZAPDOS und LAVADOS sind\n"
-    .string "die drei legendären Vogel-POKéMON.\p"
-    .string "Ich habe gehört, es soll noch andere\n"
-    .string "legendäre Vögel geben.$"
+	.string "Man sagt, es gebe drei Arten von\n"
+	.string "Legendären Vogel-Pokémon. Arktos,\l"
+	.string "Zapdos und Lavados.\p"
+	.string "Aber so, wie es aussieht, gibt es noch\n"
+	.string "viel mehr als nur diese drei.$"
 
 Route44_Text_VanceRematchIntro:
-    .string "Kennst du die legendären\n"
-    .string "Vogel-POKéMON?$"
+	.string "Hast du schon von den Legendären\n"
+	.string "Vogel-Pokémon gehört?$"
 
 Route44_Text_VanceRematchDefeat:
-    .string "Puh! Du bist echt stark.$"
+	.string "Puh! Du machst echt keine halben\n"
+	.string "Sachen.$"
 
 Route44_Text_VancePostRematch:
-    .string "ARKTOS, ZAPDOS und LAVADOS sind\n"
-    .string "die drei legendären Vogel-POKéMON.\p"
-    .string "Ich habe gehört, es soll noch andere\n"
-    .string "legendäre Vögel geben.$"
+	.string "Man sagt, es gebe drei Arten von\n"
+	.string "Legendären Vogel-Pokémon. Arktos,\l"
+	.string "Zapdos und Lavados.\p"
+	.string "Aber so, wie es aussieht, gibt es noch\n"
+	.string "viel mehr als nur diese drei.$"
 
 Route44_Text_PsychicPhilSeen:
-	.string "Ich gewinne hundertprozentig!$"
+	.string "Ich werde gewinnen! Hundertprozentig!$"
 
 Route44_Text_PsychicPhilBeaten:
-	.string "Aah… Das ist\n"
-	.string "eine schockierende Niederlage…$"
+	.string "Aaah! Eine schockierende Niederlage!$"
 
 Route44_Text_PsychicPhilAfter:
 
 Route44_Text_PokemaniacZachSeen:
-	.string "Ich tue alles,\n"
-	.string "um seltene Pokémon in die Finger zu\l"
-	.string "bekommen!$"
+	.string "Ich tue alles, um seltene Pokémon in die\n"
+	.string "Finger zu kriegen!$"
 
 Route44_Text_PokemaniacZachBeaten:
-	.string "Ach, deine Pokémon sind ja niedlich.$"
+	.string "Seufz… so ein tolles Pokémon-Team\n"
+	.string "hätte ich auch gern!$"
 
 Route44_Text_PokemaniacZachAfter:
-    .string "Wenn ein POKéMON andere Farben als\n"
+    .string "Wenn ein Pokémon andere Farben als\n"
     .string "üblich hat, ist es wertvoller.\p"
     .string "Was? Du meinst, das stimmt nicht?$"
 
 Route44_Text_CooltrainermAllenSeen:
-	.string "Ich kann sehen,\n"
-	.string "dass du ein guter Trainer bist.\p"
-	.string "Ich kenne mich gut\n"
-	.string "mit Pokémon aus und ich sehe, dass du\l"
-	.string "das auch tust.$"
+	.string "Man sieht schon an deinem Auftreten,\n"
+	.string "dass du ein guter Trainer bist!\p"
+	.string "Ich kenne mich gut mit Pokémon aus,\n"
+	.string "dafür habe ich einen Blick entwickelt.$"
 
 Route44_Text_CooltrainermAllenBeaten:
 	.string "Puh! Das war ja der totale Reinfall!$"
 
 Route44_Text_CooltrainermAllenAfter:
-    .string "Wow. Du hast eine Menge ORDEN.\p"
-    .string "Kein Wunder, dass du so stark bist.\p"
-    .string "Ob ARENALEITER MORTY aus TEAK CITY\n"
-    .string "wohl noch trainiert?\p"
-    .string "Der hat mich wirklich fertiggemacht.$"
+	.string "Wow, hast du viele Orden! Kein Wunder,\n"
+	.string "dass du so stark bist.\p"
+	.string "Möchte wissen, ob Jens, der Arenaleiter\n"
+	.string "von Teak City, noch immer trainiert? Der\l"
+	.string "hat mich wirklich plattgemacht.$"
 
 Route44_Text_CooltrainerfCybilSeen:
 	.string "Du siehst sehr stark aus.\p"
@@ -249,16 +250,15 @@ Route44_Text_CooltrainerfCybilBeaten:
 	.string "Nein! So geht das auf gar keinen Fall.$"
 
 Route44_Text_CooltrainerfCybilAfter:
-    .string "Wir alle werden besser, indem wir\n"
-    .string "viele Kämpfe erleben.\p"
-    .string "Ich habe viele Kämpfe geführt, um\n"
-    .string "zu dem zu werden, was ich heute bin -\n"
-    .string "eine Elitetrainerin.$"
+	.string "Mit den Kämpfen steigt unsere\n"
+	.string "Erfahrung und wir werden besser.\p"
+	.string "Ich habe viele Kämpfe ausgetragen, um\n"
+	.string "zu werden, was ich heute bin - ein Profi.$"
 
 Route44_Text_Sign1:
-	.string "ROUTE 44 EISPFAD VORAUS$"
+	.string "Route 44 Eispfad voraus$"
 
 Route44_Text_Sign2:
-	.string "ROUTE 44\p"
-	.string "MAHAGONIA CITY - EBENHOLZ CITY$"
+	.string "Route 44\p"
+	.string "Mahagonia City - Ebenholz City$"
 

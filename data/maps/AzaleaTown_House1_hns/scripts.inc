@@ -50,7 +50,7 @@ AzaleaTown_House1_EventScript_Apprentice2::
 AzaleaTown_House1_EventScript_Apprentice3::
 	goto_if_set FLAG_GOT_CHARCOAL, AzaleaTown_House1_EventScript_Apprentice4
 	msgbox CharcoalKiln_Text_Apprentice3, MSGBOX_DEFAULT
-	giveitem ITEM_CHARCOAL 
+	giveitem ITEM_CHARCOAL
 	setflag FLAG_GOT_CHARCOAL
 	closemessage
 	release
@@ -72,12 +72,12 @@ AzaleaTown_House1_EventScript_Farfetchd::
 	waitmoncry
 	release
 	end
-	
+
 
 
 CharcoalKiln_Text_Boss1:
 	.string "In der Stadt gibt es kein einziges\n"
-	.string "FLEGMON mehr.\p"
+	.string "Flegmon mehr.\p"
 	.string "Vielleicht haben wir ja den Zorn des\n"
 	.string "Schutzpatrons auf uns gezogen?\p"
 	.string "Das könnte ein böses Vorzeichen sein.\n"
@@ -100,7 +100,7 @@ CharcoalKiln_Text_Boss4:
 	.string "bei mir in die Lehre gehen?$"
 
 CharcoalKiln_Text_Apprentice1:
-	.string "Wo sind nur all die FLEGMON hin?\n"
+	.string "Wo sind nur all die Flegmon hin?\n"
 	.string "Machen sie sich vielleicht irgendwo\l"
 	.string "einen schönen Lenz?$"
 
@@ -111,12 +111,12 @@ CharcoalKiln_Text_Apprentice3:
 	.string "E-Entschuldige, ich habe vergessen\n"
 	.string "mich zu bedanken.\p"
 	.string "Das hier ist Holzkohle, es verstärkt\n"
-	.string "Feuer-Attacken. gib es einem POKéMON.$"
+	.string "Feuer-Attacken. gib es einem Pokémon.$"
 
 CharcoalKiln_Text_Apprentice4:
-	.string "Die FLEGMON sind wieder da, und die\n"
-	.string "PORENTA hast du auch wiedergefunden.\l"
+	.string "Die Flegmon sind wieder da, und die\n"
+	.string "Porenta hast du auch wiedergefunden.\l"
 	.string "Du bist echt der Coolste!$"
 
 CharcoalKiln_Text_Farfetchd:
-	.string "PORENTA: Poreeeen!$"
+	.string "Porenta: Pooorenta!$"

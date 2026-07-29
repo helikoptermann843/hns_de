@@ -73,13 +73,13 @@ AbandonedShip_Corridors_B1F_Text_YayItsAShip:
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
 	.string "Die Tür ist verschlossen.\p"
-	.string "“LAGER” steht auf dem Schild.$"
+	.string "“Lager” steht auf dem Schild.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} steckt den SCHLÜSSEL zum\n"
-	.string "LAGER ins Schlüsselloch und dreht ihn.\n"
+	.string "{PLAYER} steckt den Schlüssel zum\n"
+	.string "Lager ins Schlüsselloch und dreht ihn.\n"
 	.string "\p"
-	.string "Der SCHLÜSSEL ist schwergängig, aber\n"
+	.string "Der Schlüssel ist schwergängig, aber\n"
 	.string "das Schloss lässt sich öffnen.$"
 
 AbandonedShip_Text_TheDoorIsOpen:

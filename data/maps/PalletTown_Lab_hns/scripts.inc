@@ -71,7 +71,7 @@ PalletTown_Lab_EventScript_PC::
 	end
 
 PalletTown_Lab_Text_OakLabDexCheck:
-	.string "Wie kommst du mit dem POKéDEX voran?$"
+	.string "Wie kommst du mit dem Pokédex voran?$"
 
 PalletTown_Lab_Text_OakWelcomeKanto:
 	.string "Eich: Oh, {PLAYER}!\n"
@@ -87,27 +87,27 @@ PalletTown_Lab_Text_OakLabGoodbye:
 
 PalletTown_Lab_Text_OakOpenMtSilver:
 	.string "Eich: Wow! Hervorragend!\p"
-	.string "Du hast alle ARENAORDEN\n"
-	.string "in KANTO gesammelt. Gut gemacht!\p"
+	.string "Du hast alle Arenaorden\n"
+	.string "in Kanto gesammelt. Gut gemacht!\p"
 	.string "Meine Einschätzung von dir\n"
 	.string "war also richtig.\p"
 	.string "Weißt du was, {PLAYER}?\n"
 	.string "Ich treffe Vorkehrungen, damit\l"
-	.string "du zum SILBERBERG kannst.\p"
-	.string "Der SILBERBERG ist ein riesiger\n"
-	.string "Berg voller wilder POKéMON.\p"
+	.string "du zum Silberberg kannst.\p"
+	.string "Der Silberberg ist ein riesiger\n"
+	.string "Berg voller wilder Pokémon.\p"
 	.string "Er ist für normale Trainer zu\n"
 	.string "gefährlich und daher gesperrt.\p"
 	.string "Doch für dich machen wir eine\n"
 	.string "Ausnahme, {PLAYER}.\p"
-	.string "Geh zum INDIGO PLATEAU.\n"
+	.string "Geh zum Indigo Plateau.\n"
 	.string "Von dort erreichst du den\l"
-	.string "SILBERBERG.$"
+	.string "Silberberg.$"
 
 PalletTown_Lab_Text_OakOpenIndigoPlateau:
-	.string "Oh, und wo wir vom INDIGO\n"
-	.string "PLATEAU, reden, jetzt wo du\l"
-	.string "16 orden hast wird die LIGA\l"
+	.string "Oh, und wo wir vom Indigo\n"
+	.string "Plateau, reden, jetzt wo du\l"
+	.string "16 orden hast wird die Liga\l"
 	.string "bereit sein dich erneut\l"
 	.string "antreten zu lassen.\p"
 	.string "Sei gewarnt, Siegfried und\n"
@@ -138,28 +138,28 @@ PalletTown_Lab_Text_OakYesKantoBadges:
 	.string "Halte die Ohren steif, {PLAYER}!$"
 
 PalletTown_Lab_Text_OaksAssistant1:
-	.string "Die Radiosendung POKéMON TALK\n"
-	.string "des PROFs wird in KANTO nicht\l"
+	.string "Die Radiosendung Pokémon Talk\n"
+	.string "des Profs wird in Kanto nicht\l"
 	.string "ausgestrahlt.\p"
 	.string "Schade, ich würde sie gern hören.$"
 
 PalletTown_Lab_Text_OaksAssistant2:
-	.string "Dank deiner Arbeit am POKéDEX\n"
-	.string "macht die Forschung des PROFs\l"
+	.string "Dank deiner Arbeit am Pokédex\n"
+	.string "macht die Forschung des Profs\l"
 	.string "große Fortschritte.$"
 
 PalletTown_Lab_Text_OaksAssistant3:
 	.string "Sag es niemandem weiter, aber\n"
-	.string "POKéMON TALK von PROF.Eich ist\l"
+	.string "Pokémon Talk von Prof.Eich ist\l"
 	.string "keine Live-Sendung.$"
 
 PalletTown_Lab_Text_OaksLabPC:
 	.string "Auf dem PC ist eine E-Mail.\p"
 	.string "…\p"
-	.string "PROF.Eich, wie läuft deine\n"
+	.string "Prof.Eich, wie läuft deine\n"
 	.string "Forschung?\p"
 	.string "Ich arbeite weiterhin fleißig.\p"
 	.string "Ich hörte Gerüchte, dass {PLAYER}\n"
 	.string "ziemlich bekannt geworden ist.\p"
 	.string "Das freut mich sehr zu hören.\p"
-	.string "LIND aus NEUBORKIA 8-)$"
+	.string "Lind aus Neuborkia 8-)$"

@@ -74,26 +74,26 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "Die POKéMON LIGA triffst du kurz\n"
-	.string "hinter der SIEGESSTRASSE.\p"
+	.string "Die Pokémon Liga triffst du kurz\n"
+	.string "hinter der Siegesstraße.\p"
 	.string "Wenn du schon so weit gekommen bist,\n"
 	.string "musst du einfach weitergehen.$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "Die lange und qualvolle SIEGESSTRASSE…\n"
+	.string "Die lange und qualvolle Siegesstraße…\n"
 	.string "\p"
 	.string "Es ist fast so, als würde man sein\n"
 	.string "ganzes Leben noch einmal leben…\p"
-	.string "Glaube an deine POKéMON und gib\n"
+	.string "Glaube an deine Pokémon und gib\n"
 	.string "dein Bestes!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, du hast dich zur\n"
-	.string "POKéMON LIGA durchgebissen.\p"
+	.string "Scott: {PLAYER}{KUN}, du hast dich zur\n"
+	.string "Pokémon Liga durchgebissen.\p"
 	.string "Das freut mich für dich!\n"
 	.string "Meine Anfeuerungen haben sich gelohnt.\n"
 	.string "\p"
-	.string "Und wenn du CHAMP der POKéMON LIGA\n"
+	.string "Und wenn du Champ der Pokémon Liga\n"
 	.string "wirst, {PLAYER}{KUN}…\p"
 	.string "dann melde ich mich wieder bei dir.\p"
 	.string "Okay, {PLAYER}{KUN}.\n"

@@ -223,7 +223,7 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Willkommen im OZEANMUSEUM.\p"
+	.string "Willkommen im Ozeanmuseum.\p"
 	.string "Der Eintritt kostet ¥50.\n"
 	.string "Hast du Interesse?$"
 
@@ -241,13 +241,13 @@ SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
 	.string "sonst verlierst du die Gruppe.$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "Wir, TEAM AQUA, bestehen zum Besten\n"
+	.string "Wir, Team Aqua, bestehen zum Besten\n"
 	.string "für alle!$"
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
 	.string "Uns wurde befohlen, uns hier zu\n"
 	.string "versammeln. Das taten wir, aber...\p"
-	.string "Unser BOSS, der Galgenvogel, ist nicht\n"
+	.string "Unser Boss, der Galgenvogel, ist nicht\n"
 	.string "hier.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
@@ -260,7 +260,7 @@ SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
 	.string "Wenn dieser Idiot die Sache in\n"
-	.string "METAROST CITY nicht vermasselt hätte,\l"
+	.string "Metarost City nicht vermasselt hätte,\l"
 	.string "wären wir jetzt nicht hier.$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
@@ -276,26 +276,26 @@ SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
 	.string "Mir wird ganz schwindelig und rühr-\n"
 	.string "selig, wenn ich das Meer erblicke!\p"
-	.string "Für mich ist KAPT. BRIGG das absolute\n"
+	.string "Für mich ist Kapt. Brigg das absolute\n"
 	.string "Vorbild!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
 	.string "Das Meer ist erbarmungslos rau und\n"
 	.string "unendlich tief…\p"
-	.string "In ihm müssen viele POKéMON leben, die\n"
+	.string "In ihm müssen viele Pokémon leben, die\n"
 	.string "wir bisher noch nicht kennen.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "Ich möchte ein POKéMON aus dem Meer\n"
+	.string "Ich möchte ein Pokémon aus dem Meer\n"
 	.string "haben.\p"
 	.string "Wenn man das umarmt, ist es bestimmt\n"
 	.string "schön kalt und wunderbar glitschig.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "Aiyeeh! Was machst du hier?\p"
-	.string "Ich? Ich bin von TEAM AQUA. Du hast\n"
+	.string "Ich? Ich bin von Team Aqua. Du hast\n"
 	.string "mich in den Boden gestampft. Erinnerst\l"
-	.string "du dich? Im METAFLURTUNNEL?\p"
+	.string "du dich? Im Metaflurtunnel?\p"
 	.string "Hier, das ist für dich!\n"
 	.string "Vergeben und vergessen!$"
 
@@ -313,14 +313,14 @@ SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
 	.string "Eine blaue Flüssigkeit bewegt sich\n"
 	.string "spiralförmig in einem Glasgefäß.\p"
 	.string "“Dies ist ein Experiment, das einen\n"
-	.string "künstlichen WHIRLPOOL mit Hilfe von\l"
+	.string "künstlichen Whirlpool mit Hilfe von\l"
 	.string "Wind erzeugt.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
 	.string "Ein roter Ball hüpft in dem Glasgefäß\n"
 	.string "auf und ab.\p"
 	.string "“Dies ist ein Experiment, das eine\n"
-	.string "künstliche KASKADE mit Hilfe des\l"
+	.string "künstliche Kaskade mit Hilfe des\l"
 	.string "Ballauftriebs erzeugt.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
@@ -342,7 +342,7 @@ SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
 	.string "die den Sand an der Küste bilden.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“MEERESKUNDE FAKT 1”\n"
+	.string "“Meereskunde Fakt 1”\n"
 	.string "Warum ist das Wasser im Meer blau?\p"
 	.string "“Licht setzt sich aus vielen\n"
 	.string "Farben zusammen.\p"
@@ -352,7 +352,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
 	.string "erhalten, das Wasser erscheint blau.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“MEERESKUNDE FAKT 2”\n"
+	.string "“Meereskunde Fakt 2”\n"
 	.string "Warum ist das Meer salzig?\p"
 	.string "“Meerwasser enthält gelöste Salzionen\n"
 	.string "in Form von Natrium und Chlorid.\p"
@@ -362,7 +362,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
 	.string "Salzes macht das Meer salzig.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“MEERESKUNDE FAKT 3”\n"
+	.string "“Meereskunde Fakt 3”\n"
 	.string "Was ist größer? Das Meer oder das\n"
 	.string "Land? \p"
 	.string "“Die Erde ist zu 70 % von Wasser\n"

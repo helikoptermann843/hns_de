@@ -31,12 +31,12 @@ SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
 	.string "{PLAYER} received TM29\n"
-	.string "from MR. PSYCHIC.$"
+	.string "from Mr. Psychic.$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
-	.string "TM29 ist PSYCHOKINESE!\p"
-	.string "Sie vermindert die SPEZIAL-\n"
-	.string "FÄHIGKEITEN des Gegners.$"
+	.string "TM29 ist Psychokinese!\p"
+	.string "Sie vermindert die Spezial-\n"
+	.string "Fähigkeiten des Gegners.$"
 
 SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
 	.string "Heh, du kannst keine Items mehr\n"

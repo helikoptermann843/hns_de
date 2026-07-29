@@ -10,14 +10,14 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "Mein POKéMON hat ein HASTIGes Wesen.\p"
-	.string "Seine INITIATIVE ist im Vergleich\n"
-	.string "zu meinen anderen POKéMON höher.\p"
+	.string "Mein Pokémon hat ein Hastiges Wesen.\p"
+	.string "Seine Initiative ist im Vergleich\n"
+	.string "zu meinen anderen Pokémon höher.\p"
 	.string "Vielleicht hat ihr Wesen etwas mit den\n"
-	.string "Statusvorteilen der POKéMON zu tun.$"
+	.string "Statusvorteilen der Pokémon zu tun.$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "Du bist doch ein TRAINER, oder?\p"
-	.string "Da du schon mal in GRAPHITPORT CITY\n"
-	.string "bist, besuch unbedingt das KAMPFCAMP!$"
+	.string "Du bist doch ein Trainer, oder?\p"
+	.string "Da du schon mal in Graphitport City\n"
+	.string "bist, besuch unbedingt das Kampfcamp!$"
 

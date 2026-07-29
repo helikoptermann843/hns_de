@@ -65,20 +65,20 @@ RustboroCity_Mart_EventScript_BugCatcher::
 	end
 
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
-	.string "Ich habe einige PARA-HEILER und\n"
-	.string "etwas GEGENGIFT gekauft.\p"
+	.string "Ich habe einige Para-Heiler und\n"
+	.string "etwas Gegengift gekauft.\p"
 	.string "Nur für den Fall, dass mir ein\n"
-	.string "KNILZ im BLÜTENBURGWALD\l"
+	.string "Knilz im Blütenburgwald\l"
 	.string "über den Weg läuft.$"
 
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
-	.string "Mein POKéMON hat sich entwickelt.\n"
+	.string "Mein Pokémon hat sich entwickelt.\n"
 	.string "Es hat jetzt sehr viele KP.\p"
-	.string "Ich sollte nun einige SUPERTRÄNKe\n"
-	.string "anstelle der normalen TRÄNKe kaufen.$"
+	.string "Ich sollte nun einige Supertränke\n"
+	.string "anstelle der normalen Tränke kaufen.$"
 
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
-	.string "Ich habe ein FLUCHTSEIL besorgt, falls\n"
+	.string "Ich habe ein Fluchtseil besorgt, falls\n"
 	.string "ich mich mal in einer Höhle verlaufe.\n"
 	.string "\p"
 	.string "Damit kann ich zurück zum Eingang der\n"

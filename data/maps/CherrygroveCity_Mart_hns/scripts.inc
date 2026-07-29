@@ -28,7 +28,7 @@ Cherrygrove_Pokemart_EventScript_Bugcatcher::
 	closemessage
 	release
 	end
-	
+
 Cherrygrove_Pokemart_EventScript_Bugcatcher2::
 	msgbox Cherrygrove_Pokemart_Text_CooltrainerM_PokeBallsInStock, MSGBOX_DEFAULT
 	closemessage

@@ -55,13 +55,13 @@ FuchsiaCity_House3_EventScript_CancelForgetMove::
 
 FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
 	.string "Äh…\n"
-	.string "Oh, ja. Ich bin der ATTACKEN-VERLERNER.\p"
-	.string "Ich sorge dafür, dass die POKéMON ihre\n"
+	.string "Oh, ja. Ich bin der Attacken-Verlerner.\p"
+	.string "Ich sorge dafür, dass die Pokémon ihre\n"
 	.string "Attacken vergessen.\p"
 	.string "Möchtest du, dass ich dir helfe?$"
 
 FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
-	.string "Welches POKéMON soll eine Attacke\n"
+	.string "Welches Pokémon soll eine Attacke\n"
 	.string "vergessen?$"
 
 FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
@@ -89,5 +89,5 @@ FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
 
 FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
 	.string "Was?\n"
-	.string "Ein EI kennt doch keine Attacken!$"
+	.string "Ein Ei kennt doch keine Attacken!$"
 

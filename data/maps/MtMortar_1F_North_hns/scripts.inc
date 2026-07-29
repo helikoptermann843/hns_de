@@ -3,7 +3,7 @@ MtMortar_1F_North_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-MtMortar_1F_North_OnTransition: 
+MtMortar_1F_North_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -70,7 +70,7 @@ MountMortar2_Text_SupernerdMarkusBeaten:
 	.string "Ich habe dich mit jemandem verwechselt.$"
 
 MountMortar2_Text_SupernerdMarkusAfter:
-	.string "Ich wollte den SILBERBERG\n"
+	.string "Ich wollte den Silberberg\n"
 	.string "erkunden, aber wurde von\l"
 	.string "meinem Partner getrennt…\p"
 	.string "Bist du einem Trainer begegnet,\n"

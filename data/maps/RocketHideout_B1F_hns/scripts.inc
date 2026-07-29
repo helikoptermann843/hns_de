@@ -35,7 +35,7 @@ RocketHideout_B1F_TriggerTest::
 	setflag FLAG_HIDE_ROCKETHIDEOUT3_SILVER
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_GATE
 	clearflag FLAG_GOT_PASSWORD_FROM_ETO
-	clearflag FLAG_GOT_PASSWORD_FROM_GRUNTF 
+	clearflag FLAG_GOT_PASSWORD_FROM_GRUNTF
 	setvar VAR_ROCKET_PASSWORD, 0
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_MURKROW
 	clearflag FLAG_HIDE_ROCKETHIDEOUT3_GIOVANNI
@@ -81,7 +81,7 @@ RocketHideout_B1F_Trigger_Statue1::
 	setmetatile 45, 1, 0x2A9, TRUE
 	special DrawWholeMapView
 	release
-	end	
+	end
 
 RocketHideout_B1F_Trigger_SpawnGruntStatue2::
 	setvar VAR_TEMP_0, LOCALID_ROCKETHIDEOUT_GRUNTM2
@@ -102,7 +102,7 @@ RocketHideout_B1F_Trigger_Statue2::
 	setmetatile 24, 1, 0x2A9, TRUE
 	special DrawWholeMapView
 	release
-	end	
+	end
 
 RocketHideout_B1F_Trigger_SpawnGruntStatue3::
 	setvar VAR_TEMP_0, LOCALID_ROCKETHIDEOUT_GRUNTM3
@@ -123,7 +123,7 @@ RocketHideout_B1F_Trigger_Statue3::
 	setmetatile 45, 6, 0x2A9, TRUE
 	special DrawWholeMapView
 	release
-	end	
+	end
 
 RocketHideout_B1F_Trigger_SpawnGruntStatue4::
 	setvar VAR_TEMP_0, LOCALID_ROCKETHIDEOUT_GRUNTM4
@@ -144,7 +144,7 @@ RocketHideout_B1F_Trigger_Statue4::
 	setmetatile 45, 19, 0x2A9, TRUE
 	special DrawWholeMapView
 	release
-	end	
+	end
 
 RocketHideout_B1F_Trigger_SpawnGruntStatue5::
 	setvar VAR_TEMP_0, LOCALID_ROCKETHIDEOUT_GRUNTM4
@@ -165,7 +165,7 @@ RocketHideout_B1F_Trigger_Statue5::
 	setmetatile 27, 19, 0x2A9, TRUE
 	special DrawWholeMapView
 	release
-	end	
+	end
 
 
 RocketHideout_B1F_Trigger_StatueGruntLeft::
@@ -245,21 +245,20 @@ RocketHideout_B1F_Movement_GruntWalkLeft:
 	step_end
 
 RocketHideout_B1F_Text_CameraGrunt1Seen:
-	.string "Hey! Eindringling! Alarm!$"
+	.string "He da! Ein Eindringling! Alarm!$"
 
 RocketHideout_B1F_Text_CameraGrunt1Beaten:
 	.string "Mist… ich hab versagt…$"
 
 RocketHideout_B1F_Text_CameraGrunt2Seen:
-	.string "Jetzt bin ich dran!\n"
-	.string "Du entkommst nicht!$"
+	.string "Als Nächster bin ich dran! Es gibt kein\n"
+	.string "Entkommen!$"
 
 RocketHideout_B1F_Text_CameraGrunt2Beaten:
-	.string "Überwachungskameras sind in\n"
-	.string "den Pokémon-Statuen versteckt.\p"
-	.string "Wir tauchen immer wieder auf,\n"
-	.string "bis du einen geheimen Schalter\l"
-	.string "betätigst.$"
+	.string "Die Pokémon-Statuen sind unsere Augen\n"
+	.string "und Ohren!\p"
+	.string "Solange du nicht den geheimen Schalter\n"
+	.string "betätigst, wirst du uns nicht los!$"
 
 RocketHideout_B1F_EventScript_TrainerJed::
 	trainerbattle_single TRAINER_JED_HNS, RocketHideout_B1F_Text_ScientistJedSeen, RocketHideout_B1F_Text_ScientistJedBeaten
@@ -267,12 +266,12 @@ RocketHideout_B1F_EventScript_TrainerJed::
 	end
 
 RocketHideout_B1F_Text_ScientistJedSeen:
-	.string "Das war einst ein Ninja-Versteck.\p"
-	.string "Überall sind Fallen, die Eindring-\n"
-	.string "linge wie dich stoppen.$"
+	.string "Dies war einmal ein Ninjaversteck.\p"
+	.string "Es gibt hier viele Fallen, um\n"
+	.string "Eindringlinge wie dich zu verwirren.$"
 
 RocketHideout_B1F_Text_ScientistJedBeaten:
-	.string "Ich verstehe…$"
+	.string "Ah… jetzt verstehe ich…$"
 
 RocketHideout_B1F_Text_ScientistJedAfter:
 	.string "Na gut. Ich verrate dir ein Geheim-\n"
@@ -287,7 +286,7 @@ RocketHideout_B1F_Text_GruntM16Seen:
 	.string "du Loser?$"
 
 RocketHideout_B1F_Text_GruntM16Beaten:
-	.string "Bumm!$"
+	.string "Kawumm!$"
 
 RocketHideout_B1F_Text_GruntM16After:
 	.string "Ich weiß auch nicht, wo die Fallen\n"

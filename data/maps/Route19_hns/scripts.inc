@@ -79,8 +79,8 @@ Route19_Text_SwimmermHaroldAfterBattle:
 	.string "so, als wollte es dich verschlingen.$"
 
 Route19_Text_SwimmermTuckerSeen:
-	.string "Uff, uff… Nur… noch… ein\n"
-	.string "kleines Stück… bis …FUCHSANIA CITY…$"
+	.string "Röchel, röchel… Nur… noch… ein… kleines\n"
+	.string "Stück… bis… Fuchsania City…$"
 
 Route19_Text_SwimmermTuckerBeaten:
 	.string "Ich ertrinke!$"
@@ -123,7 +123,7 @@ Route19_Text_Fisher1:
 	.string "du den Umweg über Alabastia machen.$"
 
 Route19_Text_Kingler:
-	.string "Kingler: KEEEEEEEEEEEE$"
+	.string "Kingler: Keeeeeeeeeeee$"
 
 Route19_Text_Fisher1_RocksCleared:
 	.string "Ich habe so viel geschwitzt,\n"

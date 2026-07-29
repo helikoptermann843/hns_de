@@ -209,16 +209,16 @@ PewterCity_Museum_1F_Text_DoYouKnowWhatAmberIs::
 	.string "Du hast hinter dem Tresen nichts zu\n"
 	.string "suchen!\p"
 	.string "Na ja, egal!\n"
-	.string "Weißt du, was BERNSTEIN ist?$"
+	.string "Weißt du, was Bernstein ist?$"
 
 PewterCity_Museum_1F_Text_AmberContainsGeneticMatter::
-	.string "Es soll ein LABOR geben, in dem\n"
-	.string "man versucht, aus altem BERNSTEIN\l"
-	.string "URZEIT-POKéMON wiederauferstehen\l"
+	.string "Es soll ein Labor geben, in dem\n"
+	.string "man versucht, aus altem Bernstein\l"
+	.string "Urzeit-Pokémon wiederauferstehen\l"
 	.string "zu lassen!$"
 
 PewterCity_Museum_1F_Text_AmberIsFossilizedSap::
-	.string "BERNSTEIN ist versteinertes\n"
+	.string "Bernstein ist versteinertes\n"
 	.string "Baumharz.$"
 
 @ Unused
@@ -232,25 +232,25 @@ PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "Pst! Ich glaube, in diesem Stück\n"
-	.string "BERNSTEIN ist POKéMON-DNS\l"
+	.string "Bernstein ist Pokémon-Dns\l"
 	.string "enthalten!\p"
 	.string "Es wäre grandios, wenn man daraus\n"
-	.string "ein POKéMON wiederauferstehen\l"
+	.string "ein Pokémon wiederauferstehen\l"
 	.string "lassen könnte!\p"
 	.string "Doch meine Kollegen nehmen mich\n"
 	.string "nicht ernst!\p"
 	.string "Könntest du etwas für mich\n"
 	.string "erledigen?\p"
-	.string "Lass das im POKéMON-LABOR\n"
+	.string "Lass das im Pokémon-Labor\n"
 	.string "untersuchen!$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-	.string "{PLAYER} received the OLD AMBER\n"
+	.string "{PLAYER} received the Old Amber\n"
 	.string "from the man.$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
 	.string "Pst!\n"
-	.string "Lass den ALTBERNSTEIN untersuchen!$"
+	.string "Lass den Altbernstein untersuchen!$"
 
 PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
 	.string "Du hast keinen Platz dafür!$"
@@ -258,19 +258,19 @@ PewterCity_Museum_1F_Text_DontHaveSpaceForThis::
 PewterCity_Museum_1F_Text_WeHaveTwoFossilsOnExhibit::
 	.string "Unser besonderer Stolz sind zwei\n"
 	.string "Fossilien von äußerst seltenen,\l"
-	.string "prähistorischen POKéMON!$"
+	.string "prähistorischen Pokémon!$"
 
 PewterCity_Museum_1F_Text_BeautifulPieceOfAmber::
-	.string "Der BERNSTEIN schimmert goldbraun\n"
+	.string "Der Bernstein schimmert goldbraun\n"
 	.string "und ist durchsichtig!$"
 
 PewterCity_Museum_1F_Text_AerodactylFossil::
-	.string "AERODACTYL-Fossil\n"
+	.string "Aerodactyl-Fossil\n"
 	.string "Ein urzeitliches und seltenes\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 PewterCity_Museum_1F_Text_KabutopsFossil::
-	.string "KABUTOPS-Fossil\n"
+	.string "Kabutops-Fossil\n"
 	.string "Ein urzeitliches und seltenes\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 

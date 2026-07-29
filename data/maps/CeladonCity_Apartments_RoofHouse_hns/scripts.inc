@@ -2,10 +2,10 @@ CeladonCity_Apartments_RoofHouse_hns_MapScripts::
 	.byte 0
 
 CeladonCity_Apartments_RoofHouse_EventScript_BlackBelt::
-	lock 
+	lock
 	faceplayer
 	goto_if_set FLAG_GOT_TM_SLEEP_TALK, CeladonCity_Apartments_RoofHouse_EventScript_BlackBeltAfter
-	msgbox CeladonMansionRoofHouse_Text_PharmacistIntro, MSGBOX_DEFAULT	
+	msgbox CeladonMansionRoofHouse_Text_PharmacistIntro, MSGBOX_DEFAULT
 	goto_if_set FLAG_NIGHT_POKEMON, CeladonCity_Apartments_RoofHouse_EventScript_BlackBeltRefused
 	msgbox CeladonMansionRoofHouse_Text_PharmacistStory, MSGBOX_NPC
 	giveitem ITEM_TM_SLEEP_TALK

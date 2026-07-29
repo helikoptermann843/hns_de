@@ -307,7 +307,7 @@ Alola_Ulaula_Phant_outside_Text_0:
 	.string "section of the game!\p"
 	.string "I hope you enjoyed this taste of Alola.\p"
 	.string "I'm working on a full demake of the\n"
-	.string "region called ULTRA ECLIPSE.$"
+	.string "region called Ultra Eclipse.$"
 
 Alola_Ulaula_Phant_outside_Text_1:
 	.string "Please come visit me at my house at\n"

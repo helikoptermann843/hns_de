@@ -29,6 +29,6 @@ MtMoon_Shop_Pokemart:
 	end
 
 MtMoon_Shop_Text_GiftShopLass:
-	.string "Angeblich lässt sich PIEPI hier immer bei\n"
+	.string "Angeblich lässt sich Piepi hier immer bei\n"
 	.string "Abenddämmerung blicken, um zu spielen!$"
 

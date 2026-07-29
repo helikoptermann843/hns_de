@@ -179,41 +179,41 @@ MauvilleCity_BikeShop_EventScript_ExitAcroHandbook::
 MauvilleCity_BikeShop_Text_RydelGreeting:
 	.string "Nun, was haben wir denn hier?\n"
 	.string "Einen höchst energetischen Kunden!\p"
-	.string "Ich? Du kannst RADLA zu mir sagen.\n"
+	.string "Ich? Du kannst Radla zu mir sagen.\n"
 	.string "Ich bin der Besitzer des\l"
 	.string "Fahrrad-Shops.$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
-	.string "RADLA: Deine TURBOTRETER…\n"
+	.string "Radla: Deine Turbotreter…\n"
 	.string "Die sehen ja wirklich schmuddelig aus…\n"
 	.string "\p"
 	.string "Kommst du von weit her?$"
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
-	.string "RADLA: Stimmt das wirklich?\p"
+	.string "Radla: Stimmt das wirklich?\p"
 	.string "Dann kannst du, glaube ich, keines\n"
 	.string "meiner Fahrräder gebrauchen.$"
 
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
-	.string "RADLA: Hm, hm… … … … …\n"
+	.string "Radla: Hm, hm… … … … …\n"
 	.string "… … … … … … … …\p"
 	.string "Du kommst den ganzen Weg von\n"
-	.string "WURZELHEIM her?\p"
+	.string "Wurzelheim her?\p"
 	.string "Meine Güte!\n"
 	.string "Das ist unwahrscheinlich weit weg!\p"
-	.string "Wenn du eines meiner RÄDer\n"
+	.string "Wenn du eines meiner Räder\n"
 	.string "hättest, könntest du leicht überall\n"
 	.string "hin\l"
 	.string "und den Wind in den Haaren spüren!\p"
 	.string "Ich sag dir was!\n"
-	.string "Ich werde dir ein RAD geben!\p"
+	.string "Ich werde dir ein Rad geben!\p"
 	.string "Oh, eine Sekunde!\p"
 	.string "Ich sollte dir sagen, dass es zwei\n"
-	.string "verschiedene RÄDer gibt!\p"
-	.string "Das EILRAD und das KUNSTRAD!\p"
-	.string "EILRÄDer für Leute, die den Wind in\n"
+	.string "verschiedene Räder gibt!\p"
+	.string "Das Eilrad und das Kunstrad!\p"
+	.string "Eilräder für Leute, die den Wind in\n"
 	.string "den Haaren spüren wollen!\p"
-	.string "KUNSTRÄDer für Leute, die die\n"
+	.string "Kunsträder für Leute, die die\n"
 	.string "Techniken des Radfahrens\l"
 	.string "beherrschen wollen!\p"
 	.string "Da ich ein richtig weiches Herz habe,\n"
@@ -221,37 +221,37 @@ MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "Welches möchtest du haben?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
-	.string "{PLAYER} wählt das EILRAD.$"
+	.string "{PLAYER} wählt das Eilrad.$"
 
 MauvilleCity_BikeShop_Text_ChoseAcroBike:
-	.string "{PLAYER} wählt das KUNSTRAD.$"
+	.string "{PLAYER} wählt das Kunstrad.$"
 
 MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
-	.string "RADLA: Wenn du die RÄDer tauschen\n"
+	.string "Radla: Wenn du die Räder tauschen\n"
 	.string "möchtest, komm einfach wieder vorbei!$"
 
 MauvilleCity_BikeShop_Text_WantToSwitchBikes:
-	.string "RADLA: Oh. Du möchtest die RÄDer\n"
+	.string "Radla: Oh. Du möchtest die Räder\n"
 	.string "tauschen?$"
 
 MauvilleCity_BikeShop_Text_IllSwitchBikes:
-	.string "RADLA: Kein Problem!\n"
-	.string "Ich tausche die RÄDer für dich aus!$"
+	.string "Radla: Kein Problem!\n"
+	.string "Ich tausche die Räder für dich aus!$"
 
 MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
-	.string "{PLAYER} bekommt für das EILRAD ein\n"
-	.string "KUNSTRAD.$"
+	.string "{PLAYER} bekommt für das Eilrad ein\n"
+	.string "Kunstrad.$"
 
 MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
-	.string "{PLAYER} bekommt für das KUNSTRAD ein\n"
-	.string "EILRAD.$"
+	.string "{PLAYER} bekommt für das Kunstrad ein\n"
+	.string "Eilrad.$"
 
 MauvilleCity_BikeShop_Text_HappyYouLikeIt:
-	.string "RADLA: Wunderbar!\n"
+	.string "Radla: Wunderbar!\n"
 	.string "Ich freue mich, dass es dir gefällt!$"
 
 MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
-	.string "Oh? Was ist mit dem RAD geschehen,\n"
+	.string "Oh? Was ist mit dem Rad geschehen,\n"
 	.string "das ich dir gegeben habe?\p"
 	.string "Ach so, du hast es in deinem PC\n"
 	.string "gelagert.\p"
@@ -262,27 +262,27 @@ MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
 	.string "bei deinem Abenteuer!$"
 
 MauvilleCity_BikeShop_Text_HandbooksAreInBack:
-	.string "Ich lerne etwas über RÄDER,\n"
+	.string "Ich lerne etwas über Räder,\n"
 	.string "während ich hier arbeite.\p"
 	.string "Wenn du eine Anleitung brauchst, wie\n"
-	.string "man RAD fährt - da vorne findest du\l"
+	.string "man Rad fährt - da vorne findest du\l"
 	.string "einige Handbücher.$"
 
 MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
-	.string "Ein Handbuch zum EILRAD.\p"
+	.string "Ein Handbuch zum Eilrad.\p"
 	.string "Welche Seite möchtest du lesen?$"
 
 MauvilleCity_BikeShop_Text_HowToRideMachBike:
 	.string "Mit Hilfe des + Steuerkreuzes lässt\n"
-	.string "sich das RAD lenken.\p"
+	.string "sich das Rad lenken.\p"
 	.string "Es wird immer schneller, wenn es\n"
 	.string "einmal fährt.\p"
 	.string "Lass das Steuerkreuz los, um das\n"
-	.string "RAD anzuhalten.\p"
+	.string "Rad anzuhalten.\p"
 	.string "Eine andere Seite lesen?$"
 
 MauvilleCity_BikeShop_Text_HowToTurnMachBike:
-	.string "Ein EILRAD ist sehr schnell und kann\n"
+	.string "Ein Eilrad ist sehr schnell und kann\n"
 	.string "nicht schnell gestoppt werden.\p"
 	.string "Das Kurvenfahren ist sehr schwierig.\p"
 	.string "Lasse das + Steuerkreuz kurz los und\n"
@@ -291,16 +291,16 @@ MauvilleCity_BikeShop_Text_HowToTurnMachBike:
 	.string "Eine andere Seite lesen?$"
 
 MauvilleCity_BikeShop_Text_SandySlopes:
-	.string "In der ganzen HOENN-Region gibt es\n"
+	.string "In der ganzen Hoenn-Region gibt es\n"
 	.string "sandige Gefälle.\p"
 	.string "Der lose Sand erlaubt es nicht, diese\n"
 	.string "Gefälle normal zu erklettern.\p"
-	.string "Aber mit einem EILRAD können auch\n"
+	.string "Aber mit einem Eilrad können auch\n"
 	.string "diese Gefälle gemeistert werden.\p"
 	.string "Eine andere Seite lesen?$"
 
 MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:
-	.string "Ein Handbuch zum KUNSTRAD.\p"
+	.string "Ein Handbuch zum Kunstrad.\p"
 	.string "Welche Seite möchtest du lesen?$"
 
 MauvilleCity_BikeShop_Text_Wheelies:

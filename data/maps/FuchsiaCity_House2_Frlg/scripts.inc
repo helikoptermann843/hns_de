@@ -34,7 +34,7 @@ FuchsiaCity_House2_EventScript_NoRoomForGoodRod::
 FuchsiaCity_House2_Text_DoYouLikeToFish::
 	.string "Ich bin der\n"
 	.string "ältere Bruder des\l"
-	.string "PROFIANGLERS!\p"
+	.string "Profianglers!\p"
 	.string "Ich liebe\n"
 	.string "den Angelsport!\p"
 	.string "Angelst du auch\n"
@@ -46,16 +46,16 @@ FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
 	.string "Nimm das hier und gehe angeln!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-	.string "{PLAYER} received a GOOD ROD from\n"
-	.string "the FISHING GURU's brother.$"
+	.string "{PLAYER} received a Good Rod from\n"
+	.string "the Fishing Guru's brother.$"
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
 	.string "Angeln ist meine Leidenschaft!\n"
 	.string "Es ist ein Gedicht.\p"
-	.string "Mit einer ANGEL fängst du nur\n"
-	.string "KARPADOR!\p"
-	.string "Aber mit der PROFIANGEL kannst\n"
-	.string "du bessere POKéMON fangen.$"
+	.string "Mit einer Angel fängst du nur\n"
+	.string "Karpador!\p"
+	.string "Aber mit der Profiangel kannst\n"
+	.string "du bessere Pokémon fangen.$"
 
 FuchsiaCity_House2_Text_OhThatsDisappointing::
 	.string "Oh!\n"

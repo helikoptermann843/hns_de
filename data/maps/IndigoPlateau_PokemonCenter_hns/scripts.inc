@@ -1,5 +1,5 @@
 IndigoPlateau_PokemonCenter_hns_MapScripts::
-	map_script MAP_SCRIPT_ON_FRAME_TABLE, IndigoPlateau_PokemonCenter_OnFrame 
+	map_script MAP_SCRIPT_ON_FRAME_TABLE, IndigoPlateau_PokemonCenter_OnFrame
 	map_script MAP_SCRIPT_ON_TRANSITION, IndigoPlateau_Pokecenter_OnTransition
 	.byte 0
 
@@ -45,20 +45,19 @@ IndigoPlateau_Text_ShigyNinja:
 	.string "Nun Los, weiter!$"
 
 IndigoPlateau_Text_Blackbelt:
-	.string "Die Pokémon LIGA akzeptiert\n"
+	.string "Die Pokémon Liga akzeptiert\n"
 	.string "momentan keine neuen Herausforderer.\p"
 	.string "Bitte komm später wieder.$"
 
 IndigoPlateau_Text_CooltrainerM:
-	.string "In der Pokémon LIGA stellen dich\n"
-	.string "die TOP VIER auf eine harte Probe.\p"
-	.string "Du musst sie alle schlagen. Wenn du\n"
-	.string "verlierst, musst du ganz\l"
-	.string "von vorne anfangen!$"
+	.string "Die Pokémon Liga stellt dich auf eine\n"
+	.string "harte Probe: Entweder du schaffst es,\l"
+	.string "die Top Vier am Stück zu besiegen, oder\l"
+	.string "du musst noch mal von vorne anfangen!$"
 
 IndigoPlateau_EventScript_Silver::
 	lock
-	faceplayer 
+	faceplayer
 	goto_if_set FLAG_DAILY_BEAT_SILVER, IndigoPlateau_EventScript_SilverBeat
 	msgbox IndigoPlateau_Text_RivalEntrance1, MSGBOX_DEFAULT
 	call_if_eq VAR_STARTER_MON, 0, IndigoPlateau_Silver_Battle_Cyndaquil
@@ -89,15 +88,15 @@ IndigoPlateau_Silver_Battle_Chikorita::
 
 IndigoPlateau_Text_RivalEntrance1:
 	.string "Halt.\p"
-	.string "Du willst zur Pokémon LIGA?\p"
+	.string "Du willst zur Pokémon Liga?\p"
 	.string "Das wird nicht passieren.\p"
 	.string "Meine Pokémon sind super trainiert\n"
 	.string "ich zerklatsch dich.\p"
 	.string "{PLAYER}! Ich fordere dich heraus!$"
 
 IndigoPlateau_Text_RivalWin:
-	.string "… O.K. - Ich habe\p"
-	.string "verloren…$"
+	.string "…\p"
+	.string "Ich gebe mich geschlagen…$"
 
 IndigoPlateau_Text_RivalAfter:
 	.string "…Mann… Ich kann noch nicht gewinnen…\p"
@@ -129,7 +128,7 @@ IndigoPlateau_EventScript_PsychicTeleport::
 	waitstate
 	release
 	end
-	
+
 IndigoPLateau_Movement_Abra:
 	jump_in_place_right
 	jump_in_place_right
@@ -146,7 +145,7 @@ IndigoPlateau_EventScript_Abra::
 	end
 
 IndigoPlateau_Text_TeleportGuy1:
-	.string "Ah! Du forderst die TOP-VIER heraus?\p"
+	.string "Ah! Du forderst die Top-Vier heraus?\p"
 	.string "Bist du sicher, dass du bereit bist?\p"
 	.string "Wenn du noch trainieren willst,\n"
 	.string "kann mein Abra dir helfen.\p"
@@ -154,11 +153,13 @@ IndigoPlateau_Text_TeleportGuy1:
 	.string "Willst du jetzt nach Hause gehen?$"
 
 IndigoPlateau_Text_TeleportGuyYes:
-	.string "OK, OK. Stell dir dein Haus in\n"
-	.string "deiner Vorstellung vor…$"
+	.string "Gut, in Ordnung! Dann rufe dir nun bitte\n"
+	.string "das Bild von dem Ort, den du Zuhause\l"
+	.string "nennst, ins Gedächtnis.$"
 
 IndigoPlateau_Text_TeleportGuyNo:
-	.string "OK, OK. Viel Glück für dich!$"
+	.string "Na gut, in Ordnung! Dann noch viel\n"
+	.string "Erfolg!$"
 
 IndigoPlateau_Text_Abra:
-	.string "Abra: Aabra…$"
+	.string "Abra: Abra…$"

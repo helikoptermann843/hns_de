@@ -58,20 +58,21 @@ GoldenrodCity_BikeShop_Text_ClerkIntro:
 GoldenrodCity_BikeShop_Text_ClerkAgreed:
 	.string "Ja? Großartig!\p"
 	.string "Gib mir bitte Namen und Nummer.\p"
-	.string "Dann leihe ich dir ein FAHRRAD.$"
+	.string "Dann leihe ich dir ein Fahrrad.$"
 
 GoldenrodCity_BikeShop_Text_BorrowedBicycle:
 	.string "{PLAYER} leiht ein Fahrrad.$"
 
 GoldenrodCity_BikeShop_Text_Mainshop:
-	.string "Die Welt ist ein Radweg! FAHRRADLADEN$"
+	.string "Die Welt ist ein Radweg! Fahrradladen$"
 
 GoldenrodCity_BikeShop_Text_Refused:
-	.string "…Seufz… Oh, für die Güte der Menschen…$"
+	.string "Seufz… gibt es denn keine guten\n"
+	.string "Menschen mehr auf diesem Planeten?$"
 
 GoldenrodCity_BikeShop_Text_JustReleasedCompact:
 	.string "Brandneu!\p"
-	.string "Erste Klasse Kompakt-FAHRRÄDER!$"
+	.string "Erste Klasse Kompakt-Fahrräder!$"
 
 GoldenrodCity_BikeShop_Text_Bicycle:
-	.string "Ein nagelneues FAHRRAD!$"
+	.string "Ein nigelnagelneues Fahrrad!$"

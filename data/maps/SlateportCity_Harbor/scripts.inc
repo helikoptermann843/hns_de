@@ -389,16 +389,16 @@ SlateportCity_Harbor_Text_FerryServiceUnavailable:
 SlateportCity_Harbor_Text_MayISeeYourTicket:
 	.string "Hallo! Möchtest du mit der Fähre\n"
 	.string "fahren? Zeigst du mir bitte dein\l"
-	.string "TICKET?$"
+	.string "Ticket?$"
 
 SlateportCity_Harbor_Text_YouMustHaveTicket:
-	.string "{PLAYER} hat kein TICKET…\p"
+	.string "{PLAYER} hat kein Ticket…\p"
 	.string "Das tut mir schrecklich Leid.\p"
-	.string "Nur mit einem TICKET kannst du mit der\n"
+	.string "Nur mit einem Ticket kannst du mit der\n"
 	.string "Fähre fahren.$"
 
 SlateportCity_Harbor_Text_FlashedTicketWhereTo:
-	.string "{PLAYER} zückt das TICKET.\p"
+	.string "{PLAYER} zückt das Ticket.\p"
 	.string "Perfekt! Damit kannst du an Bord!\p"
 	.string "Und wo soll die Reise hingehen?$"
 
@@ -406,10 +406,10 @@ SlateportCity_Harbor_Text_SailAnotherTime:
 	.string "Bitte komm später noch einmal wieder!$"
 
 SlateportCity_Harbor_Text_LilycoveItIs:
-	.string "Nach SEEGRASULB CITY?$"
+	.string "Nach Seegrasulb City?$"
 
 SlateportCity_Harbor_Text_BattleFrontierItIs:
-	.string "Zur KAMPFZONE?$"
+	.string "Zur Kampfzone?$"
 
 SlateportCity_Harbor_Text_PleaseBoardFerry:
 	.string "Bitte komm an Bord. Wir legen bald ab.$"
@@ -428,54 +428,54 @@ SlateportCity_Harbor_Text_AbnormalWeather:
 	.string "Um eine sichere Schiffsreise zu\n"
 	.string "gewährleisten, müssen wir stets auf\l"
 	.string "das Wetter achten.\p"
-	.string "Apropos Wetter: Ein Typ vom KLIMA-\n"
-	.string "INSTITUT hat mir etwas Interessantes\l"
+	.string "Apropos Wetter: Ein Typ vom Klima-\n"
+	.string "institut hat mir etwas Interessantes\l"
 	.string "erzählt.\p"
 	.string "Er sagte, dass im ganzen Land das\n"
 	.string "Wetter verrückt spielt!\p"
-	.string "Du solltest mal zum KLIMA-INSTITUT\n"
+	.string "Du solltest mal zum Klima-Institut\n"
 	.string "gehen und dich umhören.$"
 
 SlateportCity_Harbor_Text_SubTooSmallForMe:
-	.string "Ich wäre gerne mit KAPT. BRIGG auf die\n"
+	.string "Ich wäre gerne mit Kapt. Brigg auf die\n"
 	.string "Expedition zum Meeresboden gegangen.\p"
 	.string "Aber das U-Boot ist zu klein für mich.\n"
 	.string "\p"
 	.string "Ich könnte mich ja reinquetschen, aber\n"
-	.string "dann hätte der KAPITÄN keinen Platz\l"
+	.string "dann hätte der Kapitän keinen Platz\l"
 	.string "mehr…$"
 
 SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum:
-	.string "KAPT. BRIGG: Diese Schlägertypen…\p"
+	.string "Kapt. Brigg: Diese Schlägertypen…\p"
 	.string "Das sind die gleichen Typen, die\n"
-	.string "versucht haben, die DEVON-WAREN aus\l"
-	.string "dem MUSEUM zu stehlen.$"
+	.string "versucht haben, die Devon-waren aus\l"
+	.string "dem Museum zu stehlen.$"
 
 SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:
-	.string "ADRIAN: Oh?\n"
+	.string "Adrian: Oh?\n"
 	.string "Nicht du schon wieder… Stöhn…\p"
 	.string "Du bist ganz schön hartnäckig, uns\n"
 	.string "bis hierher zu folgen, das muss ich\l"
 	.string "schon sagen.\p"
 	.string "Und nun…\n"
 	.string "Niemand kann uns stoppen! Niemand!!!\p"
-	.string "Oder willst du uns etwa in unser VER-\n"
-	.string "STECK in SEEGRASULB CITY folgen?\p"
+	.string "Oder willst du uns etwa in unser Ver-\n"
+	.string "steck in Seegrasulb City folgen?\p"
 	.string "Ahahahahaha…$"
 
 SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
-	.string "KAPT. BRIGG: Warum…\p"
-	.string "Warum sollte TEAM AQUA mein TIEF-\n"
-	.string "SEE-FORSCHUNGSBOOT 1 stehlen wollen?\p"
+	.string "Kapt. Brigg: Warum…\p"
+	.string "Warum sollte Team Aqua mein tief-\n"
+	.string "see-Forschungsboot 1 stehlen wollen?\p"
 	.string "Sie können doch nicht hinter dem\n"
-	.string "schlafenden POKéMON am Meeresgrund\l"
+	.string "schlafenden Pokémon am Meeresgrund\l"
 	.string "her sein…\p"
 	.string "Selbst wenn ich sie verfolgen würde…\n"
 	.string "Ich hätte keine Chance gegen sie…$"
 
 SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
-	.string "KAPT. BRIGG: Oh, {PLAYER}{KUN}…\p"
-	.string "Okay… Du konntest TEAM AQUA nicht\n"
+	.string "Kapt. Brigg: Oh, {PLAYER}{KUN}…\p"
+	.string "Okay… Du konntest Team Aqua nicht\n"
 	.string "aufhalten…\p"
 	.string "Oh, nein, mach dir bitte keine\n"
 	.string "Vorwürfe!\n"
@@ -483,76 +483,76 @@ SlateportCity_Harbor_Text_TeamAquaLeftNeedDive:
 	.string "Ein U-Boot zu verfolgen und aufzu-\n"
 	.string "halten ist für die meisten Menschen\l"
 	.string "unmöglich.\p"
-	.string "Du benötigst ein POKéMON, das weiß,\n"
-	.string "wie man TAUCHER ausführt…\p"
+	.string "Du benötigst ein Pokémon, das weiß,\n"
+	.string "wie man Taucher ausführt…\p"
 	.string "Vielleicht, wenn du dich nach\n"
-	.string "MOOSBACH CITY begibst…\p"
+	.string "Moosbach City begibst…\p"
 	.string "Dort trifft man auf viele Taucher.\n"
 	.string "Vielleicht kann dir einer das\l"
 	.string "beibringen…$"
 
 SlateportCity_Harbor_Text_NeedDiveToCatchSub:
-	.string "KAPT. BRIGG: Ein U-Boot einzuholen und\n"
+	.string "Kapt. Brigg: Ein U-Boot einzuholen und\n"
 	.string "aufzuhalten… Das ist unmöglich.\p"
-	.string "Du benötigst ein POKéMON, das weiß,\n"
-	.string "wie man TAUCHER ausführt…\p"
+	.string "Du benötigst ein Pokémon, das weiß,\n"
+	.string "wie man Taucher ausführt…\p"
 	.string "Vielleicht, wenn du dich nach\n"
-	.string "MOOSBACH CITY begibst…\p"
+	.string "Moosbach City begibst…\p"
 	.string "Dort trifft man auf viele Taucher, \n"
 	.string "vielleicht kann dir einer das bei-\l"
 	.string "bringen…$"
 
 SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry:
-	.string "KAPT. BRIGG: Oh, ja.\n"
-	.string "MR. BRACK kam in unsere WERFT.\p"
+	.string "Kapt. Brigg: Oh, ja.\n"
+	.string "Mr. Brack kam in unsere Werft.\p"
 	.string "Nun dauert es nicht mehr lange, bis\n"
 	.string "wir unsere Fähre fertig stellen!$"
 
 SlateportCity_Harbor_Text_FinishedMakingFerry:
-	.string "KAPT. BRIGG: {PLAYER}{KUN}!\p"
-	.string "Wir haben die Fähre MS TIDE endlich\n"
+	.string "Kapt. Brigg: {PLAYER}{KUN}!\p"
+	.string "Wir haben die Fähre MS Tide endlich\n"
 	.string "fertig gestellt.\p"
-	.string "Ohne die Hilfe deines Freundes MR.\n"
-	.string "BRACK hätten wir das nicht geschafft.\n"
+	.string "Ohne die Hilfe deines Freundes Mr.\n"
+	.string "Brack hätten wir das nicht geschafft.\n"
 	.string "\p"
 	.string "Bitte nimm an einer kurzen Fahrt teil!$"
 
 SlateportCity_Harbor_Text_WouldYouTradeScanner:
-	.string "KAPT. BRIGG: Oh?\n"
+	.string "Kapt. Brigg: Oh?\n"
 	.string "{PLAYER}{KUN}, das Item, das du da\n"
 	.string "hast… \p"
-	.string "Das ist ein SCANNER! Der würde uns\n"
+	.string "Das ist ein Scanner! Der würde uns\n"
 	.string "sicher bei unseren Forschungen helfen.\n"
 	.string "\p"
 	.string "{PLAYER}{KUN}, würdest du ihn gegen\n"
 	.string "etwas anderes eintauschen?\p"
-	.string "Zum Beispiel gegen einen ABYSSZAHN\n"
-	.string "oder eine ABYSSPLATTE?$"
+	.string "Zum Beispiel gegen einen Abysszahn\n"
+	.string "oder eine Abyssplatte?$"
 
 SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow:
-	.string "KAPT. BRIGG: Bist du sicher? Aber\n"
+	.string "Kapt. Brigg: Bist du sicher? Aber\n"
 	.string "damit\n"
 	.string "kannst du doch nichts anfangen…\p"
-	.string "Also gut. Wenn du aber den SCANNER\n"
+	.string "Also gut. Wenn du aber den Scanner\n"
 	.string "doch\n"
 	.string "noch gegen etwas anderes tauschen\l"
 	.string "willst, dann lass es mich wissen!$"
 
 SlateportCity_Harbor_Text_TradeForDeepSeaTooth:
-	.string "KAPT. BRIGG: Du möchtest den\n"
-	.string "ABYSSZAHN dafür haben?$"
+	.string "Kapt. Brigg: Du möchtest den\n"
+	.string "Abysszahn dafür haben?$"
 
 SlateportCity_Harbor_Text_TradeForDeepSeaScale:
-	.string "KAPT. BRIGG: Du möchtest die\n"
-	.string "ABYSSPLATTE dafür haben?$"
+	.string "Kapt. Brigg: Du möchtest die\n"
+	.string "Abyssplatte dafür haben?$"
 
 SlateportCity_Harbor_Text_WhichOneDoYouWant:
-	.string "KAPT. BRIGG: Was hättest du gerne?$"
+	.string "Kapt. Brigg: Was hättest du gerne?$"
 
 SlateportCity_Harbor_Text_HandedScannerToStern:
-	.string "{PLAYER} gibt KAPT. BRIGG den SCANNER.$"
+	.string "{PLAYER} gibt Kapt. Brigg den Scanner.$"
 
 SlateportCity_Harbor_Text_ThisWillHelpResearch:
-	.string "KAPT. BRIGG: Danke, {PLAYER}{KUN}!\n"
+	.string "Kapt. Brigg: Danke, {PLAYER}{KUN}!\n"
 	.string "Das wird unsere Forschungen weiter-\l"
 	.string "bringen!$"

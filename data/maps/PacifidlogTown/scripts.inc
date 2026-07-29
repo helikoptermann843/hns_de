@@ -28,10 +28,10 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "Im Meer zwischen FLOSSBRUNN und\n"
-	.string "GRAPHITPORT CITY befinden sich\l"
+	.string "Im Meer zwischen Flossbrunn und\n"
+	.string "Graphitport City befinden sich\l"
 	.string "reißende Strömungen.\p"
-	.string "Wenn du dort SURFER einsetzt, kann es\n"
+	.string "Wenn du dort Surfer einsetzt, kann es\n"
 	.string "sein, dass du fortgetrieben wirst.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
@@ -40,7 +40,7 @@ PacifidlogTown_Text_NeatHousesOnWater:
 	.string "Ich wurde hier geboren.$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "Der HIMMELTURM?\p"
+	.string "Der Himmelturm?\p"
 	.string "Ach, du meinst bestimmt diesen hohen,\n"
 	.string "hohen Turm, der sich hier in der Nähe\l"
 	.string "befindet.\p"
@@ -49,10 +49,10 @@ PacifidlogTown_Text_SkyPillarTooScary:
 	.string "viel\l"
 	.string "zu viel Angst, weil das so hoch ist!\p"
 	.string "Leben auf Höhe des Meeresspiegels in\n"
-	.string "FLOSSBRUNN, das ist mein Ding.$"
+	.string "Flossbrunn, das ist mein Ding.$"
 
 PacifidlogTown_Text_TownSign:
-	.string "FLOSSBRUNN\p"
+	.string "Flossbrunn\p"
 	.string "“Wo die Morgensonne ein Lächeln auf\n"
 	.string "das Meer zaubert.”$"
 

@@ -83,31 +83,31 @@ SilphCo_2F_Text_Grunt2PostBattle::
 Text_ThunderWaveTeach::
 	.string "Zu Hilfe! Nein!\n"
 	.string "Bitte nicht!\p"
-	.string "Du bist gar nicht vom TEAM ROCKET!\n"
+	.string "Du bist gar nicht vom Team Rocket!\n"
 	.string "Ich dachte schon, es ginge zu\l"
 	.string "Ende!\p"
 	.string "Verzeihst du mir, wenn ich einem\n"
-	.string "deiner POKéMON DONNERWELLE\l"
+	.string "deiner Pokémon Donnerwelle\l"
 	.string "beibringe?$"
 
 Text_ThunderWaveDeclined::
 	.string "Oh…\n"
-	.string "Aber DONNERWELLE ist praktisch…$"
+	.string "Aber Donnerwelle ist praktisch…$"
 
 Text_ThunderWaveWhichMon::
-	.string "Welches POKéMON soll\n"
-	.string "DONNERWELLE erlernen?$"
+	.string "Welches Pokémon soll\n"
+	.string "Donnerwelle erlernen?$"
 
 Text_ThunderWaveTaught::
-	.string "DONNERWELLE verursacht\n"
+	.string "Donnerwelle verursacht\n"
 	.string "Paralyse beim Gegner.\p"
-	.string "Ein paralysiertes POKéMON kann\n"
+	.string "Ein paralysiertes Pokémon kann\n"
 	.string "sich im Kampf evtl. nicht bewegen.\p"
 	.string "Da es eine Attacke der Element-\n"
-	.string "klasse ELEKTRO ist, funktioniert\l"
-	.string "sie bei manchen POKéMON nicht.$"
+	.string "klasse Elektro ist, funktioniert\l"
+	.string "sie bei manchen Pokémon nicht.$"
 
 SilphCo_2F_Text_FloorSign::
 	.string "Entertainment & Snacks!\n"
-	.string "Action pur in der SPIELHALLE$"
+	.string "Action pur in der Spielhalle$"
 

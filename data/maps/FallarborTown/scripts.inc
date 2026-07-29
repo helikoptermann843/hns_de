@@ -54,46 +54,46 @@ FallarborTown_EventScript_MoveTutorSign::
 FallarborTown_Text_ShadyCharactersCozmosHome:
 	.string "Was ist los? Was ist los?\p"
 	.string "Ich habe eine zwielichtige Gestalt aus\n"
-	.string "dem LABOR von PROF. KOSMO flitzen\l"
+	.string "dem Labor von Prof. Kosmo flitzen\l"
 	.string "sehen.$"
 
 FallarborTown_Text_RegionKnownForMeteors:
 	.string "Diese Region ist schon seit Urzeiten\n"
 	.string "für ihre Meteoritenschauer bekannt.\p"
-	.string "Man sagt, METEORFÄLLE sei durch\n"
-	.string "den Aufprall eines METEORITen\l"
+	.string "Man sagt, Meteorfälle sei durch\n"
+	.string "den Aufprall eines Meteoriten\l"
 	.string "entstanden.$"
 
 FallarborTown_Text_MyPreciousAzurill:
 	.string "Schau mal! Guck doch mal!\n"
-	.string "Das ist mein süßes AZURILL!\p"
+	.string "Das ist mein süßes Azurill!\p"
 	.string "Es ist glatt, weich und plüschig!$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+	.string "Azurill: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Hast du schon FLAVIA, die LEITERIN\n"
-	.string "der ARENA von BAD LAVASTADT,\l"
+	.string "Hast du schon Flavia, die Leiterin\n"
+	.string "der Arena von Bad Lavastadt,\l"
 	.string "herausgefordert?\p"
 	.string "Ihr Großvater ist sehr berühmt.\n"
-	.string "Er war einer der TOP VIER in der\l"
-	.string "POKéMON LIGA.\p"
+	.string "Er war einer der Top Vier in der\l"
+	.string "Pokémon Liga.\p"
 	.string "Es würde mich gar nicht wundern, wenn\n"
-	.string "FLAVIA ebenfalls ein großer TRAINER\l"
+	.string "Flavia ebenfalls ein großer Trainer\l"
 	.string "wird.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "KAMPFCAMP LAUBWECHSELFELD\n"
+	.string "Kampfcamp Laubwechselfeld\n"
 	.string "“Mögen Sich Die Besten Teams Hier\l"
 	.string "Treffen!”$"
 
 FallarborTown_Text_TownSign:
-	.string "LAUBWECHSELFELD\n"
+	.string "Laubwechselfeld\n"
 	.string "“Eine Gemeinschaft von Farmern mit\l"
 	.string "kleinen Gärten.”$"
 
 FallarborTown_Text_MoveTutorSign:
-	.string "HAUS des ATTACKEN-HELFERS\n"
-	.string "“Neue Attacken für deine POKéMON.”$"
+	.string "Haus des Attacken-Helfers\n"
+	.string "“Neue Attacken für deine Pokémon.”$"
 

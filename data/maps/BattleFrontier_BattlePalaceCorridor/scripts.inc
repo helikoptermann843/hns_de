@@ -120,32 +120,32 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "Menschen und POKéMON… sind sich\n"
+	.string "Menschen und Pokémon… sind sich\n"
 	.string "manchmal erstaunlich ähnlich…\p"
 	.string "Beide sind in manchen Dingen gut, in\n"
 	.string "manchen weniger gut - abhängig von\l"
 	.string "ihrem Wesen.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Statt dein POKéMON zu zwingen, etwas\n"
+	.string "Statt dein Pokémon zu zwingen, etwas\n"
 	.string "zu tun, was es nicht mag, lass es das\l"
 	.string "machen, was es mag und gut kann.\p"
-	.string "Stell dir vor, du wärest das POKéMON.\n"
+	.string "Stell dir vor, du wärest das Pokémon.\n"
 	.string "Welche Attacken würdest du an seiner\l"
 	.string "Stelle einsetzen?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "Das Wesen eines POKéMON ist eine\n"
+	.string "Das Wesen eines Pokémon ist eine\n"
 	.string "bemerkenswerte Sache…\p"
-	.string "Einige POKéMON verhalten sich\n"
+	.string "Einige Pokémon verhalten sich\n"
 	.string "untypisch, wenn sie in die Ecke\l"
 	.string "gedrängt werden.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
 	.string "Verstehst du nun, wie sehr das Wesen\n"
-	.string "eines POKéMON sein Verhalten bestimmt?$"
+	.string "eines Pokémon sein Verhalten bestimmt?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
 	.string "Ah… Das Band zwischen dir und deinen\n"
-	.string "POKéMON ist sehr stark…$"
+	.string "Pokémon ist sehr stark…$"
 

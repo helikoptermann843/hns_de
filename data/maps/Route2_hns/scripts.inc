@@ -3,7 +3,7 @@ Route2_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route2_OnTransition: 
+Route2_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -58,17 +58,17 @@ Route2_Text_RobRegister:
     .string "eintragen!$"
 
 Route2_Text_RobRematchIntro:
-    .string "Ich habe noch mehr KÄFER-POKéMON\n"
+    .string "Ich habe noch mehr Käfer-Pokémon\n"
     .string "gefangen! Sieh sie dir an!$"
 
 Route2_Text_RobRematchDefeat:
-    .string "Ich brauche bessere KÄFER-POKéMON!$"
+    .string "Ich brauche bessere Käfer-Pokémon!$"
 
 Route2_Text_RobPostRematch:
-    .string "Ich habe jedes KÄFER-POKéMON in\n"
-    .string "VERTANIA gefangen.\p"
+    .string "Ich habe jedes Käfer-Pokémon in\n"
+    .string "Vertania gefangen.\p"
     .string "Gibt es irgendwo einen noch\n"
-    .string "besseren WALD?$"
+    .string "besseren Wald?$"
 
 Route2_Text_BugCatcherRob_Seen:
 	.string "Pass bloß auf!\n"
@@ -106,9 +106,9 @@ Route2_Text_BugCatcherDoug_AfterBattle:
 	.string "Das mag ich so an ihnen!$"
 
 Route2_Text_Sign:
-	.string "ROUTE 2\p"
-	.string "VERTANIA CITY - MARMORIA CITY$"
+	.string "Route 2\p"
+	.string "Vertania City - Marmoria City$"
 
 Route2_Text_DiglettsCaveSign:
-	.string "DIGDAs Höhle$"
+	.string "Digdas Höhle$"
 

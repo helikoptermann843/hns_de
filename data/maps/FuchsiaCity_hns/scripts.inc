@@ -23,8 +23,8 @@ FuchsiaCity_Text_BaobaName:
 	.string "Baoba$"
 
 FuchsiaCity_Text_Baoba:
-	.string "AUFSEHER Baoba: {PLAYER}!\p"
-	.string "Ich bin AUFSEHER Baoba.\p"
+	.string "Aufseher Baoba: {PLAYER}!\p"
+	.string "Ich bin Aufseher Baoba.\p"
 	.string "Etwas Schreckliches ist passiert!\n"
 	.string "Meine alte Safari-Zone in Fuchsania\l"
 	.string "City wurde aufgekauft und wieder\l"
@@ -110,13 +110,13 @@ FuchsiaCity_Text_PokefanM:
 	.string "Arenaleiterin gebracht!$"
 
 FuchsiaCity_Text_Teacher:
-	.string "Schade, dass die SAFARI-ZONE\p"
+	.string "Schade, dass die Safari-Zone\p"
 	.string "geschlossen ist…\n"
-	.string "Das ist schließlich FUCHSANIAs\l"
+	.string "Das ist schließlich Fuchsanias\l"
 	.string "Hauptattraktion.$"
 
 FuchsiaCity_Text_Sign:
-	.string "FUCHSANIA CITY\p"
+	.string "Fuchsania City\p"
 	.string "Sieh nur! Die Rosarote Lieblichkeit!$"
 
 FuchsiaCity_Text_GymSign:
@@ -130,8 +130,8 @@ FuchsiaCity_Text_SafariZoneOfficeSign:
 	.string "weiteres geschlossen.$"
 
 FuchsiaCity_Text_SafariZone:
-	.string "Safari-Zone NEUER EIGENTÜMER\n"
-	.string "DEVON CORP.$"
+	.string "Safari-Zone Neuer Eigentümer\n"
+	.string "Devon Corp.$"
 
 FuchsiaCity_Text_SafariZoneClosedSign:
 	.string "Der Aufseher ist auf Reisen.\p"

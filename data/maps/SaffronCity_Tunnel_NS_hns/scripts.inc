@@ -39,7 +39,7 @@ SaffronCity_Tunnel_NS_Text_BaldingManIntro:
 
 SaffronCity_Tunnel_NS_Text_BaldingManCandybarDetected:
 	.string "Aha!\n"
-	.string "Das ist ein WUTRIEGEL!\p"
+	.string "Das ist ein Wutriegel!\p"
 	.string "Kann ich den haben?\n"
 	.string "Bitte!$"
 

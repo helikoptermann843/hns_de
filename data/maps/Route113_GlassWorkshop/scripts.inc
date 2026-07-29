@@ -304,9 +304,9 @@ Route113_GlassWorkshop_Text_GoCollectAshWithThis:
 	.string "Schnauf, keuch…$"
 
 Route113_GlassWorkshop_Text_ExplainSootSack:
-	.string "Nimm diese ASCHETASCHE und lauf durch\n"
+	.string "Nimm diese Aschetasche und lauf durch\n"
 	.string "die Asche. Schnauf, keuch…\p"
-	.string "Damit füllst du die ASCHETASCHE mit\n"
+	.string "Damit füllst du die Aschetasche mit\n"
 	.string "Asche. Schnauf, keuch…\p"
 	.string "Und wenn du meinst, du hast genug ge-\n"
 	.string "sammelt, komm zu mir. Schnauf, keuch…$"
@@ -321,7 +321,7 @@ Route113_GlassWorkshop_Text_NotEnoughAshNeedX:
 	.string "kein Glas machen. Schnauf, keuch…\p"
 	.string "Mal sehen… Du musst noch {STR_VAR_1}\n"
 	.string "Schritt(e)\n"
-	.string "gehen, damit ich eine BLAUE FLÖTE her-\l"
+	.string "gehen, damit ich eine blaue Flöte her-\l"
 	.string "stellen kann. Schnauf, keuch…$"
 
 Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
@@ -364,7 +364,7 @@ Route113_GlassWorkshop_Text_IveFinishedGlassItem:
 	.string "dich. Hier, für dich. Schnauf, keuch…$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
-	.string "Oh. In deinem BEUTEL ist kein Platz\n"
+	.string "Oh. In deinem Beutel ist kein Platz\n"
 	.string "dafür. Schnauf, keuch…\p"
 	.string "Ich verwahre es für dich. Hol es dir\n"
 	.string "einfach später ab. Schnauf, keuch…$"
@@ -376,7 +376,7 @@ Route113_GlassWorkshop_Text_NoRoomInPC:
 	.string "einfach später ab. Schnauf, keuch…$"
 
 Route113_GlassWorkshop_Text_HaventGotYourSootSack:
-	.string "Oh. Du hast die ASCHETASCHE nicht\n"
+	.string "Oh. Du hast die Aschetasche nicht\n"
 	.string "dabei? Schnauf, keuch…\p"
 	.string "Du musst sie aber dabei haben, um\n"
 	.string "Asche\l"

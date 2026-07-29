@@ -6,6 +6,6 @@ Route7_EventScript_UndergroundPathSign::
 	end
 
 Route7_Text_UndergroundPathSign::
-	.string "TUNNELPFAD\n"
-	.string "PRISMANIA CITY - LAVANDIA$"
+	.string "Tunnelpfad\n"
+	.string "Prismania City - Lavandia$"
 

@@ -52,7 +52,7 @@ EliteFourRoom_CloseDoor::
 	end
 
 PokemonLeague_WillsRoom_EventScript_Will::
-	lock 
+	lock
 	faceplayer
 	goto_if_ge VAR_LEAGUE_STATE, 2, PokemonLeague_WillsRoom_EventScript_WillDefeated
 	goto_if_set FLAG_IS_CHAMPION, PokemonLeague_WillsRoom_EventScript_WillRematch
@@ -74,7 +74,7 @@ PokemonLeague_WillsRoom_EventScript_WillOnDefeat::
 	msgbox PokemonLeague_WillsRoom_Text_Defeat, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x28E, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -94,14 +94,14 @@ PokemonLeague_WillsRoom_EventScript_WillDefeated::
 	end
 
 PokemonLeague_WillsRoom_Text_Before:
-	.string "Willkommen in der POKéMON LIGA,\n"
+	.string "Willkommen in der Pokémon Liga,\n"
 	.string "{PLAYER}.\p"
 	.string "Erlaube mir, mich vorzustellen.\n"
-	.string "Ich bin WILLI.\p"
+	.string "Ich bin Willi.\p"
 	.string "Ich habe auf der ganzen Welt\n"
 	.string "trainiert, um meine Psycho-Pokémon\l"
 	.string "mächtig zu machen.\p"
-	.string "Und endlich wurde ich in die TOP VIER\n"
+	.string "Und endlich wurde ich in die Top Vier\n"
 	.string "aufgenommen.\p"
 	.string "Ich kann nur besser werden!\p"
 	.string "Verlieren ist keine Option!$"

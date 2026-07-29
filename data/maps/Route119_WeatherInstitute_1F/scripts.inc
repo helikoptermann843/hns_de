@@ -102,22 +102,22 @@ Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
 	.string "Wow! Bist du aber stark!\p"
-	.string "Ich wäre auch gerne ein POKéMON-\n"
-	.string "TRAINER wie du!$"
+	.string "Ich wäre auch gerne ein Pokémon-\n"
+	.string "Trainer wie du!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "Der PROFESSOR liebt den Regen.\n"
+	.string "Der Professor liebt den Regen.\n"
 	.string "Das ist eine Tatsache.\p"
 	.string "Aber wenn es noch lange so regnet,\n"
 	.string "wird das zu Problemen führen. Das ist\l"
 	.string "die andere Seite der Medaille.\p"
-	.string "Und daher erforscht der PROFESSOR,\n"
+	.string "Und daher erforscht der Professor,\n"
 	.string "wie man den Regen positiv nutzen kann.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "Im ersten Stock des INSTITUTs\n"
+	.string "Im ersten Stock des Instituts\n"
 	.string "untersuchen wir die Klimaveränderungen\l"
-	.string "in der HOENN-Region.\p"
+	.string "in der Hoenn-Region.\p"
 	.string "Wir haben dort eine temporäre Dürre\n"
 	.string "und einzelne Fälle von heftigem\l"
 	.string "Niederschlag verzeichnen können.$"
@@ -125,7 +125,7 @@ Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
 	.string "Hallo! Dein beherztes Eingreifen hat\n"
 	.string "uns gerettet!\p"
-	.string "Ich verstehe nur nicht, was die AQUAs\n"
+	.string "Ich verstehe nur nicht, was die Aquas\n"
 	.string "von uns wollten…$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:

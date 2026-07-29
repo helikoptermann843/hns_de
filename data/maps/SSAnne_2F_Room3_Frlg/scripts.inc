@@ -11,12 +11,12 @@ SSAnne_2F_Room3_EventScript_OldMan::
 
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
 	.string "{PLAYER}! Du hast uns mit Hilfe\n"
-	.string "deiner POKéMON gerettet!$"
+	.string "deiner Pokémon gerettet!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
-	.string "POKéMON können Büsche mit dem\n"
-	.string "ZERSCHNEIDER klein hacken.\p"
-	.string "Aber vergiss nicht, ZERSCHNEIDER\n"
+	.string "Pokémon können Büsche mit dem\n"
+	.string "Zerschneider klein hacken.\p"
+	.string "Aber vergiss nicht, Zerschneider\n"
 	.string "ist eine VM!\p"
 	.string "Wer sie einmal gelernt hat, kann\n"
 	.string "sie nicht so einfach vergessen!$"

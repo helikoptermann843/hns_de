@@ -31,13 +31,13 @@ ViridianCity_House_Text_NicknamingIsFun::
 	.string "leichter merken!$"
 
 ViridianCity_House_Text_MyDaddyLovesMonsToo::
-	.string "Mein Papa mag POKéMON auch sehr\n"
+	.string "Mein Papa mag Pokémon auch sehr\n"
 	.string "gerne!$"
 
 ViridianCity_House_Text_Speary::
-	.string "WILLI: Habi! HABITAK!$"
+	.string "Willi: Habi! Habitak!$"
 
 ViridianCity_House_Text_SpearowNameSpeary::
-	.string "HABITAK\n"
-	.string "Spitzname: WILLI$"
+	.string "Habitak\n"
+	.string "Spitzname: Willi$"
 

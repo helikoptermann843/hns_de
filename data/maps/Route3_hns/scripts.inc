@@ -3,7 +3,7 @@ Route3_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route3_OnTransition: 
+Route3_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -78,6 +78,6 @@ Route3_Text_FirebreatherBurt_AfterBattle:
 	.string "Aber nicht der beste Trainer…$"
 
 Route3_Text_MtMoonSquareSign:
-	.string "MONDBERGPLATZ\p"
+	.string "Mondbergplatz\p"
 	.string "Geh einfach die Treppe hoch$"
 

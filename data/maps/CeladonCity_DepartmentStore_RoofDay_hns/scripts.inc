@@ -51,5 +51,5 @@ CeladonDeptStore6F_Text_Youngster:
 	.string "Ich will Videospiele zocken!$"
 
 CeladonDeptStore6F_Text_Directory:
-	.string "5F: DACHTERRASSE VERKAUFS\n"
-	.string "AUTOMATEN$"
+	.string "5F: Dachterrasse Verkaufs\n"
+	.string "Automaten$"

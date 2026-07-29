@@ -206,11 +206,11 @@ SecretBase_Text_SmallIndentInWall::
 
 SecretBase_Text_IndentUseSecretPower::
 	.string "In der Wand ist eine kleine Einkerbung.\p"
-	.string "Möchtest du GEHEIMPOWER einsetzen?$"
+	.string "Möchtest du Geheimpower einsetzen?$"
 
 SecretBase_Text_DiscoveredSmallCavern::
-	.string "Discovered a small cavern!$"
+	.string "Eine kleine Höhle wird sichtbar.$"
 
 SecretBase_Text_WantToMakeYourSecretBaseHere:
-	.string "Möchtest du hier deine GEHEIMBASIS\n"
+	.string "Möchtest du hier deine Geheimbasis\n"
 	.string "einrichten?$"

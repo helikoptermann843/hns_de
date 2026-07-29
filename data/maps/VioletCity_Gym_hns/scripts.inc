@@ -9,11 +9,11 @@ VioletCity_Gym_EventScript_GymGuy::
 	closemessage
 	release
 	end
-	
+
 VioletCity_Gym_EventScript_GymGuy2::
 	msgbox VioletGym_Text_GymGuide_Win, MSGBOX_DEFAULT
 	release
-	end	
+	end
 
 VioletCity_Gym_EventScript_Rod::
 	trainerbattle_single TRAINER_ROD_HNS, VioletGym_Text_BirdKeeperRod_Seen, VioletGym_Text_BirdKeeperRod_Beaten
@@ -71,13 +71,13 @@ VioletGym_Text_Falkner_WinLoss:
 	.string "Pokémon meines Vaters…\p"
 	.string "Hier, nimm das.\p"
 	.string "Es ist der offizielle\n"
-	.string "FLÜGELORDEN der POKéMON LIGA.$"
+	.string "Flügelorden der Pokémon Liga.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
-	.string "{PLAYER} erhält den FLÜGELORDEN.$"
+	.string "{PLAYER} erhält den Flügelorden.$"
 
 VioletGym_Text_Falkner_BadgeExplain:
-	.string "Flügelorden erhöht die ATTACKE\n"
+	.string "Flügelorden erhöht die Attacke\n"
 	.string "deiner Pokémon.\p"
 	.string "Er erlaubt Pokémon auch Blitz\n"
 	.string "einzusetzen, wenn sie es lernen,\l"
@@ -124,13 +124,13 @@ VioletGym_Text_BirdKeeperRod_Beaten:
 	.string "Urgs!$"
 
 VioletGym_Text_BirdKeeperRod_After:
-	.string "FALKNERs Können ist groß!\p"
+	.string "Falkners Können ist groß!\p"
 	.string "Sei nicht überheblich,\n"
 	.string "nur weil du mich geschlagen hast!$"
 
 VioletGym_Text_BirdKeeperAbe_Seen:
 	.string "Mal sehen, ob du gut genug bist\n"
-	.string "für FALKNER!$"
+	.string "für Falkner!$"
 
 VioletGym_Text_BirdKeeperAbe_Beaten:
 	.string "Das kann nicht wahr sein!$"

@@ -453,14 +453,14 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 	step_end
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
-	.string "Wir nehmen deine POKéMON in unsere\n"
+	.string "Wir nehmen deine Pokémon in unsere\n"
 	.string "Obhut.\p"
 	.string "Dann kannst du dir aus einer Anzahl\n"
-	.string "von POKéMON ein paar ausleihen.$"
+	.string "von Pokémon ein paar ausleihen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
 	.string "Vielen Dank für deine Teilnahme! Deine\n"
-	.string "POKéMON sind gleich wieder topfit.$"
+	.string "Pokémon sind gleich wieder topfit.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
 	.string "Der zweite Kampf steht bevor!\n"
@@ -499,79 +499,79 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
 	.string "Gegner erkundigt.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ NORMAL.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Normal.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ FEUER.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Feuer.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ WASSER.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Wasser.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ ELEKTRO.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Elektro.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ PFLANZE.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Pflanze.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ EIS.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Eis.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ KAMPF.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Kampf.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ GIFT.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Gift.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ BODEN.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Boden.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ FLUG.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Flug.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ PSYCHO.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Psycho.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ KÄFER.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Käfer.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ GESTEIN.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Gestein.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ GEIST.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Geist.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ DRACHE.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Drache.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ UNLICHT.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Unlicht.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-	.string "The TRAINER is apparently skilled\n"
-	.string "in the handling of the FAIRY type.$"
+	.string "The Trainer is apparently skilled\n"
+	.string "in the handling of the Fairy type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "Der TRAINER ist ein Fachmann für\n"
-	.string "POKéMON vom Typ STAHL.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Stahl.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "Der TRAINER scheint keine Vorlieben\n"
+	.string "Der Trainer scheint keine Vorlieben\n"
 	.string "für einen bestimmten Typ zu haben.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
@@ -611,11 +611,11 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
 	.string "frei und bedenkenlos.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Möchtest du vor dem Kampf ein POKéMON\n"
+	.string "Möchtest du vor dem Kampf ein Pokémon\n"
 	.string "tauschen?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Vielen Dank! Der POKéMON-Tausch\n"
+	.string "Vielen Dank! Der Pokémon-Tausch\n"
 	.string "wurde durchgeführt.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
@@ -627,7 +627,7 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
 	.string "Möchtest du deinen letzten Kampf\n"
-	.string "in deinen KAMPFZONENPASS eintragen?$"
+	.string "in deinen Kampfzonenpass eintragen?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
 	.string "Entschuldigung! Hallo, entschuldige!\n"
@@ -642,14 +642,14 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
 	.string "Tut mir Leid, dass du warten musstest.\n"
 	.string "\p"
 	.string "Ich habe eine Nachricht vom\n"
-	.string "FABRIKLEITER.\p"
+	.string "Fabrikleiter.\p"
 	.string "Er sagt: “Wir werden es in Angriff\n"
 	.string "nehmen! Komm bitte her!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "Der FABRIKLEITER erwartet dich.\n"
+	.string "Der Fabrikleiter erwartet dich.\n"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
 	.string "Es tut mir Leid, aber ich kann dir\n"
-	.string "über den FABRIKLEITER nichts sagen.$"
+	.string "über den Fabrikleiter nichts sagen.$"

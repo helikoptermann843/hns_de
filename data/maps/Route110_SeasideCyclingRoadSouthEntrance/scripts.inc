@@ -37,15 +37,15 @@ Route110_SeasideCyclingRoadSouthEntrance_EventScript_ClearCyclingRoad::
 	end
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad:
-	.string "Auf dem RADWEG kannst du so\n"
+	.string "Auf dem Radweg kannst du so\n"
 	.string "schnell fahren, wie du willst.\p"
 	.string "Schnell fahren macht Spaß, pass aber\n"
 	.string "auf, dass du mit niemandem\l"
 	.string "zusammenstößt.$"
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk:
-	.string "Tut mir Leid, aber auf dem RADWEG\n"
+	.string "Tut mir Leid, aber auf dem Radweg\n"
 	.string "sind Fußgänger nicht gestattet.\p"
-	.string "Das ist gefährlich. Bring dein RAD\n"
+	.string "Das ist gefährlich. Bring dein Rad\n"
 	.string "mit…$"
 

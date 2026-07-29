@@ -38,7 +38,7 @@ Route14_Text_BeckDefeat::
 	.string "Ohh! So ein Mist!$"
 
 Route14_Text_BeckPostBattle::
-	.string "Bringe POKéMON ihrem Element\n"
+	.string "Bringe Pokémon ihrem Element\n"
 	.string "entsprechende Attacken bei, um ihre\l"
 	.string "volle Stärke auszunutzen!$"
 
@@ -51,7 +51,7 @@ Route14_Text_MarlonDefeat::
 
 Route14_Text_MarlonPostBattle::
 	.string "Meine Leidenschaft sind Vogel-\n"
-	.string "POKéMON!$"
+	.string "Pokémon!$"
 
 Route14_Text_DonaldIntro::
 	.string "Hast du die Legende von den\n"
@@ -126,8 +126,8 @@ Route14_Text_MalikPostBattle::
 	.string "Du weißt, wer gewinnt!$"
 
 Route14_Text_RouteSign::
-	.string "ROUTE 14\n"
-	.string "WESTEN: FUCHSANIA CITY$"
+	.string "Route 14\n"
+	.string "Westen: Fuchsania City$"
 
 Route14_Text_KiriIntro::
 	.string "Berta: Enke, lass es uns\n"
@@ -138,12 +138,12 @@ Route14_Text_KiriDefeat::
 	.string "Wir haben verloren, oder?$"
 
 Route14_Text_KiriPostBattle::
-	.string "BERTA: Haben wir\n"
+	.string "Berta: Haben wir\n"
 	.string "meinetwegen verloren?$"
 
 Route14_Text_KiriNotEnoughMons::
-	.string "BERTA: Wir können kämpfen, wenn\n"
-	.string "du zwei POKéMON hast.$"
+	.string "Berta: Wir können kämpfen, wenn\n"
+	.string "du zwei Pokémon hast.$"
 
 Route14_Text_JanIntro::
 	.string "Enke: Berta, los jetzt!\n"
@@ -154,10 +154,10 @@ Route14_Text_JanDefeat::
 	.string "Oh, nein!$"
 
 Route14_Text_JanPostBattle::
-	.string "ENKE: Weine nicht, BERTA!\n"
+	.string "Enke: Weine nicht, Berta!\n"
 	.string "Wir strengen uns beim nächsten\l"
 	.string "Mal noch mehr an!$"
 
 Route14_Text_JanNotEnoughMons::
-	.string "ENKE: Du möchtest kämpfen?\n"
-	.string "Du hast nicht genug POKéMON!$"
+	.string "Enke: Du möchtest kämpfen?\n"
+	.string "Du hast nicht genug Pokémon!$"

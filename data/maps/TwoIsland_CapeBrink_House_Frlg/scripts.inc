@@ -18,7 +18,7 @@ Text_JustMistaken::
 
 Text_AllowMeToTeachMonUltimateMove::
 	.string "Oh! Das ist es!\n"
-	.string "Das ist das POKéMON!\p"
+	.string "Das ist das Pokémon!\p"
 	.string "Dieses {STR_VAR_1} ist des\n"
 	.string "Erlernens meiner Attacke würdig!\p"
 	.string "Lässt du es zu?\p"

@@ -13,7 +13,7 @@ CeruleanCity_Gym_EventScript_RocketGrunt::
 	delay 20
 	playse SE_BANG
 	waitmovement 0
-	
+
 	msgbox CeruleanGym_Text_GruntIntro, MSGBOX_DEFAULT
 	closemessage
 	playse SE_PIN
@@ -127,7 +127,7 @@ CeruleanCity_Gym_EventScript_Statue::
 
 CeruleanCity_Gym_EventScript_StatueDuringRocket::
 	msgbox CeruleanGym_Text_Note, MSGBOX_SIGN
-	end 
+	end
 
 CeruleanCity_Gym_EventScript_GymStatuePostVictory::
 	msgbox CeruleanCity_Gym_Text_GymStatuePlayerWon
@@ -159,16 +159,16 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "AZURIA POKéMON-ARENA\n"
-    .string "LEITER: MISTY\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Azuria Pokémon-Arena\n"
+    .string "Leiter: Misty\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "AZURIA POKéMON-ARENA\n"
-    .string "LEITER: MISTY\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Azuria Pokémon-Arena\n"
+    .string "Leiter: Misty\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"
 
 CeruleanGym_Text_Note:
 	.string "Tut mir leid, ich bin erstmal Fort.\n"
@@ -256,7 +256,7 @@ CeruleanGym_Text_ReceivedBadge:
 
 CeruleanGym_Text_MistyFightDone:
 	.string "Misty: Gibt es viele starke\n"
-	.string "Trainer in JOHTO?\l"
+	.string "Trainer in Johto?\l"
 	.string "Wie dich meine ich?\p"
 	.string "Eines Tages werde ich reisen,\n"
 	.string "um gegen einige geschickte\l"

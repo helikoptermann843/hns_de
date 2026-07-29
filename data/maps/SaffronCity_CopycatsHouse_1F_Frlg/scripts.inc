@@ -26,7 +26,7 @@ SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered::
 SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
 	.string "Hier drüben!\n"
 	.string "Wir versuchen, hier zu graben.\p"
-	.string "Der Schatz, über den die VORS.\n"
+	.string "Der Schatz, über den die Vors.\n"
 	.string "reden, muss hier irgendwo sein.$"
 
 SaffronCity_CopycatsHouse_1F_Text_Chansey::

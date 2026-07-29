@@ -26,26 +26,26 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 	end
 
 MossdeepCity_House3_Text_YouWantSuperRod:
-	.string "Hey, du da! TRAINER!\n"
-	.string "Eine SUPERANGEL ist wirklich super!\p"
+	.string "Hey, du da! Trainer!\n"
+	.string "Eine Superangel ist wirklich super!\p"
 	.string "Man kann sagen, was man will, aber mit\n"
-	.string "diesem Baby kann man POKéMON vom\l"
+	.string "diesem Baby kann man Pokémon vom\l"
 	.string "Meeresboden weg fangen!\p"
 	.string "Na? Du würdest doch zu gerne auch so\n"
 	.string "eine Angel haben, oder?$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
 	.string "Sicher, sicher!\n"
-	.string "Schließlich ist eine SUPERANGEL super!$"
+	.string "Schließlich ist eine Superangel super!$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
 	.string "Stehst du am Wasser, dann wirf die\n"
-	.string "ANGEL aus und schau, was anbeißt!$"
+	.string "Angel aus und schau, was anbeißt!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
 	.string "Was??? Liebst du das Angeln nicht?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Mit deiner SUPERANGEL kannst du die\n"
-	.string "POKéMON am Meeresboden fangen.$"
+	.string "Mit deiner Superangel kannst du die\n"
+	.string "Pokémon am Meeresboden fangen.$"
 

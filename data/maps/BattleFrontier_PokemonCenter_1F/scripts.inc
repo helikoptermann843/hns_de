@@ -39,21 +39,21 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
 	.string "Hier war gerade jemand, der hat ein\n"
-	.string "POKéMON gehabt, das ich vorher noch\p"
+	.string "Pokémon gehabt, das ich vorher noch\p"
 	.string "nie gesehen habe. Ich habe auch in der\n"
-	.string "TRAINERSCHULE nichts darüber gelernt.\n"
+	.string "Trainerschule nichts darüber gelernt.\n"
 	.string "\p"
-	.string "Wo findet man wohl so ein POKéMON?$"
+	.string "Wo findet man wohl so ein Pokémon?$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-	.string "Okay! Nächster Halt: KAMPFRING!\n"
-	.string "Ich sollte mir schnell ein POKéMON aus\l"
-	.string "dem POKéMON-Lagerungs-System nehmen.$"
+	.string "Okay! Nächster Halt: Kampfring!\n"
+	.string "Ich sollte mir schnell ein Pokémon aus\l"
+	.string "dem Pokémon-Lagerungs-System nehmen.$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
 	.string "Kicher… Mit diesem Schatz hier werde\n"
 	.string "ich jede Herausforderung bestehen!$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
-	.string "ENECO: Mya myaaah!$"
+	.string "Eneco: Mya myaaah!$"
 

@@ -45,7 +45,7 @@ Route16_House_Text_ReceivedHM02FromGirl::
 	.string "from the girl.$"
 
 Route16_House_Text_ExplainHM02::
-	.string "VM02 ist FLIEGEN. Damit kannst du\n"
+	.string "VM02 ist Fliegen. Damit kannst du\n"
 	.string "in jede Stadt zurückfliegen.\p"
 	.string "Sie wird dir von Nutzen sein!$"
 
@@ -54,5 +54,5 @@ Route16_House_Text_DontHaveAnyRoomForThis::
 	.string "mitzunehmen!$"
 
 Route16_House_Text_Fearow::
-	.string "IBITAK: IBITAK!$"
+	.string "Ibitak: Ibitak!$"
 

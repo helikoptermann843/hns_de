@@ -514,7 +514,7 @@ AzaleaTown_Gym_EventScript_Amy::
 	msgbox AzaleaTown_Gym_Text_TwinsAmyMay1After, MSGBOX_DEFAULT
 	release
 	end
-	
+
 AzaleaTown_Gym_EventScript_May::
 	trainerbattle_double TRAINER_AMY_AND_MAY_HNS, AzaleaTown_Gym_Text_TwinsAmyMay2Seen, AzaleaTown_Gym_Text_TwinsAmyMay2Beaten, Route104_Text_GinaNotEnoughMons
 	special GetPlayerBigGuyGirlString
@@ -751,7 +751,7 @@ AzaleaTown_Gym_Text_BugCatcherAlAfter:
 	.string "Ich weiß nicht warum…$"
 
 AzaleaTown_Gym_Text_BugCatcherJoshSeen:
-	.string "Du hast die FLEGMON gerettet? Alle\n"
+	.string "Du hast die Flegmon gerettet? Alle\n"
 	.string "Achtung, nicht von schlechten Eltern!\p"
 	.string "Aber meine ausgewachsenen Pokémon\n"
 	.string "sind auch sehr stark!$"
@@ -764,32 +764,32 @@ AzaleaTown_Gym_Text_BugCatcherJoshAfter:
 	.string "ein wenig besser trainieren…$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Seen:
-	.string "EVA: Hi! fordest du den Leiter\n"
+	.string "Eva: Hi! fordest du den Leiter\n"
 	.string "heraus? Unmöglich!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Beaten:
-	.string "EVA & UTE: Oh, um Himmels\n"
+	.string "Eva & Ute: Oh, um Himmels\n"
 	.string "willen!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1After:
-	.string "EVA: Du bist stark!\p"
+	.string "Eva: Du bist stark!\p"
 	.string "Aber Kai ist stärker!\n"
 	.string "Der Zerschneider seines Sichlor\l"
 	.string "trifft fast immer kritisch!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Seen:
-	.string "UTE: Du willst den Leiter\n"
+	.string "Ute: Du willst den Leiter\n"
 	.string "sehen? Viel Glück!\p"
 	.string "Kai ist so stark!\n"
 	.string "Der Zerschneider seines Sichlor\l"
 	.string "trifft fast immer kritisch!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2Beaten:
-	.string "EVA & UTE: Oh, um\n"
+	.string "Eva & Ute: Oh, um\n"
 	.string "Himmels willen!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay2After:
-	.string "UTE: Unsere Käfer haben verloren!\n"
+	.string "Ute: Unsere Käfer haben verloren!\n"
 	.string "Oh, mann.\p"
 	.string "Kai wird nicht verlieren!\p"
 	.string "Sein Tannza hat keine Probleme\n"
@@ -798,7 +798,7 @@ AzaleaTown_Gym_Text_TwinsAmyMay2After:
 AzaleaTown_Gym_Text_GymGuide:
 	.string "Yo, herausforderer!\p"
 	.string "Kai ist jung, aber sein Wissen\n"
-	.string "über Käfer-POKéMON ist enorm.\p"
+	.string "über Käfer-Pokémon ist enorm.\p"
 	.string "Es wird nicht einfach werden,\n"
 	.string "ohne meine Tipps.\p"
 	.string "Mal sehen… sein Tannza\n"

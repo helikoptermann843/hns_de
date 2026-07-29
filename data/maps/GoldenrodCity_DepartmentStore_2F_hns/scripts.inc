@@ -35,19 +35,19 @@ GoldenrodDeptStore2_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_2FYoungster:
-	.string "Der PokeCOM kann\n"
+	.string "Der PokeCom kann\n"
 	.string "bis zu zehn Nummern speichern.\p"
 	.string "Es ist schwer zu entscheiden,\n"
 	.string "welche Nummer man behalten soll.$"
 
 GoldenrodDeptStore_Text_2FCooltrainerF:
-	.string "Ich habe mein ABRA in der SPIELHALLE\n"
-	.string "gewonnen. Jetzt ist es mein bester\l"
-	.string "Partner.$"
+	.string "Ich habe mein Abra in der Spielhalle\n"
+	.string "gewonnen, und jetzt ist es mein bester\l"
+	.string "Kumpel.$"
 
 GoldenrodDeptStore_Text_2FGentleman:
-	.string "Dieses KAUFHAUS zeigt mir,\n"
-	.string "dass DUKATIA CITY eine\l"
+	.string "Dieses Kaufhaus zeigt mir,\n"
+	.string "dass Dukatia City eine\l"
 	.string "sehr große Stadt ist.\p"
 	.string "Dieses Angebot ist unübertrefflich!$"
 
@@ -217,11 +217,10 @@ GoldenrodDeptStore_Text_ExtraDrinkClankedDown:
 	.string "fällt herunter!$"
 
 GoldenrodDeptStore_Text_NotEnoughMoney:
-	.string "Du hast nicht genug Geld dafür!$"
+	.string "Nicht genug Geld…$"
 
 GoldenrodDeptStore_Text_DecidedAgainstBuyingDrink:
 	.string "Ich kaufe mir doch kein Getränk.$"
 
 GoldenrodDeptStore_Text_2FDirectory:
-	.string "Ihr Reisebegleiter\p"
-	.string "1S TRAINERMARKT$"
+	.string "Dein Reisebegleiter 1S: Trainermarkt$"

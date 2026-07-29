@@ -232,46 +232,46 @@ BattleFrontier_OutsideEast_EventScript_Camper_hns::
 	end
 
 BattleFrontier_OutsideEast_Text_BattleTowerSign_hns:
-	.string "DUELLTURM\n"
+	.string "Duellturm\n"
 	.string "“Besiege alle und werde der beste\l"
-	.string "TRAINER!”$"
+	.string "Trainer!”$"
 
 BattleFrontier_OutsideEast_Text_BattlePalaceSign_hns:
-	.string "Dies ist der KAMPFPALAST!\n"
-	.string "Schaut euch die POKéMON-Kämpfe an!$"
+	.string "Dies ist der Kampfpalast!\n"
+	.string "Schaut euch die Pokémon-Kämpfe an!$"
 
 BattleFrontier_OutsideEast_Text_BattleArenaSign_hns:
-	.string "Dies ist der KAMPFRING!\n"
+	.string "Dies ist der Kampfring!\n"
 	.string "Hier treffen sich die stärksten Teams!$"
 
 BattleFrontier_OutsideEast_Text_BattlePyramidSign_hns:
-	.string "Dies ist die KAMPFPYRAMIDE!\n"
+	.string "Dies ist die Kampfpyramide!\n"
 	.string "Geh in das Abenteuer Kampfforschung!$"
 
 BattleFrontier_OutsideEast_Text_RankingHallSign_hns:
-	.string "KAMPFZONE ERGEBNISHALLE\n"
+	.string "Kampfzone Ergebnishalle\n"
 	.string "Schau dir die neuesten Rekorde an!$"
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign_hns:
-	.string "GEWINNPUNKTE TAUSCHECKE\n"
+	.string "Gewinnpunkte Tauschecke\n"
 	.string "Löse deine Gewinnpunkte ein!$"
 
 BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial_hns:
 	.string "Wow! Ist das riiiiesig!\p"
-	.string "Der DUELLTURM hat eine besondere\n"
+	.string "Der Duellturm hat eine besondere\n"
 	.string "Atmosphäre. Ganz anders als die\l"
 	.string "anderen Orte.$"
 
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier_hns:
 	.string "Ich habe Großes vor! Ich will die\n"
-	.string "KAMPF-\n"
-	.string "ZONE und die POKéMON LIGA erobern!\p"
+	.string "Kampf-\n"
+	.string "zone und die Pokémon Liga erobern!\p"
 	.string "Und wenn dieser Traum wahr wird…\p"
-	.string "Dann werde ich… meine Nachbarin MIMI\n"
+	.string "Dann werde ich… meine Nachbarin Mimi\n"
 	.string "fragen, ob sie meine Freundin wird!$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh_hns:
-	.string "Die KAMPFPYRAMIDE ist wirklich\n"
+	.string "Die Kampfpyramide ist wirklich\n"
 	.string "hammerhart! Ich schaff das nicht!\p"
 	.string "Wenn ich es auf dem normalen Weg nicht\n"
 	.string "nach oben schaffe… vielleicht sollte\l"
@@ -281,7 +281,7 @@ BattleFrontier_OutsideEast_Text_ThriveInDarkness_hns:
 	.string "Ich lebe von der Dunkelheit…\n"
 	.string "Ja… Und welche Herausforderung ist\l"
 	.string "gerade gut genug für mich?\p"
-	.string "Die KAMPFPYRAMIDE! Liebst du nicht\n"
+	.string "Die Kampfpyramide! Liebst du nicht\n"
 	.string "auch die Dunkelheit? Die Verzweiflung\l"
 	.string "und das Ungewisse?$"
 
@@ -292,26 +292,26 @@ BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam_hns:
 	.string "ultimative Team!!! Ich sehe mich als\n"
 	.string "Sieger, und nur als Sieger, kein Witz!\n"
 	.string "\p"
-	.string "Wir werden den KAMPFRING wie ein\n"
+	.string "Wir werden den Kampfring wie ein\n"
 	.string "Orkan durchfegen und gewinnen!$"
 
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere_hns:
-	.string "Hat SCOTT dich auch hierher einge-\n"
+	.string "Hat Scott dich auch hierher einge-\n"
 	.string "laden? Wie macht er das nur?\p"
 	.string "Er scheint ein Auge für talentierte\n"
-	.string "TRAINER zu haben, aber…\p"
+	.string "Trainer zu haben, aber…\p"
 	.string "Ich habe ihn selbst noch nie kämpfen\n"
 	.string "gesehen…$"
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy_hns:
-	.string "ZIGG!\n"
+	.string "Zigg!\n"
 	.string "Ich glaube an dich, mein kleiner\n"
 	.string "Freund! \p"
 	.string "Und wenn du gewinnst, werde ich dich\n"
 	.string "mit allem, was du magst, verwöhnen!$"
 
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant_hns:
-	.string "ZIGZACHS schaut erwartungsvoll…$"
+	.string "Zigzachs schaut erwartungsvoll…$"
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody_hns:
 	.string "Die anderen sagen, ich wäre eine\n"
@@ -324,13 +324,13 @@ BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody_hns:
 	.string "Du da, wirf keinen Müll auf den Boden!\l"
 	.string "Du da, du machst das ja ganz falsch!\p"
 	.string "Ich glaube nicht, dass ich es jemals\n"
-	.string "schaffen werde, im KAMPFPALAST\l"
+	.string "schaffen werde, im Kampfpalast\l"
 	.string "still zu sein und zuzuschauen…$"
 
 BattleFrontier_OutsideEast_Text_OnceBeatGymLeader_hns:
 	.string "Heute ist das vielleicht schwer\n"
 	.string "vorstellbar, aber ich habe mal einen\l"
-	.string "ARENALEITER besiegt!\p"
+	.string "Arenaleiter besiegt!\p"
 	.string "Wer weiß? Vielleicht sollte ich es\n"
 	.string "noch einmal versuchen?!?$"
 
@@ -341,12 +341,12 @@ BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles_hns:
 	.string "Millisekunde für den Sieg!$"
 
 BattleFrontier_OutsideEast_Text_BetterThanDaddyAtPokemon_hns:
-	.string "Ich kann besser mit POKéMON umgehen\n"
+	.string "Ich kann besser mit Pokémon umgehen\n"
 	.string "als mein Vati.$"
 
 BattleFrontier_OutsideEast_Text_GoRackUpSomeWinsForDaddy_hns:
 	.string "Los, meine kleine Prinzessin! Besiege\n"
-	.string "die TRAINER und mach deinen Vati\n"
+	.string "die Trainer und mach deinen Vati\n"
 	.string "stolz! \p"
 	.string "Du bist deiner Mutti sehr ähnlich. Du\n"
 	.string "bist dominant, du wirst das schaffen!$"
@@ -356,7 +356,7 @@ BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena_hns:
 	.string "schwierig zu meistern. Aber ich hatte\l"
 	.string "gehört, dass hier ein umwerfend süßes\n"
 	.string "\p"
-	.string "Mädchen im KAMPFRING sein soll.\n"
+	.string "Mädchen im Kampfring sein soll.\n"
 	.string "Und weißt du, auf wen ich getroffen\n"
 	.string "bin,\l"
 	.string "als ich dann endlich hier ankam?!?\p"
@@ -367,15 +367,15 @@ BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena_hns:
 BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere_hns:
 	.string "Manchmal läuft hier ein wichtig\n"
 	.string "aussehender, älterer Herr herum.\p"
-	.string "Er hat wirklich beeindruckende POKéMON\n"
+	.string "Er hat wirklich beeindruckende Pokémon\n"
 	.string "und er scheint sehr nett zu sein.$"
 
 BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid_hns:
 	.string "Hast du schon mal etwas über die\n"
-	.string "Legende der KAMPFPYRAMIDE gehört?\p"
-	.string "Wenn ein überzeugender TRAINER den\n"
+	.string "Legende der Kampfpyramide gehört?\p"
+	.string "Wenn ein überzeugender Trainer den\n"
 	.string "goldenen Gipfel erreicht, dann\l"
-	.string "erscheint der TRAINER aller TRAINER.\p"
+	.string "erscheint der Trainer aller Trainer.\p"
 	.string "Wie, das wusstest du nicht?\n"
 	.string "Natürlich nicht!\l"
 	.string "Das habe ich doch gerade erfunden!\p"
@@ -393,12 +393,12 @@ BattleFrontier_OutsideEast_Text_GotWipedOut_hns:
 
 BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower_hns:
 	.string "Er ist auf einen mordsmäßig starken\n"
-	.string "TRAINER getroffen, als er sich durch\l"
-	.string "den DUELLTURM gekämpft hat.\p"
+	.string "Trainer getroffen, als er sich durch\l"
+	.string "den Duellturm gekämpft hat.\p"
 	.string "Und nun schau ihn dir an…\n"
 	.string "Ein Häufchen Elend…\p"
 	.string "Du musst auf alles gefasst sein, wenn\n"
-	.string "du den DUELLTURM betrittst!$"
+	.string "du den Duellturm betrittst!$"
 
 BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll_hns:
 	.string "Ja!\n"
@@ -408,7 +408,7 @@ BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll_hns:
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere_hns:
 	.string "Oh, yeah, okay!\n"
-	.string "Dies ist also die ERGEBNISHALLE!\p"
+	.string "Dies ist also die Ergebnishalle!\p"
 	.string "Ich will in die Geschichte eingehen!\n"
 	.string "Als\n"
 	.string "Superchamp! Ich will meinen Namen für\l"
@@ -421,9 +421,9 @@ BattleFrontier_OutsideEast_Text_CanDoAnythingWithYou_hns:
 BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome_hns:
 	.string "Oh, Liebling, du bist wundervoll!\p"
 	.string "Oh, ich kann nicht länger warten!\p"
-	.string "Lass uns sofort zu den MULTIKÄMPFEN\n"
+	.string "Lass uns sofort zu den Multikämpfen\n"
 	.string "gehen!\p"
-	.string "Wenn wir zusammen in der TEAMLOUNGE\n"
+	.string "Wenn wir zusammen in der Teamlounge\n"
 	.string "sind… wird die Macht unserer Liebe\n"
 	.string "alle\l"
 	.string "Hindernisse beseitigen!\p"
@@ -431,12 +431,12 @@ BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome_hns:
 	.string "steine in einer Reihe, Liebling!$"
 
 BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers_hns:
-	.string "Die KAMPFZONE steht nicht nur\n"
-	.string "starken TRAINERn offen.\p"
+	.string "Die Kampfzone steht nicht nur\n"
+	.string "starken Trainern offen.\p"
 	.string "Hier sind auch viele, die sich durch\n"
 	.string "besondere Eigenschaften und\l"
 	.string "Fähigkeiten auszeichnen.\p"
-	.string "Dieser SCOTT…\p"
+	.string "Dieser Scott…\p"
 	.string "Er hat diesen Ort mit Sicherheit\n"
 	.string "gebaut,\l"
 	.string "weil er etwas Höheres im Sinn hat…$"
@@ -456,7 +456,7 @@ BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere_hns:
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail_hns:
 	.string "Ich… Ich habe es genau gesehen!!!\p"
-	.string "Da vorne war ein merkwürdiges POKéMON\n"
+	.string "Da vorne war ein merkwürdiges Pokémon\n"
 	.string "mit einem langen Schweif!\p"
 	.string "Es hatte sich unter einem Felsen\n"
 	.string "versteckt und starrte mich an!$"

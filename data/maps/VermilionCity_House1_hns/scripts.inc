@@ -13,11 +13,11 @@ VermilionCity_House1_Text_FishingDude:
 	.string "Hast du schon mal was von diesem\n"
 	.string "Profi-Angler am See des Zorns gehört?\p"
 	.string "Sein Traum ist es, einmal das größte\n"
-	.string "KARPADOR der Welt zu entdecken.\p"
+	.string "Karpador der Welt zu entdecken.\p"
 	.string "Wenn's dir nichts ausmacht, dann zeige\n"
-	.string "ihm doch alle KARPADOR, die du fängst!\p"
+	.string "ihm doch alle Karpador, die du fängst!\p"
 	.string "Wer weiß, vielleicht fängst du ja das\n"
-	.string "KARPADOR seiner Träume!$"
+	.string "Karpador seiner Träume!$"
 
 VermilionCity_House1_Text_Photo:
 	.string "Das ist ein Foto von Leuten,\n"

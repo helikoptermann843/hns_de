@@ -23,7 +23,7 @@ OlivineCity_Text_MartCooltrainerF:
 	.string "übers Wasser zu tragen?$"
 
 OlivineCity_Text_MartLass:
-	.string "Das SMETTBO, das mir mein Schatz\n"
+	.string "Das Smettbo, das mir mein Schatz\n"
 	.string "aus Übersee geschickt hat, hatte\l"
 	.string "einen Brief dabei!\p"
 	.string "Willst du wissen, was er schreibt?\n"

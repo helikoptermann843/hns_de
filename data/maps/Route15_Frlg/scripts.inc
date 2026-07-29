@@ -124,8 +124,8 @@ Route15_Text_YazminPostBattle::
 	.string "Trainern üben...$"
 
 Route15_Text_RouteSign::
-	.string "ROUTE 15\n"
-	.string "WESTEN: FUCHSANIA CITY$"
+	.string "Route 15\n"
+	.string "Westen: Fuchsania City$"
 
 Route15_Text_MyaIntro::
 	.string "Eva: Du bist perfekt!\n"
@@ -142,9 +142,9 @@ Route15_Text_MyaPostBattle::
 	.string "einige Lektionen hinzu.$"
 
 Route15_Text_MyaNotEnoughMons::
-	.string "EVA: Möchtest du uns\n"
+	.string "Eva: Möchtest du uns\n"
 	.string "herausfordern? Du brauchst\l"
-	.string "allerdings zwei POKéMON!$"
+	.string "allerdings zwei Pokémon!$"
 
 Route15_Text_RonIntro::
 	.string "Sergio: Meine Schwester bekommt\n"
@@ -160,6 +160,6 @@ Route15_Text_RonPostBattle::
 	.string "nette Schwester…$"
 
 Route15_Text_RonNotEnoughMons::
-	.string "SERGIO: Wolltest du gegen meine\n"
+	.string "Sergio: Wolltest du gegen meine\n"
 	.string "Schwester und mich antreten?\p"
-	.string "Dann brauchst du zwei POKéMON!$"
+	.string "Dann brauchst du zwei Pokémon!$"

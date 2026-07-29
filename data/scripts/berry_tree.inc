@@ -337,15 +337,15 @@ BerryTree_EventScript_PlantBerry::
 	return
 
 BerryTree_Text_ItsSoftLoamySoil:
-	.string "Fruchtbarer Boden.$"
+	.string "Das ist weicher Lehmboden.$"
 
 BerryTree_Text_WantToPlant:
-	.string "Fruchtbarer Boden.\n"
+	.string "Das ist weicher Lehmboden.\n"
 	.string "Möchtest du eine Beere pflanzen?$"
 
 BerryTree_Text_PlantedOneBerry:
-	.string "{PLAYER} pflanzt eine {STR_VAR_1} in\n"
-	.string "den lehmigen Boden.$"
+	.string "{PLAYER} pflanzt eine\n"
+	.string "{STR_VAR_1} in den Lehmboden.$"
 
 BerryTree_Text_BerryGrowthStage1:
 .if OW_BERRY_SIX_STAGES == TRUE
@@ -392,30 +392,30 @@ BerryTree_Text_CareAdverbGood:
 	.string "hübsch$"
 
 BerryTree_Text_WantToPick:
-	.string "Du findest {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Möchtest du die\n"
-	.string "{STR_VAR_1} mitnehmen?$"
+	.string "{STR_VAR_2} {STR_VAR_1}!\p"
+	.string "Möchtest du die {STR_VAR_1}\n"
+	.string "pflücken?$"
 
 BerryTree_Text_PickedTheBerry:
 	.string "{PLAYER} pflückt die {STR_VAR_2} {STR_VAR_1}.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER} verstaut die {STR_VAR_1}\n"
-	.string "in der Beeren-Tasche.\p"
-	.string "Der Boden ist wieder\n"
-	.string "weich und lehmig.$"
+	.string "{PLAYER} packt die {STR_VAR_1}\n"
+	.string "in die Beerentasche des Beutels.\p"
+	.string "Der Boden ist wieder weich und lehmig.$"
 
 BerryTree_Text_BerryPocketFull:
-	.string "Die Beeren-Tasche ist voll.\p"
-	.string "Kann {STR_VAR_1} nicht mitnehmen.$"
+	.string "Die Beerentasche des Beutels ist voll.\p"
+	.string "Die {STR_VAR_1} können nicht\n"
+	.string "mitgenommen werden.$"
 
 BerryTree_Text_BerryLeftUnpicked:
-	.string "{PLAYER} lässt die {STR_VAR_1}\n"
-	.string "ungepflückt zurück.$"
+	.string "{PLAYER} pflückt keine\n"
+	.string "{STR_VAR_1}.$"
 
 BerryTree_Text_WantToWater:
 	.string "Möchtest du die {STR_VAR_1} mit der\n"
-	.string "WAILMER-KANNE gießen?$"
+	.string "Wailmer-Kanne gießen?$"
 
 BerryTree_Text_WateredTheBerry:
 	.string "{PLAYER} gießt die {STR_VAR_1}.$"
@@ -481,7 +481,7 @@ BerryTree_Text_PickedTheBerry_Mutation:
 BerryTree_Text_PutAwayBerry_Mutation:
 	.string "{PLAYER} verstaut die {STR_VAR_1}\n"
 	.string "und die {STR_VAR_3} in der\l"
-	.string "BEERENTASCHE.\p"
+	.string "Beerentasche.\p"
 	.string "Der Boden ist wieder weich\n"
 	.string "und lehmig.$"
 .endif

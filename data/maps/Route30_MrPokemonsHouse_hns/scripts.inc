@@ -9,7 +9,7 @@ MrPokemonHouse_OnFrame::
 MrPokemonHouse_EventScript_GiveEgg::
 	lock
 	playse SE_PIN
-	applymovement LOCALID_MRPOKEMON, Common_Movement_ExclamationMark	
+	applymovement LOCALID_MRPOKEMON, Common_Movement_ExclamationMark
 	delay 60
 	turnobject LOCALID_MRPOKEMON, DIR_SOUTH
 	msgbox MrPokemonHouse_Text_Intro1, MSGBOX_DEFAULT
@@ -27,16 +27,16 @@ MrPokemonHouse_EventScript_GiveEgg::
 	closemessage
 	playbgm MUS_HG_OAK, TRUE
 	applymovement LOCALID_ROUTE30_OAK, MrPokemonHouse_Movement_OakToPlayer
-	waitmovement 0 
+	waitmovement 0
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_EAST
 	msgbox MrPokemonHouse_Text_OakIntro, MSGBOX_DEFAULT
-	
+
 
 	playfanfare MUS_OBTAIN_ITEM
 	message MrPokemonHouse_Text_GetDex
 	waitfanfare
 
-	
+
 	msgbox MrPokemonHouse_Text_OakParting, MSGBOX_DEFAULT
 	closemessage
 	applymovement LOCALID_ROUTE30_OAK, MrPokemonHouse_Movement_OakLeave
@@ -55,7 +55,7 @@ MrPokemonHouse_EventScript_GiveEgg::
 	removeobject LOCALID_MRPOKEMON
 	clearflag FLAG_HIDE_MRPOKEMON
 	addobject LOCALID_MRPOKEMON2
-	
+
 	setvar VAR_NEWBARKTOWN_LABSTATE, 4
 	setflag FLAG_HIDE_SILVER_NEWBARKTOWN
 	setflag FLAG_SYS_POKEDEX_GET
@@ -91,7 +91,7 @@ MrPokemonHouse_EventScript_MrPokemon_RedScale::
 	msgbox MrPokemonHouse_Text_Disappointed, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 MrPokemonHouse_EventScript_MrPokemon_RedScale_Accepted::
 	removeitem ITEM_RED_SCALE
@@ -157,7 +157,7 @@ MrPokemonHouse_Text_Intro2:
 	.string "Lind für mich untersuchen soll.$"
 
 MrPokemonHouse_Text_GotEgg:
-	.string "{PLAYER} erhält RÄTSEL-EI.$"
+	.string "{PLAYER} erhält Rätsel-Ei.$"
 
 MrPokemonHouse_Text_Intro3:
 	.string "Ich kenne ein Paar,\n"
@@ -177,7 +177,7 @@ MrPokemonHouse_Text_Intro4:
 MrPokemonHouse_Text_Intro5:
 	.string "Ich gehe davon aus,\n"
 	.string "dass Prof. Lind mehr über\l"
-	.string "das EI weiß.$"
+	.string "das Ei weiß.$"
 
 MrPokemonHouse_Text_Heal:
 	.string "Du gehst jetzt wieder zu Professor Lind\n"
@@ -224,16 +224,16 @@ MrPokemonHouse_Text_GetDex:
 
 MrPokemonHouse_Text_OakParting:
 	.string "Triff viele verschiedene Pokémon\n"
-	.string "und vervollständige den POKéDEX!\p"
+	.string "und vervollständige den Pokédex!\p"
 	.string "Aber ich bin schon zu lange\n"
 	.string "geblieben.\p"
-	.string "Ich muss nach DUKATIA CITY\n"
+	.string "Ich muss nach Dukatia City\n"
 	.string "zu meiner gewohnten Radiosendung.\p"
 	.string "{PLAYER}, ich zähle auf dich!$"
 
 MrPokemonHouse_Text_GimmeTheScale:
 	.string "Hm? Diese Schuppe… kann das sein?\n"
-	.string "Ja! Die gehörte einem roten GARADOS!\p"
+	.string "Ja! Die gehörte einem roten Garados!\p"
 	.string "Da… das nenne ich mal selten!\n"
 	.string "Ich muss sie haben!\p"
 	.string "{PLAYER}, würdest du sie mir\n"
@@ -263,4 +263,4 @@ MrPokemonHouse_Text_StrangeCoins:
 	.string "anderen Land?$"
 
 MrPokemonHouse_Text_GotExpShare:
-	.string "{PLAYER} erhält EP-TEILER!$"
+	.string "{PLAYER} erhält EP-Teiler!$"

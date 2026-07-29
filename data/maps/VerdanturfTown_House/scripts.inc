@@ -10,9 +10,9 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Weit von hier, in PRACHTPOLIS CITY,\n"
-	.string "findest du die POKéMON LIGA.\p"
-	.string "Die TRAINER dort sind alle geradezu\n"
+	.string "Weit von hier, in Prachtpolis City,\n"
+	.string "findest du die Pokémon Liga.\p"
+	.string "Die Trainer dort sind alle geradezu\n"
 	.string "Furcht erregend talentiert.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:

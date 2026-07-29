@@ -206,27 +206,27 @@ FuchsiaCity_SafariZone_Entrance_EventScript_ExplainSafariZone::
 	end
 
 FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
-	.string "Willkommen in der SAFARI-ZONE!$"
+	.string "Willkommen in der Safari-Zone!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
 	.string "Für nur 500¥ darfst du im Park so\n"
-	.string "viele POKéMON fangen, wie du\l"
+	.string "viele Pokémon fangen, wie du\l"
 	.string "möchtest!\p"
 	.string "Möchtest du auf die Jagd gehen?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
 	.string "Das kostet 500¥!\p"
 	.string "Wir verwenden hier spezielle\n"
-	.string "POKéBÄLLE.$"
+	.string "Pokébälle.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-	.string "{PLAYER} received 30 SAFARI BALLS\n"
+	.string "{PLAYER} received 30 Safari Balls\n"
 	.string "from the attendant.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
 	.string "Wir rufen dich über Lautsprecher\n"
 	.string "aus, wenn deine Fangzeit abgelaufen\l"
-	.string "oder dein Vorrat an SAFARIBÄLLEN\l"
+	.string "oder dein Vorrat an Safaribällen\l"
 	.string "erschöpft ist!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
@@ -242,7 +242,7 @@ FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
 
 FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
 	.string "Gib bitte die restlichen\n"
-	.string "SAFARIBÄLLE zurück.$"
+	.string "Safaribälle zurück.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
 	.string "Viel Glück!$"
@@ -256,20 +256,20 @@ FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
 	.string "Bist du zum ersten Mal hier?$"
 
 FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
-	.string "Die SAFARI-ZONE besteht aus vier\n"
+	.string "Die Safari-Zone besteht aus vier\n"
 	.string "Abschnitten.\p"
 	.string "In jedem Abschnitt findet man\n"
-	.string "verschiedene POKéMON. Versuche,\l"
-	.string "sie mit SAFARIBÄLLEN zu fangen.\p"
-	.string "Du kannst auch KÖDER oder\n"
-	.string "STEINE werfen.\p"
-	.string "Bei einem KÖDER flieht das\n"
-	.string "POKéMON nicht so schnell,\l"
+	.string "verschiedene Pokémon. Versuche,\l"
+	.string "sie mit Safaribällen zu fangen.\p"
+	.string "Du kannst auch Köder oder\n"
+	.string "Steine werfen.\p"
+	.string "Bei einem Köder flieht das\n"
+	.string "Pokémon nicht so schnell,\l"
 	.string "ist aber schwieriger zu fangen.\p"
-	.string "Bei einem STEIN flieht das\n"
-	.string "POKéMON eher, ist aber\l"
+	.string "Bei einem Stein flieht das\n"
+	.string "Pokémon eher, ist aber\l"
 	.string "einfacher zu fangen.\p"
-	.string "Wenn du keine SAFARIBÄLLE mehr\n"
+	.string "Wenn du keine Safaribälle mehr\n"
 	.string "hast oder wenn die Zeit abgelaufen\l"
 	.string "ist, endet das Spiel!$"
 

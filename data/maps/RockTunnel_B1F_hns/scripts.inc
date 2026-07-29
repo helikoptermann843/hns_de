@@ -3,7 +3,7 @@ RockTunnel_B1F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-RockTunnel_B1F_OnTransition: 
+RockTunnel_B1F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 

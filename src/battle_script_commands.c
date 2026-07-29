@@ -7909,7 +7909,8 @@ static u32 ChangeStatBuffs(enum BattlerId battler, s8 statValue, enum Stat statI
             }
             else
             {
-                PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_EMPTYSTRING3);
+                // Deutsch: Verbphrase gehoert komplett in B_BUFF2 (Smaragd-Struktur)
+                PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATFELL);
             }
 
             gBattleCommunication[MULTISTRING_CHOOSER] = (gBattlerTarget == battler); // B_MSG_ATTACKER_STAT_CHANGED or B_MSG_DEFENDER_STAT_CHANGED
@@ -7945,7 +7946,8 @@ static u32 ChangeStatBuffs(enum BattlerId battler, s8 statValue, enum Stat statI
         }
         else
         {
-            PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_EMPTYSTRING3);
+            // Deutsch: Verbphrase gehoert komplett in B_BUFF2 (Smaragd-Struktur)
+            PREPARE_STRING_BUFFER(gBattleTextBuff2, STRINGID_STATROSE);
         }
 
         gBattleCommunication[MULTISTRING_CHOOSER] = (gBattlerTarget == battler); // B_MSG_ATTACKER_STAT_CHANGED or B_MSG_DEFENDER_STAT_CHANGED

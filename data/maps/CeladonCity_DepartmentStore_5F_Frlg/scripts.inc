@@ -60,24 +60,24 @@ CeladonCity_DepartmentStore_5F_Vitamins::
 
 CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
 	.string "Nur hier kannst du leistungs-\n"
-	.string "fördernde Mittel für deine POKéMON\l"
+	.string "fördernde Mittel für deine Pokémon\l"
 	.string "kaufen!\p"
-	.string "KP-PLUS hebt die Basis-KP eines\n"
-	.string "POKéMON.\p"
-	.string "KALZIUM steigert die Stärke von\n"
-	.string "SPEZIAL-ATTACKEN!\p"
-	.string "ZINK hebt den Basis-Wert der\n"
-	.string "SP. VER. eines POKéMON.\p"
-	.string "CARBON erhöht die INITIATIVE.$"
+	.string "KP-Plus hebt die Basis-KP eines\n"
+	.string "Pokémon.\p"
+	.string "Kalzium steigert die Stärke von\n"
+	.string "Spezial-Attacken!\p"
+	.string "Zink hebt den Basis-Wert der\n"
+	.string "SP. Ver. eines Pokémon.\p"
+	.string "Carbon erhöht die Initiative.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "Wenn ein POKéMON schläft, kann es\n"
+	.string "Wenn ein Pokémon schläft, kann es\n"
 	.string "nicht angreifen!\p"
-	.string "Ein schlafendes POKéMON wacht auch\n"
+	.string "Ein schlafendes Pokémon wacht auch\n"
 	.string "nach dem Kampf nicht auf.\p"
-	.string "Benutze AUFWECKER, damit es\n"
+	.string "Benutze Aufwecker, damit es\n"
 	.string "aufwacht.$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
-	.string "4S: DROGERIE$"
+	.string "4S: Drogerie$"
 

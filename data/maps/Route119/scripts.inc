@@ -489,7 +489,7 @@ Route119_Text_MayDefeat:
 	.string "hättest im Training nachgelassen.$"
 
 Route119_Text_MayPresentForYou:
-	.string "MAIKE: Aber ich hätte mir absolut\l"
+	.string "Maike: Aber ich hätte mir absolut\l"
 	.string "keine\n"
 	.string "Sorgen zu machen brauchen! Weiter so!\p"
 	.string "\p"
@@ -497,15 +497,15 @@ Route119_Text_MayPresentForYou:
 	.string "Dies ist ein Geschenk für dich!$"
 
 Route119_Text_MayExplainFly:
-	.string "MAIKE: Setze FLIEGEN ein und deine\n"
-	.string "POKéMON bringen dich an jeden Ort, an\l"
+	.string "Maike: Setze Fliegen ein und deine\n"
+	.string "Pokémon bringen dich an jeden Ort, an\l"
 	.string "dem du schon einmal warst.\p"
-	.string "Aber um FLIEGEN einsetzen zu können,\n"
-	.string "brauchst du erst den ORDEN der ARENA\l"
-	.string "von BAUMHAUSEN CITY.\l"
+	.string "Aber um Fliegen einsetzen zu können,\n"
+	.string "brauchst du erst den Orden der Arena\l"
+	.string "von Baumhausen City.\l"
 	.string "Vergiss das nicht!\p"
-	.string "Du solltest mal nach WURZELHEIM\n"
-	.string "FLIEGEN.\p"
+	.string "Du solltest mal nach Wurzelheim\n"
+	.string "Fliegen.\p"
 	.string "Ich wette, deine Mutter macht sich\n"
 	.string "schon Sorgen um dich, {PLAYER}{KUN}.\p"
 	.string "Nun, wir treffen uns sicher bald\n"
@@ -523,33 +523,33 @@ Route119_Text_BrendanDefeat:
 	.string "Hmm… Du bist verdammt gut geworden.$"
 
 Route119_Text_BrendanIllGiveYouThis:
-	.string "BRIX: Ich sage, du bist so gut, dass\n"
-	.string "du überall nach POKéMON suchen kannst.\n"
+	.string "Brix: Ich sage, du bist so gut, dass\n"
+	.string "du überall nach Pokémon suchen kannst.\n"
 	.string "\p"
 	.string "Hier, das ist für dich.\n"
 	.string "Probier es aus.$"
 
 Route119_Text_BrendanExplainFly:
-	.string "BRIX: Setze es ein, und deine\n"
-	.string "POKéMON FLIEGEN dich sofort an jeden\l"
+	.string "Brix: Setze es ein, und deine\n"
+	.string "Pokémon Fliegen dich sofort an jeden\l"
 	.string "Ort, an dem du schon einmal warst.\p"
-	.string "Aber du brauchst den ORDEN der ARENA\n"
-	.string "von BAUMHAUSEN CITY dafür.\p"
+	.string "Aber du brauchst den Orden der Arena\n"
+	.string "von Baumhausen City dafür.\p"
 	.string "Nun ja, ich muss jetzt weiter. Bis\n"
 	.string "bald.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
-	.string "SCOTT: Hahahaha!\n"
+	.string "Scott: Hahahaha!\n"
 	.string "Mach weiter so, {PLAYER}{KUN}!\p"
-	.string "Ich bin gerade einem TRAINER begegnet,\n"
-	.string "der auf einem FAHRRAD fuhr.\p"
-	.string "Du hast den TRAINER besiegt, stimmt’s?\n"
+	.string "Ich bin gerade einem Trainer begegnet,\n"
+	.string "der auf einem Fahrrad fuhr.\p"
+	.string "Du hast den Trainer besiegt, stimmt’s?\n"
 	.string "Das war ihm anzumerken.\p"
 	.string "Das Kind war richtig wütend und sein\n"
 	.string "Gesicht war rot vor Zorn.\p"
 	.string "Wir laufen uns wirklich oft über den\n"
-	.string "Weg! Gehst du jetzt zur ARENA in\l"
-	.string "BAUMHAUSEN CITY?\p"
+	.string "Weg! Gehst du jetzt zur Arena in\l"
+	.string "Baumhausen City?\p"
 	.string "Ich erwarte, dass du dich dort\n"
 	.string "besonders anstrengst. Mach’s gut.$"
 
@@ -559,12 +559,12 @@ Route119_Text_ScottYouWonAtFortreeGym:
 	.string "…\l"
 	.string "… … … … …\l"
 	.string "Piep!\p"
-	.string "SCOTT: Hi {PLAYER}{KUN}, ich bin’s!\p"
-	.string "Ich wusste, dass du in der ARENA\n"
-	.string "von BAUMHAUSEN gewinnen würdest.\p"
+	.string "Scott: Hi {PLAYER}{KUN}, ich bin’s!\p"
+	.string "Ich wusste, dass du in der Arena\n"
+	.string "von Baumhausen gewinnen würdest.\p"
 	.string "Deine Stärke…\n"
 	.string "Vielleicht bist du wirklich der\l"
-	.string "TRAINER, den ich die ganze Zeit\p"
+	.string "Trainer, den ich die ganze Zeit\p"
 	.string "suche. Ich bin dein Fan, vergiss\n"
 	.string "das nicht. Ich werde dir zujubeln.\l"
 	.string "Mach weiter so!\p"
@@ -575,47 +575,47 @@ Route119_Text_ScottYouWonAtFortreeGym:
 
 Route119_Text_StayAwayFromWeatherInstitute:
 	.string "Wir stehen hier Wache.\p"
-	.string "Hey, du! Halt dich bloß von dem KLIMA-\n"
-	.string "INSTITUT fern. Da ist es nicht sicher!$"
+	.string "Hey, du! Halt dich bloß von dem Klima-\n"
+	.string "institut fern. Da ist es nicht sicher!$"
 
 Route119_Text_DontGoNearWeatherInstitute:
 	.string "Wache schieben ist langweilig.\p"
 	.string "Hey, du! Komm nicht in die Nähe des\n"
-	.string "KLIMA-INSTITUTs.$"
+	.string "Klima-Instituts.$"
 
 Route119_Text_ThoughtFlyByCatchingBirdMons:
-	.string "Ich dachte, FLIEGEN könnte man, indem\n"
-	.string "man viele VOGEL-POKéMON fängt, sie\p"
+	.string "Ich dachte, Fliegen könnte man, indem\n"
+	.string "man viele Vogel-Pokémon fängt, sie\p"
 	.string "zusammenbindet und sich dann\n"
 	.string "dranhängt.\p"
 	.string "Aber es gibt tatsächlich eine VM, die\n"
-	.string "FLIEGEN heißt!\p"
+	.string "Fliegen heißt!\p"
 	.string "Wenn ich das doch nur eher gewusst\n"
 	.string "hätte…$"
 
 Route119_Text_TallGrassSnaresBikeTires:
 	.string "Tse… So geht es nicht weiter…\p"
 	.string "Das hohe Gras verfängt sich in den \n"
-	.string "Speichen des RADs…$"
+	.string "Speichen des Rads…$"
 
 Route119_Text_CanYourMonMakeSecretBase:
-	.string "Kann dein POKéMON GEHEIMPOWER an\n"
+	.string "Kann dein Pokémon Geheimpower an\n"
 	.string "einem Berg von Gras einsetzen und eine\l"
-	.string "GEHEIMBASIS einrichten?$"
+	.string "Geheimbasis einrichten?$"
 
 Route119_Text_RouteSignFortree:
-	.string "ROUTE 119\n"
-	.string "{RIGHT_ARROW} BAUMHAUSEN CITY$"
+	.string "Route 119\n"
+	.string "{RIGHT_ARROW} Baumhausen City$"
 
 Route119_Text_WeatherInstitute:
-	.string "KLIMA-INSTITUT$"
+	.string "Klima-Institut$"
 
 Route119_Text_TrainerTipsDecoration:
-	.string "TIPPS für TRAINER\p"
-	.string "In der GEHEIMBASIS können bis zu 16\n"
+	.string "Tipps für Trainer\p"
+	.string "In der Geheimbasis können bis zu 16\n"
 	.string "Dekorationen und Möbel untergebracht\l"
 	.string "werden.\p"
 	.string "Nimm deine Lieblingsitems und richte\n"
 	.string "dir\n"
-	.string "deine GEHEIMBASIS ganz nach deinem\l"
+	.string "deine Geheimbasis ganz nach deinem\l"
 	.string "Geschmack ein.$"

@@ -179,7 +179,7 @@ OlivinePort_EventScript_ChoseFarawayIsland::
 	warpsilent MAP_FARAWAY_ISLAND_ENTRANCE_HNS, 13, 38
 	waitstate
 	release
-	end	
+	end
 
 OlivinePort_EventScript_ChoseBattleFrontier::
 	closemessage
@@ -188,7 +188,7 @@ OlivinePort_EventScript_ChoseBattleFrontier::
 	warpsilent MAP_BATTLE_FRONTIER_OUTSIDE_WEST_HNS, 20, 67
 	waitstate
 	release
-	end	
+	end
 
 OlivinePort_EventScript_Sailor_MaidenVoyage::
 	msgbox OlivinePort_Text_FlashTicket, MSGBOX_DEFAULT
@@ -273,43 +273,43 @@ OlivinePort_Text_WhereSail:
 
 OlivinePort_Text_AskBoard:
 	.string "Willkommen auf dem\n"
-	.string "SCHNELLBOOT M.S. AQUA.\p"
+	.string "Schnellboot M.S. Aqua.\p"
 	.string "Trittst du heute deine Reise an?$"
 
 OlivinePort_Text_AskTicket:
 	.string "Zeige mir bitte dein\p"
-	.string "BOOTSTICKET.$"
+	.string "Bootsticket.$"
 
 OlivinePort_Text_ComeAgain:
-	.string "Komm jederzeit wieder vorbei!$"
+	.string "Komm bald wieder!$"
 
 OlivinePort_Text_FlashTicket:
-	.string "{PLAYER} zeigt das BOOTSTICKET.\p"
+	.string "{PLAYER} zeigt das Bootsticket.\p"
 	.string "In Ordnung. Danke schön!$"
 
 OlivinePort_Text_NoTicket:
-	.string "{PLAYER} sucht das BOOTSTICKET…\p"
-	.string "…Kein TICKET!\p"
+	.string "{PLAYER} sucht das Bootsticket…\p"
+	.string "…Kein Ticket!\p"
 	.string "Tut mir Leid! Du darfst nur\p"
-	.string "mit TICKET an Bord.$"
+	.string "mit Ticket an Bord.$"
 
 OlivinePort_Text_FishingGuru1:
-	.string "Hier kannst du MUSCHAS leicht\p"
+	.string "Hier kannst du Muschas leicht\p"
 	.string "fangen. An anderen\n"
 	.string "Orten sind sie seltener.$"
 
 OlivinePort_Text_FishingGuru2:
-	.string "Wie viele ANGELN hast du?\p"
-	.string "Mit verschiedenen ANGELN,\n"
+	.string "Wie viele Angeln hast du?\p"
+	.string "Mit verschiedenen Angeln,\n"
 	.string "fängst du verschiedene\l"
 	.string "Pokémon.$"
 
 OlivinePort_Text_Youngster:
-	.string "M.S. AQUA benutzt Spezialdüsen,\n"
+	.string "M.S. Aqua benutzt Spezialdüsen,\n"
 	.string "um über die Wellen zu gleiten!$"
 
 OlivinePort_Text_CooltrainerF:
-	.string "In KANTO gibt es viele Pokémon.\p"
+	.string "In Kanto gibt es viele Pokémon.\p"
 	.string "Ich wünschte, ich könnte dorthin…$"
 
 OlivinePort_Text_SailorBeforeHOF:

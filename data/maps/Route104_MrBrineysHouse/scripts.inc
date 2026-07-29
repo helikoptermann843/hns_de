@@ -95,71 +95,71 @@ Route104_MrBrineysHouse_EventScript_Peeko::
 	end
 
 Route104_MrBrineysHouse_Text_WaitUpPeeko:
-	.string "MR. BRACK: Warte, Mädchen!\n"
-	.string "Immer langsam, PECKO!$"
+	.string "Mr. Brack: Warte, Mädchen!\n"
+	.string "Immer langsam, Pecko!$"
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
 	.string "Hm? Du bist {PLAYER}{KUN}!\n"
-	.string "Du hast meinen Liebling PECKO\n"
+	.string "Du hast meinen Liebling Pecko\n"
 	.string "gerettet!\l"
 	.string "Wir verdanken dir sehr viel!\p"
 	.string "Wie bitte?\n"
 	.string "Du möchtest mit mir segeln?\p"
 	.string "Hmhm…\p"
-	.string "Du musst einen BRIEF in FAUSTAUHAVEN\n"
-	.string "und ein Paket in GRAPHITPORT CITY\l"
+	.string "Du musst einen Brief in Faustauhaven\n"
+	.string "und ein Paket in Graphitport City\l"
 	.string "abgeben?\p"
 	.string "Da bist du aber gut beschäftigt!\p"
 	.string "Aber deine Bitte ist überhaupt kein\n"
 	.string "Problem für mich.\p"
 	.string "Bei mir bist du richtig! Wir setzen\n"
-	.string "Segel Richtung FAUSTAUHAVEN!$"
+	.string "Segel Richtung Faustauhaven!$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
-	.string "MR. BRACK: Also, auf nach\n"
-	.string "FAUSTAUHAVEN! \p"
+	.string "Mr. Brack: Also, auf nach\n"
+	.string "Faustauhaven! \p"
 	.string "Anker gelichtet!\n"
-	.string "PECKO, wir setzen Segel, mein\l"
+	.string "Pecko, wir setzen Segel, mein\l"
 	.string "Liebling!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "MR. BRACK: Wirklich?\n"
+	.string "Mr. Brack: Wirklich?\n"
 	.string "Deine Besorgungen können warten?\p"
 	.string "Lass dir Zeit. Ein Wort genügt und wir\n"
 	.string "setzen Segel.$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "MR. BRACK: Ahoi! Ich weiß genau,\n"
+	.string "Mr. Brack: Ahoi! Ich weiß genau,\n"
 	.string "was du jetzt sagen willst!\p"
-	.string "Du musst einen BRIEF in FAUSTAUHAVEN\n"
-	.string "und ein Paket in GRAPHITPORT CITY\l"
+	.string "Du musst einen Brief in Faustauhaven\n"
+	.string "und ein Paket in Graphitport City\l"
 	.string "abgeben.\p"
 	.string "Nun, ich bin der richtige Mann für\n"
 	.string "diesen Job!\p"
 	.string "Dann segeln wir zuerst Richtung\n"
-	.string "FAUSTAUHAVEN.$"
+	.string "Faustauhaven.$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "MR. BRACK: Ahoi! Ich weiß genau,\n"
+	.string "Mr. Brack: Ahoi! Ich weiß genau,\n"
 	.string "was du jetzt sagen willst!\p"
-	.string "Du musst KAPT. BRIGG in\n"
-	.string "GRAPHITPORT CITY ein Paket bringen.\p"
+	.string "Du musst Kapt. Brigg in\n"
+	.string "Graphitport City ein Paket bringen.\p"
 	.string "Nun, ich bin der richtige Mann für\n"
 	.string "diesen Job!\p"
 	.string "Dann segeln wir zuerst Richtung\n"
-	.string "FAUSTAUHAVEN.$"
+	.string "Faustauhaven.$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
-	.string "MR. BRACK: Ahoi! Für dich fahre ich\n"
+	.string "Mr. Brack: Ahoi! Für dich fahre ich\n"
 	.string "jederzeit wieder raus!\p"
 	.string "Nun, wo soll es hingehen?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "MR. BRACK: Wirklich?\n"
-	.string "Nun, PECKO verdankt dir ihr Leben.\p"
+	.string "Mr. Brack: Wirklich?\n"
+	.string "Nun, Pecko verdankt dir ihr Leben.\p"
 	.string "Lass dir Zeit. Ein Wort genügt und wir\n"
 	.string "setzen Segel.$"
 
 Route104_MrBrineysHouse_Text_Peeko:
-	.string "PECKO: Pii piihyoro!$"
+	.string "Pecko: Pii piihyoro!$"
 

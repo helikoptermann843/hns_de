@@ -40,29 +40,29 @@ GoldenrodDeptStore1_EventScript_Directory::
 
 GoldenrodDeptStor1_Text_Receptionist:
 	.string "Willkommen im\n"
-	.string "KAUFHAUS von DUKATIA CITY.$"
+	.string "Kaufhaus von Dukatia City.$"
 
 GoldenrodDeptStore1_Text_Gentleman:
-	.string "Das KAUFHAUS\n"
+	.string "Das Kaufhaus\n"
 	.string "bietet eine große Auswahl.\p"
 	.string "Aber einige Items erhält man nur als\n"
-	.string "Preis in der SPIELHALLE.$"
+	.string "Preis in der Spielhalle.$"
 
 GoldenrodDeptStore1_Text_PokefanF:
-	.string "Ich freue mich heute\n"
-	.string "schon wieder aufs Einkaufen!$"
+	.string "Dann mal ans Werk! Ich habe vor, heute\n"
+	.string "das halbe Kaufhaus leerzukaufen!$"
 
 GoldenrodDeptStore1_Text_BugCatcher:
-	.string "Mama ist sehr gut\n"
-	.string "im Schnäppchenfinden.\p"
-	.string "Sie kauft ständig Waren\n"
-	.string "unter dem Normalpreis.$"
+	.string "Mama ist eine echte\n"
+	.string "Schnäppchenjägerin.\p"
+	.string "Sie besorgt mir meine Items immer zu\n"
+	.string "etwas günstigeren Preisen.$"
 
 GoldenrodDeptStore1_Text_Directory:
-	.string "EG INFO-SCHALTER\p"
-	.string "1S TRAINERMARKT\p"
-	.string "2S KAMPFKOLLEKTION\p"
-	.string "3S ARZNEI\p"
-	.string "4S TM-ECKE\p"
-	.string "5S PLATZ DER EWIGEN STILLE\p"
-	.string "DACHTERRASSEN AUSSICHTSPLATTFORM$"
+	.string "EG Info-Schalter\p"
+	.string "1S Trainermarkt\p"
+	.string "2S Kampfkollektion\p"
+	.string "3S Arznei\p"
+	.string "4S TM-Ecke\p"
+	.string "5S Platz der ewigen Stille\p"
+	.string "Dachterrassen Aussichtsplattform$"

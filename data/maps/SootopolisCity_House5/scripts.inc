@@ -11,7 +11,7 @@ SootopolisCity_House5_EventScript_Girl::
 
 SootopolisCity_House5_Text_SootopolisMtPyreConnection:
 	.string "Es muss eine Verbindung zwischen\n"
-	.string "XENEROVILLE und dem PYROBERG geben.\p"
+	.string "Xeneroville und dem Pyroberg geben.\p"
 	.string "Meine Freunde und ich haben ein\n"
 	.string "bisschen nachgeforscht - im Labor,\l"
 	.string "in dem wir gearbeitet haben.$"

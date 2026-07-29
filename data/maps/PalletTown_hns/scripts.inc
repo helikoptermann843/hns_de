@@ -14,16 +14,16 @@ PalletTown_EventScript_Fatman::
 	end
 PalletTown_EventScript_TownSign::
 	msgbox PalletTown_Text_Sign, MSGBOX_SIGN
-	end	
+	end
 PalletTown_EventScript_RedsHouseSign::
 	msgbox PalletTown_Text_RedsHouseSign, MSGBOX_SIGN
 	end
 PalletTown_EventScript_BluesHouseSign::
 	msgbox PalletTown_Text_BluesHouseSign, MSGBOX_SIGN
-	end	
+	end
 PalletTown_EventScript_OaksLabSign::
 	msgbox PalletTown_Text_OaksLabSign, MSGBOX_SIGN
-	end	
+	end
 
 PalletTown_Text_Teacher:
 	.string "Ich trainiere auch Pokémon!\n"
@@ -36,7 +36,7 @@ PalletTown_Text_Fisher:
 	.string "Ein echtes Wunder der Technik…$"
 
 PalletTown_Text_Sign:
-	.string "ALABASTIA\p"
+	.string "Alabastia\p"
 	.string "Eine Stätte des\n"
 	.string "Friedens und der Reinheit$"
 

@@ -83,69 +83,69 @@ LavenderTown_VolunteerPokemonHouse_EventScript_Bookshelf::
 LavenderTown_PokemonCenter_1F_Text_HearMrFujiNotFromAroundHere::
 	.string "Ich bin erst vor kurzem in diese\n"
 	.string "Stadt gezogen!\p"
-	.string "Ich hörte, dass MR. FUJI auch\n"
+	.string "Ich hörte, dass Mr. Fuji auch\n"
 	.string "nicht von hier stammt!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_WhereDidMrFujiGo::
-	.string "MR. FUJI ist nicht zu Hause.\n"
+	.string "Mr. Fuji ist nicht zu Hause.\n"
 	.string "Wohin mag er gegangen sein?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiWasPrayingForCubonesMother::
-	.string "MR. FUJI hat oft für TRAGOSSOs\n"
+	.string "Mr. Fuji hat oft für Tragossos\n"
 	.string "Mutter gebetet.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MrFujiLooksAfterOrphanedMons::
-	.string "Das hier ist MR. FUJIs Haus.\p"
+	.string "Das hier ist Mr. Fujis Haus.\p"
 	.string "Er ist sehr fürsorglich!\p"
 	.string "Er kümmert sich um ausgesetzte\n"
-	.string "und verwaiste POKéMON!$"
+	.string "und verwaiste Pokémon!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MonsNiceToHug::
-	.string "Sie sind so putzig! POKéMON sind\n"
+	.string "Sie sind so putzig! Pokémon sind\n"
 	.string "wunderbare Schmusetiere!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Nidorino::
-	.string "NIDORINO: Nido!$"
+	.string "Nidorino: Nido!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_Psyduck::
-	.string "ENTON: Quacka!$"
+	.string "Enton: Quacka!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
-	.string "MR. FUJI: {PLAYER}!\p"
-	.string "Du kannst deinen POKéDEX nicht\n"
-	.string "vollenden, wenn du deinen POKéMON\l"
+	.string "Mr. Fuji: {PLAYER}!\p"
+	.string "Du kannst deinen Pokédex nicht\n"
+	.string "vollenden, wenn du deinen Pokémon\l"
 	.string "nicht genügend Liebe und Respekt\l"
 	.string "entgegenbringst.\p"
 	.string "Dies wird dir bei deinem Abenteuer\n"
 	.string "helfen.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-	.string "{PLAYER} received a POKé FLUTE\n"
-	.string "from MR. FUJI.$"
+	.string "{PLAYER} received a Poké Flute\n"
+	.string "from Mr. Fuji.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
-	.string "Schlafende POKéMON wachen auf,\n"
-	.string "wenn sie das Spiel der POKéFLÖTE\l"
+	.string "Schlafende Pokémon wachen auf,\n"
+	.string "wenn sie das Spiel der Pokéflöte\l"
 	.string "hören!\p"
 	.string "Du kannst damit alle schlafenden\n"
-	.string "POKéMON wecken!$"
+	.string "Pokémon wecken!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_MustMakeRoomForThis::
 	.string "Du hast keinen Platz für weitere\n"
 	.string "Items!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_HasPokeFluteHelpedYou::
-	.string "MR. FUJI: War die FLÖTE schon von\n"
+	.string "Mr. Fuji: War die Flöte schon von\n"
 	.string "Nutzen für dich?$"
 
 LavenderTown_VolunteerPokemonHouse_Text_GrandPrizeDrawingClipped::
-	.string "GROSSES POKéMON-GEWINNSPIEL!\p"
+	.string "Grosses Pokémon-Gewinnspiel!\p"
 	.string "Es sind keine Teilnahmekarten mehr\n"
 	.string "vorhanden!\p"
 	.string "Sie wurden alle abgeschickt!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_PokemonMagazinesLineShelf::
-	.string "POKéMON-Zeitschriften!\p"
-	.string "POKéMON-Notizbücher!\p"
-	.string "POKéMON-Schaubilder!$"
+	.string "Pokémon-Zeitschriften!\p"
+	.string "Pokémon-Notizbücher!\p"
+	.string "Pokémon-Schaubilder!$"
 

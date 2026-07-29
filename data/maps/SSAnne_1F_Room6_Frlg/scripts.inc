@@ -38,5 +38,5 @@ SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
 	.string "Ich bin ein Spion und infiltriere\n"
-	.string "die SILPH CO.!$"
+	.string "die Silph Co.!$"
 

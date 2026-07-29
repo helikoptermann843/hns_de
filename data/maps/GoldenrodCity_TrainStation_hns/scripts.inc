@@ -294,26 +294,26 @@ GoldenrodCity_TrainStation_Movement_SlideRight:
 	step_end
 
 GoldenrodMagnetTrainStation_Text_OfficerTrainHasntComeIn:
-	.string "Der Zug ist nicht gekommen…\p"
-	.string "Ich hab's! Ich werde die\n"
-	.string "Passagiere auf dem Rücken tragen!\p"
-	.string "...Das wird nicht funktionieren.$"
+	.string "Es fahren keine Züge mehr!\p"
+	.string "Ich könnte alle Fahrgäste Huckepack\n"
+	.string "nehmen und sie auf meinem Rücken…\p"
+	.string "Aber wenn ich’s mir genau überlege…\n"
+	.string "Nein, besser doch nicht.$"
 
 GoldenrodMagnetTrainStation_Text_OfficerRightThisWay:
-	.string "Darf ich deinen FAHRSCHEIN sehen?\p"
+	.string "Darf ich deinen Fahrschein sehen?\p"
 	.string "O.K. Bitte hier entlang.$"
 
 GoldenrodMagnetTrainStation_Text_OfficerNoRailPass:
 	.string "Verzeihung, aber\n"
-	.string "du hast keinen FAHRSCHEIN.$"
+	.string "du hast keinen Fahrschein.$"
 
 GoldenrodMagnetTrainStation_Text_GentlemanPresident:
-	.string "Ich bin der PRÄSIDENT.\p"
-	.string "Mein Traum war es,\n"
-	.string "einen Zug zu bauen, der schneller\l"
-	.string "ist als jedes Pokémon.\p"
-	.string "Dadurch würden\n"
-	.string "JOHTO und KANTO näher rücken.$"
+	.string "Ich bin der Präsident.\p"
+	.string "Mein Traum war es, einen Zug zu bauen,\n"
+	.string "der schneller ist als jedes Pokémon.\p"
+	.string "Ich wollte, dass Johto und Kanto enger\n"
+	.string "zusammenwachsen!$"
 
 GoldenrodCity_TrainStation_Text_Boy:
 	.string "Du hast einen Fahrschein für den\n"

@@ -42,7 +42,7 @@ FortreeCity_House2_EventScript_WrongGuess::
 	end
 
 FortreeCity_House2_Text_HiddenPowersArousedByNature:
-	.string "Menschen… POKéMON…\p"
+	.string "Menschen… Pokémon…\p"
 	.string "Ihre versteckten Kräfte werden durch\n"
 	.string "das Leben in der Natur geweckt.$"
 
@@ -71,11 +71,11 @@ FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
 	.string "Deine versteckten Kräfte sind erwacht!\n"
 	.string "\p"
 	.string "Hier, das ist für dich. Wecke damit\n"
-	.string "die versteckten Kräfte deiner POKéMON.$"
+	.string "die versteckten Kräfte deiner Pokémon.$"
 
 FortreeCity_House2_Text_ExplainHiddenPower:
-	.string "KRAFTRESERVE ist eine Attacke, die je\n"
-	.string "nach POKéMON anders aussieht.$"
+	.string "Kraftreserve ist eine Attacke, die je\n"
+	.string "nach Pokémon anders aussieht.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
 	.string "Och, zu schade!\n"

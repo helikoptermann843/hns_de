@@ -17,15 +17,15 @@ Route4_EventScript_RouteSign::
 	end
 
 Route4_Text_TrippedOverGeodude::
-	.string "Aua! Ich bin über ein KLEINSTEIN\n"
-	.string "gestolpert, ein STEIN-POKéMON!$"
+	.string "Aua! Ich bin über ein Kleinstein\n"
+	.string "gestolpert, ein Stein-Pokémon!$"
 
 Route4_Text_CrissyIntro::
 	.string "Ich bin hier, um Pilz-Pokémon zu\n"
 	.string "fangen!$"
 
 Route4_Text_CrissyDefeat::
-	.string "Ach, Pilz-POKéMON sind ja so süß!$"
+	.string "Ach, Pilz-Pokémon sind ja so süß!$"
 
 Route4_Text_CrissyPostBattle::
 	.string "Es dürfte hier keine Pilz-Pokémon\n"
@@ -34,32 +34,32 @@ Route4_Text_CrissyPostBattle::
 	.string "gefangen.$"
 
 Route4_Text_MtMoonEntrance::
-	.string "MONDBERG\n"
+	.string "Mondberg\n"
 	.string "Tunneleingang$"
 
 Route4_Text_RouteSign::
-	.string "ROUTE 4\n"
-	.string "MONDBERG - AZURIA CITY$"
+	.string "Route 4\n"
+	.string "Mondberg - Azuria City$"
 
 Text_MegaPunchTeach::
 	.string "Ein Schlag von roher Gewalt!\p"
 	.string "Mit zerstörerischer, verheerender\n"
 	.string "Wirkung.\p"
 	.string "Wenn es darauf ankommt, ist\n"
-	.string "MEGAHIEB die ultimative Attacke!\l"
+	.string "Megahieb die ultimative Attacke!\l"
 	.string "Du stimmst zu, oder?\p"
 	.string "Also!\n"
-	.string "Soll ein POKéMON diese Attacke\l"
+	.string "Soll ein Pokémon diese Attacke\l"
 	.string "erlernen?$"
 
 Text_MegaPunchDeclined::
 	.string "Du kommst wieder, wenn du die\n"
-	.string "Bedeutung von MEGAHIEB\l"
+	.string "Bedeutung von Megahieb\l"
 	.string "erkannt hast.$"
 
 Text_MegaPunchWhichMon::
 	.string "Schön!\n"
-	.string "Welches POKéMON soll MEGAHIEB\l"
+	.string "Welches Pokémon soll Megahieb\l"
 	.string "erlernen?$"
 
 Text_MegaPunchTaught::
@@ -74,19 +74,19 @@ Text_MegaKickTeach::
 	.string "Mit zerstörerischer, verheerender\n"
 	.string "Wirkung.\p"
 	.string "Wenn es darauf ankommt, ist \n"
-	.string "MEGAKICK die ultimative Attacke!\p"
+	.string "Megakick die ultimative Attacke!\p"
 	.string "O.K.!\n"
-	.string "Ich werde MEGAKICK einem\l"
-	.string "POKéMON beibringen.$"
+	.string "Ich werde Megakick einem\l"
+	.string "Pokémon beibringen.$"
 
 Text_MegaKickDeclined::
 	.string "Du kommst angekrochen, wenn du die\n"
-	.string "wahre Bedeutung von MEGAKICK\l"
+	.string "wahre Bedeutung von Megakick\l"
 	.string "erkennst.$"
 
 Text_MegaKickWhichMon::
 	.string "In Ordnung!\n"
-	.string "Welches POKéMON soll MEGAKICK\l"
+	.string "Welches Pokémon soll Megakick\l"
 	.string "erlernen?$"
 
 Text_MegaKickTaught::
@@ -97,11 +97,11 @@ Text_MegaKickTaught::
 	.string "drüben nur Hiebe trainiert, sieht.$"
 
 Route4_Text_PeopleLikeAndRespectBrock::
-	.string "Oh, das ist ja der FELSORDEN!\n"
-	.string "Du hast ihn von ROCKO bekommen,\l"
+	.string "Oh, das ist ja der Felsorden!\n"
+	.string "Du hast ihn von Rocko bekommen,\l"
 	.string "oder?\l"
-	.string "ROCKO ist cool. Er ist nicht nur\l"
+	.string "Rocko ist cool. Er ist nicht nur\l"
 	.string "stark, sondern auch beliebt und\l"
 	.string "wird respektiert.\l"
-	.string "Ich möchte auch ein ARENALEITER\l"
+	.string "Ich möchte auch ein Arenaleiter\l"
 	.string "wie er werden.$"

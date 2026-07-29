@@ -258,21 +258,21 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "HI… HIIIILFE!!!$"
+	.string "Hi… Hiiiilfe!!!$"
 
 Route101_Text_PleaseHelp:
-	.string "HILFE!!! Du dort drüben!\n"
-	.string "Bitte! HILFE!!!\p"
-	.string "In meinem BEUTEL…\n"
-	.string "Da findest du einen POKéBALL!$"
+	.string "Hilfe!!! Du dort drüben!\n"
+	.string "Bitte! Hilfe!!!\p"
+	.string "In meinem Beutel…\n"
+	.string "Da findest du einen Pokéball!$"
 
 Route101_Text_DontLeaveMe:
 	.string "Wo-Wo wi-willst du hin?\n"
 	.string "Lass mich nicht im Stich!!!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRK: Puuuh…\p"
-	.string "Ich habe im hohen Gras POKéMON\n"
+	.string "Prof. Birk: Puuuh…\p"
+	.string "Ich habe im hohen Gras Pokémon\n"
 	.string "studiert, als ich angesprungen wurde.\n"
 	.string "\p"
 	.string "Du hast mich gerettet.\n"
@@ -281,21 +281,21 @@ Route101_Text_YouSavedMe:
 	.string "Hi, du bist doch {PLAYER}{KUN}!\p"
 	.string "Aber dies ist nicht der Ort für ein\n"
 	.string "Schwätzchen, komm doch mit \l"
-	.string "in mein POKéMON-LABOR, okay?$"
+	.string "in mein Pokémon-Labor, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "Sind deine POKéMON müde, bring sie in\n"
-	.string "ein POKéMON-CENTER.\p"
-	.string "In ROSALTSTADT, gleich hier um die\n"
-	.string "Ecke, gibt es ein POKéMON-CENTER.$"
+	.string "Sind deine Pokémon müde, bring sie in\n"
+	.string "ein Pokémon-Center.\p"
+	.string "In Rosaltstadt, gleich hier um die\n"
+	.string "Ecke, gibt es ein Pokémon-Center.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wilde POKéMON springen dich in hohem\n"
+	.string "Wilde Pokémon springen dich in hohem\n"
 	.string "Gras gerne an.\p"
-	.string "Wenn du POKéMON fangen willst, musst\n"
+	.string "Wenn du Pokémon fangen willst, musst\n"
 	.string "du ins hohe Gras gehen und sie suchen.$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} ROSALTSTADT$"
+	.string "Route 101\n"
+	.string "{UP_ARROW} Rosaltstadt$"
 

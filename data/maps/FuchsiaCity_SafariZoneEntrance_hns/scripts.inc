@@ -32,7 +32,7 @@ FuchsiaCity_SafariZoneEntrance_EventScript_ExitSafari::
 	waitmovement 0
 	release
 	end
- 
+
 FuchsiaCity_SafariZoneEntrance_EventScript_ReenterSafari::
 	closemessage
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkUp1
@@ -90,9 +90,9 @@ FuchsiaCity_SafariZoneEntrance_StevenChamp::
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenChamp:
 	.string "Oh, hallo {PLAYER}.\n"
-	.string "Oder soll ich sagen: KANTO-Champion?\p"
+	.string "Oder soll ich sagen: Kanto-Champion?\p"
 	.string "Weißt du, eine Zeit lang war ich\n"
-	.string "Champion der HOENN-Region.\p"
+	.string "Champion der Hoenn-Region.\p"
 	.string "Willkommen im Club, {PLAYER}.\p"
 	.string "Hier, nimm das als kleines\n"
 	.string "Willkommensgeschenk.$"
@@ -223,9 +223,9 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWelcome:
 	.string "vorgenommen.\p"
 	.string "Hier findest du sehr exotische\n"
 	.string "Pokémon. Besonders, wenn du\l"
-	.string "dein SAFARI-LEVEL erhöhst.\p"
+	.string "dein Safari-Level erhöhst.\p"
 	.string "Sprich einfach mit dem Aufseher\n"
-	.string "hier, um dein SAFARI-LEVEL jederzeit\l"
+	.string "hier, um dein Safari-Level jederzeit\l"
 	.string "zu steigern.$"
 
 FuchsiaCity_SafariZoneEntrance_UpgradeGuy::
@@ -292,23 +292,23 @@ FuchsiaCity_SafariZoneEntrance_UpgradeGuyNotEnoughMoney::
 
 FuchsiaCity_SafariZoneEntrance_Text_Steven:
 	.string "Oh, hallo, {PLAYER}.\p"
-	.string "Ich hoffe, dir gefällt die SAFARI.\p"
+	.string "Ich hoffe, dir gefällt die Safari.\p"
 	.string "Hast du in letzter Zeit seltene\n"
 	.string "Steine gesehen?$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level1:
 	.string "Hallo {PLAYER}, möchtest du\n"
-	.string "dein SAFARI-LEVEL auf 2 erhöhen?\l"
+	.string "dein Safari-Level auf 2 erhöhen?\l"
 	.string "Das kostet 200.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level2:
 	.string "Hallo {PLAYER}, möchtest du\n"
-	.string "dein SAFARI-LEVEL auf 3 erhöhen?\l"
+	.string "dein Safari-Level auf 3 erhöhen?\l"
 	.string "Das kostet 300.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_Level3:
 	.string "Hallo {PLAYER}, möchtest du\n"
-	.string "dein SAFARI-LEVEL auf 4 erhöhen?\l"
+	.string "dein Safari-Level auf 4 erhöhen?\l"
 	.string "Das kostet 400.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
@@ -351,7 +351,7 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWantToTrade:
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTakeCare:
 	.string "Exzellent!\n"
-	.string "Gib gut acht auf EISEN.$"
+	.string "Gib gut acht auf Eisen.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenDeclineTrade:
 	.string "Schon okay.\n"
@@ -364,12 +364,12 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenNotRequestedMon:
 	.string "im Sinn.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
-	.string "Wie geht es EISEN?\n"
-	.string "Tanhel sind faszinierende POKéMON.\p"
+	.string "Wie geht es Eisen?\n"
+	.string "Tanhel sind faszinierende Pokémon.\p"
 	.string "Sie kommunizieren mit\n"
 	.string "magnetischen Impulsen.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_MaxLevel:
 	.string "Hallo {PLAYER}, danke, dass du\n"
 	.string "weiterhin Premium-Mitglied der\l"
-	.string "FUCHSANIA Safari-Zone bist.$"
+	.string "Fuchsania Safari-Zone bist.$"

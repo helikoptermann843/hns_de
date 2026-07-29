@@ -3,11 +3,11 @@ IlexForest_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-IlexForest_OnTransition: 
+IlexForest_OnTransition:
 	call_if_eq VAR_ILEX_FOREST_FARFETCHD, 1, IlexForest_EventScript_ReenterWhenFarfetchdLeaving
 	call_if_eq VAR_ILEX_FOREST_FARFETCHD, 2, IlexForest_EventScript_ReenterDuringCutScene
 	callnative SetTimeBasedEncounters
-	end	
+	end
 
 IlexForest_EventScript_ReenterWhenFarfetchdLeaving::
 	setobjectxyperm LOCALID_ILEX_FOREST_FARFETCHD_1, 33, 51
@@ -335,7 +335,7 @@ IlexForest_EventScript_Kimono::
 	playfirstmoncry
 	turnobject LOCALID_ILEX_FOREST_KIMONO, DIR_WEST
 	msgbox IlexForest_Text_Kimono_Girl4, MSGBOX_DEFAULT
-	closemessage 
+	closemessage
 	turnobject LOCALID_ILEX_FOREST_KIMONO, DIR_SOUTH
 	delay 16
 	msgbox IlexForest_Text_Kimono_Girl5, MSGBOX_DEFAULT
@@ -567,7 +567,7 @@ IlexForest_Movement_Farfetchd_Return:
 	walk_fast_up
 	walk_fast_up
 	walk_fast_up
-	walk_fast_up	
+	walk_fast_up
 	step_end
 
 IlexForest_Movement_Celebi1:
@@ -661,13 +661,13 @@ IlexForest_Text_ApprenticeAfter:
 	.string "Wow! Vielen Dank auch!\p"
 	.string "Die Pokémon von\n"
 	.string "meinem Boss gehorchen mir nicht, da\l"
-	.string "ich keinen ORDEN besitze.$"
+	.string "ich keinen Orden besitze.$"
 
 IlexForest_Text_ItsTheMissingPokemon:
 	.string "Das vermisste Pokémon!$"
 
 IlexForest_Text_Kwaaaa:
-	.string "PORENTA: Poreeeen!$"
+	.string "Porenta: Pooorenta!$"
 
 IlexForest_Text_CharcoalMasterIntro:
 	.string "Oh! Das sind ja meine Kleinen,\n"
@@ -730,7 +730,7 @@ IlexForest_Text_KurtCaughtCelebi:
 	.string "Puh, war das spannend!\p"
 	.string "{PLAYER}, das war fantastisch. Danke!\n"
 	.string "\p"
-	.string "Die Legenden über den SHRINE\n"
+	.string "Die Legenden über den Shrine\n"
 	.string "waren also wahr.\p"
 	.string "Ich bin inspiriert,\n"
 	.string "bessere Bälle zu machen!\p"

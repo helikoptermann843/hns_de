@@ -46,7 +46,7 @@ MoveRelearner_Text_TMMoveLWR::
 
 MoveRelearner_Text_TutorMoveLWR::
 	.string "lehrer attacke$"
-	
+
 MoveRelearner_Text_MoveLWR::
 	.string "attacke$"
 

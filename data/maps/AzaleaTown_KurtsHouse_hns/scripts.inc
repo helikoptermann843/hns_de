@@ -71,13 +71,13 @@ AzaleaTown_KurtsHouse_EventScript_Girl4::
 	msgbox KurtsHouse_Text_GranddaughterSlowpokeBack, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 AzaleaTown_KurtsHouse_EventScript_Girl5::
 	msgbox KurtsHouse_Text_GranddaughterSound, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 AzaleaTown_KurtsHouse_EventScript_ReturnFromWellSetup::
 	setobjectmovementtype LOCALID_AZALEA_TOWN_KURT, MOVEMENT_TYPE_FACE_DOWN
@@ -195,7 +195,7 @@ AzaleaTown_KurtsHouse_EventScript_KurtGsBall3::
 	end
 KurtsHouse_Text_BallAnyway:
 	.string "Wie auch immer, soll ich dir ein\n"
-	.string "paar BÄLLE machen?$"
+	.string "paar Bälle machen?$"
 
 AzaleaTown_KurtsHouse_EventScript_OakPhoto::
 	msgbox KurtsHouse_Text_OakPhoto, MSGBOX_SIGN
@@ -262,12 +262,12 @@ KurtsHouse_Text_KurtMakingBallsMustWait:
 	.string "Sie hatten sich eigentlich vor drei\n"
 	.string "Jahren aufgelöst, aber nun…\p"
 	.string "Na ja, genau diese Bande schneidet\n"
-	.string "jetzt den FLEGMON im Brunnen die\l"
+	.string "jetzt den Flegmon im Brunnen die\l"
 	.string "Ruten ab und verdient sich damit\l"
 	.string "eine goldene Nase.\p"
 	.string "Aber ich gehe jetzt zu ihnen und\n"
 	.string "erteile ihnen eine Lektion!\p"
-	.string "Haltet durch, FLEGMON!\n"
+	.string "Haltet durch, Flegmon!\n"
 	.string "Der alte Kurt eilt euch zur Rettung!$"
 
 KurtsHouse_Text_KurtHonoredToMakeBalls:
@@ -298,13 +298,13 @@ KurtsHouse_Text_KurtThatsALetdown:
 	.string "Kurt: Ich sehe keine 5 {STR_VAR_1}!$"
 
 KurtsHouse_Text_KurtFinishedPlural:
-	.string "KURT: {PLAYER}!\n"
+	.string "Kurt: {PLAYER}!\n"
 	.string "Deine {STR_VAR_1}e sind fertig. Hier!\p"
 	.string "{PLAYER} erhält\n"
 	.string "{STR_VAR_2} {STR_VAR_1}e!$"
 
 KurtsHouse_Text_KurtFinishedSingular:
-	.string "KURT: {PLAYER}!\n"
+	.string "Kurt: {PLAYER}!\n"
 	.string "Dein {STR_VAR_1} ist fertig. Hier!\p"
 	.string "{PLAYER} erhält\n"
 	.string "den {STR_VAR_1}!$"
@@ -330,7 +330,7 @@ KurtsHouse_Text_KurtAhHaISee:
 
 KurtsHouse_Text_KurtThisBallStartedToShake:
 	.string "{PLAYER}!\p"
-	.string "Dieser BALL hat sich bewegt,\n"
+	.string "Dieser Ball hat sich bewegt,\n"
 	.string "als ich ihn überprüfen wollte.\p"
 	.string "Da geht etwas vor sich!$"
 
@@ -339,7 +339,7 @@ KurtsHouse_Text_Kurt_Whatwasthat:
 	.string "Lass uns draußen nachsehen!$"
 
 KurtsHouse_Text_GranddaughterSlowpokeGone:
-	.string "Die FLEGMON sind verschwunden…\n"
+	.string "Die Flegmon sind verschwunden…\n"
 	.string "Ob sie wohl von irgendwelchen bösen\l"
 	.string "Leuten entführt wurden?$"
 
@@ -348,7 +348,7 @@ KurtsHouse_Text_GranddaughterLonely:
 	.string "Ich fühle mich so alleine…$"
 
 KurtsHouse_Text_GranddaughterSlowpokeBack:
-	.string "Das FLEGMON, das ich von meinem Vater\n"
+	.string "Das Flegmon, das ich von meinem Vater\n"
 	.string "bekommen habe, ist wieder da!\l"
 	.string "Seine Rute wächst schon wieder nach.$"
 
@@ -357,7 +357,7 @@ KurtsHouse_Text_GranddaughterDad:
 	.string "Er ist dort an der Entwicklung neuer\l"
 	.string "Pokébälle beteiligt!\p"
 	.string "Ich hüte hier mit meinem Großvater\n"
-	.string "und FLEGMON das Haus.$"
+	.string "und Flegmon das Haus.$"
 
 KurtsHouse_Text_GranddaughterHelp:
 	.string "Ich muss jetzt Opa helfen!\p"
@@ -376,7 +376,7 @@ KurtsHouse_Text_Forest:
 	.string "Es hört sich gruselig an.$"
 
 KurtsHouse_Text_Slowpoke:
-	.string "FLEGMON: …Flegmon?$"
+	.string "Flegmon: …Flegmon?$"
 
 KurtsHouse_Text_OakPhoto:
 	.string "…Ein junger Prof. Eich?$"

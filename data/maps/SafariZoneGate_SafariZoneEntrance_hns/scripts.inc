@@ -58,7 +58,7 @@ SafariZoneGate_SafariZoneEntrance_EventScript_Baoba::
 	goto_if_eq VAR_BAOBA_QUEST_STATE, 3, SafariZoneGate_SafariZoneEntrance_EventScript_BaobaMountain
 	goto_if_eq VAR_BAOBA_QUEST_STATE, 4, SafariZoneGate_SafariZoneEntrance_EventScript_BaobaCave
 	goto_if_ge VAR_BAOBA_QUEST_STATE, 5, SafariZoneGate_SafariZoneEntrance_EventScript_BaobaDone
-	msgbox SafariZoneGate_SafariZoneEntrance_Text_Baoba, MSGBOX_DEFAULT 
+	msgbox SafariZoneGate_SafariZoneEntrance_Text_Baoba, MSGBOX_DEFAULT
 	closemessage
 	release
 	end
@@ -182,32 +182,32 @@ SafariZoneGate_SafariZoneEntrance_EventScript_Test::
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBeachDone:
 	.string "Danke, {PLAYER}!\n"
 	.string "Nimm dieses Geld, um dein\l"
-	.string "SAFARI-LEVEL aufzuwerten, und\l"
+	.string "Safari-Level aufzuwerten, und\l"
 	.string "zeig mir als Nächstes ein\l"
-	.string "seltenes POKÉMON aus dem\l"
-	.string "BUSCH-Bereich!$"
+	.string "seltenes Pokémon aus dem\l"
+	.string "Busch-Bereich!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrushDone:
 	.string "Danke, {PLAYER}!\n"
 	.string "Nimm dieses Geld, um dein\l"
-	.string "SAFARI-LEVEL aufzuwerten, und\l"
+	.string "Safari-Level aufzuwerten, und\l"
 	.string "zeig mir als Nächstes ein\l"
-	.string "seltenes POKÉMON aus dem\l"
-	.string "BERG-Bereich!$"
+	.string "seltenes Pokémon aus dem\l"
+	.string "Berg-Bereich!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountainDone:
 	.string "Danke, {PLAYER}!\n"
 	.string "Nimm dieses Geld, um dein\l"
-	.string "SAFARI-LEVEL aufzuwerten, und\l"
+	.string "Safari-Level aufzuwerten, und\l"
 	.string "zeig mir als Nächstes ein\l"
-	.string "seltenes POKÉMON aus dem\l"
-	.string "HÖHLEN-Bereich!$"
+	.string "seltenes Pokémon aus dem\l"
+	.string "Höhlen-Bereich!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCaveDone:
 	.string "Danke, {PLAYER}!\n"
 	.string "Das ist alles, was ich\l"
 	.string "sehen wollte.\p"
-	.string "Jetzt weiß ich, was DEVON\n"
+	.string "Jetzt weiß ich, was Devon\n"
 	.string "plant, und kann mithalten.\l"
 	.string "Nimm das hier als Belohnung\l"
 	.string "für deine Mühe.$"
@@ -218,46 +218,46 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaWrong:
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBeach:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hast du mir ein seltenes\n"
-	.string "POKÉMON aus dem STRAND-Bereich\l"
-	.string "der SAFARIZONE\l"
+	.string "Pokémon aus dem Strand-Bereich\l"
+	.string "der Safarizone\l"
 	.string "mitgebracht?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaBrush:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hast du mir ein seltenes\n"
-	.string "POKÉMON aus dem BUSCH-Bereich\l"
-	.string "der SAFARIZONE\l"
+	.string "Pokémon aus dem Busch-Bereich\l"
+	.string "der Safarizone\l"
 	.string "mitgebracht?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaMountain:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hast du mir ein seltenes\n"
-	.string "POKÉMON aus dem BERG-Bereich\l"
-	.string "der SAFARIZONE\l"
+	.string "Pokémon aus dem Berg-Bereich\l"
+	.string "der Safarizone\l"
 	.string "mitgebracht?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaCave:
 	.string "Ah, {PLAYER}!\p"
 	.string "Hast du mir ein seltenes\n"
-	.string "POKÉMON aus dem HÖHLEN-Bereich\l"
-	.string "der SAFARIZONE\l"
+	.string "Pokémon aus dem Höhlen-Bereich\l"
+	.string "der Safarizone\l"
 	.string "mitgebracht?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDeclined:
 	.string "Was soll ich jetzt tun?\n"
-	.string "Wir können mit DEVON nie\l"
+	.string "Wir können mit Devon nie\l"
 	.string "mithalten!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaLastMon:
 	.string "Ich kann nicht dein letztes\n"
-	.string "POKÉMON nehmen!$"
+	.string "Pokémon nehmen!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaDone:
 	.string "Ah, {PLAYER}!\p"
 	.string "Dank dir floriert die\n"
-	.string "SAFARIZONE!\p"
+	.string "Safarizone!\p"
 	.string "Vielleicht sollte ich dich zum\n"
-	.string "BESITZER ernennen...\p"
+	.string "Besitzer ernennen...\p"
 	.string "Nein, das wäre absurd.\n"
 	.string "Hahahaha.$"
 
@@ -372,30 +372,30 @@ SafariZoneGate_SafariZoneEntrance_Text_BaobaWelcome:
 	.string "Ich hab auf dich gewartet.\l"
 	.string "Na, was sagst du?\p"
 	.string "Das hier ist übrigens eine\n"
-	.string "brandneue SAFARIZONE...\p"
+	.string "brandneue Safarizone...\p"
 	.string "Und sie wächst noch!\p"
 	.string "Bisher sind zwei Zonen offen\n"
 	.string "und 4 weitere in Planung!\p"
-	.string "Viel Spaß in der SAFARIZONE!\n"
+	.string "Viel Spaß in der Safarizone!\n"
 	.string "Ich ruf dich, wenn die anderen\l"
 	.string "Zonen fertig sind!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BaobaPokeblocks:
 	.string "Oh! Fast vergessen.\p"
-	.string "POKÉRIEGEL sind ein wichtiger\n"
-	.string "Teil meiner SAFARIZONE -\l"
+	.string "Pokériegel sind ein wichtiger\n"
+	.string "Teil meiner Safarizone -\l"
 	.string "nimm am besten welche mit!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Baoba:
 	.string "Hallo {PLAYER}!\p"
 	.string "Wie gefällt dir die\n"
-	.string "SAFARIZONE?$"
+	.string "Safarizone?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Boy:
 	.string "Ich hab gehört, die neue Zone\n"
-	.string "soll Drachen-POKÉMON haben!$"
+	.string "soll Drachen-Pokémon haben!$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Engineer:
-	.string "Sorry, TRAINER! Dieser Bereich\n"
+	.string "Sorry, Trainer! Dieser Bereich\n"
 	.string "ist noch im Bau. Schau später\l"
 	.string "nochmal vorbei!$"

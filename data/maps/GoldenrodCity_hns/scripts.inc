@@ -11,7 +11,7 @@ GoldenrodCity_EventScript_Trigger:: @flagheap
 	setflag FLAG_HIDE_ROCKET_GOLDENROD_RADIOTOWER_1
 	setflag FLAG_HIDE_GOLDENROD_RADIOTOWER_PETREL
 	setflag FLAG_HIDE_GOLDENROD_RADIOTOWER_DIRECTOR_2
-	
+
 	clearflag FLAG_HIDE_GOLDENROD_BEAUTY
 	clearflag FLAG_HIDE_GOLDENROD_ROCKET_SCOUT
 	clearflag FLAG_HIDE_GOLDENROD_NPCS
@@ -51,7 +51,7 @@ GoldenrodCity_Trigger_Music::
 	goto_if_ge VAR_GOLDENROD_CITY_STATE, 11, GoldenrodCity_Trigger_MusicNotYet
 	fadenewbgm MUS_HG_ROCKET_TAKEOVER
 	special ShowMapNamePopup
-	setvar VAR_TEMP_0, 1 
+	setvar VAR_TEMP_0, 1
 	end
 
 GoldenrodCity_Trigger_Music2::
@@ -288,7 +288,7 @@ GoldenrodCity_EventScript_Beauty::
 	end
 
 GoldenrodCity_Text_Beauty:
-	.string "Das ist die DUKATIA Arena!\p"
+	.string "Das ist die Dukatia Arena!\p"
 	.string "Unsere Leiterin Bianka ist gerade\n"
 	.string "nicht da. Sie könnte im Radioturm\l"
 	.string "sein.$"
@@ -299,26 +299,26 @@ GoldenrodCity_Text_Woman:
 	.string "macht mir Kopfschmerzen.$"
 
 GoldenrodCity_Text_HikerDay:
-	.string "Als ich in die SPIELHALLE ging,\n"
+	.string "Als ich in die Spielhalle ging,\n"
 	.string "war es Nacht… Wie lange war ich\l"
 	.string "dort drin?!$"
 
 GoldenrodCity_Text_HikerNight:
-	.string "Als ich in die SPIELHALLE ging,\n"
+	.string "Als ich in die Spielhalle ging,\n"
 	.string "war es Tag… Wie lange war ich\l"
 	.string "dort drin?!$"
 
 GoldenrodCity_Text_Snubbull:
-	.string "Snubbull: SNUUUBUUUULL!$"
+	.string "Snubbull: Snuuubuuuull!$"
 
 GoldenrodCity_Text_MrMime:
 	.string "............................$"
 
 GoldenrodCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 GoldenrodCity_Text_ElmCall:
-	.string "LIND: Hallo, {PLAYER}?\n"
+	.string "Lind: Hallo, {PLAYER}?\n"
 	.string "Ist das Ei schon geschlüpft?\p"
 	.string "Falls das passier, vergiss nicht\n"
 	.string "es zum Labor zu bringen.\p"
@@ -345,12 +345,12 @@ GoldenrodCity_Text_CooltrainerF1_Cleared:
 	.string "Ich kann es immer noch nicht glauben!$"
 
 GoldenrodCity_Text_CooltrainerF2:
-	.string "Der RADIOTURM in\n"
-	.string "DUKATIA CITY ist ein Wahrzeichen.\p"
+	.string "Der Radioturm in\n"
+	.string "Dukatia City ist ein Wahrzeichen.\p"
 	.string "Zurzeit läuft ge-\n"
 	.string "rade eine Werbekampagne.\p"
 	.string "Sie können deinen\n"
-	.string "COM modifizieren, so dass er auch als\n"
+	.string "Com modifizieren, so dass er auch als\n"
 	.string "Radio\p"
 	.string "verwendet werden kann.$"
 
@@ -362,7 +362,7 @@ GoldenrodCity_Text_Youngster2:
 	.string "E-he-he-he…\p"
 	.string "Ich habe Ärger bekommen,\n"
 	.string "weil ich im Keller des\l"
-	.string "KAUFHAUSes gespielt habe.$"
+	.string "Kaufhauses gespielt habe.$"
 
 GoldenrodCity_Text_Lass:
 	.string "Der Mann in diesem Haus\n"
@@ -402,17 +402,17 @@ GoldenrodCity_Text_Rocket5:
 
 GoldenrodCity_Text_Rocket6:
 	.string "Komm und werde\n"
-	.string "Zeuge der Macht von TEAM ROCKET!$"
+	.string "Zeuge der Macht von Team Rocket!$"
 
 GoldenrodCity_Text_StationSign:
-	.string "DUKATIA CITY BAHNHOF$"
+	.string "Dukatia City Bahnhof$"
 
 GoldenrodCity_Text_RadioTowerSign:
-	.string "DUKATIA CITY RADIOTURM$"
+	.string "Dukatia City Radioturm$"
 
 GoldenrodCity_Text_DeptStoreSign:
 	.string "Große Auswahl an Pokémon-Artikeln!\p"
-	.string "DUKATIA CITY KAUFHAUS$"
+	.string "Dukatia City Kaufhaus$"
 
 GoldenrodCity_Text_GymSign:
 	.string "Pokémon-Arena von Dukatia City\n"
@@ -420,16 +420,16 @@ GoldenrodCity_Text_GymSign:
 	.string "Ein Mädchen so scharf wie Sprengstoff!$"
 
 GoldenrodCity_Text_CitySign:
-	.string "DUKATIA CITY\p"
+	.string "Dukatia City\p"
 	.string "Die festliche\n"
 	.string "Stadt mit opulentem Charme$"
 
 GoldenrodCity_Text_BikeShopSign:
-	.string "Die Welt ist ein Radweg! FAHRRADLADEN$"
+	.string "Die Welt ist ein Radweg! Fahrradladen$"
 
 GoldenrodCity_Text_GameCornerSign:
 	.string "Dein Spielplatz!\p"
-	.string "DUKATIA CITY SPIELHALLE$"
+	.string "Dukatia City Spielhalle$"
 
 GoldenrodCity_Text_NameRaterSign:
 	.string "Namenbewerter\p"
@@ -437,14 +437,14 @@ GoldenrodCity_Text_NameRaterSign:
 	.string "Einschätzung deiner Spitznamen.$"
 
 GoldenrodCity_Text_UndergroundNorthSign:
-	.string "UNTERGRUNDEINGANG$"
+	.string "Untergrundeingang$"
 
 GoldenrodCity_Text_UndergroundSouthSign:
-	.string "UNTERGRUNDEINGANG$"
+	.string "Untergrundeingang$"
 
 
 GoldenrodCity_Text_FlowerShopSign:
-	.string "Blühender BLUMENLADEN$"
+	.string "Blühender Blumenladen$"
 
 GoldenrodCity_Text_MoveTutorAsk:
 	.string "A-aber…$"

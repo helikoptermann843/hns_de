@@ -53,18 +53,18 @@ MossdeepCity_House2_Movement_WingullExitEast:
 
 MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree:
 	.string "Meine kleine Schwester tauscht immer\n"
-	.string "BRIEFe mit ihrem Freund in BAUMHAUSEN\l"
-	.string "CITY aus.\p"
+	.string "Briefe mit ihrem Freund in Baumhausen\l"
+	.string "City aus.\p"
 	.string "Ich beneide sie kein bisschen darum.$"
 
 MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
 	.string "Auch wenn ich meinen Freund in\n"
-	.string "BAUMHAUSEN CITY nicht sehen kann…\l"
-	.string "Mein POKéMON bringt uns unsere BRIEFe.\n"
+	.string "Baumhausen City nicht sehen kann…\l"
+	.string "Mein Pokémon bringt uns unsere Briefe.\n"
 	.string "\p"
 	.string "Ich bin nicht einsam, auch wenn wir\n"
 	.string "getrennt sind.$"
 
 MossdeepCity_House2_Text_Wingull:
-	.string "WINGULL: Pihyoh!$"
+	.string "Wingull: Pihyoh!$"
 

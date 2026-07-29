@@ -3,7 +3,7 @@ Route26_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route26_OnTransition: 
+Route26_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -65,83 +65,85 @@ Route26_EventScript_Richard::
 Route26_Text_CooltrainermJakeSeen:
 	.string "Ich treffe die letzten\n"
 	.string "Vorbereitungen für die Pokémon\l"
-	.string "LIGA.$"
+	.string "Liga.$"
 
 Route26_Text_CooltrainermJakeBeaten:
 	.string "Ich habe es vermasselt!$"
 
 Route26_Text_CooltrainermJakeAfter:
-	.string "Es wird schwer, in der LIGA\n"
-	.string "zu gewinnen.\p"
-	.string "Ich muss noch mehr trainieren.\p"
-	.string "Man sagt, die TOP VIER der LIGA\n"
-	.string "sind stärker als ARENA-LEITER.$"
+	.string "Ich muss mehr trainieren, sonst gewinne\n"
+	.string "ich niemals einen Ligakampf.\p"
+	.string "Ich habe gehört, dass die Top Vier der\n"
+	.string "Liga noch stärker sind als die\l"
+	.string "Arenaleiter!$"
 
 Route26_Text_CooltrainermGavenSeen:
-	.string "Wenn du harte Kämpfe\n"
-	.string "bestreitest, wirst du stärker.$"
+	.string "Nur wenn du harte Kämpfe bestreitest,\n"
+	.string "zeigt sich deine wahre Stärke.$"
 
 Route26_Text_CooltrainermGavenBeaten:
 	.string "Gah! Das Leben ist noch härter!$"
 
 Route26_Text_CooltrainermGavenAfter:
-	.string "Um zur Pokémon LIGA zu gelangen,\n"
-	.string "musst du die SIEGESSTRASSE passieren.\p"
-	.string "Die SIEGESSTRASSE ist schwierig.\p"
+	.string "Um zur Pokémon Liga zu gelangen,\n"
+	.string "musst du die Siegesstraße passieren.\p"
+	.string "Die Siegesstraße ist schwierig.\p"
 	.string "Eigentlich geht niemand dorthin!$"
 
 Route26_Text_GavenRegister:
-    .string "Um zur POKéMON LIGA zu kommen,\n"
-    .string "musst du durch die SIEGESSTRASSE.\p"
-    .string "Aber die SIEGESSTRASSE hat es in\n"
+    .string "Um zur Pokémon Liga zu kommen,\n"
+    .string "musst du durch die Siegesstraße.\p"
+    .string "Aber die Siegesstraße hat es in\n"
     .string "sich.\p"
     .string "Fast niemand wagt sich dorthin!$"
 
 Route26_Text_GavenRematchIntro:
-    .string "Durch harte Kämpfe wirst du immer\n"
-    .string "stärker.$"
+	.string "Nur wenn du harte Kämpfe bestreitest,\n"
+	.string "zeigt sich deine wahre Stärke.$"
 
 Route26_Text_GavenRematchDefeat:
     .string "Aaah! Das Leben ist noch härter!$"
 
 Route26_Text_GavenPostRematch:
-    .string "Um zur POKéMON LIGA zu kommen,\n"
-    .string "musst du durch die SIEGESSTRASSE.\p"
-    .string "Aber die SIEGESSTRASSE hat es in\n"
+    .string "Um zur Pokémon Liga zu kommen,\n"
+    .string "musst du durch die Siegesstraße.\p"
+    .string "Aber die Siegesstraße hat es in\n"
     .string "sich.\p"
     .string "Fast niemand wagt sich dorthin!$"
 
 Route26_Text_CooltrainerfJoyceSeen:
-	.string "Da du es bis hierher geschafft\n"
-	.string "hast, musst du gut sein\p"
-	.string "Ich werde in diesem Kampf alles geben!$"
+	.string "Da du es bis hierher geschafft hast,\n"
+	.string "musst du gut sein.\p"
+	.string "Also werde auch ich in diesem Kampf\n"
+	.string "alles geben!$"
 
 Route26_Text_CooltrainerfJoyceBeaten:
-	.string "Nein! Ich kann das nicht glauben!$"
+	.string "Donnerwetter! Jetzt bin ich aber platt!$"
 
 Route26_Text_CooltrainerfJoyceAfter:
-	.string "Ich habe acht ARENA-LEITER besiegt,\n"
-	.string "darum war ich sehr selbstsicher.\p"
-	.string "Nächstes Mal muss ich mehr geben.$"
+	.string "Ich habe alle acht Arenaleiter besiegt\n"
+	.string "und war mir meiner Sache so sicher…\p"
+	.string "Ich muss mich mehr ins Zeug legen!$"
 
 Route26_Text_CooltrainerfBethSeen:
 	.string "Ich habe gegen einen Trainer\n"
-	.string "namens <RIVAL> verloren.\p"
+	.string "namens <Rival> verloren.\p"
 	.string "Er war sehr stark, aber…\n"
 	.string "Es schien, als sei er\l"
 	.string "vom Siegen besessen.\p"
 	.string "Seine Pokémon taten mir Leid.$"
 
 Route26_Text_CooltrainerfBethBeaten:
-	.string "Pokémon sind keine Kriegswerkzeuge.$"
+	.string "Ich sag’s doch: Pokémon sind keine\n"
+	.string "Kampfwerkzeuge.$"
 
 Route26_Text_CooltrainerfBethAfter:
 	.string "Pokémon sind unschätzbare,\n"
 	.string "lebenslange Partner.$"
 
 Route26_Text_BethRegister:
-    .string "POKéMON sind unbezahlbare Partner\n"
-    .string "fürs ganze Leben.$"
+	.string "Pokémon sind unschätzbare,\n"
+	.string "lebenslange Partner.$"
 
 Route26_Text_BethRematchIntro:
     .string "Ich habe gegen einen Trainer namens\n"
@@ -149,29 +151,29 @@ Route26_Text_BethRematchIntro:
     .string "Aber gegen dich verliere ich nicht!$"
 
 Route26_Text_BethRematchDefeat:
-    .string "POKéMON sind keine Werkzeuge des\n"
-    .string "Krieges.$"
+	.string "Ich sag’s doch: Pokémon sind keine\n"
+	.string "Kampfwerkzeuge.$"
 
 Route26_Text_BethPostRematch:
-    .string "POKéMON sind unbezahlbare Partner\n"
-    .string "fürs ganze Leben.$"
+	.string "Pokémon sind unschätzbare,\n"
+	.string "lebenslange Partner.$"
 
 Route26_Text_PsychicRichardSeen:
-	.string "Wow, sieh dir all\n"
-	.string "die ORDEN an! Ich bin beeindruckt.\p"
-	.string "Aber es reicht dir nicht, sie nur zu\n"
-	.string "sammeln, oder?$"
+	.string "Wow, sieh dir all die Orden an! Ich bin\n"
+	.string "beeindruckt.\p"
+	.string "Aber mit denen alleine scheinst du dich\n"
+	.string "noch nicht zufrieden zu geben, was?$"
 
 Route26_Text_PsychicRichardBeaten:
-	.string "Guter Kampf!$"
+	.string "Das war ein guter Kampf!$"
 
 Route26_Text_PsychicRichardAfter:
-	.string "Menschen und Pokémon wachsen an\n"
+	.string "Menschen und Pokémon wachsen beide an\n"
 	.string "ihren Erfahrungen.\p"
-	.string "Werde nicht faul oder\n"
-	.string "selbstzufrieden.$"
+	.string "Du darfst nicht faul und selbstgefällig\n"
+	.string "werden.$"
 
 Route26_Text_Sign:
-	.string "ROUTE 26\p"
-	.string "Pokémon LIGA EMPFANG$"
+	.string "Route 26\p"
+	.string "Pokémon Liga Empfang$"
 

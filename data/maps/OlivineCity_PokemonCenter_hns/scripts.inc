@@ -23,10 +23,10 @@ OlivineCity_EventScript_Teacher::
 	end
 
 OlivineCity_Text_PokecenterFisher:
-	.string "Der MATROSE im\n"
-	.string "OLIVIANA CITY-CAFE nebenan\l"
+	.string "Der Matrose im\n"
+	.string "Oliviana City-Cafe nebenan\l"
 	.string "ist sehr großzügig.\p"
-	.string "Er hat meinem Pokémon STÄRKE\n"
+	.string "Er hat meinem Pokémon Stärke\n"
 	.string "beigebracht. Jetzt\l"
 	.string "kann es Felsen bewegen.$"
 

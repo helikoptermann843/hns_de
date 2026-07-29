@@ -113,7 +113,7 @@ CeladonGameCorner_Text_Fisher2:
 	.string "eine Freude zu bereiten!$"
 
 CeladonGameCorner_Text_GymGuide:
-	.string "Hey! Künftiger CHAMP!\p"
+	.string "Hey! Künftiger Champ!\p"
 	.string "Spielst du auch an den Spielautomaten?\p"
 	.string "Ich versuche, genug Münzen für\n"
 	.string "ein Preis-Pokémon zu bekommen.\p"

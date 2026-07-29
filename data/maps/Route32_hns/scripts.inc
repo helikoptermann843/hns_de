@@ -3,7 +3,7 @@ Route32_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route32_OnTransition: 
+Route32_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -134,7 +134,7 @@ Route32_EventScript_SlowpokeTail_Trigger::
 	closemessage
 	setvar VAR_SLOWPOKE_TAIL, 1
 	release
-	end	
+	end
 Route32_EventScript_SlowpokeTail_Trigger2::
 	msgbox Route32_Text_ThoughtKidsLoaded, MSGBOX_DEFAULT
 	closemessage
@@ -149,7 +149,7 @@ Route32_EventScript_Movement_Left::
 	applymovement LOCALID_SLOWPOKETAIL_MAN, Common_Movement_WalkLeft1
 	waitmovement 0
 	turnobject LOCALID_SLOWPOKETAIL_MAN, DIR_EAST
-	return 
+	return
 
 Route32_EventScript_Movement_Right::
 	applymovement LOCALID_SLOWPOKETAIL_MAN, Common_Movement_WalkLeft1
@@ -157,7 +157,7 @@ Route32_EventScript_Movement_Right::
 	applymovement LOCALID_SLOWPOKETAIL_MAN, Common_Movement_WalkLeft1
 	waitmovement 0
 	turnobject LOCALID_SLOWPOKETAIL_MAN, DIR_EAST
-	return 	
+	return
 
 Route32_EventScript_SlowpokeTail::
 	lock
@@ -293,7 +293,7 @@ Route32_EventScript_BaldingManEgg::
 Route32_EventScript_Item_Bullet_Seed::
     finditem ITEM_TM_BULLET_SEED
     end
-	
+
 Route32_EventScript_GreatBall::
 	finditem ITEM_GREAT_BALL
 	end
@@ -361,12 +361,12 @@ Route32_Text_CooltrainerM_AideIsWaiting:
 	.string "Pokémon-Supermarkt auf dich!$"
 
 Route32_Text_CooltrainerM_SproutTower:
-	.string "Warst du im KNOFENSA-TURM?\p"
-	.string "Wenn du jemals nach VIOLA CITY\n"
+	.string "Warst du im Knofensa-Turm?\p"
+	.string "Wenn du jemals nach Viola City\n"
 	.string "kommst, erwartet man von dir,\l"
 	.string "dass du dort trainierst.\p"
 	.string "Das ist ein Muss für alle Trainer.\p"
-	.string "Geh zum KNOFENSA-TURM!$"
+	.string "Geh zum Knofensa-Turm!$"
 
 Route32_Text_CooltrainerM_VioletGym:
 	.string "Warst du schon in der Pokémon-Arena?\n"
@@ -393,7 +393,7 @@ Route32_Text_CooltrainerM_Experiences:
 
 Route32_Text_SlowpokeTailOffer:
 	.string "Wie wär's mit einer schmackhaften und\n"
-	.string "nahrhaften FLEGMON-Rute?\p"
+	.string "nahrhaften Flegmon-Rute?\p"
 	.string "Für dich jetzt nur 1.000.000 $!\n"
 	.string "Na, wie sieht's aus?$"
 
@@ -433,31 +433,28 @@ Route32_Text_FisherRalph1_After:
 	.string "Pokémon sind Kameraden fürs Leben!$"
 
 Route32_Text_RalphRegister:
-    .string "Angeln ist eine Leidenschaft\n"
-    .string "fürs ganze Leben.\p"
-    .string "POKéMON sind Freunde fürs Leben!$"
+	.string "Angeln ist ein Sport fürs ganze Leben.\n"
+	.string "Pokémon sind Kameraden fürs Leben!$"
 
 Route32_Text_RalphRematchIntro:
     .string "Ich bin sowohl im Angeln als\n"
-    .string "auch mit POKéMON richtig gut.\p"
+    .string "auch mit Pokémon richtig gut.\p"
     .string "Gegen irgendein Kind verliere\n"
     .string "ich ganz bestimmt nicht!$"
 
 Route32_Text_RalphRematchDefeat:
-    .string "Tz! Ich wollte wohl zu schnell\n"
-    .string "vorankommen…$"
+	.string "Tse! Ich war wohl doch zu ungeduldig.$"
 
 Route32_Text_RalphPostRematch:
-    .string "Angeln ist eine Leidenschaft\n"
-    .string "fürs ganze Leben.\p"
-    .string "POKéMON sind Freunde fürs Leben!$"
+	.string "Angeln ist ein Sport fürs ganze Leben.\n"
+	.string "Pokémon sind Kameraden fürs Leben!$"
 
 Route32_Text_FisherHenry_Seen:
 	.string "Meine Pokémon?\n"
 	.string "Frisch gefangen!$"
 
 Route32_Text_FisherHenry_Beaten:
-	.string "Ein Bauchklatscher!$"
+	.string "Platscher$"
 
 Route32_Text_FisherHenry_After:
 	.string "Frisch gefangene Pokémon können\n"
@@ -468,7 +465,7 @@ Route32_Text_YoungsterAlbert_Seen:
 	.string "Du hältst dich also für stark?$"
 
 Route32_Text_YoungsterAlbert_Beaten:
-	.string "Du bist stark!$"
+	.string "Du bist aber stark!$"
 
 Route32_Text_YoungsterAlbert_After:
 	.string "Ich versuche, aus meinen Lieblings-\n"
@@ -543,27 +540,27 @@ Route32_Text_BirdKeeperPeter_After:
 
 Route32_Text_RoarIntro:
 	.string "Brüüüll!\p"
-	.string "Alle Leute Laufen Davon, Wenn Ich SO\n"
+	.string "Alle Leute Laufen Davon, Wenn Ich so\n"
 	.string "Brülle, Aber Duuu Bist Hiergeblieben!\l"
-	.string "Ich Bin ZU Trääänen Gerührt!\l"
+	.string "Ich Bin zu Trääänen Gerührt!\l"
 	.string "Hiiier, Nimm Das Bitte Miiiiiit!!!$"
 
 Route32_Text_RoarOutro:
-	.string "BRÜÜÜLL!\n"
-	.string "DAS IST DER BRÜLLER!\l"
-	.string "SOGAR POKéMON LAUFEN DAVON,\l"
-	.string "WENN DU IHN EINSETZT!$"
+	.string "Brüüüll!\n"
+	.string "Das ist der Brüller!\l"
+	.string "Sogar Pokémon laufen davon,\l"
+	.string "Wenn du ihn Einsetzt!$"
 
 Route32_Text_MeetFrieda:
 	.string "Frieda: Juchhu!\p"
 	.string "Ich bin Frieda von der\n"
-	.string "WOCHENTAGS-FAMILIE!\p"
+	.string "Wochentags-Familie!\p"
 	.string "Schön, dich zu treffen!\p"
 	.string "Errätst du meinen Lieblingstag,\n"
 	.string "bekommst du eine Belohnung.$"
 
 Route32_Text_FriedaGivesGift:
-	.string "Hier, GIFTSTICH ist für dich!$"
+	.string "Hier, Giftstich ist für dich!$"
 
 Route32_Text_FriedaGaveGift:
 	.string "Frieda: Gib es einem Pokémon, das\n"
@@ -585,8 +582,8 @@ Route32_Text_FriedaNope:
 	.string "Frieda: Nicht der richtige!$"
 
 Route32_Text_Sign1:
-	.string "ROUTE 32\p"
-	.string "VIOLA CITY - AZALEA CITY$"
+	.string "Route 32\p"
+	.string "Viola City - Azalea City$"
 
 Route32_Text_Sign2:
 	.string "Alph-Ruinen\n"

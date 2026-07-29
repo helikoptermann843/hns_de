@@ -13,9 +13,9 @@ Gate_MahoganyTown_Route43_EventScript_CopAfter::
 Route43MahoganyGate_Text_Officer:
 	.string "Hier kamen nur Wanderer vorbei,\n"
 	.string "die auf dem Weg zum\l"
-	.string "SEE DES ZORNS waren.$"
+	.string "See des Zorns waren.$"
 
 Route43MahoganyGate_Text_Officer_RocketsCleared:
 	.string "In letzter Zeit geht niemand\n"
-	.string "mehr zum SEE DES ZORNS.$"
+	.string "mehr zum See des Zorns.$"
 

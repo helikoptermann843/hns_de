@@ -284,19 +284,19 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 	end
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
-	.string "Ich bin der SCHATZTAUCHER!\p"
+	.string "Ich bin der Schatztaucher!\p"
 	.string "Ich bin der Typ, der in der Tiefsee\n"
 	.string "taucht und nach Schätzen am Meeres-\l"
 	.string "grund sucht.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Sag, hast du SCHERBEn antiker\n"
+	.string "Sag, hast du Scherben antiker\n"
 	.string "Werkzeuge gesehen?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
 	.string "Du hast keinerlei Schätze für mich…\p"
 	.string "Wenn du Stücke findest, besonders\n"
-	.string "PURPURSTÜCKE, tausche sie mit mir!$"
+	.string "Purpurstücke, tausche sie mit mir!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
 	.string "Oh, hey! Das… Das ist eine\n"
@@ -320,7 +320,7 @@ Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "Möchtest du noch etwas tauschen?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Hups, dein BEUTEL ist voll.\n"
+	.string "Hups, dein Beutel ist voll.\n"
 	.string "Schaffe Platz, mein Freund!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
@@ -329,11 +329,11 @@ Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
 	.string "bin hier!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 0x0a}Gesuchtes Item{CLEAR_TO 0x7c}Tausch Item\n"
-	.string "{CLEAR_TO 0x0f}RED SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}FIRE STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
-	.string "{CLEAR_TO 0x06}YELLOW SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}THUNDERSTONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
-	.string "{CLEAR_TO 0x0c}BLUE SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}WATER STONE{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Gesuchtes{CLEAR_TO 0x7c}Tausch Item\n"
-	.string "{CLEAR_TO 0x08}GREEN SHARD{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}LEAF STONE$"
+	.string "{CLEAR_TO 0x03}Gesuchtes Item{CLEAR_TO 0x6a}Item zum Tausch\n"
+	.string "{CLEAR_TO 0x0b}Purpurstück{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x76}Feuerstein{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x03}Gesuchtes Item{CLEAR_TO 0x6a}Item zum Tausch\n"
+	.string "{CLEAR_TO 0x11}Gelbstück{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}Donnerstein{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x03}Gesuchtes Item{CLEAR_TO 0x6a}Item zum Tausch\n"
+	.string "{CLEAR_TO 0x0b}Indigostück{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}Wasserstein{CLEAR_TO 0xc8}\p"
+	.string "{CLEAR_TO 0x03}Gesuchtes Item{CLEAR_TO 0x6a}Item zum Tausch\n"
+	.string "{CLEAR_TO 0x11}Jadestück{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x76}Blattstein$"

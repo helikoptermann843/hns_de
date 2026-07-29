@@ -38,10 +38,10 @@ FortreeCity_Mart_EventScript_Boy::
 	end
 
 FortreeCity_Mart_Text_SuperRepelBetter:
-	.string "SUPERSCHUTZ hält lange an und ist auch\n"
+	.string "Superschutz hält lange an und ist auch\n"
 	.string "äußerst nützlich.\p"
 	.string "Er ist viel besser als\n"
-	.string "der normale SCHUTZ.$"
+	.string "der normale Schutz.$"
 
 FortreeCity_Mart_Text_StockUpOnItems:
 	.string "Ich horte immer mehr Items, als ich\n"
@@ -51,6 +51,6 @@ FortreeCity_Mart_Text_StockUpOnItems:
 	.string "Porzellankiste!$"
 
 FortreeCity_Mart_Text_RareCandyMakesMonGrow:
-	.string "Ein SONDERBONBON erhöht den Level\n"
-	.string "eines POKéMON sofort um 1.$"
+	.string "Ein Sonderbonbon erhöht den Level\n"
+	.string "eines Pokémon sofort um 1.$"
 

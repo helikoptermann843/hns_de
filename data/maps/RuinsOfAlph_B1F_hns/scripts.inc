@@ -53,12 +53,11 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_GSBALL::
 	end
 
 RuinsOfAlph_B1F_Text_Presence:
-    .string "Hier ist eine seltsame Präsenz zu\n"
-    .string "spüren.$"
+	.string "Du kannst irgendeine Präsenz spüren…$"
 
 RuinsOfAlph_B1F_Text_Hiker:
-    .string "Das ist ein großer Raum, aber hier\n"
-    .string "ist nichts.$"
+	.string "Dafür, dass er so leer ist, wurde dieser\n"
+	.string "Raum aber ziemlich groß angelegt…$"
 
 RuinsOfAlph_B1F_Text_Teacher:
     .string "Dieser Ort hat etwas Mystisches an\n"

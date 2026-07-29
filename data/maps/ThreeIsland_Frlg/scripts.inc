@@ -386,7 +386,7 @@ ThreeIsland_EventScript_Biker6::
 	end
 
 ThreeIsland_Text_IslandSign::
-	.string "TRI-EILAND\n"
+	.string "Tri-Eiland\n"
 	.string "Verwandtschaft und Familienbande$"
 
 ThreeIsland_Text_IslandBelongsToUs::
@@ -398,7 +398,7 @@ ThreeIsland_Text_GoBackToKanto::
 	.string "Den Lärm und die Aufregung, die ihr\n"
 	.string "Leute hierher bringt brauchen wir \l"
 	.string "nicht!\p"
-	.string "Wir bitten euch, nach KANTO\n"
+	.string "Wir bitten euch, nach Kanto\n"
 	.string "zurückzukehren!$"
 
 ThreeIsland_Text_BossIsOnHisWay::
@@ -417,7 +417,7 @@ ThreeIsland_Text_WhosGonnaMakeMe::
 
 ThreeIsland_Text_AreYouBossGoBackToKanto::
 	.string "Bist du der Boss?\n"
-	.string "Gehe sofort zurück nach KANTO!$"
+	.string "Gehe sofort zurück nach Kanto!$"
 
 ThreeIsland_Text_JustGotHerePal::
 	.string "Häh?\p"
@@ -516,20 +516,20 @@ ThreeIsland_Text_PaxtonPostBattle::
 ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 	.string "Danke! Diese Typen haben\n"
 	.string "nur Ärger gemacht.\p"
-	.string "Oh, deine POKéMON wurden\n"
+	.string "Oh, deine Pokémon wurden\n"
 	.string "wegen mir verletzt.$"
 
 ThreeIsland_Text_GivenFullRestore::
 	.string "{PLAYER} was given\n"
-	.string "a FULL RESTORE.$"
+	.string "a Full Restore.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
 	.string "Oh?\n"
-	.string "Dein BEUTEL ist voll.$"
+	.string "Dein Beutel ist voll.$"
 
 ThreeIsland_Text_YouveGotImpressiveMons::
 	.string "Du hast wirklich beeindruckende\n"
-	.string "POKéMON bei dir.$"
+	.string "Pokémon bei dir.$"
 
 ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
 	.string "Es wäre großartig, wenn jemand\n"
@@ -537,26 +537,26 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
 	.string "Ich hoffe, du bleibst wenigstens\n"
 	.string "eine Weile hier.\p"
 	.string "… wie bitte?\n"
-	.string "Du suchst IRRMA?\p"
+	.string "Du suchst Irrma?\p"
 	.string "Es ist schon eine Weile her, dass\n"
-	.string "IRRMA zur BUNDBRÜCKE\l"
+	.string "Irrma zur Bundbrücke\l"
 	.string "gegangen ist.$"
 
 ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
-	.string "EILAND DREI ist die beliebteste\n"
+	.string "Eiland Drei ist die beliebteste\n"
 	.string "aller Inseln.\p"
 	.string "Dennoch könnte dort ein wenig\n"
 	.string "mehr geboten werden.\p"
 	.string "Aber ich möchte solche Typen\n"
-	.string "wie diese BIKER hier nicht noch\l"
+	.string "wie diese Biker hier nicht noch\l"
 	.string "einmal sehen.$"
 
 ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
-	.string "Ich trainiere mein DODU im\n"
-	.string "BEERENFORST.\p"
+	.string "Ich trainiere mein Dodu im\n"
+	.string "Beerenforst.\p"
 	.string "Sobald es sich entwickelt, spiele\n"
-	.string "ich auf EILAND ZWEI.$"
+	.string "ich auf Eiland Zwei.$"
 
 ThreeIsland_Text_Doduo::
-	.string "DODU: Guguh!$"
+	.string "Dodu: Guguh!$"
 

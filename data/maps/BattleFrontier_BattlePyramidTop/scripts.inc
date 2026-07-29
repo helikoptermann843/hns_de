@@ -217,16 +217,16 @@ BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
 	.string "Es ist wirklich eine Freude, dich hier\n"
 	.string "zu\n"
 	.string "sehen! Du hast es bis zum Gipfel der\l"
-	.string "KAMPFPYRAMIDE geschafft!\p"
+	.string "Kampfpyramide geschafft!\p"
 	.string "Über uns befindet sich nur noch die\n"
 	.string "Aussichtsplattform.\p"
 	.string "Ein Platz, der nur denen offen steht,\n"
-	.string "die die PYRAMIDE erobert haben.\p"
+	.string "die die Pyramide erobert haben.\p"
 	.string "Nun, dann darf ich bitten?\n"
 	.string "Auf geht’s!$"
 
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
-	.string "Der neue Eroberer der PYRAMIDE! Sein\n"
+	.string "Der neue Eroberer der Pyramide! Sein\n"
 	.string "Name soll in aller Munde sein!\l"
 	.string "{PLAYER}!!!$"
 
@@ -235,10 +235,10 @@ BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "sehen!\p"
 	.string "Aber leider bist du nur Zweiter, denn\n"
 	.string "ein anderer war schneller als du!\p"
-	.string "Unser Chef hat die PYRAMIDE bereits\n"
+	.string "Unser Chef hat die Pyramide bereits\n"
 	.string "erobert!\p"
 	.string "Wie dem auch sei, junger\n"
-	.string "Forschergeist… Du bist ein TRAINER!\p"
+	.string "Forschergeist… Du bist ein Trainer!\p"
 	.string "Behaupte dich mit aller Kraft und hol\n"
 	.string "dir den Ruhm! Besiege unseren Chef!\p"
 	.string "Bitte! Du bist so weit gegangen. Mach\n"
@@ -251,15 +251,15 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "\p"
 	.string "Dein Verstand!\p"
 	.string "Deine Stärke!\p"
-	.string "Deine POKéMON!\p"
+	.string "Deine Pokémon!\p"
 	.string "Aber vor allem dein Mut, dich durch\n"
 	.string "unbekannte Welten zu bewegen…$"
 
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
 	.string "Oh ja, das Leben ist einfach\n"
 	.string "großartig! Ja, ja! Bitte?!?\p"
-	.string "Ich heiße BRIAN!\p"
-	.string "Ich bin der PYRAKÖNIG, was bedeutet,\n"
+	.string "Ich heiße Brian!\p"
+	.string "Ich bin der Pyrakönig, was bedeutet,\n"
 	.string "dass ich die Verantwortung hier trage!\n"
 	.string "\p"
 	.string "Die meisten nennen mich einfach Chef!\n"
@@ -275,23 +275,23 @@ BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
 	.string "Beweis deinen Mut und kämpfe!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
-	.string "BRIAN: Hahaha! Das war einfach\n"
+	.string "Brian: Hahaha! Das war einfach\n"
 	.string "großartig! Großartig, jawohl!\p"
 	.string "Gut gemacht! Du hast dir meine\n"
 	.string "Anerken-\n"
-	.string "nung redlich verdient! Deinen KAMPF-\l"
-	.string "ZONENPASS, bitte!$"
+	.string "nung redlich verdient! Deinen Kampf-\l"
+	.string "zonenpass, bitte!$"
 
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
-	.string "Das BRAVURSYMBOL wurde dem\n"
-	.string "KAMPFZONENPASS hinzugefügt!$"
+	.string "Das Bravursymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
 	.string "Junger Forschergeist! Ich freue mich\n"
 	.string "schon auf unser nächstes Treffen!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
-	.string "BRIAN: … Endlich sehen wir uns\n"
+	.string "Brian: … Endlich sehen wir uns\n"
 	.string "wieder, junger Forschergeist!\p"
 	.string "Deine Liebe für Abenteuer scheint aus\n"
 	.string "tiefstem Herzen zu kommen…\p"
@@ -315,7 +315,7 @@ BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 	.string "würde ich auch gerne besitzen…$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-	.string "BRIAN: Hahahaha!\n"
+	.string "Brian: Hahahaha!\n"
 	.string "Bemerkenswert!\l"
 	.string "Wirklich ganz großartig!\p"
 	.string "Junger Forschergeist!\p"
@@ -324,7 +324,7 @@ BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
 	.string "Bitte! Ich möchte dir dies geben!$"
 
 BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
-	.string "Das BRAVURSYMBOL erscheint\n"
+	.string "Das Bravursymbol erscheint\n"
 	.string "in einem goldenen Glanz!$"
 
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow:

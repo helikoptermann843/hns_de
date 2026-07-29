@@ -3,7 +3,7 @@ Route33_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route33_OnTransition: 
+Route33_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -48,8 +48,8 @@ Route33_Text_HikerAnthony2After:
 	.string "in unserem Element.$"
 
 Route33_Text_AnthonyRegister:
-    .string "Wir WANDERER sind in den Bergen\n"
-    .string "in unserem Element.$"
+	.string "In den Bergen sind wir Wanderer in\n"
+	.string "unserem Element.$"
 
 Route33_Text_AnthonyRematchIntro:
     .string "Ich bin durch den Tunnel gekommen,\n"
@@ -57,15 +57,15 @@ Route33_Text_AnthonyRematchIntro:
     .string "Energie übrig.$"
 
 Route33_Text_AnthonyRematchDefeat:
-    .string "Wow! Du hast mehr Schwung\n"
-    .string "als ich!$"
+	.string "Oho! Scheint, als hättest du noch mehr\n"
+	.string "Energie als ich!$"
 
 Route33_Text_AnthonyPostRematch:
-    .string "Wir WANDERER sind in den Bergen\n"
-    .string "in unserem Element.$"
+	.string "In den Bergen sind wir Wanderer in\n"
+	.string "unserem Element.$"
 
 Route33_Text_HikerAnthonyDunsparce:
-	.string "Heh, hast du ein DUMMISEL?\p"
+	.string "Heh, hast du ein Dummisel?\p"
 	.string "Ich habe eines.\p"
 	.string "Sieh es dir im Licht an.\p"
 	.string "Es hat ein lustiges Gesicht!$"

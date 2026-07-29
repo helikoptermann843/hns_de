@@ -16,7 +16,7 @@ GoldenrodDeptElevator_EventScript_Exit::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
 	waitmovement 0
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
-	waitmovement 0	
+	waitmovement 0
 	closedoor 9, 4
 	closedoor 10, 6
 	waitdooranim
@@ -123,7 +123,7 @@ GoldenrodDeptElevator_EventScript_Cancel::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
 	waitmovement 0
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
-	waitmovement 0	
+	waitmovement 0
 	closedoor 9, 4
 	closedoor 10, 6
 	waitdooranim
@@ -150,7 +150,7 @@ CeladonDeptElevator_EventScript_Exit::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
 	waitmovement 0
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
-	waitmovement 0	
+	waitmovement 0
 	closedoor 6, 1
 	closedoor 10, 6
 	waitdooranim
@@ -240,7 +240,7 @@ CeladonDeptElevator_EventScript_Cancel::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
 	waitmovement 0
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkDown1
-	waitmovement 0	
+	waitmovement 0
 	closedoor 6, 1
 	closedoor 10, 6
 	waitdooranim

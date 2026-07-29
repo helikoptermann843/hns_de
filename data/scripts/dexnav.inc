@@ -4,7 +4,7 @@ EventScript_StartDexNavBattle::
 	applymovement OBJ_EVENT_ID_PLAYER Common_Movement_ExclamationMark
 	waitmovement 0
 	waitse
-	dowildbattle	
+	dowildbattle
 	release
 	end
 

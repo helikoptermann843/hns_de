@@ -204,129 +204,129 @@ BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
 	.string "Oh…\n"
-	.string "Du siehst wie ein starker TRAINER aus.\p"
+	.string "Du siehst wie ein starker Trainer aus.\p"
 	.string "Hähähä… Pass auf, ich\n"
 	.string "mach dir folgenden Vorschlag:\p"
 	.string "Wir haben hier eine Gruppe gebildet\n"
 	.string "und wir nutzen bei unserem Spiel aus,\l"
-	.string "was hier in der KAMPFZONE so\p"
+	.string "was hier in der Kampfzone so\p"
 	.string "passiert. Die Regeln sind ganz einfach.\p"
 	.string "Als Erstes suchen wir uns hier eine\n"
 	.string "Kampfstätte aus.\p"
-	.string "Dann bestimmen wir einen TRAINER,\n"
+	.string "Dann bestimmen wir einen Trainer,\n"
 	.string "der die Herausforderung dieser\l"
 	.string "Einrichtung annimmt und wetten um\p"
 	.string "unsere Gewinnpunkte. Derjenige, der\n"
-	.string "auf den besten TRAINER gesetzt hat,\l"
+	.string "auf den besten Trainer gesetzt hat,\l"
 	.string "gewinnt die Gewinnpunkte.\p"
 	.string "Hört sich einfach an, nicht wahr?\n"
 	.string "Nun, kommen wir zum Punkt…$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "EINZELKÄMPFE im DUELLTURM\n"
+	.string "Einzelkämpfe im Duellturm\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "DOPPELKÄMPFE im DUELLTURM\n"
+	.string "Doppelkämpfe im Duellturm\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "MULTIKÄMPFE im DUELLTURM\n"
+	.string "Multikämpfe im Duellturm\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung eines\p"
-	.string "EINZELKAMPF-Turniers des\n"
-	.string "KAMPFSTADIONs zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Einzelkampf-Turniers des\n"
+	.string "Kampfstadions zu stellen.\p"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung eines\p"
-	.string "DOPPELKAMPF-Turniers des\n"
-	.string "KAMPFSTADIONs zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Doppelkampf-Turniers des\n"
+	.string "Kampfstadions zu stellen.\p"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung des\p"
 	.string "Einzel-Wechselkampf-Turniers der\n"
-	.string "KAMPFFABRIK zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Kampffabrik zu stellen.\p"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung des\p"
 	.string "Doppel-Wechselkampf-Turniers der\n"
-	.string "KAMPFFABRIK zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Kampffabrik zu stellen.\p"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "EINZELKAMPF-Hallen des KAMPFPALASTes\n"
+	.string "Einzelkampf-Hallen des Kampfpalastes\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "DOPPELKAMPF-Hallen des KAMPFPALASTes\n"
+	.string "Doppelkampf-Hallen des Kampfpalastes\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleArena::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "K.O.-Teamturniere des KAMPFRINGs\n"
+	.string "K.O.-Teamturniere des Kampfrings\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePike::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "Kampfbahn der KAMPFIPITIS\n"
+	.string "Kampfbahn der Kampfipitis\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
-	.string "Ich suche einen TRAINER, der bereit\n"
+	.string "Ich suche einen Trainer, der bereit\n"
 	.string "ist, sich der Herausforderung der\p"
-	.string "Kampfforschung der KAMPFPYRAMIDE\n"
+	.string "Kampfforschung der Kampfpyramide\n"
 	.string "zu stellen.\p"
-	.string "Aber bisher ist mir noch kein TRAINER\n"
+	.string "Aber bisher ist mir noch kein Trainer\n"
 	.string "ins Auge gefallen, dessen Qualitäten\l"
 	.string "mich überzeugt hätten.$"
 
@@ -359,84 +359,84 @@ BattleFrontier_Lounge3_Text_ThanksOffYouGo::
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle::
 	.string "Beeil dich! Stell dich in den\n"
-	.string "EINZELKÄMPFEN des DUELLTURMs!\p"
+	.string "Einzelkämpfen des Duellturms!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerDouble::
 	.string "Beeil dich! Geh in die Räume für die\n"
-	.string "DOPPELKÄMPFE des DUELLTURMs!\p"
+	.string "Doppelkämpfe des Duellturms!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerMulti::
-	.string "Beeil dich! Geh in die MULTIKAMPF-\n"
-	.string "Räume des DUELLTURMs!\p"
+	.string "Beeil dich! Geh in die Multikampf-\n"
+	.string "Räume des Duellturms!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeSingle::
-	.string "Beeil dich! Geh zum EINZELKAMPF-\n"
-	.string "Turnier des KAMPFSTADIONs!\p"
+	.string "Beeil dich! Geh zum Einzelkampf-\n"
+	.string "turnier des Kampfstadions!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeDouble::
-	.string "Beeil dich! Geh zum DOPPELKAMPF-\n"
-	.string "Turnier des KAMPFSTADIONs!\p"
+	.string "Beeil dich! Geh zum Doppelkampf-\n"
+	.string "Turnier des Kampfstadions!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactorySingle::
 	.string "Beeil dich! Geh zum Einzel-Wechsel-\n"
-	.string "kampf-Turnier der KAMPFFABRIK!\p"
+	.string "kampf-Turnier der Kampffabrik!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble::
 	.string "Beeil dich! Geh zum Doppel-Wechsel-\n"
-	.string "kampf-Turnier der KAMPFFABRIK!\p"
+	.string "kampf-Turnier der Kampffabrik!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle::
-	.string "Beeil dich! Geh zu den EINZELKAMPF-\n"
-	.string "Hallen des KAMPFPALASTes!\p"
+	.string "Beeil dich! Geh zu den Einzelkampf-\n"
+	.string "Hallen des Kampfpalastes!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble::
-	.string "Beeil dich! Geh zu den DOPPELKAMPF-\n"
-	.string "Hallen des KAMPFPALASTes!\p"
+	.string "Beeil dich! Geh zu den Doppelkampf-\n"
+	.string "Hallen des Kampfpalastes!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleArena::
 	.string "Beeil dich! Geh zum K.O.-Teamturnier\n"
-	.string "des KAMPFRINGs!\p"
+	.string "des Kampfrings!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePike::
 	.string "Beeil dich! Geh zur Kampfbahn\n"
-	.string "der KAMPFIPITIS!\p"
+	.string "der Kampfipitis!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid::
 	.string "Beeil dich! Geh zur Kampfforschung\n"
-	.string "der KAMPFPYRAMIDE!\p"
+	.string "der Kampfpyramide!\p"
 	.string "Du musst einfach gewinnen!\n"
 	.string "Verpatz es nicht!\l"
 	.string "Unser beider Zukunft hängt von dir ab!$"
@@ -476,21 +476,21 @@ BattleFrontier_Lounge3_Text_Oh::
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer::
 	.string "Ich habe schon wieder den falschen\n"
-	.string "TRAINER unterstützt!\p"
+	.string "Trainer unterstützt!\p"
 	.string "Vielleicht sollte ich es mal mit Kämpfen\n"
 	.string "versuchen, so wie jeder andere auch?$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
-	.string "Dieser TRAINER…\p"
+	.string "Dieser Trainer…\p"
 	.string "Er ist gut, aber er verliert in Kämpfen\n"
 	.string "schnell die Fassung und verliert dann\l"
-	.string "im KAMPFSTADION…$"
+	.string "im Kampfstadion…$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
 	.string "Kicher, kicher! Ich erkenne\n"
 	.string "einen Sieger, wenn ich ihn sehe!$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
-	.string "Diese TRAINER…\n"
+	.string "Diese Trainer…\n"
 	.string "Was machen die da? Sie sollten\l"
 	.string "sich lieber Herausforderungen stellen!$"

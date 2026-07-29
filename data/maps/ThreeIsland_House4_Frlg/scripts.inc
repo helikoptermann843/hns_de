@@ -10,10 +10,10 @@ ThreeIsland_House4_EventScript_LittleBoy::
 	end
 
 ThreeIsland_House4_Text_GhostsInBerryForest::
-	.string "Wenn du den ZERSCHNEIDER einsetzt,\n"
+	.string "Wenn du den Zerschneider einsetzt,\n"
 	.string "kannst du kleine Bäume fällen.\p"
 	.string "Probiere es doch bei den Bäumen\n"
-	.string "um ORANIA CITY aus!$"
+	.string "um Orania City aus!$"
 
 ThreeIsland_House4_Text_PapaKeepsLyingToMe::
 	.string "Oh, nein! Du hast keinen Platz für\n"

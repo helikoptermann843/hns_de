@@ -79,7 +79,7 @@ Route35GoldenrodGate_Text_RandyAskFavor:
 	.string "Entschuldige, kleiner!\n"
 	.string "kannst du mir einen Gefallen tun?\p"
 	.string "Kannst du dieses Pokémon\n"
-	.string "meinem Freund auf ROUTE 31 bringen?\p"
+	.string "meinem Freund auf Route 31 bringen?\p"
 	.string "Du wirst ihn sofort erkennen!$"
 
 Route35GoldenrodGate_Text_RandyThanks:
@@ -92,13 +92,13 @@ Route35GoldenrodGate_Text_RandyThanks:
 
 Route35GoldenrodGate_Text_ReceivedMonWithMail:
 	.string "{PLAYER} hat ein Pokémon, das einen\p"
-	.string "BRIEF trägt, erhalten.$"
+	.string "Brief trägt, erhalten.$"
 
 Route35GoldenrodGate_Text_RandyWeirdTree:
 	.string "Vergiss nicht es an die\n"
 	.string "erste Stelle im Team zu tun,\n"
 	.string "sobald du meinen Freund triffst!\p"
-	.string "ROUTE 31!\p"
+	.string "Route 31!\p"
 	.string "Stimmt! Ein\n"
 	.string "merkwürdiger Baum hat die Straße\n"
 	.string "blockiert.\p"
@@ -137,6 +137,6 @@ Route35GoldenrodGate_Text_PokefanF_Lullaby:
 Route35GoldenrodGate_Text_Fisher:
 	.string "Ich frage mich, wie viele Arten\p"
 	.string "von Pokémon es wohl geben mag.\p"
-	.string "Vor drei Jahren hat PROF. EICH\p"
+	.string "Vor drei Jahren hat Prof. Eich\p"
 	.string "verlautbart, dass\n"
 	.string "es 150 verschiedene Arten geben soll.$"

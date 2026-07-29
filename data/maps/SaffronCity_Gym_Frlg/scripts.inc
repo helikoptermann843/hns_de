@@ -115,29 +115,29 @@ SaffronCity_Gym_Text_SabrinaDefeat::
 
 SaffronCity_Gym_Text_SabrinaPostBattle::
 	.string "Theoretisch könnte jeder die\n"
-	.string "PSYCHOKINESE erlernen.\p"
+	.string "Psychokinese erlernen.\p"
 	.string "Viele wissen es nur nicht!$"
 
 SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
-	.string "Der SUMPFORDEN lässt POKéMON bis\n"
+	.string "Der Sumpforden lässt Pokémon bis\n"
 	.string "Level 70 deinen Befehlen folgen!\p"
-	.string "Stärkere POKéMON könnten sich dir\n"
+	.string "Stärkere Pokémon könnten sich dir\n"
 	.string "widersetzen und deine Befehle\l"
 	.string "ignorieren!\p"
 	.string "Achte darauf, dass du deine\n"
-	.string "POKéMON jederzeit unter Kontrolle\l"
+	.string "Pokémon jederzeit unter Kontrolle\l"
 	.string "hast!\p"
 	.string "Warte! Nimm noch diese TM von mir!$"
 
 SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
 	.string "{PLAYER} received TM04 from\n"
-	.string "SABRINA.$"
+	.string "Sabrina.$"
 
 SaffronCity_Gym_Text_ExplainTM04::
-	.string "TM04 ist GEDANKENGUT!\p"
-	.string "Das POKéMON konzentriert sich,\n"
+	.string "TM04 ist Gedankengut!\p"
+	.string "Das Pokémon konzentriert sich,\n"
 	.string "um sowohl den SP. ANG.\l"
-	.string "als auch die SP. VER. zu\l"
+	.string "als auch die SP. Ver. zu\l"
 	.string "steigern.$"
 
 SaffronCity_Gym_Text_BagFullOfOtherItems::
@@ -178,7 +178,7 @@ SaffronCity_Gym_Text_StacyDefeat::
 	.string "Ich wusste es!$"
 
 SaffronCity_Gym_Text_StacyPostBattle::
-	.string "Meine POKéMON müssen stärkere\n"
+	.string "Meine Pokémon müssen stärkere\n"
 	.string "Attacken lernen!$"
 
 SaffronCity_Gym_Text_TyronIntro::
@@ -238,28 +238,28 @@ SaffronCity_Gym_Text_PrestonPostBattle::
 SaffronCity_Gym_Text_GymGuyAdvice::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
-	.string "Die POKéMON von SABRINA benutzen\n"
-	.string "PSYCHOKINESE anstelle von\l"
+	.string "Die Pokémon von Sabrina benutzen\n"
+	.string "Psychokinese anstelle von\l"
 	.string "physischen Kräften!\p"
-	.string "KAMPF-POKéMON sind PSYCHOKINESE\n"
+	.string "Kampf-Pokémon sind Psychokinese\n"
 	.string "nicht gewachsen!\p"
 	.string "Sie haben nicht einmal den Hauch\n"
 	.string "einer Chance!$"
 
 SaffronCity_Gym_Text_GymGuyPostVictory::
-	.string "PSYCHOKINESE?\p"
+	.string "Psychokinese?\p"
 	.string "Wenn ich sie hätte, würde ich in\n"
 	.string "der Spielhalle reich werden!$"
 
 SaffronCity_Gym_Text_GymStatue::
-	.string "SAFFRONIA POKéMON-ARENA\n"
-	.string "LEITUNG: SABRINA\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Saffronia Pokémon-Arena\n"
+	.string "Leitung: Sabrina\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-	.string "SAFFRONIA POKéMON-ARENA\n"
-	.string "LEITUNG: SABRINA\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Saffronia Pokémon-Arena\n"
+	.string "Leitung: Sabrina\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

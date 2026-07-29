@@ -16,8 +16,8 @@ LilycoveCity_House4_Text_MysteriesAtBottomOfSea:
 	.string "weiß nicht…$"
 
 LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis:
-	.string "Zwischen MOOSBACH CITY und\n"
-	.string "XENEROVILLE befindet sich ein\l"
+	.string "Zwischen Moosbach City und\n"
+	.string "Xeneroville befindet sich ein\l"
 	.string "tiefer Unterwassergraben.\p"
 	.string "Das hat mir jemand erzählt.$"
 

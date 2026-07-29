@@ -73,10 +73,10 @@ SixIsland_OutcastIsland_Text_AvaPostBattle::
 	.string "gegenüber jedem Pool.$"
 
 SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
-	.string "TINA: Du forderst uns zu einem\n"
+	.string "Tina: Du forderst uns zu einem\n"
 	.string "Kampf heraus?\p"
 	.string "Du benötigst dafür allerdings\n"
-	.string "mindestens zwei POKéMON.$"
+	.string "mindestens zwei Pokémon.$"
 
 SixIsland_OutcastIsland_Text_GebIntro::
 	.string "Tino: Hilf mir, große Schwester!\n"
@@ -92,6 +92,6 @@ SixIsland_OutcastIsland_Text_GebPostBattle::
 	.string "nicht berühren kann.$"
 
 SixIsland_OutcastIsland_Text_GebNotEnoughMons::
-	.string "TINO: Bitte kämpfe gegen mich und\n"
+	.string "Tino: Bitte kämpfe gegen mich und\n"
 	.string "meine Schwester!\p"
-	.string "… oh, du hast keine zwei POKéMON?$"
+	.string "… oh, du hast keine zwei Pokémon?$"

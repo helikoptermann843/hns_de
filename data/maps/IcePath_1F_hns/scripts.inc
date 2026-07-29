@@ -3,7 +3,7 @@ IcePath_1F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-IcePath_1F_OnTransition: 
+IcePath_1F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -88,7 +88,7 @@ IcePath_Movement_KimonoLeave:
 	step_end
 
 IcePath_1F_Text_Leave:
-	.string "KIMONO GIRL: .....................$"
+	.string "Kimono$"
 
 IcePath_1F_Text_Stuck1:
 	.string "Oje... Bist du das, {PLAYER}?\n"
@@ -117,7 +117,7 @@ IcePath_1F_Text_Stuck2:
 	.string "anschubsen?$"
 
 IcePath_1F_Text_Shove:
-	.string "....SCHUBS!....$"
+	.string "Rumms!$"
 
 IcePath_1F_Text_Cruel:
 	.string "Sei nicht so gemein.\n"
@@ -125,5 +125,5 @@ IcePath_1F_Text_Cruel:
 	.string "anschubsen, oder?$"
 
 IcePath_1F_Text_Thanks:
-	.string "Du bist wirklich nett.\n"
-	.string "Vielen Dank!$"
+	.string "Ihr seid wirklich eine gute Seele!\p"
+	.string "Vielen lieben Dank!$"

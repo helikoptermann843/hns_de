@@ -35,32 +35,32 @@ Route6_Text_PokefanM:
 	.string "Problem gelöst wurde.$"
 
 Route6_Text_UndergroundPathSign:
-	.string "TUNNELPFAD\n"
-	.string "AZURIA CITY - ORANIA CITY$"
+	.string "Tunnelpfad\n"
+	.string "Azuria City - Orania City$"
 
 PokefanM_Text_RexSeen:
-	.string "Mein DAMHIRPLEX ist\n"
+	.string "Mein Damhirplex ist\n"
 	.string "das niedlichste der ganzen Welt.$"
 
 PokefanM_Text_RexBeaten:
-	.string "Mein DAMHIRPLEX!$"
+	.string "Mein Damhirplex!$"
 
 PokefanM_Text_RexAfter:
 	.string "Sieh nur wie süß mein\n"
-	.string "DAMHIRPLEX sich verhält!\p"
+	.string "Damhirplex sich verhält!\p"
 	.string "Mein Herz\n"
 	.string "schmilzt dahin?$"
 
 PokefanM_Text_AllanSeen:
-	.string "Mein GRANBULL ist\n"
+	.string "Mein Granbull ist\n"
 	.string "das niedlichste der ganzen Welt.$"
 
 PokefanM_Text_AllanBeaten:
-	.string "Mein GRANBULL!$"
+	.string "Mein Granbull!$"
 
 PokefanM_Text_AllanAfter:
 	.string "Sieh nur wie süß mein\n"
-	.string "GRANBULL sich verhält!\p"
+	.string "Granbull sich verhält!\p"
 	.string "Mein Herz\n"
 	.string "schmilzt dahin?$"
 

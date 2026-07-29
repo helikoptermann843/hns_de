@@ -174,6 +174,6 @@ Route15_Text_BillyPostRematch:
 	.string "Ich brauche praktische Erfahrung!$"
 
 Route15_Text_Sign:
-	.string "ROUTE 15\p"
-	.string "FUCHSANIA CITY - LAVANDIA$"
+	.string "Route 15\p"
+	.string "Fuchsania City - Lavandia$"
 

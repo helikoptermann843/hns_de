@@ -2,22 +2,22 @@ gText_ObtainedTheItem::
 	.string "{STR_VAR_2} erhalten!$"
 
 gText_TheBagIsFull::
-	.string "Der BEUTEL ist voll…$"
+	.string "Der Beutel ist voll…$"
 
 gText_PutItemInPocket::
 	.string "{PLAYER} packt {STR_VAR_2} in die\n"
-	.string "{STR_VAR_3}-TASCHE.$"
+	.string "{STR_VAR_3}-Tasche.$"
 
 gText_PlayerFoundOneItem::
 	.string "{PLAYER} hat {STR_VAR_2} gefunden!$"
 
 gText_TooBadBagIsFull::
 	.string "Zu schade!\n"
-	.string "Der BEUTEL ist voll…$"
+	.string "Der Beutel ist voll…$"
 
 gText_PlayerPutItemInBag::
 	.string "{PLAYER} packt {STR_VAR_2} in den\n"
-	.string "PYRABEUTEL.$"
+	.string "Pyrabeutel.$"
 
 gText_ObtainedTheDecor::
 	.string "{STR_VAR_2} erhalten.$"
@@ -37,8 +37,8 @@ gText_PlayerFoundItems::
 	.string "{PLAYER} findet {STR_VAR_1} {STR_VAR_2}!$"
 
 gText_PutCoinsAwayInCoinCase::
-	.string "{PLAYER} legt die MÜNZEN in den\n"
-	.string "MÜNZKORB.$"
+	.string "{PLAYER} legt die Münzen in den\n"
+	.string "Münzkorb.$"
 
 gText_FoundXCoins::
 	.string "{PLAYER} findet\n"
@@ -50,7 +50,7 @@ gText_FoundXItems::
 
 gText_CoinCaseIsFull::
 	.string "Schade!\n"
-	.string "MÜNZKORB ist voll…$"
+	.string "Münzkorb ist voll…$"
 
 gText_NothingToPutThemIn::
 	.string "Schade!\n"

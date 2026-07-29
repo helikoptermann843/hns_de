@@ -63,12 +63,12 @@ LavenderTown_House2_EventScript_ChoseNewNickname::
 
 LavenderTown_House2_Text_WantMeToRateNicknames::
 	.string "Hallo! Ich bin der offizielle\n"
-	.string "NAMEN-BEWERTER!\p"
+	.string "Namen-Bewerter!\p"
 	.string "Soll ich die Spitznamen deiner\n"
-	.string "POKéMON bewerten?$"
+	.string "Pokémon bewerten?$"
 
 LavenderTown_House2_Text_CritiqueWhichMonsNickname::
-	.string "Für welches POKéMON soll ich den\n"
+	.string "Für welches Pokémon soll ich den\n"
 	.string "Kosenamen bewerten?$"
 
 LavenderTown_House2_Text_GiveItANicerName::
@@ -83,7 +83,7 @@ LavenderTown_House2_Text_WhatShallNewNicknameBe::
 	.string "Kosename lauten?$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Das ist ein besserer Name als der\n"
 	.string "vorherige. Welch ein Glück für dich!$"
@@ -93,7 +93,7 @@ LavenderTown_House2_Text_ISeeComeVisitAgain::
 	.string "Komm mich wieder besuchen.$"
 
 LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
-	.string "Fertig! Von nun an heißt dein POKéMON\n"
+	.string "Fertig! Von nun an heißt dein Pokémon\n"
 	.string "{STR_VAR_1}!\p"
 	.string "Eigentlich unterscheidet sich der Name\n"
 	.string "nicht von dem vorherigen, und doch ist\l"
@@ -106,5 +106,5 @@ LavenderTown_House2_Text_TrulyImpeccableName::
 
 LavenderTown_House2_Text_ThatIsMerelyAnEgg::
 	.string "Mhm, mhm…\n"
-	.string "Das ist eigentlich ein EI!$"
+	.string "Das ist eigentlich ein Ei!$"
 

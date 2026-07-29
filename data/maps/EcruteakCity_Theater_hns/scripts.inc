@@ -140,11 +140,11 @@ EcruteakCity_Theater_EventScript_Rocket::
 	call_if_eq VAR_FACING, DIR_SOUTH, EcruteakCity_Theater_EventScript_PostRocketTop
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	msgbox EcruteakCity_Theater_Text_KimonoRocket3, MSGBOX_DEFAULT
-	closemessage	
+	closemessage
 	setvar VAR_ECRUTEAK_CITY_THEATER, 2
 	release
 	end
-	
+
 EcruteakCity_Theater_EventScript_PostRocketLeft::
 	applymovement LOCALID_ECRUTEAK_ZUKI, Common_Movement_WalkLeft1
 	waitmovement 0
@@ -291,7 +291,7 @@ EcruteakCity_Theater_EventScript_TriggerSurfGuy::
 	setflag FLAG_RECEIVED_HM_SURF
 	setvar VAR_ECRUTEAK_CITY_THEATER, 3
 	applymovement LOCALID_SURF_GUY, EcruteakCity_Theater_Movement_SurfGuy2
-	waitmovement 0 
+	waitmovement 0
 	release
 	end
 
@@ -430,7 +430,7 @@ EcruteakCity_Theater_Text_SurfGuyAfter:
 	.string "haben, sie zu besiegen…$"
 
 EcruteakCity_Theater_Text_Psyduck:
-	.string "ENTON: E-enton!$"
+	.string "Enton: E-enton!$"
 
 EcruteakCity_Theater_Text_BoyBefore:
 	.string "Ahhhh!$"
@@ -441,7 +441,7 @@ EcruteakCity_Theater_Text_Boy:
 	.string "näher kennenzulernen…$"
 
 EcruteakCity_Theater_Text_Granny:
-	.string "Dieser Mann hat immer sein ENTON dabei!\p"
+	.string "Dieser Mann hat immer sein Enton dabei!\p"
 	.string "Er meinte mal, er wolle einem Pokémon,\n"
 	.string "das die Attacke Surfer beherrscht,\l"
 	.string "gerne das Tanzen beibringen.\p"
@@ -469,7 +469,7 @@ EcruteakCity_Theater_Text_GrampsBefore:
 	.string "Manieren beibringen!$"
 
 EcruteakCity_Theater_Text_Girl:
-	.string "Die KIMONO GIRLS sind meine\n"
+	.string "Die Kimono Girls sind meine\n"
 	.string "großen Schwestern! Ich werde\l"
 	.string "eines Tages wie sie sein!$"
 
@@ -680,7 +680,7 @@ EcruteakCity_Theater_EventScript_HoohBuffer::
 	return
 EcruteakCity_Theater_EventScript_LegendaryCutscene::
 	call_if_eq VAR_LUGIA_OR_HOOH, 1, EcruteakCity_Theater_EventScript_LugiaBuffer
-	call_if_eq VAR_LUGIA_OR_HOOH, 2, EcruteakCity_Theater_EventScript_HoohBuffer 
+	call_if_eq VAR_LUGIA_OR_HOOH, 2, EcruteakCity_Theater_EventScript_HoohBuffer
 	msgbox EcruteakCity_Theater_Text_ZukiSeen, MSGBOX_DEFAULT
 	closemessage
 	delay 20
@@ -966,7 +966,7 @@ EcruteakCity_Theater_Text_ZukiSeen:
 	.string "Vergnügen, nicht wahr?\p"
 	.string "Nur jemand, der über ein aufrichtiges\n"
 	.string "Herz und ein Händchen im Umgang mit\l"
-	.string "Pokémon verfügt, kann HO-OH rufen.\p"
+	.string "Pokémon verfügt, kann Ho-Oh rufen.\p"
 	.string "Die richtige Person lässt sich daran\n"
 	.string "erkennen, dass sie das Rätsel-Ei bei\l"
 	.string "sich trägt, wenn sie hier auftaucht.\p"
@@ -1019,7 +1019,7 @@ EcruteakCity_Theater_Text_SayoSeen:
 	.string "Guter Kampfgeist! Du hast mich\n"
 	.string "vom Eis gestoßen.\p"
 	.string "Ich laufe in Sandalen.\n"
-	.string "Ich bin Keiko--das KIMONO GIRL!\p"
+	.string "Ich bin Keiko--das Kimono Girl!\p"
 	.string "Ich hörte zu in der Drachenhöhle,\n"
 	.string "als du den Test des Ältesten\n"
 	.string "bestanden hast.\p"
@@ -1029,7 +1029,7 @@ EcruteakCity_Theater_Text_SayoSeen:
 EcruteakCity_Theater_Text_KuniSeen:
 	.string "Ich bin die Letzte.\p"
 	.string "Du warst zuverlässig im\n"
-	.string "DUKATIA-TUNNEL.\p"
+	.string "Dukatia-Tunnel.\p"
 	.string "Ich tanze auch unterirdisch--\n"
 	.string "Hussa!\p"
 	.string "Ich sah, wie du Rocket am\n"
@@ -1076,7 +1076,7 @@ EcruteakCity_Theater_Text_ZukiAfterAll:
 	.string "Wir schätzen es, dass du unsere\n"
 	.string "Hoffnungen erfüllt hast, {PLAYER}!\p"
 	.string "Wenn du daraus etwas gelernt hast,\n"
-	.string "dank Mr. Pokémon und PROF. Lind..$"
+	.string "dank Mr. Pokémon und Prof. Lind..$"
 
 EcruteakCity_Theater_Text_KimonoGirlsBeforeBattle:
 	.string "Wenn Ihr bereit seid, dann sprecht\n"

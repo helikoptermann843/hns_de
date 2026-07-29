@@ -64,7 +64,7 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "Mein Papa hat mir das erzählt.\p"
 	.string "Er sagt, der Tunnel sei voller scheuer\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Sie haben Angst vor lauten Geräuschen\n"
 	.string "und machen einen Aufruhr.\p"
 	.string "Daher musste das Tunnelprojekt\n"
@@ -90,45 +90,45 @@ VerdanturfTown_Text_AirCleanHere:
 	.string "und kränklichen Menschen.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "Meine POKéMON und ich haben gerade\n"
+	.string "Meine Pokémon und ich haben gerade\n"
 	.string "eine Gewinnserie.\p"
 	.string "Daher werde ich nun meinen Auftritt\n"
-	.string "im KAMPFCAMP haben.$"
+	.string "im Kampfcamp haben.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Siehst du die Höhle neben dem PKMN-\n"
-	.string "SUPERMARKT?\p"
+	.string "Siehst du die Höhle neben dem Pkmn-\n"
+	.string "Supermarkt?\p"
 	.string "Da ist ein Typ drin, der die\n"
 	.string "Felsbrocken\n"
 	.string "sprengen will, damit er auf die andere\l"
 	.string "Seite gehen kann.\p"
 	.string "Wäre das toll, wenn ich auch dort\n"
 	.string "durch- gehen könnte… Ein Besuch in\l"
-	.string "METAROST CITY wäre dann ganz einfach.$"
+	.string "Metarost City wäre dann ganz einfach.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "Die Höhle neben dem PKMN-SUPERMARKT\n"
+	.string "Die Höhle neben dem Pkmn-Supermarkt\n"
 	.string "ist nun ein Tunnel zur anderen Seite.\n"
 	.string "\p"
 	.string "Das ist toll! Jetzt kommt man ganz\n"
-	.string "einfach nach METAROST CITY, um\l"
-	.string "DEVON-WAREN zu kaufen.$"
+	.string "einfach nach Metarost City, um\l"
+	.string "Devon-waren zu kaufen.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "WIESENFLUR\p"
+	.string "Wiesenflur\p"
 	.string "“Das vom Wind gestreichelte Hoch-\n"
 	.string "land mit dem süßen Duft des Grases.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "HEIKES HAUS$"
+	.string "Heikes Haus$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "KAMPFCAMP WIESENFLUR\n"
+	.string "Kampfcamp Wiesenflur\n"
 	.string "“Wo Kämpfe Eine Augenweide Sind”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
-	.string "METAFLURTUNNEL\n"
-	.string "“Verbindet METAROST CITY und\p"
-	.string "WIESENFLUR.\n"
+	.string "Metaflurtunnel\n"
+	.string "“Verbindet Metarost City und\p"
+	.string "Wiesenflur.\n"
 	.string "Das Tunnelprojekt wurde abgebrochen.”$"
 

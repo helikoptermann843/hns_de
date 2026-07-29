@@ -57,7 +57,7 @@ EcruteakCity_SageOffice2_EventScript_SageA4::
 	closemessage
 	release
 	end
-	
+
 EcruteakCity_SageOffice2_EventScript_SageB::
 	lock
 	faceplayer
@@ -88,23 +88,23 @@ EcruteakCity_SageOffice2_Movement_StandAside:
 	step_end
 
 EcruteakTinTowerEntrance_Text_SageNoBadge:
-	.string "Wenn du nicht im Besitz des ORDENs\p"
-	.string "von TEAK CITY bist, darfst du\p"
-	.string "den ZINNTURM nicht betreten.$"
+	.string "Wenn du nicht im Besitz des Ordens\p"
+	.string "von Teak City bist, darfst du\p"
+	.string "den Zinnturm nicht betreten.$"
 
 EcruteakTinTowerEntrance_Text_SageWithBadge:
-	.string "Wenn du nicht im Besitz des ORDENs\n"
-	.string "von TEAK CITY bist, darfst du\l"
-	.string "den ZINNTURM nicht betreten.\p"
-	.string "Ah! Das ist der ORDEN\n"
-	.string "von TEAK CITY! Du darfst passieren.$"
+	.string "Wenn du nicht im Besitz des Ordens\n"
+	.string "von Teak City bist, darfst du\l"
+	.string "den Zinnturm nicht betreten.\p"
+	.string "Ah! Das ist der Orden\n"
+	.string "von Teak City! Du darfst passieren.$"
 
 EcruteakTinTowerEntrance_Text_SageNoClearBell:
 	.string "Ein denkwürdiger Augenblick.\p"
 	.string "Entschuldigung,\n"
 	.string "aber ich muss dich bitten zu gehen.\p"
 	.string "…Was lindert Seelenschmerzen…\p"
-	.string "Das TRIO der WEISEN sagt stets\p"
+	.string "Das Trio der Weisen sagt stets\p"
 	.string "Dinge, die sehr schwierig\n"
 	.string "zu verstehen sind…$"
 
@@ -115,7 +115,7 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell1:
 	.string ".........$"
 EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "Ah!\p"
-	.string "Das Läuten der KLARGLOCKE!\p"
+	.string "Das Läuten der Klarglocke!\p"
 	.string "Es… ist erhaben!\p"
 	.string "Das schönste Läuten,\n"
 	.string "das ich je hörte!\p"
@@ -123,7 +123,7 @@ EcruteakTinTowerEntrance_Text_SageHearsClearBell2:
 	.string "die Seele des Trägers aus.\p"
 	.string "Du…\p"
 	.string "Du könntest es durch den\n"
-	.string "ZINNTURM schaffen.\p"
+	.string "Zinnturm schaffen.\p"
 	.string "Schreite voran.$"
 
 EcruteakTinTowerEntrance_Text_SagePleaseDoGoOn:
@@ -135,14 +135,14 @@ EcruteakTinTowerEntrance_Text_SageDone:
 	.string "Du… Bist wahrlich würdig.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSage:
-	.string "Der ZINNTURM da vorne ist ein\n"
+	.string "Der Zinnturm da vorne ist ein\n"
 	.string "8-stöckiger Turm\l"
 	.string "von göttlicher Schönheit.\p"
 	.string "Er beruhigt die Seelen derer,\n"
 	.string "die ihn betrachten.$"
 
 EcruteakTinTowerEntrance_Text_WanderingSageClearBell:
-	.string "Der ZINNTURM bebt! Ein Pokémon muss\n"
+	.string "Der Zinnturm bebt! Ein Pokémon muss\n"
 	.string "auf der Spitze gelandet sein!$"
 
 EcruteakTinTowerEntrance_Text_Gramps:

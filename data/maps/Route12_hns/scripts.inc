@@ -67,8 +67,8 @@ Route12_EventScript_Tentacruel::
 Route12_Text_NewFisher:
 	.string "Weißt du, was du gerade getan hast?\p"
 	.string "Du hast deinen ersten Schritt\n"
-	.string "in KANTO gemacht.\p"
-	.string "Sieh auf die KARTE in deinem COM.$"
+	.string "in Kanto gemacht.\p"
+	.string "Sieh auf die Karte in deinem Com.$"
 
 Route12_Text_FisherMartinSeen:
 	.string "Geduld ist das Zauberwort.\n"
@@ -145,8 +145,8 @@ Route12_EventScript_FishingSign::
 	end
 
 Route12_Text_Sign:
-	.string "ROUTE 12 NORDEN: LAVANDIA$"
+	.string "Route 12 Norden: Lavandia$"
 
 Route12_Text_FishingSpotSign:
-	.string "ANGELPLATZ$"
+	.string "Angelplatz$"
 

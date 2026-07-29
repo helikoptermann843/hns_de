@@ -6,7 +6,7 @@ AzaleaTown_hns_MapScripts::
 AzaleaTown_OnTransition::
 	goto_if_eq VAR_AZALEA_TOWN_STATE, 5, AzaleaTown_MapScript_Hide_Silver
 	end
-	
+
 AzaleaTown_OnFrame::
 	map_script_2 VAR_AZALEA_TOWN_STATE, 8, AzaleaTown_EventScript_GSBall
 	.2byte 0
@@ -33,7 +33,7 @@ AzaleaTown_EventScript_Trigger:: @flagheap
 	setflag FLAG_HIDE_AZALEA_ARIADOS_LEFT
 	setflag FLAG_HIDE_AZALEA_ARIADOS_MID
 	setflag FLAG_HIDE_AZALEA_ARIADOS_RIGHT
-	
+
 
 	clearflag FLAG_HIDE_ILEX_FOREST_KIMONO
 	clearflag FLAG_ITEM_SLOWPOKE_WELL_RAIN_DANCE
@@ -360,10 +360,10 @@ AzaleaTown_Text_RivalWin:
 
 AzaleaTown_Text_RivalAfter:
 	.string "Ich hasse die Schwachen.\p"
-	.string "POKéMON, Trainer, egal wer oder was.\p"
+	.string "Pokémon, Trainer, egal wer oder was.\p"
 	.string "Ich werde stark sein und die Schwachen\n"
 	.string "auslöschen.\p"
-	.string "TEAM ROCKET gilt das ebenso.\p"
+	.string "Team Rocket gilt das ebenso.\p"
 	.string "In Gruppen tun sie groß und hart.\p"
 	.string "Doch allein sind sie schwach.\n"
 	.string "Ich hasse sie alle.\p"
@@ -380,19 +380,19 @@ AzaleaTown_Text_Rocket1:
 	.string "Bin ich nicht ein guter Samariter?$"
 
 AzaleaTown_Text_Rocket2:
-	.string "Hast du schon mal eine FLEGMON-Rute\n"
+	.string "Hast du schon mal eine Flegmon-Rute\n"
 	.string "gegessen? Die sollen echt lecker sein!\p"
 	.string "Wenn das mal kein heißer Tipp ist!\n"
 	.string "Ach ja, bin ich nicht zu gutmütig?$"
 
 AzaleaTown_Text_GrampsBefore:
-	.string "Alle FLEGMON sind aus der\n"
+	.string "Alle Flegmon sind aus der\n"
 	.string "Stadt verschwunden…\p"
 	.string "Dabei dachte ich, dass man hier\n"
-	.string "FLEGMON-Ruten kaufen kann…$"
+	.string "Flegmon-Ruten kaufen kann…$"
 
 AzaleaTown_Text_GrampsAfter:
-	.string "Die FLEGMON sind wieder da!\n"
+	.string "Die Flegmon sind wieder da!\n"
 	.string "Vermutlich haben sie wieder irgendwo\l"
 	.string "gefaulenzt.$"
 
@@ -410,7 +410,7 @@ AzaleaTown_Text_Youngster:
 	.string "sie vielleicht aus dem Weg räumen!$"
 
 AzaleaTown_Text_Slowpoke1:
-	.string "FLEGMON: …Flegmon?$"
+	.string "Flegmon: …Flegmon?$"
 
 AzaleaTown_Text_Kurt1:
 	.string "Der Steineichenwald ist gruselig!\p"
@@ -425,12 +425,12 @@ AzaleaTown_Text_Kurt3:
 	.string "was dort vor sich geht?$"
 
 AzaleaTown_Text_Sign:
-	.string "AZALEA\n"
+	.string "Azalea\n"
 	.string "Wo Menschen und Pokémon\l"
 	.string "in Harmonie leben.$"
 
 AzaleaTown_Text_KurtsHouseSign:
-	.string "KURT'S HAUS$"
+	.string "Kurt'S Haus$"
 
 AzaleaTown_Text_GymSign:
 	.string "Pokémon-Arena von Azalea City\n"
@@ -439,18 +439,18 @@ AzaleaTown_Text_GymSign:
 	.string "Käfer-Pokémon$"
 
 AzaleaTown_Text_SlowpokeWellSign:
-	.string "Der FLEGMON-Brunnen\n"
+	.string "Der Flegmon-Brunnen\n"
 	.string "Auch bekannt als Regenmacherquelle.\p"
 	.string "Die Leute in dieser Gegend glauben,\n"
-	.string "dass, wann immer ein FLEGMON gähnt,\l"
+	.string "dass, wann immer ein Flegmon gähnt,\l"
 	.string "bald Regen fallen wird.\p"
 	.string "Alte Aufzeichnungen besagen, dass vor\n"
-	.string "400 Jahren einmal ein FLEGMON eine\l"
+	.string "400 Jahren einmal ein Flegmon eine\l"
 	.string "Dürre beendet haben soll, indem es\l"
 	.string "gegähnt hat.$"
 
 AzaleaTown_Text_CharcoalKilnSign:
-	.string "KOHLEOFEN$"
+	.string "Kohleofen$"
 
 AzaleaTown_Text_IlexForestSign:
 	.string "Direkt hinter dem Tor liegt\n"

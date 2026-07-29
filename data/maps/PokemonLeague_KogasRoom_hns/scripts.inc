@@ -10,7 +10,7 @@ PokemonLeague_KogasRoom_OnResume::
 	end
 
 PokemonLeague_KogasRoom_EventScript_Koga::
-	lock 
+	lock
 	faceplayer
 	goto_if_ge VAR_LEAGUE_STATE, 3, PokemonLeague_KogasRoom_EventScript_KogaDefeated
 	goto_if_set FLAG_IS_CHAMPION, PokemonLeague_KogasRoom_EventScript_KogaRematch
@@ -32,7 +32,7 @@ PokemonLeague_KogasRoom_EventScript_KogaOnDefeat::
 	msgbox PokemonLeague_KogasRoom_Text_Defeat, MSGBOX_DEFAULT
 	closemessage
 	setmetatile 6, 1, 0x28E, FALSE
-	setmetatile 6, 2, 0x296, FALSE	
+	setmetatile 6, 2, 0x296, FALSE
 	playse SE_BANG
 	setvar VAR_0x8004, 1  @ vertical pan
 	setvar VAR_0x8005, 1  @ horizontal pan
@@ -66,7 +66,7 @@ PokemonLeague_KogasRoom_Text_RematchBefore:
 
 PokemonLeague_KogasRoom_Text_Before:
 	.string "Fwahahahaha!\p"
-	.string "Ich bin Koga von der TOP VIER.\p"
+	.string "Ich bin Koga von der Top Vier.\p"
 	.string "Ich lebe in den Schatten, ein Ninja!\p"
 	.string "Mein komplizierter Stil wird dich\n"
 	.string "verwirren und vernichten!\p"
@@ -78,7 +78,7 @@ PokemonLeague_KogasRoom_Text_Before:
 	.string "Kraft--das wirst du bald sehen!$"
 
 PokemonLeague_KogasRoom_Text_Beaten:
-	.string "Ah! Du hast deinen Wert bewiesen!$"
+	.string "Ah! Du hast dich als würdig erwiesen!$"
 
 PokemonLeague_KogasRoom_Text_Defeat:
 	.string "Ich habe alles eingesetzt, was ich\n"

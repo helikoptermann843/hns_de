@@ -52,7 +52,7 @@ ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus:
 	.string "Training. \p"
 	.string "Aber wenn man sich konzentriert, kann\n"
 	.string "man doch gewinnen!\p"
-	.string "Mit diesem FOKUS-BAND kannst du dich\n"
+	.string "Mit diesem Fokus-Band kannst du dich\n"
 	.string "besser konzentrieren und der Kälte\l"
 	.string "widerstehen.$"
 

@@ -111,15 +111,14 @@ SlowpokeWell_B1F_Text_GruntM29Seen:
 	.string "Frust eben an dir ab!$"
 
 SlowpokeWell_B1F_Text_GruntM29Beaten:
-	.string "Aaargh! Heute ist\n"
-	.string "NICHT mein Tag!$"
+	.string "Ach! Es hilft ja alles nichts!$"
 
 SlowpokeWell_B1F_Text_GruntM29After:
 	.string "Klar, wir hacken Flegmon-Ruten\n"
 	.string "ab und verkaufen sie.\p"
 	.string "Alles, was wir tun, dient dem\n"
 	.string "Profit.\p"
-	.string "Richtig! Wir sind TEAM ROCKET\n"
+	.string "Richtig! Wir sind Team Rocket\n"
 	.string "und tun alles für Geld!$"
 
 SlowpokeWell_B1F_Text_ProtonSeen:
@@ -146,22 +145,22 @@ SlowpokeWell_B1F_Text_ProtonAfter:
 
 SlowpokeWell_B1F_Text_GruntM2Seen:
 	.string "Hyuck-hyuck-hyuck!\n"
-	.string "Aufhören, FLEGMONRUTEN zu klauen?\p"
+	.string "Aufhören, Flegmonruten zu klauen?\p"
 	.string "Du bist verrückt!\n"
 	.string "Wenn wir dir gehorchen, wäre der\l"
-	.string "Ruf von TEAM ROCKET ruiniert!$"
+	.string "Ruf von Team Rocket ruiniert!$"
 
 SlowpokeWell_B1F_Text_GruntM2Beaten:
 	.string "Hyuck… Zu stark…$"
 
 SlowpokeWell_B1F_Text_GruntM2After:
 	.string "Ich sehe ja ein, wir brauchen das Geld.\n"
-	.string "Aber mit FLEGMON-Ruten?\p"
+	.string "Aber mit Flegmon-Ruten?\p"
 	.string "Wir Rocket-Rüpel haben es\n"
 	.string "auch nicht leicht…$"
 
 SlowpokeWell_B1F_Text_GruntF1Seen:
-	.string "Aufhören, FLEGMONRUTEN zu klauen?\p"
+	.string "Aufhören, Flegmonruten zu klauen?\p"
 	.string "Na, versuch doch, uns alle\n"
 	.string "aufzuhalten!$"
 
@@ -169,20 +168,20 @@ SlowpokeWell_B1F_Text_GruntF1Beaten:
 	.string "Du vorlautes Balg!$"
 
 SlowpokeWell_B1F_Text_GruntF1After:
-	.string "FLEGMONRUTEN wachsen schnell nach!\p"
+	.string "Flegmonruten wachsen schnell nach!\p"
 	.string "Was ist falsch daran,\n"
 	.string "sie zu verkaufen?$"
 
 SlowpokeWell_B1F_Text_SlowpokeWithMail:
-	.string "Ein FLEGMON mit abgetrennter Rute…\n"
+	.string "Ein Flegmon mit abgetrennter Rute…\n"
 	.string "Huch? Es trägt einen Brief bei sich.\p"
 	.string "Willst du ihn lesen?$"
 
 SlowpokeWell_B1F_Text_SlowpokeMail:
 	.string "{PLAYER} liest den Brief.\p"
 	.string "Bitte kümmere dich gut um Opa und\n"
-	.string "das FLEGMON, während ich weg bin.\l"
+	.string "das Flegmon, während ich weg bin.\l"
 	.string "Danke, dein Papa$"
 
 SlowpokeWell_B1F_Text_TaillessSlowpoke:
-	.string "Ein FLEGMON mit abgetrennter Rute…$"
+	.string "Ein Flegmon mit abgetrennter Rute…$"

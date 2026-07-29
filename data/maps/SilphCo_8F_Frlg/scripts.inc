@@ -39,7 +39,7 @@ SilphCo_8F_EventScript_Grunt2::
 	end
 
 SilphCo_8F_Text_WonderIfSilphIsFinished::
-	.string "Ob die SILPH CO. schon erledigt\n"
+	.string "Ob die Silph Co. schon erledigt\n"
 	.string "ist?$"
 
 SilphCo_8F_Text_ThanksForSavingUs::
@@ -80,13 +80,13 @@ SilphCo_8F_Text_Grunt2PostBattle::
 	.string "dich kümmern!$"
 
 SilphCo_8F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "7 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "7 Og$"
 
 SilphCo_8F_Text_ToRocketBossMonsAreTools::
-	.string "Der BOSS von TEAM ROCKET ist\n"
+	.string "Der Boss von Team Rocket ist\n"
 	.string "unheimlich grausam!\p"
-	.string "Für ihn sind POKéMON schlicht\n"
+	.string "Für ihn sind Pokémon schlicht\n"
 	.string "Mittel zum Zweck.\p"
 	.string "Was wird geschehen, wenn dieser\n"
 	.string "Tyrann unsere Firma übernimmt…$"

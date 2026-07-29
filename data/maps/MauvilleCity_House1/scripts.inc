@@ -21,18 +21,18 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
 	.string "Woohoo!\p"
 	.string "Die Leute nennen mich den\n"
-	.string "ZERTRÜMMERER, aber ich finde den Namen\l"
+	.string "Zertrümmerer, aber ich finde den Namen\l"
 	.string "unter meinem Niveau!\p"
 	.string "Ich verdiene doch wohl etwas mehr\n"
-	.string "Respekt! Man sollte mich ZERTRÜMMERER-\l"
+	.string "Respekt! Man sollte mich Zertrümmerer-\l"
 	.string "Meister nennen!\p"
-	.string "Woohoo, deine POKéMON sehen wirklich\n"
+	.string "Woohoo, deine Pokémon sehen wirklich\n"
 	.string "sehr stark aus.\p"
 	.string "Das sehe ich gerne!\n"
 	.string "Hier, nimm diese VM!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "Diese VM enthält ZERTRÜMMERER.\p"
+	.string "Diese VM enthält Zertrümmerer.\p"
 	.string "Wenn du unterwegs auf große\n"
 	.string "Felsbrocken stößt…\p"
 	.string "Dann nutze diese VM, um dir den Weg\n"
@@ -42,7 +42,7 @@ MauvilleCity_House1_Text_ExplainRockSmash:
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
 	.string "Oh ja, wenn du einen Felsen\n"
-	.string "zertrümmerst, könnte ein POKéMON\l"
+	.string "zertrümmerst, könnte ein Pokémon\l"
 	.string "zum Vorschein kommen.\p"
 	.string "Woohoo!$"
 

@@ -33,14 +33,14 @@ SlateportCity_Mart_EventScript_Man::
 	end
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
-	.string "Der MARKT bietet einige interessante\n"
+	.string "Der Markt bietet einige interessante\n"
 	.string "Merchandising-Artikel an.\p"
 	.string "Aber einige Sachen wirst du nur in\n"
-	.string "einem POKéMON-SUPERMARKT finden.$"
+	.string "einem Pokémon-Supermarkt finden.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "Ein SUPERBALL eignet sich besser zum\n"
-	.string "Fangen von POKéMON als ein POKéBALL.\p"
+	.string "Ein Superball eignet sich besser zum\n"
+	.string "Fangen von Pokémon als ein Pokéball.\p"
 	.string "Hiermit sollte ich in der Lage sein,\n"
-	.string "das begehrte POKéMON zu überlisten.$"
+	.string "das begehrte Pokémon zu überlisten.$"
 

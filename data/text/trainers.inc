@@ -17,12 +17,12 @@ Route102_Text_CalvinRegister:
 	.string "dich das letzte Mal gesehen habe!\p"
 	.string "Ich würde gerne wieder gegen dich\n"
 	.string "kämpfen. Kannst du mich bitte in deinen\l"
-	.string "POKéNAV eintragen?$"
+	.string "Pokénav eintragen?$"
 
 Route102_Text_CalvinRegisterShort:
 	.string "Ich würde gerne wieder gegen dich\n"
 	.string "kämpfen. Kannst du mich bitte in deinen\l"
-	.string "POKéNAV eintragen?$"
+	.string "Pokénav eintragen?$"
 
 Route102_Text_CalvinRematchIntro:
 	.string "Seit ich gegen dich verloren habe,\n"
@@ -101,29 +101,29 @@ Route103_Text_AmyPostBattle:
 	.string "antrittst.$"
 
 Route103_Text_AmyNotEnoughPokemon:
-	.string "NORA: Oh oh, du hast nur ein POKéMON\n"
+	.string "Nora: Oh oh, du hast nur ein Pokémon\n"
 	.string "dabei. Damit kannst du nicht gegen uns\l"
 	.string "beide antreten.$"
 
 Route103_Text_LivIntro:
-	.string "JO: Wir kämpfen als Team…$"
+	.string "Jo: Wir kämpfen als Team…$"
 
 Route103_Text_LivDefeated:
-	.string "JO: Schwesterherz, wir haben verloren.$"
+	.string "Jo: Schwesterherz, wir haben verloren.$"
 
 Route103_Text_LivPostBattle:
-	.string "JO: Wir arbeiten sehr gut zusammen, ich\n"
+	.string "Jo: Wir arbeiten sehr gut zusammen, ich\n"
 	.string "und meine große Schwester…\p"
 	.string "Aber wir haben verloren…$"
 
 Route103_Text_AmyLivRegister:
-	.string "JO: Wirklich, wir sind viel besser\n"
+	.string "Jo: Wirklich, wir sind viel besser\n"
 	.string "geworden… Das beweisen wir dir das\l"
 	.string "nächste Mal!$"
 
 Route103_Text_LivNotEnoughPokemon:
-	.string "JO: Wenn du gegen uns kämpfen willst,\n"
-	.string "brauchst du zwei POKéMON. Hast du die\l"
+	.string "Jo: Wenn du gegen uns kämpfen willst,\n"
+	.string "brauchst du zwei Pokémon. Hast du die\l"
 	.string "nicht, wäre der Kampf unfair!$"
 
 Route103_Text_AmyRematchIntro:
@@ -146,19 +146,19 @@ Route103_Text_AmyRematchNotEnoughPokemon:
 	.string "beide antreten.$"
 
 Route103_Text_LivRematchIntro:
-	.string "JO: Wir kämpfen als Team…$"
+	.string "Jo: Wir kämpfen als Team…$"
 
 Route103_Text_LivRematchDefeated:
-	.string "JO: Heul… Große Schwester, wir haben\n"
+	.string "Jo: Heul… Große Schwester, wir haben\n"
 	.string "schon wieder verloren.$"
 
 Route103_Text_LivRematchPostBattle:
-	.string "JO: Wir haben wieder perfekt zusammen-\n"
+	.string "Jo: Wir haben wieder perfekt zusammen-\n"
 	.string "gearbeitet, ich und meine Schwester…\p"
 	.string "Warum haben wir wieder verloren?$"
 
 Route103_Text_LivRematchNotEnoughPokemon:
-	.string "JO: Wenn du gegen uns kämpfen willst,\n"
+	.string "Jo: Wenn du gegen uns kämpfen willst,\n"
 	.string "brauchst du zwei Pokémon. Hast du die\l"
 	.string "nicht, wäre der Kampf unfair!$"
 
@@ -189,7 +189,7 @@ Route103_Text_MiguelPostBattle:
 
 Route103_Text_MiguelRegister:
 	.string "Ich muss dafür sorgen, dass du dir\n"
-	.string "mein wunderbares POKéMON bald wieder\l"
+	.string "mein wunderbares Pokémon bald wieder\l"
 	.string "anschaust.$"
 
 Route103_Text_MiguelRematchIntro:
@@ -268,9 +268,9 @@ Route104_Text_GinaPostBattle:
 	.string "Wir müssen doch mehr trainieren!$"
 
 Route104_Text_GinaNotEnoughMons:
-	.string "GINA: Oh, nur ein POKéMON?\n"
+	.string "Gina: Oh, nur ein Pokémon?\n"
 	.string "Dann können wir nicht kämpfen.\p"
-	.string "Wenn du nur ein POKéMON hast, wird es\n"
+	.string "Wenn du nur ein Pokémon hast, wird es\n"
 	.string "sich einsam fühlen. Das ist nicht gut.$"
 
 Route104_Text_MiaIntro:
@@ -286,9 +286,9 @@ Route104_Text_MiaPostBattle:
 	.string "trainieren. Und dann gewinnen wir!$"
 
 Route104_Text_MiaNotEnoughMons:
-	.string "MIA: Du willst gegen uns kämpfen?\p"
-	.string "Ein dickes NEIN - da du weniger als zwei\n"
-	.string "POKéMON bei dir hast. Wir sind zu\l"
+	.string "Mia: Du willst gegen uns kämpfen?\p"
+	.string "Ein dickes nein - da du weniger als zwei\n"
+	.string "Pokémon bei dir hast. Wir sind zu\l"
 	.string "stark für dich!$"
 
 Route104_Text_IvanIntro:
@@ -334,13 +334,13 @@ Route104_Text_HaleyPostBattle:
 
 Route104_Text_HaleyRegister1:
 	.string "Du bist stark, aber soll ich dich\n"
-	.string "wirklich in meinen POKéNAV eintragen?\l"
+	.string "wirklich in meinen Pokénav eintragen?\l"
 	.string "Vielleicht lieber nicht…\p"
 	.string "Ach, sicher. Ich trage dich ein!$"
 
 Route104_Text_HaleyRegister2:
 	.string "Du bist stark, aber soll ich dich\n"
-	.string "wirklich in meinem POKéNAV eintragen?\l"
+	.string "wirklich in meinem Pokénav eintragen?\l"
 	.string "Vielleicht lieber nicht…\p"
 	.string "Ach, sicher. Ich trage dich ein!$"
 
@@ -369,13 +369,13 @@ Route104_Text_WinstonPostBattle:
 
 Route104_Text_WinstonRegister1:
 	.string "Hm?\n"
-	.string "Oh, du hast einen POKéNAV erhalten.\p"
+	.string "Oh, du hast einen Pokénav erhalten.\p"
 	.string "Ich werde dich sofort eintragen.\n"
 	.string "Schließlich habe ich sehr viel Geld.$"
 
 Route104_Text_WinstonRegister2:
 	.string "Hm?\n"
-	.string "Oh, du hast einen POKéNAV erhalten.\p"
+	.string "Oh, du hast einen Pokénav erhalten.\p"
 	.string "Ich werde dich sofort eintragen.\n"
 	.string "Schließlich habe ich sehr viel Geld.$"
 
@@ -408,13 +408,13 @@ Route104_Text_CindyPostBattle:
 Route104_Text_CindyRegister1:
 	.string "Hallo, so trifft man sich wieder.\p"
 	.string "Irgendwie scheinen wir uns anzuziehen.\n"
-	.string "Wir sollten uns in unsere POKéNAVs\l"
+	.string "Wir sollten uns in unsere Pokénavs\l"
 	.string "eintragen.$"
 
 Route104_Text_CindyRegister2:
 	.string "Wir sollten uns stets daran erinnern,\n"
 	.string "wie wir uns gegenseitig anziehen.\p"
-	.string "Wir sollten uns in unsere POKéNAVs\n"
+	.string "Wir sollten uns in unsere Pokénavs\n"
 	.string "eintragen.$"
 
 Route104_Text_CindyRematchIntro:
@@ -527,7 +527,7 @@ Route105_Text_AndresPostBattle:
 
 Route105_Text_AndresRegister:
 	.string "Echt? Ich bin so schwach und trotzdem\n"
-	.string "möchtest du mich in deinen POKéNAV\l"
+	.string "möchtest du mich in deinen Pokénav\l"
 	.string "eintragen?$"
 
 Route105_Text_AndresRematchIntro:
@@ -703,8 +703,8 @@ Route107_Text_LisaPostBattle:
 	.string "Strand gehen würden?$"
 
 Route107_Text_LisaNotEnoughPokemon:
-	.string "BEA: Wenn du gegen uns kämpfen willst,\n"
-	.string "bring mehr POKéMON mit.$"
+	.string "Bea: Wenn du gegen uns kämpfen willst,\n"
+	.string "bring mehr Pokémon mit.$"
 
 Route107_Text_RayIntro:
 	.string "Erko: Wir kämpfen immer mit Pokémon,\n"
@@ -722,8 +722,8 @@ Route107_Text_RayPostBattle:
 	.string "Partner!$"
 
 Route107_Text_RayNotEnoughPokemon:
-	.string "ERKO: Wenn du gegen uns antreten\n"
-	.string "willst, bring mehr POKéMON mit.$"
+	.string "Erko: Wenn du gegen uns antreten\n"
+	.string "willst, bring mehr Pokémon mit.$"
 
 Route107_Text_CamronIntro:
 	.string "Ich bin mitten in einem Triathlon und\n"
@@ -799,8 +799,8 @@ Route108_Text_CoryPostBattle:
 	.string "Das hebt meine Stimmung!$"
 
 Route108_Text_CoryRegister:
-	.string "Ich liebe auch starke TRAINER.\n"
-	.string "Trag mich in deinen POKéNAV ein!$"
+	.string "Ich liebe auch starke Trainer.\n"
+	.string "Trag mich in deinen Pokénav ein!$"
 
 Route108_Text_CoryRematchIntro:
 	.string "Sieg oder Niederlage… Ich liebe es, im\n"
@@ -981,9 +981,9 @@ Route109_Text_PaulPostBattle:
 	.string "Welt!$"
 
 Route109_Text_PaulNotEnoughPokemon:
-	.string "OLE: Wir sind total heftig ineinander\n"
+	.string "Ole: Wir sind total heftig ineinander\n"
 	.string "verliebt. Deshalb lassen wir unsere\l"
-	.string "POKéMON auch gemeinsam kämpfen.$"
+	.string "Pokémon auch gemeinsam kämpfen.$"
 
 Route109_Text_MelIntro:
 	.string "Geli: Wir sind total ineinander verliebt.\n"
@@ -998,9 +998,9 @@ Route109_Text_MelPostBattle:
 	.string "Bitte sei nicht böse auf mich!$"
 
 Route109_Text_MelNotEnoughPokemon:
-	.string "GELI: Wir sind total heftig ineinander\n"
+	.string "Geli: Wir sind total heftig ineinander\n"
 	.string "verliebt. Daher kämpfen wir auch mit\l"
-	.string "unseren POKéMON zusammen.$"
+	.string "unseren Pokémon zusammen.$"
 
 Route109_Text_ChandlerIntro:
 	.string "Tadaaah! Siehste?\n"
@@ -1108,7 +1108,7 @@ Route110_Text_AbigailPostBattle:
 
 Route110_Text_AbigailRegister:
 	.string "Weißt du, ich mag dich.\n"
-	.string "Wir sollten auf dem KÜSTENRADWEG\l"
+	.string "Wir sollten auf dem Küstenradweg\l"
 	.string "noch einmal gegeneinander kämpfen.$"
 
 Route110_Text_AbigailRematchIntro:
@@ -1173,7 +1173,7 @@ Route110_Text_EdwinPostBattle:
 	.string "sehe, kommt der Sammler in mir durch!$"
 
 Route110_Text_EdwinRegister:
-	.string "Ich sammle TRAINER/RUF-Einträge…$"
+	.string "Ich sammle Trainer/Ruf-Einträge…$"
 
 Route110_Text_EdwinRematchIntro:
 	.string "Hi, hast du neue Pokémon gesammelt?\p"
@@ -1214,7 +1214,7 @@ Route110_Text_IsabelPostBattle:
 
 Route110_Text_IsabelRegister:
 	.string "Das war schon nah dran an einer\n"
-	.string "POKéMON-Präsentation.\p"
+	.string "Pokémon-Präsentation.\p"
 	.string "Ich möchte dich so oft wie möglich als\n"
 	.string "Publikum haben.$"
 
@@ -1351,10 +1351,10 @@ Route111_Text_DustyPostBattle:
 	.string "doch 30 Jahre? Ach, ich weiß nicht…$"
 
 Route111_Text_DustyRegister:
-	.string "Ich habe noch nie nach starken POKéMON\n"
+	.string "Ich habe noch nie nach starken Pokémon\n"
 	.string "gesucht.\p"
 	.string "Aber trotzdem finde ich so einen\n"
-	.string "POKéNAV absolut klasse.$"
+	.string "Pokénav absolut klasse.$"
 
 Route111_Text_DustyRematchIntro:
 	.string "Seit 30 Jahren suche ich nach antiken\n"
@@ -1595,7 +1595,7 @@ Route112_Text_TrentRegister:
 	.string "Au, ich habe Krämpfe in den Beinen!\n"
 	.string "Kannst du mir bitte Bandagen aus\l"
 	.string "meinem Rucksack geben?\p"
-	.string "Nein, das ist mein POKéNAV.\n"
+	.string "Nein, das ist mein Pokénav.\n"
 	.string "Ich trage dich ins Verzeichnis ein.$"
 
 Route112_Text_TrentRematchIntro:
@@ -1706,7 +1706,7 @@ Route113_Text_MadelinePostBattle:
 
 Route113_Text_MadelineRegister:
 	.string "Komm unter meinen Sonnenschirm.\n"
-	.string "Ich trage dich in meinen POKéNAV ein.$"
+	.string "Ich trage dich in meinen Pokénav ein.$"
 
 Route113_Text_MadelineRematchIntro:
 	.string "Oh, hallo, wir haben uns ja ewig nicht\n"
@@ -1733,7 +1733,7 @@ Route113_Text_LaoPostBattle:
 
 Route113_Text_LaoRegister:
 	.string "Yiihaa! Werde Zeuge der Registrierung\n"
-	.string "auf traditionelle Ninja-Art im POKéNAV.$"
+	.string "auf traditionelle Ninja-Art im Pokénav.$"
 
 Route113_Text_LaoRematchIntro:
 	.string "Erhebe ich mich aus der Asche, hast du\n"
@@ -1790,7 +1790,7 @@ Route113_Text_TiaPostBattle:
 	.string "hoffe, genug für eine Weisse Flöte.$"
 
 Route113_Text_TiaNotEnoughMons:
-	.string "FLO: Wir wollen einen 2-gegen-2-Kampf.\n"
+	.string "Flo: Wir wollen einen 2-gegen-2-Kampf.\n"
 	.string "Anderenfalls würden wir verlieren.$"
 
 Route113_Text_CobyIntro:
@@ -1942,7 +1942,7 @@ Route114_Text_BerniePostBattle:
 
 Route114_Text_BernieRegister:
 	.string "Du hast meinen Kampfgeist entfacht.\n"
-	.string "Wir sollten uns gegenseitig im POKéNAV\l"
+	.string "Wir sollten uns gegenseitig im Pokénav\l"
 	.string "eintragen.$"
 
 Route114_Text_BernieRematchIntro:
@@ -2004,9 +2004,9 @@ Route114_Text_TyraPostBattle:
 	.string "etwas über Pokémon bei.$"
 
 Route114_Text_TyraNotEnoughMons:
-	.string "TYRA: Kicher…\n"
+	.string "Tyra: Kicher…\n"
 	.string "Wenn du mit uns kämpfen willst, reicht\l"
-	.string "ein POKéMON nicht aus.$"
+	.string "ein Pokémon nicht aus.$"
 
 Route114_Text_IvyIntro:
 	.string "Ivy: Wer hat dir das alles über Pokémon\n"
@@ -2022,7 +2022,7 @@ Route114_Text_IvyPostBattle:
 	.string "es mir beigebracht hat!$"
 
 Route114_Text_IvyNotEnoughMons:
-	.string "IVY: Hast du nur ein POKéMON? Ich\n"
+	.string "Ivy: Hast du nur ein Pokémon? Ich\n"
 	.string "glaube, das fühlt sich einsam!$"
 
 Route114_Text_KaiIntro:
@@ -2302,19 +2302,19 @@ Route116_Text_JerryDefeat:
 
 Route116_Text_JerryPostBattle:
 	.string "Ich muss einige Kurse in der Trainer-\n"
-	.string "Schule wiederholen.\l"
+	.string "schule wiederholen.\l"
 	.string "Sonst wird Felizia vor Wut schäumen.$"
 
 Route116_Text_JerryRegister1:
-	.string "In der TRAINERSCHULE habe ich gelernt,\n"
-	.string "dass man im POKéNAV TRAINER eintragen\l"
+	.string "In der Trainerschule habe ich gelernt,\n"
+	.string "dass man im Pokénav Trainer eintragen\l"
 	.string "kann.\p"
 	.string "Und wozu macht man das? Darf ich das\n"
 	.string "mal ausprobieren?$"
 
 Route116_Text_JerryRegister2:
-	.string "In der TRAINERSCHULE habe ich gelernt,\n"
-	.string "dass man im POKéNAV TRAINER eintragen\l"
+	.string "In der Trainerschule habe ich gelernt,\n"
+	.string "dass man im Pokénav Trainer eintragen\l"
 	.string "kann.\p"
 	.string "Und wozu macht man das? Darf ich das\n"
 	.string "mal ausprobieren?$"
@@ -2330,7 +2330,7 @@ Route116_Text_JerryRematchDefeat:
 
 Route116_Text_JerryPostRematch:
 	.string "Ich muss einige Kurse in der Trainer-\n"
-	.string "Schule wiederholen.\l"
+	.string "schule wiederholen.\l"
 	.string "Sonst wird Felizia vor Wut schäumen.$"
 
 Route116_Text_KarenIntro:
@@ -2346,11 +2346,11 @@ Route116_Text_KarenPostBattle:
 	.string "Trainer wie Felizia!$"
 
 Route116_Text_KarenRegister1:
-	.string "Hey! Das ist doch ein POKéNAV! Ich habe\n"
+	.string "Hey! Das ist doch ein Pokénav! Ich habe\n"
 	.string "auch einen! Komm, trag mich ein!$"
 
 Route116_Text_KarenRegister2:
-	.string "Hey! Das ist doch ein POKéNAV! Ich habe\n"
+	.string "Hey! Das ist doch ein Pokénav! Ich habe\n"
 	.string "auch einen! Komm, trag mich ein!$"
 
 Route116_Text_KarenRematchIntro:
@@ -2465,7 +2465,7 @@ Route117_Text_LydiaPostBattle:
 
 Route117_Text_LydiaRegister:
 	.string "Ich freue mich, einen so hervorragenden\n"
-	.string "TRAINER wie dich getroffen zu haben.\l"
+	.string "Trainer wie dich getroffen zu haben.\l"
 	.string "Ich hoffe, wir sehen uns bald wieder.$"
 
 Route117_Text_LydiaRematchIntro:
@@ -2492,7 +2492,7 @@ Route117_Text_DylanPostBattle:
 	.string "stark nachgelassen…$"
 
 Route117_Text_DylanRegister:
-	.string "POKéMON müssen stark sein?\n"
+	.string "Pokémon müssen stark sein?\n"
 	.string "Ich möchte, dass du mich trainierst.$"
 
 Route117_Text_DylanRematchIntro:
@@ -2574,13 +2574,13 @@ Route117_Text_AnnaPostBattle:
 	.string "zweite Klasse.$"
 
 Route117_Text_AnnaAndMegRegister:
-	.string "IRM: Das können wir nicht auf sich\n"
+	.string "Irm: Das können wir nicht auf sich\n"
 	.string "beruhen lassen! Wir werden wieder\l"
 	.string "gegeneinander antreten.$"
 
 Route117_Text_AnnaNotEnoughMons:
-	.string "IRM: Wenn du gegen uns antreten willst,\n"
-	.string "bring zwei POKéMON mit.$"
+	.string "Irm: Wenn du gegen uns antreten willst,\n"
+	.string "bring zwei Pokémon mit.$"
 
 Route117_Text_MegIntro:
 	.string "Ida: Ich werde mich mit meiner Super-\n"
@@ -2597,7 +2597,7 @@ Route117_Text_MegPostBattle:
 	.string "gewonnen!$"
 
 Route117_Text_MegNotEnoughMons:
-	.string "IDA: Hast du nur ein POKéMON?\n"
+	.string "Ida: Hast du nur ein Pokémon?\n"
 	.string "Dann können wir nicht mit dir kämpfen.\p"
 	.string "Wir wollen einen 2-gegen-2-Kampf.$"
 
@@ -2687,7 +2687,7 @@ Route118_Text_RosePostBattle:
 
 Route118_Text_RoseRegister:
 	.string "Schnief… Dieser Geruch… Das ist ein\n"
-	.string "POKéNAV! Wir müssen uns gegenseitig\l"
+	.string "Pokénav! Wir müssen uns gegenseitig\l"
 	.string "eintragen!$"
 
 Route118_Text_RoseRematchIntro:
@@ -2918,8 +2918,8 @@ Route119_Text_CatherinePostBattle:
 	.string "und körperlichen Kraft angekommen.$"
 
 Route119_Text_CatherineRegister:
-	.string "Hast du einen POKéNAV?\n"
-	.string "Jeder TRAINER sollte so einen besitzen!\p"
+	.string "Hast du einen Pokénav?\n"
+	.string "Jeder Trainer sollte so einen besitzen!\p"
 	.string "Hey, du hast ja einen! Dann sollten wir\n"
 	.string "uns gegenseitig eintragen.$"
 
@@ -3080,7 +3080,7 @@ Route120_Text_RobertPostBattle:
 
 Route120_Text_RobertRegister:
 	.string "Du wirst mit Sicherheit immer besser.\n"
-	.string "Ich würde dich gerne in meinen POKéNAV\l"
+	.string "Ich würde dich gerne in meinen Pokénav\l"
 	.string "eintragen.$"
 
 Route120_Text_RobertRematchIntro:
@@ -3286,9 +3286,9 @@ Route121_Text_WalterPostBattle:
 	.string "meinem Pokémon umrunden.$"
 
 Route121_Text_WalterRegister:
-	.string "Die Tapferkeit deiner POKéMON ist\n"
+	.string "Die Tapferkeit deiner Pokémon ist\n"
 	.string "bemerkenswert. Ich würde dich gerne\l"
-	.string "zur Erinnerung im POKéNAV eintragen.$"
+	.string "zur Erinnerung im Pokénav eintragen.$"
 
 Route121_Text_WalterRematchIntro:
 	.string "Mit meinem Pokémon habe ich alle vier\n"
@@ -3330,7 +3330,7 @@ Route121_Text_KatePostBattle:
 	.string "immer cool aufzutreten…$"
 
 Route121_Text_KateNotEnoughMons:
-	.string "EVA: Wenn du nur ein POKéMON hast,\n"
+	.string "Eva: Wenn du nur ein Pokémon hast,\n"
 	.string "können wir nicht mit dir kämpfen.\p"
 	.string "Das wäre äußerst unfair.$"
 
@@ -3346,8 +3346,8 @@ Route121_Text_JoyPostBattle:
 	.string "mit meiner Seniorpartnerin trainieren.$"
 
 Route121_Text_JoyNotEnoughMons:
-	.string "UTE: Du brauchst mindestens zwei\n"
-	.string "POKéMON, um gegen uns zu kämpfen.$"
+	.string "Ute: Du brauchst mindestens zwei\n"
+	.string "Pokémon, um gegen uns zu kämpfen.$"
 
 Route121_Text_JessicaIntro:
 	.string "Stopp! Schau dir meine wunderbaren\n"
@@ -3394,7 +3394,7 @@ Route121_Text_CristinPostBattle:
 Route121_Text_CristinRegister:
 	.string "Das war einfach nur peinlich!\n"
 	.string "Ich werde dich nicht vergessen…\l"
-	.string "Gib mir deinen POKéNAV!$"
+	.string "Gib mir deinen Pokénav!$"
 
 Route121_Text_CristinRematchIntro:
 	.string "Ich habe ein neues Prinzip. Jeden Tag\n"
@@ -3518,7 +3518,7 @@ Route123_Text_CameronRegister:
 	.string "Wir beide - du und ich - werden\l"
 	.string "gegeneinander antreten.\p"
 	.string "Ich weiß aber nicht, ob ich gewinnen\n"
-	.string "werde… Zeig mir deinen POKéNAV.$"
+	.string "werde… Zeig mir deinen Pokénav.$"
 
 Route123_Text_CameronRematchIntro:
 	.string "Ich habe mich selbst davon überzeugt,\n"
@@ -3572,8 +3572,8 @@ Route123_Text_MiuPostBattle:
 	.string "weil ihr eine starke Freundschaft teilt.$"
 
 Route123_Text_MiuNotEnoughMons:
-	.string "LEA: Es macht keinen Spaß, wenn du\n"
-	.string "weniger als zwei POKéMON hast.$"
+	.string "Lea: Es macht keinen Spaß, wenn du\n"
+	.string "weniger als zwei Pokémon hast.$"
 
 Route123_Text_YukiIntro:
 	.string "Grit: Okay!\n"
@@ -3587,8 +3587,8 @@ Route123_Text_YukiPostBattle:
 	.string "Wir haben bisher noch nie verloren!$"
 
 Route123_Text_YukiNotEnoughMons:
-	.string "GRIT: Es macht keinen Spaß, wenn du\n"
-	.string "weniger als zwei POKéMON hast.$"
+	.string "Grit: Es macht keinen Spaß, wenn du\n"
+	.string "weniger als zwei Pokémon hast.$"
 
 Route123_Text_KindraIntro:
 	.string "Pyroberg…\n"
@@ -3777,7 +3777,7 @@ Route124_Text_JennyPostBattle:
 Route124_Text_JennyRegister:
 	.string "Vielleicht ist es ja nur eine Marotte\n"
 	.string "von mir, aber ich möchte gerne, dass du\l"
-	.string "mich in deinen POKéNAV einträgst.$"
+	.string "mich in deinen Pokénav einträgst.$"
 
 Route124_Text_JennyRematchIntro:
 	.string "Wenn du dich hier treiben lässt, triffst\n"
@@ -3836,8 +3836,8 @@ Route124_Text_LilaPostBattle:
 	.string "Bruders ein hübscher Freund hier wäre…$"
 
 Route124_Text_LilaNotEnoughMons:
-	.string "MARIA: Du willst gegen uns antreten?\n"
-	.string "Dann brauchst du aber mehr POKéMON.$"
+	.string "Maria: Du willst gegen uns antreten?\n"
+	.string "Dann brauchst du aber mehr Pokémon.$"
 
 Route124_Text_RoyIntro:
 	.string "Karl: Meine Schwester ist stark!\p"
@@ -3853,13 +3853,13 @@ Route124_Text_RoyPostBattle:
 	.string "Daher hat sie auch noch keinen Freund.$"
 
 Route124_Text_LilaRoyRegister:
-	.string "KARL: Wirst du wieder gegen uns\n"
+	.string "Karl: Wirst du wieder gegen uns\n"
 	.string "kämpfen? Dann machst du es uns\l"
 	.string "leichter, ja?$"
 
 Route124_Text_RoyNotEnoughMons:
-	.string "KARL: Willst du gegen uns antreten?\n"
-	.string "Dann bring mehr POKéMON mit.$"
+	.string "Karl: Willst du gegen uns antreten?\n"
+	.string "Dann bring mehr Pokémon mit.$"
 
 Route124_Text_LilaRematchIntro:
 	.string "Maria: Megaseufz… Ich bin hier mitten\n"
@@ -3987,7 +3987,7 @@ Route125_Text_ErnestPostBattle:
 	.string "Flut und Ebbe immer 6 Stunden liegen?$"
 
 Route125_Text_ErnestRegister:
-	.string "Trag mich in deinen POKéNAV ein und ich\n"
+	.string "Trag mich in deinen Pokénav ein und ich\n"
 	.string "verrate dir etwas.$"
 
 Route125_Text_ErnestRematchIntro:
@@ -4020,8 +4020,8 @@ Route125_Text_KimPostBattle:
 	.string "Komm, Iris, wir besuchen ihn.$"
 
 Route125_Text_KimNotEnoughMons:
-	.string "ZOE: Nein, nein, nein! Du brauchst zwei\n"
-	.string "POKéMON oder es funktioniert nicht!$"
+	.string "Zoe: Nein, nein, nein! Du brauchst zwei\n"
+	.string "Pokémon oder es funktioniert nicht!$"
 
 Route125_Text_IrisIntro:
 	.string "Iris: Zoe, kannst du mir verraten, was\n"
@@ -4036,7 +4036,7 @@ Route125_Text_IrisPostBattle:
 	.string "Dann werden wir ja ganz nass.$"
 
 Route125_Text_IrisNotEnoughMons:
-	.string "IRIS: Oh, wir würden niemals einen\n"
+	.string "Iris: Oh, wir würden niemals einen\n"
 	.string "2-gegen-1-Kampf ausfechten! Niemals!$"
 
 Route125_Text_PresleyIntro:
@@ -4317,7 +4317,7 @@ Route128_Text_IsaiahPostBattle:
 Route128_Text_IsaiahRegister:
 	.string "Noch bin ich nicht gut genug, aber\n"
 	.string "irgendwann werde ich gewinnen!\p"
-	.string "Bitte trag mich in deinen POKéNAV ein.$"
+	.string "Bitte trag mich in deinen Pokénav ein.$"
 
 Route128_Text_IsaiahRematchIntro:
 	.string "Ich fühle mich gut. Ich werde weiter\n"
@@ -4361,7 +4361,7 @@ Route128_Text_KatelynRematchDefeat:
 
 Route128_Text_KatelynPostRematch:
 	.string "Du solltest ernsthaft darüber nach-\n"
-	.string "denken, die Siegesstrasse zu betreten.$"
+	.string "denken, die Siegesstraße zu betreten.$"
 
 Route128_Text_AlexaIntro:
 	.string "Wir haben hart dafür gearbeitet, die\n"
@@ -4599,7 +4599,7 @@ Route131_Text_ReliPostBattle:
 	.string "und dem Meer zusammen.$"
 
 Route131_Text_ReliNotEnoughMons:
-	.string "UNA: Du hast keine zwei POKéMON?\n"
+	.string "Una: Du hast keine zwei Pokémon?\n"
 	.string "Dann werden wir keinen Spaß haben!$"
 
 Route131_Text_IanIntro:
@@ -4617,7 +4617,7 @@ Route131_Text_IanPostBattle:
 	.string "von Flossbrunn!$"
 
 Route131_Text_IanNotEnoughMons:
-	.string "TOBI: Wenn du zwei POKéMON mitbringst,\n"
+	.string "Tobi: Wenn du zwei Pokémon mitbringst,\n"
 	.string "werden wir es mit dir aufnehmen!$"
 
 Route131_Text_TaliaIntro:

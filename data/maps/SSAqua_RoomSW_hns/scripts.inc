@@ -12,32 +12,33 @@ SSAqua_RoomSW_EventScript_Clyde::
 	end
 
 SSAqua_RoomSW_Text_BeautyCassieSeen:
-	.string "Ich versuche, mein Leid zu\n"
-	.string "vergessen. Lass uns kämpfen!$"
+	.string "Im Pokémon-Kampf vergesse ich meinen\n"
+	.string "Schmerz! Lass uns kämpfen!$"
 
 SSAqua_RoomSW_Text_BeautyCassieBeaten:
 	.string "Mein Herz weint…$"
 
 SSAqua_RoomSW_Text_BeautyCassieAfterBattle:
-	.string "Eine Reise hilft über Herzschmerz,\p"
-	.string "doch eine SCHNELLSCHIFF-Fahrt ist\n"
-	.string "zu kurz, um zu trauern.$"
+	.string "Es geht nichts über eine Schiffsreise,\n"
+	.string "um ein gebrochenes Herz zu vergessen.\p"
+	.string "Eine Reise mit dem Schnellboot ist für\n"
+	.string "solchen Kummer zu kurz.$"
 
 SSAqua_RoomSW_Text_GuitaristClydeSeen:
 	.string "Ich werde meine Lieder beim\n"
-	.string "RADIOSENDER in DUKATIA vorspielen.$"
+	.string "Radiosender in Dukatia vorspielen.$"
 
 SSAqua_RoomSW_Text_GuitaristClydeBeaten:
-	.string "Wow! Total verzerrt!$"
+	.string "Autsch! Total verzerrt!$"
 
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattleMobile:
 	.string "Ich wollte mein\n"
-	.string "Debut im DUELLTURM geben…\p"
+	.string "Debut im Duellturm geben…\p"
 	.string "Ich sollte nach\n"
-	.string "ORANIA CITY zurückgehen und härter\l"
+	.string "Orania City zurückgehen und härter\l"
 	.string "trainieren…$"
 
 SSAqua_RoomSW_Text_GuitaristClydeAfterBattle:
-	.string "Apropos RADIOSTATION: Wie\p"
+	.string "Apropos Radiostation: Wie\p"
 	.string "lauten die\n"
 	.string "Glückszahlen für diese Woche?$"

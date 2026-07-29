@@ -4,7 +4,7 @@ BurnedTower_B1F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-BurnedTower_B1F_OnTransition: 
+BurnedTower_B1F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -53,7 +53,7 @@ BurnedTower_B1F_EventScript_ReleaseBeasts::
 	waitse
 	waitmovement 0
 
-	
+
 	applymovement LOCALID_BURNEDTOWER_ENTEI, BurnedTower_B1F_Movement_EnteiLeave
 	playse SE_LEDGE
 	delay 30
@@ -96,7 +96,7 @@ BurnedTower_B1F_EventScript_ReleaseBeasts::
 	delay 30
 	playse SE_LEDGE
 	waitmovement 0
-	
+
 	setflag FLAG_HIDE_BURNED_TOWER_BEASTS
 	removeobject LOCALID_BURNEDTOWER_ENTEI
 	removeobject LOCALID_BURNEDTOWER_RAIKOU
@@ -184,7 +184,7 @@ BurnedTower_B1F_Movement_EusineLeave:
 	step_end
 
 BurnedTowerB1FEusineText:
-	.string "EUSIN: Ich habe hier auch ein\n"
+	.string "Eusin: Ich habe hier auch ein\n"
 	.string "Loch gegraben...\p"
 	.string "Ich war geschockt!\p"
 	.string "Suicune rannte an mir vorbei\n"
@@ -193,7 +193,7 @@ BurnedTowerB1FEusineText:
 	.string "{PLAYER}, Ich verdanke es nur dir!\p"
 	.string "Ich bin überwältigt, Danke!\p"
 	.string "Ich hörte, dass die legendären\n"
-	.string "POKéMON von TEAK-CITY\l"
+	.string "Pokémon von Teak-City\l"
 	.string "auserwählte testen, indem\p"
 	.string "sie zulassen, dass sie ihnen\n"
 	.string "nahe kommen.\p"

@@ -3,7 +3,7 @@ Route36_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route36_OnTransition: 
+Route36_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -104,11 +104,11 @@ Route36_EventScript_SudoWoodoWater::
 	playse SE_DOWNPOUR
 	waitse
 	closemessage
-	playse SE_SUDOWOODO_SHAKE	
+	playse SE_SUDOWOODO_SHAKE
 	applymovement LOCALID_ROUTE36_SUDOWOODO, Route36_Movement_SudoWoodo
 	waitmovement 0
 	faceplayer
-	msgbox Route36_Text_SudowoodoAttacked	
+	msgbox Route36_Text_SudowoodoAttacked
 	closemessage
 	waitse
 	playmoncry SPECIES_SUDOWOODO, CRY_MODE_ENCOUNTER
@@ -234,7 +234,7 @@ Route36_Movement_SudoWoodo:
 
 Route36_Text_UseSquirtbottle:
 	.string "Das ist ein merkwürdiger Baum.\n"
-	.string "Möchtest du die SCHIGGYKANNE benutzen?$"
+	.string "Möchtest du die Schiggykanne benutzen?$"
 
 Route36_Text_UsedSquirtbottle:
 	.string "{PLAYER} setzt die\n"
@@ -259,7 +259,7 @@ Route36_Text_RockSmashGuy2:
 	.string "Das hier sollst du haben.$"
 
 Route36_Text_RockSmashGuy3:
-	.string "Das ist übrigens ZERTRÜMMRER.\p"
+	.string "Das ist übrigens Zertrümmrer.\p"
 	.string "Damit kannst du Felsen mit\n"
 	.string "einem gezielten Hieb zertrümmern.\p"
 	.string "Sind dir Steine im Weg,\n"
@@ -271,7 +271,7 @@ Route36_Text_OddTree:
 
 Route36_Text_Lass1:
 	.string "Ein merkwürdiger Baum blockiert die\n"
-	.string "Straße nach DUKATIA CITY.\p"
+	.string "Straße nach Dukatia City.\p"
 	.string "Wegen dieses Baumes kann ich\n"
 	.string "nicht Einkaufen gehen.\p"
 	.string "Man sollte etwas dagegen tun.$"
@@ -308,7 +308,7 @@ Route36_Text_SchoolboyAlanAfter:
 Route36_Text_MeetArthur:
 	.string "Donatus: Wer bist du?\n"
 	.string "Ich bin Donatus von der\n"
-	.string "WOCHENTAGSFAMILIE.\p"
+	.string "Wochentagsfamilie.\p"
 	.string "Wenn du meinen Lieblingstag errätst,\n"
 	.string "gebe ich dir eine Belohnung.$"
 
@@ -336,7 +336,7 @@ Route36_Text_Sign_RuinsNorth:
 	.string "Nordeingang$"
 
 Route36_Text_Tips1:
-	.string "TRAINER-TIPPS\n"
+	.string "Trainer-Tipps\n"
 	.string "Pokémon-Werte unterscheiden sich,\l"
 	.string "selbst bei gleicher Art.\p"
 	.string "Anfangs wirken sie ähnlich.\p"
@@ -344,7 +344,7 @@ Route36_Text_Tips1:
 	.string "die Unterschiede deutlich.$"
 
 Route36_Text_Tips2:
-	.string "TRAINER-TIPPS\n"
+	.string "Trainer-Tipps\n"
 	.string "Nutze Schaufler, um zum\l"
 	.string "Eingang eines Ortes zurückzukehren.\p"
 	.string "Sehr praktisch zum Erkunden von\n"
@@ -358,7 +358,7 @@ Route36_Text_AlanRegister:
 
 Route36_Text_AlanRematchIntro:
     .string "Dank meines Studiums bin ich auf\n"
-    .string "jedes POKéMON vorbereitet!$"
+    .string "jedes Pokémon vorbereitet!$"
 
 Route36_Text_AlanRematchDefeat:
     .string "Ups! Rechenfehler?$"
@@ -379,5 +379,5 @@ Route36_Text_AlanGaveItem:
     .string "noch etwas finde!$"
 
 Route36_Text_AlanNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"

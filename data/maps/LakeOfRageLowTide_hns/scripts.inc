@@ -6,7 +6,7 @@ LakeOfRageLowTide_EventScript_Sage::
 	end
 
 LakeOfRageLowTide_Text_Sage::
-	.string "In dieser Höhle ist ein POKéMON,\n"
+	.string "In dieser Höhle ist ein Pokémon,\n"
 	.string "welches für normale Trainer\l"
 	.string "viel zu stark ist.$"
 

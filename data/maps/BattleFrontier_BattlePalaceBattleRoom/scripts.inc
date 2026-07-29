@@ -442,7 +442,7 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
 	.string "Ausgezeichnet! … Deine\n"
-	.string "POKéMON sind gleich wieder topfit.$"
+	.string "Pokémon sind gleich wieder topfit.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
 	.string "Der zweite Gegner wartet schon.\n"
@@ -482,22 +482,22 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
 	.string "Soll der letzte Kampf in deinen\n"
-	.string "KAMPFZONENPASS eingetragen werden?$"
+	.string "Kampfzonenpass eingetragen werden?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
 	.string "Und nun…\p"
 	.string "Durch deine vielen Siege in Folge hast\n"
 	.string "du nun die Ehre, gegen unseren\n"
 	.string "Meister,\l"
-	.string "PALASTREGENT, antreten zu dürfen…$"
+	.string "Palastregent, antreten zu dürfen…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "Ich werde den PALASTREGENTen rufen.\n"
+	.string "Ich werde den Palastregenten rufen.\n"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
 	.string "Begrüßen wir ihn mit Fanfarenklängen.\n"
-	.string "Den PALASTREGENTen SERENUS!$"
+	.string "Den Palastregenten Serenus!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
 	.string "Serenus: Mein Leben dreht sich um\n"
@@ -517,7 +517,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
 	.string "Zeig es mir hier und jetzt!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
-	.string "SERENUS: Uahahahaha!\p"
+	.string "Serenus: Uahahahaha!\p"
 	.string "Du hast dich von meinen Worten niemals\n"
 	.string "einschüchtern lassen! Tut mir Leid,\p"
 	.string "dass ich das versucht habe! Komm!\n"
@@ -526,23 +526,23 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
 	.string "Ach je, wenn es mir nur gelänge, den\n"
 	.string "Anschein von Autorität zu wahren…\p"
-	.string "Komm! Zeig mir deinen KAMPFZONENPASS!$"
+	.string "Komm! Zeig mir deinen Kampfzonenpass!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "Das SEELENSYMBOL wurde dem\n"
-	.string "KAMPFZONENPASS hinzugefügt!$"
+	.string "Das Seelensymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SERENUS: Die Augen deiner POKéMON sind\n"
+	.string "Serenus: Die Augen deiner Pokémon sind\n"
 	.string "klar und offen!\p"
 	.string "Ich freue mich schon auf unsere\n"
 	.string "nächste Begegnung!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SERENUS: Uahahahaha! Du hast\n"
+	.string "Serenus: Uahahahaha! Du hast\n"
 	.string "dich bis hierher durchgekämpft?\p"
 	.string "Dich muss ein wahrhaft starkes Band\n"
-	.string "mit deinen POKéMON verbinden!\p"
+	.string "mit deinen Pokémon verbinden!\p"
 	.string "Also gut!\p"
 	.string "Dieses Mal werde ich dich nicht ein-\n"
 	.string "schüchtern, mich aber auch nicht\p"
@@ -555,7 +555,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 	.string "… … … … Kyaaaiii!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SERENUS: Nun, das war doch mal eine\n"
+	.string "Serenus: Nun, das war doch mal eine\n"
 	.string "gelungene Vorstellung! Meine Gefährten\l"
 	.string "konnten dich nicht unterbuttern.\p"
 	.string "Euer Teamgeist ist wirklich\n"
@@ -566,13 +566,13 @@ BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
 	.string "Ach je, hätte ich doch nur ein\n"
 	.string "bisschen Anstand…\p"
 	.string "Uahahaha! Komm!\n"
-	.string "Gib mir den KAMPFZONENPASS!$"
+	.string "Gib mir den Kampfzonenpass!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "Das SEELENSYMBOL erscheint\n"
+	.string "Das Seelensymbol erscheint\n"
 	.string "in einem goldenen Glanz!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
-	.string "SERENUS: Uahahahaha!\p"
+	.string "Serenus: Uahahahaha!\p"
 	.string "Komm ruhig mal wieder her! Meine\n"
 	.string "Gefährten und ich warten auf dich.$"

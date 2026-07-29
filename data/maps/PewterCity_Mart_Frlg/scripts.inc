@@ -36,11 +36,11 @@ PewterCity_Mart_Items::
 PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy::
 	.string "Das kostet 500¥!\p"
 	.string "Wir verwenden hier spezielle\n"
-	.string "POKéBÄLLE.$"
+	.string "Pokébälle.$"
 
 PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligently::
-	.string "Wenn man seine POKéMON eifrig\n"
+	.string "Wenn man seine Pokémon eifrig\n"
 	.string "trainiert, können selbst schwächere\l"
-	.string "POKéMON für Überraschungen gut\l"
+	.string "Pokémon für Überraschungen gut\l"
 	.string "sein!$"
 

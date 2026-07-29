@@ -110,6 +110,6 @@ Route9_Text_ConnerPostBattle::
 	.string "auch nicht!$"
 
 Route9_Text_RouteSign::
-	.string "ROUTE 9\n"
-	.string "AZURIA CITY - FELSTUNNEL$"
+	.string "Route 9\n"
+	.string "Azuria City - Felstunnel$"
 

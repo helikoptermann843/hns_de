@@ -35,16 +35,16 @@ CeruleanCity_Mart_Items::
 	end
 
 CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
-	.string "POKéMON können Büsche mit dem\n"
-	.string "ZERSCHNEIDER klein hacken.\p"
-	.string "Aber vergiss nicht, ZERSCHNEIDER\n"
+	.string "Pokémon können Büsche mit dem\n"
+	.string "Zerschneider klein hacken.\p"
+	.string "Aber vergiss nicht, Zerschneider\n"
 	.string "ist eine VM!\p"
 	.string "Wer sie einmal gelernt hat, kann\n"
 	.string "sie nicht so einfach vergessen!$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
-	.string "Besitzt du SONDERBONBONs?\p"
-	.string "Gibt man einem POKéMON ein solches\n"
-	.string "BONBON, dann erreicht es den\l"
+	.string "Besitzt du Sonderbonbons?\p"
+	.string "Gibt man einem Pokémon ein solches\n"
+	.string "Bonbon, dann erreicht es den\l"
 	.string "nächsten Level!$"
 

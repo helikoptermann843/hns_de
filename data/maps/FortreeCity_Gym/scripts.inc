@@ -136,11 +136,11 @@ FortreeCity_Gym_EventScript_GymStatue::
 
 FortreeCity_Gym_Text_GymGuideAdvice:
 	.string "Na, wie sieht es aus? Auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "Die LEITERIN der ARENA von BAUMHAUSEN\n"
-	.string "CITY, WIBKE, ist eine Meisterin der\l"
-	.string "FLUG-POKéMON.\p"
-	.string "Sie wartet hinten in der ARENA auf\n"
+	.string "Champ, {PLAYER}?\p"
+	.string "Die Leiterin der Arena von Baumhausen\n"
+	.string "City, Wibke, ist eine Meisterin der\l"
+	.string "Flug-Pokémon.\p"
+	.string "Sie wartet hinten in der Arena auf\n"
 	.string "dich, hinter den Drehtüren.\p"
 	.string "Sie wartet auf neue Herausforderer,\n"
 	.string "denen sie die Flügel stutzen kann!\p"
@@ -255,26 +255,26 @@ FortreeCity_Gym_Text_WinonaDefeat:
 	.string "überreiche ich dir diesen Arenaorden.$"
 
 FortreeCity_Gym_Text_ReceivedFeatherBadge:
-	.string "{PLAYER} erhält den FEDERORDEN von\n"
-	.string "WIBKE.$"
+	.string "{PLAYER} erhält den Federorden von\n"
+	.string "Wibke.$"
 
 FortreeCity_Gym_Text_ExplainFeatherBadgeTakeThis:
-	.string "Mit dem FEDERORDEN gehorchen dir alle\n"
-	.string "POKéMON bis Lv. 70, auch die, die du\l"
+	.string "Mit dem Federorden gehorchen dir alle\n"
+	.string "Pokémon bis Lv. 70, auch die, die du\l"
 	.string "durch Tausch bekommen hast.\p"
-	.string "Außerdem kannst du nun die VM FLIEGEN\n"
+	.string "Außerdem kannst du nun die VM Fliegen\n"
 	.string "außerhalb eines Kampfes einsetzen.\p"
 	.string "Und dies…\n"
 	.string "Dies ist ein Geschenk von mir.$"
 
 FortreeCity_Gym_Text_ExplainAerialAce:
-	.string "TM40 enthält AERO-ASS.\p"
+	.string "TM40 enthält Aero-Ass.\p"
 	.string "Diese Geschwindigkeit…\n"
-	.string "Kein POKéMON kann ihr entgehen.\p"
+	.string "Kein Pokémon kann ihr entgehen.\p"
 	.string "… … … … … …$"
 
 FortreeCity_Gym_Text_RegisteredWinona:
-	.string "ARENALEITERIN WIBKE wurde im POKéNAV-\n"
+	.string "Arenaleiterin Wibke wurde im Pokénav-\n"
 	.string "Verzeichnis eingetragen.$"
 
 FortreeCity_Gym_Text_WinonaPostBattle:
@@ -283,11 +283,11 @@ FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "gehört meine Liebe den Vogel-pokémon.$"
 
 FortreeCity_Gym_Text_GymStatue:
-	.string "POKéMON ARENA von BAUMHAUSEN CITY$"
+	.string "Pokémon Arena von Baumhausen City$"
 
 FortreeCity_Gym_Text_GymStatueCertified:
-	.string "POKéMON ARENA von BAUMHAUSEN CITY\p"
-	.string "WIBKES ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Baumhausen City\p"
+	.string "Wibkes anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 FortreeCity_Gym_Text_WinonaPreRematch:

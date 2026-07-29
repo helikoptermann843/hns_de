@@ -33,7 +33,7 @@ VermilionCity_House1_EventScript_NoRoomForOldRod::
 	end
 
 VermilionCity_House1_Text_ImFishingGuruDoYouLikeToFish::
-	.string "Ich bin der PROFIANGLER!\p"
+	.string "Ich bin der Profiangler!\p"
 	.string "Ich liebe den Angelsport!\p"
 	.string "Angelst du auch gerne?$"
 
@@ -43,8 +43,8 @@ VermilionCity_House1_Text_TakeThisAndFish::
 	.string "Nimm das hier und gehe angeln!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "{PLAYER} received an OLD ROD from\n"
-	.string "the FISHING GURU.$"
+	.string "{PLAYER} received an Old Rod from\n"
+	.string "the Fishing Guru.$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
 	.string "Angeln ist meine Leidenschaft!\p"

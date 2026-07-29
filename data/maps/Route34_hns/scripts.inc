@@ -3,11 +3,11 @@ Route34_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route34_OnTransition: 
+Route34_OnTransition:
 	specialvar VAR_RESULT, GetDaycareState
 	call_if_eq VAR_RESULT, DAYCARE_EGG_WAITING, Route34_MapScript_EggReady
 	callnative SetTimeBasedEncounters
-	end	
+	end
 
 Route34_MapScript_EggReady::
 	setobjectxyperm LOCALID_ROUTE34_DAYCAREMAN, 30, 34
@@ -102,7 +102,7 @@ Route34_EventScript_Item_SoftSand::
 Route34_EventScript_Item_RareCandy::
 	finditem ITEM_RARE_CANDY
 	end
-	
+
 Route34_EventScript_Item_Embargo::
     finditem ITEM_TM_EMBARGO
     end
@@ -117,7 +117,7 @@ Route34_Text_YoungsterSamuel_Beaten:
 Route34_Text_YoungsterSamuel_After:
 	.string "Ich werde noch härter trainieren.\p"
 	.string "Ich möchte doch\n"
-	.string "ein ARENALEITER werden.$"
+	.string "ein Arenaleiter werden.$"
 
 Route34_Text_YoungsterIan_Seen:
 	.string "In meiner Klasse bin ich\n"
@@ -143,13 +143,12 @@ Route34_Text_CamperTodd_After:
 
 Route34_Text_ToddRegister:
     .string "Vielleicht sollte ich eines in die\n"
-    .string "PENSION bringen oder ein paar\l"
+    .string "Pension bringen oder ein paar\l"
     .string "Items einsetzen…$"
 
 Route34_Text_ToddRematchIntro:
-    .string "Ich bin überzeugt von meinen\n"
-    .string "Fähigkeiten als POKéMON-ZÜCHTER.\p"
-    .string "Willst du sie sehen?$"
+	.string "Ich vertraue meinen Fähigkeiten als\n"
+	.string "Trainer. Möchtest du dich überzeugen?$"
 
 Route34_Text_ToddRematchDefeat:
     .string "Habe ich beim Training etwas\n"
@@ -157,7 +156,7 @@ Route34_Text_ToddRematchDefeat:
 
 Route34_Text_ToddPostRematch:
     .string "Vielleicht sollte ich eines in die\n"
-    .string "PENSION bringen oder ein paar\l"
+    .string "Pension bringen oder ein paar\l"
     .string "Items einsetzen…$"
 
 Route34_Text_PicnickerGina_Seen:
@@ -209,15 +208,15 @@ Route34_Text_Sign_IlexForest:
 	.string "der Steineichenwald.$"
 
 Route34_Text_Sign_Route34:
-	.string "ROUTE 34\n"
+	.string "Route 34\n"
 	.string "Dukatia City - Azalea City\p"
 	.string "Steineichenwald dazwischen$"
 
 Route34_Text_TrainerTips:
-	.string "TIPPS für TRAINER\p"
-	.string "Bäume mit BEEREN\n"
-	.string "tragen jeden Tag neue BEEREN.\p"
-	.string "Merke dir, welche BEEREN\n"
+	.string "Tipps für Trainer\p"
+	.string "Bäume mit Beeren\n"
+	.string "tragen jeden Tag neue Beeren.\p"
+	.string "Merke dir, welche Beeren\n"
 	.string "an den Bäumen wachsen.$"
 
 Route34_Text_CooltrainerIrene_Seen:
@@ -233,7 +232,7 @@ Route34_Text_CooltrainerIrene_After1:
 	.string "Schwester Edna kennenlernst!$"
 
 Route34_Text_CooltrainerIrene_After2:
-	.string "LOLA: Ist dieser\n"
+	.string "Lola: Ist dieser\n"
 	.string "Strand nicht herrlich?\p"
 	.string "Er ist unsere geheime Zuflucht!$"
 
@@ -250,7 +249,7 @@ Route34_Text_CooltrainerJenn_After1:
 	.string "Meine Schwester Edna ist sehr stark!$"
 
 Route34_Text_CooltrainerJenn_After2:
-	.string "ELSE: Sonnenlicht\n"
+	.string "Else: Sonnenlicht\n"
 	.string "kräftigt deinen Körper.$"
 
 Route34_Text_CooltrainerKate_Seen:
@@ -275,5 +274,5 @@ Route34_Text_CooltrainerKate_After:
 
 
 Route34_Text_Sign_DayCare:
-	.string "PENSION\p"
+	.string "Pension\p"
 	.string "Wir kümmern uns um deine Pokémon!$"

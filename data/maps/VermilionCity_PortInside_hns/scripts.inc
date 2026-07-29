@@ -9,7 +9,7 @@ VermilionPortIndoor_EventScript_Nerd::
 	end
 
 VermilionPortPassage_Text_Teacher:
-	.string "Das SCHNELLBOOT\n"
+	.string "Das Schnellboot\n"
 	.string "fährt immer mittwochs und sonntags.$"
 
 VermilionPort_Text_SuperNerd:
@@ -98,7 +98,7 @@ VermilionPort_EventScript_ChoseFarawayIsland::
 	warpsilent MAP_FARAWAY_ISLAND_ENTRANCE_HNS, 13, 38
 	waitstate
 	release
-	end	
+	end
 
 VermilionPort_EventScript_ChoseBattleFrontier::
 	closemessage
@@ -107,7 +107,7 @@ VermilionPort_EventScript_ChoseBattleFrontier::
 	warpsilent MAP_BATTLE_FRONTIER_OUTSIDE_WEST_HNS, 20, 67
 	waitstate
 	release
-	end	
+	end
 
 VermilionPort_EventScript_Sailor_MaidenVoyage::
 	msgbox VermilionPort_Text_FlashTicket, MSGBOX_DEFAULT
@@ -192,20 +192,20 @@ VermilionPort_Text_WhereSail:
 
 VermilionPort_Text_AskBoard:
 	.string "Willkommen auf \n"
-	.string "dem SCHNELLBOOT M.S. AQUA.\p"
+	.string "dem Schnellboot M.S. Aqua.\p"
 	.string "Trittst du heute deine Reise an?$"
 
 VermilionPort_Text_AskTicket:
-	.string "Zeige mir bitte dein BOOTSTICKET!$"
+	.string "Zeige mir bitte dein Bootsticket!$"
 
 VermilionPort_Text_ComeAgain:
-	.string "Komm jederzeit wieder vorbei!$"
+	.string "Komm bald wieder!$"
 
 VermilionPort_Text_FlashTicket:
-	.string "Zeige mir bitte dein BOOTSTICKET!$"
+	.string "Zeige mir bitte dein Bootsticket!$"
 
 VermilionPort_Text_NoTicket:
-	.string "{PLAYER} sucht das BOOTSTICKET…\p"
-	.string "…Kein TICKET!\p"
+	.string "{PLAYER} sucht das Bootsticket…\p"
+	.string "…Kein Ticket!\p"
 	.string "Tut mir Leid! Du darfst nur\p"
-	.string "mit TICKET an Bord.$"
+	.string "mit Ticket an Bord.$"

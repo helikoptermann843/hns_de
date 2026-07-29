@@ -244,21 +244,21 @@ Route118_EventScript_Deandre::
 	end
 
 Route118_Text_StevenQuestions:
-	.string "TROY: Hi {PLAYER}{KUN}!\p"
-	.string "Ich bin’s, TROY!\n"
+	.string "Troy: Hi {PLAYER}{KUN}!\p"
+	.string "Ich bin’s, Troy!\n"
 	.string "Wir haben uns in der Höhle in der Nähe\l"
-	.string "von FAUSTAUHAVEN getroffen.\p"
-	.string "Hast du seitdem viele POKéMON\n"
+	.string "von Faustauhaven getroffen.\p"
+	.string "Hast du seitdem viele Pokémon\n"
 	.string "gesehen?\p"
 	.string "In dieser großen Welt gibt es viele\n"
-	.string "verschiedene Arten von POKéMON.\p"
+	.string "verschiedene Arten von Pokémon.\p"
 	.string "Wenn du nur deine Lieblings-\n"
-	.string "POKéMON aufziehst, ist das völlig\l"
+	.string "Pokémon aufziehst, ist das völlig\l"
 	.string "in Ordnung.\p"
 	.string "Aber vielleicht findest du es ja\n"
 	.string "auch spannender, unterschiedliche\l"
-	.string "POKéMON aufzuziehen.\p"
-	.string "Was denkst du als TRAINER darüber?\p"
+	.string "Pokémon aufzuziehen.\p"
+	.string "Was denkst du als Trainer darüber?\p"
 	.string "Okay, das geht mich eigentlich\n"
 	.string "gar nichts an.\p"
 	.string "Nun, ich hoffe, wir sehen uns bald\n"
@@ -266,13 +266,13 @@ Route118_Text_StevenQuestions:
 
 Route118_Text_YouAgreeGoodRodIsGood:
 	.string "Hmm!\n"
-	.string "Eine PROFIANGEL ist wirklich gut!\p"
+	.string "Eine Profiangel ist wirklich gut!\p"
 	.string "Meinst du nicht auch?$"
 
 Route118_Text_IdenticalMindsTakeThis:
 	.string "Hmm!\n"
 	.string "Da sind wir ja der gleichen Meinung!\p"
-	.string "Hmm! Ich schenke dir diese PROFIANGEL!$"
+	.string "Hmm! Ich schenke dir diese Profiangel!$"
 
 Route118_Text_TryYourLuckFishing:
 	.string "Wo immer du Wasser findest, versuche\n"
@@ -283,21 +283,21 @@ Route118_Text_DontYouLikeToFish:
 
 Route118_Text_TryCatchingMonWithGoodRod:
 	.string "Versuche, alle möglichen Arten von\n"
-	.string "POKéMON mit der PROFIANGEL zu fangen.$"
+	.string "Pokémon mit der Profiangel zu fangen.$"
 
 Route118_Text_CanCrossRiversWithSurf:
 	.string "Auch wenn gerade kein Schiff in der\n"
-	.string "Nähe ist, kannst du mit einem POKéMON,\l"
-	.string "das SURFER kennt, das Meer überqueren.\n"
+	.string "Nähe ist, kannst du mit einem Pokémon,\l"
+	.string "das Surfer kennt, das Meer überqueren.\n"
 	.string "\p"
-	.string "Auf POKéMON kann man sich immer\n"
+	.string "Auf Pokémon kann man sich immer\n"
 	.string "verlassen!$"
 
 Route118_Text_RouteSignMauville:
-	.string "ROUTE 118\n"
-	.string "{LEFT_ARROW} MALVENFROH CITY$"
+	.string "Route 118\n"
+	.string "{LEFT_ARROW} Malvenfroh City$"
 
 Route118_Text_RouteSign119:
-	.string "ROUTE 118\n"
-	.string "{UP_ARROW} ROUTE 119$"
+	.string "Route 118\n"
+	.string "{UP_ARROW} Route 119$"
 

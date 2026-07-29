@@ -3,7 +3,7 @@ Route8_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route8_OnTransition: 
+Route8_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -58,7 +58,7 @@ Route8_Text_BikerHarrisAfter:
 
 Route8_Text_BikerZekeSeen:
 	.string "Wir sind die\n"
-	.string "Pokémon-TRAINERGILDE aus KANTO! Nimm\l"
+	.string "Pokémon-Trainergilde aus Kanto! Nimm\l"
 	.string "dich in Acht!$"
 
 Route8_Text_BikerZekeBeaten:
@@ -74,7 +74,7 @@ Route8_Text_SupernerdSamSeen:
 	.string "dieser Magnetzug funktioniert!$"
 
 Route8_Text_SupernerdSamBeaten:
-	.string "Ich möchte nur den MAGNETZUG sehen…$"
+	.string "Ich möchte nur den Magnetzug sehen…$"
 
 Route8_Text_SupernerdSamAfter:
 	.string "Die Kraft von Magneten\n"

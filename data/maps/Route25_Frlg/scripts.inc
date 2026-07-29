@@ -17,10 +17,10 @@ Route25_Text_JoeyDefeat::
 	.string "Du bist richtig gut!$"
 
 Route25_Text_JoeyPostBattle::
-	.string "Jedes POKéMON hat seine\n"
+	.string "Jedes Pokémon hat seine\n"
 	.string "Schwächen!\p"
 	.string "Man sollte daher unterschiedliche\n"
-	.string "POKéMON trainieren.$"
+	.string "Pokémon trainieren.$"
 
 Route25_Text_DanIntro::
 	.string "Ich habe in Orania City mit\n"
@@ -101,7 +101,7 @@ Route25_Text_NobDefeat::
 
 Route25_Text_NobPostBattle::
 	.string "Dieser Sammler besitzt viele\n"
-	.string "seltene POKéMON.$"
+	.string "seltene Pokémon.$"
 
 Route25_Text_WayneIntro::
 	.string "Du möchtest zu Bill?\n"
@@ -115,12 +115,12 @@ Route25_Text_WaynePostBattle::
 	.string "Abkürzung nach Azuria City.$"
 
 Route25_Text_SeaCottageSign::
-	.string "KÜSTENHAUS\n"
-	.string "Hier wohnt BILL!$"
+	.string "Küstenhaus\n"
+	.string "Hier wohnt Bill!$"
 
 Route25_Text_MistyHighHopesAboutThisPlace::
 	.string "Das Kap ist beliebt bei Pärchen.\p"
-	.string "Die ARENALEITERIN MISTY hat hohe\n"
+	.string "Die Arenaleiterin Misty hat hohe\n"
 	.string "Erwartungen an diesen Ort.$"
 
 Route25_Text_AreYouHereAlone::

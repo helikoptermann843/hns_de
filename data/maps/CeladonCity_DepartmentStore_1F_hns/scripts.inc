@@ -19,25 +19,25 @@ CeladonDept1_EventScript_Directory::
     end
 
 CeladonDeptStore_Text_1FReceptionist:
-	.string "Hallo! Willkommen im PRISMANIA\n"
-	.string "KAUFHAUS!\p"
+	.string "Hallo! Willkommen im Prismania\n"
+	.string "Kaufhaus!\p"
 	.string "Das Verzeichnis findest du\n"
 	.string "an der Wand.$"
 
 CeladonDeptStore_Text_1FGentleman:
-	.string "Dieses KAUFHAUS gehört zur selben\n"
+	.string "Dieses Kaufhaus gehört zur selben\n"
 	.string "Kette wie das in Dukatia City.\p"
 	.string "Beide wurden gleichzeitig renoviert.$"
 
 CeladonDeptStore_Text_1FTeacher:
-	.string "Ich bin das erste Mal hier.\p"
-	.string "Es ist so groß…\p"
-	.string "Ich fürchte, ich werde mich verlaufen.$"
+	.string "Ich bin zum ersten Mal hier… Das\n"
+	.string "Gebäude ist so groß, dass ich fast\l"
+	.string "Angst habe, mich zu verlaufen.$"
 
 CeladonDeptStore_Text_1FDirectory:
-	.string "EG: KUNDEN INFORMATION\p"
-	.string "1F: TRAINER ZUBEHÖR\p"
-	.string "2F: TM-LADEN\p"
-	.string "3F: GESCHENKARTIKEL\p"
-	.string "4F: DROGERIE\p"
-	.string "5F: DACHTERRASSE$"
+	.string "EG: Kunden Information\p"
+	.string "1F: Trainer Zubehör\p"
+	.string "2F: TM-Laden\p"
+	.string "3F: Geschenkartikel\p"
+	.string "4F: Drogerie\p"
+	.string "5F: Dachterrasse$"

@@ -167,7 +167,7 @@ SaffronCity_Dojo_Text_ChoosePrizedFightingMon::
 	.string "Emblem nicht als Trophäe\l"
 	.string "mitzunehmen!\p"
 	.string "Zum Ersatz gebe ich dir ein\n"
-	.string "preisgekröntes KAMPF-POKéMON!\p"
+	.string "preisgekröntes Kampf-Pokémon!\p"
 	.string "Wähle eines von beiden aus!$"
 
 SaffronCity_Dojo_Text_StayAndTrainWithUs::
@@ -227,15 +227,15 @@ SaffronCity_Dojo_Text_HitoshiPostBattle::
 	.string "trainieren hier!$"
 
 SaffronCity_Dojo_Text_YouWantHitmonlee::
-	.string "Möchtest du KICKLEE, das\n"
-	.string "trittstarke POKéMON?$"
+	.string "Möchtest du Kicklee, das\n"
+	.string "trittstarke Pokémon?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
 	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from the KARATE MASTER.$"
+	.string "from the Karate Master.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
-	.string "Möchtest du NOCKCHAN, den Meister\n"
+	.string "Möchtest du Nockchan, den Meister\n"
 	.string "des Boxkampfs?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
@@ -243,7 +243,7 @@ SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster2::
 	.string "{STR_VAR_1}を　もらった！$"
 
 SaffronCity_Dojo_Text_BetterNotGetGreedy::
-	.string "Er sagte EIN POKéMON...$"
+	.string "Er sagte ein Pokémon...$"
 
 SaffronCity_Dojo_Text_EnemiesOnEverySide::
 	.string "Überall Gegner!$"
@@ -252,5 +252,5 @@ SaffronCity_Dojo_Text_GoesAroundComesAround::
 	.string "Wie die Saat, so die Ernte!$"
 
 SaffronCity_Dojo_Text_FightingDojo::
-	.string "KAMPFARENA$"
+	.string "Kampfarena$"
 

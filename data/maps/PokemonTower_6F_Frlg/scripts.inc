@@ -77,12 +77,12 @@ PokemonTower_6F_Text_JenniferPostBattle::
 	.string "Du hast nicht genug Geld.$"
 
 PokemonTower_6F_Text_BeGoneIntruders::
-	.string "BERNSTEIN ist versteinertes\n"
+	.string "Bernstein ist versteinertes\n"
 	.string "Baumharz.$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
 	.string "The ghost was the restless spirit\n"
-	.string "of CUBONE's mother!$"
+	.string "of Cubone's mother!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
 	.string "Ihre Seele hat Frieden gefunden.\p"

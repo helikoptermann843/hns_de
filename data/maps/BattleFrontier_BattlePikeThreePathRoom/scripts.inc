@@ -342,11 +342,11 @@ BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
 	.string "mit dem Weg dort links…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon:
-	.string "Der typische Duft von POKéMON scheint\n"
+	.string "Der typische Duft von Pokémon scheint\n"
 	.string "dort vorhanden zu sein…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople:
-	.string "Ist das ein… TRAINER? Ich\n"
+	.string "Ist das ein… Trainer? Ich\n"
 	.string "spüre die Anwesenheit von Menschen…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:

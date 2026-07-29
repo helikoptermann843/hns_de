@@ -16,7 +16,7 @@ SSAnne_B1F_Room4_Text_LeonardIntro::
 	.string "kämpfen!$"
 
 SSAnne_B1F_Room4_Text_LeonardDefeat::
-	.string "JA!\n"
+	.string "Ja!\n"
 	.string "Was für ein Kampf!!!$"
 
 SSAnne_B1F_Room4_Text_LeonardPostBattle::

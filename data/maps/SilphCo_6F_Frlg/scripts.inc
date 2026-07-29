@@ -92,42 +92,42 @@ SilphCo_6F_EventScript_Grunt2::
 
 SilphCo_6F_Text_RocketsTookOverBuilding::
 	.string "Du hast keine Chance!\n"
-	.string "Ich bin POKéMON-Profi!$"
+	.string "Ich bin Pokémon-Profi!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
-	.string "Entwickelt sich QUAPSEL dreimal?$"
+	.string "Entwickelt sich Quapsel dreimal?$"
 
 SilphCo_6F_Text_HelpMePlease::
-	.string "Ich setze mit Vorliebe FEUER-\n"
-	.string "POKéMON ein!$"
+	.string "Ich setze mit Vorliebe Feuer-\n"
+	.string "Pokémon ein!$"
 
 SilphCo_6F_Text_WeGotEngaged::
 	.string "Wir sind verlobt!$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-	.string "Ich weiß, warum PYRO ein TRAINER\n"
+	.string "Ich weiß, warum Pyro ein Trainer\n"
 	.string "geworden ist!$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
 	.string "Unterscheiden sich zwei gleiche\n"
-	.string "POKéMON mit gleichem Level?$"
+	.string "Pokémon mit gleichem Level?$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-	.string "Ich war in vielen POKéMON-ARENEN,\n"
+	.string "Ich war in vielen Pokémon-Arenen,\n"
 	.string "doch diese mag ich am liebsten!$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
-	.string "Du hast das TEAM ROCKET in die\n"
+	.string "Du hast das Team Rocket in die\n"
 	.string "Flucht geschlagen!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
 	.string "Ich war ein Dieb! Doch nun bin ich\n"
-	.string "ein ehrenhafter TRAINER!$"
+	.string "ein ehrenhafter Trainer!$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
 	.string "Wir würden uns sehr freuen, wenn\n"
 	.string "du später einmal für die\l"
-	.string "SILPH CO. arbeiten würdest!$"
+	.string "Silph Co. arbeiten würdest!$"
 
 SilphCo_6F_Text_Grunt1Intro::
 	.string "Ich bin einer der vier berüchtigten\n"
@@ -138,8 +138,8 @@ SilphCo_6F_Text_Grunt1Defeat::
 	.string "Ich bin raus!$"
 
 SilphCo_6F_Text_Grunt1PostBattle::
-	.string "Der Gründer des LABORATORIUMS,\n"
-	.string "DR. FUJI!$"
+	.string "Der Gründer des Laboratoriums,\n"
+	.string "Dr. Fuji!$"
 
 SilphCo_6F_Text_TaylorIntro::
 	.string "Dieser verdammte Präsident!\p"
@@ -165,6 +165,6 @@ SilphCo_6F_Text_Grunt2PostBattle::
 	.string "bist, bekämpfst du das Böse!$"
 
 SilphCo_6F_Text_FloorSign::
-	.string "SILPH CO. HAUPTSITZ\n"
-	.string "5 OG$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "5 Og$"
 

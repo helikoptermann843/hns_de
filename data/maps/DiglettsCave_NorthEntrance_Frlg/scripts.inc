@@ -6,8 +6,8 @@ DiglettsCave_NorthEntrance_EventScript_Hiker::
 	end
 
 DiglettsCave_NorthEntrance_RockTunnelPitchBlack::
-	.string "Im FELSTUNNEL ist es stockdunkel\n"
+	.string "Im Felstunnel ist es stockdunkel\n"
 	.string "und furchtbar gruselig!\p"
-	.string "Wenn nur ein POKéMON mit einem\n"
-	.string "BLITZ für Licht sorgen könnte...$"
+	.string "Wenn nur ein Pokémon mit einem\n"
+	.string "Blitz für Licht sorgen könnte...$"
 

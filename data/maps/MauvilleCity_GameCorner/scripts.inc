@@ -627,22 +627,22 @@ MauvilleCity_GameCorner_EventScript_NoCoinCase::
 	end
 
 MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
-	.string "Willkommen in unserer SPIELHALLE.$"
+	.string "Willkommen in unserer Spielhalle.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, du möchtest MÜNZEn für die\n"
+	.string "Okay, du möchtest Münzen für die\n"
 	.string "Spiele haben?\p"
-	.string "Aber du hast keinen MÜNZKORB für die\n"
-	.string "MÜNZEn.$"
+	.string "Aber du hast keinen Münzkorb für die\n"
+	.string "Münzen.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
-	.string "Suchst du nach MÜNZEN?\p"
-	.string "Das macht ¥1000 für 50 MÜNZEn.\n"
+	.string "Suchst du nach Münzen?\p"
+	.string "Das macht ¥1000 für 50 Münzen.\n"
 	.string "Möchtest du welche haben?$"
 
 MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins:
 	.string "Vielen Dank!\n"
-	.string "Hier sind deine MÜNZEn!$"
+	.string "Hier sind deine Münzen!$"
 
 MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 	.string "Ähm… Es scheint, du hast nicht\n"
@@ -651,12 +651,12 @@ MauvilleCity_GameCorner_Text_DontHaveEnoughMoney:
 MauvilleCity_GameCorner_Text_CoinCaseIsFull:
 
 MauvilleCity_GameCorner_Text_DontNeedCoinsThen:
-	.string "Oh… Dann brauchst du keine MÜNZEn?\n"
+	.string "Oh… Dann brauchst du keine Münzen?\n"
 	.string "Viel Glück bei deinem Abenteuer!$"
 
 MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes:
 	.string "Willkommen.\p"
-	.string "Hier kannst du deine MÜNZEn gegen\n"
+	.string "Hier kannst du deine Münzen gegen\n"
 	.string "Preise eintauschen.$"
 
 MauvilleCity_GameCorner_Text_WhichPrize:
@@ -670,7 +670,7 @@ MauvilleCity_GameCorner_Text_SendToYourHomePC:
 	.string "Danke! Wir senden das auf deinen PC.$"
 
 MauvilleCity_GameCorner_Text_NotEnoughCoins:
-	.string "Du hast nicht genügend MÜNZEn.$"
+	.string "Du hast nicht genügend Münzen.$"
 
 @ Unused
 MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
@@ -679,7 +679,7 @@ MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor:
 
 MauvilleCity_GameCorner_Text_OhIsThatSo:
 	.string "Oh, wirklich?\n"
-	.string "Du musst einige MÜNZEn sparen, bevor\l"
+	.string "Du musst einige Münzen sparen, bevor\l"
 	.string "du wiederkommst.$"
 
 MauvilleCity_GameCorner_Text_SoYourChoiceIsX:
@@ -695,7 +695,7 @@ MauvilleCity_GameCorner_Text_CantCarryAnyMore:
 
 MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne:
 	.string "Ich habe mich vertan und zweimal die\n"
-	.string "gleiche PUPPE genommen.\p"
+	.string "gleiche Puppe genommen.\p"
 	.string "Möchtest du eine davon haben?$"
 
 MauvilleCity_GameCorner_Text_HereYouGo2:
@@ -716,25 +716,25 @@ MauvilleCity_GameCorner_Text_CantWinJackpot:
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor:
 	.string "Hey, Kindchen, wenn du hier spielen\n"
-	.string "willst, brauchst du einen MÜNZKORB.\p"
+	.string "willst, brauchst du einen Münzkorb.\p"
 	.string "Ich glaube, die junge Dame nebenan hat\n"
 	.string "einen. Besuche sie mal!$"
 
 MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins:
 	.string "Mein Glück wird nicht immer anhalten.\n"
 	.string "Das ist zu viel für mich.\l"
-	.string "Hier, nimm die MÜNZEn!$"
+	.string "Hier, nimm die Münzen!$"
 
 MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone:
-	.string "Immer, wenn ich in MALVENFROH CITY\n"
-	.string "bin, gehe ich in die SPIELHALLE.\p"
-	.string "MALVENFROH CITY bringt mir einfach\n"
+	.string "Immer, wenn ich in Malvenfroh City\n"
+	.string "bin, gehe ich in die Spielhalle.\p"
+	.string "Malvenfroh City bringt mir einfach\n"
 	.string "Glück.$"
 
 MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates:
-	.string "Beim ROULETTE gibt es verschiedene\n"
+	.string "Beim Roulette gibt es verschiedene\n"
 	.string "Einsatzhöhen.\p"
-	.string "Überprüf deine MÜNZEn, bevor du dich\n"
+	.string "Überprüf deine Münzen, bevor du dich\n"
 	.string "für einen Tisch entscheidest.$"
 
 MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
@@ -743,42 +743,42 @@ MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime:
 	.string "Ich sollte wieder an die Arbeit gehen.$"
 
 MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay:
-	.string "MÜNZEn werden gebraucht, um hier in\n"
-	.string "der SPIELHALLE spielen zu können.$"
+	.string "Münzen werden gebraucht, um hier in\n"
+	.string "der Spielhalle spielen zu können.$"
 
 MauvilleCity_GameCorner_Text_RouletteOnlyLuck:
-	.string "Dieses ROULETTE-Dingens…\n"
+	.string "Dieses Roulette-Dingens…\n"
 	.string "Es ist ziemlich anstrengend.\p"
 	.string "Ich versuche, zu gewinnen. Aber ich\n"
 	.string "verliere immer. Doch ich gebe nicht\l"
 	.string "auf.$"
 
 MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed:
-	.string "Bis zu drei MÜNZEn können an den EIN-\n"
-	.string "ARMIGEN BANDITen eingesetzt werden.\p"
-	.string "Je mehr MÜNZEn du einsetzt, desto\n"
+	.string "Bis zu drei Münzen können an den ein-\n"
+	.string "armigen Banditen eingesetzt werden.\p"
+	.string "Je mehr Münzen du einsetzt, desto\n"
 	.string "höher ist deine Chance auf den\l"
 	.string "Jackpot.$"
 
 MauvilleCity_GameCorner_Text_DifficultToStopOn7:
 	.string "Kannst du es genau bei “7” stoppen?\p"
 	.string "Wenn es bei “7” stoppt,\n"
-	.string "während ein REEL TIME gespielt wird,\l"
-	.string "erhältst du Extra-MÜNZEn.$"
+	.string "während ein Reel Time gespielt wird,\l"
+	.string "erhältst du Extra-Münzen.$"
 
 MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo:
 	.string "Ich kann dir einige nützliche Tipps zu\n"
-	.string "den EINARMIGEN BANDITen geben.\p"
+	.string "den einarmigen Banditen geben.\p"
 	.string "Je mehr Blitze du anhältst, desto\n"
-	.string "größer die Chance auf ein REEL TIME,\l"
+	.string "größer die Chance auf ein Reel Time,\l"
 	.string "eine Glücksrunde!\p"
 	.string "In einem Spiel mit fünf möglichen\n"
 	.string "Glücksrunden…\p"
 	.string "ist es möglich, vier reguläre Boni und\n"
 	.string "dann einen Big Bonus zu gewinnen.\p"
-	.string "Das ergibt zusammen 660 MÜNZEn,\n"
+	.string "Das ergibt zusammen 660 Münzen,\n"
 	.string "aber ist sehr schwer zu gewinnen.$"
 
 MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase:
-	.string "Du kannst ohne MÜNZKORB nicht spielen.$"
+	.string "Du kannst ohne Münzkorb nicht spielen.$"
 

@@ -45,19 +45,19 @@ Route27_Movement_FollowerJump:
 
 SandstormHouse_Text_Woman1:
 	.string "Wohin möchtest du mit den Pokémon?\p"
-	.string "Zur Pokémon LIGA?\p"
+	.string "Zur Pokémon Liga?\p"
 	.string "Sind deine Pokémon\n"
 	.string "loyal genug, um zu gewinnen?\p"
 	.string "Ich werde das überprüfen…$"
 
 SandstormHouse_Text_LoyalMon:
-	.string "Ah! Deine Pokémon vertrauen dir blind.\p"
-	.string "Es ist schön, einen guten\n"
-	.string "Trainer zu treffen.\p"
-	.string "Hier, ein Geschenk für deine Reise.$"
+	.string "Oh, deine Pokémon vertrauen dir\n"
+	.string "wirklich! Ich freue mich immer, wenn ich\l"
+	.string "einem guten Trainer begegne. Hier, ein\l"
+	.string "kleines Abschiedsgeschenk! Nimm nur!$"
 
 SandstormHouse_Text_TM37Description:
-	.string "TM37 enthält SANDSTURM.\p"
+	.string "TM37 enthält Sandsturm.\p"
 	.string "Diese Attacke fügt\n"
 	.string "beiden Kämpfern Schaden zu.\p"
 	.string "Nur erfahrene Trainer\n"
@@ -66,10 +66,9 @@ SandstormHouse_Text_TM37Description:
 	.string "wenn du dich traust! Viel Glück!$"
 
 SandstormHouse_Text_DisloyalMon:
-	.string "Falls es dir nicht mehr Vertrauen\n"
-	.string "schenkt, wird es schwer für dich.\p"
-	.string "Vertrauen ist der Bund\n"
-	.string "zwischen Pokémon und den\l"
-	.string "Trainern.$"
+	.string "Wenn du nicht für mehr Vertrauen unter\n"
+	.string "euch sorgst, kannst du nicht gewinnen!\p"
+	.string "Vertrauen ist, was einen Trainer mit\n"
+	.string "seinen Pokémon verbindet!$"
 
 

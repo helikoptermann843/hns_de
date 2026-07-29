@@ -53,9 +53,9 @@ SootopolisCity_Mart_EventScript_GentlemanNoLegendaries::
 	end
 
 SootopolisCity_Mart_Text_PPUpIsGreat:
-	.string "AP-PLUS ist sehr nützlich!\p"
-	.string "Es steigert die ANGRIFFSPUNKTE, die\n"
-	.string "AP, einer POKéMON-Attacke.$"
+	.string "AP-Plus ist sehr nützlich!\p"
+	.string "Es steigert die Angriffspunkte, die\n"
+	.string "AP, einer Pokémon-Attacke.$"
 
 SootopolisCity_Mart_Text_TooScaryOutside:
 	.string "Was… Was ist passiert?\p"
@@ -63,7 +63,7 @@ SootopolisCity_Mart_Text_TooScaryOutside:
 	.string "ich trau mich nicht nach draußen.$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
-	.string "Kennst du TOP-GENESUNG?\p"
+	.string "Kennst du Top-Genesung?\p"
 	.string "Alle KP werden aufgefüllt! Alle\n"
 	.string "Statusprobleme werden aufgehoben!\p"
 	.string "Ein wundervolles Item!$"

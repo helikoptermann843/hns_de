@@ -89,7 +89,7 @@ GoldenrodCity_Gym_EventScript_WhitneyDefeated::
 	release
 	end
 
-GoldenrodCity_Gym_EventScript_Trigger::	
+GoldenrodCity_Gym_EventScript_Trigger::
 	turnobject LOCALID_GOLDENROD_CITY_GYM_BRIDGET DIR_WEST
 	msgbox GoldenrodCity_Gym_Text_BridgetWhitneyCries, MSGBOX_DEFAULT
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkUp1
@@ -115,10 +115,10 @@ GoldenrodCity_Gym_EventScript_Statue2::
 	end
 
 GoldenrodCity_Gym_Text_GymStatue:
-	.string "DUKATIA Pokémon Arena$"
+	.string "Dukatia Pokémon Arena$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
-	.string "DUKATIA CITY Pokémon Arena\p"
+	.string "Dukatia City Pokémon Arena\p"
 	.string "Bianka's zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
@@ -190,10 +190,10 @@ GoldenrodCity_Gym_Text_LassCarrieAfter:
 	.string "Denkt mein Pokémon, ich bin süß?$"
 
 GoldenrodCity_Gym_Text_LassBridgetSeen:
-	.string "Ich mag niedliche Pokémon lieber\n"
-	.string "als starke.\p"
-	.string "Aber ich habe starke und niedliche\n"
-	.string "Pokémon!$"
+	.string "Ich mag niedliche Pokémon lieber als\n"
+	.string "starke!\p"
+	.string "Aber die Pokémon in meinem Team sind\n"
+	.string "beides - niedlich und stark!$"
 
 GoldenrodCity_Gym_Text_LassBridgetBeaten:
 	.string "Oh, nein, nein, nein!$"
@@ -206,37 +206,40 @@ GoldenrodCity_Gym_Text_LassBridgetAfter:
 	.string "einfach härter!$"
 
 GoldenrodCity_Gym_Text_BridgetWhitneyCries:
-	.string "Oh nein. Du hast Bianka zum\n"
-	.string "Weinen gebracht.\p"
-	.string "Schon gut. Sie hört bald auf.\n"
-	.string "Sie weint immer, wenn sie verliert.$"
+	.string "Oh je, jetzt hast du Bianka zum Weinen\n"
+	.string "gebracht…\p"
+	.string "Aber keine Sorge, irgendwann gibt sie\n"
+	.string "schon wieder Ruhe. Sie weint immer, wenn\l"
+	.string "sie verliert.$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaSeen:
-	.string "Oh, du bist ein süßer Trainer!\p"
-	.string "Ich mag dich, aber ich halte mich\n"
-	.string "nicht zurück!$"
+	.string "Oh, du musst wohl noch etwas wachsen!\n"
+	.string "Du gefällst mir… Aber deshalb werde ich\l"
+	.string "es dir nicht einfacher machen!$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaBeaten:
-	.string "Mal sehen… Ups, vorbei?$"
+	.string "Mal sehen… Ups, schon vorbei?$"
 
 GoldenrodCity_Gym_Text_BeautyVictoriaAfter:
-	.string "Wow, du musst gut sein, um mich\n"
-	.string "zu schlagen! Weiter so!$"
+	.string "Wow, du musst gut sein, wenn du es\n"
+	.string "schaffst, mich zu schlagen. Mach weiter\l"
+	.string "so!$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaSeen:
-	.string "Gib dein Bestes, sonst pack ich\n"
-	.string "dich!$"
+	.string "Schlag ordentlich zu, sonst werde ich\n"
+	.string "es tun!$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaBeaten:
-	.string "Nein! Oh, Mauzi, tut mir leid!$"
+	.string "Oh nein! Mauzi, bitte verzeih mir!$"
 
 GoldenrodCity_Gym_Text_BeautySamanthaAfter:
-	.string "Ich habe Mauzi Tricks beigebracht,\n"
-	.string "um jeden Typ zu besiegen…$"
+	.string "Ich habe Mauzi die unterschiedlichsten\n"
+	.string "Attacken beigebracht, damit es gegen\l"
+	.string "jedes Pokémon besteht.$"
 
 GoldenrodCity_Gym_Text_GymGuide:
-	.string "Yo! CHAMP in spe!\p"
-	.string "In dieser PKMN-ARENA\n"
+	.string "Yo! Champ in spe!\p"
+	.string "In dieser Pkmn-Arena\n"
 	.string "warten Trainer mit Pokémon des\l"
 	.string "Typs Normal auf dich.\p"
 	.string "Ich rate dir,\n"

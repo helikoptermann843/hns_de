@@ -21,13 +21,13 @@ RustboroCity_House3_EventScript_Pekachu::
 	end
 
 RustboroCity_House3_Text_IGivePerfectlySuitedNicknames:
-	.string "Meinen eigenen POKéMON habe ich\n"
+	.string "Meinen eigenen Pokémon habe ich\n"
 	.string "perfekt passende Kosenamen gegeben!\p"
 	.string "Das ist mein Ausdruck von… äh…\n"
 	.string "Originalität. Genau! Originalität!$"
 
 RustboroCity_House3_Text_NamingPikachuPekachu:
-	.string "Aber ein PIKACHU einfach PEKACHU zu\n"
+	.string "Aber ein Pikachu einfach Pekachu zu\n"
 	.string "nennen? Das haut einen nicht gerade\l"
 	.string "vom Hocker.\p"
 	.string "Ich glaube ja auch, man sollte einen\n"
@@ -35,5 +35,5 @@ RustboroCity_House3_Text_NamingPikachuPekachu:
 	.string "wählen, aber irgendwie…$"
 
 RustboroCity_House3_Text_Pekachu:
-	.string "PEKACHU: Peka!$"
+	.string "Pekachu: Peka!$"
 

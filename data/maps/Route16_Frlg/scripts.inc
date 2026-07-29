@@ -112,8 +112,8 @@ Route16_Text_HideoDefeat::
 
 Route16_Text_HideoPostBattle::
 	.string "Man kann über eine Küstenstraße\n"
-	.string "von ORANIA CITY nach FUCHSANIA\l"
-	.string "CITY gelangen.$"
+	.string "von Orania City nach Fuchsania\l"
+	.string "City gelangen.$"
 
 Route16_Text_CamronIntro::
 	.string "Ich bin furchtbar gemein und\n"
@@ -138,16 +138,16 @@ Route16_Text_RubenPostBattle::
 	.string "bissigen Pokémon zu schikanieren!$"
 
 Route16_Text_MonSprawledOutInSlumber::
-	.string "Ein schlafendes POKéMON versperrt\n"
+	.string "Ein schlafendes Pokémon versperrt\n"
 	.string "den Weg!$"
 
 Route16_Text_CyclingRoadSign::
-	.string "RADWEG\n"
+	.string "Radweg\n"
 	.string "Gute Abfahrt!$"
 
 Route16_Text_RouteSign::
-	.string "ROUTE 16\n"
-	.string "PRISMANIA CITY - FUCHSANIA CITY$"
+	.string "Route 16\n"
+	.string "Prismania City - Fuchsania City$"
 
 Route16_Text_JedIntro::
 	.string "Uwe: Unsere Liebe kennt keine\n"
@@ -164,7 +164,7 @@ Route16_Text_JedPostBattle::
 	.string "konzentrieren.$"
 
 Route16_Text_JedNotEnoughMons::
-	.string "UWE: Du hast nur ein POKéMON?\n"
+	.string "Uwe: Du hast nur ein Pokémon?\n"
 	.string "Gibt es in deinem Herzen\l"
 	.string "keine Liebe?$"
 
@@ -181,7 +181,7 @@ Route16_Text_LeaPostBattle::
 	.string "Uwe ist so cool.$"
 
 Route16_Text_LeaNotEnoughMons::
-	.string "LENA: Oh, du hast keine zwei\n"
-	.string "POKéMON bei dir?\p"
+	.string "Lena: Oh, du hast keine zwei\n"
+	.string "Pokémon bei dir?\p"
 	.string "Fühlst du dich oder fühlt sich\n"
-	.string "dein POKéMON nicht einsam?$"
+	.string "dein Pokémon nicht einsam?$"

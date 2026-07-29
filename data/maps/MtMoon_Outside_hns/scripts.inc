@@ -140,10 +140,10 @@ MtMoon_Outside_EventScript_JirachiRan::
 
 
 MtMoon_Outside_Text_DontLitterSign:
-	.string "MONDBERG VORPLATZ$"
+	.string "Mondberg Vorplatz$"
 
 MtMoon_Outside_Text_Jirachi:
-    .string "JIRACHI: Chi!$"
+    .string "Jirachi: Chi!$"
 
 MtMoon_Outside_Text_Clefairy:
 	.string "Piepi: Pi pippippi!$"

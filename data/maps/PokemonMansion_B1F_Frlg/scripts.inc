@@ -52,8 +52,8 @@ PokemonMansion_B1F_Text_IvanPostBattle::
 	.string "Man kann prima forschen!$"
 
 PokemonMansion_B1F_Text_MewtwoIsFarTooPowerful::
-	.string "TAGEBUCH: 1. SEPTEMBER\n"
-	.string "MEWTU wird immer stärker.\p"
+	.string "Tagebuch: 1. September\n"
+	.string "Mewtu wird immer stärker.\p"
 	.string "Wir konnten die unkontrollierten\n"
 	.string "Wutausbrüche nicht eindämmen!$"
 

@@ -242,7 +242,7 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "ADRIAN: Was ist passiert… Was für\n"
+	.string "Adrian: Was ist passiert… Was für\n"
 	.string "ein Furcht erregendes Szenario…\p"
 	.string "Habe ich… einen schrecklichen Fehler\n"
 	.string "begangen?$"
@@ -251,8 +251,8 @@ Route128_Text_ArchieIOnlyWanted:
 	.string "Ich… Ich wollte doch nur…$"
 
 Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MARC: Begreifst du es nun,\n"
-	.string "ADRIAN?\p"
+	.string "Marc: Begreifst du es nun,\n"
+	.string "Adrian?\p"
 	.string "Begreifst du nun die schrecklichen\n"
 	.string "Folgen deines katastrophalen Traums?\p"
 	.string "Wir müssen uns beeilen! Wir müssen\n"
@@ -260,27 +260,27 @@ Route128_Text_MaxieDoYouUnderstandNow:
 	.string "völlig außer Kontrolle gerät!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MARC: {PLAYER}, sag jetzt nichts.\p"
+	.string "Marc: {PLAYER}, sag jetzt nichts.\p"
 	.string "Ich weiß, ich bin nicht der Richtige,\n"
-	.string "um ADRIAN zu kritisieren…\p"
+	.string "um Adrian zu kritisieren…\p"
 	.string "Aber wie die Dinge jetzt liegen,\n"
 	.string "werden\n"
 	.string "wir Menschen wohl nicht in der Lage\l"
 	.string "sein, etwas zu tun.\p"
 	.string "Aber wir dürfen auch nicht einfach\n"
 	.string "daneben stehen und zuschauen.\p"
-	.string "ADRIAN und ich haben die\n"
+	.string "Adrian und ich haben die\n"
 	.string "Verantwortung, dies alles zu\l"
 	.string "verändern…$"
 
 Route128_Text_MaxieThisDefiesBelief:
-	.string "MARC: Das ist ja unglaublich…\p"
-	.string "Ein super-antikes POKéMON…\p"
+	.string "Marc: Das ist ja unglaublich…\p"
+	.string "Ein super-antikes Pokémon…\p"
 	.string "Seine Kraft ist unglaublich. Es hat\n"
 	.string "das Gleichgewicht der Natur verändert.$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "TROY: {PLAYER}{KUN}!\n"
+	.string "Troy: {PLAYER}{KUN}!\n"
 	.string "Was geht hier vor?$"
 
 Route128_Text_StevenWholeWorldWillDrown:
@@ -288,14 +288,14 @@ Route128_Text_StevenWholeWorldWillDrown:
 	.string "Nach der sengenden Hitze kam die\n"
 	.string "Überschwemmung.\p"
 	.string "Wenn das nicht aufhört, wird ganz\n"
-	.string "HOENN… Nein, die ganze Welt wird\l"
+	.string "Hoenn… Nein, die ganze Welt wird\l"
 	.string "untergehen.\p"
-	.string "Von XENEROVILLE aus breitet sich eine\n"
+	.string "Von Xeneroville aus breitet sich eine\n"
 	.string "gigantische Regenwolke aus…\p"
 	.string "Was in aller Welt passiert da nur?\p"
 	.string "Aber wir sollten hier nicht die Zeit\n"
 	.string "mit Reden vertun…\p"
-	.string "In XENEROVILLE bekommen wir\n"
+	.string "In Xeneroville bekommen wir\n"
 	.string "hoffentlich Antworten…$"
 
 Route128_Text_StevenImGoingToSootopolis:
@@ -303,5 +303,5 @@ Route128_Text_StevenImGoingToSootopolis:
 	.string "Ich weiß nicht, was du vorhast, aber\n"
 	.string "tue\l"
 	.string "nichts Unüberlegtes.\p"
-	.string "Okay. Ich gehe nach XENEROVILLE.$"
+	.string "Okay. Ich gehe nach Xeneroville.$"
 

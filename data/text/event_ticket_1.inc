@@ -1,5 +1,5 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "Die Fähre nach GRAPHITPORT ist…\p"
+	.string "Die Fähre nach Graphitport ist…\p"
 	.string "Verzeihung? Ob wir zu diesem Ort, der\n"
 	.string "auf der Karte eingezeichnet ist,\l"
 	.string "fahren können?\p"
@@ -7,12 +7,12 @@ EventTicket_Text_ShowOldSeaMap:
 	.string "kann. Bitte warte einen Moment.$"
 
 EventTicket_Text_ThatPass:
-	.string "Die Fähre nach GRAPHITPORT CITY ist…\p"
+	.string "Die Fähre nach Graphitport City ist…\p"
 	.string "Oh!\n"
-	.string "Der FAHRSCHEIN…$"
+	.string "Der Fahrschein…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, Maat, hast du den alten FAHRSCHEIN\n"
+	.string "Aye, Maat, hast du den alten Fahrschein\n"
 	.string "mitgebracht?\p"
 	.string "Ich sage dir, du bist auf dem Weg zu\n"
 	.string "einer briefmarkengroßen Insel im Süden.\p"
@@ -24,7 +24,7 @@ EventTicket_Text_ShowEonTicket:
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Aye, Maat, auf dieser gottverlassenen\n"
 	.string "Insel gibt’s nichts zu sehen und zu tun.\p"
-	.string "Sollen wir nicht nach SEEGRASULB CITY\n"
+	.string "Sollen wir nicht nach Seegrasulb City\n"
 	.string "zurücksegeln?$"
 
 EventTicket_Text_SailHome:

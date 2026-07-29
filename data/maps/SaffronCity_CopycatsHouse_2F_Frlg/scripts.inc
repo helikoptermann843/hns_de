@@ -47,37 +47,37 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
-	.string "Der hitzköpfige PYRO ist ein\n"
-	.string "FEUER-POKéMON-Spezialist!\p"
+	.string "Der hitzköpfige Pyro ist ein\n"
+	.string "Feuer-Pokémon-Spezialist!\p"
 	.string "Du solltest sein Mütchen mit Wasser\n"
 	.string "kühlen!\p"
-	.string "Und besorge dir FEUERHEILER!$"
+	.string "Und besorge dir Feuerheiler!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 	.string "{PLAYER}: Hallo!\n"
-	.string "Magst du POKéMON?\p"
+	.string "Magst du Pokémon?\p"
 	.string "{PLAYER}: Halt, ich habe doch dich\n"
 	.string "gefragt.\p"
 	.string "{PLAYER}: Wie?\n"
 	.string "Du bist komisch!\p"
-	.string "NACHAHMERIN: Hmm? Ich soll die\n"
+	.string "Nachahmerin: Hmm? Ich soll die\n"
 	.string "Nachahmerei aufgeben?\p"
 	.string "Aber das ist doch mein Hobby!$"
 
 Text_MimicTeach::
 	.string "Wow!\n"
-	.string "Das ist ja eine POKéPUPPE!\p"
+	.string "Das ist ja eine Poképuppe!\p"
 	.string "Die ist für mich?\n"
 	.string "Vielen Dank!\p"
 	.string "Ich werde dafür einem deiner\n"
-	.string "POKéMON die Attacke MIMIKRY\l"
+	.string "Pokémon die Attacke Mimikry\l"
 	.string "beibringen!$"
 
 Text_MimicDeclined::
-	.string "Magst du MIMIKRY nicht?$"
+	.string "Magst du Mimikry nicht?$"
 
 Text_MimicWhichMon::
-	.string "Ich liebe MIMIKRY!\n"
+	.string "Ich liebe Mimikry!\n"
 	.string "Wer soll es erlernen?$"
 
 Text_MimicTaughtMale::
@@ -86,7 +86,7 @@ Text_MimicTaughtMale::
 	.string "{PLAYER}: Entschuldigung?\p"
 	.string "{PLAYER}: … macht es dir wirklich\n"
 	.string "so viel Spaß, mich nachzuahmen?\p"
-	.string "NACHAHMERIN: Darauf kannst du\n"
+	.string "Nachahmerin: Darauf kannst du\n"
 	.string "wetten! Es ist grandios!$"
 
 Text_MimicTaughtFemale::
@@ -95,26 +95,26 @@ Text_MimicTaughtFemale::
 	.string "{PLAYER}: Entschuldigung?\p"
 	.string "{PLAYER}: … macht es dir wirklich\n"
 	.string "so viel Spaß, mich nachzuahmen?\p"
-	.string "NACHAHMERIN: Darauf kannst du\n"
+	.string "Nachahmerin: Darauf kannst du\n"
 	.string "wetten! Es ist grandios!$"
 
 SaffronCity_CopycatsHouse_2F_Text_Doduo::
-	.string "DODU: Giegie!\p"
-	.string "SPIEGLEIN, SPIEGLEIN AN DER\n"
-	.string "WAND, WER IST DIE SCHÖNSTE IM\l"
-	.string "GANZEN LAND?$"
+	.string "Dodu: Giegie!\p"
+	.string "Spieglein, Spieglein an der\n"
+	.string "Wand, wer ist die Schönste im\l"
+	.string "Ganzen Land?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "PONITA und VULNONA sind die\n"
-	.string "Lieblings-POKéMON aller Pyromanen!$"
+	.string "Ponita und Vulnona sind die\n"
+	.string "Lieblings-Pokémon aller Pyromanen!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
-	.string "Ein Spiel mit MARIO!$"
+	.string "Ein Spiel mit Mario!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MySecrets::
 	.string "...\p"
 	.string "Meine Geheimnisse!\p"
 	.string "Zeitvertreib: Mienenspiel\n"
 	.string "Hobby: Puppen sammeln\l"
-	.string "Lieblings-POKéMON: PIEPI!$"
+	.string "Lieblings-Pokémon: Piepi!$"
 

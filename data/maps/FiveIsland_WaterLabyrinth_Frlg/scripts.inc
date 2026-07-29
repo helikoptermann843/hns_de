@@ -66,7 +66,7 @@ FiveIsland_WaterLabyrinth_EventScript_ReturnForEgg::
 FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
 	.string "Du reist überall hin, oder?\p"
 	.string "Aber du nimmst Rücksicht auf\n"
-	.string "deine POKéMON, oder?\p"
+	.string "deine Pokémon, oder?\p"
 	.string "Lass mich das überprüfen!\n"
 	.string "…………\l"
 	.string "……$"
@@ -77,13 +77,13 @@ FiveIsland_WaterLabyrinth_Text_HmmISeeIsee::
 
 FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
 	.string "Ah, wirklich beeindruckend.\n"
-	.string "Du behandelst deine POKéMON gut.\p"
+	.string "Du behandelst deine Pokémon gut.\p"
 	.string "Ich denke, ich kann dir das\n"
 	.string "überlassen.\p"
 	.string "Bitte, nimm dies!$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
-	.string "{PLAYER} received an EGG\n"
+	.string "{PLAYER} received an Egg\n"
 	.string "from the man!$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
@@ -98,7 +98,7 @@ FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
 	.string "きて　くれたんだね$"
 
 FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
-	.string "Ich habe das EI auf meinen Reisen\n"
+	.string "Ich habe das Ei auf meinen Reisen\n"
 	.string "bekommen.\p"
 	.string "Ich bin froh, jemanden wie dich\n"
 	.string "getroffen zu haben.$"
@@ -109,17 +109,17 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "Beim Betrachten fällt mir ein\n"
 	.string "kleines Mädchen ein, das\l"
 	.string "ich auf einer meiner Reisen traf.\p"
-	.string "Sie hat sich rührend um POKéMON\n"
+	.string "Sie hat sich rührend um Pokémon\n"
 	.string "gekümmert. Sie war ein Engel.\p"
 	.string "Der Name dieses kleinen Mädchens…\n"
-	.string "Ich glaube er lautete SARAH.$"
+	.string "Ich glaube er lautete Sarah.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeIntro::
 	.string "Dies ist die perfekte Umgebung,\n"
 	.string "um Pokémon zu trainieren.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
-	.string "Deine POKéMON sind bewundernswert\n"
+	.string "Deine Pokémon sind bewundernswert\n"
 	.string "trainiert.$"
 
 FiveIsland_WaterLabyrinth_Text_AlizePostBattle::

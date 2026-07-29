@@ -20,10 +20,10 @@ SootopolisCity_House3_EventScript_Girl::
 	end
 
 SootopolisCity_House3_Text_JuanHasManyFansDoYou:
-	.string "Du bist ein POKéMON-TRAINER, oder?\p"
-	.string "Der ARENALEITER von XENEROVILLE, \n"
-	.string "JUAN, hat viele Fans.\p"
-	.string "Mehr als sein Schüler WASSILI.\n"
+	.string "Du bist ein Pokémon-Trainer, oder?\p"
+	.string "Der Arenaleiter von Xeneroville, \n"
+	.string "Juan, hat viele Fans.\p"
+	.string "Mehr als sein Schüler Wassili.\n"
 	.string "Hast du auch Fans?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:
@@ -38,8 +38,8 @@ SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
 
 SootopolisCity_House3_Text_TrainerFanClubWasWild:
 	.string "Die Fans kommen auch von außerhalb\n"
-	.string "von HOENN herbeigeströmt.\p"
-	.string "Ich habe den TRAINER-FANCLUB in\n"
-	.string "SEEGRASULB CITY besucht.\l"
+	.string "von Hoenn herbeigeströmt.\p"
+	.string "Ich habe den Trainer-Fanclub in\n"
+	.string "Seegrasulb City besucht.\l"
 	.string "Verrückte Sache…$"
 

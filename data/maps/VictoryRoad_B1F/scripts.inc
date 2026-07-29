@@ -85,7 +85,7 @@ VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Whoa! Wunderbar!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
-	.string "Sicher, dies ist die Siegesstrasse.\p"
+	.string "Sicher, dies ist die Siegesstraße.\p"
 	.string "Aber sie unterscheidet sich nicht viel\n"
 	.string "von dem Weg, den du bisher gegangen\l"
 	.string "bist.\p"

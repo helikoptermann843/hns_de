@@ -73,6 +73,6 @@ Route6_Text_ElijahPostBattle::
 	.string "oder bin ich etwa nicht gut genug?$"
 
 Route6_Text_UndergroundPathSign::
-	.string "TUNNELPFAD\n"
-	.string "AZURIA CITY - ORANIA CITY$"
+	.string "Tunnelpfad\n"
+	.string "Azuria City - Orania City$"
 

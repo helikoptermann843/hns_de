@@ -63,31 +63,31 @@ FortreeCity_House4_EventScript_Wingull::
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether:
-	.string "Wenn sie mit POKéMON zusammen sind,\n"
+	.string "Wenn sie mit Pokémon zusammen sind,\n"
 	.string "finden die Menschen schnell Freunde.\p"
 	.string "Und so rücken die Menschen weltweit\n"
 	.string "näher zusammen. Wunderbar, nicht wahr?$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
-	.string "Fertig! Los, VOGEL-POKéMON!$"
+	.string "Fertig! Los, Vogel-Pokémon!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
-	.string "Hähähä, mein WINGULL macht\n"
+	.string "Hähähä, mein Wingull macht\n"
 	.string "Besorgungen für mich.$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
-	.string "Gut! Komm zurück, WINGULL!\p"
+	.string "Gut! Komm zurück, Wingull!\p"
 	.string "Huch! Was ist das?\n"
 	.string "Was trägt es denn da?\p"
-	.string "Ein MENTALKRAUT?\n"
+	.string "Ein Mentalkraut?\n"
 	.string "Das muss es irgendwo gefunden haben.\p"
-	.string "Aber, ich bin kein TRAINER, daher\n"
+	.string "Aber, ich bin kein Trainer, daher\n"
 	.string "kannst du es haben.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Dank meines WINGULL habe ich Freunde,\n"
+	.string "Dank meines Wingull habe ich Freunde,\n"
 	.string "die sehr weit weg von hier wohnen.$"
 
 FortreeCity_House4_Text_Wingull:
-	.string "WINGULL: Pihyoh!$"
+	.string "Wingull: Pihyoh!$"
 

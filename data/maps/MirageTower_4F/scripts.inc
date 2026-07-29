@@ -60,22 +60,22 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	end
 
 MirageTower_4F_Text_TakeRootFossil:
-	.string "Du hast das WURZELFOSSIL gefunden.\p"
-	.string "Wenn du dieses FOSSIL nimmst,\n"
+	.string "Du hast das Wurzelfossil gefunden.\p"
+	.string "Wenn du dieses Fossil nimmst,\n"
 	.string "wird der Boden drum herum einfallen…\p"
-	.string "Willst du das WURZELFOSSIL nehmen?$"
+	.string "Willst du das Wurzelfossil nehmen?$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
-	.string "{PLAYER} lässt das WURZELFOSSIL\n"
+	.string "{PLAYER} lässt das Wurzelfossil\n"
 	.string "liegen.$"
 
 MirageTower_4F_Text_TakeClawFossil:
-	.string "Du hast das KLAUENFOSSIL gefunden.\p"
-	.string "Wenn du dieses FOSSIL nimmst,\n"
+	.string "Du hast das Klauenfossil gefunden.\p"
+	.string "Wenn du dieses Fossil nimmst,\n"
 	.string "wird der Boden drum herum einfallen…\p"
-	.string "Willst du das KLAUENFOSSIL nehmen?$"
+	.string "Willst du das Klauenfossil nehmen?$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:
-	.string "{PLAYER} lässt das KLAUENFOSSIL\n"
+	.string "{PLAYER} lässt das Klauenfossil\n"
 	.string "liegen.$"
 

@@ -24,21 +24,21 @@ MysteryGiftScript_BattleCardInfo:
 	end
 
 sText_MysteryGiftBattleCountCard:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast.\p"
-	.string "Auf deiner KAMPFKARTE\n"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast.\p"
+	.string "Auf deiner Kampfkarte\n"
 	.string "wird deine Kampfstatistik gegen\l"
-	.string "TRAINER mit derselben KARTE\l"
+	.string "Trainer mit derselben Karte\l"
 	.string "festgehalten.\l"
-	.string "Suche TRAINER mit derselben KARTE\l"
+	.string "Suche Trainer mit derselben Karte\l"
 	.string "und kämpfe gegen sie.\p"
 	.string "Du kannst den Gesamtstand in den\n"
-	.string "NACHRICHTEN erfahren.\p"
+	.string "Nachrichten erfahren.\p"
 	.string "Probiere es doch einfach!$"
 
 sText_MysteryGiftBattleCountCard_WonPrize:
-	.string "Danke, dass du das GEHEIM-\n"
-	.string "GESCHEHEN benutzt hast.\p"
+	.string "Danke, dass du das Geheim-\n"
+	.string "geschehen benutzt hast.\p"
 	.string "Glückwunsch!\p"
 	.string "Du erhältst einen Preis\n"
 	.string "für drei gewonnene Kämpfe.\p"

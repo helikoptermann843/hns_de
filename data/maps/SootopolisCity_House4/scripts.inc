@@ -34,8 +34,8 @@ SootopolisCity_House4_Text_StrollUnderwaterWithPokemon:
 	.string "gäbe. Aber auch ohne Schätze wäre eine\p"
 	.string "\p"
 	.string "Reise unter Wasser zusammen mit\n"
-	.string "meinen POKéMON herrlich.$"
+	.string "meinen Pokémon herrlich.$"
 
 SootopolisCity_House4_Text_Azumarill:
-	.string "AZUMARILL: Marurii.$"
+	.string "Azumarill: Marurii.$"
 

@@ -18,7 +18,7 @@ GoldenrodCity_DepartmentStoreBasement_TryMachoke1::
 
 GoldenrodCity_DepartmentStoreBasement_TryMachoke2::
 	setobjectxyperm LOCALID_GOLDENROD_MACHOKE2, 10, 11
-	setobjectxyperm LOCALID_GOLDENROD_BOULDER2, 9, 11	
+	setobjectxyperm LOCALID_GOLDENROD_BOULDER2, 9, 11
 	setobjectmovementtype LOCALID_GOLDENROD_MACHOKE2, MOVEMENT_TYPE_FACE_DOWN
 	return
 
@@ -64,7 +64,7 @@ GoldenrodCity_DepartmentStoreBasement_EventScript_BlackBelt3::
 	closemessage
 	release
 	end
-	
+
 GoldenrodCity_DepartmentStoreBasement_EventScript_Machoke::
 	lock
 	faceplayer
@@ -141,7 +141,7 @@ GoldenrodCity_DepartmentStoreBasement_Movement_Machoke1:
 	walk_left
 	face_up
 	step_end
-	
+
 GoldenrodCity_DepartmentStoreBasement_Movement_Boulder1:
 	slide_left
 	delay_8
@@ -206,4 +206,4 @@ GoldenrodDeptStore_Text_B1FBlackBelt3After:
 	.string "Nimm es dir, wenn du möchtest!$"
 
 GoldenrodDeptStore_Text_B1FMachoke:
-	.string "MASCHOCK: Mascho!$"
+	.string "Maschock: Mascho Maschock!$"

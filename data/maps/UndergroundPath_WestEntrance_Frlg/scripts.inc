@@ -6,6 +6,6 @@ UndergroundPath_WestEntrance_EventScript_BaldingMan::
 	end
 
 UndergroundPath_WestEntrance_Text_SleepyMonNearCeladon::
-	.string "Ein verschlafenes POKéMON ist in\n"
-	.string "PRISMANIA CITY aufgetaucht!$"
+	.string "Ein verschlafenes Pokémon ist in\n"
+	.string "Prismania City aufgetaucht!$"
 

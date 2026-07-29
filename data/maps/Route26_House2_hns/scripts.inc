@@ -15,7 +15,7 @@ Route26_House2_EventScript_BookRead::
 	closemessage
 	release
 	end
-	
+
 Route26_House2_EventScript_BookRead2::
 	msgbox DayOfWeekSiblingsHouse_Text_Pokedex3, MSGBOX_DEFAULT
 	closemessage
@@ -33,14 +33,14 @@ DayOfWeekSiblingsHouse_Text_Pokedex2:
 	.string "Wenn ein Trainer mit dir\n"
 	.string "spricht, gib ihm etwas\l"
 	.string "Nützliches.\p"
-	.string "Eure MONJA\p"
+	.string "Eure Monja\p"
 	.string "Weiterlesen?$"
 
 DayOfWeekSiblingsHouse_Text_Pokedex3:
-	.string "Montag, MONJA ROUTE 40\p"
-	.string "Dienstag, DIETLINDE ROUTE 29\p"
-	.string "Mittwoch, MITKO SEE DES ZORNS\p"
-	.string "Donnerstag, DONATUS ROUTE 36\p"
-	.string "Freitag, FRIEDA ROUTE 32\p"
-	.string "Samstag, SAMSON EBENHOLZ CITY\p"
-	.string "Sonntag, SONNFRIED ROUTE 37$"
+	.string "Montag, Monja Route 40\p"
+	.string "Dienstag, Dietlinde Route 29\p"
+	.string "Mittwoch, Mitko See des Zorns\p"
+	.string "Donnerstag, Donatus Route 36\p"
+	.string "Freitag, Frieda Route 32\p"
+	.string "Samstag, Samson Ebenholz City\p"
+	.string "Sonntag, Sonnfried Route 37$"

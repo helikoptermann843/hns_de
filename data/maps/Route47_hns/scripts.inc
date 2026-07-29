@@ -13,7 +13,7 @@ Route47_Text_HikerSeen::
 	.string "Aber ein Kampf ist ein Kampf! Also los!$"
 
 Route47_Text_HikerBeaten::
-	.string "WUAHAHAHA$"
+	.string "Wuahahaha$"
 
 Route47_Text_HikerAfter::
 	.string "Nach einem Kampf sollte man immer mit\n"
@@ -34,7 +34,7 @@ Route47_Text_CamperBeaten::
 	.string "die Berge gehen…$"
 
 Route47_Text_CamperAfter::
-	.string "BIS DANN$"
+	.string "Tschüss!$"
 
 Route47_EventScript_Thom::
 	trainerbattle_double TRAINER_THOM_AND_KAE_HNS, Route47_Text_Couple1Seen, Route47_Text_Couple1Beaten, Route104_Text_GinaNotEnoughMons
@@ -49,10 +49,10 @@ Route47_EventScript_Kae::
 	end
 
 Route47_Text_Couple1Seen::
-	.string "THOMAS: Eins plus eins ist zwei.\p"
+	.string "Thomas: Eins plus eins ist zwei.\p"
 	.string "Aber wir zwei zusammen sind viel\n"
 	.string "stärker!\p"
-	.string "KATJA: Wir zwei sind kein\n"
+	.string "Katja: Wir zwei sind kein\n"
 	.string "langweiliges Gespann!$"
 
 Route47_Text_Couple1Beaten::
@@ -79,20 +79,21 @@ Route47_EventScript_Eda::
 	end
 
 Route47_Text_Couple2Seen::
-	.string "DAVID: Meine Freundin zu beschützen\n"
+	.string "David: Meine Freundin zu beschützen\n"
 	.string "lässt mein Herz höherfliegen!\p"
-	.string "EVA: Meine Gefühle für meinen\n"
+	.string "Eva: Meine Gefühle für meinen\n"
 	.string "Freund sind so weit und tief\l"
 	.string "wie der Ozean!$"
 
 Route47_Text_Couple2Beaten::
-	.string "DAVID: Ich war dir nicht gewachsen…\n"
-	.string "EVA: Du bist wirklich etwas\l"
+	.string "David: Ich war dir nicht gewachsen…\n"
+	.string "Eva: Du bist wirklich etwas\l"
 	.string "Besonderes…$"
 
 Route47_Text_Couple2After1::
-	.string "DAVID: Danke für den überwältigenden\n"
-	.string "Kampf! Tschüss!$"
+	.string "Piz: Ich danke dir für diesen\n"
+	.string "vorbildlichen Kampf. Mögen all deine\l"
+	.string "Wege geebnet sein!$"
 
 Route47_Text_Couple2After2::
 	.string "Mari: Ich wünsche dir, dass auch du\n"

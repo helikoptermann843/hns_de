@@ -21,7 +21,7 @@ Route13_Text_SebastianDefeat::
 	.string "Mein Vogel-Team hat verloren?$"
 
 Route13_Text_SebastianPostBattle::
-	.string "Meine POKéMON sind fröhlich, obwohl\n"
+	.string "Meine Pokémon sind fröhlich, obwohl\n"
 	.string "sie verloren haben!$"
 
 Route13_Text_SusieIntro::
@@ -56,7 +56,7 @@ Route13_Text_GwenDefeat::
 	.string "Du hast mit Leichtigkeit gewonnen!$"
 
 Route13_Text_GwenPostBattle::
-	.string "POKéMON müssen viel kämpfen, damit\n"
+	.string "Pokémon müssen viel kämpfen, damit\n"
 	.string "sie stark werden!$"
 
 Route13_Text_AlmaIntro::
@@ -129,15 +129,15 @@ Route13_Text_RobertPostBattle::
 	.string "Tauboga fliegen könnte...$"
 
 Route13_Text_LookToLeftOfThatPost::
-	.string "TIPPS FÜR TRAINER\p"
+	.string "Tipps für Trainer\p"
 	.string "Schaue links neben den Pfosten!$"
 
 Route13_Text_SelectToSwitchItems::
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Drücke SELECT, um die Positionen\n"
+	.string "Tipps für Trainer\p"
+	.string "Drücke Select, um die Positionen\n"
 	.string "von Items im Menü zu tauschen.$"
 
 Route13_Text_RouteSign::
-	.string "ROUTE 13\n"
-	.string "NORDEN: STILLE BRÜCKE$"
+	.string "Route 13\n"
+	.string "Norden: Stille Brücke$"
 

@@ -11,10 +11,10 @@ FuchsiaCity_Mart_EventScript_Woman::
 
 FuchsiaMart_Text_Fisher:
 	.string "Ich wollte einen Geschenkartikel\n"
-	.string "in der SAFARI-ZONE\l"
+	.string "in der Safari-Zone\l"
 	.string "kaufen, aber sie ist geschlossen…$"
 
 FuchsiaMart_Text_CooltrainerF:
 	.string "In dieser Stadt lebt\n"
-	.string "auch die Enkelin des WÄRTERs der\l"
-	.string "SAFARI-ZONE.$"
+	.string "auch die Enkelin des Wärters der\l"
+	.string "Safari-Zone.$"

@@ -58,7 +58,7 @@ SevenIsland_SevaultCanyon_Text_KatelynDefeat::
 
 SevenIsland_SevaultCanyon_Text_KatelynPostBattle::
 	.string "Deine Mutter hat dir diese coolen\n"
-	.string "TURBOTRETER gegeben?\p"
+	.string "Turbotreter gegeben?\p"
 	.string "Sie muss dich lieben!$"
 
 SevenIsland_SevaultCanyon_Text_LeroyIntro::
@@ -107,7 +107,7 @@ SevenIsland_SevaultCanyon_Text_LexPostBattle::
 	.string "Ich möchte dir danken!$"
 
 SevenIsland_SevaultCanyon_Text_LexNotEnoughMons::
-	.string "OLE: Darf ich dich bitten, gegen\n"
+	.string "Ole: Darf ich dich bitten, gegen\n"
 	.string "uns beide gleichzeitig anzutreten?$"
 
 SevenIsland_SevaultCanyon_Text_NyaIntro::
@@ -125,13 +125,13 @@ SevenIsland_SevaultCanyon_Text_NyaPostBattle::
 	.string "dir bleiben?$"
 
 SevenIsland_SevaultCanyon_Text_NyaNotEnoughMons::
-	.string "GRIT: Entschuldigung, aber trittst\n"
+	.string "Grit: Entschuldigung, aber trittst\n"
 	.string "du in einem Zwei-gegen-Zwei-Kampf\l"
 	.string "gegen uns an?$"
 
 SevenIsland_SevaultCanyon_Text_RouteSign::
-	.string "7-SCHATZSCHLUCHT\n"
-	.string "TANIBO-RUINEN VORAUS$"
+	.string "7-Schatzschlucht\n"
+	.string "Tanibo-Ruinen Voraus$"
 
 SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
 	.string "Für sich alleine trainieren ist mit\n"
@@ -139,6 +139,6 @@ SevenIsland_SevaultCanyon_Text_BrunoTrainedWithBrawly::
 	.string "Aber mit einem Partner nach\n"
 	.string "den Sternen zu greifen, ist\l"
 	.string "auch in Ordnung.\l"
-	.string "Auch BRUNO…\l"
+	.string "Auch Bruno…\l"
 	.string "Er hat zuvor mit einem Kumpel\l"
-	.string "namens KAMILLO trainiert.$"
+	.string "namens Kamillo trainiert.$"

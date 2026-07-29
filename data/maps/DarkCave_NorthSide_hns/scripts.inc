@@ -3,7 +3,7 @@ DarkCave_NorthSide_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-DarkCave_NorthSide_OnTransition: 
+DarkCave_NorthSide_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -33,15 +33,13 @@ DarkCave2_EventScript_BlackGlassesGot::
 	end
 
 DarkCave2_Text_Nerd:
-	.string "Whoa! Du hast mich erschreckt!\p"
-	.string "Ich hatte meine Schattenbrille\n"
-	.string "auf, also habe ich dich gar nicht\l"
-	.string "bemerkt.\p"
+	.string "Huch! Hast du mich aber erschreckt!\p"
+	.string "Mit meinem Schattenglas auf der Nase\n"
+	.string "bist du mir gar nicht aufgefallen!\p"
 	.string "Was ich hier mache?\p"
-	.string "Hey, mach dir keine Sorgen.\p"
-	.string "Ich gebe dir ein Paar\n"
-	.string "Schattenbrillen, also vergiss,\l"
-	.string "das du mich gesehen hast, OK?$"
+	.string "Ach, das willst du nicht wissen! Hier, ich\n"
+	.string "schenke dir auch eines.\p"
+	.string "Also vergiss es einfach!$"
 
 DarkCave2_Text_Nerd2:
 	.string "Schattenbrille erhöht die\n"

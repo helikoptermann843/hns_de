@@ -135,9 +135,9 @@ FiveIsland_ResortGorgeous_Text_TobyPostBattle::
 	.string "Wie unsensibel.$"
 
 FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
-	.string "KEA: Danke!\p"
+	.string "Kea: Danke!\p"
 	.string "Du darfst jetzt gehen!$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "Ich reise immer mit KNUDDELUFF!$"
+	.string "Ich reise immer mit Knuddeluff!$"
 

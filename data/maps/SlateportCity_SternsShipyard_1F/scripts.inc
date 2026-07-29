@@ -71,28 +71,28 @@ SlateportCity_SternsShipyard_1F_Text_CantMakeHeadsOrTails:
 	.string "schlau!$"
 
 SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern:
-	.string "Hm? Hallo, ich bin BOOTMAR.\p"
-	.string "KAPT. BRIGG hat mich damit\n"
+	.string "Hm? Hallo, ich bin Bootmar.\p"
+	.string "Kapt. Brigg hat mich damit\n"
 	.string "beauftragt, eine Fähre zu\n"
 	.string "konstruieren. \p"
 	.string "Oh! Das da…\n"
-	.string "Sind das DEVON-WAREN?\p"
+	.string "Sind das Devon-waren?\p"
 	.string "Aber, ähm… Das ist ein ungünstiger\n"
 	.string "Zeitpunkt…\p"
-	.string "KAPT. BRIGG ist irgendwohin ge-\n"
+	.string "Kapt. Brigg ist irgendwohin ge-\n"
 	.string "gangen. Er sagte, er müsse was\l"
 	.string "erledigen.\p"
-	.string "Kann ich dich bitten, KAPT. BRIGG zu\n"
+	.string "Kann ich dich bitten, Kapt. Brigg zu\n"
 	.string "suchen und ihm das Paket zu bringen?$"
 
 SlateportCity_SternsShipyard_1F_Text_CouldYouFindStern:
-	.string "BOOTMAR: Wo könnte KAPT. BRIGG wohl\n"
+	.string "Bootmar: Wo könnte Kapt. Brigg wohl\n"
 	.string "hingegangen sein?\p"
-	.string "Kannst du bitte KAPT. BRIGG suchen und\n"
+	.string "Kannst du bitte Kapt. Brigg suchen und\n"
 	.string "ihm die Waren übergeben?$"
 
 SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran:
-	.string "BOOTMAR: Der Schiffsbau ist eine\n"
+	.string "Bootmar: Der Schiffsbau ist eine\n"
 	.string "Kunst. \p"
 	.string "Manche Dinge lassen sich auch durch\n"
 	.string "Berechnungen nicht vorhersehen.\p"
@@ -100,14 +100,14 @@ SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran:
 	.string "Westentasche, müsste mir helfen…$"
 
 SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs:
-	.string "BOOTMAR: Hallo! MR. BRACK hat sich\n"
+	.string "Bootmar: Hallo! Mr. Brack hat sich\n"
 	.string "bereit erklärt, uns zu helfen.\p"
 	.string "Dank dieses erfahrenen Seemannes\n"
 	.string "kommen wir zügig voran.$"
 
 SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
-	.string "BOOTMAR: Die Fähre ist bald fertig!\p"
-	.string "Die neue MS TIDE ist ein wahres\n"
+	.string "Bootmar: Die Fähre ist bald fertig!\p"
+	.string "Die neue MS Tide ist ein wahres\n"
 	.string "Technikwunder!\p"
 	.string "Aber ich denke doch, dass wir noch\n"
 	.string "einiges besser machen können.\p"
@@ -115,18 +115,18 @@ SlateportCity_SternsShipyard_1F_Text_FerryIsReady:
 	.string "wird niemals abgeschlossen sein.$"
 
 SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock:
-	.string "MR. BRACK: Ah, {PLAYER}{KUN}!\n"
+	.string "Mr. Brack: Ah, {PLAYER}{KUN}!\n"
 	.string "Es ist schon lange her!\p"
 	.string "Aye, seit ich dich kennen gelernt\n"
 	.string "habe,\n"
 	.string "bin ich wieder voller Tatendrang.\p"
 	.string "Also habe ich mich entschlossen,\n"
-	.string "BOOTMAR beim Bau der Fähre zu helfen.\n"
+	.string "Bootmar beim Bau der Fähre zu helfen.\n"
 	.string "\p"
 	.string "Aye, so wie es aussieht, wird die\n"
 	.string "Fähre\n"
 	.string "viele Passagiere befördern können.\p"
-	.string "Aber, weißt du, BOOTMAR ist wirklich\n"
+	.string "Aber, weißt du, Bootmar ist wirklich\n"
 	.string "eine besondere Persönlichkeit.\p"
 	.string "Mit seinem technischen Wissen und\n"
 	.string "meiner Erfahrung auf See werden wir\l"

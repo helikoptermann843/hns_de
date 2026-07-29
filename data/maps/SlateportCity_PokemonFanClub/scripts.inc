@@ -253,48 +253,48 @@ SlateportCity_PokemonFanClub_EventScript_Azumarill::
 	end
 
 SlateportCity_PokemonFanClub_Text_MeetChairman:
-	.string "Äh-hm. Ich bin der VORSITZENDE des\n"
-	.string "POKéMON-FANCLUBs!\p"
-	.string "Als VORSITZENDER bin ich natürlich die\n"
+	.string "Äh-hm. Ich bin der Vorsitzende des\n"
+	.string "Pokémon-Fanclubs!\p"
+	.string "Als Vorsitzender bin ich natürlich die\n"
 	.string "wichtigste Person hier!\p"
-	.string "Keiner kann mir im Umgang mit POKéMON\n"
+	.string "Keiner kann mir im Umgang mit Pokémon\n"
 	.string "das Wasser reichen! Keiner!!!\p"
 	.string "Aber jetzt lass mich dir etwas zu den\n"
-	.string "POKéMON WETTBEWERBen sagen.\p"
-	.string "Hier kann jeder seine POKéMON der\n"
+	.string "Pokémon Wettbewerben sagen.\p"
+	.string "Hier kann jeder seine Pokémon der\n"
 	.string "Welt vorstellen!\p"
 	.string "Sie finden allerdings in abgelegenen\n"
 	.string "Orten statt, daher kann ich nicht an\l"
 	.string "ihnen teilnehmen.\p"
 	.string "Deshalb haben wir uns hier getroffen.\n"
 	.string "Wir zeigen uns gegenseitig unsere\l"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon:
-	.string "Das POKéMON eines TRAINERs, das an\n"
-	.string "einem POKéMON  WETTBEWERB teilnimmt…\l"
+	.string "Das Pokémon eines Trainers, das an\n"
+	.string "einem Pokémon  Wettbewerb teilnimmt…\l"
 	.string "Das würde ich zu gerne mal sehen.$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
 	.string "Äh-hm. Wie ich sehe, hast du an einem\n"
-	.string "POKéMON WETTBEWERB teilgenommen.\p"
+	.string "Pokémon Wettbewerb teilgenommen.\p"
 	.string "Bitte! Darf ich mir mal anschauen, wie\n"
-	.string "du deine POKéMON aufgezogen hast?\p"
+	.string "du deine Pokémon aufgezogen hast?\p"
 	.string "Es ist toll, zu sehen, wie andere\n"
-	.string "TRAINER ihre POKéMON aufziehen.\p"
-	.string "Die zufriedenen Gesichter der POKéMON,\n"
+	.string "Trainer ihre Pokémon aufziehen.\p"
+	.string "Die zufriedenen Gesichter der Pokémon,\n"
 	.string "die gut behandelt werden…\p"
 	.string "Die fürsorgliche und liebevolle Art\n"
-	.string "ihrer TRAINER…\p"
+	.string "ihrer Trainer…\p"
 	.string "Mein Herz geht über vor Freude - da\n"
 	.string "gibt es so viel Glück.\p"
 	.string "Oh je! Entschuldige, ich schwatze hier\n"
 	.string "die ganze Zeit vor mich hin!\p"
 	.string "Bitte, erlaube mir einen Blick auf\n"
-	.string "deine POKéMON. Wie sind sie gewachsen?$"
+	.string "deine Pokémon. Wie sind sie gewachsen?$"
 
 SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing:
-	.string "Wie sehen deine POKéMON aus? Wie sind\n"
+	.string "Wie sehen deine Pokémon aus? Wie sind\n"
 	.string "sie gewachsen? Erlaube mir einen\l"
 	.string "Blick!$"
 
@@ -305,17 +305,17 @@ SlateportCity_PokemonFanClub_Text_HmHmISee:
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
 	.string "Hmmm… Das ist weder gut noch\n"
 	.string "schlecht…\p"
-	.string "Du bist der TRAINER. Streng dich bei\n"
-	.string "der Aufzucht dieses POKéMON mehr an!\p"
+	.string "Du bist der Trainer. Streng dich bei\n"
+	.string "der Aufzucht dieses Pokémon mehr an!\p"
 	.string "Dürfte ich vorschlagen, ihm mehr\n"
 	.string "{POKEBLOCK} zu geben?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "Oh, hey…\p"
-	.string "Dein POKéMON macht einen guten Ein-\n"
+	.string "Dein Pokémon macht einen guten Ein-\n"
 	.string "druck. Ich möchte dir eine Belohnung\l"
 	.string "geben.\p"
-	.string "Leider hast du in deinem BEUTEL nicht\n"
+	.string "Leider hast du in deinem Beutel nicht\n"
 	.string "mehr genügend Platz.$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
@@ -326,85 +326,85 @@ SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
 	.string "es noch besser wachsen! Wirklich!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainRedScarf:
-	.string "Lass ein POKéMON einen ROTEN SCHAL\n"
+	.string "Lass ein Pokémon einen Roten Schal\n"
 	.string "tragen.\p"
 	.string "Dadurch wird die Coolness deines\n"
-	.string "POKéMON unübersehbar!$"
+	.string "Pokémon unübersehbar!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainBlueScarf:
-	.string "Lass ein POKéMON einen BLAUEN SCHAL\n"
+	.string "Lass ein Pokémon einen Blauen Schal\n"
 	.string "tragen.\p"
 	.string "Dadurch wird die Schönheit deines\n"
-	.string "POKéMON unübersehbar!$"
+	.string "Pokémon unübersehbar!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainPinkScarf:
-	.string "Lass ein POKéMON einen ROSA SCHAL\n"
+	.string "Lass ein Pokémon einen Rosa Schal\n"
 	.string "tragen.\p"
 	.string "Dadurch wird die Anmut deines\n"
-	.string "POKéMON unübersehbar!$"
+	.string "Pokémon unübersehbar!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainGreenScarf:
-	.string "Lass ein POKéMON einen GRÜNEN SCHAL\n"
+	.string "Lass ein Pokémon einen Grünen Schal\n"
 	.string "tragen.\p"
 	.string "Dadurch wird die Klugheit deines\n"
-	.string "POKéMON unübersehbar!$"
+	.string "Pokémon unübersehbar!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainYellowScarf:
-	.string "Lass ein POKéMON einen GELBEN SCHAL\n"
+	.string "Lass ein Pokémon einen Gelben Schal\n"
 	.string "tragen.\p"
 	.string "Dadurch wird die Stärke deines\n"
-	.string "POKéMON unübersehbar!$"
+	.string "Pokémon unübersehbar!$"
 
 SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
 	.string "Tut mir Leid, mehr kann ich dir leider\n"
 	.string "nicht geben! Ich habe nichts mehr!\l"
 	.string "Aber du besitzt etwas viel\p"
-	.string "Wertvolleres: Das Talent, POKéMON ohne\n"
+	.string "Wertvolleres: Das Talent, Pokémon ohne\n"
 	.string "Zuhilfenahme von Items perfekt\l"
 	.string "aufzuziehen!$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
-	.string "Ich freue mich immer, POKéMON zu\n"
-	.string "sehen, die ihre TRAINER lieben.\p"
-	.string "POKéMON haben ein sensibles Gespür\n"
-	.string "für die Gefühle ihrer TRAINER.\p"
-	.string "Wenn du einem POKéMON Liebe und\n"
+	.string "Ich freue mich immer, Pokémon zu\n"
+	.string "sehen, die ihre Trainer lieben.\p"
+	.string "Pokémon haben ein sensibles Gespür\n"
+	.string "für die Gefühle ihrer Trainer.\p"
+	.string "Wenn du einem Pokémon Liebe und\n"
 	.string "Achtung entgegenbringst, werden die\l"
 	.string "Gefühle erwidert.\p"
-	.string "Sobald dein POKéMON dich liebt, komm\n"
+	.string "Sobald dein Pokémon dich liebt, komm\n"
 	.string "und besuche mich nochmals.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonAdoresYou:
-	.string "Dein POKéMON betet dich geradezu an.\p"
-	.string "Für einen so mitfühlenden TRAINER\n"
-	.string "hat der FANCLUB ein Geschenk!$"
+	.string "Dein Pokémon betet dich geradezu an.\p"
+	.string "Für einen so mitfühlenden Trainer\n"
+	.string "hat der Fanclub ein Geschenk!$"
 
 SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove:
-	.string "POKéMON haben ein sensibles Gespür\n"
-	.string "für die Gefühle ihrer TRAINER.\p"
-	.string "Wenn du einem POKéMON Liebe und\n"
+	.string "Pokémon haben ein sensibles Gespür\n"
+	.string "für die Gefühle ihrer Trainer.\p"
+	.string "Wenn du einem Pokémon Liebe und\n"
 	.string "Achtung entgegenbringst, werden die\l"
 	.string "Gefühle erwidert.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
-	.string "Wenn ein POKéMON in einem Kampf\n"
+	.string "Wenn ein Pokémon in einem Kampf\n"
 	.string "besiegt wird, nimmt es das übel.\p"
-	.string "Und bald wird es dem TRAINER weniger\n"
+	.string "Und bald wird es dem Trainer weniger\n"
 	.string "Vertrauen schenken.\p"
 	.string "Mit anderen Worten: Es wird dich nicht\n"
 	.string "mehr so sehr mögen.$"
 
 SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein:
-	.string "Mögen POKéMON Items?\p"
-	.string "Mein POKéMON hat sich sehr gefreut,\n"
-	.string "als ich ihm PROTEIN gegeben habe.$"
+	.string "Mögen Pokémon Items?\p"
+	.string "Mein Pokémon hat sich sehr gefreut,\n"
+	.string "als ich ihm Protein gegeben habe.$"
 
 SlateportCity_PokemonFanClub_Text_Skitty:
-	.string "ENECO: Fffnyaaaah…$"
+	.string "Eneco: Fffnyaaaah…$"
 
 SlateportCity_PokemonFanClub_Text_Zigzagoon:
-	.string "ZIGZACHS: Kyuuu…$"
+	.string "Zigzachs: Kyuuu…$"
 
 SlateportCity_PokemonFanClub_Text_Azumarill:
-	.string "AZUMARILL: Marimari?$"
+	.string "Azumarill: Marimari?$"
 

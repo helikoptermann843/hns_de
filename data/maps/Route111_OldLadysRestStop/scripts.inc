@@ -30,7 +30,7 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 
 Route111_OldLadysRestStop_Text_RestUpHere:
 	.string "Oh, du meine Güte.\n"
-	.string "Sind deine POKéMON nicht erschöpft?\p"
+	.string "Sind deine Pokémon nicht erschöpft?\p"
 	.string "Wenn du magst, ruhe dich doch hier\n"
 	.string "aus.\l"
 	.string "Das ist doch eine gute Idee, oder?$"
@@ -41,7 +41,7 @@ Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
 	.string "Oh, du meine Güte.\n"
-	.string "Sind deine POKéMON immer noch müde?\p"
+	.string "Sind deine Pokémon immer noch müde?\p"
 	.string "Dann solltest du dich noch länger hier\n"
 	.string "ausruhen. Was meinst du?$"
 

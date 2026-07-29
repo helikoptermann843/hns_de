@@ -1,31 +1,31 @@
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
-	.string "Willst du die Attacke lernen?\n"
-	.string "Es wird dich 5.000¥ kosten.$"
+	.string "Diese Attacke kann nur einmal\n"
+	.string "erlernt werden! Ist das in Ordnung?$"
 
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnceFinite:
 	.string "Diese Attacke kann nur\n"
 	.string "einmal gelernt werden, ok?$"
 
 MoveTutor_Text_SwaggerTeach:
-	.string "Heh! Mein POKéMON ist das Beste!\n"
+	.string "Heh! Mein Pokémon ist das Beste!\n"
 	.string "Kein anderes ist so cool wie meins!\p"
 	.string "Ich bin herumstolziert und habe\n"
-	.string "angegeben, bis ein VORSITZENDER mich\l"
+	.string "angegeben, bis ein Vorsitzender mich\l"
 	.string "zu Fall brachte.\p"
 	.string "Das hat meinen Hochmut abgekühlt.\p"
 	.string "Wenn du magst, dann bringe ich einem\n"
-	.string "deiner POKéMON ANGEBEREI bei.$"
+	.string "deiner Pokémon Angeberei bei.$"
 
 MoveTutor_Text_SwaggerDeclined:
 	.string "Echt nicht? Erkennst du denn nicht\n"
 	.string "den tieferen Sinn dahinter?$"
 
 MoveTutor_Text_SwaggerWhichMon:
-	.string "Sehr schön! Und welches POKéMON soll\n"
+	.string "Sehr schön! Und welches Pokémon soll\n"
 	.string "es lernen?$"
 
 MoveTutor_Text_SwaggerTaught:
-	.string "Ich werde von nun an meine POKéMON\n"
+	.string "Ich werde von nun an meine Pokémon\n"
 	.string "loben, ohne anzugeben.$"
 
 MoveTutor_Text_RolloutTeach:
@@ -34,9 +34,9 @@ MoveTutor_Text_RolloutTeach:
 	.string "ohne die Richtung wechseln zu müssen?\p"
 	.string "Ich bin sogar in der Lage, den ganzen\n"
 	.string "Weg entlang zu walzen.\p"
-	.string "Ob eines deiner POKéMON das auch\n"
+	.string "Ob eines deiner Pokémon das auch\n"
 	.string "gerne tun würde? Was meinst du?\p"
-	.string "Ich kann ihm WALZER beibringen, wenn\n"
+	.string "Ich kann ihm Walzer beibringen, wenn\n"
 	.string "du magst.$"
 
 MoveTutor_Text_RolloutDeclined:
@@ -45,7 +45,7 @@ MoveTutor_Text_RolloutDeclined:
 
 MoveTutor_Text_RolloutWhichMon:
 	.string "Hehehe. Wäre doch klasse, wenn das\n"
-	.string "POKéMON so aussehen würde wie ich.$"
+	.string "Pokémon so aussehen würde wie ich.$"
 
 MoveTutor_Text_RolloutTaught:
 	.string "Ich walze total gerne durch Gras.\n"
@@ -55,16 +55,16 @@ MoveTutor_Text_FuryCutterTeach:
 	.string "Es gibt eine Attacke, die stärker wird,\n"
 	.string "wenn du sie mehrmals hintereinander\l"
 	.string "einsetzt.\p"
-	.string "Sie ist vom Typ KÄFER und megacool!\p"
-	.string "Sie heißt ZORNKLINGE.\n"
-	.string "Soll ich sie einem POKéMON beibringen?$"
+	.string "Sie ist vom Typ Käfer und megacool!\p"
+	.string "Sie heißt Zornklinge.\n"
+	.string "Soll ich sie einem Pokémon beibringen?$"
 
 MoveTutor_Text_FuryCutterDeclined:
 	.string "Wir haben offensichtlich nicht die\n"
 	.string "gleiche Wellenlänge.$"
 
 MoveTutor_Text_FuryCutterWhichMon:
-	.string "Ja, klasse! Und welches POKéMON soll die\n"
+	.string "Ja, klasse! Und welches Pokémon soll die\n"
 	.string "Attacke lernen?$"
 
 MoveTutor_Text_FuryCutterTaught:
@@ -79,19 +79,19 @@ MoveTutor_MimicTeach:
 	.string "ich in diesem Ort treffe.\p"
 	.string "Was meinst du, Kindchen?\n"
 	.string "Würde es dich freuen, wenn ich einem\l"
-	.string "deiner POKéMON MIMIKRY beibringe?$"
+	.string "deiner Pokémon Mimikry beibringe?$"
 
 MoveTutor_MimicDeclined:
 	.string "Oh, buuuuh! Und ich wollte doch so gerne\n"
-	.string "einem POKéMON MIMIKRY beibringen…$"
+	.string "einem Pokémon Mimikry beibringen…$"
 
 MoveTutor_Text_MimicWhichMon:
 	.string "Hahaha! So soll es sein! Zeig mir das\n"
-	.string "POKéMON, welches die Attacke lernen\l"
+	.string "Pokémon, welches die Attacke lernen\l"
 	.string "soll.$"
 
 MoveTutor_Text_MimicTaught:
-	.string "MIMIKRY ist eine Attacke mit Tiefe.\p"
+	.string "Mimikry ist eine Attacke mit Tiefe.\p"
 	.string "Kannst du sie so perfekt anwenden, wie\n"
 	.string "ich es kann?$"
 
@@ -102,9 +102,9 @@ MoveTutor_Text_MetronomeTeach:
 	.string "Spruch gäbe, bei dem man nur mit dem\l"
 	.string "Finger wackelt und schon hat man Geld.\p"
 	.string "Wenn du möchtest, bringe ich einem\n"
-	.string "deiner POKéMON METRONOM bei.\p"
+	.string "deiner Pokémon Metronom bei.\p"
 	.string "Dadurch bekommst du kein Geld, aber\n"
-	.string "dein POKéMON wackelt mit dem Finger.$"
+	.string "dein Pokémon wackelt mit dem Finger.$"
 
 MoveTutor_Text_MetronomeDeclined:
 	.string "Okay. Solltest du es dir anders\n"
@@ -115,33 +115,33 @@ MoveTutor_Text_MetronomeWhichMon:
 	.string "Und welchem soll ich es beibringen?$"
 
 MoveTutor_Text_MetronomeTaught:
-	.string "Wackelt ein POKéMON mit seinem Finger\n"
-	.string "wie ein METRONOM, passieren die\l"
+	.string "Wackelt ein Pokémon mit seinem Finger\n"
+	.string "wie ein Metronom, passieren die\l"
 	.string "schönsten Dinge.\p"
 	.string "Wäre das toll, wenn wir das auch\n"
 	.string "könnten. Meinst du nicht auch?$"
 
 MoveTutor_Text_SleepTalkTeach:
 	.string "Hmpf! Meine Frau vertraut auf\n"
-	.string "KRAFTRESERVE, um wach zu bleiben.\p"
+	.string "Kraftreserve, um wach zu bleiben.\p"
 	.string "Sie sollte lieber ein Nickerchen halten\n"
-	.string "und eine SCHLAFREDE halten.\p"
-	.string "Ich kann einem deiner POKéMON\n"
-	.string "SCHLAFREDE beibringen. Interessiert?$"
+	.string "und eine Schlafrede halten.\p"
+	.string "Ich kann einem deiner Pokémon\n"
+	.string "Schlafrede beibringen. Interessiert?$"
 
 MoveTutor_Text_SleepTalkDeclined:
 	.string "Schon gut, schon gut. Dann bleib doch\n"
-	.string "wach, dank KRAFTRESERVE.$"
+	.string "wach, dank Kraftreserve.$"
 
 MoveTutor_Text_SleepTalkWhichMon:
 	.string "Oh, was für ein verständiges Kind!\n"
-	.string "Welchem POKéMON soll ich es beibringen?$"
+	.string "Welchem Pokémon soll ich es beibringen?$"
 
 MoveTutor_Text_SleepTalkTaught:
 	.string "Ich kann meine Frau einfach nicht\n"
 	.string "überlisten…\p"
 	.string "Stattdessen hört sie interessiert\n"
-	.string "meiner SCHLAFREDE zu…$"
+	.string "meiner Schlafrede zu…$"
 
 MoveTutor_Text_SubstituteTeach:
 	.string "Wenn ich die weite Welt von hier oben\n"
@@ -151,17 +151,17 @@ MoveTutor_Text_SubstituteTeach:
 	.string "Dinge des Lebens genießen kann.\p"
 	.string "Aber das ist ja leider nicht möglich…\n"
 	.string "Kicher…\p"
-	.string "Ich weiß! Soll ich einem deiner POKéMON\n"
-	.string "DELEGATOR beibringen?$"
+	.string "Ich weiß! Soll ich einem deiner Pokémon\n"
+	.string "Delegator beibringen?$"
 
 MoveTutor_Text_SubstituteDeclined:
 	.string "Oh? Nicht?\p"
-	.string "Ein POKéMON könnte damit aber einen\n"
+	.string "Ein Pokémon könnte damit aber einen\n"
 	.string "Doppelgänger von sich schaffen!$"
 
 MoveTutor_Text_SubstituteWhichMon:
 	.string "Kicher…\n"
-	.string "Welchem POKéMON soll ich es beibringen?$"
+	.string "Welchem Pokémon soll ich es beibringen?$"
 
 MoveTutor_Text_SubstituteTaught:
 	.string "Wir Menschen sollten unser Leben voll\n"
@@ -171,8 +171,8 @@ MoveTutor_Text_SubstituteTaught:
 MoveTutor_Text_DynamicPunchTeach:
 	.string "Ich kann nicht mehr!\p"
 	.string "Das ist doch absolut hoffnungslos!\p"
-	.string "Ich bin ein KAMPF-TRAINER, daher kann\n"
-	.string "ich in der ARENA von MOOSBACH einfach\p"
+	.string "Ich bin ein Kampf-Trainer, daher kann\n"
+	.string "ich in der Arena von Moosbach einfach\p"
 	.string "nicht gewinnen, egal, wie sehr ich mich\n"
 	.string "auch anstrenge!\p"
 	.string "Argh! Schlag! Wucht! Schlag!\n"
@@ -180,7 +180,7 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "Hey, was starrst du mich so an?!?\n"
 	.string "Ich schlage doch nur auf den Boden ein!\p"
 	.string "Oder möchtest du, dass ich einem deiner\n"
-	.string "POKéMON WUCHTSCHLAG beibringe?!?$"
+	.string "Pokémon Wuchtschlag beibringe?!?$"
 
 MoveTutor_Text_DynamicPunchDeclined:
 	.string "Mist! Du machst dich lustig über mich!!!\n"
@@ -188,32 +188,32 @@ MoveTutor_Text_DynamicPunchDeclined:
 
 MoveTutor_Text_DynamicPunchWhichMon:
 	.string "Das möchtest du? Das ist klug von dir!\n"
-	.string "Welchem POKéMON soll ich es beibringen?$"
+	.string "Welchem Pokémon soll ich es beibringen?$"
 
 MoveTutor_Text_DynamicPunchTaught:
-	.string "Ich möchte, dass du in der ARENA von\n"
-	.string "MOOSBACH gewinnst, indem du\l"
-	.string "WUCHTSCHLAG einsetzt.$"
+	.string "Ich möchte, dass du in der Arena von\n"
+	.string "Moosbach gewinnst, indem du\l"
+	.string "Wuchtschlag einsetzt.$"
 
 MoveTutor_Text_DoubleEdgeTeach:
 	.string "Seufz…\p"
-	.string "Der ARENALEITER von XENEROVILLE ist\n"
+	.string "Der Arenaleiter von Xeneroville ist\n"
 	.string "einfach anbetungswürdig.\p"
 	.string "Aber das heißt auch, dass ich viele\n"
 	.string "Rivalinnen habe, die um seine Gunst\l"
 	.string "kämpfen.\p"
-	.string "Er wurde mit RISIKOTACKLE verzaubert.\n"
+	.string "Er wurde mit Risikotackle verzaubert.\n"
 	.string "Unsere Augen trafen sich nicht.\p"
-	.string "Darf ich einem deiner POKéMON\n"
-	.string "RISIKOTACKLE beibringen?$"
+	.string "Darf ich einem deiner Pokémon\n"
+	.string "Risikotackle beibringen?$"
 
 MoveTutor_Text_DoubleEdgeDeclined:
 	.string "Oh…\n"
 	.string "Auch du lehnst mich also ab…$"
 
 MoveTutor_Text_DoubleEdgeWhichMon:
-	.string "Schön!!! Welchem POKéMON soll ich\n"
-	.string "RISIKOTACKLE beibringen?$"
+	.string "Schön!!! Welchem Pokémon soll ich\n"
+	.string "Risikotackle beibringen?$"
 
 MoveTutor_Text_DoubleEdgeTaught:
 	.string "Ich werde nicht mehr für die Liebe\n"
@@ -227,40 +227,40 @@ MoveTutor_Text_ExplosionTeach:
 	.string "Ernsthaft! Mein Ruhm wird\n"
 	.string "explosionsartig zum Vorschein kommen.\p"
 	.string "Wenn du an mich glaubst, bringe ich\n"
-	.string "einem deiner POKéMON EXPLOSION bei.$"
+	.string "einem deiner Pokémon Explosion bei.$"
 
 MoveTutor_Text_ExplosionDeclined:
 	.string "Argh! Nur weil ich in der Pampa lebe,\n"
 	.string "ignorierst du mein Angebot?!?$"
 
 MoveTutor_Text_ExplosionWhichMon:
-	.string "Super! Das wird eine EXPLOSION!\n"
-	.string "Welchem POKéMON soll ich es beibringen?$"
+	.string "Super! Das wird eine Explosion!\n"
+	.string "Welchem Pokémon soll ich es beibringen?$"
 
 MoveTutor_Text_ExplosionTaught:
-	.string "Schon lange bringe ich POKéMON\n"
-	.string "EXPLOSION bei. Jetzt wird es Zeit an\l"
-	.string "meine eigene EXPLOSION zu denken…\p"
+	.string "Schon lange bringe ich Pokémon\n"
+	.string "Explosion bei. Jetzt wird es Zeit an\l"
+	.string "meine eigene Explosion zu denken…\p"
 	.string "Vielleicht bin ich schon so lange hier,\n"
 	.string "weil es mir hier doch gefällt?!?$"
 
 MoveTutor_Text_HeadbuttTeach:
 	.string "Was ich mache?\p"
 	.string "Ich schüttle die Bäume mit\n"
-	.string "einer KOPFNUSS. Denkst du dein POKéMON\l"
+	.string "einer Kopfnuss. Denkst du dein Pokémon\l"
 	.string "möchte das auch lernen?\p"
 	.string "Ich kann es einem beibringen,\n"
 	.string "wenn du möchtest.$"
-	
+
 MoveTutor_Text_HeadbuttWhichMon:
 	.string "Ehehe, alles klar! Es wäre schön\n"
-	.string "wenn das POKéMON aussieht wie ich.$"
+	.string "wenn das Pokémon aussieht wie ich.$"
 
 MoveTutor_Text_HeadbuttDeclined:
 	.string "Sei nicht schüchtern.\n"
-	.string "KOPFNUSS LOS!$"
+	.string "Kopfnuss los!$"
 
 MoveTutor_Text_HeadbuttTaught:
-	.string "Schüttle Bäume mit KOPFNUSS.\n"
-	.string "Manchmal fallen schlafende POKéMON\l"
+	.string "Schüttle Bäume mit Kopfnuss.\n"
+	.string "Manchmal fallen schlafende Pokémon\l"
 	.string "herunter.$"

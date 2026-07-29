@@ -10,12 +10,12 @@ OldaleTown_House2_EventScript_Man::
 	end
 
 OldaleTown_House2_Text_PokemonLevelUp:
-	.string "Während eines Kampfes können POKéMON\n"
+	.string "Während eines Kampfes können Pokémon\n"
 	.string "manchmal einen Level dazugewinnen und\l"
 	.string "stärker werden.$"
 
 OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon:
-	.string "Sobald deine Team-POKéMON stärker\n"
+	.string "Sobald deine Team-Pokémon stärker\n"
 	.string "geworden sind, kannst du auch andere\l"
 	.string "Orte bereisen.$"
 

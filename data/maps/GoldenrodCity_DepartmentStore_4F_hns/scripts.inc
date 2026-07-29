@@ -35,19 +35,19 @@ GoldenrodDeptStore4_EventScript_Sign::
 	end
 
 GoldenrodDeptStore_Text_4FCooltrainerM:
-	.string "Hey! Ich mag starke Pokémon.\p"
-	.string "Ich füttere sie mit PROTEIN,\n"
-	.string "um ihren ANGR zu verstärken.$"
+	.string "Ich pumpe mein Team mit Protein voll,\n"
+	.string "weil ich auf starke Pokémon stehe und\l"
+	.string "es ihren Angriffs-Wert steigert!$"
 
 GoldenrodDeptStore_Text_4FBugCatcher:
-	.string "EISEN verstärkt\n"
-	.string "die VERT deiner Pokémon.$"
+	.string "Mit Eisen kannst du die Verteidigung\n"
+	.string "deiner Pokémon verstärken!$"
 
 GoldenrodDeptStore_Text_4FGameboyKid:
 	.string "Manche Pokémon entwickeln sich\n"
 	.string "nur durch Tausch.\p"
-	.string "Ich kenne vier: MASCHOCK, KADABRA,\n"
-	.string "ALPOLLO und GEOROK.\p"
+	.string "Ich kenne vier: Maschock, Kadabra,\n"
+	.string "Alpollo und Georok.\p"
 	.string "Ich hörte, es gibt noch weitere.$"
 
 GoldenrodDeptStore4_EventScript_Clerk::
@@ -71,5 +71,5 @@ GoldenrodDeptStore4_Pokemart:
 	pokemartlistend
 
 GoldenrodDeptStore_Text_4FDirectory:
-	.string "Wir kümmern uns um Ihre Pokémon!\p"
-	.string "3S ARZNEI$"
+	.string "Wir kümmern uns um deine Pokémon 3S:\n"
+	.string "Arznei$"

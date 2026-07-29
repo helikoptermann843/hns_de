@@ -74,10 +74,10 @@ VioletCity_TrainerSchool_Text_Twin:
 	.string "richtige Level erreichen oder leicht\l"
 	.string "höher, je nachdem, wie viele Kämpfe\l"
 	.string "du führst.\p"
-	.string "Willst du klassischen GEN 1-4\n"
-	.string "EP-Gewinn, schalte EP-TEILEN aus.\p"
+	.string "Willst du klassischen Gen 1-4\n"
+	.string "EP-Gewinn, schalte EP-Teilen aus.\p"
 	.string "Für ein modernes Spielerlebnis,\n"
-	.string "schalte EP-TEILEN an.\p"
+	.string "schalte EP-Teilen an.\p"
 	.string "Du entscheidest, wie du spielen\n"
 	.string "willst!$"
 
@@ -139,7 +139,7 @@ VioletCity_TrainerSchool_Text_Youngster1:
 	.string "Maschock und Georok entwickeln\n"
 	.string "sich auf LVL 38, Kadabra und\l"
 	.string "Alpollo auf LVL 42.\p"
-	.string "Manche Items, wie METALLMANTEL, lassen\n"
+	.string "Manche Items, wie Metallmantel, lassen\n"
 	.string "bestimmte Pokémon sich entwickeln,\l"
 	.string "wenn sie gehalten und trainiert werden.$"
 
@@ -147,15 +147,15 @@ VioletCity_TrainerSchool_Text_GameboyKid1:
 	.string "Bemerkenswerte Pokémon in einem\n"
 	.string "Gebiet kann man in der\l"
 	.string "Overworld sehen!\p"
-	.string "Schaue die Routen bei TAG\n"
-	.string "und NACHT an!$"
+	.string "Schaue die Routen bei Tag\n"
+	.string "und Nacht an!$"
 
 VioletCity_TrainerSchool_Text_GameboyKid2:
-	.string "Beeren in JOHTO heilen oder\n"
+	.string "Beeren in Johto heilen oder\n"
 	.string "machen Pokébälle.\p"
-	.string "Beeren in KANTO senken\n"
+	.string "Beeren in Kanto senken\n"
 	.string "Statuswerte eines Pokémon.\p"
-	.string "Das DOJO in KANTO hilft Pokémon,\n"
+	.string "Das Dojo in Kanto hilft Pokémon,\n"
 	.string "perfekte Statuswerte zu erlangen.$"
 
 VioletCity_TrainerSchool_Text_Youngster2:

@@ -3,7 +3,7 @@ SproutTower_2F_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-SproutTower_2F_OnTransition: 
+SproutTower_2F_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -48,7 +48,7 @@ SproutTower_Text_SageEdmond_Beaten:
 
 SproutTower_Text_SageEdmond_AfterBattle:
 	.string "Ich habe versucht, die eleganten Bewe-\n"
-	.string "gungen von KNOFENSA nachzuahmen…\l"
+	.string "gungen von Knofensa nachzuahmen…\l"
 	.string "Aber ich habe nicht genug trainiert.$"
 
 SproutTower_Text_2F_Statue:

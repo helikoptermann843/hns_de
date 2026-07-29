@@ -98,13 +98,13 @@ Route24_Movement_WalkDown::
 
 Route24_Text_JustEarnedFabulousPrize::
 	.string "Herzlichen Glückwunsch!\n"
-	.string "Du hast alle fünf TRAINER besiegt!\p"
+	.string "Du hast alle fünf Trainer besiegt!\p"
 	.string "Du hast einen großartigen Preis\n"
 	.string "gewonnen!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-	.string "{PLAYER} received a NUGGET\n"
-	.string "from the mystery TRAINER!$"
+	.string "{PLAYER} received a Nugget\n"
+	.string "from the mystery Trainer!$"
 
 Route24_Text_YouDontHaveAnyRoom::
 	.string "Du hast keinen Platz für weitere\n"
@@ -112,9 +112,9 @@ Route24_Text_YouDontHaveAnyRoom::
 
 Route24_Text_JoinTeamRocket::
 	.string "By the way, how would you like to\n"
-	.string "join TEAM ROCKET?\p"
+	.string "join Team Rocket?\p"
 	.string "We're a group of professional\n"
-	.string "criminals specializing in POKéMON!\p"
+	.string "criminals specializing in Pokémon!\p"
 	.string "Want to join?\p"
 	.string "Are you sure?\p"
 	.string "Come on, join us!\p"
@@ -129,7 +129,7 @@ Route24_Text_RocketDefeat::
 
 Route24_Text_YoudBecomeTopRocketLeader::
 	.string "Bei deinem Können wärst du im\n"
-	.string "TEAM ROCKET leicht die rechte Hand\l"
+	.string "Team Rocket leicht die rechte Hand\l"
 	.string "vom Boss!\p"
 	.string "Denke darüber nach! Lass dir\n"
 	.string "diese Chance nicht entgehen!$"

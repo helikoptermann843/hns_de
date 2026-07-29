@@ -30,7 +30,7 @@ LavenderTown_RadioStation_EventScript_DirectorReturnedMachinePart::
 	setflag FLAG_KANTO_RADIO_GOT
 	release
 	end
-LavenderTown_RadioStation_EventScript_DirectorGotRadio::	
+LavenderTown_RadioStation_EventScript_DirectorGotRadio::
 	msgbox LavenderTown_RadioStation_Text_Gentleman_GotExpnCard, MSGBOX_NPC
 	end
 
@@ -89,7 +89,7 @@ LavenderTown_RadioStation_Text_Gentleman_ReturnedMachinePart:
 
 LavendertownRadioStation_Text_Upgraded_Radio:
 	.string "{PLAYER} erhielt das\n"
-	.string "RADIO-Up-Grade!$"
+	.string "Radio-Up-Grade!$"
 
 LavenderTown_RadioStation_Text_Gentleman_GotExpnCard:
 	.string "Damit kannst du neue Sender auf\n"
@@ -122,11 +122,11 @@ LavenderTown_RadioStation_Text_Directory:
 LavenderTown_RadioStation_Text_PokeFluteSign:
 	.string "Wecke Pokémon mit sanften\n"
 	.string "Tönen der Pokéflöte auf\l"
-	.string "KANAL 20$"
+	.string "Kanal 20$"
 
 LavenderTown_RadioStation_Text_ReferenceLibrary:
 	.string "Wow! Ein ganzes Regal voller\n"
-	.string "Pokémon-CDs und Videos.\p"
+	.string "Pokémon-Cds und Videos.\p"
 	.string "Das muss die Referenzbibliothek\n"
 	.string "sein.$"
 

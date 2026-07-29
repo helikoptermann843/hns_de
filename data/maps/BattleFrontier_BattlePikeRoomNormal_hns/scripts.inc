@@ -635,7 +635,7 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown_hns:
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth_hns:
 	.string "Willkommen… Du hast wirklich Glück!\p"
-	.string "Deine POKéMON sind bald wieder\n"
+	.string "Deine Pokémon sind bald wieder\n"
 	.string "topfit…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns:
@@ -646,7 +646,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon_hns:
 	.string "Na, du bist echt ein Glückspilz.\n"
 	.string "Ich bin gerade in guter Stimmung.\p"
-	.string "Deine POKéMON sind gleich wieder\n"
+	.string "Deine Pokémon sind gleich wieder\n"
 	.string "topfit…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
@@ -659,7 +659,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons_hns:
 	.string "Entschuldige…\p"
 	.string "Hättest du Lust auf einen Kampf?\n"
-	.string "Bei einem Sieg heile ich deine POKéMON.$"
+	.string "Bei einem Sieg heile ich deine Pokémon.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe_hns:
@@ -675,7 +675,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised_hns:
 	.string "Großartig…\p"
 	.string "Wie versprochen heile ich deine\n"
-	.string "POKéMON vollständig.$"
+	.string "Pokémon vollständig.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2_hns:
@@ -688,59 +688,56 @@ BattleFrontier_BattlePikeRoomNormal_Text_WatchOut_hns:
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop_hns:
 	.string "Aber, aber!\n"
-	.string "KIRLIA, hör auf damit!$"
+	.string "Kirlia, hör auf damit!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop_hns:
 	.string "Aber, aber!\n"
-	.string "ZWIRRKLOP, hör auf damit!$"
+	.string "Zwirrklop, hör auf damit!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic_hns:
-	.string "KIRLIA setzt TOXIN ein!$"
+	.string "Kirlia setzt Toxin ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis_hns:
-	.string "{STR_VAR_1} setzt\n"
-	.string "Hypnose ein!$"
+	.string "Kirlia setzt Hypnose ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave_hns:
-	.string "{STR_VAR_1} setzt\n"
-	.string "Donnerwelle ein!$"
+	.string "Kirlia setzt Donnerwelle ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp_hns:
-	.string "{STR_VAR_1} setzt\n"
-	.string "Irrlicht ein!$"
+	.string "Kirlia setzt Irrlicht ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp_hns:
-	.string "{STR_VAR_1} setzt\n"
-	.string "Irrlicht ein!$"
+	.string "Zwirrklop setzt Irrlicht ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam_hns:
-	.string "ZWIRRKLOP setzt EISSTRAHL ein!$"
+	.string "Zwirrklop setzt Eisstrahl ein!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough_hns:
 	.string "Jetzt reicht es aber!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia_hns:
 	.string "Ich muss mich bei dir entschuldigen…\p"
-	.string "Mein KIRLIA ist eigentlich SCHEU…$"
+	.string "Mein Kirlia ist eigentlich Scheu…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops_hns:
 	.string "Ich muss mich bei dir entschuldigen…\p"
-	.string "Mein ZWIRRKLOP ist eigentlich SCHEU…$"
+	.string "Mein Zwirrklop ist eigentlich Scheu…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled_hns:
 	.string "Es greift nur an, wenn es von jemandem\n"
 	.string "erschreckt wird…\p"
-	.string "Geht es dir und deinen POKéMON gut?$"
+	.string "Geht es dir und deinen Pokémon gut?$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine_hns:
 	.string "Ich entschuldige mich für das, was\n"
 	.string "passiert ist… Ich hoffe, deinen\l"
-	.string "POKéMON geht es gut.$"
+	.string "Pokémon geht es gut.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence_hns:
-	.string "こうおん　たしつの　とちを　このむ。\n"
-	.string "ツルを　のばして　えものを　とらえる\n"
-	.string "ときの　うごきは　とても　すばやい。$"
+	.string "… … … … …\n"
+	.string "…\l"
+	.string "… … … … …\l"
+	.string "…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer_hns:
 	.string "Willkommen…\p"
@@ -750,7 +747,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer_hns:
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth_hns:
 	.string "Oh, wunderbar!\p"
 	.string "Als Belohnung für deinen Sieg sorge\n"
-	.string "ich dafür, dass deine POKéMON wieder\n"
+	.string "ich dafür, dass deine Pokémon wieder\n"
 	.string "topfit\l"
 	.string "sind.$"
 
@@ -760,9 +757,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge_hns2_hns:
 	.string "alles Gute…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen_hns:
-	.string "Ich bin LOTTE…\n"
+	.string "Ich bin Lotte…\n"
 	.string "Ich bin hier das Gesetz…\l"
-	.string "Ich bin die PFIPITISTIN…\p"
+	.string "Ich bin die Pfipitistin…\p"
 	.string "Du weißt das bestimmt schon, aber um\n"
 	.string "weitergehen zu können, musst du erst\l"
 	.string "an mir vorbei…\p"
@@ -774,20 +771,20 @@ BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck_hns:
 	.string "noch etwas davon übrig…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass_hns:
-	.string "LOTTE: … … … …\n"
+	.string "Lotte: … … … …\n"
 	.string "… …\l"
-	.string "Gib mir deinen KAMPFZONENPASS!$"
+	.string "Gib mir deinen Kampfzonenpass!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol_hns:
-	.string "Das LOSSYMBOL wurde dem\n"
-	.string "KAMPFZONENPASS hinzugefügt!$"
+	.string "Das Lossymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear_hns:
 	.string "Das war’s…\n"
 	.string "Nun verschwinde endlich…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain_hns:
-	.string "LOTTE: Du schon wieder…\p"
+	.string "Lotte: Du schon wieder…\p"
 	.string "… … … … …\n"
 	.string "…\p"
 	.string "Ich habe Berge bezwungen und Stürme\n"
@@ -804,12 +801,12 @@ BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn_hns:
 	.string "Nun mach schon!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass_hns:
-	.string "LOTTE: … … … …\n"
+	.string "Lotte: … … … …\n"
 	.string "… …\l"
-	.string "……KAMPFZONENPASS……$"
+	.string "……Kampfzonenpass……$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine_hns:
-	.string "Das LOSSYMBOL erscheint\n"
+	.string "Das Lossymbol erscheint\n"
 	.string "in einem goldenen Glanz!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget_hns:
@@ -821,7 +818,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal_hns:
 	.string "Kicher… Dein Glück scheint\n"
 	.string "dich verlassen zu haben…\p"
 	.string "Hättest du dich nicht für diesen Raum\n"
-	.string "entschieden, wären deine POKéMON schon\l"
+	.string "entschieden, wären deine Pokémon schon\l"
 	.string "längst wieder topfit…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne_hns:
@@ -829,21 +826,21 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne_hns:
 	.string "Da du dich für diesen Raum entschieden\n"
 	.string "hast, sorge ich dafür, dass eines\n"
 	.string "deiner\l"
-	.string "POKéMON wieder topfit wird.$"
+	.string "Pokémon wieder topfit wird.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo_hns:
 	.string "Ich heiße dich willkommen…\p"
 	.string "Da du dich für diesen Raum entschieden\n"
 	.string "hast, sorge ich dafür, dass deine\l"
-	.string "POKéMON wieder topfit werden.$"
+	.string "Pokémon wieder topfit werden.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
-	.string "Sei willkommen…\p"
-	.string "Kicher…\n"
-	.string "Du kannst von Glück sagen…\p"
-	.string "Denn du hast diesen Raum gewählt und\n"
-	.string "ich heile all deine POKéMON.$"
+	.string "I welcome you…\p"
+	.string "Giggle…\n"
+	.string "You should thank your lucky stars…\p"
+	.string "Since you have chosen this room,\n"
+	.string "all your Pokémon will be restored…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
 	.string "Ich werde unsere Meisterin rufen…$"
@@ -852,5 +849,5 @@ BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons_hns:
 	.string "Du bist ein Glückspilz! Ich habe heute\n"
 	.string "ausgesprochen gute Laune.\p"
 	.string "Ich werde dafür sorgen, dass zwei\n"
-	.string "deiner POKéMON wieder topfit werden.$"
+	.string "deiner Pokémon wieder topfit werden.$"
 

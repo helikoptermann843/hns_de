@@ -24,7 +24,7 @@ CianwoodHouse2_EventScript_Twin::
 	closemessage
 	release
 	end
-	
+
 CianwoodCity_Text_LugiaHouseTeacher:
 	.string "Bist du von Oliviana City hergekommen?\n"
 	.string "Dann hast du bestimmt diese vier Inseln\l"

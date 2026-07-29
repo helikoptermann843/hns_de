@@ -3,7 +3,7 @@ Route37_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route37_OnTransition: 
+Route37_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -15,7 +15,7 @@ Route37_EventScript_TwinAnn::
 	msgbox Route37_Text_TwinsAnnAndAnne1_After, MSGBOX_DEFAULT
 	release
 	end
-	
+
 Route37_EventScript_TwinAnne::
 	trainerbattle_double TRAINER_ANN_AND_ANNE_HNS, Route37_Text_TwinsAnnAndAnne2_Seen, Route37_Text_TwinsAnnAndAnne2_Beaten, Route104_Text_GinaNotEnoughMons
 	special GetPlayerBigGuyGirlString
@@ -119,7 +119,7 @@ Route37_Text_PsychicGreg_After:
 Route37_Text_Sunny_Meet:
 	.string "Sonnfried: Hi!\p"
 	.string "Ich bin Sonnfried aus der\n"
-	.string "WOCHENTAGS-FAMILIE!\p"
+	.string "Wochentags-Familie!\p"
 	.string "Errätst du meinen Lieblingstag,\n"
 	.string "bekommst du ein Geschenk.$"
 
@@ -155,4 +155,4 @@ Route37_Text_Sunny_NotSunday:
 	.string "Das hatte ich vergessen!$"
 
 Route37_Text_Sign:
-	.string "ROUTE 37$"
+	.string "Route 37$"

@@ -244,9 +244,9 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn_hns:
 	.string "Beeil dich mal ein bisschen.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead_hns:
-	.string "Hey, mein Name ist KEVIN!\n"
+	.string "Hey, mein Name ist Kevin!\n"
 	.string "Ich bin hier für alles verantwortlich,\l"
-	.string "daher bin ich der FABRIKLEITER!\p"
+	.string "daher bin ich der Fabrikleiter!\p"
 	.string "Ich habe mir deine Wechselkampf-Daten\n"
 	.string "angeschaut.\p"
 	.string "Du scheinst schon auf der richtigen\n"
@@ -263,19 +263,19 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead_hns:
 	.string "Ich werde gegen dich antreten, unter\n"
 	.string "den gleichen Bedingungen wie sie für\p"
 	.string "dich gelten. Ich besorge mir Leih-\n"
-	.string "POKéMON.$"
+	.string "Pokémon.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn_hns:
 	.string "Schüttle das ab, was du nur gelesen\n"
 	.string "hast und sei bereit!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass_hns:
-	.string "KEVIN: Clever gemacht!\n"
-	.string "Gib mir deinen KAMPFZONENPASS!$"
+	.string "Kevin: Clever gemacht!\n"
+	.string "Gib mir deinen Kampfzonenpass!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol_hns:
-	.string "Das KENNTNISSYMBOL wurde dem\n"
-	.string "KAMPFZONENPASS hinzugefügt!$"
+	.string "Das Kenntnissymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
 	.string "Heh… Deine Flamme ist wirklich hell…\p"
@@ -285,7 +285,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred_hns:
 	.string "Erfahrungen sammelst!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime_hns:
-	.string "KEVIN: Hey, hey! Wie geht’s? Hast\n"
+	.string "Kevin: Hey, hey! Wie geht’s? Hast\n"
 	.string "du schon viel dazugelernt?\p"
 	.string "Oh…\p"
 	.string "Dein Blick ist härter und\n"
@@ -298,14 +298,14 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn_hns:
 	.string "Dann mal los!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass_hns:
-	.string "KEVIN: Was war das denn…\n"
+	.string "Kevin: Was war das denn…\n"
 	.string "Du gehörst bereits in eine andere\n"
 	.string "Liga. \p"
 	.string "Meine Güte! Wow!\n"
-	.string "Gib mir deinen KAMPFZONENPASS!$"
+	.string "Gib mir deinen Kampfzonenpass!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine_hns:
-	.string "Das KENNTNISSYMBOL erscheint\n"
+	.string "Das Kenntnissymbol erscheint\n"
 	.string "in einem goldenen Glanz!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou_hns:

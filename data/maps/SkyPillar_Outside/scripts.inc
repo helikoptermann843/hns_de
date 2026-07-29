@@ -141,32 +141,32 @@ SkyPillar_Outside_Text_DoorIsClosed:
 	.string "Die Tür ist zu.$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WASSILI: Oh, das tut mir schrecklich\n"
+	.string "Wassili: Oh, das tut mir schrecklich\n"
 	.string "Leid!\p"
 	.string "In meiner Hast habe ich gar nicht\n"
 	.string "bemerkt, dass ich dich zurückgelassen\l"
 	.string "habe.\p"
-	.string "Ich habe die Türen des HIMMELTURMs\n"
+	.string "Ich habe die Türen des Himmelturms\n"
 	.string "aufgeschlossen.\p"
 	.string "Lass uns gehen, {PLAYER}{KUN}!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WASSILI: Das ist ein Erdbeben!\p"
+	.string "Wassili: Das ist ein Erdbeben!\p"
 	.string "Wir dürfen keine Sekunde verlieren!\n"
 	.string "Wir müssen uns beeilen!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "WASSILI: Hmm…\n"
+	.string "Wassili: Hmm…\n"
 	.string "Die Situation verschärft sich…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WASSILI: Das ist schlecht…\p"
+	.string "Wassili: Das ist schlecht…\p"
 	.string "Das Wetter spielt selbst hier\n"
 	.string "verrückt… \p"
 	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA befindet sich sicher auf\n"
+	.string "Rayquaza befindet sich sicher auf\n"
 	.string "einer der oberen Ebenen.\p"
-	.string "Ich mache mir Sorgen um XENEROVILLE.\n"
+	.string "Ich mache mir Sorgen um Xeneroville.\n"
 	.string "Ich muss zurück.\p"
 	.string "Nun liegt alles in deiner Hand!\n"
 	.string "Enttäusch uns nicht.$"

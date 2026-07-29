@@ -2,7 +2,7 @@ SeafoamIslands_Gym_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, SeafoamIslands_Gym_OnTransition
 	.byte 0
 
-SeafoamIslands_Gym_OnTransition: 
+SeafoamIslands_Gym_OnTransition:
 	setflag FLAG_TEMP_1
 	end
 
@@ -55,20 +55,20 @@ SeafoamIslands_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SeafoamIslands_Gym_Text_GymStatue::
-    .string "ZINNOBER POKéMON ARENA\n"
-    .string "LEITER: PYRO\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT$"
+    .string "Zinnober Pokémon Arena\n"
+    .string "Leiter: Pyro\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
-    .string "ZINNOBER POKéMON ARENA\n"
-    .string "LEITER: PYRO\p"
-	.string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Zinnober Pokémon Arena\n"
+    .string "Leiter: Pyro\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"
 
 SeafoamIslands_Gym_Text_TM:
 	.string "Nimm auch das hier. Diese TM\n"
-	.string "enthält die mächtige HITZEKOLLER.\p"
+	.string "enthält die mächtige Hitzekoller.\p"
 	.string "Ich hoffe, dein nächster Gegner\n"
 	.string "hat Feuerheiler dabei! Waaah!$"
 
@@ -76,7 +76,7 @@ SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "Pyro: Waaah!\p"
 	.string "Meine Arena in Lavados ist\n"
 	.string "abgebrannt.\p"
-	.string "Meine Feuer-PokÉMon und ich sind\n"
+	.string "Meine Feuer-Pokémon und ich sind\n"
 	.string "wegen des Vulkans obdachlos.\p"
 	.string "Waaah!\p"
 	.string "Aber ich bin als Arena-leiter\n"
@@ -87,13 +87,13 @@ SeafoamIslands_Gym_Text_BlaineIntro:
 	.string "Feuerheiler!$"
 
 SeafoamIslands_Gym_Text_BlaineWinLoss:
-	.string "PYRO: Toll. Ich bin ausgebrannt…\p"
-	.string "Du hast den VULKANORDEN\n"
+	.string "Pyro: Toll. Ich bin ausgebrannt…\p"
+	.string "Du hast den Vulkanorden\n"
 	.string "verdient!$"
 
 SeafoamIslands_Gym_Text_ReceivedVolcanoBadge:
 	.string "{PLAYER} erhielt den\n"
-	.string "VULKANORDEN.$"
+	.string "Vulkanorden.$"
 
 SeafoamIslands_Gym_Text_BlaineAfterBattle:
 	.string "Pyro: Diesmal habe ich verloren. Aber\n"
@@ -123,14 +123,14 @@ SeafoamIslands_Gym_Text_GymGuideWin:
 	.string "Yo!\p"
 	.string "… Hm? Ist es schon vorbei?\p"
 	.string "Sorry, sorry!\p"
-	.string "Die ZINNOBER-ARENA war weg, ich\n"
+	.string "Die Zinnober-Arena war weg, ich\n"
 	.string "wusste nicht, wo ich dich finde.\p"
 	.string "Aber hey, du bist auch ohne\n"
 	.string "meinen Rat stark genug.\l"
 	.string "Ich wusste, du gewinnst!$"
 
 SeafoamIslands_Gym_Text_GymGuideWin2:
-	.string "Eine POKÉMON-ARENA kann überall\n"
-	.string "sein, solange der ARENA-LEITER\l"
+	.string "Eine Pokémon-Arena kann überall\n"
+	.string "sein, solange der Arena-Leiter\l"
 	.string "da ist.\p"
 	.string "Ein Gebäude braucht es nicht.$"

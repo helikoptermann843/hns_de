@@ -79,20 +79,20 @@ SaffronCity_Gym_Text_SabrinaWinLoss:
 
 SaffronCity_Gym_Text_ReceivedMarshBadge:
 	.string "{PLAYER} erhielt den\n"
-	.string "SUMPFORDEN.$"
+	.string "Sumpforden.$"
 
 SaffronCity_Gym_Text_MarshBadgeInfo:
-	.string "SABRINA: Der SUMPFORDEN\n"
+	.string "Sabrina: Der Sumpforden\n"
 	.string "weckt deine verborgenen Kräfte…\p"
 	.string "Auch wenn ich deine Kraft nicht\n"
 	.string "genau vorhersehen konnte, das\l"
 	.string "weiß ich mit Sicherheit:\p"
 	.string "Du wirst ein gefeierter und\n"
-	.string "geliebter CHAMPION!$"
+	.string "geliebter Champion!$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "Sabrina: Deine Liebe zu deinen\n"
-	.string "PokÉMon hat meine Psychokraft\l"
+	.string "Pokémon hat meine Psychokraft\l"
 	.string "überwältigt…\p"
 	.string "Die Kraft der Liebe ist wohl\n"
 	.string "auch eine Art Psychokraft…$"
@@ -107,7 +107,7 @@ SaffronCity_Gym_Text_SabrinaRematch:
 
 SaffronCity_Gym_Text_SabrinaRematchDefeat:
 	.string "Sabrina: Deine Liebe zu deinen\n"
-	.string "PokÉMon hat meine Psychokraft\l"
+	.string "Pokémon hat meine Psychokraft\l"
 	.string "wieder überwältigt…$"
 
 SaffronCity_Gym_Text_MediumRebeccaSeen:
@@ -189,13 +189,13 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "SAFFRONIA POKéMON ARENA\n"
-    .string "LEITER: SABRINA\p"
-	.string "GEWINNER:\n"
-	.string "BLUE, RED$"
+    .string "Saffronia Pokémon Arena\n"
+    .string "Leiter: Sabrina\p"
+	.string "Gewinner:\n"
+	.string "Blau, Rot$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "SAFFRONIA POKéMON ARENA\n"
-    .string "LEITER: SABRINA\p"
-    .string "GEWINNER:\n"
-	.string "BLAU, ROT, {PLAYER}$"
+    .string "Saffronia Pokémon Arena\n"
+    .string "Leiter: Sabrina\p"
+    .string "Gewinner:\n"
+	.string "Blau, Rot, {PLAYER}$"

@@ -6,7 +6,7 @@ Route15_WestEntrance_1F_EventScript_Guard::
 	end
 
 Route15_WestEntrance_1F_Text_OaksAideCameByHere::
-	.string "Arbeitest du an einem POKéDEX?\p"
-	.string "PROF. EICHs ASSISTENT ist\n"
+	.string "Arbeitest du an einem Pokédex?\p"
+	.string "Prof. Eichs Assistent ist\n"
 	.string "kürzlich hier vorbeigekommen!$"
 

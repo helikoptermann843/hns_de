@@ -78,7 +78,7 @@ MtMoon_1F_Text_MiriamDefeat::
 
 MtMoon_1F_Text_MiriamPostBattle::
 	.string "Ich werde fleißig üben, damit ich\n"
-	.string "ein guter TRAINER werde!$"
+	.string "ein guter Trainer werde!$"
 
 MtMoon_1F_Text_JovanIntro::
 	.string "Heh!\n"
@@ -98,8 +98,8 @@ MtMoon_1F_Text_IrisDefeat::
 	.string "Ich hab verloren?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-	.string "Du hast diese ORDEN im Kampf\n"
-	.string "gegen ARENALEITER gewonnen, oder?$"
+	.string "Du hast diese Orden im Kampf\n"
+	.string "gegen Arenaleiter gewonnen, oder?$"
 
 MtMoon_1F_Text_KentIntro::
 	.string "Wer da? Wohin man schaut: Überall\n"
@@ -129,6 +129,6 @@ MtMoon_1F_Text_ZubatIsABloodsucker::
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
 	.string "Hallo! Ich grabe Fossilien hier am\n"
-	.string "MONDBERG aus.\p"
-	.string "Manchmal hilft mir ROCKO, der\n"
-	.string "ARENALEITER von MARMORIA CITY.$"
+	.string "Mondberg aus.\p"
+	.string "Manchmal hilft mir Rocko, der\n"
+	.string "Arenaleiter von Marmoria City.$"

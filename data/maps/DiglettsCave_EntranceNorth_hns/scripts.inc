@@ -20,7 +20,7 @@ DiglettsCave_EntranceNorth_Text_Brock:
 	.string "Felsen, geben ein friedliches\l"
 	.string "Gefühl, findest du nicht?\p"
 	.string "Wenn du eine weitere Runde willst,\n"
-	.string "bin ich im Kampf-DOJO.$"
+	.string "bin ich im Kampf-Dojo.$"
 
 
 

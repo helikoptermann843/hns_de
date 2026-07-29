@@ -23,7 +23,7 @@ CeladonCity_Text_Erika:
 	.string "Oh, {PLAYER}.\n"
 	.string "Ist der Brunnen heute nicht Traumhaft?\p"
 	.string "wenn du erneut kämpfen willst,\n"
-	.string "triff mich im Kampf DOJO.$"
+	.string "triff mich im Kampf Dojo.$"
 
 CeladonCity_EventScript_Fatman::
 	msgbox CeladonCity_Text_Fisher, MSGBOX_NPC
@@ -73,10 +73,10 @@ CeladonCity_EventScript_Item_Recycle::
 CeladonCity_Text_Fisher:
 	.string "Dieses Quappo ist mein Partner.\p"
 	.string "Ich frage mich, ob es sich jemals\n"
-	.string "in ein Frosch-POKéMON entwickeln wird.$"
+	.string "in ein Frosch-Pokémon entwickeln wird.$"
 
 CeladonCity_Text_Poliwrath:
-	.string "QUAPPO: Quappo! Quappo!$"
+	.string "Quappo: Quappo! Quappo!$"
 
 CeladonCity_Text_Teacher1:
 	.string "Ich habe wieder an den Spielautomaten\n"
@@ -98,7 +98,7 @@ CeladonCity_Text_Gramps2:
 
 CeladonCity_Text_Youngster1:
 	.string "Willst du ein Geheimnis wissen?\p"
-	.string "Die PRISMANIA-VILLA hat eine\n"
+	.string "Die Prismania-Villa hat eine\n"
 	.string "versteckte Hintertür.$"
 
 CeladonCity_Text_Youngster2:
@@ -108,7 +108,7 @@ CeladonCity_Text_Youngster2:
 	.string "vollgefressen…$"
 
 CeladonCity_Text_Teacher2:
-	.string "Das PRISMANIA-KAUFHAUS hat die\n"
+	.string "Das Prismania-Kaufhaus hat die\n"
 	.string "größte und beste Auswahl an Waren.\p"
 	.string "Wenn du es dort nicht bekommst,\n"
 	.string "bekommst du es nirgendwo.\p"
@@ -152,21 +152,21 @@ CeladonGym_Text_Sign:
 	.string "Die Prinzessin mit dem grünen Daumen$"
 
 CeladonCity_Text_DeptStoreSign:
-	.string "Im EINKAUFSZENTRUM von\n"
-	.string "PRISMANIA CITY Findest du Alles,\l"
+	.string "Im Einkaufszentrum von\n"
+	.string "Prismania City Findest du Alles,\l"
 	.string "was dein Herz begehrt!$"
 
 CeladonCity_Text_MansionSign:
-	.string "PRISMANIA-VILLA$"
+	.string "Prismania-Villa$"
 
 CeladonCity_Text_GameCornerSign:
 	.string "Der Spielplatz für Jedermann\n"
-	.string "SPIELHALLE PRISMANIA$"
+	.string "Spielhalle Prismania$"
 
 CeladonCity_Text_TrainerTips:
-	.string "TIPPS FÜR TRAINER\p"
-	.string "Der MEGABLOCK schützt Pokémon\n"
+	.string "Tipps für Trainer\p"
+	.string "Der Megablock schützt Pokémon\n"
 	.string "vor Spezialattacken wie z.B.\l"
 	.string "Feuer und Wasser.\p"
 	.string "Hol dir deine Items im\n"
-	.string "EINKAUFSZENTRUM PRISMANIA CITY!$"
+	.string "Einkaufszentrum Prismania City!$"

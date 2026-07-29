@@ -342,13 +342,13 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOOSBACH CITY hat meistens sonniges\n"
+	.string "Moosbach City hat meistens sonniges\n"
 	.string "Wetter und einen beständigen Wind.\p"
 	.string "Ein idealer Ort, um Raketen ins All zu\n"
 	.string "schicken.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Warum will TEAM MAGMA unseren Raketen-\n"
+	.string "Warum will Team Magma unseren Raketen-\n"
 	.string "treibstoff überhaupt haben?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
@@ -358,7 +358,7 @@ MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
 	.string "Ich werde es versuchen!!!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "Wenn TEAM MAGMA den Raketentreibstoff\n"
+	.string "Wenn Team Magma den Raketentreibstoff\n"
 	.string "nimmt, kann ich nicht ins All fliegen!\n"
 	.string "\p"
 	.string "Sie dürfen mit so einer Schandtat\n"
@@ -369,7 +369,7 @@ MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
 	.string "könnten eines Tages ins All reisen…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
-	.string "TEAM MAGMA…\n"
+	.string "Team Magma…\n"
 	.string "Ob sie auch ins Weltall fliegen\l"
 	.string "wollen?!?$"
 
@@ -426,21 +426,21 @@ MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
 	.string "Störenfriede lassen wir nicht zu.$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MARC: Geh aus dem Weg!\n"
+	.string "Marc: Geh aus dem Weg!\n"
 	.string "Du wagst es, uns aufhalten zu\l"
 	.string "wollen?!?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "TROY: TEAM MAGMA…\p"
+	.string "Troy: Team Magma…\p"
 	.string "Was wollt ihr mit dem\n"
 	.string "Raketentreibstoff?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MARC: Hähähä… Da du so wissbegierig\n"
+	.string "Marc: Hähähä… Da du so wissbegierig\n"
 	.string "bist, werden wir dich aufklären.\p"
 	.string "Wir wollen den Treibstoff über dem\n"
-	.string "SCHLOTBERG abwerfen.\p"
-	.string "Nun, wo GROUDON weg ist, hat dieser\n"
+	.string "Schlotberg abwerfen.\p"
+	.string "Nun, wo Groudon weg ist, hat dieser\n"
 	.string "Berg keinen Nutzen mehr für uns!\p"
 	.string "Daher werden wir den Vulkan mit Hilfe\n"
 	.string "des Treibstoffs zum Ausbruch bringen.\n"
@@ -448,13 +448,13 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
 	.string "Das wird wild!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
-	.string "TROY: {PLAYER}{KUN}!\n"
+	.string "Troy: {PLAYER}{KUN}!\n"
 	.string "Du hilfst mir?\p"
 	.string "Dann lass uns als Team kämpfen.\n"
 	.string "Bist du bereit?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "TROY: Dann Beeilung!\n"
+	.string "Troy: Dann Beeilung!\n"
 	.string "Beeilung, Beeilung!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
@@ -466,9 +466,9 @@ MossdeepCity_SpaceCenter_Text_TabithaDefeat:
 	.string "Ich stehe auf der Seite vom Boss…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MARC: Wir konnten den Vulkan nicht zum\n"
+	.string "Marc: Wir konnten den Vulkan nicht zum\n"
 	.string "Ausbruch bringen…\p"
-	.string "Wir konnten GROUDON nicht\n"
+	.string "Wir konnten Groudon nicht\n"
 	.string "kontrollieren…\p"
 	.string "Ist unser Plan, die Landmassen zu\n"
 	.string "vergrößern, vielleicht doch falsch?\p"
@@ -477,27 +477,27 @@ MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
 	.string "… … … … …\l"
 	.string "…\p"
 	.string "Wenn…\n"
-	.string "Wenn wir, TEAM MAGMA, uns geirrt\n"
+	.string "Wenn wir, Team Magma, uns geirrt\n"
 	.string "haben…\l"
 	.string "… … … … …\l"
 	.string "…\p"
-	.string "dann liegt TEAM AQUA mit seinem Plan,\n"
+	.string "dann liegt Team Aqua mit seinem Plan,\n"
 	.string "das Meer auszuweiten, vielleicht\l"
 	.string "genauso falsch?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MARC: Gut…\n"
+	.string "Marc: Gut…\n"
 	.string "Wir werden den Treibstoff hier lassen…\n"
 	.string "\p"
 	.string "Es gibt wichtigere Dinge, um die ich\n"
 	.string "mich kümmern muss…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "TROY: Huh, war das Nerven zerreißend.\n"
+	.string "Troy: Huh, war das Nerven zerreißend.\n"
 	.string "Danke, {PLAYER}{KUN}.\p"
 	.string "Ich habe etwas, das ich dir als\n"
 	.string "Dankeschön für deine Hilfe geben\l"
 	.string "möchte.\p"
 	.string "Komm mich bitte besuchen.\p"
-	.string "Ach so: Ich lebe nicht in METAROST\n"
-	.string "CITY. Ich lebe hier auf dieser Insel.$"
+	.string "Ach so: Ich lebe nicht in Metarost\n"
+	.string "City. Ich lebe hier auf dieser Insel.$"

@@ -371,10 +371,10 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Na, wie sieht es aus, auf dem Weg zum\n"
-	.string "CHAMP, {PLAYER}?\p"
-	.string "Die ARENALEITER hier setzen PSYCHO-\n"
-	.string "POKéMON ein.\p"
-	.string "Setzt du KAMPF- oder GIFT-POKéMON ein,\n"
+	.string "Champ, {PLAYER}?\p"
+	.string "Die Arenaleiter hier setzen Psycho-\n"
+	.string "Pokémon ein.\p"
+	.string "Setzt du Kampf- oder Gift-Pokémon ein,\n"
 	.string "werden diese großen Schaden nehmen!\p"
 	.string "Und außerdem wirst du dich gegen eine\n"
 	.string "außergewöhnliche Kombination von\l"
@@ -382,11 +382,11 @@ MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Wenn du gewinnen willst, musst du\n"
 	.string "ihnen\n"
 	.string "beweisen, wie sehr du mit deinen\l"
-	.string "POKéMON verbunden bist! Und nun los!$"
+	.string "Pokémon verbunden bist! Und nun los!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
 	.string "Wow, du bist erstaunlich!\n"
-	.string "Du bist ein großartiger TRAINER!$"
+	.string "Du bist ein großartiger Trainer!$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
 	.string "Kämpfe hängen von der Stärke deines\n"
@@ -587,29 +587,29 @@ MossdeepCity_Gym_Text_TateAndLizaDefeat:
 	.string "dies.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} erhält den MENTALORDEN von\n"
-	.string "SVENJA und BEN.$"
+	.string "{PLAYER} erhält den Mentalorden von\n"
+	.string "Svenja und Ben.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "BEN: Der MENTALORDEN erhöht den SP.\n"
-	.string "ANG. und die SP. VER. von POKéMON.\p"
-	.string "SVENJA: Und du kannst damit die VM\n"
-	.string "TAUCHER außerhalb eines Kampfes\l"
+	.string "Ben: Der Mentalorden erhöht den SP.\n"
+	.string "ANG. und die SP. Ver. von Pokémon.\p"
+	.string "Svenja: Und du kannst damit die VM\n"
+	.string "Taucher außerhalb eines Kampfes\l"
 	.string "einsetzen.\p"
-	.string "BEN: Dies ist ebenfalls für dich.$"
+	.string "Ben: Dies ist ebenfalls für dich.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "BEN: TM04 enthält…\n"
-	.string "SVENJA: GEDANKENGUT!\p"
-	.string "BEN: Dies erhöht den SP. ANG. und…\n"
-	.string "SVENJA: Erhöht die SP. VER.!\p"
-	.string "BEN: Eine Attacke, die perfekt…\n"
-	.string "SVENJA: Für PSYCHO-POKéMON ist!\p"
+	.string "Ben: TM04 enthält…\n"
+	.string "Svenja: Gedankengut!\p"
+	.string "Ben: Dies erhöht den SP. ANG. und…\n"
+	.string "Svenja: Erhöht die SP. Ver.!\p"
+	.string "Ben: Eine Attacke, die perfekt…\n"
+	.string "Svenja: Für Psycho-Pokémon ist!\p"
 	.string "… … … … … …$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "ARENALEITER BEN und SVENJA wurden im\n"
-	.string "POKéNAV-Verzeichnis eingetragen.$"
+	.string "Arenaleiter Ben und Svenja wurden im\n"
+	.string "Pokénav-Verzeichnis eingetragen.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "Ben: Es scheint, als sei das Band\n"
@@ -620,22 +620,22 @@ MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "daher können wir das vorhersagen.$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "BEN: Hähähä… Bist du überrascht?\p"
-	.string "SVENJA: Dass es hier 2 ARENALEITER\n"
+	.string "Ben: Hähähä… Bist du überrascht?\p"
+	.string "Svenja: Dass es hier 2 Arenaleiter\n"
 	.string "gibt?\p"
-	.string "BEN: Hups, du hast nur ein…\n"
-	.string "SVENJA: POKéMON für den Kampf.\p"
-	.string "BEN: So können wir nicht kämpfen!\p"
-	.string "SVENJA: Wenn du uns herausfordern\n"
-	.string "willst, dann musst du mehr POKéMON\l"
+	.string "Ben: Hups, du hast nur ein…\n"
+	.string "Svenja: Pokémon für den Kampf.\p"
+	.string "Ben: So können wir nicht kämpfen!\p"
+	.string "Svenja: Wenn du uns herausfordern\n"
+	.string "willst, dann musst du mehr Pokémon\l"
 	.string "haben.$"
 
 MossdeepCity_Gym_Text_GymStatue:
-	.string "POKéMON ARENA von MOOSBACH CITY$"
+	.string "Pokémon Arena von Moosbach City$"
 
 MossdeepCity_Gym_Text_GymStatueCertified:
-	.string "POKéMON ARENA von MOOSBACH CITY\p"
-	.string "SVENJA UND BENS ANERKANNTE TRAINER:\n"
+	.string "Pokémon Arena von Moosbach City\p"
+	.string "Svenja und Bens anerkannte Trainer:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:

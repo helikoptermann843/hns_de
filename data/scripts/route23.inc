@@ -212,7 +212,7 @@ Route23_Movement_WalkDown::
 	step_end
 
 Text_OnlySkilledTrainersAllowedThrough::
-	.string "Hier dürfen nur erfahrene TRAINER\n"
+	.string "Hier dürfen nur erfahrene Trainer\n"
 	.string "passieren!\p"
 	.string "Und du besitzt den {STR_VAR_1}\n"
 	.string "noch nicht!$"
@@ -231,7 +231,7 @@ Text_OnlyPassWithBadgeDontHaveYet::
 	.string "You don't have the {STR_VAR_1}\n"
 	.string "yet.\p"
 	.string "You have to have it to get to\n"
-	.string "the POKéMON LEAGUE.$"
+	.string "the Pokémon League.$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
 	.string "You can pass here only if you have\n"

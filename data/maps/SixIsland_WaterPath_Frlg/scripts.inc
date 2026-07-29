@@ -89,7 +89,7 @@ SixIsland_WaterPath_Text_MiuPostBattle::
 	.string "mit Trauer…$"
 
 SixIsland_WaterPath_Text_MiuNotEnoughMons::
-	.string "LEA: MIA und ich sind ZWILLINGE.\n"
+	.string "Lea: Mia und ich sind Zwillinge.\n"
 	.string "Wir wollen gemeinsam kämpfen.$"
 
 SixIsland_WaterPath_Text_MiaIntro::
@@ -101,15 +101,15 @@ SixIsland_WaterPath_Text_MiaDefeat::
 	.string "Ein schlechter Gewinner!$"
 
 SixIsland_WaterPath_Text_MiaPostBattle::
-	.string "MIA: Oh…\n"
-	.string "Es tut mir Leid, meine POKéMON…$"
+	.string "Mia: Oh…\n"
+	.string "Es tut mir Leid, meine Pokémon…$"
 
 SixIsland_WaterPath_Text_MiaNotEnoughMons::
-	.string "MIA: Oh, du hast nur ein POKéMON?\p"
+	.string "Mia: Oh, du hast nur ein Pokémon?\p"
 	.string "Bist du nicht einsam?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-	.string "Das TEAM ROCKET hat die Kontrolle\n"
+	.string "Das Team Rocket hat die Kontrolle\n"
 	.string "über das Gebäude übernommen!$"
 
 SixIsland_WaterPath_Text_RouteSign::

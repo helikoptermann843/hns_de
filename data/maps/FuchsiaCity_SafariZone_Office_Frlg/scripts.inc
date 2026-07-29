@@ -18,15 +18,15 @@ FuchsiaCity_SafariZone_Office_EventScript_Worker4::
 	end
 
 FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
-	.string "Der WÄRTER trägt den Spitznamen\n"
-	.string "FLEGMON.\p"
-	.string "Er und FLEGMON ähneln sich sehr!$"
+	.string "Der Wärter trägt den Spitznamen\n"
+	.string "Flegmon.\p"
+	.string "Er und Flegmon ähneln sich sehr!$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
 	.string "Mein Mann tauscht für sein Leben\n"
-	.string "gern POKéMON.\p"
+	.string "gern Pokémon.\p"
 	.string "Bist du auch ein Sammler? Würdest\n"
-	.string "du bitte POKéMON mit ihm tauschen?$"
+	.string "du bitte Pokémon mit ihm tauschen?$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
 	.string "Hallo!\p"
@@ -34,10 +34,10 @@ FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
 	.string "gegen ein {PLAYER} tauschen?$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
-	.string "FLEGMON hält zur Zeit eine\n"
+	.string "Flegmon hält zur Zeit eine\n"
 	.string "Werbekampagne.\p"
 	.string "Erreiche die abgelegenste\n"
-	.string "Stelle in der SAFARI-ZONE.\p"
+	.string "Stelle in der Safari-Zone.\p"
 	.string "Wenn du das schaffst, erhältst\n"
 	.string "du einen praktischen Preis!$"
 

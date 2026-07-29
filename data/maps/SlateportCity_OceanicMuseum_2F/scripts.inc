@@ -269,11 +269,11 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Ja? Wenn du BRIGG suchst… Der\n"
+	.string "Ja? Wenn du Brigg suchst… Der\n"
 	.string "bin ich.\p"
 	.string "Ah! Das müssen die Stücke sein, die\l"
 	.string "ich\n"
-	.string "bei MR. TRUMM von DEVON bestellt habe.\p"
+	.string "bei Mr. Trumm von Devon bestellt habe.\p"
 	.string "\p"
 	.string "Danke schön! Das ist großartig!\n"
 	.string "Nun können wir unsere Expedition\l"
@@ -285,12 +285,12 @@ SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
 	.string "uns!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
-	.string "KAPT. BRIGG: W… Was?\n"
+	.string "Kapt. Brigg: W… Was?\n"
 	.string "Wer seid ihr?$"
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
-	.string "Wir sind TEAM AQUA!\p"
-	.string "Unser BOSS will diese Dinge haben!\n"
+	.string "Wir sind Team Aqua!\p"
+	.string "Unser Boss will diese Dinge haben!\n"
 	.string "Also hört auf zu labern und lasst die\l"
 	.string "Teile rüberwachsen!$"
 
@@ -299,7 +299,7 @@ SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
 	.string "Oh, Mann! Was für ein Desaster…\n"
-	.string "Der BOSS wird verdammt wütend sein…$"
+	.string "Der Boss wird verdammt wütend sein…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "Pah, du Waschlappen!\n"
@@ -325,22 +325,22 @@ SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
 	.string "Kind die Suppe versalzen!$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
-	.string "Wir sind TEAM AQUA und lieben\n"
+	.string "Wir sind Team Aqua und lieben\n"
 	.string "das Meer!\p"
-	.string "Und ich bin TEAM AQUAs BOSS,\n"
-	.string "ADRIAN!\p"
+	.string "Und ich bin Team Aquas Boss,\n"
+	.string "Adrian!\p"
 	.string "Wieso mischst du dich in unsere\n"
 	.string "Angelegenheiten ein?\p"
 	.string "Nein… Das kann nicht sein!\n"
-	.string "Du bist doch nicht von TEAM MAGMA?\p"
+	.string "Du bist doch nicht von Team Magma?\p"
 	.string "Warte mal, das stimmt doch einfach\n"
 	.string "nicht! Du bist doch gar nicht danach\l"
 	.string "angezogen!\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "POKéMON, Menschen - alles Leben\n"
+	.string "Pokémon, Menschen - alles Leben\n"
 	.string "basiert auf den Kräften des Meeres.\p"
-	.string "Daher setzt TEAM AQUA sich für die\n"
+	.string "Daher setzt Team Aqua sich für die\n"
 	.string "Ausweitung des Meeres ein.\p"
 	.string "Meinst du nicht auch, dass wir uns\n"
 	.string "eine\n"
@@ -356,15 +356,15 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "Vergiss das nicht!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
-	.string "KAPT. BRIGG: Du bist…\n"
+	.string "Kapt. Brigg: Du bist…\n"
 	.string "Aah, du bist {PLAYER}{KUN}…\p"
 	.string "Wow, das war eine kritische Situation!\n"
 	.string "Danke, dass du uns gerettet hast!\p"
 	.string "Oh, fast hätte ich vergessen, dass du\n"
-	.string "uns die Teile von DEVON gebracht hast!$"
+	.string "uns die Teile von Devon gebracht hast!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "KAPT. BRIGG: Hoppla!\n"
+	.string "Kapt. Brigg: Hoppla!\n"
 	.string "Wir dürfen keine Zeit mehr verlieren!\n"
 	.string "\p"
 	.string "Wir müssen so schnell wie möglich zur\n"
@@ -377,11 +377,11 @@ SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
 	.string "Ich habe hier ein Schiffsmodell\n"
 	.string "gesehen.\p"
-	.string "Es erinnert mich an das SCHIFFSWRACK\n"
-	.string "in der Nähe von FAUSTAUHAVEN…$"
+	.string "Es erinnert mich an das Schiffswrack\n"
+	.string "in der Nähe von Faustauhaven…$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
-	.string "Es ist strikt verboten, im MUSEUM\n"
+	.string "Es ist strikt verboten, im Museum\n"
 	.string "zu rennen!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
@@ -390,7 +390,7 @@ SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
 	.string "Damit würde ich gerne auf Fahrt gehen!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
-	.string "“WASSERQUALITÄT BEISPIEL 1”\n"
+	.string "“Wasserqualität Beispiel 1”\n"
 	.string "steht auf dem Schild.\p"
 	.string "Das Meer ist grenzübergreifend, aber\n"
 	.string "das Wasser scheint in jeder Region\n"
@@ -398,7 +398,7 @@ SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
 	.string "andere Qualität zu haben.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
-	.string "“ WASSERQUALITÄT BEISPIEL 2”\n"
+	.string "“ Wasserqualität Beispiel 2”\n"
 	.string "steht auf dem Schild.\p"
 	.string "Anscheinend ist der Salzgehalt in\n"
 	.string "jeder Region anders.$"
@@ -416,9 +416,9 @@ SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "betragen.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
-	.string "“MODELL DER HOENN-REGION”\p"
-	.string "Ein Diorama der HOENN-Region.\p"
-	.string "Wo liegt hier WURZELHEIM?$"
+	.string "“Modell der Hoenn-Region”\p"
+	.string "Ein Diorama der Hoenn-Region.\p"
+	.string "Wo liegt hier Wurzelheim?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
 	.string "Dies ist eine Anzeige der Meeres-\n"
@@ -434,24 +434,24 @@ SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
 	.string "abhängig vom Einfluss des Windes.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
-	.string "“DIE FÄHRE MS TIDE”\p"
+	.string "“Die Fähre MS Tide”\p"
 	.string "“Ein maßstabsgetreues Modell eines\n"
 	.string "Schiffes unter Konstruktion in der\l"
-	.string "BRIGGWERFT.”$"
+	.string "Briggwerft.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“TIEFSEE-FORSCHUNGSBOOT 1”\p"
+	.string "“Tiefsee-Forschungsboot 1”\p"
 	.string "“Ein Replikat des Hochleistungs-\n"
 	.string "U-Bootes zur Erforschung des\l"
 	.string "Meeresbodens.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
-	.string "“TAUCHBOOT”\p"
+	.string "“Tauchboot”\p"
 	.string "“Ein Replikat eines kompakten,\n"
 	.string "unbemannten Spezial-U-Bootes zur Er-\l"
 	.string "forschung des Meeresbodens.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
-	.string "“MS ANNE”\p"
+	.string "“MS Anne”\p"
 	.string "“Ein Replikat eines Luxusliners, der\n"
 	.string "um den Globus kreuzt.”$"

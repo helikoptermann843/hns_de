@@ -26,25 +26,25 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "Auf den Pfaden des PYROBERGs kreucht\n"
+	.string "Auf den Pfaden des Pyrobergs kreucht\n"
 	.string "und fleucht alles Mögliche…\p"
 	.string "Niemand kann sagen, was passieren\n"
 	.string "wird.\l"
 	.string "Dies ist für dich, es wird dir helfen.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Lass ein POKéMON das SCHUTZBAND\n"
+	.string "Lass ein Pokémon das Schutzband\n"
 	.string "tragen.\p"
-	.string "Das hilft, wilde POKéMON fern zu\n"
+	.string "Das hilft, wilde Pokémon fern zu\n"
 	.string "halten.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
 	.string "Bist du hier, um den verstorbenen\n"
-	.string "POKéMON deinen Respekt zu zollen?\p"
+	.string "Pokémon deinen Respekt zu zollen?\p"
 	.string "Du musst immer sehr fürsorglich zu\n"
-	.string "deinen POKéMON sein.$"
+	.string "deinen Pokémon sein.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "Hier ruht mein ZIGZACHS. Ich habe\n"
+	.string "Hier ruht mein Zigzachs. Ich habe\n"
 	.string "es wirklich sehr geliebt…$"
 

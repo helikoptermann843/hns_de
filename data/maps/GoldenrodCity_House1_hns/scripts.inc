@@ -34,7 +34,7 @@ GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 GoldenrodCity_NameRatersHouse_Text_RenameRival:
 	.string "Es sind die Nachrichten...\p"
 	.string "Die Polizei sucht diesen\n"
-	.string "ROTHAARIGEN JUNGEN!\p"
+	.string "rothaarigen Jungen!\p"
 	.string "Kennst du seinen Namen?$"
 
 GoldenrodCity_NameRatersHouse_EventScript_NameRater::

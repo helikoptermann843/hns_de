@@ -19,16 +19,16 @@ CeladonMansion2F_Text_Computer:
 	.string "…\p"
 	.string "Jemand war gerade dabei, eine E-Mail\n"
 	.string "zu schreiben.\p"
-	.string "…Ich hoffe, du besuchst KANTO.\p"
+	.string "…Ich hoffe, du besuchst Kanto.\p"
 	.string "Du wirst überrascht sein, wie sehr\n"
 	.string "sich hier alles verändert hat.\p"
 	.string "Du wirst auch viele Pokémon sehen,\n"
-	.string "die nicht aus JOHTO stammen.\p"
-	.string "An den PRODUZENTEN\p"
+	.string "die nicht aus Johto stammen.\p"
+	.string "An den Produzenten\p"
 	.string "…$"
 
 CeladonMansion2F_Text_DevOfficeSign:
-	.string "HEART & SOUL DEVELOPMENT OFFICE$"
+	.string "Heart & Soul Development Office$"
 
 CeladonMansion2F_EventScript_LilDill::
 	msgbox CeladonMansion2F_Text_LilDill, MSGBOX_NPC
@@ -57,7 +57,7 @@ CeladonMansion2F_EventScript_DaniRainbow::
 CeladonMansion2F_Text_LilDill:
 	.string "Hallo zusammen, Patch 15--\p"
 	.string "Entschuldigung, ich meine...\p"
-	.string "Hallo, ich bin der SPIEL-DIREKTOR!\p"
+	.string "Hallo, ich bin der Spiel-Direktor!\p"
 	.string "Ich habe die Karten, Tilesets, Skripte\n"
 	.string "und vieles mehr erstellt.\p"
 	.string "Aber ohne die anderen Entwickler und\n"
@@ -72,24 +72,24 @@ CeladonMansion2F_Text_InfiniteBacon:
 	.string "wiederaufzubauen!$"
 
 CeladonMansion2F_Text_TixoRebel:
-	.string "Hast du schon von DEM EIERBUG gehört?\n"
+	.string "Hast du schon von dem Eierbug gehört?\n"
 	.string "Es war ein Käfer aus dem Playtest,\l"
-	.string "der Pokémon zufällig in EIER\n"
+	.string "der Pokémon zufällig in Eier\n"
 	.string "verwandelte!\l"
 	.string "Ich habe die Lösung dafür entwickelt!$"
 
 CeladonMansion2F_Text_Phant:
-	.string "Ich liebe DEMAKES!\p"
-	.string "Hast du SWORD AND SHIELD ULTIMATE PLUS\n"
+	.string "Ich liebe Demakes!\p"
+	.string "Hast du Sword And Shield Ultimate Plus\n"
 	.string "gespielt? Ich habe es übersetzt!\l"
-	.string "Für mein nächstes DEMAKE werde ich\n"
-	.string "ALOLA machen!$"
+	.string "Für mein nächstes Demake werde ich\n"
+	.string "Alola machen!$"
 
 CeladonMansion2F_Text_Exclsior:
 	.string "Ich habe die einzigartigen Surf-\n"
 	.string "Sprites\n"
 	.string "für jedes Pokémon implementiert!\p"
-	.string "Da das Projekt OPEN SOURCE ist,\n"
+	.string "Da das Projekt Open Source ist,\n"
 	.string "kannst auch du eigene Features\l"
 	.string "hinzufügen!$"
 

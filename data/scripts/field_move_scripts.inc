@@ -44,16 +44,17 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "Dieser Baum sieht aus,\n"
-	.string "als könnte man ihn fällen!\p"
-	.string "ZERSCHNEIDER einsetzen?$"
+	.string "Du kannst den Zerschneider hier\n"
+	.string "einsetzen!\p"
+	.string "Möchtest du den Zerschneider\n"
+	.string "einsetzen?$"
 
 Text_MonUsedFieldMove:
-	.string "{STR_VAR_1} benutzt {STR_VAR_2}!$"
+	.string "{STR_VAR_1} setzt {STR_VAR_2} ein.$"
 
 Text_CantCut:
-	.string "Dieser Baum sieht aus,\n"
-	.string "als könnte man ihn fällen!$"
+	.string "Der Zerschneider kann hier eingesetzt\n"
+	.string "werden.$"
 
 @ Use rock smash from party menu
 EventScript_UseRockSmash::
@@ -214,12 +215,12 @@ EventScript_CancelSmash::
 	end
 
 Text_WantToSmash:
-	.string "Dieser Stein sieht zerbrechlich aus.\n"
-	.string "Möchtest du ZERTRÜMMRER einsetzen?$"
+	.string "Dieser Fels sieht zerbrechlich aus.\n"
+	.string "Soll Zertrümmerer eingesetzt werden?$"
 
 Text_CantSmash:
-	.string "Ein robuster Stein, aber ein POKéMON\n"
-	.string "kann ihn vielleicht zertrümmern.$"
+	.string "Ein großer Felsen. Ein Pokémon könnte\n"
+	.string "ihn vielleicht zertrümmern.$"
 
 EventScript_StrengthBoulder::
 	lockall
@@ -264,22 +265,22 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "Ein großer Fels, aber ein POKéMON\n"
-	.string "kann ihn vielleicht bewegen.\p"
-	.string "Möchtest du STÄRKE einsetzen?$"
+	.string "Ein Pokémon kann diesen Felsen\n"
+	.string "vielleicht bewegen.\p"
+	.string "Möchtest du Stärke einsetzen?$"
 
 Text_MonUsedStrength:
-	.string "{STR_VAR_1} benutzt STÄRKE!\p"
-	.string "{STR_VAR_1}'s STÄRKE macht es\n"
-	.string "möglich, den Felsblock zu bewegen!$"
+	.string "{STR_VAR_1} setzt Stärke ein.\p"
+	.string "Stärke von {STR_VAR_1} ermöglicht es,\n"
+	.string "den Felsen zu bewegen.$"
 
 Text_CantStrength:
-	.string "Ein großer Fels, aber ein POKéMON\n"
-	.string "kann ihn vielleicht bewegen.$"
+	.string "Ein Pokémon kann diesen Felsen\n"
+	.string "vielleicht bewegen.$"
 
 Text_StrengthActivated:
-	.string "STÄRKE macht es möglich,\n"
-	.string "Felsblocken zu bewegen.$"
+	.string "Stärke ermöglicht es, Felsen zu\n"
+	.string "bewegen.$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -306,15 +307,15 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "Ein strömender Wasserfall\n"
-	.string "stürzt herab.$"
+	.string "Das Wasser fällt steil wie eine Wand\n"
+	.string "brüllend in die Tiefe.$"
 
 Text_WantToWaterfall:
-	.string "Ein strömender Wasserfall.\n"
-	.string "Möchtest du KASKADE benutzen?$"
+	.string "Ein riesiger Wasserfall.\n"
+	.string "Möchtest du Kaskade einsetzen?$"
 
 Text_MonUsedWaterfall:
-	.string "{STR_VAR_1} verwendet KASKADE.$"
+	.string "{STR_VAR_1} setzt Kaskade ein.$"
 
 EventScript_UseDive::
 	lockall
@@ -400,23 +401,23 @@ EventScript_UseCutGrass::
 	goto EventScript_CutGrassCommon
 
 Text_CantDive:
-	.string "Das Wasser ist tief, ein POKéMON\n"
-	.string "kann hier vielleicht tauchen.$"
+	.string "Das Wasser ist hier tief. Ein Pokémon\n"
+	.string "könnte hier vielleicht tauchen.$"
 
 Text_WantToDive:
-	.string "Das Wasser ist tief.\n"
-	.string "Möchtest du TAUCHER einsetzen?$"
+	.string "Das Meer ist an dieser Stelle sehr tief.\n"
+	.string "Möchtest du Taucher einsetzen?$"
 
 Text_MonUsedDive:
-	.string "{STR_VAR_1} benutzt TAUCHER.$"
+	.string "{STR_VAR_1} setzt Taucher ein.$"
 
 Text_CantSurface:
-	.string "Licht scheint von oben herab.\n"
-	.string "Man könnte hier auftauchen.$"
+	.string "Licht schimmert von oben herab. Ein\n"
+	.string "Pokémon könnte hier auftauchen.$"
 
 Text_WantToSurface:
-	.string "Licht scheint von oben herab.\n"
-	.string "Möchtest du TAUCHER einsetzen?$"
+	.string "Licht schimmert von oben herab.\n"
+	.string "Möchtest du Taucher einsetzen?$"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
@@ -466,10 +467,10 @@ EventScript_EndRockClimb::
 
 Text_WantToRockClimb:
     .string "Eine steile Klippe.\n"
-    .string "Möchtest du KRAXLER einsetzen?$"
+    .string "Möchtest du Kraxler einsetzen?$"
 
 Text_MonUsedRockClimb:
-    .string "{STR_VAR_1} benutzt KRAXLER!$"
+    .string "{STR_VAR_1} benutzt Kraxler!$"
 
 Text_CantRockClimb:
     .string "Eine steile Klippe.\n"

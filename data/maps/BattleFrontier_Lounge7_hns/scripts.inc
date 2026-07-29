@@ -403,14 +403,14 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro_hns:
 	.string "Ich habe wirklich Talent!\p"
 	.string "Das werde ich dir beweisen.\p"
 	.string "Ich kann deinen Pokémon Spezial-\n"
-	.string "Attacken beibringen, die auch\l"
+	.string "attacken beibringen, die auch\l"
 	.string "noch niedlich sind. Aber das\l"
 	.string "kostet eine Kleinigkeit. Dafür möchte\l"
 	.string "ich von dir Gewinnpunkte haben.$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack_hns:
 	.string "Muahahahaha!\p"
-	.string "Soll ich deinen POKéMON ein paar\n"
+	.string "Soll ich deinen Pokémon ein paar\n"
 	.string "hübsche Spezial-Attacken beibringen?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove_hns:
@@ -423,8 +423,8 @@ BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints_hns:
 	.string "Gewinnpunkte.$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon_hns:
-	.string "Welchem Pokémon soll ich die\n"
-	.string "Attacke beibringen?$"
+	.string "Schön, schön. Und welchem Pokémon\n"
+	.string "soll ich sie beibringen?$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints_hns:
 	.string "Was… Du hast ja gar\n"
@@ -463,7 +463,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro_hns:
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack_hns:
 	.string "Hihihihi!\p"
-	.string "Ich soll deinen POKéMON starke und\n"
+	.string "Ich soll deinen Pokémon starke und\n"
 	.string "schöne Attacken beibringen?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong_hns:
@@ -475,122 +475,113 @@ BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong_hns:
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful_hns:
 	.string "Als ich noch ein junger Spund, ein\n"
-	.string "TEENAGER, war, waren diese Damen stark\l"
+	.string "Teenager, war, waren diese Damen stark\l"
 	.string "und wunderschön.\p"
-	.string "Wir TRAINER haben sie vergöttert.\p"
+	.string "Wir Trainer haben sie vergöttert.\p"
 	.string "Und auch jetzt, im Alter, haben ihre\n"
 	.string "Fähigkeiten nicht nachgelassen.\p"
-	.string "Im Gegenteil: Ihre POKéMON-Attacken\n"
+	.string "Im Gegenteil: Ihre Pokémon-Attacken\n"
 	.string "sind einfach vollkommen.\p"
 	.string "Aber… Trotzdem denke ich…\p"
 	.string "Die Zeit ist grausam…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc_hns::
-	.string "Stellt bis zur Hälfte\n"
-	.string "der max. KP des\l"
-	.string "Nutzers wieder her.$"
+	.string "Max. KP des Anwen-\n"
+	.string "ders w. zur Hälfte\n"
+	.string "aufgefüllt.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc_hns::
-	.string "Verursacht Schaden\n"
-	.string "gleich dem Level\l"
-	.string "des Nutzers.$"
+	.string "Richtet Schaden\n"
+	.string "gemäß Level d.\n"
+	.string "Angreifers an.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc_hns::
-	.string "Stellt die Hälfte\n"
-	.string "des an einem\l"
-	.string "schlafenden Gegner\l"
-	.string "verursachten\l"
-	.string "Schadens wieder her.$"
+	.string "Schlafendem Geg.\n"
+	.string "wird halber Scha-\n"
+	.string "den abgezogen.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc_hns::
-	.string "Ein starker Schlag\n"
-	.string "mit unglaublicher\l"
-	.string "Kraft.$"
+	.string "Ein unglaublich\n"
+	.string "kräftiger Hieb.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc_hns::
 	.string "Ein extrem\n"
-	.string "kraftvoller Tritt\l"
-	.string "mit heftiger Wucht.$"
+	.string "heftiger Tritt.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc_hns::
-	.string "Ein Ganzkörperangriff,\n"
-	.string "der Paralyse\l"
-	.string "verursachen kann.$"
+	.string "Körper-Ramme,\n"
+	.string "kann Paralyse\n"
+	.string "hervorrufen.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc_hns::
-	.string "Große Felsbrocken\n"
-	.string "werden geworfen.\l"
-	.string "Kann Schrecken\l"
-	.string "verursachen.$"
+	.string "Schleudert\n"
+	.string "Felsen. Ver-\n"
+	.string "schreckt Gegner.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc_hns::
-	.string "Vergilt jeden\n"
-	.string "physischen Treffer\l"
-	.string "mit doppelter Kraft.$"
+	.string "Kontert phys.\n"
+	.string "Treffer mit\n"
+	.string "doppelter Kraft.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc_hns::
 	.string "Ein schwacher\n"
-	.string "Elektrostoß, der\l"
-	.string "den Gegner lähmt.$"
+	.string "Stromstoß, der d.\n"
+	.string "Gegner paralys.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc_hns::
-	.string "Ein Kampftanz,\n"
-	.string "der den ANGRIFF\l"
-	.string "stark erhöht.$"
+	.string "Erhöht den\n"
+	.string "Angriffs-Wert\n"
+	.string "drastisch.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc_hns::
-	.string "Einrollen, um\n"
-	.string "Schwachstellen zu\l"
-	.string "verbergen und\l"
-	.string "VERTEIDIGUNG\l"
-	.string "zu erhöhen.$"
+	.string "Verbirgt Schwäche\n"
+	.string "durch Einrollen,\n"
+	.string "Vert.-Wert hoch.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc_hns::
-	.string "Ein lauter Angriff,\n"
-	.string "der nur im Schlaf\l"
-	.string "eingesetzt werden\l"
-	.string "kann.$"
+	.string "Laute Attacke.\n"
+	.string "Kann nur im Schlaf\n"
+	.string "benutzt werden.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc_hns::
-	.string "Wirft Schlamm ins\n"
-	.string "Gesicht des Gegners\l"
-	.string "und senkt seine\l"
-	.string "GENAUIGKEIT.$"
+	.string "Wirft Gegner\n"
+	.string "Matsch i. Gesicht.\n"
+	.string "Genauigkeit sinkt.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc_hns::
 	.string "Verschießt stern-\n"
-	.string "förmige Strahlen,\l"
-	.string "die nie verfehlen.$"
+	.string "förmige Strahlen.\n"
+	.string "Treffergarantie!$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc_hns::
-	.string "Ein eisiger Angriff,\n"
-	.string "der die INIT des\l"
+	.string "Eis-Attacke, die\n"
+	.string "den INIT.-Wert d.\n"
 	.string "Gegners senkt.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc_hns::
-	.string "Hält jeden Angriff\n"
-	.string "1 Runde mit 1 KP\l"
-	.string "stand.$"
+	.string "Hält jed. Attacke\n"
+	.string "1 Runde stand.\n"
+	.string "1 KP bleibt stets.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc_hns::
-	.string "Kopiert die Status-\n"
-	.string "veränderungen des\l"
-	.string "Gegners.$"
+	.string "Kopiert Effekte d.\n"
+	.string "Gegners u. gibt\n"
+	.string "sie dem Angreifer.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc_hns::
-	.string "Ein eisiger Schlag,\n"
-	.string "der den Gegner\l"
-	.string "einfrieren kann.$"
+	.string "Ein Schlag, der\n"
+	.string "den Gegner\n"
+	.string "evtl. einfriert.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc_hns::
-	.string "Ein elektrischer\n"
-	.string "Schlag, der den\l"
-	.string "Gegner lähmen kann.$"
+	.string "Schlag, der den\n"
+	.string "Gegner evtl.\n"
+	.string "paralysiert.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc_hns::
-	.string "Ein feuriger Schlag,\n"
-	.string "der den Gegner\l"
-	.string "verbrennen kann.$"
+	.string "Schlag, der dem\n"
+	.string "Gegner evtl. Ver-\n"
+	.string "brennung zufügt.$"
 
 @ HnS
 BattleFrontier_Lounge7_Text_ElementalTutorIntro::
@@ -613,7 +604,7 @@ BattleFrontier_Lounge7_Text_ElementalTutorWelcomeBack:
 
 BattleFrontier_Lounge7_Text_TeachWhichMoveElemental::
 	.string "Welche Attacke passt wohl am\n"
-	.string "besten zu deinem POKéMON?$"
+	.string "besten zu deinem Pokémon?$"
 
 BattleFrontier_Lounge7_Text_StrongElementalMoveDesc::
 	.string "Sehr mächtig, doch\n"

@@ -330,11 +330,11 @@ VerdanturfTown_BattleTentLobby_hns_EventScript_ExitRules::
 
 VerdanturfTown_BattleTentLobby_hns_Text_MonsReluctantToUseDislikedMoves:
 	.string "Wenn es eine bestimmte Attacke nicht\n"
-	.string "mag, wird das POKéMON sie nur\l"
+	.string "mag, wird das Pokémon sie nur\l"
 	.string "zurückhaltend einsetzen.\p"
 	.string "Und da spielt es auch keine Rolle, wie\n"
 	.string "stark es ist.\p"
-	.string "Ein POKéMON mit einem ZARTen Wesen\n"
+	.string "Ein Pokémon mit einem Zarten Wesen\n"
 	.string "wird beispielsweise ungern seinen\l"
 	.string "Gegner verletzen wollen.\p"
 	.string "Wenn es sein Potenzial nicht\n"
@@ -348,38 +348,38 @@ VerdanturfTown_BattleTentLobby_hns_Text_GentleMonsScaryIfAngry:
 	.string "sehr sanftmütig!\p"
 	.string "Aber wenn sie so richtig wütend wird,\n"
 	.string "dann bekommt man echt Angst vor ihr!\p"
-	.string "Ich wette, ein sanftmütiges POKéMON\n"
+	.string "Ich wette, ein sanftmütiges Pokémon\n"
 	.string "ist auch Furcht erregend, wenn es\l"
 	.string "wütend ist.$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionRunsDeep:
-	.string "Meine Gefühle für POKéMON…\n"
+	.string "Meine Gefühle für Pokémon…\n"
 	.string "sind sehr, sehr tief…\p"
 	.string "Oh, hallo! Du hast das jetzt nicht\n"
 	.string "gehört, nicht wahr? Na, egal.\p"
 	.string "Möchtest du diese TM für deine\n"
-	.string "POKéMON haben?$"
+	.string "Pokémon haben?$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_AttractionMutual:
-	.string "Meine Gefühle für POKéMON…\n"
+	.string "Meine Gefühle für Pokémon…\n"
 	.string "sind genauso wie die Gefühle der\p"
-	.string "POKéMON für mich…\n"
+	.string "Pokémon für mich…\n"
 	.string "Sie kämpfen genauso, wie ich es\l"
 	.string "möchte!$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_TaughtWhatKindsOfMoves:
 	.string "Welche Attacken hast du deinen\n"
-	.string "POKéMON beigebracht?\p"
+	.string "Pokémon beigebracht?\p"
 	.string "Ich denke, es wäre für dich von\n"
 	.string "Vorteil,\n"
 	.string "wenn sie sich selber heilen und\l"
 	.string "schützen könnten.$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_ScottCanMeetToughTrainers:
-	.string "SCOTT: Hallo {PLAYER}{KUN}!\n"
+	.string "Scott: Hallo {PLAYER}{KUN}!\n"
 	.string "Ich hoffte, dich hier zu treffen.\p"
-	.string "In einem KAMPFCAMP triffst du auf\n"
-	.string "viele starke TRAINER.\p"
+	.string "In einem Kampfcamp triffst du auf\n"
+	.string "viele starke Trainer.\p"
 	.string "Und dabei ist es völlig unerheblich,\n"
 	.string "welche Regeln hier gelten oder wie\n"
 	.string "hoch\l"
@@ -389,7 +389,7 @@ VerdanturfTown_BattleTentLobby_hns_Text_ScottCanMeetToughTrainers:
 	.string "dein Bestes gibst!$"
 
 VerdanturfTown_BattleTentLobby_hns_Text_ScottVisitRegularly:
-	.string "SCOTT: Ich komme regelmäßig hierher,\n"
+	.string "Scott: Ich komme regelmäßig hierher,\n"
 	.string "in\n"
-	.string "der Hoffnung, starke TRAINER in Aktion\l"
+	.string "der Hoffnung, starke Trainer in Aktion\l"
 	.string "und in jeder Situation zu erleben.$"

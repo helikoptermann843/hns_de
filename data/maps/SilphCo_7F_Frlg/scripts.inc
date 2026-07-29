@@ -233,51 +233,51 @@ SilphCo_7F_EventScript_Grunt3::
 	end
 
 SilphCo_7F_Text_HaveMonForSavingUs::
-	.string "Oh! Du bist kein ROCKET! Kommst\n"
+	.string "Oh! Du bist kein Rocket! Kommst\n"
 	.string "du, um uns zu retten? Klasse!\l"
 	.string "Vielen Dank!\p"
-	.string "Nimm dieses POKéMON als\n"
+	.string "Nimm dieses Pokémon als\n"
 	.string "Dankeschön.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "{PLAYER} obtained a LAPRAS from\n"
-	.string "the SILPH employee!$"
+	.string "{PLAYER} obtained a Lapras from\n"
+	.string "the Silph employee!$"
 
 SilphCo_7F_Text_ExplainLapras::
-	.string "Es heißt LAPRAS und ist sehr\n"
+	.string "Es heißt Lapras und ist sehr\n"
 	.string "intelligent.\p"
 	.string "Es hat bisher bei uns im Labor\n"
 	.string "gelebt. Aber bei dir ist es besser\l"
 	.string "aufgehoben!\p"
-	.string "Du wirst LAPRAS sicher ein guter\n"
-	.string "TRAINER sein!\p"
+	.string "Du wirst Lapras sicher ein guter\n"
+	.string "Trainer sein!\p"
 	.string "Es ist ein guter Schwimmer und\n"
 	.string "kann dich übers Wasser tragen!$"
 
 SilphCo_7F_Text_RocketBossWentToBoardroom::
-	.string "TEAM ROCKETS BOSS ging in den\n"
+	.string "Team Rockets Boss ging in den\n"
 	.string "Sitzungssaal!\p"
-	.string "Ob unser PRÄSIDENT wohlauf ist?$"
+	.string "Ob unser Präsident wohlauf ist?$"
 
 SilphCo_7F_Text_RocketsAfterMasterBall::
-	.string "Das TEAM ROCKET ist hinter dem\n"
-	.string "MEISTERBALL her, mit dem man\l"
-	.string "jedes POKéMON fangen kann!$"
+	.string "Das Team Rocket ist hinter dem\n"
+	.string "Meisterball her, mit dem man\l"
+	.string "jedes Pokémon fangen kann!$"
 
 SilphCo_7F_Text_CanceledMasterBallProject::
 	.string "Wir haben das Projekt gestoppt.\n"
-	.string "Der MEISTERBALL in TEAM ROCKETS\l"
+	.string "Der Meisterball in Team Rockets\l"
 	.string "Händen? Niemals!$"
 
 SilphCo_7F_Text_BadIfTeamRocketTookOver::
-	.string "Es wäre fatal, wenn das TEAM\n"
-	.string "ROCKET die SILPH CO. oder unsere\l"
-	.string "POKéMON übernehmen würde!$"
+	.string "Es wäre fatal, wenn das Team\n"
+	.string "Rocket die Silph Co. oder unsere\l"
+	.string "Pokémon übernehmen würde!$"
 
 SilphCo_7F_Text_WowYouChasedOffTeamRocket::
 	.string "Wow!\p"
-	.string "Du bist ganz allein mit dem TEAM\n"
-	.string "ROCKET fertig geworden?$"
+	.string "Du bist ganz allein mit dem Team\n"
+	.string "Rocket fertig geworden?$"
 
 SilphCo_7F_Text_ReallyDangerousHere::
 	.string "Hier ist es sehr gefährlich!\n"
@@ -338,9 +338,9 @@ SilphCo_7F_Text_RivalWhatKeptYou::
 SilphCo_7F_Text_RivalIntro::
 	.string "{RIVAL}: Hahaha! Ich wusste, du\n"
 	.string "würdest hier vorbeikommen!\p"
-	.string "Ich schätze, das TEAM ROCKET hat\n"
+	.string "Ich schätze, das Team Rocket hat\n"
 	.string "dir ganz schön zugesetzt!\p"
-	.string "Ich hab dich in SAFFRONIA CITY\n"
+	.string "Ich hab dich in Saffronia City\n"
 	.string "gesehen und mich gefragt, ob du\l"
 	.string "seitdem besser geworden bist!$"
 
@@ -352,19 +352,19 @@ SilphCo_7F_Text_RivalDefeat::
 SilphCo_7F_Text_RivalPostBattle::
 	.string "Also, {PLAYER}!\n"
 	.string "Ich ziehe dann weiter!\p"
-	.string "Wenn ich in den POKéDEX sehe,\n"
-	.string "erkenne ich, wie stark die POKéMON\l"
+	.string "Wenn ich in den Pokédex sehe,\n"
+	.string "erkenne ich, wie stark die Pokémon\l"
 	.string "sind und wie sie sich entwickeln!\p"
-	.string "Ich werde zur POKéMON LIGA gehen.\n"
-	.string "Dann werde ich die TOP VIER\l"
+	.string "Ich werde zur Pokémon Liga gehen.\n"
+	.string "Dann werde ich die Top Vier\l"
 	.string "ausstechen!\p"
 	.string "Bald bin ich der mächtigste\n"
-	.string "TRAINER der Welt!\p"
+	.string "Trainer der Welt!\p"
 	.string "Viel Glück, {PLAYER}!\n"
 	.string "Und trainiere schön weiter!\l"
 	.string "Ciao!$"
 
 SilphCo_7F_Text_FloorSign::
-	.string "SILPH CO. BÜRO DES PRÄSIDENTEN\n"
-	.string "6 OG$"
+	.string "Silph Co. Büro des Präsidenten\n"
+	.string "6 Og$"
 

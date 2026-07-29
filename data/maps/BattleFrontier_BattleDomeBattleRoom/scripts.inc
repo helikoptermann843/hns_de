@@ -924,7 +924,7 @@ BattleFrontier_BattleDomeBattleRoom_Movement_RefereeExit:
 	step_end
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
-	.string "{PLAYER} hat das KAMPFSTADION\n"
+	.string "{PLAYER} hat das Kampfstadion\n"
 	.string "betreten!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
@@ -954,26 +954,26 @@ BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
 	.string "Das ist ja ein unglaubliches Ende!\n"
 	.string "Einfach spektakulär! Ein doppelter\n"
 	.string "K.O.! \p"
-	.string "In diesem Fall muss der REFEREE mit\n"
+	.string "In diesem Fall muss der Referee mit\n"
 	.string "seinem Urteil den Sieger bestimmen.\p"
 	.string "Ich bitte um etwas Geduld, bis die\n"
 	.string "Entscheidung gefällt wurde.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "Der REFEREE hat eine Entscheidung\n"
+	.string "Der Referee hat eine Entscheidung\n"
 	.string "getroffen!\p"
 	.string "Der Gewinner heißt…\n"
 	.string "Du meine Güüüüte!\l"
 	.string "Der Gewinner heißt {STR_VAR_1}!!!\l"
-	.string "GLÜCKWUNSCH!!!$"
+	.string "Glückwunsch!!!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "Der REFEREE hat eine Entscheidung\n"
+	.string "Der Referee hat eine Entscheidung\n"
 	.string "getroffen!\p"
 	.string "Der Gewinner heißt…\n"
 	.string "Du meine Güüüüte!\l"
 	.string "Der Gewinner heißt {PLAYER}!!!\l"
-	.string "GLÜCKWUNSCH!!!$"
+	.string "Glückwunsch!!!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
 	.string "Eine strahlende Hoffnung!\p"
@@ -984,7 +984,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship:
-	.string "Wird dieser TRAINER der neue\n"
+	.string "Wird dieser Trainer der neue\n"
 	.string "Meister werden?\p"
 	.string "$"
 
@@ -999,13 +999,13 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "Der TRAINER lodert vor Leidenschaft\n"
+	.string "Der Trainer lodert vor Leidenschaft\n"
 	.string "beim Ringen um die Meisterschaft!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
 	.string "Ein Sieg hier würde bedeuten, dass der\n"
-	.string "TRAINER im Finale steht!!!\p"
+	.string "Trainer im Finale steht!!!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
@@ -1024,7 +1024,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
 	.string "Sind diese Kämpfe nur für diesen\n"
-	.string "TRAINER gemacht?\p"
+	.string "Trainer gemacht?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
@@ -1041,7 +1041,7 @@ BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Wird dieser TRAINER den Erwartungen\n"
+	.string "Wird dieser Trainer den Erwartungen\n"
 	.string "entsprechen und das Finale erreichen?\n"
 	.string "\p"
 	.string "$"
@@ -1057,16 +1057,16 @@ BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
 	.string "Und nun…\p"
-	.string "Der TRAINER, der {PLAYER} eventuell\n"
+	.string "Der Trainer, der {PLAYER} eventuell\n"
 	.string "noch aufhalten kann…\p"
 	.string "Jawohl! Der Einzigartige!\n"
-	.string "Der Held des KAMPFSTADIONs!\l"
-	.string "Unser aller STADIONSTAR!\l"
-	.string "Macht Platz für TASSO!$"
+	.string "Der Held des Kampfstadions!\l"
+	.string "Unser aller Stadionstar!\l"
+	.string "Macht Platz für Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Zuschauer: TASSO! TASSO! TASSO!\n"
-	.string "TASSO! TASSO! TASSO!$"
+	.string "Zuschauer: Tasso! Tasso! Tasso!\n"
+	.string "Tasso! Tasso! Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 	.string "Tasso: Ahahaha!\p"
@@ -1091,17 +1091,17 @@ BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
 	.string "Der Sieger heißt {PLAYER}!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "Der Sieger heißt TASSO!\n"
-	.string "Der STADIONSTAR hat sich behauptet!\p"
-	.string "Herzlichen Glückwunsch, TASSO!$"
+	.string "Der Sieger heißt Tasso!\n"
+	.string "Der Stadionstar hat sich behauptet!\p"
+	.string "Herzlichen Glückwunsch, Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TASSO: Regeln sind Regeln.\n"
-	.string "Zeig mir deinen KAMPFZONENPASS.$"
+	.string "Tasso: Regeln sind Regeln.\n"
+	.string "Zeig mir deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "Das TAKTIKSYMBOL wurde dem\n"
-	.string "KAMPFZONENPASS hinzugefügt!$"
+	.string "Das Taktiksymbol wurde dem\n"
+	.string "Kampfzonenpass hinzugefügt!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
 	.string "… … … … …\n"
@@ -1116,13 +1116,13 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
 	.string "Meine Damen! Meine Herren!\n"
-	.string "Liebe Mädchen, Jungen und POKéMON!\p"
+	.string "Liebe Mädchen, Jungen und Pokémon!\p"
 	.string "Endlich!\n"
 	.string "Endlich ist die Legende zurückgekehrt!\n"
 	.string "\p"
 	.string "Und der Name dieser Legende?\n"
-	.string "STADIONSTAR! Unser STADIONSTAR!\l"
-	.string "Niemand anderer als TASSO!$"
+	.string "Stadionstar! Unser Stadionstar!\l"
+	.string "Niemand anderer als Tasso!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
 	.string "Tasso: Ah…\n"
@@ -1142,15 +1142,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
 	.string "zeigen. Hier und jetzt!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
-	.string "TASSO: Du bist einfach fantastisch!\p"
+	.string "Tasso: Du bist einfach fantastisch!\p"
 	.string "Das ist noch nie passiert! Ich habe\n"
 	.string "noch nie verloren, wenn es drauf\n"
 	.string "ankam! \p"
 	.string "Ja, wirklich fantastisch!\n"
-	.string "Gib mir bitte deinen KAMPFZONENPASS.$"
+	.string "Gib mir bitte deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "Das TAKTIKSYMBOL erscheint in einem\n"
+	.string "Das Taktiksymbol erscheint in einem\n"
 	.string "goldenen Glanz!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
@@ -1177,15 +1177,15 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2:
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 	.string "Das Finale!\p"
-	.string "{PLAYER} gegen STADIONSTAR TASSO!\p"
+	.string "{PLAYER} gegen Stadionstar Tasso!\p"
 	.string "Lasst den Kampf beginnen!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "Der REFEREE ist zu einer\n"
+	.string "Der Referee ist zu einer\n"
 	.string "Entscheidung gekommen!\p"
 	.string "Der Gewinner heißt…\n"
 	.string "Oh, fantastisch!!!\l"
-	.string "Der Gewinner ist unser STADIONSTAR!\l"
-	.string "TASSO!\p"
+	.string "Der Gewinner ist unser Stadionstar!\l"
+	.string "Tasso!\p"
 	.string "Herzlichen Glückwunsch! Und danke!\n"
-	.string "Das ist unser STADIONSTAR, TASSO!!!$"
+	.string "Das ist unser Stadionstar, Tasso!!!$"

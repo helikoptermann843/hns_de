@@ -699,25 +699,25 @@ PetalburgCity_EventScript_GymBoy::
 	end
 
 PetalburgCity_Text_WhereIsWally:
-	.string "Wohin ist unser HEIKO nur gegangen?\p"
-	.string "Wir müssen doch bald nach WIESENFLUR\n"
+	.string "Wohin ist unser Heiko nur gegangen?\p"
+	.string "Wir müssen doch bald nach Wiesenflur\n"
 	.string "aufbrechen…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
 	.string "He da! Bist du vielleicht…\n"
-	.string "ein Anfänger unter den TRAINERn?\p"
-	.string "Weißt du, was POKéMON-TRAINER machen,\n"
+	.string "ein Anfänger unter den Trainern?\p"
+	.string "Weißt du, was Pokémon-Trainer machen,\n"
 	.string "wenn sie in einen neuen Ort kommen?\p"
-	.string "Sie sehen sich als Erstes die ARENA\n"
+	.string "Sie sehen sich als Erstes die Arena\n"
 	.string "im Ort an.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
-	.string "Schau. Das ist die ARENA von\n"
-	.string "BLÜTENBURG CITY.$"
+	.string "Schau. Das ist die Arena von\n"
+	.string "Blütenburg City.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "Das ist das Logo der ARENA. Daran\n"
-	.string "kannst du immer eine ARENA erkennen.$"
+	.string "Das ist das Logo der Arena. Daran\n"
+	.string "kannst du immer eine Arena erkennen.$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "Mein Gesicht spiegelt sich im Wasser…\n"
@@ -729,28 +729,28 @@ PetalburgCity_Text_WaterReflection:
 	.string "Was siehst du in deinem Spiegelbild?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Nehmen wir an, du hättest 6 POKéMON.\n"
+	.string "Nehmen wir an, du hättest 6 Pokémon.\n"
 	.string "Wenn du jetzt ein weiteres fängst…\p"
-	.string "wird es automatisch in das POKéMON-\n"
-	.string "LAGERUNGS-SYSTEM gesendet.$"
+	.string "wird es automatisch in das Pokémon-\n"
+	.string "Lagerungs-System gesendet.$"
 
 PetalburgCity_Text_GymSign:
-	.string "POKéMON ARENA von BLÜTENBURG CITY\n"
-	.string "LEITER: NORMAN\l"
+	.string "Pokémon Arena von Blütenburg City\n"
+	.string "Leiter: Norman\l"
 	.string "“Ein Mann, der nach Stärke strebt!”$"
 
 PetalburgCity_Text_CitySign:
-	.string "BLÜTENBURG CITY\n"
+	.string "Blütenburg City\n"
 	.string "“Wo Menschen Hand in Hand\l"
 	.string "mit der Natur gehen.”$"
 
 PetalburgCity_Text_WallyHouseSign:
-	.string "HEIKOS HAUS$"
+	.string "Heikos Haus$"
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Entschuldige bitte!\p"
 	.string "Lass mich raten! Deine Kleidung verrät\n"
-	.string "mir, dass du ein TRAINER bist.\l"
+	.string "mir, dass du ein Trainer bist.\l"
 	.string "Habe ich Recht?$"
 
 PetalburgCity_Text_WellMaybeNot:
@@ -759,13 +759,13 @@ PetalburgCity_Text_WellMaybeNot:
 	.string "Nun, vielleicht auch nicht.\n"
 	.string "Deine Kleidung ist noch relativ\n"
 	.string "sauber. \p"
-	.string "Entweder bist du gerade erst TRAINER\n"
+	.string "Entweder bist du gerade erst Trainer\n"
 	.string "geworden oder du bist einfach ein ganz\l"
 	.string "normales Kind.$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
 	.string "Ich reise durch das Land, immer auf\n"
 	.string "der\n"
-	.string "Suche nach talentierten TRAINERn.\p"
+	.string "Suche nach talentierten Trainern.\p"
 	.string "Tut mir Leid, wenn ich dich\n"
 	.string "aufgehalten habe.$"

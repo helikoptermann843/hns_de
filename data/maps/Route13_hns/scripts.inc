@@ -134,15 +134,15 @@ Route13_Text_AlexPostRematch:
 
 Route13_Text_PokefanmJoshuaSeen:
 	.string "Hihi! Möchtest du\n"
-	.string "gegen mein PIKACHU-Team antreten?$"
+	.string "gegen mein Pikachu-Team antreten?$"
 
 Route13_Text_PokefanmJoshuaBeaten:
-	.string "PI-PIKACHU!$"
+	.string "Pi-Pikachu!$"
 
 Route13_Text_PokefanmJoshuaAfterBattle:
 	.string "Kann ja sein, dass du viele\n"
 	.string "verschiedene Pokémon hast,\l"
-	.string "aber PIKACHU ist immer noch das Beste.$"
+	.string "aber Pikachu ist immer noch das Beste.$"
 
 Route13_Text_BirdKeeperPerrySeen:
 	.string "Initiative ist die wichtigste\n"
@@ -170,7 +170,7 @@ Route13_Text_BirdKeeperBretAfterBattle:
 
 Route13_Text_HikerKennySeen:
 	.string "Ich sollte zum Felstunnel gehen\n"
-	.string "und mir ein ONIX fangen.$"
+	.string "und mir ein Onix fangen.$"
 
 Route13_Text_HikerKennyBeaten:
 	.string "Du hast mich besiegt!$"
@@ -182,7 +182,7 @@ Route13_Text_HikerKennyAfterBattle:
 	.string "sehr langsam eben! Ganz langsam!$"
 
 Route13_Text_KennyRegister:
-	.string "POKéMON ändern sich mit der Zeit.\n"
+	.string "Pokémon ändern sich mit der Zeit.\n"
 	.string "Lass uns wieder kämpfen irgendwann!$"
 
 Route13_Text_KennyRematchIntro:
@@ -407,16 +407,16 @@ Route13_Movement_BoatArrive:
 
 Route13_GetOffBoat_Text_0:
 	.string "Willkommen zurück auf dem\n"
-	.string "Festland von KANTO!\p"
+	.string "Festland von Kanto!\p"
 	.string "Komm wieder, wenn du zu den\n"
-	.string "ALOLA-INSELN reisen möchtest!$"
+	.string "Alola-Inseln reisen möchtest!$"
 
 Route13_TravelToAlola_Text_0:
 	.string "Ahoi!\p"
 	.string "Das ist ja ein seltsames\n"
 	.string "Souvenir.\p"
 	.string "Du musst von den\n"
-	.string "ALOLA-INSELN stammen!$"
+	.string "Alola-Inseln stammen!$"
 
 Route13_TravelToAlola_Text_0_5:
 	.string "Möchtest du das nächste Schiff\n"
@@ -435,7 +435,7 @@ Route13_TravelToAlola_Text_2:
 Route13_TravelToAlola_Text_3:
 	.string "Ah, du schon wieder!\n"
 	.string "Willst du zu den\l"
-	.string "ALOLA-INSELN?$"
+	.string "Alola-Inseln?$"
 
 Route13_TravelToAlola_Text_4:
 	.string "Ahoi!\n"

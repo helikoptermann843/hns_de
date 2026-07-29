@@ -116,18 +116,18 @@ EventScript_Indigo_HighestAuthority::
 
 Text_Bookshelf::
 	.string "Vollgestopft mit Büchern\n"
-	.string "über POKéMON.$"
+	.string "über Pokémon.$"
 
 Text_NothingButPokemonBooks::
 	.string "Nichts als Bücher\n"
-	.string "über POKéMON$"
+	.string "über Pokémon$"
 
 Text_ATownMap::
 	.string "Eine Karte.$"
 
 Text_PokeMartShelf::
 	.string "Wow!\n"
-	.string "Allerlei POKéMON-Kram!$"
+	.string "Allerlei Pokémon-Kram!$"
 
 Text_DishesPlatesNeatlyLinedUp::
 	.string "Gerichte und Teller sind\n"
@@ -146,21 +146,21 @@ Text_Snacks::
 
 Text_PokemartSign::
 	.string "All deine Itemwünsche erfüllt!\n"
-	.string "POKéMON MARKT$"
+	.string "Pokémon Markt$"
 
 Text_PokecenterSign::
-	.string "Heile deine POKéMON!\n"
-	.string "POKéMONCENTER$"
+	.string "Heile deine Pokémon!\n"
+	.string "Pokémoncenter$"
 
 Text_Indigo_UltimateGoal::
-	.string "INDIGO PLATEAU\p"
+	.string "Indigo Plateau\p"
 	.string "Das ultimative Ziel der Trainer!\n"
-	.string "POKéMON LIGA HQ$"
+	.string "Pokémon Liga HQ$"
 
 Text_Indigo_HighestAuthority::
-	.string "INDIGO PLATEAU\p"
-	.string "Die höchste POKéMON Autorität!\n"
-	.string "POKéMON LIGA HQ$"
+	.string "Indigo Plateau\p"
+	.string "Die höchste Pokémon Autorität!\n"
+	.string "Pokémon Liga HQ$"
 
 Text_Food::
 	.string "Hier gibt es bestimmt jede Menge\n"
@@ -173,7 +173,7 @@ Text_Blueprints::
 
 Text_Painting::
 	.string "Es ist ein schönes Bild eines\n"
-	.string "POKéMON.\p"
+	.string "Pokémon.\p"
 	.string "Es sieht sehr zufrieden aus.$"
 
 Text_PowerPlantMachine::
@@ -203,7 +203,7 @@ Text_TrashBin::
 
 Text_Cup::
 	.string "Es ist eine Tasse mit einem\n"
-	.string "POKéMON-Zeichen darauf.$"
+	.string "Pokémon-Zeichen darauf.$"
 
 Text_PolishedWindow::
 	.string "Das Fenster ist blitzblank\n"
@@ -235,5 +235,5 @@ Text_Burglary::
 	.string "eines Einbruchs zu sehen…$"
 
 Text_PlayerFacingTVScreen::
-	.string "Im Fernsehen läuft ein POKéMON!\n"
+	.string "Im Fernsehen läuft ein Pokémon!\n"
 	.string "Es scheint viel Spaß zu haben.$"

@@ -102,7 +102,7 @@ Route8_WestEntrance_Text_ThirstyOnGuardDuty::
 	.string "Der Durchgang ist gesperrt!$"
 
 Route8_WestEntrance_Text_ThatTeaLooksTasty::
-	.string "Oh, dieser TEE…\n"
+	.string "Oh, dieser Tee…\n"
 	.string "Er riecht so lecker…$"
 
 Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
@@ -112,11 +112,11 @@ Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "Gluck, gluck…\l"
 	.string "……\l"
 	.string "Schluck…\l"
-	.string "Falls du nach SAFFRONIA CITY\l"
+	.string "Falls du nach Saffronia City\l"
 	.string "möchtest…\l"
 	.string "……\l"
 	.string "Dann darfst du passieren.\p"
-	.string "Ich teile den TEE mit den anderen\n"
+	.string "Ich teile den Tee mit den anderen\n"
 	.string "Wächtern!$"
 
 Route8_WestEntrance_Text_HiHowsItGoing::

@@ -37,11 +37,11 @@ AzaleaPokecenter_Text_Gentleman:
 	.string "ist.$"
 
 AzaleaPokecenter_Text_UnusedPCExplanation:
-	.string "Dieser BILL hat\n"
-	.string "das Pokémon- LAGERUNGS-SYSTEM für PC\n"
+	.string "Dieser Bill hat\n"
+	.string "das Pokémon- Lagerungs-System für PC\n"
 	.string "entwickelt.\p"
-	.string "Auf BILLs PC können\n"
-	.string "bis zu 30 Pokémon pro BOX gelagert\l"
+	.string "Auf Bills PC können\n"
+	.string "bis zu 30 Pokémon pro Box gelagert\l"
 	.string "werden.$"
 
 AzaleaPokecenter_Text_FishingGuru:

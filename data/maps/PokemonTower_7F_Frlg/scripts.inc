@@ -251,7 +251,7 @@ PokemonTower_7F_Text_Grunt2Defeat::
 	.string "Lass mich in Ruhe!$"
 
 PokemonTower_7F_Text_Grunt2PostBattle::
-	.string "POKéMON sind nur zum Geldverdienen\n"
+	.string "Pokémon sind nur zum Geldverdienen\n"
 	.string "gut!\p"
 	.string "Halte dich aus unseren\n"
 	.string "Angelegenheiten heraus!$"
@@ -268,17 +268,17 @@ PokemonTower_7F_Text_Grunt3PostBattle::
 	.string "davonkommen!$"
 
 PokemonTower_7F_Text_MrFujiThankYouFollowMe::
-	.string "MR. FUJI: Was?\n"
+	.string "Mr. Fuji: Was?\n"
 	.string "Du kommst, um mich zu retten?\p"
 	.string "Vielen Dank!\n"
 	.string "Aber ich bin freiwillig hier.\p"
 	.string "Ich kam her, um die Seele von\n"
-	.string "TRAGOSSOs Mutter zu beruhigen!\p"
-	.string "Die Seele des KNOGGA sollte nun in\n"
+	.string "Tragossos Mutter zu beruhigen!\p"
+	.string "Die Seele des Knogga sollte nun in\n"
 	.string "die ewigen Jagdgründe eingekehrt\l"
 	.string "sein.\p"
 	.string "Trotzdem danke ich dir für deine\n"
 	.string "Sorge um mich!\p"
-	.string "Folge mir in das POKéMON-CLUBHAUS\n"
+	.string "Folge mir in das Pokémon-Clubhaus\n"
 	.string "am Fuße dieses Turms.$"
 

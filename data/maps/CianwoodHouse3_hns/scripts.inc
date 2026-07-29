@@ -105,7 +105,7 @@ CianwoodCity_Text_ManiacAskReturn:
 	.string "zurückhaben?$"
 
 CianwoodCity_Text_ManiacThankYou:
-	.string "DANKE SCHÖN$"
+	.string "Danke Schön$"
 
 CianwoodCity_Text_ManiacShuckleNotThere:
 	.string "Hey, du hast mein Pokémon nicht\n"
@@ -136,4 +136,4 @@ CianwoodCity_Text_ManiacLastMon:
 
 
 CianwoodCity_Text_ManiacReturnedMon:
-	.string "{PLAYER} gab SHUCKIE zurück.$"
+	.string "{PLAYER} gab Shuckie zurück.$"

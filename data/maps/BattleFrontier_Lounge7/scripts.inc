@@ -321,14 +321,14 @@ BattleFrontier_Lounge7_Text_LeftTutorIntro:
 	.string "neben mir. Ich habe wirklich Talent!\p"
 	.string "Das werde ich dir beweisen.\n"
 	.string "Ich kann deinen Pokémon Spezial-\l"
-	.string "Attacken beibringen,\p"
+	.string "attacken beibringen,\p"
 	.string "die auch noch niedlich sind. Aber das\n"
 	.string "kostet eine Kleinigkeit. Dafür möchte\l"
 	.string "ich von dir Gewinnpunkte haben.$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
 	.string "Muahahahaha!\p"
-	.string "Soll ich deinen POKéMON ein paar\n"
+	.string "Soll ich deinen Pokémon ein paar\n"
 	.string "hübsche Spezial-Attacken beibringen?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
@@ -341,7 +341,7 @@ BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "Gewinnpunkte.$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Schön, schön. Und welchem POKéMON\n"
+	.string "Schön, schön. Und welchem Pokémon\n"
 	.string "soll ich sie beibringen?$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
@@ -381,7 +381,7 @@ BattleFrontier_Lounge7_Text_RightTutorIntro:
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
 	.string "Hihihihi!\p"
-	.string "Ich soll deinen POKéMON starke und\n"
+	.string "Ich soll deinen Pokémon starke und\n"
 	.string "schöne Attacken beibringen?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
@@ -393,100 +393,98 @@ BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
 	.string "Als ich noch ein junger Spund, ein\n"
-	.string "TEENAGER, war, waren diese Damen stark\l"
+	.string "Teenager, war, waren diese Damen stark\l"
 	.string "und wunderschön.\p"
-	.string "Wir TRAINER haben sie vergöttert.\p"
+	.string "Wir Trainer haben sie vergöttert.\p"
 	.string "Und auch jetzt, im Alter, haben ihre\n"
 	.string "Fähigkeiten nicht nachgelassen.\p"
-	.string "Im Gegenteil: Ihre POKéMON-Attacken\n"
+	.string "Im Gegenteil: Ihre Pokémon-Attacken\n"
 	.string "sind einfach vollkommen.\p"
 	.string "Aber… Trotzdem denke ich…\p"
 	.string "Die Zeit ist grausam…$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Regeneriert bis\n"
-	.string "zur Hälfte\n"
-	.string "der max. KP.$"
+	.string "Max. KP des Anwen-\n"
+	.string "ders w. zur Hälfte\n"
+	.string "aufgefüllt.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Fügt Schaden\n"
-	.string "In Höhe des Lv.\n"
-	.string "des Nutzers zu.$"
+	.string "Richtet Schaden\n"
+	.string "gemäß Level d.\n"
+	.string "Angreifers an.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Erhält die hälfte\n"
-	.string "des zugefügten\n"
-	.string "Schadens als KP.$"
+	.string "Schlafendem Geg.\n"
+	.string "wird halber Scha-\n"
+	.string "den abgezogen.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "Ein starker Hieb\n"
-	.string "mit brachialer\n"
-	.string "Gewalt.$"
+	.string "Ein unglaublich\n"
+	.string "kräftiger Hieb.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "Extrem starker\n"
-	.string "Kick mit\n"
-	.string "Wucht dahinter.$"
+	.string "Ein extrem\n"
+	.string "heftiger Tritt.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "Benutzt vollen\n"
-	.string "Körpereinsatz\n"
-	.string "kann paralysieren.$"
+	.string "Körper-Ramme,\n"
+	.string "kann Paralyse\n"
+	.string "hervorrufen.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Große Felsen\n"
-	.string "werden geworfen.\n"
-	.string "Kann zurückschrecken.$"
+	.string "Schleudert\n"
+	.string "Felsen. Ver-\n"
+	.string "schreckt Gegner.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Kontert jeden\n"
-	.string "physischen Hieb\n"
-	.string "mit doppelter Kraft.$"
+	.string "Kontert phys.\n"
+	.string "Treffer mit\n"
+	.string "doppelter Kraft.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "Schwacher Strom-\n"
-	.string "stoß, der Gegner\n"
-	.string "lähmt.$"
+	.string "Ein schwacher\n"
+	.string "Stromstoß, der d.\n"
+	.string "Gegner paralys.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "Kampftanz, der\n"
-	.string "den ANGRIFF stark\n"
-	.string "erhöht.$"
+	.string "Erhöht den\n"
+	.string "Angriffs-Wert\n"
+	.string "drastisch.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Rollt sich ein,\n"
-	.string "versteckt Schwächen\n"
-	.string "und erhöht DEF.$"
+	.string "Verbirgt Schwäche\n"
+	.string "durch Einrollen,\n"
+	.string "Vert.-Wert hoch.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "Lauter Angriff,\n"
-	.string "nur nutzbar im\n"
-	.string "Schlaf.$"
+	.string "Laute Attacke.\n"
+	.string "Kann nur im Schlaf\n"
+	.string "benutzt werden.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Wirft Schlamm ins\n"
-	.string "Gesicht und senkt\n"
-	.string "die Genauigkeit.$"
+	.string "Wirft Gegner\n"
+	.string "Matsch i. Gesicht.\n"
+	.string "Genauigkeit sinkt.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sternförmige\n"
-	.string "Strahlen, die\n"
-	.string "nie verfehlen.$"
+	.string "Verschießt stern-\n"
+	.string "förmige Strahlen.\n"
+	.string "Treffergarantie!$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "Eisiger Angriff,\n"
-	.string "senkt die\n"
-	.string "INITIATIVE.$"
+	.string "Eis-Attacke, die\n"
+	.string "den INIT.-Wert d.\n"
+	.string "Gegners senkt.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Hält jedem\n"
-	.string "Angriff 1 Runde\n"
-	.string "stand, 1 KP bleibt.$"
+	.string "Hält jed. Attacke\n"
+	.string "1 Runde stand.\n"
+	.string "1 KP bleibt stets.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Kopiert Effekt(e)\n"
-	.string "des Gegners und\n"
-	.string "gibt sie weiter.$"
+	.string "Kopiert Effekte d.\n"
+	.string "Gegners u. gibt\n"
+	.string "sie dem Angreifer.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
 	.string "Ein Schlag, der\n"

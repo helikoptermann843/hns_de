@@ -38,5 +38,5 @@ RedsHouse_Text_Mom2:
 
 RedsHouse_Text_TV:
 	.string "Hier laufen Programme,\n"
-	.string "die man in JOHTO nicht\l"
+	.string "die man in Johto nicht\l"
 	.string "empfangen kann…$"

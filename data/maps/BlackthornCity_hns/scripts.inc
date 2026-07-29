@@ -19,7 +19,7 @@ BlackthornCity_OnFrame::
 	map_script_2 VAR_BLACKTHORN_CITY_STATE, 4, BlackthornCity_EventScript_Call
 	.2byte 0
 
-BlackthornCity_EventScript_CityEnter:: 
+BlackthornCity_EventScript_CityEnter::
 	setflag FLAG_VISITED_BLACKTHORN_CITY
 	callnative SetTimeBasedEncounters
 	end
@@ -36,7 +36,7 @@ BlackthornCity_EventScript_Call::
 	end
 
 BlackthornCity_Text_ElmName:
-	.string "PROF.ELM$"
+	.string "Lind$"
 
 BlackthornCity_Text_BaobaCall:
 	.string "Aufseher Baoba: {PLAYER}!\p"
@@ -89,7 +89,7 @@ BlackthornCity_EventScript_GymBoy::
 	msgbox BlackthornCity_Text_ClairIsBeaten, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 BlackThornCity_EventScript_GymBoyNotReady::
 	msgbox BlackthornCity_Text_ClairNotReady, MSGBOX_DEFAULT
@@ -101,7 +101,7 @@ BlackThornCity_EventScript_GymBoyBefore::
 	msgbox BlackthornCity_Text_ClairIsIn, MSGBOX_DEFAULT
 	closemessage
 	release
-	end	
+	end
 
 BlackthornCity_EventScript_BlackBelt::
 	msgbox BlackBeltText_VoicesInMyHead, MSGBOX_NPC
@@ -184,7 +184,7 @@ BlackthornCity_Text_ClairNotReady:
 	.string "Sandra, unsere Arenaleiterin, hat\n"
 	.string "deinen Fortschritt verfolgt.\p"
 	.string "Sie kämpft jedoch nur gegen Trainer,\n"
-	.string "die bereits 7 ORDEN besitzen.$"
+	.string "die bereits 7 Orden besitzen.$"
 
 BlackthornCity_Text_ClairIsIn:
 	.string "Sandra, unsere Arenaleiterin,\n"
@@ -203,9 +203,10 @@ BlackthornGrampsRefusesEntryText:
 	.string "Ich muss dich bitten, wieder zu gehen.$"
 
 BlackthornGrampsGrantsEntryText:
-	.string "Wenn Sandra es erlaubt,\n"
-	.string "wird es ihr großvater, unser\l"
-	.string "Meister ebenfalls tun. Tritt ein.$"
+	.string "Wenn Sandra nichts dagegen hat, wird\n"
+	.string "auch ihr Großvater, unser Meister,\l"
+	.string "sicher kein Problem damit haben.\p"
+	.string "Bitte, tritt ein.$"
 
 BlackBeltText_VoicesInMyHead:
 	.string "Aruuu! Stimmen in meinem Kopf!\p"
@@ -220,7 +221,7 @@ BlackthornYoungsterText:
 	.string "seine Drachenmeister.$"
 
 BlackthornCity_MeetSantosText:
-	.string "SAMSON: …\p"
+	.string "Samson: …\p"
 	.string "Ich bin Samson von der Wochentag-\n"
 	.string "Familie. Nun Rate mal.$"
 
@@ -228,18 +229,18 @@ BlackthornCity_SantosGivesGiftText:
 	.string "Du kannst das haben…$"
 
 BlackthornCity_SantosGaveGiftText:
-	.string "SAMSON: …\p"
-	.string "BANNSTICKER…\p"
+	.string "Samson: …\p"
+	.string "Bannsticker…\p"
 	.string "Geist-Attacken werden verstärkt…\p"
 	.string "Es wird dich gruseln…$"
 
 BlackthornCity_SantosSaturdayText:
-	.string "SAMSON: …\p"
+	.string "Samson: …\p"
 	.string "Wir sehen uns ein andermal…\p"
 	.string "Ich hab keine Geschenke mehr…$"
 
 BlackthornCity_SantosNopeText:
-	.string "SAMSON: Ne.$"
+	.string "Samson: Ne.$"
 
 BlackthornCooltrainerF2Text:
 	.string "Wow, du bist über den Eispfad gekommen!\n"
@@ -256,7 +257,7 @@ BlackthornGymSignText:
 	.string "Ein gesegneter Drachenprofi!$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
-	.string "ATTACKEN-VERLERNER HAUS$"
+	.string "Attacken-Verlerner Haus$"
 
 BlackthornCity_Text_DragonDenSign:
 	.string "Drachenhöhle\n"

@@ -49,16 +49,16 @@ GoldenrodCity_UndergroundStorage_EventScript_Item_MaxEther::
 
 RadioTowerBasement_Text_GruntM24Seen:
 	.string "Wie bist du so weit gekommen?\p"
-	.string "Na gut… Dann werde ich dich\n"
-	.string "beseitigen.$"
+	.string "Nun gut. Es gibt wohl keine andere\n"
+	.string "Lösung, um dich auszuschalten.$"
 
 RadioTowerBasement_Text_GruntM24Beaten:
-	.string "Ich wurde beseitigt…$"
+	.string "Du hast mich ausgeschaltet!$"
 
 RadioTowerBasement_Text_GruntM24After:
-	.string "TEAM ROCKET macht weiter und\n"
-	.string "wartet auf Giovannis Rückkehr.\p"
-	.string "Wir tun, was immer nötig ist.$"
+	.string "Wir werden Team Rocket beschützen, bis\n"
+	.string "Giovanni zu uns zurückkehrt!\p"
+	.string "Und dazu ist uns jedes Mittel recht!$"
 
 RadioTowerBasement_Text_GruntM14Seen:
 	.string "Keinen Schritt weiter!\p"
@@ -66,11 +66,11 @@ RadioTowerBasement_Text_GruntM14Seen:
 	.string "Feinde - auch nicht für Göre!$"
 
 RadioTowerBasement_Text_GruntM14Beaten:
-	.string "Verflixt!$"
+	.string "Aaargh!$"
 
 RadioTowerBasement_Text_GruntM14After:
-	.string "Ich habe verloren…\p"
-	.string "Bitte verzeih mir, Giovanni!$"
+	.string "Ich bin ein Versager… Vergib mir,\n"
+	.string "Giovanni!$"
 
 RadioTowerBasement_Text_GruntM15Seen:
 	.string "Hihihi! Schau mal, wer da ist!\p"
@@ -79,7 +79,7 @@ RadioTowerBasement_Text_GruntM15Seen:
 
 RadioTowerBasement_Text_GruntM15Beaten:
 	.string "Hihihi! Du bist echt gut!\p"
-	.string "TEAM ROCKET war nur ein Job…\n"
+	.string "Team Rocket war nur ein Job…\n"
 	.string "aber ich sehe, dass es anderen\n"
 	.string "wehtut.\p"
 	.string "Na gut, Ich höre auf.\p"
@@ -90,24 +90,25 @@ RadioTowerBasement_Text_GruntM15After:
 	.string "Ich vergesse dich nicht!$"
 
 RadioTowerBasement_Text_DirectorIntro:
-	.string "Intendant: Wer? Was? Du bist\n"
-	.string "gekommen, um mich zu retten?\p"
-	.string "Danke!\p"
-	.string "Der Radioturm!\p"
-	.string "Was geht dort vor?\p"
-	.string "Team Rocket hat ihn besetzt?\p"
-	.string "Hier. Nimm diese Schlüsselkarte.$"
+	.string "Intendant: W-wer bist du? Was, du bist\n"
+	.string "hier, um mich zu retten? Vielen, vielen\l"
+	.string "Dank!\p"
+	.string "A-aber sag mal… was ist da im Radioturm\n"
+	.string "bloß los?\p"
+	.string "Was? Dort wimmelt es nur so vor Team\n"
+	.string "Rocket-Mitgliedern? Na gut! Hier, nimm\l"
+	.string "diesen Türöffner!$"
 
 RadioTowerBasement_Text_DirectorCardKey:
-	.string "INTENDANT: Damit kannst du die\n"
-	.string "Tore in 2S öffnen.$"
+	.string "Intendant: Damit solltest du die Tür im\n"
+	.string "zweiten Stock aufbekommen!$"
 
 RadioTowerBasement_Text_DirectorAfter:
-	.string "Bitte, hilf uns!\p"
-	.string "Niemand weiß, was sie tun werden,\n"
-	.string "wenn sie den Sender kontrollieren.\p"
-	.string "Sie könnten mit einem Signal\n"
-	.string "sogar Pokémon steuern!\p"
-	.string "Nur auf dich kann ich zählen.\p"
-	.string "Rette den Radioturm…\p"
-	.string "und alle Pokémon im ganzen Land!$"
+	.string "Bitte! Du weißt ja nicht, zu was sie mit\n"
+	.string "dem Sender in ihrer Gewalt fähig sind!\p"
+	.string "Wenn sie mit diesem seltsamen Signal\n"
+	.string "auf Sendung gehen, könnten sie sogar\l"
+	.string "Besitz von den Pokémon ergreifen!\p"
+	.string "Du bist unsere letzte Hoffnung! Du\n"
+	.string "musst den Radioturm… nein, alle Pokémon\l"
+	.string "dieser Welt retten!$"

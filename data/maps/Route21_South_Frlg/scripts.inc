@@ -70,9 +70,9 @@ Route21_North_Text_LilPostBattle::
 	.string "Können wir nicht schon nach Hause?$"
 
 Route21_North_Text_LilNotEnoughMons::
-	.string "EWE: Häh? Ein Kampf? Ich kann\n"
+	.string "Ewe: Häh? Ein Kampf? Ich kann\n"
 	.string "ihn nicht alleine bestreiten.\l"
-	.string "Bring zwei POKéMON, o.k.?$"
+	.string "Bring zwei Pokémon, o.k.?$"
 
 Route21_North_Text_IanIntro::
 	.string "Tobi: Meine Schwester trainiert\n"
@@ -88,6 +88,6 @@ Route21_North_Text_IanPostBattle::
 	.string "So wirst du nie Gewicht verlieren!$"
 
 Route21_North_Text_IanNotEnoughMons::
-	.string "TOBI: Wir verlangen einen Zwei-\n"
+	.string "Tobi: Wir verlangen einen Zwei-\n"
 	.string "gegen-Zwei-Kampf. Bring doch zwei\l"
-	.string "POKéMON mit!$"
+	.string "Pokémon mit!$"

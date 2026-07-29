@@ -42,14 +42,14 @@ BattleFrontier_Lounge5_EventScript_LittleBoy_hns::
 	end
 
 BattleFrontier_Lounge5_Text_NatureGirlGreeting_hns::
-	.string "Ehehe!\n"
-	.string "Ich weiß, was POKÉMON denken!\p"
-	.string "Bitte!\n"
-	.string "Darf ich dein POKÉMON sehen?$"
+	.string "Hihihi! Ich kann die Gedanken\n"
+	.string "von Pokémon lesen!\p"
+	.string "Bitte! Darf ich deine Pokémon mal\n"
+	.string "sehen? Bitte, bitte, bitte, bitte…$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNoneShown_hns::
-	.string "Bäh!\n"
-	.string "Geizkragen!$"
+	.string "Booh!\n"
+	.string "Fiesling!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAttackHighAttackLow_hns::
 	.string "Hmhm…\p"
@@ -112,20 +112,20 @@ BattleFrontier_Lounge5_Text_NatureGirlSupportHighSupportLow_hns::
 	.string "noch heimtückisch!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg_hns::
-	.string "Quatsch! Ein EI schläft!\n"
-	.string "Ich kann nicht mit ihm reden!$"
+	.string "Du bist komisch! Das ist ein Ei. Das\n"
+	.string "schläft doch! Wie soll ich damit reden?!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon_hns::
-	.string "Wie entzückend!\n"
-	.string "Das kleine Mädchen behauptet,\l"
-	.string "POKÉMON zu verstehen!$"
+	.string "Wie charmant!\n"
+	.string "Diese kleine Dame hier behauptet, sie\l"
+	.string "könne die Pokémon verstehen!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound_hns::
-	.string "Ich habe das Gefühl, dass das kleine\n"
-	.string "Mädchen etwas Tiefgründiges sagt.$"
+	.string "Ich habe das Gefühl, dies kleine\n"
+	.string "Mädchen sagt profunde Dinge!$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot_hns::
-	.string "Ich weiß was!\p"
-	.string "Das kleine Mädchen spielt oft\n"
-	.string "beim roten Haus!$"
+	.string "Ich weiß was! Ich weiß was!\p"
+	.string "Das kleine Mädchen spielt ganz oft\n"
+	.string "im roten Haus!$"
 

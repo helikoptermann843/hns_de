@@ -50,9 +50,9 @@ NewMauville_Entrance_Text_DoorIsLocked:
 	.string "Die Tür ist geschlossen.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Den KELLERÖFFNER benutzen?$"
+	.string "Den Kelleröffner benutzen?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} benutzt den KELLERÖFFNER.\p"
+	.string "{PLAYER} benutzt den Kelleröffner.\p"
 	.string "Die Tür öffnet sich.$"
 

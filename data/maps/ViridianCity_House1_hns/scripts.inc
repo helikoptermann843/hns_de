@@ -38,8 +38,8 @@ ViridianCity_House1_Text_PokefanM:
 	.string "Spitznamen haben!$"
 
 ViridianCity_House1_Text_Lass:
-	.string "Das hier sind Habbi, ein HABITAK,\n"
-	.string "und Fratzi, ein RATTFRATZ!$"
+	.string "Das hier sind Habbi, ein Habitak,\n"
+	.string "und Fratzi, ein Rattfratz!$"
 
 ViridianCity_House1_Text_Speary:
 	.string "Habbi: Habi, tak!$"

@@ -7,6 +7,6 @@ Gate_SaffronCity_Route5_EventScript_Guard::
 	end
 
 Route5_Text_SaffronGateOfficer:
-	.string "Du kommst aus JOHTO, nicht wahr?\p"
+	.string "Du kommst aus Johto, nicht wahr?\p"
 	.string "Wie gefällt dir\n"
-	.string "KANTO? Schön hier, oder nicht?$"
+	.string "Kanto? Schön hier, oder nicht?$"

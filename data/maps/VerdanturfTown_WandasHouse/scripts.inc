@@ -83,14 +83,14 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 	end
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
-	.string "HEIKO: Ich habe gegen dich verloren,\n"
+	.string "Heiko: Ich habe gegen dich verloren,\n"
 	.string "{PLAYER}. Aber das betrübt mich nicht.\n"
 	.string "\p"
 	.string "Ich habe ein neues Ziel in meinem\n"
 	.string "Leben.\n"
-	.string "Zusammen mit meinem TRASLA mache\p"
-	.string "ich mich auf, die ARENen herauszu-\n"
-	.string "fordern und ein großer TRAINER zu\l"
+	.string "Zusammen mit meinem Trasla mache\p"
+	.string "ich mich auf, die Arenen herauszu-\n"
+	.string "fordern und ein großer Trainer zu\l"
 	.string "werden.\p"
 	.string "Behalte mich ruhig im Auge, {PLAYER}.\n"
 	.string "Bald bin ich stärker als du!\p"
@@ -98,50 +98,50 @@ VerdanturfTown_WandasHouse_Text_StrongerSpeech:
 	.string "Kampf herausfordern.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "HEIKO: Behalte mich ruhig im Auge,\n"
+	.string "Heiko: Behalte mich ruhig im Auge,\n"
 	.string "{PLAYER}. Bald bin ich stärker als du!\n"
 	.string "\p"
 	.string "Und dann werde ich dich zu einem neuen\n"
 	.string "Kampf herausfordern.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "ONKEL: Oh! {PLAYER}{KUN}!\n"
-	.string "Du findest HEIKO nebenan.\p"
+	.string "Onkel: Oh! {PLAYER}{KUN}!\n"
+	.string "Du findest Heiko nebenan.\p"
 	.string "Aber es gibt etwas, das ich dir sagen\n"
 	.string "muss.\p"
 	.string "Diese natürliche Umgebung hat Wunder\n"
-	.string "gewirkt bei HEIKOs Gesundheit.\p"
+	.string "gewirkt bei Heikos Gesundheit.\p"
 	.string "Und nicht nur die natürliche Umgebung!\n"
 	.string "Ich denke, auch die Freundschaft zu\l"
-	.string "den POKéMON hat ihm geholfen…$"
+	.string "den Pokémon hat ihm geholfen…$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
-	.string "HEIKO ist weggegangen…\n"
+	.string "Heiko ist weggegangen…\n"
 	.string "Er ist nun auf seinem eigenen Weg…$"
 
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
-	.string "ONKEL: Stimmt das?\n"
-	.string "HEIKO ist ganz alleine in die Welt\l"
+	.string "Onkel: Stimmt das?\n"
+	.string "Heiko ist ganz alleine in die Welt\l"
 	.string "hinausgezogen…\p"
 	.string "Ich sollte ihn unterstützen - er ist\n"
 	.string "der Sohn meines kleinen Bruders…$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
-	.string "HEIKE: Wer bist du?\n"
+	.string "Heike: Wer bist du?\n"
 	.string "Oh, ja, ich weiß schon…\p"
-	.string "Du bist {PLAYER}. HEIKO hat mir schon\n"
+	.string "Du bist {PLAYER}. Heiko hat mir schon\n"
 	.string "viel von dir erzählt.\p"
-	.string "Ich bin HEIKOs Cousine.\n"
+	.string "Ich bin Heikos Cousine.\n"
 	.string "Nett, dich kennen zu lernen!\p"
-	.string "Ich finde, seit HEIKO hier lebt, ist\n"
+	.string "Ich finde, seit Heiko hier lebt, ist\n"
 	.string "er\l"
 	.string "viel gesünder und lebendiger geworden.$"
 
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
-	.string "HEIKE: Mach dir keine Sorgen um HEIKO.\n"
+	.string "Heike: Mach dir keine Sorgen um Heiko.\n"
 	.string "Ihm geht es mit Sicherheit gut.\p"
 	.string "Ich kenne doch meinen kleinen Vetter.\n"
-	.string "Außerdem hat er sein POKéMON dabei.$"
+	.string "Außerdem hat er sein Pokémon dabei.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
 	.string "Dank dir kann ich meine Freundin jetzt\n"
@@ -162,12 +162,12 @@ VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
 	.string "von Hand gegraben! Einfach sagenhaft!$"
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
-	.string "Sollte HEIKO irgendetwas passieren,\n"
-	.string "könnte ich seinen Eltern in BLÜTENBURG\l"
-	.string "CITY nicht mehr in die Augen schauen…$"
+	.string "Sollte Heiko irgendetwas passieren,\n"
+	.string "könnte ich seinen Eltern in Blütenburg\l"
+	.string "City nicht mehr in die Augen schauen…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "HEIKO war in PRACHTPOLIS CITY?\p"
-	.string "Seine Eltern in BLÜTENBURG CITY werden\n"
+	.string "Heiko war in Prachtpolis City?\p"
+	.string "Seine Eltern in Blütenburg City werden\n"
 	.string "erstaunt sein, das zu hören.$"
 

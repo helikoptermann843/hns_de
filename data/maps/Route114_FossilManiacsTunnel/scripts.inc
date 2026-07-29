@@ -54,7 +54,7 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "Ich bin der FOSSILMANIAC… Ich bin\n"
+	.string "Ich bin der Fossilmaniac… Ich bin\n"
 	.string "ein netter Typ, der Fossilien liebt…\p"
 	.string "Möchtest du ein Fossil haben?\p"
 	.string "Die Fossilien in dieser Gegend gehören\n"
@@ -66,17 +66,17 @@ Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
 	.string "findest du dort eines…$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "Du hast ein FOSSIL gefunden, stimmt’s?\n"
+	.string "Du hast ein Fossil gefunden, stimmt’s?\n"
 	.string "Das ist schön… Traumhaft…\p"
-	.string "Was wirst du mit dem FOSSIL machen?\p"
-	.string "Ich habe gehört, dass DEVON versucht,\n"
-	.string "aus den FOSSILien POKéMON zum\l"
+	.string "Was wirst du mit dem Fossil machen?\p"
+	.string "Ich habe gehört, dass Devon versucht,\n"
+	.string "aus den Fossilien Pokémon zum\l"
 	.string "Leben zu erwecken…\p"
-	.string "Ich liebe FOSSILien, daher würde ich\n"
+	.string "Ich liebe Fossilien, daher würde ich\n"
 	.string "so etwas niemals machen…$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "FOSSILien sind so… Wundervoll…\n"
+	.string "Fossilien sind so… Wundervoll…\n"
 	.string "Einfach traumhaft…$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
@@ -87,5 +87,5 @@ Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
 	.string "Aber ich habe sie nicht weiter\n"
 	.string "untersucht, denn ich glaube nicht,\n"
 	.string "dass\l"
-	.string "sich dort ein FOSSIL befindet…$"
+	.string "sich dort ein Fossil befindet…$"
 

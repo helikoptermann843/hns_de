@@ -41,25 +41,25 @@ PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
 	.string "Möchtest du ihn ausfüllen?$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-	.string "INDIGO PLATEAU\p"
-	.string "Das POKéMON LIGA-HAUPTQUARTIER\n"
-	.string "ist die höchste POKéMON-AUTORITÄT!$"
+	.string "Indigo Plateau\p"
+	.string "Das Pokémon Liga-Hauptquartier\n"
+	.string "ist die höchste Pokémon-Autorität!$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-	.string "INDIGO PLATEAU\p"
-	.string "Das große Ziel aller TRAINER ist\n"
-	.string "die POKéMON LIGA!$"
+	.string "Indigo Plateau\p"
+	.string "Das große Ziel aller Trainer ist\n"
+	.string "die Pokémon Liga!$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
-	.string "Ich bete für PIEPI...\p"
+	.string "Ich bete für Piepi...\p"
 	.string "Schluchz! Ich kann nicht aufhören\n"
 	.string "zu weinen...$"
 
 PokemonTower_1F_Text_GrowlitheWhyDidYouDie::
-	.string "FUKANO...\n"
+	.string "Fukano...\n"
 	.string "Warum hast du mich verlassen?$"
 
 PokemonTower_1F_Text_SenseSpiritsUpToMischief::
-	.string "Ich bin eine EXORZISTIN!\n"
+	.string "Ich bin eine Exorzistin!\n"
 	.string "Die Geister hier stiften Unruhe!$"
 

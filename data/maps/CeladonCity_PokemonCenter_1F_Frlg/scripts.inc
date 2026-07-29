@@ -27,8 +27,8 @@ CeladonCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
-	.string "Die POKéFLÖTE weckt POKéMON mit\n"
-	.string "einem Ton, den nur POKéMON\l"
+	.string "Die Pokéflöte weckt Pokémon mit\n"
+	.string "einem Ton, den nur Pokémon\l"
 	.string "hören können!$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::

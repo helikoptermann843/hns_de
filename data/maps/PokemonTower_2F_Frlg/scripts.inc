@@ -101,11 +101,11 @@ PokemonTower_2F_Movement_RivalExitDown::
 	step_end
 
 PokemonTower_2F_Text_RivalIntro::
-	.string "POKéMON JOURNAL\p"
-	.string "Sonderreportage: PROF. EICH, der\n"
-	.string "POKéMON-Forscher!\p"
-	.string "Berichten zufolge lebt PROF. EICH\n"
-	.string "mit seinen Enkeln SARAH und\l"
+	.string "Pokémon Journal\p"
+	.string "Sonderreportage: Prof. Eich, der\n"
+	.string "Pokémon-Forscher!\p"
+	.string "Berichten zufolge lebt Prof. Eich\n"
+	.string "mit seinen Enkeln Sarah und\l"
 	.string "{RIVAL} zusammen.$"
 
 PokemonTower_2F_Text_RivalDefeat::
@@ -114,12 +114,12 @@ PokemonTower_2F_Text_RivalDefeat::
 	.string "I took it easy on you, too!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
-	.string "Wie macht sich dein POKéDEX,\n"
+	.string "Wie macht sich dein Pokédex,\n"
 	.string "Nervensäge? Ich habe kürzlich ein\l"
-	.string "TRAGOSSO gefangen!\p"
+	.string "Tragosso gefangen!\p"
 	.string "Allerdings habe ich noch kein\n"
-	.string "KNOGGA!\p"
-	.string "Ich glaube, von diesen POKéMON\n"
+	.string "Knogga!\p"
+	.string "Ich glaube, von diesen Pokémon\n"
 	.string "gibt es nur noch wenige.\p"
 	.string "Also, ich habe viel zu tun!\n"
 	.string "Ich muss weiter!\p"
@@ -127,7 +127,7 @@ PokemonTower_2F_Text_RivalPostBattle::
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
 	.string "Ah, du studierst also ganz alleine\n"
-	.string "POKéMON…\p"
+	.string "Pokémon…\p"
 	.string "Ja, du bist wirklich eine außer-\n"
 	.string "ordentliche Persönlichkeit.$"
 

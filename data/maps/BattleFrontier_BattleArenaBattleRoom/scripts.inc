@@ -484,26 +484,26 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "REFEREE: TRAINER {PLAYER}!\n"
+	.string "Referee: Trainer {PLAYER}!\n"
 	.string "Bitte tritt vor!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "REFEREE: TRAINER {STR_VAR_1}!\n"
+	.string "Referee: Trainer {STR_VAR_1}!\n"
 	.string "Bitte tritt vor!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "REFEREE: K.O.-Teamturnier!\n"
+	.string "Referee: K.O.-Teamturnier!\n"
 	.string "Lasst es beginnen!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
-	.string "REFEREE: Der Sieger heißt {PLAYER}!$"
+	.string "Referee: Der Sieger heißt {PLAYER}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
-	.string "REFEREE: Der Sieger heißt\n"
+	.string "Referee: Der Sieger heißt\n"
 	.string "{STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Deine POKéMON werden wieder topfit!$"
+	.string "Deine Pokémon werden wieder topfit!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
 	.string "Dein zweiter Gegner erwartet dich!\n"
@@ -543,25 +543,25 @@ BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
 	.string "Möchtest du deinen letzten Kampf\n"
-	.string "im KAMPFZONENPASS eintragen lassen?$"
+	.string "im Kampfzonenpass eintragen lassen?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
 	.string "Verehrter Herausforderer!\p"
 	.string "Deine Fähigkeiten sind einfach\n"
 	.string "atemberaubend!\p"
 	.string "Wir möchten dir nun unseren\n"
-	.string "RINGMEISTER vorstellen!$"
+	.string "Ringmeister vorstellen!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "Ein Kampf gegen den RINGMEISTER!!!\n"
+	.string "Ein Kampf gegen den Ringmeister!!!\n"
 	.string "Bist du bereit?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "REFEREE: Der RINGMEISTER!!!\n"
-	.string "Macht Platz für GRETA!$"
+	.string "Referee: Der Ringmeister!!!\n"
+	.string "Macht Platz für Greta!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hey!\n"
+	.string "Greta: Hey!\n"
 	.string "Wie geht’s?\p"
 	.string "Warte mal… Bist du mein\n"
 	.string "Herausforderer?$"
@@ -584,14 +584,14 @@ BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
 	.string "Leidenschaft für den Kampf!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Uh, warte mal!!!\n"
+	.string "Greta: Uh, warte mal!!!\n"
 	.string "Du bist doch ganz schön stark!\p"
 	.string "Ich mag dich!\n"
-	.string "Zeig mir mal deinen KAMPFZONENPASS.$"
+	.string "Zeig mir mal deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "Das GROBSYMBOL wurde dem KAMPF-\n"
-	.string "ZONENPASS hinzugefügt!$"
+	.string "Das Grobsymbol wurde dem Kampf-\n"
+	.string "zonenpass hinzugefügt!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
@@ -599,7 +599,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Ich freue mich schon darauf!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hey! Wie geht’s?\n"
+	.string "Greta: Hey! Wie geht’s?\n"
 	.string "Du hast es doch bis hierher geschafft!\n"
 	.string "\p"
 	.string "Ich habe mir schon Sorgen gemacht!\n"
@@ -614,15 +614,15 @@ BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
 	.string "erlauben! Mach dich auf was gefasst!!!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Komm schon, REFEREE!\n"
+	.string "Komm schon, Referee!\n"
 	.string "Lass uns endlich anfangen!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-	.string "GRETA: Aaargh! Hinweggefegt!\n"
-	.string "Zeig mir deinen KAMPFZONENPASS.$"
+	.string "Greta: Aaargh! Hinweggefegt!\n"
+	.string "Zeig mir deinen Kampfzonenpass.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-	.string "Das GROBSYMBOL erscheint in einem\n"
+	.string "Das Grobsymbol erscheint in einem\n"
 	.string "goldenen Glanz!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:

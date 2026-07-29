@@ -74,8 +74,8 @@ CeruleanCity_BikeShop_EventScript_Bicycle::
 
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
 	.string "Hi!\n"
-	.string "Welcome to our BIKE SHOP.\p"
-	.string "Have we got just the BIKE for\n"
+	.string "Welcome to our Bike Shop.\p"
+	.string "Have we got just the Bike for\n"
 	.string "you!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
@@ -84,20 +84,20 @@ CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
 
 CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
 	.string "Oh, das ist ein...\p"
-	.string "... RAD-COUPON!\p"
+	.string "... Rad-Coupon!\p"
 	.string "O.K.!\n"
 	.string "Es gehört dir!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
 	.string "{PLAYER} exchanged the\n"
-	.string "BIKE VOUCHER for a BICYCLE.$"
+	.string "Bike Voucher for a Bicycle.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
 	.string "Besuch uns doch wieder!$"
 
 CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
-	.string "Wie gefällt dir dein neues FAHRRAD?\p"
-	.string "Du kannst damit auf dem RADWEG und\n"
+	.string "Wie gefällt dir dein neues Fahrrad?\p"
+	.string "Du kannst damit auf dem Radweg und\n"
 	.string "in Höhlen fahren!$"
 
 CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
@@ -105,17 +105,17 @@ CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
 	.string "mitnehmen!$"
 
 CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
-	.string "Ich möchte ein HOLLANDRAD kaufen!\p"
-	.string "Ein MOUNTAINBIKE hat keinen\n"
+	.string "Ich möchte ein Hollandrad kaufen!\p"
+	.string "Ein Mountainbike hat keinen\n"
 	.string "Gepäckträger!$"
 
 CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
-	.string "Die FAHRRÄDER sind ziemlich cool,\n"
+	.string "Die Fahrräder sind ziemlich cool,\n"
 	.string "aber unheimlich teuer!$"
 
 CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
 	.string "Wow!\n"
-	.string "Du hast ein cooles FAHRRAD!$"
+	.string "Du hast ein cooles Fahrrad!$"
 
 @ Unused
 CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
@@ -124,5 +124,5 @@ CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
 	.string "おりたたみ　じてんしゃ！$"
 
 CeruleanCity_BikeShop_Text_ShinyNewBicycle::
-	.string "Ein brandneues FAHRRAD!$"
+	.string "Ein brandneues Fahrrad!$"
 

@@ -28,9 +28,9 @@ OlivineCity_House1_EventScript_TradeCompleted::
 
 OlivineCity_House1_Text_YouWillTradeWontYou:
 	.string "Ich sammele Pokémon!\n"
-	.string "Hast du ein TRAUMATO?\p"
+	.string "Hast du ein Traumato?\p"
 	.string "Möchtest du es gegen\n"
-	.string "mein MACHOLLO tauschen?$"
+	.string "mein Machollo tauschen?$"
 
 OlivineCity_House1_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe {STR_VAR_1}!\p"

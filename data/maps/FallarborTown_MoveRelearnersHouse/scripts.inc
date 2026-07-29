@@ -59,24 +59,24 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 	end
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
-	.string "Ich bin der ATTACKEN-HELFER.\p"
+	.string "Ich bin der Attacken-Helfer.\p"
 	.string "Ich kenne alle Attacken, die ein\n"
-	.string "POKéMON lernen kann - und ich kann sie\l"
+	.string "Pokémon lernen kann - und ich kann sie\l"
 	.string "ihnen beibringen.\p"
-	.string "Ich kann auch deinen POKéMON neue\n"
+	.string "Ich kann auch deinen Pokémon neue\n"
 	.string "Attacken beibringen, wenn du magst.\p"
 	.string "Als Gegenleistung hätte ich gerne eine\n"
-	.string "HERZSCHUPPE. Die sammle ich nämlich.$"
+	.string "Herzschuppe. Die sammle ich nämlich.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
 	.string "Oh! Das ist es! Das ist ehrlich und\n"
-	.string "wahrhaftig eine HERZSCHUPPE!\p"
+	.string "wahrhaftig eine Herzschuppe!\p"
 	.string "Lass mich raten… Ich soll einem\n"
-	.string "POKéMON\l"
+	.string "Pokémon\l"
 	.string "eine neue Attacke beibringen?!?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Welches POKéMON soll sie lernen?$"
+	.string "Welches Pokémon soll sie lernen?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
 	.string "Welche Attacke soll ich es lehren?$"
@@ -84,17 +84,17 @@ FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
 FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "Tut mir Leid…\p"
 	.string "Scheinbar gibt es keine Attacke, die\n"
-	.string "ich diesem POKéMON beibringen kann.$"
+	.string "ich diesem Pokémon beibringen kann.$"
 
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} tauscht eine HERZSCHUPPE ein.$"
+	.string "{PLAYER} tauscht eine Herzschuppe ein.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "Falls deine POKéMON neue Attacken\n"
+	.string "Falls deine Pokémon neue Attacken\n"
 	.string "lernen sollen, komm mit einer\l"
-	.string "HERZSCHUPPE wieder.$"
+	.string "Herzschuppe wieder.$"
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
-	.string "Bitte? Ich kann einem EI nicht eine\n"
+	.string "Bitte? Ich kann einem Ei nicht eine\n"
 	.string "einzige Attacke beibringen!$"
 

@@ -146,21 +146,21 @@ Route113_Text_FunWalkingThroughAsh:
 	.string "umgelaufen bist - total klasse!$"
 
 Route113_Text_RouteSign111:
-	.string "ROUTE 113\n"
-	.string "{RIGHT_ARROW} ROUTE 111$"
+	.string "Route 113\n"
+	.string "{RIGHT_ARROW} Route 111$"
 
 Route113_Text_RouteSignFallarbor:
-	.string "ROUTE 113\n"
-	.string "{LEFT_ARROW} LAUBWECHSELFELD$"
+	.string "Route 113\n"
+	.string "{LEFT_ARROW} Laubwechselfeld$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "TIPPS für TRAINER\p"
-	.string "Du kannst eines deiner BASIS-ITEMs in\n"
-	.string "deinem BEUTEL auf SELECT legen.\p"
-	.string "Durch Drücken von SELECT kannst du\n"
+	.string "Tipps für Trainer\p"
+	.string "Du kannst eines deiner Basis-Items in\n"
+	.string "deinem Beutel auf Select legen.\p"
+	.string "Durch Drücken von Select kannst du\n"
 	.string "so ganz bequem das Item einsetzen.$"
 
 Route113_Text_GlassWorkshopSign:
-	.string "GLASWERKSTATT\n"
+	.string "Glaswerkstatt\n"
 	.string "“Glasdekor aus Vulkanasche.”$"
 

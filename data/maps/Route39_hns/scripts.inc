@@ -3,7 +3,7 @@ Route39_hns_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, SetTimeEncounters
 	.byte 0
 
-Route39_OnTransition: 
+Route39_OnTransition:
 	callnative SetTimeBasedEncounters
 	end
 
@@ -134,8 +134,8 @@ Route39_EventScript_BaobaIntro::
 	end
 
 Route39_Text_ChooseLegend::
-	.string "BAOBA: GRUNDGÜTIGER! Gehört\n"
-	.string "dieser Schatten zu einem POKéMON?\p"
+	.string "Baoba: Grundgütiger! Gehört\n"
+	.string "dieser Schatten zu einem Pokémon?\p"
 	.string "Hast du es sehen können?\n"
 	.string "Ich konnte die Farbe nicht erkennen...$"
 
@@ -169,7 +169,7 @@ Route39_Text_Registered:
 
 Route39_Text_WillCall:
 	.string "Baoba: Ich gebe dir demnächst\n"
-	.string "auf dem POKéCOM bescheid!$"
+	.string "auf dem Pokécom bescheid!$"
 
 Route39_Movement_BaobaLeave:
 	walk_left
@@ -233,7 +233,7 @@ Route39_EventScript_Miltank::
 	end
 
 Route39_Text_Miltank:
-	.string "MILTANK: Miiillltank!$"
+	.string "Miltank: Miiillltank!$"
 
 Route39_EventScript_Eugene::
 	trainerbattle_single TRAINER_EUGENE_HNS, Route39_Text_SailorEugeneSeen, Route39_Text_SailorEugeneBeaten
@@ -277,11 +277,11 @@ Route39_EventScript_DerekNoRoom::
 
 Route39_Text_PokefanMDerekSeen:
 	.string "Genau der richtige Moment,\n"
-	.string "um mit PIKACHU anzugeben!$"
+	.string "um mit Pikachu anzugeben!$"
 
 Route39_Text_PokefanMDerekBeaten:
 	.string "Ich hatte keine Zeit,\n"
-	.string "mit PIKACHU zu prahlen…$"
+	.string "mit Pikachu zu prahlen…$"
 
 Route39_Text_PokefanMDerekAfter:
 
@@ -345,8 +345,8 @@ Route39_EventScript_Sign1::
 	end
 
 Route39_Text_Sign:
-	.string "ROUTE 39\p"
-	.string "OLIVIANA CITY - TEAK CITY$"
+	.string "Route 39\p"
+	.string "Oliviana City - Teak City$"
 
 Route39_EventScript_Sign2::
 	lock
@@ -378,20 +378,20 @@ Route39_Text_TrainerTips:
 Route39_Text_DerekRegister:
     .string "Ich höre mir deine Angeberei\n"
     .string "gar nicht erst an!\p"
-    .string "Wir POKéMANIACS haben nämlich\n"
+    .string "Wir Pokémaniacs haben nämlich\n"
     .string "die Regel, Angebereien zu\l"
     .string "ignorieren!$"
 
 Route39_Text_DerekHasItem:
-    .string "Hey! Ich habe mein PIKACHU\n"
+    .string "Hey! Ich habe mein Pikachu\n"
     .string "herumgezeigt und dabei etwas\l"
     .string "gefunden.\p"
     .string "Hier, du kannst es haben!$"
 
 Route39_Text_DerekGaveItem:
-    .string "PIKACHU ist einfach das Beste!\n"
+    .string "Pikachu ist einfach das Beste!\n"
     .string "Findest du nicht auch?$"
 
 Route39_Text_DerekNoRoom:
-    .string "Hm, dein BEUTEL ist voll.\p"
+    .string "Hm, dein Beutel ist voll.\p"
     .string "Komm wieder, wenn du Platz hast.$"

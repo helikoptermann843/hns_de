@@ -16,7 +16,7 @@ BattleFrontier_Lounge4_EventScript_Man::
 BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring:
 	.string "Ich frage mich, ob sie heute\n"
 	.string "Interviews\l"
-	.string "mit starken TRAINERn ausstrahlen!$"
+	.string "mit starken Trainern ausstrahlen!$"
 
 BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere:
 	.string "Wenn ich hier ein Restaurant eröffnen\n"

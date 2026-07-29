@@ -114,28 +114,28 @@ PewterCity_Gym_Text_TakeThisWithYou::
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
 	.string "{PLAYER} received TM39\n"
-	.string "from BROCK.$"
+	.string "from Brock.$"
 
 PewterCity_Gym_Text_ExplainTM39::
 	.string "Eine TM enthält Attacken, die\n"
-	.string "POKéMON erlernen können!\p"
+	.string "Pokémon erlernen können!\p"
 	.string "Man kann eine TM nur ein einziges\n"
 	.string "Mal verwenden! Wähle sorgfältig\l"
-	.string "jenes POKéMON aus, dem du eine TM\l"
+	.string "jenes Pokémon aus, dem du eine TM\l"
 	.string "geben möchtest!\p"
-	.string "TM39 ist FELSGRAB!\p"
+	.string "TM39 ist Felsgrab!\p"
 	.string "Der Gegner wird mit Felsen\n"
 	.string "beworfen und unter ihnen begraben.\l"
 	.string "Der INIT.-Wert des Gegners wird\l"
 	.string "zugleich gesenkt!$"
 
 PewterCity_Gym_Text_BrockPostBattle::
-	.string "Es gibt die verschiedensten TRAINER\n"
+	.string "Es gibt die verschiedensten Trainer\n"
 	.string "auf der Welt!\p"
 	.string "Du scheinst ein sehr begabter\n"
-	.string "POKéMON TRAINER zu sein!\p"
-	.string "Gehe in die POKéMON-ARENA von\n"
-	.string "AZURIA CITY und teste dort dein\l"
+	.string "Pokémon Trainer zu sein!\p"
+	.string "Gehe in die Pokémon-Arena von\n"
+	.string "Azuria City und teste dort dein\l"
 	.string "Können!$"
 
 PewterCity_Gym_Text_DontHaveRoomForThis::
@@ -158,8 +158,8 @@ PewterCity_Gym_Text_LiamPostBattle::
 PewterCity_Gym_Text_LetMeTakeYouToTheTop::
 	.string "Hallo!\p"
 	.string "Sieht aus, als hättest du das Zeug\n"
-	.string "zu einem POKéMON-CHAMPION!\p"
-	.string "Ich bin kein TRAINER, aber ich kann\n"
+	.string "zu einem Pokémon-Champion!\p"
+	.string "Ich bin kein Trainer, aber ich kann\n"
 	.string "dir ein paar Tipps geben!\p"
 	.string "Lass mich dir den Weg zum Erfolg\n"
 	.string "zeigen!$"
@@ -169,10 +169,10 @@ PewterCity_Gym_Text_LetsGetHappening::
 	.string "Dann kann es losgehen!$"
 
 PewterCity_Gym_Text_TryDifferentPartyOrders::
-	.string "Das POKéMON an der Spitze der\n"
-	.string "POKéMON-LISTE kämpft als Erstes!\p"
+	.string "Das Pokémon an der Spitze der\n"
+	.string "Pokémon-Liste kämpft als Erstes!\p"
 	.string "Wenn du die Reihenfolge der\n"
-	.string "POKéMON änderst, könnten Kämpfe\l"
+	.string "Pokémon änderst, könnten Kämpfe\l"
 	.string "leichter werden!\p"
 	.string "Probiere es aus, um so deinem\n"
 	.string "Gegner besser zu trotzen!$"
@@ -183,18 +183,18 @@ PewterCity_Gym_Text_ItsFreeLetsGetHappening::
 
 PewterCity_Gym_Text_YoureChampMaterial::
 	.string "Ganz wie ich es mir gedacht habe!\n"
-	.string "Aus dir kann ein POKéMON-CHAMPION\l"
+	.string "Aus dir kann ein Pokémon-Champion\l"
 	.string "werden!$"
 
 PewterCity_Gym_Text_GymStatue::
-	.string "MARMORIA POKéMON-ARENA\n"
-	.string "LEITUNG: ROCKO\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Marmoria Pokémon-Arena\n"
+	.string "Leitung: Rocko\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
-	.string "MARMORIA POKéMON-ARENA\n"
-	.string "LEITUNG: ROCKO\p"
-	.string "BISHERIGE SIEGER:\n"
+	.string "Marmoria Pokémon-Arena\n"
+	.string "Leitung: Rocko\p"
+	.string "Bisherige Sieger:\n"
 	.string "{RIVAL}, {PLAYER}$"
 

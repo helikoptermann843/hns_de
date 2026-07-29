@@ -137,37 +137,37 @@ PokemonFanClub_Text_Receptionist:
 
 @=Clefairy=Guy=========================================================================================================
 PokemonFanClub_Text_ClefairyGuy_Adorable:
-	.string "Das ist ein PIEPI! Was?\p"
-	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
+	.string "Das ist ein Piepi! Was?\p"
+	.string "Ach so! Das ist eine Puppe von Piepi.$"
 
 PokemonFanClub_Text_ClefairyGuy_MakingDo:
-	.string "Ich mag PIEPI, aber ich werde es nie\n"
+	.string "Ich mag Piepi, aber ich werde es nie\n"
 	.string "schaffen, eins zu fangen. Tja, ich\l"
 	.string "werde mich wohl mit dieser Poképuppe\l"
 	.string "begnügen müssen, die ich gefunden habe.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
-	.string "Das ist ein PIEPI! Was?\p"
-	.string "Ach so! Das ist eine PUPPE von PIEPI.$"
+	.string "Das ist ein Piepi! Was?\p"
+	.string "Ach so! Das ist eine Puppe von Piepi.$"
 
 PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
-	.string "Irgendwann finde ich ein echtes PIEPI\n"
+	.string "Irgendwann finde ich ein echtes Piepi\n"
 	.string "als Freund! Du wirst schon sehen!$"
 
 @============================================================================================================================
 
 PokemonFanClub_Text_Teacher:
-	.string "Sieh nur, sieh nur! Mein LORBLATT!\p"
+	.string "Sieh nur, sieh nur! Mein Lorblatt!\p"
 	.string "Das Blatt auf seinem Köpfchen ist\n"
 	.string "ja so süß und schick!$"
 
 PokemonFanClub_Text_ClefairyDoll:
-	.string "Das ist ein PIEPI!\n"
+	.string "Das ist ein Piepi!\n"
 	.string "… … … ?\p"
 	.string "Ach so, es ist nur eine Puppe…$"
 
 PokemonFanClub_Text_Bayleef:
-	.string "LORBLATT: Looorblatt!$"
+	.string "Lorblatt: Looorblatt!$"
 
 PokemonFanClub_Text_Listen:
 	.string "Wenn dir jemand eine “wunderbare”\n"

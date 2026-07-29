@@ -80,7 +80,7 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
 	.string "Hallo und Willkommen in der\n"
-	.string "DEVON CORPORATION.\p"
+	.string "Devon Corporation.\p"
 	.string "Wir sind die stolzen Entwickler von\n"
 	.string "Medizin und Items, die das Leben\l"
 	.string "bereichern.$"
@@ -91,7 +91,7 @@ RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
 	.string "Paket gestohlen worden.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
-	.string "Hey, diese TURBOTRETER!\n"
+	.string "Hey, diese Turbotreter!\n"
 	.string "Die haben wir auch entwickelt!\p"
 	.string "Ich freue mich immer, wenn ich\n"
 	.string "jemanden\n"
@@ -109,7 +109,7 @@ RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
 	.string "Klingt, als hätten wir die gestohlenen\n"
-	.string "DEVON-WAREN zurückerhalten.$"
+	.string "Devon-waren zurückerhalten.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
 	.string "Tut mir Leid, aber nur autorisierte\n"
@@ -128,7 +128,7 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "Metalle ausgestellt.\p"
 	.string "Und da ist ein kleines Schild, auf dem\n"
 	.string "etwas geschrieben steht…\p"
-	.string "“Die DEVON CORPORATION begann\n"
+	.string "“Die Devon Corporation begann\n"
 	.string "ihre Erfolgsgeschichte mit der\p"
 	.string "Verarbeitung von Steinen aus\n"
 	.string "Steinbrüchen.\p"
@@ -136,7 +136,7 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "die man im Sand finden kann.\p"
 	.string "Die Verarbeitung von Rohmaterialien\n"
 	.string "war nur der Anfang.\p"
-	.string "Heute stellt DEVON eine große Anzahl\n"
+	.string "Heute stellt Devon eine große Anzahl\n"
 	.string "von Industrieprodukten her.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
@@ -144,11 +144,11 @@ RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Prototypen und Testprodukte sehen.\p"
 	.string "Hier ist eine Beschreibung…\p"
 	.string "“Neben der Herstellung von Industrie-\n"
-	.string "produkten stellt DEVON eine Vielzahl\p"
+	.string "produkten stellt Devon eine Vielzahl\p"
 	.string "an Gütern her, die das alltägliche\n"
 	.string "Leben leichter machen.\p"
-	.string "DEVON hat damit begonnen, hilfreiche\n"
-	.string "Produkte für POKéMON TRAINER zu\p"
-	.string "entwickeln, wie POKéBÄLLe und das\n"
-	.string "POKéNAV-System.”$"
+	.string "Devon hat damit begonnen, hilfreiche\n"
+	.string "Produkte für Pokémon Trainer zu\p"
+	.string "entwickeln, wie Pokébälle und das\n"
+	.string "Pokénav-System.”$"
 

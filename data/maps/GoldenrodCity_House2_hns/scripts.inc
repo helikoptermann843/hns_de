@@ -20,12 +20,12 @@ GoldenrodCity_House2_EventScript_Woman::
 GoldenrodPPSpeechHouse_Text_Man:
 	.string "Einmal im Kampf konnte mein\n"
 	.string "Pokémon keinen Zug ausführen.\p"
-	.string "Die POWER POINTS, oder AP, aller\n"
+	.string "Die Power Points, oder AP, aller\n"
 	.string "Attacken waren aufgebraucht.$"
 
 GoldenrodPPSpeechHouse_Text_Lass:
 	.string "Manchmal kann auch ein gesundes\n"
-	.string "Pokémon nicht mehr angreifen.\p"
-	.string "In diesem Fall\n"
-	.string "musst du es in einem Pokémon-CENTER\l"
-	.string "oder mit einem Item heilen.$"
+	.string "Pokémon nicht mehr angreifen!\p"
+	.string "In diesem Fall solltest du es in einem\n"
+	.string "Pokémon-Center oder mithilfe eines\l"
+	.string "Items wieder heilen!$"

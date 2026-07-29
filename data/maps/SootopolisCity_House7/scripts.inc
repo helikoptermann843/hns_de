@@ -15,10 +15,10 @@ SootopolisCity_House7_Text_CityFromEruptedVolcano:
 	.string "Der Krater lag über der Meeresober-\n"
 	.string "fläche und konnte sich so mit Regen-\p"
 	.string "wasser füllen.\n"
-	.string "Und so entstand XENEROVILLE.$"
+	.string "Und so entstand Xeneroville.$"
 
 SootopolisCity_House7_Text_CaveMadeToKeepSomething:
-	.string "Die Höhle, die XENEROVILLE mit der\n"
+	.string "Die Höhle, die Xeneroville mit der\n"
 	.string "Welt verbindet…\p"
 	.string "Sie sollte ursprünglich wohl etwas\n"
 	.string "in der Stadt festhalten.\p"

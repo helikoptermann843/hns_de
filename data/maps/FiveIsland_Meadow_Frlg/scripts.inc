@@ -57,7 +57,7 @@ FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
 
 FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
 	.string "{PLAYER} gab ein Passwort ein.\p"
-	.string "“ARBOK Kobra”\p"
+	.string "“Arbok Kobra”\p"
 	.string "…………\n"
 	.string "……\p"
 	.string "Um die Türe zu öffnen, wird ein\n"
@@ -65,13 +65,13 @@ FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
 	.string "{PLAYER} entered two passwords.\p"
-	.string "“GOLDEEN need log.”\n"
-	.string "“Yes, nah, CHANSEY.”\p"
+	.string "“Goldeen need log.”\n"
+	.string "“Yes, nah, Chansey.”\p"
 	.string "… …  … …  … …\p"
-	.string "The WAREHOUSE's door opened!$"
+	.string "The Warehouse's door opened!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
-	.string "Die Türe zum LAGER ist bereits\n"
+	.string "Die Türe zum Lager ist bereits\n"
 	.string "offen.$"
 
 FiveIsland_Meadow_Text_Rocket1Intro::
