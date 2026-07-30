@@ -232,11 +232,10 @@ Route35NationalParkGate_Text_OfficerExplainRules:
 	.string "kannst!$"
 
 Route35NationalParkGate_Text_OfficerAskToUseFirstMon:
-	.string "Oh, oh…\n"
-	.string "Du hast mehr als ein Pokémon dabei.\p"
-	.string "In dem Fall nimmt dein erstes Team-\n"
-	.string "Pokémon, {STR_VAR_1}, am Turnier\l"
-	.string "teil. Bist du damit einverstanden?$"
+	.string "Wenn du mehr als ein Pokémon dabei\n"
+	.string "hast, musst du das erste Pokémon\l"
+	.string "deines Teams einsetzen.\p"
+	.string "Bist du damit einverstanden?$"
 
 Route35NationalParkGate_Text_OfficerHoldYourMon:
 	.string "Gut. Wir passen\n"

@@ -406,20 +406,24 @@ GoldenrodCity_RadioTower_1F_Text_NoNumbersMatched:
 	.string "Leider kein Treffer.$"
 
 GoldenrodCity_RadioTower_1F_Text_TwoDigitsMatched:
-	.string "Die letzten zwei Ziffern stimmen überein,\n"
-	.string "daher bekommst du den dritten Preis!$"
+	.string "Zwei Ziffern stimmen überein,\n"
+	.string "daher bekommst du den dritten Preis!\l"
+	.string "Du gewinnst {STR_VAR_1}!$"
 
 GoldenrodCity_RadioTower_1F_Text_ThreeDigitsMatched:
-	.string "Die letzten drei Ziffern stimmen überein,\n"
-	.string "daher bekommst du den zweiten Preis!$"
+	.string "Drei Ziffern stimmen überein,\n"
+	.string "daher bekommst du den zweiten Preis!\l"
+	.string "Du gewinnst {STR_VAR_1}!$"
 
 GoldenrodCity_RadioTower_1F_Text_FourDigitsMatched:
-	.string "Die letzten vier Ziffern stimmen überein.\n"
-	.string "Du bekommst den ersten Preis!!!$"
+	.string "Vier Ziffern stimmen überein,\n"
+	.string "daher bekommst du den ersten Preis!\l"
+	.string "Du gewinnst {STR_VAR_1}!$"
 
 GoldenrodCity_RadioTower_1F_Text_AllFiveDigitsMatched:
-	.string "Oh mein Gott! Volltreffer!\p"
-	.string "Du gewinnst den Jackpot!\n"
+	.string "Meine Güte! Alle fünf Ziffern stimmen\n"
+	.string "überein!\p"
+	.string "Du hast den Jackpot geknackt!\n"
 	.string "Du gewinnst {STR_VAR_1}!$"
 
 GoldenrodCity_RadioTower_1F_Text_NoRoomForThis:

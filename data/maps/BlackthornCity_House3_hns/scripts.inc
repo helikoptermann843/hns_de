@@ -82,12 +82,12 @@ BlackthornCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
 	.string "werden?$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "Dieses Pokémon kennt nur eine Attacke,\n"
-	.string "daher kann es keine vergessen…$"
+	.string "{STR_VAR_1} kennt scheinbar nur eine\n"
+	.string "einzige Attacke…$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
-	.string "Hm! {STR_VAR_1}?\n"
-	.string "Diese Attacke vergessen?$"
+	.string "Hm! {STR_VAR_2} von {STR_VAR_1}?\n"
+	.string "Diese Attacke soll vergessen werden?$"
 
 BlackthornCity_MoveDeletersHouse_Text_MonHasForgottenMove:
 	.string "Perfekt gelungen!\p"
@@ -207,7 +207,7 @@ BlackthornCity_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "kann.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{STR_VAR_1} gibt im Austausch dafür\n"
+	.string "{PLAYER} gibt im Austausch dafür\n"
 	.string "eine Herzschuppe ab.$"
 
 BlackthornCity_MoveRelearnersHouse_Text_ComeBackWithHeartScale:

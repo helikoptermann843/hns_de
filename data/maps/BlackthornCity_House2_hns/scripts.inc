@@ -28,9 +28,9 @@ BlackthornCity_House2_EventScript_TradeCompleted::
 
 BlackthornCity_House2_Text_YouWillTradeWontYou:
 	.string "Ich sammele Pokémon!\n"
-	.string "Hast du ein Traumato?\p"
+	.string "Hast du ein {STR_VAR_1}?\p"
 	.string "Möchtest du es gegen\n"
-	.string "mein Machollo tauschen?$"
+	.string "mein {STR_VAR_2} tauschen?$"
 
 BlackthornCity_House2_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe jetzt {STR_VAR_1}!\p"

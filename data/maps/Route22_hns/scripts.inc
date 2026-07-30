@@ -314,7 +314,8 @@ Route22_Text_Giovanni2:
 	.string "Ich konnte das Potenzial meiner vielen\n"
 	.string "Untergebenen nicht voll mobilisieren…\p"
 	.string "Aber irgendwann kommt der Tag, an dem\n"
-	.string "ich {STR_VAR_1}Team Rocket{STR_VAR_1} zum Comeback verhelfe!$"
+	.string "ich Team Rocket zum Comeback\n"
+	.string "verhelfe!$"
 
 Route22_Text_Silver3:
 	.string "{RIVAL}: Ich verstehe dich nicht!\p"

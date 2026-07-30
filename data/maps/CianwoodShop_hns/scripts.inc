@@ -38,8 +38,8 @@ CianwoodCity_Text_PharmacistGivePotion:
 	.string "was du brauchst. Hier, nimm!$"
 
 CianwoodCity_Text_ReceivedSecretpotion:
-	.string "{PLAYER} hat einen\n"
-	.string "{STR_VAR_1}?-Öffner{STR_VAR_1} erhalten!$"
+	.string "{PLAYER} hat den Geheimtrank\n"
+	.string "erhalten!$"
 
 CianwoodCity_Text_PharmacistDescribePotion:
 	.string "Mein Geheimtrank ist etwas zu\n"

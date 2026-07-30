@@ -36,9 +36,9 @@ VioletCity_House1_EventScript_TradeCompleted::
 
 VioletCity_House1_Text_YouWillTradeWontYou:
 	.string "Ich sammele Pokémon!\n"
-	.string "Hast du ein Traumato?\p"
+	.string "Hast du ein {STR_VAR_1}?\p"
 	.string "Möchtest du es gegen\n"
-	.string "mein Machollo tauschen?$"
+	.string "mein {STR_VAR_2} tauschen?$"
 
 VioletCity_House1_Text_MonYouTakeCare:
 	.string "Juhu! Ich habe {STR_VAR_1}!\p"

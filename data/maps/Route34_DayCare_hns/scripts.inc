@@ -505,7 +505,9 @@ Route34_Text_SeeWifeIfYouWantToPickUpMon:
 	.string "sprich mit meiner Frau.$"
 
 Route34_Text_YourMonsAreDoingFine:
-	.string "Deinem {STR_VAR_1} geht es sehr gut.$"
+	.string "Ah, du bist es! Deine Pokémon\n"
+	.string "{STR_VAR_1} und {STR_VAR_2}\l"
+	.string "entwickeln sich prächtig.$"
 
 Route34_Text_IWillKeepDoYouWantIt:
 	.string "Dann werde ich es behalten.\n"
@@ -554,7 +556,7 @@ Route34_DayCare_Text_GoodToSeeYou:
 	.string "Deinem Pokémon geht es sicher gut.$"
 
 Route34_DayCare_Text_YourMonHasGrownXLevels:
-	.string "Dein {STR_VAR_1} ist um {STR_VAR_1} Level\n"
+	.string "Dein {STR_VAR_1} ist um {STR_VAR_2} Level\n"
 	.string "gewachsen.$"
 
 Route34_DayCare_Text_YourTeamIsFull:
@@ -574,7 +576,7 @@ Route34_DayCare_Text_HeresYourMon:
 	.string "Perfekt! Hier ist dein Pokémon.$"
 
 Route34_DayCare_Text_TookBackMon:
-	.string "{STR_VAR_1} hat {STR_VAR_1} von der\n"
+	.string "{PLAYER} hat {STR_VAR_1} von der\n"
 	.string "Pensionsleiterin zurückerhalten.$"
 
 Route34_DayCare_Text_YouHaveJustOneMon:

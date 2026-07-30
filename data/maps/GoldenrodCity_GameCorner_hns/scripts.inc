@@ -797,7 +797,7 @@ GoldenrodCity_GameCorner_Text_VF_OptReturn:
 
 @ Voltorb Flip Dialogue Strings
 GoldenrodCity_GameCorner_Text_VF_Welcome:
-	.string "{STR_VAR_1}“Voltofalle Lv. {STR_VAR_1}”$"
+	.string "Willkommen bei Voltofalle!\p$"
 
 GoldenrodCity_GameCorner_Text_VF_PlayLevel:
 	.string "Möchtest du Voltofalle Lv. {STR_VAR_1} spielen?$"

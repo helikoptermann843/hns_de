@@ -124,92 +124,81 @@ BugContest_EventScript_SideEnd::
 	end
 
 BugContest_Text_Judging0::
-	.string "Der Wettbewerb ist beendet.\n"
-	.string "Wähle das Pokémon aus,\l"
-	.string "das bewertet werden soll.$"
+	.string "Das Käferturnier ist vorbei.\p"
+	.string "Welches Pokémon soll teilnehmen?$"
 
 BugContest_Text_Judging1::
-	.string "Nun bewerten wir die Pokémon,\n"
-	.string "die ihr gefangen habt.\p"
-	.string "...................\n"
-	.string "...................\p"
-	.string "Die Sieger stehen fest!\n"
-	.string "Seid ihr bereit?$"
+	.string "Wir bewerten jetzt die gefangenen\n"
+	.string "Pokémon!\p"
+	.string "......\n"
+	.string "......\p"
+	.string "Die Gewinner stehen fest!\p"
+	.string "Bist du bereit?$"
 
 BugContest_Text_WrongChoiceMon:
-	.string "Wähle das Pokémon aus,\n"
-	.string "das bewertet werden soll.$"
+	.string "Welches Pokémon soll teilnehmen?$"
 
 BugContest_Text_DidntCatch:
-	.string "Oh nein! Du hast kein Pokémon\n"
-	.string "gefangen.\p"
-	.string "Du scheidest aus dem Wettbewerb\n"
-	.string "aus.\p"
-	.string "Dein Team wird nun zurückgegeben.$"
+	.string "Du hast kein Käfer-Pokémon gefangen.\p"
+	.string "Hier hast du deine Pokémon zurück.\n"
+	.string "Bitte schön!$"
 
 BugContest_Text_TimesUp:
-	.string "Ding-Dong! Die Zeit ist um!$"
+	.string "Ding-dong! Die Zeit ist abgelaufen!\n"
+	.string "Das Käferturnier ist vorbei.$"
 
 BugContest_Text_WhiteOut:
-	.string "{PLAYER} hat keine kampffähigen\n"
-	.string "Pokémon mehr.\p"
-	.string "{PLAYER} scheidet aus.$"
+	.string "{PLAYER} hat kein\n"
+	.string "kampffähiges Pokémon mehr!\p"
+	.string "Das Käferturnier ist vorbei.$"
 
 BugContest_Text_First1:
-	.string "Den dritten Platz belegt\n"
-	.string "Ass-Trainerin Belinda\l"
-	.string "mit einem Safcon!$"
+	.string "Auf dem 3. Platz: Ass-Trainerin\n"
+	.string "Belinda mit einem Safcon!$"
 
 BugContest_Text_First2:
-	.string "Den zweiten Platz belegt\n"
-	.string "Käfersammler Shaun\l"
-	.string "mit einem Pinsir!$"
+	.string "Auf dem 2. Platz: Käfersammler\n"
+	.string "Shaun mit einem Pinsir!$"
 
 BugContest_Text_First3:
-	.string "Der Sieger des Käferturniers\n"
-	.string "ist...\p"
-	.string "{PLAYER} mit einem\n"
-	.string "{STR_VAR_1}!$"
+	.string "Und! Der 1. Platz beim\n"
+	.string "Käferturnier geht aaan…\p"
+	.string "{PLAYER} mit einem {STR_VAR_1}!$"
 
 BugContest_Text_Second1:
-	.string "Den dritten Platz belegt\n"
-	.string "Ass-Trainerin Belinda\l"
-	.string "mit einem Safcon!$"
+	.string "Auf dem 3. Platz: Ass-Trainerin\n"
+	.string "Belinda mit einem Safcon!$"
 
 BugContest_Text_Second2:
-	.string "Den zweiten Platz belegt\n"
-	.string "{PLAYER} mit einem\l"
-	.string "{STR_VAR_1}!$"
+	.string "Auf dem 2. Platz: {PLAYER} mit\n"
+	.string "einem {STR_VAR_1}!$"
 
 BugContest_Text_Second3:
-	.string "Der Sieger des Käferturniers\n"
-	.string "ist...\p"
-	.string "Käfersammler Shaun\n"
-	.string "mit einem Pinsir!$"
+	.string "Und! Der 1. Platz beim\n"
+	.string "Käferturnier geht aaan…\p"
+	.string "Käfersammler Shaun mit\n"
+	.string "einem Pinsir!$"
 
 BugContest_Text_Third1:
-	.string "Den dritten Platz belegt\n"
-	.string "{PLAYER} mit einem\l"
-	.string "{STR_VAR_1}!$"
+	.string "Auf dem 3. Platz: {PLAYER} mit\n"
+	.string "einem {STR_VAR_1}!$"
 
 BugContest_Text_Third2:
-	.string "Den zweiten Platz belegt\n"
-	.string "Ass-Trainerin Belinda\l"
-	.string "mit einem Safcon!$"
+	.string "Auf dem 2. Platz: Ass-Trainerin\n"
+	.string "Belinda mit einem Safcon!$"
 
 BugContest_Text_Third3:
-	.string "Der Sieger des Käferturniers\n"
-	.string "ist...\p"
-	.string "Käfersammler Shaun\n"
-	.string "mit einem Pinsir!$"
+	.string "Und! Der 1. Platz beim\n"
+	.string "Käferturnier geht aaan…\p"
+	.string "Käfersammler Shaun mit\n"
+	.string "einem Pinsir!$"
 
 BugContest_Text_TakePartInFuture:
-	.string "Danke für deine Teilnahme!\n"
-	.string "Wir hoffen,\l"
-	.string "du machst bald wieder mit.$"
+	.string "Wir würden uns freuen, euch beim\n"
+	.string "nächsten Turnier wiederzusehen!$"
 
 BugContest_Text_TransferAndReturn:
-	.string "Dein ausgewähltes Käfer-Pokémon\n"
-	.string "wird auf den PC übertragen.\p"
-	.string "Danach erhältst du dein Team\n"
-	.string "zurück.$"
+	.string "Dein Käfer-Pokémon wurde in eine\n"
+	.string "Box im PC übertragen.\p"
+	.string "Hier hast du deine Pokémon zurück.\n"
+	.string "Bitte schön!$"
