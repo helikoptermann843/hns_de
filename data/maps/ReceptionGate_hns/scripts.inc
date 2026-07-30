@@ -76,7 +76,7 @@ VictoryRoadGate_Text_Kimono:
 	.string "Entschuldige Kleiner, dieser Weg ist\n"
 	.string "geschlossen,\l"
 	.string "Bis jemand sich des\p"
-	.string "Legendären Pokémon's annimmt...$"
+	.string "Legendären Pokémon annimmt...$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
 	.string "Du besitzt nicht alle Orden von Johto.\p"

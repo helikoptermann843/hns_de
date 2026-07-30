@@ -35,7 +35,7 @@ ViridianForest_Text_Bugsy:
 	.string "Ich will als Trainer für Käfer-Pokémon\n"
 	.string "nämlich noch viel besser werden!\p"
 	.string "Oh, übrigens!\n"
-	.string "Wie wär's, wenn wir beide\l"
+	.string "Wie wär’s, wenn wir beide\l"
 	.string "Telefonnummern austauschen?$"
 
 ViridianForest_TriggerScript_Pichu1::

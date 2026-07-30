@@ -21,7 +21,7 @@ MrPsychic_Text_1:
 	.string "… … …\p"
 	.string "… … …\p"
 	.string "… …Ist ja schon gut!\p"
-	.string "Das hier ist es, was du willst, stimmt's?$"
+	.string "Das hier ist es, was du willst, stimmt’s?$"
 
 MrPsychic_Text_2:
 	.string "…Du weißt doch, was das ist, oder?\n"

@@ -275,7 +275,7 @@ CherryGroveCity_Silver_AfterBattle::
 
 CherrygroveCity_Text_GuideGentIntro:
 	.string "Du bist noch nicht lange Trainer, oder?\n"
-	.string "Aha, Volltreffer! Wusste ich's doch!\p"
+	.string "Aha, Volltreffer! Wusste ich’s doch!\p"
 	.string "Aber das ist schon in Ordnung. Es ist\n"
 	.string "noch kein Meister vom Himmel gefallen!\p"
 	.string "Keine Sorge, ich bringe dir gerne ein\n"
@@ -284,7 +284,7 @@ CherrygroveCity_Text_GuideGentIntro:
 
 CherrygroveCity_Text_GuideGentTourStart:
 	.string "Na gut!\n"
-	.string "Los geht's!$"
+	.string "Los geht’s!$"
 
 CherrygroveCity_Text_GuideGentPokecenter:
 	.string "Das hier ist ein Pokémon-Center.\n"
@@ -334,7 +334,7 @@ CherrygroveCity_Text_RivalSeen:
 	.string "… … …\p"
 	.string "Was ich damit sagen will, fragst du?\n"
 	.string "Wie deutlich muss ich denn noch werden?\p"
-	.string "Dann erkläre ich's dir eben ganz genau!\n"
+	.string "Dann erkläre ich’s dir eben ganz genau!\n"
 	.string "Mein Pokémon hier ist auch nicht übel!\l"
 	.string "Wenn es erst mal mit dir fertig ist,\l"
 	.string "bleiben keine Fragen mehr offen!$"

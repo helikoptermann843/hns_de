@@ -110,7 +110,7 @@ Route46_Text_PicnickerErin2Beaten:
 	.string "Egal, danke, dass du immer wieder\n"
 	.string "gegen mich kämpfst.\p"
 	.string "Hier ist das Geschenk vom\n"
-	.string "letzen Mal.$"
+	.string "letzten Mal.$"
 
 Route46_Text_Sign:
 	.string "Route 46 Bergweg voraus$"

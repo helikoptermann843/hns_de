@@ -118,7 +118,7 @@ GoldenrodCity_RadioTower_4F4_Text_DJMary:
 
 GoldenrodCity_RadioTower_4F4_Text_DJMaryCleared:
 	.string "Margit: Du bist der Trainer, der\n"
-	.string "mich gerettet hat, stimmt's?\p"
+	.string "mich gerettet hat, stimmt’s?\p"
 	.string "Hier, nimm!\n"
 	.string "Das ist ein Zeichen meines Dankes!$"
 

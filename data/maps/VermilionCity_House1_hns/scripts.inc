@@ -14,7 +14,7 @@ VermilionCity_House1_Text_FishingDude:
 	.string "Profi-Angler am See des Zorns gehört?\p"
 	.string "Sein Traum ist es, einmal das größte\n"
 	.string "Karpador der Welt zu entdecken.\p"
-	.string "Wenn's dir nichts ausmacht, dann zeige\n"
+	.string "Wenn’s dir nichts ausmacht, dann zeige\n"
 	.string "ihm doch alle Karpador, die du fängst!\p"
 	.string "Wer weiß, vielleicht fängst du ja das\n"
 	.string "Karpador seiner Träume!$"

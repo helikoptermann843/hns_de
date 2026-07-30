@@ -135,7 +135,7 @@ GoldenrodCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
 	.string "Hm? So hieß es vorher auch schon?\n"
 	.string "Ach was, das bildest du dir nur ein!\p"
 	.string "Der neue Name passt eben wie die Faust\n"
-	.string "auf's Auge. Sieh's doch mal positiv!$"
+	.string "auf’s Auge. Sieh’s doch mal positiv!$"
 
 GoldenrodCity_NameRatersHouse_Text_MagnificentName:
 	.string "Hmmm… {STR_VAR_1}, wie prächtig!\p"

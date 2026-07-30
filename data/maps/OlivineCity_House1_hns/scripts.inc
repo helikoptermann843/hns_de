@@ -45,5 +45,5 @@ OlivineCity_House1_Text_YouWontTradeMe:
 	.string "Schade…$"
 
 OlivineCity_House1_Text_After:
-	.string "Hi, wie geht's meinem alten\n"
+	.string "Hi, wie geht’s meinem alten\n"
 	.string "Voltobal?$"

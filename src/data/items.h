@@ -2289,7 +2289,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_WHITE_FLUTE] =
     {
-        .name = ITEM_NAME("Weisse Flöte"),
+        .name = ITEM_NAME("Weiße Flöte"),
         .price = (I_PRICE >= GEN_7) ? 20 : 500,
         .holdEffectParam = 150,
         .description = COMPOUND_STRING(
@@ -2548,7 +2548,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_X_SPEED] =
     {
-        .name = ITEM_NAME("X-Initiative"),
+        .name = ITEM_NAME("X-Tempo"),
         .price = (I_PRICE >= GEN_7) ? 1000 : 350,
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
@@ -2574,8 +2574,8 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_X_ACCURACY] =
     {
-        .name = ITEM_NAME("X-Genauigkeit"),
-        .pluralName = ITEM_PLURAL_NAME("X Accuracies"),
+        .name = ITEM_NAME("X-Treffer"),
+        .pluralName = ITEM_PLURAL_NAME("X-Treffer"),
         .price = (I_PRICE >= GEN_7) ? 1000 : 950,
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
@@ -5610,7 +5610,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_RED_ORB] =
     {
-        .name = ITEM_NAME("Roter Edelstein"),
+        .name = ITEM_NAME("Rote Kugel"),
         .price = 0,
         .holdEffect = HOLD_EFFECT_PRIMAL_ORB,
         .description = COMPOUND_STRING(
@@ -5627,7 +5627,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_BLUE_ORB] =
     {
-        .name = ITEM_NAME("Blauer Edelstein"),
+        .name = ITEM_NAME("Blaue Kugel"),
         .price = 0,
         .holdEffect = HOLD_EFFECT_PRIMAL_ORB,
         .description = COMPOUND_STRING(
@@ -13598,7 +13598,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_CUT] =
     {
-        .name = ITEM_NAME("HM01"),
+        .name = ITEM_NAME("VM01"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Gegner wird mit\n"
@@ -13612,7 +13612,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_FLY] =
     {
-        .name = ITEM_NAME("HM02"),
+        .name = ITEM_NAME("VM02"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Pokémon fliegt\n"
@@ -13626,7 +13626,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_SURF] =
     {
-        .name = ITEM_NAME("HM03"),
+        .name = ITEM_NAME("VM03"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Eine riesige Flut-\n"
@@ -13640,7 +13640,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_STRENGTH] =
     {
-        .name = ITEM_NAME("HM04"),
+        .name = ITEM_NAME("VM04"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Den Gegner trifft\n"
@@ -13655,7 +13655,7 @@ const struct ItemInfo gItemsInfo[] =
 #if IS_HNS
     [ITEM_HM_WHIRLPOOL] =
     {
-        .name = ITEM_NAME("HM05"),
+        .name = ITEM_NAME("VM05"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Fängt den Gegner in\n"
@@ -13669,7 +13669,7 @@ const struct ItemInfo gItemsInfo[] =
 #else
     [ITEM_HM_FLASH] =
     {
-        .name = ITEM_NAME("HM05"),
+        .name = ITEM_NAME("VM05"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Ein gleißender\n"
@@ -13684,7 +13684,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_ROCK_SMASH] =
     {
-        .name = ITEM_NAME("HM06"),
+        .name = ITEM_NAME("VM06"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Steinbrecherische\n"
@@ -13698,7 +13698,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_HM_WATERFALL] =
     {
-        .name = ITEM_NAME("HM07"),
+        .name = ITEM_NAME("VM07"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Mächtige Attacke,\n"
@@ -13713,7 +13713,7 @@ const struct ItemInfo gItemsInfo[] =
 #if IS_HNS
     [ITEM_HM_ROCK_CLIMB] =
     {
-        .name = ITEM_NAME("HM08"),
+        .name = ITEM_NAME("VM08"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Wuchtiger Angriff,\n"
@@ -13727,7 +13727,7 @@ const struct ItemInfo gItemsInfo[] =
 #else
     [ITEM_HM_DIVE] =
     {
-        .name = ITEM_NAME("HM08"),
+        .name = ITEM_NAME("VM08"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Pokémon taucht ab,\n"
@@ -14162,7 +14162,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_TM_CASE] =
     {
-        .name = ITEM_NAME("TM-Box"),
+        .name = ITEM_NAME("VM/TM-Box"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Box, in der VMs und\n"
@@ -14436,7 +14436,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_LETTER] =
     {
-        .name = ITEM_NAME("Brief an Troy"),
+        .name = ITEM_NAME("Brief"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Brief an Troy vom\n"
@@ -14469,7 +14469,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_GO_GOGGLES] =
     {
-        .name = ITEM_NAME("Wüstenbrille"),
+        .name = ITEM_NAME("Wüstenglas"),
         .pluralName = ITEM_PLURAL_NAME("Go-Goggles"),
         .price = 0,
         .description = COMPOUND_STRING(
@@ -14670,7 +14670,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_SECRET_KEY] =
     {
-        .name = ITEM_NAME("Geheimschlüssel"),
+        .name = ITEM_NAME("?-Öffner"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüssel zur Arena\n"
@@ -14685,7 +14685,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_BIKE_VOUCHER] =
     {
-        .name = ITEM_NAME("Rad Coupon"),
+        .name = ITEM_NAME("Rad-Coupon"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Gutschein für ein\n"
@@ -14701,7 +14701,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_GOLD_TEETH] =
     {
-        .name = ITEM_NAME("Goldenes Gebiss"),
+        .name = ITEM_NAME("Goldzähne"),
         .pluralName = ITEM_PLURAL_NAME("Gold Teeth"),
         .price = 0,
         .description = COMPOUND_STRING(
@@ -14718,7 +14718,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_CARD_KEY] =
     {
-        .name = ITEM_NAME("Schlüsselkarte"),
+        .name = ITEM_NAME("Türöffner"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüsselkarte für\n"
@@ -14734,7 +14734,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_LIFT_KEY] =
     {
-        .name = ITEM_NAME("Aufzugsschlüssel"),
+        .name = ITEM_NAME("Liftöffner"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüssel für\n"
@@ -16148,10 +16148,10 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_MACHINE_PART] =
     {
-        .name = ITEM_NAME("Ersatzteil"),
+        .name = ITEM_NAME("Spule"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Ersatzteil für das\n"
+            "Spule für das\n"
             "Kraftwerk."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
@@ -16298,12 +16298,12 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_ROOM_1_KEY] =
     {
-        .name = ITEM_NAME("R1-Schlüssel"),
+        .name = ITEM_NAME("K1-Schlüssel"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Schlüssel zu einem\n"
-            "Raum im\n"
-            "Untergrundlager."),
+            "Schlüssel zur Tür\n"
+            "einer Kabine auf\n"
+            "dem Schiffswrack."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -16314,7 +16314,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_ROOM_2_KEY] =
     {
-        .name = ITEM_NAME("R2-Schlüssel"),
+        .name = ITEM_NAME("K2-Schlüssel"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüssel zur Tür\n"
@@ -16330,7 +16330,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_ROOM_4_KEY] =
     {
-        .name = ITEM_NAME("R4-Schlüssel"),
+        .name = ITEM_NAME("K4-Schlüssel"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüssel zur Tür\n"
@@ -16346,7 +16346,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_ROOM_6_KEY] =
     {
-        .name = ITEM_NAME("R6-Schlüssel"),
+        .name = ITEM_NAME("K6-Schlüssel"),
         .price = 0,
         .description = COMPOUND_STRING(
             "Schlüssel zur Tür\n"

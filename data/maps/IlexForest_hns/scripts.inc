@@ -679,7 +679,7 @@ IlexForest_Text_CharcoalMasterIntro:
 	.string "fällen, kann ich keine Kohle herstellen!\p"
 	.string "Vielen Dank! Wie kann ich mich nur\n"
 	.string "dafür erkenntlich zeigen?\p"
-	.string "Ich hab's!\n"
+	.string "Ich hab’s!\n"
 	.string "Nimm das hier!$"
 
 IlexForest_Text_CharcoalMasterOutro:

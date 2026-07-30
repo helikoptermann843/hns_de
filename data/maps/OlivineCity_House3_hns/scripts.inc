@@ -40,7 +40,7 @@ OlivineCity_Text_GiveGoodRod:
 	.string "um einen Angler reicher!$"
 
 OlivineCity_Text_GaveGoodRod:
-	.string "Fische gibt's nicht nur im Meer,\n"
+	.string "Fische gibt’s nicht nur im Meer,\n"
 	.string "sondern überall, wo Wasser ist.\p"
 	.string "Übrigens zeigt dein Pokédex\n"
 	.string "die Fischgruppen der Pokémon.\p"
@@ -52,5 +52,5 @@ OlivineCity_Text_DontWantGoodRod:
 	.string "Unfassbar!$"
 
 OlivineCity_Text_HaveGoodRod:
-	.string "Na, wie läuft's?\n"
+	.string "Na, wie läuft’s?\n"
 	.string "Hast du den großen Fang gemacht?$"

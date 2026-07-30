@@ -213,16 +213,16 @@ Route35NationalParkGate_Text_OfficerAskToParticipate:
 	.string "Möchtest du es versuchen?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Hier sind die Parkbälle\n"
+	.string "Hier sind die Bälle\n"
 	.string "für das Turnier.$"
 
 Route35NationalParkGate_Text_ReceivedSportBalls:
-	.string "{PLAYER} erhält Parkbälle.$"
+	.string "{PLAYER} erhält Turnierbälle.$"
 
 Route35NationalParkGate_Text_OfficerExplainRules:
 	.string "Wer das stärkste\n"
 	.string "Käfer-Pokémon fängt, hat gewonnen.\p"
-	.string "Wenn du keine Parkbälle\n"
+	.string "Wenn du keine Turnierbälle\n"
 	.string "mehr hast, ist das Turnier\l"
 	.string "beendet.\p"
 	.string "Du darfst das letzte Pokémon,\n"

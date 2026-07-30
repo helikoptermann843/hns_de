@@ -327,7 +327,7 @@ Route22_Text_Giovanni3:
 	.string "verstehen.$"
 
 Route22_Text_Silver4:
-	.string "{RIVAL}: Und ich will's auch nicht!\p"
+	.string "{RIVAL}: Und ich will’s auch nicht!\p"
 	.string "Ich hoffe, ich werde nie so wie du!\p"
 	.string "Solange du dich hinter all deinen\n"
 	.string "Untergebenen verstecken kannst, tönst\l"

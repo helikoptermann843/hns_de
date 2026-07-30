@@ -239,7 +239,7 @@ BlackthornGym_Text_ClairIntroText:
 	.string "der Pokémon Liga.\p"
 	.string "Willst du immer noch gegen mich\n"
 	.string "antreten?\p"
-	.string "…Gut. Auf geht's!\p"
+	.string "…Gut. Auf geht’s!\p"
 	.string "Da ich eine Arenaleiterin bin\n"
 	.string "werde ich mich nicht zurückhalten!$"
 
@@ -439,5 +439,5 @@ BlackthornGym_Text_GymStatue:
 
 BlackthornGym_Text_GymStatueCertified:
 	.string "Ebenholz City Pokémon Arena\p"
-	.string "Sandra's zertifizierte Trainer:\n"
+	.string "Sandras zertifizierte Trainer:\n"
 	.string "{PLAYER}$"

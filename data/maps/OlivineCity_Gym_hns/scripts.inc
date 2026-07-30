@@ -330,7 +330,7 @@ OlivineCity_Gym_Text_GymStatue:
 
 OlivineCity_Gym_Text_GymStatueCertified:
 	.string "Oliviana City Pokémon Arena\p"
-	.string "Jasmin's zertifizierte Trainer:\n"
+	.string "Jasmins zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 OlivineCity_Gym_EventScript_Jasmine_Trade::

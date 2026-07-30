@@ -85,8 +85,8 @@ RocketHideout_B3F_Text_LanceGetPassword:
 	.string "Passwörter, um zum Boss zu\l"
 	.string "gelangen.\p"
 	.string "Diese Passwörter kennen nur\n"
-	.string "wenige Rocket's.\p"
-	.string "Dieser Rocket hat es mir\n"
+	.string "wenige Rocket-Rüpel.\p"
+	.string "Dieser Rocket-Rüpel hat es mir\n"
 	.string "freundlicherweise verraten.\p"
 	.string "{PLAYER}, lass uns die\n"
 	.string "Passwörter besorgen.$"
@@ -639,7 +639,7 @@ RocketHideout_B3F_Text_GruntF5Seen:
 	.string "verraten!$"
 
 RocketHideout_B3F_Text_GruntF5Beaten:
-	.string "Alles klar. Halt. Ich sag's dir.$"
+	.string "Alles klar. Halt. Ich sag’s dir.$"
 
 RocketHideout_B3F_Text_GruntF5After:
 	.string "Das Passwort für den Bossraum\n"

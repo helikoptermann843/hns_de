@@ -217,7 +217,7 @@ Route30_Text_JoeyRegister:
 
 Route30_Text_JoeyRematchIntro:
     .string "Ich habe versprochen, dass es\n"
-    .string "diesmal anders wird! Los geht's!$"
+    .string "diesmal anders wird! Los geht’s!$"
 
 Route30_Text_JoeyRematchDefeat:
     .string "Ach! Schon wieder verloren!\n"

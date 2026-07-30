@@ -193,7 +193,7 @@ Route29_Text_OldManDeclined:
 	.string "Pokémon.$"
 
 Route29_Text_Youngster:
-	.string "Tag! Wie geht's deinem Pokémon-Team?\p"
+	.string "Tag! Wie geht’s deinem Pokémon-Team?\p"
 	.string "Ist es schwach und nicht bereit zu\n"
 	.string "kämpfen, machst du besser einen großen\l"
 	.string "Bogen um hohes Gras.$"

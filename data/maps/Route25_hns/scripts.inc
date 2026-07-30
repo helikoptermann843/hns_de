@@ -497,7 +497,7 @@ Route25_Text_CooltrainerKevinSeen:
 	.string "Kämpfen zugesehen habe, kriege\l"
 	.string "ich selbst Lust auf ein Duell.\p"
 	.string "Du musst einfach gegen mich kämpfen!\n"
-	.string "Und los geht's!$"
+	.string "Und los geht’s!$"
 
 Route25_Text_CooltrainerKevinBeaten:
 	.string "Das war der beste\n"

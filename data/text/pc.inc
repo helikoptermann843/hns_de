@@ -17,4 +17,4 @@ gText_AccessedLanettesPC::
 	.string "Verbindung zu Lanettes PC hergestellt.$"
 
 gText_AccessedBillsPC::
-	.string "Verbindung zu Bill'S PC hergestellt.$"
+	.string "Verbindung zu Bills PC hergestellt.$"

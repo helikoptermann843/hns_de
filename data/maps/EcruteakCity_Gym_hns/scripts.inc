@@ -81,7 +81,7 @@ EcruteakCity_Gym_Text_GymStatue:
 
 EcruteakCity_Gym_Text_GymStatueCertified:
 	.string "Teak City Pokémon Arena\p"
-	.string "Jens's zertifizierte Trainer:\n"
+	.string "Jens' zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 MortyIntroText:

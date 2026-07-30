@@ -240,7 +240,7 @@ static const struct MatchCallStructNPC sMomMatchCallHeader =
     .mapSec = MAPSEC_NEW_BARK_TOWN,
     .flag = ALWAYS_AVAILABLE,
     .desc = COMPOUND_STRING("CALM & KIND"),
-    .name = COMPOUND_STRING("MOM"),
+    .name = COMPOUND_STRING("Mama"),
     .textData = sMomTextScripts
 };
 
@@ -705,7 +705,7 @@ static const struct MatchCallStructNPC sMomMatchCallHeader =
     .mapSec = MAPSEC_LITTLEROOT_TOWN,
     .flag = FLAG_ENABLE_MOM_MATCH_CALL,
     .desc = COMPOUND_STRING("CALM & KIND"),
-    .name = COMPOUND_STRING("MOM"),
+    .name = COMPOUND_STRING("Mutti"),
     .textData = sMomTextScripts
 };
 

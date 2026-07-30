@@ -1835,8 +1835,8 @@ gTVTrainerFanClubText11::
 	.string "Fans: {STR_VAR_3}!$"
 
 TVSpotTheCuties_Text_Intro::
-	.string "Hier Sind Die Süssen!\n"
-	.string "Pokémon Und Ihre Bänder!\p"
+	.string "Hier sind die Süßen!\n"
+	.string "Pokémon und ihre Bänder!\p"
 	.string "Hallo, meine Süßen!\p"
 	.string "Ich weiß, ihr werdet mir mit Sicherheit\n"
 	.string "zustimmen: Pokémon, die Bänder\l"

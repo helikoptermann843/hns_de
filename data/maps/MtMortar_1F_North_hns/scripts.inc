@@ -46,7 +46,7 @@ MtMortar_1F_North_EventScript_Markus::
 	end
 
 MountMortar2_Text_PokemaniacMillerSeen:
-	.string "Wart's ab! Diesmal verliere ich nicht!$"
+	.string "Wart’s ab! Diesmal verliere ich nicht!$"
 
 MountMortar2_Text_PokemaniacMillerBeaten:
 	.string "Verloren… und das auch noch\n"

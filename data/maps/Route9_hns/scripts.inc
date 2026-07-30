@@ -78,7 +78,7 @@ Route9_Text_CamperSidBeaten:
 	.string "darauf hinweisen…$"
 
 Route9_Text_CamperSidAfter:
-	.string "Entschuldige! Jetzt sehe ich's!\n"
+	.string "Entschuldige! Jetzt sehe ich’s!\n"
 	.string "Das war ja gar nicht dein Müll!$"
 
 Route9_Text_PicnickerEdnaSeen:

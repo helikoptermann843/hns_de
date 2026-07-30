@@ -430,7 +430,7 @@ AzaleaTown_Text_Sign:
 	.string "in Harmonie leben.$"
 
 AzaleaTown_Text_KurtsHouseSign:
-	.string "Kurt'S Haus$"
+	.string "Kurts Haus$"
 
 AzaleaTown_Text_GymSign:
 	.string "Pokémon-Arena von Azalea City\n"

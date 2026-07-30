@@ -141,7 +141,7 @@ EcruteakCity_Text_Silver3:
 	.string "Diese Kimono-Girls sind nämlich echt\n"
 	.string "unglaublich stark.\p"
 	.string "Aber geh nur!\p"
-	.string "Versuch's ruhig!\p"
+	.string "Versuch’s ruhig!\p"
 	.string "Mich kriegt da niemand mehr rein.\p"
 	.string "Ich habe keine Lust, dir dabei\n"
 	.string "zuzusehen, wie du gewinnst.$"

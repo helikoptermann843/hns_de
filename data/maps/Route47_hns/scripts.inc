@@ -25,7 +25,7 @@ Route47_EventScript_Camper::
 	end
 
 Route47_Text_CamperSeen::
-	.string "Wir haben's nicht so mit Menschenmengen\n"
+	.string "Wir haben’s nicht so mit Menschenmengen\n"
 	.string "und zelten daher lieber im Freien.\l"
 	.string "Geht es dir etwa genauso?$"
 

@@ -35,7 +35,7 @@ Route1_Text_SchoolboyDanny_AfterBattle:
 
 Route1_Text_CooltrainerFQuinn_Seen:
 	.string "Du da!\n"
-	.string "Wie wär's mit einem Kampf?$"
+	.string "Wie wär’s mit einem Kampf?$"
 
 Route1_Text_CooltrainerFQuinn_Beaten:
 	.string "Ich habe verloren!$"

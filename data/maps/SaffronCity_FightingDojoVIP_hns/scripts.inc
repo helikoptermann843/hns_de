@@ -493,7 +493,7 @@ SaffronCity_FightingDojoVIP_Text_Bugsy_RematchDefeat:
 	.string "noch nicht vollständig sein…$"
 
 SaffronCity_FightingDojoVIP_Text_Whitney_Rematch:
-	.string "Hey! Du bist's!\p"
+	.string "Hey! Du bist’s!\p"
 	.string "Wow, jetzt Johto-champion?\p"
 	.string "Du bist wirklich toll!\p"
 	.string "Ich will sehen, wie stark du\n"
@@ -617,7 +617,7 @@ SaffronCity_FightingDojoVIP_Text_Surge_Rematch:
 	.string "Kanto-champion!\p"
 	.string "Beeindruckend, Kid! Aber denk\n"
 	.string "nicht, ich bin fertig!\p"
-	.string "Wie wär's mit einer Revanche?$"
+	.string "Wie wär’s mit einer Revanche?$"
 
 SaffronCity_FightingDojoVIP_Text_Surge_RematchDefeat:
 	.string "Bob: Arrgh! Du bist immer\n"
@@ -689,7 +689,7 @@ SaffronCity_FightingDojoVIP_Text_Blue_Rematch:
 	.string "Ich hatte diesen Titel auch\n"
 	.string "mal. Aber ich zeig keine\l"
 	.string "Gnade.\p"
-	.string "Mal sehen, ob du's hältst.\p"
+	.string "Mal sehen, ob du’s hältst.\p"
 	.string "Möchtest du einen Rückkampf?$"
 
 SaffronCity_FightingDojoVIP_Text_Blue_RematchDefeat:

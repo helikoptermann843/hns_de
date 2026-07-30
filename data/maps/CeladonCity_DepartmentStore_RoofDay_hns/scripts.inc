@@ -32,7 +32,7 @@ CeladonDeptStore6F_Text_Vending:
 
 CeladonDeptStore6F_Text_Clang:
 	.string "Klong!\p"
-	.string "{STRING} ist herausgesprungen.$"
+	.string "{STR_VAR_1} ist herausgesprungen.$"
 
 CeladonDeptStore6F_Text_VendingNoMoney:
 	.string "Ups, nicht genug Geld…$"
@@ -46,7 +46,7 @@ CeladonDeptStore6F_Text_SuperNerd:
 	.string "Solche sieht man heute kaum noch.$"
 
 CeladonDeptStore6F_Text_Youngster:
-	.string "Ach Mann, hier gibt's ja\n"
+	.string "Ach Mann, hier gibt’s ja\n"
 	.string "gar keine Videospiele!\l"
 	.string "Ich will Videospiele zocken!$"
 

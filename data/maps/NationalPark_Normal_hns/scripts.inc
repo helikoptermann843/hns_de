@@ -81,7 +81,7 @@ NationalPark_Normal_Text_Teacher1:
 	.string "So, jetzt mal hergehört, Herrschaften!\p"
 	.string "…Oh, Entschuldigung. Ich muss echt\n"
 	.string "mal dieses Lehrergehabe loswerden.\p"
-	.string "Du bist ein Pokémon-Trainer, stimmt's?\p"
+	.string "Du bist ein Pokémon-Trainer, stimmt’s?\p"
 	.string "Du scheinst sehr hart zu arbeiten.\n"
 	.string "Hier, nimm das als Belohnung!$"
 

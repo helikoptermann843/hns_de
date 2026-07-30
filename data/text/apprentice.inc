@@ -589,7 +589,7 @@ gText_ApprenticePleaseTeach13::
 	.string "Kannst du mir nicht meine Schultern\l"
 	.string "massieren?\p"
 	.string "Ja… Genau da! Oh, ja!\n"
-	.string "Auaaa! Au! das tut gut!\p"
+	.string "Auaaa! Au! Das tut gut!\p"
 	.string "Ich heiße {STR_VAR_1}!\n"
 	.string "Ich trainiere Karate, aber mein Körper\l"
 	.string "mag das gar nicht leiden…\p"

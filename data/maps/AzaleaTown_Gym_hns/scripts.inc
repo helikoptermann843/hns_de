@@ -663,7 +663,7 @@ AzaleaTown_Gym_Text_GymStatue:
 
 AzaleaTown_Gym_Text_GymStatueCertified:
 	.string "Azalea City Pokémon Arena\p"
-	.string "Kai's zertifizierte Trainer:\n"
+	.string "Kais zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 AzaleaTown_Gym_Text_BugsyIntro:
@@ -678,7 +678,7 @@ AzaleaTown_Gym_Text_BugsyIntro:
 AzaleaTown_Gym_Text_BugsyBeaten:
 	.string "Kai: Wow, das war unglaublich! Du weißt\n"
 	.string "wirklich gut über Pokémon Bescheid!\p"
-	.string "Mannomann… Wie's aussieht, habe ich\n"
+	.string "Mannomann… Wie’s aussieht, habe ich\n"
 	.string "noch sehr viel zu lernen!\p"
 	.string "Aber gut, jetzt erst mal weiter im Text!\n"
 	.string "Hier hast du deinen Orden!$"
@@ -764,7 +764,7 @@ AzaleaTown_Gym_Text_BugCatcherJoshAfter:
 	.string "ein wenig besser trainieren…$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Seen:
-	.string "Eva: Hi! fordest du den Leiter\n"
+	.string "Eva: Hi! Forderst du den Leiter\n"
 	.string "heraus? Unmöglich!$"
 
 AzaleaTown_Gym_Text_TwinsAmyMay1Beaten:

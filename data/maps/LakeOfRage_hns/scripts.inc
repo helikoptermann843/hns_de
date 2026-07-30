@@ -409,7 +409,7 @@ LakeOfRage_EventScript_WesleyCompleted::
 	end
 
 LakeOfRage_Text_MeetWesley:
-	.string "Mitko: Na, wie geht's dir?\p"
+	.string "Mitko: Na, wie geht’s dir?\p"
 	.string "Ich gehöre zur Wochentags-Familie!\n"
 	.string "Kannst du meinen Lieblingstag erraten?$"
 

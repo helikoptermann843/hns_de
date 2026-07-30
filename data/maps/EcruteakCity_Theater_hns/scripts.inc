@@ -445,7 +445,7 @@ EcruteakCity_Theater_Text_Granny:
 	.string "Er meinte mal, er wolle einem Pokémon,\n"
 	.string "das die Attacke Surfer beherrscht,\l"
 	.string "gerne das Tanzen beibringen.\p"
-	.string "Wart's ab, als Nächstes bringt er ihm\n"
+	.string "Wart’s ab, als Nächstes bringt er ihm\n"
 	.string "dann bestimmt Synchronschwimmen bei!$"
 
 EcruteakCity_Theater_Text_GrannyBefore:

@@ -1771,7 +1771,7 @@ Route113_Text_ToriDefeat:
 
 Route113_Text_ToriPostBattle:
 	.string "LI: Wie viel Asche wir haben? Ich\n"
-	.string "hoffe, genug für eine Weisse Flöte.$"
+	.string "hoffe, genug für eine Weiße Flöte.$"
 
 Route113_Text_ToriNotEnoughMons:
 	.string "LI: Wir wollen einen 2-gegen-2-Kampf.\n"
@@ -1787,7 +1787,7 @@ Route113_Text_TiaDefeat:
 
 Route113_Text_TiaPostBattle:
 	.string "Flo: Wie viel Asche wir haben? Ich\n"
-	.string "hoffe, genug für eine Weisse Flöte.$"
+	.string "hoffe, genug für eine Weiße Flöte.$"
 
 Route113_Text_TiaNotEnoughMons:
 	.string "Flo: Wir wollen einen 2-gegen-2-Kampf.\n"

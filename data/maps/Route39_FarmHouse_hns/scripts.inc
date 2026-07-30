@@ -111,7 +111,7 @@ Route39_Text_FarmerMNoSale:
 	.string "aber komm mal wieder, hörst du?$"
 
 Route39FarmHouse_Text_WouldYouLikeAnother:
-	.string "Wie wär's mit noch einer?$"
+	.string "Wie wär’s mit noch einer?$"
 
 Route39_Text_GotMilk:
 	.string "{PLAYER} erhielt\n"

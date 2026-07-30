@@ -198,7 +198,7 @@ Route13_Text_KennyPostRematch:
 
 Route13_Text_TrainerTips:
 	.string "Tipps für Trainer\p"
-	.string "Hier geht's lang!\n"
+	.string "Hier geht’s lang!\n"
 	.string "Immer der Nase nach!$"
 
 Route13_Text_Sign:

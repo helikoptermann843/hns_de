@@ -91,7 +91,7 @@ Route15_Text_TeacherHillarySeen:
 	.string "den Klassenzimmern zu lernen.$"
 
 Route15_Text_TeacherHillaryBeaten:
-	.string "Einen Versuch war's wert…$"
+	.string "Einen Versuch war’s wert…$"
 
 Route15_Text_TeacherHillaryAfterBattle:
 	.string "Lernen ist sehr wichtig, aber Bewegung\n"

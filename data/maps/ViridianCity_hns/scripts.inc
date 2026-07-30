@@ -97,7 +97,7 @@ ViridianCity_Text_CoffeeGramps_Believed:
 ViridianCity_Text_CoffeeGramps_Doubted:
 	.string "Was? Du ungezogene Rotznase!\p"
 	.string "Wenn ich nur etwas jünger wäre, würde\n"
-	.string "ich dir schon zeigen, wo's langgeht!$"
+	.string "ich dir schon zeigen, wo’s langgeht!$"
 
 ViridianCity_Text_GrampsNearGym:
 	.string "Bis vor Kurzem gab es in dieser\n"

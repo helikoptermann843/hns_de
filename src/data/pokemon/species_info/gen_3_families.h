@@ -12854,8 +12854,8 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .height = 98,
         .weight = 4300,
         .description = COMPOUND_STRING(
-            "Durch die urzeitliche Energie des Blauen\n"
-            "Edelsteins nahm es seine ursprüngliche Form\n"
+            "Durch die urzeitliche Energie der Blauen\n"
+            "Kugel nahm es seine ursprüngliche Form\n"
             "an. Sein Körper ähnelt Meerwasser."),
         .pokemonScale = 256,
         .pokemonOffset = 0,
@@ -13009,7 +13009,7 @@ const struct SpeciesInfo gSpeciesInfoGen3[] =
         .weight = 9997,
         .description = COMPOUND_STRING(
             "Dies ist seine ursprüngliche Form, die es\n"
-            "durch den Roten Edelstein zurückerlangt hat.\n"
+            "durch die Rote Kugel zurückerlangt hat.\n"
             "Energie quillt in Form von Magma aus seinem\n"
             "Körper."),
         .pokemonScale = 256,

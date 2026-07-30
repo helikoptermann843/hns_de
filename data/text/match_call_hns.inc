@@ -4,8 +4,8 @@
 @ Joey - Knirps, Route 30
 MatchCall_HNS_Joey_General1::
 	.string "Yo, {PLAYER}!\n"
-	.string "Wie geht's dir?\p"
-	.string "Wie geht's deinen Pokémon?\p"
+	.string "Wie geht’s dir?\p"
+	.string "Wie geht’s deinen Pokémon?\p"
 	.string "Mein {STR_VAR_3} brennt drauf\n"
 	.string "loszulegen, wie immer.\p"
 	.string "Es ist das einzige, das ich\n"
@@ -23,7 +23,7 @@ MatchCall_HNS_Joey_General2::
 
 MatchCall_HNS_Joey_General3::
 	.string "Yo, {PLAYER}!\n"
-	.string "Wie geht's dir?\p"
+	.string "Wie geht’s dir?\p"
 	.string "Ich schau mir gerade\n"
 	.string "{STR_VAR_3}s Attacken an\l"
 	.string "und plane Strategien.\p"
@@ -40,7 +40,7 @@ MatchCall_HNS_Joey_Battle::
 @ Wade - Käfersammler, Route 31
 MatchCall_HNS_Wade_General1::
 	.string "{PLAYER}, hallo!\p"
-	.string "Wie geht's deinen Pokémon?\p"
+	.string "Wie geht’s deinen Pokémon?\p"
 	.string "Meine Pokémon haben zu\n"
 	.string "viel Energie übrig.\p"
 	.string "Das wird langsam zum Problem.\p"
@@ -89,7 +89,7 @@ MatchCall_HNS_Wade_Battle::
 @ Ralph - Angler, Route 32
 MatchCall_HNS_Ralph_General1::
 	.string "Hey, {PLAYER}!\n"
-	.string "Wie läuft's Angeln?\p"
+	.string "Wie läuft’s Angeln?\p"
 	.string "Kümmerst du dich gut um\n"
 	.string "deine Pokémon?\p"
 	.string "Man muss gut sein zu\n"
@@ -108,7 +108,7 @@ MatchCall_HNS_Ralph_General3::
 	.string "Hör dir das an!\p"
 	.string "Ich hab gerade ein wildes\n"
 	.string "{STR_VAR_3} besiegt.\p"
-	.string "Ich hab's meinem Kind erzählt,\n"
+	.string "Ich hab’s meinem Kind erzählt,\n"
 	.string "aber es meinte, das könnte\l"
 	.string "es locker auch.\p"
 	.string "Mann, ist der frech\n"
@@ -124,12 +124,12 @@ MatchCall_HNS_Liz_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "Ich hatte etwas Zeit, also\l"
 	.string "hab ich dich angerufen.\p"
-	.string "Wie geht's denn deinen\n"
+	.string "Wie geht’s denn deinen\n"
 	.string "Pokémon?\p"
 	.string "Ich bringe mein {STR_VAR_3}\n"
 	.string "jeden Tag ins Pokémon\l"
 	.string "Center in Violet,\p"
-	.string "also geht's ihm\n"
+	.string "also geht’s ihm\n"
 	.string "fantastisch!\p"
 	.string "Ich bin mit der\n"
 	.string "Empfangsdame befreundet!$"
@@ -231,7 +231,7 @@ MatchCall_HNS_Todd_Battle::
 @ Gina - Picknicker, Route 34
 MatchCall_HNS_Gina_General1::
 	.string "Hi, {PLAYER}!\n"
-	.string "Wie geht's dir?\p"
+	.string "Wie geht’s dir?\p"
 	.string "Sind deine Pokémon noch\n"
 	.string "stark?\p"
 	.string "Ich trainiere jeden Tag\n"
@@ -239,14 +239,14 @@ MatchCall_HNS_Gina_General1::
 
 MatchCall_HNS_Gina_General2::
 	.string "Hi, {PLAYER}!\n"
-	.string "Wie geht's dir?\p"
+	.string "Wie geht’s dir?\p"
 	.string "Mein {STR_VAR_3} und ich\n"
 	.string "verstehen uns immer besser\l"
 	.string "miteinander.$"
 
 MatchCall_HNS_Gina_General3::
 	.string "Hi, {PLAYER}!\n"
-	.string "Wie geht's dir?\p"
+	.string "Wie geht’s dir?\p"
 	.string "Wir haben ein wildes\n"
 	.string "{STR_VAR_3} bekämpft und\l"
 	.string "es in einem knappen\l"
@@ -293,13 +293,13 @@ MatchCall_HNS_Irwin_Battle::
 @ Arnie - Käfersammler, Route 35
 MatchCall_HNS_Arnie_General1::
 	.string "Hey, {PLAYER}!\n"
-	.string "Wie läuft's?\p"
+	.string "Wie läuft’s?\p"
 	.string "Ich wette, deine Pokémon sind\n"
 	.string "viel stärker als vorher.$"
 
 MatchCall_HNS_Arnie_General2::
 	.string "Hey, {PLAYER}!\n"
-	.string "Wie läuft's?\p"
+	.string "Wie läuft’s?\p"
 	.string "Ich bin immer mit meinem\n"
 	.string "{STR_VAR_3} zusammen!\p"
 	.string "Es ist so niedlich!\n"
@@ -307,7 +307,7 @@ MatchCall_HNS_Arnie_General2::
 
 MatchCall_HNS_Arnie_General3::
 	.string "Hey, {PLAYER}!\n"
-	.string "Wie läuft's?\p"
+	.string "Wie läuft’s?\p"
 	.string "Um mal das Thema zu wechseln,\n"
 	.string "ich hab dieses {STR_VAR_3}\l"
 	.string "zum ersten Mal gesehen.\p"
@@ -368,7 +368,7 @@ MatchCall_HNS_Dana_General1::
 	.string "Mein {STR_VAR_3} steckt so\n"
 	.string "voller Energie, es ist ein\l"
 	.string "bisschen unheimlich.\p"
-	.string "Wie geht's deinen Pokémon\n"
+	.string "Wie geht’s deinen Pokémon\n"
 	.string "so?$"
 
 MatchCall_HNS_Dana_General2::
@@ -408,12 +408,12 @@ MatchCall_HNS_Dana_Battle::
 MatchCall_HNS_Chad_General1::
 	.string "Hallo, {PLAYER}!\n"
 	.string "Hier ist Lutz!\p"
-	.string "Wie geht's deinen Pokémon\n"
+	.string "Wie geht’s deinen Pokémon\n"
 	.string "so?\p"
 	.string "Du kennst Prof. Eich, also\n"
-	.string "geht's deinen Pokémon\l"
+	.string "geht’s deinen Pokémon\l"
 	.string "natürlich gut!\p"
-	.string "Meinen Pokémon geht's auch\n"
+	.string "Meinen Pokémon geht’s auch\n"
 	.string "gut.\p"
 	.string "Aber ich versuche ja auch,\n"
 	.string "ein Pokémon-Professor zu\l"
@@ -469,7 +469,7 @@ MatchCall_HNS_Derek_General2::
 MatchCall_HNS_Derek_General3::
 	.string "Hey, {PLAYER}!\n"
 	.string "Hier ist Söncke!\p"
-	.string "Wie geht's deinem Pikachu\n"
+	.string "Wie geht’s deinem Pikachu\n"
 	.string "so?\p"
 	.string "Lass uns treffen und mit\n"
 	.string "unseren Pikachu angeben!$"
@@ -577,7 +577,7 @@ MatchCall_HNS_Brent_Battle::
 MatchCall_HNS_Tiffany_General1::
 	.string "Hi, {PLAYER}!\n"
 	.string "Hier ist Ilona!\p"
-	.string "Geht's deinen Pokémon\n"
+	.string "Geht’s deinen Pokémon\n"
 	.string "gut?\p"
 	.string "Ich hoffe, du bringst sie\n"
 	.string "jeden Tag ins Pokémon Center.\p"
@@ -617,7 +617,7 @@ MatchCall_HNS_Tiffany_Battle::
 MatchCall_HNS_Vance_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "Hier ist Arno!\p"
-	.string "Geht's dir und deinen Pokémon\n"
+	.string "Geht’s dir und deinen Pokémon\n"
 	.string "gut?\p"
 	.string "Mein {STR_VAR_3} sieht aus,\n"
 	.string "als würde es stark genug\p"
@@ -789,7 +789,7 @@ MatchCall_HNS_Erin_Battle::
 MatchCall_HNS_Jack_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "Hier ist Julius!\p"
-	.string "Wie geht's deinen Pokémon\n"
+	.string "Wie geht’s deinen Pokémon\n"
 	.string "so?\p"
 	.string "Mein {STR_VAR_3} ist so\n"
 	.string "neugierig, das wird zum Problem.\p"
@@ -866,7 +866,7 @@ MatchCall_HNS_Beverly_Battle::
 MatchCall_HNS_Huey_General1::
 	.string "Yo, {PLAYER}!\n"
 	.string "Hier ist Nepomuk!\p"
-	.string "Wie läuft's?$"
+	.string "Wie läuft’s?$"
 
 MatchCall_HNS_Huey_General2::
 	.string "Yo, {PLAYER}!\n"
@@ -887,9 +887,9 @@ MatchCall_HNS_Huey_Battle::
 MatchCall_HNS_Gaven_General1::
 	.string "Hey, {PLAYER}!\n"
 	.string "Hier ist Maik!\p"
-	.string "Wie geht's deinen Pokémon\n"
+	.string "Wie geht’s deinen Pokémon\n"
 	.string "so?\p"
-	.string "Meinem {STR_VAR_3} geht's so\n"
+	.string "Meinem {STR_VAR_3} geht’s so\n"
 	.string "gut wie eh und je.\p"
 	.string "Lass uns dranbleiben und\n"
 	.string "Pokémon-Champions werden!$"
@@ -1004,11 +1004,11 @@ MatchCall_HNS_Jose_Battle::
 MatchCall_HNS_Reena_General1::
 	.string "Hallo, {PLAYER}.\n"
 	.string "Hier ist Bea.\p"
-	.string "Sag mal, wie geht's deinen\n"
+	.string "Sag mal, wie geht’s deinen\n"
 	.string "Pokémon?\p"
 	.string "Was? Toll? Ach so…\p"
 	.string "Was? Meine Pokémon?\p"
-	.string "Natürlich geht's ihnen\n"
+	.string "Natürlich geht’s ihnen\n"
 	.string "gut! Was für eine Frage\l"
 	.string "ist das denn?$"
 

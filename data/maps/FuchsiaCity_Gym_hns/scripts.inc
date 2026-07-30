@@ -215,7 +215,7 @@ FuchsiaCity_Gym_Text_LassAlice_Before:
 	.string "Reingefallen!$"
 
 FuchsiaCity_Gym_Text_LassAlice_Beaten:
-	.string "Gib's zu, ich hatte dich\n"
+	.string "Gib’s zu, ich hatte dich\n"
 	.string "fast so weit!$"
 
 FuchsiaCity_Gym_Text_LassAlice_After:

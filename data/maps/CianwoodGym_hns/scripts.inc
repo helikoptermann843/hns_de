@@ -21,7 +21,7 @@ CianwoodGym_Text_GymStatue:
 
 CianwoodGym_Text_GymStatueCertified:
 	.string "Anemonia City Pokémon Arena\p"
-	.string "Hartwig's zertifizierte Trainer:\n"
+	.string "Hartwigs zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 CianwoodGym_EventScript_Chuck::
@@ -130,7 +130,7 @@ CianwoodGym_Movement_ChuckRight:
 CianwoodGym_Text_ChuckIntro1:
 	.string "Wahahah!\p"
 	.string "Du bist also bis hierher gekommen!\p"
-	.string "Ich sag's dir: Ich bin hart!\p"
+	.string "Ich sag’s dir: Ich bin hart!\p"
 	.string "Meine Pokémon zerquetschen Felsen\n"
 	.string "und zerschmettern Knochen!\p"
 	.string "Pass auf!$"
@@ -149,7 +149,7 @@ CianwoodGym_Text_ChuckIntro3:
 
 CianwoodGym_Text_ChuckLoss:
 	.string "Was? Hä? Ich hab verloren?\p"
-	.string "Wie wär's damit!\n"
+	.string "Wie wär’s damit!\n"
 	.string "Du bist würdig für den Sturmorden!$"
 
 CianwoodGym_Text_GetStormBadge:

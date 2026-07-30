@@ -243,7 +243,7 @@ CeruleanGym_Text_MistyIntro:
 	.string "Du magst dir in Johto vielleicht viele\n"
 	.string "Orden erkämpft haben, aber ich rate\l"
 	.string "dir, mich nicht zu unterschätzen!\p"
-	.string "Meine Wasser-Pokémon haben's drauf!$"
+	.string "Meine Wasser-Pokémon haben’s drauf!$"
 
 CeruleanGym_Text_MistyWinLoss:
 	.string "Misty: Mann, du bist wirklich gut…\p"
@@ -300,7 +300,7 @@ CeruleanGym_Text_SwimmerfBrianaAfter:
 
 CeruleanGym_Text_SwimmermParkerSeen:
 	.string "Glugger…\p"
-	.string "Zuerst kriegst du's mit mir zu tun!\n"
+	.string "Zuerst kriegst du’s mit mir zu tun!\n"
 	.string "Los, greife mich an!$"
 
 CeruleanGym_Text_SwimmermParkerBeaten:

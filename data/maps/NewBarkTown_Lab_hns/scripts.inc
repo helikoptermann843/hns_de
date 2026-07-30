@@ -694,7 +694,7 @@ NewBarkTown_Lab_Text_ElmMissionFromMrPokemon:
 	.string "Aber meine Assistenten und ich haben\l"
 	.string "leider gerade alle Hände voll zu tun…\p"
 	.string "Hm, was mache ich jetzt nur…\p"
-	.string "Ich hab's!\p"
+	.string "Ich hab’s!\p"
 	.string "Du könntest der Sache doch für mich\n"
 	.string "nachgehen, oder? Was sagst du?\p"
 	.string "Los, du darfst dir dafür auch eins\n"

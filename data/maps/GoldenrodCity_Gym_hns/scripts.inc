@@ -119,7 +119,7 @@ GoldenrodCity_Gym_Text_GymStatue:
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
 	.string "Dukatia City Pokémon Arena\p"
-	.string "Bianka's zertifizierte Trainer:\n"
+	.string "Biankas zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 GoldenrodCity_Gym_Text_WhitneyBefore:

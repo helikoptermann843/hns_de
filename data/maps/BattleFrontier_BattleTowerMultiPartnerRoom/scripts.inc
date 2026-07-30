@@ -490,7 +490,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Reject::
 	.string "Und dann enttäuschst du mich. Pah!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Intro::
-	.string "Hallo! Wie geht's dir?\n"
+	.string "Hallo! Wie geht’s dir?\n"
 	.string "Ich bin {STR_VAR_3}.\p"
 	.string "Schülerin Nr. {STR_VAR_2} von {STR_VAR_1}.\n"
 	.string "Nett, dich kennen zu lernen.$"
@@ -589,7 +589,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Reject::
 	.string "berechnend, {PLAYER}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro::
-	.string "Hey! Jetzt geht's hier richtig rund.\n"
+	.string "Hey! Jetzt geht’s hier richtig rund.\n"
 	.string "Heute ist der letzte Tag des\p"
 	.string "Duellturms!\n"
 	.string "………………\l"
@@ -650,7 +650,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Reject::
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro::
 	.string "Juhuu juhuu juhuu!\n"
 	.string "Ich mag alles, was Spaß macht!\p"
-	.string "Wie geht's? Ich bin {STR_VAR_3}!\n"
+	.string "Wie geht’s? Ich bin {STR_VAR_3}!\n"
 	.string "Schüler Nr. {STR_VAR_2} von {STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon1::

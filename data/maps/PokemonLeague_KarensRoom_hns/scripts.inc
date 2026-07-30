@@ -75,7 +75,7 @@ PokemonLeague_KarensRoom_Text_Before:
 	.string "so stark.\p"
 	.string "Denkst du, du kannst sie besiegen?\n"
 	.string "Versuche mich einfach zu unterhalten.\p"
-	.string "Los geht's.$"
+	.string "Los geht’s.$"
 
 PokemonLeague_KarensRoom_Text_Beaten:
 	.string "Hm, du bist gut. Das gefällt mir an einem\n"

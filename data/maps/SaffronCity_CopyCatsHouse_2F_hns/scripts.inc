@@ -223,9 +223,9 @@ Copycat_Text_QuickMimicking:
 	.string "Lieblingsbeschäftigung!$"
 
 Copycat_Text_Male_2:
-	.string "{PLAYER}: Hallo! Wie geht's dir so?\n"
+	.string "{PLAYER}: Hallo! Wie geht’s dir so?\n"
 	.string "Du bist traurig, weil du deine Poképuppe\l"
-	.string "von Piepi verloren hast, stimmt's?\p"
+	.string "von Piepi verloren hast, stimmt’s?\p"
 	.string "{PLAYER}: Gibst du mir einen\n"
 	.string "Fahrschein, wenn ich sie finde?\p"
 	.string "{PLAYER}: In Ordnung, dann werde\n"

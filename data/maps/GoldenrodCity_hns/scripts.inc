@@ -294,7 +294,7 @@ GoldenrodCity_Text_Beauty:
 	.string "sein.$"
 
 GoldenrodCity_Text_Woman:
-	.string "Ich habe früher in Bianka's Arena\n"
+	.string "Ich habe früher in Biankas Arena\n"
 	.string "trainiert, aber ihr ständiges weinen\l"
 	.string "macht mir Kopfschmerzen.$"
 
@@ -320,7 +320,7 @@ GoldenrodCity_Text_ElmName:
 GoldenrodCity_Text_ElmCall:
 	.string "Lind: Hallo, {PLAYER}?\n"
 	.string "Ist das Ei schon geschlüpft?\p"
-	.string "Falls das passier, vergiss nicht\n"
+	.string "Falls das passiert, vergiss nicht,\n"
 	.string "es zum Labor zu bringen.\p"
 	.string "Ich muss es untersuchen!$"
 
@@ -467,7 +467,7 @@ GoldenrodCity_Text_MoveTutorUnderstand:
 	.string "A-aber…$"
 
 GoldenrodCity_Text_MoveTutorFarewell:
-	.string "Wahahah! Mach's gut, Wicht!$"
+	.string "Wahahah! Mach’s gut, Wicht!$"
 
 GoldenrodCity_Text_MoveTutorBut:
 	.string "A-aber…$"

@@ -8,11 +8,11 @@
 // Station Names (displayed at top of radio UI)
 // ==========================================================
 
-static const u8 sRadioStationName_OaksPkmnTalk[]    = _("EICH's POKéMON Gespräch");
+static const u8 sRadioStationName_OaksPkmnTalk[]    = _("Pokémon-Talk");
 static const u8 sRadioStationName_PokedexShow[]     = _("POKéDEX Show");
-static const u8 sRadioStationName_PokemonMusic[]    = _("POKéMON Musik");
+static const u8 sRadioStationName_PokemonMusic[]    = _("Pokémon-Musik");
 static const u8 sRadioStationName_LuckyChannel[]    = _("Glückskanal");
-static const u8 sRadioStationName_BuenasPassword[]  = _("BUENA'S PASSWORT");
+static const u8 sRadioStationName_BuenasPassword[]  = _("Passwort mit Buena");
 static const u8 sRadioStationName_Unown[]           = _("?????");
 static const u8 sRadioStationName_PlacesAndPeople[] = _("Plätze & Leute");
 static const u8 sRadioStationName_LetsAllSing[]     = _("Lasst uns singen!");
@@ -145,7 +145,7 @@ static const u8 sRadioText_BenFern_Lullaby[] = _("POKéMON Schlaflied!");
 // Lucky Channel
 // ==========================================================
 
-static const u8 sRadioText_LC1[] = _("REED: Yeehaw! Wie geht's euch");
+static const u8 sRadioText_LC1[] = _("REED: Yeehaw! Wie geht’s euch");
 static const u8 sRadioText_LC2[] = _("gerade? Ob hoch oben oder ganz");
 static const u8 sRadioText_LC3[] = _("unten, verpasst bloß nicht die");
 static const u8 sRadioText_LC4[] = _("GLÜCKSZAHLEN-SHOW!");

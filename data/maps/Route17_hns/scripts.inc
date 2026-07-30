@@ -96,7 +96,7 @@ Route17_Text_BikerJoelAfterBattle:
 	.string "Ich muss härter trainieren!$"
 
 Route17_Text_BikerGlennSeen:
-	.string "Hey! Wie wär's mit einem Wettrennen?$"
+	.string "Hey! Wie wär’s mit einem Wettrennen?$"
 
 Route17_Text_BikerGlennBeaten:
 	.string "Wow! Du bist aber ganz\n"

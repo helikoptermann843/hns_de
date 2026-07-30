@@ -392,10 +392,10 @@ Route32_Text_CooltrainerM_Experiences:
 	.string "dir auf deiner Reise sehr nützlich sein.$"
 
 Route32_Text_SlowpokeTailOffer:
-	.string "Wie wär's mit einer schmackhaften und\n"
+	.string "Wie wär’s mit einer schmackhaften und\n"
 	.string "nahrhaften Flegmon-Rute?\p"
 	.string "Für dich jetzt nur 1.000.000 $!\n"
-	.string "Na, wie sieht's aus?$"
+	.string "Na, wie sieht’s aus?$"
 
 Route32_Text_ThoughtKidsLoaded:
 	.string "Pah, dein Geld reicht nicht!\p"

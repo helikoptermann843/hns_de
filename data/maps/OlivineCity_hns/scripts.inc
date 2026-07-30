@@ -32,7 +32,7 @@ OlivineCity_Text_BaobaName:
 
 OlivineCity_Text_Baoba:
 	.string "Hallo, {PLAYER}!\n"
-	.string "Ich bin's, Baoba!\p"
+	.string "Ich bin’s, Baoba!\p"
 	.string "Entschuldige, dass ich dich habe\n"
 	.string "warten lassen!\p"
 	.string "Sie ist endlich eröffnet, die\n"

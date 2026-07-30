@@ -118,7 +118,7 @@ VioletGym_Text_BirdKeeperRod_Seen:
 	.string "Das Stichwort ist Mut!\p"
 	.string "Hier trainieren sie Tag und Nacht,\n"
 	.string "um Vogel-Pokémon zu meistern.\p"
-	.string "Los geht's!$"
+	.string "Los geht’s!$"
 
 VioletGym_Text_BirdKeeperRod_Beaten:
 	.string "Urgs!$"
@@ -178,5 +178,5 @@ VioletCity_Gym_Text_GymStatue:
 
 VioletCity_Gym_Text_GymStatueCertified:
 	.string "Viola City Pokémon Arena\p"
-	.string "Falk's zertifizierte Trainer:\n"
+	.string "Falks zertifizierte Trainer:\n"
 	.string "{PLAYER}$"

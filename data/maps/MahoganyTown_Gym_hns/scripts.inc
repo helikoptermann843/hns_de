@@ -21,7 +21,7 @@ MahoganyTown_Gym_Text_GymStatue:
 
 MahoganyTown_Gym_Text_GymStatueCertified:
 	.string "Mahagonia City Pokémon Arena\p"
-	.string "Norbert's zertifizierte Trainer:\n"
+	.string "Norberts zertifizierte Trainer:\n"
 	.string "{PLAYER}$"
 
 

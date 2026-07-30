@@ -5,14 +5,14 @@ gText_PkmnTransferredSomeonesPC::
 	.string "“{STR_VAR_1}” abgelegt.$"
 
 gText_PkmnTransferredLanettesPC::
-	.string "{STR_VAR_2} wurde zu\n"
 #if IS_FRLG
-	.string "Bill'S PC gesendet.\p"
+	.string "{STR_VAR_2} wurde auf Bills PC\n"
 #else
-	.string "Lanette'S PC gesendet.\p"
+	.string "{STR_VAR_2} wurde auf Lanettes PC\n"
 #endif
-	.string "Es wurde in\n"
-	.string "Box “{STR_VAR_1} abgelegt.”$"
+	.string "übertragen.\p"
+	.string "Es wurde in Box\n"
+	.string "“{STR_VAR_1}” abgelegt.$"
 
 gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "Box “{STR_VAR_3}” in\n"
@@ -21,20 +21,20 @@ gText_PkmnTransferredSomeonesPCBoxFull::
 	.string "“{STR_VAR_1}” übertragen.$"
 
 gText_PkmnTransferredLanettesPCBoxFull::
-	.string "Box “{STR_VAR_3}” auf\n"
+	.string "Box “{STR_VAR_3}” in\n"
 #if IS_FRLG
-	.string "Bill'S PC war voll.\p"
+	.string "Bills PC ist voll.\p"
 #else
-	.string "Lanette'S PC war voll.\p"
+	.string "Lanettes PC ist voll.\p"
 #endif
-	.string "{STR_VAR_2} wurde zu\n"
-	.string "Box “{STR_VAR_1} transferiert.”$"
+	.string "{STR_VAR_2} wurde in Box\n"
+	.string "“{STR_VAR_1}” übertragen.$"
 
 gText_PkmnSentToPCAfterCatch::
-	.string "{STR_VAR_2} wurde zu\n"
-	.string "{B_PC_CREATOR_NAME} PC.\p"
-	.string "gesendet in \n"
-	.string "Box “{STR_VAR_1}”.$"
+	.string "{STR_VAR_2} wurde auf\n"
+	.string "{B_PC_CREATOR_NAME} PC übertragen.\p"
+	.string "Es wurde in Box\n"
+	.string "“{STR_VAR_1}” abgelegt.$"
 
 gText_PlayerObtainedTheMon::
 	.string "{PLAYER} erhält\n"

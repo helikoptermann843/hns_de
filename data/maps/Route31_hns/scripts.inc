@@ -166,7 +166,7 @@ Route31_Text_ReadingMail:
 	.string "ein netter Mensch, genau wie du!\p"
 	.string "Ich möchte mich\n"
 	.string "bei dir dafür revanchieren!\p"
-	.string "Ich hab's! Ich\n"
+	.string "Ich hab’s! Ich\n"
 	.string "möchte dir das hier geben!$"
 
 Route31_Text_DescribeRest:

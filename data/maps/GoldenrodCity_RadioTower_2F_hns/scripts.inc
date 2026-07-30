@@ -212,7 +212,7 @@ GoldenrodCity_RadioTower_2F_Text_GruntM6Seen:
 	.string "unseren Angelegenheiten raus!$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6Beaten:
-	.string "Uff. Mir reicht's.$"
+	.string "Uff. Mir reicht’s.$"
 
 GoldenrodCity_RadioTower_2F_Text_GruntM6After:
 	.string "Unser Vorstand will die Macht an\n"

@@ -100,7 +100,7 @@ Route19_Text_SwimmerfDawnBeaten:
 
 Route19_Text_SwimmerfDawnAfterBattle:
 	.string "Von Fuchsania City bis zu den See-\n"
-	.string "schauminseln schwimmt sich's doch im Nu!\l"
+	.string "schauminseln schwimmt sich’s doch im Nu!\l"
 	.string "Jetzt stell dich mal nicht so an!$"
 
 Route19_Text_SwimmermJeromeSeen:

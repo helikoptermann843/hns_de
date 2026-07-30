@@ -334,7 +334,7 @@ VermilionGym_Text_SurgeRematch:
 	.string "Beeindruckend, Kleiner!\n"
 	.string "Doch denk nicht, dass ich fertig\l"
 	.string "bin!\p"
-	.string "Wie wär's mit einer Revanche?$"
+	.string "Wie wär’s mit einer Revanche?$"
 
 VermilionGym_Text_SurgeRematchDefeat:
 	.string "Bob: Arrrgh! Du bist immer noch\n"
@@ -367,7 +367,7 @@ VermilionGym_Text_GuitaristVincentAfter:
 
 VermilionGym_Text_JugglerHortonSeen:
 	.string "Ich werde dich fertigmachen!\n"
-	.string "Gleich versetzt's dir einen Schlag!$"
+	.string "Gleich versetzt’s dir einen Schlag!$"
 
 VermilionGym_Text_JugglerHortonBeaten:
 	.string "Gwaaah! Ich wurde überrannt…$"

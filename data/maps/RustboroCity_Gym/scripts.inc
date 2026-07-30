@@ -287,7 +287,7 @@ RustboroCity_Gym_Text_RoxanneRematchDefeat:
 	.string "Ich habe schon wieder verloren…$"
 
 RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "Felizia: Ich muss anscheindend noch\n"
+	.string "Felizia: Ich muss anscheinend noch\n"
 	.string "viel über Pokémon-Kämpfe lernen.\p"
 	.string "Aber genau deshalb liebe ich das\n"
 	.string "Kämpfen um so mehr.$"

@@ -63,7 +63,7 @@ ViridianCity_Gym_Text_LeaderBlue_Before:
 	.string "zu Kleinholz verarbeitet, was?\p"
 	.string "Hahaha! Dann müssen das ja alles\n"
 	.string "ziemliche Jammerlappen sein!\p"
-	.string "Aber warten wir's mal ab!\n"
+	.string "Aber warten wir’s mal ab!\n"
 	.string "Wenn wir gegeneinander kämpfen,\l"
 	.string "werde ich schon sehen, ob du was drauf\l"
 	.string "hast oder nur ein Schaumschläger bist!$"

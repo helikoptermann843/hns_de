@@ -326,7 +326,7 @@ GoldenrodUnderground_Text_YoungerBrotherOffer:
 	.string "preiswertere Coiffeur-Bruder.\p"
 	.string "Ich verschönere dein Pokémon\n"
 	.string "für nur ¥300.\p"
-	.string "Also? Wie wär's?$"
+	.string "Also? Wie wär’s?$"
 
 GoldenrodUnderground_Text_YoungerBrotherAskWhich:
 	.string "Welches Pokémon soll ich machen?$"
@@ -424,7 +424,7 @@ GoldenrodUnderground_Text_PokemaniacDonaldBeaten:
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattle:
 	.string "Gestern Abend beim Fahrradladen\n"
-	.string "fühte ich mich von den Dächern\l"
+	.string "fühlte ich mich von den Dächern\l"
 	.string "beobachtet…$"
 
 GoldenrodUnderground_Text_PokemaniacDonaldAfterBattleOld:

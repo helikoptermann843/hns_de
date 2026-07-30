@@ -177,8 +177,8 @@ const u8 *const gPokeblockWasTooXStringTable[FLAVOR_COUNT] =
 };
 
 static const u8 sText_Someones[] = _("einen");
-static const u8 sText_Lanettes[] = _("LANETTE's"); //no decapitalize until it is everywhere
-static const u8 sText_Bills[] = _("BILL's");
+static const u8 sText_Lanettes[] = _("Lanettes"); //no decapitalize until it is everywhere
+static const u8 sText_Bills[] = _("Bills");
 static const u8 sText_EnigmaBerry[] = _("ENIGMABEERE"); //no decapitalize until it is everywhere
 static const u8 sText_BerrySuffix[] = _("BEERE"); //no decapitalize until it is everywhere
 const u8 gText_EmptyString3[] = _("");
@@ -842,7 +842,7 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
 	[STRINGID_FOGLIFTED]                            = COMPOUND_STRING("Der Nebel verschwindet!"),
 	[STRINGID_PKMNMADESHELLGLEAM]                   = COMPOUND_STRING("{B_DEF_NAME_WITH_PREFIX} ließ seine Schale glänzen! Es verzerrt die Typenwirksamkeiten!"),
 	[STRINGID_FICKLEBEAMDOUBLED]                    = COMPOUND_STRING("{B_ATK_NAME_WITH_PREFIX} gibt alles für diese Attacke!"),
-	[STRINGID_COMMANDERACTIVATES]                   = COMPOUND_STRING("{B_SCR_NAME_WITH_PREFIX} wurde von Dondozo verschluckt und wurde Dondozo's Kommandant!"),
+	[STRINGID_COMMANDERACTIVATES]                   = COMPOUND_STRING("{B_SCR_NAME_WITH_PREFIX} wurde von Dondozo verschluckt und wurde Dondozos Kommandant!"),
 	[STRINGID_POKEFLUTECATCHY]                      = COMPOUND_STRING("{B_PLAYER_NAME} spielte die {B_LAST_ITEM}.\pDas ist ein eingängiges Lied!"),
 	[STRINGID_POKEFLUTE]                            = COMPOUND_STRING("{B_PLAYER_NAME} spielte die {B_LAST_ITEM}."),
 	[STRINGID_MONHEARINGFLUTEAWOKE]                 = COMPOUND_STRING("Das Pokémon, das die Flöte hörte, wachte auf!"),
