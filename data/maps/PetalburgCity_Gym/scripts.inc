@@ -1440,8 +1440,8 @@ PetalburgCity_Gym_Text_GeorgePostBattle:
 	.string "entwickeln sich mit dem Training.\p"
 	.string "Ich habe mich offensichtlich nicht\n"
 	.string "genug angestrengt.\p"
-	.string "Geh! Der nächste Raum ist der K.o.-\n"
-	.string "Treffer-raum.$"
+	.string "Geh! Der nächste Raum ist der K.O.-\n"
+	.string "Treffer-Raum.$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
 	.string "Ich werde auch weiterhin in den Arenen\n"
@@ -1512,7 +1512,7 @@ PetalburgCity_Gym_Text_AlexiaPostBattle:
 	.string "Nun, geh weiter. Die linke Tür führt\n"
 	.string "in den Raum der Stärke.\p"
 	.string "Die rechte Tür öffnet den\n"
-	.string "K.o.-treffer-raum.\p"
+	.string "K.O.-Treffer-Raum.\p"
 	.string "In beiden warten äußerst talentierte\n"
 	.string "Trainer.$"
 

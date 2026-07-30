@@ -106,8 +106,7 @@ LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
 
 LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
 	.string "Oh, tut mir Leid, tut mir Leid!\n"
-	.string "Ich habe so konzentriert ferngesehen!\n"
-	.string "\p"
+	.string "Ich habe so konzentriert ferngesehen!\p"
 	.string "Ich habe gehört, dass jemand das Ver-\n"
 	.string "steck von Team Aqua auffliegen ließ.\p"
 	.string "Gut! Dadurch haben wir endlich Gäste.\n"

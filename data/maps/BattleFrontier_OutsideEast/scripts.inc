@@ -263,8 +263,7 @@ BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial:
 	.string "anderen Orte.$"
 
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier:
-	.string "Ich habe Großes vor! Ich will die\n"
-	.string "Kampf-\n"
+	.string "Ich habe Großes vor! Ich will die Kampf-\n"
 	.string "zone und die Pokémon Liga erobern!\p"
 	.string "Und wenn dieser Traum wahr wird…\p"
 	.string "Dann werde ich… meine Nachbarin Mimi\n"

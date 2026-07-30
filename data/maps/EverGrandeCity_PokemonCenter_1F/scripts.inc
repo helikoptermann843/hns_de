@@ -80,8 +80,7 @@ EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
 	.string "musst du einfach weitergehen.$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "Die lange und qualvolle Siegesstraße…\n"
-	.string "\p"
+	.string "Die lange und qualvolle Siegesstraße…\p"
 	.string "Es ist fast so, als würde man sein\n"
 	.string "ganzes Leben noch einmal leben…\p"
 	.string "Glaube an deine Pokémon und gib\n"

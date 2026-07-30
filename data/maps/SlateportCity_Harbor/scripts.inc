@@ -465,7 +465,7 @@ SlateportCity_Harbor_Text_ArchieYouAgainHideoutInLilycove:
 
 SlateportCity_Harbor_Text_CaptSternWhyStealMySubmarine:
 	.string "Kapt. Brigg: Warum…\p"
-	.string "Warum sollte Team Aqua mein tief-\n"
+	.string "Warum sollte Team Aqua mein Tief-\n"
 	.string "see-Forschungsboot 1 stehlen wollen?\p"
 	.string "Sie können doch nicht hinter dem\n"
 	.string "schlafenden Pokémon am Meeresgrund\l"

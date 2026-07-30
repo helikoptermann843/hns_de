@@ -423,8 +423,7 @@ BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
 	.string "What is this weird place?\n"
 	.string "I can’t figure it out at all!\p"
 	.string "I’ve taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run\n"
-	.string "into\l"
+	.string "of times, but all I ever do is run into\l"
 	.string "Trainers whichever path I choose.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:

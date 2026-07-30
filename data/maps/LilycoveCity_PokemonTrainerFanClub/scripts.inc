@@ -632,8 +632,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 	.string "unterstütze Kamillo!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
-	.string "Egal, was die anderen sagen, der\n"
-	.string "Arena-\n"
+	.string "Egal, was die anderen sagen, der Arena-\n"
 	.string "leiter von Faustauhaven, Kamillo,\l"
 	.string "ist mein Favorit!$"
 

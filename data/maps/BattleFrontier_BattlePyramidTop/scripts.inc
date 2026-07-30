@@ -277,8 +277,7 @@ BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
 	.string "Brian: Hahaha! Das war einfach\n"
 	.string "großartig! Großartig, jawohl!\p"
-	.string "Gut gemacht! Du hast dir meine\n"
-	.string "Anerken-\n"
+	.string "Gut gemacht! Du hast dir meine Anerken-\n"
 	.string "nung redlich verdient! Deinen Kampf-\l"
 	.string "zonenpass, bitte!$"
 

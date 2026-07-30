@@ -294,7 +294,7 @@ BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
 	.string "abschätzen will, setzt er diese\l"
 	.string "3 Pokémon ein:\p"
 	.string "Ein Fledermaus-Pokémon, Typ Gift &\n"
-	.string "Flug. Ein müßig-Pokémon, Typ\p"
+	.string "Flug. Ein Müßig-Pokémon, Typ\p"
 	.string "Normal sowie ein Transport-Pokémon,\n"
 	.string "Typ Wasser & Eis.$"
 
@@ -305,7 +305,7 @@ BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
 	.string "Wenn er im Kampf alles geben will, setzt\n"
 	.string "er diese drei Pokémon ein:\p"
 	.string "Ein Legendäres Pokémon, Typ Feuer.\n"
-	.string "Ein müßig-Pokémon, Typ\p"
+	.string "Ein Müßig-Pokémon, Typ\p"
 	.string "Normal sowie ein Polarlicht-Pokémon,\n"
 	.string "Typ Wasser.$"
 

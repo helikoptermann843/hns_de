@@ -88,8 +88,7 @@ PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
 	.string "Dein Hydropi ist beispielsweise ein\n"
 	.string "Wasser-Typ.\p"
-	.string "Es ist stark gegenüber dem Feuer-Typ.\n"
-	.string "\p"
+	.string "Es ist stark gegenüber dem Feuer-Typ.\p"
 	.string "Aber es ist schwach gegenüber den\n"
 	.string "Pflanzen- und Elektro-Pokémon.$"
 

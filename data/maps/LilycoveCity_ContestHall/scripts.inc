@@ -450,8 +450,7 @@ LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
 	.string "Was ist daran so lustig?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
-	.string "Natürlich, als Frau wäre ich\n"
-	.string "überglück-\n"
+	.string "Natürlich, als Frau wäre ich überglück-\n"
 	.string "lich, wenn ich den Schönheits-\l"
 	.string "wettbewerb gewinnen würde.$"
 

@@ -379,8 +379,7 @@ MossdeepCity_Gym_Text_GymGuideAdvice:
 	.string "Und außerdem wirst du dich gegen eine\n"
 	.string "außergewöhnliche Kombination von\l"
 	.string "Attacken behaupten müssen.\p"
-	.string "Wenn du gewinnen willst, musst du\n"
-	.string "ihnen\n"
+	.string "Wenn du gewinnen willst, musst du ihnen\n"
 	.string "beweisen, wie sehr du mit deinen\l"
 	.string "Pokémon verbunden bist! Und nun los!$"
 

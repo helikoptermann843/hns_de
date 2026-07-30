@@ -509,8 +509,7 @@ BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Like, I’m really tough, but I get\n"
-	.string "bored\n"
+	.string "Like, I’m really tough, but I get bored\n"
 	.string "really easily, so I just kept swapping\l"
 	.string "and battling over and over.\p"
 	.string "So anyway, when I kept entering\n"
