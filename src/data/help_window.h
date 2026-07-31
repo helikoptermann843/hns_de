@@ -32,12 +32,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_TELEPORTER_WINDOW] =
     {
         .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: MASCHINE"),
-        .desc = COMPOUND_STRING("Diese Maschine ändert POKéMON\n"
-                                "permanent in ihre GALAR-Formen.\n"
-                                "GALAR-Formen werden\n"
-                                "für Kompletierung des\n"
-                                "NATIONALEN POKéDEX nicht benötigt.\n"
-                            ),
+        .desc = COMPOUND_STRING("Diese Maschine ändert Pokémon\npermanent in ihre Galar-Formen.\nGalar-Formen werden\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},
@@ -45,12 +40,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_SINJOH_WINDOW] =
     {
         .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: SINJOH"),
-        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\n"
-                                "bonus Inhalt: SINJOH.\n"
-                                "Für Story nicht benötigt\n"
-                                "für Kompletierung des\n"
-                                "NATIONALEN POKéDEX nicht benötigt.\n"
-                            ),
+        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\nbonus Inhalt: Sinjoh.\nFür Story nicht benötigt\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},
@@ -58,12 +48,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     [HELP_ALOLA_WINDOW] =
     {
         .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: INSELN"),
-        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\n"
-                                "bonus Inhalt: ALOLA INSELN.\n"
-                                "Für Story nicht benötigt\n"
-                                "für Kompletierung des\n"
-                                "NATIONALEN POKéDEX nicht benötigt.\n"
-                            ),
+        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\nbonus Inhalt: Alola Inseln.\nFür Story nicht benötigt\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},

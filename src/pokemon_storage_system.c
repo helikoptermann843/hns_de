@@ -872,7 +872,7 @@ struct {
 {
     [OPTION_WITHDRAW]   = {COMPOUND_STRING("Pokémon nehmen"), COMPOUND_STRING("Bewege Pokémon aus Boxen in\ndein Team.")},
     [OPTION_DEPOSIT]    = {COMPOUND_STRING("Pokémon ablegen"),  COMPOUND_STRING("Lagere Pokémon deines Teams in Boxen.")},
-    [OPTION_MOVE_MONS]  = {COMPOUND_STRING("Pokémon bewegen"),     COMPOUND_STRING("Bewege POKéMON in BOXEN und\nin deinem Team.")},
+    [OPTION_MOVE_MONS]  = {COMPOUND_STRING("Pokémon bewegen"),     COMPOUND_STRING("Bewege Pokémon in Boxen und\nin deinem Team.")},
     [OPTION_MOVE_ITEMS] = {COMPOUND_STRING("Items Bewegen"),       COMPOUND_STRING("Bewege items von Pokémon\nim Team und in der Box.")},
     [OPTION_EXIT]       = {COMPOUND_STRING("Tschüss!"),          COMPOUND_STRING("Zurück zum vorherigen Menü.")}
 };
@@ -1056,10 +1056,10 @@ static const struct StorageMessage sMessages[] =
     [MSG_PICK_A_THEME]         = {COMPOUND_STRING("Wähle Thema."),       MSG_VAR_NONE},
     [MSG_PICK_A_WALLPAPER]     = {COMPOUND_STRING("Wähle Hintergrund."),        MSG_VAR_NONE},
     [MSG_IS_SELECTED]          = {gText_PkmnIsSelected,                          MSG_VAR_MON_NAME_1},
-    [MSG_JUMP_TO_WHICH_BOX]    = {COMPOUND_STRING("Zu welcher BOX springen?"),         MSG_VAR_NONE},
+    [MSG_JUMP_TO_WHICH_BOX]    = {COMPOUND_STRING("Zu welcher Box springen?"),         MSG_VAR_NONE},
     [MSG_DEPOSIT_IN_WHICH_BOX] = {COMPOUND_STRING("In welche BOX ablegen?"),      MSG_VAR_NONE},
     [MSG_WAS_DEPOSITED]        = {COMPOUND_STRING("{DYNAMIC 0} wurde abgelegt."), MSG_VAR_MON_NAME_1},
-    [MSG_BOX_IS_FULL]          = {COMPOUND_STRING("Die BOX ist voll."),           MSG_VAR_NONE},
+    [MSG_BOX_IS_FULL]          = {COMPOUND_STRING("Die Box ist voll."),           MSG_VAR_NONE},
     [MSG_RELEASE_POKE]         = {COMPOUND_STRING("Dieses Pokémon freilassen?"),      MSG_VAR_NONE},
     [MSG_WAS_RELEASED]         = {COMPOUND_STRING("{DYNAMIC 0} wurde freigelassen."),  MSG_VAR_RELEASE_MON_1},
     [MSG_BYE_BYE]              = {COMPOUND_STRING("Bye-bye, {DYNAMIC 0}!"),      MSG_VAR_RELEASE_MON_3},
@@ -1073,7 +1073,7 @@ static const struct StorageMessage sMessages[] =
     [MSG_CAME_BACK]            = {COMPOUND_STRING("{DYNAMIC 0} kam zurück!"),     MSG_VAR_MON_NAME_1},
     [MSG_WORRIED]              = {COMPOUND_STRING("Sorgt es sich um dich?"),  MSG_VAR_NONE},
     [MSG_SURPRISE]             = {COMPOUND_STRING("… … … … !"),                  MSG_VAR_NONE},
-    [MSG_PLEASE_REMOVE_MAIL]   = {COMPOUND_STRING("Bitte MAIL entfernen."),    MSG_VAR_NONE},
+    [MSG_PLEASE_REMOVE_MAIL]   = {COMPOUND_STRING("Bitte Mail entfernen."),    MSG_VAR_NONE},
     [MSG_IS_SELECTED2]         = {gText_PkmnIsSelected,                          MSG_VAR_ITEM_NAME},
     [MSG_GIVE_TO_MON]          = {COMPOUND_STRING("Einem Pokémon geben?"),         MSG_VAR_NONE},
     [MSG_PLACED_IN_BAG]        = {COMPOUND_STRING("Platziert Item in Tasche."),    MSG_VAR_ITEM_NAME},
@@ -1081,7 +1081,7 @@ static const struct StorageMessage sMessages[] =
     [MSG_PUT_IN_BAG]           = {COMPOUND_STRING("Item in Tasche tun?"),  MSG_VAR_NONE},
     [MSG_ITEM_IS_HELD]         = {COMPOUND_STRING("{DYNAMIC 0} wird jetzt gehalten."),   MSG_VAR_ITEM_NAME},
     [MSG_CHANGED_TO_ITEM]      = {COMPOUND_STRING("Geändert zu {DYNAMIC 0}."),    MSG_VAR_ITEM_NAME},
-    [MSG_CANT_STORE_MAIL]      = {COMPOUND_STRING("MAIL kann nicht gelagert werden!"),      MSG_VAR_NONE},
+    [MSG_CANT_STORE_MAIL]      = {COMPOUND_STRING("Mail kann nicht gelagert werden!"),      MSG_VAR_NONE},
     [MSG_NUZLOCKE_FAINTED]     = {COMPOUND_STRING("Pokémon starb\nim Nuzlocke-Modus!"),       MSG_VAR_NONE},
 };
 
