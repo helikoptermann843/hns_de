@@ -153,9 +153,9 @@ Text_PokecenterSign::
 	.string "Pokémoncenter$"
 
 Text_Indigo_UltimateGoal::
-	.string "Indigo Plateau\p"
-	.string "Das ultimative Ziel der Trainer!\n"
-	.string "Pokémon Liga HQ$"
+	.string "Das Indigo Plateau\p"
+	.string "Das ultimative Ziel aller Trainer!\n"
+	.string "Hauptquartier der Pokémon Liga.$"
 
 Text_Indigo_HighestAuthority::
 	.string "Indigo Plateau\p"

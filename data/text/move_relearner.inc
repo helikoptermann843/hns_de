@@ -18,10 +18,11 @@ MoveRelearner_Text_SeeYa:
 	.string "Tschüss!$"
 
 MoveRelearner_Text_AnythingElse:
-	.string "Kann ich sonst noch etwas tun?$"
+	.string "Gibt es noch etwas, womit ich dienen\n"
+	.string "kann?$"
 
 MoveRelearner_Text_ChoosePkmn:
-	.string "Bitte wähle dein Pokémon.$"
+	.string "Bitte wähle ein Pokémon.$"
 
 MoveRelearner_Text_HaveNoPkmn:
 	.string "Du hast kein Pokémon.$"
@@ -31,9 +32,9 @@ MoveRelearner_Text_CantTeachMoveToEgg:
 	.string "Ein Ei kann nichts lernen.$"
 
 MoveRelearner_Text_CantTeachMoveToPkmn:
-	.string "Sorry…\p"
-	.string "Ich habe keine Attacken\n"
-	.string "für dieses Pokémon.$"
+	.string "Tut mir Leid…\p"
+	.string "Scheinbar gibt es keine Attacke, die ich\n"
+	.string "diesem Pokémon beibringen kann.$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
 	.string "level up attacke$"

@@ -40,9 +40,9 @@ FallarborTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "musst du dein Spiel speichern. Okay?$"
 
 FallarborTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "We offer two levels of challenge,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "Jedes Turnier bietet zwei Kategorien\n"
+	.string "an: Level 50 und Offene Kämpfe. Wofür\l"
+	.string "entscheidest du dich?$"
 
 FallarborTown_BattleTentLobby_Text_SelectThreeMons:
 	.string "Sehr schön! Dann bestimme jetzt bitte\n"
@@ -155,9 +155,9 @@ VerdanturfTown_BattleTentLobby_Text_ReturnFortified:
 	.string "Pokémon, dann komm wieder.$"
 
 VerdanturfTown_BattleTentLobby_Text_WhichLevelMode:
-	.string "There are two levels of difficulty,\n"
-	.string "Level 50 and Open Level.\l"
-	.string "Which is your choice of a challenge?$"
+	.string "Es gibt zwei Schwierigkeitsgrade: Level\n"
+	.string "50 und Offene Kämpfe. Wofür\l"
+	.string "entscheidest du dich?$"
 
 VerdanturfTown_BattleTentLobby_Text_NotEnoughValidMonsLv50:
 	.string "Seufz…\p"
@@ -190,7 +190,7 @@ VerdanturfTown_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "musst du dein Spiel speichern. Okay?$"
 
 VerdanturfTown_BattleTentLobby_Text_NowFollowMe:
-	.string "Gut. Dann folge mir bitte.$"
+	.string "Gut. Dann folge mir.$"
 
 VerdanturfTown_BattleTentLobby_Text_ResultsWillBeRecorded:
 	.string "Ich fühle mich geehrt, dass ich deinen\n"
@@ -244,16 +244,17 @@ SlateportCity_BattleTentLobby_Text_LookForwardToNextVisit:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_WhichLevelMode:
-	.string "Which level do you wish to challenge?\n"
-	.string "Level 50 or Level 100?$"
+	.string "An welcher Stufe möchtest du teil-\n"
+	.string "nehmen? Level 50 oder Offene Kämpfe?$"
 
 SlateportCity_BattleTentLobby_Text_SaveBeforeChallenge:
 	.string "Bevor du dich der Herausforderung\n"
 	.string "stellst, speichere ich dein Spiel. Okay?$"
 
 SlateportCity_BattleTentLobby_Text_HoldMonsForSafekeeping:
-	.string "Okay, I will hold your Pokémon for\n"
-	.string "safekeeping while you compete.$"
+	.string "Gut, ich werde deine Pokémon sicher für\n"
+	.string "dich aufbewahren, während du\l"
+	.string "teilnimmst.$"
 
 SlateportCity_BattleTentLobby_Text_StepThisWay:
 	.string "Bitte hier entlang.$"
@@ -267,8 +268,9 @@ SlateportCity_BattleTentLobby_Text_ReturnRentalMonsSaveResults:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReturnMonsExchangeRentals:
-	.string "I will return your Pokémon in exchange\n"
-	.string "for our rental Pokémon.$"
+	.string "Ich gebe dir deine Pokémon zurück und\n"
+	.string "nehme dafür unsere Leih-Pokémon\l"
+	.string "entgegen.$"
 
 SlateportCity_BattleTentLobby_Text_WonThreeMatchesReturnMons:
 	.string "Herzlichen Glückwunsch!\n"
@@ -305,8 +307,7 @@ SlateportCity_BattleTentLobby_Text_ReturnPersonalMons:
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER} gewinnt {STR_VAR_1}.$"
 
 @ Unused
 SlateportCity_BattleTentLobby_Text_RulesAreListed:
@@ -367,51 +368,52 @@ VerdanturfTown_BattleTentLobby_Text_ReadWhichHeading:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
-	.string "Here at the Verdanturf Battle Tent,\n"
-	.string "Pokémon are required to think and\l"
-	.string "battle by themselves.\p"
-	.string "Unlike in the wild, Pokémon that live\n"
-	.string "with people behave differently\l"
-	.string "depending on their nature.$"
+	.string "Hier müssen die Pokémon selbständig\n"
+	.string "handeln und kämpfen.\p"
+	.string "Anders als wilde Pokémon reagieren\n"
+	.string "Pokémon, die mit Menschen zusammen-\l"
+	.string "leben, abhängig von ihrem Wesen.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a Pokémon\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another Pokémon may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a Pokémon\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "Je nach Wesenheit wird ein Pokémon\n"
+	.string "eventuell angreifen, egal, was passiert.\p"
+	.string "Ein anderes wird sich vielleicht seinem\n"
+	.string "Wesen entsprechend unter allen\p"
+	.string "Umständen schützen wollen. Ein anderes\n"
+	.string "irritiert oder verwirrt seinen Gegner.\p"
+	.string "Abhängig von seinem Wesen wird ein\n"
+	.string "Pokémon Lieblingsattacken haben, die\l"
+	.string "es hervorragend beherrscht.\p"
+	.string "Auf der anderen Seite wird es Attacken\n"
+	.string "kennen, die es nicht mag und die ihm\l"
+	.string "Schwierigkeiten machen.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:
-	.string "There are offensive moves that inflict\n"
-	.string "direct damage on the foe.\p"
-	.string "There are defensive moves that are\n"
-	.string "used to prepare for enemy attacks or\l"
-	.string "used to heal Hp and so on.\p"
-	.string "There are also other somewhat-odd\n"
-	.string "moves that may enfeeble the foes with\l"
-	.string "stat problems including poison and \l"
-	.string "paralysis.\p"
-	.string "Pokémon will consider using moves in\n"
-	.string "these three categories.$"
+	.string "Es gibt offensive Attacken, die dem\n"
+	.string "Gegner Schaden zufügen.\p"
+	.string "Es gibt defensive Attacken, die auf\n"
+	.string "gegnerische Attacken vorbereiten oder\l"
+	.string "aber KP wiederherstellen können.\p"
+	.string "Und es gibt Attacken, die den Gegner\n"
+	.string "schwächen, indem sie Statusprobleme\l"
+	.string "verursachen, wie Vergiftungen oder\l"
+	.string "Paralyse.\p"
+	.string "Pokémon werden diese 3 Kategorien mit\n"
+	.string "Sicherheit im Kampf in Betracht ziehen!$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainUnderpoweredRules:
-	.string "When not under command by its Trainer,\n"
-	.string "a Pokémon may be unable to effectively\l"
-	.string "use certain moves.\p"
-	.string "A Pokémon is not good at using any\n"
-	.string "move that it dislikes.\p"
-	.string "If a Pokémon only knows moves that\n"
-	.string "do not match its nature, it will often\l"
-	.string "be unable to live up to its potential.$"
+	.string "Gibt ein Trainer seinem Pokémon keine\n"
+	.string "Anweisungen, wird es vielleicht nicht in\l"
+	.string "der Lage sein, bestimmte Attacken\p"
+	.string "einzusetzen. Ein Pokémon hat\n"
+	.string "Schwierigkeiten mit Attacken, die es\l"
+	.string "nicht mag.\p"
+	.string "Kennt ein Pokémon nur Attacken, die\n"
+	.string "seinem Wesen widersprechen, so kann es\l"
+	.string "nicht immer sein ganzes Können zeigen.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainWhenInDangerRules:

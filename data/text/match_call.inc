@@ -3125,9 +3125,10 @@ MatchCall_Text_RegisteredBirch:
 	.string "Verzeichnis eingetragen.$"
 
 MatchCall_Text_UnusedProfBirch:
-	.string "Prof. Birch: When one has both\n"
-	.string "the Pokédex and Pokénav, studying\l"
-	.string "Pokémon becomes more fun, eh?$"
+	.string "Prof. Birk: Wenn man sowohl den Pokédex\n"
+	.string "als auch den PokéNav besitzt, macht die\l"
+	.string "Erforschung der Pokémon noch mehr\l"
+	.string "Spaß, nicht wahr?$"
 
 MatchCall_Text_MrStone1::
 	.string "Mr. Trumm: Oh? {PLAYER}{KUN}!\p"

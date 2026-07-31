@@ -70,8 +70,9 @@ BerryTree_Text_Hns_Picked:
 	.string "{PLAYER} pflückt die {STR_VAR_2} {STR_VAR_1}.$"
 
 BerryTree_Text_Hns_BagFull:
-	.string "Die Beerentasche ist voll.\p"
-	.string "Kann {STR_VAR_1} nicht mitnehmen.$"
+	.string "Die Beerentasche des Beutels ist voll.\p"
+	.string "Die {STR_VAR_1} können nicht\n"
+	.string "mitgenommen werden.$"
 
 BerryTree_Text_Hns_Sprouted:
 	.string "Die Beeren sprießen plötzlich!$"

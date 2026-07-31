@@ -116,8 +116,8 @@ Text_IdLoveToHearYourProfile:
 	.string "Sag mir dein Profil!$"
 
 Text_TellMeWhatsYourProfile:
-	.string "Tell me something good about\n"
-	.string "yourself. What's your profile?$"
+	.string "Erzähl mir etwas Gutes über dich. Wie\n"
+	.string "lautet dein Profil?$"
 
 Text_ExplainProfile:
 	.string "Ein Profil besteht aus vier\n"
@@ -147,8 +147,7 @@ Text_HiWeMeetAgain:
 	.string "We meet again!$"
 
 Text_ChangeYourProfile:
-	.string "Would you like to change your\n"
-	.string "profile?$"
+	.string "Möchtest du dein Profil ändern?$"
 
 Text_WhatAreYouLikeNow:
 	.string "Wie bist du jetzt?\n"

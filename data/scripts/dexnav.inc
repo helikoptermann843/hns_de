@@ -33,15 +33,14 @@ sText_NotFoundNearby:
 	.string "Try looking in a different area!$"
 
 sText_TryMovingSlower:
-	.string "The Pokémon got away!\n"
-	.string "Try moving more slowly.$"
+	.string "Das Pokémon ist entkommen! Versuche,\n"
+	.string "dich langsamer zu bewegen.$"
 
 sText_PokemonGotAway:
 	.string "Das Pokémon ist entkommen…$"
 
 sText_LostSignal:
-	.string "There is no reaction.\n"
-	.string "The signal was lost!$"
+	.string "Keine Reaktion. Das Signal ist verloren!$"
 
 sText_TooDark:
 	.string "It's too dark to search\nfor a Pokémon!$"
