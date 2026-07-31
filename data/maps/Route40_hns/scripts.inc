@@ -69,7 +69,7 @@ Route40_EventScript_Paula::
 Route40_Text_SwimmerfPaulaSeen:
 	.string "Ich habe keine Schwimmreifen.\p"
 	.string "Ich halte mich an einem\n"
-	.string "WasserPokémon fest!$"
+	.string "Wasser-Pokémon fest!$"
 
 Route40_Text_SwimmerfPaulaBeaten:
 	.string "Oje, um mich dreht sich\n"
@@ -102,8 +102,9 @@ Route40_EventScript_Woman2::
 
 Route40_Text_Lass2:
 	.string "Ich reiste mit dem Schiff nach\n"
-	.string "Oliviana, um die Sehenswürdigkeiten\l"
-	.string "und die Atmosphäre zu genießen.\p"
+	.string "Oliviana City, um die\l"
+	.string "Sehenswürdigkeiten und die\l"
+	.string "Atmosphäre zu genießen.\p"
 	.string "Da es eine Hafenstadt ist, unter-\n"
 	.string "scheidet sie sich\l"
 	.string "von anderen großen Städten.$"

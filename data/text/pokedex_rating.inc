@@ -404,7 +404,7 @@ gNationalDexRatingText_LessThanMaxDex::
 gNationalDexRatingText_Complete::
 	.string "Exzellent! Ein fantastischer\n"
 	.string "Nationaler Pokédex!\p"
-	.string "Wow...{PAUSE 10}\p"
+	.string "Wow…{PAUSE 10}\p"
 	.string "Du hast meine kühnsten\n"
 	.string "Erwartungen übertroffen!\p"
 	.string "Wirklich toll gemacht!\p"

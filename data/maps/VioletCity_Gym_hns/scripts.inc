@@ -74,7 +74,7 @@ VioletGym_Text_Falkner_WinLoss:
 	.string "Flügelorden der Pokémon Liga.$"
 
 VioletGym_Text_ReceivedZephyrBadge:
-	.string "{PLAYER} erhält den Flügelorden.$"
+	.string "{PLAYER} erhält den Flügelorden!$"
 
 VioletGym_Text_Falkner_BadgeExplain:
 	.string "Flügelorden erhöht die Attacke\n"
@@ -177,6 +177,7 @@ VioletCity_Gym_Text_GymStatue:
 	.string "Pokémon-Arena von Viola City$"
 
 VioletCity_Gym_Text_GymStatueCertified:
-	.string "Viola City Pokémon Arena\p"
-	.string "Falks zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Viola City\p"
+	.string "Leiter: Falk\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"

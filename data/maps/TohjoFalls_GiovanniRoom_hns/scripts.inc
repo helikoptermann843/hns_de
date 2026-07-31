@@ -188,7 +188,7 @@ TohjoFalls_Movement_GiovanniLeave:
 	step_end
 
 TohjoFalls_GiovanniRoom_Text_Radio:
-	.string "Radio: ... ...\n"
+	.string "Radio: … …\n"
 	.string "Ahem, wir sind Team Rocket!\p"
 	.string "Nach drei Jahren Vorbereitung\n"
 	.string "steigen wir wieder aus der Asche!\p"
@@ -198,22 +198,22 @@ TohjoFalls_GiovanniRoom_Text_Radio:
 	.string "Hört er zu?$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniIntro:
-	.string "Giovanni: ...\p"
+	.string "Giovanni: …\p"
 	.string "Ich weiß nicht, warum du hier\n"
 	.string "hergekommen bist.\p"
 	.string "Jedenfalls muss ich dich warnen,\n"
 	.string "dies ist kein Ort für Kinder wie dich.\p"
 	.string "Du hast einen bestimmten Blick.\p"
 	.string "Er erinnert mich an das Kind, das\n"
-	.string "vor drei Jahren vor mir stand...\p"
-	.string "Du hast die gleichen Augen...\p"
-	.string "...\p"
+	.string "vor drei Jahren vor mir stand…\p"
+	.string "Du hast die gleichen Augen…\p"
+	.string "…\p"
 	.string "Ich bin auf dem Weg nach Dukatia City,\n"
 	.string "um meinem Team beizutreten.\l"
 	.string "Willst du mir im Weg stehen?$"
 
 TohjoFalls_GiovanniRoom_Text_GiovanniBeforeBattle:
-	.string "Meine alten Gefährten brauchen mich...\n"
+	.string "Meine alten Gefährten brauchen mich…\n"
 	.string "Wir werden den Fehler von vor drei\l"
 	.string "Jahren nicht wiederholen!$"
 

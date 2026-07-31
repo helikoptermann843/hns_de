@@ -172,9 +172,9 @@ MoveTutor_Text_DynamicPunchTeach:
 	.string "Ich kann nicht mehr!\p"
 	.string "Das ist doch absolut hoffnungslos!\p"
 	.string "Ich bin ein Kampf-Trainer, daher kann\n"
-	.string "ich in der Arena von Moosbach einfach\p"
-	.string "nicht gewinnen, egal, wie sehr ich mich\n"
-	.string "auch anstrenge!\p"
+	.string "ich in der Arena von Moosbach City\p"
+	.string "einfach nicht gewinnen, egal, wie sehr\n"
+	.string "ich mich auch anstrenge!\p"
 	.string "Argh! Schlag! Wucht! Schlag!\n"
 	.string "Schlag! Wucht! Schlag!\p"
 	.string "Hey, was starrst du mich so an?!?\n"
@@ -192,7 +192,7 @@ MoveTutor_Text_DynamicPunchWhichMon:
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Ich möchte, dass du in der Arena von\n"
-	.string "Moosbach gewinnst, indem du\l"
+	.string "Moosbach City gewinnst, indem du\l"
 	.string "Wuchtschlag einsetzt.$"
 
 MoveTutor_Text_DoubleEdgeTeach:

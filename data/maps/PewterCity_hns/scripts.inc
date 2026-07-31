@@ -104,7 +104,8 @@ PewterCity_EventScript_WelcomeSign::
 	end
 
 PewterCity_Text_Sign:
-	.string "Marmoria City Eine Steingraue Stadt$"
+	.string "Marmoria City\n"
+	.string "Die steingraue Stadt$"
 
 PewterCity_Text_GymSign:
 	.string "Pokémon-Arena von Marmoria City\n"

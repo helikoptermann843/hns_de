@@ -283,16 +283,16 @@ OlivineCity_Gym_Text_JasmineBetterTrainer:
 	.string "Liga überreiche ich dir diesen Orden!$"
 
 OlivineCity_Gym_Text_ReceivedMineralBadge:
-	.string "{PLAYER} erhielt Mineralorden.$"
+	.string "{PLAYER} erhält den Stahlorden!$"
 
 OlivineCity_Gym_Text_JasmineBadgeSpeech:
-	.string "Mineralorden erhöht die\n"
+	.string "Stahlorden erhöht die\n"
 	.string "Spezial-Verteidigung von Pokémon.\p"
 	.string "…Ähm… Bitte nimm dies auch…$"
 
 OlivineCity_Gym_Text_JasmineIronTailSpeech:
-	.string "…Du kannst damit TM lehren:\n"
-	.string "Eisenschweif.$"
+	.string "…Damit kannst du die Attacke\n"
+	.string "Eisenschweif lehren.$"
 
 OlivineCity_Gym_Text_JasmineGoodLuck:
 	.string "Jasmin: Ähm… ich weiß nicht, wie\n"
@@ -329,8 +329,9 @@ OlivineCity_Gym_Text_GymStatue:
 	.string "Pokémon-Arena von Oliviana City$"
 
 OlivineCity_Gym_Text_GymStatueCertified:
-	.string "Oliviana City Pokémon Arena\p"
-	.string "Jasmins zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Oliviana City\p"
+	.string "Leiterin: Jasmin\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 OlivineCity_Gym_EventScript_Jasmine_Trade::

@@ -917,7 +917,7 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules_hns:
 	.string "anders aus.\l"
 	.string "Die Beleuchtung ist spärlich, daher\n"
 	.string "sei \p"
-	.string "vorsichtig. Hast du ein wildes Pkmn\n"
+	.string "vorsichtig. Hast du ein wildes Pokémon\n"
 	.string "oder\l"
 	.string "einen Trainer besiegt, wird es heller.$"
 

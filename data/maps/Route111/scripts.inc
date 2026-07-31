@@ -721,7 +721,7 @@ Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Zertrümmerer mitnehmen, wenn ich\p"
 	.string "zur Route 111 gehe.\n"
 	.string "Mein Onkel? Der lebt gegenüber vom\l"
-	.string "Fahrradladen in Malvenfroh.$"
+	.string "Fahrradladen in Malvenfroh City.$"
 
 Route111_Text_TrainerHillSign:
 	.string "{RIGHT_ARROW} Eingang Trainerberg\p"

@@ -33,7 +33,7 @@ SaffronCity_Text_Baoba:
 	.string "Du weißt noch, wo sie ist,\n"
 	.string "oder?\p"
 	.string "Direkt westlich von\n"
-	.string "Anemonia!\l"
+	.string "Anemonia City!\l"
 	.string "Bis bald!$"
 
 SaffronCity_EventScript_Lass1A::

@@ -23,10 +23,10 @@ CinnabarIsland_EventScript_Blaine::
 
 CinnabarIsland_Text_Blaine:
 	.string "Pyro: Ich gebe nicht auf,\n"
-	.string "bis zu dem Tag an dem die\l"
-	.string "Die Zinnoberinsel Arena wieder\l"
+	.string "bis zu dem Tag, an dem die Arena\l"
+	.string "der Zinnoberinsel wieder\l"
 	.string "aufgebaut wurde!\p"
-	.string "Bis dahin bin ich im Kampf Dojo\n"
+	.string "Bis dahin bin ich im Kampf-Dojo.\n"
 	.string "Wir sehen uns.$"
 
 
@@ -58,7 +58,7 @@ CinnabarIsland_Text_BlueBefore:
 	.string "Ich war einst der Champion, auch\n"
 	.string "wenn nur für kurze Zeit…\p"
 	.string "Dieser Rot hat mir dazwischengefunkt…\n"
-	.string "...\p"
+	.string "…\p"
 	.string "Was willst du überhaupt? Willst du\n"
 	.string "mich herausfordern?\p"
 	.string "…Ich sage es ungern, aber ich hab\n"
@@ -88,7 +88,7 @@ CinnabarIsland_Text_Blue:
 	.string "Ich war einst der Champion, auch\n"
 	.string "wenn nur für kurze Zeit…\p"
 	.string "Dieser Rot hat mir dazwischengefunkt…\n"
-	.string "...\p"
+	.string "…\p"
 	.string "Was willst du überhaupt? Willst du\n"
 	.string "mich herausfordern?\p"
 	.string "…Ich sage es ungern, aber ich hab\n"

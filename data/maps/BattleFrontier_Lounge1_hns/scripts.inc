@@ -153,7 +153,7 @@ BattleFrontier_Lounge1_EventScript_Boy2_hns::
 BattleFrontier_Lounge1_Text_PokemonBreederIntro_hns:
 	.string "Seit 70 Jahren ziehe ich Pokémon auf!\n"
 	.string "Ich bin derjenige, den alle nur den\l"
-	.string "legendären Pkmn-züchter nennen!\p"
+	.string "legendären Pokémon-züchter nennen!\p"
 	.string "Ein Mensch mit meiner Erfahrung\n"
 	.string "erkennt die Fähigkeiten eines Pokémon\l"
 	.string "mit einem Blick.\p"

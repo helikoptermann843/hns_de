@@ -1488,7 +1488,7 @@ PokemonJournal_Text_SpecialFeatureDaisyOak::
 PokemonJournal_Text_SpecialFeatureMrFuji::
 	.string "Pokémon Journal\p"
 	.string "Sonderreportage: Mr. Fuji vom\n"
-	.string "Pkmn-Clubhaus!\p"
+	.string "Pokémon-Clubhaus!\p"
 	.string "Redakteur: Der publikumsscheue\n"
 	.string "Mr. Fuji hat unsere Interview-\l"
 	.string "anfragen zurückgewiesen.\p"

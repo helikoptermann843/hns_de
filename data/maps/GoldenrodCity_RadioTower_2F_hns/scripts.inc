@@ -265,7 +265,7 @@ GoldenrodCity_RadioTower_2F_Text_BuenaAlreadyPlayed:
 GoldenrodCity_RadioTower_2F_Text_BuenaBagFull:
 	.string "Buena: Du hast es,\n"
 	.string "aber deine Tasche ist voll!\p"
-	.string "Schaffe etwas platz\n"
+	.string "Schaffe etwas Platz\n"
 	.string "und komm zurück!$"
 
 GoldenrodCity_RadioTower_2F_Text_SalesSign:

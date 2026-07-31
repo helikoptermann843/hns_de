@@ -221,7 +221,7 @@ DragonsDen_Shrine_Text_PassedTest:
 	.string "von Herzen um Pokémon.\p"
 	.string "Sehr löblich.\p"
 	.string "Überzeugung ist wichtig!\p"
-	.string "<Player>, mach weiter so.\p"
+	.string "{PLAYER}, mach weiter so.\p"
 	.string "Ich treffe dich\n"
 	.string "dann bei der Pokémon Liga.$"
 
@@ -369,11 +369,12 @@ DragonsDen_Shrine_Text_HereRisingBadge:
 	.string "jetzt nimm ihn schon!$"
 
 DragonsDen_Shrine_Text_PlayerReceivedRisingBadge:
-	.string "{PLAYER} erhält den Drachenorden.$"
+	.string "{PLAYER} erhält den Drachenorden!$"
 
 DragonsDen_Shrine_Text_RisingBadgeExplanation:
-	.string "Von nun an können deine Pokémon die\n"
-	.string "Fähigkeit Kaskade einsetzen.\p"
+	.string "Mit dem Drachenorden in deinem Besitz\n"
+	.string "können deine Pokémon mit der Attacke\p"
+	.string "Kaskade jeden Wasserfall erklimmen…\p"
 	.string "Ferner werden dich alle Pokémon\n"
 	.string "als Trainer anerkennen und dir\l"
 	.string "bedingungslos gehorchen.$"

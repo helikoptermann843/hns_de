@@ -8,5 +8,5 @@ VermilionCity_PortOutside_EventScript_Fisher::
 VermilionCity_PortOutside_Text_Fisher::
 	.string "Bist du gerade aus Johto gekommen?\n"
 	.string "Wie fischt es sich da so?\l"
-	.string "...\p"
+	.string "…\p"
 	.string "Johto hat rote Garados?!$"

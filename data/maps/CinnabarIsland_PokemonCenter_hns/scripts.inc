@@ -21,4 +21,4 @@ CinnabarIsland_PokemonCenter1F_Text_CooltrainerF:
 
 CinnabarIsland_PokemonCenter1F_Text_Fisher:
 	.string "Es ist ein Jahr her,\n"
-	.string "seit des Vulkanausbruchs.$"
+	.string "seit dem Vulkanausbruch.$"

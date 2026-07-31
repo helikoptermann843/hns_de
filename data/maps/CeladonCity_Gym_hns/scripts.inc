@@ -49,7 +49,7 @@ CeladonCity_Gym_Text_ErikaBeaten:
 	.string "Hier, nimm diesen Farborden.$"
 
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
-	.string "{PLAYER} erhielt den Farborden.$"
+	.string "{PLAYER} erhält den Farborden!$"
 
 CeladonCity_Gym_Text_ErikaExplainTM:
 	.string "Erika: Das war ein ganz ausgezeichneter\n"
@@ -175,13 +175,13 @@ CeladonCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 CeladonCity_Gym_Text_GymStatue::
-    .string "Prismania Pokémon Arena\n"
-    .string "Leiter: Erika\p"
-	.string "Gewinner:\n"
+    .string "Prismania City Pokémon-Arena\n"
+    .string "Leiterin: Erika\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 CeladonCity_Gym_Text_GymStatuePlayerWon::
-    .string "Prismania Pokémon Arena\n"
-    .string "Leiter: Erika\p"
-	.string "Gewinner:\n"
+    .string "Prismania City Pokémon-Arena\n"
+    .string "Leiterin: Erika\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"

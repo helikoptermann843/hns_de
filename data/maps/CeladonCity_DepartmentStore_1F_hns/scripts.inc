@@ -19,7 +19,7 @@ CeladonDept1_EventScript_Directory::
     end
 
 CeladonDeptStore_Text_1FReceptionist:
-	.string "Hallo! Willkommen im Prismania\n"
+	.string "Hallo! Willkommen im Prismania City\n"
 	.string "Kaufhaus!\p"
 	.string "Das Verzeichnis findest du\n"
 	.string "an der Wand.$"

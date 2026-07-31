@@ -210,7 +210,7 @@ SproutTower_Text_SageLi_FlashExplain:
 	.string "dunkelsten Orte.\p"
 	.string "Um es außerhalb des Kampfes\n"
 	.string "zu nutzen, brauchst du den\l"
-	.string "Orden aus der Viola Arena.$"
+	.string "Orden aus der Viola City Arena.$"
 
 SproutTower_Text_SageLi_AfterBattle:
 	.string "Möge deine Reise einmal\n"

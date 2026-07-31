@@ -69,7 +69,7 @@ SeafloorCavern_Entrance_Text_HearMagmaNearMossdeep:
 	.string "Du passt hervorragend zu Team Magma.\p"
 	.string "Und wo wir grad beim Thema sind: Team\n"
 	.string "Magma soll in der Nähe von Moosbach\l"
-	.string "gesehen worden sein.\p"
+	.string "City gesehen worden sein.\p"
 	.string "Die passen mit Sicherheit nicht ans\n"
 	.string "Meer.$"
 
@@ -81,7 +81,7 @@ SeafloorCavern_Entrance_Text_HearMagmaNearMossdeepShort:
 	.string "Du passt hervorragend zu Team Magma.\p"
 	.string "Und wo wir grad beim Thema sind: Team\n"
 	.string "Magma soll in der Nähe von Moosbach\l"
-	.string "gesehen worden sein.\p"
+	.string "City gesehen worden sein.\p"
 	.string "Die passen mit Sicherheit nicht ans\n"
 	.string "Meer.$"
 

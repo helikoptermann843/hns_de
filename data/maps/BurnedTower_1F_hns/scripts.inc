@@ -51,7 +51,7 @@ BurnedTower_1FEusineIntroText:
 	.string "Eusin: Mein Name ist Eusin.\p"
 	.string "Ich bin auf der Spur eines\n"
 	.string "Pokémon namens Suicune.\p"
-	.string "Und du bist...?\p"
+	.string "Und du bist…?\p"
 	.string "{PLAYER}? Schön dich kennenzulernen!\p"
 	.string "Ich habe gehört, Suicune könnte\n"
 	.string "in dieser Turmruine sein,\l"
@@ -83,15 +83,15 @@ BurnedTower_1F_EventScript_Morty::
 	end
 
 BurnedTower_1FEusineText:
-	.string "Eusine: Ich habe gehört,\n"
+	.string "Eusin: Ich habe gehört,\n"
 	.string "Suicune könnte in dieser\l"
-	.string "Turmruine sein, also kam ich her\p"
+	.string "Turmruine sein, also kam ich her.\p"
 	.string "Aber wo genau könnte es sein?$"
 
 BurnedTower_1FMortyText:
 	.string "Jens: Der Arenaleiter von\n"
-	.string "Teak-City, muss die sogenannten\l"
-	.string "Legendären Pokémon\p"
+	.string "Teak City muss die sogenannten\l"
+	.string "legendären Pokémon\p"
 	.string "Suicune, Entei und Raikou studieren.\p"
 	.string "Eusin ist gekommen, also habe\n"
 	.string "ich beschlossen, den Turm\l"
@@ -150,9 +150,9 @@ BurnedTower_1F_Silver_Battle_Chikorita::
 
 BurnedTowerSilver_BeforeText:
 	.string "..............................\p"
-	.string "...Oh, du bist es.\p"
-	.string "Ich suchte nach Legendären\n"
-	.string "Pokémon die angeblich hier leben.\p"
+	.string "…Oh, du bist es.\p"
+	.string "Ich suchte nach legendären\n"
+	.string "Pokémon, die angeblich hier leben.\p"
 	.string "Aber hier ist nichts!\p"
 	.string "Nichts, was den Aufwand hierher\n"
 	.string "zu kommen rechtfertigt, absolut?\l"
@@ -160,7 +160,7 @@ BurnedTowerSilver_BeforeText:
 	.string "Das ist alles deine Schuld!$"
 
 BurnedTowerSilver_WinText:
-	.string "...Humph!\p"
+	.string "…Humph!\p"
 	.string "Darum hasse ich es,\n"
 	.string "gegen Schwächlinge anzutreten.\p"
 	.string "Wie armselig.$"
@@ -171,7 +171,7 @@ BurnedTowerSilver_AfterText1:
 	.string "Legendäres Pokémon zu schnappen!$"
 
 BurnedTowerSilver_LossText:
-	.string "...Humph!\p"
+	.string "…Humph!\p"
 	.string "Ich hasse es, gegen Schwächlinge\n"
 	.string "anzutreten. Es ist Zeitverschwendung.$"
 
@@ -212,4 +212,4 @@ BurnedTower_Text_RichardoBeaten:
 	.string "Pfffffffffffffff.$"
 BurnedTower_Text_RichardoAfter:
 	.string "Vielleicht ist ein Leben als\n"
-	.string "Verbrecher doch nichts für mich...$"
+	.string "Verbrecher doch nichts für mich…$"

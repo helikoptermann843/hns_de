@@ -560,7 +560,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules_hns:
 	.string "keine höhere Bewertung.\p"
 	.string "Setzt der Gegner Schutzschild oder\n"
 	.string "Scanner ein und die Attacke deines\l"
-	.string "Pkmn scheitert, wird die Beurteilung\l"
+	.string "Pokémon scheitert, wird die Beurteilung\l"
 	.string "nicht nach unten gehen.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules_hns:
@@ -568,7 +568,7 @@ BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules_hns:
 	.string "ist der “Körper”. Die am\l"
 	.string "Ende verbleibenden KP sind ausschlag-\p"
 	.string "gebend. Die Anzahl der KP, mit der ein\n"
-	.string "Pkmn in den Kampf geht, wird mit der\l"
+	.string "Pokémon in den Kampf geht, wird mit der\l"
 	.string "am Ende des Kampfes verglichen.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon_hns:

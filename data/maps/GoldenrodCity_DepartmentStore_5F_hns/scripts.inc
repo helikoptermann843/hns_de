@@ -85,7 +85,7 @@ GoldenrodDeptStore_Text_5FReceptionistThisMoveShouldBePerfect:
 GoldenrodDeptStore_Text_5FLass:
 	.string "Sonntags kommt eine Dame,\n"
 	.string "um nach den Pokémon zu sehen.\p"
-	.string "Sie verteilt sogar TMs!$"
+	.string "Sie verteilt manchmal sogar TM!$"
 
 GoldenrodDeptStore_Text_5FPokefanM:
 	.string "Ein Pokémon, das du im Tausch erhalten\n"
@@ -123,5 +123,5 @@ GoldenrodDeptStore5_Pokemart:
 
 
 GoldenrodDeptStore_Text_5FDirectory:
-	.string "Rüste deine - Mon auf.\p"
+	.string "Rüste deine Pokémon auf.\p"
 	.string "4S TM-Ecke$"

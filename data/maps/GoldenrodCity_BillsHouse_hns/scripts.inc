@@ -131,5 +131,5 @@ BillHouse_Text_SisterPhoneFull:
 
 BillHouse_Text_SisterStorageSystem:
 	.string "Mein großer Bruder Bill\n"
-	.string "hat das PC-Lagerungssystem\l"
+	.string "hat das PC-Pokémon-Lagerungssystem\l"
 	.string "erfunden.$"

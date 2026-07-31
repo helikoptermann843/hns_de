@@ -213,7 +213,7 @@ VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
 
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Willkommen im Kampfcamp von\n"
-	.string "Graphitport.\p"
+	.string "Graphitport City.\p"
 	.string "Ich begleite dich zum Wechselkampf-\n"
 	.string "Turnier.$"
 
@@ -222,7 +222,7 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "teilnehmen?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
-	.string "Hier im Kampfcamp von Graphitport\n"
+	.string "Hier im Kampfcamp von Graphitport City\n"
 	.string "halten wir Wechselkampf-Turniere ab,\l"
 	.string "die mit Leih-Pkmn ausgetragen werden.\p"
 	.string "Als Erstes leihst du dir drei Pokémon.\p"
@@ -352,7 +352,8 @@ SlateportCity_BattleTentLobby_Text_ExplainSwapNotes:
 
 SlateportCity_BattleTentLobby_Text_ExplainMonRules:
 	.string "Die Pokémon im Kampfcamp von\n"
-	.string "Graphitport sind alle Leih-Pokémon.\p"
+	.string "Graphitport City sind alle\l"
+	.string "Leih-Pokémon.\p"
 	.string "Diese stehen auf Level 30.$"
 
 @ Unused

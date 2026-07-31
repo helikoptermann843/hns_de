@@ -256,7 +256,7 @@ OlivineLighthouse_Text_BirdKeeperDenisBeaten:
 
 OlivineLighthouse_Text_BirdKeeperDenisAfter:
 	.string "Meine Pokémon lernten Fliegen in\n"
-	.string "Anemonia.\p"
+	.string "Anemonia City.\p"
 	.string "Da ich ein Verlierer bin, werde ich\n"
 	.string "über das Meer fliegen…$"
 
@@ -325,7 +325,7 @@ OlivineLighthouse_Text_JasmineGetMedicine:
 	.string "kaufen, bitte!$"
 
 OlivineLighthouse_Text_JasmineGetMedicine2:
-	.string "In Anemonia gibt es eine tolle\n"
+	.string "In Anemonia City gibt es eine tolle\n"
 	.string "Apotheke…\p"
 	.string "Aber das ist über das Meer…\n"
 	.string "Und Amphy kann ich nicht allein\n"

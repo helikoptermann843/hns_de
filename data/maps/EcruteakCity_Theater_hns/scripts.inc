@@ -469,7 +469,7 @@ EcruteakCity_Theater_Text_GrampsBefore:
 	.string "Manieren beibringen!$"
 
 EcruteakCity_Theater_Text_Girl:
-	.string "Die Kimono Girls sind meine\n"
+	.string "Die Kimono-Girls sind meine\n"
 	.string "großen Schwestern! Ich werde\l"
 	.string "eines Tages wie sie sein!$"
 
@@ -957,7 +957,7 @@ EcruteakCity_Theater_Movement_KuniWalkBack:
 	step_end
 
 EcruteakCity_Theater_Text_KimonoGirlBeaten:
-	.string "...$"
+	.string "…$"
 
 EcruteakCity_Theater_Text_ZukiSeen:
 	.string "Guten Tag! Ich darf mich vorstellen…\n"
@@ -997,7 +997,7 @@ EcruteakCity_Theater_Text_ZukiNo:
 EcruteakCity_Theater_Text_NaokoSeen:
 	.string "Du bist sehr stark. Du hast\n"
 	.string "mir im Steineichenwald geholfen.\p"
-	.string "Ich heiße Edith--ich habe keine\n"
+	.string "Ich heiße Edith. Ich habe keine\n"
 	.string "so gute Orientierung.\p"
 	.string "Ich sah, wie du Team Rocket\n"
 	.string "besiegt hast, als Kurt am\n"
@@ -1019,7 +1019,7 @@ EcruteakCity_Theater_Text_SayoSeen:
 	.string "Guter Kampfgeist! Du hast mich\n"
 	.string "vom Eis gestoßen.\p"
 	.string "Ich laufe in Sandalen.\n"
-	.string "Ich bin Keiko--das Kimono Girl!\p"
+	.string "Ich bin Keiko, das Kimono-Girl!\p"
 	.string "Ich hörte zu in der Drachenhöhle,\n"
 	.string "als du den Test des Ältesten\n"
 	.string "bestanden hast.\p"
@@ -1030,7 +1030,7 @@ EcruteakCity_Theater_Text_KuniSeen:
 	.string "Ich bin die Letzte.\p"
 	.string "Du warst zuverlässig im\n"
 	.string "Dukatia-Tunnel.\p"
-	.string "Ich tanze auch unterirdisch--\n"
+	.string "Ich tanze auch unterirdisch…\n"
 	.string "Hussa!\p"
 	.string "Ich sah, wie du Rocket am\n"
 	.string "Radioturm-Auftrag gehindert hast.\p"
@@ -1072,7 +1072,7 @@ EcruteakCity_Theater_Text_KimonoDone:
 EcruteakCity_Theater_Text_ZukiAfterAll:
 	.string "Danke für deine Hilfe neulich.\p"
 	.string "Du hast gezeigt, dass Menschen\n"
-	.string "mit Pokémon eine Bindung aufbauen...\p"
+	.string "mit Pokémon eine Bindung aufbauen…\p"
 	.string "Wir schätzen es, dass du unsere\n"
 	.string "Hoffnungen erfüllt hast, {PLAYER}!\p"
 	.string "Wenn du daraus etwas gelernt hast,\n"

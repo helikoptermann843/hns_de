@@ -659,11 +659,12 @@ AzaleaTown_Gym_EventScript_Statue2::
 	end
 
 AzaleaTown_Gym_Text_GymStatue:
-	.string "Azalea Pokémon Arena$"
+	.string "Azalea City Pokémon-Arena$"
 
 AzaleaTown_Gym_Text_GymStatueCertified:
-	.string "Azalea City Pokémon Arena\p"
-	.string "Kais zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Azalea City\p"
+	.string "Leiter: Kai\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 AzaleaTown_Gym_Text_BugsyIntro:
@@ -684,7 +685,8 @@ AzaleaTown_Gym_Text_BugsyBeaten:
 	.string "Hier hast du deinen Orden!$"
 
 AzaleaTown_Gym_Text_ReceivedHiveBadge:
-	.string "{PLAYER} erhält Insektenorden.$"
+	.string "{PLAYER} erhält den\n"
+	.string "Insektorden!$"
 
 AzaleaTown_Gym_Text_HiveBadgeSpeech:
 	.string "Kai: Weißt du schon, welche Vorzüge du\n"
@@ -698,22 +700,23 @@ AzaleaTown_Gym_Text_HiveBadgeSpeech:
 	.string "Oh, und das hier sollst du auch haben!$"
 
 AzaleaTown_Gym_Text_FuryCutterSpeech:
-	.string "TM89 enthält Kehrtwende.\p"
-	.string "Es schleudert jede Runde zwischen\n"
-	.string "2 und 5 Samen hintereinander.\p"
-	.string "Auch wenn die Stärke 25 beträgt,\n"
-	.string "ist sie in Wirklichkeit zwischen 50\l"
-	.string "und 125!\p"
-	.string "Ist das nicht großartig?\n"
-	.string "Ich habe es entdeckt!$"
+	.string "Kai: Die TM89 enthält Kehrtwende!\p"
+	.string "Setzt ein Pokémon diese Attacke im\n"
+	.string "Kampf ein, wird es mit einem anderen\l"
+	.string "aus deinem Team ausgetauscht!\p"
+	.string "Ist das nicht toll?$"
 
 AzaleaTown_Gym_Text_BugsyAdvice:
-	.string "Käfer-Pokémon sind ein weites Gebiet.\p"
-	.string "Es gibt noch viele Geheimnisse\n"
-	.string "zu ergründen. Studiere gründlich!$"
+	.string "Kai: Käfer-Pokémon sind ein weites\n"
+	.string "Feld. Es gibt noch jede Menge zu\l"
+	.string "erforschen.\p"
+	.string "Wenn es für dich auch einen Typ\n"
+	.string "Pokémon gibt, den du besonders gerne\l"
+	.string "magst, solltest du ihn gründlichst\l"
+	.string "studieren!$"
 
 AzaleaTown_Gym_Text_BugsyRematch:
-	.string "Wow, du bist Johto Champion!\p"
+	.string "Wow, du bist Johto-Champion!\p"
 	.string "Du hast außerordentliche Fähigkeiten!\p"
 	.string "Ich war beschäftigt mit Studien.\p"
 	.string "Lass mich dir meine Entdeckungen\n"
@@ -722,7 +725,7 @@ AzaleaTown_Gym_Text_BugsyRematch:
 
 AzaleaTown_Gym_Text_BugsyRematchDefeat:
 	.string "Wow, du bist ein Experte.\n"
-	.string "Meine Studien gehen wohl weiter...$"
+	.string "Meine Studien gehen wohl weiter…$"
 
 AzaleaTown_Gym_Text_BugCatcherBennySeen:
 	.string "Käfer-Pokémon entwickeln sich\n"
@@ -734,7 +737,7 @@ AzaleaTown_Gym_Text_BugCatcherBennyBeaten:
 	.string "wohl nicht genug!$"
 
 AzaleaTown_Gym_Text_BugCatcherBennyAfter:
-	.string "Pokémon werden stärker\n"
+	.string "Pokémon werden stärker,\n"
 	.string "wenn sie sich entwickeln. Wirklich!$"
 
 AzaleaTown_Gym_Text_BugCatcherAlSeen:
@@ -796,7 +799,7 @@ AzaleaTown_Gym_Text_TwinsAmyMay2After:
 	.string "mit Gesteins-Pokémon!$"
 
 AzaleaTown_Gym_Text_GymGuide:
-	.string "Yo, herausforderer!\p"
+	.string "Yo, Herausforderer!\p"
 	.string "Kai ist jung, aber sein Wissen\n"
 	.string "über Käfer-Pokémon ist enorm.\p"
 	.string "Es wird nicht einfach werden,\n"

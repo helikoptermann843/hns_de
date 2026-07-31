@@ -37,6 +37,6 @@ IcePath_B1F_Text_Sign:
 	.string "Achtung Dünnes Eis\n"
 	.string "Benutze Fahrrad\l"
 	.string "Gangschaltung\l"
-	.string "Mit ...\l"
-	.string "Das Schild ist verwischt...$"
+	.string "Mit …\l"
+	.string "Das Schild ist verwischt…$"
 

@@ -71,7 +71,7 @@ EcruteakCity_House2_EventScript_Book3::
 	end
 
 Ecruteak_Text_ItemFinderMan::
-	.string "Teak-City ist eine sehr alte Stadt.\n"
+	.string "Teak City ist eine sehr alte Stadt.\n"
 	.string "Viele Generationen Geschichte\l"
 	.string "stehen in Büchern wie diesem.$"
 

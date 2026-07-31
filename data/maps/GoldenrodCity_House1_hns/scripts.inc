@@ -32,7 +32,7 @@ GoldenrodCity_NameRatersHouse_EventScript_RenameRival::
 	end
 
 GoldenrodCity_NameRatersHouse_Text_RenameRival:
-	.string "Es sind die Nachrichten...\p"
+	.string "Es sind die Nachrichten…\p"
 	.string "Die Polizei sucht diesen\n"
 	.string "rothaarigen Jungen!\p"
 	.string "Kennst du seinen Namen?$"

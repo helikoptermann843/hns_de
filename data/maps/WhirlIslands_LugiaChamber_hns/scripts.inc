@@ -564,15 +564,15 @@ WhirlIslands_LugiaChamber_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 WhirlIslands_LugiaChamber_Text_Zuki_Before::
-	.string "Tamao: Geh nun, zu Lugia. $"
+	.string "Tamao: Geh nun zu Lugia.$"
 WhirlIslands_LugiaChamber_Text_Naoko_Before::
-	.string "Umeko: Geh nun, zu Lugia. $"
+	.string "Umeko: Geh nun zu Lugia.$"
 WhirlIslands_LugiaChamber_Text_Miki_Before::
-	.string "Satsuki: Geh nun, zu Lugia. $"
+	.string "Satsuki: Geh nun zu Lugia.$"
 WhirlIslands_LugiaChamber_Text_Sayo_Before::
-	.string "Sakura: Geh nun, zu Lugia. $"
+	.string "Sakura: Geh nun zu Lugia.$"
 WhirlIslands_LugiaChamber_Text_Kuni_Before::
-	.string "Komono: Geh nun, zu Lugia. $"
+	.string "Komono: Geh nun zu Lugia.$"
 
 WhirlIslands_LugiaChamber_Text_Kimono_Opening::
 	.string "Tamao: Dies ist der Ort, an dem wir\n"

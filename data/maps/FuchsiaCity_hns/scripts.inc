@@ -35,7 +35,7 @@ FuchsiaCity_Text_Baoba:
 	.string "{PLAYER}, du musst in die neue\n"
 	.string "Safari-Zone gehen und ein Pokémon\l"
 	.string "fangen, um es mir zu zeigen.\p"
-	.string "Ich muss über diese 'exotischen'\n"
+	.string "Ich muss über diese “exotischen”\n"
 	.string "Pokémon Bescheid wissen.\p"
 	.string "Bitte {PLAYER}, mein Geschäft hängt\n"
 	.string "von dir ab!$"
@@ -126,8 +126,8 @@ FuchsiaCity_Text_GymSign:
 
 FuchsiaCity_Text_SafariZoneOfficeSign:
 	.string "Hier ist eine Notiz…\p"
-	.string "Safari-Zone Büro bis auf\n"
-	.string "weiteres geschlossen.$"
+	.string "Safari-Zone-Büro bis auf\n"
+	.string "Weiteres geschlossen.$"
 
 FuchsiaCity_Text_SafariZone:
 	.string "Safari-Zone Neuer Eigentümer\n"

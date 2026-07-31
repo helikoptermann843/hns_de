@@ -369,11 +369,11 @@ CableClub_Text_ExplainBattleModes:
 	.string "Jeder Trainer schickt pro Runde\n"
 	.string "ein Pokémon in den Kampf.\p"
 	.string "Doppelkampf ist für zwei Trainer\n"
-	.string "mit je zwei oder mehr Pkmn.\p"
+	.string "mit je zwei oder mehr Pokémon.\p"
 	.string "Jeder Trainer schickt pro Runde\n"
 	.string "zwei Pokémon in den Kampf.\p"
 	.string "Multikämpfe sind für vier Trainer\n"
-	.string "mit je einem oder mehreren Pkmn.\p"
+	.string "mit je einem oder mehreren Pokémon.\p"
 	.string "Jeder Trainer schickt pro Runde\n"
 	.string "ein Pokémon in den Kampf.$"
 

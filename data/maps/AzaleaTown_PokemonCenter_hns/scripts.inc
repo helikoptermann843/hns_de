@@ -33,12 +33,12 @@ AzaleaPokeCenter_EventScript_PokefanF::
 AzaleaPokecenter_Text_Gentleman:
 	.string "Können deine Pokémon VM-Attacken?\p"
 	.string "Diese können benutzt werden,\n"
-	.string "sogar wenn dein Pokémon außer gefecht\l"
+	.string "sogar wenn dein Pokémon außer Gefecht\l"
 	.string "ist.$"
 
 AzaleaPokecenter_Text_UnusedPCExplanation:
 	.string "Dieser Bill hat\n"
-	.string "das Pokémon- Lagerungs-System für PC\n"
+	.string "das Pokémon-Lagerungssystem für PC\n"
 	.string "entwickelt.\p"
 	.string "Auf Bills PC können\n"
 	.string "bis zu 30 Pokémon pro Box gelagert\l"
@@ -50,7 +50,7 @@ AzaleaPokecenter_Text_FishingGuru:
 	.string "30 Pokémon in einer Box zu lagern!$"
 
 AzaleaPokecenter_Text_PokefanF:
-	.string "Weißt du über Beeren bescheid?\p"
+	.string "Weißt du über Beeren Bescheid?\p"
 	.string "Brich eine auf und höhle sie aus\n"
 	.string "und verbinde sie mit einer\l"
 	.string "speziellen Vorrichtung.\p"

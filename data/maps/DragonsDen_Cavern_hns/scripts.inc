@@ -23,7 +23,7 @@ DragonsDen_Text_Clair:
 	.string "{PLAYER}… du bist also hier.\p"
 	.string "Wenn du denkst, dass du mit mir\n"
 	.string "mithalten kannst, komm zum\l"
-	.string "Kampf Dojo in Saffronia-City.$"
+	.string "Kampf-Dojo in Saffronia City.$"
 
 DragonsDen_Cavern_Trigger_ClairLeft::
 	lock
@@ -140,7 +140,7 @@ DragonsDen_Cavern_Text_ClairGiveDragonclaw:
 
 DragonsDen_Cavern_Text_ClairDescribeDragonclaw:
 	.string "Das ist Drachenklaue.\p"
-	.string "Nen, es hat nichts mit meinen\n"
+	.string "Nein, es hat nichts mit meinen\n"
 	.string "Fingernägeln zu tun.\p"
 	.string "Wenn du es nicht willst,\n"
 	.string "musst du es nicht nehmen.$"

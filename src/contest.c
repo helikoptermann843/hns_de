@@ -677,9 +677,9 @@ const struct ContestCategory gContestCategoryInfo[CONTEST_CATEGORIES_COUNT + 1] 
 {
     [CONTEST_CATEGORY_COOL] =
     {
-        .name = COMPOUND_STRING("COOL"),
+        .name = COMPOUND_STRING("Cool"),
         .condition = COMPOUND_STRING("coolness"),
-        .generic = COMPOUND_STRING("COOL Move"),
+        .generic = COMPOUND_STRING("Cool Move"),
         .negativeTrait = COMPOUND_STRING("shyness"),
         .palette = 13,
         .tile = 0x4040,

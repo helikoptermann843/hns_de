@@ -95,7 +95,7 @@ NewBarkTown_Lab_Text_ElmAideIsWaiting:
 	.string "{PLAYER}!\p"
 	.string "Was machst du hier?\p"
 	.string "Mein Assistent wartet noch auf dich\n"
-	.string "In Viola City!$"
+	.string "in Viola City!$"
 
 NewBarkTown_Lab_EventScript_ElmIntro::
 	msgbox NewBarkTown_Lab_Text_ElmIntro, MSGBOX_YESNO
@@ -739,7 +739,7 @@ NewBarkTown_Lab_Text_Nickname:
 
 NewBarkTown_Lab_Text_ElmDirections1:
 	.string "Mr. Pokémon wohnt etwas\n"
-	.string "hinter Rosalia,\l"
+	.string "hinter Rosalia City,\l"
 	.string "der nächsten Stadt.\p"
 	.string "Du kannst es kaum verfehlen.\n"
 	.string "Aber sicher ist sicher.\p"
@@ -771,7 +771,7 @@ NewBarkTown_Lab_Text_ElmDescribesMrPokemon:
 
 NewBarkTown_Lab_Text_ElmPokeBall:
 	.string "Enthält ein Pokémon, das\n"
-	.string "Prof.Lind gefangen hat.$"
+	.string "Prof. Lind gefangen hat.$"
 
 @THEFT================================================================================
 
@@ -784,16 +784,16 @@ NewBarkTown_Lab_Text_ElmAfterTheft1:
 
 NewBarkTown_Lab_Text_ElmAfterTheft2:
 	.string "{PLAYER} übergab das Rätsel-Ei\n"
-	.string "an Prof.Lind.$"
+	.string "an Prof. Lind.$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft3:
-	.string "Lind: Hmm... das?$"
+	.string "Lind: Hmm… das?$"
 
 NewBarkTown_Lab_Text_ElmAfterTheft4:
 	.string "Aber… Ist es ein Pokémon-Ei?\p"
 	.string "Wenn ja, ist es eine große Entdeckung!\p"
 	.string "Lind: Was?!?\p"
-	.string "Prof.Eich gab dir einen Pokédex?\p"
+	.string "Prof. Eich gab dir einen Pokédex?\p"
 	.string "{PLAYER}, stimmt das?\n"
 	.string "Unglaublich!\p"
 	.string "Er erkennt das Potential von\n"
@@ -903,7 +903,7 @@ NewBarkTown_Lab_Text_KimonoGirls:
 	.string "Schluss durchhältst!$"
 
 NewBarkTown_Lab_Text_KimonoWaiting:
-	.string "Prof. Lind: Die Kimono Mädchen\n"
+	.string "Prof. Lind: Die Kimono-Girls\n"
 	.string "warten im Teak-City Tanztheater.$"
 
 NewBarkTown_Lab_Text_League:
@@ -950,7 +950,7 @@ NewBarkTown_Lab_Text_ElmGiveTicket2:
 
 NewBarkTown_Lab_Text_LabMonEgg:
 	.string "Es ist das Pokémon-Ei, das\n"
-	.string "von Prof.Lind erforscht wird.$"
+	.string "von Prof. Lind erforscht wird.$"
 
 NewBarkTown_Lab_Text_AideGivePotion:
 	.string "{PLAYER}, nimm das für\n"
@@ -961,7 +961,7 @@ NewBarkTown_Lab_Text_AideAlwaysBusy:
 	.string "haben wir immer viel zu tun.$"
 
 NewBarkTown_Lab_Text_AideSave:
-	.string "Vergiss nicht regelmäßig zu\n"
+	.string "Vergiss nicht, regelmäßig zu\n"
 	.string "speichern!\p"
 	.string "Drücke Start und dann\n"
 	.string "Sichern!$"
@@ -991,7 +991,7 @@ NewBarkTown_Lab_Text_AideExplainBalls:
 NewBarkTown_Lab_Text_Officer1:
 	.string "Ich hörte, hier wurde ein\n"
 	.string "Pokémon gestohlen…\p"
-	.string "Ich wollte Infos von Prof.Lind.\p"
+	.string "Ich wollte Infos von Prof. Lind.\p"
 	.string "Offenbar war es ein junger\n"
 	.string "Mann mit langen, roten Haaren…\p"
 	.string "Was?\p"
@@ -1011,7 +1011,7 @@ NewBarkTown_Lab_Text_OfficerNo:
 
 NewBarkTown_Lab_Text_Elm_CallMe:
 	.string "Ah, {PLAYER}!\p"
-	.string "Wie läufts mit dem Pokédex?\p"
+	.string "Wie läuft’s mit dem Pokédex?\p"
 	.string "Ich bin gerade beschäftigt, aber\n"
 	.string "ruf mich mal an, dann kann ich\l"
 	.string "deinen Fortschritt prüfen!$"

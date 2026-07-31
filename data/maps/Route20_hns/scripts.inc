@@ -117,7 +117,7 @@ Route20_Text_NicoleRematchIntro:
 	.string "Pokémon stärker geworden! Los!$"
 
 Route20_Text_NicoleRematchDefeat:
-	.string "Schon wieder weggespült...$"
+	.string "Schon wieder weggespült…$"
 
 Route20_Text_NicolePostRematch:
 	.string "Ob Sieg oder Niederlage, meine\n"

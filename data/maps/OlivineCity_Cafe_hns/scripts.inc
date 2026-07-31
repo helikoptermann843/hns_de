@@ -58,7 +58,7 @@ OlivineCity_Text_CafeSailorStrength:
 	.string "Hah! Deine Pokémon sehen echt\n"
 	.string "schwächlich aus!\p"
 	.string "Sie haben nicht die Kraft,\n"
-	.string "Felsen wegzustossen.\p"
+	.string "Felsen wegzustoßen.\p"
 	.string "Hier, nimm das und lehre sie\n"
 	.string "Stärke!$"
 
@@ -69,7 +69,7 @@ OlivineCity_Text_CafeSailorGotStrength:
 	.string "Ich bin so stolz auf mich selbst!$"
 
 OlivineCity_Text_CafeFishingGuru:
-	.string "Im Oliviana Cafe gibt es nur\n"
+	.string "Im Oliviana City Cafe gibt es nur\n"
 	.string "delikate Seemannskost für Matrosen\l"
 	.string "auf dem Speiseplan!$"
 

@@ -2040,7 +2040,7 @@ u8 CreateNPCTrainerPartyFromTrainer(struct Pokemon *party, const struct Trainer 
                 personalityValue = 0x88; // Use personality more likely to result in a male Pokémon
 
             personalityValue += personalityHash << 8;
-            if (trainer->trainerName == COMPOUND_STRING("SABRINA") && partyData[monIndex].species == SPECIES_MR_MIME)
+            if (trainer->trainerName == COMPOUND_STRING("Sabrina") && partyData[monIndex].species == SPECIES_MR_MIME)
                 personalityValue = (personalityValue & 0xFFFFFF00) | GeneratePersonalityForGender(MON_FEMALE, partyData[monIndex].species);
             else if (partyData[monIndex].gender == TRAINER_MON_MALE)
                 personalityValue = (personalityValue & 0xFFFFFF00) | GeneratePersonalityForGender(MON_MALE, partyData[monIndex].species);

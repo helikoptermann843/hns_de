@@ -126,8 +126,8 @@ static const u32 sPokeball_Gfx[] = INCBIN_U32("graphics/pokenav/match_call/pokeb
 
 static const u8 gText_NumberRegistered[] = _("Registriert");
 static const u8 gText_NumberOfBattles[] = _("Kämpfe");
-static const u8 gText_TrainerCloseBy[] = _("Dieser TRAINER ist zu nah.\nRede mit ihm in Person!");
-static const u8 gText_Unknown[] = _("UNBEKANNT");
+static const u8 gText_TrainerCloseBy[] = _("Dieser Trainer ist zu nah.\nRede mit ihm in Person!");
+static const u8 gText_Unknown[] = _("Unbekannt");
 
 static const struct BgTemplate sMatchCallBgTemplates[3] =
 {
@@ -204,9 +204,9 @@ static const struct WindowTemplate sMatchCallInfoBoxWindowTemplate =
 
 static const u8 *const sMatchCallOptionTexts[MATCH_CALL_OPTION_COUNT] =
 {
-    [MATCH_CALL_OPTION_CALL]   = COMPOUND_STRING("ANRUFEN"),
-    [MATCH_CALL_OPTION_CHECK]  = COMPOUND_STRING("PRÜFEN"),
-    [MATCH_CALL_OPTION_CANCEL] = COMPOUND_STRING("ABBRECHEN")
+    [MATCH_CALL_OPTION_CALL]   = COMPOUND_STRING("Anrufen"),
+    [MATCH_CALL_OPTION_CHECK]  = COMPOUND_STRING("Prüfen"),
+    [MATCH_CALL_OPTION_CANCEL] = COMPOUND_STRING("Abbrechen")
 };
 
 // The series of 5 dots that appear when someone is called with Match Call

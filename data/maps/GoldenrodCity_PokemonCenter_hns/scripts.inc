@@ -201,7 +201,7 @@ GoldenrodCity_PokemonCenter_GameboyKidText1:
 	.string "Leider wurde mein Freund gebannt.$"
 
 GoldenrodCity_PokemonCenter_GameboyKidText2:
-	.string "Die haben garkeine Beweise,\n"
+	.string "Die haben gar keine Beweise.\n"
 	.string "Trotzdem wird der Bann\l"
 	.string "nicht aufgehoben.$"
 

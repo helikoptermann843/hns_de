@@ -288,14 +288,14 @@ GoldenrodCity_EventScript_Beauty::
 	end
 
 GoldenrodCity_Text_Beauty:
-	.string "Das ist die Dukatia Arena!\p"
+	.string "Das ist die Dukatia City Arena!\p"
 	.string "Unsere Leiterin Bianka ist gerade\n"
 	.string "nicht da. Sie könnte im Radioturm\l"
 	.string "sein.$"
 
 GoldenrodCity_Text_Woman:
 	.string "Ich habe früher in Biankas Arena\n"
-	.string "trainiert, aber ihr ständiges weinen\l"
+	.string "trainiert, aber ihr ständiges Weinen\l"
 	.string "macht mir Kopfschmerzen.$"
 
 GoldenrodCity_Text_HikerDay:
@@ -355,7 +355,7 @@ GoldenrodCity_Text_CooltrainerF2:
 	.string "verwendet werden kann.$"
 
 GoldenrodCity_Text_CooltrainerF2_GotCard:
-	.string "Oh, dein PokémonCom ist auch ein\n"
+	.string "Oh, dein PokéCom ist auch ein\n"
 	.string "Radio!$"
 
 GoldenrodCity_Text_Youngster2:

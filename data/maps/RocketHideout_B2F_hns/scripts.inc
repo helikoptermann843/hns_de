@@ -647,19 +647,19 @@ RocketHideout_B2F_Text_LanceElectrodeDone:
 	.string "nicht gebrauchen.$"
 
 RocketHideout_B2F_Text_LanceWhirlpool:
-	.string "Das ist Whirpool.\n"
+	.string "Das ist Whirlpool.\n"
 	.string "Lehre es einem Pokémon, um\l"
 	.string "über wildes Wasser zu kommen.\p"
 	.string "Aber merke dir: Außerhalb des Kampfes\p"
-	.string "kannst du es nur mit dem\n"
-	.string "dem Orden der Mahagonia\l"
-	.string "Arena nutzen.$"
+	.string "kannst du es nur mit dem Orden\n"
+	.string "der Arena von Mahagonia City\l"
+	.string "nutzen.$"
 
 RocketHideout_B2F_Text_LanceMonMaster:
 	.string "{PLAYER}…\p"
 	.string "Der Weg zum Pokémon-Meister\n"
 	.string "ist lang und schwer.\p"
-	.string "Weißt du das.., wirst du weitergehen?\n"
+	.string "Weißt du das… wirst du weitergehen?\n"
 	.string "…\p"
 	.string "Ich verstehe. Nein, du hast recht.\p"
 	.string "Wenn du so leicht aufgegeben hättest,\n"

@@ -137,7 +137,7 @@ Route39_Text_ChooseLegend::
 	.string "Baoba: Grundgütiger! Gehört\n"
 	.string "dieser Schatten zu einem Pokémon?\p"
 	.string "Hast du es sehen können?\n"
-	.string "Ich konnte die Farbe nicht erkennen...$"
+	.string "Ich konnte die Farbe nicht erkennen…$"
 
 Route39_Text_BaobaIntro::
 	.string "Baoba: …Sehe ich richtig?\n"
@@ -164,12 +164,12 @@ Route39_Text_BaobaIntro::
 
 Route39_Text_Registered:
 	.string "{PLAYER} hat Baobas Nummer\n"
-	.string "im Pokécom registriert!$"
+	.string "im PokéCom registriert!$"
 
 
 Route39_Text_WillCall:
 	.string "Baoba: Ich gebe dir demnächst\n"
-	.string "auf dem Pokécom bescheid!$"
+	.string "auf dem PokéCom Bescheid!$"
 
 Route39_Movement_BaobaLeave:
 	walk_left
@@ -219,7 +219,7 @@ Route39_EventScript_Woman::
 	end
 
 Route39_Text_Woman:
-	.string "Dieser Schatten... war das ein\n"
+	.string "Dieser Schatten… war das ein\n"
 	.string "riesiges Taubsi?$"
 
 Route39_EventScript_Miltank::

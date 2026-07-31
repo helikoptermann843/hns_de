@@ -55,8 +55,8 @@ CeladonMansion2F_EventScript_DaniRainbow::
     end
 
 CeladonMansion2F_Text_LilDill:
-	.string "Hallo zusammen, Patch 15--\p"
-	.string "Entschuldigung, ich meine...\p"
+	.string "Hallo zusammen, Patch 15…\p"
+	.string "Entschuldigung, ich meine…\p"
 	.string "Hallo, ich bin der Spiel-Direktor!\p"
 	.string "Ich habe die Karten, Tilesets, Skripte\n"
 	.string "und vieles mehr erstellt.\p"
@@ -73,7 +73,7 @@ CeladonMansion2F_Text_InfiniteBacon:
 
 CeladonMansion2F_Text_TixoRebel:
 	.string "Hast du schon von dem Eierbug gehört?\n"
-	.string "Es war ein Käfer aus dem Playtest,\l"
+	.string "Es war ein Fehler aus dem Playtest,\l"
 	.string "der Pokémon zufällig in Eier\n"
 	.string "verwandelte!\l"
 	.string "Ich habe die Lösung dafür entwickelt!$"

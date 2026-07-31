@@ -80,8 +80,9 @@ EcruteakCity_Gym_Text_GymStatue:
 	.string "Pokémon-Arena von Teak City$"
 
 EcruteakCity_Gym_Text_GymStatueCertified:
-	.string "Teak City Pokémon Arena\p"
-	.string "Jens' zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Teak City\p"
+	.string "Leiter: Jens\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 MortyIntroText:
@@ -95,7 +96,7 @@ MortyIntroText:
 	.string "trainierte hier im Verborgenen.\p"
 	.string "Nun kann ich Dinge sehen,\n"
 	.string "die anderen verborgen bleiben.\p"
-	.string "Nur noch ein kleines Stück...\p"
+	.string "Nur noch ein kleines Stück…\p"
 	.string "Mit etwas mehr könnte ich die\n"
 	.string "Zukunft sehen, in der ich dem\l"
 	.string "Regenbogen-Pokémon begegne.\p"
@@ -103,18 +104,19 @@ MortyIntroText:
 	.string "dieses Ziel zu erreichen!$"
 
 MortyWinLossText:
-	.string "Ich bin noch nicht gut genug...\p"
+	.string "Ich bin noch nicht gut genug…\p"
 	.string "In Ordnung.\n"
 	.string "Dieser Orden gehört dir.$"
 
 Text_ReceivedFogBadge:
-	.string "{PLAYER} erhielt den Phantomorden.$"
+	.string "{PLAYER} erhält den Phantomorden!$"
 
 MortyText_FogBadgeSpeech:
 	.string "Mit dem Phantomorden gehorchen dir\n"
 	.string "Pokémon bis Level 50.\p"
-	.string "Außerdem können Pokémon mit\n"
-	.string "Surfer es jederzeit einsetzen.\p"
+	.string "Außerdem können Pokémon, die\n"
+	.string "Surfer beherrschen, es jederzeit\l"
+	.string "einsetzen.\p"
 	.string "Nimm auch das hier.$"
 
 MortyText_ShadowBallSpeech:
@@ -124,12 +126,12 @@ MortyText_ShadowBallSpeech:
 	.string "Nutze sie, wenn sie dir nützt.$"
 
 MortyFightDoneText:
-	.string "Ich verstehe...\p"
+	.string "Ich verstehe…\p"
 	.string "Deine Reise führte dich an\n"
 	.string "ferne Orte.\p"
 	.string "Du hast mehr gesehen,\n"
 	.string "als ich je erleben werde.\p"
-	.string "Darum beneide ich dich...$"
+	.string "Darum beneide ich dich…$"
 
 MortyRematchText:
 	.string "Ah, der Champion von Johto!\n"
@@ -144,10 +146,10 @@ MortyRematchText:
 	.string "Willst du eine Revanche?$"
 
 Morty_RematchDefeatText:
-	.string "Ich bin noch nicht gut genug...\p"
+	.string "Ich bin noch nicht gut genug…\p"
 	.string "Du hast mehr gesehen,\n"
 	.string "als ich je erleben werde.\p"
-	.string "Darum beneide ich dich...$"
+	.string "Darum beneide ich dich…$"
 
 SageJeffreySeenText:
 	.string "Ich habe den Frühling mit meinen\n"
@@ -157,7 +159,7 @@ SageJeffreySeenText:
 	.string "viel miteinander durchgemacht.$"
 
 SageJeffreyBeatenText:
-	.string "Siege und Niederlagen...\n"
+	.string "Siege und Niederlagen…\n"
 	.string "Ich kenne beides.$"
 
 SageJeffreyAfterBattleText:
@@ -208,7 +210,7 @@ EcruteakCity_GymGuideText:
 	.string "Geist-Pokémon, doch hüte dich\l"
 	.string "vor seinem mystischen Hirsch.\p"
 	.string "Man sagt, er verursacht\n"
-	.string "schreckliche Albträume...$"
+	.string "schreckliche Albträume…$"
 
 EcruteakCity_GymGuideWinText:
 	.string "Wow, {PLAYER}!\n"

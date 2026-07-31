@@ -197,8 +197,8 @@ Route43_Sign2:
     .string "See des Zorns - Mahagonia$"
 
 Route43_TrainerTips:
-    .string "Trainer Tipps\p"
-    .string "Alle Pokémon haben vor-\n"
+    .string "Tipps für Trainer\p"
+    .string "Alle Pokémon haben Vor-\n"
     .string "und Nachteile, je nach Typ.\p"
     .string "Haben sie unterschiedliche Typen,\n"
     .string "kann auch ein schwächeres gewinnen.$"

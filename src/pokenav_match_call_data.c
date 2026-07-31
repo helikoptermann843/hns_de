@@ -189,7 +189,7 @@ static const struct MatchCallStructNPC sMrStoneMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_CHERRYGROVE_CITY,
     .flag = FLAG_ENABLE_NORMAN_MATCH_CALL,
-    .desc = COMPOUND_STRING("DEVON PRES"),
+    .desc = COMPOUND_STRING("Devon Pres"),
     .name = COMPOUND_STRING("MR. STONE"),
     .textData = sMrStoneTextScripts
 };
@@ -213,7 +213,7 @@ static const struct MatchCallStructTrainer sNormanMatchCallHeader =
     .mapSec = MAPSEC_SAFARI_ZONE_GATE,
     .flag = FLAG_ENABLE_NORMAN_MATCH_CALL,
     .rematchTableIdx = REMATCH_NORMAN,
-    .desc = COMPOUND_STRING("RELIABLE ONE"),
+    .desc = COMPOUND_STRING("Reliable One"),
     .name = COMPOUND_STRING("DAD"),
     .textData = sNormanTextScripts
 };
@@ -239,7 +239,7 @@ static const struct MatchCallStructNPC sMomMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_NEW_BARK_TOWN,
     .flag = ALWAYS_AVAILABLE,
-    .desc = COMPOUND_STRING("CALM & KIND"),
+    .desc = COMPOUND_STRING("Ruhig&Nett"),
     .name = COMPOUND_STRING("Mama"),
     .textData = sMomTextScripts
 };
@@ -257,7 +257,7 @@ static const struct MatchCallStructNPC sBaobaMatchCallHeader =
     .mapSec = MAPSEC_SAFARI_ZONE_GATE,
     .flag = FLAG_ENABLE_BAOBA_MATCH_CALL,
     .desc = COMPOUND_STRING("SAFARI WARDEN"),
-    .name = COMPOUND_STRING("BAOBA"),
+    .name = COMPOUND_STRING("Baoba"),
     .textData = sBaobaTextScripts
 };
 
@@ -277,7 +277,7 @@ static const struct MatchCallStructNPC sStevenMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_REGISTERED_STEVEN_POKENAV,
-    .desc = COMPOUND_STRING("HARD AS ROCK"),
+    .desc = COMPOUND_STRING("Steinhart"),
     .name = COMPOUND_STRING("STEVEN"),
     .textData = sStevenTextScripts
 };
@@ -366,7 +366,7 @@ static const struct MatchCallWally sWallyMatchCallHeader =
     .mapSec = 0,
     .flag = FLAG_ENABLE_WALLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_WALLY_VR,
-    .desc = COMPOUND_STRING("{PKMN} LOVER"),
+    .desc = COMPOUND_STRING("{PKMN} Lover"),
     .textData = sWallyTextScripts,
     .locationData = sWallyLocationData
 };
@@ -387,8 +387,8 @@ static const struct MatchCallStructNPC sScottMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_ENABLE_SCOTT_MATCH_CALL,
-    .desc = COMPOUND_STRING("ELUSIVE EYES"),
-    .name = COMPOUND_STRING("SCOTT"),
+    .desc = COMPOUND_STRING("Elusive Eyes"),
+    .name = COMPOUND_STRING("Scott"),
     .textData = sScottTextScripts
 };
 
@@ -425,7 +425,7 @@ static const struct MatchCallStructTrainer sBrawlyMatchCallHeader =
     .mapSec = MAPSEC_AZALEA_TOWN,
     .flag = FLAG_ENABLE_BRAWLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_BRAWLY,
-    .desc = COMPOUND_STRING("THE BIG HIT"),
+    .desc = COMPOUND_STRING("Der Megahit"),
     .name = NULL,
     .textData = sBrawlyTextScripts
 };
@@ -501,7 +501,7 @@ static const struct MatchCallStructTrainer sTateLizaMatchCallHeader =
     .mapSec = MAPSEC_MOSSDEEP_CITY,
     .flag = FLAG_ENABLE_TATE_AND_LIZA_MATCH_CALL,
     .rematchTableIdx = REMATCH_TATE_AND_LIZA,
-    .desc = COMPOUND_STRING("MYSTIC DUO"),
+    .desc = COMPOUND_STRING("Mysto Duo"),
     .name = NULL,
     .textData = sTateLizaTextScripts
 };
@@ -654,7 +654,7 @@ static const struct MatchCallStructNPC sMrStoneMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_RUSTBORO_CITY,
     .flag = 0xFFFF,
-    .desc = COMPOUND_STRING("DEVON PRES"),
+    .desc = COMPOUND_STRING("Devon Pres"),
     .name = COMPOUND_STRING("MR. STONE"),
     .textData = sMrStoneTextScripts
 };
@@ -678,7 +678,7 @@ static const struct MatchCallStructTrainer sNormanMatchCallHeader =
     .mapSec = MAPSEC_PETALBURG_CITY,
     .flag = FLAG_ENABLE_NORMAN_MATCH_CALL,
     .rematchTableIdx = REMATCH_NORMAN,
-    .desc = COMPOUND_STRING("RELIABLE ONE"),
+    .desc = COMPOUND_STRING("Reliable One"),
     .name = COMPOUND_STRING("DAD"),
     .textData = sNormanTextScripts
 };
@@ -704,7 +704,7 @@ static const struct MatchCallStructNPC sMomMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_LITTLEROOT_TOWN,
     .flag = FLAG_ENABLE_MOM_MATCH_CALL,
-    .desc = COMPOUND_STRING("CALM & KIND"),
+    .desc = COMPOUND_STRING("Ruhig&Nett"),
     .name = COMPOUND_STRING("Mutti"),
     .textData = sMomTextScripts
 };
@@ -725,7 +725,7 @@ static const struct MatchCallStructNPC sStevenMatchCallHeader =
     .type = MC_TYPE_NPC,
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_REGISTERED_STEVEN_POKENAV,
-    .desc = COMPOUND_STRING("HARD AS ROCK"),
+    .desc = COMPOUND_STRING("Steinhart"),
     .name = COMPOUND_STRING("STEVEN"),
     .textData = sStevenTextScripts
 };
@@ -814,7 +814,7 @@ static const struct MatchCallWally sWallyMatchCallHeader =
     .mapSec = 0,
     .flag = FLAG_ENABLE_WALLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_WALLY_VR,
-    .desc = COMPOUND_STRING("{PKMN} LOVER"),
+    .desc = COMPOUND_STRING("{PKMN} Lover"),
     .textData = sWallyTextScripts,
     .locationData = sWallyLocationData
 };
@@ -835,8 +835,8 @@ static const struct MatchCallStructNPC sScottMatchCallHeader =
     .type = 0,
     .mapSec = MAPSEC_NONE,
     .flag = FLAG_ENABLE_SCOTT_MATCH_CALL,
-    .desc = COMPOUND_STRING("ELUSIVE EYES"),
-    .name = COMPOUND_STRING("SCOTT"),
+    .desc = COMPOUND_STRING("Elusive Eyes"),
+    .name = COMPOUND_STRING("Scott"),
     .textData = sScottTextScripts
 };
 
@@ -873,7 +873,7 @@ static const struct MatchCallStructTrainer sBrawlyMatchCallHeader =
     .mapSec = MAPSEC_DEWFORD_TOWN,
     .flag = FLAG_ENABLE_BRAWLY_MATCH_CALL,
     .rematchTableIdx = REMATCH_BRAWLY,
-    .desc = COMPOUND_STRING("THE BIG HIT"),
+    .desc = COMPOUND_STRING("Der Megahit"),
     .name = NULL,
     .textData = sBrawlyTextScripts
 };
@@ -949,7 +949,7 @@ static const struct MatchCallStructTrainer sTateLizaMatchCallHeader =
     .mapSec = MAPSEC_MOSSDEEP_CITY,
     .flag = FLAG_ENABLE_TATE_AND_LIZA_MATCH_CALL,
     .rematchTableIdx = REMATCH_TATE_AND_LIZA,
-    .desc = COMPOUND_STRING("MYSTIC DUO"),
+    .desc = COMPOUND_STRING("Mysto Duo"),
     .name = NULL,
     .textData = sTateLizaTextScripts
 };

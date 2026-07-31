@@ -322,19 +322,19 @@ static const u8 *const sHnSMapPageDescriptionJohtoKanto = COMPOUND_STRING("Erfor
 static const u8 *const sPageDescriptions[] =
 {
     [POKENAV_MENUITEM_MAP]                     = COMPOUND_STRING("Erforsche die Karte von HOENN"),
-    [POKENAV_MENUITEM_CONDITION]               = COMPOUND_STRING("Untersuche POKéMON im Detail."),
+    [POKENAV_MENUITEM_CONDITION]               = COMPOUND_STRING("Untersuche Pokémon im Detail."),
     [POKENAV_MENUITEM_MATCH_CALL]              = COMPOUND_STRING("Anrufe an Trainer."),
     [POKENAV_MENUITEM_RIBBONS]                 = COMPOUND_STRING("Siehe deine Auszeichnungen."),
 #if IS_HNS
     [POKENAV_MENUITEM_RADIO]                   = COMPOUND_STRING("Höre Radio."),
-    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéCOM weglegen."),
+    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("PokéCom weglegen."),
     [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum POKéNAV Menü."),
 #else
-    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("POKéCOM weglegen."),
-    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum POKéCOM Menü."),
+    [POKENAV_MENUITEM_SWITCH_OFF]              = COMPOUND_STRING("PokéCom weglegen."),
+    [POKENAV_MENUITEM_CONDITION_CANCEL]        = COMPOUND_STRING("Zurück zum PokéCom Menü."),
 #endif
-    [POKENAV_MENUITEM_CONDITION_PARTY]         = COMPOUND_STRING("Untersuche POKéMON im Detail."),
-    [POKENAV_MENUITEM_CONDITION_SEARCH]        = COMPOUND_STRING("Untersuche alle POKéMON im detail."),
+    [POKENAV_MENUITEM_CONDITION_PARTY]         = COMPOUND_STRING("Untersuche Pokémon im Detail."),
+    [POKENAV_MENUITEM_CONDITION_SEARCH]        = COMPOUND_STRING("Untersuche alle Pokémon im detail."),
     [POKENAV_MENUITEM_CONDITION_SEARCH_COOL]   = COMPOUND_STRING("Finde coole POKéMON."),
     [POKENAV_MENUITEM_CONDITION_SEARCH_BEAUTY] = COMPOUND_STRING("Finde schöne POKéMON."),
     [POKENAV_MENUITEM_CONDITION_SEARCH_CUTE]   = COMPOUND_STRING("Finde süße POKéMON."),

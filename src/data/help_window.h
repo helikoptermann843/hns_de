@@ -16,7 +16,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TRADE_WINDOW] =
     {
-        .header = COMPOUND_STRING("WARNUNG: KOMPATIBILITÄT"),
+        .header = COMPOUND_STRING("Warnung: Kompatibilität"),
         .desc = COMPOUND_STRING("Einen Link mit einem Spiel\n"
                                 "herzustellen, welches nicht\n"
 								"Heart & Soul ist, kann\n"

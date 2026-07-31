@@ -46,10 +46,10 @@ PokefanM_Text_RexBeaten:
 	.string "Mein Damhirplex!$"
 
 PokefanM_Text_RexAfter:
-	.string "Sieh nur wie süß mein\n"
+	.string "Sieh nur, wie süß mein\n"
 	.string "Damhirplex sich verhält!\p"
 	.string "Mein Herz\n"
-	.string "schmilzt dahin?$"
+	.string "schmilzt dahin!$"
 
 PokefanM_Text_AllanSeen:
 	.string "Mein Granbull ist\n"
@@ -59,8 +59,8 @@ PokefanM_Text_AllanBeaten:
 	.string "Mein Granbull!$"
 
 PokefanM_Text_AllanAfter:
-	.string "Sieh nur wie süß mein\n"
+	.string "Sieh nur, wie süß mein\n"
 	.string "Granbull sich verhält!\p"
 	.string "Mein Herz\n"
-	.string "schmilzt dahin?$"
+	.string "schmilzt dahin!$"
 

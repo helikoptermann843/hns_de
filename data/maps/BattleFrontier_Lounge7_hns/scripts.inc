@@ -589,10 +589,10 @@ BattleFrontier_Lounge7_Text_ElementalTutorIntro::
 	.string "Was, wie, was?\p"
 	.string "Oh, entschuldige, ich habe\n"
 	.string "kurz gedöst.\p"
-	.string "Ich bin der Elementar-meister.\p"
+	.string "Ich bin der Elementarmeister.\p"
 	.string "Ich lehre den mächtigsten\n"
 	.string "Pflanzen-, Feuer- und\l"
-	.string "Wasser-pokémon starke Attacken.\p"
+	.string "Wasser-Pokémon starke Attacken.\p"
 	.string "Willst du diese große Kraft\n"
 	.string "erlernen?$"
 

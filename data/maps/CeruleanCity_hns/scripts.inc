@@ -29,7 +29,7 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "leben hier.\p"
     .string "Es braucht einen wirklich\n"
     .string "unglaublichen Trainer,\l"
-    .string "um einlass zu erhalten.\p"
+    .string "um Einlass zu erhalten.\p"
     .string "Werde zuerst Kanto Pokémon-\n"
     .string "Liga Champion.\p"
     .string "Und du müsstest eine große\n"

@@ -2226,7 +2226,7 @@ MatchCall_Text_Mom1::
 MatchCall_Text_Mom2::
 	.string "Mutter: Hallo {PLAYER}!\n"
 	.string "Dein Vater hat sich in der Arena\l"
-	.string "von Blütenburg verkrochen.\p"
+	.string "von Blütenburg City verkrochen.\p"
 	.string "Er kommt zwar oft nach Hause, aber\n"
 	.string "kaum ist er da, geht er auch schon\l"
 	.string "wieder zurück in seine Arena.\p"
@@ -2274,11 +2274,11 @@ MatchCall_Text_Roxanne3::
 	.string "Felizia: {PLAYER}!\n"
 	.string "Meine Arena ist fertig!\p"
 	.string "Du musst mich unbedingt in\n"
-	.string "Metarost besuchen!$"
+	.string "Metarost City besuchen!$"
 
 MatchCall_Text_Roxanne4::
 	.string "Felizia: Dass wir in der Arena von\n"
-	.string "Metarost gekämpft haben, {PLAYER},\l"
+	.string "Metarost City gekämpft haben, {PLAYER},\l"
 	.string "erfüllt mich mit Stolz.$"
 
 MatchCall_Text_Brawly1::
@@ -2340,7 +2340,7 @@ MatchCall_Text_Wattson3::
 	.string "Walter: Ach, du bist es wieder!\n"
 	.string "Meine Arena ist fertig!\p"
 	.string "Du kannst mich jederzeit in\n"
-	.string "Malvenfroh besuchen. Wahahahaha!$"
+	.string "Malvenfroh City besuchen. Wahahahaha!$"
 
 MatchCall_Text_Wattson4::
 	.string "Walter: Wahahaha!\p"
@@ -2390,7 +2390,7 @@ MatchCall_Text_Winona1::
 MatchCall_Text_Winona2::
 	.string "Wibke: Du hast es geschafft,\n"
 	.string "{PLAYER}!\p"
-	.string "Hier in Baumhausen haben wir schon\n"
+	.string "Hier in Baumhausen City haben wir schon\n"
 	.string "von dem neuen Champ gehört!\p"
 	.string "Aber… Wenn wir demnächst wieder\n"
 	.string "kämpfen, werde ich siegen!$"
@@ -2399,7 +2399,7 @@ MatchCall_Text_Winona3::
 	.string "Wibke: {PLAYER}?\n"
 	.string "Die Arena ist wieder geöffnet.\p"
 	.string "Wir warten auf dich hier in\n"
-	.string "Baumhausen.$"
+	.string "Baumhausen City.$"
 
 MatchCall_Text_Winona4::
 	.string "Wibke: {PLAYER}…\n"
@@ -2437,7 +2437,7 @@ MatchCall_Text_TateLiza3::
 	.string "Ben: Unsere Arena ist fertig!\n"
 	.string "Svenja: Unsere Arena ist offen!\p"
 	.string "Ben: Komm uns besuchen…\n"
-	.string "Svenja: In Moosbach. Jederzeit!$"
+	.string "Svenja: In Moosbach City. Jederzeit!$"
 
 MatchCall_Text_TateLiza4::
 	.string "Ben: {PLAYER}, unser Kampf ist…\n"
@@ -2576,10 +2576,10 @@ MatchCall_Text_May1::
 MatchCall_Text_May2::
 	.string "Maike: Hi {PLAYER}{KUN}!\p"
 	.string "Wusstest du, dass auch die\n"
-	.string "kleineren Orte wie Blütenburg und\l"
+	.string "kleineren Orte wie Blütenburg City und\l"
 	.string "Faustauhaven Arenen haben?\p"
 	.string "Und die riesige Hafenstadt\n"
-	.string "Graphitport hat keine Arena.\p"
+	.string "Graphitport City hat keine Arena.\p"
 	.string "Wenn sie dort doch eines Tages\n"
 	.string "eine Arena bauen, werde ich mich\l"
 	.string "als Arenaleiterin bewerben…$"
@@ -2587,10 +2587,10 @@ MatchCall_Text_May2::
 MatchCall_Text_May3::
 	.string "Maike: Hi {PLAYER}{KUN}!\p"
 	.string "Erinnerst du dich an einen Mann\n"
-	.string "namens Zerschneider in Metarost?\l"
+	.string "namens Zerschneider in Metarost City?\l"
 	.string "Er hatte sein Haus dort.\p"
 	.string "Ich habe herausgefunden, dass\n"
-	.string "sein jüngerer Bruder in Malvenfroh\l"
+	.string "sein jüngerer Bruder in Malvenfroh City\l"
 	.string "lebt.\p"
 	.string "Rate mal, wie der heißt!\p"
 	.string "… … … … …\n"
@@ -2602,7 +2602,7 @@ MatchCall_Text_May3::
 MatchCall_Text_May4::
 	.string "Maike: {PLAYER}{KUN}?\p"
 	.string "Metaflurtunnel…\n"
-	.string "Der heißt so, weil er Metarost und\l"
+	.string "Der heißt so, weil er Metarost City und\l"
 	.string "Wiesenflur verbindet.$"
 
 MatchCall_Text_May5::
@@ -2716,10 +2716,10 @@ MatchCall_Text_Brendan1::
 MatchCall_Text_Brendan2::
 	.string "Brix: Hey {PLAYER}!\p"
 	.string "Wusstest du, dass auch die\n"
-	.string "kleineren Orte wie Blütenburg und\l"
+	.string "kleineren Orte wie Blütenburg City und\l"
 	.string "Faustauhaven Arenen haben?\p"
 	.string "Und die riesige Hafenstadt\n"
-	.string "Graphitport hat keine Arena.\p"
+	.string "Graphitport City hat keine Arena.\p"
 	.string "Wenn sie dort doch eines Tages\n"
 	.string "eine Arena bauen, werde ich mich\l"
 	.string "als Arenaleiter bewerben…$"
@@ -2727,10 +2727,10 @@ MatchCall_Text_Brendan2::
 MatchCall_Text_Brendan3::
 	.string "Brix: Hey {PLAYER}!\p"
 	.string "Erinnerst du dich an einen Mann\n"
-	.string "namens Zerschneider in Metarost?\l"
+	.string "namens Zerschneider in Metarost City?\l"
 	.string "Er hatte sein Haus dort.\p"
 	.string "Ich habe herausgefunden, dass\n"
-	.string "sein jüngerer Bruder in Malvenfroh\l"
+	.string "sein jüngerer Bruder in Malvenfroh City\l"
 	.string "lebt.\p"
 	.string "Rate mal, wie der heißt!\p"
 	.string "… … … … …\n"
@@ -2743,7 +2743,7 @@ MatchCall_Text_Brendan4::
 	.string "Brix: Die Stimme kenne ich…\n"
 	.string "{PLAYER}?\p"
 	.string "Metaflurtunnel…\n"
-	.string "Der heißt so, weil er Metarost und\l"
+	.string "Der heißt so, weil er Metarost City und\l"
 	.string "Wiesenflur verbindet.$"
 
 MatchCall_Text_Brendan5::
@@ -3038,7 +3038,7 @@ MatchCall_Text_Norman8::
 	.string "Dieses Mal werde ich dich zu einem\n"
 	.string "Kampf herausfordern.\p"
 	.string "Ich warte in der Arena von\n"
-	.string "Blütenburg auf dich. Du kannst\l"
+	.string "Blütenburg City auf dich. Du kannst\l"
 	.string "jederzeit vorbeikommen.$"
 
 MatchCall_Text_Norman9::
@@ -3152,7 +3152,7 @@ MatchCall_Text_MrStone2::
 	.string "Du wolltest meinen Brief doch\n"
 	.string "zu Troy in Faustauhaven bringen.\p"
 	.string "Und dann wolltest du unser Paket\n"
-	.string "zu Kapt. Brigg in Graphitport\l"
+	.string "zu Kapt. Brigg in Graphitport City\l"
 	.string "bringen.\p"
 	.string "Das hast du doch bestimmt nicht\n"
 	.string "vergessen?\p"

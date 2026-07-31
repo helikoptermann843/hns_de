@@ -64,7 +64,7 @@ ApricornTree_Text_Intro:
 	.string "Hier steht ein Aprikokobaum!$"
 
 ApricornTree_Text_Empty:
-	.string "Der Baum trägt keine Früchte...$"
+	.string "Der Baum trägt keine Früchte…$"
 
 ApricornTree_Text_WantToPick:
 	.string "{STR_VAR_2} {STR_VAR_1}!\p"

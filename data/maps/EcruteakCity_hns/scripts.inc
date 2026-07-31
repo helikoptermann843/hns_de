@@ -294,7 +294,7 @@ EcruteakCity_Text_UnusedMissingDaughter:
 	.string "Oh nein. Oh nein…\p"
 	.string "Meine Tochter ist verschwunden.\p"
 	.string "Nein… Sie kann doch nicht in den\n"
-	.string "Abgebrannten Turm gegangen sein!$"
+	.string "Turmruine gegangen sein!$"
 
 EcruteakCity_Text_Gramps1:
 	.string "Es gab wohl mal zwei Türme in Teak City,\n"
@@ -355,7 +355,7 @@ EcruteakCity_Text_Gramps3:
 	.string "kam herab und hauchte ihnen\l"
 	.string "wieder Leben ein…\p"
 	.string "Diese Legende wird von jedem Leiter\n"
-	.string "der Pkmn-Arena von Teak City an den\l"
+	.string "der Pokémon-Arena von Teak City an den\l"
 	.string "nächsten weitergegeben.\p"
 	.string "Ich?\p"
 	.string "Damals war ich ein Trainer. Hohoho!$"

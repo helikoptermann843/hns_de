@@ -198,7 +198,7 @@ NationalPark_Normal_Text_JackRegister:
 
 NationalPark_Normal_Text_JackRematchIntro:
 	.string "Ich habe viel seit dem letzten\n"
-	.string "Mal gelernt! Na Los!$"
+	.string "Mal gelernt! Na los!$"
 
 NationalPark_Normal_Text_JackRematchDefeat:
 	.string "Wa-wa-was?$"
@@ -281,4 +281,4 @@ NationalPark_Normal_Text_BeverlyGaveItem:
 
 NationalPark_Normal_Text_BeverlyNoRoom:
 	.string "Hmm, dein Beutel ist voll.\p"
-	.string "Komm wieder wenn du Platz hast.$"
+	.string "Komm wieder, wenn du Platz hast.$"

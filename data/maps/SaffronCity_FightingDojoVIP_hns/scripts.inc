@@ -332,7 +332,7 @@ SaffronCity_FightingDojoVIP_EventScript_Kingdra::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Kingdra:
-	.string "Seedraking: Draaa...$"
+	.string "Seedraking: Draaa…$"
 
 SaffronCity_FightingDojoVIP_EventScript_Onix::
 	lock
@@ -388,7 +388,7 @@ SaffronCity_FightingDojoVIP_EventScript_Muk::
 	release
 	end
 SaffronCity_FightingDojoVIP_Text_Muk:
-	.string "Sleimok: Muuuk...$"
+	.string "Sleimok: Muuuk…$"
 
 SaffronCity_FightingDojoVIP_EventScript_Kadabra::
 	lock
@@ -458,7 +458,7 @@ SaffronCity_FightingDojoVIP_EvetScript_Statue::
 	end
 
 SaffronCity_FightingDojoVIP_Text_Statue:
-	.string "Kampf Dojo VIP Lounge$"
+	.string "Kampf-Dojo VIP Lounge$"
 
 SaffronCity_FightingDojoVIP_Text_Falkner_Rematch:
 	.string "Glückwunsch zum Sieg gegen\n"

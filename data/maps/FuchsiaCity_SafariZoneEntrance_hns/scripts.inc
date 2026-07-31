@@ -312,7 +312,7 @@ FuchsiaCity_SafariZoneEntrance_Text_Level3:
 	.string "Das kostet 400.000 ¥.$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyDeclined:
-	.string "Oh, das ist schade...$"
+	.string "Oh, das ist schade…$"
 
 FuchsiaCity_SafariZoneEntrance_Text_UpgradeGuyAccepted:
 	.string "Genieße die Premium-Safari-Zone!$"
@@ -344,7 +344,7 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenWantToTrade:
 	.string "Sag, {PLAYER}…\n"
 	.string "Ich habe dieses Tanhel\l"
 	.string "jetzt eine ganze Weile aufgezogen.\p"
-	.string "Aber ich denke es ist besser\n"
+	.string "Aber ich denke, es ist besser\n"
 	.string "bei einem Trainer wie dir aufgehoben.\p"
 	.string "Tauschst du mir ein {STR_VAR_1}\n"
 	.string "für mein {STR_VAR_2}?$"
@@ -372,4 +372,4 @@ FuchsiaCity_SafariZoneEntrance_Text_StevenTradeCompleted:
 FuchsiaCity_SafariZoneEntrance_Text_MaxLevel:
 	.string "Hallo {PLAYER}, danke, dass du\n"
 	.string "weiterhin Premium-Mitglied der\l"
-	.string "Fuchsania Safari-Zone bist.$"
+	.string "Fuchsania City Safari-Zone bist.$"

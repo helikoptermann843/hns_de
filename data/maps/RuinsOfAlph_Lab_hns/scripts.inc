@@ -633,14 +633,14 @@ RuinsOfAlph_Lab_Text_WeFinallyMadeNewBalls:
     .string "Bitte probiere sie aus!$"
 
 RuinsOfAlph_Lab_Text_IMadePokenav:
-    .string "Ich habe den Pokécom entwickelt!\p"
+    .string "Ich habe den PokéCom entwickelt!\p"
     .string "Als Ingenieur bin ich glücklich,\n"
     .string "so etwas Großartiges geschaffen zu\n"
     .string "haben!$"
 
 RuinsOfAlph_Lab_Text_WowThatsAPokenav:
     .string "Oh wow!\n"
-    .string "Das ist ein Pokécom!\p"
+    .string "Das ist ein PokéCom!\p"
     .string "Er entstand aus dem Wunsch unseres\n"
     .string "Präsidenten, mehr über die Gefühle\l"
     .string "von Pokémon zu erfahren.\p"
@@ -718,7 +718,7 @@ RuinsOfAlph_Lab_Text_TooManyPokemon:
 
 RuinsOfAlph_Lab_Text_DevelopNewPokenavFeature:
     .string "Ich versuche, eine neue Funktion\n"
-    .string "für den Pokécom zu entwickeln…\p"
+    .string "für den PokéCom zu entwickeln…\p"
     .string "Aber es läuft nicht gut.$"
 
 RuinsOfAlph_Lab_Text_WhatToWorkOnNext:

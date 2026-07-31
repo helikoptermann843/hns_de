@@ -174,7 +174,7 @@ Route45_Text_HikerParryGivesIron:
     .string "Ich finde einfach keinen Weg zu\n"
     .string "gewinnen!\p"
     .string "Mach weiter so!\p"
-    .string "Oh, und nimm das -- das Geschenk,\n"
+    .string "Oh, und nimm das, das Geschenk,\n"
     .string "das du beim letzten Mal nicht\l"
     .string "annehmen konntest.$"
 
@@ -262,10 +262,10 @@ Route45_Text_CamperQuentinSeen:
     .string "Ich bin wirklich, wirklich stark!$"
 
 Route45_Text_CamperQuentinBeaten:
-    .string "Ich war stark aufm Trainer-Hügel…$"
+    .string "Ich war stark aufm Trainerberg…$"
 
 Route45_Text_CamperQuentinAfter:
-    .string "Warst du schon im Trainer-Hügel?\p"
+    .string "Warst du schon im Trainerberg?\p"
     .string "Dort verliere ich nie, aber…$"
 
 Route45_Text_Sign:

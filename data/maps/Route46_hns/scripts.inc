@@ -80,14 +80,14 @@ Route46_Text_PicnickerErinBeaten:
 	.string "Oh, Mistkerle!$"
 
 Route46_Text_PicnickerErinAfterBattle:
-	.string "Ich war in vielen Pkmn-Arenen,\n"
-	.string "aber die Pkmn-Arena in\l"
+	.string "Ich war in vielen Pokémon-Arenen,\n"
+	.string "aber die Pokémon-Arena in\l"
 	.string "Dukatia City ist am schönsten.\p"
 	.string "Dort sind wunderschöne Blumen!$"
 
 Route46_Text_ErinRegister:
     .string "Ich war schon in vielen Arenen,\n"
-    .string "aber die Arena in Dukatia ist\l"
+    .string "aber die Arena in Dukatia City ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 
@@ -100,7 +100,7 @@ Route46_Text_ErinRematchDefeat:
 
 Route46_Text_ErinPostRematch:
     .string "Ich war schon in vielen Arenen,\n"
-    .string "aber die Arena in Dukatia ist\l"
+    .string "aber die Arena in Dukatia City ist\l"
     .string "meine Lieblingsarena.\p"
     .string "Sie ist voller hübscher Blumen!$"
 

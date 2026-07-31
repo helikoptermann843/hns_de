@@ -1984,7 +1984,7 @@ static const struct MultiTrainerMatchCallText sMultiTrainerMatchCallTexts[] =
 {
     { .trainerId = TRAINER_KIRA_AND_DAN_1, .text = COMPOUND_STRING("KIRA") },
     { .trainerId = TRAINER_AMY_AND_LIV_1,  .text = COMPOUND_STRING("AMY") },
-    { .trainerId = TRAINER_JOHN_AND_JAY_1, .text = COMPOUND_STRING("JOHN") },
+    { .trainerId = TRAINER_JOHN_AND_JAY_1, .text = COMPOUND_STRING("John") },
     { .trainerId = TRAINER_LILA_AND_ROY_1, .text = COMPOUND_STRING("ROY") },
     { .trainerId = TRAINER_GABBY_AND_TY_1, .text = COMPOUND_STRING("GABBY") },
     { .trainerId = TRAINER_ANNA_AND_MEG_1, .text = COMPOUND_STRING("ANNA") },

@@ -488,7 +488,7 @@ BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers_hns:
 
 BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier_hns:
 	.string "Ich habe gehört, dass jemand gehört\n"
-	.string "hat, ein Pkmn mit einem ungewöhnlich\l"
+	.string "hat, ein Pokémon mit einem ungewöhnlich\l"
 	.string "langen Schweif sei hier in der\p"
 	.string "Kampfzone aufgetaucht. Das ist\n"
 	.string "bestimmt anbetungswürdig…\p"

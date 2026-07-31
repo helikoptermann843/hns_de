@@ -41,10 +41,10 @@ BlackthornCity_Text_ElmName:
 BlackthornCity_Text_BaobaCall:
 	.string "Aufseher Baoba: {PLAYER}!\p"
 	.string "Hier ist Aufseher Baoba.\p"
-	.string "Ich rufe dich an um dir\n"
-	.string "mitzuteilen das die Safari-Zone\l"
+	.string "Ich rufe dich an, um dir\n"
+	.string "mitzuteilen, dass die Safari-Zone\l"
 	.string "vergrößert wurde!\p"
-	.string "bitte komm vorbei!$"
+	.string "Bitte komm vorbei!$"
 
 BlackthornCity_Text_ElmCall:
 	.string "Hallo, {PLAYER}?\p"
@@ -217,13 +217,13 @@ BlackthornCooltrainerF1Text:
 	.string "auch manchmal Attacken vergessen?$"
 
 BlackthornYoungsterText:
-	.string "Ebenholz-City ist berühmt für\n"
+	.string "Ebenholz City ist berühmt für\n"
 	.string "seine Drachenmeister.$"
 
 BlackthornCity_MeetSantosText:
 	.string "Samson: …\p"
 	.string "Ich bin Samson von der Wochentag-\n"
-	.string "Familie. Nun Rate mal.$"
+	.string "Familie. Nun rate mal.$"
 
 BlackthornCity_SantosGivesGiftText:
 	.string "Du kannst das haben…$"
@@ -257,7 +257,7 @@ BlackthornGymSignText:
 	.string "Ein gesegneter Drachenprofi!$"
 
 BlackthornCity_Text_MoveDeletersHouseSign:
-	.string "Attacken-Verlerner Haus$"
+	.string "Attacken-Verlerner-Haus$"
 
 BlackthornCity_Text_DragonDenSign:
 	.string "Drachenhöhle\n"

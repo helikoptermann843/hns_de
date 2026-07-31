@@ -558,15 +558,15 @@ TinTower_RoofDay_Movement_Kimono_Dance_Shift_Right2:
 	step_end
 
 TinTower_RoofDay_Text_Zuki_Before::
-	.string "Tamao: Geh nun, zu Ho-Oh. $"
+	.string "Tamao: Geh nun zu Ho-Oh.$"
 TinTower_RoofDay_Text_Naoko_Before::
-	.string "Umeko: Geh nun, zu Ho-Oh. $"
+	.string "Umeko: Geh nun zu Ho-Oh.$"
 TinTower_RoofDay_Text_Miki_Before::
-	.string "Satsuki: Geh nun, zu Ho-Oh. $"
+	.string "Satsuki: Geh nun zu Ho-Oh.$"
 TinTower_RoofDay_Text_Sayo_Before::
-	.string "Sakura: Geh nun, zu Ho-Oh. $"
+	.string "Sakura: Geh nun zu Ho-Oh.$"
 TinTower_RoofDay_Text_Kuni_Before::
-	.string "Komomo: Geh nun, zu Ho-Oh. $"
+	.string "Komomo: Geh nun zu Ho-Oh.$"
 
 TinTower_RoofDay_Text_Kimono_Opening::
 	.string "Tamao: Dies ist der Ort, an dem wir\n"

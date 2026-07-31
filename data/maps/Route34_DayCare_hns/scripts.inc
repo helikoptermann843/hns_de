@@ -39,7 +39,7 @@ Route34_DayCare_Text_Bookshelf2:
 
 Route34_DayCare_Text_Bookshelf3:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
-	.string "Teil 3: Geräusche von Babies.$"
+	.string "Teil 3: Geräusche von Babys.$"
 
 Route34_DayCare_Text_Bookshelf4:
 	.string "Eine Enzyklopädie über Baby-Pokémon.\p"
@@ -153,7 +153,7 @@ Route34_DayCare_EventScript_ClerkAfter::
 Route34_DayCare_Text_ClerkBefore:
 	.string "Ich bin der Sohn des Pensions-\n"
 	.string "Paars.\p"
-	.string "Ein Seltsames Ei wurde bei einem\n"
+	.string "Ein seltsames Ei wurde bei einem\n"
 	.string "Trainer gefunden, doch er wollte\n"
 	.string "es nicht…\p"
 	.string "Ich könnte es dir geben…\n"

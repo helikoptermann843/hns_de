@@ -275,7 +275,7 @@ OlivineCity_Text_EonTicketWoman2:
 
 OlivineCity_Text_EonTicketWoman3:
 	.string "Ich glaube es nicht!\n"
-	.string "ich hab den Champion getroffen!!!$"
+	.string "Ich hab den Champion getroffen!!!$"
 
 OlivineCity_Text_Sailor1:
 	.string "Dunkle Straßen sind nachts gefährlich!\n"
@@ -284,7 +284,7 @@ OlivineCity_Text_Sailor1:
 	.string "alle Schiffe auf dem Meer gefangen.$"
 
 OlivineCity_Text_YoungsterPokegear:
-	.string "Dieses Ding da ist doch ein Pokécom!\n"
+	.string "Dieses Ding da ist doch ein PokéCom!\n"
 	.string "Wow, das ist ja sooo cool!$"
 
 OlivineCity_Text_YoungsterPokedex:

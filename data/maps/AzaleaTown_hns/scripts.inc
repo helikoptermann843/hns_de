@@ -425,7 +425,7 @@ AzaleaTown_Text_Kurt3:
 	.string "was dort vor sich geht?$"
 
 AzaleaTown_Text_Sign:
-	.string "Azalea\n"
+	.string "Azalea City\n"
 	.string "Wo Menschen und Pokémon\l"
 	.string "in Harmonie leben.$"
 

@@ -490,7 +490,7 @@ BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon_hns:
 	.string "Ich habe mich auf ein schwaches\n"
 	.string "Pokémon verlassen… Ich dachte,\p"
 	.string "es wäre eine gute Entscheidung… \n"
-	.string "Sie haben uns platt gemacht… $"
+	.string "Sie haben uns platt gemacht…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons_hns:
 	.string "Die Dinge laufen überhaupt nicht so,\n"

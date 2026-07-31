@@ -437,7 +437,7 @@ BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50_hns:
 	.string "bist.$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsEnd_hns:
-	.string "Komm wieder wenn du\n"
+	.string "Komm wieder, wenn du\n"
 	.string "vorbereitet bist.$"
 
 BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen_hns:

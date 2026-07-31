@@ -343,5 +343,6 @@ SaffronMagnetTrainStation_Text_Teacher:
 SaffronMagnetTrainStation_Text_Lass:
 	.string "Hi! Hast du einen Fahrschein?\p"
 	.string "Ich habe einen!\p"
-	.string "Jeder in Saffronia hat einen, um damit\n"
-	.string "den Magnetzug benutzen zu können!$"
+	.string "Jeder in Saffronia City hat einen, um\n"
+	.string "damit den Magnetzug benutzen\l"
+	.string "zu können!$"

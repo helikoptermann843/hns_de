@@ -90,7 +90,7 @@ Route8_Text_SupernerdTomBeaten:
 
 Route8_Text_SupernerdTomAfter:
 	.string "Arena-Orden verleihen Vorteile\n"
-	.string "in kämpfen.$"
+	.string "in Kämpfen.$"
 
 Route8_Text_LockedDoor:
 	.string "Abgeschlossen…$"

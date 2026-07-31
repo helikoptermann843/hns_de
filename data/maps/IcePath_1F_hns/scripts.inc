@@ -91,9 +91,9 @@ IcePath_1F_Text_Leave:
 	.string "Kimono$"
 
 IcePath_1F_Text_Stuck1:
-	.string "Oje... Bist du das, {PLAYER}?\n"
+	.string "Oje… Bist du das, {PLAYER}?\n"
 	.string "Wie überraschend, dich zu sehen!\p"
-	.string "Ehrlich gesagt... meine Sandalen\n"
+	.string "Ehrlich gesagt… meine Sandalen\n"
 	.string "sind auf dem Eis festgefroren,\l"
 	.string "ich stecke fest.\p"
 	.string "Mit anderen Worten: Flip-Flops\n"
@@ -104,9 +104,9 @@ IcePath_1F_Text_Stuck1:
 	.string "anschubsen?$"
 
 IcePath_1F_Text_Stuck2:
-	.string "Oje... Bist du das, {PLAYER}?\n"
+	.string "Oje… Bist du das, {PLAYER}?\n"
 	.string "Wie überraschend, dich zu sehen!\p"
-	.string "Ehrlich gesagt... meine Sandalen\n"
+	.string "Ehrlich gesagt… meine Sandalen\n"
 	.string "sind auf dem Eis festgefroren,\l"
 	.string "ich stecke fest.\p"
 	.string "Mit anderen Worten: Flip-Flops\n"

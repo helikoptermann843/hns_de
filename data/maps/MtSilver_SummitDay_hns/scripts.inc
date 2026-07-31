@@ -54,6 +54,6 @@ MtSilver_SummitDay_Text_Red:
 	.string "まえ　えらんだもの$"
 
 MtSilver_SummitDay_Text_RedBeaten:
-	.string "...!$"
+	.string "…!$"
 
 

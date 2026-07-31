@@ -261,7 +261,7 @@ static const u8 *const sBlenderOpponentsNames[] =
     [BLENDER_MISTER] = COMPOUND_STRING("MISTER"),
     [BLENDER_LADDIE] = COMPOUND_STRING("LADDIE"),
     [BLENDER_LASSIE] = COMPOUND_STRING("LASSIE"),
-    [BLENDER_MASTER] = COMPOUND_STRING("MASTER"),
+    [BLENDER_MASTER] = COMPOUND_STRING("Master"),
     [BLENDER_DUDE]   = COMPOUND_STRING("DUDE"),
     [BLENDER_MISS]   = COMPOUND_STRING("MISS"),
 };
@@ -286,7 +286,7 @@ static const u8 sText_TheLevelIs[] = _("The level is ");
 static const u8 sText_TheFeelIs[] = _(", and the feel is ");
 static const u8 sText_Dot2[] = _(".");
 
-static const u8 sText_SavingDontTurnOff2[] = _("SAVING…\nDON'T TURN OFF THE POWER.");
+static const u8 sText_SavingDontTurnOff2[] = _("Speichervorgang…\ndas gerät nicht ausschalten!");
 static const u8 sText_BlenderMaxSpeedRecord[] = _("BERRY BLENDER\nMAXIMUM SPEED RECORD!");
 static const u8 sText_234Players[] = _("2 PLAYERS\n3 PLAYERS\n4 PLAYERS");
 

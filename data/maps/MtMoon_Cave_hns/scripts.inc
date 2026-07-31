@@ -85,7 +85,7 @@ MtMoon_Cave_Movement_SilverLeave:
 	step_end
 
 MtMoon_Cave_Text_Rival_Before:
-	.string "... ... ...\p"
+	.string "… … …\p"
 	.string "Es ist schon lange her, {PLAYER}.\p"
 	.string "…Seit ich gegen dich verlor, mache\n"
 	.string "ich mir Gedanken,\l"
@@ -101,7 +101,7 @@ MtMoon_Cave_Text_Rival_Win:
 	.string "…Immer noch nicht genug…$"
 
 MtMoon_Cave_Text_Rival_After:
-	.string "... ... ...\p"
+	.string "… … …\p"
 	.string "…Du hast mich fair besiegt.\p"
 	.string "Das muss ich dir\n"
 	.string "lassen. Wir werden uns wiedersehen.\p"
@@ -114,7 +114,7 @@ MtMoon_Cave_Text_Rival_After:
 	.string "sen. Dann besiege ich dich.$"
 
 MtMoon_Cave_Text_Rival_Loss:
-	.string "... ... ...\p"
+	.string "… … …\p"
 	.string "Ich habe meine\n"
 	.string "Schuld bei dir abgegolten.\p"
 	.string "Mit meinen Pokémon werde ich den\n"

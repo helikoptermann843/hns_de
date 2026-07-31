@@ -80,7 +80,7 @@ CeladonCity_House1_Text_Fisher3MunchMunch:
 
 CeladonCity_House1_Text_Fisher3GoldenrodIsBest:
 	.string "Das Essen hier ist gut, aber\n"
-	.string "in Dukatia gibt es das beste\l"
+	.string "in Dukatia City gibt es das beste\l"
 	.string "Essen überhaupt.$"
 
 CeladonCity_House1_Text_TeacherCrunchCrunch:

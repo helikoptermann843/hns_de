@@ -11,11 +11,11 @@ VermilionCity_House2_EventScript_Youngster::
 
 VermilionCity_House2_Text_PokefanF:
 	.string "Kennst du den Magnetzug?\p"
-	.string "Er fährt bis nach Dukatia\n"
+	.string "Er fährt bis nach Dukatia City\n"
 	.string "in Johto.$"
 
 VermilionCity_House2_Text_Youngster:
 	.string "Saffronia! Saffronia! Saffronia!\n"
-	.string "Ich will nach Saffronia fahren!\p"
+	.string "Ich will nach Saffronia City fahren!\p"
 	.string "Ich will nämlich den Magnetzug sehen!\n"
 	.string "Den Magnetzug! Den Magnetzug!$"

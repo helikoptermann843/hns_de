@@ -27,7 +27,7 @@ ViridianCity_Text_OakName:
 ViridianCity_Text_OakCall:
 	.string "Eich: Ah, {PLAYER}!\p"
 	.string "Komm und besuche mich\n"
-	.string "im Labor in Alabastia\l"
+	.string "im Labor in Alabastia,\l"
 	.string "wenn du Zeit hast.$"
 
 ViridianCity_EventScript_Gramps::

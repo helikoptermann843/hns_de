@@ -56,13 +56,13 @@ PewterCity_Gym_Text_Brock_WinLoss:
 	.string "Hier! Nimm diesen Orden!$"
 
 PewterCity_Gym_Text_ReceivedBoulderBadge:
-	.string "{PLAYER} erhält den Felsorden.$"
+	.string "{PLAYER} erhält den Felsenorden!$"
 
 PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Rocko: {PLAYER}, danke.\n"
 	.string "Der Kampf hat mir gefallen,\l"
 	.string "auch wenn ich etwas enttäuscht bin.\p"
-	.string "Der Felsorden macht deine\n"
+	.string "Der Felsenorden macht deine\n"
 	.string "Pokémon noch stärker.$"
 
 PewterCity_Gym_Text_Brock_FightDone:
@@ -125,15 +125,15 @@ PewterCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 PewterCity_Gym_Text_GymStatue::
-    .string "Marmoria Pokémon Arena\n"
+    .string "Pokémon-Arena von Marmoria City\n"
     .string "Leiter: Rocko\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 PewterCity_Gym_Text_GymStatuePlayerWon::
-    .string "Marmoria Pokémon Arena\n"
+    .string "Pokémon-Arena von Marmoria City\n"
     .string "Leiter: Rocko\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
 PewterCity_Gym_EventScript_Brock_Trade::

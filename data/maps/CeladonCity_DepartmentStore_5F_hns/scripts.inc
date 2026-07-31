@@ -43,8 +43,8 @@ CeladonDeptStore_Text_5FReceptionistPutInSomeMoreEffort:
 	.string "etwas mehr anstrengen.$"
 
 CeladonDeptStore_Text_5FReceptionistItLooksEvilHowAboutThisTM:
-    .string "Es sieht Böse aus. Wir wäre es\n"
-    .string "mit dieser TM?$"
+    .string "Es sieht echt böse aus.\n"
+    .string "Wie wär’s mit dieser TM?$"
 
 CeladonDept5_EventScript_Gent::
 	msgbox CeladonDeptStore5F_Text_Gentleman, MSGBOX_NPC

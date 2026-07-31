@@ -500,18 +500,17 @@ static void GenerateOPTSegment(struct Pokenav_Radio *radio)
         dst = radio->lineBuffers[buf];
         StringCopy(dst, sRadioText_OPT_MaryPrefix);
         StringAppend(dst, speciesName);
-        StringAppend(dst, sRadioText_OPT_MaryIs);
         radio->lines[n++] = radio->lineBuffers[buf++];
 
         // "sweet and adorably cute."
+        // Deutsch: Adverb- und Adjektivzeile sind eigenstaendige Saetze
+        // (dt. Kristall), daher zwei getrennte Zeilen ohne Bindeglied.
         dst = radio->lineBuffers[buf];
         StringCopy(dst, sRadioText_OPT_Adverbs[Random() % ARRAY_COUNT(sRadioText_OPT_Adverbs)]);
-        {
-            u8 *end = dst + StringLength(dst);
-            *end++ = CHAR_SPACE;
-            *end = EOS;
-        }
-        StringAppend(dst, sRadioText_OPT_Adjectives[Random() % ARRAY_COUNT(sRadioText_OPT_Adjectives)]);
+        radio->lines[n++] = radio->lineBuffers[buf++];
+
+        dst = radio->lineBuffers[buf];
+        StringCopy(dst, sRadioText_OPT_Adjectives[Random() % ARRAY_COUNT(sRadioText_OPT_Adjectives)]);
         radio->lines[n++] = radio->lineBuffers[buf++];
 
         radio->optSegmentCounter--;

@@ -114,7 +114,7 @@ VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "befinden, um zu schlüpfen.\p"
 	.string "Du bist die einzige Person,\n"
 	.string "auf die wir uns verlassen können.\p"
-	.string "Bitte ruf Prof.Lind an,\n"
+	.string "Bitte ruf Prof. Lind an,\n"
 	.string "wenn das Ei soweit ist!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
@@ -140,15 +140,15 @@ VioletCity_PokeCenter_Text_BooksAreGreat:
 VioletCity_PokeCenter_Text_MobileAdapter:
 	.string "Woran denkst du,\n"
 	.string "wenn du versuchst,\p"
-	.string "daran zu denken, nicht daran zu denken\l"
-	.string "das du denkst,\n"
+	.string "daran zu denken, nicht daran zu denken,\l"
+	.string "dass du denkst,\n"
 	.string "dass du dumm bist,\p"
 	.string "obwohl du nicht dumm bist?\n"
-	.string "hähhhh?$"
+	.string "Hähhhh?$"
 
 VioletCity_PokeCenter_Text_GameboyKid:
 	.string "Ein Kerl namens Bill hat das\n"
-	.string "Pokémon-PC-Lagerungs-System\l"
+	.string "PC-Pokémon-Lagerungssystem\l"
 	.string "erfunden.$"
 
 VioletCity_PokeCenter_Text_Gentleman:

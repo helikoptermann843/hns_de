@@ -263,7 +263,7 @@ MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
 	.string "Adrian: Dich kenne ich doch!\n"
-	.string "Vom Museum in Graphitport.\p"
+	.string "Vom Museum in Graphitport City.\p"
 	.string "Ah, du bist {PLAYER}.\p"
 	.string "Damals dachte ich, du würdest zu\n"
 	.string "Team Magma gehören.\p"

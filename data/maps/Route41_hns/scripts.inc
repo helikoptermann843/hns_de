@@ -287,7 +287,7 @@ Route41_EventScript_TentacruelAttack4::
 	end
 
 Route41_Text_Tentacruel:
-	.string "Tentoxa: Cruooo...$"
+	.string "Tentoxa: Cruooo…$"
 
 Route41_Text_TentacruelAttack:
 	.string "Tentoxa: Cruoooooo!$"

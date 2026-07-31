@@ -120,7 +120,7 @@ GoldenrodCity_FlowerShop_Text_Owner2:
 	.string "Anscheinend gibt es einen seltsamen\n"
 	.string "Baum auf Route 36.\p"
 	.string "Er soll tanzen, wenn man ihn gießt…\p"
-	.string "Oh, das ist ein Normalorden von\n"
+	.string "Oh, das ist ein Basisorden von\n"
 	.string "der Dukatia-Arena!\p"
 	.string "Hast du Bianka besiegt?!\p"
 	.string "Dann ist alles in Ordnung.\p"

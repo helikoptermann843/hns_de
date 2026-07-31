@@ -178,7 +178,7 @@ BlackthornCity_MoveRelearnersHouse_Text_SorryCantHelp:
 BlackthornCity_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "Ich bin der Attacken-Tutor.\p"
 	.string "Ich kenne alle Attacken, die Pokémon\n"
-	.string "lernen--jede einzelne--und ich kann\l"
+	.string "lernen, jede einzelne, und ich kann\l"
 	.string "Pokémon diese Attacken beibringen.\p"
 	.string "Ich kann einem deiner Pokémon eine\n"
 	.string "Attacke beibringen, wenn du möchtest.\p"

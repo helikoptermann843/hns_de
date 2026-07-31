@@ -35,7 +35,7 @@ CianwoodPokemoncenter_EventScript_FisherGiveTentacool::
 CianwoodPokemoncenter_Text_Fisher1:
 	.string "Was Wasser-Pokémon angeht,\n"
 	.string "ist Tentacha das beste,\l"
-	.string "und zwar Seemeilenweit!$"
+	.string "und zwar seemeilenweit!$"
 
 CianwoodPokemoncenter_Text_Fisher2:
 	.string "Du scheinst ein Wasser-Pokémon\n"

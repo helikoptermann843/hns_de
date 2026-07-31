@@ -59,7 +59,7 @@ PokemonLeague_KogasRoom_Text_RematchBefore:
 	.string "weiter geschärft.\p"
 	.string "Neue heimtückische Fallen erwarten\n"
 	.string "dich.\p"
-	.string "Gift, Schlaf und mehr...\n"
+	.string "Gift, Schlaf und mehr…\n"
 	.string "Sei bereit!\p"
 	.string "Fwahahahaha!\p"
 	.string "Zeige mir, wie sehr du gewachsen bist!$"
@@ -75,7 +75,7 @@ PokemonLeague_KogasRoom_Text_Before:
 	.string "heimtückischen Techniken zu werden!\p"
 	.string "Fwahahahaha!\p"
 	.string "Pokémon dreht sich nicht nur um rohe\n"
-	.string "Kraft--das wirst du bald sehen!$"
+	.string "Kraft… das wirst du bald sehen!$"
 
 PokemonLeague_KogasRoom_Text_Beaten:
 	.string "Ah! Du hast dich als würdig erwiesen!$"

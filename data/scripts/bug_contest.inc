@@ -130,8 +130,8 @@ BugContest_Text_Judging0::
 BugContest_Text_Judging1::
 	.string "Wir bewerten jetzt die gefangenen\n"
 	.string "Pokémon!\p"
-	.string "......\n"
-	.string "......\p"
+	.string "……\n"
+	.string "……\p"
 	.string "Die Gewinner stehen fest!\p"
 	.string "Bist du bereit?$"
 

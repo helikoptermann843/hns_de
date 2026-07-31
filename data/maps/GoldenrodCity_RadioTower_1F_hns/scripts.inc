@@ -201,7 +201,7 @@ RadioTower1F_Text_QuizQuestion4:
 	.string "Bis hierher gut!\n"
 	.string "Frage 4:\p"
 	.string "Ist Falk der Leiter von\n"
-	.string "Viola, der Vogel-Pokémon nutzt?$"
+	.string "Viola City, der Vogel-Pokémon nutzt?$"
 
 RadioTower1F_Text_QuizQuestion5:
 	.string "Wow! Wieder richtig!\n"
@@ -215,7 +215,7 @@ RadioTower1F_Text_QuizWin:
 	.string "Hier dein Preis: ein Radio!$"
 
 RadioTower1F_Text_PokegearRadio:
-	.string "{PLAYER}s Pokécom\n"
+	.string "{PLAYER}s PokéCom\n"
 	.string "kann jetzt Radio empfangen!$"
 
 RadioTower1F_Text_TuneIn:
@@ -367,7 +367,7 @@ GoldenrodCity_RadioTower_1F_EventScript_GivePrizeFromEarlier::
 
 GoldenrodCity_RadioTower_1F_Text_LotteryCornerDrawTicket:
 	.string "Das ist die Pokémon-Lotterie.\p"
-	.string "wenn die Nummer des Tickets\n"
+	.string "Wenn die Nummer des Tickets\n"
 	.string "mit der eines deiner Pokémon\l"
 	.string "übereinstimmt, gewinnst du einen\p"
 	.string "Preis.\p"

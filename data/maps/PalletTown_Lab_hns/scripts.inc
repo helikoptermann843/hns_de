@@ -150,13 +150,13 @@ PalletTown_Lab_Text_OaksAssistant2:
 
 PalletTown_Lab_Text_OaksAssistant3:
 	.string "Sag es niemandem weiter, aber\n"
-	.string "Pokémon Talk von Prof.Eich ist\l"
+	.string "Pokémon Talk von Prof. Eich ist\l"
 	.string "keine Live-Sendung.$"
 
 PalletTown_Lab_Text_OaksLabPC:
 	.string "Auf dem PC ist eine E-Mail.\p"
 	.string "…\p"
-	.string "Prof.Eich, wie läuft deine\n"
+	.string "Prof. Eich, wie läuft deine\n"
 	.string "Forschung?\p"
 	.string "Ich arbeite weiterhin fleißig.\p"
 	.string "Ich hörte Gerüchte, dass {PLAYER}\n"

@@ -352,7 +352,7 @@ Route117_PokemonDayCare_Text_FineThenComeAgain:
 	.string "Komm bald wieder.$"
 
 Route117_PokemonDayCare_Text_NotEnoughMoney:
-	.string "Du hast nicht genug Geld...$"
+	.string "Du hast nicht genug Geld…$"
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
 	.string "Möchtest du das andere auch wieder\n"

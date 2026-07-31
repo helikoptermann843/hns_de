@@ -342,5 +342,5 @@ Route22_Text_Silver5:
 	.string "Allein!$"
 
 Route22_Text_Silver6:
-	.string "{RIVAL}: ...Wieso starrst du?$"
+	.string "{RIVAL}: …Wieso starrst du?$"
 

@@ -84,7 +84,7 @@ Gate_Route43_Rocket_Text_KickOut:
 	.string "Wow!\p"
 	.string "Du bist total pleite!\p"
 	.string "Fast schon Mitleid mit dir.\p"
-	.string "Okay, du darfst durch...\p"
+	.string "Okay, du darfst durch…\p"
 	.string "Sag es aber nicht dem anderen\n"
 	.string "Wächter, verstanden?$"
 

@@ -91,7 +91,7 @@ PokemonFanClub_Text_Chairman_Intro:
 
 PokemonFanClub_Text_Chairman_Rapidash:
 	.string "Gut! Dann hör zu!\p"
-	.string "Also… mein liebling Galoppa…\p"
+	.string "Also… mein Liebling Galoppa…\p"
 	.string "Ist… süß… lieblich… schlau…\n"
 	.string "unfassbar…\l"
 	.string "und… toll… oh… glaubst du\l"
@@ -107,7 +107,7 @@ PokemonFanClub_Text_Chairman_Rapidash:
 	.string "Ich rede zu viel!$"
 
 PokemonFanClub_Text_Chairman_Gift:
-	.string "Danke das du zugehört hast.\n"
+	.string "Danke, dass du zugehört hast.\n"
 	.string "Ich möchte dir etwas geben!$"
 
 PokemonFanClub_Text_Chairman_Candy:

@@ -31,7 +31,7 @@ NewBarkTown_House1_Text_NeighborsDaughter:
 
 NewBarkTown_House1_Text_Neighbor:
 	.string "Meine Tochter will unbedingt\n"
-	.string "Prof. Lindss Assistentin werden.\p"
+	.string "Prof. Linds Assistentin werden.\p"
 	.string "Sie liebt Pokémon wirklich sehr!\p"
 	.string "Aber ich ja schließlich auch!$"
 

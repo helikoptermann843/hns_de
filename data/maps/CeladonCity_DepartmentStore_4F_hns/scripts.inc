@@ -18,7 +18,7 @@ CeladonDeptStore4F_Text_SuperNerd:
 	.string "Warte, die sind ausverkauft?$"
 
 CeladonDeptStore4F_Text_Youngster:
-	.string "Dies ist der einzige Ort\n"
+	.string "Dies ist der einzige Ort,\n"
 	.string "um Herzbrief zu kaufen.$"
 
 CeladonDeptStore4F_Text_Directory:

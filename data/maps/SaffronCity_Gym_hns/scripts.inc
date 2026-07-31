@@ -189,13 +189,13 @@ SaffronCity_Gym_EventScript_GymStatuePostVictory::
 
 
 SaffronCity_Gym_Text_GymStatue::
-    .string "Saffronia Pokémon Arena\n"
-    .string "Leiter: Sabrina\p"
-	.string "Gewinner:\n"
+    .string "Pokémon-Arena von Saffronia City\n"
+    .string "Leiterin: Sabrina\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 SaffronCity_Gym_Text_GymStatuePlayerWon::
-    .string "Saffronia Pokémon Arena\n"
-    .string "Leiter: Sabrina\p"
-    .string "Gewinner:\n"
+    .string "Pokémon-Arena von Saffronia City\n"
+    .string "Leiterin: Sabrina\p"
+    .string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"

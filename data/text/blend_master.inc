@@ -85,6 +85,6 @@ BerryBlender_Text_QualitiesOfBlendMaster:
 BerryBlender_Text_MasterWorksOnSkillsInMountains:
 	.string "Der Mixmeister arbeitet im Gebirge\n"
 	.string "an der Vollendung seiner Fähigkeiten.\p"
-	.string "Manchmal kommt er nach Seegrasulb, um\n"
-	.string "den ganzen Tag Beeren zu mixen.$"
+	.string "Manchmal kommt er nach Seegrasulb City,\n"
+	.string "um den ganzen Tag Beeren zu mixen.$"
 

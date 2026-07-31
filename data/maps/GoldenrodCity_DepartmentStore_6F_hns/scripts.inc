@@ -19,7 +19,7 @@ GoldenrodDeptStore6_Text_Whitney:
 	.string "{PLAYER}! Schön dich zu sehen!\p"
 	.string "Ich hole etwas für mein Miltank.\p"
 	.string "Wenn du kämpfen willst komm zum\n"
-	.string "Kampf Dojo$"
+	.string "Kampf-Dojo$"
 
 GoldenrodCity_DepartmentStore_6F_EventScript_Jose::
 	lock

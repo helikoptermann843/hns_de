@@ -97,7 +97,7 @@ FuchsiaCity_Gym_Text_Janine_ToughOne:
 	.string "Hier ist der Seelenorden. Nimm ihn.$"
 
 FuchsiaCity_Gym_Text_ReceivedSoulBadge:
-	.string "{PLAYER} erhielt den Seelenorden.$"
+	.string "{PLAYER} erhält den Seelenorden!$"
 
 FuchsiaCity_Gym_Text_Janine_ToxicSpeech:
 	.string "Janina: Du bist stark! Ich habe hier ein\n"
@@ -279,15 +279,15 @@ FuchsiaCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 FuchsiaCity_Gym_Text_GymStatue::
-    .string "Fuchsania Pokémon Arena\n"
-    .string "Leiter: Janina\p"
-	.string "Gewinner:\n"
+    .string "Pokémon-Arena von Fuchsania City\n"
+    .string "Leiterin: Janina\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 FuchsiaCity_Gym_Text_GymStatuePlayerWon::
-    .string "Fuchsania Pokémon Arena\n"
-    .string "Leiter: Janina\p"
-	.string "Gewinner:\n"
+    .string "Pokémon-Arena von Fuchsania City\n"
+    .string "Leiterin: Janina\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
 FuchsiaCity_Gym_Text_Guide:

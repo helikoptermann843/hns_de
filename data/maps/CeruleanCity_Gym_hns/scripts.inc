@@ -159,20 +159,20 @@ CeruleanCity_Gym_EventScript_GymGuyAfter::
 	end
 
 CeruleanCity_Gym_Text_GymStatue::
-    .string "Azuria Pokémon-Arena\n"
-    .string "Leiter: Misty\p"
-	.string "Gewinner:\n"
+    .string "Pokémon-Arena von Azuria City\n"
+    .string "Leiterin: Misty\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 CeruleanCity_Gym_Text_GymStatuePlayerWon::
-    .string "Azuria Pokémon-Arena\n"
-    .string "Leiter: Misty\p"
-	.string "Gewinner:\n"
+    .string "Pokémon-Arena von Azuria City\n"
+    .string "Leiterin: Misty\p"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
 CeruleanGym_Text_Note:
-	.string "Tut mir leid, ich bin erstmal Fort.\n"
-	.string "Misty, Arenaleiter\p"
+	.string "Tut mir leid, ich bin erstmal fort.\n"
+	.string "Misty, Arenaleiterin\p"
 	.string "Da Misty nicht hier ist,\n"
 	.string "sind wir auch erstmal nicht hier.\l"
 	.string "Die Arena-Trainer$"
@@ -252,7 +252,7 @@ CeruleanGym_Text_MistyWinLoss:
 	.string "Hier hast du den Quellorden!$"
 
 CeruleanGym_Text_ReceivedBadge:
-	.string "{PLAYER} erhielt Quellorden.$"
+	.string "{PLAYER} erhält den Quellorden!$"
 
 CeruleanGym_Text_MistyFightDone:
 	.string "Misty: Gibt es viele starke\n"

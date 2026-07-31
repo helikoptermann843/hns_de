@@ -168,9 +168,9 @@ static EWRAM_DATA u8 sTopMenuNumOptions = 0;
 EWRAM_DATA struct PlayerPCItemPageStruct gPlayerPCItemPageInfo = {};
 static EWRAM_DATA struct ItemStorageMenu *sItemStorageMenu = NULL;
 
-static const u8 sText_WithdrawItem[] = _("ITEM NEHMEN");
-static const u8 sText_DepositItem[] = _("ITEM LAGERN");
-static const u8 sText_TossItem[] = _("ITEM WEGWERFEN");
+static const u8 sText_WithdrawItem[] = _("Item Nehmen");
+static const u8 sText_DepositItem[] = _("Item Lagern");
+static const u8 sText_TossItem[] = _("Item Wegwerfen");
 static const u8 sText_Mailbox[] = _("MAILBOX");
 
 static const u8 sText_WithdrawHowManyItems[] = _("Wieviele\n{STR_VAR_1} nehmen?");
@@ -188,10 +188,10 @@ static const u8 *const sItemStorage_OptionDescriptions[] =
 
 static const struct MenuAction sPlayerPCMenuActions[] =
 {
-    [MENU_ITEMSTORAGE] = { COMPOUND_STRING("ITEMLAGER"), {PlayerPC_ItemStorage} },
+    [MENU_ITEMSTORAGE] = { COMPOUND_STRING("Itemlager"), {PlayerPC_ItemStorage} },
     [MENU_MAILBOX]     = { sText_Mailbox,                   {PlayerPC_Mailbox} },
-    [MENU_DECORATION]  = { COMPOUND_STRING("DEKORATION"),   {PlayerPC_Decoration} },
-    [MENU_TURNOFF]     = { COMPOUND_STRING("ABSCHALTEN"),     {PlayerPC_TurnOff} }
+    [MENU_DECORATION]  = { COMPOUND_STRING("Dekoration"),   {PlayerPC_Decoration} },
+    [MENU_TURNOFF]     = { COMPOUND_STRING("Abschalten"),     {PlayerPC_TurnOff} }
 };
 
 static const u8 sBedroomPC_OptionOrder[] =
@@ -227,9 +227,9 @@ static const u16 sNewGamePCItems[][2] =
 
 const struct MenuAction gMailboxMailOptions[] =
 {
-    { COMPOUND_STRING("LESEN"),        {Mailbox_DoMailRead} },
-    { COMPOUND_STRING("IN RUCKSACK"), {Mailbox_MoveToBag} },
-    { COMPOUND_STRING("GEBEN"),        {Mailbox_Give} },
+    { COMPOUND_STRING("Lesen"),        {Mailbox_DoMailRead} },
+    { COMPOUND_STRING("In Rucksack"), {Mailbox_MoveToBag} },
+    { COMPOUND_STRING("Geben"),        {Mailbox_Give} },
     { gText_Cancel2,                  {Mailbox_Cancel} }
 };
 

@@ -231,7 +231,7 @@ NewBarkTown_Text_Wooper:
 	.string "Felino: Fwhaaaa.$"
 
 NewBarkTown_Text_FatManState2:
-	.string "Wow, dein Pokécom ist beeindruckend!$"
+	.string "Wow, dein PokéCom ist beeindruckend!$"
 
 NewBarkTown_Text_FatManState3:
 	.string "Tag, {PLAYER}!\p"
@@ -256,7 +256,7 @@ NewBarkTown_Text_LassState4:
 	.string "Bescheid, bevor du aufbrichst!$"
 
 NewBarkTown_Text_LassState5:
-	.string "Mit dem Pokécom kannst du jederzeit\n"
+	.string "Mit dem PokéCom kannst du jederzeit\n"
 	.string "deine Mutter anrufen und ihr erzählen,\l"
 	.string "wie es dir so geht!$"
 

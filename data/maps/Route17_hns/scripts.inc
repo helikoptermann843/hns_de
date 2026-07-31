@@ -127,7 +127,7 @@ Route17_Text_RileyRematchIntro:
 	.string "einmal!$"
 
 Route17_Text_RileyRematchDefeat:
-	.string "Ich wurde fertiggemacht...$"
+	.string "Ich wurde fertiggemacht…$"
 
 Route17_Text_RileyPostRematch:
 	.string "Vielleicht sollte ich doch mal\n"
@@ -141,7 +141,7 @@ Route17_Text_JoelRematchIntro:
 	.string "Mal sehen, wer jetzt cooler ist!$"
 
 Route17_Text_JoelRematchDefeat:
-	.string "Noch immer nicht cool genug...$"
+	.string "Noch immer nicht cool genug…$"
 
 Route17_Text_JoelPostRematch:
 	.string "Ich trainiere weiter, bis ich\n"

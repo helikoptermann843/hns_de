@@ -119,7 +119,8 @@ PokemonLeague_WillsRoom_Text_Defeat:
 
 PokemonLeague_WillsRoom_Text_RematchBefore:
 	.string "Willi: Ah, willkommen zurück.\p"
-	.string "Ich habe diese Begegnung vorausgesehen\p"
+	.string "Ich habe diese Begegnung\n"
+	.string "vorausgesehen.\p"
 	.string "Meine Psycho-Pokémon und ich haben\n"
 	.string "uns weiterentwickelt und\l"
 	.string "neue Taktiken entwickelt.\p"

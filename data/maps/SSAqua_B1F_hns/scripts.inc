@@ -64,7 +64,7 @@ SSAqua_B1F_Text_FastShipOnDutySailorThanks:
 
 SSAqua_B1F_Text_FastShipOnDutySailorSawGirl:
 	.string "Ein kleines Mädchen?\p"
-	.string "Ich glaube sie ging hier vorbei.$"
+	.string "Ich glaube, sie ging hier vorbei.$"
 
 SSAqua_B1F_Text_FastShipOnDutySailorDirections:
 	.string "Der Speisesaal ist geradeaus.\p"
@@ -101,8 +101,8 @@ SSAqua_B1F_Text_PicnickerDebraBeaten:
 	.string "Autsch! Du bist zu stark!$"
 
 SSAqua_B1F_Text_PicnickerDebraAfter:
-	.string "Saffronia…\n"
-	.string "Prismania…\l"
+	.string "Saffronia City…\n"
+	.string "Prismania City…\l"
 	.string "Ich habe gehört, in der Kanto-Region\l"
 	.string "gibt es auch viele große Städte.$"
 

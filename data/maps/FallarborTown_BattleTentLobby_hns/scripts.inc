@@ -305,8 +305,8 @@ FallarborTown_BattleTentLobby_hns_EventScript_ExitRules::
 
 FallarborTown_BattleTentLobby_hns_Text_MakeThinkImJustKid:
 	.string "Fufufufufu.\p"
-	.string "Ich werde alle glauben lassen\n"
-	.string "das ich nur ein Kind bin.\p"
+	.string "Ich werde alle glauben lassen,\n"
+	.string "dass ich nur ein Kind bin.\p"
 	.string "Dann gewinne ich mit dem\n"
 	.string "Überraschungsmoment!$"
 
@@ -315,7 +315,7 @@ FallarborTown_BattleTentLobby_hns_Text_FallarborTentMyFavorite:
 	.string "Aktivitäten anzubieten.\p"
 	.string "Ich mag am liebsten das\n"
 	.string "rote Zelt.\p"
-	.string "Ich finde es fantastisch wie\n"
+	.string "Ich finde es fantastisch, wie\n"
 	.string "Trainer mit aller Kraft gewinnen\l"
 	.string "wollen, zusammen mit ihren Pokémon.$"
 
@@ -336,7 +336,7 @@ FallarborTown_BattleTentLobby_hns_Text_ScottLookingForSomeone:
 	.string "wie soll ich sagen…\p"
 	.string "mit etwas Panasch!\n"
 	.string "etwas würzigem Kampfgeist.\p"
-	.string "Wenn es doch bloß so jemanden...\n"
+	.string "Wenn es doch bloß so jemanden…\n"
 	.string "Ich würde sofort…\p"
 	.string "Uups! Wie auch immer!\n"
 	.string "Nur nicht aufgeben, das wird schon!$"

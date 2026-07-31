@@ -225,7 +225,7 @@ MahoganyTown_Pokemart:
 
 MahoganyTown_Shop_Text_Granny:
 	.string "Bitte komm später wieder.\n"
-	.string "Der Laden ist geschlossen...$"
+	.string "Der Laden ist geschlossen…$"
 
 MahoganyMart1F_Text_Pharmacist_Lance:
 	.string "Arrgh… Du hast\n"
@@ -238,7 +238,7 @@ MahoganyMart1F_Text_BlackBelt:
 	.string "Garados will einfach jeder!$"
 
 MahoganyMart1F_Text_BlackBelt_Lance:
-	.string "Urrgh... die Pokémon von diesem\n"
+	.string "Urrgh… die Pokémon von diesem\n"
 	.string "Typen sind stark.$"
 
 MahoganyMart1F_Text_Lance_HyperBeam:

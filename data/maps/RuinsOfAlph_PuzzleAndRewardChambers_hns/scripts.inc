@@ -408,7 +408,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_Text_Kabuto:
     .string "Umgebung.$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_UnownText:
-    .string "Es ist Icognito Text!$"
+    .string "Es ist Icognito-Text!$"
 
 RuinsOfAlph_PuzzleAndRewardChambers_Text_Statue:
 	.string "Dies ist eine Nachbildung eines antiken\n"

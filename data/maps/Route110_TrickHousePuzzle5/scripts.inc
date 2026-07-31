@@ -1006,7 +1006,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
 	.string "Robopuppe 5 Quiz.\p"
 	.string "Wie viele Pokémon waren im\n"
-	.string "Graphitport Pokémon-Fanclub?$"
+	.string "Graphitport City Pokémon-Fanclub?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
 	.string "Robopuppe 5 Quiz.\p"

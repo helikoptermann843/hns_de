@@ -284,7 +284,7 @@ RocketHideout_B3F_Text_Rival:
 	.string "Hab ich dir nicht gesagt, dass\n"
 	.string "ich Team Rocket zerstören werde?\p"
 	.string "…Sag mir, wer war der Typ im\n"
-	.string "Umhang, der Drache-Pokémon einsetzt?\p"
+	.string "Umhang, der Drachen-Pokémon einsetzt?\p"
 	.string "Meine Pokémon hatten keine\n"
 	.string "Chance.\p"
 	.string "Was mich ärgert, ist, was er\n"
@@ -294,7 +294,7 @@ RocketHideout_B3F_Text_Rival:
 	.string "Es ist nicht meine Schuld, dass\n"
 	.string "mein Team so schwach ist.\p"
 	.string "Ich bin wütend, dass ich gegen\n"
-	.string "so einen Gefühlsduseligen Typen.\l"
+	.string "so einen gefühlsduseligen Typen\l"
 	.string "verloren habe.\p"
 	.string "Doch es lässt mich verzweifeln.\p"
 	.string "Mache ich etwas falsch?\p"
@@ -564,7 +564,7 @@ RocketHideout_B3F_Movement_Spin2:
 
 RocketHideout_B3F_Text_PetrelIntro:
 	.string "Muhahaha, wir haben auf dich\n"
-	.string "gewartet. Du bist also {PLAYER}...\p"
+	.string "gewartet. Du bist also {PLAYER}…\p"
 	.string "Ich? Du weißt nicht, wer ich bin?\n"
 	.string "Ich bin Giovanni.\p"
 	.string "Der majestätische Giovanni selbst!\n"

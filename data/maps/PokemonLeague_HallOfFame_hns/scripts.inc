@@ -177,7 +177,7 @@ PokemonLeague_HallOfFame_LanceText:
 PokemonLeague_HallOfFame_Rematch_LanceText:
 	.string "Siegfried: Ich erinnere mich, es ist\n"
 	.string "noch nicht lange her, dass ich\p"
-	.string "dich hier als Johto-champion\n"
+	.string "dich hier als Johto-Champion\n"
 	.string "begrüßt habe.\p"
 	.string "Und nun sind wir wieder hier, an\n"
 	.string "diesem heiligen Ort, wo wir die\p"

@@ -21,9 +21,9 @@ CeladonCity_EventScript_Erika::
 
 CeladonCity_Text_Erika:
 	.string "Oh, {PLAYER}.\n"
-	.string "Ist der Brunnen heute nicht Traumhaft?\p"
-	.string "wenn du erneut kämpfen willst,\n"
-	.string "triff mich im Kampf Dojo.$"
+	.string "Ist der Brunnen heute nicht traumhaft?\p"
+	.string "Wenn du erneut kämpfen willst,\n"
+	.string "triff mich im Kampf-Dojo.$"
 
 CeladonCity_EventScript_Fatman::
 	msgbox CeladonCity_Text_Fisher, MSGBOX_NPC
@@ -161,7 +161,7 @@ CeladonCity_Text_MansionSign:
 
 CeladonCity_Text_GameCornerSign:
 	.string "Der Spielplatz für Jedermann\n"
-	.string "Spielhalle Prismania$"
+	.string "Spielhalle Prismania City$"
 
 CeladonCity_Text_TrainerTips:
 	.string "Tipps für Trainer\p"

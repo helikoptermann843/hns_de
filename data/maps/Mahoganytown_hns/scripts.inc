@@ -340,7 +340,7 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	.string "beunruhigen. Pass auf dich auf!$"
 
 ElmPhoneRoute39LegendaryText:
-	.string "Prof.Lind: Wow!\n"
+	.string "Prof. Lind: Wow!\n"
 	.string "{PLAYER}, hast du das gesehen?!\p"
 	.string "Ein riesiges Pokémon flog über\n"
 	.string "Teak City hinweg!\p"

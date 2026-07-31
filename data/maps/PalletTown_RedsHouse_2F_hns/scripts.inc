@@ -11,7 +11,7 @@ PalletTown_RedsHouse_2F_EventScript_PC::
 
 RedsHouse_Text_NES:
 	.string "{PLAYER} spielt NES.\p"
-	.string "Ich sollte aufhören--keine Zeit!$"
+	.string "Ich sollte aufhören, keine Zeit!$"
 
 RedsHouse_Text_PC:
 	.string "…Es sieht so aus, als wäre er schon\n"

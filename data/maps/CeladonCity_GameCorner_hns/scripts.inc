@@ -122,7 +122,7 @@ CeladonGameCorner_Text_GymGuide:
 CeladonGameCorner_Text_PokefanF:
 	.string "Roulette…\p"
 	.string "Ich mag die Slots lieber,\n"
-	.string "da ist es leichter, die Chancen.\p"
+	.string "da ist es leichter, die Chancen\l"
 	.string "auszurechnen.$"
 
 CeladonGameCorner_Text_Gramps:

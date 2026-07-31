@@ -70,6 +70,6 @@ LavenderTown_Text_VolunteerPokemonHouseSign:
 	.string "Waisenhaus für Pokémon\n$"
 
 LavenderTown_Text_SoulHouseSign:
-	.string "Haus der Seelen\p"
+	.string "Haus der Erinnerungen\p"
 	.string "Mögen die Seelen der Pokémon\n"
-	.string "in Frieden ruhen$"
+	.string "hier in Frieden ruhen$"

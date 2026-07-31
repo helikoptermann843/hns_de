@@ -115,11 +115,12 @@ GoldenrodCity_Gym_EventScript_Statue2::
 	end
 
 GoldenrodCity_Gym_Text_GymStatue:
-	.string "Dukatia Pokémon Arena$"
+	.string "Dukatia City Pokémon-Arena$"
 
 GoldenrodCity_Gym_Text_GymStatueCertified:
-	.string "Dukatia City Pokémon Arena\p"
-	.string "Biankas zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Dukatia City\p"
+	.string "Leiterin: Bianka\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 GoldenrodCity_Gym_Text_WhitneyBefore:
@@ -145,13 +146,13 @@ GoldenrodCity_Gym_Text_WhitneyWhatDoYouWant:
 	.string "…Schnief…\p"
 	.string "Was? Was willst du? Einen Orden?\p"
 	.string "Ach, richtig. Hab ich vergessen.\n"
-	.string "Hier ist der Normalorden.$"
+	.string "Hier ist der Basisorden.$"
 
 GoldenrodCity_Gym_Text_PlayerReceivedPlainBadge:
-	.string "{PLAYER} erhielt Normalorden.$"
+	.string "{PLAYER} erhält den Basisorden!$"
 
 GoldenrodCity_Gym_Text_WhitneyPlainBadge:
-	.string "Normalorden lässt dein Pokémon\n"
+	.string "Basisorden lässt dein Pokémon\n"
 	.string "Stärke auch außerhalb des Kampfes\l"
 	.string "einsetzen.\p"
 	.string "Erhöht auch die Verteidigung!\p"
@@ -239,7 +240,7 @@ GoldenrodCity_Gym_Text_BeautySamanthaAfter:
 
 GoldenrodCity_Gym_Text_GymGuide:
 	.string "Yo! Champ in spe!\p"
-	.string "In dieser Pkmn-Arena\n"
+	.string "In dieser Pokémon-Arena\n"
 	.string "warten Trainer mit Pokémon des\l"
 	.string "Typs Normal auf dich.\p"
 	.string "Ich rate dir,\n"

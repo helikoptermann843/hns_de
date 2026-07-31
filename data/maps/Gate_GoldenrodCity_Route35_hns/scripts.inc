@@ -76,8 +76,8 @@ Gate_GoldenrodCity_Route35_EventScript_Fisher::
 	end
 
 Route35GoldenrodGate_Text_RandyAskFavor:
-	.string "Entschuldige, kleiner!\n"
-	.string "kannst du mir einen Gefallen tun?\p"
+	.string "Entschuldige, Kleiner!\n"
+	.string "Kannst du mir einen Gefallen tun?\p"
 	.string "Kannst du dieses Pokémon\n"
 	.string "meinem Freund auf Route 31 bringen?\p"
 	.string "Du wirst ihn sofort erkennen!$"
@@ -95,7 +95,7 @@ Route35GoldenrodGate_Text_ReceivedMonWithMail:
 	.string "Brief trägt, erhalten.$"
 
 Route35GoldenrodGate_Text_RandyWeirdTree:
-	.string "Vergiss nicht es an die\n"
+	.string "Vergiss nicht, es an die\n"
 	.string "erste Stelle im Team zu tun,\n"
 	.string "sobald du meinen Freund triffst!\p"
 	.string "Route 31!\p"
@@ -113,7 +113,7 @@ Route35GoldenrodGate_Text_RandyNeverMind:
 	.string "Oh… Dann geht das in Ordnung…$"
 
 Route35GoldenrodGate_Text_ThanksForDelivery:
-	.string "Danke, kleiner! Du hast die\n"
+	.string "Danke, Kleiner! Du hast die\n"
 	.string "Nachricht für mich übergeben!\p"
 	.string "Hier, eine Kleinigkeit für dich!$"
 

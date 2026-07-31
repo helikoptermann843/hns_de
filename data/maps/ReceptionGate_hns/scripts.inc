@@ -73,14 +73,14 @@ VictoryRoadGate_Text_Officer:
 	.string "eintreten.$"
 
 VictoryRoadGate_Text_Kimono:
-	.string "Entschuldige Kleiner, dieser Weg ist\n"
+	.string "Entschuldige, Kleiner, dieser Weg ist\n"
 	.string "geschlossen,\l"
-	.string "Bis jemand sich des\p"
-	.string "Legendären Pokémon annimmt...$"
+	.string "bis jemand sich des\p"
+	.string "legendären Pokémon annimmt…$"
 
 VictoryRoadGate_Text_NotEnoughBadges:
 	.string "Du besitzt nicht alle Orden von Johto.\p"
-	.string "Tut mir Leid. Ich\n"
+	.string "Tut mir leid. Ich\n"
 	.string "darf dich nicht passieren lassen.$"
 
 VictoryRoadGate_Text_EightBadges:

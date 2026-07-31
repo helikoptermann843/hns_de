@@ -20,8 +20,9 @@ CianwoodGym_Text_GymStatue:
 	.string "Pokémon-Arena von Anemonia City$"
 
 CianwoodGym_Text_GymStatueCertified:
-	.string "Anemonia City Pokémon Arena\p"
-	.string "Hartwigs zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Anemonia City\p"
+	.string "Leiter: Hartwig\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 CianwoodGym_EventScript_Chuck::
@@ -81,7 +82,7 @@ CianwoodGym_Text_ChuckGotoDojo:
 	.string "Wahahaha {PLAYER}!\n"
 	.string "Ich bin mitten im Training!\p"
 	.string "Wenn du erneut kämpfen willst,\n"
-	.string "komm zum Kampf Dojo in Saffronia!$"
+	.string "komm zum Kampf-Dojo in Saffronia City!$"
 
 CianwoodGym_EventScript_ChuckAtDojo::
 	msgbox CianwoodGym_Text_ChuckAtDojo, MSGBOX_DEFAULT
@@ -150,13 +151,13 @@ CianwoodGym_Text_ChuckIntro3:
 CianwoodGym_Text_ChuckLoss:
 	.string "Was? Hä? Ich hab verloren?\p"
 	.string "Wie wär’s damit!\n"
-	.string "Du bist würdig für den Sturmorden!$"
+	.string "Du bist würdig für den Faustorden!$"
 
 CianwoodGym_Text_GetStormBadge:
-	.string "{PLAYER} erhielt den Sturmorden.$"
+	.string "{PLAYER} erhält den Faustorden!$"
 
 CianwoodGym_Text_ChuckBadgeSpeech:
-	.string "Der Sturmorden sorgt dafür, dass dir\n"
+	.string "Der Faustorden sorgt dafür, dass dir\n"
 	.string "alle Pokémon bis L70 gehorchen,\l"
 	.string "auch getauschte.\p"
 	.string "Außerdem können deine Pokémon\n"
@@ -178,7 +179,7 @@ CianwoodGym_Text_ChuckAfter:
 	.string "24 Stunden am Tag trainieren!$"
 
 CianwoodGym_Text_ChuckRematch:
-	.string "Wahahah! Johto-champion!\p"
+	.string "Wahahah! Johto-Champion!\p"
 	.string "Du willst noch eine Runde!\p"
 	.string "Ich sehe, deine Fähigkeiten sind\n"
 	.string "besser geworden!\p"

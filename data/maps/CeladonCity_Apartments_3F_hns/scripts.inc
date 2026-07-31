@@ -74,7 +74,7 @@ CeladonMansion3F_Text_Drawing:
 CeladonMansion3F_Text_GameProgram:
 	.string "Es ist das Spielprogramm.\n"
 	.string "Herumzuspielen\l"
-	.string "könnte einen Käfer ins Spiel bringen!$"
+	.string "könnte einen Fehler ins Spiel bringen!$"
 
 CeladonMansion3F_Text_ReferenceMaterial:
 	.string "Es ist voll mit Referenzmaterialien.\n"

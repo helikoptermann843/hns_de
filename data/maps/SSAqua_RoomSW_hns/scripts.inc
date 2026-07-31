@@ -26,7 +26,7 @@ SSAqua_RoomSW_Text_BeautyCassieAfterBattle:
 
 SSAqua_RoomSW_Text_GuitaristClydeSeen:
 	.string "Ich werde meine Lieder beim\n"
-	.string "Radiosender in Dukatia vorspielen.$"
+	.string "Radiosender in Dukatia City vorspielen.$"
 
 SSAqua_RoomSW_Text_GuitaristClydeBeaten:
 	.string "Autsch! Total verzerrt!$"

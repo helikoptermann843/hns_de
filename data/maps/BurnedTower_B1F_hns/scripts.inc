@@ -185,7 +185,7 @@ BurnedTower_B1F_Movement_EusineLeave:
 
 BurnedTowerB1FEusineText:
 	.string "Eusin: Ich habe hier auch ein\n"
-	.string "Loch gegraben...\p"
+	.string "Loch gegraben…\p"
 	.string "Ich war geschockt!\p"
 	.string "Suicune rannte an mir vorbei\n"
 	.string "wie ein Blitz, direkt vor meinen\l"

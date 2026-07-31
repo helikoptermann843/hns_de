@@ -2472,7 +2472,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_X_DEFENSE] =
     {
-        .name = ITEM_NAME("X-Verteidigung"),
+        .name = ITEM_NAME("X-Abwehr"),
         .price = (I_PRICE >= GEN_7) ? 2000 : 550,
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
@@ -2498,7 +2498,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_X_SP_ATK] =
     {
-        .name = ITEM_NAME("X-Sp. Angr."),
+        .name = ITEM_NAME("X-Spezial"),
         .price = (I_PRICE >= GEN_7) ? 1000 : 350,
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
@@ -2523,7 +2523,7 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_X_SP_DEF] =
     {
-        .name = ITEM_NAME("X-Sp. Vert."),
+        .name = ITEM_NAME("X-Spezial-Vert."),
         .price = (I_PRICE >= GEN_7) ? 2000 : 350,
         .holdEffectParam = X_ITEM_STAGES,
         .description = COMPOUND_STRING(
@@ -2621,7 +2621,7 @@ const struct ItemInfo gItemsInfo[] =
     [ITEM_GUARD_SPEC] =
     {
         .name = ITEM_NAME("Megablock"),
-        .pluralName = ITEM_PLURAL_NAME("Guard Specs."),
+        .pluralName = ITEM_PLURAL_NAME("Megablocks"),
         .price = (I_PRICE >= GEN_7) ? 1500 : 700,
         .description = COMPOUND_STRING(
             "Statusänderung\n"

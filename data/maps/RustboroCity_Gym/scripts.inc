@@ -248,7 +248,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 	.string "…\l"
 	.string "Piep!\p"
 	.string "Felizia: Oh, hallo {PLAYER}.\n"
-	.string "Hier ist Felizia aus Metarost.\p"
+	.string "Hier ist Felizia aus Metarost City.\p"
 	.string "Kamillo hat mir erzählt, dass du\n"
 	.string "die Trainer in atemberaubender\l"
 	.string "Geschwindigkeit aussuchst und\l"

@@ -55,15 +55,15 @@ SeafoamIslands_Gym_EventScript_GymStatuePostVictory::
 	end
 
 SeafoamIslands_Gym_Text_GymStatue::
-    .string "Zinnober Pokémon Arena\n"
+    .string "Zinnober Pokémon-Arena\n"
     .string "Leiter: Pyro\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 SeafoamIslands_Gym_Text_GymStatuePlayerWon::
-    .string "Zinnober Pokémon Arena\n"
+    .string "Zinnober Pokémon-Arena\n"
     .string "Leiter: Pyro\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
 SeafoamIslands_Gym_Text_TM:

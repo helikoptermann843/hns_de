@@ -162,7 +162,7 @@ GoldenrodCity_RadioTower_4F4_Text_ExecutiveM2After:
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Seen:
 	.string "Ob ich Pokémon niedlich finde?\p"
 	.string "Klar! Meine Pokémon werden sooo\n"
-	.string "niedlich sein-\p"
+	.string "niedlich sein…\p"
 	.string "wenn sie deine besiegt haben!$"
 
 GoldenrodCity_RadioTower_4F4_Text_GruntF4Beaten:

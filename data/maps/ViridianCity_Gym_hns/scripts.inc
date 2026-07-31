@@ -43,8 +43,8 @@ ViridianCity_Gym_EventScript_BlueGotoDojo::
 
 ViridianCity_Gym_Text_BlueGotoDojo:
 	.string "Blau: Zurück für mehr?\p"
-	.string "wenn du kämpfen willst,\n"
-	.string "komm zum Kampfdojo!$"
+	.string "Wenn du kämpfen willst,\n"
+	.string "komm zum Kampf-Dojo!$"
 
 ViridianCity_Gym_EventScript_BlueAtDojo::
 	msgbox ViridianCity_Gym_Text_LeaderBlue_Epilogue, MSGBOX_DEFAULT
@@ -73,11 +73,11 @@ ViridianCity_Gym_Text_LeaderBlue_Win:
 	.string "Wie konnte ich gegen dich\n"
 	.string "verlieren?\p"
 	.string "…\p"
-	.string "Tch, na gut… Nimm dies--es ist\n"
+	.string "Tch, na gut… Nimm dies, es ist\n"
 	.string "der Erdorden.$"
 
 ViridianCity_Gym_Text_ReceivedEarthBadge:
-	.string "{PLAYER} erhielt den Erdorden.$"
+	.string "{PLAYER} erhält den Erdorden!$"
 
 ViridianCity_Gym_Text_LeaderBlue_After:
 	.string "Blau: … … …\p"
@@ -134,13 +134,13 @@ ViridianCity_Gym_EventScript_GymStatuePostVictory::
 	end
 
 ViridianCity_Gym_Text_GymStatue::
-    .string "Vertania Pokémon Arena\n"
+    .string "Pokémon-Arena von Vertania City\n"
     .string "Leiter: Blau\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 ViridianCity_Gym_Text_GymStatuePlayerWon::
-    .string "Vertania Pokémon Arena\n"
+    .string "Pokémon-Arena von Vertania City\n"
     .string "Leiter: Blau\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"

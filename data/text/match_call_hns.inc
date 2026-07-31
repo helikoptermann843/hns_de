@@ -14,7 +14,7 @@ MatchCall_HNS_Joey_General1::
 
 MatchCall_HNS_Joey_General2::
 	.string "Yo, {PLAYER}!\n"
-	.string "Hast du 'ne Minute?\p"
+	.string "Hast du ’ne Minute?\p"
 	.string "Mein {STR_VAR_3} sieht\n"
 	.string "schärfer aus als zuvor!\p"
 	.string "Ich bezweifle, dass es ein\n"
@@ -164,7 +164,7 @@ MatchCall_HNS_Anthony_General1::
 	.string "Hey, {PLAYER}!\p"
 	.string "Sind deine Pokémon noch so\n"
 	.string "wild wie eh und je?\p"
-	.string "Mein {STR_VAR_3} und ich--wir\n"
+	.string "Mein {STR_VAR_3} und ich, wir\n"
 	.string "haben Energie im Überfluss.\p"
 	.string "Wir wandern jeden Tag auf\n"
 	.string "Berge, um unsere ganze\l"
@@ -563,7 +563,7 @@ MatchCall_HNS_Brent_General3::
 	.string "Hier ist Taro!\p"
 	.string "Wusstest du schon…?\p"
 	.string "Bill kommt ursprünglich aus\n"
-	.string "Rosalia.\p"
+	.string "Rosalia City.\p"
 	.string "Bill ist offenbar nicht\n"
 	.string "sehr gut im Kämpfen.$"
 
@@ -592,7 +592,7 @@ MatchCall_HNS_Tiffany_General2::
 	.string "Hier ist Ilona!\p"
 	.string "Mein {STR_VAR_3} ist doch\n"
 	.string "goldig, findest du nicht?\p"
-	.string "Ich schlaf immer mit ihm--\n"
+	.string "Ich schlaf immer mit ihm…\n"
 	.string "es ist so flauschig und warm!$"
 
 MatchCall_HNS_Tiffany_General3::
@@ -730,7 +730,7 @@ MatchCall_HNS_Parry_General1::
 	.string "Hier ist Günter!\p"
 	.string "Sehen deine Pokémon gut\n"
 	.string "aus?\p"
-	.string "Mein {STR_VAR_3} und ich--\n"
+	.string "Mein {STR_VAR_3} und ich…\n"
 	.string "wir sehen ziemlich schick\l"
 	.string "aus! Hahahah!$"
 

@@ -91,5 +91,5 @@ PokemonLeague_KarensRoom_Text_Defeat:
 	.string "zu gewinnen.\p"
 	.string "Dein Stil gefällt mir. Du verstehst,\n"
 	.string "was wichtig ist.\p"
-	.string "Mach weiter--der Champion wartet.$"
+	.string "Mach weiter, der Champion wartet.$"
 

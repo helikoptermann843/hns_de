@@ -246,7 +246,7 @@ SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
 	.string "Uns wurde befohlen, uns hier zu\n"
-	.string "versammeln. Das taten wir, aber...\p"
+	.string "versammeln. Das taten wir, aber…\p"
 	.string "Unser Boss, der Galgenvogel, ist nicht\n"
 	.string "hier.$"
 

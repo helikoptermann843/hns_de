@@ -63,7 +63,7 @@ RadioTowerBasement_Text_GruntM24After:
 RadioTowerBasement_Text_GruntM14Seen:
 	.string "Keinen Schritt weiter!\p"
 	.string "Ich kenne keine Gnade für meine\n"
-	.string "Feinde - auch nicht für Göre!$"
+	.string "Feinde, auch nicht für Gören!$"
 
 RadioTowerBasement_Text_GruntM14Beaten:
 	.string "Aaargh!$"
@@ -82,7 +82,7 @@ RadioTowerBasement_Text_GruntM15Beaten:
 	.string "Team Rocket war nur ein Job…\n"
 	.string "aber ich sehe, dass es anderen\n"
 	.string "wehtut.\p"
-	.string "Na gut, Ich höre auf.\p"
+	.string "Na gut, ich höre auf.\p"
 	.string "Danke dir. Sorry, Giovanni!$"
 
 RadioTowerBasement_Text_GruntM15After:

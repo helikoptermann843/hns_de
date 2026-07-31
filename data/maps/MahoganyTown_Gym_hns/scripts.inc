@@ -20,8 +20,9 @@ MahoganyTown_Gym_Text_GymStatue:
 	.string "Pokémon-Arena von Mahagonia City$"
 
 MahoganyTown_Gym_Text_GymStatueCertified:
-	.string "Mahagonia City Pokémon Arena\p"
-	.string "Norberts zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Mahagonia City\p"
+	.string "Leiter: Norbert\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"
 
 
@@ -127,7 +128,7 @@ MahoganyTown_Gym_Text_PryceIntro:
 	.string "Ich kenne Pokémon schon seit\n"
 	.string "vor deiner Geburt.\p"
 	.string "Ich verliere nicht leicht.\p"
-	.string "Ich, Norbert--der Wintertrainer--\n"
+	.string "Ich, Norbert, der Wintertrainer,\n"
 	.string "zeige dir meine Kraft!$"
 
 MahoganyTown_Gym_Text_PryceImpressed:
@@ -138,7 +139,7 @@ MahoganyTown_Gym_Text_PryceImpressed:
 	.string "Du verdienst diesen Orden!$"
 
 MahoganyTown_Gym_Text_ReceivedBadge:
-	.string "{PLAYER} erhielt Gletscherorden.$"
+	.string "{PLAYER} erhält den Eisorden!$"
 
 MahoganyTown_Gym_Text_GlacierBadgeSpeech:
 	.string "Der Orden erhöht die Spezial-\n"
@@ -167,7 +168,7 @@ MahoganyTown_Gym_Text_PryceRematch:
 	.string "Ich bin beeindruckt.\p"
 	.string "Doch noch können wir voneinander\n"
 	.string "lernen.\p"
-	.string "Ich, Norbert--der Wintertrainer--\n"
+	.string "Ich, Norbert, der Wintertrainer,\n"
 	.string "habe noch einige Tricks.\p"
 	.string "Willst du ein Rückmatch mit mir?$"
 

@@ -100,7 +100,7 @@ LavenderTown_RadioStation_Text_SuperNerd2:
 	.string "Hallihallo! Ich bin der Starredakteur\n"
 	.string "unseres Musikprogramms!\p"
 	.string "…Oh, tut mir leid, aber mit deinem\n"
-	.string "Pokécom kannst du meine Sendung\l"
+	.string "PokéCom kannst du meine Sendung\l"
 	.string "nicht empfangen!\p"
 	.string "Du wirst vorher erst dein Radio mit\n"
 	.string "einem Zusatzset aufrüsten müssen!$"

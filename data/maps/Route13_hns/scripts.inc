@@ -119,7 +119,7 @@ Route13_Text_PokefanmAlexAfterBattle:
 	.string "einmal König sein?$"
 
 Route13_Text_AlexRegister:
-	.string "Nicht Blaublütig, aber nicht schlecht.\n"
+	.string "Nicht blaublütig, aber nicht schlecht.\n"
 	.string "Gib mir deine Nummer.$"
 
 Route13_Text_AlexRematchIntro:
@@ -130,7 +130,7 @@ Route13_Text_AlexRematchDefeat:
 	.string "Wieder Entthront…$"
 
 Route13_Text_AlexPostRematch:
-	.string "Vielleicht bin ich nur ein Bauer...$"
+	.string "Vielleicht bin ich nur ein Bauer…$"
 
 Route13_Text_PokefanmJoshuaSeen:
 	.string "Hihi! Möchtest du\n"
@@ -183,7 +183,7 @@ Route13_Text_HikerKennyAfterBattle:
 
 Route13_Text_KennyRegister:
 	.string "Pokémon ändern sich mit der Zeit.\n"
-	.string "Lass uns wieder kämpfen irgendwann!$"
+	.string "Lass uns irgendwann wieder kämpfen!$"
 
 Route13_Text_KennyRematchIntro:
 	.string "Ich habe von der Geologie gelernt!\n"
@@ -194,7 +194,7 @@ Route13_Text_KennyRematchDefeat:
 
 Route13_Text_KennyPostRematch:
 	.string "Die Kraft der Pokémon ist wie\n"
-	.string "rost. Wir werden bestehen!$"
+	.string "Rost. Wir werden bestehen!$"
 
 Route13_Text_TrainerTips:
 	.string "Tipps für Trainer\p"
@@ -442,6 +442,6 @@ Route13_TravelToAlola_Text_4:
 	.string "Dieser Hafen ist nur für\n"
 	.string "Einheimische.\p"
 	.string "Alle Bewohner dieser Inseln\n"
-	.string "tragen... {PAUSE 30}seltsame Souvenirs.\p"
+	.string "tragen… {PAUSE 30}seltsame Souvenirs.\p"
 	.string "So erkenne ich sie sofort,\n"
 	.string "ganz ohne Fahrkarte!$"

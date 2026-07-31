@@ -275,10 +275,10 @@ KurtsHouse_Text_KurtHonoredToMakeBalls:
 	.string "Die Situation am Brunnen hast du\n"
 	.string "wie ein echter Held gemeistert.\p"
 	.string "Ich mag deinen Stil!\p"
-	.string "Ich wäre geehrt für jemanden\n"
-	.string "wie dich Pokebälle anfertigen\l"
+	.string "Ich wäre geehrt, für jemanden\n"
+	.string "wie dich Pokébälle anfertigen\l"
 	.string "zu dürfen.\p"
-	.string "Im moment habe ich nur das hier,\n"
+	.string "Im Moment habe ich nur das hier,\n"
 	.string "aber nimm es.$"
 
 KurtsHouse_Text_KurtBallsFromApricorns:

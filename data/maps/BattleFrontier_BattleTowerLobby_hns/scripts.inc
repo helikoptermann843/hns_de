@@ -1376,7 +1376,7 @@ BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons_hns:
 	.string "Pokémon {STR_VAR_1} and {STR_VAR_2}.$"
 
 BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode_hns:
-	.string "Bitte wähle zwei andere Pkmn aus,\n"
+	.string "Bitte wähle zwei andere Pokémon aus,\n"
 	.string "damit\n"
 	.string "ihr unterschiedliche habt. Wählt eine\l"
 	.string "Kategorie und meldet euch erneut an.$"

@@ -3423,7 +3423,8 @@ Route121_Text_CaleDefeat:
 
 Route121_Text_CalePostBattle:
 	.string "Ich habe im Einkaufszentrum von\n"
-	.string "Seegrasulb einfach zu viel eingekauft.\p"
+	.string "Seegrasulb City einfach zu viel\l"
+	.string "eingekauft.\p"
 	.string "Du findest das Zentrum dort hinten.\n"
 	.string "Ich wünschte, ich hätte auch einen\l"
 	.string "Beutel, wie du einen hast.$"

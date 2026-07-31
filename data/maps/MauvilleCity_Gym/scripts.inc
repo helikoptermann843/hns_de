@@ -333,7 +333,7 @@ MauvilleCity_Gym_Text_AngeloDefeat:
 	.string "Oh… Ich bin geblendet…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "Arenaleiter Walter aus Malvenfroh\n"
+	.string "Arenaleiter Walter aus Malvenfroh City\n"
 	.string "hat eine glänzende Stirn. Das finde\n"
 	.string "ich\l"
 	.string "klasse!$"

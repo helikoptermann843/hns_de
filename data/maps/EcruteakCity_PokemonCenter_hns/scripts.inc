@@ -103,8 +103,8 @@ EcruteakCity_PokemonCenter1F_Text_Bill1:
 	.string "gekommen.$"
 
 EcruteakCity_PokemonCenter1F_Text_Bill2:
-	.string "Ich habe gerade mein Pokémon\n"
-	.string "Lager-System fertig eingestellt.\p"
+	.string "Ich habe gerade mein Pokémon-\n"
+	.string "Lagerungssystem fertig eingestellt.\p"
 	.string "Du kennst doch den PC, den du\n"
 	.string "zum Aufbewahren deiner Pokémon\p"
 	.string "benutzt, oder?\p"
@@ -113,7 +113,7 @@ EcruteakCity_PokemonCenter1F_Text_Bill2:
 	.string "habe, läuft mein PC in allen\l"
 	.string "Pokécenter in Johto und Kanto.\p"
 	.string "Ich muss schnell zurück nach\n"
-	.string "Dukatia und meine Leute sehen.\l"
+	.string "Dukatia City und meine Leute sehen.\l"
 	.string "Du kannst aber jederzeit vorbeikommen!\n"
 	.string "\p"
 	.string "Tschüss!$"

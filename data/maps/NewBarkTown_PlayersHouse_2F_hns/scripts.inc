@@ -82,4 +82,4 @@ NewBarkTown_PlayersHouse_2F_EventScript_TurnOffPlayerPC::
 
 NewBarkTown_PlayersHouse_2F_Text_NES:
 	.string "Eine NES-Spielkonsole,\n"
-	.string "dafür habe ich jetzt keine Zeit$"
+	.string "dafür habe ich jetzt keine Zeit.$"

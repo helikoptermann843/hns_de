@@ -304,7 +304,7 @@ VermilionGym_Text_LtSurgeWinLoss:
 	.string "den Donnerorden!$"
 
 VermilionGym_Text_ReceivedThunderBadge:
-	.string "{PLAYER} erhielt Donnerorden.$"
+	.string "{PLAYER} erhält den Donnerorden!$"
 
 VermilionGym_Text_ThunderBadgeInfo:
 	.string "Bob: Donnerorden erhöht die\n"
@@ -330,7 +330,7 @@ VermilionGym_Text_LtSurgePostBattle:
 
 VermilionGym_Text_SurgeRematch:
 	.string "Bob: Also, du bist jetzt\n"
-	.string "Kanto-champion!\p"
+	.string "Kanto-Champion!\p"
 	.string "Beeindruckend, Kleiner!\n"
 	.string "Doch denk nicht, dass ich fertig\l"
 	.string "bin!\p"
@@ -398,16 +398,16 @@ VermilionCity_Gym_Text_GymGuyPostVictory::
 	.string "Ich habe richtig mitgefiebert!$"
 
 VermilionCity_Gym_Text_GymStatue::
-    .string "Orania Pokémon Arena\n"
+    .string "Pokémon-Arena von Orania City\n"
     .string "Leiter: Major Bob\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot$"
 
 
 VermilionCity_Gym_Text_GymStatuePlayerWon::
-    .string "Orania Pokémon Arena\n"
+    .string "Pokémon-Arena von Orania City\n"
     .string "Leiter: Major Bob\p"
-	.string "Gewinner:\n"
+	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
 VermilionCity_Gym_Text_NopeOnlyTrashHere::

@@ -221,7 +221,7 @@ Route38_Text_TrainerTips:
 Route38_Text_WaterSign:
 	.string "Schwimmen und Angeln verboten.\p"
 	.string "Wasser nur für Landwirtschaft.\p"
-	.string "-Teak City Bürgermeister-$"
+	.string "Bürgermeister von Teak City$"
 
 Route38_Text_DanaRegister:
     .string "Ich kenne etwas wirklich Gutes!\p"

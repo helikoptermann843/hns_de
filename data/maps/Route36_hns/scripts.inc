@@ -259,7 +259,7 @@ Route36_Text_RockSmashGuy2:
 	.string "Das hier sollst du haben.$"
 
 Route36_Text_RockSmashGuy3:
-	.string "Das ist übrigens Zertrümmrer.\p"
+	.string "Das ist übrigens Zertrümmerer.\p"
 	.string "Damit kannst du Felsen mit\n"
 	.string "einem gezielten Hieb zertrümmern.\p"
 	.string "Sind dir Steine im Weg,\n"
@@ -273,7 +273,7 @@ Route36_Text_Lass1:
 	.string "Ein merkwürdiger Baum blockiert die\n"
 	.string "Straße nach Dukatia City.\p"
 	.string "Wegen dieses Baumes kann ich\n"
-	.string "nicht Einkaufen gehen.\p"
+	.string "nicht einkaufen gehen.\p"
 	.string "Man sollte etwas dagegen tun.$"
 
 Route36_Text_Lass2_ClearedSudowoodo:
@@ -336,7 +336,7 @@ Route36_Text_Sign_RuinsNorth:
 	.string "Nordeingang$"
 
 Route36_Text_Tips1:
-	.string "Trainer-Tipps\n"
+	.string "Tipps für Trainer\n"
 	.string "Pokémon-Werte unterscheiden sich,\l"
 	.string "selbst bei gleicher Art.\p"
 	.string "Anfangs wirken sie ähnlich.\p"
@@ -344,7 +344,7 @@ Route36_Text_Tips1:
 	.string "die Unterschiede deutlich.$"
 
 Route36_Text_Tips2:
-	.string "Trainer-Tipps\n"
+	.string "Tipps für Trainer\n"
 	.string "Nutze Schaufler, um zum\l"
 	.string "Eingang eines Ortes zurückzukehren.\p"
 	.string "Sehr praktisch zum Erkunden von\n"

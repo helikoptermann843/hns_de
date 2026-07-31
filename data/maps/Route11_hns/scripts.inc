@@ -37,8 +37,8 @@ Route11_EventScript_Item_Grass_Knot::
 
 Route11_Text_Engineer:
 	.string "Ich habe ein seltsames Pokémon\n"
-	.string "im Baum klettern sehen,\l"
-	.string "Es sah nicht wie ein Menki aus...$"
+	.string "im Baum klettern sehen.\l"
+	.string "Es sah nicht wie ein Menki aus…$"
 
 Route11_Text_YoungsterOwenSeen:
 	.string "Für Pokémon-Trainer ist Mogeln tabu!\n"

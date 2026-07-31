@@ -234,13 +234,13 @@ BlackthornGym_EventScript_ClairAfterLeague::
 
 BlackthornGym_Text_ClairIntroText:
 	.string "Ich bin Sandra.\p"
-	.string "Der beste Drachenmeister der Welt.\p"
+	.string "Die beste Drachenmeisterin der Welt.\p"
 	.string "Ich bestehe sogar gegen die Top Vier\n"
 	.string "der Pokémon Liga.\p"
 	.string "Willst du immer noch gegen mich\n"
 	.string "antreten?\p"
 	.string "…Gut. Auf geht’s!\p"
-	.string "Da ich eine Arenaleiterin bin\n"
+	.string "Da ich eine Arenaleiterin bin,\n"
 	.string "werde ich mich nicht zurückhalten!$"
 
 BlackthornGym_Text_ClairWinText:
@@ -250,17 +250,17 @@ BlackthornGym_Text_ClairWinText:
 
 BlackthornGym_Text_ClairText_GoToDragonsDen:
 	.string "Ich gestehe das nicht ein.\p"
-	.string "Ich Sandra mag verloren haben\n"
-	.string "aber du bist noch nicht reif für die\n"
+	.string "Ich, Sandra, mag verloren haben,\n"
+	.string "aber du bist noch nicht reif für die\l"
 	.string "Pokémon Liga.\p"
 	.string "Ich weiß. Stelle dich der Drachen-\n"
-	.string "Trainer-herausforderung.\p"
+	.string "Trainer-Herausforderung.\p"
 	.string "Hinter dieser Arena liegt die\n"
 	.string "Drachenhöhle.\p"
 	.string "In deren Mitte ist ein Schrein.\n"
-	.string "Gehe Dorthin.\p"
+	.string "Gehe dorthin.\p"
 	.string "Falls du dich dort beweisen kannst,\n"
-	.string "werde ich dich als würdig befinden\l"
+	.string "werde ich dich als würdig befinden,\l"
 	.string "einen Orden zu erhalten!$"
 
 BlackthornGym_Text_ClairText_TooMuchToExpect:
@@ -273,7 +273,7 @@ BlackthornGym_Text_ClairText_YouKeptMeWaiting:
 
 BlackthornGym_Text_ClairText_DescribeTM:
 	.string "Das enthält Drachenklaue.\p"
-	.string "Du kannst selbst herausfinden\n"
+	.string "Du kannst selbst herausfinden,\n"
 	.string "wie es funktioniert.$"
 
 BlackthornGym_Text_ClairText_League:
@@ -282,9 +282,9 @@ BlackthornGym_Text_ClairText_League:
 	.string "Liga?\p"
 	.string "Kennst du den Weg nicht?\p"
 	.string "Gehe von hier nach Neuborkia.\p"
-	.string "Surfe dann nach Osten. der Weg\n"
+	.string "Surfe dann nach Osten. Der Weg\n"
 	.string "wird dann sehr beschwerlich.\p"
-	.string "Wage es nicht in der Pokémon\n"
+	.string "Wage es nicht, in der Pokémon\n"
 	.string "Liga zu verlieren!\p"
 	.string "Das würde meine Niederlage gegen\n"
 	.string "dich noch schlimmer machen!\p"
@@ -292,22 +292,22 @@ BlackthornGym_Text_ClairText_League:
 
 BlackthornGym_Text_ClairAfterLeague:
 	.string "Du hast es geschafft, huh?\p"
-	.string "Du bist jetzt der Johto Champ.$"
+	.string "Du bist jetzt der Johto-Champ.$"
 
 BlackthornGym_Text_ClairRematchText:
 	.string "Du hast es geschafft, huh?\p"
-	.string "Du bist jetzt der Johto Champ.\p"
-	.string "Du hast deine Stärke bewiesen\n"
-	.string "glaubst du, du besiegst mich erneut?\p"
-	.string "Als Drachenmeister werde ich mich\n"
+	.string "Du bist jetzt der Johto-Champ.\p"
+	.string "Du hast deine Stärke bewiesen.\n"
+	.string "Glaubst du, du besiegst mich erneut?\p"
+	.string "Als Drachenmeisterin werde ich mich\n"
 	.string "nicht zurückhalten.\p"
-	.string "Dieses mal nicht.\p"
+	.string "Dieses Mal nicht.\p"
 	.string "Willst du erneut kämpfen?$"
 
 BlackthornGym_Text_ClairRematchDefeatText:
 	.string "Ich habe verloren?\p"
 	.string "Wieder?\p"
-	.string "Ich glaube es nicht\n"
+	.string "Ich glaube es nicht,\n"
 	.string "das muss ein Fehler sein…$"
 
 BlackthornGym_Text_CooltrainermCodySeenText:
@@ -318,13 +318,13 @@ BlackthornGym_Text_CooltrainermCodyBeatenText:
 	.string "Mist! Hätte ich bloß ein Dragoran!$"
 
 BlackthornGym_Text_CooltrainermCodyAfterBattleText:
-	.string "Mitgliedern vom Drachen-Clan\n"
-	.string "wird erst erlaubt Drachen zu verwenden\l"
+	.string "Mitgliedern des Drachen-Clans wird\n"
+	.string "erst erlaubt, Drachen zu verwenden,\l"
 	.string "wenn unser Meister es erlaubt hat.$"
 
 BlackthornGym_Text_CooltrainerfFranSeenText:
 	.string "Ich kann einen unbekannten Trainer\n"
-	.string "nicht an mir vorbei lassen!\p"
+	.string "nicht an mir vorbeilassen!\p"
 	.string "Sandra wäre sehr wütend!$"
 
 BlackthornGym_Text_CooltrainerfFranBeatenText:
@@ -341,7 +341,7 @@ BlackthornGym_Text_CooltrainermPaulBeatenText:
 	.string "Mein Drachen-Pokémon hat verloren?$"
 
 BlackthornGym_Text_CooltrainermPaulAfterBattleText:
-	.string "Siegfried sagte dir das\n"
+	.string "Siegfried sagte dir, dass\n"
 	.string "er dich noch einmal sehen will?\p"
 	.string "Das kann nicht sein!$"
 
@@ -395,29 +395,29 @@ BlackthornGym_Text_GuideText:
 	.string "bald sind wir da! Zähle auf mich!\p"
 	.string "Während Sandra zum Drachenmeister\n"
 	.string "Siegfried aufsieht, hat sie es doch\l"
-	.string "geschafft ihre eigene Identität\l"
+	.string "geschafft, ihre eigene Identität\l"
 	.string "zu entwickeln, mit Drachen aus\l"
 	.string "dem Wasser.\p"
 	.string "Drachen sind eigentlich schwach\n"
 	.string "gegen Eis-Attacken,\l"
-	.string "aber du wirst Drachen-oder\l"
-	.string "Feen-Attacken benötigen\l"
-	.string "wenn du gewinnen willst.$"
+	.string "aber du wirst Drachen- oder\l"
+	.string "Feen-Attacken benötigen,\l"
+	.string "wenn du gewinnen willst.\p"
 	.string "Du schaffst das!$"
 
 BlackthornGym_Text_GuideGotoDragonsDen:
 	.string "Du warst super gegen Sandra!\p"
-	.string "Sie ist leider kein guter\n"
-	.string "verlierer.\p"
-	.string "Schätze du musst zur Drachenhöhle,\n"
+	.string "Sie ist leider keine gute\n"
+	.string "Verliererin.\p"
+	.string "Schätze, du musst zur Drachenhöhle,\n"
 	.string "wenn du den Orden bekommen willst!$"
 
 BlackthornGym_Text_GuideWinText:
 	.string "Gegen Sandra zu gewinnen ist\n"
 	.string "eine Meisterleistung!\p"
-	.string "Alles was dir nun bevorsteht.\n"
-	.string "Ist die Pokémon Liga und\l"
-	.string "Pokémon Champion zu werden!$"
+	.string "Alles, was dir nun bevorsteht,\n"
+	.string "ist die Pokémon Liga und\l"
+	.string "Pokémon-Champion zu werden!$"
 
 
 BlackthornGym_EventScript_Statue::
@@ -438,6 +438,7 @@ BlackthornGym_Text_GymStatue:
 	.string "Pokémon-Arena von Ebenholz City$"
 
 BlackthornGym_Text_GymStatueCertified:
-	.string "Ebenholz City Pokémon Arena\p"
-	.string "Sandras zertifizierte Trainer:\n"
+	.string "Pokémon-Arena von Ebenholz City\p"
+	.string "Leiterin: Sandra\n"
+	.string "Anerkannte Trainer:\p"
 	.string "{PLAYER}$"

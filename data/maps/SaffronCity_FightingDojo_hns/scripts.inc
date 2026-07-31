@@ -159,7 +159,7 @@ SaffronCity_FightingDojo_EventScript_BattleSlowking_EV_SpecialDefense::
 	end
 
 SaffronCity_FightingDojo_Text_Slowking:
-	.string "Laschoking: Hmmm...$"
+	.string "Laschoking: Hmmm…$"
 
 SaffronCity_FightingDojo_EventScript_Pidgeot_EV_Speed::
 	lock
@@ -206,7 +206,7 @@ SaffronCity_FightingDojo_Text_WouldYouLikeToBattle:
 	.string "Evs?$"
 
 SaffronCity_FightingDojo_Text_BlackBelt:
-	.string "Du betrittst das Kampfdojo!\p"
+	.string "Du betrittst das Kampf-Dojo!\p"
 	.string "Hier kannst du die Werte deiner\n"
 	.string "Pokémon im Kampf stählen!$"
 

@@ -110,8 +110,9 @@ CharcoalKiln_Text_Apprentice2:
 CharcoalKiln_Text_Apprentice3:
 	.string "E-Entschuldige, ich habe vergessen\n"
 	.string "mich zu bedanken.\p"
-	.string "Das hier ist Holzkohle, es verstärkt\n"
-	.string "Feuer-Attacken. gib es einem Pokémon.$"
+	.string "Das hier ist Holzkohle, sie verstärkt\n"
+	.string "Feuer-Attacken. Gib sie einem\l"
+	.string "Pokémon.$"
 
 CharcoalKiln_Text_Apprentice4:
 	.string "Die Flegmon sind wieder da, und die\n"
