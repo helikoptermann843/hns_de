@@ -315,13 +315,13 @@ static const struct WindowTemplate sOptionDescWindowTemplate =
 };
 
 #if IS_HNS
-static const u8 *const sHnSMapPageDescriptionJohto = COMPOUND_STRING("Erforsche die Karte von JOHTO");
+static const u8 *const sHnSMapPageDescriptionJohto = COMPOUND_STRING("Erforsche die Karte von Johto");
 static const u8 *const sHnSMapPageDescriptionJohtoKanto = COMPOUND_STRING("Erforsche die komplette Karte");
 #endif
 
 static const u8 *const sPageDescriptions[] =
 {
-    [POKENAV_MENUITEM_MAP]                     = COMPOUND_STRING("Erforsche die Karte von HOENN"),
+    [POKENAV_MENUITEM_MAP]                     = COMPOUND_STRING("Erforsche die Karte von Hoenn"),
     [POKENAV_MENUITEM_CONDITION]               = COMPOUND_STRING("Untersuche Pokémon im Detail."),
     [POKENAV_MENUITEM_MATCH_CALL]              = COMPOUND_STRING("Anrufe an Trainer."),
     [POKENAV_MENUITEM_RIBBONS]                 = COMPOUND_STRING("Siehe deine Auszeichnungen."),
@@ -340,7 +340,7 @@ static const u8 *const sPageDescriptions[] =
     [POKENAV_MENUITEM_CONDITION_SEARCH_CUTE]   = COMPOUND_STRING("Finde süße POKéMON."),
     [POKENAV_MENUITEM_CONDITION_SEARCH_SMART]  = COMPOUND_STRING("Finde schlaue POKéMON."),
     [POKENAV_MENUITEM_CONDITION_SEARCH_TOUGH]  = COMPOUND_STRING("Finde zähe POKéMON."),
-    [POKENAV_MENUITEM_CONDITION_SEARCH_CANCEL] = COMPOUND_STRING("zurück zum ZUSTANDs-MENÜ.")
+    [POKENAV_MENUITEM_CONDITION_SEARCH_CANCEL] = COMPOUND_STRING("zurück zum Zustands-Menü.")
 };
 
 static const u8 sOptionDescTextColors[]  = {TEXT_COLOR_GREEN, TEXT_COLOR_BLUE, TEXT_COLOR_LIGHT_GREEN};
