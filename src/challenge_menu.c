@@ -330,17 +330,17 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OffOn[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("AN"),
 };
 
 static const u8 *const sChoices_OnOff[] = {
     COMPOUND_STRING("AN"),
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
 };
 
 static const u8 *const sChoices_Gamemode[] = {
-    COMPOUND_STRING("EMPFOHLEN"),
+    COMPOUND_STRING("Empfohlen"),
     COMPOUND_STRING("SELBSTDEF."),
 };
 
@@ -352,7 +352,7 @@ static const u8 *const sChoices_OriginalModern[] = {
 static const u8 sText_TopBar_Left[]   = _("{L_BUTTON}ZURÜCK");
 static const u8 sText_TopBar_Right[]  = _("{R_BUTTON}WEITER");
 static const u8 sText_TopBar_Save[]   = _("{R_BUTTON}SICHERN");
-static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}ABBRUCH");
+static const u8 sText_TopBar_Cancel[] = _("{B_BUTTON}Zurück");
 
 // =============================================================================
 // Tab item tables — skeleton placeholders
@@ -432,19 +432,19 @@ static const struct ChallengeMenuItem sTabItems_Mode[] = {
         .choiceNames  = sChoices_Gen3Gen7,
     },
     [ITEM_MODE_SYNCHRONIZE] = {
-        .name         = COMPOUND_STRING("SYNCHRO"),
+        .name         = COMPOUND_STRING("Synchro"),
         .descriptions = sDesc_Synchronize,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_STURDY] = {
-        .name         = COMPOUND_STRING("ROBUSTHEIT"),
+        .name         = COMPOUND_STRING("Robustheit"),
         .descriptions = sDesc_Sturdy,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
     },
     [ITEM_MODE_NEW_CITRUS] = {
-        .name         = COMPOUND_STRING("TSITRUBEERE"),
+        .name         = COMPOUND_STRING("Tsitrubeere"),
         .descriptions = sDesc_NewCitrus,
         .numChoices   = 2,
         .choiceNames  = sChoices_OriginalModern,
@@ -492,7 +492,7 @@ static const struct ChallengeMenuItem sTabItems_Mode[] = {
         .choiceNames  = sChoices_Gen3Gen1,
     },
     [ITEM_MODE_NEXT] = {
-        .name         = COMPOUND_STRING("WEITER"),
+        .name         = COMPOUND_STRING("Weiter"),
         .descriptions = sDesc_Next,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -507,23 +507,23 @@ static const u8 sText_ConfirmSave[] = COMPOUND_STRING("Auswahl speichern?");
 // =============================================================================
 
 static const u8 *const sChoices_OffRandom[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("ZUFALL"),
 };
 
 static const u8 *const sChoices_OffChaos[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("CHAOS"),
 };
 
 static const u8 *const sChoices_YesNo[] = {
-    COMPOUND_STRING("JA"),
-    COMPOUND_STRING("NEIN"),
+    COMPOUND_STRING("Ja"),
+    COMPOUND_STRING("Nein"),
 };
 
 static const u8 *const sChoices_BanUnban[] = {
     COMPOUND_STRING("BAN"),
-    COMPOUND_STRING("KEIN BAN"),
+    COMPOUND_STRING("Erlaubt"),
 };
 
 static const u8 *const sChoices_RtcFake[] = {
@@ -540,10 +540,10 @@ static const u8 *const sChoices_ShinyChance[] = {
 };
 
 static const u8 *const sChoices_Nuzlocke[] = {
-    COMPOUND_STRING("AUS"),
-    COMPOUND_STRING("LEICHT"),
-    COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HART"),
+    COMPOUND_STRING("Aus"),
+    COMPOUND_STRING("Leicht"),
+    COMPOUND_STRING("Normal"),
+    COMPOUND_STRING("Hart"),
 };
 
 static const u8 *const sChoices_CemeteryRelease[] = {
@@ -552,7 +552,7 @@ static const u8 *const sChoices_CemeteryRelease[] = {
 };
 
 static const u8 *const sChoices_PartyLimit[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("5"),
     COMPOUND_STRING("4"),
     COMPOUND_STRING("3"),
@@ -561,9 +561,9 @@ static const u8 *const sChoices_PartyLimit[] = {
 };
 
 static const u8 *const sChoices_LevelCap[] = {
-    COMPOUND_STRING("AUS"),
-    COMPOUND_STRING("NORMAL"),
-    COMPOUND_STRING("HART"),
+    COMPOUND_STRING("Aus"),
+    COMPOUND_STRING("Normal"),
+    COMPOUND_STRING("Hart"),
 };
 
 static const u8 *const sChoices_ExpMult[] = {
@@ -574,44 +574,44 @@ static const u8 *const sChoices_ExpMult[] = {
 };
 
 static const u8 *const sChoices_TrainerIVs[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("SKAL."),
-    COMPOUND_STRING("HART"),
+    COMPOUND_STRING("Hart"),
 };
 
 static const u8 *const sChoices_TrainerEVs[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("SKAL."),
-    COMPOUND_STRING("HART"),
+    COMPOUND_STRING("Hart"),
     COMPOUND_STRING("EXTREM"),
 };
 
 static const u8 *const sChoices_PlayerIVs[] = {
-    COMPOUND_STRING("JA"),
-    COMPOUND_STRING("NEIN"),
+    COMPOUND_STRING("Ja"),
+    COMPOUND_STRING("Nein"),
     COMPOUND_STRING("NEIN (KR)"),
 };
 
 static const u8 *const sChoices_PkmnCenter[] = {
-    COMPOUND_STRING("JA"),
-    COMPOUND_STRING("NEIN"),
+    COMPOUND_STRING("Ja"),
+    COMPOUND_STRING("Nein"),
 };
 
 static const u8 *const sChoices_Expensive[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("x5"),
     COMPOUND_STRING("x10"),
     COMPOUND_STRING("x50!"),
 };
 
 static const u8 *const sChoices_EvoLimit[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("ERSTE"),
-    COMPOUND_STRING("ALLE"),
+    COMPOUND_STRING("Alle"),
 };
 
 static const u8 *const sChoices_BstEqual[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("100"),
     COMPOUND_STRING("255"),
     COMPOUND_STRING("500"),
@@ -680,7 +680,7 @@ static const struct ChallengeMenuItem sTabItems_Features[] = {
         .choiceNames  = sChoices_BanUnban,
     },
     [ITEM_FEATURES_NEXT] = {
-        .name         = COMPOUND_STRING("WEITER"),
+        .name         = COMPOUND_STRING("Weiter"),
         .descriptions = sDesc_FeaturesNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -785,7 +785,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_TRAINER] = {
-        .name         = COMPOUND_STRING("TRAINER"),
+        .name         = COMPOUND_STRING("Trainer"),
         .descriptions = sDesc_RandomTrainer,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
@@ -809,19 +809,19 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_TYPE] = {
-        .name         = COMPOUND_STRING("TYP"),
+        .name         = COMPOUND_STRING("Typ"),
         .descriptions = sDesc_RandomType,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_MOVES] = {
-        .name         = COMPOUND_STRING("ATTACKEN"),
+        .name         = COMPOUND_STRING("Attacken"),
         .descriptions = sDesc_RandomMoves,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ABILITIES] = {
-        .name         = COMPOUND_STRING("FÄHIGKEITEN"),
+        .name         = COMPOUND_STRING("Fähigkeiten"),
         .descriptions = sDesc_RandomAbilities,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
@@ -845,7 +845,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffRandom,
     },
     [ITEM_RANDOM_ITEMS] = {
-        .name         = COMPOUND_STRING("ITEMS"),
+        .name         = COMPOUND_STRING("Items"),
         .descriptions = sDesc_RandomItems,
         .numChoices   = 2,
         .choiceNames  = sChoices_OffRandom,
@@ -857,7 +857,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffChaos,
     },
     [ITEM_RANDOM_NEXT] = {
-        .name         = COMPOUND_STRING("WEITER"),
+        .name         = COMPOUND_STRING("Weiter"),
         .descriptions = sDesc_RandomNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -918,7 +918,7 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NICKNAMING] = {
-        .name         = COMPOUND_STRING("SPITZNAME"),
+        .name         = COMPOUND_STRING("Spitzname"),
         .descriptions = sDesc_Nicknaming,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -936,7 +936,7 @@ static const struct ChallengeMenuItem sTabItems_Nuzlocke[] = {
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_NUZLOCKE_NEXT] = {
-        .name         = COMPOUND_STRING("WEITER"),
+        .name         = COMPOUND_STRING("Weiter"),
         .descriptions = sDesc_NuzlockeNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1071,7 +1071,7 @@ static const struct ChallengeMenuItem sTabItems_Difficulty[] = {
         .choiceNames  = sChoices_YesNo,
     },
     [ITEM_DIFFICULTY_NEXT] = {
-        .name         = COMPOUND_STRING("WEITER"),
+        .name         = COMPOUND_STRING("Weiter"),
         .descriptions = sDesc_DifficultyNext,
         .numChoices   = 0,
         .choiceNames  = NULL,
@@ -1488,7 +1488,7 @@ static void ChallengeMenu_ItemPrintFunc(u8 windowId, u32 itemId, u8 y)
         u8 n = sel;
         const u8 *text;
         static const u8 sText_Random[] = _("RANDOM");
-        static const u8 sText_Off[] = _("OFF");
+        static const u8 sText_Off[] = _("Aus");
         if (n > 18)
             text = sText_Off;
         else if (n == 18)

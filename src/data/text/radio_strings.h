@@ -16,7 +16,7 @@ static const u8 sRadioStationName_BuenasPassword[]  = _("Passwort mit Buena");
 static const u8 sRadioStationName_Unown[]           = _("?????");
 static const u8 sRadioStationName_PlacesAndPeople[] = _("Plätze & Leute");
 static const u8 sRadioStationName_LetsAllSing[]     = _("Lasst uns singen!");
-static const u8 sRadioStationName_PokeFlute[]       = _("POKéFLÖTE");
+static const u8 sRadioStationName_PokeFlute[]       = _("PokéFlöte");
 
 static const u8 sRadioStationName_HoennSound[]  = _("Hoenn Sound");
 
@@ -207,9 +207,9 @@ static const u8 *const sRadioText_PnP_PeopleAdj[] =
 // Rocket Radio
 // ==========================================================
 
-static const u8 sRadioStationName_Rocket[] = _("TEAM ROCKET");
+static const u8 sRadioStationName_Rocket[] = _("Team Rocket");
 static const u8 sRadioText_Rocket1[]  = _("… …Ähem, wir sind");
-static const u8 sRadioText_Rocket2[]  = _("TEAM ROCKET!");
+static const u8 sRadioText_Rocket2[]  = _("Team Rocket!");
 static const u8 sRadioText_Rocket3[]  = _("Nach drei Jahren");
 static const u8 sRadioText_Rocket4[]  = _("der Vorbereitung sind wir");
 static const u8 sRadioText_Rocket5[]  = _("wieder auferstanden");
@@ -239,7 +239,7 @@ static const u8 sRadioText_BuenaMidnight4[] = _("Danke fürs Einschalten");
 static const u8 sRadioText_BuenaMidnight5[] = _("bis zum Schluss! Aber");
 static const u8 sRadioText_BuenaMidnight6[] = _("bleibt nicht zu lange");
 static const u8 sRadioText_BuenaMidnight7[] = _("wach! Präsentiert von");
-static const u8 sRadioText_BuenaMidnight8[] = _("DJ BUENA!");
+static const u8 sRadioText_BuenaMidnight8[] = _("Dj Buena!");
 static const u8 sRadioText_BuenaMidnight9[] = _("Ich bin dann mal weg!");
 static const u8 sRadioText_BuenaMidnight10[] = _("…");
 static const u8 sRadioText_BuenaOffAir[] = _("");
@@ -248,12 +248,12 @@ static const u8 sRadioText_BuenaOffAir[] = _("");
 // Buena's Password Categories & Options
 // ==========================================================
 
-static const u8 sRadioBuenaPassword_NewBarkTown[]     = _("NEUBORKIA");
+static const u8 sRadioBuenaPassword_NewBarkTown[]     = _("Neuborkia");
 static const u8 sRadioBuenaPassword_CherrygroveCity[]  = _("ROSALIA");
 static const u8 sRadioBuenaPassword_AzaleaTown[]      = _("AZALEA");
-static const u8 sRadioBuenaPassword_Flying[]          = _("FLUG");
-static const u8 sRadioBuenaPassword_Bug[]             = _("KÄFER");
-static const u8 sRadioBuenaPassword_Grass[]           = _("PFLANZE");
+static const u8 sRadioBuenaPassword_Flying[]          = _("Flug");
+static const u8 sRadioBuenaPassword_Bug[]             = _("Käfer");
+static const u8 sRadioBuenaPassword_Grass[]           = _("Pflanze");
 static const u8 sRadioBuenaPassword_PkmnTalk[]        = _("POKéMON Talk");
 static const u8 sRadioBuenaPassword_PkmnMusic[]       = _("POKéMON Musik");
 static const u8 sRadioBuenaPassword_LuckyChannel[]    = _("Glückskanal");

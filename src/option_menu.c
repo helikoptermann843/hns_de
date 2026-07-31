@@ -201,22 +201,22 @@ static const u16 sTextPal[] = INCBIN_U16("graphics/interface/option_menu_text_cu
 // =============================================================================
 
 static const u8 *const sChoices_OnOff[] = {
-    COMPOUND_STRING("EIN"),
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Ein"),
+    COMPOUND_STRING("Aus"),
 };
 
 static const u8 *const sChoices_ShiftSet[] = {
-    COMPOUND_STRING("WECHSEL"),
-    COMPOUND_STRING("FOLGE"),
+    COMPOUND_STRING("Wechsel"),
+    COMPOUND_STRING("Folge"),
 };
 
 static const u8 *const sChoices_MonoStereo[] = {
-    COMPOUND_STRING("MONO"),
-    COMPOUND_STRING("STEREO"),
+    COMPOUND_STRING("Mono"),
+    COMPOUND_STRING("Stereo"),
 };
 
 static const u8 *const sChoices_ButtonMode[] = {
-    COMPOUND_STRING("NORMAL"),
+    COMPOUND_STRING("Normal"),
     COMPOUND_STRING("L/R"),
     COMPOUND_STRING("L=A"),
 };
@@ -244,7 +244,7 @@ static const u8 *const sChoices_Gen3Gen4[] = {
 };
 
 static const u8 *const sChoices_RunType[] = {
-    COMPOUND_STRING("AUS"),
+    COMPOUND_STRING("Aus"),
     COMPOUND_STRING("L+R+A"),
     COMPOUND_STRING("B{RIGHT_ARROW}A"),
     COMPOUND_STRING("B"),
@@ -384,13 +384,13 @@ static const struct OptionMenuItem sTabItems_Main[] = {
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_BATTLESTYLE] = {
-        .name         = COMPOUND_STRING("KAMPFSTIL"),
+        .name         = COMPOUND_STRING("Kampfstil"),
         .descriptions = sDesc_BattleStyle,
         .numChoices   = 2,
         .choiceNames  = sChoices_ShiftSet,
     },
     [ITEM_MAIN_BUTTONMODE] = {
-        .name         = COMPOUND_STRING("STEUERUNG"),
+        .name         = COMPOUND_STRING("Steuerung"),
         .descriptions = sDesc_ButtonMode,
         .numChoices   = 3,
         .choiceNames  = sChoices_ButtonMode,
@@ -444,7 +444,7 @@ static const struct OptionMenuItem sTabItems_Main[] = {
         .choiceNames  = sChoices_OnOff,
     },
     [ITEM_MAIN_FRAMETYPE] = {
-        .name         = COMPOUND_STRING("RAHMEN"),
+        .name         = COMPOUND_STRING("Rahmen"),
         .descriptions = sDesc_FrameType,
         .numChoices   = FRAME_TYPE_SPECIAL,
         .choiceNames  = NULL,
@@ -498,13 +498,13 @@ static const struct OptionMenuItem sTabItems_Battle[] = {
 
 static const struct OptionMenuItem sTabItems_Sound[] = {
     [ITEM_SOUND_SOUND] = {
-        .name         = COMPOUND_STRING("TON"),
+        .name         = COMPOUND_STRING("Ton"),
         .descriptions = sDesc_Sound,
         .numChoices   = 2,
         .choiceNames  = sChoices_MonoStereo,
     },
     [ITEM_SOUND_MUSIC] = {
-        .name         = COMPOUND_STRING("MUSIK"),
+        .name         = COMPOUND_STRING("Musik"),
         .descriptions = sDesc_Music,
         .numChoices   = 2,
         .choiceNames  = sChoices_OnOff,
@@ -535,9 +535,9 @@ struct TabDef
 };
 
 static const struct TabDef sTabs[TAB_COUNT] = {
-    [TAB_MAIN]   = { COMPOUND_STRING("OPTIONEN"),        sTabItems_Main,   ITEM_MAIN_COUNT },
+    [TAB_MAIN]   = { COMPOUND_STRING("Optionen"),        sTabItems_Main,   ITEM_MAIN_COUNT },
     [TAB_BATTLE] = { COMPOUND_STRING("KAMPFOPTIONEN"), sTabItems_Battle, ITEM_BATTLE_COUNT },
-    [TAB_SOUND]  = { COMPOUND_STRING("TON"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
+    [TAB_SOUND]  = { COMPOUND_STRING("Ton"),          sTabItems_Sound,  ITEM_SOUND_COUNT },
 };
 
 // =============================================================================
@@ -704,7 +704,7 @@ static void DrawFrameTypeChoice(u8 selection, int y, bool8 active)
     }
     text[i] = EOS;
 
-    DrawRightSideChoiceText(COMPOUND_STRING("TYP"), 104, y + 1, FALSE, active);
+    DrawRightSideChoiceText(COMPOUND_STRING("Typ"), 104, y + 1, FALSE, active);
     DrawRightSideChoiceText(text, 128, y + 1, TRUE, active);
 }
 

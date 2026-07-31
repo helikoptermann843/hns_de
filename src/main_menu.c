@@ -256,25 +256,25 @@ static const u32 sBirchSpeechShadowGfx[] = INCBIN_U32("graphics/birch_speech/sha
 static const u32 sBirchSpeechBgMap[] = INCBIN_U32("graphics/birch_speech/map.bin.smolTM");
 static const u16 sBirchSpeechBgGradientPal[] = INCBIN_U16("graphics/birch_speech/bg2.gbapal");
 
-static const u8 gText_SaveFileCorrupted[]       = _("Speicherstand ist korrumpiert. der\nvorherige wird geladen.");
-static const u8 gText_SaveFileErased[]          = _("Speicherstand wurde gelöscht\nwegen korrumption.");
+static const u8 gText_SaveFileCorrupted[]       = _("Der Spielstand ist beschädigt. Der\nvorherige Spielstand wird geladen.");
+static const u8 gText_SaveFileErased[]          = _("Der Spielstand wurde gelöscht.");
 static const u8 gJPText_No1MSubCircuit[]        = _("1Mサブきばんが ささっていません！");
-static const u8 gText_BatteryRunDry[]           = _("Die Interne Batterie ist tot.\nSpiel kann gespielt werden.\paber, zeitbasierte events\nfunktionieren nicht.");
+static const u8 gText_BatteryRunDry[]           = _("Interne Batterie ist verbraucht.\nSpiel kann fortgesetzt werden.\pAber zeitbasierende Spiel-Events\nwerden nicht mehr initiiert.");
 
-static const u8 gText_MainMenuNewGame[]         = _("NEUES SPIEL");
-static const u8 gText_MainMenuContinue[]        = _("WEITER");
-static const u8 gText_MainMenuOption[]          = _("OPTIONEN");
-static const u8 gText_MainMenuMysteryGift[]     = _("GEHEIMGESCHENK");
-static const u8 gText_MainMenuMysteryGift2[]    = _("GEHEIMGESCHENK");
+static const u8 gText_MainMenuNewGame[]         = _("Neues Spiel");
+static const u8 gText_MainMenuContinue[]        = _("Weiter");
+static const u8 gText_MainMenuOption[]          = _("Optionen");
+static const u8 gText_MainMenuMysteryGift[]     = _("Geheimgeschehen");
+static const u8 gText_MainMenuMysteryGift2[]    = _("Geheimgeschehen");
 static const u8 gText_MainMenuMysteryEvents[]   = _("GEHEIM EVENTS");
-static const u8 gText_WirelessNotConnected[]    = _("Der Wireless Adapter ist nicht\nangeschlossen.");
+static const u8 gText_WirelessNotConnected[]    = _("Der Drahtlose GBA-Adapter ist\nnicht angeschlossen.");
 static const u8 gText_MysteryGiftCantUse[]      = _("GEHEIMGESCHENK funktioniert nicht\nohne Wireless Adapter.");
 static const u8 gText_MysteryEventsCantUse[]    = _("GEHEIM EVENTS funktionieren nicht\nohne Wireless Adapter.");
 
-static const u8 gText_ContinueMenuPlayer[]      = _("SPIELER");
-static const u8 gText_ContinueMenuTime[]        = _("ZEIT");
-static const u8 gText_ContinueMenuPokedex[]     = _("POKéDEX");
-static const u8 gText_ContinueMenuBadges[]      = _("ORDEN");
+static const u8 gText_ContinueMenuPlayer[]      = _("Spieler");
+static const u8 gText_ContinueMenuTime[]        = _("Spielzeit");
+static const u8 gText_ContinueMenuPokedex[]     = _("Pokédex");
+static const u8 gText_ContinueMenuBadges[]      = _("Orden");
 
 #define MENU_LEFT 2
 #define MENU_TOP_WIN0 1
@@ -478,49 +478,49 @@ static const struct MenuAction sMenuActions_Gender[] = {
 };
 
 static const u8 *const sMalePresetNames[] = {
-    COMPOUND_STRING("STU"),
-    COMPOUND_STRING("MILTON"),
-    COMPOUND_STRING("TOM"),
-    COMPOUND_STRING("KENNY"),
-    COMPOUND_STRING("REID"),
-    COMPOUND_STRING("JUDE"),
-    COMPOUND_STRING("JAXSON"),
-    COMPOUND_STRING("EASTON"),
-    COMPOUND_STRING("WALKER"),
-    COMPOUND_STRING("TERU"),
-    COMPOUND_STRING("JOHNNY"),
-    COMPOUND_STRING("BRETT"),
-    COMPOUND_STRING("SETH"),
-    COMPOUND_STRING("TERRY"),
-    COMPOUND_STRING("CASEY"),
-    COMPOUND_STRING("DARREN"),
-    COMPOUND_STRING("LANDON"),
-    COMPOUND_STRING("COLLIN"),
-    COMPOUND_STRING("STANLEY"),
-    COMPOUND_STRING("QUINCY")
+    COMPOUND_STRING("Stefan"),
+    COMPOUND_STRING("Florian"),
+    COMPOUND_STRING("Jan"),
+    COMPOUND_STRING("Erik"),
+    COMPOUND_STRING("Thomas"),
+    COMPOUND_STRING("Martin"),
+    COMPOUND_STRING("Markus"),
+    COMPOUND_STRING("Klaus"),
+    COMPOUND_STRING("Paul"),
+    COMPOUND_STRING("Rolf"),
+    COMPOUND_STRING("Jörg"),
+    COMPOUND_STRING("Haiko"),
+    COMPOUND_STRING("Helge"),
+    COMPOUND_STRING("Daniel"),
+    COMPOUND_STRING("Michael"),
+    COMPOUND_STRING("David"),
+    COMPOUND_STRING("Roland"),
+    COMPOUND_STRING("Johann"),
+    COMPOUND_STRING("Dieter"),
+    COMPOUND_STRING("Anselm")
 };
 
 static const u8 *const sFemalePresetNames[] = {
-    COMPOUND_STRING("KIMMY"),
-    COMPOUND_STRING("TIARA"),
-    COMPOUND_STRING("BELLA"),
-    COMPOUND_STRING("JAYLA"),
-    COMPOUND_STRING("ALLIE"),
-    COMPOUND_STRING("LIANNA"),
-    COMPOUND_STRING("SARA"),
-    COMPOUND_STRING("MONICA"),
-    COMPOUND_STRING("CAMILA"),
-    COMPOUND_STRING("AUBREE"),
-    COMPOUND_STRING("RUTHIE"),
-    COMPOUND_STRING("HAZEL"),
-    COMPOUND_STRING("NADINE"),
-    COMPOUND_STRING("TANJA"),
-    COMPOUND_STRING("YASMIN"),
-    COMPOUND_STRING("NICOLA"),
-    COMPOUND_STRING("LILLIE"),
-    COMPOUND_STRING("TERRA"),
-    COMPOUND_STRING("LUCY"),
-    COMPOUND_STRING("HALIE")
+    COMPOUND_STRING("Tanja"),
+    COMPOUND_STRING("Mirjam"),
+    COMPOUND_STRING("Martina"),
+    COMPOUND_STRING("Jamie"),
+    COMPOUND_STRING("Carolin"),
+    COMPOUND_STRING("Simone"),
+    COMPOUND_STRING("Sara"),
+    COMPOUND_STRING("Claudia"),
+    COMPOUND_STRING("Jasmin"),
+    COMPOUND_STRING("Denise"),
+    COMPOUND_STRING("Katrin"),
+    COMPOUND_STRING("Kerstin"),
+    COMPOUND_STRING("Svenja"),
+    COMPOUND_STRING("Beate"),
+    COMPOUND_STRING("Meike"),
+    COMPOUND_STRING("Andrea"),
+    COMPOUND_STRING("Eva"),
+    COMPOUND_STRING("Petra"),
+    COMPOUND_STRING("Gabi"),
+    COMPOUND_STRING("Nadine")
 };
 
 // The number of male vs. female names is assumed to be the same.
