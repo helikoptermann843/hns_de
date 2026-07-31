@@ -1195,29 +1195,29 @@ bool32 IsWeatherAlphaBlend(void)
 }
 
 static const u8 sWeatherNames[WEATHER_COUNT][24] = {
-    [WEATHER_NONE]               = _("NONE"),
-    [WEATHER_SUNNY_CLOUDS]       = _("SUNNY CLOUDS"),
+    [WEATHER_NONE]               = _("Keins"),
+    [WEATHER_SUNNY_CLOUDS]       = _("Sonnig (Wolken)"),
     [WEATHER_SUNNY]              = _("Sonnig"),
     [WEATHER_RAIN]               = _("Regen"),
     [WEATHER_SNOW]               = _("Schnee"),
     [WEATHER_RAIN_THUNDERSTORM]  = _("Gewitter"),
-    [WEATHER_FOG_HORIZONTAL]     = _("FOG HORIZONTAL"),
+    [WEATHER_FOG_HORIZONTAL]     = _("Nebel (horizontal)"),
     [WEATHER_VOLCANIC_ASH]       = _("Vulkanasche"),
     [WEATHER_SANDSTORM]          = _("Sandsturm"),
-    [WEATHER_FOG_DIAGONAL]       = _("FOG DIAGONAL"),
-    [WEATHER_UNDERWATER]         = _("UNDERWATER"),
+    [WEATHER_FOG_DIAGONAL]       = _("Nebel (diagonal)"),
+    [WEATHER_UNDERWATER]         = _("Unterwasser"),
     [WEATHER_SHADE]              = _("Schatten"),
     [WEATHER_DROUGHT]            = _("Dürre"),
-    [WEATHER_DOWNPOUR]           = _("DOWNPOUR"),
-    [WEATHER_UNDERWATER_BUBBLES] = _("UNDERWATER BUBBLES"),
-    [WEATHER_ABNORMAL]           = _("ABNORMAL(NOT WORKING)"),
-    [WEATHER_ROUTE119_CYCLE]     = _("ROUTE119 CYCLE"),
-    [WEATHER_ROUTE123_CYCLE]     = _("ROUTE123 CYCLE"),
+    [WEATHER_DOWNPOUR]           = _("Platzregen"),
+    [WEATHER_UNDERWATER_BUBBLES] = _("Unterwasser (Blasen)"),
+    [WEATHER_ABNORMAL]           = _("Anormal (defekt)"),
+    [WEATHER_ROUTE119_CYCLE]     = _("Route-119-Zyklus"),
+    [WEATHER_ROUTE123_CYCLE]     = _("Route-123-Zyklus"),
     [WEATHER_FOG]                = _("Nebel"),
     [WEATHER_LEAVES]             = _("Laub"),
 };
 
-static const u8 sDebugText_WeatherNotDefined[] = _("NOT DEFINED!!!");
+static const u8 sDebugText_WeatherNotDefined[] = _("Nicht definiert!!!");
 const u8 *GetWeatherName(u32 weatherId)
 {
     if (sWeatherNames[weatherId][0] != 0)
