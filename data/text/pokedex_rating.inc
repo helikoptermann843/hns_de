@@ -138,80 +138,74 @@ PokedexRating_Text_SeenXOwnedY::
 	.string "Prof. Eichs Bewertung:$"
 
 PokedexRating_Text_LessThan10::
-	.string "Du hast noch viel vor dir.\p"
-	.string "Sieh in jedem Grasbüschel nach und\n"
-	.string "halte Ausschau nach Pokémon!$"
+	.string "Du hast noch eine Menge Arbeit vor dir.\p"
+	.string "Suche in hohem Gras nach Pokémon!$"
 
 PokedexRating_Text_LessThan20::
-	.string "Es sieht so aus, als wärst du auf dem\n"
-	.string "richtigen Weg!\p"
-	.string "Ich habe einem meiner Assistenten die\n"
-	.string "VM Blitz gegeben. Hol sie dir!$"
+	.string "Das sieht schon ganz gut aus!\p"
+	.string "Hole dir bei meinem Assistenten die VM\n"
+	.string "Blitz ab!$"
 
 PokedexRating_Text_LessThan30::
-	.string "Dein Pokédex könnte noch etwas mehr\n"
-	.string "Umfang vertragen!\p"
-	.string "Versuche, auch andere Pokémon-Arten\n"
-	.string "zu fangen!$"
+	.string "Du benötigst noch weitere!\p"
+	.string "Fange also die verschiedensten\n"
+	.string "Pokémon!$"
 
 PokedexRating_Text_LessThan40::
-	.string "Gut, man sieht, dass du dich\n"
-	.string "anstrengst!\p"
-	.string "Ich habe einem meiner Assistenten ein\n"
-	.string "Itemradar gegeben. Hol es dir!$"
+	.string "Sehr gut! Du gibst dir sehr viel Mühe!\p"
+	.string "Hole dir bei meinem Assistenten einen\n"
+	.string "Detektor ab!$"
 
 PokedexRating_Text_LessThan50::
-	.string "Dein Pokédex macht sich schon ganz\n"
-	.string "gut!\p"
+	.string "Dein Pokédex macht gute Fortschritte!\p"
 	.string "Ich habe einem meiner Assistenten ein\n"
 	.string "Münzamulett gegeben. Hol es dir!$"
 
 PokedexRating_Text_LessThan60::
-	.string "Ah, du hast endlich die 50 Arten\n"
-	.string "überschritten!\p"
+	.string "Ah, nun hast du mehr als 50!\p"
 	.string "Ich habe einem meiner Assistenten\n"
-	.string "einen EP-Teiler gegeben. Hol ihn dir!$"
+	.string "einen EP-Teiler gegeben. Hol in dir!$"
 
 PokedexRating_Text_LessThan70::
-	.string "Hoho! Das wird ja ein richtig\n"
-	.string "ansehnlicher Pokédex!$"
+	.string "Heh! Es wird immer besser!$"
 
 PokedexRating_Text_LessThan80::
-	.string "Sehr gut!\p"
-	.string "Ich glaube, beim Angeln wirst du noch\n"
-	.string "mehr Pokémon finden!$"
+	.string "Fantastisch!\p"
+	.string "Du solltest dir Wasser-Pokémon angeln!$"
 
 PokedexRating_Text_LessThan90::
-	.string "Wunderbar! Lass mich raten… Du\n"
-	.string "sammelst gerne, nicht wahr?$"
+	.string "Wundervoll! Du bist ein\n"
+	.string "leidenschaftlicher Sammler!$"
 
 PokedexRating_Text_LessThan100::
-	.string "Ich bin beeindruckt! Das war bestimmt\n"
-	.string "nicht leicht!$"
+	.string "Ich bin wirklich beeindruckt! Das war\n"
+	.string "sicher eine Menge Arbeit!$"
 
 PokedexRating_Text_LessThan110::
-	.string "Du hast endlich 100 Arten erreicht!\n"
-	.string "Unglaublich, wie gut du bist!$"
+	.string "Du hast bereits 100 verschiedene\n"
+	.string "Pokémon! Du leistest hervorragende\l"
+	.string "Arbeit!$"
 
 PokedexRating_Text_LessThan120::
-	.string "Du hast sogar die entwickelten Formen\n"
-	.string "der Pokémon! Super!$"
+	.string "Super! Einige deiner Pokémon haben sich\n"
+	.string "sogar entwickelt!$"
 
 PokedexRating_Text_LessThan130::
-	.string "Ausgezeichnet! Tausche mit Freunden,\n"
-	.string "um noch mehr zu bekommen!$"
+	.string "Ausgezeichnet! Tausche Pokémon mit\n"
+	.string "Freunden, um weitere zu erhalten!$"
 
 PokedexRating_Text_LessThan140::
-	.string "Hervorragend! Du bist ein echter Profi\n"
-	.string "geworden!$"
+	.string "Überragend! Du hast dich zu einem\n"
+	.string "echten Profi gemausert!$"
 
 PokedexRating_Text_LessThan150::
-	.string "Mir fehlen die Worte! Du bist jetzt der\n"
-	.string "Pokémon-Professor!$"
+	.string "Ich bin sprachlos!\p"
+	.string "Von nun an giltst du als Autorität für\n"
+	.string "Pokémon!$"
 
 PokedexRating_Text_Complete::
-	.string "Dein Pokédex ist vollständig!\n"
-	.string "Herzlichen Glückwunsch!!$"
+	.string "Dein Pokédex ist komplett fertig\n"
+	.string "gestellt! Herzlichen Glückwunsch!$"
 
 PokedexRating_Text_NationalDexSeenXOwnedY::
 	.string "In deinem Nationalen Pokédex\n"
