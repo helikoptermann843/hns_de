@@ -266,10 +266,10 @@ static const u8 gText_MainMenuContinue[]        = _("Weiter");
 static const u8 gText_MainMenuOption[]          = _("Optionen");
 static const u8 gText_MainMenuMysteryGift[]     = _("Geheimgeschehen");
 static const u8 gText_MainMenuMysteryGift2[]    = _("Geheimgeschehen");
-static const u8 gText_MainMenuMysteryEvents[]   = _("Geheim-Events");
+static const u8 gText_MainMenuMysteryEvents[]   = _("Geheimgeschehen");
 static const u8 gText_WirelessNotConnected[]    = _("Der Drahtlose GBA-Adapter ist\nnicht angeschlossen.");
-static const u8 gText_MysteryGiftCantUse[]      = _("Geheimgeschehen funktioniert nicht\nohne Drahtlosen Adapter.");
-static const u8 gText_MysteryEventsCantUse[]    = _("Geheim-Events funktionieren nicht\nohne Drahtlosen Adapter.");
+static const u8 gText_MysteryGiftCantUse[]      = _("Drahtloser Adapter angeschlossen;\nGeheimgeschehen unmöglich.");
+static const u8 gText_MysteryEventsCantUse[]    = _("Drahtloser Adapter angeschlossen;\nGeheimgeschehen unmöglich.");
 
 static const u8 gText_ContinueMenuPlayer[]      = _("Spieler");
 static const u8 gText_ContinueMenuTime[]        = _("Spielzeit");

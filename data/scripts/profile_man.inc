@@ -165,4 +165,4 @@ ProfileMan_Text_YouKnowSecretSaying:
 	.string "Oh?\n"
 	.string "Du kennst den Geheimspruch!\p"
 	.string "Das heißt, du bist jetzt Mitglied im\n"
-	.string "Klub für geheimnisvolle Ereignisse!$"
+	.string "Geheimgeschehen-Club!$"
