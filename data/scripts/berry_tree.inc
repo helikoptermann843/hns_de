@@ -350,36 +350,42 @@ BerryTree_Text_PlantedOneBerry:
 
 BerryTree_Text_BerryGrowthStage1:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "Hier hast du die\n{STR_VAR_1}gepflanzt!$"
+	.string "Hier hast du die {STR_VAR_1}\n"
+	.string "gepflanzt!$"
 .else
-	.string "Ein {STR_VAR_1} wurde hier gepflanzt.$"
+	.string "Eine {STR_VAR_1} wurde\n"
+	.string "hier gepflanzt.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage2:
 .if OW_BERRY_SIX_STAGES == TRUE
 	.string "Die {STR_VAR_1} sprießt!$"
 .else
-	.string "{STR_VAR_1} ist gesprossen!$"
+	.string "{STR_VAR_1} blüht auf.$"
 .endif
 
 BerryTree_Text_BerryGrowthStage3:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "Der {STR_VAR_1} Samen wächst gut!$"
+	.string "Der {STR_VAR_1}-Setzling\n"
+	.string "wächst gut!$"
 .else
-	.string "Diese {STR_VAR_1} Pflanze wächst gut.$"
+	.string "Die {STR_VAR_1}-Pflanze wächst.$"
 .endif
 
 BerryTree_Text_BerryGrowthStageTrunk:
-	.string "Der {STR_VAR_1} Stamm wird dicker!$"
+	.string "Der {STR_VAR_1}-Stamm\n"
+	.string "wird dicker!$"
 
 BerryTree_Text_BerryGrowthStageBudding:
-	.string "Der {STR_VAR_1} Baum hat Knospen!$"
+	.string "Der {STR_VAR_1}-Baum\n"
+	.string "hat Knospen!$"
 
 BerryTree_Text_BerryGrowthStage4:
 .if OW_BERRY_SIX_STAGES == TRUE
-	.string "Der {STR_VAR_1} Baum steht in Blüte!$"
+	.string "Der {STR_VAR_1}-Baum\n"
+	.string "steht in Blüte!$"
 .else
-	.string "Diese {STR_VAR_1} Blumen sprießen\n"
+	.string "Diese {STR_VAR_1}-Blumen sind\n"
 	.string "{STR_VAR_2}.$"
 .endif
 
@@ -416,7 +422,7 @@ BerryTree_Text_BerryLeftUnpicked:
 
 BerryTree_Text_WantToWater:
 	.string "Möchtest du die {STR_VAR_1} mit der\n"
-	.string "Wailmer-Kanne gießen?$"
+	.string "Wailmerkanne gießen?$"
 
 BerryTree_Text_WateredTheBerry:
 	.string "{PLAYER} gießt die {STR_VAR_1}.$"

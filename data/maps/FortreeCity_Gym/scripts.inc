@@ -152,7 +152,7 @@ FortreeCity_Gym_Text_GymGuidePostVictory:
 
 FortreeCity_Gym_Text_JaredIntro:
 	.string "Bewundere den eleganten Kampfstil der\n"
-	.string "Vogel-pokémon!$"
+	.string "Vogel-Pokémon!$"
 
 FortreeCity_Gym_Text_JaredDefeat:
 	.string "Du… Du bist stark…$"
@@ -165,7 +165,7 @@ FortreeCity_Gym_Text_JaredPostBattle:
 	.string "bis zu unserer Leiterin vorzudringen.$"
 
 FortreeCity_Gym_Text_EdwardoIntro:
-	.string "Liebhaber von Vogel-pokémon streben\n"
+	.string "Liebhaber von Vogel-Pokémon streben\n"
 	.string "danach, dieser Arena beizutreten.\p"
 	.string "Als Mitglied der Arena von Baumhausen\n"
 	.string "City darf ich nicht verlieren!$"
@@ -226,7 +226,7 @@ FortreeCity_Gym_Text_HumbertoPostBattle:
 
 FortreeCity_Gym_Text_DariusIntro:
 	.string "Es gibt viele verschiedene\n"
-	.string "Flug-pokémon.\p"
+	.string "Flug-Pokémon.\p"
 	.string "Das weißt du, oder?$"
 
 FortreeCity_Gym_Text_DariusDefeat:
@@ -245,7 +245,7 @@ FortreeCity_Gym_Text_WinonaIntro:
 	.string "Wie anstrengend der Kampf auch war,\n"
 	.string "wir haben mit Grazie gewonnen…\p"
 	.string "Werde Zeuge der eleganten Choreo-\n"
-	.string "graphie meiner Vogel-pokémon!$"
+	.string "graphie meiner Vogel-Pokémon!$"
 
 FortreeCity_Gym_Text_WinonaDefeat:
 	.string "Ich habe noch nie einen Trainer ge-\n"
@@ -280,7 +280,7 @@ FortreeCity_Gym_Text_RegisteredWinona:
 FortreeCity_Gym_Text_WinonaPostBattle:
 	.string "Auch wenn ich gegen dich verloren\n"
 	.string "habe,\l"
-	.string "gehört meine Liebe den Vogel-pokémon.$"
+	.string "gehört meine Liebe den Vogel-Pokémon.$"
 
 FortreeCity_Gym_Text_GymStatue:
 	.string "Pokémon Arena von Baumhausen City$"

@@ -107,7 +107,7 @@ SixIsland_PatternBush_Text_AllisonPostBattle::
 	.string "gefühl aufziehen.$"
 
 SixIsland_PatternBush_Text_GarretIntro::
-	.string "Ich habe ein Käfer-pokémon\n"
+	.string "Ich habe ein Käfer-Pokémon\n"
 	.string "gefangen, das nur hier vorkommt.$"
 
 SixIsland_PatternBush_Text_GarretDefeat::
@@ -137,7 +137,7 @@ SixIsland_PatternBush_Text_JonahPostBattle::
 
 SixIsland_PatternBush_Text_VanceIntro::
 	.string "Ja, ja, ja!\n"
-	.string "Sieh nur die vielen Käfer-pokémon!$"
+	.string "Sieh nur die vielen Käfer-Pokémon!$"
 
 SixIsland_PatternBush_Text_VanceDefeat::
 	.string "Ich wurde besiegt, als ich noch\n"
@@ -189,7 +189,7 @@ SixIsland_PatternBush_Text_DaliaPostBattle::
 	.string "Ist das nicht erfrischend?$"
 
 SixIsland_PatternBush_Text_JoanaIntro::
-	.string "Ich liebe Käfer-pokémon!\n"
+	.string "Ich liebe Käfer-Pokémon!\n"
 	.string "Deswegen bin ich immer hier.\p"
 	.string "Bin ich das einzige Mädchen, das\n"
 	.string "so denkt?$"
@@ -200,7 +200,7 @@ SixIsland_PatternBush_Text_JoanaDefeat::
 	.string "Mädchen, welches das kann?$"
 
 SixIsland_PatternBush_Text_JoanaPostBattle::
-	.string "Ich werde weiterhin Käfer-pokémon\n"
+	.string "Ich werde weiterhin Käfer-Pokémon\n"
 	.string "fangen.\p"
 	.string "Bin ich das einzige Mädchen, das\n"
 	.string "dies so macht?$"

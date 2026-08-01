@@ -79,7 +79,7 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "Pokémon?\p"
 	.string "Meine Strategie basiert auf dem\n"
 	.string "gnadenlosen Offensiv-Einsatz von\l"
-	.string "Wasser-pokémon!{PLAY_BGM}?À$"
+	.string "Wasser-Pokémon!{PLAY_BGM}?À$"
 
 CeruleanCity_Gym_Text_ExplainTM03::
 	.string "TM03 ist die Aquawelle!\p"

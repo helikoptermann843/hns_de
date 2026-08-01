@@ -49,7 +49,7 @@ Route6_Text_NancyRematchIntro::
 
 Route6_Text_KeigoRematchIntro::
 	.string "Ich suche nach etwas Gutem,\n"
-	.string "das kein Käfer-pokémon\l"
+	.string "das kein Käfer-Pokémon\l"
 	.string "ist, aber…$"
 
 Route6_Text_JeffRematchIntro::
@@ -247,7 +247,7 @@ Route12_Text_LucaRematchIntro::
 	.string "Elektrizität war schon immer\n"
 	.string "meine Stärke!\p"
 	.string "Ich habe allerdings von\n"
-	.string "Wasser-pokémon keine Ahnung!$"
+	.string "Wasser-Pokémon keine Ahnung!$"
 
 Route12_Text_HankRematchIntro::
 	.string "Der Angelkönig gegen das Pokémon-\n"

@@ -46,7 +46,7 @@ Route18_Text_RamiroDefeat::
 
 Route18_Text_RamiroPostBattle::
 	.string "Am Wochenende sammle ich immer\n"
-	.string "Wasser-pokémon!$"
+	.string "Wasser-Pokémon!$"
 
 Route18_Text_JacobIntro::
 	.string "Das hier ist mein Gebiet!\n"

@@ -63,7 +63,7 @@ EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ich bin Antonia von den Top Vier.\n"
 	.string "Ich habe am Pyroberg trainiert.\p"
 	.string "Während des Trainings habe ich die\n"
-	.string "Fähigkeit erworben, mit Geist-pokémon\l"
+	.string "Fähigkeit erworben, mit Geist-Pokémon\l"
 	.string "zu kommunizieren.\p"
 	.string "In der Tat ist das Band zwischen mir\n"
 	.string "und den Pokémon sehr stark.\p"

@@ -140,7 +140,7 @@ MortyRematchText:
 	.string "doch bist du seit unserem\l"
 	.string "letzten Kampf gewachsen?\p"
 	.string "Ich habe seitdem mit meinen\n"
-	.string "Geist-pokémon trainiert.\p"
+	.string "Geist-Pokémon trainiert.\p"
 	.string "Mal sehen, ob du die Schatten\n"
 	.string "erneut überwinden kannst.\p"
 	.string "Willst du eine Revanche?$"

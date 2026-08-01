@@ -151,10 +151,10 @@ CeladonCity_Gym_Text_BridgetDefeat::
 	.string "Ganz zerzaust!$"
 
 CeladonCity_Gym_Text_BridgetPostBattle::
-	.string "Pflanzen-pokémon sind gegenüber\n"
-	.string "Wasser-pokémon im Vorteil!\p"
+	.string "Pflanzen-Pokémon sind gegenüber\n"
+	.string "Wasser-Pokémon im Vorteil!\p"
 	.string "Ebenso sind sie Stein- und\n"
-	.string "Boden-pokémon überlegen!$"
+	.string "Boden-Pokémon überlegen!$"
 
 CeladonCity_Gym_Text_TinaIntro::
 	.string "… hast du nicht schon\n"
@@ -168,7 +168,7 @@ CeladonCity_Gym_Text_TinaPostBattle::
 	.string "und nicht mich…$"
 
 CeladonCity_Gym_Text_TamiaIntro::
-	.string "Schau dir meine Pflanzen-pokémon\n"
+	.string "Schau dir meine Pflanzen-Pokémon\n"
 	.string "an!\p"
 	.string "Man kann sie ohne Mühe trainieren!$"
 
@@ -177,13 +177,13 @@ CeladonCity_Gym_Text_TamiaDefeat::
 
 CeladonCity_Gym_Text_TamiaPostBattle::
 	.string "Wir trainieren ausschließlich\n"
-	.string "Pflanzen-pokémon in unserer\l"
+	.string "Pflanzen-Pokémon in unserer\l"
 	.string "Arena!\p"
 	.string "Wir lieben die Kräfte der Natur!$"
 
 CeladonCity_Gym_Text_LisaIntro::
 	.string "Bringe bloß keine Käfer- oder\n"
-	.string "Feuer-pokémon hierher!$"
+	.string "Feuer-Pokémon hierher!$"
 
 CeladonCity_Gym_Text_LisaDefeat::
 	.string "Oh!\n"

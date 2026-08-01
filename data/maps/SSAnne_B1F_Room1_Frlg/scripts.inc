@@ -26,7 +26,7 @@ SSAnne_B1F_Room1_Text_PhillipPostBattle::
 SSAnne_B1F_Room1_Text_BarnyIntro::
 	.string "Warte doch!\n"
 	.string "Lass uns plaudern!\p"
-	.string "Ich besitze nur Wasser-pokémon!$"
+	.string "Ich besitze nur Wasser-Pokémon!$"
 
 SSAnne_B1F_Room1_Text_BarnyDefeat::
 	.string "Mist!\n"

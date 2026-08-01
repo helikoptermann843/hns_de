@@ -547,7 +547,7 @@ MossdeepCity_Gym_Text_MaceyDefeat:
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
 	.string "Hmpf! Du magst ja stark sein, aber mit\n"
-	.string "Psycho-pokémon kommst du nicht\l"
+	.string "Psycho-Pokémon kommst du nicht\l"
 	.string "zurecht!\p"
 	.string "Du hast einen recht brutalen\n"
 	.string "Kampfstil.$"

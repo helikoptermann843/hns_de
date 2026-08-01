@@ -151,7 +151,7 @@ RustboroCity_Gym_Text_JoshDefeat:
 
 RustboroCity_Gym_Text_JoshPostBattle:
 	.string "Du hast noch gar nicht gesehen, was\n"
-	.string "Gestein-pokémon alles können.$"
+	.string "Gestein-Pokémon alles können.$"
 
 RustboroCity_Gym_Text_TommyIntro:
 	.string "Wenn du mich nicht besiegen kannst,\n"
@@ -168,7 +168,7 @@ RustboroCity_Gym_Text_TommyPostBattle:
 RustboroCity_Gym_Text_MarcIntro:
 	.string "Wir sind hier mitten in einer Stadt,\n"
 	.string "na und?!?\p"
-	.string "Meine Gestein-pokémon müssen sich\n"
+	.string "Meine Gestein-Pokémon müssen sich\n"
 	.string "einfach austoben!$"
 
 RustboroCity_Gym_Text_MarcDefeat:

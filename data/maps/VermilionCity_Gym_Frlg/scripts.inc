@@ -292,7 +292,7 @@ VermilionCity_Gym_Text_LtSurgeIntro::
 	.string "Chance, so viel ist sicher!\p"
 	.string "Lass mich dir etwas erzählen: \n"
 	.string "Während der Pokémon-Feldzüge\l"
-	.string "haben mich meine Elektro-pokémon\l"
+	.string "haben mich meine Elektro-Pokémon\l"
 	.string "gerettet!\p"
 	.string "Sie haben meine Gegner mit Strom\n"
 	.string "paralysiert!\p"

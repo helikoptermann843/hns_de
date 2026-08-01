@@ -100,10 +100,10 @@ Route9_Text_AlanPostBattle::
 
 Route9_Text_ConnerIntro::
 	.string "Du hast keine Chance gegen meine\n"
-	.string "Käfer-pokémon!$"
+	.string "Käfer-Pokémon!$"
 
 Route9_Text_ConnerDefeat::
-	.string "Meine Käfer-pokémon...$"
+	.string "Meine Käfer-Pokémon...$"
 
 Route9_Text_ConnerPostBattle::
 	.string "Wer keine Käfer mag, den mag ich\n"

@@ -165,7 +165,7 @@ SaffronCity_Gym_Text_JohanDefeat::
 	.string "Ich hab verloren!$"
 
 SaffronCity_Gym_Text_JohanPostBattle::
-	.string "Psycho-pokémon fürchten sich nur\n"
+	.string "Psycho-Pokémon fürchten sich nur\n"
 	.string "vor Käfern und Geistern!$"
 
 SaffronCity_Gym_Text_StacyIntro::

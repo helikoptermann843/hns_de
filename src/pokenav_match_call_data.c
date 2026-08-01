@@ -1145,12 +1145,12 @@ static const u8 gText_MatchCallSteven_Strategy[] = _("Nutze die Schwachpunkte!")
 static const u8 gText_MatchCallSteven_Pokemon[] = _("Ultimative Stahl-Pokémon.");
 
 static const u8 gText_MatchCallBrendan_Strategy[] = _("Kämpfe weise!");
-static const u8 gText_MatchCallBrendan_Pokemon[] = _("Ich setze viele Pokémon ein!");
-static const u8 gText_MatchCallBrendan_Intro1[] = _("Ich werde ein besserer Pokémon-");
-static const u8 gText_MatchCallBrendan_Intro2[] = _("Professor als mein Vater!");
+static const u8 gText_MatchCallBrendan_Pokemon[] = _("Ich setze viele Pkmn ein!");
+static const u8 gText_MatchCallBrendan_Intro1[] = _("Ich werde ein besserer");
+static const u8 gText_MatchCallBrendan_Intro2[] = _("Pkmn-Prof. als mein Vater!");
 
 static const u8 gText_MatchCallMay_Strategy[] = _("Ich kämpfe nicht gut!");
-static const u8 gText_MatchCallMay_Pokemon[] = _("Ich setze jedes Pokémon ein!");
+static const u8 gText_MatchCallMay_Pokemon[] = _("Ich setze jedes Pkmn ein!");
 static const u8 gText_MatchCallMay_Intro1[] = _("Meine Pokémon helfen Vater");
 static const u8 gText_MatchCallMay_Intro2[] = _("bei seinen Forschungen.");
 

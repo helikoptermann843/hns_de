@@ -129,7 +129,7 @@ ViridianForest_Text_CharlieDefeat::
 	.string "Ich hab verloren!$"
 
 ViridianForest_Text_CharliePostBattle::
-	.string "Käfer-pokémon entwickeln sich\n"
+	.string "Käfer-Pokémon entwickeln sich\n"
 	.string "schnell. Sie sind einfach toll!$"
 
 ViridianForest_Text_RanOutOfPokeBalls::

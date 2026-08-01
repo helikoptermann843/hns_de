@@ -463,7 +463,7 @@ SaffronCity_FightingDojoVIP_Text_Statue:
 SaffronCity_FightingDojoVIP_Text_Falkner_Rematch:
 	.string "Glückwunsch zum Sieg gegen\n"
 	.string "die Elite Vier!\p"
-	.string "Ich hab meine Flug-pokémon\n"
+	.string "Ich hab meine Flug-Pokémon\n"
 	.string "noch härter trainiert.\p"
 	.string "Kannst du die Kraft des\n"
 	.string "Himmels nochmal bezwingen?$"

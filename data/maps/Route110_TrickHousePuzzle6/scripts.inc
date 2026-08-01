@@ -64,7 +64,7 @@ Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
 	.string "wiederholen möchte!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Vielleicht kann mein Vogel-pokémon\n"
+	.string "Vielleicht kann mein Vogel-Pokémon\n"
 	.string "über die Mauer fliegen…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:

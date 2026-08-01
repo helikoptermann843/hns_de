@@ -16,7 +16,7 @@ const u8 gRibbonDescriptionPart2_Victory[] = _("im Duellturm.");
 const u8 gRibbonDescriptionPart1_Artist[] = _("Band für auserwählte");
 const u8 gRibbonDescriptionPart2_Artist[] = _("Porträt-Modelle.");
 const u8 gRibbonDescriptionPart1_Effort[] = _("Band für");
-const u8 gRibbonDescriptionPart2_Effort[] = _("fleissige Arbeiter.");
+const u8 gRibbonDescriptionPart2_Effort[] = _("fleißige Arbeiter.");
 
 const u8 *const gRibbonDescriptionPointers[][2] =
 {

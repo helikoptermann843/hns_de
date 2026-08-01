@@ -525,7 +525,7 @@ VermilionCity_Text_StevenIntro:
 	.string "Lebensraum für die invasivsten\l"
 	.string "Arten.\p"
 	.string "Halt die Augen offen und fange\n"
-	.string "alle Hoenn-pokémon, die du siehst.\p"
+	.string "alle Hoenn-Pokémon, die du siehst.\p"
 	.string "Manche Trainer haben sogar eines\n"
 	.string "gesichtet, das wie ein Jet durch\l"
 	.string "den Himmel fliegt…\l"

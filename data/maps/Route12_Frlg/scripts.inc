@@ -118,7 +118,7 @@ Route12_Text_LucaDefeat::
 
 Route12_Text_LucaPostBattle::
 	.string "Wasser leitet Elektrizität. Greife\n"
-	.string "Wasser-pokémon mit Elektrizität an!$"
+	.string "Wasser-Pokémon mit Elektrizität an!$"
 
 Route12_Text_HankIntro::
 	.string "Der Angelkönig gegen das Pokémon-\n"

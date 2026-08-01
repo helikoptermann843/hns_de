@@ -1645,8 +1645,8 @@ LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
 
 @ Unused
 LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:
-	.string "Transmission error.\n"
-	.string "Please try again.$"
+	.string "Übertragungsfehler!\n"
+	.string "Bitte erneut versuchen!$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX:
 	.string "Dein Pokémon wird an dem Wettbewerb\n"

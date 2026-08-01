@@ -52,7 +52,7 @@ Route102_Text_AllenPostBattle:
 Route102_Text_RickIntro:
 	.string "Haha! Unsere Augen haben sich\n"
 	.string "getroffen! Ich kämpfe mit meinen\l"
-	.string "Käfer-pokémon gegen dich!$"
+	.string "Käfer-Pokémon gegen dich!$"
 
 Route102_Text_RickDefeated:
 	.string "Auaaa! Besiegt und verloren!$"
@@ -294,7 +294,7 @@ Route104_Text_MiaNotEnoughMons:
 Route104_Text_IvanIntro:
 	.string "Warum soll ich ein Geheimnis daraus\n"
 	.string "machen? Ich bin der…\p"
-	.string "Wasser-pokémon-Experte!\n"
+	.string "Wasser-Pokémon-Experte!\n"
 	.string "Wie?!? Du kennst mich nicht?!?$"
 
 Route104_Text_IvanDefeat:
@@ -787,7 +787,7 @@ Route108_Text_MissyPostBattle:
 	.string "Das ist sehr gesund!$"
 
 Route108_Text_CoryIntro:
-	.string "Ich liebe Wasser-pokémon.\n"
+	.string "Ich liebe Wasser-Pokémon.\n"
 	.string "Und ich liebe auch andere Pokémon.$"
 
 Route108_Text_CoryDefeated:
@@ -2269,7 +2269,7 @@ Route116_Text_JoeyPostBattle:
 	.string "Ich brauche unbedingt einen weiteren!$"
 
 Route116_Text_JoseIntro:
-	.string "Meine Käfer-pokémon sind stark!\n"
+	.string "Meine Käfer-Pokémon sind stark!\n"
 	.string "Lass uns kämpfen!$"
 
 Route116_Text_JoseDefeat:
@@ -2277,7 +2277,7 @@ Route116_Text_JoseDefeat:
 	.string "ich könnte dich am Kragen packen…$"
 
 Route116_Text_JosePostBattle:
-	.string "Käfer-pokémon entwickeln sich schnell.\n"
+	.string "Käfer-Pokémon entwickeln sich schnell.\n"
 	.string "So werden sie auch schnell stark.$"
 
 Route116_Text_JaniceIntro:
@@ -2649,13 +2649,13 @@ Route117_Text_MelinaPostBattle:
 
 Route117_Text_BrandiIntro:
 	.string "Ich werde dir die verborgenen Kräfte\n"
-	.string "der Psycho-pokémon zeigen.$"
+	.string "der Psycho-Pokémon zeigen.$"
 
 Route117_Text_BrandiDefeat:
 	.string "Erstaunlich!$"
 
 Route117_Text_BrandiPostBattle:
-	.string "Psycho-pokémon sind komplexe Wesen.\n"
+	.string "Psycho-Pokémon sind komplexe Wesen.\n"
 	.string "Du solltest dir auch welche fangen.$"
 
 Route117_Text_AishaIntro:
@@ -2704,7 +2704,7 @@ Route118_Text_RosePostRematch:
 	.string "angezogen.$"
 
 Route118_Text_PerryIntro:
-	.string "Vogel-pokémon, die elegant durch die\n"
+	.string "Vogel-Pokémon, die elegant durch die\n"
 	.string "Lüfte Fliegen… Sie sind die Besten!$"
 
 Route118_Text_PerryDefeat:
@@ -2716,7 +2716,7 @@ Route118_Text_PerryPostBattle:
 
 Route118_Text_ChesterIntro:
 	.string "Erhebt euch!\n"
-	.string "Meine Vogel-pokémon!$"
+	.string "Meine Vogel-Pokémon!$"
 
 Route118_Text_ChesterDefeat:
 	.string "Sie sind abgehoben…$"
@@ -2944,12 +2944,12 @@ Route119_Text_HughDefeat:
 	.string "Abgewürgt und abgestürzt.$"
 
 Route119_Text_HughPostBattle:
-	.string "Meine Vogel-pokémon lassen den Traum\n"
+	.string "Meine Vogel-Pokémon lassen den Traum\n"
 	.string "vom Fliegen für mich wahr werden!$"
 
 Route119_Text_PhilIntro:
 	.string "Ich zeige dir meine wahre Stärke und\n"
-	.string "die meiner Vogel-pokémon!$"
+	.string "die meiner Vogel-Pokémon!$"
 
 Route119_Text_PhilDefeat:
 	.string "Uns fehlt es an Potenzial…$"
@@ -3152,7 +3152,7 @@ Route120_Text_JeffreyPostRematch:
 	.string "… … … … … …\n"
 	.string "… … … … … …\l"
 	.string "Ich werde mich mehr anstrengen…\l"
-	.string "Für meine kostbaren Käfer-pokémon…$"
+	.string "Für meine kostbaren Käfer-Pokémon…$"
 
 Route120_Text_JenniferIntro:
 	.string "Pokémon haben viele spezielle Fähig-\n"
@@ -3358,7 +3358,7 @@ Route121_Text_JessicaDefeat:
 	.string "Sache doch nicht gleich so ernst!$"
 
 Route121_Text_JessicaPostBattle:
-	.string "Vielleicht werde ich in die Safari-zone\n"
+	.string "Vielleicht werde ich in die Safari-Zone\n"
 	.string "gehen und mehr Pokémon fangen!$"
 
 Route121_Text_JessicaRegister:
@@ -3374,7 +3374,7 @@ Route121_Text_JessicaRematchDefeat:
 	.string "Du nimmst es wirklich zu ernst!$"
 
 Route121_Text_JessicaPostRematch:
-	.string "Vielleicht werde ich in die Safari-zone\n"
+	.string "Vielleicht werde ich in die Safari-Zone\n"
 	.string "gehen und mehr Pokémon fangen!$"
 
 Route121_Text_CristinIntro:
@@ -3676,7 +3676,7 @@ Route123_Text_FrederickPostBattle:
 	.string "Reicht dir das Preisgeld nicht aus?$"
 
 Route123_Text_AlbertoIntro:
-	.string "Vogel-pokémon sind meine große\n"
+	.string "Vogel-Pokémon sind meine große\n"
 	.string "Leidenschaft.\p"
 	.string "Vögel sind absolut cool!\n"
 	.string "Sie sind die Besten überhaupt!$"
@@ -4249,7 +4249,7 @@ Route127_Text_RogerPostBattle:
 	.string "Sie tanzt Tango! Hahahah, hiiiks!$"
 
 Route127_Text_AidanIntro:
-	.string "Vogel-pokémon haben exzellente Augen.\n"
+	.string "Vogel-Pokémon haben exzellente Augen.\n"
 	.string "Sie erspähen Beute aus großer Höhe.$"
 
 Route127_Text_AidanDefeat:
@@ -4804,7 +4804,7 @@ Route133_Text_WarrenPostBattle:
 	.string "anderen. Das ist doch klar!$"
 
 Route133_Text_BeckIntro:
-	.string "Ich bin mit meinen Vogel-pokémon\n"
+	.string "Ich bin mit meinen Vogel-Pokémon\n"
 	.string "hierher gekommen.$"
 
 Route133_Text_BeckDefeat:
@@ -4872,7 +4872,7 @@ Route134_Text_AlexDefeat:
 	.string "Wir wurden wieder fertig gemacht.$"
 
 Route134_Text_AlexPostBattle:
-	.string "Meine Vogel-pokémon werden nach einem\n"
+	.string "Meine Vogel-Pokémon werden nach einem\n"
 	.string "langen Flug schnell müde…$"
 
 Route134_Text_HitoshiIntro:
