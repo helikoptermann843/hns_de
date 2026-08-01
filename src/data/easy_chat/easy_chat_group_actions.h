@@ -133,7 +133,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Actions[] = {
     },
     [EC_INDEX(EC_WORD_LAVISH)] =
     {
-        .text = COMPOUND_STRING("Grosszügig"),
+        .text = COMPOUND_STRING("Großzügig"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_LAVISH),
         .enabled = TRUE,
     },

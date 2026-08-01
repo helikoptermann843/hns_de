@@ -97,7 +97,7 @@ const struct EasyChatWordInfo gEasyChatGroup_People[] = {
     },
     [EC_INDEX(EC_WORD_GRANDMOTHER)] =
     {
-        .text = COMPOUND_STRING("Grossmutter"),
+        .text = COMPOUND_STRING("Großmutter"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_FAMILY),
         .enabled = TRUE,
     },

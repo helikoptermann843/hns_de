@@ -133,7 +133,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Adjectives[] = {
     },
     [EC_INDEX(EC_WORD_SCATTER)] =
     {
-        .text = COMPOUND_STRING("Schmeiss"),
+        .text = COMPOUND_STRING("Schmeiß"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BREAK),
         .enabled = TRUE,
     },

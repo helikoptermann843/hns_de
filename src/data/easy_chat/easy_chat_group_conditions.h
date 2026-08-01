@@ -115,7 +115,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Conditions[] = {
     },
     [EC_INDEX(EC_WORD_BIG)] =
     {
-        .text = COMPOUND_STRING("Gross"),
+        .text = COMPOUND_STRING("Groß"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_BORED),
         .enabled = TRUE,
     },
@@ -205,7 +205,7 @@ const struct EasyChatWordInfo gEasyChatGroup_Conditions[] = {
     },
     [EC_INDEX(EC_WORD_OVERWHELMING)] =
     {
-        .text = COMPOUND_STRING("Mitreissend"),
+        .text = COMPOUND_STRING("Mitreißend"),
         .alphabeticalOrder = EC_INDEX(EC_WORD_NOISY),
         .enabled = TRUE,
     },
