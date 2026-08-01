@@ -41,7 +41,7 @@ SealedChamber_OuterRoom_Braille_Period:
 
 SealedChamber_OuterRoom_Braille_WXYZ:
 	brailleformat 7, 6, 21, 13, 10, 9
-	.byte 0x1A, 0x26, 0x2D @ ÄÖÜ
+	.byte 0x1A, 0x26, 0x2D @ Ã„Ã–Ãœ
 	.braille "$"
 
 SealedChamber_OuterRoom_Braille_Comma:
@@ -71,7 +71,7 @@ SealedChamber_InnerRoom_Braille_InThisCaveWeHaveLived:
 	brailleformat 2, 0, 26, 19, 5, 3
 	.braille "IN DIESER\n"
 	.braille "H"
-	.byte 0x26 @ Ö
+	.byte 0x26 @ Ã–
 	.braille "HLE HABEN\n"
 	.braille "WIR GELEBT"
 	.byte 0x3F, 0x10 @ .
@@ -115,11 +115,11 @@ SealedChamber_InnerRoom_Braille_ThoseWithCourageHope:
 SealedChamber_InnerRoom_Braille_OpenDoorEternalPokemonWaits:
 	brailleformat 3, 2, 27, 17, 6, 5
 	.braille "EINE T"
-	.byte 0x2D @ Ü
+	.byte 0x2D @ Ãœ
 	.braille "RE ZU\n"
 	.braille "EINEM EWIGEN\n"
 	.braille "POKEMON\n"
-	.byte 0x26 @ Ö
+	.byte 0x26 @ Ã–
 	.braille "FFNEN"
 	.byte 0x3F, 0x10 @ .
 	.braille "$"
@@ -134,7 +134,7 @@ DesertRuins_Braille_UseRockSmash:
 	.braille "\n"
 	.braille "ANSCHLIESSEND\n"
 	.braille "ZERTR"
-	.byte 0x2D @ Ü
+	.byte 0x2D @ Ãœ
 	.braille "MMERER"
 	.byte 0x3F, 0x10 @ .
 	.braille "$"

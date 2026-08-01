@@ -208,7 +208,7 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 	.string "Willkommen im\n"
 	.string "Tausch-Service.\p"
 	.string "Hier kannst du deine gesammelten\l"
-	.string "Kampfpunkte gegen tolle Preise\l"
+	.string "Gewinnpunkte gegen tolle Preise\l"
 	.string "eintauschen.\p"
 	.string "Bitte wähle einen Preis aus.$"
 
@@ -246,4 +246,4 @@ TrainerHill_Courtyard_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Wenn du in den Kampfanlagen\l"
 	.string "immer bessere Rekorde schaffst,\p"
 	.string "erhältst du nach und nach mehr\n"
-	.string "Kampfpunkte.$"
+	.string "Gewinnpunkte.$"
