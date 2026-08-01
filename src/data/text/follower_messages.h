@@ -18,7 +18,7 @@ extern const u8 EventScript_FollowerLookAroundScared[];
 extern const u8 EventScript_FollowerDance[];
 extern const u8 EventScript_FollowerLookUp[];
 
-/ 'Generic', unconditional happy messages
+// 'Generic', unconditional happy messages
 static const u8 sHappyMsg00[] = _("{STR_VAR_1} stupst dich\nin den Magen.");
 static const u8 sHappyMsg01[] = _("{STR_VAR_1} ist ganz\nverlegen vor Freude.");
 static const u8 sHappyMsg02[] = _("{STR_VAR_1} zuckelt gut\ngelaunt hinter dir her!");
@@ -50,7 +50,7 @@ static const u8 sHappyMsg27[] = _("Es beschnüffelt die Blumen.");
 static const u8 sHappyMsg28[] = _("{STR_VAR_1} begrüßt\ndich überglücklich!");
 static const u8 sHappyMsg29[] = _("{STR_VAR_1} sieht zu dir herüber\nund streckt die Zunge heraus!");
 static const u8 sHappyMsg30[] = _("{STR_VAR_1} schmiegt sich\nglücklich an dich!");
-/ Conditional messages begin here, index 31
+// Conditional messages begin here, index 31
 static const u8 sHappyMsg31[] = _("Es freut sich über\ndas schöne Wetter!");
 static const u8 sHappyMsg32[] = _("{STR_VAR_1} lässt sich\nnicht aus der Ruhe bringen!");
 
@@ -71,7 +71,7 @@ const struct FollowerMsgInfo gFollowerHappyMessages[] = {
     {sHappyMsg31}, {sHappyMsg32},
 };
 
-/ Unconditional neutral messages
+// Unconditional neutral messages
 static const u8 sNeutralMsg00[] = _("{STR_VAR_1} pickt beharrlich\nauf dem Boden herum.");
 static const u8 sNeutralMsg01[] = _("{STR_VAR_1} hält Wache.");
 static const u8 sNeutralMsg02[] = _("{STR_VAR_1} schaut Löcher\nin die Luft.");
@@ -102,11 +102,11 @@ const struct FollowerMsgInfo gFollowerNeutralMessages[] = {
     {sNeutralMsg13, EventScript_FollowerLookAwayBark},
 };
 
-/ Unconditional sad messages
+// Unconditional sad messages
 static const u8 sSadMsg00[] = _("{STR_VAR_1} ist schwindlig!");
 static const u8 sSadMsg01[] = _("{STR_VAR_1} tritt dir\nauf die Füße!");
 static const u8 sSadMsg02[] = _("{STR_VAR_1} scheint ein\nwenig aus der Puste zu sein.");
-/ Conditional messages begin, index 3
+// Conditional messages begin, index 3
 static const u8 sSadMsg03[] = _("{STR_VAR_1} ist nicht zufrieden.");
 static const u8 sSadMsg04[] = _("{STR_VAR_1} wird herunterfallen!\n");
 static const u8 sSadMsg05[] = _("{STR_VAR_1} ist immer noch\nkurz vorm Umkippen.");
@@ -119,11 +119,11 @@ const struct FollowerMsgInfo gFollowerSadMessages[] = {
     {sSadMsg03}, {sSadMsg04}, {sSadMsg05}, {sSadMsg06}, {sSadMsg07},
 };
 
-/ Unconditional upset messages
+// Unconditional upset messages
 static const u8 sUpsetMsg00[] = _("{STR_VAR_1} zieht ein brummiges\nGesicht.");
 static const u8 sUpsetMsg01[] = _("{STR_VAR_1} scheint irgendwie\nunglücklich zu sein...");
 static const u8 sUpsetMsg02[] = _("...\nIhm fröstelt ein wenig.");
-/ Conditional messages, index 3
+// Conditional messages, index 3
 static const u8 sUpsetMsg03[] = _("{STR_VAR_1} verkriecht sich im\nDickicht vor dem Regen.");
 
 const struct FollowerMsgInfo gFollowerUpsetMessages[] = {
@@ -132,7 +132,7 @@ const struct FollowerMsgInfo gFollowerUpsetMessages[] = {
     {sUpsetMsg03},
 };
 
-/ Unconditional angry messages
+// Unconditional angry messages
 static const u8 sAngryMsg00[] = _("{STR_VAR_1} knurrt laut!");
 static const u8 sAngryMsg01[] = _("{STR_VAR_1} zieht ein grimmiges\nGesicht und knurrt!");
 static const u8 sAngryMsg02[] = _("{STR_VAR_1} scheint wegen\nirgendetwas verärgert zu sein!");
@@ -145,7 +145,7 @@ const struct FollowerMsgInfo gFollowerAngryMessages[] = {
     {sAngryMsg04},
 };
 
-/ Unconditional pensive messages
+// Unconditional pensive messages
 static const u8 sPensiveMsg00[] = _("{STR_VAR_1} sitzt ganz still\nund starrt nach unten.");
 static const u8 sPensiveMsg01[] = _("{STR_VAR_1} lässt seinen Blick\numherschweifen.");
 static const u8 sPensiveMsg02[] = _("{STR_VAR_1} steht wie angewurzelt\nda und blickt nach unten.");
@@ -179,7 +179,7 @@ const struct FollowerMsgInfo gFollowerPensiveMessages[] = {
     {sPensiveMsg14}, {sPensiveMsg15}, {sPensiveMsg16}, {sPensiveMsg17}, {sPensiveMsg18}, {sPensiveMsg19},
 };
 
-/ All 'love' messages are unconditional
+// All 'love' messages are unconditional
 static const u8 sLoveMsg00[] = _("{STR_VAR_1} rückt urplötzlich\nnäher an deine Beine heran.");
 static const u8 sLoveMsg01[] = _("Die Wangen von {STR_VAR_1} \nleuchten rosig.");
 static const u8 sLoveMsg02[] = _("Oh! {STR_VAR_1} umarmt\ndich ganz plötzlich!");
@@ -204,7 +204,7 @@ const struct FollowerMsgInfo gFollowerLoveMessages[] = {
     {sLoveMsg09},
 };
 
-/ Unconditional surprised messages
+// Unconditional surprised messages
 static const u8 sSurpriseMsg00[] = _("{STR_VAR_1} wäre fast\nvornüber gekippt!");
 static const u8 sSurpriseMsg01[] = _("{STR_VAR_1} rempelt dich an!");
 static const u8 sSurpriseMsg02[] = _("{STR_VAR_1} hat sich offenbar noch\nnicht recht an seinen Namen gewöhnt.");
@@ -225,7 +225,7 @@ static const u8 sSurpriseMsg16[] = _("{STR_VAR_1} spürt eine geheimnisvolle\nGe
 static const u8 sSurpriseMsg17[] = _("{STR_VAR_1} hat Bammel und\nschmiegt sich eng an dich!");
 static const u8 sSurpriseMsg18[] = _("{STR_VAR_1} spürt die Anwesenheit\nvon irgendetwas Außergewöhnlichem...");
 static const u8 sSurpriseMsg19[] = _("{STR_VAR_1} ist stocksteif\nvor Nervosität.");
-/ Conditional messages, index 20
+// Conditional messages, index 20
 static const u8 sSurpriseMsg20[] = _("{STR_VAR_1} scheint vom\nRegen sichtlich überrascht!");
 
 const struct FollowerMsgInfo gFollowerSurpriseMessages[] = {
@@ -243,7 +243,7 @@ const struct FollowerMsgInfo gFollowerSurpriseMessages[] = {
     {sSurpriseMsg20},
 };
 
-/ Unconditional curious messages
+// Unconditional curious messages
 static const u8 sCuriousMsg00[] = _("Es schaut sich gehetzt um und\nscheint irgendetwas zu suchen!");
 static const u8 sCuriousMsg01[] = _("Es hat nicht aufgepasst, wo es\nhinläuft, und rummst in dich hinein!");
 static const u8 sCuriousMsg02[] = _("Sniff, sniff!\nDa ist irgendetwas in der Nähe!");
@@ -260,7 +260,7 @@ const struct FollowerMsgInfo gFollowerCuriousMessages[] = {
     {sCuriousMsg05}, {sCuriousMsg06},
 };
 
-/ Unconditional music messages
+// Unconditional music messages
 static const u8 sMusicMsg00[] = _("{STR_VAR_1} macht einen\nleichtfüßigen Satz!");
 static const u8 sMusicMsg01[] = _("{STR_VAR_1} schnüffelt\naufgeweckt um dich herum.");
 static const u8 sMusicMsg02[] = _("Oh! {STR_VAR_1} führt plötzlich\nein Freudentänzchen auf!");
@@ -275,7 +275,7 @@ static const u8 sMusicMsg10[] = _("Oh! {STR_VAR_1} führt plötzlich\nein Freude
 static const u8 sMusicMsg11[] = _("{STR_VAR_1} ist quietschfidel!");
 static const u8 sMusicMsg12[] = _("{STR_VAR_1} hüpft ohne ersichtliche\nMühe in hohem Bogen herum.");
 static const u8 sMusicMsg13[] = _("Der Geruch scheint alte Erinnerungen\nin ihm geweckt zu haben...");
-/ Conditional music messages, index 14
+// Conditional music messages, index 14
 static const u8 sMusicMsg14[] = _("{STR_VAR_1} labt sich\nam Regenwetter!");
 
 const struct FollowerMsgInfo gFollowerMusicMessages[] = {
