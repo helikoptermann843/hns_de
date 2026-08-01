@@ -314,8 +314,8 @@ Route117_Text_FriendlyWithOtherTrainersMon:
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
-	.string "If you want to pick up your Pokémon,\n"
-	.string "have a word with my wife.$"
+	.string "Wenn du deine Pokémon abholen\n"
+	.string "möchtest, sprich mit meiner Frau.$"
 
 Route117_Text_YourMonsAreDoingFine:
 	.string "Ah, du bist es! Deine Pokémon\n"
@@ -377,7 +377,7 @@ Route117_PokemonDayCare_Text_YourTeamIsFull:
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
-	.string "Which Pokémon will you take back?$"
+	.string "Welches Pokémon möchtest du abholen?$"
 
 Route117_PokemonDayCare_Text_ItWillCostX:
 	.string "Wenn du dein {STR_VAR_1} mitnehmen\n"

@@ -1376,9 +1376,9 @@ LilycoveCity_ContestLobby_Text_ContestReception:
 
 @ Unused
 LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests:
-	.string "Hello!\p"
-	.string "This reception counter is only\n"
-	.string "for 4-player Pokémon Contests.$"
+	.string "Hallo!\p"
+	.string "Diese Rezeption ist nur für\n"
+	.string "4-Spieler-Pokémon-Wettbewerbe da.$"
 
 LilycoveCity_ContestLobby_Text_EnterContest1:
 	.string "Soll eines deiner Pokémon an einem der\n"
@@ -1579,11 +1579,12 @@ ContestHall_Text_PickUpPrizeAtCounterLater:
 
 @ Unused
 ContestHall_Text_OnlyRegister4Players:
-	.string "I only register four players for\n"
-	.string "Pokémon Contests.\p"
-	.string "If three other players link up, all\n"
-	.string "four may enter the same Contest.\p"
-	.string "Would you like to take part?$"
+	.string "Ich registriere nur vier Spieler für\n"
+	.string "Pokémon-Wettbewerbe.\p"
+	.string "Wenn sich drei weitere Spieler ver-\n"
+	.string "binden, können alle vier am selben\l"
+	.string "Wettbewerb teilnehmen.\p"
+	.string "Möchtest du teilnehmen?$"
 
 LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
 	.string "Bevor du an einem Wettbewerb teil-\n"
@@ -1599,15 +1600,16 @@ LilycoveCity_ContestLobby_Text_EnterContest2:
 
 @ Unused
 LilycoveCity_ContestLobby_Text_Explain4PlayerContest:
-	.string "When four players are ready, connect\n"
-	.string "over a Game Link cable, and register\l"
-	.string "with me, please.\p"
-	.string "Please choose the same Contest\n"
-	.string "as your fellow contestants.\p"
-	.string "The Contest begins as soon as all\n"
-	.string "players register their entry.\p"
-	.string "After that, the usual Contest rules\n"
-	.string "apply.$"
+	.string "Wenn vier Spieler bereit sind, ver-\n"
+	.string "bindet euch bitte über ein Link-Kabel\l"
+	.string "und meldet euch bei mir an.\p"
+	.string "Bitte wählt alle denselben Wettbewerb\n"
+	.string "wie eure Mitstreiter.\p"
+	.string "Der Wettbewerb beginnt, sobald alle\n"
+	.string "Spieler ihre Teilnahme angemeldet\l"
+	.string "haben.\p"
+	.string "Danach gelten die üblichen Wettbe-\n"
+	.string "werbsregeln.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_EnterWhichContest2:
@@ -1638,8 +1640,8 @@ LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
 
 @ Unused
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
-	.string "We hope you will participate another\n"
-	.string "time.$"
+	.string "Wir hoffen, du nimmst ein anderes Mal\n"
+	.string "teil.$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:

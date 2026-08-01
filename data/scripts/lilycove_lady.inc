@@ -700,8 +700,8 @@ LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizQuestion:
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_QuitWritingQuizAnswer:
-	.string "Are you going to quit choosing\n"
-	.string "your quiz answer?$"
+	.string "Möchtest du die Wahl deiner\n"
+	.string "Quizantwort abbrechen?$"
 
 LilycoveCity_PokemonCenter_1F_Text_IllLookForAChallenger:
 	.string "Vielen Dank!\n"

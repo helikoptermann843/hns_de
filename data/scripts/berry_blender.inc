@@ -112,8 +112,9 @@ BerryBlender_Text_DontHavePokeblockCase2:
 
 @ Unused
 BerryBlender_Text_MakePokeblocksWithOurGroup:
-	.string "Oh, hello! Did you want to make some\n"
-	.string "{POKEBLOCK}S with our little group?$"
+	.string "Oh, hallo! Möchtest du mit unserer\n"
+	.string "kleinen Gruppe ein paar {POKEBLOCK}\l"
+	.string "herstellen?$"
 
 BerryBlender_Text_OhDear:
 	.string "Oh!$"

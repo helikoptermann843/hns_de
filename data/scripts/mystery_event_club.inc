@@ -173,5 +173,5 @@ Text_HeardThatBefore:
 	.string "pflegte das zu sagen!$"
 
 Text_TellMoreNextTime:
-	.string "Please tell me more about\n"
-	.string "yourself next time!$"
+	.string "Erzähl mir beim nächsten Mal mehr\n"
+	.string "von dir!$"

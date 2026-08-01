@@ -222,21 +222,21 @@ Text_CantLetYouPass::
 	.string "nicht durchlassen!$"
 
 Text_OhThatsBadgeGoRightAhead::
-	.string "Oh! That is the {STR_VAR_1}!\n"
-	.string "Go right ahead.$"
+	.string "Oh! Du trägst den {STR_VAR_1}!\n"
+	.string "Dann darfst du weitergehen!$"
 
 Text_OnlyPassWithBadgeDontHaveYet::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "You don't have the {STR_VAR_1}\n"
-	.string "yet.\p"
-	.string "You have to have it to get to\n"
-	.string "the Pokémon League.$"
+	.string "Du darfst nur mit dem {STR_VAR_1}\n"
+	.string "passieren!\p"
+	.string "Du besitzt den {STR_VAR_1} noch\n"
+	.string "nicht!\p"
+	.string "Nur wer ihn trägt, darf in die\n"
+	.string "Pokémon Liga!$"
 
 Text_OnlyPassWithBadgeOhGoAhead::
-	.string "You can pass here only if you have\n"
-	.string "the {STR_VAR_1}.\p"
-	.string "Oh! That is the {STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
-	.string "Okay, then.\n"
-	.string "Please, go right ahead.$"
+	.string "Du darfst nur passieren, wenn du\n"
+	.string "bereits den {STR_VAR_1} hast!\p"
+	.string "Wunderbar! Du trägst den\n"
+	.string "{STR_VAR_1}!{PAUSE_MUSIC}{PLAY_BGM}{MUS_LEVEL_UP}{PAUSE 0x60}{RESUME_MUSIC}\p"
+	.string "O.K., setze deinen Weg fort!$"
 
