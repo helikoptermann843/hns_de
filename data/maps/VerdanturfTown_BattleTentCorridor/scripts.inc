@@ -43,29 +43,31 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which Contest are you entering?\n"
-	.string "Want a piece of advice?\p"
-	.string "In any Contest, for example, a Cute\n"
-	.string "Contest, I don't think they judge you\l"
-	.string "only on cuteness in the first round.\p"
-	.string "You need to work out ways for raising\n"
-	.string "Pokémon better.$"
+	.string "An welchem Wettbewerb nimmst du teil?\n"
+	.string "Möchtest du einen Rat?\p"
+	.string "Bei jedem Wettbewerb, zum Beispiel\n"
+	.string "einem Anmutwettbewerb, wird im ersten\l"
+	.string "Durchlauf nicht nur die Anmut bewertet.\p"
+	.string "Du musst Wege finden, deine Pokémon\n"
+	.string "besser aufzuziehen.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my Pokémon to be cute.\p"
-	.string "I found out you can put Pokémon in\n"
-	.string "a Contest for cuteness!\p"
-	.string "I'm so glad I raised my Pokémon with\n"
-	.string "loving care…$"
+	.string "Ich habe mein Pokémon anmutig\n"
+	.string "aufgezogen.\p"
+	.string "Ich habe herausgefunden, dass man mit\n"
+	.string "Pokémon an einem Anmutwettbewerb\l"
+	.string "teilnehmen kann!\p"
+	.string "Wie gut, dass ich mein Pokémon mit so\n"
+	.string "viel Liebe aufgezogen habe…$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My Pokémon rules!\p"
-	.string "It's cool, tough yet beautiful, cute,\n"
-	.string "and smart. It's complete!\p"
-	.string "I may as well go for wins in every\n"
-	.string "single Contest.$"
+	.string "Mein Pokémon ist spitze!\p"
+	.string "Es ist cool, stark und dabei schön,\n"
+	.string "anmutig und klug. Einfach perfekt!\p"
+	.string "Da kann ich auch gleich jeden\n"
+	.string "einzelnen Wettbewerb gewinnen wollen.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:

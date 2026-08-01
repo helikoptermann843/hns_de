@@ -679,8 +679,8 @@ BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} returned everything that\n"
-	.string "the Pokémon held.$"
+	.string "{PLAYER} gibt alles zurück, was die\n"
+	.string "Pokémon getragen haben.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
 	.string "Dein Pyrabeutel wird hier von uns\n"
@@ -695,8 +695,8 @@ BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
-	.string "As a memento for conquering\n"
-	.string "the Battle Pyramid, please take this.$"
+	.string "Als Andenken an deinen Sieg über die\n"
+	.string "Kampfpyramide nimm bitte dies hier.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:

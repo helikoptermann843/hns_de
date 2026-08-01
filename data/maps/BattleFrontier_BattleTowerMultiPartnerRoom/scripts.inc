@@ -312,8 +312,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Accept::
 	.string "Ich werde uns sofort registrieren.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Reject::
-	.string "I really wanted to form a tag team\n"
-	.string "with you, {PLAYER}…$"
+	.string "Ich hätte so gern mit dir ein Team\n"
+	.string "gebildet, {PLAYER}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro::
 	.string "Ich bin Schüler Nr. {STR_VAR_2} von {STR_VAR_1}.\n"
@@ -333,8 +333,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept::
 	.string "Registrierung!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject::
-	.string "{PLAYER}, I was hoping that I could\n"
-	.string "partner up with you…$"
+	.string "{PLAYER}, ich hatte gehofft, mit dir\n"
+	.string "ein Team bilden zu dürfen…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro::
 	.string "Ähm, ich heiße {STR_VAR_3} und ich bin\n"

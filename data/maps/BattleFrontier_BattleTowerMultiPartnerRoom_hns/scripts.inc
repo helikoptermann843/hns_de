@@ -332,8 +332,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept_hns::
 	.string "Ich erledige die Anmeldung schnell!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject_hns::
-	.string "{PLAYER}, I was hoping that I could\n"
-	.string "partner up with you…$"
+	.string "{PLAYER}, ich hatte gehofft, mit dir\n"
+	.string "ein Team bilden zu dürfen…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro_hns::
 	.string "Ähm, ich heiße {STR_VAR_3} und ich bin\n"

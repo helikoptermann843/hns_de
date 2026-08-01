@@ -657,19 +657,19 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
 @ Possibly replaced/superseded by the hard battle room, which is the same but the battle isnt optional
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
-	.string "Excuse me…\p"
-	.string "Would you care for a battle?\n"
-	.string "I’ll restore your Pokémon if you win.$"
+	.string "Entschuldige…\p"
+	.string "Möchtest du gegen mich kämpfen?\n"
+	.string "Gewinnst du, heile ich deine Pokémon.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
-	.string "Very well…\n"
-	.string "Now, shall we?$"
+	.string "Nun gut…\n"
+	.string "Wollen wir?$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
-	.string "I see…\n"
-	.string "How unsporting of you…$"
+	.string "Ich verstehe…\n"
+	.string "Wie unsportlich von dir…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:

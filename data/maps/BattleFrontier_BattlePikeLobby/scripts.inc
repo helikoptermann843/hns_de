@@ -377,10 +377,10 @@ BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
-	.string "You appear to have reached the limit\n"
-	.string "for Battle Points…\p"
-	.string "Please exchange some Battle Points\n"
-	.string "for prizes, then return…$"
+	.string "Du scheinst die Höchstzahl an\n"
+	.string "Gewinnpunkten erreicht zu haben…\p"
+	.string "Bitte tausche einige Gewinnpunkte\n"
+	.string "gegen Preise ein und komm wieder…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
 	.string "Ich bitte vielmals um Entschuldigung,\n"
@@ -420,11 +420,11 @@ BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
-	.string "What is this weird place?\n"
-	.string "I can’t figure it out at all!\p"
-	.string "I’ve taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run into\l"
-	.string "Trainers whichever path I choose.$"
+	.string "Was ist das nur für ein seltsamer Ort?\n"
+	.string "Ich werde einfach nicht schlau daraus!\p"
+	.string "Ich habe die Herausforderung schon oft\n"
+	.string "angenommen, aber egal, welchen Weg ich\l"
+	.string "wähle - ich treffe immer nur Trainer.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 	.string "Die Regeln der Kampfbahn hängen\n"

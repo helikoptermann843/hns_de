@@ -383,8 +383,8 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
-	.string "I will return your Pokémon in exchange\n"
-	.string "for our rental Pokémon.$"
+	.string "Ich gebe dir deine Pokémon zurück und\n"
+	.string "nehme dafür die Leih-Pokémon an mich.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
 	.string "Herzlichen Glückwunsch! Du hast sieben\n"
@@ -398,9 +398,9 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 	.string "Oh, oh, oh!\p"
-	.string "Your Battle Points are maxed.\p"
-	.string "Please come back after using\n"
-	.string "some Battle Points.$"
+	.string "Deine Gewinnpunkte sind am Maximum.\p"
+	.string "Bitte komm wieder, wenn du einige\n"
+	.string "Gewinnpunkte ausgegeben hast.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
 	.string "Wir haben schon auf dich gewartet!\p"
@@ -417,7 +417,8 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
-	.string "We’ll return your personal Pokémon.$"
+	.string "Wir geben dir nun deine eigenen\n"
+	.string "Pokémon zurück.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
@@ -510,12 +511,12 @@ BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Like, I’m really tough, but I get bored\n"
-	.string "really easily, so I just kept swapping\l"
-	.string "and battling over and over.\p"
-	.string "So anyway, when I kept entering\n"
-	.string "Battle Swap events, I noticed they\l"
-	.string "varied the rental Pokémon.$"
+	.string "Also, ich bin echt stark, aber mir wird\n"
+	.string "schnell langweilig. Deshalb hab ich\l"
+	.string "immer weiter getauscht und gekämpft.\p"
+	.string "Und weil ich so oft im Wechselkampf\n"
+	.string "war, ist mir aufgefallen: Die Leih-\l"
+	.string "Pokémon sind jedes Mal andere.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
 	.string "Die Regeln des Wechselkampfes hängen\n"

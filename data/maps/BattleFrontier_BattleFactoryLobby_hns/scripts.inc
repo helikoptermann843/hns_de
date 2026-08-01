@@ -383,8 +383,8 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hnsSaveResults_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons_hns:
-	.string "I will return your Pokémon in exchange\n"
-	.string "for our rental Pokémon.$"
+	.string "Ich gebe dir deine Pokémon zurück und\n"
+	.string "nehme dafür die Leih-Pokémon an mich.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins_hns:
 	.string "Herzlichen Glückwunsch! Du hast sieben\n"

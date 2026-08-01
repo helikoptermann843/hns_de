@@ -952,8 +952,9 @@ BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize:
-	.string "For beating seven Trainers in a row,\n"
-	.string "you have earned this fabulous prize!\p"
+	.string "Du hast sieben Trainer in Folge\n"
+	.string "besiegt und dir diesen tollen Preis\l"
+	.string "verdient!\p"
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
@@ -1055,21 +1056,21 @@ BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction:
-	.string "Welcome to the Battle Tower\n"
-	.string "Double Battle Corner!\p"
-	.string "Unfortunately, the Battle Rooms\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "Willkommen im Bereich für\n"
+	.string "Doppelkämpfe des Duellturms!\p"
+	.string "Leider sind die Kampfräume noch\n"
+	.string "im Bau.\p"
+	.string "Bitte komm wieder, wenn die Arbeiten\n"
+	.string "abgeschlossen sind.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
-	.string "Welcome to the Battle Tower\n"
-	.string "Multi Battle Corner!\p"
-	.string "Unfortunately, the Battle Rooms\n"
-	.string "are still under construction.\p"
-	.string "Please come back when the work\n"
-	.string "is completed.$"
+	.string "Willkommen im Bereich für\n"
+	.string "Multikämpfe des Duellturms!\p"
+	.string "Leider sind die Kampfräume noch\n"
+	.string "im Bau.\p"
+	.string "Bitte komm wieder, wenn die Arbeiten\n"
+	.string "abgeschlossen sind.$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
 	.string "Wir freuen uns auf deine nächste\n"
