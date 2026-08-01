@@ -130,8 +130,8 @@ BattleFrontier_Lounge2_Text_SwingByForTheLatestWord_hns::
 @ Unused
 BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight_hns::
 	.string "Na? Na? Na?\p"
-	.string "Meine Infos waren dir doch sicher\n"
-	.string "richtig nützlich, oder?$"
+	.string "Meine Informationen waren dir doch\n"
+	.string "bestimmt eine große Hilfe, oder?$"
 
 BattleFrontier_Lounge2_Text_FacilityIsHottest_hns::
 	.string "Mal sehen…\p"

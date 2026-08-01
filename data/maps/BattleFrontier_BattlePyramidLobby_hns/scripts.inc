@@ -681,8 +681,8 @@ BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld_hns:
-	.string "Wir geben dir alle Items zurück,\n"
-	.string "die wir für dich aufbewahrt haben.$"
+	.string "{PLAYER} gibt alles zurück, was die\n"
+	.string "Pokémon getragen haben.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept_hns:
 	.string "Dein Pyrabeutel wird hier von uns\n"
@@ -697,7 +697,7 @@ BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis_hns:
-	.string "Als Andenken an die Eroberung der\n"
+	.string "Als Andenken an deinen Sieg über die\n"
 	.string "Kampfpyramide nimm bitte dies hier.$"
 
 @ Unused
@@ -707,8 +707,9 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull_hns:
-	.string "Dein Beutel ist voll.\n"
-	.string "Komm später wieder.$"
+	.string "…Ah… Dein Beutel ist voll.\p"
+	.string "Bitte komm wieder, wenn du deinen\n"
+	.string "Beutel aufgeräumt hast.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag_hns:
 	.string "Das muss für dich enttäuschend sein…\p"
@@ -721,8 +722,9 @@ BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize_hns:
-	.string "Hier ist der Preis, den wir für dich\n"
-	.string "aufbewahrt haben.$"
+	.string "Wir haben schon auf dich gewartet!\p"
+	.string "Hier ist dein Preis für deinen Sieg\n"
+	.string "über die Pyramide.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait_hns:
 	.string "Willkommen…\n"

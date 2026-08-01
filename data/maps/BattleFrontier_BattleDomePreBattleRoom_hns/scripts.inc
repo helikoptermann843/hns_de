@@ -312,26 +312,24 @@ BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete_hns:
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2_hns:
-	.string "Glückwunsch zur bestandenen\n"
-	.string "1. Runde!\p"
-	.string "Als Nächstes folgt die 2. Runde.\n"
-	.string "Bist du bereit?$"
+	.string "Glückwunsch! Du hast die erste Runde\n"
+	.string "überstanden!\p"
+	.string "Als Nächstes kommt die zweite Runde.\n"
+	.string "Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals_hns:
-	.string "Glückwunsch! Du hast es bis zum finalen\n"
-	.string "Kampf geschafft!\p"
-	.string "In diesem Finale wirst du auf den\n"
-	.string "Stadionstar Tasso treffen.\p"
-	.string "Bist du bereit?$"
+	.string "Glückwunsch! Du hast es bis ins\n"
+	.string "Halbfinale geschafft!\p"
+	.string "Hier treffen die besten vier Teams\n"
+	.string "aufeinander. Bist du so weit?$"
 
 @ Unused
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals_hns:
-	.string "Glückwunsch! Du hast es bis zum finalen\n"
-	.string "Kampf geschafft!\p"
-	.string "In diesem Finale wirst du auf den\n"
-	.string "Stadionstar Tasso treffen.\p"
-	.string "Bist du bereit?$"
+	.string "Glückwunsch! Du hast es bis zum\n"
+	.string "finalen Kampf geschafft!\p"
+	.string "Nur noch ein Sieg bis zum Titel.\n"
+	.string "Bist du so weit?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer_hns:
 	.string "Der nächste Gegner von {PLAYER} ist\n"

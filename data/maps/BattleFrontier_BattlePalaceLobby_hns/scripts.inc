@@ -479,8 +479,8 @@ BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded_hns:
 
 @ Unused
 BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak_hns:
-	.string "Für deinen dreifachen Sieg bekommst du\n"
-	.string "von uns diesen Preis überreicht.$"
+	.string "Für deinen siebenfachen Sieg bekommst\n"
+	.string "du von uns Gewinnpunkte überreicht.$"
 
 BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize_hns:
 	.string "Du hast keinen Platz für den Preis?\p"

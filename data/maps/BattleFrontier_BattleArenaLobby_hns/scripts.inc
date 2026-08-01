@@ -453,13 +453,13 @@ BattleFrontier_BattleArenaLobby_Text_RecordAchievement_hns:
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize_hns:
-	.string "Zur Feier deiner 7-Siege-Serie\n"
-	.string "erhältst du diesen Preis.$"
+	.string "In Anerkennung deines siebenfachen\n"
+	.string "Sieges überreichen wir dir diesen Preis.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_ReceivedPrize_hns:
-	.string "{PLAYER} hat den Preis\n"
-	.string "{STR_VAR_1} erhalten.$"
+	.string "{PLAYER} gewinnt\n"
+	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize_hns:

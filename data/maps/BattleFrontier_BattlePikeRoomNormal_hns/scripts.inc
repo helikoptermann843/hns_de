@@ -658,13 +658,13 @@ BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell_hns:
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons_hns:
 	.string "Entschuldige…\p"
-	.string "Hättest du Lust auf einen Kampf?\n"
-	.string "Bei einem Sieg heile ich deine Pokémon.$"
+	.string "Möchtest du gegen mich kämpfen?\n"
+	.string "Gewinnst du, heile ich deine Pokémon.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe_hns:
-	.string "Wohlan denn…\n"
-	.string "Wollen wir beginnen?$"
+	.string "Nun gut…\n"
+	.string "Wollen wir?$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
@@ -673,9 +673,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou_hns:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised_hns:
-	.string "Großartig…\p"
+	.string "Ganz vorzüglich…\p"
 	.string "Wie versprochen heile ich deine\n"
-	.string "Pokémon vollständig.$"
+	.string "Pokémon und mache sie wieder fit.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2_hns:

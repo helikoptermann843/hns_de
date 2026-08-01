@@ -392,8 +392,8 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak_hns:
-	.string "In Anerkennung deines unglaublichen\n"
-	.string "Glücks erhältst du Gewinnpunkte.$"
+	.string "In Anerkennung deines siebenfachen\n"
+	.string "Sieges geben wir dir Gewinnpunkte.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints_hns:
@@ -417,7 +417,7 @@ BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons_hns:
-	.string "Wir geben dir deine eigenen\n"
+	.string "Wir geben dir nun deine eigenen\n"
 	.string "Pokémon zurück.$"
 
 @ Unused
@@ -512,10 +512,11 @@ BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints_hns:
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried_hns:
 	.string "Also, ich bin echt stark, aber mir wird\n"
-	.string "schnell langweilig. Deshalb habe ich\l"
-	.string "immer wieder getauscht und gekämpft.\p"
-	.string "Dabei ist mir aufgefallen: Die Leih-\n"
-	.string "Pokémon sind jedes Mal andere!$"
+	.string "schnell langweilig. Deshalb hab ich\l"
+	.string "immer weiter getauscht und gekämpft.\p"
+	.string "Und weil ich so oft im Wechselkampf\n"
+	.string "war, ist mir aufgefallen: Die Leih-\l"
+	.string "Pokémon sind jedes Mal andere.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed_hns:
 	.string "Die Regeln des Wechselkampfes hängen\n"

@@ -295,41 +295,41 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner_hns::
 	.string "für die Multikämpfe zeigen.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro_hns::
-	.string "Ich bin {STR_VAR_1}s Lehrling Nr.\n"
-	.string "{STR_VAR_2}.\l"
-	.string "Nenn mich einfach {STR_VAR_3}!$"
+	.string "Ich bin Schüler Nr. {STR_VAR_2} von {STR_VAR_1}.\n"
+	.string "Du kannst mich {STR_VAR_3} nennen!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1_hns::
 	.string "{STR_VAR_1} hat mir geraten, ein\n"
 	.string "{STR_VAR_3}, das {STR_VAR_2} kann, und$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask_hns::
-	.string "ein {STR_VAR_2} mit {STR_VAR_1}.\p"
-	.string "Bitte, lass uns ein Team bilden!$"
+	.string "ein {STR_VAR_2}, das {STR_VAR_1} kann.\p"
+	.string "Bitte, lass mich dein Partner sein.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Accept_hns::
-	.string "Danke!\n"
-	.string "Ich melde uns gleich an.$"
+	.string "Vielen Dank!\n"
+	.string "Ich werde uns sofort registrieren.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Reject_hns::
-	.string "Ich wollte so gern mit dir,\n"
-	.string "{PLAYER}, ein Team bilden…$"
+	.string "Ich hätte so gern mit dir ein Team\n"
+	.string "gebildet, {PLAYER}…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro_hns::
-	.string "Ich bin {STR_VAR_1}s Lehrling Nr.\n"
-	.string "{STR_VAR_2}. Mein Name ist {STR_VAR_3}.$"
+	.string "Ich bin Schüler Nr. {STR_VAR_2} von {STR_VAR_1}.\n"
+	.string "Mein Name ist {STR_VAR_3}.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1_hns::
-	.string "Ich hab mir von {STR_VAR_1} Rat geholt\n"
-	.string "und ein {STR_VAR_3} mit {STR_VAR_2} und$"
+	.string "{STR_VAR_1} hat mich beraten. Ich habe\n"
+	.string "ein {STR_VAR_3}, das {STR_VAR_2} kann, und$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon2Ask_hns::
-	.string "ein {STR_VAR_2} mit {STR_VAR_1}.\p"
+	.string "ein {STR_VAR_2}, das {STR_VAR_1} kann.\p"
 	.string "Bitte, lass uns ein Team bilden!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept_hns::
 	.string "Vielen Dank!\n"
-	.string "Ich erledige die Anmeldung schnell!$"
+	.string "Ich kümmere mich sofort um die\l"
+	.string "Registrierung!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject_hns::
 	.string "{PLAYER}, ich hatte gehofft, mit dir\n"
