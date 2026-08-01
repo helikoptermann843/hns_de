@@ -1370,10 +1370,10 @@ BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon_hns:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons_hns:
-	.string "Your friend has chosen a different\n"
-	.string "battle level.\p"
-	.string "Your friend has also selected the\n"
-	.string "Pokémon {STR_VAR_1} and {STR_VAR_2}.$"
+	.string "Dein Freund hat eine andere\n"
+	.string "Kampfkategorie gewählt.\p"
+	.string "Dein Freund hat auch die Pokémon\n"
+	.string "{STR_VAR_1} und {STR_VAR_2} gewählt.$"
 
 BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode_hns:
 	.string "Bitte wähle zwei andere Pokémon aus,\n"

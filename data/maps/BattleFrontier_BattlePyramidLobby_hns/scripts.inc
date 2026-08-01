@@ -702,7 +702,7 @@ BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis_hns:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem_hns:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused

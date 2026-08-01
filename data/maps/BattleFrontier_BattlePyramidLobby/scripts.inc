@@ -700,14 +700,14 @@ BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
-	.string "…Ah… Your Bag appears to be filled.\p"
-	.string "Please return after you’ve organized\n"
-	.string "your Bag’s contents.$"
+	.string "…Ah… Dein Beutel ist voll.\p"
+	.string "Bitte komm wieder, wenn du deinen\n"
+	.string "Beutel aufgeräumt hast.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "Das muss für dich enttäuschend sein…\p"
@@ -720,10 +720,9 @@ BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
-	.string "We have been looking forward to\n"
-	.string "your arrival!\p"
-	.string "Here is your prize for conquering\n"
-	.string "the Pyramid.$"
+	.string "Wir haben schon auf dich gewartet!\p"
+	.string "Hier ist dein Preis für deinen Sieg\n"
+	.string "über die Pyramide.$"
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
 	.string "Willkommen…\n"

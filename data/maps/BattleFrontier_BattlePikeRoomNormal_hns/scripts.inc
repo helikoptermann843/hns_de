@@ -836,11 +836,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo_hns:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons_hns:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your Pokémon will be restored…$"
+	.string "Ich heiße dich willkommen…\p"
+	.string "Kicher…\n"
+	.string "Du kannst dich glücklich schätzen…\p"
+	.string "Da du diesen Raum gewählt hast,\n"
+	.string "werden all deine Pokémon geheilt…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster_hns:
 	.string "Ich werde unsere Meisterin rufen…$"

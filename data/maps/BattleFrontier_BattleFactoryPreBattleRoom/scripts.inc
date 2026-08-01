@@ -563,8 +563,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
 	.string "Pokémon vom Typ Unlicht.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFairyType:
-	.string "The Trainer is apparently skilled\n"
-	.string "in the handling of the Fairy type.$"
+	.string "Der Trainer ist ein Fachmann für\n"
+	.string "Pokémon vom Typ Fee.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
 	.string "Der Trainer ist ein Fachmann für\n"

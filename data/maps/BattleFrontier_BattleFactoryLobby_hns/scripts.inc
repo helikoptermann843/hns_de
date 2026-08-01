@@ -367,8 +367,9 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping_hns:
-	.string "Okay, I will hold your Pokémon for\n"
-	.string "safekeeping while you compete.$"
+	.string "Okay, wir bewahren deine Pokémon\n"
+	.string "sicher für dich auf, solange du\l"
+	.string "am Wettkampf teilnimmst.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay_hns:
 	.string "Bitte hier entlang.$"
@@ -421,7 +422,7 @@ BattleFrontier_BattleFactoryLobby_Text_WellReturnMons_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem_hns:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle_hns:

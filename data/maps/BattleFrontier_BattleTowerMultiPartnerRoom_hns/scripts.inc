@@ -300,8 +300,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro_hns::
 	.string "Nenn mich einfach {STR_VAR_3}!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1_hns::
-	.string "On {STR_VAR_1}’s advice, I brought\n"
-	.string "one {STR_VAR_3} with {STR_VAR_2} and$"
+	.string "{STR_VAR_1} hat mir geraten, ein\n"
+	.string "{STR_VAR_3}, das {STR_VAR_2} kann, und$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask_hns::
 	.string "ein {STR_VAR_2} mit {STR_VAR_1}.\p"

@@ -378,8 +378,8 @@ RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher:
 
 @ Unused
 RustboroCity_DevonCorp_2F_Text_TooManyPokemon:
-	.string "Uh-oh, you’ve got too many Pokémon.\n"
-	.string "You have no room for this one.$"
+	.string "Oh! Du hast zu viele Pokémon dabei.\n"
+	.string "Du hast keinen Platz für dieses hier.$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
 	.string "Ich entwickle ein neues Feature für\n"

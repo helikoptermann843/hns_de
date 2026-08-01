@@ -673,9 +673,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised:
-	.string "Magnificent…\p"
-	.string "As promised, I shall restore your\n"
-	.string "Pokémon to full health.$"
+	.string "Ganz vorzüglich…\p"
+	.string "Wie versprochen heile ich deine\n"
+	.string "Pokémon und mache sie wieder fit.$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2:
@@ -836,11 +836,11 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
-	.string "I welcome you…\p"
-	.string "Giggle…\n"
-	.string "You should thank your lucky stars…\p"
-	.string "Since you have chosen this room,\n"
-	.string "all your Pokémon will be restored…$"
+	.string "Ich heiße dich willkommen…\p"
+	.string "Kicher…\n"
+	.string "Du kannst dich glücklich schätzen…\p"
+	.string "Da du diesen Raum gewählt hast,\n"
+	.string "werden all deine Pokémon geheilt…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
 	.string "Ich werde unsere Meisterin rufen…$"

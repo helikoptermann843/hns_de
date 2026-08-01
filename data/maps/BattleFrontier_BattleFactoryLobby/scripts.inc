@@ -367,8 +367,9 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your Pokémon for\n"
-	.string "safekeeping while you compete.$"
+	.string "Okay, wir bewahren deine Pokémon\n"
+	.string "sicher für dich auf, solange du\l"
+	.string "am Wettkampf teilnimmst.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
 	.string "Bitte hier entlang.$"
@@ -391,8 +392,8 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
-	.string "In recognition of your 7-win streak,\n"
-	.string "we award you these Battle Point(s).$"
+	.string "In Anerkennung deines siebenfachen\n"
+	.string "Sieges geben wir dir Gewinnpunkte.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
@@ -420,7 +421,7 @@ BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} gewinnt\n"
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
