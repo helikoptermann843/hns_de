@@ -633,7 +633,7 @@ gText_ApprenticePleaseTeach14::
 	.string "Und es ist noch peinlicher, dass ich\n"
 	.string "Interesse an der Kampfzone habe.\p"
 	.string "Du hast den Ruf eines starken\n"
-	.string "Trainers, {PLAYER}{KUN}…\p"
+	.string "TRAINERs, {PLAYER}{KUN}…\p"
 	.string "Es fällt mir schwer, das zu sagen, aber\n"
 	.string "ich möchte dich etwas fragen.\p"
 	.string "Kannst du nicht mein Lehrer werden\n"

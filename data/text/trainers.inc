@@ -2228,7 +2228,7 @@ Route115_Text_AlixDefeat:
 Route115_Text_AlixPostBattle:
 	.string "Oh, okay.\n"
 	.string "Ich werde mich jetzt nach Hause\l"
-	.string "Teleportieren.$"
+	.string "TELEPORTieren.$"
 
 Route115_Text_MarleneIntro:
 	.string "Du hast mich bei meiner Meditation\n"
@@ -3578,7 +3578,7 @@ Route123_Text_MiuNotEnoughMons:
 
 Route123_Text_YukiIntro:
 	.string "Grit: Okay!\n"
-	.string "Wir schlagen die Pokémon des Trainers.$"
+	.string "Wir schlagen die Pokémon des TRAINERs.$"
 
 Route123_Text_YukiDefeat:
 	.string "Grit: Oh oh. Wir haben verloren…$"
