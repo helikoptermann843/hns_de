@@ -1719,12 +1719,12 @@ static void Task_BuyMenu(u8 taskId)
 
                 if (berryCount < 1)
                 {
-                    CopyItemName(berryItem, gStringVar1);
+                    CopyItemNameHandlePlural(berryItem, gStringVar1, 2);
                     BuyMenuDisplayMessage(taskId, gText_DontHaveEnoughVar1, BuyMenuReturnToItemList);
                 }
                 else
                 {
-                    CopyItemName(itemId, gStringVar1);
+                    CopyItemNameHandlePlural(itemId, gStringVar1, 2);
                     BuyMenuDisplayMessage(taskId, gText_Var1SureHowMany, Task_BuyHowManyDialogueInit);
                 }
             }
