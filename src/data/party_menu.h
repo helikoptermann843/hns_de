@@ -690,7 +690,7 @@ static const u16 sUnusedData[] =
     0x0121, 0x013b, 0x000f, 0x0013, 0x0039, 0x0046, 0x0094, 0x00f9, 0x007f, 0x0123,
 };
 
-static const u8 sText_Trade4[] = _("TRADE");
+static const u8 sText_Trade4[] = _("Tausch");
 
 struct
 {
@@ -705,13 +705,13 @@ struct
     [MENU_GIVE]            = {gMenuText_Give,                     CursorCb_Give},
     [MENU_TAKE_ITEM]       = {COMPOUND_STRING("Nehmen"),            CursorCb_TakeItem},
     [MENU_MOVE_ITEM]       = {COMPOUND_STRING("Bewegen"),            CursorCb_MoveItem},
-    [MENU_MAIL]            = {COMPOUND_STRING("POST"),            CursorCb_Mail},
+    [MENU_MAIL]            = {COMPOUND_STRING("Brief"),           CursorCb_Mail},
     [MENU_TAKE_MAIL]       = {COMPOUND_STRING("Nehmen"),            CursorCb_TakeMail},
     [MENU_READ]            = {COMPOUND_STRING("Lesen"),            CursorCb_Read},
     [MENU_CANCEL2]         = {gText_Cancel2,                      CursorCb_Cancel2},
     [MENU_SHIFT]           = {COMPOUND_STRING("Tauschen"),           CursorCb_SendMon},
     [MENU_SEND_OUT]        = {COMPOUND_STRING("Aussenden"),        CursorCb_SendMon},
-    [MENU_ENTER]           = {COMPOUND_STRING("ENTER"),           CursorCb_Enter},
+    [MENU_ENTER]           = {COMPOUND_STRING("Eintragen"),       CursorCb_Enter},
     [MENU_NO_ENTRY]        = {COMPOUND_STRING("Kein Eintrag"),        CursorCb_NoEntry},
     [MENU_STORE]           = {COMPOUND_STRING("Lagern"),           CursorCb_Store},
     [MENU_REGISTER]        = {gText_Register,                     CursorCb_Register},
