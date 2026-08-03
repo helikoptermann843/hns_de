@@ -223,7 +223,7 @@ static void CancelSell(u8);
 static void Task_FadeAndCloseBagMenuIfMulch(u8 taskId);
 
 static const u8 sText_Var1CantBeHeldHere[] = _("{STR_VAR_1} ist hier nicht zu\ngeben.");
-static const u8 sText_DepositHowManyVar1[] = _("Deposit how many\n{STR_VAR_1}?");
+static const u8 sText_DepositHowManyVar1[] = _("Wie viele möchtest\ndu ablegen?");
 static const u8 sText_DepositedVar2Var1s[] = _("Deposited {STR_VAR_2}\n{STR_VAR_1}.");
 static const u8 sText_NoRoomForItems[] = _("Kein Platz für\nweitere Items.");
 static const u8 sText_CantStoreImportantItems[] = _("Wichtige Items\nkönnen nicht im\nPC gelagert werden.");

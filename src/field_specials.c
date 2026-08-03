@@ -5409,7 +5409,7 @@ static void Task_ElevatorShake(u8 taskId)
     }
 }
 
-static const u8 sText_NowOn[] = _("Now on:");
+static const u8 sText_NowOn[] = _("Jetzt im:");
 
 void DrawElevatorCurrentFloorWindow(void)
 {
