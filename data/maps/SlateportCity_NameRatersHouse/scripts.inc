@@ -73,10 +73,9 @@ SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
 	.string "Hmmm… {STR_VAR_1}, nicht wahr? Da hast\n"
-	.string "du aber einen schönen Namen verliehen.\n"
-	.string "\p"
-	.string "Aber! Was hältst du davon, wenn ich\n"
-	.string "ihm einen etwas besseren Namen gebe?$"
+	.string "du aber einen schönen Namen verliehen.\p"
+	.string "Aber! Was hältst du davon, wenn ich ihm\n"
+	.string "einen etwas besseren Namen gebe?$"
 
 SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe:
 	.string "Sehr schön! Und wie soll der neue\n"

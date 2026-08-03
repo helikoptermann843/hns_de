@@ -256,17 +256,14 @@ BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "unbekannte Welten zu bewegen…$"
 
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
-	.string "Oh ja, das Leben ist einfach\n"
-	.string "großartig! Ja, ja! Bitte?!?\p"
+	.string "Oh ja, das Leben ist einfach großartig!\n"
+	.string "Ja, ja! Bitte?!?\p"
 	.string "Ich heiße Brian!\p"
 	.string "Ich bin der Pyrakönig, was bedeutet,\n"
-	.string "dass ich die Verantwortung hier trage!\n"
-	.string "\p"
-	.string "Die meisten nennen mich einfach Chef!\n"
-	.string "\p"
+	.string "dass ich die Verantwortung hier trage!\p"
+	.string "Die meisten nennen mich einfach Chef!\p"
 	.string "Du besitzt ein starkes Selbstver-\n"
-	.string "trauen, da du es bis hierher geschafft\n"
-	.string "\p"
+	.string "trauen, da du es bis hierher geschafft\p"
 	.string "hast. Hahaha!\n"
 	.string "Das wird ein Riesenspaß!$"
 

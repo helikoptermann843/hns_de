@@ -46,8 +46,8 @@ FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
 	.string "Nimm das hier und gehe angeln!$"
 
 FuchsiaCity_House2_Text_ReceivedGoodRod::
-	.string "{PLAYER} received a Good Rod from\n"
-	.string "the Fishing Guru's brother.$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Profiangel!$"
 
 FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
 	.string "Angeln ist meine Leidenschaft!\n"

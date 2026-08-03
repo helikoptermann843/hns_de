@@ -175,8 +175,8 @@ Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
 	.string "Interessiert?$"
 
 Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
-	.string "{PLAYER} paid an outrageous ¥500\n"
-	.string "and bought the Magikarp…$"
+	.string "{PLAYER} bezahlte den Wucherpreis\n"
+	.string "von 500$ für ein Karpador…\l$"
 
 Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
 	.string "Nein? Ich wollte dir doch einen\n"

@@ -190,9 +190,9 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "Versuch dein Glück in hohem Gras!$"
 
 SSAnne_2F_Corridor_Text_RivalDefeat::
-	.string "Humph!\p"
-	.string "At least you're raising your\n"
-	.string "Pokémon!$"
+	.string "Mist!\p"
+	.string "Na ja, wenigstens trainierst du\n"
+	.string "deine Pokémon!$"
 
 SSAnne_2F_Corridor_Text_RivalVictory::
 	.string "{PLAYER}..！\n"

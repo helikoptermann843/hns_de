@@ -231,8 +231,8 @@ SaffronCity_Dojo_Text_YouWantHitmonlee::
 	.string "trittstarke Pokémon?$"
 
 SaffronCity_Dojo_Text_ReceivedMonFromKarateMaster::
-	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from the Karate Master.$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_1}.$"
 
 SaffronCity_Dojo_Text_YouWantHitmonchan::
 	.string "Möchtest du Nockchan, den Meister\n"

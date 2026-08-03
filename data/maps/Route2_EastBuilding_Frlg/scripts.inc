@@ -54,8 +54,8 @@ Route2_EastBuilding_Text_GreatHereYouGo::
 	.string "dir redlich verdient!$"
 
 Route2_EastBuilding_Text_ReceivedHM05FromAide::
-	.string "{PLAYER} received HM05\n"
-	.string "from the Aide.$"
+	.string "{PLAYER} erhält\n"
+	.string "VM05!$"
 
 Route2_EastBuilding_Text_ExplainHM05::
 	.string "... vielen Dank für deinen Brief!\n"

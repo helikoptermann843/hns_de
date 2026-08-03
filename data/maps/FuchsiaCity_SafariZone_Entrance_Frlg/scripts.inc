@@ -220,8 +220,8 @@ FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
 	.string "Pokébälle.$"
 
 FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
-	.string "{PLAYER} received 30 Safari Balls\n"
-	.string "from the attendant.$"
+	.string "{PLAYER} erhält\n"
+	.string "30 Safaribälle!$"
 
 FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
 	.string "Wir rufen dich über Lautsprecher\n"

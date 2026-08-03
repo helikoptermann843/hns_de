@@ -13,12 +13,12 @@ SeafloorCavern_Room3_EventScript_Grunt5::
 
 SeafloorCavern_Room3_Text_ShellyIntro:
 	.string "Ahahahahaha!\p"
-	.string "Wie bist du uns ohne U-boot gefolgt?\n"
+	.string "Wie bist du uns ohne U-Boot gefolgt?\n"
 	.string "Was für ein bemerkenswertes Kind!\p"
 	.string "Aber… das berechtigt dich nicht, hier\n"
 	.string "herumzuschnüffeln!\p"
 	.string "Jetzt kann ich dir die Sache vom\n"
-	.string "Klima-institut heimzahlen…\p"
+	.string "Klima-Institut heimzahlen…\p"
 	.string "Ich gebe dir eine Lektion in Sachen\n"
 	.string "Schmerz! Pass gut auf!$"
 

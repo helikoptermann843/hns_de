@@ -38,8 +38,7 @@ MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
 	.string "gekämpft.\p"
 	.string "Da hast du bestimmt einen Eindruck\n"
 	.string "davon gewonnen, wie gut ich bin.\p"
-	.string "Okay, {PLAYER}{KUN}, wenn du dich auf\n"
-	.string "eine\n"
+	.string "Okay, {PLAYER}{KUN}, wenn du dich auf eine\n"
 	.string "ernsthafte Herausforderung einlässt,\l"
 	.string "sei auf das Schlimmste gefasst!$"
 

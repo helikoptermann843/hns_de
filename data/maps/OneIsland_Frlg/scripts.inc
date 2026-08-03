@@ -118,8 +118,8 @@ OneIsland_Text_BillLetsGoSeeCelio::
 	.string "Lass uns zu Celio gehen!$"
 
 Text_WhereDoYouWantToSail::
-	.string "Ahoy, there!\n"
-	.string "Where do you want to sail?$"
+	.string "Ahoi!\n"
+	.string "Wohin soll es gehen?$"
 
 OneIsland_Text_LuckyToHaveCelioHere::
 	.string "Wir sind hier auf einer Insel mitten\n"

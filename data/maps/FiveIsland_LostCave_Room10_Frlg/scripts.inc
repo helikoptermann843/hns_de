@@ -66,8 +66,8 @@ FiveIsland_LostCave_Room10_Text_SelphyIntro::
 	.string "Pokémon Netzwerk-Center$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
-	.string "Oh… I was afraid that you meant to\n"
-	.string "harm me.$"
+	.string "Oh… ich hatte Angst,\n"
+	.string "du wolltest mir weh tun!$"
 
 FiveIsland_LostCave_Room10_Text_MayIAskYouToTakeMeHome::
 	.string "Ich bin so froh, dass du hier bist!\p"

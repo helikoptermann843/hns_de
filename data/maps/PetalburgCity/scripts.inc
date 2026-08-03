@@ -705,7 +705,7 @@ PetalburgCity_Text_WhereIsWally:
 
 PetalburgCity_Text_AreYouRookieTrainer:
 	.string "He da! Bist du vielleicht…\n"
-	.string "ein Anfänger unter den Trainern?\p"
+	.string "ein Anfänger unter den TRAINERn?\p"
 	.string "Weißt du, was Pokémon-Trainer machen,\n"
 	.string "wenn sie in einen neuen Ort kommen?\p"
 	.string "Sie sehen sich als Erstes die Arena\n"
@@ -720,10 +720,8 @@ PetalburgCity_Text_ThisIsGymSign:
 	.string "kannst du immer eine Arena erkennen.$"
 
 PetalburgCity_Text_WaterReflection:
-	.string "Mein Gesicht spiegelt sich im Wasser…\n"
-	.string "\p"
-	.string "Ein schimmerndes Lächeln der Hoffnung.\n"
-	.string "\p"
+	.string "Mein Gesicht spiegelt sich im Wasser…\p"
+	.string "Ein schimmerndes Lächeln der Hoffnung.\p"
 	.string "Oder ist es der Ausdruck düsterer\n"
 	.string "Stille, an dem die Angst nagt…\p"
 	.string "Was siehst du in deinem Spiegelbild?$"

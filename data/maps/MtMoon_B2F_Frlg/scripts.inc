@@ -147,8 +147,7 @@ MtMoon_B2F_Text_WellEachTakeAFossil::
 	.string "Ich sagte, ich gebe dir eines ab!$"
 
 MtMoon_B2F_Text_ThenThisFossilIsMine::
-	.string "All right.\n"
-	.string "Then this fossil is mine!$"
+	.string "O.K., dann gehört das hier mir!$"
 
 MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils::
 	.string "Auf der fernen Zinnoberinsel\n"
@@ -211,8 +210,8 @@ MtMoon_B2F_Text_YouWantHelixFossil::
 	.string "Möchtest du das Helixfossil?$"
 
 MtMoon_B2F_Text_ObtainedHelixFossil::
-	.string "Obtained the Helix Fossil!$"
+	.string "Helixfossil erhalten!$"
 
 MtMoon_B2F_Text_ObtainedDomeFossil::
-	.string "Obtained the Dome Fossil!$"
+	.string "Domfossil erhalten!$"
 

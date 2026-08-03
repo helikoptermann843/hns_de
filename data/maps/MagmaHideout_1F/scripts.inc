@@ -39,8 +39,7 @@ MagmaHideout_1F_Text_Grunt1PostBattle:
 MagmaHideout_1F_Text_Grunt2Intro:
 	.string "Unser Boss hat uns gesagt, wir sollen\n"
 	.string "im Schlotberg Grabungen durchführen,\l"
-	.string "daher haben wir gegraben und gegraben…\n"
-	.string "\p"
+	.string "daher haben wir gegraben und gegraben…\p"
 	.string "Und dann haben wir etwas gefunden, was\n"
 	.string "uns den Atem verschlug.\p"
 	.string "Was das war?!?\p"

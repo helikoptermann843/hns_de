@@ -414,7 +414,8 @@ BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
 	.string "wetten! Das steht fest!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Häh? Was glotzt du denn so doof?\p"
+	.string "Häh?\n"
+	.string "Was glotzt du denn so doof?\p"
 	.string "Ich mag es nicht, wie du meine\n"
 	.string "Plüschpuppe anstarrst!\p"
 	.string "Wenn du auch so eine haben willst,\n"

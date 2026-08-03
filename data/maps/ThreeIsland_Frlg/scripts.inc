@@ -462,8 +462,8 @@ ThreeIsland_Text_Biker1Intro::
 	.string "Du wirst Geld an mich verlieren…$"
 
 ThreeIsland_Text_Biker1Defeat::
-	.string "Wha…\n"
-	.string "What is this kid?!$"
+	.string "Wa…\n"
+	.string "Was ist das für ein Kind?!?$"
 
 ThreeIsland_Text_Biker1PostBattle::
 	.string "Argh…\n"
@@ -504,10 +504,11 @@ ThreeIsland_Text_PaxtonIntro::
 	.string "mich antreten.$"
 
 ThreeIsland_Text_PaxtonDefeat::
-	.string "All right, enough!\n"
-	.string "We'll leave like you wanted!\p"
-	.string "We'll be happy to see the last of\n"
-	.string "this boring island!$"
+	.string "In Ordnung, genug!\n"
+	.string "Wir verschwinden wie gewünscht!\p"
+	.string "Wir freuen uns schon, den Rest\n"
+	.string "dieser langweiligen Insel zu\l"
+	.string "sehen.$"
 
 ThreeIsland_Text_PaxtonPostBattle::
 	.string "Humpf! Geh nur und häng mit\n"

@@ -11,8 +11,8 @@ PetalburgCity_House1_EventScript_Woman::
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
 	.string "Reisen ist einfach wundervoll!\p"
-	.string "Als ich noch jung war, waren die See\n"
-	.string "und die Berge mein Zuhause.$"
+	.string "Als ich noch jung war, waren die See und\n"
+	.string "die Berge mein Zuhause.$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
 	.string "Seufz…\p"

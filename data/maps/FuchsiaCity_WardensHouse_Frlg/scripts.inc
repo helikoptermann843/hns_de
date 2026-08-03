@@ -72,8 +72,8 @@ FuchsiaCity_WardensHouse_Text_HeOhayHeHaHoo::
 	.string "Hei heff heh ha hef ee haheh!$"
 
 FuchsiaCity_WardensHouse_Text_GaveGoldTeethToWarden::
-	.string "{PLAYER} gave the Gold Teeth\n"
-	.string "to the Warden.$"
+	.string "{PLAYER} gibt dem Wärter die\n"
+	.string "Goldzähne!$"
 
 FuchsiaCity_WardensHouse_Text_WardenPoppedInHisTeeth::
 	.string "Der Wärter setzt das Gebiss ein!$"
@@ -93,8 +93,8 @@ FuchsiaCity_WardensHouse_Text_ThanksLassieGiveYouSomething::
 	.string "Nimm das hier für deine Mühen.$"
 
 FuchsiaCity_WardensHouse_Text_ReceivedHM04FromWarden::
-	.string "{PLAYER} received HM04\n"
-	.string "from the Warden.$"
+	.string "{PLAYER} erhält\n"
+	.string "VM04!$"
 
 FuchsiaCity_WardensHouse_Text_ExplainStrength::
 	.string "Wärter: VM04 ist Stärke!\p"

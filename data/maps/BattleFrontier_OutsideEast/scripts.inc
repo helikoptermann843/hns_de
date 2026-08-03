@@ -304,8 +304,7 @@ BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
 	.string "Zigg!\n"
-	.string "Ich glaube an dich, mein kleiner\n"
-	.string "Freund! \p"
+	.string "Ich glaube an dich, mein kleiner Freund!\p"
 	.string "Und wenn du gewinnst, werde ich dich\n"
 	.string "mit allem, was du magst, verwöhnen!$"
 
@@ -408,8 +407,7 @@ BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll:
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere:
 	.string "Oh, yeah, okay!\n"
 	.string "Dies ist also die Ergebnishalle!\p"
-	.string "Ich will in die Geschichte eingehen!\n"
-	.string "Als\n"
+	.string "Ich will in die Geschichte eingehen! Als\n"
 	.string "Superchamp! Ich will meinen Namen für\l"
 	.string "die Nachwelt verewigen.$"
 

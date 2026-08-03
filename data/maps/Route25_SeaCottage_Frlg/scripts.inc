@@ -391,5 +391,6 @@ Route25_SeaCottage_Text_BillsFavoriteMonList::
 	.string "Pokémon!$"
 
 Route25_SeaCottage_Text_SeeWhichMon::
-	.string "Which Pokémon do you want to see?$"
+	.string "Welches Pokémon möchtest du\n"
+	.string "betrachten?$"
 

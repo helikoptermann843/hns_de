@@ -630,8 +630,8 @@ OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
 	.string "Meteoriten zu ihm zu bringen?$"
 
 OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
-	.string "{PLAYER} accepted the Meteorite\n"
-	.string "from Bill.$"
+	.string "{PLAYER} nahm den Meteoriten\n"
+	.string "von Bill.$"
 
 OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThis::
 	.string "Celio: {PLAYER}, nimm dies mit, wenn\n"
@@ -645,8 +645,8 @@ OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslands::
 	.string "Oh, das kannst du auch gebrauchen!$"
 
 OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMap::
-	.string "{PLAYER} received an extra page\n"
-	.string "for the Town Map!$"
+	.string "Die Karte von {PLAYER} wurde\n"
+	.string "erweitert.$"
 
 OneIsland_PokemonCenter_1F_Text_ReceivedTownMap::
 	.string "{PLAYER} received\n"
@@ -773,8 +773,8 @@ OneIsland_PokemonCenter_1F_Text_OhThats::
 	.string "Da-das ist…$"
 
 OneIsland_PokemonCenter_1F_Text_HandedRubyToCelio::
-	.string "{PLAYER} handed the Ruby\n"
-	.string "to Celio.$"
+	.string "{PLAYER} gab Celio\n"
+	.string "den Rubin!$"
 
 OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
 	.string "Dankeschön!\n"
@@ -802,12 +802,11 @@ OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
 	.string "für die Fähre und die Karte.$"
 
 OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPass::
-	.string "{PLAYER} returned the Tri-Pass and\n"
-	.string "received the Rainbow Pass.$"
+	.string "{PLAYER} gab den Tri-Pass zurück\n"
+	.string "und erhält den Bunt-Pass!$"
 
 OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPage::
-	.string "Obtained an extra page for the\n"
-	.string "Town Map!$"
+	.string "Die Karte wurde erweitert.$"
 
 OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
 	.string "Dies ist mein Pass für die Fähre.\p"
@@ -817,8 +816,7 @@ OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
 	.string "angewiesen!$"
 
 OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
-	.string "{PLAYER} handed the Sapphire\n"
-	.string "to Celio.$"
+	.string "{PLAYER} gab Celio den Saphir!$"
 
 OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
 	.string "Celio: Das ist also der Edelstein,\n"
@@ -933,5 +931,5 @@ OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoAndHoenn::
 	.string "Hoenn hergestellt.$"
 
 OneIsland_PokemonCenter_1F_Text_ObtainedTriPass::
-	.string "Obtained the Tri-Pass!$"
+	.string "Tri-Pass erhalten!$"
 

@@ -51,10 +51,10 @@ SSAnne_CaptainsOffice_Text_CaptainIFeelSeasick::
 	.string "Es geht mir gar nicht gut! Urps!$"
 
 SSAnne_CaptainsOffice_Text_RubbedCaptainsBack::
-	.string "{PLAYER} rubbed the Captain's\n"
-	.string "back!\p"
-	.string "Rub-rub…\n"
-	.string "Rub-rub…$"
+	.string "{PLAYER} massiert dem Kapitän den\n"
+	.string "Rücken!\p"
+	.string "Rubbel...\n"
+	.string "Schrubb...$"
 
 SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
 	.string "Kapitän: Ahhhhh! Ich danke dir!\n"
@@ -69,8 +69,8 @@ SSAnne_CaptainsOffice_Text_ThankYouHaveHMForCut::
 	.string "ganz leicht bei!$"
 
 SSAnne_CaptainsOffice_Text_ObtainedHM01FromCaptain::
-	.string "{PLAYER} obtained HM01\n"
-	.string "from the Captain!$"
+	.string "{PLAYER} erhält\n"
+	.string "VM01.$"
 
 SSAnne_CaptainsOffice_Text_ExplainCut::
 	.string "Wenn du den Zerschneider einsetzt,\n"

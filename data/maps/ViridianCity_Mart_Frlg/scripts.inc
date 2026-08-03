@@ -93,8 +93,8 @@ ViridianCity_Mart_Text_TakeThisToProfOak::
 	.string "Holst du das Paket für ihn ab?$"
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
-	.string "{PLAYER} received Oak'S Parcel\n"
-	.string "from the Pokémon Mart clerk.$"
+	.string "{PLAYER} erhält\n"
+	.string "EICHs Paket!$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
 	.string "O.K.! Grüße Prof. Eich von mir!$"

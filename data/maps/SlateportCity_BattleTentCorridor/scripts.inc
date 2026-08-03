@@ -154,21 +154,21 @@ SlateportCity_BattleTentCorridor_Movement_AttendantExit:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 SlateportCity_ContestHall_Text_AdviceForContests:
-	.string "Möchtest du einen kleinen Tipp für\n"
-	.string "Wettbewerbe?\p"
-	.string "Wenn du eine bestimmte Attacke nach\n"
-	.string "einer anderen bestimmten Attacke\l"
-	.string "zeigst, fällst du besonders auf.\p"
-	.string "Wenn du weißt, was du tust, kannst du\n"
-	.string "beim Ausdruck groß punkten.\p"
-	.string "Natürlich könnten deine Gegner deinem\n"
-	.string "Pokémon die Schau stehlen wollen.$"
+	.string "Want a tasty little bit of advice\n"
+	.string "for Contests?\p"
+	.string "Using a certain move after another\n"
+	.string "certain kind of move sometimes gets\l"
+	.string "you extra attention.\p"
+	.string "If you know what you're doing,\n"
+	.string "you can score big in appeal.\p"
+	.string "Of course, your opponents might try\n"
+	.string "disrupting your Pokémon's showing.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "Mein Papa ist Wettbewerbs-Juror.\p"
-	.string "Was soll ich später bloß werden?\n"
-	.string "Juror oder Arenaleiter?$"
+	.string "My papa, he's a Contest Judge.\p"
+	.string "I wonder what I should be when I\n"
+	.string "grow up, a Judge or a Gym Leader?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
@@ -252,10 +252,11 @@ SlateportCity_ContestHall_Text_BattleAndContestAlike:
 
 @ Unused
 SlateportCity_ContestHall_Text_MonLooksOnTopOfGame:
-	.string "Dieses Pokémon ist gut in Form, was?\p"
-	.string "Ein Pokémon, das im zweiten Durchlauf\n"
-	.string "gut abschneidet, wirkt beim Ausdruck\l"
-	.string "gelassener.$"
+	.string "That Pokémon looks like it's on top\n"
+	.string "of its game, huh?\p"
+	.string "A Pokémon that does good in the\n"
+	.string "secondary judging seems to be more\l"
+	.string "relaxed when it's doing appeals.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_MyMonBetterThanThatLot:

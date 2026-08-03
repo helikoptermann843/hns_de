@@ -231,9 +231,9 @@ BattleFrontier_Lounge1_Text_NoTimeForMyAdvice:
 
 @ Unused
 BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending:
-	.string "Ja, was ist denn jetzt?\p"
-	.string "Ich habe zu tun!\n"
-	.string "Heb es dir für das nächste Mal auf!$"
+	.string "Yes, what is it now?\p"
+	.string "I have business that needs tending!\n"
+	.string "Save it for next time!$"
 
 BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon:
 	.string "Ah, ein junges Gesicht! Interessieren\n"

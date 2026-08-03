@@ -630,10 +630,10 @@ MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner:
 	.string "Willkommen in unserer Spielhalle.$"
 
 MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins:
-	.string "Okay, du möchtest Münzen für die\n"
+	.string "Okay, du möchtest MÜNZEn für die\n"
 	.string "Spiele haben?\p"
 	.string "Aber du hast keinen Münzkorb für die\n"
-	.string "Münzen.$"
+	.string "MÜNZEn.$"
 
 MauvilleCity_GameCorner_Text_WereYouLookingForCoins:
 	.string "Suchst du nach Münzen?\p"

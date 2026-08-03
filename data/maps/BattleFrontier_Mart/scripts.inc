@@ -53,7 +53,7 @@ BattleFrontier_Mart_Text_ChaperonGrandson:
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
 	.string "Schau mal. Was hältst du hiervon? Wäre\n"
 	.string "das nicht ein hübsches Geschenk?\p"
-	.string "…Pro…TE…In?\n"
+	.string "…Pro…Te…In?\n"
 	.string "Das scheint doch lecker zu sein, oder?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:

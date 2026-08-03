@@ -340,9 +340,9 @@ VermilionCity_Text_TheShipSetSail::
 	.string "Das Schiff ist in See gestochen!$"
 
 VermilionCity_Text_BoardSeagallopTriPass::
-	.string "Ah, you have a Tri-Pass.\p"
-	.string "Would you like to board\n"
-	.string "a Seagallop ferry?$"
+	.string "Ah, du hast den Tri-Pass.\p"
+	.string "Möchtest du an Bord der\n"
+	.string "Seesprint-Fähre?$"
 
 VermilionCity_Text_Seagallop7Departing::
 	.string "O.K.! Alles klar!\p"
@@ -350,9 +350,9 @@ VermilionCity_Text_Seagallop7Departing::
 	.string "Kürze ablegen.$"
 
 VermilionCity_Text_BoardSeagallopRainbowPass::
-	.string "Ah, you have a Rainbow Pass.\p"
-	.string "Would you like to board\n"
-	.string "a Seagallop ferry?$"
+	.string "Ah, du hast den Bunt-Pass.\p"
+	.string "Möchtest du an Bord der\n"
+	.string "Seesprint-Fähre?$"
 
 VermilionCity_Text_OhMysticTicketTakeYouToNavelRock::
 	.string "Oh! Das ist das Geheimticket!\n"
@@ -367,8 +367,8 @@ VermilionCity_Text_OhAuroraTicketTakeYouToBirthIsland::
 	.string "Entstehungsinsel.$"
 
 VermilionCity_Text_BoardSeagallopFerry::
-	.string "Would you like to board\n"
-	.string "a Seagallop ferry?$"
+	.string "Möchtest du an Bord der\n"
+	.string "Seesprint-Fähre?$"
 
 VermilionCity_Text_Seagallop10Departing::
 	.string "O.K.! Alles klar! Du kannst an Bord\n"

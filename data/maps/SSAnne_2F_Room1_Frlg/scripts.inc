@@ -15,8 +15,8 @@ SSAnne_2F_Room1_EventScript_Gentleman::
 	end
 
 SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
-	.string "I've journeyed far and wide, but in\n"
-	.string "all my travels I've never seen\l"
-	.string "any Pokémon sleep like this one!\p"
-	.string "It was something like this!$"
+	.string "Auf all meinen Reisen habe ich nie\n"
+	.string "ein solch verschlafenes Pokémon\l"
+	.string "gesehen!\p"
+	.string "Es sieht ungefähr so aus...$"
 

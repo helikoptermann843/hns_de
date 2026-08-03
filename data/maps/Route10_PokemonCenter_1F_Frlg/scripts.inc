@@ -94,8 +94,8 @@ Route10_PokemonCenter_1F_Text_GreatHereYouGo::
 	.string "dir redlich verdient!$"
 
 Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
-	.string "{PLAYER} received the Everstone\n"
-	.string "from the Aide.$"
+	.string "{PLAYER} erhält\n"
+	.string "Ewigstein!$"
 
 Route10_PokemonCenter_1F_Text_ExplainEverstone::
 	.string "Durch die Entwicklung der\n"

@@ -103,25 +103,27 @@ Route24_Text_JustEarnedFabulousPrize::
 	.string "gewonnen!$"
 
 Route24_Text_ReceivedNuggetFromMysteryTrainer::
-	.string "{PLAYER} received a Nugget\n"
-	.string "from the mystery Trainer!$"
+	.string "{PLAYER} erhält\n"
+	.string "ein Nugget!$"
 
 Route24_Text_YouDontHaveAnyRoom::
 	.string "Du hast keinen Platz für weitere\n"
 	.string "Items!$"
 
 Route24_Text_JoinTeamRocket::
-	.string "By the way, how would you like to\n"
-	.string "join Team Rocket?\p"
-	.string "We're a group of professional\n"
-	.string "criminals specializing in Pokémon!\p"
-	.string "Want to join?\p"
-	.string "Are you sure?\p"
-	.string "Come on, join us!\p"
-	.string "I'm telling you to join!\p"
-	.string "…Okay, you need convincing!\p"
-	.string "I'll make you an offer you can't\n"
-	.string "refuse!$"
+	.string "Möchtest du auch Mitglied des Team\n"
+	.string "Rocket werden?\p"
+	.string "Unsere Gruppierung benutzt Pokémon\n"
+	.string "für teuflische Zwecke!\p"
+	.string "Möchtest du beitreten?\p"
+	.string "Wirklich nicht?\p"
+	.string "Komm schon, werde Mitglied!\p"
+	.string "Ich empfehle dir, ein Mitglied zu\n"
+	.string "werden!\p"
+	.string "Ich glaube, ich sollte ein wenig\n"
+	.string "Überzeugungsarbeit leisten!\p"
+	.string "Dieses Angebot kannst du nicht\n"
+	.string "ablehnen!$"
 
 Route24_Text_RocketDefeat::
 	.string "Arrgh!\n"

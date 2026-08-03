@@ -1003,16 +1003,13 @@ LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "anspornte. Siehst du?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "Was meinst du? Ich bin mit meiner\l"
-	.string "Arbeit\n"
+	.string "Was meinst du? Ich bin mit meiner Arbeit\n"
 	.string "zufrieden, aber gefällt sie auch dir?\p"
-	.string "\p"
 	.string "Eine Arbeit dieses Formats würde sich\n"
 	.string "bestimmt gut in einem Museum machen.\p"
-	.string "Ach? Es gibt ein Museum, das nach\n"
-	.string "neuen Gemälden sucht?\p"
-	.string "Meinst du, ich sollte das Bild\n"
-	.string "anbieten?$"
+	.string "Ach? Es gibt ein Museum, das nach neuen\n"
+	.string "Gemälden sucht?\p"
+	.string "Meinst du, ich sollte das Bild anbieten?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
 	.string "Nein, wirklich? Dann werde ich das\n"

@@ -295,8 +295,8 @@ CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 	.string "Nimm bitte dieses Geschenk!$"
 
 Text_ReceivedItemFromLittleGirl::
-	.string "{PLAYER} received a {STR_VAR_2}\n"
-	.string "from the little girl.$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_2}!$"
 
 CeladonCity_DepartmentStore_Roof_Text_ExplainTM16::
 	.string "TM16 ist Lichtschild!\p"

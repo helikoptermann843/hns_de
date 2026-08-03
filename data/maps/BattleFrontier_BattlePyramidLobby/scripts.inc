@@ -679,8 +679,8 @@ BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
-	.string "{PLAYER} gibt alles zurück, was die\n"
-	.string "Pokémon getragen haben.$"
+	.string "{PLAYER} returned everything that\n"
+	.string "the Pokémon held.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
 	.string "Dein Pyrabeutel wird hier von uns\n"

@@ -161,10 +161,10 @@ MtEmber_Exterior_Text_PunchedThroughAtLast::
 	.string "Schatzsuche!$"
 
 MtEmber_Exterior_Text_WhatsPasswordAgain::
-	.string "Any treasure we find, we haul back\n"
-	.string "to the Warehouse, understood?\p"
-	.string "…Oh, and what're the passwords?\n"
-	.string "At the Rocket Warehouse, I mean.$"
+	.string "Wir bringen jeden Schatz, den wir\n"
+	.string "finden, ins Lager, verstanden?\p"
+	.string "… und wie lauten die Passwörter?\n"
+	.string "Für das Lager, natürlich!$"
 
 MtEmber_Exterior_Text_FirstPasswordGoldeen::
 	.string "Wie?!? Du hast das Passwort \n"

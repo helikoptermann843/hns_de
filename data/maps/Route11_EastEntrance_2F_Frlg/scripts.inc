@@ -102,8 +102,8 @@ Route11_EastEntrance_2F_Text_GreatHereYouGo::
 	.string "dir redlich verdient!$"
 
 Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
-	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the Aide.$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_2}!$"
 
 Route11_EastEntrance_2F_Text_ExplainItemfinder::
 	.string "Auf dem Boden liegen oft Items,\n"

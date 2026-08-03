@@ -277,8 +277,8 @@ Route22_Text_LateRivalIntro::
 	.string "Also, los geht es!$"
 
 Route22_Text_LateRivalDefeat::
-	.string "What!?\p"
-	.string "I was just careless, you!$"
+	.string "Was!?\p"
+	.string "Ich war zu unvorsichtig!$"
 
 Route22_Text_LateRivalPostBattle::
 	.string "Das war ein gutes Aufwärmtraining!\n"

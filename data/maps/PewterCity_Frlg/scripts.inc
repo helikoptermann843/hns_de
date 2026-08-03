@@ -956,8 +956,8 @@ PewterCity_Text_AskedToDeliverThis::
 	.string "bringen, also nimm es bitte.$"
 
 PewterCity_Text_ReceivedRunningShoesFromAide::
-	.string "{PLAYER} received the\n"
-	.string "Running Shoes from the Aide.$"
+	.string "{PLAYER} hat die Turbotreter\n"
+	.string "vom Assistenten erhalten.$"
 
 PewterCity_Text_SwitchedShoesWithRunningShoes::
 	.string "{PLAYER} zieht die Turbotreter an.$"

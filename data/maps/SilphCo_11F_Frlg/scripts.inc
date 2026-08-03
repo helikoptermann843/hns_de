@@ -159,8 +159,8 @@ SilphCo_11F_Text_ThanksForSavingMeDearGirl::
 	.string "etwas für dich!$"
 
 SilphCo_11F_Text_ObtainedMasterBallFromPresident::
-	.string "{PLAYER} obtained a Master Ball\n"
-	.string "from the President!$"
+	.string "{PLAYER} erhält\n"
+	.string "Meisterball!$"
 
 SilphCo_11F_Text_ThatsOurSecretPrototype::
 	.string "Präsident: Man kann das nirgends\n"

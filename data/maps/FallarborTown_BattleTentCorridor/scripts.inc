@@ -42,11 +42,10 @@ FallarborTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
-	.string "Im ersten Durchlauf schlagen wir uns\n"
-	.string "ganz gut, aber beim Ausdruck gewinnen\l"
-	.string "wir nie…\p"
-	.string "Vielleicht muss ich mehr darauf achten,\n"
-	.string "was die anderen Teilnehmer machen…$"
+	.string "We do all right in the preliminary round,\n"
+	.string "but we can never win the appeals…\p"
+	.string "Maybe it means I have to watch what\n"
+	.string "other contestants are doing…$"
 
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:

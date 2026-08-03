@@ -121,15 +121,13 @@ RocketHideout_B4F_EventScript_RemoveBarrier::
 	return
 
 RocketHideout_B4F_Text_GiovanniIntro::
-	.string "So! I must say, I am impressed you\n"
-	.string "got here.\p"
-	.string "Team Rocket captures Pokémon from\n"
-	.string "around the world.\p"
-	.string "They're important tools for keeping\n"
-	.string "our criminal enterprise going.\p"
-	.string "I am the leader, Giovanni!\p"
-	.string "For your insolence, you will feel a\n"
-	.string "world of pain!$"
+	.string "Ich bin schwer beeindruckt. Du\n"
+	.string "bist tatsächlich weit gekommen!\p"
+	.string "Das Team Rocket finanziert mit\n"
+	.string "Pokémon seine finsteren Pläne!\p"
+	.string "Ich bin hier der Boss, Giovanni!\p"
+	.string "Mach dich bereit, Höllenqualen zu\n"
+	.string "erleiden, Wicht!$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
 	.string "What!\n"

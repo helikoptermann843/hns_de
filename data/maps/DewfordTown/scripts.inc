@@ -701,7 +701,7 @@ DewfordTown_Text_GettingItchToFish:
 DewfordTown_Text_GiveYouOneOfMyRods:
 	.string "Ich habe dir genau zugehört und mir\n"
 	.string "gefällt, was du gesagt hast!\p"
-	.string "Ich werde dir eine meiner Angeln\n"
+	.string "Ich werde dir eine meiner ANGELn\n"
 	.string "geben.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
@@ -742,13 +742,11 @@ DewfordTown_Text_FishingAdvice:
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
 	.string "Ich mag, was hip, aufregend und modern\n"
-	.string "ist. So etwas probiere ich immer aus.\n"
-	.string "\p"
+	.string "ist. So etwas probiere ich immer aus.\p"
 	.string "Hast du schon einmal was von\n"
 	.string "“{STR_VAR_1}” gehört?\p"
 	.string "Wusste ich es doch!\n"
-	.string "Natürlich hast du schon davon gehört!\n"
-	.string "\p"
+	.string "Natürlich hast du schon davon gehört!\p"
 	.string "Oh, meine Güte,\n"
 	.string "“{STR_VAR_1}”…\l"
 	.string "Das ist das Coolste überhaupt!\p"
@@ -763,7 +761,8 @@ DewfordTown_Text_TellMeWhatsNewAndIn:
 	.string "wirklich cool und “in” ist?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Was? “{STR_VAR_2}”?\p"
+	.string "Was?\n"
+	.string "“{STR_VAR_2}”?\p"
 	.string "… …\p"
 	.string "… Hm… Äh… Yeah! Das stimmt!\n"
 	.string "Yeah, ich wusste das! Schon lange!\p"
@@ -773,11 +772,9 @@ DewfordTown_Text_OfCourseIKnowAboutThat:
 	.string "Ist “{STR_VAR_2}”\l"
 	.string "nicht das Coolste?\p"
 	.string "Das ist die hippeste Sache überhaupt.\n"
-	.string "Und du dachtest, ich wüsste das nicht?\n"
-	.string "\p"
+	.string "Und du dachtest, ich wüsste das nicht?\p"
 	.string "“{STR_VAR_1}”…\n"
-	.string "Das ist doch schon uralt und unmodern.\n"
-	.string "\p"
+	.string "Das ist doch schon uralt und unmodern.\p"
 	.string "“{STR_VAR_2}” ist das,\n"
 	.string "was vital und zeitgemäß ist!$"
 

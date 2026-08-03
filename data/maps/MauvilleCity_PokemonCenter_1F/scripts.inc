@@ -49,9 +49,9 @@ MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
 	.string "Im oberen Stockwerk des Pokémon-\n"
-	.string "Centers wurde die Möglichkeit des\l"
-	.string "Statistiktausches eingerichtet.\p"
-	.string "Ich weiß nicht genau, was das ist.\n"
-	.string "Aber das werde ich herausfinden! Ist\l"
+	.string "CENTERs wurde die Möglichkeit des\l"
+	.string "STATISTIKTAUSCHes eingerichtet.\p"
+	.string "Ich weiß nicht genau, was das ist. Aber\n"
+	.string "das werde ich herausfinden! Ist\l"
 	.string "bestimmt lustig!$"
 

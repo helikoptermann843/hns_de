@@ -83,8 +83,7 @@ FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
 	.string "Bitte, nimm dies!$"
 
 FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
-	.string "{PLAYER} received an Egg\n"
-	.string "from the man!$"
+	.string "{PLAYER} erhält ein Ei.$"
 
 FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
 	.string "… leider hast du keinen Platz\n"

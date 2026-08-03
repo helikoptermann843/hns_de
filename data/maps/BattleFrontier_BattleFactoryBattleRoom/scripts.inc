@@ -299,8 +299,7 @@ BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
 	.string "Kevin: Was war das denn…\n"
-	.string "Du gehörst bereits in eine andere\n"
-	.string "Liga. \p"
+	.string "Du gehörst bereits in eine andere Liga.\p"
 	.string "Meine Güte! Wow!\n"
 	.string "Gib mir deinen Kampfzonenpass!$"
 

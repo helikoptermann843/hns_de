@@ -41,8 +41,8 @@ Route16_House_Text_FoundMySecretRetreat::
 	.string "Du bekommst auch etwas von mir!$"
 
 Route16_House_Text_ReceivedHM02FromGirl::
-	.string "{PLAYER} received HM02\n"
-	.string "from the girl.$"
+	.string "{PLAYER} erhält\n"
+	.string "VM02!$"
 
 Route16_House_Text_ExplainHM02::
 	.string "VM02 ist Fliegen. Damit kannst du\n"

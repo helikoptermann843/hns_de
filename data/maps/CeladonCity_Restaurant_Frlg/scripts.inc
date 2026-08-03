@@ -66,8 +66,8 @@ CeladonCity_Restaurant_Text_TakeThisImBusted::
 	.string "gebrauchen!$"
 
 CeladonCity_Restaurant_Text_ReceivedCoinCaseFromMan::
-	.string "{PLAYER} received a Coin Case\n"
-	.string "from the man.$"
+	.string "{PLAYER} erhält\n"
+	.string "einen Münzkorb!$"
 
 CeladonCity_Restaurant_Text_MakeRoomForThis::
 	.string "Du solltest etwas Platz schaffen!$"

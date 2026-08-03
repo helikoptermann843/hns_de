@@ -277,8 +277,8 @@ TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
 	.string "glücklich macht!$"
 
 TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
-	.string "{PLAYER} handed the Meteorite\n"
-	.string "to Lostelle's daddy.$"
+	.string "{PLAYER} gibt dem Vater von\n"
+	.string "Irrma den Meteoriten!$"
 
 TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
 	.string "Oh, das ist von Bill!\n"
@@ -287,8 +287,8 @@ TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
 	.string "Das ist für dich!$"
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
-	.string "{PLAYER} received a Moon Stone\n"
-	.string "from Lostelle's daddy.$"
+	.string "{PLAYER} erhält einen Mondstein\n"
+	.string "von IRRMAs Vater!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 	.string "In deinem Beutel ist leider\n"

@@ -345,8 +345,7 @@ OldaleTown_Text_SavingMyProgress:
 
 OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Hi!\n"
-	.string "Ich arbeite in einem Pkmn-Supermarkt.\n"
-	.string "\p"
+	.string "Ich arbeite in einem Pkmn-Supermarkt.\p"
 	.string "Kommst du bitte einmal mit mir?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:

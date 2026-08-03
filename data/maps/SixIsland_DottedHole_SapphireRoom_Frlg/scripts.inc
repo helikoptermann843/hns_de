@@ -239,7 +239,7 @@ SixIsland_DottedHole_SapphireRoom_EventScript_BrailleMessage::
 	end
 
 SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire::
-	.string "{PLAYER} found a Sapphire!$"
+	.string "{PLAYER} hat den Saphir gefunden!$"
 
 SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
 	.string "Fufu… fufufufu…\n"

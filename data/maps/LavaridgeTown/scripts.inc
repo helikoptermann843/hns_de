@@ -332,10 +332,8 @@ LavaridgeTown_Text_HaveEggWillYouTakeIt:
 	.string "zusammen mit den Pokémon tragen\l"
 	.string "soll.\p"
 	.string "Du bist ein Trainer, nicht wahr? Und\n"
-	.string "deine Pokémon strahlen Vitalität aus.\n"
-	.string "\p"
-	.string "So, was meinst du? Wirst du das Ei\n"
-	.string "mit-\l"
+	.string "deine Pokémon strahlen Vitalität aus.\p"
+	.string "So, was meinst du? Wirst du das Ei mit-\n"
 	.string "nehmen und zum Ausschlüpfen bringen?$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:

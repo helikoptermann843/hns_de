@@ -240,8 +240,8 @@ SilphCo_7F_Text_HaveMonForSavingUs::
 	.string "Dankeschön.$"
 
 SilphCo_7F_Text_ObtainedLaprasFromEmployee::
-	.string "{PLAYER} obtained a Lapras from\n"
-	.string "the Silph employee!$"
+	.string "{PLAYER} erhält ein Lapras von\n"
+	.string "einem Silph-Angestellten!$"
 
 SilphCo_7F_Text_ExplainLapras::
 	.string "Es heißt Lapras und ist sehr\n"
@@ -345,9 +345,9 @@ SilphCo_7F_Text_RivalIntro::
 	.string "seitdem besser geworden bist!$"
 
 SilphCo_7F_Text_RivalDefeat::
-	.string "Oh, man!\n"
-	.string "So, you are ready for Boss\l"
-	.string "Rocket!$"
+	.string "Mann!\n"
+	.string "Du bist so gut, dass du gegen den\l"
+	.string "Rocket Boss antreten kannst!$"
 
 SilphCo_7F_Text_RivalPostBattle::
 	.string "Also, {PLAYER}!\n"

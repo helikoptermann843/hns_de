@@ -238,12 +238,13 @@ FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
 	.string "Das werde ich nie verraten!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
-	.string "Lorelei: If you won't confess,\n"
-	.string "we'll deep-freeze you.\p"
-	.string "My Lapras is furious for what\n"
-	.string "you've done to its friends.\p"
-	.string "Go, Lapras!\n"
-	.string "Ice Beam…$"
+	.string "Lorelei: Falls du es mir nicht\n"
+	.string "sagst, werden wir dich einfrieren.\p"
+	.string "Mein Lapras ist außer sich für\n"
+	.string "das, was ihr seinen Artgenossen\l"
+	.string "angetan habt!\l"
+	.string "Los, Lapras!\l"
+	.string "Eisstrahl…$"
 
 FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "Bitte nicht! O.K.!\n"

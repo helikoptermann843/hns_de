@@ -56,8 +56,8 @@ Route12_NorthEntrance_2F_Text_TakeTMDontNeedAnymoreFemale::
 	.string "benötige sie nicht länger...$"
 
 Route12_NorthEntrance_2F_Text_ReceivedTM27FromLittleGirl::
-	.string "{PLAYER} received TM27\n"
-	.string "from the little girl.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM27!$"
 
 Route12_NorthEntrance_2F_Text_ExplainTM27::
 	.string "TM27 ist Rückkehr.\p"

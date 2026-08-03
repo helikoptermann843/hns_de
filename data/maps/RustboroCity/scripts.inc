@@ -1032,9 +1032,8 @@ RustboroCity_Text_HaveYouChallengedGym:
 	.string "Hast du schon die Herausforderung der\n"
 	.string "Pokémon Arena angenommen?\p"
 	.string "Ich glaube, wenn sie den glänzenden\n"
-	.string "Orden der Arena in der Hand halten,\n"
-	.string "wird\l"
-	.string "den Trainern klar, was von ihnen\l"
+	.string "Orden der Arena in der Hand halten, wird\l"
+	.string "den TRAINERn klar, was von ihnen\l"
 	.string "verlangt wird.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:

@@ -229,32 +229,35 @@ TwoIsland_Text_DangerFastCurrent::
 
 TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 	.string "Oh!\n"
-	.string "Hello, welcome to my shop!\p"
-	.string "We've only opened up recently.\p"
-	.string "Our merchandise is limited, but I\n"
-	.string "hope we can serve your needs.$"
+	.string "Hallo, willkommen in meinem Laden!\p"
+	.string "Wir hatten erst vor kurzem unsere\n"
+	.string "Eröffnung!\p"
+	.string "Das Angebot ist klein, aber ich\n"
+	.string "hoffe, du findest etwas für dich!$"
 
 TwoIsland_Text_AddedMerchandiseForLostelle::
-	.string "I can't tell you how grateful I am\n"
-	.string "for your rescue of Lostelle.\p"
-	.string "Thanks to your feat, the people of\n"
-	.string "Three Island have changed their\l"
-	.string "attitudes about Kanto people.\p"
-	.string "And, I'm from Kanto, you see.\p"
-	.string "The people of Three Island\n"
-	.string "helped me add to my merchandise.$"
+	.string "Ich kann dir gar nicht sagen, wie\n"
+	.string "dankbar ich dir für die Rettung\l"
+	.string "von Irrma bin.\l"
+	.string "Dank dir haben die Einwohner von\l"
+	.string "Tri-Eiland ihre Meinung über die\l"
+	.string "Menschen aus Kanto geändert.\l"
+	.string "Und ich komme aus Kanto.\p"
+	.string "Die Bewohner von Tri-Eiland haben\n"
+	.string "mir bei der Warenzusammenstellung\l"
+	.string "geholfen.$"
 
 TwoIsland_Text_HopeYouGiveItYourBest::
-	.string "Hi! I'm giving it my best here.\n"
-	.string "I hope you do too, {PLAYER}.$"
+	.string "Hallo! Ich gebe hier mein Bestes!\n"
+	.string "Ich hoffe, du auch {PLAYER}.$"
 
 TwoIsland_Text_BringingItemsFromDistantLands::
-	.string "Oh, hello, {PLAYER}!\n"
-	.string "Welcome!\p"
-	.string "I've started bringing in items from\n"
-	.string "distant lands.\p"
-	.string "I've got some rare items in, too.\n"
-	.string "Please have a look!$"
+	.string "Oh, hallo, {PLAYER}!\n"
+	.string "Willkommen!\p"
+	.string "Ich bringe Items von fernen Inseln\n"
+	.string "hierher.\p"
+	.string "Ich habe auch einige seltene\n"
+	.string "Items. Sieh dich in Ruhe um!$"
 
 TwoIsland_Text_FellowMovedFromCeladonCity::
 	.string "Dieser Mann dort ist von Prismania\n"

@@ -261,7 +261,7 @@ SeafloorCavern_Room9_Text_RedOrbShinesByItself:
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
 	.string "Adrian: Was?!?\p"
 	.string "Ich habe doch gar nichts gemacht.\n"
-	.string "Die rote Kugel… Warum…\p"
+	.string "Die Rote Kugel… Warum…\p"
 	.string "Wo ist Kyogre geblieben?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
@@ -270,10 +270,11 @@ SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
 
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "Adrian: Ja, was ist denn jetzt los?\p"
-	.string "Hm… Es regnet? So heftig?\p"
+	.string "Hm…\n"
+	.string "Es regnet? So heftig?\p"
 	.string "Gut… Genau darauf habe ich gewartet.\n"
 	.string "Deshalb haben wir Kyogre erweckt.\l"
-	.string "Um Team Aquas Vision von der Erweite-\l"
+	.string "Um Team AQUAs Vision von der Erweite-\l"
 	.string "rung der Meere zu realisieren.\p"
 	.string "Was?!?\p"
 	.string "Es regnet stärker, als wir es voraus-\n"
@@ -304,11 +305,10 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
 	.string "Adrian: Was?!?\n"
-	.string "Behandle mich nicht so von oben herab!\n"
-	.string "\p"
+	.string "Behandle mich nicht so von oben herab!\p"
 	.string "Wart ihr es nicht, Team Magma, die\n"
 	.string "Groudon erzürnt habt?\p"
-	.string "Solange ich die rote Kugel habe, habe\n"
+	.string "Solange ich die Rote Kugel habe, habe\n"
 	.string "ich auch die Kontrolle über Kyogre…\p"
 	.string "Ich sollte es kontrollieren können…$"
 

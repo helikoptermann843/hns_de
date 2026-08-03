@@ -148,8 +148,8 @@ TwoIsland_House_Text_NoMoveICanTeachThatMon::
 	.string "kann.$"
 
 TwoIsland_House_Text_IllNeedMushroomOrTwo::
-	.string "Then, I'll need a Mushroom or two.\n"
-	.string "What are you going to give me?$"
+	.string "Gib mir einen oder zwei Pilze!\n"
+	.string "Was willst du mir geben?$"
 
 TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
 	.string "{PLAYER} übergibt zwei\n"

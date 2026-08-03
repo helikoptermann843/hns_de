@@ -309,14 +309,13 @@ RustboroCity_PokemonSchool_Text_StudentsNotes:
 	.string "erwarten, zu besiegen.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut:
-	.string "Hallo? Haben wir uns nicht schon\n"
-	.string "einmal\n"
+	.string "Hallo? Haben wir uns nicht schon einmal\n"
 	.string "gesehen? Ich glaube, das war in\l"
 	.string "Blütenburg City?\p"
 	.string "Ich will mich mal vorstellen.\n"
 	.string "Mein Name ist Scott.\p"
 	.string "Ich reise durch die Lande, auf der\n"
-	.string "Suche nach herausragenden Trainern.\p"
+	.string "Suche nach herausragenden TRAINERn.\p"
 	.string "Genauer gesagt bin ich auf der\n"
 	.string "Suche nach Experten des Pokémon-\l"
 	.string "Kampfes.\p"
@@ -346,14 +345,13 @@ RustboroCity_PokemonSchool_Text_ScottStoneBadge:
 	.string "einschätzen.$"
 
 RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge:
-	.string "Hallo? Haben wir uns nicht schon\n"
-	.string "einmal\n"
+	.string "Hallo? Haben wir uns nicht schon einmal\n"
 	.string "gesehen? Ich glaube, das war in\l"
 	.string "Blütenburg City?\p"
 	.string "Ich will mich mal vorstellen.\n"
 	.string "Mein Name ist Scott.\p"
 	.string "Ich reise durch die Lande, auf der\n"
-	.string "Suche nach herausragenden Trainern.\p"
+	.string "Suche nach herausragenden TRAINERn.\p"
 	.string "Besser gesagt, ich suche nach Experten\n"
 	.string "des Pokémon-Kampfes.\p"
 	.string "Was ist das?\n"

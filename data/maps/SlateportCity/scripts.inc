@@ -1027,8 +1027,7 @@ SlateportCity_Text_BossIsBrilliant:
 	.string "Museum zeigt?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "Was hat diese neue Masche zu bedeuten?\n"
-	.string "\p"
+	.string "Was hat diese neue Masche zu bedeuten?\p"
 	.string "Unser Boss ist richtig Furcht ein-\n"
 	.string "flößend, wenn er so abgedreht ist. Ich\l"
 	.string "halte lieber Abstand und frage nicht…$"
@@ -1045,8 +1044,7 @@ SlateportCity_Text_DontButtIn:
 SlateportCity_Text_RemindsMeOfLongLineForGames:
 	.string "Eine lange Schlange, was?\p"
 	.string "Erinnert mich an die Zeiten, als ich\n"
-	.string "Ewigkeiten anstand, um mir die\n"
-	.string "neuesten\l"
+	.string "Ewigkeiten anstand, um mir die neuesten\l"
 	.string "brandheißen Spiele zu kaufen…$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
@@ -1196,7 +1194,8 @@ SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "storben ist.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
-	.string "Hähähä… Kapt. Brigg, nehme ich an.\p"
+	.string "Hähähä…\n"
+	.string "Kapt. Brigg, nehme ich an.\p"
 	.string "Wir von Team Aqua werden das U-Boot\n"
 	.string "in unsere Gewalt nehmen!\p"
 	.string "Eure Einwände sind bedeutungslos!\n"

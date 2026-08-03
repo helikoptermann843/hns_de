@@ -292,7 +292,8 @@ SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
 	.string "schön kalt und wunderbar glitschig.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
-	.string "Aiyeeh! Was machst du hier?\p"
+	.string "Aiyeeh!\n"
+	.string "Was machst du hier?\p"
 	.string "Ich? Ich bin von Team Aqua. Du hast\n"
 	.string "mich in den Boden gestampft. Erinnerst\l"
 	.string "du dich? Im Metaflurtunnel?\p"
@@ -363,8 +364,7 @@ SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
 	.string "“Meereskunde Fakt 3”\n"
-	.string "Was ist größer? Das Meer oder das\n"
-	.string "Land? \p"
+	.string "Was ist größer? Das Meer oder das Land?\p"
 	.string "“Die Erde ist zu 70 % von Wasser\n"
 	.string "bedeckt, der Rest ist Land.\p"
 	.string "Das Meer ist also mehr als doppelt\n"

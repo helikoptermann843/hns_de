@@ -404,12 +404,11 @@ CeruleanCity_Text_ExplainFameCheckerSmellYa::
 	.string "wirklich gehen. Tschüss!$"
 
 CeruleanCity_Text_GruntIntro::
-	.string "Hey! Stay out!\n"
-	.string "It's not your yard!\p"
-	.string "…Huh?\n"
-	.string "Me?\p"
-	.string "I'm an innocent bystander!\n"
-	.string "Don't you believe me?{PLAY_BGM}{MUS_RG_ENCOUNTER_ROCKET}$"
+	.string "He! Bleib draußen! Du hast hier\n"
+	.string "nichts zu suchen! Was ich hier tue?\p"
+	.string "Ich bin nur ein unschuldiger\n"
+	.string "Passant! Was?\p"
+	.string "Glaubst du mir etwa nicht?$"
 
 CeruleanCity_Text_GruntDefeat::
 	.string "Grunt: Stop! I give up!\n"

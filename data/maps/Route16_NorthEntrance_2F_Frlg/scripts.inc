@@ -85,8 +85,8 @@ Route16_NorthEntrance_2F_Text_GreatHereYouGo::
 	.string "Pflanzen-Pokémon Bisasam?$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
-	.string "{PLAYER} received the Amulet Coin\n"
-	.string "from the Aide.$"
+	.string "{PLAYER} erhält\n"
+	.string "Münzamulett!$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
 	.string "Ah! Glumanda soll es sein!\n"

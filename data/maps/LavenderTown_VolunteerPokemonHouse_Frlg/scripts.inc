@@ -120,8 +120,8 @@ LavenderTown_VolunteerPokemonHouse_Text_IdLikeYouToHaveThis::
 	.string "helfen.$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ReceivedPokeFluteFromMrFuji::
-	.string "{PLAYER} received a Poké Flute\n"
-	.string "from Mr. Fuji.$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Pokéflöte!$"
 
 LavenderTown_VolunteerPokemonHouse_Text_ExplainPokeFlute::
 	.string "Schlafende Pokémon wachen auf,\n"

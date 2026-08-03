@@ -1408,7 +1408,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorReject::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorIntro::
 	.string "Hi, ich bin {STR_VAR_1}.\n"
-	.string "Ich bin ein Pkmn-sammler.$"
+	.string "Ich bin ein Pkmn-Sammler.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon1::
 	.string "Meine Juwelen! Ein {STR_VAR_2},\n"

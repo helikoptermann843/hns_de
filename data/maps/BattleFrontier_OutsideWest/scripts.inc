@@ -422,8 +422,8 @@ BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling:
 	.string "Ich glaube, ich bin das einzige Wesen\n"
 	.string "hier, das lieber angelt als kämpft.\l"
 	.string "Warum auch immer…\p"
-	.string "Wie? Hier kann man gar nichts\n"
-	.string "fangen?!? Was für eine Enttäuschung…$"
+	.string "Wie? Hier kann man gar nichts fangen?!?\n"
+	.string "Was für eine Enttäuschung…$"
 
 BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol:
 	.string "Heute werde ich unter allen Umständen\n"
@@ -490,7 +490,7 @@ BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike:
 BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet:
 	.string "Was? Hör dir doch mal selber zu!\n"
 	.string "Das ist doch wirklich popelig!\p"
-	.string "Das letzte Mal als ich ihm zugejubelt\n"
+	.string "Das letzte Mal als Ich ihm zugejubelt\n"
 	.string "habe, haben sich unsere Augen\p"
 	.string "getroffen. Es hat richtig gefunkt\n"
 	.string "zwischen uns!$"

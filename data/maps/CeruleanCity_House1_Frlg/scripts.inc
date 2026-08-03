@@ -80,9 +80,9 @@ CeruleanCity_House1_Text_BadgesHaveAmazingSecrets::
 	.string "Die Orden sind geheimnisumwoben!$"
 
 CeruleanCity_House1_Text_DescribeWhichBadge::
-	.string "Now then…\p"
-	.string "Which of the eight Badges should\n"
-	.string "I describe?$"
+	.string "Also dann...\p"
+	.string "Über welchen der acht Orden soll\n"
+	.string "ich dir etwas erzählen?$"
 
 CeruleanCity_House1_Text_ComeVisitAnytime::
 	.string "Besuche mich, wann immer du\n"

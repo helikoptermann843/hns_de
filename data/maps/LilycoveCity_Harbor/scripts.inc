@@ -553,8 +553,7 @@ LilycoveCity_Harbor_Text_NoTicket:
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
 	.string "{PLAYER} zeigt das Ticket.\p"
-	.string "Perfekt! Das ist alles, was du\n"
-	.string "brauchst! \p"
+	.string "Perfekt! Das ist alles, was du brauchst!\p"
 	.string "Und wo soll die Reise hingehen?$"
 
 LilycoveCity_Harbor_Text_SailAnotherTime:

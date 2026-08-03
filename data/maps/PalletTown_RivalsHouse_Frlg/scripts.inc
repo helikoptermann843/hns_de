@@ -181,8 +181,8 @@ PalletTown_RivalsHouse_Text_ErrandForGrandpaThisWillHelp::
 	.string "Hier, das wird dir weiterhelfen!$"
 
 PalletTown_RivalsHouse_Text_ReceivedTownMapFromDaisy::
-	.string "{PLAYER} received a Town Map\n"
-	.string "from Daisy.$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Karte!$"
 
 PalletTown_RivalsHouse_Text_DontHaveSpaceForThis::
 	.string "Du trägst zu viele Dinge mit dir\n"

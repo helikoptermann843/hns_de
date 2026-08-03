@@ -470,9 +470,9 @@ CeladonCity_GameCorner_Text_CanExchangeCoinsNextDoor::
 	.string "Münzen gegen Preise tauschen.$"
 
 CeladonCity_GameCorner_Text_WelcomeBuySomeCoins::
-	.string "Welcome to Rocket Game Corner!\p"
-	.string "Do you need some game Coins?\n"
-	.string "Would you like to buy some?$"
+	.string "Willkommen in der Rocket\n"
+	.string "Spielhalle!\p"
+	.string "Benötigst du Spiel-Münzen?$"
 
 CeladonCity_GameCorner_Text_ComePlaySometime::
 	.string "Nein? Dann komm vorbei, wenn du\n"

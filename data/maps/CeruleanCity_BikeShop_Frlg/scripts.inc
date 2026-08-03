@@ -73,10 +73,10 @@ CeruleanCity_BikeShop_EventScript_Bicycle::
 	end
 
 CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
-	.string "Hi!\n"
-	.string "Welcome to our Bike Shop.\p"
-	.string "Have we got just the Bike for\n"
-	.string "you!$"
+	.string "Hallo!\n"
+	.string "Willkommen im Fahrradladen!\p"
+	.string "Wir haben garantiert das richtige\n"
+	.string "Fahrrad für dich!$"
 
 CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
 	.string "Es tut mir Leid, du kannst es dir\n"
@@ -89,8 +89,8 @@ CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
 	.string "Es gehört dir!$"
 
 CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
-	.string "{PLAYER} exchanged the\n"
-	.string "Bike Voucher for a Bicycle.$"
+	.string "{PLAYER} tauscht den Rad-Coupon\n"
+	.string "gegen das Fahrrad.$"
 
 CeruleanCity_BikeShop_Text_ThankYouComeAgain::
 	.string "Besuch uns doch wieder!$"

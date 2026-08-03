@@ -81,8 +81,8 @@ PokemonTower_6F_Text_BeGoneIntruders::
 	.string "Baumharz.$"
 
 PokemonTower_6F_Text_GhostWasCubonesMother::
-	.string "The ghost was the restless spirit\n"
-	.string "of Cubone's mother!$"
+	.string "Der Geist war die rastlose Seele\n"
+	.string "der Mutter eines Tragosso!$"
 
 PokemonTower_6F_Text_MothersSpiritWasCalmed::
 	.string "Ihre Seele hat Frieden gefunden.\p"

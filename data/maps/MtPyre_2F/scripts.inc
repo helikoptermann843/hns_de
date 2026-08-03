@@ -91,12 +91,11 @@ MtPyre_2F_Text_LukeNotEnoughMons:
 	.string "bin!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "Ina: Ich bin hier, um mit meinem\n"
-	.string "Freund eine Mutprobe zu bestehen.\p"
+	.string "Ina: Ich bin hier, um mit meinem Freund\n"
+	.string "eine Mutprobe zu bestehen.\p"
 	.string "Es ist unheimlich hier, aber zusammen\n"
 	.string "mit meinem Freund ist es schon okay.\p"
-	.string "Ich hab’s: Mein Freund soll zeigen,\n"
-	.string "wie\l"
+	.string "Ich hab’s: Mein Freund soll zeigen, wie\n"
 	.string "cool er ist, indem er dich besiegt!$"
 
 MtPyre_2F_Text_DezDefeat:

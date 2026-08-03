@@ -109,8 +109,8 @@ Route12_FishingHouse_Text_TakeThisAndFish::
 	.string "Nimm das hier und gehe angeln!$"
 
 Route12_FishingHouse_Text_ReceivedSuperRod::
-	.string "{PLAYER} received a Super Rod from\n"
-	.string "the Fishing Guru's brother.$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Superangel!$"
 
 Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
 	.string "Angeln ist nicht nur ein Sport, es\n"

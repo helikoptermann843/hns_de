@@ -267,13 +267,13 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 	.string "Welt!$"
 
 PokemonLeague_ChampionsRoom_Text_Defeat::
-	.string "No!\n"
-	.string "That can't be!\l"
-	.string "You beat me at my best!\p"
-	.string "After all that work to become\n"
-	.string "the League Champ?\p"
-	.string "My reign is over already?\n"
-	.string "It's not fair!$"
+	.string "Nein!\n"
+	.string "Das kann nicht wahr sein! Meine\l"
+	.string "besten Pokémon sind geschlagen!\p"
+	.string "Mein Siegeszug ist schon vorbei?\p"
+	.string "Nach all den Anstrengungen,\n"
+	.string "Liga-Champion zu werden?\p"
+	.string "Das ist nicht fair!$"
 
 PokemonLeague_ChampionsRoom_Text_Victory::
 	.string "はーはッ！\n"

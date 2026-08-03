@@ -109,9 +109,10 @@ PokemonTower_2F_Text_RivalIntro::
 	.string "{RIVAL} zusammen.$"
 
 PokemonTower_2F_Text_RivalDefeat::
-	.string "What?\n"
-	.string "You stinker!\p"
-	.string "I took it easy on you, too!$"
+	.string "Was?\n"
+	.string "Du bist eine harte Nuss!\p"
+	.string "Ich bin es wohl etwas zu locker\n"
+	.string "angegangen!$"
 
 PokemonTower_2F_Text_RivalPostBattle::
 	.string "Wie macht sich dein Pokédex,\n"

@@ -195,11 +195,12 @@ VictoryRoad_1F_Text_HopePostBattle:
 	.string "Champ zu werden.$"
 
 VictoryRoad_1F_Text_QuincyIntro:
-	.string "Was ist das? Die Siegesstraße?\n"
+	.string "Was ist das? Die Siegesstrasse?\n"
 	.string "Wenn du gewinnst, verrat ich es dir.$"
 
 VictoryRoad_1F_Text_QuincyDefeat:
-	.string "Okay! Gut gemacht!$"
+	.string "Okay!\n"
+	.string "Gut gemacht!$"
 
 VictoryRoad_1F_Text_QuincyPostBattle:
 	.string "Hier sicher durchzukommen, das ist der\n"

@@ -704,8 +704,7 @@ Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
 	.string "Was? Grrrr…\p"
-	.string "Woher wusstest du, dass ich mich\n"
-	.string "hinter\l"
+	.string "Woher wusstest du, dass ich mich hinter\n"
 	.string "dem Baum versteckt hatte? Clever!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
@@ -730,8 +729,7 @@ Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
 	.string "Was? Grrrr…\p"
-	.string "Woher wusstest du, dass ich mich\n"
-	.string "hinter\l"
+	.string "Woher wusstest du, dass ich mich hinter\n"
 	.string "dem Fenster versteckt hatte? Clever!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
@@ -784,8 +782,7 @@ Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
 	.string "Ach, du bist das!\p"
 	.string "Ich bin gerade dabei, mir neue Tricks\n"
 	.string "und Herausforderungen auszudenken!\p"
-	.string "Es ist doch nicht zu viel verlangt,\n"
-	.string "mir\n"
+	.string "Es ist doch nicht zu viel verlangt, mir\n"
 	.string "noch etwas Zeit zum Nachdenken zu\l"
 	.string "geben, oder? Das ist mir doch gegönnt,\l"
 	.string "oder? Danke. Komm später wieder!$"

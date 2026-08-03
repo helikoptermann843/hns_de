@@ -230,7 +230,8 @@ JaggedPass_Text_EthanPostRematch:
 	.string "in Malvenfroh City besorgen…$"
 
 JaggedPass_Text_GruntIntro:
-	.string "Wah! Was machst du hier?\p"
+	.string "Wah!\n"
+	.string "Was machst du hier?\p"
 	.string "Was ich hier mache?\p"
 	.string "Was geht dich das an?$"
 
@@ -267,7 +268,8 @@ JaggedPass_Text_AutumnIntro:
 	.string "Berg! Ich weiß, wie stark ich bin.$"
 
 JaggedPass_Text_AutumnDefeat:
-	.string "Hmm… Was ist denn nur schief gelaufen?$"
+	.string "Hmm…\n"
+	.string "Was ist denn nur schief gelaufen?$"
 
 JaggedPass_Text_AutumnPostBattle:
 	.string "Da oben ist ein kleiner Vorsprung. Der\n"

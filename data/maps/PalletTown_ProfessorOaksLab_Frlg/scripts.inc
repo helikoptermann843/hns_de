@@ -1319,8 +1319,8 @@ PalletTown_ProfessorOaksLab_Text_RivalIllTakeThisOneThen::
 	.string "{RIVAL}: Ich nehme dieses hier.$"
 
 PalletTown_ProfessorOaksLab_Text_RivalReceivedMonFromOak::
-	.string "{RIVAL} received the {STR_VAR_1}\n"
-	.string "from Prof. Oak!$"
+	.string "{RIVAL} erhält\n"
+	.string "{STR_VAR_1}!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalMyMonLooksTougher::
 	.string "{RIVAL}: Mein Pokémon sieht viel\n"
@@ -1420,8 +1420,8 @@ PalletTown_ProfessorOaksLab_Text_OakThisMonIsEnergetic::
 	.string "Dieses Pokémon ist in Topform!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedMonFromOak::
-	.string "{PLAYER} received the {STR_VAR_1}\n"
-	.string "from Prof. Oak!$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_1}!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCanReachNextTownWithMon::
 	.string "Prof. Eich: Wenn du auf ein wildes\n"
@@ -1466,8 +1466,8 @@ PalletTown_ProfessorOaksLab_Text_OakTakeTheseWithYou::
 	.string "Diese beiden sind für euch!$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedPokedexFromOak::
-	.string "{PLAYER} received the Pokédex\n"
-	.string "from Prof. Oak.$"
+	.string "{PLAYER} erhält einen Pokédex von\n"
+	.string "Prof. Eich!$"
 
 PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
 	.string "Prof. Eich: Es reicht nicht, \n"

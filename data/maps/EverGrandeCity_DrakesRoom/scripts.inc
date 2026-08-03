@@ -64,7 +64,7 @@ EverGrandeCity_DrakesRoom_EventScript_Defeated::
 EverGrandeCity_DrakesRoom_Text_IntroSpeech:
 	.string "Ich bin der letzte der Top Vier in der\n"
 	.string "Pokémon Liga, Dragan der\l"
-	.string "Drachen-meister!\p"
+	.string "Drachen-Meister!\p"
 	.string "Von Natur aus sind Pokémon wild.\n"
 	.string "Sie sind frei.\p"
 	.string "Manchmal behindern sie uns.\n"
@@ -87,7 +87,7 @@ EverGrandeCity_DrakesRoom_Text_PostBattleSpeech:
 	.string "Ja, ein Trainer braucht ein ehrliches\n"
 	.string "Herz.\p"
 	.string "Pokémon berühren das Gute im Herzen\n"
-	.string "des Trainers und lernen, zwischen gut\l"
+	.string "des TRAINERs und lernen, zwischen gut\l"
 	.string "und schlecht zu unterscheiden.\p"
 	.string "Sie berühren die guten Herzen der\n"
 	.string "Trainer und wachsen daran.\p"

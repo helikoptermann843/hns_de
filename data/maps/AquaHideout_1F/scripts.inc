@@ -53,8 +53,7 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
 	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser Boss ist nicht hier! Er ist\n"
-	.string "dabei,\n"
+	.string "Unser Boss ist nicht hier! Er ist dabei,\n"
 	.string "sich etwas sehr Wichtiges unter den\l"
 	.string "Nagel zu reißen.\p"
 	.string "… …\n"
@@ -73,8 +72,7 @@ AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 AquaHideout_1F_Text_BossWentToJackASubmarine:
 	.string "Was? Wie? Was hast du mit Team Aqua zu\n"
 	.string "schaffen?\p"
-	.string "Unser Boss ist nicht hier! Er ist\n"
-	.string "dabei,\n"
+	.string "Unser Boss ist nicht hier! Er ist dabei,\n"
 	.string "sich ein U-Boot unter den Nagel zu\l"
 	.string "reißen.\p"
 	.string "… …\n"

@@ -147,7 +147,8 @@ AquaHideout_B1F_Text_Grunt5PostBattle:
 	.string "schnappt dich Team Aqua.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Hey! Du da!\p"
+	.string "Hey!\n"
+	.string "Du da!\p"
 	.string "Was ist cooler?\n"
 	.string "Die Uniform von Team Aqua oder\l"
 	.string "die von Team Magma?$"

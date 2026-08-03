@@ -171,8 +171,8 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
 	.string "Nimm dieses Geschenk von mir!$"
 
 VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
-	.string "{PLAYER} received a Bike Voucher\n"
-	.string "from the Chairman.$"
+	.string "{PLAYER} erhält\n"
+	.string "einen Rad-Coupon!$"
 
 VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
 	.string "Zeige den Rad-Coupon im\n"

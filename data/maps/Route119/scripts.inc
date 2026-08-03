@@ -561,7 +561,7 @@ Route119_Text_ScottYouWonAtFortreeGym:
 	.string "Piep!\p"
 	.string "Scott: Hi {PLAYER}{KUN}, ich bin’s!\p"
 	.string "Ich wusste, dass du in der Arena\n"
-	.string "von Baumhausen City gewinnen würdest.\p"
+	.string "von Baumhausen gewinnen würdest.\p"
 	.string "Deine Stärke…\n"
 	.string "Vielleicht bist du wirklich der\l"
 	.string "Trainer, den ich die ganze Zeit\p"

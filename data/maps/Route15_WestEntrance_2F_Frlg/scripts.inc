@@ -68,8 +68,8 @@ Route15_WestEntrance_2F_Text_GreatHereYouGo::
 	.string "ich eines tauschen.$"
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
-	.string "{PLAYER} received the {STR_VAR_2}\n"
-	.string "from the Aide.$"
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_2}!$"
 
 Route15_WestEntrance_2F_Text_ExplainExpShare::
 	.string "Der EP-Teiler kann einem\n"

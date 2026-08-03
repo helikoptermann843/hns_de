@@ -224,8 +224,7 @@ Route117_Text_DayCarePokemonHadNewMove:
 
 Route117_Text_ArentTheseFlowersPretty:
 	.string "Was meinst du?\n"
-	.string "Sind diese Blumen nicht wunderhübsch?\n"
-	.string "\p"
+	.string "Sind diese Blumen nicht wunderhübsch?\p"
 	.string "Ich habe sie alle selber gepflanzt.$"
 
 Route117_Text_AirIsTastyHere:

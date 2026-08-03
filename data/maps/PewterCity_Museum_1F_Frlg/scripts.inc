@@ -245,8 +245,8 @@ PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "untersuchen!$"
 
 PewterCity_Museum_1F_Text_ReceivedOldAmberFromMan::
-	.string "{PLAYER} received the Old Amber\n"
-	.string "from the man.$"
+	.string "{PLAYER} erhält\n"
+	.string "einen Altbernstein!$"
 
 PewterCity_Museum_1F_Text_GetOldAmberChecked::
 	.string "Pst!\n"

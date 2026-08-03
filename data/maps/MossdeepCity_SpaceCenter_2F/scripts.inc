@@ -407,8 +407,8 @@ MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
 	.string "Das hätten wir wirklich machen sollen…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Drei gegen Einen und schau, was aus\n"
-	.string "uns geworden ist…$"
+	.string "Drei gegen Einen und schau, was aus uns\n"
+	.string "geworden ist…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
 	.string "Wir drei haben verloren…\n"
