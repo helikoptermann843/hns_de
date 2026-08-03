@@ -236,10 +236,10 @@ Route29_Text_TuscanyGivesGift:
 	.string "schenke ich dir einen Seidenschal.$"
 
 Route29_Text_TuscanyGaveGift:
-	.string "Dietlinde: Findest du nicht auch, dass\n"
-	.string "er eine äußerst sonderbare Form hat?\p"
+	.string "Dietlinde: Findest du nicht auch,\n"
+	.string "dass er ganz entzückend ist?\p"
 	.string "Er verstärkt Attacken der\n"
-	.string "Elementklasse Psycho.\p"
+	.string "Elementklasse Normal.\p"
 	.string "Ich bin sicher, er wird\n"
 	.string "dir sehr nützlich sein.$"
 

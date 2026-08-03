@@ -34,7 +34,7 @@ VioletCity_PokemonCenter_EventScript_Aide_Refuse::
 
 VioletCity_PokemonCenter_EventScript_Aide_Accepted::
 	getpartysize
-	goto_if_eq VAR_RESULT, PARTY_SIZE, VioletCity_PokeCenter_Text_ElmsAideFullParty
+	goto_if_eq VAR_RESULT, PARTY_SIZE, VioletCity_PokemonCenter_EventScript_AideFullParty
 	playfanfare MUS_OBTAIN_ITEM
 	message LavaridgeTown_Text_ReceivedTheEgg
 	waitfanfare
@@ -48,6 +48,12 @@ VioletCity_PokemonCenter_EventScript_Aide_Accepted::
 	setvar VAR_VIOLET_CITY_KIMONO_GIRL, 1
 	clearflag FLAG_HIDE_VIOLET_CITY_KIMONO_GIRL
 	clearflag FLAG_HIDE_NEWBARKTOWN_LAB_AIDE
+	release
+	end
+
+VioletCity_PokemonCenter_EventScript_AideFullParty::
+	msgbox VioletCity_PokeCenter_Text_ElmsAideFullParty, MSGBOX_DEFAULT
+	closemessage
 	release
 	end
 
@@ -91,19 +97,22 @@ VioletCity_PokemonCenter_Text_BookshelfWoman::
 
 
 VioletCity_PokeCenter_Text_ElmsAideFavor:
-	.string "Hallo! Lange nicht gesehen.\p"
+	.string "{PLAYER}, lange nicht gesehen.\p"
 	.string "Prof. Lind hat mich gebeten,\n"
 	.string "nach dir zu suchen.\p"
 	.string "Er hat noch eine Bitte an dich.\p"
 	.string "Nimm bitte das Pokémon-Ei!$"
 
 VioletCity_PokeCenter_Text_ElmsAideNoRoom:
-	.string "Hallo! Lange nicht gesehen.\p"
+	.string "{PLAYER}, lange nicht gesehen.\p"
 	.string "Prof. Lind hat mich gebeten,\n"
 	.string "nach dir zu suchen.\p"
 	.string "Er hat noch eine Bitte an dich.\p"
-	.string "Nimm bitte das Pokémon-Ei!p"
-	.string "Oh, du hast keinen Platz!$"
+	.string "Nimm bitte das Pokémon-Ei!\p"
+	.string "Oh, du hast keinen Platz mehr\n"
+	.string "für ein weiteres Pokémon.\p"
+	.string "Ich warte hier, bis du Platz für\n"
+	.string "das Ei geschaffen hast.$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "Wir haben entdeckt, dass ein\n"
@@ -115,7 +124,7 @@ VioletCity_PokeCenter_Text_ElmsAideGiveEgg:
 	.string "Du bist die einzige Person,\n"
 	.string "auf die wir uns verlassen können.\p"
 	.string "Bitte ruf Prof. Lind an,\n"
-	.string "wenn das Ei soweit ist!$"
+	.string "wenn das Ei so weit ist!$"
 
 VioletCity_PokeCenter_Text_ElmsAideGiveItem:
 	.string "Oh, das hier könnte helfen,\n"
@@ -129,8 +138,8 @@ VioletCity_PokeCenter_Text_ElmsAideFullParty:
 	.string "hast.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
-	.string "A-Aber… Prof.\n"
-	.string "Lind hat nach dir gefragt…$"
+	.string "A-Aber… Prof. Lind hat\n"
+	.string "nach dir gefragt…$"
 
 VioletCity_PokeCenter_Text_BooksAreGreat:
 	.string "Während meine Pokémon sich\n"

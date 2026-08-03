@@ -468,9 +468,9 @@ VioletCity_Text_ElmName:
 	.string "Lind$"
 
 VioletCity_Text_Elm_Call:
-	.string "Hallo {PLAYER}?\n"
+	.string "Lind: Hallo, {PLAYER}?\n"
 	.string "Ich habe Neuigkeiten über das Ei!\p"
-	.string "Im Pokémon-Supermarkt von Viola\n"
+	.string "Im Pokémon-Center von Viola\n"
 	.string "City solltest du einen meiner\l"
 	.string "Assistenten antreffen.\l"
 	.string "Lass dir von ihm alles erklären!$"
