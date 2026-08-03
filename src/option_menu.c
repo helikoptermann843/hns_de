@@ -354,16 +354,16 @@ static const u8 *const sDesc_Sound[] = {
     COMPOUND_STRING("Ton links und rechts getrennt.\nGut für Kopfhörer."),
 };
 static const u8 *const sDesc_Music[] = {
-    COMPOUND_STRING("Musik an.\nWechsle Map zum anwenden."),
-    COMPOUND_STRING("Musik aus.\nWechsle Map zum anwenden."),
+    COMPOUND_STRING("Musik an.\nWechsle Map zum Anwenden."),
+    COMPOUND_STRING("Musik aus.\nWechsle Map zum Anwenden."),
 };
 static const u8 *const sDesc_BikeMusic[] = {
-    COMPOUND_STRING("Fahrrad Musik an."),
-    COMPOUND_STRING("Fahrrad Musik aus."),
+    COMPOUND_STRING("Fahrrad-Musik an."),
+    COMPOUND_STRING("Fahrrad-Musik aus."),
 };
 static const u8 *const sDesc_SurfMusic[] = {
-    COMPOUND_STRING("Surfen Musik an."),
-    COMPOUND_STRING("Surfen Musik aus."),
+    COMPOUND_STRING("Surf-Musik an."),
+    COMPOUND_STRING("Surf-Musik aus."),
 };
 
 // =============================================================================

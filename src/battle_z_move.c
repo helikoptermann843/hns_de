@@ -94,15 +94,15 @@ static const struct SignatureZMove sSignatureZMoves[] =
     {SPECIES_SNORLAX,                 ITEM_SNORLIUM_Z,           MOVE_GIGA_IMPACT,         MOVE_PULVERIZING_PANCAKE},
 };
 
-static const u8 sText_ResetStats[] = _("Reset Lowered Stats");
-static const u8 sText_StatsPlus[] = _("+ All Stats");
-static const u8 sText_StatsPlus2[] = _("++ All Stats");
-static const u8 sText_CritHitsPlus[] = _("+ Critical Hit Chance");
-static const u8 sText_FollowMe[] = _("Follow Me");
-static const u8 sText_RecoverHP[] = _("Recover HP");
-static const u8 sText_HealAllyHP[] = _("Heal Replacement HP");
-static const u8 sText_PowerColon[] = _("Power: ");
-static const u8 sText_NoAdditionalEffect[] = _("No Additional Effect");
+static const u8 sText_ResetStats[] = _("Hebt Wertesenkung auf");
+static const u8 sText_StatsPlus[] = _("+ Alle Werte");
+static const u8 sText_StatsPlus2[] = _("++ Alle Werte");
+static const u8 sText_CritHitsPlus[] = _("+ Volltrefferquote");
+static const u8 sText_FollowMe[] = _("Spotlight");
+static const u8 sText_RecoverHP[] = _("KP-Heilung");
+static const u8 sText_HealAllyHP[] = _("KP für Nachfolger");
+static const u8 sText_PowerColon[] = _("Stärke: ");
+static const u8 sText_NoAdditionalEffect[] = _("Kein Zusatzeffekt");
 
 // Functions
 bool32 IsZMove(enum Move move)
