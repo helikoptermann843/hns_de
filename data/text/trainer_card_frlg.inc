@@ -10,12 +10,12 @@ CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
 	.string "Du hast nicht genug Geld…$"
 
 CeladonCity_GameCorner_Text_ChoosePrintType::
-	.string "Please choose the print type.$"
+	.string "Wähle die Art des Aufdrucks aus!$"
 
 CeladonCity_GameCorner_Text_BigSmileForPhoto::
-	.string "A big smile for the photo, please!\n"
-	.string "Three… Two… One…\p"
-	.string "Flash!$"
+	.string "Ein Lächeln für das Foto!\n"
+	.string "Drei… zwei… eins…\p"
+	.string "Blitz!$"
 
 CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
 	.string "Dein Pokémon-Aufdruck ist fertig!\n"
@@ -45,10 +45,9 @@ FourIsland_House2_Text_BragAboutSomethingForMe::
 	.string "Ich gebe dir einen Sticker!$"
 
 FourIsland_House2_Text_BragAboutWhatToday::
-	.string "Oh, hi!\n"
-	.string "Here comes the braggart.\p"
-	.string "What are you going to brag about\n"
-	.string "today?$"
+	.string "Oh, hallo!\p"
+	.string "Da kommt der Angeber!\p"
+	.string "Womit willst du heute angeben?$"
 
 FourIsland_House2_Text_WowHoFLowest::
 	.string "Oh, wow, du hast es also bis in die\n"
@@ -76,8 +75,8 @@ FourIsland_House2_Text_WowHoFHighest::
 	.string "Ich gebe dir dies!$"
 
 FourIsland_House2_Text_HoFStickerApplied::
-	.string "The Hall Of Fame Sticker was\n"
-	.string "applied to the Trainer Card.$"
+	.string "Der Sticker der Ruhmeshalle\n"
+	.string "ist auf deinem Trainerpass.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
 	.string "Hm…\p"
@@ -118,8 +117,8 @@ FourIsland_House2_Text_WowEggsHighest::
 	.string "Ich gebe dir dies!$"
 
 FourIsland_House2_Text_EggStickerApplied::
-	.string "The Egg Sticker was applied\n"
-	.string "to the Trainer Card.$"
+	.string "Der Eier-Sticker ist auf\n"
+	.string "deinem Trainerpass.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
 	.string "Hm…\p"
@@ -159,8 +158,8 @@ FourIsland_House2_Text_WowLinkWinsHighest::
 	.string "Ich gebe dir dies!$"
 
 FourIsland_House2_Text_VictoryStickerApplied::
-	.string "The Victory Sticker was applied\n"
-	.string "to the Trainer Card.$"
+	.string "Der Siegessticker ist auf\n"
+	.string "dem Trainerpass.$"
 
 FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
 	.string "Hm…\p"

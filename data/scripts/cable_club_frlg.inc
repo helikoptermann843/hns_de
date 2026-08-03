@@ -1264,8 +1264,8 @@ CableClub_Text_TradeMonsUsingLinkCable_Frlg::
 	.string "Mitspieler via GBA Game Link-Kabel.$"
 
 CableClub_Text_BattleUsingLinkCable_Frlg::
-	.string "You may battle another Trainer\n"
-	.string "using a GBA Game Link cable.$"
+	.string "Tritt gegen einen anderen Trainer\n"
+	.string "via Gba Game Link-Kabel an.$"
 
 @ Unused, translated in Emerald
 CableClub_Text_CloseThisMenu_Frlg::
@@ -1311,7 +1311,7 @@ CableClub_Text_PleaseEnter_Frlg::
 	.string "Please enter.$"
 
 CableClub_Text_DirectYouToYourRoom_Frlg::
-	.string "I'll direct you to your room now.$"
+	.string "Bitte eintreten.$"
 
 CableClub_Text_SomeoneIsNotReadyToLink_Frlg::
 	.string "Ein Spieler ist noch nicht bereit\n"
@@ -1434,8 +1434,8 @@ CableClub_Text_YouMayBattleHere_Frlg::
 	.string "kämpfen.$"
 
 CableClub_Text_CanMakeBerryPowder_Frlg::
-	.string "Two to five Trainers can make\n"
-	.string "Berry Powder together.$"
+	.string "Zwei bis fünf Trainer können\n"
+	.string "zusammen Beerenpuder herstellen.$"
 
 @ Unused, Record Mix nopped
 CableClub_Text_CanMixRecords_Frlg::
@@ -1477,9 +1477,9 @@ CableClub_Text_UnionRoomAdapterNotConnected_Frlg::
 	.string "Bitte komme später wieder!$"
 
 Text_PlayerIsPlayingRightNowGoForIt_Frlg::
-	.string "It appears as if {STR_VAR_1} is playing\n"
-	.string "right now.\l"
-	.string "Go for it!$"
+	.string "Es scheint, als ob {STR_VAR_1} gerade\n"
+	.string "spielt.\l"
+	.string "Los!$"
 
 Text_DescribeWhichGame_Frlg::
 	.string "Ich kann dir die Spielregeln\n"
@@ -1519,10 +1519,10 @@ Text_TalkToManToPlay_Frlg::
 	.string "mir Bescheid.$"
 
 Text_WelcomeCanYouWait_Frlg::
-	.string "Hi, welcome!\n"
-	.string "You can play games over the\l"
-	.string "Wireless Communication System.\p"
-	.string "Can you wait just a little bit?$"
+	.string "Hallo! Herzlich willkommen!\p"
+	.string "Du kannst via Drahtlosem\n"
+	.string "Kommunikations-System spielen.\p"
+	.string "Bitte gedulde dich noch ein wenig!$"
 
 CableClub_Text_ComeAgain_Frlg::
 	.string "All right, come again!$"
@@ -1587,8 +1587,7 @@ CableClub_Text_TradePokemon_Frlg::
 	.string "tauschen?$"
 
 CableClub_Text_PlayWhichBattleMode_Frlg::
-	.string "Which Battle Mode would you like\n"
-	.string "to play?$"
+	.string "Welche Art des Kampfes?$"
 
 CableClub_Text_UseBerryCrush_Frlg::
 	.string "Möchtest du die Beerenmühle\n"

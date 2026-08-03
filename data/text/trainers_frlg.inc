@@ -1,27 +1,25 @@
 Route3_Text_ColtonRematchIntro::
-	.string "Hey!\n"
-	.string "I saw you in Viridian Forest!$"
+	.string "Heh! Ich kenne dich aus dem\n"
+	.string "Vertania-Wald!$"
 
 Route3_Text_BenRematchIntro::
-	.string "Hi! I like shorts!\n"
-	.string "They're comfy and easy to wear!\p"
-	.string "You should be wearing shorts, too!$"
+	.string "Überall sind Brennnesseln! Und ich\n"
+	.string "trage Shorts! So ein Mist!$"
 
 Route3_Text_JaniceRematchIntro::
-	.string "Excuse me!\n"
-	.string "You keep looking at me, don't you?$"
+	.string "Was starrst du mich so an?$"
 
 Route3_Text_GregRematchIntro::
-	.string "You're a Trainer, aren't you?\n"
-	.string "Let's get with it right away!$"
+	.string "Bist du auch ein Trainer?\n"
+	.string "Lass uns kämpfen!$"
 
 Route3_Text_SallyRematchIntro::
-	.string "That look you give me…\n"
-	.string "It intrigues me so!$"
+	.string "Warum schaust du mich so fasziniert\n"
+	.string "an?$"
 
 Route3_Text_CalvinRematchIntro::
-	.string "Hey! What's wrong with you?\n"
-	.string "You're still not wearing shorts!$"
+	.string "Hehe! Ich habe meinem Bruder\n"
+	.string "gesagt, er soll Shorts anziehen!$"
 
 Route3_Text_JamesRematchIntro::
 	.string "Ich setzte beim Kampf gegen dich\n"
@@ -65,8 +63,8 @@ Route6_Text_ElijahRematchIntro::
 	.string "Geht es dir besser?$"
 
 Route8_Text_AidanRematchIntro::
-	.string "You are good at Pokémon, but how\n"
-	.string "is your chemistry grade?$"
+	.string "Du weißt viel über Pokémon!\n"
+	.string "Doch wie sieht es mit Chemie aus?$"
 
 Route8_Text_StanRematchIntro::
 	.string "All right!\n"
@@ -83,12 +81,12 @@ Route8_Text_PaigeRematchIntro::
 	.string "entwickeln, aber…$"
 
 Route8_Text_LeslieRematchIntro::
-	.string "School is fun, but I still think\n"
-	.string "Pokémon are fun, too.$"
+	.string "Die Schule macht Spaß! Pokémon zu\n"
+	.string "trainieren aber auch!$"
 
 Route8_Text_AndreaRematchIntro::
-	.string "Meowth and Persian are so cute,\n"
-	.string "meow, meow, meow!$"
+	.string "Mauzi ist so süß!\n"
+	.string "Miau, miauz!$"
 
 Route8_Text_MeganRematchIntro::
 	.string "Es mag dämlich aussehen, wie wir\n"
@@ -96,13 +94,12 @@ Route8_Text_MeganRematchIntro::
 	.string "dennoch kämpfen!$"
 
 Route8_Text_RichRematchIntro::
-	.string "I'm a rambling, gaming dude!\n"
-	.string "I'm on a winning streak!$"
+	.string "Ich bin ein weit herumgekommener\n"
+	.string "Glücksspieler!$"
 
 Route8_Text_JuliaRematchIntro::
-	.string "What's a cute, round, and fluffy\n"
-	.string "Pokémon?\p"
-	.string "You already know, don't you?$"
+	.string "Welches Pokémon ist süß, pummelig\n"
+	.string "und kuschlig?$"
 
 Route8_Text_RicardoRematchIntro::
 	.string "Mein Motorrad macht immer\n"
@@ -190,8 +187,8 @@ Route11_Text_HugoRematchIntro::
 	.string "Auf in den Rückkampf!$"
 
 Route11_Text_JasperRematchIntro::
-	.string "Competing is the ultimate thrill.\n"
-	.string "I still can't get enough!$"
+	.string "Wettkämpfe!\n"
+	.string "Ich kann ihnen nicht widerstehen!$"
 
 Route11_Text_EddieRematchIntro::
 	.string "Du weißt Bescheid, oder?\n"
@@ -315,8 +312,8 @@ Route13_Text_JaredRematchIntro::
 	.string "Was glotzt du so?$"
 
 Route13_Text_RobertRematchIntro::
-	.string "I always go with bird Pokémon.\n"
-	.string "I've dedicated myself to them.$"
+	.string "Meine Vogel-Pokémon begleiten\n"
+	.string "mich immer!$"
 
 Route14_Text_CarterRematchIntro::
 	.string "Ich habe meinen Pokémon mit\n"
@@ -332,10 +329,8 @@ Route14_Text_BeckRematchIntro::
 	.string "keinen Sinn!$"
 
 Route14_Text_MarlonRematchIntro::
-	.string "Have you taught your bird Pokémon\n"
-	.string "how to Fly?\p"
-	.string "You'll be able to soar with it into\n"
-	.string "the sky! Give it a try.$"
+	.string "Hast du einem Vogel-Pokémon\n"
+	.string "schon das Fliegen beigebracht?$"
 
 Route14_Text_DonaldRematchIntro::
 	.string "Die Legende der Illusionen mit\n"
@@ -355,8 +350,8 @@ Route14_Text_IsaacRematchIntro::
 	.string "Du schon wieder? Schnauze und los!$"
 
 Route14_Text_GeraldRematchIntro::
-	.string "We've been riding here because of\n"
-	.string "the wide-open spaces.$"
+	.string "Wir kommen öfter her, weil es hier\n"
+	.string "so unglaublich viel Platz gibt!$"
 
 Route14_Text_MalikRematchIntro::
 	.string "Ein Pokémon-Kampf?\n"
@@ -429,7 +424,7 @@ Route15_Text_RonRematchIntro::
 	.string "stärker geworden…$"
 
 Route16_Text_LaoRematchIntro::
-	.string "What do you want?$"
+	.string "Was willst du?$"
 
 Route16_Text_KojiRematchIntro::
 	.string "Nice Bike!\n"
@@ -474,8 +469,8 @@ Route17_Text_VirgilRematchIntro::
 	.string "Gehst du spazieren?$"
 
 Route17_Text_BillyRematchIntro::
-	.string "We're Bikers!\n"
-	.string "We rule the roads, man!$"
+	.string "Wir sind Biker, Könige des\n"
+	.string "Highways!$"
 
 Route17_Text_NikolasRematchIntro::
 	.string "Voltobal wird dich heute\n"
@@ -491,11 +486,11 @@ Route17_Text_JamalRematchIntro::
 	.string "und wirklich mehr trainieren!$"
 
 Route17_Text_CoreyRematchIntro::
-	.string "Be a rebel!$"
+	.string "Sei ein Rebell!$"
 
 Route17_Text_JaxonRematchIntro::
-	.string "Yep, that's a nice Bike!\n"
-	.string "How's it handle?$"
+	.string "Du besitzt ein schickes Fahrrad!\n"
+	.string "Fährt es sich gut?$"
 
 Route17_Text_WilliamRematchIntro::
 	.string "Get lost, kid!\n"
@@ -520,8 +515,8 @@ Route19_Text_RichardRematchIntro::
 	.string "um draußen zu schwimmen!$"
 
 Route19_Text_ReeceRematchIntro::
-	.string "Wait! Slow down!\n"
-	.string "What if you have a heart attack?$"
+	.string "Warte! Sonst bekommst du einen\n"
+	.string "Herzinfarkt!$"
 
 Route19_Text_MatthewRematchIntro::
 	.string "Ich gehe gerne schwimmen!\n"
@@ -576,8 +571,7 @@ Route19_Text_LucRematchIntro::
 	.string "Ich frage mich, ob ich besser bin?$"
 
 Route20_Text_BarryRematchIntro::
-	.string "The water is shallow here.\n"
-	.string "There are many people swimming.$"
+	.string "Das Wasser ist hier sehr flach.$"
 
 Route20_Text_ShirleyRematchIntro::
 	.string "Bist du neidisch, dass ich meinen\n"
@@ -585,8 +579,8 @@ Route20_Text_ShirleyRematchIntro::
 	.string "Inseln verbringe?$"
 
 Route20_Text_TiffanyRematchIntro::
-	.string "I love floating with the fishes\n"
-	.string "here among the waves.$"
+	.string "Ich lasse mich gerne mit den\n"
+	.string "Fischen treiben!$"
 
 Route20_Text_IreneRematchIntro::
 	.string "Bist du auch auf Urlaub hier?$"
@@ -613,20 +607,19 @@ Route20_Text_MissyRematchIntro::
 	.string "It wasn't easy, like I said.$"
 
 Route20_Text_MelissaRematchIntro::
-	.string "Cinnabar, in the west, has a Lab\n"
-	.string "for Pokémon.\p"
-	.string "My daddy works there.$"
+	.string "Auf der Zinnoberinsel befindet\n"
+	.string "sich ein Pokémon-Labor.$"
 
 Route21_North_Text_RonaldRematchIntro::
-	.string "You want to know if the fish are\n"
-	.string "biting?$"
+	.string "Möchtest du wissen, ob die Fische\n"
+	.string "beißen?$"
 
 Route21_North_Text_WadeRematchIntro::
 	.string "Ich habe schon wieder einen Großen\n"
 	.string "gefangen! Willst du noch ein Match?$"
 
 Route21_North_Text_SpencerRematchIntro::
-	.string "The sea cleanses my body and soul!$"
+	.string "Die See reinigt Körper und Seele!$"
 
 @ Unused trainer from RB that had a rematch intro added
 Route21_North_Text_CueBallRematchIntro::
@@ -644,14 +637,15 @@ Route21_South_Text_JeromeRematchIntro::
 
 Route21_South_Text_RolandRematchIntro::
 	.string "Ahh!\n"
-	.string "Feel the sun and the wind!$"
+	.string "Genieße die Sonne und den Wind!$"
 
 Route21_South_Text_ClaudeRematchIntro::
 	.string "Heh, halte dich zurück!\n"
 	.string "Du verscheuchst immer die Fische!$"
 
 Route21_South_Text_NolanRematchIntro::
-	.string "Keep me company till I get a hit.$"
+	.string "Leiste mir Gesellschaft, bis etwas\n"
+	.string "anbeißt!$"
 
 Route21_North_Text_LilRematchIntro::
 	.string "Ewe: Häh? Ein Kampf? Schon wieder?\n"
@@ -667,8 +661,9 @@ Route25_Text_JoeyRematchIntro::
 	.string "während ich hier bin!$"
 
 Route25_Text_DanRematchIntro::
-	.string "Dad took me to a great party on\n"
-	.string "the S.s. Anne at Vermilion City.$"
+	.string "Ich habe in Orania City mit\n"
+	.string "meinem Papa auf der M.S. Anne eine\l"
+	.string "Party besucht!$"
 
 Route25_Text_FlintRematchIntro::
 	.string "Ich bin richtig cool!\n"
@@ -705,7 +700,8 @@ Route25_Text_WayneRematchIntro::
 	.string "Aber erst wird gekämpft!$"
 
 Route24_Text_ShaneRematchIntro::
-	.string "I saw your feat from the grass!$"
+	.string "Ich habe deine Vorstellung aus dem\n"
+	.string "Gras heraus beobachtet!$"
 
 Route24_Text_EthanRematchIntro::
 	.string "O.k.!\n"
