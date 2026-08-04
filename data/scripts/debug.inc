@@ -203,32 +203,9 @@ Debug_EventScript_Text_DefensiveIVs:
 	.string "Hp Ivs: {STR_VAR_1}, DEF Ivs: {STR_VAR_2}, Spdef Ivs: {STR_VAR_3}$"
 
 Debug_EventScript_Script_1::
-	@ Unlock all HMs
-	setflag FLAG_BADGE01_GET
-	setflag FLAG_BADGE02_GET
-	setflag FLAG_BADGE03_GET
-	setflag FLAG_BADGE04_GET
-	setflag FLAG_BADGE05_GET
-	setflag FLAG_BADGE06_GET
-	setflag FLAG_BADGE07_GET
-	setflag FLAG_BADGE08_GET
-	setflag FLAG_RECEIVED_HM_CUT
-	setflag FLAG_RECEIVED_HM_ROCK_SMASH
-	setflag FLAG_GET_HEADBUTT
-	giveitem ITEM_HM01
-	giveitem ITEM_HM02
-	giveitem ITEM_HM03
-	giveitem ITEM_HM04
-	giveitem ITEM_HM05
-	giveitem ITEM_HM06
-	giveitem ITEM_HM07
-	giveitem ITEM_HM08
-	msgbox Debug_Text_HMsUnlocked, MSGBOX_DEFAULT
+	setvar VAR_SINJOH_STORYLINE, 10
 	release
 	end
-
-Debug_Text_HMsUnlocked:
-	.string "All HM flags set!$"
 
 Debug_EventScript_Script_2::
 	setflag FLAG_HIDE_COPYCAT_CLEFAIRY_DOLL
@@ -341,39 +318,28 @@ Debug_EventScript_Script_2::
 	setflag FLAG_HIDE_DOJO_SABRINA
 	setflag FLAG_HIDE_DOJO_BLAINE
 	setflag FLAG_HIDE_DOJO_BLUE
+	givemon SPECIES_REGICE, 100
+	givemon SPECIES_REGIROCK, 100
+	givemon SPECIES_REGISTEEL, 100
+	givemon SPECIES_REGIDRAGO, 100
+	givemon SPECIES_REGIELEKI, 100
+	setvar VAR_REGIS_SCANNED, 0
 	release
 	end
 
 Debug_EventScript_Script_3::
-	setvar VAR_KENYA, 0
+	goto SinjohRuins_EventScript_StevenBattle
 	release
 	end
 
 Debug_EventScript_Script_4::
-	special InitRoamer
-	givemon SPECIES_RATTATA_ALOLA 5
-	givemon SPECIES_RATICATE_ALOLA 5
-	givemon SPECIES_MEOWTH_ALOLA 5
-	givemon SPECIES_PERSIAN_ALOLA 5
-	givemon SPECIES_GEODUDE_ALOLA 5
-	givemon SPECIES_GRAVELER_ALOLA 5
-	givemon SPECIES_GOLEM_ALOLA 5
-	givemon SPECIES_SANDSHREW_ALOLA 5
-	givemon SPECIES_SANDSLASH_ALOLA 5
-	givemon SPECIES_VULPIX_ALOLA 5
-	givemon SPECIES_NINETALES_ALOLA 5
-	givemon SPECIES_GRIMER_ALOLA 5
-	givemon SPECIES_MUK_ALOLA 5
-	givemon SPECIES_EXEGGUTOR_ALOLA 5
-	givemon SPECIES_MAROWAK_ALOLA 5
-	givemon SPECIES_DIGLETT_ALOLA 5
-	givemon SPECIES_DUGTRIO_ALOLA 5
+	msgbox SinjohRuins_Lab_Text_StevenCall3Plates, MSGBOX_DEFAULT
+	pokenavcall SinjohRuins_Lab_Text_StevenCall6Plates
 	release
 	end
 
 Debug_EventScript_Script_5::
 	special InitKantoRoamers
-	givemon SPECIES_RAICHU_ALOLA 5
 	release
 	end
 
@@ -406,31 +372,10 @@ Debug_EventScript_Script_6::
 	end
 
 Debug_EventScript_Script_7::
-  specialvar VAR_RESULT, GetAlolaCatchProgress
-	bufferstring STR_VAR_1, Debug_EventScript_Script_6_String_Alolan
-	buffernumberstring STR_VAR_2, VAR_RESULT
-	msgbox Debug_EventScript_Script_6_String_0, MSGBOX_DEFAULT
-
-	specialvar VAR_RESULT, GetGalarCatchProgress
-	bufferstring STR_VAR_1, Debug_EventScript_Script_6_String_Galarian
-	buffernumberstring STR_VAR_2, VAR_RESULT
-	msgbox Debug_EventScript_Script_6_String_0, MSGBOX_DEFAULT
-
-	specialvar VAR_RESULT, GetHisuiCatchProgress
-	bufferstring STR_VAR_1, Debug_EventScript_Script_6_String_Hisuian
-	buffernumberstring STR_VAR_2, VAR_RESULT
-	msgbox Debug_EventScript_Script_6_String_0, MSGBOX_DEFAULT
-
-	specialvar VAR_RESULT, GetPaldeaCatchProgress
-	bufferstring STR_VAR_1, Debug_EventScript_Script_6_String_Paldean
-	buffernumberstring STR_VAR_2, VAR_RESULT
-	msgbox Debug_EventScript_Script_6_String_0, MSGBOX_DEFAULT
-
 	release
 	end
 
 Debug_EventScript_Script_8::
-	helpwindow HELP_DEMO_WINDOW
 	release
 	end
 
@@ -1121,21 +1066,3 @@ Debug_EventScript_TellTheTime_Text_0:
 
 DebugEventScript_PrintWeekday_Text_0:
 	.string "Time of day: {STR_VAR_1}$"
-
-@ Mom Savings debug: enables saving + force-deposits 50000
-Debug_MomSavings_BigDeposit::
-	lockall
-	special Special_MomEnsureInitialized
-	special Special_MomEnableSaving
-	setvar VAR_0x8000, 50000
-	special Special_MomDeposit
-	special Special_MomGetBalance
-	msgbox Debug_MomSavings_Text_Deposited, MSGBOX_DEFAULT
-	releaseall
-	end
-
-Debug_MomSavings_Text_Deposited:
-	.string "Mom savings enabled.\n"
-	.string "Deposited ¥50000.\p"
-	.string "Balance: {STR_VAR_2}\n"
-	.string "Walk outside for gift call.$"

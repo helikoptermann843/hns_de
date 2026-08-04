@@ -107,12 +107,12 @@
 #define VAR_ROAMER_POKEMON_HNS                           0x40A2
 #define VAR_VERMILION_CITY_STEVEN                        0x40A3
 #define VAR_MOM_GIFT_QUANTITY                            0x40A5
-#define VAR_MOM_GIFT_ITEM                               0x40A6
-#define VAR_OAK_MT_SILVER_CALL                            0x40A7
-#define VAR_VIRIDIAN_FOREST_PICHU                            0x40A8
-#define VAR_UNUSED_HNS_0x40A9                            0x40A9
-#define VAR_UNUSED_HNS_0x40AA                            0x40AA
-#define VAR_UNUSED_HNS_0x40AB                            0x40AB
+#define VAR_MOM_GIFT_ITEM                                0x40A6
+#define VAR_OAK_MT_SILVER_CALL                           0x40A7
+#define VAR_VIRIDIAN_FOREST_PICHU                        0x40A8
+#define VAR_RADIO_LUCKY_ID                               0x40A9
+#define VAR_RADIO_LUCKY_ID_HI                            0x40AA
+#define VAR_RADIO_BUENAS_PASSWORD                        0x40AB
 #define VAR_UNUSED_HNS_0x40AC                            0x40AC
 #define VAR_UNUSED_HNS_0x40AD                            0x40AD
 #define VAR_UNUSED_HNS_0x40AE                            0x40AE
@@ -145,23 +145,31 @@
 // Alola Vars
 #define VAR_ALOLA_TRAVEL                                 0x40CB // var for setting up mapscripts when traveling to and from alola. 
 #define VAR_ALOLA_STATE                                  0x40CC // state of the story in alola
-#define VAR_UNUSED_HNS_0x40CD                            0x40CD
-#define VAR_UNUSED_HNS_0x40D2                            0x40D2
-#define VAR_UNUSED_HNS_0x40D3                            0x40D3
-#define VAR_UNUSED_HNS_0x40D4                            0x40D4
-#define VAR_UNUSED_HNS_0x40D5                            0x40D5
-#define VAR_UNUSED_HNS_0x40D7                            0x40D7
-#define VAR_UNUSED_HNS_0x40D8                            0x40D8
-#define VAR_UNUSED_HNS_0x40D9                            0x40D9
-#define VAR_UNUSED_HNS_0x40DA                            0x40DA
-#define VAR_UNUSED_HNS_0x40DB                            0x40DB
-#define VAR_UNUSED_HNS_0x40DC                            0x40DC
-#define VAR_UNUSED_HNS_0x40DD                            0x40DD
-#define VAR_UNUSED_HNS_0x40DE                            0x40DE
-#define VAR_UNUSED_HNS_0x40DF                            0x40DF
-#define VAR_UNUSED_HNS_0x40E0                            0x40E0
-#define VAR_UNUSED_HNS_0x40E1                            0x40E1
-#define VAR_UNUSED_HNS_0x40E2                            0x40E2
+
+// Sinjoh Vars
+#define VAR_SINJOH_STORYLINE                            0x40CD  //6: Free roam. 7: return to steven with plates. 9: stairs opened, battle with steven. 10: meet arceus. 11: done.
+#define VAR_PLATECOUNTER                                0x40CE
+#define VAR_REGIS_SCANNED                           0x40CF
+#define VAR_NOBLE_SNEASLER                           0x40D0
+#define VAR_NOBLE_OVERQWIL                           0x40D1
+#define VAR_NOBLE_WYRDEER                           0x40D2
+#define VAR_NOBLE_ARCANINE                           0x40D3
+#define VAR_NOBLE_URSALUNA                           0x40D4
+#define VAR_NOBLE_KLEAVOR                           0x40D5
+#define VAR_NOBLE_ELECTRODE                           0x40D6
+#define VAR_NOBLE_TYPHLOSION                           0x40D7
+#define VAR_UNUSED_HNS_0x40D8                           0x40D8
+#define VAR_UNUSED_HNS_0x40D9                           0x40D9
+#define VAR_UNUSED_HNS_0x40DA                           0x40DA
+#define VAR_UNUSED_HNS_0x40DB                           0x40DB
+#define VAR_UNUSED_HNS_0x40DC                           0x40DC
+#define VAR_UNUSED_HNS_0x40DD                           0x40DD
+#define VAR_UNUSED_HNS_0x40DE                           0x40DE
+#define VAR_UNUSED_HNS_0x40DF                           0x40DF
+#define VAR_UNUSED_HNS_0x40E0                           0x40E0
+#define VAR_UNUSED_HNS_0x40E1                           0x40E1
+#define VAR_UNUSED_HNS_0x40E2                           0x40E2
+
 #define VAR_UNUSED_HNS_0x40E3                            0x40E3
 #define VAR_UNUSED_HNS_0x40E4                            0x40E4
 #define VAR_UNUSED_HNS_0x40E5                            0x40E5
@@ -182,9 +190,9 @@
 #define VAR_UNUSED_HNS_0x40F4                            0x40F4
 #define VAR_UNUSED_HNS_0x40F5                            0x40F5
 #define VAR_UNUSED_HNS_0x40F6                            0x40F6
-#define VAR_RADIO_LUCKY_ID                               0x40F7
-#define VAR_RADIO_LUCKY_ID_HI                            0x40F8
-#define VAR_RADIO_BUENAS_PASSWORD                        0x40F9
+#define VAR_UNUSED_HNS_0x40F7                            0x40F7
+#define VAR_UNUSED_HNS_0x40F8                            0x40F8
+#define VAR_UNUSED_HNS_0x40F9                            0x40F9
 #define VAR_UNUSED_HNS_0x40FA                            0x40FA
 #define VAR_UNUSED_HNS_0x40FB                            0x40FB
 #define VAR_UNUSED_HNS_0x40FC                            0x40FC

@@ -744,6 +744,19 @@ gSongTable::
 	song mus_hg_obtain_b_points, MUSIC_PLAYER_SE2, 2
 	song mus_hg_win_minigame, MUSIC_PLAYER_SE2, 2
 
+	@ DP music
+	song mus_dp_azure_flute, MUSIC_PLAYER_BGM, 0
+	song mus_dp_snowpoint_day, MUSIC_PLAYER_BGM, 0
+	song mus_dp_snowpoint_night, MUSIC_PLAYER_BGM, 0
+	song mus_dp_route216_day, MUSIC_PLAYER_BGM, 0
+	song mus_dp_route216_night, MUSIC_PLAYER_BGM, 0
+	song mus_dp_mt_coronet, MUSIC_PLAYER_BGM, 0
+	song mus_dp_spear_pillar, MUSIC_PLAYER_BGM, 0
+	song mus_dp_hall_of_origin, MUSIC_PLAYER_BGM, 0
+	song mus_dp_lake_caverns, MUSIC_PLAYER_BGM, 0
+	song mus_dp_legend_appears, MUSIC_PLAYER_SE2, 2
+	song mus_dp_stark_mountain, MUSIC_PLAYER_BGM, 0
+
 	@ Phoneme songs (bard NPC)
 	song ph_trap_blend, MUSIC_PLAYER_SE2, 2
 	song ph_trap_held, MUSIC_PLAYER_SE2, 2
@@ -1109,5 +1122,5 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 
 	@ ----------------------------------------------------------------------------------------
 
-	
+
 	.4byte 0xFFFFFFFF

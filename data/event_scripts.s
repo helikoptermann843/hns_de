@@ -1064,6 +1064,8 @@ EventScript_WhiteOut::
 	call EverGrandeCity_HallOfFame_EventScript_ResetEliteFour
 .if IS_HNS
 	clearflag FLAG_NO_WILD_CATCHING
+	clearflag FLAG_NO_WILD_RUNNING
+	clearflag FLAG_SMART_WILD_AI
 	clearflag FLAG_NO_SHINY
 .endif
 	goto EventScript_ResetMrBriney
@@ -2268,6 +2270,8 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/RuinsOfAlph_WordsRoom3_hns/scripts.inc"
 	.include "data/maps/RuinsOfAlph_WordsRoom4_hns/scripts.inc"
 	.include "data/maps/Route19_Cave_hns/scripts.inc"
+	.include "data/maps/SnowsweptCavern_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_HotSprings_hns/scripts.inc"
 	.include "data/maps/UnionRoom_hns/scripts.inc"
 	.include "data/maps/SSAqua_1F_hns/scripts.inc"
 	.include "data/maps/SSAqua_B1F_hns/scripts.inc"
@@ -2348,48 +2352,45 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 	.include "data/maps/BattleFrontier_Mart_hns/scripts.inc"
 	.include "data/maps/TradeCenter_hns/scripts.inc"
 	.include "data/maps/BattleColosseum_2P_hns/scripts.inc"
+	.include "data/maps/Route49_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_hns/scripts.inc"
+	.include "data/maps/Route50_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_Temple_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegiceRoom_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegirockRoom_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegisteelRoom_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_PokemonCenter_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegidracoRoom_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegielekiRoom_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_House4_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_House1_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_House3_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_House2_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_RegigigasRoom_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_House1_hns/scripts.inc"
+	.include "data/maps/SinjohRuins_ArceusRoom_hns/scripts.inc"
+	.include "data/maps/NewSinjoh_KimonoHideout_hns/scripts.inc"
+	.include "data/maps/PoniIsle_hns/scripts.inc"
+	.include "data/maps/MelemeleIsle_hns/scripts.inc"
+	.include "data/maps/AlolaWater_hns/scripts.inc"
+	.include "data/maps/Alola_hns/scripts.inc"
+	.include "data/maps/AkalaIsle_hns/scripts.inc"
+	.include "data/maps/UlaulaIsle_hns/scripts.inc"
+	.include "data/maps/Melemele_PlayerHouse_hns/scripts.inc"
+	.include "data/maps/Melemele_House_hns/scripts.inc"
+	.include "data/maps/Melemele_House_4_hns/scripts.inc"
+	.include "data/maps/Melemele_House_2_hns/scripts.inc"
+	.include "data/maps/Melemele_House_3_hns/scripts.inc"
+	.include "data/maps/Melemele_House_5_hns/scripts.inc"
+	.include "data/maps/Melemele_House_6_hns/scripts.inc"
+	.include "data/maps/Akala_House_hns/scripts.inc"
+	.include "data/maps/UlaUla_House_hns/scripts.inc"
+	.include "data/maps/Poni_Cave_hns/scripts.inc"
+	.include "data/maps/Akala_Forest_hns/scripts.inc"
+	.include "data/maps/UlaUla_Cave_hns/scripts.inc"
+	.include "data/maps/UlaUla_Forest_hns/scripts.inc"
+	.include "data/maps/UlaUla_Cave_2_hns/scripts.inc"
+	.include "data/maps/Akala_Cave_hns/scripts.inc"
 
 .endif
-
-
-	.include "data/maps/PoniIsle_hns/scripts.inc"
-
-	.include "data/maps/MelemeleIsle_hns/scripts.inc"
-
-	.include "data/maps/AlolaWater_hns/scripts.inc"
-
-	.include "data/maps/Alola_hns/scripts.inc"
-
-	.include "data/maps/AkalaIsle_hns/scripts.inc"
-
-	.include "data/maps/UlaulaIsle_hns/scripts.inc"
-
-	.include "data/maps/Melemele_PlayerHouse_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_4_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_2_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_3_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_5_hns/scripts.inc"
-
-	.include "data/maps/Melemele_House_6_hns/scripts.inc"
-
-	.include "data/maps/Akala_House_hns/scripts.inc"
-
-	.include "data/maps/UlaUla_House_hns/scripts.inc"
-
-	.include "data/maps/Poni_Cave_hns/scripts.inc"
-
-	.include "data/maps/Akala_Forest_hns/scripts.inc"
-
-	.include "data/maps/UlaUla_Cave_hns/scripts.inc"
-
-	.include "data/maps/UlaUla_Forest_hns/scripts.inc"
-
-	.include "data/maps/UlaUla_Cave_2_hns/scripts.inc"
-
-	.include "data/maps/Akala_Cave_hns/scripts.inc"

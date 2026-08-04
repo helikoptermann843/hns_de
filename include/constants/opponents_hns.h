@@ -614,7 +614,43 @@
 #define TRAINER_ULAULA_COOLTRAINER_HNS                 606
 #define TRAINER_AKALA_SWIMMER_3_HNS                    607
 
-#define TRAINERS_COUNT_HNS                       608
+#define TRAINER_MILKMAN_HNS                            608
+#define TRAINER_RUBERT_HNS                             609
+#define TRAINER_NICHOLAS_HNS                           610
+#define TRAINER_MAKAYLA_HNS                            611
+#define TRAINER_NIA_HNS                                612
+#define TRAINER_JOHN_1_HNS                             613
+#define TRAINER_SNAPE_HNS                              614
+#define TRAINER_TERRY_HNS                              615
+#define TRAINER_RAPHAEL_HNS                            616
+#define TRAINER_MAURA_HNS                              617
+#define TRAINER_MASOTO_HNS                             618
+#define TRAINER_JOSHUA2_HNS                            619
+#define TRAINER_DENNIS2_HNS                            620
+#define TRAINER_NIKOLAS_HNS                            621
+#define TRAINER_REBECCA4_HNS                           622
+#define TRAINER_JUSTIN4_HNS                            623
+#define TRAINER_GENJI_HNS                              624
+#define TRAINER_ISSAC4_HNS                             625
+#define TRAINER_MIHARU_HNS                             626
+#define TRAINER_YOUKO_HNS                              627
+#define TRAINER_SHIZUKO_HNS                            628
+#define TRAINER_REX4_HNS                               629
+#define TRAINER_YOUMU_HNS                              630
+#define TRAINER_RONAN_HNS                              631
+#define TRAINER_MAXWELL2_HNS                           632
+#define TRAINER_EDWIN2_HNS                             633
+#define TRAINER_BRAM_HNS                               634
+#define TRAINER_KYLE9_HNS                              635
+#define TRAINER_DAWN9_HNS                              636
+#define TRAINER_STEVEN_HNS                        637
+#define TRAINER_SECRETEDWARD_HNS                       638
+#define TRAINER_FINLEY_HNS                             639
+#define TRAINER_MUALANI_HNS                            640
+#define TRAINER_WESSEL_HNS                             641
+#define TRAINER_SKYLAR_HNS                             642
+
+#define TRAINERS_COUNT_HNS                       643
 #define MAX_TRAINERS_COUNT_HNS                   864
 
 #endif  // GUARD_CONSTANTS_OPPONENTS_HNS_H

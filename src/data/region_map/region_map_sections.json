@@ -2535,6 +2535,54 @@
     },
     {
       "height": 1,
+      "id": "MAPSEC_SINJOH",
+      "name": "SINJOH",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
+      "id": "MAPSEC_SNOWSWEPT_CAVERN",
+      "name": "SNOWSWEPT CAVERN",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
+      "id": "MAPSEC_ROUTE_49",
+      "name": "ROUTE 49",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
+      "id": "MAPSEC_ROUTE_50",
+      "name": "ROUTE 50",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
+      "id": "MAPSEC_NEW_SINJOH",
+      "name": "NEW SINJOH",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
+      "id": "MAPSEC_SINJOH_RUINS",
+      "name": "SINJOH RUINS",
+      "width": 1,
+      "x": 20,
+      "y": 3
+    },
+    {
+      "height": 1,
       "id": "MAPSEC_NATIONAL_PARK",
       "name": "Nationalpark",
       "width": 1,

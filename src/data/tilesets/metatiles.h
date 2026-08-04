@@ -59,6 +59,9 @@ const u16 gMetatileAttributes_Contest[] = INCBIN_U16("data/tilesets/secondary/co
 const u16 gMetatiles_CableClub[] = INCBIN_U16("data/tilesets/secondary/cable_club/metatiles.bin");
 const u16 gMetatileAttributes_CableClub[] = INCBIN_U16("data/tilesets/secondary/cable_club/metatile_attributes.bin");
 
+const u16 gMetatiles_Lab_Frlg[] = INCBIN_U16("data/tilesets/secondary/lab_frlg/metatiles.bin");
+const u16 gMetatileAttributes_Lab_Frlg[] = INCBIN_U16("data/tilesets/secondary/lab_frlg/metatile_attributes.bin");
+
 #if !IS_FRLG && !IS_HNS
 
 const u16 gMetatiles_Petalburg[] = INCBIN_U16("data/tilesets/secondary/petalburg/metatiles.bin");
@@ -297,8 +300,6 @@ const u16 gMetatileAttributes_Cave_Frlg[] = INCBIN_U16("data/tilesets/secondary/
 const u16 gMetatiles_GameCorner[] = INCBIN_U16("data/tilesets/secondary/game_corner_frlg/metatiles.bin");
 const u16 gMetatileAttributes_GameCorner[] = INCBIN_U16("data/tilesets/secondary/game_corner_frlg/metatile_attributes.bin");
 
-const u16 gMetatiles_Lab_Frlg[] = INCBIN_U16("data/tilesets/secondary/lab_frlg/metatiles.bin");
-const u16 gMetatileAttributes_Lab_Frlg[] = INCBIN_U16("data/tilesets/secondary/lab_frlg/metatile_attributes.bin");
 
 const u16 gMetatiles_SSAnne[] = INCBIN_U16("data/tilesets/secondary/ss_anne_frlg/metatiles.bin");
 const u16 gMetatileAttributes_SSAnne[] = INCBIN_U16("data/tilesets/secondary/ss_anne_frlg/metatile_attributes.bin");
@@ -712,5 +713,19 @@ const u16 gMetatiles_Route40_Hns[] = INCBIN_U16("data/tilesets/secondary/route_4
 const u16 gMetatileAttributes_Route40_Hns[] = INCBIN_U16("data/tilesets/secondary/route_40_hns/metatile_attributes.bin");
 
 
-#endif // IS_FRLG || IS_HNS
+const u16 gMetatiles_MtSilver_Exp_Hns[] = INCBIN_U16("data/tilesets/primary/mt_silver_exp_hns/metatiles.bin");
+const u16 gMetatileAttributes_MtSilver_Exp_Hns[] = INCBIN_U16("data/tilesets/primary/mt_silver_exp_hns/metatile_attributes.bin");
 
+const u16 gMetatiles_MtSilver_Ancient_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_hns/metatiles.bin");
+const u16 gMetatileAttributes_MtSilver_Ancient_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_silver_ancient_hns/metatile_attributes.bin");
+
+const u16 gMetatiles_MtSilver_NewSinjoh_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_silver_newsinjoh_hns/metatiles.bin");
+const u16 gMetatileAttributes_MtSilver_NewSinjoh_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_silver_newsinjoh_hns/metatile_attributes.bin");
+
+const u16 gMetatiles_ArceusRoom_Hns[] = INCBIN_U16("data/tilesets/secondary/arceus_room_hns/metatiles.bin");
+const u16 gMetatileAttributes_ArceusRoom_Hns[] = INCBIN_U16("data/tilesets/secondary/arceus_room_hns/metatile_attributes.bin");
+
+const u16 gMetatiles_MtEmber_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_ember_hns/metatiles.bin");
+const u16 gMetatileAttributes_MtEmber_Hns[] = INCBIN_U16("data/tilesets/secondary/mt_ember_hns/metatile_attributes.bin");
+
+#endif // IS_FRLG || IS_HNS

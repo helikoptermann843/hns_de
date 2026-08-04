@@ -28,6 +28,8 @@
     "gMapGrouop_OutdoorAlola_Hns",
     "gMapGroup_IndoorAlola_Hns",
     "gMapGroup_IndoorDynamic_Hns",
+    "gMapGroup_Sinjoh_Hns",
+    "gMapGroup_IndoorSinjoh_Hns",
     "gMapGroup_SpecialArea_Hns",
     "gMapGroup_TownsAndRoutes",
     "gMapGroup_IndoorLittleroot",
@@ -581,6 +583,31 @@
   ],
   "gMapGroup_IndoorDynamic_Hns": [
     "UnionRoom_hns"
+  ],
+  "gMapGroup_Sinjoh_Hns": [
+    "SnowsweptCavern_hns",
+    "NewSinjoh_HotSprings_hns",
+    "Route49_hns",
+    "Route50_hns",
+    "NewSinjoh_hns",
+    "SinjohRuins_hns"
+  ],
+  "gMapGroup_IndoorSinjoh_Hns": [
+    "NewSinjoh_PokemonCenter_hns",
+    "SinjohRuins_Temple_hns",
+    "SinjohRuins_RegirockRoom_hns",
+    "SinjohRuins_RegiceRoom_hns",
+    "SinjohRuins_RegisteelRoom_hns",
+    "SinjohRuins_RegidracoRoom_hns",
+    "SinjohRuins_RegielekiRoom_hns",
+    "SinjohRuins_RegigigasRoom_hns",
+    "SinjohRuins_ArceusRoom_hns",
+    "NewSinjoh_House1_hns",
+    "NewSinjoh_House2_hns",
+    "NewSinjoh_House3_hns",
+    "NewSinjoh_House4_hns",
+    "NewSinjoh_KimonoHideout_hns",
+    "SinjohRuins_House1_hns"
   ],
   "gMapGroup_SpecialArea_Hns": [
     "TrainerHill_Courtyard_hns",

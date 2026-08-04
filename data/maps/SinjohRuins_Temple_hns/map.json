@@ -1,0 +1,78 @@
+{
+  "id": "MAP_SINJOH_RUINS_TEMPLE_HNS",
+  "name": "SinjohRuins_Temple_hns",
+  "layout": "LAYOUT_SINJOH_RUINS_TEMPLE_HNS",
+  "music": "MUS_DP_HALL_OF_ORIGIN",
+  "region_map_section": "MAPSEC_SINJOH_RUINS",
+  "requires_flash": false,
+  "weather": "WEATHER_NONE",
+  "map_type": "MAP_TYPE_NONE",
+  "allow_cycling": false,
+  "allow_escaping": true,
+  "allow_running": true,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": null,
+  "object_events": [],
+  "warp_events": [
+    {
+      "x": 18,
+      "y": 18,
+      "elevation": 0,
+      "dest_map": "MAP_SINJOH_RUINS_HNS",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 18,
+      "y": 7,
+      "elevation": 0,
+      "dest_map": "MAP_SINJOH_RUINS_REGIGIGAS_ROOM_HNS",
+      "dest_warp_id": "0"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 12,
+      "y": 7,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "SinjohRuins_Temple_EventScript_RegiceScanner"
+    },
+    {
+      "type": "sign",
+      "x": 10,
+      "y": 7,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "SinjohRuins_Temple_EventScript_RegirockScanner"
+    },
+    {
+      "type": "sign",
+      "x": 14,
+      "y": 7,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "SinjohRuins_Temple_EventScript_RegisteelScanner"
+    },
+    {
+      "type": "sign",
+      "x": 22,
+      "y": 7,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "SinjohRuins_Temple_EventScript_RegielekiScanner"
+    },
+    {
+      "type": "sign",
+      "x": 25,
+      "y": 7,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "SinjohRuins_Temple_EventScript_RegidragoScanner"
+    }
+  ],
+  "game_version": "hns",
+  "region": "REGION_HISUI"
+}

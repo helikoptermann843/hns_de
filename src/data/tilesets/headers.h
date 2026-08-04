@@ -270,6 +270,17 @@ const struct Tileset gTileset_CableClub =
     .callback = NULL,
 };
 
+const struct Tileset gTileset_Lab_Frlg =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Lab_Frlg,
+    .palettes = gTilesetPalettes_Lab_Frlg,
+    .metatiles = gMetatiles_Lab_Frlg,
+    .metatileAttributes = gMetatileAttributes_Lab_Frlg,
+    .callback = NULL,
+};
+
 #if !IS_FRLG && !IS_HNS
 
 const struct Tileset gTileset_Petalburg =
@@ -1053,17 +1064,6 @@ const struct Tileset gTileset_GenericBuilding1 =
     .palettes = gTilesetPalettes_GenericBuilding1,
     .metatiles = gMetatiles_GenericBuilding1,
     .metatileAttributes = gMetatileAttributes_GenericBuilding1,
-    .callback = NULL,
-};
-
-const struct Tileset gTileset_Lab_Frlg =
-{
-    .isCompressed = TRUE,
-    .isSecondary = TRUE,
-    .tiles = gTilesetTiles_Lab_Frlg,
-    .palettes = gTilesetPalettes_Lab_Frlg,
-    .metatiles = gMetatiles_Lab_Frlg,
-    .metatileAttributes = gMetatileAttributes_Lab_Frlg,
     .callback = NULL,
 };
 
@@ -2655,5 +2655,60 @@ const struct Tileset gTileset_Route40_Hns =
 };
 
 
-#endif // IS_FRLG || IS_HNS
+const struct Tileset gTileset_MtSilver_Exp_Hns =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_MtSilver_Exp_Hns,
+    .palettes = gTilesetPalettes_MtSilver_Exp_Hns,
+    .metatiles = gMetatiles_MtSilver_Exp_Hns,
+    .metatileAttributes = gMetatileAttributes_MtSilver_Exp_Hns,
+    .callback = InitTilesetAnim_JohtoGeneral,
+};
 
+
+
+const struct Tileset gTileset_MtSilver_Ancient_Hns =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_MtSilver_Ancient_Hns,
+    .palettes = gTilesetPalettes_MtSilver_Ancient_Hns,
+    .metatiles = gMetatiles_MtSilver_Ancient_Hns,
+    .metatileAttributes = gMetatileAttributes_MtSilver_Ancient_Hns,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_MtSilver_NewSinjoh_Hns =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_MtSilver_NewSinjoh_Hns,
+    .palettes = gTilesetPalettes_MtSilver_NewSinjoh_Hns,
+    .metatiles = gMetatiles_MtSilver_NewSinjoh_Hns,
+    .metatileAttributes = gMetatileAttributes_MtSilver_NewSinjoh_Hns,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_ArceusRoom_Hns =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_ArceusRoom_Hns,
+    .palettes = gTilesetPalettes_ArceusRoom_Hns,
+    .metatiles = gMetatiles_ArceusRoom_Hns,
+    .metatileAttributes = gMetatileAttributes_ArceusRoom_Hns,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_MtEmber_Hns =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_MtEmber_Hns,
+    .palettes = gTilesetPalettes_MtEmber_Hns,
+    .metatiles = gMetatiles_MtEmber_Hns,
+    .metatileAttributes = gMetatileAttributes_MtEmber_Hns,
+    .callback = InitTilesetAnim_MtEmber_Hns,
+};
+#endif // IS_FRLG || IS_HNS

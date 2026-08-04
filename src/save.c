@@ -12,6 +12,7 @@
 #include "trainer_hill.h"
 #include "link.h"
 #include "constants/game_stat.h"
+#include "event_data.h"
 
 static u16 CalculateChecksum(void *, u16);
 static bool8 ReadFlashSector(u8, struct SaveSector *);
@@ -913,6 +914,19 @@ u8 LoadGameSave(u8 saveType)
         break;
     }
 
+    // Save version migration: detect pre-versioned saves and run upgrades
+    if (gSaveBlock1Ptr->saveVersionMagic != SAVE_VERSION_MAGIC)
+    {
+        gSaveBlock1Ptr->saveVersion = 0;
+        gSaveBlock1Ptr->saveVersionMagic = SAVE_VERSION_MAGIC;
+    }
+
+    // Add version migration steps here:
+    // if (gSaveBlock1Ptr->saveVersion < 1)
+    // {
+    //     /* migration code */
+    //     gSaveBlock1Ptr->saveVersion = 1;
+    // }
     return status;
 }
 

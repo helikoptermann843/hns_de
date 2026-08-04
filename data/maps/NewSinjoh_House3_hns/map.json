@@ -1,0 +1,119 @@
+{
+  "id": "MAP_NEW_SINJOH_HOUSE3_HNS",
+  "name": "NewSinjoh_House3_hns",
+  "layout": "LAYOUT_NEW_SINJOH_HOUSE3_HNS",
+  "music": "MUS_RG_POKE_TOWER",
+  "region_map_section": "MAPSEC_NEW_SINJOH",
+  "requires_flash": false,
+  "weather": "WEATHER_SHADE",
+  "map_type": "MAP_TYPE_INDOOR",
+  "allow_cycling": false,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": false,
+  "battle_scene": "MAP_BATTLE_SCENE_INDOOR_2",
+  "connections": null,
+  "object_events": [
+    {
+      "local_id": "LOCALID_NEWSINJOH_SPOOKY_BOX",
+      "graphics_id": "OBJ_EVENT_GFX_MOVING_BOX",
+      "x": 48,
+      "y": 15,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MOVING_BOX",
+      "x": 50,
+      "y": 15,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_NONE",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NULL",
+      "flag": "0"
+    },
+    {
+      "local_id": "LOCALID_NEWSINJOH_HOUSE3_NOBLE_TYPHLOSION",
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_TYPHLOSION_HISUI",
+      "x": 7,
+      "y": 17,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_WALK_IN_PLACE_DOWN",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "NewSinjoh_House3_EventScript_NobleTyphlosion",
+      "flag": "FLAG_HIDE_NEWSINJOH_HOUSE3_NOBLE_TYPHLOSION"
+    }
+  ],
+  "warp_events": [
+    {
+      "x": 49,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_NEW_SINJOH_HNS",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 40,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_NEW_SINJOH_HOUSE3_HNS",
+      "dest_warp_id": "2"
+    },
+    {
+      "x": 10,
+      "y": 20,
+      "elevation": 0,
+      "dest_map": "MAP_NEW_SINJOH_HOUSE3_HNS",
+      "dest_warp_id": "1"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 49,
+      "y": 8,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NewSinjoh_HauntedHouse_EventScript_Log2"
+    },
+    {
+      "type": "sign",
+      "x": 50,
+      "y": 8,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NewSinjoh_HauntedHouse_EventScript_Log3"
+    },
+    {
+      "type": "sign",
+      "x": 45,
+      "y": 8,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NewSinjoh_HauntedHouse_EventScript_Log1"
+    },
+    {
+      "type": "sign",
+      "x": 46,
+      "y": 8,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NewSinjoh_HauntedHouse_EventScript_Log1"
+    }
+  ],
+  "game_version": "hns",
+  "region": "REGION_HISUI"
+}

@@ -1209,7 +1209,23 @@ static const struct InGameTrade sIngameTrades[] =
         .sheen = 10,
         .requestedSpecies = SPECIES_POLIWHIRL
     },
-    [INGAME_TRADE_NIDORAN] = 
+    [INGAME_TRADE_GALLADE] = 
+    {
+        .nickname = _("SEBASTION"),
+        .species = SPECIES_GALLADE,
+        .ivs = {31, 31, 31, 31, 31, 31},
+        .abilityNum = 1,
+        .otId = 00475,
+        .conditions = {5, 30, 5, 5, 5},
+        .personality = 0x498a2e1d,
+        .heldItem = ITEM_LIFE_ORB,
+        .mailNum = MAIL_NONE,
+        .otName = _("JESSICA"),
+        .otGender = FEMALE,
+        .sheen = 10,
+        .requestedSpecies = SPECIES_RELICANTH
+    },
+        [INGAME_TRADE_NIDORAN] = 
     {
 #if defined(FIRERED)
         .nickname = _("Niedoman"),
