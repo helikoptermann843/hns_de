@@ -13828,7 +13828,7 @@ Tauros
 Level: 60
 
 === TRAINER_MILKMAN_HNS ===
-Name: MILKMAN
+Name: Milchmann
 Class: Officer Hns
 Pic: Officer Hns
 Gender: Male
@@ -13898,7 +13898,7 @@ EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 - Power-Up Punch
 
 === TRAINER_RUBERT_HNS ===
-Name: RUBERT
+Name: Rubert
 Class: Gentleman Hns
 Pic: Gentleman FRLG
 Gender: Male
@@ -13937,7 +13937,7 @@ EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
 - Taunt
 
 === TRAINER_NICHOLAS_HNS ===
-Name: RUBERT
+Name: Rubert
 Class: Hiker Hns
 Pic: Hiker FRLG
 Gender: Male
@@ -13994,7 +13994,7 @@ Adamant Nature
 - Explosion  
 
 === TRAINER_MAKAYLA_HNS ===
-Name: MAKAYLA
+Name: Makayla
 Class: Swimmer F Hns
 Pic: Swimmer F FRLG
 Gender: female
@@ -14034,7 +14034,7 @@ Modest Nature
 - Scald  
 
 === TRAINER_NIA_HNS ===
-Name: NIA
+Name: Nia
 Class: Cooltrainer Hns
 Pic: Cooltrainer F FRLG
 Gender: Female
@@ -14082,7 +14082,7 @@ Jolly Nature
 - Feather Dance  
 
 === TRAINER_JOHN_1_HNS ===
-Name: JOHN
+Name: John
 Class: Cooltrainer Hns
 Pic: Cooltrainer M FRLG
 Gender: Male
@@ -14106,7 +14106,7 @@ Ability: Intimidate
 Level: 60
 
 === TRAINER_SNAPE_HNS ===
-Name: SNAPE
+Name: Snape
 Class: Hiker Hns
 Pic: Hiker FRLG
 Gender: Male
@@ -14128,7 +14128,7 @@ Seviper
 Level: 60
 
 === TRAINER_TERRY_HNS ===
-Name: TERRY
+Name: Terry
 Class: Black Belt Hns
 Pic: Black Belt FRLG
 Gender: Male
@@ -14149,7 +14149,7 @@ Adamant Nature
 - Bullet Punch  
 
 === TRAINER_RAPHAEL_HNS ===
-Name: RAPHAEL
+Name: Raphael
 Class: Psychic Hns
 Pic: Psychic F FRLG
 Gender: Female
@@ -14190,7 +14190,7 @@ IVs: 0 Atk
 - Slack Off  
 
 === TRAINER_MAURA_HNS ===
-Name: MAURA
+Name: Maura
 Class: Swimmer F Hns
 Pic: Swimmer F FRLG
 Gender: Female
@@ -14217,7 +14217,7 @@ Swampert
 Ability: Torrent 
 
 === TRAINER_MASOTO_HNS ===
-Name: MASOTO
+Name: Masoto
 Class: Swimmer M Hns
 Pic: Swimmer M FRLG
 Gender: Male
@@ -14250,7 +14250,7 @@ Adamant Nature
 
 
 === TRAINER_JOSHUA2_HNS ===
-Name: JOSHUA
+Name: Joshua
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -14292,7 +14292,7 @@ Level: 65
 - Double Team  
 
 === TRAINER_DENNIS2_HNS ===
-Name: DENNIS
+Name: Dennis
 Class: Camper Hns
 Pic: Camper FRLG
 Gender: Male
@@ -14325,7 +14325,7 @@ Relaxed Nature
 - Shadow Sneak  
 
 === TRAINER_NIKOLAS_HNS ===
-Name: NIKOLAS
+Name: Nikolas
 Class: Engineer FRLG
 Pic: Engineer FRLG
 Gender: Male
@@ -14363,7 +14363,7 @@ Magcargo
 Level: 60
 
 === TRAINER_REBECCA4_HNS ===
-Name: REBECCA
+Name: Rebecca
 Class: Beauty FRLG
 Pic: Beauty FRLG
 Gender: Female
@@ -14400,7 +14400,7 @@ Level: 65
 IVs: 0 Atk  
 
 === TRAINER_JUSTIN4_HNS ===
-Name: JUSTIN
+Name: Justin
 Class: Juggler FRLG
 Pic: Juggler FRLG
 Gender: Male
@@ -14436,7 +14436,7 @@ Calm Nature
 - Confuse Ray  
 
 === TRAINER_GENJI_HNS ===
-Name: GENJI
+Name: Genji
 Class: Cooltrainer
 Pic: Cooltrainer M FRLG
 Gender: Male
@@ -14479,7 +14479,7 @@ Ability: Chlorophyll
 Level: 60
 
 === TRAINER_ISSAC4_HNS ===
-Name: ISSAC
+Name: Issac
 Class: Camper Hns
 Pic: Camper FRLG
 Gender: Male
@@ -14515,7 +14515,7 @@ Ability: Guts
 Level: 65
 
 === TRAINER_MIHARU_HNS ===
-Name: MIHARU
+Name: Miharu
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Female
@@ -14535,7 +14535,7 @@ Adamant Nature
 - Yawn  
 
 === TRAINER_YOUKO_HNS ===
-Name: YOUKO
+Name: Youko
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Female
@@ -14555,7 +14555,7 @@ IVs: 0 Atk
 - Shadow Ball 
 
 === TRAINER_SHIZUKO_HNS ===
-Name: SHIZUKO
+Name: Shizuko
 Class: Kimono Girl Hns
 Pic: Kimono Girl Hns
 Gender: Female
@@ -14575,7 +14575,7 @@ Adamant Nature
 - Sing  
 
 === TRAINER_REX4_HNS ===
-Name: REX
+Name: Rex
 Class: Black Belt Hns
 Pic: Black Belt FRLG
 Gender: Male
@@ -14643,7 +14643,7 @@ Adamant Nature
 - Arm Thrust  
 
 === TRAINER_YOUMU_HNS ===
-Name: YOUMU
+Name: Youmu
 Class: Channeler FRLG
 Pic: Channeler FRLG
 Gender: Female
@@ -14662,7 +14662,7 @@ Jolly Nature
 - Will-O-Wisp  
 
 === TRAINER_RONAN_HNS ===
-Name: RONAN
+Name: Ronan
 Class: Psychic M Hns
 Pic: Psychic M Hns
 Gender: Male
@@ -14694,7 +14694,7 @@ IVs: 0 Atk
 - Cosmic Power  
 
 === TRAINER_MAXWELL2_HNS ===
-Name: RONAN
+Name: Ronan
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -14726,7 +14726,7 @@ IVs: 0 Atk
 - Signal Beam  
 
 === TRAINER_EDWIN2_HNS ===
-Name: EDWIN
+Name: Edwin
 Class: FireBreather Hns
 Pic: FireBreather Hns
 Gender: Male
@@ -14763,7 +14763,7 @@ Level: 65
 IVs: 0 Atk  
 
 === TRAINER_BRAM_HNS ===
-Name: BRAM
+Name: Bram
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -14811,7 +14811,7 @@ Jolly Nature
 - Throat Chop  
 
 === TRAINER_KYLE9_HNS ===
-Name: KYLE
+Name: Kyle
 Class: Biker Hns
 Pic: Biker Hns
 Gender: Male
@@ -14841,7 +14841,7 @@ Ability: Keen Eye
 Level: 66  
 
 === TRAINER_DAWN9_HNS ===
-Name: DAWN
+Name: Klara
 Class: Picnicker Hns
 Pic: Picnicker FRLG
 Gender: Female
@@ -14883,7 +14883,7 @@ EVs: 252 HP / 252 SpD
 - Comet Punch  
 
 === TRAINER_STEVEN_HNS ===
-Name: STEVEN
+Name: Troy
 Class: Pkmn Trainer 1 Hns
 Pic: Steven
 Music: Hg Champion
@@ -14956,7 +14956,7 @@ Brave Nature
 - Cosmic Power 
 
 === TRAINER_SECRETEDWARD_HNS ===
-Name: EDWARD
+Name: Edward
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Music: Hg Boy 2
@@ -15030,7 +15030,7 @@ Adamant Nature
 
 
 === TRAINER_FINLEY_HNS ===
-Name: FINLEY
+Name: Finley
 Class: Sage Hns
 Pic: Sage Hns
 Music: Hg Sage
@@ -15081,7 +15081,7 @@ Level: 70
 
 
 === TRAINER_MUALANI_HNS ===
-Name: MUALANI
+Name: Mualani
 Class: Swimmer F Hns
 Pic: Swimmer F
 Gender: female
@@ -15154,7 +15154,7 @@ IVs: 0 Atk
 - Feather Dance  
 
 === TRAINER_WESSEL_HNS ===
-Name: WESSEL
+Name: Wessel
 Class: Super Nerd Hns
 Pic: Super Nerd Hns
 Gender: Male
@@ -15213,7 +15213,7 @@ Adamant Nature
 - Trailblaze  
 
 === TRAINER_SKYLAR_HNS ===
-Name: SKYLAR
+Name: Skylar
 Class: Skier Hns
 Pic: Skier F Hns
 Gender: Female

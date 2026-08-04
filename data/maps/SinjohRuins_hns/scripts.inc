@@ -333,8 +333,6 @@ SinjohRuins_Text_StevenAfterBattle:
 	.string "einmal so besiegen würde…\p"
 	.string "Unglaublich.\p"
 	.string "Nimm das, es ist die letzte Tafel.$"
-    .string "Incredible.\p"
-	.string "Take this, it's the final plate.$"
 
 SinjohRuins_Text_StevenReadytoBattle:
 	.string "Troy: {PLAYER}.\p"

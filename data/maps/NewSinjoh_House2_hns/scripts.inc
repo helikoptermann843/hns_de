@@ -52,4 +52,3 @@ NewSinjoh_House2_EventScript_BookShelf_South::
 NewSinjoh_House2_Text_Bookshelf_South:
 	.string "Vollgestopft mit Pokémon-Büchern.\p"
 	.string "Diese wirken neuer und vertrauter.$"
-	.string "These look newer and more familiar.$"

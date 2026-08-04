@@ -31,38 +31,38 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_TELEPORTER_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: MASCHINE"),
-        .desc = COMPOUND_STRING("Diese Maschine ändert Pokémon\npermanent in ihre Galar-Formen.\nGalar-Formen werden\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
+        .header = COMPOUND_STRING("Optionaler Bonus-Inhalt: Maschine"),
+        .desc = COMPOUND_STRING("Diese Maschine verwandelt Pokémon\ndauerhaft in ihre Galar-Formen.\nGalar-Formen werden für die\nVervollständigung des Nationalen\nPokédex nicht benötigt.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},
     },
     [HELP_SINJOH_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: SINJOH"),
-        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\nbonus Inhalt: Sinjoh.\nFür Story nicht benötigt\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
+        .header = COMPOUND_STRING("Optionaler Bonus-Inhalt: Sinjoh"),
+        .desc = COMPOUND_STRING("Dieser NPC gewährt Zugang zum\nBonus-Inhalt: Sinjoh.\nFür die Story und die Vervoll-\nständigung des Nationalen Pokédex\nnicht erforderlich.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},
     },
     [HELP_ALOLA_WINDOW] =
     {
-        .header = COMPOUND_STRING("OPTIONALER BONUS-INHALT: INSELN"),
-        .desc = COMPOUND_STRING("Dieser NPC gibt Zugang zu\nbonus Inhalt: Alola Inseln.\nFür Story nicht benötigt\nfür Kompletierung des\nNationalen Pokédex nicht benötigt.\n"),
+        .header = COMPOUND_STRING("Optionaler Bonus-Inhalt: Inseln"),
+        .desc = COMPOUND_STRING("Dieser NPC gewährt Zugang zum\nBonus-Inhalt: Alola-Inseln.\nFür die Story und die Vervoll-\nständigung des Nationalen Pokédex\nnicht erforderlich.\n"),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_NORMAL,
         .headerColor = {0, 8, 3},
     },
     [HELP_DAYCARE1_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ABILITIES"),
-        .desc = COMPOUND_STRING("Pichu's Fähigkeit ist Statik.\n"
-                                "Pii's Fähigkeit ist Charmebolzen.\n"
-                                "Fluffeluff's Fähigkeit ist Charmebolzen.\n"
-                                "Rabauz Fähigkeit ist Adrenalin.\n"
-                                "Kussila's Fähigkeit ist Dösigkeit.\n"
-                                "Elekid's Fähigkeit ist Statik.\n"
-                                "Magby's Fähigkeit ist Flammenkörper."
+        .header = COMPOUND_STRING("Baby-Pokémon: Fähigkeiten"),
+        .desc = COMPOUND_STRING("Pichus Fähigkeit ist Statik.\n"
+                                "Piis Fähigkeit ist Charmebolzen.\n"
+                                "Fluffeluffs Fähigkeit ist Charmebolzen.\n"
+                                "Rabauz' Fähigkeit ist Adrenalin.\n"
+                                "Kussillas Fähigkeit ist Dösigkeit.\n"
+                                "Elekids Fähigkeit ist Statik.\n"
+                                "Magbys Fähigkeit ist Flammenkörper."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,
@@ -70,7 +70,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE2_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON TYPES"),
+        .header = COMPOUND_STRING("Baby-Pokémon: Typen"),
         .desc = COMPOUND_STRING("Pichu ist Typ Elektro.\n"
                                 "Pii ist Typ Normal.\n"
                                 "Fluffeluff ist Typ Normal.\n"
@@ -85,7 +85,7 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE3_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON CRIES"),
+        .header = COMPOUND_STRING("Baby-Pokémon: Rufe"),
         .desc = COMPOUND_STRING("Pichu sagt WAAAH.\n"
                                 "Pii sagt EEK.\n"
                                 "Fluffeluff sagt LALALA.\n"
@@ -100,12 +100,12 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_DAYCARE4_WINDOW] =
     {
-        .header = COMPOUND_STRING("BABY POKéMON ACTIONS"),
+        .header = COMPOUND_STRING("Baby-Pokémon: Verhalten"),
         .desc = COMPOUND_STRING("Pichu spielt gerne.\n"
                                 "Pii schaut den Mond an.\n"
-                                "Fluffeluff schläfert sie ein.\n"
+                                "Fluffeluff singt alle in den Schlaf.\n"
                                 "Rabauz trainiert ständig.\n"
-                                "Kussilla geniest Aufmerksamkeit.\n"
+                                "Kussilla genießt Aufmerksamkeit.\n"
                                 "Elekid lädt sich auf.\n"
                                 "Magby ist ein Hitzkopf."
                             ),
