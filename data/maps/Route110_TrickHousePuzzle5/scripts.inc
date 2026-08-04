@@ -965,7 +965,7 @@ Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
 	.string "Robopuppe 3 Quiz.\p"
-	.string "Was ist teurer? Drei HAFENBRIEFe\n"
+	.string "Was ist teurer? Drei Hafenbriefe\n"
 	.string "oder ein Feuerheiler?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:

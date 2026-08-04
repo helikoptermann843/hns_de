@@ -1,6 +1,6 @@
 gFameCheckerFlavorText_ProfOak0:: @ 0x81AD106
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Oak Pokémon Research Lab$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Eich Pokémon-Labor$"
 
 gFameCheckerFlavorText_ProfOak1:: @ 0x81AD145
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Wie ist diese Person?\p"
@@ -37,7 +37,7 @@ gFameCheckerFlavorText_ProfOak5:: @ 0x81AD377
 	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Prof. Eich wird bald seine\n"
 	.string "eigene Radiosendung haben.\p"
 	.string "Die Sendung heißt, Prof. \n"
-	.string "EICHs Pokémon-Seminar.$"
+	.string "Eichs Pokémon-Seminar.$"
 
 gFameCheckerFlavorText_Daisy0:: @ 0x81AD40C
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
@@ -63,13 +63,9 @@ gFameCheckerFlavorText_Daisy2:: @ 0x81AD516
 
 gFameCheckerFlavorText_Daisy3:: @ 0x81AD5A7
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Familie und Freunde?\p"
-	.string "{FONT_FEMALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Ich habe gehört, dass sich\n"
-	.string "Eich sehr für dich interessiert!\p"
-	.string "Dieser alte Knacker war früher\n"
-	.string "stark und schön.\p"
-	.string "Aber das ist Jahrzehnte her.\n"
-	.string "Jetzt ist er nur noch ein\l"
-	.string "Schatten seiner Selbst.$"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Es wird berichtet, dass Prof.\n"
+	.string "Eich mit seinen Enkeln Sarah\l"
+	.string "und {RIVAL} zusammenlebt.$"
 
 gFameCheckerFlavorText_Daisy4:: @ 0x81AD608
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Wie ist diese Person?\p"
@@ -85,10 +81,10 @@ gFameCheckerFlavorText_Daisy5:: @ 0x81AD69F
 	.string "Sarah Eich aus Alabastia!$"
 
 gFameCheckerFlavorText_Brock0:: @ 0x81AD705
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Pewter City Pokémon Gym\n"
-	.string "Leader: Brock\l"
-	.string "The Rock-Solid Pokémon Trainer!$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Rocko, Arenaleiter von Marmoria\n"
+	.string "City.\l"
+	.string "Der Steinharte Pokémon Trainer!$"
 
 gFameCheckerFlavorText_Brock1:: @ 0x81AD771
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -132,10 +128,10 @@ gFameCheckerFlavorText_Brock5:: @ 0x81ADA27
 	.string "nicht mehr damit aufhören.$"
 
 gFameCheckerFlavorText_Misty0:: @ 0x81ADA91
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Cerulean City Pokémon Gym\n"
-	.string "Leader: Misty\l"
-	.string "The Tomboyish Mermaid!$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Misty, Arenaleiterin aus\n"
+	.string "Azuria City.\l"
+	.string "Die Burschikose Meerjungfrau!$"
 
 gFameCheckerFlavorText_Misty1:: @ 0x81ADAF6
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -174,10 +170,10 @@ gFameCheckerFlavorText_Misty5:: @ 0x81ADCEB
 	.string "verehrt.$"
 
 gFameCheckerFlavorText_LtSurge0:: @ 0x81ADD3C
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Vermilion City Pokémon Gym\n"
-	.string "Leader: Lt. Surge\l"
-	.string "The Lightning American!$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Major Bob, der Arena-\n"
+	.string "Leiter von Orania City.\l"
+	.string "Der Blitzende Amerikaner!$"
 
 gFameCheckerFlavorText_LtSurge1:: @ 0x81ADDA7
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -215,10 +211,10 @@ gFameCheckerFlavorText_LtSurge5:: @ 0x81ADF6A
 	.string "sein Flugzeug ein.$"
 
 gFameCheckerFlavorText_Erika0:: @ 0x81AE009
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Celadon City Pokémon Gym\n"
-	.string "Leader: Erika\l"
-	.string "The Nature-Loving Princess!$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Prismania City Pokémon-Arena\n"
+	.string "Arenaleiterin: Erika\l"
+	.string "Die Naturliebende Prinzessin!$"
 
 gFameCheckerFlavorText_Erika1:: @ 0x81AE072
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -252,10 +248,10 @@ gFameCheckerFlavorText_Erika5:: @ 0x81AE247
 	.string "Arena öfters ein Nickerchen macht.$"
 
 gFameCheckerFlavorText_Koga0:: @ 0x81AE2B6
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Fuchsia City Pokémon Gym\n"
-	.string "Leader: Koga\l"
-	.string "The Poisonous Ninja Master$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Koga, Arenaleiter von\n"
+	.string "Fuchsania City.\l"
+	.string "Der Giftige Ninja-Meister.$"
 
 gFameCheckerFlavorText_Koga1:: @ 0x81AE31D
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -335,10 +331,10 @@ gFameCheckerFlavorText_Sabrina5:: @ 0x81AE841
 	.string "den Boden gewischt.$"
 
 gFameCheckerFlavorText_Blaine0:: @ 0x81AE89E
-	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE}What does this person do?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Cinnabar Island Pokémon Gym\n"
-	.string "Leader: Blaine\l"
-	.string "The Hotheaded Quiz Master!$"
+	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Was macht diese Person?\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Pyro, Arenaleiter von der\n"
+	.string "Zinnoberinsel.\l"
+	.string "Der Hitzköpfige Quizmaster!$"
 
 gFameCheckerFlavorText_Blaine1:: @ 0x81AE90A
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
@@ -465,7 +461,7 @@ gFameCheckerFlavorText_Agatha0:: @ 0x81AF200
 
 gFameCheckerFlavorText_Agatha1:: @ 0x81AF248
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Lieblings-Pokémon?\p"
-	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}AGATHEs Geist-Pokémon\n"
+	.string "{FONT_MALE}{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY}Agathes Geist-Pokémon\n"
 	.string "sind erschreckend hartnäckig.$"
 
 gFameCheckerFlavorText_Agatha2:: @ 0x81AF2B7
@@ -594,7 +590,7 @@ gFameCheckerFlavorText_MrFuji1:: @ 0x81AFB76
 
 gFameCheckerFlavorText_MrFuji2:: @ 0x81AFC38
 	.string "{COLOR BLUE}{SHADOW LIGHT_BLUE} Wie ist diese Person?\p"
-	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Grosses Pokémon-Gewinnspiel!\p"
+	.string "{COLOR DARK_GRAY}{SHADOW LIGHT_GRAY} Großes Pokémon-Gewinnspiel!\p"
 	.string "Es sind keine Teilnahmekarten mehr\n"
 	.string "vorhanden!\p"
 	.string "Sie wurden alle abgeschickt!$"

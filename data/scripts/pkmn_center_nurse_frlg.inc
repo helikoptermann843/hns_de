@@ -97,9 +97,9 @@ Movement_Bow::
 	step_end
 
 Text_WelcomeWantToHealPkmn_Frlg::
-	.string "Welcome to our Pokémon Center!\p"
-	.string "Would you like me to heal your\n"
-	.string "Pokémon back to perfect health?$"
+	.string "Willkommen im Pokémon-Center!\p"
+	.string "Wir heilen deine Pokémon und\n"
+	.string "machen sie wieder fit!$"
 
 Text_TakeYourPkmnForFewSeconds_Frlg::
 	.string "Okay, ich nehme deine Pokémon für einen\n"

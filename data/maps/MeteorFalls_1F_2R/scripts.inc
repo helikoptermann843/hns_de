@@ -113,7 +113,8 @@ MeteorFalls_1F_2R_Text_JohnPostBattle:
 	.string "schafft, meine Frau zu besiegen.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
-	.string "Urs: Nun, was für ein junger Trainer!\p"
+	.string "Urs: Nun, was für ein junger Trainer!\n"
+	.string "\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
 	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"
@@ -163,7 +164,8 @@ MeteorFalls_1F_2R_Text_JohnPostRematch:
 	.string "miteinander gekämpft…$"
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
-	.string "Urs: Nun, was für ein junger Trainer!\p"
+	.string "Urs: Nun, was für ein junger Trainer!\n"
+	.string "\p"
 	.string "Möchtest du mit uns kämpfen? Wenn ja,\n"
 	.string "dann musst du dir noch mehr Pokémon\l"
 	.string "besorgen.$"

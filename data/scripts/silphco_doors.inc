@@ -549,8 +549,8 @@ Text_CardKeyOpenedDoor::
 	.string "entriegelt!$"
 
 Text_ItNeedsCardKey::
-	.string "No!\n"
-	.string "It needs a Card Key!$"
+	.string "Mist! Die Tür geht nur mit dem\n"
+	.string "Türöffner auf!$"
 
 Text_TheDoorIsOpen::
 	.string "Die Türe ist offen…$"

@@ -288,7 +288,7 @@ TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
 
 TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
 	.string "{PLAYER} erhält einen Mondstein\n"
-	.string "von IRRMAs Vater!$"
+	.string "von Irrmas Vater!$"
 
 TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
 	.string "In deinem Beutel ist leider\n"

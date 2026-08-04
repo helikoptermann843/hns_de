@@ -63,7 +63,7 @@ Alola_AkalaForest_TrainerBattleBugCatcher1_Text_0:
 	.string "Sieh dir all die coolen Käfer hier\nauf den Inseln an!$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher1_Text_1:
-	.string "Ouch, that stung!$"
+	.string "Autsch, das hat gestochen!$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher1_Text_2:
 	.string "Die Inseln liegen weit entfernt vom\n"
@@ -75,7 +75,7 @@ Alola_AkalaForest_TrainerBattleBugCatcher2_Text_0:
 	.string "Sieh mal, was ich gefangen habe!$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher2_Text_1:
-	.string "Awh, that bites!$"
+	.string "Aua, das beißt ja!$"
 
 Alola_AkalaForest_TrainerBattleBugCatcher2_Text_2:
 	.string "Das Klima auf den Alola-Inseln ist\n"

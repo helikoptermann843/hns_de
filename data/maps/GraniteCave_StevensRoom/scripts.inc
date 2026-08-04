@@ -88,7 +88,8 @@ GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
 	.string "Troy: Okay, danke schön.\p"
 	.string "Du hast all die Beschwerlichkeiten auf\n"
-	.string "dich genommen, um ihn mir zu bringen.\p"
+	.string "dich genommen, um ihn mir zu bringen.\n"
+	.string "\p"
 	.string "Ich muss mich bedanken. Ehrlich.\n"
 	.string "Ich werde dir diese TM geben.\p"
 	.string "Sie enthält meine Lieblingsattacke,\n"

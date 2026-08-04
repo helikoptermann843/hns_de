@@ -367,8 +367,9 @@ BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping:
-	.string "Okay, I will hold your Pokémon for\n"
-	.string "safekeeping while you compete.$"
+	.string "Okay, wir bewahren deine Pokémon\n"
+	.string "sicher für dich auf, solange du\l"
+	.string "am Wettkampf teilnimmst.$"
 
 BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
 	.string "Bitte hier entlang.$"
@@ -476,8 +477,7 @@ BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
 	.string "pass eintragen lassen?$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
-	.string "Hallo!\n"
-	.string "Du da! Dich meine ich!\p"
+	.string "Hallo! Du da! Dich meine ich!\p"
 	.string "Du denkst bestimmt, die Kämpfe hier\n"
 	.string "sind einfach, da man keine eigenen\l"
 	.string "Pokémon mitbringen muss, was?\p"
@@ -494,8 +494,8 @@ BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
 	.string "Sie haben uns platt gemacht… $"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Die Dinge laufen überhaupt nicht so, wie\n"
-	.string "ich es mir vorgestellt habe!\p"
+	.string "Die Dinge laufen überhaupt nicht so,\n"
+	.string "wie ich es mir vorgestellt habe!\p"
 	.string "Du musst in einem Kampf unbedingt die\n"
 	.string "gegnerischen Pokémon prüfen, damit\l"
 	.string "du siehst, was dich erwartet.$"

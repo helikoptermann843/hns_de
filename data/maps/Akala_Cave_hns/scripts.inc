@@ -109,7 +109,7 @@ Alola_AkalaCave_TrainerBattleHiker_Text_0:
 	.string "Du musst zäh sein, wenn du es bis\nhier herauf geschafft hast!$"
 
 Alola_AkalaCave_TrainerBattleHiker_Text_1:
-	.string "Tougher than me!$"
+	.string "Du bist zäher als ich!$"
 
 Alola_AkalaCave_TrainerBattleHiker_Text_2:
 	.string "Ich musste den Aufstieg abbrechen,\n"
@@ -121,7 +121,7 @@ Alola_AkalaCave_TrainerBattlePicnicker_Text_0:
 	.string "Ich bin müde vom vielen Laufen.\nLass uns kämpfen!$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_1:
-	.string "Well that was refreshing!$"
+	.string "Puh, das war erfrischend!$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_2:
 	.string "Normalerweise bin ich nicht so\n"
@@ -129,10 +129,10 @@ Alola_AkalaCave_TrainerBattlePicnicker_Text_2:
 	.string "Höhle ist anstrengend!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_0:
-	.string "Check me out!\nI caught some strong Pokémon!$"
+	.string "Schau mich an!\nIch habe starke Pokémon gefangen!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_1:
-	.string "Not bad,\nbut not good enough!$"
+	.string "Nicht schlecht,\naber nicht gut genug!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_2:
 	.string "Ist es hier drin warm oder liegt\ndas nur an mir?$"

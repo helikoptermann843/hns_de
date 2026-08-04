@@ -15,8 +15,7 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
 	.string "Was braucht ein Trainer?\p"
-	.string "Kenntnis…\n"
-	.string "Strategie…\l"
+	.string "Kenntnis… Strategie…\l"
 	.string "Ein glückliches Los…\l"
 	.string "Einen groben Überblick…\l"
 	.string "Seele…\l"
@@ -41,7 +40,7 @@ BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
 	.string "Talent für’s Kämpfen habe!\p"
 	.string "Ich mag aber lieber Pokémon\n"
 	.string "Wettbewerbe!\p"
-	.string "Aber bei den WETTBEWERBEn schneide\n"
+	.string "Aber bei den Wettbewerben schneide\n"
 	.string "ich nie so sonderlich gut ab.\p"
 	.string "Ob man auch für etwas Talent haben\n"
 	.string "kann, obwohl man was anderes lieber\l"

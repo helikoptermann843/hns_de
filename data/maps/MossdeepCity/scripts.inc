@@ -305,7 +305,8 @@ MossdeepCity_Movement_ScottExitEast:
 
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
 	.string "Ich habe das von Troy bekommen, weiß\n"
-	.string "aber nicht, was ich damit machen soll.\p"
+	.string "aber nicht, was ich damit machen soll.\n"
+	.string "\p"
 	.string "Ich glaube, es heißt King-Stein.\n"
 	.string "Möchtest du das haben?$"
 
@@ -342,23 +343,26 @@ MossdeepCity_Text_SpaceCenterLaunchingRockets:
 	.string "werden große Raketen gestartet.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
-	.string "Ich habe von einem Freund, einem\n"
-	.string "Matrosen, gehört, dass Team Aqua sich\pin Seegrasulb City aufgehalten\n"
+	.string "Ich habe von einem Freund, einem\l"
+	.string "Matrosen, gehört, dass Team Aqua sich\n"
+	.string "\pin Seegrasulb City aufgehalten\p"
 	.string "haben soll.\p"
 	.string "Aber dann ist jemand gekommen und hat\n"
 	.string "sie aufgemischt.\p"
 	.string "Und in Moosbach City ist Team\n"
 	.string "Magma.\p"
-	.string "Wenn du wissen willst, was sie vorhaben,\n"
+	.string "Wenn du wissen willst, was sie\n"
+	.string "vorhaben,\l"
 	.string "dann geh zum Raumfahrtzentrum.$"
 
 MossdeepCity_Text_FeelReliefOnLand:
-	.string "Ich bin ein Matrose, daher ist das Meer\n"
-	.string "sehr wichtig für mich.\p"
-	.string "Aber weißt du, was? Wenn ich nach einer\n"
+	.string "Ich bin ein Matrose, daher ist das\n"
+	.string "Meer sehr wichtig für mich.\p"
+	.string "Aber weißt du, was? Wenn ich nach\n"
+	.string "einer\n"
 	.string "langen Seefahrt wieder festen Boden\p"
-	.string "unter den Füßen habe, bin ich jedes Mal\n"
-	.string "erleichtert.$"
+	.string "unter den Füßen habe, bin ich jedes\n"
+	.string "Mal erleichtert.$"
 
 MossdeepCity_Text_NiceIfWorldCoveredByFlowers:
 	.string "Wäre das nicht schön?\p"
@@ -389,7 +393,8 @@ MossdeepCity_Text_SpecialSpaceCenterRock:
 	.string "Dieser Felsen hat eine ganz besondere\n"
 	.string "Bedeutung für das Raumfahrtzentrum.\p"
 	.string "Sie haben ihn hier hingesetzt als\n"
-	.string "Glücksbringer für den sicheren Flug der\l"
+	.string "Glücksbringer für den sicheren Flug\n"
+	.string "der\l"
 	.string "Raketen.\p"
 	.string "Wenn du dir etwas wünschst, was machst\n"
 	.string "du dann? Sternschnuppen beobachten?\p"

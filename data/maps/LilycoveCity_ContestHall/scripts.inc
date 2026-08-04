@@ -342,7 +342,7 @@ LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "halle in der tiefsten Provinz.$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "Mc: Okay, KLUGe Pokémon und Trainer.\n"
+	.string "MC: Okay, Kluge Pokémon und Trainer.\n"
 	.string "Seid ihr bereit?!?\p"
 	.string "Gebt euer Bestes!\n"
 	.string "Es geht um den Ausdruck!$"
@@ -426,7 +426,7 @@ LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty:
 LilycoveCity_ContestHall_Text_OverdidGrooming:
 	.string "Aaaaargh!\p"
 	.string "Ich habe mein Pokémon für diesen Wett-\n"
-	.string "Bewerb sorgfältig gebürstet und\l"
+	.string "bewerb sorgfältig gebürstet und\l"
 	.string "gestriegelt.\p"
 	.string "Dabei habe ich wohl übertrieben…\n"
 	.string "Das Fell meines Pokémon ist nun ganz\l"
@@ -443,8 +443,10 @@ LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
 	.string "Dieses hübsche Pokémon sieht genauso\n"
 	.string "aus wie ich, als ich jünger war.\p"
-	.string "Als ich das zu meinem Mann sagte, hat er\n"
+	.string "Als ich das zu meinem Mann sagte, hat\l"
+	.string "er\n"
 	.string "den Kaffee, den er trank, ausgespuckt.\p"
+	.string "\p"
 	.string "Was ist daran so lustig?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:

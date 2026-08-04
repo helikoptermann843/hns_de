@@ -475,8 +475,9 @@ MossdeepCity_Gym_Text_MauraDefeat:
 MossdeepCity_Gym_Text_MauraPostBattle:
 	.string "Eine glänzende Zukunft erwartet die,\n"
 	.string "die fleißig sind.\p"
-	.string "Die, die dem Müßiggang frönen, erwartet\n"
-	.string "am Ende des Weges nur die Verzweiflung.\p"
+	.string "Die, die dem Müßiggang frönen,\n"
+	.string "erwartet am Ende des Weges nur die\n"
+	.string "Verzweiflung. \p"
 	.string "Man erntet das, was man sät.$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
@@ -581,7 +582,8 @@ MossdeepCity_Gym_Text_TateAndLizaDefeat:
 	.string "Ben: Was?!? Unsere Kombination…\n"
 	.string "Svenja: Wurde auseinander gerissen!\p"
 	.string "Ben: So sieht’s aus. Du hast gewonnen.\n"
-	.string "Svenja: Daher überreichen wir dir dies.$"
+	.string "Svenja: Daher überreichen wir dir\l"
+	.string "dies.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
 	.string "{PLAYER} erhält den Mentalorden von\n"

@@ -304,7 +304,8 @@ BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
 	.string "Zigg!\n"
-	.string "Ich glaube an dich, mein kleiner Freund!\p"
+	.string "Ich glaube an dich, mein kleiner\n"
+	.string "Freund! \p"
 	.string "Und wenn du gewinnst, werde ich dich\n"
 	.string "mit allem, was du magst, verwöhnen!$"
 

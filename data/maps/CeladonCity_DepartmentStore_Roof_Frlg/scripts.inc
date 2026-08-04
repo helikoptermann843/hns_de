@@ -348,8 +348,8 @@ CeladonCity_DepartmentStore_Roof_Text_FloorSign::
 	.string "Automaten$"
 
 CeladonCity_DepartmentStore_Roof_Text_VendingMachineWhatDoesItHave::
-	.string "A vending machine!\n"
-	.string "What does it have?$"
+	.string "Ein Automat!\n"
+	.string "Zur Auswahl stehen:$"
 
 CeladonCity_DepartmentStore_Roof_Text_NotEnoughMoney::
 	.string "Ups, nicht genug Geld!$"

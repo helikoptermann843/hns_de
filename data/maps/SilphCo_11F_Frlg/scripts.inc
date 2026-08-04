@@ -192,8 +192,8 @@ SilphCo_11F_Text_GiovanniIntro::
 	.string "Schmerzen kennen!$"
 
 SilphCo_11F_Text_GiovanniDefeat::
-	.string "Arrgh!!\n"
-	.string "I lost again!?$"
+	.string "Arrgh!\n"
+	.string "Wieder verloren!$"
 
 SilphCo_11F_Text_GiovanniPostBattle::
 	.string "Verdammter Mist!\n"

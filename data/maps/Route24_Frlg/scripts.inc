@@ -127,7 +127,7 @@ Route24_Text_JoinTeamRocket::
 
 Route24_Text_RocketDefeat::
 	.string "Arrgh!\n"
-	.string "You are good!$"
+	.string "Du bist gut!$"
 
 Route24_Text_YoudBecomeTopRocketLeader::
 	.string "Bei deinem Können wärst du im\n"

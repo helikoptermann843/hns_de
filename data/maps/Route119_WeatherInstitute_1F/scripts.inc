@@ -84,8 +84,7 @@ Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
 	.string "wissen, was er denkt?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Wie?\n"
-	.string "Was macht denn das Kind hier?$"
+	.string "Wie? Was macht denn das Kind hier?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
 	.string "Wie? Ich habe verloren?!?$"
@@ -126,7 +125,7 @@ Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
 	.string "Hallo! Dein beherztes Eingreifen hat\n"
 	.string "uns gerettet!\p"
-	.string "Ich verstehe nur nicht, was die AQUAs\n"
+	.string "Ich verstehe nur nicht, was die Aquas\n"
 	.string "von uns wollten…$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:

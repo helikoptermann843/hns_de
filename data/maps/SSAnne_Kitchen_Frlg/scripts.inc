@@ -83,9 +83,9 @@ SSAnne_Kitchen_Text_IAmLeChefMainCourseIs::
 	.string "Der Hauptgang ist…$"
 
 SSAnne_Kitchen_Text_SalmonDuSalad::
-	.string "Salmon du Salad!\p"
-	.string "Les guests may gripe it's fish\n"
-	.string "again, however!$"
+	.string "Lachs-Filet!\p"
+	.string "Eine kulinarische Köstlichkeit\n"
+	.string "sondergleichen!$"
 
 SSAnne_Kitchen_Text_EelsAuBarbecue::
 	.string "Currywurst!\p"

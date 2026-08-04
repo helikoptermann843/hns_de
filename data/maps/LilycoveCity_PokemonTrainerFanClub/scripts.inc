@@ -633,7 +633,7 @@ LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "Egal, was die anderen sagen, der Arena-\n"
-	.string "Leiter von Faustauhaven, Kamillo,\l"
+	.string "leiter von Faustauhaven, Kamillo,\l"
 	.string "ist mein Favorit!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
@@ -813,10 +813,10 @@ LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential:
 LilycoveCity_PokemonTrainerFanClub_Text_YourePowerfulButNotTrueStrength:
 	.string "Es stimmt, du agierst wirklich sehr\n"
 	.string "kraftvoll.\p"
-	.string "Aber!\n"
-	.string "Ich sage dir was!\p"
+	.string "Aber! Ich sage dir was!\p"
 	.string "Diese Kraft kann noch nicht als wahre\n"
 	.string "Stärke betrachtet werden!\p"
 	.string "Wahre Stärke ist…\n"
 	.string "… …\p"
-	.string "Äh, eigentlich weiß ich das auch nicht…$"
+	.string "Äh, eigentlich weiß ich das auch\n"
+	.string "nicht…$"

@@ -21,8 +21,7 @@ DayCare_Text_YourMonIsDoingFine::
 	.string "Deinem {STR_VAR_1} geht es sehr gut.$"
 
 DayCare_Text_IllKeepIt::
-	.string "Well then, I'll keep it.\n"
-	.string "Thanks!$"
+	.string "Ich werde es behalten.$"
 
 DayCare_Text_YouHaveNoRoomForIt::
 	.string "Du hast keinen Platz dafür… Komm\n"
@@ -128,4 +127,4 @@ DayCare_Text_WhatWillYouBattleWith::
 	.string "Komm einfach später wieder.$"
 
 DayCare_Text_Huh::
-	.string "Huh?$"
+	.string "Wie?$"

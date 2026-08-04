@@ -120,8 +120,8 @@ FuchsiaCity_Gym_Text_KogaExplainSoulBadge::
 	.string "Bitte nimm auch dieses Geschenk!$"
 
 FuchsiaCity_Gym_Text_ReceivedTM06FromKoga::
-	.string "{PLAYER} received TM06\n"
-	.string "from Koga.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM06!$"
 
 FuchsiaCity_Gym_Text_KogaExplainTM06::
 	.string "TM06 ist Toxin!\p"

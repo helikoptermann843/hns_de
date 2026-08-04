@@ -1617,7 +1617,7 @@ gText_Sudowoodo_Attacked::
 	.string "Der seltsame Baum greift an!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flog hinfort!$"
+	.string "{STR_VAR_1} flog davon!$"
 
 gText_WantWhichFloor::
 	.string "Welches Stockwerk?$"
@@ -1753,7 +1753,7 @@ EventScript_TryDarkenRuins::
 	return
 
 Text_MonFlewAway::
-	.string "The {STR_VAR_1} flog hinfort!$"
+	.string "{STR_VAR_1} flog davon!$"
 
 @ Call for legendary bird trio
 Text_Gyaoo::

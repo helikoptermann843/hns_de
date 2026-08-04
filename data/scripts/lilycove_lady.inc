@@ -652,8 +652,8 @@ LilycoveCity_PokemonCenter_1F_Text_YouGotItRightYouveWonPersonsPrize:
 
 @ Unused
 LilycoveCity_PokemonCenter_1F_Text_XReceivedOneY:
-	.string "{STR_VAR_1} received\n"
-	.string "one {STR_VAR_2}!$"
+	.string "{STR_VAR_1} erhält\n"
+	.string "{STR_VAR_2}!$"
 
 LilycoveCity_PokemonCenter_1F_Text_YourBagIsFilledUp:
 	.string "Dein Beutel ist voll. Schaffe Platz und\n"

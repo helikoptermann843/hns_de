@@ -180,7 +180,7 @@ MtEmber_Exterior_Text_Grunt1Intro::
 	.string "Du hast uns bespitzelt, gib es zu!$"
 
 MtEmber_Exterior_Text_Grunt1Defeat::
-	.string "Huh, what?$"
+	.string "Häh, wie?$"
 
 MtEmber_Exterior_Text_Grunt1PostBattle::
 	.string "Warum musstest du gewinnen?$"

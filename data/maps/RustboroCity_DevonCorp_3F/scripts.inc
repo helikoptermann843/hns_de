@@ -273,8 +273,8 @@ RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
 	.string "konzentriert.\p"
 	.string "Deshalb weiß ich auch nicht unbedingt,\n"
 	.string "was gerade im Trend liegt.\p"
-	.string "Wollen alle jungen Leute Trainer in der\n"
-	.string "Pokémon Liga werden?$"
+	.string "Wollen alle jungen Leute Trainer in\n"
+	.string "der Pokémon Liga werden?$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
 	.string "Dies ist die zweite Etage der Devon\n"

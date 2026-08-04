@@ -305,7 +305,8 @@ Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
 	.string "Was soll ich nur tun?\n"
 	.string "Die Quelle der Ideen für meine Tricks\l"
 	.string "ist trocken gelegt…\p"
-	.string "Vielleicht ist es an der Zeit, durch die\n"
+	.string "Vielleicht ist es an der Zeit, durch\n"
+	.string "die\n"
 	.string "Lande zu reisen und mich für neue\l"
 	.string "Tricks inspirieren zu lassen…$"
 
@@ -348,7 +349,8 @@ Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
 
 Route110_TrickHouseEnd_Text_NoRoomForThis:
 	.string "Was? Du hast keinen Platz dafür?\n"
-	.string "Wie viele Items schleppst du denn mit?\p"
+	.string "Wie viele Items schleppst du denn mit?\n"
+	.string "\p"
 	.string "Aber du kannst dir deine Belohnung\n"
 	.string "auch später bei mir abholen.$"
 

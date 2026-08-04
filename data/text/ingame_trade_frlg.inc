@@ -7,8 +7,8 @@ Trade_Text_AwwOhWell::
 	.string "Oh, well…$"
 
 Trade_Text_WhatThatsNoMon::
-	.string "What?\n"
-	.string "That's no {STR_VAR_1}!$"
+	.string "Was?\n"
+	.string "Das ist aber kein {STR_VAR_1}!$"
 
 Trade_Text_HeyThanks::
 	.string "Hey, thanks!$"
@@ -45,14 +45,14 @@ Trade_Text_DoYouHaveMonWantToTradeForMon::
 	.string "tauschen?$"
 
 Trade_Text_ThatsTooBad::
-	.string "That's too bad.$"
+	.string "Schade!$"
 
 Trade_Text_ThisIsNoMon::
 	.string "Das ist kein {STR_VAR_1}!\p"
 	.string "Komm wieder, wenn du eines besitzt!$"
 
 Trade_Text_ThanksYoureAPal::
-	.string "Thanks, you're a pal!$"
+	.string "Vielen Dank!$"
 
 Trade_Text_HowIsMyOldMon::
 	.string "Wie geht es {STR_VAR_2}?\p"

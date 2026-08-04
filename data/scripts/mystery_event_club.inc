@@ -144,7 +144,7 @@ Text_DecidedNotTo:
 
 Text_HiWeMeetAgain:
 	.string "Hi!\n"
-	.string "We meet again!$"
+	.string "Wir sehen uns wieder!$"
 
 Text_ChangeYourProfile:
 	.string "Möchtest du dein Profil ändern?$"

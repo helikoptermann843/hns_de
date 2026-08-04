@@ -43,8 +43,8 @@ VermilionCity_House1_Text_TakeThisAndFish::
 	.string "Nimm das hier und gehe angeln!$"
 
 VermilionCity_House1_Text_ReceivedOldRodFromFishingGuru::
-	.string "{PLAYER} received an Old Rod from\n"
-	.string "the Fishing Guru.$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Angel!$"
 
 VermilionCity_House1_Text_FishingIsAWayOfLife::
 	.string "Angeln ist meine Leidenschaft!\p"

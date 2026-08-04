@@ -355,8 +355,8 @@ BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
 BattleFrontier_Lounge7_Text_YouDontWantTo:
 	.string "Was denn? Was denn?\n"
 	.string "Du musst doch nicht gleich…\p"
-	.string "Wenn du sehen willst, wie talentiert ich\n"
-	.string "bin, dann komm wieder. Jederzeit!$"
+	.string "Wenn du sehen willst, wie talentiert\n"
+	.string "ich bin, dann komm wieder. Jederzeit!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Hihihihi!\p"

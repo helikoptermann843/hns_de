@@ -1338,8 +1338,8 @@ PalletTown_ProfessorOaksLab_Text_RivalDefeat::
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::
-	.string "{RIVAL}: Yeah!\n"
-	.string "Am I great or what?$"
+	.string "{RIVAL}: Ja!\n"
+	.string "Ich bin der Größte!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalGoToughenMyMon::
 	.string "{RIVAL}: O.K.! Ich werde meine\n"
@@ -1478,7 +1478,8 @@ PalletTown_ProfessorOaksLab_Text_OakCatchMonsForDataTakeThese::
 	.string "einzufangen.$"
 
 PalletTown_ProfessorOaksLab_Text_ReceivedFivePokeBalls::
-	.string "{PLAYER} received five Poké Balls.$"
+	.string "{PLAYER} erhält\n"
+	.string "fünf Pokébälle!$"
 
 PalletTown_ProfessorOaksLab_Text_OakExplainCatching::
 	.string "Taucht ein wildes Pokémon auf, so\n"
@@ -1637,7 +1638,8 @@ PalletTown_ProfessorOaksLab_Text_OakNowTheseUnitsCanRecordMoreData::
 	.string "über Pokémon sichern.$"
 
 PalletTown_ProfessorOaksLab_Text_PlayersPokedexWasUpgraded::
-	.string "{PLAYER}'s Pokédex was upgraded!$"
+	.string "Der Pokédex von {PLAYER} wurde\n"
+	.string "erweitert!$"
 
 PalletTown_ProfessorOaksLab_Text_OakMustReallyWorkToFillPokedex::
 	.string "Also, {PLAYER} und {RIVAL}!\p"

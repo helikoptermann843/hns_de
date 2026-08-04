@@ -114,7 +114,7 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "nach der Pokémon Meisterschaft\l"
 	.string "streben!\p"
 	.string "Als Trainer musst du die Orden der\n"
-	.string "ARENen sammeln, habe ich Recht?\p"
+	.string "Arenen sammeln, habe ich Recht?\p"
 	.string "Aber die Arenaleiter sind nicht gerade\n"
 	.string "einfach zu besiegen!\p"
 	.string "Und hier komme ich ins Spiel!\n"
@@ -125,7 +125,7 @@ RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "hat aber gegen Wasser- und Pflanzen-\l"
 	.string "Attacken keine Chance.\p"
 	.string "Komm wieder vorbei, wenn du die Arena-\n"
-	.string "Leiterin besiegt hast.\p"
+	.string "leiterin besiegt hast.\p"
 	.string "Nun zeig, was du drauf hast!$"
 
 RustboroCity_Gym_Text_GymGuidePostVictory:
@@ -134,7 +134,8 @@ RustboroCity_Gym_Text_GymGuidePostVictory:
 	.string "Großartig!\n"
 	.string "Schau mal auf deinen Trainerpass.\p"
 	.string "Der Steinorden, den du gerade bekommen\n"
-	.string "hast, müsste dort schon vermerkt sein.\p"
+	.string "hast, müsste dort schon vermerkt sein.\n"
+	.string "\p"
 	.string "Nun hast du den ersten Schritt zur\n"
 	.string "Meisterschaft schon erfolgreich\l"
 	.string "hinter dir!\p"

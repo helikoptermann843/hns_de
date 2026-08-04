@@ -458,7 +458,7 @@ LilycoveCity_Text_MayGoingBackToLittleroot:
 
 LilycoveCity_Text_MayYouGoingToCollectBadges:
 	.string "{PLAYER}{KUN}, was wirst du machen?\p"
-	.string "Alle Orden der ARENen sammeln und die\n"
+	.string "Alle Orden der Arenen sammeln und die\n"
 	.string "Pokémon Liga herausfordern?\p"
 	.string "Nun, während du deine Orden sammelst,\n"
 	.string "werde ich weiter an meinem Pokédex\l"
@@ -467,7 +467,8 @@ LilycoveCity_Text_MayYouGoingToCollectBadges:
 	.string "Bis dann!$"
 
 LilycoveCity_Text_MayYouGoingToPokemonLeague:
-	.string "Und, {PLAYER}{KUN}, was wirst du machen?\p"
+	.string "Und, {PLAYER}{KUN}, was wirst du\n"
+	.string "machen? \p"
 	.string "Wirst du die Pokémon Liga heraus-\n"
 	.string "fordern?\p"
 	.string "Oder wirst du deinen Pokédex vervoll-\n"
@@ -478,7 +479,8 @@ LilycoveCity_Text_MayYouGoingToPokemonLeague:
 	.string "Man sieht sich!$"
 
 LilycoveCity_Text_MayYouGoingToBattleFrontier:
-	.string "Und, {PLAYER}{KUN}, was wirst du machen?\p"
+	.string "Und, {PLAYER}{KUN}, was wirst du\n"
+	.string "machen? \p"
 	.string "Wirst du zur Kampfzone gehen?\p"
 	.string "Oder wirst du deinen Pokédex vervoll-\n"
 	.string "ständigen?\p"
@@ -525,9 +527,10 @@ LilycoveCity_Text_BrendanGoingBackToLittleroot:
 
 LilycoveCity_Text_BrendanYouGoingToCollectBadges:
 	.string "Und, {PLAYER}, was wirst du tun?\p"
-	.string "Wirst du alle Orden der ARENen sammeln\n"
+	.string "Wirst du alle Orden der Arenen sammeln\n"
 	.string "und die Pokémon Liga herausfordern?\p"
-	.string "Vielleicht werde ich das auch machen…\p"
+	.string "Vielleicht werde ich das auch machen…\n"
+	.string "\p"
 	.string "Gut, bleib am Ball!$"
 
 LilycoveCity_Text_BrendanYouGoingToPokemonLeague:
@@ -547,7 +550,8 @@ LilycoveCity_Text_BrendanYouGoingToBattleFrontier:
 	.string "Da du so stark geworden bist, solltest\n"
 	.string "du zur Kampfzone gehen.\p"
 	.string "Häh, wenn ich meine Pokémon besser\n"
-	.string "trainiere, sollte ich eigentlich stärker\l"
+	.string "trainiere, sollte ich eigentlich\n"
+	.string "stärker\l"
 	.string "werden als du…\p"
 	.string "Vielleicht sollte ich zur Kampfzone\n"
 	.string "gehen.\p"
@@ -564,7 +568,8 @@ LilycoveCity_Text_ChanceToDoBigThings:
 	.string "Ich bin nur ein Rüpel, ich weiß nicht,\n"
 	.string "was unser Boss so vorhat…\p"
 	.string "Aber als Mitglied von Team Aqua habe\n"
-	.string "ich die Möglichkeit, große Dinge zu tun!\p"
+	.string "ich die Möglichkeit, große Dinge zu\n"
+	.string "tun! \p"
 	.string "Ww…wer bist du denn??? I-Ich… hähähä,\n"
 	.string "habe nur mit mir selber gesprochen!$"
 
@@ -587,7 +592,8 @@ LilycoveCity_Text_WailmerLeapOutOfWater:
 
 LilycoveCity_Text_GetLostMessingUpTraining:
 	.string "Häh? Was willst du?\p"
-	.string "Du störst uns beim Training, also würde\n"
+	.string "Du störst uns beim Training, also\n"
+	.string "würde\l"
 	.string "ich vorschlagen, du verschwindest!$"
 
 LilycoveCity_Text_ContestHallInTown:
@@ -671,7 +677,8 @@ LilycoveCity_Text_SixtyYearsAgoHusbandProposed:
 LilycoveCity_Text_TeamAquaRenovatedCavern:
 	.string "Hm, kennst du diese besondere Höhle in\n"
 	.string "der Bucht?\p"
-	.string "Das ist eine natürliche Formation, aber\n"
+	.string "Das ist eine natürliche Formation,\n"
+	.string "aber\n"
 	.string "Team Aqua kam und hat das Aussehen\l"
 	.string "verändert.\p"
 	.string "Sie nennen sich selber “Naturliebendes\n"

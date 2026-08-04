@@ -158,8 +158,8 @@ Alola_Ulaula_House_Phant_Movement_5:
 	step_end
 
 Alola_Ulaula_House_Phant_Text_0:
-	.string "Welcome, {PLAYER}.\p"
-	.string "Thanks again for playing!$"
+	.string "Willkommen, {PLAYER}.\p"
+	.string "Danke nochmal fürs Spielen!$"
 
 Alola_Ulaula_House_Phant_Text_1:
 	.string "Ich hoffe, du bist vorbereitet…\n"
@@ -172,7 +172,8 @@ Alola_Ulaula_House_Phant_Text_3:
 	.string "Ich denke, das hast du dir\nverdient.$"
 
 Alola_Ulaula_House_Phant_Text_4:
-	.string "You received an Egg from Phantonomy!$"
+	.string "{PLAYER} erhält\n"
+	.string "ein Ei von Phantonomy!$"
 
 Alola_Ulaula_House_Phant_Text_5:
 	.string "In diesem Ei steckt mein Lieblings-\n"

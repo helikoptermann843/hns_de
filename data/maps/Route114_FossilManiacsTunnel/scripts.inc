@@ -70,9 +70,9 @@ Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
 	.string "Das ist schön… Traumhaft…\p"
 	.string "Was wirst du mit dem Fossil machen?\p"
 	.string "Ich habe gehört, dass Devon versucht,\n"
-	.string "aus den FOSSILien Pokémon zum\l"
+	.string "aus den Fossilien Pokémon zum\l"
 	.string "Leben zu erwecken…\p"
-	.string "Ich liebe FOSSILien, daher würde ich\n"
+	.string "Ich liebe Fossilien, daher würde ich\n"
 	.string "so etwas niemals machen…$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:

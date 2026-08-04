@@ -377,17 +377,18 @@ VerdanturfTown_BattleTentLobby_Text_ExplainBasicRules:
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainNatureRules:
-	.string "Depending on its nature, a Pokémon\n"
-	.string "may prefer to attack no matter what.\p"
-	.string "Another Pokémon may prefer to protect\n"
-	.string "itself from any harm.\p"
-	.string "Yet another may enjoy vexing or\n"
-	.string "confounding its foes.\p"
-	.string "Depending on its nature, a Pokémon\n"
-	.string "will have favorite moves that it is good\l"
-	.string "at using.\p"
-	.string "It may also dislike certain moves that\n"
-	.string "it has trouble using.$"
+	.string "Je nach Wesenheit wird ein Pokémon\n"
+	.string "eventuell angreifen, egal, was passiert.\p"
+	.string "Ein anderes wird sich vielleicht seinem\n"
+	.string "Wesen entsprechend unter allen\p"
+	.string "Umständen schützen wollen. Ein anderes\n"
+	.string "irritiert oder verwirrt seinen Gegner.\p"
+	.string "Abhängig von seinem Wesen wird ein\n"
+	.string "Pokémon Lieblingsattacken haben, die\l"
+	.string "es hervorragend beherrscht.\p"
+	.string "Auf der anderen Seite wird es Attacken\n"
+	.string "kennen, die es nicht mag und die ihm\l"
+	.string "Schwierigkeiten machen.$"
 
 @ Unused
 VerdanturfTown_BattleTentLobby_Text_ExplainMoveRules:

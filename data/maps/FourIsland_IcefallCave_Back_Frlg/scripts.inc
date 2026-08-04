@@ -221,7 +221,7 @@ FourIsland_IcefallCave_Back_Text_GruntIntro::
 	.string "wollen?$"
 
 FourIsland_IcefallCave_Back_Text_GruntDefeat::
-	.string "We didn't plan on this!$"
+	.string "Das haben wir nicht geplant!$"
 
 FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
 	.string "Lorelei: Umpf!\n"

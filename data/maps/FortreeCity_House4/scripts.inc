@@ -76,14 +76,13 @@ FortreeCity_House4_Text_AskedWingullToRunErrand:
 	.string "Besorgungen für mich.$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
-	.string "Gut!\n"
-	.string "Komm zurück, Wingull!\p"
+	.string "Gut! Komm zurück, Wingull!\p"
 	.string "Huch! Was ist das?\n"
 	.string "Was trägt es denn da?\p"
 	.string "Ein Mentalkraut?\n"
 	.string "Das muss es irgendwo gefunden haben.\p"
-	.string "Aber, ich bin kein Trainer, daher kannst\n"
-	.string "du es haben.$"
+	.string "Aber, ich bin kein Trainer, daher\n"
+	.string "kannst du es haben.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
 	.string "Dank meines Wingull habe ich Freunde,\n"

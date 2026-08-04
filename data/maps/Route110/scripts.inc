@@ -757,7 +757,8 @@ Route110_Text_AquaActionsBringSmiles:
 	.string "Lächeln auf jedes Gesicht!$"
 
 Route110_Text_MayLetsBattle:
-	.string "Maike: Hi, {PLAYER}{KUN}, wir haben uns ja\n"
+	.string "Maike: Hi, {PLAYER}{KUN}, wir haben\n"
+	.string "uns ja\n"
 	.string "lange nicht gesehen!\p"
 	.string "Während ich auf der Suche nach\n"
 	.string "weiteren Pokémon war, sind meine\l"
@@ -861,7 +862,8 @@ Route110_Text_BikeTechniques:
 Route110_Text_WhichShouldIChoose:
 	.string "Was soll ich tun?\p"
 	.string "Schnurstracks über den Radweg nach\n"
-	.string "Malvenfroh City fahren oder die untere\p"
+	.string "Malvenfroh City fahren oder die untere\n"
+	.string "\p"
 	.string "Straße nehmen und nach Pokémon\n"
 	.string "suchen?$"
 

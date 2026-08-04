@@ -521,8 +521,8 @@ ThreeIsland_Text_ThankYouOhYourMonGotHurt::
 	.string "wegen mir verletzt.$"
 
 ThreeIsland_Text_GivenFullRestore::
-	.string "{PLAYER} was given\n"
-	.string "a Full Restore.$"
+	.string "{PLAYER} erhält\n"
+	.string "Top-Genesung.$"
 
 ThreeIsland_Text_OhYourBagIsFull::
 	.string "Oh?\n"

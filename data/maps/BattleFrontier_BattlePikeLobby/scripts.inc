@@ -286,7 +286,8 @@ BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
 	.string "Wir bieten hier eine besondere Heraus-\n"
 	.string "forderung an: Die Kampfbahn!\p"
-	.string "Die Regeln sind wirklich sehr einfach…\p"
+	.string "Die Regeln sind wirklich sehr einfach…\n"
+	.string "\p"
 	.string "Wähle einen von drei möglichen Wegen\n"
 	.string "und schlag dich zu deinem Ziel durch,\l"
 	.string "das am Ende der Kampfipitis liegt…\p"
@@ -419,11 +420,11 @@ BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
-	.string "What is this weird place?\n"
-	.string "I can’t figure it out at all!\p"
-	.string "I’ve taken the challenge a bunch\n"
-	.string "of times, but all I ever do is run into\l"
-	.string "Trainers whichever path I choose.$"
+	.string "Was ist das nur für ein seltsamer Ort?\n"
+	.string "Ich werde einfach nicht schlau daraus!\p"
+	.string "Ich habe die Herausforderung schon oft\n"
+	.string "angenommen, aber egal, welchen Weg ich\l"
+	.string "wähle - ich treffe immer nur Trainer.$"
 
 BattleFrontier_BattlePikeLobby_Text_RulesAreListed:
 	.string "Die Regeln der Kampfbahn hängen\n"

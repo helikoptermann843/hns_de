@@ -29,8 +29,8 @@ EventScript_TooDark::
 	end
 
 sText_NotFoundNearby:
-	.string "It couldn't be found nearby.\n"
-	.string "Try looking in a different area!$"
+	.string "Es war in der Nähe nicht zu finden.\n"
+	.string "Versuch es in einem anderen Gebiet!$"
 
 sText_TryMovingSlower:
 	.string "Das Pokémon ist entkommen! Versuche,\n"

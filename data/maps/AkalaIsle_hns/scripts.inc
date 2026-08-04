@@ -433,15 +433,15 @@ Alola_Akala_TotemBattle_Text_0:
 	.string "Mortaar!$"
 
 Alola_Akala_TotemBattle_Text_1:
-	.string "Totem Magmortar was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Magbrant wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Akala_TotemBattle_Text_2:
 	.string "Salaa!$"
 
 Alola_Akala_TotemBattle_Text_3:
-	.string "Totem Probopass was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Voluminas wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Akala_Totem_sign_Text_0:
 	.string "Das Totem strahlt eine starke\n"
@@ -496,8 +496,9 @@ Alola_Akala_TrainerBattleCamper_Text_1:
 	.string "Mist, das hilft meiner Sache\nnicht gerade weiter.$"
 
 Alola_Akala_TrainerBattleCamper_Text_2:
-	.string "There's a weird Totem further ahead but\n"
-	.string "I haven't seen a Totem Pokémon.$"
+	.string "Vorne steht ein seltsames Totem,\n"
+	.string "aber ein Herrscher-Pokémon habe\l"
+	.string "ich nicht gesehen.$"
 
 Alola_Akala_TrainerBattleSwimmerLand_Text_0:
 	.string "Hey! Keine Schuhe am Strand!$"

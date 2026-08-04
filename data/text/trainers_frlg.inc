@@ -55,8 +55,8 @@ Route6_Text_JeffRematchIntro::
 	.string "Du möchtest erneut mit mir kommen?$"
 
 Route6_Text_IsabelleRematchIntro::
-	.string "Me?\n"
-	.string "Well, okay. I'll play this once.$"
+	.string "Kämpfen? Meinst du mich?\n"
+	.string "Na gut!$"
 
 Route6_Text_ElijahRematchIntro::
 	.string "Heh, lange nicht gesehen!\n"
@@ -67,8 +67,8 @@ Route8_Text_AidanRematchIntro::
 	.string "Doch wie sieht es mit Chemie aus?$"
 
 Route8_Text_StanRematchIntro::
-	.string "All right!\n"
-	.string "Let's play another game!$"
+	.string "O.K.!\n"
+	.string "Die Spiele mögen beginnen!$"
 
 Route8_Text_GlennRematchIntro::
 	.string "Um zu gewinnen, benötigst du eine\n"
@@ -137,8 +137,8 @@ Route9_Text_CaitlinRematchIntro::
 	.string "Heute meinen wir es ernst!$"
 
 Route9_Text_JeremyRematchIntro::
-	.string "Bwahaha!\n"
-	.string "Great! I was bored again, eh!$"
+	.string "Endlich kommt jemand!\n"
+	.string "Mir war richtig langweilig!$"
 
 Route9_Text_BriceRematchIntro::
 	.string "Du hast keine Chance, Kiddie!$"
@@ -153,7 +153,8 @@ Route9_Text_AlanRematchIntro::
 	.string "Dieses Mal werde ich gewinnen!$"
 
 Route9_Text_ConnerRematchIntro::
-	.string "Go win, my super Bug Pokémon!$"
+	.string "Du hast keine Chance gegen meine\n"
+	.string "Käfer-Pokémon!$"
 
 Route10_Text_MarkRematchIntro::
 	.string "Wow, du bist zurück? Vielleicht\n"
@@ -220,7 +221,8 @@ Route11_Text_YasuRematchIntro::
 	.string "Ich trainiere Tag und Nacht!$"
 
 Route11_Text_BernieRematchIntro::
-	.string "Keep your eyes out for live wires!$"
+	.string "Nimm dich vor Hochspannung in\n"
+	.string "Acht!$"
 
 Route11_Text_DaveRematchIntro::
 	.string "Meine Pokémon müssten bereit sein!\n"
@@ -338,8 +340,8 @@ Route14_Text_DonaldRematchIntro::
 	.string "Du hast davon gehört, oder?$"
 
 Route14_Text_BennyRematchIntro::
-	.string "I'm really not into it, but okay.\n"
-	.string "Let's go!$"
+	.string "Ich will nicht unbedingt, aber lass\n"
+	.string "uns dennoch kämpfen!$"
 
 Route14_Text_LukasRematchIntro::
 	.string "Heh, ich kenne dich!\p"
@@ -427,8 +429,8 @@ Route16_Text_LaoRematchIntro::
 	.string "Was willst du?$"
 
 Route16_Text_KojiRematchIntro::
-	.string "Nice Bike!\n"
-	.string "Hand it over quick!$"
+	.string "Du besitzt ein schönes Fahrrad!\n"
+	.string "Her damit!$"
 
 Route16_Text_LukeRematchIntro::
 	.string "Komm lass uns spielen,\n"
@@ -493,8 +495,8 @@ Route17_Text_JaxonRematchIntro::
 	.string "Fährt es sich gut?$"
 
 Route17_Text_WilliamRematchIntro::
-	.string "Get lost, kid!\n"
-	.string "I'm bushed!$"
+	.string "Zieh Leine!\n"
+	.string "Ich bin erschöpft!$"
 
 Route18_Text_WiltonRematchIntro::
 	.string "Ich suche in jeder neuen Wiese,\n"
@@ -595,7 +597,8 @@ Route20_Text_DarrinRematchIntro::
 	.string "Kannst du noch nicht schwimmen?$"
 
 Route20_Text_RogerRematchIntro::
-	.string "I rode my bird Pokémon here.$"
+	.string "Mein Vogel-Pokémon hat mich\n"
+	.string "hierher getragen!$"
 
 Route20_Text_NoraRematchIntro::
 	.string "Mein Freund hat mir große Perlen\n"
@@ -603,8 +606,8 @@ Route20_Text_NoraRematchIntro::
 	.string "größer geworden!$"
 
 Route20_Text_MissyRematchIntro::
-	.string "I swam here from Cinnabar Island.\n"
-	.string "It wasn't easy, like I said.$"
+	.string "Ich bin von der Zinnoberinsel\n"
+	.string "herübergeschwommen!$"
 
 Route20_Text_MelissaRematchIntro::
 	.string "Auf der Zinnoberinsel befindet\n"
@@ -682,8 +685,9 @@ Route25_Text_ChadRematchIntro::
 	.string "miteinander kämpfen würden!$"
 
 Route25_Text_HaleyRematchIntro::
-	.string "My friend has many cute Pokémon.\n"
-	.string "I'm so jealous!$"
+	.string "Meine Freundin hat so ein süßes\n"
+	.string "Pokémon! Ich bin furchtbar\l"
+	.string "neidisch!$"
 
 Route25_Text_FranklinRematchIntro::
 	.string "Ich habe auf dem Mondberg\n"
@@ -955,7 +959,7 @@ SixIsland_RuinValley_Text_HectorRematchIntro::
 	.string "recht gut aus!$"
 
 SevenIsland_TrainerTower_Text_DarioRematchIntro::
-	.string "I sensed your approach.$"
+	.string "Ich spürte, dass du kommst!$"
 
 SevenIsland_TrainerTower_Text_RodetteRematchIntro::
 	.string "Irgendwo auf dieser Insel schlafen\n"

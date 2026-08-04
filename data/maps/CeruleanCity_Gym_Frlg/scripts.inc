@@ -100,8 +100,8 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
 	.string "noch meine Lieblings-TM!$"
 
 CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
-	.string "{PLAYER} received TM03\n"
-	.string "from Misty.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM03!$"
 
 CeruleanCity_Gym_Text_BetterMakeRoomForThis::
 	.string "Du hast momentan keinen Platz für\n"

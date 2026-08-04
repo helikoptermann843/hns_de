@@ -30,8 +30,8 @@ SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
 	.string "Du suchst dies hier, oder?$"
 
 SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
-	.string "{PLAYER} received TM29\n"
-	.string "from Mr. Psychic.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM29!$"
 
 SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
 	.string "TM29 ist Psychokinese!\p"

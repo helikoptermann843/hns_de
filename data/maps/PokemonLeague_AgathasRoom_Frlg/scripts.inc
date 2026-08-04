@@ -102,7 +102,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
 	.string "seinen Pokédex! Aber Pokémon\l"
 	.string "wollen ja kämpfen!\p"
 	.string "{PLAYER}! Ich zeige dir, wie ein\n"
-	.string "richtiger Trainer kämpft!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "richtiger Trainer kämpft!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_RematchIntro::
 	.string "Ich bin Agathe aus dem Team der\n"
@@ -118,11 +118,11 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
 	.string "seinen Pokédex! Aber Pokémon\l"
 	.string "wollen ja kämpfen!\p"
 	.string "{PLAYER}! Ich zeige dir, wie ein\n"
-	.string "richtiger Trainer kämpft!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "richtiger Trainer kämpft!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_AgathasRoom_Text_Defeat::
-	.string "Oh, my!\n"
-	.string "You're something special, child!$"
+	.string "Wirklich!\n"
+	.string "Du bist ein ganz besonderes Kind!$"
 
 PokemonLeague_AgathasRoom_Text_PostBattle::
 	.string "Du hast gewonnen!\p"

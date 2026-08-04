@@ -94,7 +94,7 @@ ViridianCity_Mart_Text_TakeThisToProfOak::
 
 ViridianCity_Mart_Text_ReceivedOaksParcelFromClerk::
 	.string "{PLAYER} erhält\n"
-	.string "EICHs Paket!$"
+	.string "Eichs Paket!$"
 
 ViridianCity_Mart_Text_SayHiToOakForMe::
 	.string "O.K.! Grüße Prof. Eich von mir!$"

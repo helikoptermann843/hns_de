@@ -64,11 +64,11 @@ FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
 	.string "weiteres Passwort benötigt!$"
 
 FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
-	.string "{PLAYER} entered two passwords.\p"
-	.string "“Goldeen need log.”\n"
-	.string "“Yes, nah, Chansey.”\p"
+	.string "{PLAYER} gab zwei Passwörter ein.\p"
+	.string "“Arbok Kobra”\n"
+	.string "“Makuhita Atihu kam”\p"
 	.string "… …  … …  … …\p"
-	.string "The Warehouse's door opened!$"
+	.string "Die Türe zum Lager ist offen!$"
 
 FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
 	.string "Die Türe zum Lager ist bereits\n"

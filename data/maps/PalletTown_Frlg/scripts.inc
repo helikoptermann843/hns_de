@@ -449,8 +449,8 @@ PalletTown_EventScript_SignLadyStartShowSign::
 	end
 
 PalletTown_Text_OakDontGoOut::
-	.string "Oak: Hey! Wait!\n"
-	.string "Don't go out!$"
+	.string "Eich: Warte!\n"
+	.string "Geh nicht raus!$"
 
 PalletTown_Text_OakGrassUnsafeNeedMon::
 	.string "Prof. Eich: Draußen ist es\n"
@@ -526,10 +526,10 @@ PalletTown_Text_HmmIsThatRight::
 
 PalletTown_Text_OhLookLook::
 	.string "Oh!\n"
-	.string "Look, look!$"
+	.string "Sieh mal, sieh!$"
 
 PalletTown_Text_ReadItReadIt::
-	.string "Read it, read it!$"
+	.string "Lies es! Lies es!$"
 
 @ Used by sign
 PalletTown_Text_PressStartToOpenMenu::

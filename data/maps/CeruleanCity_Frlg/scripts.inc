@@ -367,9 +367,7 @@ CeruleanCity_Text_RivalIntro::
 	.string "{PLAYER}!$"
 
 CeruleanCity_Text_RivalDefeat::
-	.string "Hey!\n"
-	.string "Take it easy!\l"
-	.string "You won already!$"
+	.string "Heh, schon gut! Du hast gewonnen!$"
 
 CeruleanCity_Text_RivalPostBattle::
 	.string "{RIVAL}: Soll ich dir was\n"
@@ -411,16 +409,16 @@ CeruleanCity_Text_GruntIntro::
 	.string "Glaubst du mir etwa nicht?$"
 
 CeruleanCity_Text_GruntDefeat::
-	.string "Grunt: Stop! I give up!\n"
-	.string "I'll leave quietly!$"
+	.string "Rüpel: Ist gut!\n"
+	.string "Ich gebe auf! Ich verschwinde!$"
 
 CeruleanCity_Text_OkayIllReturnStolenTM::
 	.string "O.K.! Ich gebe die gestohlene TM\n"
 	.string "zurück!$"
 
 CeruleanCity_Text_RecoveredTM28FromGrunt::
-	.string "{PLAYER} recovered TM28 from\n"
-	.string "the Team Rocket Grunt.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM28!$"
 
 CeruleanCity_Text_BetterGetMovingBye::
 	.string "Ich gehe wohl besser!\n"

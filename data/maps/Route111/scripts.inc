@@ -566,7 +566,8 @@ Route111_EventScript_TrainerHillSign::
 	end
 
 Route111_Text_BattleOurFamily:
-	.string "Hallo! Ich hab’s, du bist ein Reisender.\p"
+	.string "Hallo! Ich hab’s, du bist ein\n"
+	.string "Reisender. \p"
 	.string "Was hältst du davon? Du trittst mit\n"
 	.string "deinen Pokémon gegen alle vier\l"
 	.string "Familienmitglieder hintereinander an?$"
@@ -617,7 +618,8 @@ Route111_Text_ViviPostBattle:
 Route111_Text_VickyIntro:
 	.string "Wie konntest du nur meine Enkelin zum\n"
 	.string "Weinen bringen? Schäm dich!\p"
-	.string "Dafür werde ich dich in Grund und Boden\n"
+	.string "Dafür werde ich dich in Grund und\n"
+	.string "Boden\l"
 	.string "stampfen. Mach dich auf was gefasst!$"
 
 Route111_Text_VickyDefeat:

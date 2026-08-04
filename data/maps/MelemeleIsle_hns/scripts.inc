@@ -708,15 +708,15 @@ Alola_Melemele_TotemBattle_Text_0:
 	.string "Leee!$"
 
 Alola_Melemele_TotemBattle_Text_1:
-	.string "Totem Leafeon was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Folipurba wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Melemele_TotemBattle_Text_2:
 	.string "Thhhh!$"
 
 Alola_Melemele_TotemBattle_Text_3:
-	.string "Totem Raticate was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Rattikarl wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Melemele_Totem_sign_Text_0:
 	.string "Das Totem strahlt eine starke\n"

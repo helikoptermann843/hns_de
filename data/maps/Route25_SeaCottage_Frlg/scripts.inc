@@ -357,8 +357,8 @@ Route25_SeaCottage_Text_ThanksLadyTakeThis::
 	.string "Nimm einfach das hier...$"
 
 Route25_SeaCottage_Text_ReceivedSSTicketFromBill::
-	.string "{PLAYER} received an S.S. Ticket\n"
-	.string "from Bill.$"
+	.string "{PLAYER} erhält\n"
+	.string "ein Bootsticket!$"
 
 Route25_SeaCottage_Text_YouveGotTooMuchStuff::
 	.string "Heh Kiddie! Du trägst zu viel mit\n"

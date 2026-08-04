@@ -130,8 +130,8 @@ RocketHideout_B4F_Text_GiovanniIntro::
 	.string "erleiden, Wicht!$"
 
 RocketHideout_B4F_Text_GiovanniDefeat::
-	.string "What!\n"
-	.string "This can't be!$"
+	.string "Nein!\n"
+	.string "Ich habe kläglich versagt!$"
 
 RocketHideout_B4F_Text_GiovanniPostBattle::
 	.string "Offensichtlich trainierst du deine\n"

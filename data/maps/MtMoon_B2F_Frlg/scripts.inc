@@ -134,13 +134,13 @@ MtMoon_B2F_EventScript_Grunt4::
 	end
 
 MtMoon_B2F_Text_MiguelIntro::
-	.string "Hey, stop!\p"
-	.string "I found these fossils!\n"
-	.string "They're both mine!$"
+	.string "Stopp! Hände weg!\p"
+	.string "Wer zuerst kommt, mahlt zuerst!\n"
+	.string "Die Fossilien gehören mir!$"
 
 MtMoon_B2F_Text_MiguelDefeat::
-	.string "Okay!\n"
-	.string "I'll share!$"
+	.string "Na gut!\n"
+	.string "Ich gebe dir eines ab!$"
 
 MtMoon_B2F_Text_WellEachTakeAFossil::
 	.string "Heh, nicht so gierig!\n"

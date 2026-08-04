@@ -196,7 +196,7 @@ gOakSpeech_Text_WelcomeToTheWorld::
 	.string "Professor!\p$"
 
 gOakSpeech_Text_ThisWorld::
-	.string "This world…$"
+	.string "Diese Welt wird von Wesen bewohnt,\n$"
 
 gOakSpeech_Text_IsInhabitedFarAndWide::
 	.string "die man Pokémon nennt!\p"
@@ -230,10 +230,11 @@ gOakSpeech_Text_WhatWasHisName::
 	.string "Name?$"
 
 gOakSpeech_Text_YourRivalsNameWhatWasIt::
-	.string "Your rival's name, what was it now?$"
+	.string "Wie war der Name deines Rivalen\n"
+	.string "gleich noch?$"
 
 gOakSpeech_Text_ConfirmRivalName::
-	.string "…Er, was it {RIVAL}?$"
+	.string "… ah, war es {RIVAL}?$"
 
 gOakSpeech_Text_RememberRivalsName::
 	.string "{RIVAL}! Stimmt!\n"

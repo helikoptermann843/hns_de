@@ -45,8 +45,9 @@ Alola_Melemele_Pokecenter_BugCatcher_Movement_0:
 	step_end
 
 Alola_Melemele_Pokecenter_AceTrainer_Text_0:
-	.string "There are so many unique Pokémon here!\n"
-	.string "I'm gonna catch 'em all!$"
+	.string "Hier gibt es jede Menge einzigartige\n"
+	.string "Pokémon!\p"
+	.string "Ich fange sie alle!$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
 	.string "Ich habe hier auf den Inseln ganz\n"

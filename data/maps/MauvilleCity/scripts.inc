@@ -485,7 +485,8 @@ MauvilleCity_Text_WallyWeCanBeatAnyone:
 MauvilleCity_Text_WallyWillYouBattleMe:
 	.string "Heiko: Oh! Hi {PLAYER}!\p"
 	.string "Seit wir uns das letzte Mal gesehen\n"
-	.string "haben, bin ich viel stärker geworden.\p"
+	.string "haben, bin ich viel stärker geworden.\n"
+	.string "\p"
 	.string "{PLAYER}, ich möchte von dir und auch\n"
 	.string "von meinem Onkel verstanden werden.\p"
 	.string "{PLAYER}, bitte, würdest du gegen mich\n"
@@ -532,8 +533,8 @@ MauvilleCity_Text_ThankYouNotEnoughToBattle:
 	.string "Trainer zu sein, braucht es mehr.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
-	.string "Onkel: Heiko, du brauchst deshalb nicht\n"
-	.string "so niedergeschlagen zu sein.\p"
+	.string "Onkel: Heiko, du brauchst deshalb\n"
+	.string "nicht so niedergeschlagen zu sein.\p"
 	.string "Was hält dich davon ab, stärker und\n"
 	.string "stärker zu werden? Nichts!\p"
 	.string "Komm, gehen wir nach Hause.\n"
@@ -674,13 +675,15 @@ MauvilleCity_Text_GameCornerSign:
 MauvilleCity_Text_ExplainTV:
 	.string "Hi, hast du in letzter Zeit\n"
 	.string "ferngesehen?\p"
-	.string "Da gibt es jetzt jede Menge coole, neue\n"
-	.string "Shows.\p"
+	.string "Da gibt es jetzt jede Menge coole,\n"
+	.string "neue Shows.\p"
 	.string "Fernsehen ist so cool. Plötzlich habe\n"
-	.string "ich meine Freunde im Fernsehen gesehen.\p"
+	.string "ich meine Freunde im Fernsehen\n"
+	.string "gesehen. \p"
 	.string "Und manchmal, da zeigen sie dich im\n"
 	.string "Fernsehen und du weißt es gar nicht.\p"
-	.string "Ich möchte auch mal im Fernsehen sein.\p"
+	.string "Ich möchte auch mal im Fernsehen sein.\n"
+	.string "\p"
 	.string "Du solltest immer mal wieder den\n"
 	.string "Fernseher einschalten…$"
 

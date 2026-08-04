@@ -1449,9 +1449,10 @@ PetalburgCity_Gym_Text_GeorgePostBadge:
 
 PetalburgCity_Gym_Text_BerkeIntro:
 	.string "Ich werde es dir nicht leicht machen,\n"
-	.string "nur weil du das Kind unseres LEITERs\l"
+	.string "nur weil du das Kind unseres Leiters\l"
 	.string "bist.\p"
-	.string "Ich werde dir beibringen, was es für ein\n"
+	.string "Ich werde dir beibringen, was es für\n"
+	.string "ein\n"
 	.string "Pokémon bedeutet, einen Volltreffer\l"
 	.string "zu erhalten.$"
 
@@ -1605,7 +1606,8 @@ PetalburgCity_Gym_Text_NormanPreRematch:
 	.string "Du verstehst, was ich meine?\p"
 	.string "In einer Arena ist es ohne Bedeutung,\n"
 	.string "dass du mein Kind bist.\p"
-	.string "Im Gegenteil, da wir Vater und Kind sind,\n"
+	.string "Im Gegenteil, da wir Vater und Kind\n"
+	.string "sind,\n"
 	.string "müssen wir beide unser Bestes geben.\l"
 	.string "Meinst du nicht auch, {PLAYER}?$"
 

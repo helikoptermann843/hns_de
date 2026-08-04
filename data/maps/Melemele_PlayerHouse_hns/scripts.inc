@@ -660,7 +660,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_15:
 	.string "Not right now.$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_16:
-	.string "Let me take a look at your Pokédex{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.$"
+	.string "Zeig mir mal deinen Pokédex{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_17:
 	.string "Wow, {PLAYER}!$"

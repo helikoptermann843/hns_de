@@ -205,8 +205,8 @@ CableClub_Text_CanMixRecords::
 	.string "Spielern können getauscht werden.$"
 
 CableClub_Text_GuideToVariousServices:
-	.string "A guide to the Wireless Club’s\n"
-	.string "various services.$"
+	.string "Ein Ratgeber zu den Diensten\n"
+	.string "des Konnex-Klubs.$"
 
 CableClub_Text_CancelSelectedItem::
 	.string "Widerruft das Menü.$"

@@ -306,8 +306,7 @@ SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "Ich werde das Ding schon schaukeln!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
-	.string "Was?!?\n"
-	.string "Ich habe auch verloren?!?$"
+	.string "Was?!? Ich habe auch verloren?!?$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
 	.string "Und nun? Wenn wir die Stücke nicht\n"
@@ -318,8 +317,10 @@ SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
 	.string "nervt.$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
-	.string "Ich bin gekommen, um zu sehen, warum ihr\n"
-	.string "so lange braucht. Und was sehe ich? Ihr\l"
+	.string "Ich bin gekommen, um zu sehen, warum\l"
+	.string "ihr\n"
+	.string "so lange braucht. Und was sehe ich?\p"
+	.string "Ihr\l"
 	.string "Idioten lasst euch von einem kleinen\l"
 	.string "Kind die Suppe versalzen!$"
 

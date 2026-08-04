@@ -234,8 +234,8 @@ BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal:
 BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing:
 	.string "Aber lassen wir die Vergangenheit\n"
 	.string "ruhen.\p"
-	.string "Alles, was ich mir wünsche ist, dass du\n"
-	.string "die Kämpfe hier aus vollem Herzen\l"
+	.string "Alles, was ich mir wünsche ist, dass\n"
+	.string "du die Kämpfe hier aus vollem Herzen\l"
 	.string "genießt.\p"
 	.string "{PLAYER}{KUN}! Ich möchte dir dies als\n"
 	.string "Andenken geben. Es soll dich daran er-\l"
@@ -261,14 +261,15 @@ BattleFrontier_ScottsHouse_Text_ExpectingGreatThings:
 
 BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers:
 	.string "Scott: Jeder Trainer ist ein\n"
-	.string "Individuum. Sie leben alle ihr Leben.\p"
+	.string "Individuum. Sie leben alle ihr Leben.\n"
+	.string "\p"
 	.string "Aber in Kämpfen ist es völlig egal,\n"
 	.string "wer oder was sie sind.\p"
 	.string "Sie sind alle gleich!\p"
 	.string "Ich liebe die Reinheit der Kämpfe, in\n"
 	.string "denen jeder gleich ist.\p"
 	.string "Deshalb bin ich immer auf der Suche\n"
-	.string "nach TRAINERn, die ihre Sache ernst\l"
+	.string "nach Trainern, die ihre Sache ernst\l"
 	.string "nehmen, und lade sie hierher ein.$"
 
 BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
@@ -283,10 +284,10 @@ BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain:
 	.string "sie zum Zittern bringen!$"
 
 BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier:
-	.string "Scott: Du trainierst doch nicht nur für\n"
-	.string "Kämpfe, oder?\p"
-	.string "Ich meine mich zu erinnern, dass du auch\n"
-	.string "an deinem Pokédex arbeitest?\p"
+	.string "Scott: Du trainierst doch nicht nur\n"
+	.string "für Kämpfe, oder?\p"
+	.string "Ich meine mich zu erinnern, dass du\n"
+	.string "auch an deinem Pokédex arbeitest?\p"
 	.string "Soll ich dir was verraten?\p"
 	.string "Auch hier in der Kampfzone wirst\n"
 	.string "du auf wilde Pokémon treffen…\l"

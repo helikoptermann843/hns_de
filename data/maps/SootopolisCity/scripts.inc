@@ -1611,7 +1611,8 @@ SootopolisCity_Text_AfterAllOurScheming:
 
 SootopolisCity_Text_KyogreCalmDown:
 	.string "Adrian: Kyogre! Was ist los?!?\n"
-	.string "Schau hierher! Dies ist die Rote Kugel!\l"
+	.string "Schau hierher! Dies ist die rote\n"
+	.string "Kugel!\l"
 	.string "Beruhige dich! Kyogre!\p"
 	.string "… … … … …\n"
 	.string "…\l"
@@ -1625,8 +1626,7 @@ SootopolisCity_Text_TryingMeaninglessToPokemon:
 	.string "weiß wohin geflohen.\p"
 	.string "Das Klima in Hoenn hat sich wieder\n"
 	.string "normalisiert…\p"
-	.string "Haha…\n"
-	.string "Hahahahahaha…\p"
+	.string "Haha… Hahahahahaha…\p"
 	.string "Vielleicht war das, was wir vorhatten,\n"
 	.string "bedeutungslos für die Pokémon…$"
 

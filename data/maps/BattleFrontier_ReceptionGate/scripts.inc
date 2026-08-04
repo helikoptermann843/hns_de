@@ -319,8 +319,8 @@ BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass:
 	.string "zum Kampfzonenpass.$"
 
 BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier:
-	.string "Wir hoffen, dir gefällt, was die Kampf-\n"
-	.string "Zone zu bieten hat.$"
+	.string "Wir hoffen, dir gefällt, was die\n"
+	.string "Kampf- Zone zu bieten hat.$"
 
 BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame:
 	.string "???: Oh, wenn das nicht {PLAYER}{KUN}\n"

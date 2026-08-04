@@ -140,8 +140,7 @@ RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
 	.string "Och, du kennst keine guten Sprüche?\n"
 	.string "Dann muss ich mir wohl selbst was\l"
 	.string "einfallen lassen.\p"
-	.string "Hmm…\n"
-	.string "Wie wäre es mit “{STR_VAR_1}”?\l"
+	.string "Hmm… Wie wäre es mit “{STR_VAR_1}”?\l"
 	.string "Mal sehen, ob das wirkt.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
@@ -167,8 +166,8 @@ RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
 	.string "Devon Corporation.\p"
 	.string "Ich würde dir gerne etwas zum Dank\n"
 	.string "schenken.\p"
-	.string "Da fällt mir was ein! Ich werde dir für\n"
-	.string "die BOXen in deinem Pokémon-\p"
+	.string "Da fällt mir was ein! Ich werde dir\n"
+	.string "für die Boxen in deinem Pokémon-\p"
 	.string "Lagerungs-System ein neues\n"
 	.string "Hintergrund-Muster schenken!\p"
 	.string "Wenn du dich dort im Menü befindest,\n"

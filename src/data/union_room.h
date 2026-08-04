@@ -212,7 +212,7 @@ static const u8 *const sPlayerContactedYouTexts[] = {
     sText_PlayerHasContactedYou
 };
 
-ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Warten auf eine Antwort\ndes anderen TRAINERs…");
+ALIGNED(4) static const u8 sText_AwaitingResponseFromTrainer[] = _("Warten auf eine Antwort\ndes anderen Trainers…");
 ALIGNED(4) static const u8 sText_AwaitingResponseFromPlayer[] = _("Warten auf eine Antwort\nvon {STR_VAR_1}…");
 
 static const u8 *const sAwaitingResponseTexts[] = {
@@ -471,7 +471,7 @@ ALIGNED(4) static const u8 sText_ChooseTrainerSingleBattle[] = _("Wähle einen T
 ALIGNED(4) static const u8 sText_ChooseTrainerDoubleBattle[] = _("Wähle einen Trainer für\neinen Doppelkampf aus.");
 ALIGNED(4) static const u8 sText_ChooseLeaderMultiBattle[] = _("Wähle einen Leiter\nfür einen Multikampf aus.");
 ALIGNED(4) static const u8 sText_ChooseTrainerToTradeWith[] = _("Wähle einen Trainer zum\nTauschen aus.");
-ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderCards[] = _("Wähle einen Trainer, der\nWUNDERKARTEn teilt, aus.");
+ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderCards[] = _("Wähle einen Trainer, der\nWunderkarten teilt, aus.");
 ALIGNED(4) static const u8 sText_ChooseTrainerToShareWonderNews[] = _("Wähle einen Trainer, der\nWundernews teilt, aus.");
 ALIGNED(4) static const u8 sText_ChooseLeaderPokemonJump[] = _("Springe mit kleinen Pokémon!\nWähle einen Leiter.");
 ALIGNED(4) static const u8 sText_ChooseLeaderBerryCrush[] = _("Beerenmühle!\nWähle einen Leiter!");
@@ -539,7 +539,7 @@ ALIGNED(4) static const u8 sText_MultiBattle[] = _("Multikampf");
 ALIGNED(4) static const u8 sText_PokemonTrades[] = _("Pokémon-Tausch");
 ALIGNED(4) static const u8 sText_Chat[] = _("Chat");
 ALIGNED(4) static const u8 sText_Cards[] = _("Karten");
-ALIGNED(4) static const u8 sText_WonderCards[] = _("WUNDERKARTEn");
+ALIGNED(4) static const u8 sText_WonderCards[] = _("Wunderkarten");
 ALIGNED(4) static const u8 sText_WonderNews[] = _("Wundernews");
 ALIGNED(4) static const u8 sText_PokemonJump[] = _("Pokémon-Sprung");
 ALIGNED(4) static const u8 sText_BerryCrush[] = _("Beerenmühle");

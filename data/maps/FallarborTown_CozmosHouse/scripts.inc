@@ -73,12 +73,11 @@ FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
 	.string "Nun wird er niemals mir gehören…$"
 
 FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
-	.string "Oh!\n"
-	.string "Oooh?\p"
+	.string "Oh! Oooh?\p"
 	.string "Dieses Item…\p"
 	.string "Kann es sein?\p"
 	.string "Ist das der Meteorit, den Team Magma\n"
-	.string "aus den METEORFÄLLEn entwendet hat?\p"
+	.string "aus den Meteorfällen entwendet hat?\p"
 	.string "Bitte, darf ich den haben?\p"
 	.string "Du bekommst auch etwas dafür.\n"
 	.string "Was hältst du von dieser TM?$"

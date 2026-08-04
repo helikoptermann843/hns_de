@@ -1285,8 +1285,8 @@ CableClub_Text_CantTradeEnigmaBerry_Frlg::
 	.string "hält, kann nicht getauscht werden.$"
 
 CableClub_Text_PleaseWaitBCancel_Frlg::
-	.string "Please wait.\n"
-	.string "… … B Button: Cancel$"
+	.string "Bitte warten. Drücke den B-Knopf,\n"
+	.string "um abzubrechen...$"
 
 CableClub_Text_WhenAllPlayersReadyAConfirmBCancel_Frlg::
 	.string "Wenn die Spieler bereit sind…\n"
@@ -1308,7 +1308,7 @@ CableClub_Text_OkayToSaveProgress_Frlg::
 	.string "かきますが　よろしいですか？$"
 
 CableClub_Text_PleaseEnter_Frlg::
-	.string "Please enter.$"
+	.string "Bitte eintreten.$"
 
 CableClub_Text_DirectYouToYourRoom_Frlg::
 	.string "Bitte eintreten.$"
@@ -1330,7 +1330,7 @@ CableClub_Text_PlayersMadeDifferentSelections_Frlg::
 	.string "schiedliche Auswahl getroffen.$"
 
 CableClub_Text_PleaseVisitAgain_Frlg::
-	.string "Please do visit again.$"
+	.string "Bitte komm bald wieder.$"
 
 CableClub_Text_IncorrectNumberOfParticipants_Frlg::
 	.string "Die Anzahl der Teilnehmer ist nicht\n"
@@ -1525,7 +1525,7 @@ Text_WelcomeCanYouWait_Frlg::
 	.string "Bitte gedulde dich noch ein wenig!$"
 
 CableClub_Text_ComeAgain_Frlg::
-	.string "All right, come again!$"
+	.string "In Ordnung! Komme wieder!$"
 
 Text_AdapterNotConnectedMinigame_Frlg::
 	.string "Der Drahtlose Game Boy\n"

@@ -11,8 +11,8 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "Was ist so lustig daran, dass ich meinen\n"
-	.string "Schwimmreifen mit an Bord habe?$"
+	.string "Was ist so lustig daran, dass ich\n"
+	.string "meinen Schwimmreifen mit an Bord habe?$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
 	.string "Hui, du hast mir die Luft\n"

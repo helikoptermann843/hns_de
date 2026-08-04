@@ -287,10 +287,10 @@ DewfordTown_Hall_Text_MyHunchWasRight:
 	.string "Bemühungen, hip und aufregend zu sein!$"
 
 DewfordTown_Hall_Text_NotEasyToKeepUp:
-	.string "Was?!?\n"
-	.string "Wirklich?!?\p"
+	.string "Was?!? Wirklich?!?\p"
 	.string "Für einen alten Menschen ist es gar\n"
-	.string "nicht so leicht, mit der Mode zu gehen!$"
+	.string "nicht so leicht, mit der Mode zu\l"
+	.string "gehen!$"
 
 DewfordTown_Hall_Text_TVShowAboutTrend:
 	.string "Diese ganze Sache mit\n"
@@ -348,7 +348,8 @@ DewfordTown_Hall_Text_BirthOfTrend:
 DewfordTown_Hall_Text_SawTrendCoolestThing:
 	.string "Ich habe “{STR_VAR_1}”\n"
 	.string "gesehen! Cool, was?\p"
-	.string "Das Coolste überhaupt, würde ich sagen!\p"
+	.string "Das Coolste überhaupt, würde ich\n"
+	.string "sagen! \p"
 	.string "Es war unglaublich!\n"
 	.string "Das war das absolut Wahre, oh yeah!$"
 
@@ -371,10 +372,8 @@ DewfordTown_Hall_Text_ComposedTrendThemeSong:
 	.string "ist gerade sehr populär.\p"
 	.string "Okay, hör zu!\n"
 	.string "… …\p"
-	.string "Oh!\n"
-	.string "{STR_VAR_1}!\p"
-	.string "Wundervolles\n"
-	.string "{STR_VAR_1}!$"
+	.string "Oh! {STR_VAR_1}!\p"
+	.string "Wundervolles {STR_VAR_1}!$"
 
 DewfordTown_Hall_Text_WorkOnYourSinging:
 	.string "… …\p"
@@ -391,8 +390,8 @@ DewfordTown_Hall_Text_OrganizeTrendParty:
 
 DewfordTown_Hall_Text_BrilliantIndeed:
 	.string "Oh, was für eine gute Idee!\p"
-	.string "Nun stellen wir ein für alle Mal fest, wer\n"
-	.string "der Beste in\l"
+	.string "Nun stellen wir ein für alle Mal fest,\n"
+	.string "wer der Beste in\l"
 	.string "“{STR_VAR_1}” ist.\l"
 	.string "Brillant, wirklich!\p"
 	.string "Von heute an dreht sich unser Leben\n"

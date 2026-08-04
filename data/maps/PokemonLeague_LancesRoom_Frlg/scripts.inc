@@ -178,7 +178,7 @@ PokemonLeague_LancesRoom_Text_Intro::
 	.string "Bist du bereit, dem Schicksal ins\n"
 	.string "Auge zu blicken?\p"
 	.string "Für dich endet der Ausflug in die\n"
-	.string "Pokémon Liga hier, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Pokémon Liga hier, {PLAYER}!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LancesRoom_Text_RematchIntro::
 	.string "Ah!\n"
@@ -195,7 +195,7 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
 	.string "Bist du bereit, dem Schicksal ins\n"
 	.string "Auge zu blicken?\p"
 	.string "Für dich endet der Ausflug in die\n"
-	.string "Pokémon Liga hier, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Pokémon Liga hier, {PLAYER}!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LancesRoom_Text_Defeat::
 	.string "Es ist vorbei!\p"

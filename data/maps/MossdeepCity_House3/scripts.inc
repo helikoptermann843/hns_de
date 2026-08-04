@@ -43,8 +43,7 @@ MossdeepCity_House3_Text_TryDroppingRodInWater:
 	.string "Angel aus und schau, was anbeißt!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
-	.string "Was???\n"
-	.string "Liebst du das Angeln nicht?$"
+	.string "Was??? Liebst du das Angeln nicht?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
 	.string "Mit deiner Superangel kannst du die\n"

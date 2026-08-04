@@ -319,8 +319,8 @@ Alola_Poni_TotemBattle_Text_0:
 	.string "Buzz!!$"
 
 Alola_Poni_TotemBattle_Text_1:
-	.string "Totem Tropius was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Tropius wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Poni_Totem_sign_Text_0:
 	.string "Das Totem strahlt eine starke\n"
@@ -348,7 +348,7 @@ Alola_Poni_BattleVsTapuFini_Text_0:
 	.string "Fiiin!$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_0:
-	.string "Warmer water, no problem!$"
+	.string "Warmes Wasser? Kein Problem!$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_1:
 	.string "Mist, ich habe meine Sonnencreme\nvergessen…$"
@@ -362,7 +362,7 @@ Alola_Poni_TrainerBattleSwimmer2_Text_0:
 	.string "Hey, blockier nicht meine\nStrömung!$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_1:
-	.string "Ugh, fine,\njust let me swim…$"
+	.string "Na schön,\nlass mich einfach schwimmen…$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_2:
 	.string "Die Strömung eignet sich super zum\n"

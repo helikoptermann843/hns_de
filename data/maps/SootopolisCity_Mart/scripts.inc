@@ -58,10 +58,9 @@ SootopolisCity_Mart_Text_PPUpIsGreat:
 	.string "AP, einer Pokémon-Attacke.$"
 
 SootopolisCity_Mart_Text_TooScaryOutside:
-	.string "Was…\n"
-	.string "Was ist passiert?\p"
-	.string "Das würde ich zu gerne wissen, aber ich\n"
-	.string "trau mich nicht nach draußen.$"
+	.string "Was… Was ist passiert?\p"
+	.string "Das würde ich zu gerne wissen, aber\n"
+	.string "ich trau mich nicht nach draußen.$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
 	.string "Kennst du Top-Genesung?\p"

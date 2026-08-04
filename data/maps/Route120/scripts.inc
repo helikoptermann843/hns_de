@@ -369,8 +369,8 @@ Route120_Text_StevenGreeting:
 	.string "Nein, nein. Statt es zu beschreiben,\n"
 	.string "zeige ich es dir lieber.\l"
 	.string "Das macht mehr Spaß.\p"
-	.string "{PLAYER}{KUN}, sind deine Pokémon bereit\n"
-	.string "für einen Kampf?$"
+	.string "{PLAYER}{KUN}, sind deine Pokémon\n"
+	.string "bereit für einen Kampf?$"
 
 Route120_Text_StevenIllWaitHere:
 	.string "Troy: Nein?\p"

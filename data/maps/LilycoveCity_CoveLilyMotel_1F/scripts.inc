@@ -99,8 +99,8 @@ LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
 	.string "Interessant! Du sagst, ein Pokémon\n"
 	.string "hat ein Item gefunden, das jemand ver-\l"
 	.string "loren hat?\p"
-	.string "Das ist ja was! Wenn wir auch so clevere\n"
-	.string "Pokémon hätten…\p"
+	.string "Das ist ja was! Wenn wir auch so\n"
+	.string "clevere Pokémon hätten…\p"
 	.string "Dann könnten wir alles wiederfinden,\n"
 	.string "was unsere Gäste verloren haben.$"
 

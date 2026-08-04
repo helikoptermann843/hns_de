@@ -574,8 +574,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
 	.string "Wie soll ich sagen…\n"
 	.string "Ich bin mal direkt: Du machst einen\l"
 	.string "ziemlich schwachen Eindruck!\p"
-	.string "Du willst wirklich gegen mich antreten?\n"
-	.string "Hmmm…\p"
+	.string "Du willst wirklich gegen mich\n"
+	.string "antreten? Hmmm…\p"
 	.string "Okay, na gut!\n"
 	.string "Wir können es ja langsam angehen.$"
 
@@ -610,8 +610,8 @@ BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "……… Bist du so weit?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "Halbherzigkeit kann ich nicht erlauben!\n"
-	.string "Mach dich auf was gefasst!!!$"
+	.string "Halbherzigkeit kann ich nicht\n"
+	.string "erlauben! Mach dich auf was gefasst!!!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
 	.string "Komm schon, Referee!\n"

@@ -399,7 +399,8 @@ DewfordTown_Gym_Text_BrawlyIntro:
 
 DewfordTown_Gym_Text_BrawlyDefeat:
 	.string "Huihuihui! Du hast eine größere Welle\n"
-	.string "produziert, als ich dir zugetraut hätte.\p"
+	.string "produziert, als ich dir zugetraut\n"
+	.string "hätte. \p"
 	.string "Du hast mich absaufen lassen!\p"
 	.string "Okay, du hast mich erwischt!\n"
 	.string "Nimm den Orden dieser Arena!$"

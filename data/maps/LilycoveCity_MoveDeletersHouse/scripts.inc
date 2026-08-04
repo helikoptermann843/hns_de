@@ -98,8 +98,7 @@ LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
 	.string "gibt, die vergessen werden sollen.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "Was?\n"
-	.string "Ein Ei kennt doch keine Attacken!$"
+	.string "Was? Ein Ei kennt doch keine Attacken!$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"

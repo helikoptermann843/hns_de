@@ -314,8 +314,8 @@ VermilionCity_Gym_Text_ExplainThunderBadgeTakeThis::
 	.string "Nimm das hier!$"
 
 VermilionCity_Gym_Text_ReceivedTM34FromLtSurge::
-	.string "{PLAYER} received TM34\n"
-	.string "from Lt. Surge.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM34!$"
 
 VermilionCity_Gym_Text_ExplainTM34::
 	.string "TM34 ist Schockwelle!\p"

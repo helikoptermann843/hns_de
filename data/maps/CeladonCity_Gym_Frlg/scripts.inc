@@ -118,8 +118,8 @@ CeladonCity_Gym_Text_ExplainRainbowBadgeTakeThis::
 	.string "Nimm bitte noch dieses Geschenk:$"
 
 CeladonCity_Gym_Text_ReceivedTM19FromErika::
-	.string "{PLAYER} received TM19\n"
-	.string "from Erika.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM19!$"
 
 CeladonCity_Gym_Text_ExplainTM19::
 	.string "TM19 ist Gigasauger.\p"

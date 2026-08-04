@@ -132,8 +132,8 @@ static void TossPokeblock(u8);
 
 static const u8 sText_StowCase[] = _("Stow CASE.");
 static const u8 sText_LvVar1[] = _("{LV}{STR_VAR_1}");
-static const u8 sText_ThrowAwayVar1[] = _("Throw away this\n{STR_VAR_1}?");
-static const u8 sText_Var1ThrownAway[] = _("The {STR_VAR_1}\nwas thrown away.");
+static const u8 sText_ThrowAwayVar1[] = _("{STR_VAR_1}\nwegwerfen?");
+static const u8 sText_Var1ThrownAway[] = _("{STR_VAR_1}\nwurde weggeworfen.");
 
 EWRAM_DATA static struct PokeblockSavedData sSavedPokeblockData = {0};
 EWRAM_DATA static struct PokeblockMenuStruct *sPokeblockMenu = NULL;

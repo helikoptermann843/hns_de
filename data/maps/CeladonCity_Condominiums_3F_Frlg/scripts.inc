@@ -74,9 +74,9 @@ CeladonCity_Condominiums_3F_Text_ImGameDesignerShowMeFinishedPokedex::
 	.string "Zeige ihn mir, wenn er komplett ist!$"
 
 CeladonCity_Condominiums_3F_Text_CompletedPokedexCongratulations::
-	.string "Wow! Excellent!\n"
-	.string "You completed your Pokédex!\l"
-	.string "Congratulations!\l"
+	.string "Wow! Fantastisch!\n"
+	.string "Dein Pokédex ist vollständig!\l"
+	.string "Herzlichen Glückwunsch!\l"
 	.string "…$"
 
 CeladonCity_Condominiums_3F_Text_ItsTheGameProgram::

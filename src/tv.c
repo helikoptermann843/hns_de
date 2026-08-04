@@ -193,7 +193,7 @@ static const u8 sText_VeryGood[] = _("Very good");
 static const u8 sText_Excellent[] = _("Excellent");
 static const u8 sText_SoSo[] = _("So-so");
 static const u8 sText_Bad[] = _("Bad");
-static const u8 sText_TheWorst[] = _("The worst");
+static const u8 sText_TheWorst[] = _("Ganz mies");
 
 static const u8 sText_Slots[] = _("SLOTS");
 static const u8 sText_Roulette[] = _("ROULETTE");

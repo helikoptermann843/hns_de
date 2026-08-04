@@ -442,7 +442,8 @@ PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
 	.string "unser laufendes Programm.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
-	.string "Mutter: {PLAYER}, hast du das gehört?!?\p"
+	.string "Mutter: {PLAYER}, hast du das\n"
+	.string "gehört?!? \p"
 	.string "Was hat der Sprecher gesagt? Welche\n"
 	.string "Farbe hat das Pokémon?$"
 

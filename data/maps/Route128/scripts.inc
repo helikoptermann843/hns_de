@@ -293,15 +293,15 @@ Route128_Text_StevenWholeWorldWillDrown:
 	.string "Von Xeneroville aus breitet sich eine\n"
 	.string "gigantische Regenwolke aus…\p"
 	.string "Was in aller Welt passiert da nur?\p"
-	.string "Aber wir sollten hier nicht die Zeit mit\n"
-	.string "Reden vertun…\p"
+	.string "Aber wir sollten hier nicht die Zeit\n"
+	.string "mit Reden vertun…\p"
 	.string "In Xeneroville bekommen wir\n"
 	.string "hoffentlich Antworten…$"
 
 Route128_Text_StevenImGoingToSootopolis:
 	.string "{PLAYER}{KUN}…\n"
-	.string "Ich weiß nicht, was du vorhast, aber tue\l"
+	.string "Ich weiß nicht, was du vorhast, aber\n"
+	.string "tue\l"
 	.string "nichts Unüberlegtes.\p"
-	.string "Okay.\n"
-	.string "Ich gehe nach Xeneroville.$"
+	.string "Okay. Ich gehe nach Xeneroville.$"
 

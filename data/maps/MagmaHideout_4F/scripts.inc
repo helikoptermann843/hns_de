@@ -203,10 +203,9 @@ MagmaHideout_4F_Text_MaxieAwakenGroudon:
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
 	.string "Marc: Groudon!\n"
 	.string "Was ist los?\p"
-	.string "Die Blaue Kugel ist doch der Schlüssel,\n"
-	.string "oder etwa nicht?\p"
-	.string "Groudon!\n"
-	.string "Wo bist du hin…$"
+	.string "Die blaue Kugel ist doch der\n"
+	.string "Schlüssel, oder etwa nicht?\p"
+	.string "Groudon! Wo bist du hin…$"
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
 	.string "Marc: Du warst das also!\p"

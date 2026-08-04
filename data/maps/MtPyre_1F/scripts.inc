@@ -26,9 +26,10 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "Auf den Pfaden des PYROBERGs kreucht\n"
+	.string "Auf den Pfaden des Pyrobergs kreucht\n"
 	.string "und fleucht alles Mögliche…\p"
-	.string "Niemand kann sagen, was passieren wird.\n"
+	.string "Niemand kann sagen, was passieren\n"
+	.string "wird.\l"
 	.string "Dies ist für dich, es wird dir helfen.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:

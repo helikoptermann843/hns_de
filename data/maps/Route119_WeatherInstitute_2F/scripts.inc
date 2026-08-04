@@ -277,9 +277,10 @@ Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
 	.string "Was?!?\n"
-	.string "Dann lasst uns von hier verschwinden!\p"
-	.string "Und zwar schnell! Wir müssen so schnell\n"
-	.string "wie möglich zum Pyroberg!\p"
+	.string "Dann lasst uns von hier verschwinden!\n"
+	.string "\p"
+	.string "Und zwar schnell! Wir müssen so\n"
+	.string "schnell wie möglich zum Pyroberg!\p"
 	.string "Ahahahahahaha!\n"
 	.string "Team Magma, mach dich auf was gefasst!$"
 

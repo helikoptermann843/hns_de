@@ -103,7 +103,7 @@ PokemonLeague_LoreleisRoom_Text_Intro::
 	.string "Du wirst um Gnade winseln, wenn ich\n"
 	.string "deine Pokémon eingefroren habe!\p"
 	.string "Hahaha!\n"
-	.string "Bist du bereit?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Bist du bereit?{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LoreleisRoom_Text_RematchIntro::
 	.string "Willkommen in der Pokémon Liga!\p"
@@ -117,10 +117,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
 	.string "Du wirst um Gnade winseln, wenn ich\n"
 	.string "deine Pokémon eingefroren habe!\p"
 	.string "Hahaha!\n"
-	.string "Bist du bereit?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Bist du bereit?{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_LoreleisRoom_Text_Defeat::
-	.string "…Things shouldn't be this way!$"
+	.string "… es sollte nicht so laufen!$"
 
 PokemonLeague_LoreleisRoom_Text_PostBattle::
 	.string "Du bist besser,\n"

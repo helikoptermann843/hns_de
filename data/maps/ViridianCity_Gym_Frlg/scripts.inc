@@ -144,8 +144,8 @@ ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
 	.string "Pokémon Liga-Abenteuer!$"
 
 ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
-	.string "{PLAYER} received TM26\n"
-	.string "from Giovanni.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM26!$"
 
 ViridianCity_Gym_Text_ExplainTM26::
 	.string "TM26 ist Erdbeben!\p"

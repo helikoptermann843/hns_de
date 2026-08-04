@@ -741,8 +741,8 @@ CinnabarIsland_Gym_Text_ExplainVolcanoBadge::
 	.string "Nimm zusätzlich dieses Geschenk!$"
 
 CinnabarIsland_Gym_Text_ReceivedTM38FromBlaine::
-	.string "{PLAYER} received TM38\n"
-	.string "from Blaine.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM38!$"
 
 CinnabarIsland_Gym_Text_BlainePostBattle::
 	.string "TM38 ist Feuersturm!\p"

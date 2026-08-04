@@ -67,7 +67,8 @@ PetalburgCity_WallysHouse_EventScript_ReceivedHMSurf::
 
 PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "Du…\n"
-	.string "Ach, du bist bestimmt {PLAYER}{KUN}, richtig?\p"
+	.string "Ach, du bist bestimmt {PLAYER}{KUN},\n"
+	.string "richtig? \p"
 	.string "Danke, dass du dich um Heiko gekümmert\n"
 	.string "hast.\p"
 	.string "Er war schon als Baby immer zart und\n"
@@ -75,7 +76,8 @@ PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
 	.string "Wir haben ihn für eine Weile zu\n"
 	.string "Verwandten nach Wiesenflur\l"
 	.string "geschickt.\p"
-	.string "Die Luft ist dort viel sauberer als hier.\p"
+	.string "Die Luft ist dort viel sauberer als\n"
+	.string "hier. \p"
 	.string "Was heißt das? Wo ist Heiko?\n"
 	.string "Er ist fort, unser Heiko?\p"
 	.string "Ich frage mich, wo er jetzt wohl sein\n"

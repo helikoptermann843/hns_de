@@ -244,8 +244,10 @@ MeteorFalls_1F_1R_Text_DontExpectMercyFromMagma:
 
 MeteorFalls_1F_1R_Text_HoldItRightThereMagma:
 	.string "Bleibt sofort stehen, Team Magma!\p"
-	.string "Ihr irrt euch gewaltig, wenn ihr meint,\n"
-	.string "ihr könntet mit der Welt machen, was ihr\l"
+	.string "Ihr irrt euch gewaltig, wenn ihr\l"
+	.string "meint,\n"
+	.string "ihr könntet mit der Welt machen, was\p"
+	.string "ihr\l"
 	.string "wollt!$"
 
 MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
@@ -292,19 +294,19 @@ MeteorFalls_1F_1R_Text_MeetProfCozmo:
 	.string "Ich bin Professor…\p"
 	.string "Einige Typen von Team Magma haben\n"
 	.string "mich überredet, sie zu Meteor-\l"
-	.string "Fälle zu führen…\p"
+	.string "fälle zu führen…\p"
 	.string "Sie haben mich hereingelegt.\n"
-	.string "Sie haben sogar den METEORITen\l"
+	.string "Sie haben sogar den Meteoriten\l"
 	.string "mitgenommen…\p"
 	.string "Und dann tauchte Team Aqua auf. Die\n"
 	.string "sind auch nicht anders.\p"
 	.string "Und ich?\n"
 	.string "Ich verstehe absolut nicht, was los ist.\p"
 	.string "Team Magma…\p"
-	.string "Was haben sie mit dem METEORITen am\n"
+	.string "Was haben sie mit dem Meteoriten am\n"
 	.string "Schlotberg vor?$"
 
 MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney:
 	.string "Prof. Kosmo: Dieses Team Magma…\p"
-	.string "Was haben sie mit dem METEORITen am\n"
+	.string "Was haben sie mit dem Meteoriten am\n"
 	.string "Schlotberg vor?$"

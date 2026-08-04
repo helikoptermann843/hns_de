@@ -113,8 +113,8 @@ PewterCity_Gym_Text_TakeThisWithYou::
 	.string "Nimm das hier mit!$"
 
 PewterCity_Gym_Text_ReceivedTM39FromBrock::
-	.string "{PLAYER} received TM39\n"
-	.string "from Brock.$"
+	.string "{PLAYER} erhält\n"
+	.string "TM39!$"
 
 PewterCity_Gym_Text_ExplainTM39::
 	.string "Eine TM enthält Attacken, die\n"

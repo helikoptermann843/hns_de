@@ -274,15 +274,15 @@ Alola_Ulaula_TotemBattle_Text_0:
 	.string "Graah!$"
 
 Alola_Ulaula_TotemBattle_Text_1:
-	.string "Totem Tangrowth was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Tangoloss wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Ulaula_TotemBattle_Text_2:
 	.string "Graah!$"
 
 Alola_Ulaula_TotemBattle_Text_3:
-	.string "Totem Primeape was defeated!\n"
-	.string "It scampered off somewhere…$"
+	.string "Herrscher-Rasaff wurde besiegt!\n"
+	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Ulaula_Totem_sign_Text_0:
 	.string "Das Totem strahlt eine starke\n"

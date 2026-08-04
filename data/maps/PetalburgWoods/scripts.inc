@@ -344,7 +344,8 @@ PetalburgWoods_Text_NoOneCrossesTeamAqua:
 	.string "Huch. Was machst du da eigentlich???\n"
 	.string "Was?!? Du schützt ihn???\p"
 	.string "Niemand, der sich Team Aqua in den Weg\n"
-	.string "stellt, kann auf Gnade hoffen. Niemand!\p"
+	.string "stellt, kann auf Gnade hoffen.\n"
+	.string "Niemand! \p"
 	.string "Los, kämpfe gegen mich!$"
 
 PetalburgWoods_Text_YoureKiddingMe:

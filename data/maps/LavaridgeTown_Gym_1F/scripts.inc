@@ -251,8 +251,7 @@ LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
 	.string "können.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleIntro:
-	.string "Ähm…\n"
-	.string "Okay, ich kämpfe mit dir.$"
+	.string "Ähm… Okay, ich kämpfe mit dir.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleDefeat:
 	.string "Oh, du bist zu stark.$"
@@ -283,7 +282,8 @@ LavaridgeTown_Gym_B1F_Text_JeffDefeat:
 	.string "Irgendwas ist da schief gelaufen.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
-	.string "Ach, was soll’s?!? Mir doch egal. Dafür\n"
+	.string "Ach, was soll’s?!? Mir doch egal.\n"
+	.string "Dafür\n"
 	.string "kann ich barfuß über glühende Kohlen\l"
 	.string "laufen. … Versuch das bloß nicht!$"
 

@@ -649,8 +649,8 @@ OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMap::
 	.string "erweitert.$"
 
 OneIsland_PokemonCenter_1F_Text_ReceivedTownMap::
-	.string "{PLAYER} received\n"
-	.string "a Town Map!$"
+	.string "{PLAYER} erhält\n"
+	.string "eine Karte!$"
 
 OneIsland_PokemonCenter_1F_Text_BillCatchYouLater::
 	.string "Bill: Ich treff dich später!\n"

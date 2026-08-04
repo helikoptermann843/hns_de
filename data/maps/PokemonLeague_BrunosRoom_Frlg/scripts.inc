@@ -122,7 +122,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
 	.string "{PLAYER}!\p"
 	.string "Wir werden dich mit unserer Kraft\n"
 	.string "bezwingen!\p"
-	.string "Zum Angriff!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Zum Angriff!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_RematchIntro::
 	.string "Ich gehöre zu den Top Vier!\n"
@@ -134,11 +134,10 @@ PokemonLeague_BrunosRoom_Text_RematchIntro::
 	.string "{PLAYER}!\p"
 	.string "Wir werden dich mit unserer Kraft\n"
 	.string "bezwingen!\p"
-	.string "Zum Angriff!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
+	.string "Zum Angriff!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}$"
 
 PokemonLeague_BrunosRoom_Text_Defeat::
-	.string "Why?\n"
-	.string "How could I lose?$"
+	.string "Wie konnte ich verlieren?$"
 
 PokemonLeague_BrunosRoom_Text_PostBattle::
 	.string "Ich bin erledigt! Doch die nächste\n"

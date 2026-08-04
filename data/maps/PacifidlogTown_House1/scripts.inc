@@ -21,5 +21,6 @@ PacifidlogTown_House1_Text_RegiStory:
 PacifidlogTown_House1_Text_SixDotsOpenThreeDoors:
 	.string "“Sechs Punkte öffnen drei Türen.”\p"
 	.string "Mein Großvater sagte das immer, aber\n"
-	.string "ich habe keine Ahnung, was es bedeutet.$"
+	.string "ich habe keine Ahnung, was es\l"
+	.string "bedeutet.$"
 

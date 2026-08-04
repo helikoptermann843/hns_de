@@ -230,15 +230,15 @@ PalletTown_RivalsHouse_Text_LookingNiceInNoTime::
 
 PalletTown_RivalsHouse_Text_ThereYouGoAllDone::
 #ifdef BUGFIX @ The localizers missed what should be a textcolor change in the localizations.
-	.string "{COLOR DARK_GRAY}{STR_VAR_1} looks dreamily content…\p"
-	.string "{COLOR RED}Daisy: There you go! All done.\n"
+	.string "{COLOR DARK_GRAY}{STR_VAR_1} sieht zufrieden aus.\p"
+	.string "{COLOR RED}Daisy: Hier bitte. Schon fertig.\n"
 #else @ In the JP games, gender-based text used a different font instead of different colors.
-	.string "{FONT_NORMAL}{STR_VAR_1} looks dreamily content…\p"
-	.string "{FONT_FEMALE}Daisy: There you go! All done.\n"
+	.string "{FONT_NORMAL}{STR_VAR_1} sieht zufrieden aus.\p"
+	.string "{FONT_FEMALE}Daisy: Hier bitte. Schon fertig.\n"
 #endif
-	.string "See? Doesn't it look nice?\p"
-	.string "Giggle…\n"
-	.string "It's such a cute Pokémon.$"
+	.string "Siehst du? Ist es jetzt nicht\l"
+	.string "wunderschön?\p"
+	.string "Es ist so ein süßes Pokémon.$"
 
 PalletTown_RivalsHouse_Text_CantGroomAnEgg::
 	.string "Es tut mir Leid, aber ich kann\n"

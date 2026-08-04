@@ -10,7 +10,7 @@ MagmaHideout_3F_2R_Text_Grunt10Intro:
 	.string "Ich verstehe alles, was unser Boss\n"
 	.string "sagt. Aber weißt du, was?\p"
 	.string "Nach einem uralten Pokémon zu\n"
-	.string "graben und jemandem einen METEORITen\l"
+	.string "graben und jemandem einen Meteoriten\l"
 	.string "stehlen…\p"
 	.string "Ich glaube, wir sind etwas zu weit\n"
 	.string "gegangen. Was meinst du?$"
