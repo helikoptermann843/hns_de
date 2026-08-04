@@ -49,9 +49,9 @@ Alola_Melemele_Pokecenter_AceTrainer_Text_0:
 	.string "I'm gonna catch 'em all!$"
 
 Alola_Melemele_Pokecenter_BugCatcher_Text_0:
-	.string "I found some brand new Pokémon\n"
-	.string "here on the Isles!\p"
-	.string "Like my new friend Aipom here!$"
+	.string "Ich habe hier auf den Inseln ganz\n"
+	.string "neue Pokémon entdeckt!\p"
+	.string "Wie meinen neuen Freund Griffel\nhier!$"
 
 Alola_Melemele_Pokecenter_Grubbin_Text_0:
 	.string "Aiip!$"

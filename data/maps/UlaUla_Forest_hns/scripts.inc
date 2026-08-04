@@ -285,10 +285,10 @@ Alola_Ulaula_TotemBattle_Text_3:
 	.string "It scampered off somewhere…$"
 
 Alola_Ulaula_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "Das Totem strahlt eine starke\n"
+	.string "Energie aus…\p"
+	.string "Möchtest du es berühren und zu\n"
+	.string "einer anderen Insel reisen?$"
 
 Alola_Ulaula_Totem_sign_Text_1:
 	.string "Melemele Isle$"
@@ -306,8 +306,8 @@ Alola_Ulaula_Totem_sign_Text_5:
 	.string "Zurück$"
 
 Alola_Ulaula_Totem_sign_Text_6:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "Ein seltsames Totem steht hier.\n"
+	.string "Es strahlt eine gewaltige Kraft aus…$"
 
 Alola_Ulaula_BattleVsTapuBulu_Text_0:
 	.string "Bu-Bulu!$"

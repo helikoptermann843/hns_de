@@ -32,16 +32,17 @@ Melemele_House5_Cat::
 
 
 Melemele_House5_Mom_Text_0:
-	.string "I'm thinking of moving to the Alola\n"
-	.string "Region with my son, Elio.\p"
-	.string "We're just getting a little taste here\n"
-	.string "on the Isles!$"
+	.string "Ich überlege, mit meinem Sohn Elio\n"
+	.string "in die Alola-Region zu ziehen.\p"
+	.string "Hier auf den Inseln holen wir uns\n"
+	.string "schon mal einen kleinen Vorge-\l"
+	.string "schmack!$"
 
 Melemele_House5_Son_Text_0:
-	.string "Hehe tag is so fun!$"
+	.string "Hihi, Fangen macht so viel Spaß!$"
 
 Melemele_House5_Son_Text_1:
-	.string "Try to catch me meowth!$"
+	.string "Fang mich doch, Mauzi!$"
 
 Melemele_House5_Cat_Text_0:
 	.string "Mwaaawwwrrrrrrrr!!!$"

@@ -323,10 +323,10 @@ Alola_Poni_TotemBattle_Text_1:
 	.string "It scampered off somewhere…$"
 
 Alola_Poni_Totem_sign_Text_0:
-	.string "The totem is emanating a strong\n"
-	.string "energy…\p"
-	.string "Touch the totem to teleport to another\n"
-	.string "Isle?$"
+	.string "Das Totem strahlt eine starke\n"
+	.string "Energie aus…\p"
+	.string "Möchtest du es berühren und zu\n"
+	.string "einer anderen Insel reisen?$"
 
 Alola_Poni_Totem_sign_Text_1:
 	.string "Melemele Isle$"
@@ -341,8 +341,8 @@ Alola_Poni_Totem_sign_Text_4:
 	.string "Zurück$"
 
 Alola_Poni_Totem_sign_Text_5:
-	.string "A strange totem stands here,\n"
-	.string "power is emanating from it…$"
+	.string "Ein seltsames Totem steht hier.\n"
+	.string "Es strahlt eine gewaltige Kraft aus…$"
 
 Alola_Poni_BattleVsTapuFini_Text_0:
 	.string "Fiiin!$"
@@ -351,26 +351,28 @@ Alola_Poni_TrainerBattleSwimmer1_Text_0:
 	.string "Warmer water, no problem!$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_1:
-	.string "Gah, I forgot my sunscreen…$"
+	.string "Mist, ich habe meine Sonnencreme\nvergessen…$"
 
 Alola_Poni_TrainerBattleSwimmer1_Text_2:
-	.string "I've swam into so many cool Pokémon!\n"
-	.string "It must be something in the water.$"
+	.string "Beim Schwimmen bin ich schon so\n"
+	.string "vielen coolen Pokémon begegnet!\l"
+	.string "Es muss am Wasser liegen.$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_0:
-	.string "Hey, don't block my current!$"
+	.string "Hey, blockier nicht meine\nStrömung!$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_1:
 	.string "Ugh, fine,\njust let me swim…$"
 
 Alola_Poni_TrainerBattleSwimmer2_Text_2:
-	.string "The current is great for tubing.\n"
-	.string "I don't think I'll tube anywhere else!$"
+	.string "Die Strömung eignet sich super zum\n"
+	.string "Reifen-Treiben. Woanders mache\l"
+	.string "ich das nie wieder!$"
 
 Alola_Poni_NPC_girl_Text_0:
-	.string "Poni Isle is my favorite.\n"
-	.string "The wilderness just speaks for itself!$"
+	.string "Poni ist meine Lieblingsinsel.\n"
+	.string "Diese Wildnis spricht für sich!$"
 
 Alola_Poni_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "Möchtest du auf dieser Bank eine\n"
+	.string "Pause einlegen?$"

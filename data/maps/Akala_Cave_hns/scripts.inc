@@ -106,26 +106,27 @@ Alola_Melemele_BattleDugtrio_Text_0:
 	.string "Cha-Cha!$"
 
 Alola_AkalaCave_TrainerBattleHiker_Text_0:
-	.string "You must be tough if you made it all the\nway up here!$"
+	.string "Du musst zäh sein, wenn du es bis\nhier herauf geschafft hast!$"
 
 Alola_AkalaCave_TrainerBattleHiker_Text_1:
 	.string "Tougher than me!$"
 
 Alola_AkalaCave_TrainerBattleHiker_Text_2:
-	.string "I had to stop climbing because it was\n"
-	.string "getting far too hot.\p"
-	.string "It's like someone's got a fire going\n"
-	.string "up on the peak…$"
+	.string "Ich musste den Aufstieg abbrechen,\n"
+	.string "weil es viel zu heiß wurde.\p"
+	.string "Als hätte jemand dort oben auf dem\n"
+	.string "Gipfel ein Feuer entfacht…$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_0:
-	.string "I'm tired from all this walking,\nlet's have a battle!$"
+	.string "Ich bin müde vom vielen Laufen.\nLass uns kämpfen!$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_1:
 	.string "Well that was refreshing!$"
 
 Alola_AkalaCave_TrainerBattlePicnicker_Text_2:
-	.string "I'm usually not this tired but\n"
-	.string "the heat in this cave is exhausting!$"
+	.string "Normalerweise bin ich nicht so\n"
+	.string "erschöpft, aber die Hitze in dieser\l"
+	.string "Höhle ist anstrengend!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_0:
 	.string "Check me out!\nI caught some strong Pokémon!$"
@@ -134,4 +135,4 @@ Alola_AkalaCave_TrainerBattleCamper_Text_1:
 	.string "Not bad,\nbut not good enough!$"
 
 Alola_AkalaCave_TrainerBattleCamper_Text_2:
-	.string "Is it warm in here or is it just me?$"
+	.string "Ist es hier drin warm oder liegt\ndas nur an mir?$"

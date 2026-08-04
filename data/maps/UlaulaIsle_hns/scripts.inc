@@ -291,79 +291,82 @@ Alola_Ulaula_BattlePalossand_Text_0:
 	.string "Shuck!$"
 
 Alola_Ulaula_MtLanikalaSign_Text_0:
-	.string "This mountain is affectionately\n"
-	.string "referred to as Mt. Lanikala by the\l"
-	.string "locals, as it is the tallest mountain\l"
-	.string "on the Alola Isles.\p"
-	.string "The real name of this mountain has been\n"
-	.string "lost to time.$"
+	.string "Dieser Berg wird von den Einheimi-\n"
+	.string "schen liebevoll Lanikala genannt,\l"
+	.string "da er der höchste Berg der Alola-\l"
+	.string "Inseln ist.\p"
+	.string "Sein wahrer Name ist längst in\n"
+	.string "Vergessenheit geraten.$"
 
 Alola_Ulaula_UlaulaSign_Text_0:
 	.string "Ula'ula Isle$"
 
 Alola_Ulaula_Phant_outside_Text_0:
-	.string "Hello there, {PLAYER}!\p"
-	.string "I'm the developer who built this\n"
-	.string "section of the game!\p"
-	.string "I hope you enjoyed this taste of Alola.\p"
-	.string "I'm working on a full demake of the\n"
-	.string "region called Ultra Eclipse.$"
+	.string "Hallo, {PLAYER}!\p"
+	.string "Ich bin der Entwickler, der diesen\n"
+	.string "Teil des Spiels gebaut hat!\p"
+	.string "Ich hoffe, dieser Vorgeschmack auf\n"
+	.string "Alola hat dir gefallen.\p"
+	.string "Ich arbeite an einem kompletten\n"
+	.string "Demake der Region namens\l"
+	.string "Ultra Eclipse.$"
 
 Alola_Ulaula_Phant_outside_Text_1:
-	.string "Please come visit me at my house at\n"
-	.string "the top of this isle.\l"
-	.string "I'll make it worth your while!$"
+	.string "Besuch mich doch in meinem Haus\n"
+	.string "ganz oben auf dieser Insel.\l"
+	.string "Es wird sich für dich lohnen!$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_0:
-	.string "Surprise!\nI was in the trees!$"
+	.string "Überraschung!\nIch war in den Bäumen!$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_1:
-	.string "Back into hiding I go…$"
+	.string "Zurück ins Versteck mit mir…$"
 
 Alola_Ulaula_TrainerBattlePicnicker_Text_2:
-	.string "I thought I saw something red flying\n"
-	.string "through the sky.\p"
-	.string "Could it have been a Pokémon?$"
+	.string "Ich glaube, ich habe etwas Rotes am\n"
+	.string "Himmel fliegen sehen.\p"
+	.string "Ob das ein Pokémon war?$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_0:
-	.string "Hey, I'm going to be the first to climb\nMt. Lanikala!$"
+	.string "Hey, ich werde der Erste sein, der\nden Lanikala besteigt!$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_1:
-	.string "It's not even the real Mt. Lanikala…$"
+	.string "Dabei ist es nicht mal der echte\nLanikala…$"
 
 Alola_Ulaula_TrainerBattleYoungster_Text_2:
-	.string "My dad never told me the real name of\n"
-	.string "this mountain.\p"
-	.string "We've always just called it Mt. Lanikala.$"
+	.string "Mein Papa hat mir nie den wahren\n"
+	.string "Namen dieses Berges verraten.\p"
+	.string "Wir haben ihn immer nur Lanikala\ngenannt.$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_0:
-	.string "You must be tough to handle this\nrough terrain!$"
+	.string "Du musst zäh sein, um dieses raue\nGelände zu meistern!$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_1:
 	.string "Oof,\nI should've trained harder…$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
-	.string "Ula'ula Isle has the best hiking!\p"
-	.string "The locals refer to this mountain as\n"
-	.string "Mt. Lanikala, as it is the tallest on\l"
-	.string "the Alola Isles!$"
+	.string "Auf Ula-Ula wandert es sich am\nbesten!\p"
+	.string "Die Einheimischen nennen diesen\n"
+	.string "Berg Lanikala, denn er ist der\l"
+	.string "höchste der Alola-Inseln!$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
-	.string "This cave smells terrible!\n Let's battle to get my mind off of it!$"
+	.string "Diese Höhle stinkt fürchterlich!\n"
+	.string "Lass uns kämpfen, das lenkt mich\lab!$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
 	.string "Should've brought some air freshener…$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_2:
-	.string "You should plug your nose if you plan\n"
-	.string "on going in that cave.$"
+	.string "Halt dir besser die Nase zu, wenn\n"
+	.string "du in diese Höhle willst.$"
 
 Alola_Ulaula_LassNPC_Text_0:
-	.string "The sea by the Isles is truly\n"
-	.string "breathtaking.\p"
-	.string "I could sit here all day and just\n"
-	.string "watch the waves.$"
+	.string "Das Meer bei den Inseln ist wirklich\n"
+	.string "atemberaubend.\p"
+	.string "Ich könnte den ganzen Tag hier\n"
+	.string "sitzen und den Wellen zusehen.$"
 
 Alola_Ulaula_Bench_Heal_Text_0:
-	.string "Would you like to take a rest on this\n"
-	.string "bench?$"
+	.string "Möchtest du auf dieser Bank eine\n"
+	.string "Pause einlegen?$"

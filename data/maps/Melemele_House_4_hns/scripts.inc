@@ -19,14 +19,14 @@ Melemele_House4_Woman::
 
 
 Melemele_House4_Man_Text_0:
-	.string "We're vacationing on the Alola Isles!\p"
-	.string "It's just like the Alola Region,\n"
-	.string "but closer to Kanto!\p"
-	.string "I saved so much on travel expenses!$"
+	.string "Wir machen Urlaub auf den Alola-\nInseln!\p"
+	.string "Genau wie die Alola-Region, nur\n"
+	.string "näher an Kanto!\p"
+	.string "Ich habe so viel Reisekosten\ngespart!$"
 
 Melemele_House4_Woman_Text_0:
-	.string "My boyfriend told me we were going to\n"
+	.string "Mein Freund sagte, wir fahren nach\n"
 	.string "Alola…\p"
-	.string "I had assumed it would be the Alola\n"
-	.string "Region, not the small isles off the\l"
-	.string "coast of Kanto.$"
+	.string "Ich dachte, er meint die Alola-\n"
+	.string "Region, nicht die kleinen Inseln\l"
+	.string "vor der Küste von Kanto.$"

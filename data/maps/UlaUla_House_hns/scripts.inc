@@ -162,30 +162,33 @@ Alola_Ulaula_House_Phant_Text_0:
 	.string "Thanks again for playing!$"
 
 Alola_Ulaula_House_Phant_Text_1:
-	.string "I hope you're prepared…\n"
-	.string "good luck.$"
+	.string "Ich hoffe, du bist vorbereitet…\n"
+	.string "Viel Glück.$"
 
 Alola_Ulaula_House_Phant_Text_2:
 	.string "Congratulations, {PLAYER}!$"
 
 Alola_Ulaula_House_Phant_Text_3:
-	.string "I think you've earned this.$"
+	.string "Ich denke, das hast du dir\nverdient.$"
 
 Alola_Ulaula_House_Phant_Text_4:
 	.string "You received an Egg from Phantonomy!$"
 
 Alola_Ulaula_House_Phant_Text_5:
-	.string "That Egg contains my favorite Pokémon.\p"
-	.string "Please, take good care of it…$"
+	.string "In diesem Ei steckt mein Lieblings-\n"
+	.string "Pokémon.\p"
+	.string "Bitte kümmere dich gut darum…$"
 
 Alola_Ulaula_House_Phant_Text_6:
-	.string "No worries, {PLAYER}.\n"
-	.string "Come back when you're ready…$"
+	.string "Kein Problem, {PLAYER}.\n"
+	.string "Komm wieder, wenn du bereit bist…$"
 
 Alola_Ulaula_House_Phant_Text_7:
-	.string "I hope you enjoyed this taste of Alola.\p"
-	.string "I'm working on a full demake of the\n"
-	.string "region called Ultra Eclipse.$"
+	.string "Ich hoffe, dieser Vorgeschmack auf\n"
+	.string "Alola hat dir gefallen.\p"
+	.string "Ich arbeite an einem kompletten\n"
+	.string "Demake der Region namens\l"
+	.string "Ultra Eclipse.$"
 
 Alola_Ulaula_House_Noivern_Text_0:
 	.string "Scree!$"
