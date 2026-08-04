@@ -631,7 +631,7 @@ Alola_Melemele_TravelToKanto_Text_2:
 	.string "stechen möchtest.$"
 
 Alola_Melemele_Mailbox_Text_0:
-	.string "Samson Oak's Villa$"
+	.string "Samson Eichs Villa$"
 
 Alola_Melemele_Melemele_Sign_Text_0:
 	.string "Willkommen auf Mele-Mele!$"
@@ -645,7 +645,7 @@ Alola_Melemele_Pokecenter_Sign_Text_0:
 	.string "Inseln ausruhen.$"
 
 Alola_Melemele_MelemeleMart_Sign_Text_0:
-	.string "Melemele Isle Mart$"
+	.string "Mele-Mele-Markt$"
 
 Alola_Melemele_BattleSandygast_Text_0:
 	.string "Coorr!$"
@@ -730,16 +730,16 @@ Alola_Melemele_Totem_sign_Text_0:
 	.string "einer anderen Insel reisen?$"
 
 Alola_Melemele_Totem_sign_Text_1:
-	.string "Melemele Isle$"
+	.string "Mele-Mele$"
 
 Alola_Melemele_Totem_sign_Text_2:
-	.string "Akala Isle$"
+	.string "Akala$"
 
 Alola_Melemele_Totem_sign_Text_3:
-	.string "Ula'ula Isle$"
+	.string "Ula-Ula$"
 
 Alola_Melemele_Totem_sign_Text_4:
-	.string "Poni Isle$"
+	.string "Poni$"
 
 Alola_Melemele_Totem_sign_Text_5:
 	.string "Zurück$"

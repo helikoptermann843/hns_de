@@ -25,4 +25,4 @@ SinjohRuins_RegirockRoom_EventScript_RegirockRan::
 	end
 
 SinjohRuins_RegirockRoom_Text_Regirock:
-	.string "REGIROCK: RegiROCK!$"
+	.string "Regirock: RegiROCK!$"

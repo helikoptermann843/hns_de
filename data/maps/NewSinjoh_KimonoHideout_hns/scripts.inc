@@ -91,39 +91,41 @@ NewSinjoh_KimonoHideout_Movement_KimonoWalksUp:
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsKimonos:
 	.string "{PLAYER}.\p"
-	.string "Please, approach.$"
+	.string "Bitte, tritt näher.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsMiharu:
-    .string "MIHARU: Welcome to NEW SINJOH, \n"
+	.string "Miharu: Willkommen in Neu-Sinjoh,\n"
 	.string "{PLAYER}.\p"
-	.string "For generations, this village has\n"
-	.string "peacefully coexisted with immensely\l"
-	.string "powerful POKéMON, in isolation from\l"
-	.string "the prying eyes of outsiders.\p"
-	.string "Recent events at our sacred temple\n"
-	.string "and a subsequent influx of uninvited\l"
-	.string "guests now threaten to disrupt the\l"
-	.string "careful balance we have long\l"
-	.string "protected.$"
+	.string "Seit Generationen lebt dieses Dorf\n"
+	.string "friedlich mit unermesslich mächtigen\l"
+	.string "Pokémon zusammen, verborgen vor\l"
+	.string "den neugierigen Blicken der\l"
+	.string "Außenwelt.\p"
+	.string "Die jüngsten Ereignisse an unserem\n"
+	.string "heiligen Tempel und der Zustrom\l"
+	.string "ungebetener Gäste drohen nun das\l"
+	.string "empfindliche Gleichgewicht zu\l"
+	.string "stören, das wir so lange bewahrt\l"
+	.string "haben.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsShizuko:
-	.string "SHIZUKO: Our cousins in ECRUTEAK\n"
-	.string "CITY made us aware of your\l"
-	.string "connection to the LEGENDARY POKéMON\l"
-	.string "of the JOHTO REGION, and your\l"
-	.string "prowess as a trainer.\p"
-	.string "We believe you can help us in these\n"
-	.string "trying times.$"
+	.string "Shizuko: Unsere Cousinen in Teak\n"
+	.string "City haben uns von deiner Verbindung\l"
+	.string "zu den legendären Pokémon der\l"
+	.string "Johto-Region berichtet - und von\l"
+	.string "deinem Können als Trainer.\p"
+	.string "Wir glauben, dass du uns in diesen\n"
+	.string "schweren Zeiten helfen kannst.$"
 
 NewSinjoh_KimonoHideout_Text_PlayerMeetsYouko:
-	.string "YOUKO: Go to the SINJOH RUINS, to\n"
-	.string "the north of ROUTE 50.\p"
-	.string "Meet with the scientists there, and\n"
-	.string "investigate the events that invoked\l"
-	.string "their presence.\p"
-	.string "It is imperative that the LEGENDARY\n"
-	.string "POKéMON there are not disturbed\l"
-	.string "by the unworthy.$"
+	.string "Youko: Begib dich zu den Sinjoh-\n"
+	.string "Ruinen, nördlich von Route 50.\p"
+	.string "Triff dich mit den Forschern dort\n"
+	.string "und untersuche die Ereignisse, die\l"
+	.string "sie hergeführt haben.\p"
+	.string "Die legendären Pokémon dort dürfen\n"
+	.string "keinesfalls von Unwürdigen gestört\l"
+	.string "werden.$"
 
 
 @ ============KIMONO GIRL NPCs=====================================================================================
@@ -163,25 +165,26 @@ NewSinjoh_KimonoHideout_EventScript_MiharuAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_MiharuBeforeBattle:
-	.string "MIHARU: Just as we predicted.\p"
-	.string "The champion of stone sent you\n"
-	.string "to collect the PLATES.\p"
-	.string "Our order has guarded these\n"
-	.string "PLATES for centuries.\p"
-	.string "We will not part with them\n"
-	.string "readily.$"
+	.string "Miharu: Genau wie wir es\n"
+	.string "vorausgesehen haben.\p"
+	.string "Der Champ der Steine hat dich\n"
+	.string "geschickt, die Tafeln zu sammeln.\p"
+	.string "Unser Orden hütet diese Tafeln\n"
+	.string "seit Jahrhunderten.\p"
+	.string "Wir geben sie nicht leichtfertig\n"
+	.string "her.$"
 
 NewSinjoh_KimonoHideout_Text_MiharuAfter:
-	.string "MIHARU: You are worthy.$"
+	.string "Miharu: Du bist würdig.$"
 
 NewSinjoh_KimonoHideout_EventScript_MiharuFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_MiharuFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_MiharuFinal:
-	.string "MIHARU: You have done our village\n"
-	.string "a great service, {PLAYER}.\p"
-	.string "We will not forget this.$"
+	.string "Miharu: Du hast unserem Dorf einen\n"
+	.string "großen Dienst erwiesen, {PLAYER}.\p"
+	.string "Das werden wir nicht vergessen.$"
 
 NewSinjoh_KimonoHideout_EventScript_Youko::
 	lock
@@ -218,23 +221,24 @@ NewSinjoh_KimonoHideout_EventScript_YoukoAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoBeforeBattle:
-	.string "YOUKO: Our cousins speak so\n"
-	.string "highly of you.\p"
-	.string "Is it true?\p"
-	.string "I will find out.$"
+	.string "Youko: Unsere Cousinen sprechen in\n"
+	.string "den höchsten Tönen von dir.\p"
+	.string "Ob das stimmt?\p"
+	.string "Ich werde es herausfinden.$"
 
 NewSinjoh_KimonoHideout_Text_YoukoAfter:
-	.string "YOUKO: Our cousins were right\n"
-	.string "about you.$"
+	.string "Youko: Unsere Cousinen hatten recht\n"
+	.string "mit dir.$"
 
 NewSinjoh_KimonoHideout_EventScript_YoukoFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_YoukoFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_YoukoFinal:
-	.string "YOUKO: I had my doubts, at first.\p"
-	.string "But after what you've done, it\l"
-	.string "cannot be denied.$"
+	.string "Youko: Anfangs hatte ich meine\n"
+	.string "Zweifel.\p"
+	.string "Aber nach dem, was du geleistet\n"
+	.string "hast, lässt es sich nicht leugnen.$"
 
 NewSinjoh_KimonoHideout_EventScript_Shizuko::
 	lock
@@ -271,25 +275,26 @@ NewSinjoh_KimonoHideout_EventScript_ShizukoAfter::
 	end
 
 NewSinjoh_KimonoHideout_Text_ShizukoBeforeBattle:
-	.string "SHIZUKO: We are trained in\n"
-	.string "battle as well as dance.\p"
-	.string "Obtaining the PLATEs will\n"
-	.string "require strength and determination.$"
+	.string "Shizuko: Wir sind im Kampf ebenso\n"
+	.string "geschult wie im Tanz.\p"
+	.string "Die Tafeln zu erhalten, erfordert\n"
+	.string "Stärke und Entschlossenheit.$"
 
 NewSinjoh_KimonoHideout_Text_ShizukoAfter:
-	.string "SHIZUKO: The bond you share\n"
-	.string "with your POKéMON is quite strong.\p"
-	.string "You have earned this PLATE.$"
+	.string "Shizuko: Das Band zwischen dir und\n"
+	.string "deinen Pokémon ist wahrlich stark.\p"
+	.string "Du hast dir diese Tafel verdient.$"
 
 NewSinjoh_KimonoHideout_EventScript_ShizukoFinal::
 	msgbox NewSinjoh_KimonoHideout_Text_ShizukoFinal, MSGBOX_AUTOCLOSE
 	end
 
 NewSinjoh_KimonoHideout_Text_ShizukoFinal:
-	.string "SHIZUKO: Few trainers in all\n"
-	.string "of SINJOH's storied history have\l"
-	.string "managed what you've just done.\p"
-	.string "Quite impressive, {PLAYER}.$"
+	.string "Shizuko: Nur wenige Trainer in\n"
+	.string "Sinjohs langer Geschichte haben\l"
+	.string "vollbracht, was dir gerade gelungen\l"
+	.string "ist.\p"
+	.string "Sehr beeindruckend, {PLAYER}.$"
 
 @ =================================================================================================
 
@@ -298,16 +303,18 @@ NewSinjoh_KimonoHideout_EventScript_OldMan::
 	end
 
 NewSinjoh_KimonoHideout_Text_OldMan:
-    .string "The KIMONO GIRLS have watched\n"
-	.string "over our village since its founding.\p"
-	.string "They have sacrificed much.\p"
-	.string "Blessed by the Gods themselves,\n"
-	.string "they have powers beyond that\l"
-	.string "of any normal trainer!\p"
-	.string "That is to say, be prepared\n"
-	.string "if you ever fight them, young one.$"
+	.string "Die Kimono-Girls wachen über unser\n"
+	.string "Dorf, seit es gegründet wurde.\p"
+	.string "Sie haben viel geopfert.\p"
+	.string "Von den Göttern selbst gesegnet,\n"
+	.string "besitzen sie Kräfte, die weit über\l"
+	.string "die eines normalen Trainers\l"
+	.string "hinausgehen!\p"
+	.string "Sei also gewappnet, falls du je\n"
+	.string "gegen sie kämpfst, junges Blut.$"
 
 NewSinjoh_KimonoHideout_Text_OldManAfter:
-    .string "You have bested the champions of\n"
-	.string "our village.\p"
-	.string "What does that make you, young one?$"
+	.string "Du hast die Beschützerinnen unseres\n"
+	.string "Dorfes bezwungen.\p"
+	.string "Was macht dich das wohl, junges\n"
+	.string "Blut?$"

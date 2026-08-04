@@ -35,39 +35,41 @@ NewSinjoh_House1_EventScript_GiveWooperPaldea::
     end
 
 NewSinjoh_House1_Text_Looking4Celebi:
-    .string "Hey there, Trainer!\p"
-	.string "You came all the way from\n"
-	.string "NEW BARK TOWN?\p"
-	.string "I have a request for someone as\n"
-	.string "well traveled as you are.\l"
-	.string "You see, my favorite POKEMON in the\l"
-	.string "whole world just so happens to be\l"
-	.string "the mythical POKEMON known as CELEBI.\p"
-	.string "If you happen to have one, would\n"
-	.string "you mind showing it to me?$"
+	.string "Hey, Trainer!\p"
+	.string "Du kommst den ganzen Weg aus\n"
+	.string "Neuborkia?\p"
+	.string "Ich habe eine Bitte an jemanden,\n"
+	.string "der so weit herumgekommen ist\l"
+	.string "wie du.\p"
+	.string "Weißt du, mein Lieblings-Pokémon\n"
+	.string "auf der ganzen Welt ist zufällig\l"
+	.string "das mysteriöse Pokémon Celebi.\p"
+	.string "Falls du eines haben solltest:\n"
+	.string "Würdest du es mir zeigen?$"
 
 NewSinjoh_House1_Text_NicePokemonButNotCelebi:
-    .string "That's a very wonderful POKEMON\n"
-	.string "you have there but that's\l"
-	.string "not exactly what I was looking for..$"
+	.string "Das ist ein wirklich wundervolles\n"
+	.string "Pokémon, aber es ist nicht ganz\l"
+	.string "das, wonach ich gesucht habe…$"
 
 NewSinjoh_House1_OffersWooper:
-    .string "That's it! That's a real living CELEBI!!\p"
-	.string "Thank you show much for bringing it\n"
-	.string "all the way up north for me to see.\p"
-    .string "Here, my girlfriend happened to\n"
-	.string "catch a few too many of these during\l"
-	.string "her trip to a far away region..\p"
-    .string "Please take this special WOOPER as\n"
-	.string "thanks, {PLAYER}.$"
+	.string "Das ist es! Ein echtes,\n"
+	.string "lebendiges Celebi!!\p"
+	.string "Vielen Dank, dass du es den ganzen\n"
+	.string "Weg in den Norden gebracht hast.\p"
+	.string "Hier, meine Freundin hat auf ihrer\n"
+	.string "Reise in eine ferne Region ein paar\l"
+	.string "zu viele von denen gefangen…\p"
+	.string "Bitte nimm dieses besondere Felino\n"
+	.string "als Dank, {PLAYER}.$"
 
 NewSinjoh_House1_Text_Decline:
-	.string "That's too bad. I really wanted\n"
-	.string "to see one.$"
+	.string "Wie schade. Ich hätte wirklich\n"
+	.string "gerne eines gesehen.$"
 
 NewSinjoh_House1_Text_TakeCareOfWooper:
-    .string "Take good care of that WOOPER\n"
-	.string "for me okay?$"
+	.string "Kümmere dich gut um das Felino,\n"
+	.string "ja?$"
 
 NewSinjoh_House1_EventScript_Elizabeth_AfterGift::
 	msgbox NewSinjoh_House1_Text_GoodToSeeYouAgain MSGBOX_DEFAULT
@@ -75,10 +77,9 @@ NewSinjoh_House1_EventScript_Elizabeth_AfterGift::
 	end
 
 NewSinjoh_House1_Text_GoodToSeeYouAgain:
-    .string "It's good to see you again,\n"
+	.string "Schön, dich wiederzusehen,\n"
 	.string "{PLAYER}.\p"
-	.string "How have you been treating that\n"
-	.string "that WOOPER?$"
+	.string "Wie geht es dem Felino denn so?$"
 
 NewSinjoh_House1_Bookshelf::
     lock
@@ -87,8 +88,8 @@ NewSinjoh_House1_Bookshelf::
 	end
 
 NewSinjoh_House1_Bookshelf_Text:
-    .string "It's a shelf packed full of\n"
-	.string "computer games and graphic novels!$"
+	.string "Ein Regal voller Computerspiele\n"
+	.string "und Comics!$"
 
 NewSinjoh_House1_Eevee::
     lock

@@ -194,9 +194,9 @@ Snowswept_Text_Machamp_Cry:
     .string "Mahh!!$"
 
 Snowswept_Text_Machamp_Plate:
-    .string "The MACHAMP seems to be holding\n"
-    .string "a PLATE in one of its hands.\p"
-    .string "Battle it?$"
+	.string "Das Machomei scheint eine Tafel\n"
+	.string "in einer seiner Hände zu halten.\p"
+	.string "Willst du es bekämpfen?$"
 
 Snowswept_Machamp_Movement:
     jump_in_place_down

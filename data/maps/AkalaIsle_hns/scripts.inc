@@ -417,7 +417,7 @@ Alola_Akala_BattleSandygast_Text_0:
 	.string "Coorr!$"
 
 Alola_Akala_Sign_Text_0:
-	.string "Akala Isle$"
+	.string "Akala$"
 
 Alola_Akala_House_Sign_Text_0:
 	.string "Die Akala-Villa.\p"
@@ -455,13 +455,13 @@ Alola_Akala_Totem_sign_Text_0:
 	.string "einer anderen Insel reisen?$"
 
 Alola_Akala_Totem_sign_Text_1:
-	.string "Melemele Isle$"
+	.string "Mele-Mele$"
 
 Alola_Akala_Totem_sign_Text_2:
-	.string "Ula'ula Isle$"
+	.string "Ula-Ula$"
 
 Alola_Akala_Totem_sign_Text_3:
-	.string "Poni Isle$"
+	.string "Poni$"
 
 Alola_Akala_Totem_sign_Text_4:
 	.string "Zurück$"

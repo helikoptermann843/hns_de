@@ -25,5 +25,5 @@ SinjohRuins_RegiceRoom_EventScript_RegiceRan::
 	end
 
 SinjohRuins_RegiceRoom_Text_Regice:
-	.string "REGICE: Regiceee!$"
+	.string "Regice: Regiceee!$"
 

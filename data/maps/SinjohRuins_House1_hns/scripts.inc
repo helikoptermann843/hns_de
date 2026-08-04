@@ -144,27 +144,31 @@ SinjohRuins_Lab_Text_StevenIntroCutscene1:
    	.string "STEVEN: Hm?$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene2:
-	.string "STEVEN: {PLAYER}!\p"
-	.string "I'd recognize those eyes anywhere.\p"
-	.string "What brings you this far north?\p"
-	.string ".............\p"
-	.string "I see, the KIMONO GIRLS of NEW SINJOH\n"
-	.string "have sent you to aid our\l"
-	.string "investigation.\p"
-	.string "In that case, allow me to bring you\n"
-	.string "up to speed.$"
+	.string "Troy: {PLAYER}!\p"
+	.string "Diese Augen würde ich überall\n"
+	.string "wiedererkennen.\p"
+	.string "Was führt dich so weit in den\n"
+	.string "Norden?\p"
+	.string "…………\p"
+	.string "Verstehe, die Kimono-Girls von\n"
+	.string "Neu-Sinjoh haben dich geschickt,\l"
+	.string "um unsere Untersuchung zu\l"
+	.string "unterstützen.\p"
+	.string "Dann bringe ich dich mal auf den\n"
+	.string "neuesten Stand.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene3:
-	.string "STEVEN: When I first heard about\n"
-	.string "these ruins, I had to come see\l"
-	.string "them for myself.\p"
-	.string "I assembled a team from DEVON CORP.\n"
-	.string "and we set off on a research\l"
-	.string "expedition.\p"
-	.string "Who knows what we'll find buried\n"
-	.string "here.\p"
-	.string "We've learned quite a lot\n"
-	.string "already.$"
+	.string "Troy: Als ich zum ersten Mal von\n"
+	.string "diesen Ruinen hörte, musste ich sie\l"
+	.string "mit eigenen Augen sehen.\p"
+	.string "Ich habe ein Team der Devon Corp.\n"
+	.string "zusammengestellt und wir sind zu\l"
+	.string "einer Forschungsexpedition\l"
+	.string "aufgebrochen.\p"
+	.string "Wer weiß, was hier alles begraben\n"
+	.string "liegt.\p"
+	.string "Einiges haben wir bereits\n"
+	.string "herausgefunden.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene4:
 	.string "LINGUIST: While the full translation\n"
@@ -180,29 +184,32 @@ SinjohRuins_Lab_Text_StevenIntroCutscene4:
 	.string "awesome power.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene5:
-	.string "STEVEN: That's the story, {PLAYER}.\p"
-	.string "The NOBLE POKéMON that guard the\n"
-	.string "remaining PLATES are too strong\l"
-	.string "for my team, I'm afraid.\p"
-	.string "And I need to stay here to oversee\n"
-	.string "the research.\p"
-	.string "But I think you could do it.\n"
-	.string "Will you help us?$"
+	.string "Troy: So weit die Geschichte,\n"
+	.string "{PLAYER}.\p"
+	.string "Die Königlichen Pokémon, die die\n"
+	.string "übrigen Tafeln bewachen, sind für\l"
+	.string "mein Team leider zu stark.\p"
+	.string "Und ich muss hierbleiben, um die\n"
+	.string "Forschung zu leiten.\p"
+	.string "Aber ich glaube, du könntest es\n"
+	.string "schaffen. Hilfst du uns?$"
 
 SinjohRuins_Lab_Text_StevenIntroCutscene6:
-	.string "Excellent.\p"
-	.string "The glyphs say the PLATES are\n"
-	.string "held by NOBLE POKéMON and\l"
-	.string "strong trainers across SINJOH.\p"
-	.string "I'll call your POKéGEAR if we\n"
-	.string "learn anything new.\p"
-	.string "Thank you, {PLAYER}.$"
+	.string "Ausgezeichnet.\p"
+	.string "Laut den Schriftzeichen befinden\n"
+	.string "sich die Tafeln im Besitz Königlicher\l"
+	.string "Pokémon und starker Trainer in ganz\l"
+	.string "Sinjoh.\p"
+	.string "Ich rufe dich auf dem Pokégear an,\n"
+	.string "sobald wir Neues erfahren.\p"
+	.string "Danke, {PLAYER}.$"
 
 SinjohRuins_Lab_Text_StevenIntroCutsceneRefused:
-	.string "Are you sure?\p"
-	.string "Who knows what we'll find buried\n"
-	.string "here.\p"
-	.string "Won't you reconsider?$"
+	.string "Bist du sicher?\p"
+	.string "Wer weiß, was hier alles begraben\n"
+	.string "liegt.\p"
+	.string "Überlegst du es dir nicht noch\n"
+	.string "einmal?$"
 
 @==========================Final plate Cutscene SCRIPTS================================================================================
 
@@ -254,16 +261,17 @@ SinjohRuins_Lab_FinalPlateScene::
 	end
 
 SinjohRuins_Lab_Text_FinalPlateScene1:
-	.string "STEVEN: {PLAYER}!\p"
-	.string "I think I know what's going to\n"
-	.string "happen we bring together all 17 of\l"
-	.string "the PLATES.\p"
-	.string "I feel...\l"
-	.string ".....................$"
+	.string "Troy: {PLAYER}!\p"
+	.string "Ich glaube, ich weiß, was geschehen\n"
+	.string "wird, wenn wir alle 17 Tafeln\l"
+	.string "zusammenbringen.\p"
+	.string "Ich spüre…\l"
+	.string "………………$"
 
 SinjohRuins_Lab_Text_FinalPlateScene2:
-	.string "STEVEN: I need to see this for\n"
-	.string "myself!\p"
+	.string "Troy: Das muss ich mit eigenen\n"
+	.string "Augen sehen!\p"
+	.string "Nach draußen, {PLAYER}!$"
 	.string "Outside, {PLAYER}!$" 
 
 SinjohRuins_Lab_Movement_PlayerLeaveLab:
@@ -357,18 +365,20 @@ SinjohRuins_Lab_Text_StevenFindPlates9:
 	.string "Who knows what we'll find next.$"
 
 SinjohRuins_Lab_Text_StevenAfterAll:
-	.string "STEVEN: {PLAYER}!\p"
-	.string "This expedition has been the\n"
-	.string "experience of a lifetime.\p"
-	.string "Ever since I heard about these ruins,\n"
-	.string "I had this feeling.\p"
-	.string "I thought we would discover something\n"
-	.string "amazing.\p"
-	.string "And my predictions usually come true.\p"
-	.string "Thank you for all your help,\n"
-	.string "Champion.\p"
-	.string "Where will you go from here?\p"
-	.string "I hope we can meet again somewhere.$"
+	.string "Troy: {PLAYER}!\p"
+	.string "Diese Expedition war das Erlebnis\n"
+	.string "meines Lebens.\p"
+	.string "Seit ich von diesen Ruinen gehört\n"
+	.string "habe, hatte ich dieses Gefühl.\p"
+	.string "Ich dachte, wir würden etwas\n"
+	.string "Unglaubliches entdecken.\p"
+	.string "Und meine Vorahnungen bewahrheiten\n"
+	.string "sich meistens.\p"
+	.string "Danke für all deine Hilfe, Champ.\p"
+	.string "Wohin wird es dich als Nächstes\n"
+	.string "verschlagen?\p"
+	.string "Ich hoffe, wir sehen uns irgendwo\n"
+	.string "wieder.$"
 
 SinjohRuins_Lab_EventScript_Geologist::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, SinjohRuins_Lab_EventScript_GeologistAfterEvent
@@ -383,22 +393,22 @@ SinjohRuins_Lab_EventScript_GeologistAfterEvent::
 	end
 
 SinjohRuins_Lab_Text_Geologist:
-    .string "Ground-penetrating radar shows\n"
-	.string "6 subterranean chambers in this\l"
-	.string "valley.\p"
-	.string "5 of them appear to be closer\n"
-	.string "to the surface level, with 1\l"
-	.string "buried even deeper.$"
+	.string "Das Bodenradar zeigt 6 unterirdische\n"
+	.string "Kammern in diesem Tal.\p"
+	.string "5 davon scheinen näher an der\n"
+	.string "Oberfläche zu liegen, eine ist noch\l"
+	.string "tiefer vergraben.$"
 SinjohRuins_Lab_Text_GeologistDuring:
-	.string "All this time I've directed my\n"
-	.string "equipment downward to image\l"
-	.string "the underground.\p"
-	.string "When clearly I should've pointed\n"
-	.string "it up!$"
+	.string "Die ganze Zeit habe ich meine Geräte\n"
+	.string "nach unten gerichtet, um den\l"
+	.string "Untergrund abzubilden.\p"
+	.string "Dabei hätte ich sie eindeutig nach\n"
+	.string "oben richten sollen!$"
 SinjohRuins_Lab_Text_GeologistAfter:
-	.string "Those PLATES were related to the\n"
-	.string "most powerful POKéMON??\p"
-	.string "I wish I had more time to study them.$"
+	.string "Diese Tafeln standen mit dem\n"
+	.string "mächtigsten Pokémon in Verbindung??\p"
+	.string "Ich wünschte, ich hätte mehr Zeit,\n"
+	.string "sie zu erforschen.$"
 
 SinjohRuins_Lab_EventScript_Linguist::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, SinjohRuins_Lab_EventScript_LinguistAfterEvent
@@ -419,18 +429,20 @@ SinjohRuins_Lab_Text_Linguist:
 	.string "We don't have anything like this\n"
 	.string "in the HOENN region.$"
 SinjohRuins_Lab_Text_LinguistDuring:
-    .string "Imagine my surprise as I\n"
-	.string "translated the glyph!\p"
-	.string "I triple and quadruple checked\n"
-	.string "it before telling STEVEN!\p"
-	.string "I mean, really, the God of\n"
-	.string "POKéMON?\p"
-	.string "It's incredible.$"
+	.string "Stell dir meine Überraschung vor,\n"
+	.string "als ich das Schriftzeichen übersetzt\l"
+	.string "habe!\p"
+	.string "Ich habe es drei- und vierfach\n"
+	.string "geprüft, bevor ich es Troy gesagt\l"
+	.string "habe!\p"
+	.string "Ich meine, wirklich - der Gott der\n"
+	.string "Pokémon?\p"
+	.string "Es ist unglaublich.$"
 SinjohRuins_Lab_Text_LinguistAfter:
-    .string "This expedition has been a\n"
-	.string "joy, {PLAYER}.\p"
-	.string "Thanks for taking care of all\n"
-	.string "the field-work.$"
+	.string "Diese Expedition war eine wahre\n"
+	.string "Freude, {PLAYER}.\p"
+	.string "Danke, dass du die ganze Feldarbeit\n"
+	.string "übernommen hast.$"
 
 SinjohRuins_Lab_EventScript_Archaeologist::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, SinjohRuins_Lab_EventScript_ArchaeologistAfterEvent
@@ -445,27 +457,27 @@ SinjohRuins_Lab_EventScript_ArchaeologistAfterEvent::
 	end
 
 SinjohRuins_Lab_Text_Archaeologist:
-	.string "The existence of a civilization\n"
-    .string "in this area changes our whole\l"
-	.string "understanding of history.\p"
-	.string "Many of the artifacts we've found\n"
-	.string "are over a thousand years old.\p"
-	.string "The carbon dating lines up with\n"
-	.string "artifacts found in the SINNOH region.\p"
-	.string "Although, that flute you found...\n"
-	.string "It seems far older.$"
+	.string "Die Existenz einer Zivilisation in\n"
+	.string "dieser Gegend verändert unser\l"
+	.string "gesamtes Geschichtsverständnis.\p"
+	.string "Viele der gefundenen Artefakte sind\n"
+	.string "über tausend Jahre alt.\p"
+	.string "Die Datierung passt zu Artefakten\n"
+	.string "aus der Sinnoh-Region.\p"
+	.string "Allerdings… die Flöte, die du\n"
+	.string "gefunden hast, scheint weit älter\l"
+	.string "zu sein.$"
 SinjohRuins_Lab_Text_ArchaeologistDuring:
-	.string "Those plates...\n"
-	.string "The connection to the SINNOH\l"
-	.string "region...\l"
-	.string "That flute....\l"
-	.string "It's all starting to make sense.$"
+	.string "Diese Tafeln…\n"
+	.string "Die Verbindung zur Sinnoh-Region…\l"
+	.string "Diese Flöte…\l"
+	.string "Langsam ergibt alles einen Sinn.$"
 SinjohRuins_Lab_Text_ArchaeologistAfter:
-	.string "The historical value of what\n"
-	.string "you've helped us unearth here\l"
-	.string "cannot be overstated, \l"
-	.string "{PLAYER}.\p"
-	.string "Truly, thank you.$"
+	.string "Der historische Wert dessen, was du\n"
+	.string "uns hier freizulegen geholfen hast,\l"
+	.string "ist gar nicht hoch genug\l"
+	.string "einzuschätzen, {PLAYER}.\p"
+	.string "Wirklich, vielen Dank.$"
 
 SinjohRuins_Lab_EventScript_Growlithe_Hisui::
     lock
@@ -485,8 +497,8 @@ SinjohRuins_Lab_EventScript_GrowlithePokeball::
 	end
 
 SinjohRuins_Lab_Text_GrowlitheBall:
-    .string "This appears to be Growlithe's ball..\n"
-	.string "Better leave it alone.$"
+	.string "Das scheint der Ball von Fukano zu\n"
+	.string "sein… Besser nicht anfassen.$"
 
 SinjohRuins_Lab_EventScript_Biologist::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, SinjohRuins_Lab_EventScript_BiologistAfterEvent
@@ -501,25 +513,27 @@ SinjohRuins_Lab_EventScript_BiologistAfterEvent::
 	end
 
 SinjohRuins_Lab_Text_Biologist:
-    .string "Look at this wonderful specimen!\p"
-	.string "This species of GROWLITHE is unlike\n"
-	.string "those found anywhere else in the\l"
-	.string "world.\p"
-	.string "DNA analysis reveals that it shares\n"
-	.string "a common ancestor with GROWLITHE\l"
-	.string "that can be found in other regions.\p"
-	.string "Yet, its temperament and typing\n"
-	.string "differ significantly.\p"
-	.string "Descriptions of GROWLITHE found in\n"
-	.string "ancient SINNOH records seem to match.\p"
-	.string "Perhaps this species once occupied\n"
-	.string "a much larger territory, stretching\l"
-	.string "north through ancient SINNOH.$"
+	.string "Sieh dir dieses wundervolle Exemplar\n"
+	.string "an!\p"
+	.string "Diese Fukano-Art gleicht keiner\n"
+	.string "anderen auf der ganzen Welt.\p"
+	.string "Die DNS-Analyse zeigt, dass sie\n"
+	.string "einen gemeinsamen Vorfahren mit den\l"
+	.string "Fukano anderer Regionen teilt.\p"
+	.string "Doch Wesen und Typ unterscheiden\n"
+	.string "sich deutlich.\p"
+	.string "Beschreibungen von Fukano in alten\n"
+	.string "Sinnoh-Aufzeichnungen scheinen zu\l"
+	.string "passen.\p"
+	.string "Vielleicht bewohnte diese Art einst\n"
+	.string "ein viel größeres Gebiet, das sich\l"
+	.string "nordwärts durch das alte Sinnoh\l"
+	.string "erstreckte.$"
 SinjohRuins_Lab_Text_BiologistDuring:
-	.string "If the creature at the top of\n"
-	.string "those stairs really is the God\l"
-	.string "of all POKéMON, does that mean\l"
-	.string "it is the first common ancestor?$"
+	.string "Wenn das Wesen am oberen Ende der\n"
+	.string "Treppe wirklich der Gott aller\l"
+	.string "Pokémon ist - heißt das, es ist der\l"
+	.string "erste gemeinsame Vorfahre?$"
 SinjohRuins_Lab_Text_BiologistAfter:
 	.string "I've been able to gather so much\n"
 	.string "data on regional forms and\l"
@@ -551,15 +565,15 @@ SinjohRuins_Lab_Text_Hiker:
 	.string "Makes me feel kinda funny.\n"
 	.string "Y'know?$"
 SinjohRuins_Lab_Text_HikerDuringAfter:
-   	.string "Don't tell anyone, {PLAYER},\n"
-	.string "But I saw that temple on\l"
-	.string "the mountaintop when I first\l"
-	.string "discovered this place.\p"
-	.string "I kept it to myself.\p"
-	.string "I've blabbed enough about\n"
-	.string "these ruins.\p"
-	.string "It seems like everything worked\n"
-	.string "out, at least.$"
+	.string "Sag es niemandem, {PLAYER},\n"
+	.string "aber ich habe den Tempel auf dem\l"
+	.string "Berggipfel schon gesehen, als ich\l"
+	.string "diesen Ort entdeckt habe.\p"
+	.string "Ich habe es für mich behalten.\p"
+	.string "Ich habe schon genug über diese\n"
+	.string "Ruinen ausgeplaudert.\p"
+	.string "Immerhin scheint ja alles gut\n"
+	.string "ausgegangen zu sein.$"
 
 @ENVIRONMENT
 SinjohRuins_Lab_EventScript_Notes1::
@@ -588,16 +602,16 @@ SinjohRuins_Lab_EventScript_Notes8::
 	end
 
 SinjohRuins_Lab_Text_Note1:
-    .string "Research Log 1: May 3, 1975\p"
-	.string "We've arrived at the location\n"
-	.string "of the ruins.\p"
-	.string "The harsh cold of Mt.Silver\n"
-	.string "can be felt from all the way\l"
-	.string "down here...\p"
-	.string "Soon the main excavation team\n"
-	.string "will make it through the mountain..\l"
-	.string "I cannot wait to see what waits for us\l"
-	.string "underneath our feet!$"
+	.string "Forschungslog 1: 3. Mai 1975\p"
+	.string "Wir haben den Standort der Ruinen\n"
+	.string "erreicht.\p"
+	.string "Die beißende Kälte des Silberbergs\n"
+	.string "ist bis hier unten zu spüren…\p"
+	.string "Bald wird das Haupt-Grabungsteam\n"
+	.string "den Berg durchbrochen haben…\l"
+	.string "Ich kann es kaum erwarten, zu sehen,\l"
+	.string "was unter unseren Füßen auf uns\l"
+	.string "wartet!$"
 
 SinjohRuins_Lab_Text_Note2:
     .string "Research Log 2:  May 10, 1975\p"
@@ -612,17 +626,18 @@ SinjohRuins_Lab_Text_Note2:
 	.string "We must find out.$"
 
 SinjohRuins_Lab_Text_Note3:
-    .string "Research Log 3:  May 14, 1975\p"
-	.string "You don't get ahead in life by\n"
-	.string "standing by and doing nothing.\p"
-	.string "I'm just a worker.\p"
-	.string "But I had an idea of how we could\n"
-	.string "break through the ice.\p"
-	.string "Or rather, melt through it.\p"
-	.string "We need FIRE-TYPE POKéMON and\n"
-	.string "lots of them.\p"
-	.string "But how will we get them here\n"
-	.string "all the way from SINNOH?$"
+	.string "Forschungslog 3: 14. Mai 1975\p"
+	.string "Man kommt im Leben nicht voran,\n"
+	.string "wenn man nur herumsteht und nichts\l"
+	.string "tut.\p"
+	.string "Ich bin nur ein Arbeiter.\p"
+	.string "Aber ich hatte eine Idee, wie wir\n"
+	.string "das Eis durchbrechen könnten.\p"
+	.string "Oder besser gesagt: durchschmelzen.\p"
+	.string "Wir brauchen Feuer-Pokémon, und\n"
+	.string "zwar jede Menge.\p"
+	.string "Aber wie bekommen wir sie den weiten\n"
+	.string "Weg aus Sinnoh hierher?$"
 
 SinjohRuins_Lab_Text_Note4:
     .string "Research Log 4:  May 21, 1975\p"
@@ -647,47 +662,48 @@ SinjohRuins_Lab_Text_Note4:
 	.string "soon as possible...$"
 
 SinjohRuins_Lab_Text_Note5:
-    .string "Research Log 5:  June 2, 1975\p"
-	.string "We managed to get it open...\p"
-	.string "I thought I'd be overjoyed...\p"
-	.string "But we lost good men in the blast\n"
-	.string "of energy that sprung from the\l"
-	.string "temple.\p"
-	.string "Not to mention the POKéMON that\n"
-	.string "helped us get it open.\l"
-	.string "God rest their souls...\p"
-	.string "........................\p"
-	.string "Regardless.\p"
-	.string "The temple is open, but we are\n"
-	.string "only left with more questions.\p"
-	.string "There is no legendary POKéMON\n"
-	.string "inside. No treasure.\p"
-	.string "Our supplies are starting to run\n"
-	.string "out and we have nothing to show\l"
-	.string "for our efforts...$"
+	.string "Forschungslog 5: 2. Juni 1975\p"
+	.string "Wir haben ihn geöffnet…\p"
+	.string "Ich dachte, ich wäre überglücklich…\p"
+	.string "Doch wir haben gute Männer in der\n"
+	.string "Energieentladung verloren, die aus\l"
+	.string "dem Tempel schoss.\p"
+	.string "Ganz zu schweigen von den Pokémon,\n"
+	.string "die uns beim Öffnen geholfen haben.\l"
+	.string "Mögen sie in Frieden ruhen…\p"
+	.string "………………\p"
+	.string "Wie dem auch sei.\p"
+	.string "Der Tempel ist offen, doch wir\n"
+	.string "stehen nur vor neuen Fragen.\p"
+	.string "Kein legendäres Pokémon darin.\n"
+	.string "Kein Schatz.\p"
+	.string "Unsere Vorräte gehen zur Neige und\n"
+	.string "wir haben nichts für unsere Mühen\l"
+	.string "vorzuweisen…$"
 
 SinjohRuins_Lab_Text_Note6:
-  	.string "Research Log 6:  June 10, 1975\p"
-    .string "The expedition is done.\n"
-	.string "The rest of the men are packing up.\p"
-	.string "But I can't.\p"
-	.string "I can't abandon this mission.\n"
-	.string "Not after what we've lost.\p"
-	.string "I'm going to stay behind.$"
+	.string "Forschungslog 6: 10. Juni 1975\p"
+	.string "Die Expedition ist beendet.\n"
+	.string "Die übrigen Männer packen zusammen.\p"
+	.string "Aber ich kann nicht.\p"
+	.string "Ich kann diese Mission nicht\n"
+	.string "aufgeben. Nicht nach allem, was wir\l"
+	.string "verloren haben.\p"
+	.string "Ich werde hierbleiben.$"
 
 SinjohRuins_Lab_Text_Note7:
-  	.string "Research Log 7:  September 10, 1975\p"
-	.string "It's been months since we got\n"
-	.string "here. Since I got here.\p"
-	.string "The rest of the men are gone.\p"
-	.string "Now it's just me and the\n"
-	.string "POKéMON we captured to help us\l"
-	.string "with the work.\p"
-	.string "I've been training them to get\n"
-	.string "stronger.\p"
-	.string "My TYPHLOSION, most of all.\p"
-	.string "We must find out what's beneath\n"
-	.string "the temple.$"
+	.string "Forschungslog 7: 10. September 1975\p"
+	.string "Es ist Monate her, seit wir hier\n"
+	.string "ankamen. Seit ich hier ankam.\p"
+	.string "Die übrigen Männer sind fort.\p"
+	.string "Jetzt sind nur noch ich und die\n"
+	.string "Pokémon hier, die wir als Helfer\l"
+	.string "für die Arbeiten gefangen haben.\p"
+	.string "Ich trainiere sie, damit sie\n"
+	.string "stärker werden.\p"
+	.string "Mein Tornupto allen voran.\p"
+	.string "Wir müssen herausfinden, was unter\n"
+	.string "dem Tempel liegt.$"
 
 SinjohRuins_Lab_Text_Note8:
   	.string "Research Log 8:  September 15, 1975\p"
@@ -723,9 +739,8 @@ SinjohRuins_EventScript_DisplayCase::
 	end
 
 SinjohRuins_DisplayCase_Text:
-    .string "It's a display case neatly\n"
-	.string "packed and lined with samples\l"
-	.string "and artifacts!$"
+	.string "Eine Vitrine, ordentlich bestückt\n"
+	.string "mit Proben und Artefakten!$"
 
 SinjohRuins_EventScript_WallSign::
     lock
@@ -734,7 +749,7 @@ SinjohRuins_EventScript_WallSign::
 	end
 
 SinjohRuins_WallSign_Text:
-   .string "Xray and printing lab.$"
+	.string "Röntgen- und Drucklabor.$"
 
 
 SinjohRuins_EventScript_Artifact::
@@ -744,8 +759,8 @@ SinjohRuins_EventScript_Artifact::
    end
 
 SinjohRuins_Artifact_Text:
-   .string "It's an artifact found from\n"
-   .string "inside the ruins!$"
+	.string "Ein Artefakt, das im Inneren der\n"
+	.string "Ruinen gefunden wurde!$"
 
 
 @==========================Unified other map SCRIPTS================================================================================
@@ -755,12 +770,12 @@ SinjohRuins_Lab_EventScript_NoOp::
 	end
 
 SinjohRuins_Lab_Text_PlayFlute:
-	.string "The AZURE FLUTE is reacting.\n"
-	.string "Play the flute?$"
+	.string "Die Azurflöte reagiert.\n"
+	.string "Willst du auf ihr spielen?$"
 
 SinjohRuins_Lab_Text_DropedItem:
-	.string "The NOBLE {STR_VAR_1} dropped\n"
-	.string "an item...$"
+	.string "Das Königliche {STR_VAR_1} ließ\n"
+	.string "ein Item fallen…$"
 
 SinjohRuins_Lab_Text_StevenName:
 	.string "STEVEN$"
@@ -804,70 +819,72 @@ SinjohRuins_Lab_EventScript_16Plates::
 	return
 
 SinjohRuins_Lab_Text_StevenCall3Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "We felt a tremor at the ruins\n"
-	.string "just now.\p"
-	.string "Everyone's fine, don't worry.\p"
-	.string "It's quite intriguing, one of the\n"
-	.string "subterranean chambers beneath the\l"
-	.string "ruins has sprung open.\p"
-	.string "The markings inside remind\n"
-	.string "me of something from HOENN.\p"
-	.string "You should come take a look\n"
-	.string "when you can.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Wir haben gerade eine Erschütterung\n"
+	.string "an den Ruinen gespürt.\p"
+	.string "Keine Sorge, es geht allen gut.\p"
+	.string "Es ist höchst faszinierend: Eine der\n"
+	.string "unterirdischen Kammern unter den\l"
+	.string "Ruinen ist aufgebrochen.\p"
+	.string "Die Zeichen darin erinnern mich an\n"
+	.string "etwas aus Hoenn.\p"
+	.string "Komm vorbei und sieh es dir an,\n"
+	.string "wenn du kannst.$"
 
 SinjohRuins_Lab_Text_StevenCall6Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "How's the search going?\p"
-	.string "We had another tremor here.\n"
-	.string "A second chamber opened up\l"
-	.string "this time.\p"
-	.string "I've asked our geologist to keep\n"
-	.string "his instruments ready in case it\l"
-	.string "happens again.\p"
-	.string "The deeper we dig... The more\n"
-	.string "questions we find.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Wie läuft die Suche?\p"
+	.string "Wir hatten wieder eine Erschütterung.\n"
+	.string "Diesmal hat sich eine zweite Kammer\l"
+	.string "geöffnet.\p"
+	.string "Ich habe unseren Geologen gebeten,\n"
+	.string "seine Instrumente bereitzuhalten,\l"
+	.string "falls es erneut passiert.\p"
+	.string "Je tiefer wir graben… desto mehr\n"
+	.string "Fragen tun sich auf.$"
 
 SinjohRuins_Lab_Text_StevenCall9Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "Another tremor here at the ruins.\p"
-	.string "The data paints an intriguing\n"
-	.string "picture.\p"
-	.string "It wasn't an earthquake at all.\p"
-	.string "Some kind of energy built up\n"
-	.string "underground and cracked the\l"
-	.string "rock open from the inside.\p"
-	.string "What could cause that...\n"
-	.string "I honestly don't know.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Wieder eine Erschütterung hier an\n"
+	.string "den Ruinen.\p"
+	.string "Die Daten zeichnen ein faszinierendes\n"
+	.string "Bild.\p"
+	.string "Es war gar kein Erdbeben.\p"
+	.string "Eine Art Energie hat sich im\n"
+	.string "Untergrund aufgestaut und den Fels\l"
+	.string "von innen aufgesprengt.\p"
+	.string "Was das verursachen könnte…\n"
+	.string "Ich weiß es ehrlich nicht.$"
 
 SinjohRuins_Lab_Text_StevenCall12Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "Another tremor. Another chamber\n"
-	.string "opening up.\p"
-	.string "We still can't figure out the\n"
-	.string "pattern behind the timing.\p"
-	.string "Say, {PLAYER}... you're not\n"
-	.string "doing something to cause all\l"
-	.string "this, are you?\p"
-	.string "No, that can't be right.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Wieder eine Erschütterung. Wieder\n"
+	.string "öffnet sich eine Kammer.\p"
+	.string "Wir können noch immer kein Muster\n"
+	.string "hinter den Zeitpunkten erkennen.\p"
+	.string "Sag mal, {PLAYER}… du steckst\n"
+	.string "nicht etwa hinter alledem, oder?\p"
+	.string "Nein, das kann nicht sein.$"
 
 SinjohRuins_Lab_Text_StevenCall15Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "Did you just find another PLATE?\p"
-	.string ".................\p"
-	.string "Of course.\p"
-	.string "The legendary POKéMON lying\n"
-	.string "in these ruins... they're responding\l"
-	.string "to you, aren't they?\p"
-	.string "As if they want to be found.\p"
-	.string "My predictions usually come true.\n"
-	.string "I should have known better than\l"
-	.string "to doubt you.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Hast du gerade eine weitere Tafel\n"
+	.string "gefunden?\p"
+	.string "………………\p"
+	.string "Natürlich.\p"
+	.string "Die legendären Pokémon, die in\n"
+	.string "diesen Ruinen ruhen… sie reagieren\l"
+	.string "auf dich, nicht wahr?\p"
+	.string "Als wollten sie gefunden werden.\p"
+	.string "Meine Vorahnungen bewahrheiten sich\n"
+	.string "meistens. Ich hätte nicht an dir\l"
+	.string "zweifeln sollen.$"
 
 SinjohRuins_Lab_Text_StevenCall16Plates:
-	.string "STEVEN: {PLAYER}.\p"
-	.string "We're very close now. I can feel it.\p"
-	.string "..................\p"
-	.string "You should come see this for\n"
-	.string "yourself.$"
+	.string "Troy: {PLAYER}.\p"
+	.string "Wir sind jetzt ganz nah dran.\n"
+	.string "Ich kann es spüren.\p"
+	.string "………………\p"
+	.string "Das solltest du dir mit eigenen\n"
+	.string "Augen ansehen.$"
 

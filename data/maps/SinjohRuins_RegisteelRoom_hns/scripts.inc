@@ -25,4 +25,4 @@ SinjohRuins_RegisteelRoom_EventScript_RegisteelRan::
 	end
 
 SinjohRuins_RegisteelRoom_Text_Registeel:
-	.string "REGISTEEL: steestee.$"
+	.string "Registeel: steestee.$"

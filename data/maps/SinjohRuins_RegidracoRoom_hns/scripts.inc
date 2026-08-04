@@ -25,5 +25,5 @@ SinjohRuins_RegidragoRoom_EventScript_RegidragoRan::
 	end
 
 SinjohRuins_RegidragoRoom_Text_Regidrago:
-	.string "REGIDRAGO: Drago!.$"
+	.string "Regidrago: Drago!$"
 

@@ -16624,12 +16624,12 @@ const struct ItemInfo gItemsInfo[] =
 
     [ITEM_AZURE_FLUTE] =
     {
-        .name = ITEM_NAME("AZURE FLUTE"),
+        .name = ITEM_NAME("Azurflöte"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "A flute that puts\n"
-            "out a mystifying\n"
-            "sound."),
+            "Eine Flöte. Ihre\n"
+            "Töne scheinen nicht\n"
+            "von dieser Welt."),
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,

@@ -297,16 +297,16 @@ Alola_Ulaula_Totem_sign_Text_0:
 	.string "einer anderen Insel reisen?$"
 
 Alola_Ulaula_Totem_sign_Text_1:
-	.string "Melemele Isle$"
+	.string "Mele-Mele$"
 
 Alola_Ulaula_Totem_sign_Text_2:
-	.string "Akala Isle$"
+	.string "Akala$"
 
 Alola_Ulaula_Totem_sign_Text_3:
-	.string "Ula'ula Isle$"
+	.string "Ula-Ula$"
 
 Alola_Ulaula_Totem_sign_Text_4:
-	.string "Poni Isle$"
+	.string "Poni$"
 
 Alola_Ulaula_Totem_sign_Text_5:
 	.string "Zurück$"

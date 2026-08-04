@@ -25,4 +25,4 @@ SinjohRuins_RegigigasRoom_EventScript_RegigigasRan::
 	end
 
 SinjohRuins_RegigigasRoom_Text_Regigigas:
-	.string "REGIGIGAS: GiiiiiiG!$"
+	.string "Regigigas: GiiiiiiG!$"

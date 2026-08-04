@@ -25,4 +25,4 @@ SinjohRuins_RegielekiRoom_EventScript_RegielekiRan::
 	end
 
 SinjohRuins_RegielekiRoom_Text_Regieleki:
-	.string "REGIELEKI: LekiLeki!.$"
+	.string "Regieleki: LekiLeki!$"
