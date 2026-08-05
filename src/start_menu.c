@@ -164,7 +164,7 @@ static const struct WindowTemplate sWindowTemplate_StartClock = {
     .bg = 0,
     .tilemapLeft = 1,
     .tilemapTop = 1,
-    .width = 13,
+    .width = 6,
     .height = 2,
     .paletteNum = 15,
     .baseBlock = 0x30
@@ -494,27 +494,10 @@ static void ShowPyramidFloorWindow(void)
     CopyWindowToVram(sBattlePyramidFloorWindowId, COPYWIN_GFX);
 }
 
-#define CLOCK_WINDOW_WIDTH 104
+#define CLOCK_WINDOW_WIDTH 48
 
-static const u8 sText_Saturday[] = _("Samstag,");
-static const u8 sText_Sunday[] = _("Sonntag,");
-static const u8 sText_Monday[] = _("Montag,");
-static const u8 sText_Tuesday[] = _("Dienstag,");
-static const u8 sText_Wednesday[] = _("Mittwoch,");
-static const u8 sText_Thursday[] = _("Donnerstag,");
-static const u8 sText_Friday[] = _("Freitag,");
 static const u8 sText_AM[] = _(" ");
 static const u8 sText_PM[] = _(" ");
-
-static const u8 *const sDayNameStringsTable[7] = {
-    sText_Saturday,
-    sText_Sunday,
-    sText_Monday,
-    sText_Tuesday,
-    sText_Wednesday,
-    sText_Thursday,
-    sText_Friday,
-};
 
 static void ShowTimeWindow(void)
 {
@@ -537,19 +520,14 @@ static void ShowTimeWindow(void)
         suffix = sText_PM;
     }
 
-    StringExpandPlaceholders(gStringVar4, sDayNameStringsTable[((gLocalTime.days % 7) + 7) % 7]);
-    AddTextPrinterParameterized(sStartClockWindowId, FONT_NORMAL, gStringVar4, 0, 1, 0xFF, NULL);
-
     ptr = ConvertIntToDecimalStringN(gStringVar4, convertedHours, STR_CONV_MODE_LEFT_ALIGN, 3);
     *ptr = 0xF0;
     ConvertIntToDecimalStringN(ptr + 1, gLocalTime.minutes, STR_CONV_MODE_LEADING_ZEROS, 2);
     AddTextPrinterParameterized(sStartClockWindowId, FONT_NORMAL, gStringVar4,
-        GetStringRightAlignXOffset(FONT_NORMAL, suffix, CLOCK_WINDOW_WIDTH)
-            - (CLOCK_WINDOW_WIDTH - GetStringRightAlignXOffset(FONT_NORMAL, gStringVar4, CLOCK_WINDOW_WIDTH) + 3),
-        1, 0xFF, NULL);
+        0, 1, 0xFF, NULL);
 
     AddTextPrinterParameterized(sStartClockWindowId, FONT_NORMAL, suffix,
-        GetStringRightAlignXOffset(FONT_NORMAL, suffix, CLOCK_WINDOW_WIDTH), 1, 0xFF, NULL);
+        GetStringWidth(FONT_NORMAL, gStringVar4, 0) + 3, 1, 0xFF, NULL);
 
     CopyWindowToVram(sStartClockWindowId, COPYWIN_GFX);
 }

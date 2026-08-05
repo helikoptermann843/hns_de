@@ -14,6 +14,20 @@ const struct HelpWindow gHelpWindowInfo[] =
         .descFont = FONT_NORMAL,
         .headerColor = {0, 4, 5},
     },
+    [HELP_GAMESTART_WINDOW] =
+    {
+        .header = COMPOUND_STRING("Information: Weitere Optionen"),
+        .desc = COMPOUND_STRING("Die Uhr kannst du in jedem Pokémon-Center\n"
+                                "jederzeit ohne Nachteil umstellen.\n"
+                                "Sieh dir auch die Basis-Items in deinem\n"
+                                "Beutel und das Optionen-Menü an. Dort\n"
+                                "warten noch mehr Anpassungsmöglichkeiten.\n"
+                                "Viel Spaß!"
+                            ),
+        .headerFont = FONT_NORMAL,
+        .descFont = FONT_NORMAL,
+        .headerColor = {0, 8, 3},
+    },
     [HELP_TRADE_WINDOW] =
     {
         .header = COMPOUND_STRING("Warnung: Kompatibilität"),

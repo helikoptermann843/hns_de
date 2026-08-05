@@ -5,8 +5,6 @@ SinjohRuins_RegigigasRoom_EventScript_Regigigas::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGIGIGAS, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegigigasRoom_Text_Regigigas
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGIGIGAS, 80
 	special BattleSetup_StartLegendaryBattle
@@ -23,6 +21,3 @@ SinjohRuins_RegigigasRoom_EventScript_Regigigas::
 SinjohRuins_RegigigasRoom_EventScript_RegigigasRan::
 	release
 	end
-
-SinjohRuins_RegigigasRoom_Text_Regigigas:
-	.string "Regigigas: GiiiiiiG!$"

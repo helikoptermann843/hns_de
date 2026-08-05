@@ -5,8 +5,6 @@ SinjohRuins_RegisteelRoom_EventScript_Registeel::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGISTEEL, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegisteelRoom_Text_Registeel
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGISTEEL, 80
 	special BattleSetup_StartLegendaryBattle
@@ -23,6 +21,3 @@ SinjohRuins_RegisteelRoom_EventScript_Registeel::
 SinjohRuins_RegisteelRoom_EventScript_RegisteelRan::
 	release
 	end
-
-SinjohRuins_RegisteelRoom_Text_Registeel:
-	.string "Registeel: steestee.$"

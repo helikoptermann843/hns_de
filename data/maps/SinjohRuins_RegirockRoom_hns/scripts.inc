@@ -5,8 +5,6 @@ SinjohRuins_RegirockRoom_EventScript_Regirock::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGIROCK, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegirockRoom_Text_Regirock
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGIROCK, 80
 	special BattleSetup_StartLegendaryBattle
@@ -24,5 +22,3 @@ SinjohRuins_RegirockRoom_EventScript_RegirockRan::
 	release
 	end
 
-SinjohRuins_RegirockRoom_Text_Regirock:
-	.string "Regirock: RegiROCK!$"
