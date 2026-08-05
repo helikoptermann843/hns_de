@@ -5553,9 +5553,17 @@ static void HandleEndTurn_BattleWon(void)
         gBattlescriptCurrInstr = BattleScript_FrontierTrainerBattleWon;
 
         if (TRAINER_BATTLE_PARAM.opponentA == TRAINER_FRONTIER_BRAIN)
+        #if IS_HNS
+            PlayBGM(MUS_HG_VICTORY_FRONTIER_BRAIN);
+        #else
             PlayBGM(MUS_VICTORY_GYM_LEADER);
+        #endif
         else
+        #if IS_HNS
+            PlayBGM(MUS_HG_VICTORY_TRAINER);
+        #else
             PlayBGM(MUS_VICTORY_TRAINER);
+        #endif
     }
     else if (gBattleTypeFlags & BATTLE_TYPE_TRAINER && !(gBattleTypeFlags & BATTLE_TYPE_LINK))
     {
@@ -5566,7 +5574,11 @@ static void HandleEndTurn_BattleWon(void)
         {
         case TRAINER_CLASS_ELITE_FOUR:
         case TRAINER_CLASS_CHAMPION:
+        #if IS_HNS
+            PlayBGM(MUS_HG_VICTORY_GYM_LEADER);
+        #else
             PlayBGM(MUS_VICTORY_LEAGUE);
+        #endif
             break;
         case TRAINER_CLASS_TEAM_AQUA:
         case TRAINER_CLASS_TEAM_MAGMA:
@@ -5577,10 +5589,18 @@ static void HandleEndTurn_BattleWon(void)
             PlayBGM(MUS_VICTORY_AQUA_MAGMA);
             break;
         case TRAINER_CLASS_LEADER:
+        #if IS_HNS
+            PlayBGM(MUS_HG_VICTORY_GYM_LEADER);
+        #else
             PlayBGM(MUS_VICTORY_GYM_LEADER);
+        #endif
             break;
         default:
+        #if IS_HNS
+            PlayBGM(MUS_HG_VICTORY_TRAINER);
+        #else
             PlayBGM(MUS_VICTORY_TRAINER);
+        #endif
             break;
         }
     }

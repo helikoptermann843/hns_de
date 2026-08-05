@@ -430,8 +430,13 @@ const u8 *const gBattleStringsTable[STRINGID_COUNT] =
     [STRINGID_ITAPPEAREDCAUGHT]                     = COMPOUND_STRING("Oh!\nFast hätte es geklappt!"),
     [STRINGID_AARGHALMOSTHADIT]                     = COMPOUND_STRING("Mist!\nDas war knapp!"),
     [STRINGID_SHOOTSOCLOSE]                         = COMPOUND_STRING("Verflixt!\nEs hätte beinahe geklappt!"),
+#if IS_HNS
+    [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("Toll!\n{B_DEF_NAME} wurde gefangen!{WAIT_SE}{PLAY_BGM 659}\p"),
+    [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("Toll!\n{B_DEF_NAME} wurde gefangen!{WAIT_SE}{PLAY_BGM 659}{PAUSE 127}"),
+#else
     [STRINGID_GOTCHAPKMNCAUGHTPLAYER]               = COMPOUND_STRING("Toll!\n{B_DEF_NAME} wurde gefangen!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}\p"),
     [STRINGID_GOTCHAPKMNCAUGHTWALLY]                = COMPOUND_STRING("Toll!\n{B_DEF_NAME} wurde gefangen!{WAIT_SE}{PLAY_BGM MUS_CAUGHT}{PAUSE 127}"),
+#endif
     [STRINGID_GIVENICKNAMECAPTURED]                 = COMPOUND_STRING("Möchtest du dem {B_DEF_NAME}\neinen Spitznamen geben?"),
     [STRINGID_PKMNDATAADDEDTODEX]                   = COMPOUND_STRING("Für {B_DEF_NAME} wurde ein Eintrag\nim Pokédex angelegt.\p"),
     [STRINGID_ITISRAINING]                          = COMPOUND_STRING("Es regnet."),
@@ -2992,7 +2997,8 @@ static const u8 *BattleStringGetOpponentNameByTrainerId(u16 trainerId, u8 *text,
     {
         enum TrainerClassID trainerClass = GetTrainerClassFromId(TRAINER_BATTLE_PARAM.opponentA);
 
-        if (trainerClass == TRAINER_CLASS_RIVAL_EARLY_FRLG || trainerClass == TRAINER_CLASS_RIVAL_LATE_FRLG || trainerClass == TRAINER_CLASS_CHAMPION_FRLG)
+        if (trainerClass == TRAINER_CLASS_RIVAL_EARLY_FRLG || trainerClass == TRAINER_CLASS_RIVAL_LATE_FRLG || trainerClass == TRAINER_CLASS_CHAMPION_FRLG
+            || trainerClass == TRAINER_CLASS_RIVAL_HNS)
             toCpy = GetExpandedPlaceholder(PLACEHOLDER_ID_RIVAL);
         else
             toCpy = GetTrainerNameFromId(trainerId);

@@ -112,19 +112,17 @@ Snowswept_Cavern_EventScript_SneaslerRan::
 	release
 	end
 
-
 Snowswept_Cavern_Eventscript_Machamp::
 	lock
 	faceplayer
 	playmoncry SPECIES_MACHAMP, CRY_MODE_ENCOUNTER
     msgbox Snowswept_Text_Machamp_Cry, MSGBOX_AUTOCLOSE
 	waitmoncry 
-    goto_if_eq VAR_SINJOH_STORYLINE, 6, Snowswept_Cavern_EventScript_MachampDuringQuest
     goto_if_ge VAR_SINJOH_STORYLINE, 3, Snowswept_Cavern_Eventscript_Machamp_AfterBoulder
     msgbox Snowswept_Text_Machamp_Plate, MSGBOX_YESNO
     closemessage
     goto_if_eq VAR_RESULT, FALSE, Snowswept_Cavern_Eventscript_Machamp_Ran
-	setwildbattle SPECIES_MACHAMP, 60
+	setwildbossbattle species=SPECIES_MACHAMP, level=75, item=ITEM_NONE, move1_1=MOVE_SEISMIC_TOSS, move1_2=MOVE_ROCK_SLIDE, move1_3=MOVE_BRICK_BREAK move1_4=MOVE_SUBMISSION
     setflag FLAG_NO_WILD_CATCHING
 	setflag FLAG_NO_SHINY
 	dowildbattle
@@ -133,7 +131,11 @@ Snowswept_Cavern_Eventscript_Machamp::
 	specialvar VAR_RESULT, GetBattleOutcome
 	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, Snowswept_Cavern_Eventscript_Machamp_Ran
     playmoncry SPECIES_MACHAMP, CRY_MODE_ENCOUNTER
-
+    msgbox Snowswept_Cavern_Text_DroppedItem, MSGBOX_AUTOCLOSE
+    giveitem ITEM_FIST_PLATE
+    closemessage
+    addvar VAR_PLATECOUNTER, 1
+    setflag FLAG_GOT_FIST_PLATE
 	applymovement2 LOCALID_SNOWSWEPT_CAVERN_MACHAMP, Snowswept_Machamp_Movement
     waitmovement 0
     
@@ -168,27 +170,10 @@ Snowswept_Cavern_Eventscript_Machamp_AfterBoulder::
 	release
 	end
 
-Snowswept_Cavern_EventScript_MachampDuringQuest::
-    goto_if_unset FLAG_GOT_FIST_PLATE, Snowswept_Cavern_EventScript_MachampGivePlate
-    turnobject LOCALID_SNOWSWEPT_CAVERN_MACHAMP, DIR_SOUTH
-	release
-	end
-Snowswept_Cavern_EventScript_MachampGivePlate:: 
-    bufferspeciesname STR_VAR_1, SPECIES_MACHOKE 
-    msgbox SinjohRuins_Lab_Text_DropedItem, MSGBOX_DEFAULT
-    giveitem ITEM_FIST_PLATE
-    addvar VAR_PLATECOUNTER, 1
-    call_if_eq VAR_PLATECOUNTER, 3, SinjohRuins_Lab_EventScript_3Plates
-    call_if_eq VAR_PLATECOUNTER, 6, SinjohRuins_Lab_EventScript_6Plates
-    call_if_eq VAR_PLATECOUNTER, 9, SinjohRuins_Lab_EventScript_9Plates
-    call_if_eq VAR_PLATECOUNTER, 12, SinjohRuins_Lab_EventScript_12Plates
-    call_if_eq VAR_PLATECOUNTER, 15, SinjohRuins_Lab_EventScript_15Plates
-    call_if_eq VAR_PLATECOUNTER, 16, SinjohRuins_Lab_EventScript_16Plates
-    setflag FLAG_GOT_FIST_PLATE
-    turnobject LOCALID_SNOWSWEPT_CAVERN_MACHAMP, DIR_SOUTH
-	release
-	end
-    
+
+Snowswept_Cavern_Text_DroppedItem:
+    .string "The MACHAMP dropped an item...$"
+
 
 Snowswept_Text_Machamp_Cry:
     .string "Mahh!!$"

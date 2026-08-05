@@ -31,6 +31,7 @@ GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock::
 
 GoldenrodCity_UndergroundSwitches_EventScript_AntiSoftLock_TP::
 	warp MAP_GOLDENROD_CITY_UNDERGROUND_SWITCHES_HNS, 2, 25, 5
+	waitstate
 	release
 	end
 

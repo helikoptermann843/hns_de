@@ -5,8 +5,6 @@ SinjohRuins_RegielekiRoom_EventScript_Regieleki::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGIELEKI, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegielekiRoom_Text_Regieleki
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGIELEKI, 80
 	special BattleSetup_StartLegendaryBattle
@@ -23,6 +21,3 @@ SinjohRuins_RegielekiRoom_EventScript_Regieleki::
 SinjohRuins_RegielekiRoom_EventScript_RegielekiRan::
 	release
 	end
-
-SinjohRuins_RegielekiRoom_Text_Regieleki:
-	.string "Regieleki: LekiLeki!$"

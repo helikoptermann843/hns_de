@@ -188,7 +188,6 @@ Alola_Akala_TotemBattle_4:
 	clearflag FLAG_NO_WILD_CATCHING
 	clearflag FLAG_NO_WILD_RUNNING
 	clearflag FLAG_SMART_WILD_AI
-	clearflag FLAG_NO_SHINY
 	release
 	end
 
@@ -200,7 +199,6 @@ Alola_Akala_TotemBattle_7:
 	clearflag FLAG_NO_WILD_CATCHING
 	clearflag FLAG_NO_WILD_RUNNING
 	clearflag FLAG_SMART_WILD_AI
-	clearflag FLAG_NO_SHINY
 	release
 	end
 
@@ -208,7 +206,6 @@ Alola_Akala_TotemBattle_9:
 	clearflag FLAG_NO_WILD_CATCHING
 	clearflag FLAG_NO_WILD_RUNNING
 	clearflag FLAG_SMART_WILD_AI
-	clearflag FLAG_NO_SHINY
 	release
 	end
 
@@ -368,7 +365,8 @@ Alola_Akala_Bench_Heal::
 	msgbox Alola_Akala_Bench_Heal_Text_0, MSGBOX_YESNO
 	compare VAR_RESULT, YES
 	goto_if_eq Alola_Akala_Bench_Heal_2
-Alola_Akala_Bench_Heal_1:
+Alola_Akala_Bench_Heal_1::
+	callnative UpdateFollowingPokemon
 	release
 	end
 

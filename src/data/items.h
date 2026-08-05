@@ -13414,6 +13414,21 @@ const struct ItemInfo gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
+#if IS_HNS
+    [ITEM_TM70] = // Rock Climb
+    {
+        .name = ITEM_NAME("TM70"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Wuchtiger Angriff,\n"
+            "der Gegner\n"
+            "verwirren kann."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+    },
+#else
     [ITEM_TM70] = // Flash
     {
         .name = ITEM_NAME("TM70"),
@@ -13427,6 +13442,7 @@ const struct ItemInfo gItemsInfo[] =
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
+#endif
 
     [ITEM_TM71] = // Stone Edge
     {
@@ -13879,21 +13895,6 @@ const struct ItemInfo gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
 
-#if IS_HNS
-    [ITEM_HM_WHIRLPOOL] =
-    {
-        .name = ITEM_NAME("VM05"),
-        .price = 0,
-        .description = COMPOUND_STRING(
-            "Fängt den Gegner in\n"
-            "einem tosenden\n"
-            "Strudel."),
-        .importance = 1,
-        .pocket = POCKET_TM_HM,
-        .type = ITEM_USE_PARTY_MENU,
-        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-    },
-#else
     [ITEM_HM_FLASH] =
     {
         .name = ITEM_NAME("VM05"),
@@ -13907,7 +13908,6 @@ const struct ItemInfo gItemsInfo[] =
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
     },
-#endif
 
     [ITEM_HM_ROCK_SMASH] =
     {
@@ -13938,14 +13938,14 @@ const struct ItemInfo gItemsInfo[] =
     },
 
 #if IS_HNS
-    [ITEM_HM_ROCK_CLIMB] =
+    [ITEM_HM_WHIRLPOOL] =
     {
         .name = ITEM_NAME("VM08"),
         .price = 0,
         .description = COMPOUND_STRING(
-            "Wuchtiger Angriff,\n"
-            "der Gegner\n"
-            "verwirren kann."),
+            "Fängt den Gegner in\n"
+            "einem tosenden\n"
+            "Strudel."),
         .importance = 1,
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,

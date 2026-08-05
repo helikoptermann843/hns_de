@@ -5,8 +5,6 @@ SinjohRuins_RegiceRoom_EventScript_Regice::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGICE, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegiceRoom_Text_Regice
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGICE, 80
 	special BattleSetup_StartLegendaryBattle
@@ -23,7 +21,4 @@ SinjohRuins_RegiceRoom_EventScript_Regice::
 SinjohRuins_RegiceRoom_EventScript_RegiceRan::
 	release
 	end
-
-SinjohRuins_RegiceRoom_Text_Regice:
-	.string "Regice: Regiceee!$"
 

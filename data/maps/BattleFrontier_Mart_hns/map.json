@@ -1,7 +1,6 @@
 {
   "id": "MAP_BATTLE_FRONTIER_MART_HNS",
   "name": "BattleFrontier_Mart_hns",
-  "game_version": "hns",
   "layout": "LAYOUT_MART_HNS",
   "music": "MUS_POKE_MART",
   "region_map_section": "MAPSEC_BATTLE_FRONTIER",
@@ -17,7 +16,7 @@
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_MART_EMPLOYEE_HNS",
-      "x": 2,
+      "x": 1,
       "y": 3,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
@@ -30,7 +29,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_WOMAN_3_HNS",
-      "x": 6,
+      "x": 5,
       "y": 4,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
@@ -43,7 +42,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_OLD_MAN_2_HNS",
-      "x": 6,
+      "x": 5,
       "y": 5,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_RIGHT",
@@ -56,7 +55,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BOY_2_HNS",
-      "x": 9,
+      "x": 8,
       "y": 4,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
@@ -69,7 +68,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MART_EMPLOYEE_HNS",
-      "x": 1,
+      "x": 0,
       "y": 1,
       "elevation": 4,
       "movement_type": "MOVEMENT_TYPE_INVISIBLE",
@@ -82,7 +81,7 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MART_EMPLOYEE_HNS",
-      "x": 2,
+      "x": 1,
       "y": 1,
       "elevation": 3,
       "movement_type": "MOVEMENT_TYPE_INVISIBLE",
@@ -111,5 +110,6 @@
     }
   ],
   "coord_events": [],
-  "bg_events": []
+  "bg_events": [],
+  "game_version": "hns"
 }

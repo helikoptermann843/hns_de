@@ -73,7 +73,7 @@
     F(RECYCLE) \
     F(GIGA_IMPACT) \
     F(ROCK_POLISH) \
-    F(FLASH) \
+    F(ROCK_CLIMB) \
     F(STONE_EDGE) \
     F(AVALANCHE) \
     F(THUNDER_WAVE) \
@@ -102,10 +102,10 @@
     F(FLY) \
     F(SURF) \
     F(STRENGTH) \
-    F(WHIRLPOOL) \
+    F(FLASH) \
     F(ROCK_SMASH) \
     F(WATERFALL) \
-    F(ROCK_CLIMB)
+    F(WHIRLPOOL)
 
 #else
 

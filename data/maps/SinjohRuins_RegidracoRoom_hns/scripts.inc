@@ -5,8 +5,6 @@ SinjohRuins_RegidragoRoom_EventScript_Regidrago::
 	lock
 	faceplayer
 	playmoncry SPECIES_REGIDRAGO, CRY_MODE_ENCOUNTER
-	msgbox SinjohRuins_RegidragoRoom_Text_Regidrago
-	delay 40
 	waitmoncry
 	seteventmon SPECIES_REGIDRAGO, 80
 	special BattleSetup_StartLegendaryBattle
@@ -23,7 +21,3 @@ SinjohRuins_RegidragoRoom_EventScript_Regidrago::
 SinjohRuins_RegidragoRoom_EventScript_RegidragoRan::
 	release
 	end
-
-SinjohRuins_RegidragoRoom_Text_Regidrago:
-	.string "Regidrago: Drago!$"
-
