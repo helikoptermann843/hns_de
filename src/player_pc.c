@@ -171,7 +171,7 @@ static EWRAM_DATA struct ItemStorageMenu *sItemStorageMenu = NULL;
 static const u8 sText_WithdrawItem[] = _("Item Nehmen");
 static const u8 sText_DepositItem[] = _("Item Lagern");
 static const u8 sText_TossItem[] = _("Item Wegwerfen");
-static const u8 sText_Mailbox[] = _("MAILBOX");
+static const u8 sText_Mailbox[] = _("Mailbox");
 
 static const u8 sText_WithdrawHowManyItems[] = _("Wieviele\n{STR_VAR_1} nehmen?");
 static const u8 sText_WithdrawXItems[] = _("Nahm {STR_VAR_2}\n{STR_VAR_1}.");
