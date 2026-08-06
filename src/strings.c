@@ -538,7 +538,7 @@ const u8 gText_BattleItems[] = _("Kampfitems");
 const u8 gText_Treasures[] = _("Schätze");
 #endif
 const u8 gText_SomeonesPC[] = _("Jemandes PC");
-const u8 gText_LanettesPC[] = _("Bills PC");
+const u8 gText_LanettesPC[] = _("Lanettes PC");
 const u8 gText_BillsPc[] = _("Bills PC");
 const u8 gText_PlayersPC[] = _("PC von {PLAYER}");
 const u8 gText_HallOfFame[] = _("Ruhmeshalle");

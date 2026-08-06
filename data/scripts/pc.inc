@@ -135,7 +135,7 @@ EventScript_AccessSomeonesPC::
 	return
 
 EventScript_AccessLanettesPC::
-#if IS_FRLG
+#if IS_FRLG || IS_HNS
 	msgbox gText_AccessedBillsPC, MSGBOX_DEFAULT
 #else
 	msgbox gText_AccessedLanettesPC, MSGBOX_DEFAULT

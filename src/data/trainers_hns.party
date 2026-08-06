@@ -13,7 +13,6 @@ Geodude
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROSS_HNS ===
 Name: Martin
 Class: Collector Hns
@@ -31,7 +30,6 @@ Raichu
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MITCH_HNS ===
 Name: Hasso
 Class: Collector Hns
@@ -44,7 +42,6 @@ AI: Check Bad Move
 Electrode
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JED_HNS ===
 Name: Theodor
@@ -63,7 +60,6 @@ Porygon
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MARC_HNS ===
 Name: Marc
 Class: Collector Hns
@@ -76,7 +72,6 @@ AI: Check Bad Move
 Omastar
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RICH_HNS ===
 Name: Rasso
@@ -91,7 +86,6 @@ Porygon
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JOEY_HNS ===
 Name: Julian
 Class: Youngster Hns
@@ -104,7 +98,6 @@ AI: Check Bad Move
 Rattata
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_MIKEY_HNS ===
 Name: Dietrich
@@ -123,7 +116,6 @@ Sentret
 Level: 4
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ALBERT_HNS ===
 Name: Niels
 Class: Youngster Hns
@@ -141,7 +133,6 @@ Zubat
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GORDON_HNS ===
 Name: Tommy
 Class: Youngster Hns
@@ -154,7 +145,6 @@ AI: Check Bad Move
 Wooper
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SAMUEL_HNS ===
 Name: Guido
@@ -177,7 +167,6 @@ Spearow
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_IAN_HNS ===
 Name: Lorenz
 Class: Youngster Hns
@@ -195,7 +184,6 @@ Diglett
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WARREN_HNS ===
 Name: Johannes
 Class: Youngster Hns
@@ -208,7 +196,6 @@ AI: Check Bad Move
 Fearow
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JIMMY_HNS ===
 Name: Edmund
@@ -227,7 +214,6 @@ Arbok
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_OWEN_HNS ===
 Name: Frieder
 Class: Youngster Hns
@@ -240,7 +226,6 @@ AI: Check Bad Move
 Arcanine
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JASON_HNS ===
 Name: Werner
@@ -259,7 +244,6 @@ Crobat
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JACK_HNS ===
 Name: Julius
 Class: School Kid Hns
@@ -276,7 +260,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Voltorb
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KIPP_HNS ===
 Name: Michel
@@ -295,7 +278,6 @@ Magnemite
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ALAN_HNS ===
 Name: Holger
 Class: School Kid Hns
@@ -313,7 +295,6 @@ Growlithe
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JOHNNY_HNS ===
 Name: Niklas
 Class: School Kid Hns
@@ -330,7 +311,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Victreebel
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DANNY_HNS ===
 Name: Björn
@@ -353,7 +333,6 @@ Magmar
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TOMMY_HNS ===
 Name: Torben
 Class: School Kid Hns
@@ -371,7 +350,6 @@ Alakazam
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DUDLEY_HNS ===
 Name: Flavio
 Class: School Kid Hns
@@ -384,7 +362,6 @@ AI: Check Bad Move
 Vileplume
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JOE_HNS ===
 Name: Konrad
@@ -402,7 +379,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Vaporeon
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BILLY_HNS ===
 Name: Sandro
@@ -425,7 +401,6 @@ Ditto
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CHAD_HNS ===
 Name: Lutz
 Class: School Kid Hns
@@ -442,7 +417,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Magnemite
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NATE_HNS ===
 Name: Rudolf
@@ -461,7 +435,6 @@ Exeggutor
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RICKY_HNS ===
 Name: Enrico
 Class: School Kid Hns
@@ -478,7 +451,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ditto
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ROD_HNS ===
 Name: Klaus
@@ -497,7 +469,6 @@ Natu
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ABE_HNS ===
 Name: Leo
 Class: Bird Keeper Hns
@@ -510,7 +481,6 @@ AI: Check Bad Move
 Spearow
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRYAN_HNS ===
 Name: Otto
@@ -533,7 +503,6 @@ Spearow
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_THEO_HNS ===
 Name: Eugen
 Class: Bird Keeper Hns
@@ -546,7 +515,6 @@ AI: Check Bad Move
 Murkrow
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TOBY_HNS ===
 Name: Timo
@@ -565,7 +533,6 @@ Doduo
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DENIS_HNS ===
 Name: Benno
 Class: Bird Keeper Hns
@@ -582,7 +549,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Fearow
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_VANCE_HNS ===
 Name: Arno
@@ -609,7 +575,6 @@ Skarmory
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HANK_HNS ===
 Name: Jim
 Class: Bird Keeper Hns
@@ -627,7 +592,6 @@ Pidgeot
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROY_HNS ===
 Name: Chris
 Class: Biker Hns
@@ -644,7 +608,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Fearow
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BORIS_HNS ===
 Name: Frank
@@ -667,7 +630,6 @@ Dodrio
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BOB_HNS ===
 Name: Egon
 Class: Bird Keeper Hns
@@ -680,7 +642,6 @@ AI: Check Bad Move
 Noctowl
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JOSE_HNS ===
 Name: Elmar
@@ -707,7 +668,6 @@ Dodrio
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PETER_HNS ===
 Name: Rico
 Class: Bird Keeper Hns
@@ -725,7 +685,6 @@ Natu
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PERRY_HNS ===
 Name: Marko
 Class: Bird Keeper Hns
@@ -738,7 +697,6 @@ AI: Check Bad Move
 Farfetchd
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRET_HNS ===
 Name: Melvin
@@ -757,7 +715,6 @@ Fearow
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CARRIE_HNS ===
 Name: Jennifer
 Class: Lass Hns
@@ -770,7 +727,6 @@ AI: Check Bad Move
 Happiny
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRIDGET_HNS ===
 Name: Bettina
@@ -788,7 +744,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Munchlax
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ALICE_HNS ===
 Name: Gabriele
@@ -811,7 +766,6 @@ Vileplume
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KRISE_HNS ===
 Name: Monika
 Class: Lass Hns
@@ -829,7 +783,6 @@ Cubone
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CONNIE_HNS ===
 Name: Ramona
 Class: Lass Hns
@@ -846,7 +799,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Weepinbell
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LINDA_HNS ===
 Name: Svantje
@@ -869,7 +821,6 @@ Muk
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LAURA_HNS ===
 Name: Adriane
 Class: Lass Hns
@@ -890,7 +841,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Politoed
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SHANNON_HNS ===
 Name: Franziska
@@ -913,7 +863,6 @@ Parasect
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MICHELLE_HNS ===
 Name: Stefanie
 Class: Lass Hns
@@ -935,7 +884,6 @@ Jumpluff
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DANA_HNS ===
 Name: Rosemarie
 Class: Lass Hns
@@ -953,7 +901,6 @@ Psyduck
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ELLEN_HNS ===
 Name: Verena
 Class: Lass Hns
@@ -970,7 +917,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Granbull
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NICK_HNS ===
 Name: Lars
@@ -993,7 +939,6 @@ Bulbasaur
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_AARON_HNS ===
 Name: Erno
 Class: Cooltrainer Hns
@@ -1014,7 +959,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Wartortle
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_PAUL_HNS ===
 Name: Paul
@@ -1041,7 +985,6 @@ Dragonair
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CODY_HNS ===
 Name: Arnd
 Class: Dragon Tamer Hns
@@ -1067,7 +1010,6 @@ Dragonair
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MIKE_HNS ===
 Name: Ralf
 Class: Dragon Tamer Hns
@@ -1088,7 +1030,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Vaporeon
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GAVEN_HNS ===
 Name: Maik
@@ -1119,7 +1060,6 @@ Dragonair
 Level: 50
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RYAN_HNS ===
 Name: Arne
 Class: Cooltrainer Hns
@@ -1140,7 +1080,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Magmar
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JAKE_HNS ===
 Name: Fred
@@ -1171,7 +1110,6 @@ Jolteon
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BLAKE_HNS ===
 Name: Ed
 Class: Cooltrainer Hns
@@ -1196,7 +1134,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Piloswine
 Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRIAN_HNS ===
 Name: Andro
@@ -1223,7 +1160,6 @@ Ursaring
 Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ERICK_HNS ===
 Name: Lars
 Class: Cooltrainer Hns
@@ -1244,7 +1180,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Squirtle
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ANDY_HNS ===
 Name: Lars
@@ -1267,7 +1202,6 @@ Squirtle
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TYLER_HNS ===
 Name: Lars
 Class: Cooltrainer Hns
@@ -1289,7 +1223,6 @@ Squirtle
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SEAN_HNS ===
 Name: Amon
 Class: Cooltrainer Hns
@@ -1310,7 +1243,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Tauros
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KEVIN_HNS ===
 Name: Nico
@@ -1337,7 +1269,6 @@ Charizard
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_STEVE_HNS ===
 Name: Lars
 Class: Cooltrainer Hns
@@ -1359,7 +1290,6 @@ Squirtle
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ALLEN_HNS ===
 Name: Stan
 Class: Cooltrainer Hns
@@ -1376,7 +1306,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Electabuzz
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DARIN_HNS ===
 Name: Remus
@@ -1403,7 +1332,6 @@ Dragonair
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GWEN_HNS ===
 Name: Angi
 Class: Cooltrainer Hns
@@ -1429,7 +1357,6 @@ Jolteon
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LOIS_HNS ===
 Name: Karo
 Class: Cooltrainer Hns
@@ -1446,7 +1373,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Ninetales
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_FRAN_HNS ===
 Name: Alma
@@ -1468,7 +1394,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Dragonair
 Level: 41
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LOLA_HNS ===
 Name: Rosi
@@ -1495,7 +1420,6 @@ Dragonair
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KATE_HNS ===
 Name: Edna
 Class: Cooltrainer Hns
@@ -1513,7 +1437,6 @@ Cloyster
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_IRENE_HNS ===
 Name: Lola
 Class: Cooltrainer Hns
@@ -1530,7 +1453,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seaking
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KELLY_HNS ===
 Name: Mira
@@ -1556,7 +1478,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Blastoise
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JOYCE_HNS ===
 Name: Susi
@@ -1587,7 +1508,6 @@ Jumpluff
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BETH_HNS ===
 Name: Dea
 Class: Cooltrainer Hns
@@ -1616,7 +1536,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Gengar
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_REENA_HNS ===
 Name: Bea
@@ -1647,7 +1566,6 @@ Starmie
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MEGAN_HNS ===
 Name: Maja
 Class: Cooltrainer Hns
@@ -1673,7 +1591,6 @@ Bellossom
 Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CAROL_HNS ===
 Name: Bine
 Class: Cooltrainer Hns
@@ -1695,7 +1612,6 @@ Ninetales
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_QUINN_HNS ===
 Name: Ilka
 Class: Cooltrainer Hns
@@ -1713,7 +1629,6 @@ Starmie
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_EMMA_HNS ===
 Name: Ulla
 Class: Cooltrainer Hns
@@ -1726,7 +1641,6 @@ AI: Check Bad Move
 Poliwhirl
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CYBIL_HNS ===
 Name: Kora
@@ -1749,7 +1663,6 @@ Quagsire
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JENN_HNS ===
 Name: Else
 Class: Cooltrainer Hns
@@ -1766,7 +1679,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Starmie
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CARA_HNS ===
 Name: Cara
@@ -1789,7 +1701,6 @@ Gyarados
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_VICTORIA_HNS ===
 Name: Martha
 Class: Beauty Hns
@@ -1807,7 +1718,6 @@ Furret
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SAMANTHA_HNS ===
 Name: Tina
 Class: Beauty Hns
@@ -1820,7 +1730,6 @@ AI: Check Bad Move
 Meowth
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JULIE_HNS ===
 Name: Julie
@@ -1835,7 +1744,6 @@ Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JACLYN_HNS ===
 Name: Jaclyn
 Class: Beauty Hns
@@ -1849,7 +1757,6 @@ Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BRENDA_HNS ===
 Name: Brenda
 Class: Beauty Hns
@@ -1862,7 +1769,6 @@ AI: Check Bad Move
 Furret
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CASSIE_HNS ===
 Name: Mirjam
@@ -1880,7 +1786,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Jynx
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CAROLINE_HNS ===
 Name: Anne
@@ -1903,7 +1808,6 @@ Marill
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CARLENE_HNS ===
 Name: Carlene
 Class: Beauty Hns
@@ -1916,7 +1820,6 @@ AI: Check Bad Move
 Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JESSICA_HNS ===
 Name: Jessica
@@ -1931,7 +1834,6 @@ Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RACHAEL_HNS ===
 Name: Rachael
 Class: Beauty Hns
@@ -1944,7 +1846,6 @@ AI: Check Bad Move
 Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ANGELICA_HNS ===
 Name: Angelica
@@ -1959,7 +1860,6 @@ Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KENDRA_HNS ===
 Name: Undine
 Class: Beauty Hns
@@ -1973,7 +1873,6 @@ Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_VERONICA_HNS ===
 Name: Veronica
 Class: Beauty Hns
@@ -1986,7 +1885,6 @@ AI: Check Bad Move
 Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JULIA_HNS ===
 Name: Vivian
@@ -2009,7 +1907,6 @@ Sunflora
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_THERESA_HNS ===
 Name: Theresa
 Class: Beauty Hns
@@ -2022,7 +1919,6 @@ AI: Check Bad Move
 Sentret
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_VALERIE_HNS ===
 Name: Jutta
@@ -2041,7 +1937,6 @@ Miltank
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_OLIVIA_HNS ===
 Name: Tiffy
 Class: Beauty Hns
@@ -2055,7 +1950,6 @@ Corsola
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LARRY_HNS ===
 Name: Satoru
 Class: Pokemaniac Hns
@@ -2068,7 +1962,6 @@ AI: Check Bad Move
 Larvitar
 Level: 10
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ANDREW_HNS ===
 Name: Kenji
@@ -2087,7 +1980,6 @@ Marowak
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CALVIN_HNS ===
 Name: Kengo
 Class: Pokemaniac Hns
@@ -2100,7 +1992,6 @@ AI: Check Bad Move
 Kangaskhan
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SHANE_HNS ===
 Name: Goro
@@ -2119,7 +2010,6 @@ Nidoking
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BEN_HNS ===
 Name: Kouji
 Class: Pokemaniac Hns
@@ -2136,7 +2026,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Wartortle
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRENT_HNS ===
 Name: Taro
@@ -2155,7 +2044,6 @@ Ivysaur
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RON_HNS ===
 Name: Hiro
 Class: Pokemaniac Hns
@@ -2172,7 +2060,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Charmeleon
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ETHAN_HNS ===
 Name: Hide
@@ -2191,7 +2078,6 @@ Rhydon
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ISSAC_HNS ===
 Name: Takao
 Class: Pokemaniac Hns
@@ -2204,7 +2090,6 @@ AI: Check Bad Move
 Lickitung
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DONALD_HNS ===
 Name: Shoya
@@ -2222,7 +2107,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Slowpoke
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ZACH_HNS ===
 Name: Akira
@@ -2245,7 +2129,6 @@ Heracross
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MILLER_HNS ===
 Name: Pelle
 Class: Pokemaniac Hns
@@ -2262,7 +2145,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Nidoqueen
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_HNS ===
 Name: Rüpel
@@ -2285,7 +2167,6 @@ Houndour
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_2_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2307,7 +2188,6 @@ Raticate
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_3_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2324,7 +2204,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Muk
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_4_HNS ===
 Name: Rüpel
@@ -2347,7 +2226,6 @@ Aipom
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_5_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2364,7 +2242,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hypno
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_6_HNS ===
 Name: Rüpel
@@ -2387,7 +2264,6 @@ Forretress
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_7_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2405,7 +2281,6 @@ Venomoth
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_8_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2422,7 +2297,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Slowbro
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_9_HNS ===
 Name: Rüpel
@@ -2445,7 +2319,6 @@ Electabuzz
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_10_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2463,7 +2336,6 @@ Muk
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_11_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2480,7 +2352,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Weezing
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_12_HNS ===
 Name: Rüpel
@@ -2503,7 +2374,6 @@ Hypno
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_13_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2517,7 +2387,6 @@ Kangaskhan
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_14_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2530,7 +2399,6 @@ AI: Check Bad Move
 Golbat
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_15_HNS ===
 Name: Rüpel
@@ -2553,7 +2421,6 @@ Golbat
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_16_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2566,7 +2433,6 @@ AI: Check Bad Move
 Venomoth
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_17_HNS ===
 Name: Rüpel
@@ -2584,7 +2450,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Gligar
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_18_HNS ===
 Name: Rüpel
@@ -2607,7 +2472,6 @@ Raticate
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_19_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2620,7 +2484,6 @@ AI: Check Bad Move
 Weezing
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_20_HNS ===
 Name: Rüpel
@@ -2639,7 +2502,6 @@ Arbok
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_21_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2657,7 +2519,6 @@ Rattata
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_22_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2674,7 +2535,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Zubat
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_23_HNS ===
 Name: Rüpel
@@ -2696,7 +2556,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Arbok
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_24_HNS ===
 Name: Rüpel
@@ -2727,7 +2586,6 @@ Cloyster
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_25_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2745,7 +2603,6 @@ Ekans
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_26_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2762,7 +2619,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Gloom
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_27_HNS ===
 Name: Rüpel
@@ -2789,7 +2645,6 @@ Murkrow
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_28_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2815,7 +2670,6 @@ Vileplume
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_29_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2833,7 +2687,6 @@ Sneasel
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_30_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2847,7 +2700,6 @@ Items: Full Restore / Full Restore
 Golbat
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRUNT_31_HNS ===
 Name: Rüpel
@@ -2863,7 +2715,6 @@ Koffing
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_32_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2878,7 +2729,6 @@ Zubat
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRUNT_33_HNS ===
 Name: Rüpel
 Class: Team Rocket Hns
@@ -2892,7 +2742,6 @@ Items: Full Restore / Full Restore
 Koffing
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ETO_HNS ===
 Name: Eto
@@ -2914,7 +2763,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Smoochum
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ETO_2_HNS ===
 Name: Eto
@@ -2940,7 +2788,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Electabuzz
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ETO_3_HNS ===
 Name: Eto
@@ -2971,7 +2818,6 @@ Rhydon
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PRESTON_HNS ===
 Name: Felix
 Class: Gentleman Hns
@@ -2989,7 +2835,6 @@ Vulpix
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_EDWARD_HNS ===
 Name: Charles
 Class: Gentleman Hns
@@ -3002,7 +2847,6 @@ AI: Check Bad Move
 Persian
 Level: 63
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GREGORY_HNS ===
 Name: Alfred
@@ -3021,7 +2865,6 @@ Ampharos
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_VIRGIL_HNS ===
 Name: Osman
 Class: Gentleman Hns
@@ -3034,7 +2877,6 @@ AI: Check Bad Move
 Ponyta
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ALFRED_HNS ===
 Name: Hubert
@@ -3049,7 +2891,6 @@ Noctowl
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROXANNE_HNS ===
 Name: Helga
 Class: Skier Hns
@@ -3062,7 +2903,6 @@ AI: Check Bad Move
 Jynx
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CLARISSA_HNS ===
 Name: Svenja
@@ -3077,7 +2917,6 @@ Dewgong
 Level: 31
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_COLETTE_HNS ===
 Name: Inca
 Class: Expert Hns
@@ -3090,7 +2929,6 @@ AI: Check Bad Move
 Clefairy
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HILLARY_HNS ===
 Name: Sylvia
@@ -3109,7 +2947,6 @@ Cubone
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SHIRLEY_HNS ===
 Name: Hiltrud
 Class: Expert Hns
@@ -3126,7 +2963,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Wigglytuff
 Level: 63
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DON_HNS ===
 Name: Uli
@@ -3145,7 +2981,6 @@ Spinarak
 Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROB_HNS ===
 Name: Götz
 Class: Bug Catcher Hns
@@ -3162,7 +2997,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Butterfree
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ED_HNS ===
 Name: Alan
@@ -3185,7 +3019,6 @@ Beedrill
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WADE_HNS ===
 Name: Greg
 Class: Bug Catcher Hns
@@ -3202,7 +3035,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Pineco
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BENNY_HNS ===
 Name: Axel
@@ -3221,7 +3053,6 @@ Beedrill
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_AL_HNS ===
 Name: Jörg
 Class: Bug Catcher Hns
@@ -3239,7 +3070,6 @@ Butterfree
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JOSH_HNS ===
 Name: Enno
 Class: Bug Catcher Hns
@@ -3252,7 +3082,6 @@ AI: Check Bad Move
 Yanma
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ARNIE_HNS ===
 Name: Udo
@@ -3271,7 +3100,6 @@ Venonat
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KEN_HNS ===
 Name: Rudi
 Class: Bug Catcher Hns
@@ -3289,7 +3117,6 @@ Pinsir
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DOUG_HNS ===
 Name: Bert
 Class: Bug Catcher Hns
@@ -3302,7 +3129,6 @@ AI: Check Bad Move
 Ariados
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_WAYNE_HNS ===
 Name: This
@@ -3321,7 +3147,6 @@ Oddish
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JUSTIN_HNS ===
 Name: Albrecht
 Class: Fisherman Hns
@@ -3335,7 +3160,6 @@ Tentacool
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RALPH_HNS ===
 Name: Angelo
 Class: Fisherman Hns
@@ -3348,7 +3172,6 @@ AI: Check Bad Move
 Goldeen
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ARNOLD_HNS ===
 Name: Adam
@@ -3366,7 +3189,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Quagsire
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KYLE_HNS ===
 Name: Alain
@@ -3389,7 +3211,6 @@ Seaking
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HENRY_HNS ===
 Name: Selim
 Class: Fisherman Hns
@@ -3406,7 +3227,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Poliwag
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_MARVIN_HNS ===
 Name: Anselm
@@ -3425,7 +3245,6 @@ Gyarados
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TULLY_HNS ===
 Name: Amadeus
 Class: Fisherman Hns
@@ -3438,7 +3257,6 @@ AI: Check Bad Move
 Qwilfish
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ANDRE_HNS ===
 Name: Alois
@@ -3453,7 +3271,6 @@ Gyarados
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RAYMOND_HNS ===
 Name: Albert
 Class: Fisherman Hns
@@ -3466,7 +3283,6 @@ AI: Check Bad Move
 Vaporeon
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_WILTON_HNS ===
 Name: Alfried
@@ -3489,7 +3305,6 @@ Seaking
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_EDGAR_HNS ===
 Name: Albin
 Class: Fisherman Hns
@@ -3510,7 +3325,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seaking
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JONAH_HNS ===
 Name: Ansgar
@@ -3537,7 +3351,6 @@ Cloyster
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MARTIN_HNS ===
 Name: Anton
 Class: Fisherman Hns
@@ -3554,7 +3367,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Octillery
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_STEPHEN_HNS ===
 Name: Adrian
@@ -3581,7 +3393,6 @@ Tentacruel
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BARNEY_HNS ===
 Name: Armin
 Class: Fisherman Hns
@@ -3602,7 +3413,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Gyarados
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SCOTT_HNS ===
 Name: Arthur
@@ -3629,7 +3439,6 @@ Quagsire
 Level: 43
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HAROLD_HNS ===
 Name: Anatol
 Class: Swimmer M Hns
@@ -3646,7 +3455,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seadra
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SIMON_HNS ===
 Name: Grigory
@@ -3665,7 +3473,6 @@ Tentacool
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RANDALL_HNS ===
 Name: Milos
 Class: Swimmer M Hns
@@ -3683,7 +3490,6 @@ Wartortle
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CHARLIE_HNS ===
 Name: Pavel
 Class: Swimmer M Hns
@@ -3700,7 +3506,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Tentacruel
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GEORGE_HNS ===
 Name: Petru
@@ -3723,7 +3528,6 @@ Staryu
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BERKE_HNS ===
 Name: Yevgeny
 Class: Swimmer M Hns
@@ -3736,7 +3540,6 @@ AI: Check Bad Move
 Qwilfish
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KIRK_HNS ===
 Name: Genadi
@@ -3755,7 +3558,6 @@ Gyarados
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MATHEW_HNS ===
 Name: Alexei
 Class: Swimmer M Hns
@@ -3772,7 +3574,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Qwilfish
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HAL_HNS ===
 Name: Hal
@@ -3795,7 +3596,6 @@ Seel
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PATON_HNS ===
 Name: Paton
 Class: Swimmer M Hns
@@ -3812,7 +3612,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Piloswine
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DARYL_HNS ===
 Name: Daryl
@@ -3835,7 +3634,6 @@ Shellder
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WALTER_HNS ===
 Name: Bogdan
 Class: Swimmer M Hns
@@ -3856,7 +3654,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seadra
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TONY_HNS ===
 Name: Tony
@@ -3879,7 +3676,6 @@ Horsea
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JEROME_HNS ===
 Name: Igor
 Class: Swimmer M Hns
@@ -3901,7 +3697,6 @@ Seaking
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TUCKER_HNS ===
 Name: Ottmar
 Class: Swimmer M Hns
@@ -3918,7 +3713,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Cloyster
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RICK_HNS ===
 Name: Rick
@@ -3941,7 +3735,6 @@ Horsea
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CAMERON_HNS ===
 Name: Dimitri
 Class: Swimmer M Hns
@@ -3954,7 +3747,6 @@ AI: Check Bad Move
 Azumarill
 Level: 64
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SETH_HNS ===
 Name: Nicolai
@@ -3977,7 +3769,6 @@ Gyarados
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JAMES_HNS ===
 Name: James
 Class: Swimmer M Hns
@@ -3998,7 +3789,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Horsea
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LEWIS_HNS ===
 Name: Lewis
@@ -4021,7 +3811,6 @@ Horsea
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PARKER_HNS ===
 Name: Bogdan
 Class: Swimmer M Hns
@@ -4043,7 +3832,6 @@ Seadra
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ELAINE_HNS ===
 Name: Käte
 Class: Swimmer F Hns
@@ -4056,7 +3844,6 @@ AI: Check Bad Move
 Starmie
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_PAULA_HNS ===
 Name: Elfi
@@ -4074,7 +3861,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Shellder
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KAYLEE_HNS ===
 Name: Karin
@@ -4097,7 +3883,6 @@ Quagsire
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SUSIE_HNS ===
 Name: Thekla
 Class: Swimmer F Hns
@@ -4115,7 +3900,6 @@ Seaking
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DENISE_HNS ===
 Name: Magda
 Class: Swimmer F Hns
@@ -4128,7 +3912,6 @@ AI: Check Bad Move
 Lapras
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KARA_HNS ===
 Name: Heike
@@ -4147,7 +3930,6 @@ Starmie
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WENDY_HNS ===
 Name: Gerarda
 Class: Swimmer F Hns
@@ -4165,7 +3947,6 @@ Seadra
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LISA_HNS ===
 Name: Lisa
 Class: Swimmer F Hns
@@ -4178,7 +3959,6 @@ AI: Check Bad Move
 Jynx
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JILL_HNS ===
 Name: Svenja
@@ -4193,7 +3973,6 @@ Dewgong
 Level: 28
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MARY_HNS ===
 Name: Klara
 Class: Swimmer F Hns
@@ -4206,7 +3985,6 @@ AI: Check Bad Move
 Seaking
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KATIE_HNS ===
 Name: Anke
@@ -4221,7 +3999,6 @@ Dewgong
 Level: 33
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DAWN_HNS ===
 Name: Klara
 Class: Swimmer F Hns
@@ -4235,7 +4012,6 @@ Seaking
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TARA_HNS ===
 Name: Klara
 Class: Swimmer F Hns
@@ -4248,7 +4024,6 @@ AI: Check Bad Move
 Seaking
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NICOLE_HNS ===
 Name: Elke
@@ -4267,7 +4042,6 @@ Lapras
 Level: 63
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LORI_HNS ===
 Name: Doris
 Class: Swimmer F Hns
@@ -4285,7 +4059,6 @@ Starmie
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JODY_HNS ===
 Name: Klara
 Class: Swimmer F Hns
@@ -4298,7 +4071,6 @@ AI: Check Bad Move
 Seaking
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NIKKI_HNS ===
 Name: Thea
@@ -4321,7 +4093,6 @@ Dewgong
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DIANA_HNS ===
 Name: Heidi
 Class: Swimmer F Hns
@@ -4342,7 +4113,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Corsola
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BRIANA_HNS ===
 Name: Helene
@@ -4365,7 +4135,6 @@ Seaking
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_EUGENE_HNS ===
 Name: Justus
 Class: Sailor Hns
@@ -4382,7 +4151,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Tauros
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HUEY_HNS ===
 Name: Nepomuk
@@ -4401,7 +4169,6 @@ Machop
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TERRELL_HNS ===
 Name: Pepe
 Class: Sailor Hns
@@ -4414,7 +4181,6 @@ AI: Check Bad Move
 Poliwhirl
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KENT_HNS ===
 Name: Ferdinand
@@ -4432,7 +4198,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Chinchou
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ERNEST_HNS ===
 Name: Lenny
@@ -4455,7 +4220,6 @@ Quagsire
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JEFF_HNS ===
 Name: Ole
 Class: Sailor Hns
@@ -4473,7 +4237,6 @@ Furret
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GARRETT_HNS ===
 Name: Kasimir
 Class: Sailor Hns
@@ -4486,7 +4249,6 @@ AI: Check Bad Move
 Kingler
 Level: 64
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KENNETH_HNS ===
 Name: Olaf
@@ -4513,7 +4275,6 @@ Machamp
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_STANLY_HNS ===
 Name: Pascal
 Class: Sailor Hns
@@ -4535,7 +4296,6 @@ Golduck
 Level: 54
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HARRY_HNS ===
 Name: Pierre
 Class: Sailor Hns
@@ -4549,7 +4309,6 @@ Quagsire
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_STAN_HNS ===
 Name: Stan
 Class: Super Nerd Hns
@@ -4562,7 +4321,6 @@ AI: Check Bad Move
 Grimer
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ERIC_HNS ===
 Name: Ramon
@@ -4580,7 +4338,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Cubone
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GREGG_HNS ===
 Name: Randolf
@@ -4603,7 +4360,6 @@ Magnemite
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JAY_HNS ===
 Name: Jay
 Class: Super Nerd Hns
@@ -4621,7 +4377,6 @@ Koffing
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DAVE_HNS ===
 Name: Dave
 Class: Super Nerd Hns
@@ -4635,7 +4390,6 @@ Ditto
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SAM_HNS ===
 Name: Torsten
 Class: Super Nerd Hns
@@ -4648,7 +4402,6 @@ AI: Check Bad Move
 Porygon2
 Level: 62
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TOM_HNS ===
 Name: Tom
@@ -4671,7 +4424,6 @@ Steelix
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PAT_HNS ===
 Name: Thilo
 Class: Super Nerd Hns
@@ -4692,7 +4444,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Porygon2
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SHAWN_HNS ===
 Name: Raimund
@@ -4715,7 +4466,6 @@ Magneton
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TERU_HNS ===
 Name: Rolf
 Class: Super Nerd Hns
@@ -4736,7 +4486,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Porygon
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RUSS_HNS ===
 Name: Christian
@@ -4759,7 +4508,6 @@ Magnemite
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_NORTON_HNS ===
 Name: Thilo
 Class: Super Nerd Hns
@@ -4772,7 +4520,6 @@ AI: Check Bad Move
 Porygon
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HUGH_HNS ===
 Name: Randalf
@@ -4787,7 +4534,6 @@ Seadra
 Level: 39
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MARKUS_HNS ===
 Name: Urban
 Class: Super Nerd Hns
@@ -4801,7 +4547,6 @@ Slowpoke
 Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CLYDE_HNS ===
 Name: Jimmy
 Class: Guitarist Hns
@@ -4814,7 +4559,6 @@ AI: Check Bad Move
 Electabuzz
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_VINCENT_HNS ===
 Name: Joe
@@ -4841,7 +4585,6 @@ Jolteon
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ANTHONY_HNS ===
 Name: Tom
 Class: Hiker Hns
@@ -4859,7 +4602,6 @@ Machop
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RUSSELL_HNS ===
 Name: Burkard
 Class: Hiker Hns
@@ -4876,7 +4618,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Cubone
 Level: 8
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_PHILLIP_HNS ===
 Name: Dominik
@@ -4899,7 +4640,6 @@ Graveler
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LEONARD_HNS ===
 Name: Wendelin
 Class: Hiker Hns
@@ -4917,7 +4657,6 @@ Machop
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BENJAMIN_HNS ===
 Name: Wolfgang
 Class: Hiker Hns
@@ -4934,7 +4673,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Dugtrio
 Level: 24
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ERIK_HNS ===
 Name: Wieland
@@ -4957,7 +4695,6 @@ Kangaskhan
 Level: 37
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MICHAEL_HNS ===
 Name: Phillip
 Class: Hiker Hns
@@ -4979,7 +4716,6 @@ Golem
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PARRY_HNS ===
 Name: Günter
 Class: Hiker Hns
@@ -5000,7 +4736,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Steelix
 Level: 48
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TIMOTHY_HNS ===
 Name: Roman
@@ -5026,7 +4761,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Dugtrio
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BAILEY_HNS ===
 Name: Ludwig
@@ -5057,7 +4791,6 @@ Golem
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TIM_HNS ===
 Name: Hartmut
 Class: Hiker Hns
@@ -5079,7 +4812,6 @@ Quagsire
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_NOLAND_HNS ===
 Name: Theodor
 Class: Hiker Hns
@@ -5097,7 +4829,6 @@ Golem
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SIDNEY_HNS ===
 Name: Bernward
 Class: Hiker Hns
@@ -5114,7 +4845,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Steelix
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KENNY_HNS ===
 Name: Hilmar
@@ -5141,7 +4871,6 @@ Graveler
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JIM_HNS ===
 Name: Dejan
 Class: Hiker Hns
@@ -5154,7 +4883,6 @@ AI: Check Bad Move
 Machamp
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DEVIN_HNS ===
 Name: Giuseppe
@@ -5177,7 +4905,6 @@ Dudunsparce
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DANIEL_HNS ===
 Name: Karel
 Class: Hiker Hns
@@ -5190,7 +4917,6 @@ AI: Check Bad Move
 Onix
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_KAZU_HNS ===
 Name: Kazu
@@ -5212,7 +4938,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Koffing
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DWAYNE_HNS ===
 Name: Elert
@@ -5239,7 +4964,6 @@ Koffing
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HARRIS_HNS ===
 Name: Francois
 Class: Biker Hns
@@ -5252,7 +4976,6 @@ AI: Check Bad Move
 Flareon
 Level: 59
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ZEKE_HNS ===
 Name: Egidius
@@ -5270,7 +4993,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Muk
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CHARLES_HNS ===
 Name: Fridolin
@@ -5293,7 +5015,6 @@ Weezing
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RILEY_HNS ===
 Name: Hannes
 Class: Biker Hns
@@ -5306,7 +5027,6 @@ AI: Check Bad Move
 Weezing
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JOEL_HNS ===
 Name: Manuel
@@ -5324,7 +5044,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Electabuzz
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GLENN_HNS ===
 Name: Hektor
@@ -5347,7 +5066,6 @@ Weezing
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DUNCAN_HNS ===
 Name: Pit
 Class: Burglar Hns
@@ -5364,7 +5082,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Magmar
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_EDDIE_HNS ===
 Name: Franco
@@ -5383,7 +5100,6 @@ Weezing
 Level: 35
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RICHARDO_HNS ===
 Name: Franco
 Class: Burglar Hns
@@ -5401,7 +5117,6 @@ Growlithe
 Level: 19
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_NARD_HNS ===
 Name: Wulf
 Class: Firebreather Hns
@@ -5414,7 +5129,6 @@ AI: Check Bad Move
 Charmeleon
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_COREY_HNS ===
 Name: Eduard
@@ -5441,7 +5155,6 @@ Koffing
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_OTIS_HNS ===
 Name: Fitz
 Class: Firebreather Hns
@@ -5463,7 +5176,6 @@ Magmar
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DICK_HNS ===
 Name: Wulf
 Class: Firebreather Hns
@@ -5476,7 +5188,6 @@ AI: Check Bad Move
 Charmeleon
 Level: 17
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NED_HNS ===
 Name: Sam
@@ -5499,7 +5210,6 @@ Koffing
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BURT_HNS ===
 Name: Toni
 Class: Firebreather Hns
@@ -5517,7 +5227,6 @@ Magcargo
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BILL_HNS ===
 Name: Veit
 Class: Firebreather Hns
@@ -5530,7 +5239,6 @@ AI: Check Bad Move
 Growlithe
 Level: 11
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_WALT_HNS ===
 Name: Wolf
@@ -5549,7 +5257,6 @@ Magmar
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RAY_HNS ===
 Name: Ude
 Class: Firebreather Hns
@@ -5562,7 +5269,6 @@ AI: Check Bad Move
 Vulpix
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LYLE_HNS ===
 Name: Wim
@@ -5585,7 +5291,6 @@ Ninetales
 Level: 54
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_IRWIN_HNS ===
 Name: Erich
 Class: Juggler Hns
@@ -5607,7 +5312,6 @@ Voltorb
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_FRITZ_HNS ===
 Name: Eike
 Class: Juggler Hns
@@ -5628,7 +5332,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Machoke
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HORTON_HNS ===
 Name: Ignaz
@@ -5655,7 +5358,6 @@ Electrode
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KENJI_HNS ===
 Name: Timon
 Class: Black Belt Hns
@@ -5681,7 +5383,6 @@ Hitmonlee
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_YOSHI_HNS ===
 Name: Xaver
 Class: Black Belt Hns
@@ -5695,7 +5396,6 @@ Hitmonlee
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LAO_HNS ===
 Name: Jeff
 Class: Black Belt Hns
@@ -5708,7 +5408,6 @@ AI: Check Bad Move
 Hitmonchan
 Level: 29
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NOB_HNS ===
 Name: Peter
@@ -5727,7 +5426,6 @@ Machoke
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KIYO_HNS ===
 Name: Leif
 Class: Black Belt Hns
@@ -5744,7 +5442,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Hitmonchan
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LUNG_HNS ===
 Name: Tim
@@ -5767,7 +5464,6 @@ Primeape
 Level: 27
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WAI_HNS ===
 Name: Ulf
 Class: Black Belt Hns
@@ -5789,7 +5485,6 @@ Machamp
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_NATHAN_HNS ===
 Name: Lionel
 Class: Psychic M Hns
@@ -5803,7 +5498,6 @@ Girafarig
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_FRANKLIN_HNS ===
 Name: Frederic
 Class: Psychic M Hns
@@ -5816,7 +5510,6 @@ AI: Check Bad Move
 Alakazam
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_HERMAN_HNS ===
 Name: Marcel
@@ -5839,7 +5532,6 @@ Starmie
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_FIDEL_HNS ===
 Name: Jean
 Class: Psychic M Hns
@@ -5853,7 +5545,6 @@ Xatu
 Level: 54
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GREG_HNS ===
 Name: Laurent
 Class: Psychic M Hns
@@ -5866,7 +5557,6 @@ AI: Check Bad Move
 Stantler
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NORMAN_HNS ===
 Name: Andre
@@ -5884,7 +5574,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Slowpoke
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_MARK_HNS ===
 Name: Jaques
@@ -5907,7 +5596,6 @@ Kadabra
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PHIL_HNS ===
 Name: Rene
 Class: Psychic M Hns
@@ -5928,7 +5616,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Girafarig
 Level: 36
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RICHARD_HNS ===
 Name: Wulf
@@ -5951,7 +5638,6 @@ Slowking
 Level: 45
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GILBERT_HNS ===
 Name: Cyrille
 Class: Psychic M Hns
@@ -5972,7 +5658,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Girafarig
 Level: 44
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JARED_HNS ===
 Name: Rainier
@@ -5995,7 +5680,6 @@ Exeggutor
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RODNEY_HNS ===
 Name: Henry
 Class: Psychic M Hns
@@ -6013,7 +5697,6 @@ Hypno
 Level: 63
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LIZ_HNS ===
 Name: Anette
 Class: Picnicker Hns
@@ -6026,7 +5709,6 @@ AI: Check Bad Move
 Nidoran F
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GINA_HNS ===
 Name: Gudrun
@@ -6045,7 +5727,6 @@ Bulbasaur
 Level: 14
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BROOKE_HNS ===
 Name: Nina
 Class: Picnicker Hns
@@ -6059,7 +5740,6 @@ Pikachu
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KIM_HNS ===
 Name: Emilie
 Class: Picnicker Hns
@@ -6072,7 +5752,6 @@ AI: Check Bad Move
 Vulpix
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_CINDY_HNS ===
 Name: Cindy
@@ -6091,7 +5770,6 @@ Nidoqueen
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HOPE_HNS ===
 Name: Evelyn
 Class: Picnicker Hns
@@ -6104,7 +5782,6 @@ AI: Check Bad Move
 Ampharos
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SHARON_HNS ===
 Name: Astrid
@@ -6123,7 +5800,6 @@ Rapidash
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DEBRA_HNS ===
 Name: Hedwig
 Class: Picnicker Hns
@@ -6136,7 +5812,6 @@ AI: Check Bad Move
 Seaking
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ERIN_HNS ===
 Name: Nanette
@@ -6163,7 +5838,6 @@ Rapidash
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HEIDI_HNS ===
 Name: Marika
 Class: Picnicker Hns
@@ -6180,7 +5854,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Seadra
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_EDNA_HNS ===
 Name: Kerstin
@@ -6199,7 +5872,6 @@ Raichu
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TIFFANY_HNS ===
 Name: Ilona
 Class: Picnicker Hns
@@ -6216,7 +5888,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Wigglytuff
 Level: 34
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TANYA_HNS ===
 Name: Nicole
@@ -6239,7 +5910,6 @@ Sunflora
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROLAND_HNS ===
 Name: Erwin
 Class: Camper Hns
@@ -6253,7 +5923,6 @@ Nidoran M
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TODD_HNS ===
 Name: Bodo
 Class: Camper Hns
@@ -6266,7 +5935,6 @@ AI: Check Bad Move
 Azumarill
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_IVAN_HNS ===
 Name: Ewald
@@ -6285,7 +5953,6 @@ Diglett
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ELLIOT_HNS ===
 Name: Kilian
 Class: Camper Hns
@@ -6302,7 +5969,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Marill
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_BARRY_HNS ===
 Name: Till
@@ -6321,7 +5987,6 @@ Nidoking
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LLOYD_HNS ===
 Name: Waldemar
 Class: Camper Hns
@@ -6334,7 +5999,6 @@ AI: Check Bad Move
 Nidoking
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DEAN_HNS ===
 Name: Steffan
@@ -6352,7 +6016,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Kangaskhan
 Level: 57
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_SID_HNS ===
 Name: Karl
@@ -6375,7 +6038,6 @@ Poliwrath
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_HARVEY_HNS ===
 Name: Harvey
 Class: Camper Hns
@@ -6389,7 +6051,6 @@ Nidorino
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DALE_HNS ===
 Name: Wotan
 Class: Camper Hns
@@ -6402,7 +6063,6 @@ AI: Check Bad Move
 Nidorino
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TED_HNS ===
 Name: Patrick
@@ -6424,7 +6084,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Nidoking
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_THOMAS_HNS ===
 Name: Thomas
@@ -6451,7 +6110,6 @@ Golduck
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_LEROY_HNS ===
 Name: Leroy
 Class: Camper Hns
@@ -6476,7 +6134,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Golduck
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DAVID_HNS ===
 Name: David
@@ -6503,7 +6160,6 @@ Golduck
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JOHN_HNS ===
 Name: John
 Class: Camper Hns
@@ -6529,7 +6185,6 @@ Golduck
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JERRY_HNS ===
 Name: Walter
 Class: Camper Hns
@@ -6551,7 +6206,6 @@ Donphan
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRANT_HNS ===
 Name: Donatello
 Class: Camper Hns
@@ -6569,7 +6223,6 @@ Marill
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SPENCER_HNS ===
 Name: Moritz
 Class: Camper Hns
@@ -6586,7 +6239,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Golbat
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_QUENTIN_HNS ===
 Name: Quentin
@@ -6613,7 +6265,6 @@ Raichu
 Level: 38
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CHOW_HNS ===
 Name: Helmut
 Class: Sage Hns
@@ -6634,7 +6285,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Bellsprout
 Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NICO_HNS ===
 Name: Eckart
@@ -6657,7 +6307,6 @@ Bellsprout
 Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JIN_HNS ===
 Name: Detlev
 Class: Sage Hns
@@ -6670,7 +6319,6 @@ AI: Check Bad Move
 Bellsprout
 Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TROY_HNS ===
 Name: Ingolf
@@ -6688,7 +6336,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Bellsprout
 Level: 7
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JEFFREY_HNS ===
 Name: Heribert
@@ -6711,7 +6358,6 @@ Murkrow
 Level: 21
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_PING_HNS ===
 Name: Monty
 Class: Sage Hns
@@ -6724,7 +6370,6 @@ AI: Check Bad Move
 Misdreavus
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_EDMOND_HNS ===
 Name: Ludger
@@ -6747,7 +6392,6 @@ Bellsprout
 Level: 3
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_NEAL_HNS ===
 Name: Lukas
 Class: Sage Hns
@@ -6760,7 +6404,6 @@ AI: Check Bad Move
 Bellsprout
 Level: 6
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LI_HNS ===
 Name: Marek
@@ -6783,7 +6426,6 @@ Bellsprout
 Level: 9
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GAKU_HNS ===
 Name: Gaku
 Class: Sage Hns
@@ -6804,7 +6446,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Victreebel
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_MASA_HNS ===
 Name: Masa
@@ -6827,7 +6468,6 @@ Victreebel
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KOJI_HNS ===
 Name: Koji
 Class: Hex Maniac Hns
@@ -6849,7 +6489,6 @@ Victreebel
 Level: 40
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MARTHA_HNS ===
 Name: Zenobia
 Class: Hex Maniac Hns
@@ -6866,7 +6505,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Houndour
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GRACE_HNS ===
 Name: Dorothea
@@ -6885,7 +6523,6 @@ Murkrow
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BETHANY_HNS ===
 Name: Thusnelda
 Class: Hex Maniac Hns
@@ -6898,7 +6535,6 @@ AI: Check Bad Move
 Haunter
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_MARGRET_HNS ===
 Name: Margret
@@ -6913,7 +6549,6 @@ Haunter
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ETHEL_HNS ===
 Name: Rolanda
 Class: Hex Maniac Hns
@@ -6926,7 +6561,6 @@ AI: Check Bad Move
 Haunter
 Level: 25
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_REBECCA_HNS ===
 Name: Anastasia
@@ -6949,7 +6583,6 @@ Hypno
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DORIS_HNS ===
 Name: Doris
 Class: Psychic Hns
@@ -6971,7 +6604,6 @@ Xatu
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RONALD_HNS ===
 Name: Genadi
 Class: Skier Hns
@@ -6989,7 +6621,6 @@ Delibird
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BRAD_HNS ===
 Name: Kuno
 Class: Skier Hns
@@ -7006,7 +6637,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Sneasel
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DOUGLAS_HNS ===
 Name: Georg
@@ -7029,7 +6659,6 @@ Cloyster
 Level: 30
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_WILLIAM_HNS ===
 Name: Wilhelm
 Class: Pokefan Hns
@@ -7042,7 +6671,6 @@ AI: Check Bad Move
 Raichu
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DEREK_HNS ===
 Name: Söncke
@@ -7061,7 +6689,6 @@ Ponyta
 Level: 22
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ROBERT_HNS ===
 Name: Winfried
 Class: Pokefan Hns
@@ -7074,7 +6701,6 @@ AI: Check Bad Move
 Kangaskhan
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JOSHUA_HNS ===
 Name: Jürgen
@@ -7097,7 +6723,6 @@ Pikachu
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_CARTER_HNS ===
 Name: Ernst
 Class: Pokefan Hns
@@ -7119,7 +6744,6 @@ Totodile
 Level: 65
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_TREVOR_HNS ===
 Name: Reinhold
 Class: Juggler Hns
@@ -7133,7 +6757,6 @@ Scizor
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BRANDON_HNS ===
 Name: Irmgard
 Class: Pokefan Hns
@@ -7146,7 +6769,6 @@ AI: Check Bad Move
 Snubbull
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JEREMY_HNS ===
 Name: Jeremy
@@ -7169,7 +6791,6 @@ Meowth
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_COLIN_HNS ===
 Name: Wolfram
 Class: Pokefan Hns
@@ -7182,7 +6803,6 @@ AI: Check Bad Move
 Delibird
 Level: 56
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_ALEX_HNS ===
 Name: Johann
@@ -7205,7 +6825,6 @@ Seaking
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_REX_HNS ===
 Name: Laslo
 Class: Pokefan Hns
@@ -7219,7 +6838,6 @@ Stantler
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ALLAN_HNS ===
 Name: Allan
 Class: Camper HnS
@@ -7231,7 +6849,6 @@ AI: Check Bad Move
 
 Granbull
 Level: 55
-
 
 === TRAINER_NAOKO_HNS ===
 Name: Umeko
@@ -7249,7 +6866,6 @@ Level: 48
 - Swift
 - Last Resort
 
-
 === TRAINER_SAYO_HNS ===
 Name: Sakura
 Class: Kimono Girl Hns
@@ -7265,7 +6881,6 @@ Level: 48
 - Double Team
 - Thunder Wave
 - Last Resort
-
 
 === TRAINER_ZUKI_HNS ===
 Name: Tamao
@@ -7283,7 +6898,6 @@ Level: 48
 - Shadow Ball
 - Last Resort
 
-
 === TRAINER_KUNI_HNS ===
 Name: Komomo
 Class: Kimono Girl Hns
@@ -7300,7 +6914,6 @@ Level: 48
 - Aurora Beam
 - Last Resort
 
-
 === TRAINER_MIKI_HNS ===
 Name: Satsuki
 Class: Kimono Girl Hns
@@ -7316,7 +6929,6 @@ Level: 48
 - Quick Attack
 - Will O Wisp
 - Last Resort
-
 
 === TRAINER_AMY_AND_MAY_HNS ===
 Name: Eva&Ute
@@ -7335,7 +6947,6 @@ Spinarak
 Level: 12
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_ANN_AND_ANNE_HNS ===
 Name: Nora&Jo
 Class: Twins Hns
@@ -7352,7 +6963,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Furret
 Level: 18
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_JO_AND_ZOE_HNS ===
 Name: Tia&Tara
@@ -7371,7 +6981,6 @@ Vileplume
 Level: 58
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_MEG_AND_PEG_HNS ===
 Name: Zoe&Pia
 Class: Twins Hns
@@ -7388,7 +6997,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Donphan
 Level: 54
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LEA_AND_PIA_HNS ===
 Name: Jana&Nana
@@ -7415,7 +7023,6 @@ Gyarados
 Level: 42
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_BEVERLY_HNS ===
 Name: Irmgard
 Class: Parasol Lady Hns
@@ -7429,7 +7036,6 @@ Snubbull
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RUTH_HNS ===
 Name: Ruth
 Class: Parasol Lady Hns
@@ -7442,7 +7048,6 @@ AI: Check Bad Move
 Pikachu
 Level: 23
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_GEORGIA_HNS ===
 Name: Juliane
@@ -7473,7 +7078,6 @@ Sentret
 Level: 61
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_JAMIE_HNS ===
 Name: Jaime
 Class: Parasol Lady Hns
@@ -7487,7 +7091,6 @@ Umbreon
 Level: 20
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_KEITH_HNS ===
 Name: Mick
 Class: Officer Hns
@@ -7500,7 +7103,6 @@ AI: Check Bad Move
 Growlithe
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_DIRK_HNS ===
 Name: Dirk
@@ -7519,7 +7121,6 @@ Houndour
 Level: 16
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_THOM_AND_KAE_HNS ===
 Name: Nele&Uwe
 Class: Young Couple Hns
@@ -7537,7 +7138,6 @@ Magmar
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_DUFF_AND_EDA_HNS ===
 Name: Mari&Piz
 Class: Young Couple Hns
@@ -7554,7 +7154,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Cloyster
 Level: 26
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_FALKNER_1_HNS ===
 Name: Falk
@@ -7578,7 +7177,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Tackle
 - Mud Slap
 - Peck
-
 
 === TRAINER_FALKNER_2_HNS ===
 Name: Falk
@@ -7638,7 +7236,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Steel Wing
 - Hurricane
 
-
 === TRAINER_BUGSY_1_HNS ===
 Name: Kai
 Class: Leader Hns
@@ -7672,7 +7269,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Fury Cutter
 - U Turn 
 - Pursuit
-
 
 === TRAINER_BUGSY_2_HNS ===
 Name: Kai
@@ -7732,7 +7328,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Air Slash
 - Roost
 
-
 === TRAINER_WHITNEY_1_HNS ===
 Name: Bianka
 Class: Leader Hns
@@ -7766,7 +7361,6 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Attract
 - Stomp
 - Milk Drink
-
 
 === TRAINER_WHITNEY_2_HNS ===
 Name: Bianka
@@ -7826,7 +7420,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Gyro Ball
 - Supersonic
 
-
 === TRAINER_MORTY_1_HNS ===
 Name: Jens
 Class: Leader Hns
@@ -7868,7 +7461,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Shadow Ball
 - Mean Look
 - Dream Eater
-
 
 === TRAINER_MORTY_2_HNS ===
 Name: Jens
@@ -7928,7 +7520,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Will O Wisp
 - Dark Pulse
 
-
 === TRAINER_PRYCE_1_HNS ===
 Name: Norbert
 Class: Leader Hns
@@ -7970,7 +7561,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Earthquake
 - Ancient Power
 - Ice Fang
-
 
 === TRAINER_PRYCE_2_HNS ===
 Name: Norbert
@@ -8030,7 +7620,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Dark Pulse
 - Blizzard
 
-
 === TRAINER_PRYCE_1_2_HNS ===
 Name: Norbert
 Class: Leader Hns
@@ -8080,7 +7669,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Earthquake
 - Ancient Power
 - Ice Fang
-
 
 === TRAINER_PRYCE_1_3_HNS ===
 Name: Norbert
@@ -8132,7 +7720,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Ancient Power
 - Ice Fang
 
-
 === TRAINER_JASMINE_1_HNS ===
 Name: Jasmin
 Class: Leader Hns
@@ -8182,7 +7769,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Earthquake
 - Rock Slide
 - Iron Tail
-
 
 === TRAINER_JASMINE_2_HNS ===
 Name: Jasmin
@@ -8242,7 +7828,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Slide
 - Iron Tail
 
-
 === TRAINER_JASMINE_1_2_HNS ===
 Name: Jasmin
 Class: Leader Hns
@@ -8292,7 +7877,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Earthquake
 - Rock Slide
 - Iron Tail
-
 
 === TRAINER_JASMINE_1_3_HNS ===
 Name: Jasmin
@@ -8344,7 +7928,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rock Slide
 - Iron Tail
 
-
 === TRAINER_CHUCK_1_HNS ===
 Name: Hartwig
 Class: Leader Hns
@@ -8386,7 +7969,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Mind Reader
 - Surf
 - Dynamic Punch
-
 
 === TRAINER_CHUCK_2_HNS ===
 Name: Hartwig
@@ -8446,7 +8028,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Belly Drum
 - Body Slam
 
-
 === TRAINER_CHUCK_1_2_HNS ===
 Name: Hartwig
 Class: Leader Hns
@@ -8496,7 +8077,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Mind Reader
 - Surf
 - Dynamic Punch
-
 
 === TRAINER_CHUCK_1_3_HNS ===
 Name: Hartwig
@@ -8548,7 +8128,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Waterfall
 - Dynamic Punch
 
-
 === TRAINER_CLAIR_1_HNS ===
 Name: Sandra
 Class: Leader Hns
@@ -8598,7 +8177,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Surf
 - Hyper Beam
 - Dragon Pulse
-
 
 === TRAINER_CLAIR_2_HNS ===
 Name: Sandra
@@ -8658,7 +8236,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Ice Beam
 - Dragon Pulse
 
-
 === TRAINER_BROCK_HNS ===
 Name: Rocko
 Class: Leader Hns
@@ -8716,7 +8293,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Stone Axe
 - X Scissor
 - Agility
-
 
 === TRAINER_MISTY_HNS ===
 Name: Misty
@@ -8776,7 +8352,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Recover
 - Thunderbolt
 
-
 === TRAINER_LTSURGE_HNS ===
 Name: Major Bob
 Class: Leader Hns
@@ -8834,7 +8409,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Rain Dance
 - Body Slam
 - Surf
-
 
 === TRAINER_ERIKA_HNS ===
 Name: Erika
@@ -8894,7 +8468,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Stun Spore
 - Attract
 
-
 === TRAINER_SABRINA_HNS ===
 Name: Sabrina
 Class: Leader Hns
@@ -8952,7 +8525,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Psychic
 - Recover
 - Calm Mind
-
 
 === TRAINER_JANINE_HNS ===
 Name: Janina
@@ -9012,7 +8584,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Toxic
 - Double Team
 
-
 === TRAINER_BLAINE_HNS ===
 Name: Pyro
 Class: Leader Hns
@@ -9070,7 +8641,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Eruption
 - Yawn
 - Amnesia
-
 
 === TRAINER_BLUE_HNS ===
 Name: Blau
@@ -9130,7 +8700,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Crunch
 - Extreme Speed
 
-
 === TRAINER_BLUE_2_HNS ===
 Name: Blau
 Class: Leader Hns
@@ -9189,7 +8758,6 @@ IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
 - Crunch
 - Extreme Speed
 
-
 === TRAINER_WILL_1_HNS ===
 Name: Willi
 Class: Elite Four Hns
@@ -9234,7 +8802,6 @@ Level: 50
 - Recover
 - Confuse Ray
 - Psychic
-
 
 === TRAINER_WILL_2_HNS ===
 Name: Willi
@@ -9288,7 +8855,6 @@ Level: 68
 - Confuse Ray
 - Protect
 
-
 === TRAINER_BRUNO_1_HNS ===
 Name: Bruno
 Class: Elite Four Hns
@@ -9333,7 +8899,6 @@ Level: 54
 - Fire Punch
 - Vital Throw
 - Cross Chop
-
 
 === TRAINER_BRUNO_2_HNS ===
 Name: Bruno
@@ -9387,7 +8952,6 @@ Level: 68
 - Body Slam
 - Cross Chop
 
-
 === TRAINER_KAREN_1_HNS ===
 Name: Melanie
 Class: Elite Four Hns
@@ -9432,7 +8996,6 @@ Level: 55
 - Crunch
 - Iron Tail
 - Reversal
-
 
 === TRAINER_KAREN_2_HNS ===
 Name: Melanie
@@ -9486,7 +9049,6 @@ Level: 69
 - Iron Tail
 - Hidden Power
 
-
 === TRAINER_KOGA_1_HNS ===
 Name: Koga
 Class: Elite Four Hns
@@ -9531,7 +9093,6 @@ Level: 52
 - Toxic
 - Bite
 - Confuse Ray
-
 
 === TRAINER_KOGA_2_HNS ===
 Name: Koga
@@ -9585,7 +9146,6 @@ Level: 68
 - Toxic
 - Confuse Ray
 
-
 === TRAINER_LANCE_1_HNS ===
 Name: Siegfried
 Class: Champion Hns
@@ -9638,7 +9198,6 @@ Level: 56
 - Outrage
 - Hyper Beam
 
-
 === TRAINER_LANCE_2_HNS ===
 Name: Siegfried
 Class: Champion Hns
@@ -9690,7 +9249,6 @@ Level: 70
 - MoonBlast
 - Dragon Pulse
 - Hurricane
-
 
 === TRAINER_LANCE_3_HNS ===
 Name: Siegfried
@@ -9767,7 +9325,6 @@ Chikorita
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_RIVAL_CHIKORITA_2_HNS ===
 Name: {B_RIVAL_NAME}
 Class: Rival Hns
@@ -9801,7 +9358,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Reflect
 - Poison Powder
 - Tackle
-
 
 === TRAINER_RIVAL_CHIKORITA_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9844,7 +9400,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Magical Leaf
 - Tackle
 - Leech Seed
-
 
 === TRAINER_RIVAL_CHIKORITA_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9895,7 +9450,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Magical Leaf
 - Sunny Day
 - Body Slam
-
 
 === TRAINER_RIVAL_CHIKORITA_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -9955,7 +9509,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Rock Slide
 - Fire Fang
 
-
 === TRAINER_RIVAL_CHIKORITA_6_HNS ===
 Name: {B_RIVAL_NAME}
 Class: Rival Hns
@@ -10007,7 +9560,6 @@ Level: 64
 - Earthquake
 - Stone Edge
 - Fire Fang
-
 
 === TRAINER_RIVAL_CHIKORITA_7_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10061,7 +9613,6 @@ Level: 68
 - Stone Edge
 - Fire Fang
 
-
 === TRAINER_RIVAL_CYNDAQUIL_1_HNS ===
 Name: ???
 Class: Rival Hns
@@ -10074,7 +9625,6 @@ AI: Basic Trainer
 Cyndaquil
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RIVAL_CYNDAQUIL_2_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10109,7 +9659,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Smokescreen
 - Ember
 - Tackle
-
 
 === TRAINER_RIVAL_CYNDAQUIL_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10152,7 +9701,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Dig
 - Quick Attack
 - Smokescreen
-
 
 === TRAINER_RIVAL_CYNDAQUIL_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10203,7 +9751,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Flamethrower
 - Quick Attack
 - Iron Tail
-
 
 === TRAINER_RIVAL_CYNDAQUIL_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10263,7 +9810,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Rock Slide
 - Fire Fang
 
-
 === TRAINER_RIVAL_CYNDAQUIL_6_HNS ===
 Name: {B_RIVAL_NAME}
 Class: Rival Hns
@@ -10315,7 +9861,6 @@ Level: 64
 - Earthquake
 - Stone Edge
 - Fire Fang
-
 
 === TRAINER_RIVAL_CYNDAQUIL_7_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10369,7 +9914,6 @@ Level: 68
 - Stone Edge
 - Fire Fang
 
-
 === TRAINER_RIVAL_TOTODILE_1_HNS ===
 Name: ???
 Class: Rival Hns
@@ -10382,7 +9926,6 @@ AI: Basic Trainer
 Totodile
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_RIVAL_TOTODILE_2_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10417,7 +9960,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Rage
 - Bubble Beam
 - Leer
-
 
 === TRAINER_RIVAL_TOTODILE_3_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10460,7 +10002,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 - Ice Punch
 - Bubble Beam
 - Mud Slap
-
 
 === TRAINER_RIVAL_TOTODILE_4_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10511,7 +10052,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Surf
 - Slash
 - Bite
-
 
 === TRAINER_RIVAL_TOTODILE_5_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10571,7 +10111,6 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Rock Slide
 - Fire Fang
 
-
 === TRAINER_RIVAL_TOTODILE_6_HNS ===
 Name: {B_RIVAL_NAME}
 Class: Rival Hns
@@ -10623,7 +10162,6 @@ Level: 64
 - Earthquake
 - Stone Edge
 - Fire Fang
-
 
 === TRAINER_RIVAL_TOTODILE_7_HNS ===
 Name: {B_RIVAL_NAME}
@@ -10677,7 +10215,6 @@ Level: 68
 - Stone Edge
 - Fire Fang
 
-
 === TRAINER_RED_2_HNS ===
 Name: Rot
 Class: Pkmn Trainer 1 Hns
@@ -10730,7 +10267,6 @@ Level: 80
 - Hidden Power
 - Morning Sun
 
-
 === TRAINER_EUSINE_HNS ===
 Name: Eusin
 Class: Mystery Man Hns
@@ -10764,7 +10300,6 @@ IVs: 2 HP / 2 Atk / 2 Def / 2 SpA / 2 SpD / 2 Spe
 - Sonic Boom
 - Body Slam
 - Thunderbolt
-
 
 === TRAINER_GIOVANNI_HNS ===
 Name: Giovanni
@@ -10818,7 +10353,6 @@ Level: 62
 - Rock Slide
 - Thrash
 
-
 === TRAINER_PROTON_1_HNS ===
 Name: Lance
 Class: Rocket Admin Hns
@@ -10839,7 +10373,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Houndour
 Level: 15
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_PROTON_2_HNS ===
 Name: Lance
@@ -10886,7 +10419,6 @@ Level: 38
 - Fissure
 - Rock Slide
 
-
 === TRAINER_ARCHER_HNS ===
 Name: Atlas
 Class: Rocket Admin Hns
@@ -10932,7 +10464,6 @@ Level: 40
 - Amnesia
 - Waterfall
 
-
 === TRAINER_ARCHER_1_HNS ===
 Name: Atlas
 Class: Rocket Admin Hns
@@ -10963,7 +10494,6 @@ Level: 38
 - Smog
 - Roar
 - Flamethrower
-
 
 === TRAINER_ARCHER_4_HNS ===
 Name: Atlas
@@ -11010,7 +10540,6 @@ Level: 40
 - Amnesia
 - Surf
 
-
 === TRAINER_ARCHER_5_HNS ===
 Name: Atlas
 Class: Rocket Admin Hns
@@ -11056,7 +10585,6 @@ Level: 40
 - Amnesia
 - Surf
 
-
 === TRAINER_PETREL_1_HNS ===
 Name: Lambda
 Class: Rocket Admin Hns
@@ -11094,7 +10622,6 @@ Level: 30
 - Clamp
 - Spike Cannon
 - Surf
-
 
 === TRAINER_PETREL_2_HNS ===
 Name: Lambda
@@ -11134,7 +10661,6 @@ Level: 38
 - Spike Cannon
 - Surf
 
-
 === TRAINER_ARIANA_1_HNS ===
 Name: Athena
 Class: Rocket Admin Hns
@@ -11165,7 +10691,6 @@ Level: 30
 - Sleep Powder
 - Sludge Bomb
 - Giga Drain
-
 
 === TRAINER_ARIANA_2_HNS ===
 Name: Athena
@@ -11212,7 +10737,6 @@ Level: 40
 - Faint Attack
 - Air Slash
 
-
 === TRAINER_ANABEL_BF_BRAIN_HNS ===
 Name: Anabel
 Class: Salon Maiden Hns
@@ -11225,7 +10749,6 @@ AI: Basic Trainer
 Beldum
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_TUCKER_BF_BRAIN_HNS ===
 Name: Ottmar
@@ -11244,7 +10767,6 @@ Cloyster
 Level: 60
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_SPENSER_BF_BRAIN_HNS ===
 Name: Spenser
 Class: Palace Maven Hns
@@ -11258,7 +10780,6 @@ Beldum
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
-
 === TRAINER_GRETA_BF_BRAIN_HNS ===
 Name: Greta
 Class: Arena Tycoon Hns
@@ -11271,7 +10792,6 @@ AI: Basic Trainer
 Beldum
 Level: 5
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_NOLAND_BF_BRAIN_HNS ===
 Name: Theodor
@@ -11289,7 +10809,6 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 Golem
 Level: 55
 IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
-
 
 === TRAINER_LUCY_BF_BRAIN_HNS ===
 Name: Lucy
@@ -13431,7 +12950,6 @@ Level: 61
 Mightyena
 Level: 63
 
-
 === TRAINER_SAMSON_OAK_HNS ===
 Name: Samson Oak
 Class: Professor Hns
@@ -13615,7 +13133,6 @@ Level: 52
 Politoed
 Level: 54
 
-
 === TRAINER_AKALA_HIKER_HNS ===
 Name: Lorenz
 Class: Hiker Hns
@@ -13684,7 +13201,6 @@ Level: 55
 
 Scyther
 Level: 57
-
 
 === TRAINER_AKALA_FOREST_BUGCATCHER_2_HNS ===
 Name: Scotty
@@ -13897,623 +13413,6 @@ EVs: 4 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
 - Play Rough 
 - Power-Up Punch
 
-=== TRAINER_RUBERT_HNS ===
-Name: Rubert
-Class: Gentleman Hns
-Pic: Gentleman FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Arcanine_Hisui @ Life Orb
-Level: 60
-Ability: Rock Head
-IVs: 0 HP / 31 Atk / 0 Def / 0 SpA / 0 SpD / 31 Spe
-EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 0 SpD / 252 Spe
-- Head Smash
-- Flare Blitz
-- Psychic Fangs
-- Leer
-
-Bibarel
-Level: 60
-Ability: Simple
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 252 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 0 Spe
-- Curse
-- Aqua Tail
-- Quick Attack
-- Super Fang
-
-Gallade @ Sitrus Berry
-Level: 60
-Ability: Sharpness
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 0 HP / 252 Atk / 0 Def / 0 SpA / 4 SpD / 252 Spe
-- Aqua Cutter
-- Psycho Cut
-- Bulk Up
-- Taunt
-
-=== TRAINER_NICHOLAS_HNS ===
-Name: Rubert
-Class: Hiker Hns
-Pic: Hiker FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Tyranitar @ King's Rock  
-Level: 56
-Ability: Sand Stream  
-EVs: 120 Atk / 128 Def / 128 SpD / 72 Spe  
-Adamant Nature  
-- Aqua Tail  
-- Rock Blast  
-- Rock Polish  
-- Heavy Slam  
-
-Golem @ Iron Ball  
-Ability: Sand Veil  
-Level: 58
-EVs: 4 HP / 252 Atk / 252 SpD  
-Brave Nature  
-IVs: 0 Spe  
-- Gyro Ball  
-- Defense Curl  
-- Rollout  
-- Explosion  
-
-Onix @ Eviolite  
-Level: 60
-Ability: Sturdy
-EVs: 252 HP / 252 SpD  
-Careful Nature  
-- Dragon Dance  
-- Earthquake  
-- Rock Blast  
-- Sandstorm  
-
-Ursaring  
-Level: 60
-Ability: Quick Feet  
-EVs: 248 HP / 252 Atk / 8 SpD  
-Adamant Nature  
-- Body Slam  
-- Hammer Arm  
-- Roar  
-- Hone Claws  
-
-Forretress @ Choice Band  
-Level: 57
-Ability: Overcoat  
-EVs: 252 Atk / 252 SpD  
-Adamant Nature  
-- Explosion  
-
-=== TRAINER_MAKAYLA_HNS ===
-Name: Makayla
-Class: Swimmer F Hns
-Pic: Swimmer F FRLG
-Gender: female
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Azumarill @ Leftovers  
-Level: 54
-Ability: Sap Sipper     
-EVs: 252 HP / 176 SpA  
-Modest Nature  
-IVs: 0 Atk  
-- Alluring Voice  
-- Hydro Pump  
-- Draining Kiss  
-- Aqua Ring  
-
-Gastrodon
-Level: 56  
-Ability: Storm Drain  
-EVs: 252 HP / 4 Atk / 252 SpD  
-Sassy Nature  
-- Clear Smog  
-- Earthquake  
-- Liquidation  
-- Substitute  
-
-Gorebyss  
-Level: 56  
-Ability: Swift Swim   
-EVs: 4 HP / 252 SpA / 252 Spe  
-Modest Nature    
-- Hyper Beam
-- Psychic  
-- Shell Smash  
-- Scald  
-
-=== TRAINER_NIA_HNS ===
-Name: Nia
-Class: Cooltrainer Hns
-Pic: Cooltrainer F FRLG
-Gender: Female
-Music: Hg Boy 2
-Items: Hyper Potion
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Kleavor  
-Ability: Sharpness  
-Level: 60   
-Jolly Nature  
-- Stone Axe  
-- X-Scissor  
-- Acrobatics  
-- Double Team  
-
-Dragonair  
-Ability: Marvel Scale  
-Level: 60  
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Lonely Nature  
-- Aqua Tail  
-- Dragon Dance  
-- Thunderbolt  
-- Draco Meteor  
-
-Electivire  
-Ability: Motor Drive  
-Level: 56     
-Adamant Nature  
-- Power-Up Punch  
-- Supercell Slam  
-- Reflect  
-- Taunt  
-
-Pidgeot  
-Ability: Tangled Feet  
-Level: 58 
-EVs:  252 Spe  
-Jolly Nature  
-- Brave Bird  
-- Roost  
-- U-turn  
-- Feather Dance  
-
-=== TRAINER_JOHN_1_HNS ===
-Name: John
-Class: Cooltrainer Hns
-Pic: Cooltrainer M FRLG
-Gender: Male
-Music: Hg Boy 2
-Items: Hyper Potion
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Medicham
-Ability: Pure Power
-Level: 54
-
-Skarmory
-Level: 54
-
-Magmortar
-Level: 57
-
-Salamence
-Ability: Intimidate
-Level: 60
-
-=== TRAINER_SNAPE_HNS ===
-Name: Snape
-Class: Hiker Hns
-Pic: Hiker FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Steelix
-Level: 57
-
-Arbok
-Ability: Intimidate
-Level: 57
-
-Dudunsparce
-Level: 60
-
-Seviper
-Level: 60
-
-=== TRAINER_TERRY_HNS ===
-Name: Terry
-Class: Black Belt Hns
-Pic: Black Belt FRLG
-Gender: Male
-Music: Hg Boy 2
-Items: Max Mushrooms
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Machamp @ Flame Orb 
-Ability: Guts  
-Level: 75 
-IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
-EVs: 68 HP / 124 Atk / 144 Def / 112 SpD
-Adamant Nature  
-- Cross Chop  
-- Fire Punch  
-- Detect  
-- Bullet Punch  
-
-=== TRAINER_RAPHAEL_HNS ===
-Name: Raphael
-Class: Psychic Hns
-Pic: Psychic F FRLG
-Gender: Female
-Music: Hg Boy 2
-Items: X Special
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Farigiraf @ Sitrus Berry  
-Ability: Cud Chew
-Level: 60
-EVs: 148 HP / 172 Def / 188 SpD  
-IVs: 0 Atk  
-- Expanding Force  
-- Reflect  
-- Hyper Voice  
-- Nasty Plot  
-
-Grumpig  
-Ability: Thick Fat
-Level: 60
-EVs: 252 HP / 192 Def / 64 SpD  
-Modest Nature  
-IVs: 0 Atk  
-- Power Gem  
-- Energy Ball  
-- Teeter Dance  
-- Endeavor  
-
-Slowking @ Charcoal  
-Ability: Oblivious
-Level: 63
-EVs: 252 HP / 252 Def / 4 SpD  
-IVs: 0 Atk  
-- Fire Blast  
-- Calm Mind  
-- Scald  
-- Slack Off  
-
-=== TRAINER_MAURA_HNS ===
-Name: Maura
-Class: Swimmer F Hns
-Pic: Swimmer F FRLG
-Gender: Female
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Tentacruel @ Leftovers  
-Ability: Rain Dish
-Level: 60
-EVs: 252 HP / 252 Def / 4 SpD  
-IVs: 0 Atk  
-- Giga Drain  
-- Aqua Ring  
-- Hydro Pump  
-- Toxic  
-
-Vaporeon
-Ability: Water Absorb
-Level: 64
-IVs: 0 Atk  
-
-Swampert
-Ability: Torrent 
-
-=== TRAINER_MASOTO_HNS ===
-Name: Masoto
-Class: Swimmer M Hns
-Pic: Swimmer M FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Feraligatr
-Level: 62 
-
-Sharpedo  
-Ability: Speed Boost
-Level: 60
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Crunch  
-- Liquidation  
-- Protect  
-- Flip Turn  
-
-Starmie @ Life Orb  
-Ability: Analytic
-Level: 66
-EVs: 252 Atk  
-Adamant Nature  
-- Curse  
-- Avalanche 
-- Psycho Cut 
-- Liquidation
-
-
-=== TRAINER_JOSHUA2_HNS ===
-Name: Joshua
-Class: Biker Hns
-Pic: Biker Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Sneasler  
-Ability: Poison Touch  
-Level: 61   
-- Dire Claw  
-- Bulk Up  
-- Night Slash  
-- Rock Slide  
-
-Jolteon  
-Ability: Volt Absorb  
-Level: 60   
-EVs: 252 HP / 4 SpA / 252 Spe   
-- Electro Ball  
-- Shadow Ball  
-- Baby-Doll Eyes  
-- Flash  
-
-Ambipom @ King's Rock  
-Ability: Skill Link  
-Level: 60  
-- Tail Slap  
-- Fake Out  
-- Triple Axel  
-- Iron Tail  
-
-Ninjask @ Bright Powder  
-Ability: Speed Boost  
-Level: 65  
-- Acrobatics  
-- Leech Life  
-- Swords Dance  
-- Double Team  
-
-=== TRAINER_DENNIS2_HNS ===
-Name: Dennis
-Class: Camper Hns
-Pic: Camper FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Raichu  
-Ability: Static  
-Level: 60
-
-Sudowoodo @ Assault Vest  
-Ability: Sturdy  
-Level: 60  
-EVs: 252 HP / 4 Def / 252 SpD  
-Careful Nature  
-- Foul Play  
-- Body Press  
-- Seismic Toss  
-- Sucker Punch  
-
-Ariados @ Scope Lens  
-Ability: Sniper  
-Level: 64   
-EVs: 252 HP / 120 Def / 136 SpD  
-Relaxed Nature  
-- Cross Poison  
-- Lunge  
-- Electroweb  
-- Shadow Sneak  
-
-=== TRAINER_NIKOLAS_HNS ===
-Name: Nikolas
-Class: Engineer FRLG
-Pic: Engineer FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Donphan  
-Ability: Sturdy  
-Level: 60
-IVs: 0 Atk  
-
-Machoke  
-Ability: No Guard  
-Level: 60 
-EVs: 252 HP / 96 Atk / 4 SpD  
-Adamant Nature  
-- Dynamic Punch  
-- Detect  
-- Thunder Punch  
-- Strength  
-
-Magneton @ Eviolite  
-Ability: Analytic  
-Level: 65 
-EVs: 32 HP / 48 Def / 176 SpA / 252 SpD  
-Quiet Nature  
-IVs: 0 Spe  
-- Magnet Rise  
-- Discharge  
-- Tri Attack  
-- Gyro Ball  
-
-Magcargo
-Level: 60
-
-=== TRAINER_REBECCA4_HNS ===
-Name: Rebecca
-Class: Beauty FRLG
-Pic: Beauty FRLG
-Gender: Female
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Beautifly (F) @ Bright Powder  
-Ability: Swarm  
-Level: 60  
-Shiny: Yes
-EVs: 4 HP / 252 SpA / 252 Spe  
-Timid Nature  
-IVs: 0 Atk  
-- Attract  
-- Quiver Dance  
-- Signal Beam  
-- Psychic  
-
-Milotic  
-Ability: Cute Charm  
-Level: 63  
-EVs: 248 HP / 160 Def / 96 SpD  
-Bold Nature  
-IVs: 0 Atk  
-- Alluring Voice  
-- Recover  
-- Blizzard  
-- Hydro Pump  
-
-Gardevoir  
-Ability: Synchronize  
-Level: 65
-IVs: 0 Atk  
-
-=== TRAINER_JUSTIN4_HNS ===
-Name: Justin
-Class: Juggler FRLG
-Pic: Juggler FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Weavile @ Big Nugget  
-Ability: Pickpocket  
-Level: 65  
-- Fling  
-- Fake Out  
-- Icicle Crash
-
-Ambipom @ Toxic Orb  
-Ability: Pickup  
-Level: 65 
-Happiness: 255
-EVs: 252 Atk / 4 SpA / 252 Spe  
-Hasty Nature  
-- Fling  
-- Return 
-- Protect  
-
-Grumpig @ Life Orb  
-Ability: Thick Fat  
-Level: 65    
-EVs: 252 HP / 120 Def / 136 SpD  
-Calm Nature  
-- Fling  
-- Recycle  
-- Taunt  
-- Confuse Ray  
-
-=== TRAINER_GENJI_HNS ===
-Name: Genji
-Class: Cooltrainer
-Pic: Cooltrainer M FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Ninjask (M)  
-Ability: Speed Boost  
-Level: 60
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Acrobatics  
-- Leech Life  
-- Substitute  
-- Toxic  
-
-Weavile @ Razor Claw  
-Ability: Pressure  
-Level: 60 
-EVs: 252 Spe  
-Jolly Nature  
-- Triple Axel  
-- Night Slash  
-- Protect  
-- Low Kick  
-
-Crobat @ Big Root  
-Ability: Infiltrator  
-Level: 60   
-EVs: 252 HP / 252 Spe  
-Jolly Nature  
-- Super Fang  
-- Haze  
-- Leech Life  
-- Poison Fang  
-
-Shiftry  
-Ability: Chlorophyll  
-Level: 60
-
-=== TRAINER_ISSAC4_HNS ===
-Name: Issac
-Class: Camper Hns
-Pic: Camper FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Breloom @ Miracle Seed  
-Ability: Technician  
-Level: 61
-EVs: 252 HP / 168 Def / 88 SpD  
-Adamant Nature  
-- Bullet Seed  
-- Mach Punch  
-- Bulk Up  
-- Bulldoze  
-
-Abomasnow  
-Ability: Soundproof  
-Level: 63
-
-Annihilape  
-Ability: Defiant  
-Level: 66
-EVs: 252 HP / 144 Def / 112 SpD  
-- Rage Fist  
-- Drain Punch  
-- Leer  
-- Taunt  
-
-Ursaring  
-Ability: Guts  
-Level: 65
-
 === TRAINER_MIHARU_HNS ===
 Name: Miharu
 Class: Kimono Girl Hns
@@ -14522,7 +13421,6 @@ Gender: Female
 Music: Hg Girl 2 
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
-
 
 Leafeon @ Meadow Plate  
 Ability: Chlorophyll  
@@ -14574,314 +13472,6 @@ Adamant Nature
 - Curse  
 - Sing  
 
-=== TRAINER_REX4_HNS ===
-Name: Rex
-Class: Black Belt Hns
-Pic: Black Belt FRLG
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Hitmontop  
-Ability: Technician  
-Level: 62 
-EVs: 180 HP / 116 Atk / 76 Def / 136 SpD  
-Careful Nature  
-- Ice Spinner  
-- Earthquake  
-- Bullet Punch  
-- Counter  
-
-Hitmonchan @ Punching Glove  
-Ability: Iron Fist  
-Level: 62    
-EVs: 252 Atk / 4 Def / 252 SpD  
-Impish Nature  
-- Drain Punch  
-- Bulk Up  
-- Fire Punch  
-- Bullet Punch  
-
-Hariyama @ Leftovers  
-Ability: Thick Fat  
-Level: 64   
-EVs: 252 HP / 128 Def / 128 SpD  
-- Cross Chop  
-- Power-Up Punch  
-- Payback  
-- Detect  
-
-Sneasler @ Life Orb  
-Ability: Poison Touch  
-Level: 64  
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Dire Claw  
-- Close Combat  
-- Night Slash  
-- Fake Out  
-
-Gallade @ Scope Lens  
-Ability: Sharpness  
-Level: 64
-EVs: 252 Atk / 80 Def / 176 SpD  
-Adamant Nature  
-- Aqua Cutter  
-- Sacred Sword  
-- Leaf Blade  
-- Bulk Up  
-
-Heracross @ Loaded Dice  
-Ability: Moxie  
-Level: 64
-EVs: 192 HP / 128 Atk / 44 Def / 144 SpD  
-Adamant Nature  
-- Megahorn  
-- Iron Defense  
-- Trailblaze  
-- Arm Thrust  
-
-=== TRAINER_YOUMU_HNS ===
-Name: Youmu
-Class: Channeler FRLG
-Pic: Channeler FRLG
-Gender: Female
-Music: Hg Girl 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Absol @ Razor Claw  
-Ability: Super Luck  
-Level: 68 
-EVs: 252 Atk / 252 Spe  
-Jolly Nature  
-- Night Slash  
-- Play Rough  
-- Stone Edge  
-- Will-O-Wisp  
-
-=== TRAINER_RONAN_HNS ===
-Name: Ronan
-Class: Psychic M Hns
-Pic: Psychic M Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Slowbro  
-Ability: Oblivious  
-Level: 65   
-
-Bronzong  
-Ability: Levitate  
-Level: 65 
-
-Wyrdeer  
-Ability: Intimidate  
-Level: 65 
-
-Lunatone  
-Ability: Levitate  
-Level: 65  
-EVs: 252 HP / 252 SpA  
-Modest Nature  
-IVs: 0 Atk  
-- Meteor Beam  
-- Moonblast  
-- Moonlight  
-- Cosmic Power  
-
-=== TRAINER_MAXWELL2_HNS ===
-Name: Ronan
-Class: Super Nerd Hns
-Pic: Super Nerd Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Magnezone  
-Ability: Magnet Pull  
-Level: 64
-
-Electrode @ Magnet  
-Ability: Soundproof  
-Level: 64
-EVs: 252 Atk / 252 Spe  
-Adamant Nature  
-- Supercell Slam  
-- Explosion  
-- Sucker Punch  
-- Flash  
-
-Porygon-Z  
-Ability: Adaptability  
-Level: 64 
-IVs: 0 Atk  
-- Hyper Beam  
-- Nasty Plot  
-- Psyshock  
-- Signal Beam  
-
-=== TRAINER_EDWIN2_HNS ===
-Name: Edwin
-Class: FireBreather Hns
-Pic: FireBreather Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: Yes
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Magmortar  
-Ability: Flame Body  
-Level: 65 
-IVs: 0 Atk  
-- Solar Beam  
-- Scorching Sands  
-- Heat Wave  
-- Acid Spray  
-
-Ninetales @ Heat Rock  
-Ability: Drought  
-Level: 65
-IVs: 0 Atk  
-- Weather Ball  
-- Energy Ball  
-- Reflect  
-- Calm Mind  
-
-Magcargo  
-Ability: Flame Body  
-Level: 65  
-IVs: 0 Atk  
-
-Blaziken  
-Ability: Speed Boost  
-Level: 65  
-IVs: 0 Atk  
-
-=== TRAINER_BRAM_HNS ===
-Name: Bram
-Class: Biker Hns
-Pic: Biker Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Houndoom  
-Ability: Unnerve  
-Level: 66 
-EVs: 252 SpA / 252 Spe  
-Modest Nature  
-IVs: 0 Atk  
-- Smog  
-- Fire Blast  
-- Nasty Plot  
-- Super Fang  
-
-Nidoking  
-Ability: Poison Point  
-Level: 66  
-EVs: 160 HP / 216 Atk / 96 Def / 36 SpD  
-Adamant Nature  
-- Poison Jab  
-- Avalanche  
-- Drill Run  
-- Taunt  
-
-Overqwil  
-Ability: Poison Point  
-Level: 65
-- Barb Barrage  
-- Aqua Jet  
-- Lash Out  
-- Toxic Spikes  
-
-Obstagoon  
-Ability: Reckless  
-Level: 65 
-EVs: 252 Atk / 252 Spe  
-Jolly Nature  
-- Double-Edge  
-- Close Combat  
-- Hone Claws  
-- Throat Chop  
-
-=== TRAINER_KYLE9_HNS ===
-Name: Kyle
-Class: Biker Hns
-Pic: Biker Hns
-Gender: Male
-Music: Hg Boy 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Perrserker @ Assault Vest  
-Ability: Steely Spirit  
-Level: 66 
-EVs: 128 HP / 252 Def / 128 SpD  
-- Iron Tail  
-- Play Rough  
-- Throat Chop  
-- Brick Break  
-
-Arcanine-Hisui  
-Ability: Rock Head  
-Level: 65
-
-Seviper  
-Ability: Shed Skin  
-Level: 65  
-
-Skarmory  
-Ability: Keen Eye  
-Level: 66  
-
-=== TRAINER_DAWN9_HNS ===
-Name: Klara
-Class: Picnicker Hns
-Pic: Picnicker FRLG
-Gender: Female
-Music: Hg Girl 2
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-
-Yanmega  
-Ability: Speed Boost  
-Level: 66
-
-Pikachu (F) @ Light Ball  
-Ability: Lightning Rod  
-Level: 65
-EVs: 252 Atk / 252 Spe  
-Hasty Nature  
-- Play Rough  
-- Nuzzle  
-- Attract  
-- Volt Tackle  
-
-Vigoroth @ Eviolite  
-Ability: Vital Spirit  
-Level: 65
-EVs: 252 Atk / 252 Spe  
-Jolly Nature  
-- Drain Punch  
-- Double-Edge  
-- Slack Off  
-- Ice Punch  
-
-Ledian @ Assault Vest  
-Ability: Iron Fist  
-Level: 66
-EVs: 252 HP / 252 SpD  
-- Drain Punch  
-- Power-Up Punch  
-- Mach Punch  
-- Comet Punch  
-
 === TRAINER_STEVEN_HNS ===
 Name: Troy
 Class: Pkmn Trainer 1 Hns
@@ -14891,7 +13481,6 @@ Gender: Male
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
 Items: Full Restore / Full Restore
-
 
 Skarmory @ Covert Cloak  
 Ability: Sturdy  
@@ -14955,80 +13544,6 @@ Brave Nature
 - Psychic Fangs  
 - Cosmic Power 
 
-=== TRAINER_SECRETEDWARD_HNS ===
-Name: Edward
-Class: Super Nerd Hns
-Pic: Super Nerd Hns
-Music: Hg Boy 2
-Gender: Male
-Double Battle: No
-AI: Check Bad Move / Try To Faint / Check Viability
-Items: Full Restore / Full Restore
-
-Magnezone @ Magnet
-Ability: Analytic
-Level: 70
-EVs: 92 HP / 144 Def / 20 SpA / 252 SpD
-Sassy Nature
-IVs: 0 Spe
-- Gyro Ball
-- Discharge
-- Charge
-- Magnet Rise
-
-Porygon2 @ Eviolite
-Ability: Analytic
-Level: 70
-EVs: 168 HP / 88 Def / 252 SpA
-Bold Nature
-- Blizzard
-- Thunderbolt
-- Recover
-- Tri Attack
-
-Bronzong @ Rocky Helmet
-Ability: Levitate
-Level: 70
-EVs: 4 HP / 252 Def / 252 SpD
-Relaxed Nature
-IVs: 0 Spe
-- Body Press
-- Gyro Ball
-- Iron Defense
-- Psychic Noise
-
-Torkoal @ Assault Vest
-Ability: Drought
-Level: 70
-EVs: 108 HP / 148 SpA / 252 SpD
-Modest Nature
-IVs: 0 Atk
-- Solar Beam
-- Earth Power
-- Weather Ball
-- Ancient Power
-
-Aerodactyl @ King's Rock
-Ability: Rock Head
-Level: 70
-EVs: 8 HP / 248 Atk / 248 Spe
-Adamant Nature
-- Rock Blast
-- Dragon Dance
-- Dual Wingbeat
-- Detect
-
-Relicanth @ Quick Claw
-Ability: Rock Head
-Level: 70
-EVs: 252 HP / 212 Atk / 44 Def
-Adamant Nature
-- Head Smash
-- Liquidation
-- Rock Polish
-- Yawn
-
-
 === TRAINER_FINLEY_HNS ===
 Name: Finley
 Class: Sage Hns
@@ -15077,8 +13592,6 @@ Level: 70
 - Draco Meteor  
 - Outrage  
 - Seed Bomb  
-
-
 
 === TRAINER_MUALANI_HNS ===
 Name: Mualani
@@ -15270,6 +13783,4 @@ Naive Nature
 - Focus Energy  
 - Drill Peck  
 - Double-Edge  
-
-
 
