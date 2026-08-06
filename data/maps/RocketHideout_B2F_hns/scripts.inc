@@ -668,8 +668,9 @@ RocketHideout_B2F_Text_LanceMonMaster:
 	.string "zusehen!$"
 
 RocketHideout_B2F_Text_B2FTransmitter:
-	.string "Der Radiotransmitter läuft auf vollen\n"
-	.string "Touren.$"
+	.string "Dieser Radiotransmitter sendet\n"
+	.string "das unheimliche Signal.\p"
+	.string "Er läuft auf vollen Touren.$"
 
 RocketHideout_B2F_Text_B2FDeactivateTransmitter:
 	.string "Der Radiotransmitter scheint nun nicht\n"

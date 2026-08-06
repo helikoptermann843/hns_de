@@ -44,11 +44,16 @@ GoldenrodDeptStore_Text_4FBugCatcher:
 	.string "deiner Pokémon verstärken!$"
 
 GoldenrodDeptStore_Text_4FGameboyKid:
-	.string "Manche Pokémon entwickeln sich\n"
-	.string "nur durch Tausch.\p"
-	.string "Ich kenne vier: Maschock, Kadabra,\n"
-	.string "Alpollo und Georok.\p"
-	.string "Ich hörte, es gibt noch weitere.$"
+	.string "Es hieß, manche Pokémon entwickeln\n"
+	.string "sich nur durch einen Tausch über\l"
+	.string "ein Link-Kabel.\p"
+	.string "Pah…\p"
+	.string "So ein Unsinn.\p"
+	.string "Ich kenne einige der genannten\n"
+	.string "Pokémon: Maschock, Kadabra,\l"
+	.string "Alpollo und, äh, Georok.\p"
+	.string "Sie alle entwickeln sich aber\n"
+	.string "durch Levelaufstieg.$"
 
 GoldenrodDeptStore4_EventScript_Clerk::
 	lock

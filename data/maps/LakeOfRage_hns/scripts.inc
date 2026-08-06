@@ -351,9 +351,12 @@ LakeOfRage_Text_CooltrainermAaronAfter:
 	.string "sukzessiv ihre Fähigkeiten!$"
 
 LakeOfRage_Text_CooltrainerfLoisSeen:
-	.string "Ein Rotes Garados?\p"
-	.string "Wie geht denn sowas…\p"
-	.string "Die sind doch Blau!$"
+	.string "Was ist mit dem roten Garados\n"
+	.string "passiert?\p"
+	.string "Es ist weg?\p"
+	.string "So ein Mist. War ich etwa\n"
+	.string "umsonst hier?\p"
+	.string "Ich weiß… kämpfen wir!$"
 
 LakeOfRage_Text_CooltrainerfLoisBeaten:
 	.string "Ziemlich gut!$"

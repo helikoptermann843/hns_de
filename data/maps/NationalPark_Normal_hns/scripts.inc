@@ -104,7 +104,9 @@ NationalPark_Normal_Text_Youngster2:
 NationalPark_Normal_Text_Teacher2:
 	.string "Ich gehe oft im Park spazieren,\p"
 	.string "aber ich meide das hohe Gras.\p"
-	.string "Trainer möchten immer kämpfen…$"
+	.string "Trainer möchten immer kämpfen…\p"
+	.string "Du hattest sicher viele Kämpfe.\n"
+	.string "Ich heile deine Pokémon.$"
 
 NationalPark_Normal_Text_Persian:
 	.string "Snobilikat: Snooobi, snobi!$"

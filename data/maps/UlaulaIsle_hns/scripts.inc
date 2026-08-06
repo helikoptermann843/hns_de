@@ -299,7 +299,7 @@ Alola_Ulaula_MtLanikalaSign_Text_0:
 	.string "Vergessenheit geraten.$"
 
 Alola_Ulaula_UlaulaSign_Text_0:
-	.string "Ula'ula Isle$"
+	.string "Ula-Ula$"
 
 Alola_Ulaula_Phant_outside_Text_0:
 	.string "Hallo, {PLAYER}!\p"

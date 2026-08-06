@@ -645,16 +645,16 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_10:
 	.string "Insel berichten?$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_11:
-	.string "Melemele Isle$"
+	.string "Mele-Mele$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_12:
-	.string "Akala Isle$"
+	.string "Akala$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_13:
-	.string "Ula'ula Isle$"
+	.string "Ula-Ula$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_14:
-	.string "Poni Isle$"
+	.string "Poni$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_15:
 	.string "Not right now.$"

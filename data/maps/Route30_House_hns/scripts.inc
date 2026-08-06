@@ -17,10 +17,16 @@ Route30_House_EventScript_BaldMan2::
 	end
 
 Route30_BerryHouse_Text_MonEatBerries:
-	.string "Du weißt, dass Pokémon Beeren fressen,\n"
-	.string "oder?\p"
-	.string "Die KP meiner Pokémon sind gestiegen,\n"
-	.string "weil sie eine Beere fraßen.\p"
+	.string "Folgst du dem Weg nach Norden,\n"
+	.string "erreichst du Mr. Pokémons Haus.\p"
+	.string "Doch zuvor erzähle ich dir noch\n"
+	.string "etwas über Beeren!\p"
+	.string "Pokémon werden gesünder, wenn\n"
+	.string "sie Beeren fressen.\p"
+	.string "Sie fressen sogar Beeren, die sie\n"
+	.string "im Kampf tragen.\p"
+	.string "Aus Beeren macht Kurt in Azalea\n"
+	.string "City außerdem Bälle.\p"
 	.string "Hier, ich teile mit dir!$"
 
 Route30_BerryHouse_Text_CheckTrees:

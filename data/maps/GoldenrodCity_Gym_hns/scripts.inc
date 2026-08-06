@@ -240,11 +240,14 @@ GoldenrodCity_Gym_Text_BeautySamanthaAfter:
 
 GoldenrodCity_Gym_Text_GymGuide:
 	.string "Yo! Champ in spe!\p"
-	.string "In dieser Pokémon-Arena\n"
-	.string "warten Trainer mit Pokémon des\l"
-	.string "Typs Normal auf dich.\p"
-	.string "Ich rate dir,\n"
-	.string "Kampf-Pokémon einzusetzen.$"
+	.string "In dieser Arena wartet Bianka,\n"
+	.string "die Meisterin der Normal-Pokémon.\p"
+	.string "Nimm dich vor ihrem niedlichen\n"
+	.string "Team in Acht.\p"
+	.string "Einige Pokémon hier haben zudem\n"
+	.string "den neu entdeckten Typ Fee.\p"
+	.string "Brauchst du ein Kampf- oder\n"
+	.string "Gift-Pokémon, sieh auf Route 34 nach.$"
 
 GoldenrodCity_Gym_Text_GymGuideWin:
 	.string "Du hast gewonnen?\n"

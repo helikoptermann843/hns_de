@@ -70,7 +70,14 @@ GoldenrodCity_BikeShop_Text_BorrowedBicycle:
 	.string "{PLAYER} leiht ein Fahrrad.$"
 
 GoldenrodCity_BikeShop_Text_Mainshop:
-	.string "Die Welt ist ein Radweg! Fahrradladen$"
+	.string "Seit wir aus Kanto hergezogen sind,\n"
+	.string "läuft das Geschäft schleppend.\l"
+	.string "Danke für deine Unterstützung!\p"
+	.string "Zeigst du unsere patentierte\n"
+	.string "Gangschaltung überall herum?\p"
+	.string "Drücke einfach R, wenn du auf dem\n"
+	.string "Rad stehst.\p"
+	.string "Achtung! Danach wirst du schneller!$"
 
 GoldenrodCity_BikeShop_Text_Refused:
 	.string "Seufz… gibt es denn keine guten\n"
