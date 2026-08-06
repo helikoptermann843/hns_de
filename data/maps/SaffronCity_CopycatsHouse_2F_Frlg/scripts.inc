@@ -45,13 +45,15 @@ SaffronCity_CopycatsHouse_2F_EventScript_Game::
 	end
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
-	.string "Heh!\n"
-	.string "Warte, du Champion in spe!\p"
-	.string "Der hitzköpfige Pyro ist ein\n"
-	.string "Feuer-Pokémon-Spezialist!\p"
-	.string "Du solltest sein Mütchen mit Wasser\n"
-	.string "kühlen!\p"
-	.string "Und besorge dir Feuerheiler!$"
+	.string "{PLAYER}: Hallo!\n"
+	.string "Magst du Pokémon?\p"
+	.string "{PLAYER}: Halt, ich habe doch dich\n"
+	.string "gefragt.\p"
+	.string "{PLAYER}: Wie?\n"
+	.string "Du bist komisch!\p"
+	.string "NACHAHMERIN: Hmm? Ich soll die\n"
+	.string "Nachahmerei aufgeben?\p"
+	.string "Aber das ist doch mein Hobby!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
 	.string "{PLAYER}: Hallo!\n"
