@@ -5,7 +5,7 @@ gText_PkmnTransferredSomeonesPC::
 	.string "“{STR_VAR_1}” abgelegt.$"
 
 gText_PkmnTransferredLanettesPC::
-#if IS_FRLG
+#if IS_FRLG || IS_HNS
 	.string "{STR_VAR_2} wurde auf Bills PC\n"
 #else
 	.string "{STR_VAR_2} wurde auf Lanettes PC\n"
@@ -22,7 +22,7 @@ gText_PkmnTransferredSomeonesPCBoxFull::
 
 gText_PkmnTransferredLanettesPCBoxFull::
 	.string "Box “{STR_VAR_3}” in\n"
-#if IS_FRLG
+#if IS_FRLG || IS_HNS
 	.string "Bills PC ist voll.\p"
 #else
 	.string "Lanettes PC ist voll.\p"

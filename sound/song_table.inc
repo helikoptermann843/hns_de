@@ -1082,7 +1082,7 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	@ Misc
 	song_gbs MUS_HG_MOVE_DELETED, gbs_sfx_movedeleted_Header, 2, 2	@ Move Deleter - Blackthorn
 	song_gbs MUS_HG_CYCLING, gbs_bicycle_Header, 0, 0	@ Route 17 (Kanto Bike Path) (Cycling music was cut in favor of having location/map music play.) TODO: Test
-	@song_gbs MUS_HG_SURF, gbs_surf_Header, 0, 0 @ Unused in HnS - Surf music was cut in favor of having location/map music play.
+	song_gbs MUS_HG_SURF, gbs_surf_Header, 0, 0
 
 
 	@ Unused Music
