@@ -397,10 +397,10 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak_hns:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints_hns:
-	.string "Oh, oh, oh!\p"
-	.string "Deine Gewinnpunkte sind am Maximum.\p"
-	.string "Bitte komm wieder, wenn du einige\n"
-	.string "Gewinnpunkte ausgegeben hast.$"
+	.string "Oh, oh, oh! Deine Kampfpunkte sind\n"
+	.string "auf dem Höchststand.\p"
+	.string "Komm bitte wieder, wenn du welche\n"
+	.string "ausgegeben hast.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume_hns:
 	.string "Wir haben schon auf dich gewartet!\p"

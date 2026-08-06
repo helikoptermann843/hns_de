@@ -71,7 +71,7 @@ RS_MysteryEventsHouse_Text_SaveYourProgress:
 	.string "solltet ihr eure Spiele speichern!$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Ich hoffe auf einen guten Kampf!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
 	.string "Der Kampf endet unentschieden.$"

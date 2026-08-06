@@ -663,8 +663,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons:
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe:
-	.string "Very well…\n"
-	.string "Now, shall we?$"
+	.string "Nun gut…\n"
+	.string "Wollen wir?$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou:
