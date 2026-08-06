@@ -213,8 +213,11 @@ Route35NationalParkGate_Text_OfficerAskToParticipate:
 	.string "Möchtest du es versuchen?$"
 
 Route35NationalParkGate_Text_OfficerGiveSportBalls:
-	.string "Hier sind die Bälle\n"
-	.string "für das Turnier.$"
+	.string "Alle Erfahrungspunkte, die deine\n"
+	.string "Pokémon im Turnier sammeln, werden\l"
+	.string "beim Verlassen zurückgesetzt.\p"
+	.string "Hier sind die Turnierbälle\n"
+	.string "für den Wettbewerb.$"
 
 Route35NationalParkGate_Text_ReceivedSportBalls:
 	.string "{PLAYER} erhält Turnierbälle.$"

@@ -32,10 +32,10 @@ SaffronCity_Mart_Items::
 	end
 
 SaffronCity_Mart_Text_MaxRepelMoreEffectiveThanSuper::
-	.string "Ich habe auf dem Mondberg ein\n"
-	.string "seltsames Fossil gefunden!\p"
-	.string "Ich denke, es stammt von einem\n"
-	.string "seltenen Urzeit-Pokémon!$"
+	.string "Top-Schutz hält schwächere Pokémon\n"
+	.string "fern.\p"
+	.string "Top-Schutz wirkt länger als\n"
+	.string "Superschutz.$"
 
 SaffronCity_Mart_Text_ReviveIsCostly::
 	.string "Beleber ist zwar teuer, aber\n"

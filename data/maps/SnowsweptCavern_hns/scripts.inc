@@ -172,7 +172,7 @@ Snowswept_Cavern_Eventscript_Machamp_AfterBoulder::
 
 
 Snowswept_Cavern_Text_DroppedItem:
-    .string "The MACHAMP dropped an item...$"
+	.string "Machomei hat ein Item fallen lassen…$"
 
 
 Snowswept_Text_Machamp_Cry:

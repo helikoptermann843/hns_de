@@ -64,6 +64,6 @@ SilphCo_10F_Text_KeepMeCryingASecret::
 	.string "nicht ohne Grund!$"
 
 SilphCo_10F_Text_FloorSign::
-	.string "Hast du wirklich Giovanni vom Team\n"
-	.string "Rocket besiegt?$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "9 Og$"
 

@@ -475,7 +475,7 @@ ThreeIsland_Text_Biker2Intro::
 	.string "Seite sein!$"
 
 ThreeIsland_Text_Biker2Defeat::
-	.string "Stop fooling around!$"
+	.string "Hör auf herumzualbern!$"
 
 ThreeIsland_Text_Biker2PostBattle::
 	.string "Was ist los mit dir? Worüber\n"

@@ -342,7 +342,8 @@ Alola_Ulaula_TrainerBattleHiker_Text_0:
 	.string "Du musst zäh sein, um dieses raue\nGelände zu meistern!$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_1:
-	.string "Oof,\nI should've trained harder…$"
+	.string "Uff…\n"
+	.string "Ich hätte härter trainieren sollen…$"
 
 Alola_Ulaula_TrainerBattleHiker_Text_2:
 	.string "Auf Ula-Ula wandert es sich am\nbesten!\p"
@@ -355,7 +356,8 @@ Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
 	.string "Lass uns kämpfen, das lenkt mich\lab!$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
-	.string "Should've brought some air freshener…$"
+	.string "Ich hätte einen Lufterfrischer\n"
+	.string "mitnehmen sollen…$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_2:
 	.string "Halt dir besser die Nase zu, wenn\n"

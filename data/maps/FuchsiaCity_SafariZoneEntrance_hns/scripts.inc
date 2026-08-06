@@ -292,7 +292,7 @@ FuchsiaCity_SafariZoneEntrance_UpgradeGuyNotEnoughMoney::
 
 FuchsiaCity_SafariZoneEntrance_Text_Steven:
 	.string "Oh, hallo, {PLAYER}.\p"
-	.string "Ich hoffe, dir gefällt die Safari.\p"
+	.string "Ich hoffe, die Safari gefällt dir.\p"
 	.string "Hast du in letzter Zeit seltene\n"
 	.string "Steine gesehen?$"
 

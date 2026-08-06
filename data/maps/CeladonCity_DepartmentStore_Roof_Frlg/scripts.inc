@@ -286,7 +286,7 @@ CeladonCity_DepartmentStore_Roof_Text_ImThirstyGiveHerDrink::
 	.string "{FONT_NORMAL}Gibst du dem Mädchen ein Getränk?$"
 
 CeladonCity_DepartmentStore_Roof_Text_GiveWhichDrink::
-	.string "Give her which drink?$"
+	.string "Welches Getränk gibst du ihr?$"
 
 CeladonCity_DepartmentStore_Roof_Text_YayFreshWaterHaveThis::
 	.string "Ja!\p"

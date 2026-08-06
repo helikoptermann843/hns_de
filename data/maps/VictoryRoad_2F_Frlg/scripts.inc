@@ -109,7 +109,8 @@ VictoryRoad_2F_Text_NelsonDefeat::
 	.string "Voll erwischt!$"
 
 VictoryRoad_2F_Text_NelsonPostBattle::
-	.string "Du hast nicht genug Geld...$"
+	.string "{RIVAL} ist hier auch\n"
+	.string "durchgekommen.$"
 
 VictoryRoad_2F_Text_VincentIntro::
 	.string "Komm nur her!\n"

@@ -88,7 +88,7 @@ Route10_PowerPlantBackRoom_Text_ManagerTakeThisTM:
 
 Route10_PowerPlantBackRoom_Text_ManagerTM07IsZapCannon:
 	.string "Direktor: TM25\n"
-	.string "enthält Blitzkanone. Eine sehr\p"
+	.string "enthält Donner. Eine sehr\p"
 	.string "starke Attacke! Sie ist nicht sehr\n"
 	.string "präzise, aber du kannst jemanden\l"
 	.string "damit ordentlich schmoren!$"

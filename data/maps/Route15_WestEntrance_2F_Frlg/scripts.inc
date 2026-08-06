@@ -62,10 +62,11 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
 	.string "unterschiedliche Pokémon gefangen?$"
 
 Route15_WestEntrance_2F_Text_GreatHereYouGo::
-	.string "Ich tausche Pokémon mit dem\n"
-	.string "Kind dort drüben!\p"
-	.string "Da ich zwei Pikachu besaß, konnte\n"
-	.string "ich eines tauschen.$"
+	.string "Toll! Du hast bereits\n"
+	.string "{STR_VAR_3} Pokémon-Arten gesehen\l"
+	.string "oder gefangen!\p"
+	.string "Glückwunsch!\n"
+	.string "Hier, bitte sehr!$"
 
 Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
 	.string "{PLAYER} erhält\n"

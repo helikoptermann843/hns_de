@@ -191,9 +191,20 @@ OlivineCity_Gym_EventScript_GymGuideAfter::
 	end
 
 OlivineCity_Gym_Text_GymGuideText:
-	.string "Jasmin setzt den\n"
-	.string "neu entdeckten Typ Stahl ein.\p"
-	.string "Ich weiß nicht viel darüber.$"
+	.string "Jasmin setzt den neu entdeckten\n"
+	.string "Typ Stahl ein.\p"
+	.string "Sie ist für gleich zwei Asse\n"
+	.string "bekannt.\p"
+	.string "Das erste ist ein Metallkäfer, der\n"
+	.string "seinen Angriff steigern kann.\p"
+	.string "Feuer setzt ihm zu, doch manchmal\n"
+	.string "übersteht es selbst harte Treffer.\p"
+	.string "Das zweite ist eine riesige\n"
+	.string "Eisenschlange mit starken Attacken.\p"
+	.string "Geh sie mit Vorsicht an.\p"
+	.string "Sie wirkt träge, doch ich habe sie\n"
+	.string "schon verblüffend schnell zuschlagen\l"
+	.string "sehen.$"
 
 OlivineCity_Gym_Text_GymGuideWinText:
 	.string "Das war großartig!\p"

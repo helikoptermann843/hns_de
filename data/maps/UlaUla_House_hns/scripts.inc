@@ -166,7 +166,7 @@ Alola_Ulaula_House_Phant_Text_1:
 	.string "Viel Glück.$"
 
 Alola_Ulaula_House_Phant_Text_2:
-	.string "Congratulations, {PLAYER}!$"
+	.string "Glückwunsch, {PLAYER}!$"
 
 Alola_Ulaula_House_Phant_Text_3:
 	.string "Ich denke, das hast du dir\nverdient.$"

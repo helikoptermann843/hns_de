@@ -335,7 +335,12 @@ Route39_Text_PokefanFJaimeBeaten:
 	.string "Oh, was für eine Enttäuschung.$"
 
 Route39_Text_PokefanFJaimeAfter:
-	.string "Oh, menno…$"
+	.string "Ich habe Nachtara nachts genau hier\n"
+	.string "auf Route 39 getroffen.\p"
+	.string "Ich weiß nicht, warum, aber es scheint\n"
+	.string "zu mögen, wenn ich hier trainiere.\p"
+	.string "Hier wird es schneller zutraulich\n"
+	.string "als irgendwo sonst.$"
 
 Route39_EventScript_Sign1::
 	lock

@@ -35,12 +35,13 @@ CeruleanCity_Mart_Items::
 	end
 
 CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
-	.string "Pokémon können Büsche mit dem\n"
-	.string "Zerschneider klein hacken.\p"
-	.string "Aber vergiss nicht, Zerschneider\n"
-	.string "ist eine VM!\p"
-	.string "Wer sie einmal gelernt hat, kann\n"
-	.string "sie nicht so einfach vergessen!$"
+	.string "Schutz hält nicht nur Käfer fern,\n"
+	.string "sondern wirkt auch auf schwache\l"
+	.string "Pokémon.\p"
+	.string "Stell dein stärkstes Pokémon an den\n"
+	.string "Anfang deines Teams.\p"
+	.string "Ist das erste Pokémon stark,\n"
+	.string "wirkt Schutz umso besser.$"
 
 CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
 	.string "Besitzt du Sonderbonbons?\p"

@@ -58,10 +58,10 @@ Route2_EastBuilding_Text_ReceivedHM05FromAide::
 	.string "VM05!$"
 
 Route2_EastBuilding_Text_ExplainHM05::
-	.string "... vielen Dank für deinen Brief!\n"
-	.string "Bis bald...\p"
-	.string "Heh!\n"
-	.string "Lies meinen Brief nicht!$"
+	.string "Die VM05 enthält die versteckte\n"
+	.string "Attacke Blitz.\p"
+	.string "Blitz erhellt selbst die dunkelsten\n"
+	.string "Höhlen und Verliese.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
 	.string "Ich mag die Nachahmerin!\n"

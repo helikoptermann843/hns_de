@@ -147,8 +147,14 @@ PokemonFanClub_Text_ClefairyGuy_MakingDo:
 	.string "begnügen müssen, die ich gefunden habe.$"
 
 PokemonFanClub_Text_ClefairyGuy_ReturnDoll:
-	.string "Das ist ein Piepi! Was?\p"
-	.string "Ach so! Das ist eine Puppe von Piepi.$"
+	.string "Ach so, jetzt verstehe ich.\n"
+	.string "Das Mädchen, das diese Puppe\l"
+	.string "verloren hat, ist traurig…\p"
+	.string "Gut. Bringst du die Piepi-Puppe\n"
+	.string "zu der armen Kleinen zurück?\p"
+	.string "Ich freunde mich eines Tages\n"
+	.string "mit einem echten Piepi an.\l"
+	.string "Keine Sorge!$"
 
 PokemonFanClub_Text_ClefairyGuy_GoingToGetOne:
 	.string "Irgendwann finde ich ein echtes Piepi\n"

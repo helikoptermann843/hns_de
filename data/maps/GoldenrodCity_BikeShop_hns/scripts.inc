@@ -42,11 +42,17 @@ GoldenrodCity_BikeShop_EventScript_Bike::
 	end
 
 GoldenrodCity_BikeShop_Text_Clerk2:
-	.string "…Höhöhö,\n"
-	.string "ich laufe dicken Leuten mit\l"
-	.string "einer Tuba hinterher.\p"
-	.string "Zum Glück habe ich mein Fahrrad,\n"
-	.string "die kriegen mich nie!$"
+	.string "Radfahren ist kinderleicht: Registriere\n"
+	.string "das Rad einfach im Beutel, dann\l"
+	.string "genügt ein Tastendruck.\p"
+	.string "Wenn du schneller werden willst,\n"
+	.string "musst du erst einmal anhalten!\p"
+	.string "Das klingt seltsam, aber du kannst\n"
+	.string "nur im Stand einen anderen Gang\l"
+	.string "einlegen.\p"
+	.string "Drücke im Stand die R-Taste, dann\n"
+	.string "erreichst du beim nächsten Tritt\l"
+	.string "viel höhere Geschwindigkeiten!$"
 
 GoldenrodCity_BikeShop_Text_ClerkIntro:
 	.string "…Seufz… Ich bin hierher gezogen,\n"

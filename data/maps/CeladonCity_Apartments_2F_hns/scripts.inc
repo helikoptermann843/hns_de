@@ -100,7 +100,7 @@ CeladonMansion2F_Text_DaniRaibow:
 	.string "und kleine zu beheben.\p"
 	.string "Willst du einen Witz hören?\p"
 	.string "Siegfried versuchte, Dragoran die\n"
-	.string "Attacke Drachenpuls beizubringen.\p"
+	.string "Attacke Feuerodem beizubringen.\p"
 	.string "Aber Dragoran bewegte sich zu schnell\n"
 	.string "durch Turbotempo; er konnte es\l"
 	.string "nicht fangen!$"

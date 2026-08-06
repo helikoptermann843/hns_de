@@ -292,11 +292,14 @@ OlivineCity_Text_YoungsterPokedex:
 	.string "Das ist echt cool!$"
 
 OlivineCity_Text_Sailor2:
-	.string "Die See ist schön!\p"
-	.string "Sonnenuntergänge über dem\n"
-	.string "Meer sind wundervoll!\p"
-	.string "Sing mit mir!\n"
-	.string "Yo-ho! Seebären sind so cool!…$"
+	.string "Die Liga führt Jasmin als sechst-\n"
+	.string "stärkste Arenaleiterin!\p"
+	.string "Pah! So ein Unsinn.\p"
+	.string "Niemals könnte Norbert ihren\n"
+	.string "Stahl-Pokémon gefährlich werden!\p"
+	.string "Reine Bürokratie, wenn du mich fragst.\p"
+	.string "Sie ist eine ernst zu nehmende\n"
+	.string "Gegnerin, so viel steht fest!$"
 
 OlivineCity_Text_Sign:
 	.string "Oliviana City\p"

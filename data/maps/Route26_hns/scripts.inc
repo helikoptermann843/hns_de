@@ -127,11 +127,11 @@ Route26_Text_CooltrainerfJoyceAfter:
 
 Route26_Text_CooltrainerfBethSeen:
 	.string "Ich habe gegen einen Trainer\n"
-	.string "namens <Rival> verloren.\p"
+	.string "namens {RIVAL} verloren.\p"
 	.string "Er war sehr stark, aber…\n"
 	.string "Es schien, als sei er\l"
-	.string "vom Siegen besessen.\p"
-	.string "Seine Pokémon taten mir Leid.$"
+	.string "um jeden Preis auf den Sieg aus.\p"
+	.string "Seine Pokémon taten mir leid.$"
 
 Route26_Text_CooltrainerfBethBeaten:
 	.string "Ich sag’s doch: Pokémon sind keine\n"

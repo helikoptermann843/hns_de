@@ -49,7 +49,7 @@ CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
 	.string "Bitte, nimm dies!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
-	.string "Ich habe das Ei auf meinen Reisen\n"
-	.string "bekommen.\p"
-	.string "Ich bin froh, jemanden wie dich\n"
-	.string "getroffen zu haben.$"
+	.string "Lass ein Geschenk für dich sprechen!\n"
+	.string "3S: Geschenkartikel\p"
+	.string "Entwicklungs-Spezial!\n"
+	.string "Steine jetzt im Angebot!$"

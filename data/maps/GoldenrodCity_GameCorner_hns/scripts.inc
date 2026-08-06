@@ -609,7 +609,7 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
 
 GoldenrodCity_GameCorner_Text_Gentleman:
 	.string "Ich habe meinen\n"
-	.string "Pokémon Blizzard beigebracht.\p"
+	.string "Pokémon Eisstrahl beigebracht.\p"
 	.string "Es hat zwar gedauert, bis ich genug\n"
 	.string "Münzen hatte, aber\l"
 	.string "es hat sich gelohnt.$"

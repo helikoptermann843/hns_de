@@ -139,11 +139,11 @@ DragonsDen_Cavern_Text_ClairGiveDragonclaw:
 	.string "Hier, nimm das als Entschuldigung.$"
 
 DragonsDen_Cavern_Text_ClairDescribeDragonclaw:
-	.string "Das ist Drachenklaue.\p"
-	.string "Nein, es hat nichts mit meinen\n"
-	.string "Fingernägeln zu tun.\p"
-	.string "Wenn du es nicht willst,\n"
-	.string "musst du es nicht nehmen.$"
+	.string "Das ist Drachenpuls.\p"
+	.string "So eine Art… ach, vergiss es!\p"
+	.string "Es ist eine gewaltige Energie.\p"
+	.string "Wenn du sie nicht willst,\n"
+	.string "musst du sie nicht nehmen.$"
 
 DragonsDen_Cavern_Text_ClairWhatsTheMatter:
 	.string "Was ist los? Gehst du nicht\n"

@@ -65,10 +65,8 @@ Route12_EventScript_Tentacruel::
 	end
 
 Route12_Text_NewFisher:
-	.string "Weißt du, was du gerade getan hast?\p"
-	.string "Du hast deinen ersten Schritt\n"
-	.string "in Kanto gemacht.\p"
-	.string "Sieh auf die Karte in deinem Com.$"
+	.string "Vorsicht, in diesem Gewässer\n"
+	.string "lebt etwas Bösartiges.$"
 
 Route12_Text_FisherMartinSeen:
 	.string "Geduld ist das Zauberwort.\n"

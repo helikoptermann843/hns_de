@@ -29,12 +29,14 @@ LavenderTown_PokemonCenter1F_Text_Gentleman:
 	.string "du zum Kraftwerk.$"
 
 LavenderTown_PokemonCenter1F_Text_Teacher:
-	.string "Es gibt eine\n"
-	.string "Musiksendung im Radio, die Melodien\l"
-	.string "auf der - Flöte sendet.\p"
-	.string "Ach ja? Ah, dein\n"
-	.string "Radio braucht ein Zusatzset, damit du\l"
-	.string "das empfangen kannst.$"
+	.string "Es gibt eine Musiksendung im Radio,\n"
+	.string "die Melodien auf der Pokéflöte\l"
+	.string "sendet.\p"
+	.string "Ach ja? Ah, dein Radio braucht ein\n"
+	.string "Zusatzset, damit du das empfangen\l"
+	.string "kannst.\p"
+	.string "Vielleicht kann dir der Radioturm\n"
+	.string "hier in der Stadt eines besorgen?$"
 
 LavenderTown_PokemonCenter1F_Text_Youngster:
 	.string "Wenn das Kraftwerk ausfällt, läuft\n"

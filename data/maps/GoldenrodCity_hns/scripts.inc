@@ -447,7 +447,9 @@ GoldenrodCity_Text_FlowerShopSign:
 	.string "Blühender Blumenladen$"
 
 GoldenrodCity_Text_MoveTutorAsk:
-	.string "A-aber…$"
+	.string "Ich kann deinen Pokémon ein paar\n"
+	.string "erstaunliche Attacken beibringen!\p"
+	.string "Soll ich eine lehren?$"
 
 GoldenrodCity_Text_MoveTutorCost:
 	.string "A-aber…$"
