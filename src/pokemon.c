@@ -8041,6 +8041,9 @@ u16 GetBattleBGM(void)
             return MUS_HG_VS_GYM_LEADER_KANTO;
         case TRAINER_CLASS_CHAMPION:
             return MUS_VS_CHAMPION;
+        case TRAINER_CLASS_CHAMPION_HNS:
+        case TRAINER_CLASS_PKMN_TRAINER_1_HNS:
+            return MUS_HG_VS_CHAMPION;
         case TRAINER_CLASS_RIVAL:
             if (gBattleTypeFlags & BATTLE_TYPE_FRONTIER)
                 return MUS_VS_RIVAL;
@@ -8339,7 +8342,7 @@ void SetWildMonHeldItem(void)
         u16 i;
         bool32 itemHeldBoost = CanFirstMonBoostHeldItemRarity();
         u16 chanceNoItem = itemHeldBoost ? 20 : 45;
-        u16 chanceNotRare = itemHeldBoost ? 80 : 95;
+        u16 chanceNotRare = itemHeldBoost ? 80 : 90;
 
         for (i = 0; i < count; i++)
         {

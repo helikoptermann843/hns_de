@@ -992,6 +992,8 @@ static void SetShopItemsForSale(const u16 *items)
     if (items == NULL)
     {
         u8 badgeCount = GetNumberOfBadges();
+        if (badgeCount >= ARRAY_COUNT(sShopInventories))
+            badgeCount = ARRAY_COUNT(sShopInventories) - 1;
         if (!gSaveBlock3Ptr->challengeSettings.tx_Challenges_PkmnCenter)
             sMartInfo.itemList = sShopInventories[badgeCount];
         else

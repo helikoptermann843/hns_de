@@ -171,7 +171,7 @@ Route25_BillsHouse_hns_CutsceneSetup::
 	addobject LOCALID_BILLS_GRANDPA_OLD_MON
 	applymovement OBJ_EVENT_ID_PLAYER, Route25_BillsHouse_Movement_HidePlayer
 	hidefollower
-	turnobject LOCALID_BILLS_GRANDPA, DIR_NORTH
+	@turnobject LOCALID_BILLS_GRANDPA, DIR_NORTH
 	special SpawnCameraObject
 	applymovement OBJ_EVENT_ID_CAMERA, Route25_BillsHouse_Movement_CameraPanUp
 	waitmovement 0
@@ -259,7 +259,7 @@ Route25_BillsHouse_hns_CutsceneCleanup::
 	removeobject LOCALID_BILLS_GRANDPA_PLAYER
 	applymovement OBJ_EVENT_ID_PLAYER, Route25_BillsHouse_Movement_ShowPlayer
 	waitmovement 0
-	turnobject LOCALID_BILLS_GRANDPA, DIR_SOUTH
+	@turnobject LOCALID_BILLS_GRANDPA, DIR_SOUTH
 	special RemoveCameraObject
 	special ConvertToRegionalForm
 	delay 60

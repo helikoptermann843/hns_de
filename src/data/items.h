@@ -196,7 +196,7 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Pokéball"),
         .pluralName = ITEM_PLURAL_NAME("Pokébälle"),
-        .price = 200,
+        .price = 100,
         .description = COMPOUND_STRING(
             "Damit fängst\n"
             "du wilde\n"
@@ -214,7 +214,7 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Superball"),
         .pluralName = ITEM_PLURAL_NAME("Superbälle"),
-        .price = 600,
+        .price = 400,
         .description = COMPOUND_STRING(
             "Ball mit guter Er-\n"
             "folgsquote. Besser\n"
@@ -232,7 +232,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Hyperball"),
         .pluralName = ITEM_PLURAL_NAME("Hyperbälle"),
-        .price = (I_PRICE >= GEN_7) ? 800 : 1200,
+        //.price = (I_PRICE >= GEN_7) ? 800 : 1200,
+        .price = 800,
         .description = COMPOUND_STRING(
             "Ball mit hoher Er-\n"
             "folgsquote. Besser\n"
@@ -448,7 +449,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Levelball"),
         .pluralName = ITEM_PLURAL_NAME("Levelbälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "Pokémon mit\n"
@@ -466,7 +468,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Köderball"),
         .pluralName = ITEM_PLURAL_NAME("Köderbälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "Pokémon, die\n"
@@ -484,7 +487,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Mondball"),
         .pluralName = ITEM_PLURAL_NAME("Mondbälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "Pokémon, die den\n"
@@ -502,7 +506,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Freundesball"),
         .pluralName = ITEM_PLURAL_NAME("Freundesbälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball macht gefan-\n"
             "gene Pokémon\n"
@@ -520,7 +525,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Sympaball"),
         .pluralName = ITEM_PLURAL_NAME("Sympabälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "Pokémon des ande-\n"
@@ -538,7 +544,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Turboball"),
         .pluralName = ITEM_PLURAL_NAME("Turbobälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "sehr schnelle\n"
@@ -556,7 +563,8 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Schwerball"),
         .pluralName = ITEM_PLURAL_NAME("Schwerbälle"),
-        .price = (I_PRICE >= GEN_7) ? 0 : 300,
+        //.price = (I_PRICE >= GEN_7) ? 0 : 300,
+        .price = 300,
         .description = COMPOUND_STRING(
             "Ball fängt besser\n"
             "sehr schwere\n"
@@ -1470,7 +1478,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Hebt die KP eines\n"
             "Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1488,7 +1496,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Hebt den Angr.-Wert\n"
             "eines Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1506,7 +1514,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Hebt den Vert.-Wert\n"
             "eines Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1525,7 +1533,7 @@ const struct ItemInfo gItemsInfo[] =
             "Hebt den Sp.\n"
             "Angr.-Wert eines\n"
             "Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1544,7 +1552,7 @@ const struct ItemInfo gItemsInfo[] =
             "Hebt den Sp.\n"
             "Vert.-Wert eines\n"
             "Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1562,7 +1570,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Hebt den Init.-Wert\n"
             "eines Pokémon."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_Medicine,
@@ -1587,7 +1595,7 @@ const struct ItemInfo gItemsInfo[] =
             "Hebt die maximale\n"
             "Anzahl der AP einer\n"
             "Attacke."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PPUp,
@@ -1606,7 +1614,7 @@ const struct ItemInfo gItemsInfo[] =
             "Maximiert die\n"
             "Anzahl der AP einer\n"
             "Attacke."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_STAT_BOOST_DRINK,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PPUp,
@@ -2499,7 +2507,8 @@ const struct ItemInfo gItemsInfo[] =
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
     #else
-        .price = (I_PRICE >= GEN_7) ? 1000 : 550,
+        //.price = (I_PRICE >= GEN_7) ? 1000 : 550,
+        .price = 100,
         .pocket = POCKET_ITEMS,
         .sortType = ITEM_TYPE_FIELD_USE,
     #endif

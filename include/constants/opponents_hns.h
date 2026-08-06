@@ -488,6 +488,7 @@
 #define TRAINER_GRETA_BF_BRAIN_HNS                    480
 #define TRAINER_NOLAND_BF_BRAIN_HNS                   481
 #define TRAINER_LUCY_BF_BRAIN_HNS                     482
+#define TRAINER_BRANDON_BF_BRAIN_HNS                  617
 #define TRAINER_JOEY_2_HNS                            483
 #define TRAINER_JOEY_3_HNS                            484
 #define TRAINER_JOEY_4_HNS                            485
@@ -624,7 +625,7 @@
 #define TRAINER_WESSEL_HNS                            615
 #define TRAINER_SKYLAR_HNS                            616
 
-#define TRAINERS_COUNT_HNS                       617
+#define TRAINERS_COUNT_HNS                       618
 #define MAX_TRAINERS_COUNT_HNS                   864
 
 #endif  // GUARD_CONSTANTS_OPPONENTS_HNS_H

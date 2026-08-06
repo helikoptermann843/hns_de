@@ -108,10 +108,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
 {
     [FRONTIER_FACILITY_TOWER] =
     {
-        .trainerId = TRAINER_ANABEL,
 #if IS_HNS
+        .trainerId = TRAINER_ANABEL_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_ANABEL_HNS,
 #else
+        .trainerId = TRAINER_ANABEL,
         .objEventGfx = OBJ_EVENT_GFX_ANABEL,
 #endif
         .isFemale = TRUE,
@@ -128,10 +129,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_DOME] =
     {
-        .trainerId = TRAINER_TUCKER,
 #if IS_HNS
+        .trainerId = TRAINER_TUCKER_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_TUCKER_HNS,
 #else
+        .trainerId = TRAINER_TUCKER,
         .objEventGfx = OBJ_EVENT_GFX_TUCKER,
 #endif
         .isFemale = FALSE,
@@ -148,10 +150,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_PALACE] =
     {
-        .trainerId = TRAINER_SPENSER,
 #if IS_HNS
+        .trainerId = TRAINER_SPENSER_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_SPENSER_HNS,
 #else
+        .trainerId = TRAINER_SPENSER,
         .objEventGfx = OBJ_EVENT_GFX_SPENSER,
 #endif
         .isFemale = FALSE,
@@ -168,10 +171,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_ARENA] =
     {
-        .trainerId = TRAINER_GRETA,
 #if IS_HNS
+        .trainerId = TRAINER_GRETA_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_GRETA_HNS,
 #else
+        .trainerId = TRAINER_GRETA,
         .objEventGfx = OBJ_EVENT_GFX_GRETA,
 #endif
         .isFemale = TRUE,
@@ -188,10 +192,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_FACTORY] =
     {
-        .trainerId = TRAINER_NOLAND,
 #if IS_HNS
+        .trainerId = TRAINER_NOLAND_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_NOLAND_HNS,
 #else
+        .trainerId = TRAINER_NOLAND,
         .objEventGfx = OBJ_EVENT_GFX_NOLAND,
 #endif
         .isFemale = FALSE,
@@ -208,10 +213,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_PIKE] =
     {
-        .trainerId = TRAINER_LUCY,
 #if IS_HNS
+        .trainerId = TRAINER_LUCY_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_LUCY_HNS,
 #else
+        .trainerId = TRAINER_LUCY,
         .objEventGfx = OBJ_EVENT_GFX_LUCY,
 #endif
         .isFemale = TRUE,
@@ -228,10 +234,11 @@ const struct FrontierBrain gFrontierBrainInfo[NUM_FRONTIER_FACILITIES] =
     },
     [FRONTIER_FACILITY_PYRAMID] =
     {
-        .trainerId = TRAINER_BRANDON,
 #if IS_HNS
+        .trainerId = TRAINER_BRANDON_BF_BRAIN_HNS,
         .objEventGfx = OBJ_EVENT_GFX_BRANDON_HNS,
 #else
+        .trainerId = TRAINER_BRANDON,
         .objEventGfx = OBJ_EVENT_GFX_BRANDON,
 #endif
         .isFemale = FALSE,
