@@ -78,8 +78,8 @@ static const struct MenuAction MultichoiceList_BrineyOffDewford[] =
 
 static const struct MenuAction MultichoiceList_ViewedPaintings[] =
 {
-    {COMPOUND_STRING("Saw it")},
-    {COMPOUND_STRING("Not yet")},
+    {COMPOUND_STRING("Gesehen")},
+    {COMPOUND_STRING("Noch nicht")},
 };
 
 static const struct MenuAction MultichoiceList_YesNoInfo2[] =
@@ -149,14 +149,14 @@ static const struct MenuAction MultichoiceList_Mechadoll3_Q1[] =
 {
     {COMPOUND_STRING("Feuerheiler")},
     {COMPOUND_STRING("Hafenbrief")},
-    {COMPOUND_STRING("Same price")},
+    {COMPOUND_STRING("Gleicher Preis")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q2[] =
 {
     {COMPOUND_STRING("¥60")},
     {COMPOUND_STRING("¥55")},
-    {COMPOUND_STRING("Nothing")},
+    {COMPOUND_STRING("Nichts")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll3_Q3[] =
@@ -168,9 +168,9 @@ static const struct MenuAction MultichoiceList_Mechadoll3_Q3[] =
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q1[] =
 {
-    {COMPOUND_STRING("Male")},
-    {COMPOUND_STRING("Female")},
-    {COMPOUND_STRING("Neither")},
+    {COMPOUND_STRING("Männer")},
+    {COMPOUND_STRING("Frauen")},
+    {COMPOUND_STRING("Weder noch")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q2[] =

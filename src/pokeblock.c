@@ -130,7 +130,7 @@ static void ReturnToPokeblockCaseOnField(void);
 static void CreateTossPokeblockYesNoMenu(u8);
 static void TossPokeblock(u8);
 
-static const u8 sText_StowCase[] = _("Stow CASE.");
+static const u8 sText_StowCase[] = _("Box verstauen.");
 static const u8 sText_LvVar1[] = _("{LV}{STR_VAR_1}");
 static const u8 sText_ThrowAwayVar1[] = _("{STR_VAR_1}\nwegwerfen?");
 static const u8 sText_Var1ThrownAway[] = _("{STR_VAR_1}\nwurde weggeworfen.");
