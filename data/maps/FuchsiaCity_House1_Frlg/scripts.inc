@@ -30,7 +30,7 @@ FuchsiaCity_House1_Text_BillIsMyGrandson::
 	.string "alles Mögliche gesammelt!$"
 
 FuchsiaCity_House1_Text_BillFilesHisOwnMonData::
-	.string "TM03 ist die Aquawelle!\p"
-	.string "Wasser-Pokémon können diese\n"
-	.string "Attacke erlernen!$"
+	.string "Bill sammelt auf seinem PC Daten\n"
+	.string "über Pokémon!\p"
+	.string "Hat er sie dir gezeigt?$"
 

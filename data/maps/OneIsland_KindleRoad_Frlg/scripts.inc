@@ -170,10 +170,10 @@ OneIsland_KindleRoad_Text_MikNotEnoughMons::
 	.string "kämpfen?$"
 
 OneIsland_KindleRoad_Text_RouteSign::
-	.string "Ich habe ein Chaneira gefangen!\p"
-	.string "Die Mühe hat sich gelohnt!$"
+	.string "Das ist der Glühweg.\p"
+	.string "Zum Glutberg geradeaus.$"
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
-	.string "Wie viele hast du gefangen?\n"
-	.string "Ich bin total erschöpft!$"
+	.string "Entfache das Feuer in dir!\n"
+	.string "GLUTTHERME$"
 

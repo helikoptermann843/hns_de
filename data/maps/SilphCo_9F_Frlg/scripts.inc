@@ -52,7 +52,7 @@ SilphCo_9F_Text_DontGiveUp::
 	.string "Gib nicht auf!$"
 
 SilphCo_9F_Text_ThankYouSoMuch::
-	.string "Ich danke vielmals!$"
+	.string "Vielen, vielen Dank!$"
 
 SilphCo_9F_Text_Grunt1Intro::
 	.string "Deine Pokémon scheinen dich sehr\n"

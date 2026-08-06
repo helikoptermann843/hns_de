@@ -27,16 +27,16 @@ ViridianCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 ViridianCity_PokemonCenter_1F_Text_FeelFreeToUsePC::
-	.string "Das ist cool!\n"
-	.string "Digda hat einen Tunnel gegraben!\p"
-	.string "Er führt direkt nach Vertania\n"
-	.string "City!$"
+	.string "Du kannst den PC in der Ecke dort\n"
+	.string "drüben benutzen!\p"
+	.string "Darauf hat man mich am Empfang\n"
+	.string "freundlicherweise hingewiesen.$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCenterInEveryTown::
-	.string "Im Felstunnel ist es stockdunkel\n"
-	.string "und furchtbar gruselig!\p"
-	.string "Wenn nur ein Pokémon mit einem\n"
-	.string "Blitz für Licht sorgen könnte...$"
+	.string "Es gibt in jeder Stadt ein\n"
+	.string "Pokémon-Center.\p"
+	.string "Dort behandelt man deine Pokémon\n"
+	.string "kostenlos!$"
 
 ViridianCity_PokemonCenter_1F_Text_PokeCentersHealMons::
 	.string "Im Pokémon-Center kannst du müde,\n"

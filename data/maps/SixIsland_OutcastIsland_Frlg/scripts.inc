@@ -13,7 +13,7 @@ SixIsland_OutcastIsland_Text_RocketIntro::
 	.string "kämpfe ich jetzt mit dir!$"
 
 SixIsland_OutcastIsland_Text_RocketDefeat::
-	.string "Wie?$"
+	.string "… Häh?$"
 
 SixIsland_OutcastIsland_Text_RocketPostBattle::
 	.string "Hast du ein seltenes Pokémon\n"

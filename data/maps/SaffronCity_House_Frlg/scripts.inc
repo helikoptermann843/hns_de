@@ -33,13 +33,15 @@ SaffronCity_House_Text_Pidgey::
 	.string "Taubsi: Taubsi!$"
 
 SaffronCity_House_Text_GettingCopycatPokeDoll::
-	.string "Die Türen der Arena sind\n"
-	.string "verschlossen...$"
+	.string "Ich mag die Nachahmerin!\n"
+	.string "Ich kaufe ihr eine PokéPuppe!$"
 
 SaffronCity_House_Text_ExplainPPUp::
-	.string "Tipps für Trainer\p"
-	.string "Fange Pokémon, um deine Sammlung\n"
-	.string "zu erweitern!\p"
-	.string "Je mehr du besitzt, desto leichter\n"
-	.string "werden die Kämpfe!$"
+	.string "Ich habe ein AP-Plus geschenkt\n"
+	.string "bekommen!\p"
+	.string "Es erhöht die Angriffspunkte einer\n"
+	.string "Attacke!\p"
+	.string "Ich sollte es bei einer mächtigen\n"
+	.string "Attacke, die wenig AP hat,\l"
+	.string "einsetzen.$"
 

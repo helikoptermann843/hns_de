@@ -308,8 +308,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask::
 	.string "Bitte, lass mich dein Partner sein.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Accept::
-	.string "Vielen Dank!\n"
-	.string "Ich werde uns sofort registrieren.$"
+	.string "Thank you!\n"
+	.string "I’ll go register right now.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Reject::
 	.string "Ich hätte so gern mit dir ein Team\n"

@@ -109,10 +109,10 @@ SixIsland_WaterPath_Text_MiaNotEnoughMons::
 	.string "Bist du nicht einsam?$"
 
 SixIsland_WaterPath_Text_WantedUltimateHorn::
-	.string "Das Team Rocket hat die Kontrolle\n"
-	.string "über das Gebäude übernommen!$"
+	.string "Gesucht!\n"
+	.string "Das Ultimative Horn!$"
 
 SixIsland_WaterPath_Text_RouteSign::
-	.string "O.K., die Arbeit ruft!\n"
-	.string "Los geht's!$"
+	.string "Wasserweg\n"
+	.string "Führt ins Ruinental$"
 

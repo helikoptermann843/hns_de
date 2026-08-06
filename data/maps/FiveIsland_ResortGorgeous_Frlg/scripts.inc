@@ -139,5 +139,5 @@ FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
 	.string "Du darfst jetzt gehen!$"
 
 FiveIsland_ResortGorgeous_Text_SelphysHouse::
-	.string "Ich reise immer mit Knuddeluff!$"
+	.string "Keas Haus$"
 

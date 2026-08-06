@@ -15,14 +15,13 @@ Route11_EastEntrance_1F_Text_BagIsFull::
 	.string "いっぱい　みたい　だね$"
 
 Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
-	.string "Sarah: Hi! Gutes Timing. Ich war\n"
-	.string "gerade dabei, Tee zu machen.\p"
-	.string "Hättest du auch gern eine Tasse\n"
-	.string "Tee?\p"
-	.string "Oh, deine Pokémon sehen ein\n"
-	.string "bisschen mitgenommen aus.\p"
-	.string "Möchtest du, dass ich eines für\n"
-	.string "dich verschönere?$"
+	.string "Je mehr Pokémon man fängt, desto\n"
+	.string "schwieriger wird es, ihnen allen\l"
+	.string "Spitznamen zu geben!\p"
+	.string "In Lavandia lebt ein Mann, der\n"
+	.string "Spitznamen von Pokémon bewertet.\p"
+	.string "Er nimmt auch Namensänderungen\n"
+	.string "vor!$"
 
 Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
 	.string "Falls du nach Lavandia möchtest,\n"

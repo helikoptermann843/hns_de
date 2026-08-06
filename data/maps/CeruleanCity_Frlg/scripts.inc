@@ -463,21 +463,21 @@ CeruleanCity_Text_PeopleHereWereRobbed::
 	.string "Team Rocket machtlos!$"
 
 CeruleanCity_Text_SlowbroUseSonicboom::
-	.string "Okay! Slowbro!\n"
-	.string "Use Sonicboom!$"
+	.string "O.K.! Lahmus!\n"
+	.string "Setze Ultraschall ein!$"
 
 CeruleanCity_Text_SlowbroPayAttention::
 	.string "Los, mach schon, Lahmus!$"
 
 CeruleanCity_Text_SlowbroPunch::
-	.string "Slowbro, punch!$"
+	.string "Lahmus, schlage zu!$"
 
 CeruleanCity_Text_NoYouBlewItAgain::
 	.string "Oh nein!\n"
 	.string "Wieder nicht...$"
 
 CeruleanCity_Text_SlowbroWithdraw::
-	.string "Slowbro, Withdraw!$"
+	.string "Lahmus, Zurück!$"
 
 CeruleanCity_Text_HardToControlMonsObedience::
 	.string "Nein, nicht!!! Es ist schwer, ein\n"

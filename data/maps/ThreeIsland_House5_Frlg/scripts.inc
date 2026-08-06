@@ -15,14 +15,12 @@ ThreeIsland_House5_EventScript_LittleGirlLostelleFound::
 	end
 
 ThreeIsland_House5_Text_ImNotLostelle::
-	.string "Welch Rückschlag…\n"
-	.string "Wir müssen uns neu gruppieren.\p"
-	.string "Du! Denk nicht einmal daran,\n"
-	.string "einzutreten!\p"
-	.string "Wenn du weißt, was gut für dich\n"
-	.string "ist, denk nicht einmal daran!$"
+	.string "Ich?\n"
+	.string "Ich bin nicht Irrma!\p"
+	.string "Sie ist vermutlich im Beerenforst!\p"
+	.string "Sie sammelt dort Beeren, um\n"
+	.string "das Mittagessen zuzubereiten!$"
 
 ThreeIsland_House5_Text_IllGoPlayWithLostelle::
-	.string "Was zur…?\n"
-	.string "Du bist im Weg! Verschwinde!$"
+	.string "Ich werde heute mit Irrma spielen!$"
 

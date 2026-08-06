@@ -19,8 +19,8 @@ FiveIsland_EventScript_Fisher::
 	end
 
 FiveIsland_Text_IslandSign::
-	.string "Selbst wenn man sie besiegt hat,\n"
-	.string "wirken die Ninjas noch bedrohlich!$"
+	.string "Eiland Fünf\n"
+	.string "Chrono-Insel: Wo die Zeit rennt$"
 
 FiveIsland_Text_WeirdBuildingInMeadow::
 	.string "Igitt, das stinkt! Ich wollte auf\n"

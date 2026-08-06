@@ -77,8 +77,8 @@ MtMoon_1F_Text_MiriamDefeat::
 	.string "Ich habe verloren!$"
 
 MtMoon_1F_Text_MiriamPostBattle::
-	.string "Ich werde fleißig üben, damit ich\n"
-	.string "ein guter Trainer werde!$"
+	.string "Wie kommt man hier bloß wieder\n"
+	.string "heraus?$"
 
 MtMoon_1F_Text_JovanIntro::
 	.string "Heh!\n"
@@ -98,8 +98,8 @@ MtMoon_1F_Text_IrisDefeat::
 	.string "Ich hab verloren?$"
 
 MtMoon_1F_Text_IrisPostBattle::
-	.string "Du hast diese Orden im Kampf\n"
-	.string "gegen Arenaleiter gewonnen, oder?$"
+	.string "Gerüchten zufolge soll es hier sehr\n"
+	.string "seltene Fossilien geben.$"
 
 MtMoon_1F_Text_KentIntro::
 	.string "Wer da? Wohin man schaut: Überall\n"
@@ -124,8 +124,8 @@ MtMoon_1F_Text_RobbyPostBattle::
 	.string "im Kampf jedoch sehr nützlich sein!$"
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
-	.string "Ich bin besiegt!\n"
-	.string "Ich werde nach Hause fliegen!$"
+	.string "Sei vorsichtig!\n"
+	.string "ZUBAT ist ein Blutsauger!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
 	.string "Hallo! Ich grabe Fossilien hier am\n"

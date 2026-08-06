@@ -122,7 +122,7 @@ FiveIsland_MemorialPillar_Text_HaroldPostBattle::
 	.string "verspielt Männchen machen…$"
 
 FiveIsland_MemorialPillar_Text_ScrubScrub::
-	.string "Eine Stimme: Lauf nicht davon!$"
+	.string "Putz, putz…$"
 
 FiveIsland_MemorialPillar_Text_YourMonsLookHealthy::
 	.string "Hallo…\n"
@@ -162,8 +162,9 @@ FiveIsland_MemorialPillar_Text_BeGoodToYourMonsToo::
 	.string "Es scheint Spaß zu haben!$"
 
 FiveIsland_MemorialPillar_Text_DontHaveRoomForIt::
-	.string "Die Teller sind ordentlich\n"
-	.string "aufgeräumt.$"
+	.string "Wenn du keinen Platz hast, bewahre\n"
+	.string "ich es bis zum nächsten Mal für\l"
+	.string "dich auf.$"
 
 FiveIsland_MemorialPillar_Text_StillHaveThingAsMyThanks::
 	.string "Ah, du bist es, von neulich…\p"

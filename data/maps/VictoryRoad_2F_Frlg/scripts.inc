@@ -132,8 +132,8 @@ VictoryRoad_2F_Text_GregoryDefeat::
 	.string "Gut gemacht!$"
 
 VictoryRoad_2F_Text_GregoryPostBattle::
-	.string "Sehr schön!\n"
-	.string "Hier ist dein Pokémon!$"
+	.string "Schon viele Trainer haben hier\n"
+	.string "aufgegeben!$"
 
 @ Unused, old text for Moltres
 VictoryRoad_2F_Text_Gyaoo::

@@ -190,8 +190,8 @@ MtEmber_Exterior_Text_Grunt2Intro::
 	.string "Schatz? Das kannst du vergessen!$"
 
 MtEmber_Exterior_Text_Grunt2Defeat::
-	.string "Wait!\n"
-	.string "But how?$"
+	.string "Warte!\n"
+	.string "Wie konnte das geschehen?$"
 
 MtEmber_Exterior_Text_Grunt2PostBattle::
 	.string "Fröne der Amnesie und vergiss,\n"

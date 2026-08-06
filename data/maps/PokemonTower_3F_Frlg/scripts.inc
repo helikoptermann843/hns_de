@@ -48,6 +48,5 @@ PokemonTower_3F_Text_PatriciaDefeat::
 	.string "Der Geist ist verschwunden!$"
 
 PokemonTower_3F_Text_PatriciaPostBattle::
-	.string "Bedienung, ich hätte gern ein\n"
-	.string "Stückchen Torte!$"
+	.string "Auch meine Freunde waren besessen!$"
 

@@ -10,16 +10,15 @@ PewterCity_House2_EventScript_LittleBoy::
 	end
 
 PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
-	.string "{PLAYER}, gibt es etwas, das du\n"
-	.string "nicht leiden kannst?\p"
-	.string "Bill kann offensichtlich\n"
-	.string "Milch nicht leiden!$"
+	.string "Mit wachsender Erfahrung lernen\n"
+	.string "Pokémon neue Attacken!\p"
+	.string "Manche Attacken kann ihnen jedoch\n"
+	.string "nur ein Trainer beibringen!$"
 
 PewterCity_House2_Text_MonsEasierCatchIfStatused::
-	.string "{PLAYER}, was sind deine Lieblings-\n"
-	.string "Pokémon?\p"
-	.string "Bill ist ein Pokémaniac, also mag\n"
-	.string "er alle Pokémon.\p"
-	.string "Es scheint, dass Abra sein erstes\n"
-	.string "Pokémon war!$"
+	.string "Pokémon sind einfacher zu fangen,\n"
+	.string "wenn sie verletzt sind oder\l"
+	.string "schlafen!\p"
+	.string "Trotzdem gibt es keine\n"
+	.string "Erfolgsgarantie!$"
 

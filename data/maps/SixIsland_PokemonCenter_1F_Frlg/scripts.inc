@@ -85,12 +85,15 @@ SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
 	.string "ser Insel irgendein Geheimnis ist.$"
 
 SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
-	.string "Ein eingefrorenes Pokémon ist\n"
-	.string "bewegungsunfähig.\p"
-	.string "Es behält auch nach dem Kampf\n"
-	.string "diesen Zustand bei.\p"
-	.string "Nur der Eisheiler kann es wieder\n"
-	.string "auftauen!$"
+	.string "Du weißt, dass es Pokémon\n"
+	.string "gibt, die sich nur beim Tausch\l"
+	.string "entwickeln?\l"
+	.string "Aber wusstest du, dass es\l"
+	.string "sogar noch speziellere\l"
+	.string "Pokémon gibt?\l"
+	.string "Einige Pokémon entwickeln\l"
+	.string "sich nur, wenn sie beim Tausch\l"
+	.string "ein spezielles Item tragen.$"
 
 SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
 	.string "{RIVAL}: Heh {PLAYER}!\n"

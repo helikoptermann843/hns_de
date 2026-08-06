@@ -32,9 +32,9 @@ SSAnne_Deck_Text_ScrubbingDecksHardWork::
 	.string "sauber bekommen!$"
 
 SSAnne_Deck_Text_FeelSeasick::
-	.string "Eine Party?\p"
-	.string "Die dürfte längst vorbei sein. Du\n"
-	.string "bist spät dran!$"
+	.string "Brrr, ich fühle mich elend...\p"
+	.string "An der frischen Luft fühle ich mich\n"
+	.string "besser...$"
 
 SSAnne_Deck_Text_EdmondIntro::
 	.string "Heh!\p"

@@ -62,12 +62,12 @@ PewterCity_PokemonCenter_1F_Text_WhenJiggylypuffSingsMonsGetDrowsy::
 	.string "Schnarch...$"
 
 PewterCity_PokemonCenter_1F_Text_TradingMyClefairyForPikachu::
-	.string "Hast du schon den Profi-Angler in\n"
-	.string "Orania City besucht?$"
+	.string "Ich möchte unbedingt ein Pikachu\n"
+	.string "und tausche mein Piepi dafür!$"
 
 PewterCity_PokemonCenter_1F_Text_TradingPikachuWithKid::
-	.string "Mein Pokémon, Maschock, ist\n"
-	.string "superstark!!!\p"
-	.string "Mit seiner Stärke kann es sogar\n"
-	.string "Felsen bewegen!$"
+	.string "Ich tausche Pokémon mit dem\n"
+	.string "Kind dort drüben!\p"
+	.string "Da ich zwei Pikachu besaß, konnte\n"
+	.string "ich eines tauschen.$"
 

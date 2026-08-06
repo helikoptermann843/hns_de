@@ -42,13 +42,14 @@ SixIsland_RuinValley_EventScript_IgnoreDottedHoleDoor::
 	end
 
 SixIsland_RuinValley_Text_CantFigureOutHowToGetInside::
-	.string "Wenn ich ein Fahrrad hätte, würde\n"
-	.string "ich den Radweg benutzen!$"
+	.string "Ich bin nicht in der Lage, heraus-\n"
+	.string "zufinden, wie ich hineinkommen\l"
+	.string "soll.$"
 
 SixIsland_RuinValley_Text_IFoundThisPlace::
-	.string "Willkommen!\p"
-	.string "Nebenan kannst du deine\n"
-	.string "Münzen gegen Preise tauschen.$"
+	.string "Ich war es, der diesen Ort\n"
+	.string "entdeckt hat.\p"
+	.string "Guck nicht so neidisch!$"
 
 SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
 	.string "Die Tür bewegt sich nicht.\n"
@@ -58,8 +59,9 @@ SixIsland_RuinValley_Text_LeftDoorAlone::
 	.string "Dein Münzkorb ist voll!$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
-	.string "Nein? Dann komm vorbei, wenn du\n"
-	.string "spielen möchtest!$"
+	.string "Bei näherer Betrachtung sieht man,\n"
+	.string "dass mehrere Punkte auf der\l"
+	.string "Tür sind…$"
 
 SixIsland_RuinValley_Text_DoorIsOpen::
 	.string "Die Tür ist offen.$"

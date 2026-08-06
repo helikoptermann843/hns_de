@@ -34,7 +34,8 @@ PalletTown_PlayersHouse_2F_Text_PlayedWithNES::
 	.string "Die Reise kann beginnen!$"
 
 PalletTown_PlayersHouse_2F_Text_PressLRForHelp::
-	.string "Currywurst!\p"
-	.string "Wie kommt eine solche Banalität auf\n"
-	.string "meine Karte?$"
+	.string "Eine Nachricht…\p"
+	.string "Wenn du nicht weiter weißt,\n"
+	.string "rufe das Hilfe-Menü durch\l"
+	.string "Drücken der L- oder R-Taste auf.$"
 

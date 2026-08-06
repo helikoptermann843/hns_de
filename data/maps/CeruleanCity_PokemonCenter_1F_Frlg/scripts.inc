@@ -35,11 +35,9 @@ CeruleanCity_PokemonCenter_1F_EventScript_Lass::
 	end
 
 CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
-	.string "Die Leute hier wurden beraubt.\p"
-	.string "Das Team Rocket steckt hinter dem\n"
-	.string "abscheulichen Verbrechen!\p"
-	.string "Sogar die Polizei ist gegen das\n"
-	.string "Team Rocket machtlos!$"
+	.string "Dieser Bill!\p"
+	.string "Ich hörte, für seltene Pokémon\n"
+	.string "würde er alles tun!$"
 
 CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
 	.string "Hat man dir schon von Bill\n"
@@ -56,10 +54,12 @@ CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
 	.string "seiner Sammlung!$"
 
 CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
-	.string "Pokémon können Büsche mit dem\n"
-	.string "Zerschneider klein hacken.\p"
-	.string "Auch der kleine Baum vor dem\n"
-	.string "Geschäft kann entfernt werden.\p"
-	.string "Aber es gibt auch einen anderen\n"
-	.string "Weg!$"
+	.string "Warum gehst du nicht nach oben und\n"
+	.string "tauschst Pokémon mit deinen\l"
+	.string "Freunden?\l"
+	.string "Dadurch erhöht sich die Vielfalt\l"
+	.string "deiner Pokémon.\p"
+	.string "Der Level der Pokémon, die du\n"
+	.string "durch Tausch erhältst, steigt\l"
+	.string "schnell.$"
 

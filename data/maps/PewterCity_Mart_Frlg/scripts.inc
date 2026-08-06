@@ -34,9 +34,10 @@ PewterCity_Mart_Items::
 	end
 
 PewterCity_Mart_Text_BoughtWeirdFishFromShadyGuy::
-	.string "Das kostet 500¥!\p"
-	.string "Wir verwenden hier spezielle\n"
-	.string "Pokébälle.$"
+	.string "Ein zwielichtiger, alter Mann hat\n"
+	.string "mir dieses seltsame Pkmn angedreht!\p"
+	.string "Es ist vollkommen schwach und hat\n"
+	.string "500$ gekostet!$"
 
 PewterCity_Mart_Text_GoodThingsIfRaiseMonsDiligently::
 	.string "Wenn man seine Pokémon eifrig\n"

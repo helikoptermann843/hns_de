@@ -217,10 +217,10 @@ Text_RockSlideTaught::
 	.string "diesem Tunnel einzusetzen…$"
 
 SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
-	.string "Ein Tipp? Du brauchst einen\n"
-	.string "Türöffner!$"
+	.string "Felsen könnten die Strömung\n"
+	.string "vielleicht umlenken!$"
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
-	.string "Pst! Siehst du nicht, dass\n"
-	.string "ich mich verstecke?$"
+	.string "Vorsicht!\n"
+	.string "GEFÄHRLICHE Strömung!$"
 

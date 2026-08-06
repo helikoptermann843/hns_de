@@ -42,11 +42,10 @@ CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
 	.string "Poképuppe!$"
 
 CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
-	.string "Ah, wirklich beeindruckend.\n"
-	.string "Du behandelst deine Pokémon gut.\p"
-	.string "Ich denke, ich kann dir das\n"
-	.string "überlassen.\p"
-	.string "Bitte, nimm dies!$"
+	.string "Ich habe einen Tipp bekommen!\p"
+	.string "Du kannst vor wilden Pokémon\n"
+	.string "fliehen, wenn du sie mit einer\l"
+	.string "PokéPuppe ablenkst!$"
 
 CeladonCity_DepartmentStore_4F_Text_FloorSign::
 	.string "Lass ein Geschenk für dich sprechen!\n"

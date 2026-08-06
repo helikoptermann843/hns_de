@@ -91,38 +91,40 @@ SilphCo_6F_EventScript_Grunt2::
 	end
 
 SilphCo_6F_Text_RocketsTookOverBuilding::
-	.string "Du hast keine Chance!\n"
-	.string "Ich bin Pokémon-Profi!$"
+	.string "Das Team Rocket hat die Kontrolle\n"
+	.string "über das Gebäude übernommen!$"
 
 SilphCo_6F_Text_BetterGetBackToWork::
-	.string "Entwickelt sich Quapsel dreimal?$"
+	.string "O.K., die Arbeit ruft!\n"
+	.string "Los geht’s!$"
 
 SilphCo_6F_Text_HelpMePlease::
-	.string "Ich setze mit Vorliebe Feuer-\n"
-	.string "Pokémon ein!$"
+	.string "Oje, ojemine!\n"
+	.string "Bitte hilf mir!$"
 
 SilphCo_6F_Text_WeGotEngaged::
 	.string "Wir sind verlobt!$"
 
 SilphCo_6F_Text_ThatManIsSuchACoward::
-	.string "Ich weiß, warum Pyro ein Trainer\n"
-	.string "geworden ist!$"
+	.string "Schau ihn dir an, den Feigling!$"
 
 SilphCo_6F_Text_NeedsMeToLookAfterHim::
-	.string "Unterscheiden sich zwei gleiche\n"
-	.string "Pokémon mit gleichem Level?$"
+	.string "Ich glaube, ich werde ihn aus\n"
+	.string "Mitleid heiraten!$"
 
 SilphCo_6F_Text_RocketsTryingToConquerWorld::
-	.string "Ich war in vielen Pokémon-Arenen,\n"
-	.string "doch diese mag ich am liebsten!$"
+	.string "Das Team Rocket benutzt die\n"
+	.string "Pokémon bei dem Versuch, die Welt\l"
+	.string "zu erobern!$"
 
 SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
 	.string "Du hast das Team Rocket in die\n"
 	.string "Flucht geschlagen!$"
 
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
-	.string "Ich war ein Dieb! Doch nun bin ich\n"
-	.string "ein ehrenhafter Trainer!$"
+	.string "Sie müssen es wegen unserer\n"
+	.string "Pokémon-Produkte auf die Silph\l"
+	.string "CO. abgesehen haben!$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
 	.string "Wir würden uns sehr freuen, wenn\n"
@@ -138,8 +140,8 @@ SilphCo_6F_Text_Grunt1Defeat::
 	.string "Ich bin raus!$"
 
 SilphCo_6F_Text_Grunt1PostBattle::
-	.string "Der Gründer des Laboratoriums,\n"
-	.string "Dr. Fuji!$"
+	.string "Egal!\n"
+	.string "Meine Brüder werden mich rächen!$"
 
 SilphCo_6F_Text_TaylorIntro::
 	.string "Dieser verdammte Präsident!\p"

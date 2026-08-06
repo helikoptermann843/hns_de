@@ -14,6 +14,7 @@ SafariZone_Center_Text_WhereDidErikGo::
 	.string "Erik hingegangen?$"
 
 SafariZone_Center_Text_CatchingMonsAsGifts::
-	.string "Die Pokémon von unserem Boss\n"
-	.string "werden dich fertig machen!$"
+	.string "Wenn ich Pokémon fange, verschenke\n"
+	.string "ich sie, wenn ich wieder zu Hause\l"
+	.string "bin!$"
 

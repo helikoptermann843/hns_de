@@ -245,8 +245,8 @@ Route22_Text_EarlyRivalIntro::
 	.string "eigentlich stärker geworden?$"
 
 Route22_Text_EarlyRivalDefeat::
-	.string "{RIVAL}: Ja!\n"
-	.string "Ich bin der Größte!$"
+	.string "Oh nein! So viel Glück wie du kann\n"
+	.string "man nicht haben!$"
 
 Route22_Text_EarlyRivalPostBattle::
 	.string "In der Pokémon Liga gibt es viele\n"

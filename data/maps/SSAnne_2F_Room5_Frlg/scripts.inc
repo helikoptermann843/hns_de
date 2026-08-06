@@ -10,13 +10,11 @@ SSAnne_2F_Room5_EventScript_LittleBoy::
 	end
 
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
-	.string "Du kannst den PC in der Ecke dort\n"
-	.string "drüben benutzen!\p"
-	.string "Darauf hat man mich am Empfang\n"
-	.string "freundlicherweise hingewiesen.$"
+	.string "Hast du die Safari-Zone in\n"
+	.string "FUCHSANIA City schon besucht?\p"
+	.string "Es gibt dort sehr seltene Pokémon!$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
-	.string "Im Pokémon-Center kannst du müde,\n"
-	.string "verletzte und besiegte Pokémon\l"
-	.string "heilen!$"
+	.string "Mein Papa war mit mir in der\n"
+	.string "SAFARI-Zone! Es war aufregend!$"
 

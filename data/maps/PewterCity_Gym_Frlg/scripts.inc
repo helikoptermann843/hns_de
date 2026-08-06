@@ -139,7 +139,8 @@ PewterCity_Gym_Text_BrockPostBattle::
 	.string "Können!$"
 
 PewterCity_Gym_Text_DontHaveRoomForThis::
-	.string "Du kannst nichts mehr tragen!$"
+	.string "Du hast momentan keinen Platz für\n"
+	.string "weitere Items!$"
 
 PewterCity_Gym_Text_LiamIntro::
 	.string "Bleib stehen wo du bist, Kind!\p"

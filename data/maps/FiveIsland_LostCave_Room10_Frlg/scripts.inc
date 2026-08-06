@@ -62,8 +62,7 @@ FiveIsland_LostCave_Room10_Movement_SelphyApproach::
 	step_end
 
 FiveIsland_LostCave_Room10_Text_SelphyIntro::
-	.string "Über die Pokémon-Welt hinaus!\n"
-	.string "Pokémon Netzwerk-Center$"
+	.string "Wa-was hast du mit mir vor?$"
 
 FiveIsland_LostCave_Room10_Text_SelphyDefeat::
 	.string "Oh… ich hatte Angst,\n"

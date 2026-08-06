@@ -70,23 +70,24 @@ CeladonCity_DepartmentStore_3F_Text_HaunterEvolvedOnTrade::
 	.string "Pokémon entwickelt!$"
 
 CeladonCity_DepartmentStore_3F_Text_CanIdentifyTradeMonsByID::
-	.string "Ach, wäre mein Freund doch auch\n"
-	.string "so toll wie du!$"
+	.string "Anhand ihrer ID-Nr. kannst du\n"
+	.string "Pokémon, die du bei einem Tausch\l"
+	.string "erhalten hast, identifizieren!$"
 
 CeladonCity_DepartmentStore_3F_Text_ItsSuperNES::
 	.string "Das ist ein Super Nintendo!$"
 
 CeladonCity_DepartmentStore_3F_Text_AnRPG::
-	.string "Mist!\n"
-	.string "Mich hat ein Zubat gebissen!$"
+	.string "Ein Rollenspiel!\n"
+	.string "Ich habe keine Zeit! Schade!$"
 
 CeladonCity_DepartmentStore_3F_Text_SportsGame::
 	.string "Ein Rennspiel!\n"
 	.string "Das würde meinem Vater gefallen!$"
 
 CeladonCity_DepartmentStore_3F_Text_PuzzleGame::
-	.string "Der Pfad dort unten ist eine\n"
-	.string "Abkürzung nach Azuria City.$"
+	.string "Ein Puzzle-Spiel!\n"
+	.string "Es ist bestimmt fesselnd!$"
 
 CeladonCity_DepartmentStore_3F_Text_FightingGame::
 	.string "Ein Kampfsport-Spiel!\n"
@@ -96,8 +97,8 @@ CeladonCity_DepartmentStore_3F_Text_TVGameShop::
 	.string "2S: Videospiele-Shop$"
 
 CeladonCity_DepartmentStore_3F_Text_RedGreenBothArePokemon::
-	.string "Ist mein Pokémon zu schwach,\n"
-	.string "oder bin ich etwa nicht gut genug?$"
+	.string "Die Rote und die Grüne Pokémon-\n"
+	.string "Edition! Cool!$"
 
 Text_CounterTeach::
 	.string "Hallo! Ich habe kürzlich Pokémon\n"

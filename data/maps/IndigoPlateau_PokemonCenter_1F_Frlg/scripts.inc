@@ -69,20 +69,20 @@ IndigoPlateau_PokemonCenter_1F_EventScript_Nurse::
 	end
 
 IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
-	.string "Hi! Ich arbeite in einem Pokémon-\n"
-	.string "Supermarkt.\p"
-	.string "Wir verkaufen viele praktische\n"
-	.string "Dinge!\p"
-	.string "Du findest unseren Laden in\n"
-	.string "Vertania City.\p"
-	.string "Am besten gebe ich dir ein\n"
-	.string "Werbegeschenk! Hier, bitte!$"
+	.string "Heh!\n"
+	.string "Warte, du Champion in spe!\p"
+	.string "In der Pokémon Liga trittst du\n"
+	.string "gegen die Top Vier nacheinander\l"
+	.string "an.\p"
+	.string "Wenn du einen Kampf verlierst,\n"
+	.string "musst du ganz von vorne beginnen!$"
 
 IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
-	.string "Laufe hier weiter und du erreichst\n"
-	.string "den Wasserweg.\p"
-	.string "Wenn du dann noch weiter läufst,\n"
-	.string "erreichst du das Ruinental.$"
+	.string "Ab jetzt triffst du nacheinander\n"
+	.string "auf die Top Vier!\p"
+	.string "Wenn du einen Kampf gewinnst, wird\n"
+	.string "der Weg zum nächsten Trainer\l"
+	.string "freigegeben! Viel Glück!$"
 
 IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
 	.string "Es tut mir Leid, aber du hast deine\n"

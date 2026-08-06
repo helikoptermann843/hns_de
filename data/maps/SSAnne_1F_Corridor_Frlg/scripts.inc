@@ -10,16 +10,16 @@ SSAnne_1F_Corridor_EventScript_Sailor::
 	end
 
 SSAnne_1F_Corridor_Text_LeStrongSilentType::
-	.string "Oh, was ist das?\n"
-	.string "Das ist für mich?\p"
-	.string "Woher wusstest du, dass ich seltene\n"
-	.string "Gesteine liebe?\p"
-	.string "Du weißt, wie man einen Kerl\n"
-	.string "glücklich macht!$"
+	.string "Moin, moin, du Landradde!\n"
+	.string "Ich bin der Steward auf diesem\l"
+	.string "Kahn!\p"
+	.string "Ruf mich einfach, wenn du einen\n"
+	.string "Wunsch hast!\p"
+	.string "Verdammich, gesprächig bist du\n"
+	.string "aber nicht!$"
 
 SSAnne_1F_Corridor_Text_PassengersAreRestless::
-	.string "Oh, das ist von Bill!\n"
-	.string "Richte ihm meinen Dank aus!\p"
-	.string "Du warst einfach fantastisch!\n"
-	.string "Das ist für dich!$"
+	.string "Viele Passagiere sind hyperaktiv!\p"
+	.string "Sie langweilen sich und sehnen sich\n"
+	.string "nach einem Kampf!$"
 

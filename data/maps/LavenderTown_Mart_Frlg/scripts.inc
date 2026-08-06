@@ -47,15 +47,17 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 	.string "Weißt du, wo ich sie kaufen kann?$"
 
 LavenderTown_Mart_Text_DidYouBuyRevives::
-	.string "Der Vorsitzende redet sehr gerne\n"
-	.string "über Pokémon!$"
+	.string "Kennst du den Beleber?\n"
+	.string "Damit kannst du bereits besiegten\l"
+	.string "Pokémon wieder Kraft geben!$"
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
-	.string "Der Vorsitzende redet sehr gerne\n"
-	.string "über Pokémon!\p"
-	.string "Aber die Person, die von den\n"
-	.string "Pokémon am meisten\l"
-	.string "geliebt wird, ist Sarah!$"
+	.string "Manchmal fordert dich ein\n"
+	.string "TRAINER-Duo mit zwei\l"
+	.string "Pokémon zum Kampf heraus.\l"
+	.string "In diesem Fall musst du auch\l"
+	.string "zwei Pokémon in den Kampf\l"
+	.string "schicken!$"
 
 LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
 	.string "この　あいだ　やまおくで\n"

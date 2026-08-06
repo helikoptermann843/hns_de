@@ -33,10 +33,12 @@ SSAnne_1F_Room6_Text_GladEveryoneIsRefreshed::
 	.string "erfrischt aussehen.$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMyBrother::
-	.string "Aber findest du auch durch dieses\n"
-	.string "Labyrinth?$"
+	.string "Entschuldige, dass ich mich über\n"
+	.string "dich aufgeregt habe. Du siehst aus\l"
+	.string "wie mein kleiner Bruder…$"
 
 SSAnne_1F_Room6_Text_SorryYouLookLikeMySister::
-	.string "Ich bin ein Spion und infiltriere\n"
-	.string "die Silph Co.!$"
+	.string "Entschuldige, dass ich mich über\n"
+	.string "dich aufgeregt habe. Du siehst aus\l"
+	.string "wie meine kleine Schwester…$"
 

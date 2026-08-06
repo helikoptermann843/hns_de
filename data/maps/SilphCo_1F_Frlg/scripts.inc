@@ -15,11 +15,11 @@ SilphCo_1F_EventScript_FloorSign::
 	end
 
 SilphCo_1F_Text_WelcomePresidentInBoardroom::
-	.string "Es ist gleich da drüben!\p"
-	.string "Man muss zwar Eintritt bezahlen,\n"
-	.string "aber das ist es wert!$"
+	.string "Willkommen!\p"
+	.string "Der Präsident befindet sich im 10.\n"
+	.string "Stock im Konferenzraum!$"
 
 SilphCo_1F_Text_FloorSign::
-	.string "Waren die Fossilien vom Mondberg\n"
-	.string "nicht einmalig?$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "EG$"
 

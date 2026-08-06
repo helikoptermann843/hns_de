@@ -42,6 +42,7 @@ VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
 	.string "ihnen ausgesetzt.$"
 
 VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
-	.string "Ich habe lange gesucht, aber keine\n"
-	.string "neuen Pokémon gefunden.$"
+	.string "Pokémon können gut oder böse sein.\n"
+	.string "Das hängt ganz von ihrem Trainer\l"
+	.string "ab!$"
 

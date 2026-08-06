@@ -33,6 +33,6 @@ SafariZone_West_Text_BaitMakesMonStickAround::
 	.string "beschäftigt sind!$"
 
 SafariZone_West_Text_HikedLotsDidntSeeMonIWanted::
-	.string "Die Pokémon eines Trainers sind\n"
-	.string "stärker als wildlebende!$"
+	.string "Ich habe lange gesucht, aber keine\n"
+	.string "neuen Pokémon gefunden.$"
 

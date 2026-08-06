@@ -71,12 +71,11 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
 	.string "Carbon erhöht die Initiative.$"
 
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
-	.string "Wenn ein Pokémon schläft, kann es\n"
-	.string "nicht angreifen!\p"
-	.string "Ein schlafendes Pokémon wacht auch\n"
-	.string "nach dem Kampf nicht auf.\p"
-	.string "Benutze Aufwecker, damit es\n"
-	.string "aufwacht.$"
+	.string "Ich bin wegen der leistungs-\n"
+	.string "fördernden Mittel für Pokémon hier.\p"
+	.string "PROTEIN steigert die Angriffs-\n"
+	.string "STÄRKE.\p"
+	.string "EISEN stärkt die Abwehr!$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
 	.string "4S: Drogerie$"

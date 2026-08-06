@@ -20,12 +20,11 @@ SSAnne_1F_Room3_EventScript_Wigglytuff::
 	end
 
 SSAnne_1F_Room3_Text_CruiseIsElegantAndCozy::
-	.string "Gnade, Boss!\n"
-	.string "Ich habe versagt...$"
+	.string "Ach, so eine Kreuzfahrt ist\n"
+	.string "wundervoll!$"
 
 SSAnne_1F_Room3_Text_AlwaysTravelWithWigglytuff::
-	.string "Willst du das Team Rocket zu\n"
-	.string "Grunde richten?$"
+	.string "Ich reise immer mit Knuddeluff!$"
 
 SSAnne_1F_Room3_Text_Wigglytuff::
 	.string "Knuddeluff: Knuddel! Knuddel!$"

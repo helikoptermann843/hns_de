@@ -124,7 +124,8 @@ Route25_Text_MistyHighHopesAboutThisPlace::
 	.string "Erwartungen an diesen Ort.$"
 
 Route25_Text_AreYouHereAlone::
-	.string "Ihre Seele hat Frieden gefunden.\p"
-	.string "Sie ist in das Jenseits\n"
-	.string "eingekehrt...$"
+	.string "Hallo! Bist du alleine hier?\p"
+	.string "Wenn du am Kap von Azuria City\n"
+	.string "bist, solltest du jemanden dabei\l"
+	.string "haben.$"
 

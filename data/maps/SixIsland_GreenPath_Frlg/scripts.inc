@@ -24,8 +24,8 @@ SixIsland_GreenPath_Text_JaclynPostBattle::
 	.string "Haus zu gelangen!$"
 
 SixIsland_GreenPath_Text_LeftRouteSign::
-	.string "Auf diesen Moment hat der Boss\n"
-	.string "sehr lange gewartet!$"
+	.string "Grüner Pfad\n"
+	.string "MUSTERBUSCHWALD Voraus$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
 	.string "Grüner Pfad\n"

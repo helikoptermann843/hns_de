@@ -40,9 +40,9 @@ SaffronCity_PokemonCenter_1F_Text_GrowthRatesDifferBySpecies::
 	.string "stärker aus!$"
 
 SaffronCity_PokemonCenter_1F_Text_SilphCoVictimOfFame::
-	.string "{PLAYER}: Ich bin nicht so\n"
-	.string "ungeduldig wie du!\p"
-	.string "Du darfst zuerst wählen, {PLAYER}!$"
+	.string "Die Silph Co. ist sehr bekannt.\p"
+	.string "Deshalb wurde das Team Rocket auf\n"
+	.string "sie aufmerksam!$"
 
 SaffronCity_PokemonCenter_1F_Text_GreatIfEliteFourCameBeatRockets::
 	.string "Ich wünschte, die Top Vier kämen\n"
@@ -50,7 +50,6 @@ SaffronCity_PokemonCenter_1F_Text_GreatIfEliteFourCameBeatRockets::
 	.string "den Boden!$"
 
 SaffronCity_PokemonCenter_1F_Text_TeamRocketTookOff::
-	.string "Danke, {PLAYER}!\n"
-	.string "Meinen aufrichtigen Dank!\l"
-	.string "Du hast meinen Traum erfüllt.$"
+	.string "Das Team Rocket ist geflohen! Wir\n"
+	.string "können wieder aus dem Haus gehen!$"
 

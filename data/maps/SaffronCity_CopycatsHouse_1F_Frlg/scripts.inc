@@ -20,15 +20,16 @@ SaffronCity_CopycatsHouse_1F_EventScript_Chansey::
 	end
 
 SaffronCity_CopycatsHouse_1F_Text_DaughterIsSelfCentered::
-	.string "Du wirst nicht ungestraft\n"
-	.string "davonkommen!$"
+	.string "Meine Tochter ist furchtbar\n"
+	.string "schüchtern! Sie hat nur wenige\l"
+	.string "Freunde!$"
 
 SaffronCity_CopycatsHouse_1F_Text_DaughterLikesToMimicPeople::
-	.string "Hier drüben!\n"
-	.string "Wir versuchen, hier zu graben.\p"
-	.string "Der Schatz, über den die Vors.\n"
-	.string "reden, muss hier irgendwo sein.$"
+	.string "Meine Tochter ahmt gerne Leute\n"
+	.string "nach.\p"
+	.string "Wegen ihres Mienenspiels nennt man\n"
+	.string "sie die Nachahmerin!$"
 
 SaffronCity_CopycatsHouse_1F_Text_Chansey::
-	.string "Warum musstest du gewinnen?$"
+	.string "Chaneira: Cha! Neera!$"
 

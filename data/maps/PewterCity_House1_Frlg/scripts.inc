@@ -37,11 +37,13 @@ PewterCity_House1_Text_NidoranSit::
 	.string "Nidoran, sitz!$"
 
 PewterCity_House1_Text_TradeMonsAreFinicky::
-	.string "Wieso?\n"
-	.string "Wieso habe ich verloren?\p"
-	.string "Ich habe meine Pokémon doch sehr\n"
-	.string "sorgfältig aufgezogen...\p"
-	.string "Verdammt! Du bist der neue\n"
-	.string "Champion der Pokémon Liga!\p"
-	.string "Aber ich gönne dir das nicht!$"
+	.string "Unser Pokémon ist ein Außenseiter,\n"
+	.string "deshalb ist es schwer zu erziehen!\p"
+	.string "Ein Außenseiter ist ein Pokémon,\n"
+	.string "das man in einem Tausch erhält.\p"
+	.string "Es entwickelt sich rasch, doch im\n"
+	.string "Kampf kann es vorkommen, dass es\l"
+	.string "unerfahrenen Trainern nicht\l"
+	.string "gehorcht!\p"
+	.string "We$"
 

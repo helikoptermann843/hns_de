@@ -64,6 +64,7 @@ Route2_EastBuilding_Text_ExplainHM05::
 	.string "Höhlen und Verliese.$"
 
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
-	.string "Ich mag die Nachahmerin!\n"
-	.string "Ich kaufe ihr eine Poképuppe!$"
+	.string "Sobald eines deiner Pokémon Blitz\n"
+	.string "erlernt hat, kannst du dich in den\l"
+	.string "FELSTUNNEL wagen!$"
 

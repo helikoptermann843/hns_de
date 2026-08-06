@@ -127,8 +127,8 @@ PokemonTower_2F_Text_RivalPostBattle::
 	.string "Dann bis später!$"
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
-	.string "Ah, du studierst also ganz alleine\n"
-	.string "Pokémon…\p"
-	.string "Ja, du bist wirklich eine außer-\n"
-	.string "ordentliche Persönlichkeit.$"
+	.string "Selbst wir können die eigenwilligen\n"
+	.string "GEISTER nicht identifizieren!\p"
+	.string "Man benötigt das Silph Scope, um\n"
+	.string "sie zu erkennen!$"
 

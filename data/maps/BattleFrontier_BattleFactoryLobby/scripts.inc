@@ -398,9 +398,9 @@ BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 	.string "Oh, oh, oh!\p"
-	.string "Deine Gewinnpunkte sind am Maximum.\p"
-	.string "Bitte komm wieder, wenn du einige\n"
-	.string "Gewinnpunkte ausgegeben hast.$"
+	.string "Your Battle Points are maxed.\p"
+	.string "Please come back after using\n"
+	.string "some Battle Points.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
 	.string "Wir haben schon auf dich gewartet!\p"
@@ -511,12 +511,12 @@ BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
-	.string "Also, ich bin echt stark, aber mir wird\n"
-	.string "schnell langweilig. Deshalb hab ich\l"
-	.string "immer weiter getauscht und gekämpft.\p"
-	.string "Und weil ich so oft im Wechselkampf\n"
-	.string "war, ist mir aufgefallen: Die Leih-\l"
-	.string "Pokémon sind jedes Mal andere.$"
+	.string "Like, I’m really tough, but I get bored\n"
+	.string "really easily, so I just kept swapping\l"
+	.string "and battling over and over.\p"
+	.string "So anyway, when I kept entering\n"
+	.string "Battle Swap events, I noticed they\l"
+	.string "varied the rental Pokémon.$"
 
 BattleFrontier_BattleFactoryLobby_Text_RulesAreListed:
 	.string "Die Regeln des Wechselkampfes hängen\n"

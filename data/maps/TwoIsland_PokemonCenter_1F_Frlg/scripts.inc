@@ -23,16 +23,14 @@ TwoIsland_PokemonCenter_1F_EventScript_BugCatcher::
 	end
 
 TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
-	.string "Es ist {PLAYER}!\n"
-	.string "Es ist {PLAYER}!\p"
-	.string "Ich möchte eines Tages wie\n"
-	.string "{PLAYER} sein!$"
+	.string "Warst du schon in der Spielhalle?\p"
+	.string "Du solltest nicht allein dorthin\n"
+	.string "gehen! Nimm einen Freund mit!$"
 
 TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
-	.string "Keiner ist mehr ein Fan von\n"
-	.string "{PLAYER}…\p"
-	.string "Das heißt aber auch, dass ich\n"
-	.string "{PLAYER} für mich alleine habe!\p"
-	.string "Yo! Los!\n"
-	.string "Mein Ein und Alles, {PLAYER}!$"
+	.string "Auf Eiland Zwei leben nicht\n"
+	.string "viele Menschen!\p"
+	.string "Es gibt da eine alte Dame, die\n"
+	.string "draußen am Kap wohnt!\p"
+	.string "Sie ist schon immer da gewesen!$"
 

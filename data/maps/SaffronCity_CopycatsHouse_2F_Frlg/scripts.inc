@@ -105,8 +105,8 @@ SaffronCity_CopycatsHouse_2F_Text_Doduo::
 	.string "Ganzen Land?$"
 
 SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
-	.string "Ponita und Vulnona sind die\n"
-	.string "Lieblings-Pokémon aller Pyromanen!$"
+	.string "Ein seltenes Pokémon! Hmm?\n"
+	.string "Es ist nur eine Puppe!$"
 
 SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
 	.string "Ein Spiel mit Mario!$"

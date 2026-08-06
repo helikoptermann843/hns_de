@@ -70,9 +70,8 @@ Route12_NorthEntrance_2F_Text_DontHaveRoomForThis::
 	.string "Du kannst nichts mehr tragen!$"
 
 Route12_NorthEntrance_2F_Text_TheresManFishing::
-	.string "Die Barriere verschwindet nicht?\p"
-	.string "Major Bob war immer sehr\n"
-	.string "vorsichtig!$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Du siehst einen angelnden Mann!$"
 
 Route12_NorthEntrance_2F_Text_ItsPokemonTower::
 	.string "Du schaust durch das Fernrohr.\p"

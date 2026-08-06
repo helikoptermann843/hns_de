@@ -27,21 +27,22 @@ SevenIsland_PokemonCenter_1F_EventScript_Beauty::
 	end
 
 SevenIsland_PokemonCenter_1F_Text_EventsDependingOnConnections::
-	.string "Oh, ja, genau!\p"
-	.string "Du tust mir Leid. Nein, wirklich!\n"
-	.string "Du mühst dich immer so ab.\p"
-	.string "Darum will ich dir einen Gefallen\n"
-	.string "tun und schenke dir das!$"
+	.string "Auf dieser Insel geschehen unter-\n"
+	.string "schiedliche Ereignisse, abhängig\l"
+	.string "von den Verbindungen!\l"
+	.string "Was diese Verbindungen sind?\p"
+	.string "Das musst du alleine herausfinden!$"
 
 SevenIsland_PokemonCenter_1F_Text_DidYouRideSeagallopHere::
-	.string "Ein redseliges Plappermaul wie du!\n"
-	.string "Das ist wie für dich geschaffen!\p"
-	.string "Ich brauche es nicht, da ich mich\n"
-	.string "nicht um die anderen schere.\p"
-	.string "In Ordnung! Jetzt muss ich aber\n"
-	.string "wirklich gehen. Tschüss!$"
+	.string "Bist du auf einer Seesprint-Fähre\n"
+	.string "hierhergekommen?\p"
+	.string "Es gibt mindestens zehn von diesen\n"
+	.string "Hochgeschwindigkeitsbooten.\p"
+	.string "Ich weiß nicht, wo sie alle\n"
+	.string "abgeblieben sind…$"
 
 SevenIsland_PokemonCenter_1F_Text_CheckOutTrainerTower::
-	.string "O.K.! Ich gebe die gestohlene TM\n"
-	.string "zurück!$"
+	.string "Wenn du selbstbewusst bist,\n"
+	.string "solltest du im Trainerturm\l"
+	.string "vorbeischauen!$"
 

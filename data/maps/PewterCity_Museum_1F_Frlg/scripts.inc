@@ -193,7 +193,7 @@ PewterCity_Museum_1F_Text_Its50YForChildsTicket::
 	.string "Möchtest du hinein?$"
 
 PewterCity_Museum_1F_Text_ComeAgain::
-	.string "Dann bis später.$"
+	.string "Komm bald wieder!$"
 
 PewterCity_Museum_1F_Text_Right50YThankYou::
 	.string "O.K., das sind 50¥!\n"
@@ -226,9 +226,8 @@ PewterCity_Museum_1F_Text_PleaseGoAround::
 	.string "あちらへ　おまわりください$"
 
 PewterCity_Museum_1F_Text_ShouldBeGratefulForLongLife::
-	.string "Oh, was bin ich doch für ein Glückspilz!\p"
-	.string "Die Überreste eines großen Drachen...\n"
-	.string "Dass ich das noch erleben durfte!$"
+	.string "Dies ist ein außergewöhnliches\n"
+	.string "Fossil!$"
 
 PewterCity_Museum_1F_Text_WantYouToGetAmberExamined::
 	.string "Pst! Ich glaube, in diesem Stück\n"

@@ -36,22 +36,21 @@ CinnabarIsland_Gym_Text_PhotoOfBlaineAndFuji::
 	.string "grinsen!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_StudyMonsExtensively::
-	.string "Der Kapitän ist ein Meister des\n"
-	.string "Schwertkampfes!\p"
-	.string "Er unterrichtet sogar Pokémon im\n"
-	.string "Umgang mit dem Zerschneider!$"
+	.string "Wir erforschen hier Pokémon.\p"
+	.string "Wir erstellen oft Gutachten über\n"
+	.string "seltene Pokémon.$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_PhotoOfLabFounderDrFuji::
-	.string "Sperrstunde! Die Party ist vorbei!\n"
-	.string "Das Schiff sticht bald in See!$"
+	.string "Der Gründer des Laboratoriums,\n"
+	.string "DR. Fuji!$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_MeetingRoomSign::
 	.string "Pokémon-Labor\n"
 	.string "Konferenzraum$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_RAndDRoomSign::
-	.string "Puh! Ich werde das Deck wohl nie\n"
-	.string "sauber bekommen!$"
+	.string "Pokémon-Labor\n"
+	.string "Forschung und Entwicklung$"
 
 CinnabarIsland_PokemonLab_Entrance_Text_TestingRoomSign::
 	.string "Hast du eine Ahnung, wie viele\n"

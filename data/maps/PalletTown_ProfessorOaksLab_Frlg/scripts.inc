@@ -1333,8 +1333,9 @@ PalletTown_ProfessorOaksLab_Text_RivalLetsCheckOutMons::
 	.string "Ich fordere dich heraus!$"
 
 PalletTown_ProfessorOaksLab_Text_RivalDefeat::
-	.string "{RIVAL}: Ja!\n"
-	.string "Ich bin der Größte!$"
+	.string "Was? Unmöglich!\n"
+	.string "Ich habe mir das falsche Pokémon\l"
+	.string "ausgesucht!$"
 
 @ Also used for early Route 22 battle
 Text_RivalVictory::

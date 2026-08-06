@@ -10,12 +10,13 @@ ThreeIsland_House4_EventScript_LittleBoy::
 	end
 
 ThreeIsland_House4_Text_GhostsInBerryForest::
-	.string "Wenn du den Zerschneider einsetzt,\n"
-	.string "kannst du kleine Bäume fällen.\p"
-	.string "Probiere es doch bei den Bäumen\n"
-	.string "um Orania City aus!$"
+	.string "Du solltest nie alleine in den\n"
+	.string "BEERENFORST gehen!\p"
+	.string "Warum?\n"
+	.string "Es spukt dort!$"
 
 ThreeIsland_House4_Text_PapaKeepsLyingToMe::
-	.string "Oh, nein! Du hast keinen Platz für\n"
-	.string "weitere Items!$"
+	.string "Papa lügt mich ständig an und\n"
+	.string "lässt mich nicht hinaus zum\l"
+	.string "Spielen!$"
 

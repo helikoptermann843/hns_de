@@ -10,8 +10,8 @@ SSAnne_2F_Room3_EventScript_OldMan::
 	end
 
 SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
-	.string "{PLAYER}! Du hast uns mit Hilfe\n"
-	.string "deiner Pokémon gerettet!$"
+	.string "Ich habe schon Leute auf Pokémon\n"
+	.string "übers Wasser gleiten sehen!$"
 
 SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
 	.string "Pokémon können Büsche mit dem\n"

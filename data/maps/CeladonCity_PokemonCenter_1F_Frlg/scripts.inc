@@ -32,11 +32,10 @@ CeladonCity_PokemonCenter_1F_Text_PokeFluteAwakensSleepingMons::
 	.string "hören können!$"
 
 CeladonCity_PokemonCenter_1F_Text_RodeHereFromFuchsia::
-	.string "Opa hat dich um einen Botengang\n"
-	.string "gebeten?\p"
-	.string "Hier, das wird dir weiterhelfen!$"
+	.string "Ich bin von Fuchsania City aus\n"
+	.string "den Radweg hinaufgefahren!$"
 
 CeladonCity_PokemonCenter_1F_Text_GoToCyclingRoadIfIHadBike::
-	.string "Du trägst zu viele Dinge mit dir\n"
-	.string "herum!$"
+	.string "Wenn ich ein Fahrrad hätte, würde\n"
+	.string "ich den Radweg benutzen!$"
 

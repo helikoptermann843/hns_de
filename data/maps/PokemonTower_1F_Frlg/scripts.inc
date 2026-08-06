@@ -37,18 +37,16 @@ PokemonTower_1F_EventScript_WorkerF::
 	end
 
 PokemonTower_1F_Text_ErectedInMemoryOfDeadMons::
-	.string "Dort liegt ein Fragebogen.\n"
-	.string "Möchtest du ihn ausfüllen?$"
+	.string "Der Pokémon-Turm wurde im Andenken\n"
+	.string "an verblichene Pokémon errichtet.$"
 
 PokemonTower_1F_Text_ComeToPayRespectsSon::
-	.string "Indigo Plateau\p"
-	.string "Das Pokémon Liga-Hauptquartier\n"
-	.string "ist die höchste Pokémon-Autorität!$"
+	.string "Bist du hier, um dein Mitgefühl\n"
+	.string "auszudrücken? Sei gesegnet!$"
 
 PokemonTower_1F_Text_ComeToPayRespectsGirl::
-	.string "Indigo Plateau\p"
-	.string "Das große Ziel aller Trainer ist\n"
-	.string "die Pokémon Liga!$"
+	.string "Bist du hier, um dein Mitgefühl\n"
+	.string "auszudrücken? Sei gesegnet!$"
 
 PokemonTower_1F_Text_CameToPrayForDepartedClefairy::
 	.string "Ich bete für Piepi...\p"

@@ -108,6 +108,6 @@ Text_ThunderWaveTaught::
 	.string "sie bei manchen Pokémon nicht.$"
 
 SilphCo_2F_Text_FloorSign::
-	.string "Entertainment & Snacks!\n"
-	.string "Action pur in der Spielhalle$"
+	.string "Silph Co. Hauptsitz\n"
+	.string "1 Og$"
 

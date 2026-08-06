@@ -23,15 +23,16 @@ FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
 	.string "Er und Flegmon ähneln sich sehr!$"
 
 FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
-	.string "Mein Mann tauscht für sein Leben\n"
-	.string "gern Pokémon.\p"
-	.string "Bist du auch ein Sammler? Würdest\n"
-	.string "du bitte Pokémon mit ihm tauschen?$"
+	.string "Flegmon weiß eine Menge über\n"
+	.string "Pokémon!\p"
+	.string "Er besitzt sogar einige Fossilien\n"
+	.string "ausgestorbener Urzeit-Pokémon!$"
 
 FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
-	.string "Hallo!\p"
-	.string "Willst du dein {PLAYER} nicht\n"
-	.string "gegen ein {PLAYER} tauschen?$"
+	.string "Flegmon war hier, aber ich habe\n"
+	.string "ihn nicht verstehen können!\p"
+	.string "Ich glaube, er hat keine Zähne\n"
+	.string "mehr!$"
 
 FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
 	.string "Flegmon hält zur Zeit eine\n"

@@ -16,10 +16,10 @@ SSAnne_1F_Room4_EventScript_WomanPlayerMale::
 	end
 
 SSAnne_1F_Room4_Text_WaiterCherryPiePlease::
-	.string "So ein Mist! Ich muss ein paar\n"
-	.string "Stärkere fangen!$"
+	.string "Steward, ich hätte gern ein\n"
+	.string "Stückchen Torte!$"
 
 SSAnne_1F_Room4_Text_WaitressCherryPiePlease::
-	.string "Psst! Sei leise!\n"
-	.string "Du verjagst alle Käfer...$"
+	.string "Bedienung, ich hätte gern ein\n"
+	.string "Stückchen Torte!$"
 

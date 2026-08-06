@@ -63,10 +63,9 @@ Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
 	.string "Prismania City!$"
 
 Route16_NorthEntrance_2F_Text_LongPathOverWater::
-	.string "Prof. Eich: Besuche mich von Zeit\n"
-	.string "zu Zeit.\p"
-	.string "Es interessiert mich, wie du mit\n"
-	.string "deinem Pokédex voranschreitest.$"
+	.string "Du schaust durch das Fernrohr.\p"
+	.string "Dort führt ein langer Weg über das\n"
+	.string "Wasser!$"
 
 Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "Hallo! Erinnerst du dich?\n"
@@ -89,8 +88,9 @@ Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 	.string "Münzamulett!$"
 
 Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
-	.string "Ah! Glumanda soll es sein!\n"
-	.string "Trainiere es geduldig!\p"
-	.string "{PLAYER}, du möchtest also das\n"
-	.string "Feuer-Pokémon Glumanda?$"
+	.string "Ein Münzamulett kann von\n"
+	.string "einem Pokémon getragen werden.\p"
+	.string "Nimmt das Pokémon an einem\n"
+	.string "siegreichen Kampf teil, verdoppelt\l"
+	.string "sich das Preisgeld.$"
 

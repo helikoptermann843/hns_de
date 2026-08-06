@@ -425,9 +425,7 @@ VermilionCity_Gym_Text_SecondLockOpened::
 	.string "geöffnet! Die Tür ist auf!$"
 
 VermilionCity_Gym_Text_OnlyTrashLocksWereReset::
-	.string "Nein!\n"
-	.string "Hier ist nur Müll.\p"
-	.string "Hey!\n"
-	.string "Die Elektroschlösser wurden\l"
-	.string "zurückgesetzt!$"
+	.string "Hier ist nichts, bloß Abfall.\p"
+	.string "Heh! Das Schloss wurde wieder\n"
+	.string "verriegelt!$"
 

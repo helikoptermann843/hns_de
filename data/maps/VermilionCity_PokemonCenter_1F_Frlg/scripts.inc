@@ -44,11 +44,11 @@ VermilionCity_PokemonCenter_1F_EventScript_ExplainVSSeeker::
 	end
 
 VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
-	.string "Die Initiative deiner Pokémon\n"
-	.string "nimmt zu.\p"
-	.string "Des Weiteren ist es dir möglich,\n"
-	.string "Fliegen außerhalb von Kämpfen\l"
-	.string "einzusetzen.$"
+	.string "Auch wenn sie den gleichen Level\n"
+	.string "haben, können die Fähigkeiten von\l"
+	.string "Pokémon trotzdem verschieden sein.\p"
+	.string "Das Pokémon eines Trainers ist\n"
+	.string "stärker als ein wild lebendes.$"
 
 VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
 	.string "Mein Pokémon wurde vergiftet!\n"

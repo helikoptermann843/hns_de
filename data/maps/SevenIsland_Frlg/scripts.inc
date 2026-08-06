@@ -39,21 +39,21 @@ Text_SwordsDanceTaught::
 	.string "stärker werden könnten!$"
 
 SevenIsland_Text_IslandSign::
-	.string "Das ist clever!\n"
-	.string "Halt dich da raus!$"
+	.string "Eiland Sieben\n"
+	.string "Die Abenteuerinsel der Unendlichkeit$"
 
 SevenIsland_Text_IslandsMadeInSevenDays::
-	.string "Eiland Drei ist die beliebteste\n"
-	.string "aller Inseln.\p"
-	.string "Dennoch könnte dort ein wenig\n"
-	.string "mehr geboten werden.\p"
-	.string "Aber ich möchte solche Typen\n"
-	.string "wie diese Biker hier nicht noch\l"
-	.string "einmal sehen.$"
+	.string "Diese Eilande werden Sevii Eiland\n"
+	.string "genannt, weil es sieben sind.\p"
+	.string "… das glauben zumindest die\n"
+	.string "jungen Leute.\p"
+	.string "Die Wahrheit ist, dass die Eilande\n"
+	.string "so heißen, weil sie in sieben Tagen\l"
+	.string "geschaffen wurden.$"
 
 SevenIsland_Text_IslandVirtuallyUntouched::
-	.string "Ich trainiere mein Dodu im\n"
-	.string "Beerenforst.\p"
-	.string "Sobald es sich entwickelt, spiele\n"
-	.string "ich auf Eiland Zwei.$"
+	.string "Die Natur dieser Insel blieb nahezu\n"
+	.string "unangetastet.\p"
+	.string "Daher könnte das Wandern hier\n"
+	.string "schwierig sein.$"
 

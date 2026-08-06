@@ -39,14 +39,16 @@ SevenIsland_Mart_EventScript_Fisher::
 	end
 
 SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
-	.string "Diese Pokémon-Arena ist stets\n"
-	.string "geschlossen!\p"
-	.string "Ich frage mich, wer hier wohl der\n"
-	.string "Arenaleiter sein mag?$"
+	.string "Pokémon haben genau wie\n"
+	.string "Menschen ihre eigene Persönlichkeit.\p"
+	.string "Mein Pikachu hat ein Hastiges\n"
+	.string "Wesen, also ist es ein schnelles\l"
+	.string "Pokémon.$"
 
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
-	.string "Der Arenaleiter von Vertania City\n"
-	.string "ist zurück!$"
+	.string "Gut, die Vorbereitungen sind\n"
+	.string "abgeschlossen. Ich kann die\l"
+	.string "RUINEN nun erforschen.$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
 	.string "Ahh, ich habe endlich meinen\n"

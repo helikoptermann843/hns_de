@@ -10,12 +10,13 @@ Route2_ViridianForest_SouthEntrance_EventScript_Woman2::
 	end
 
 Route2_ViridianForest_SouthEntrance_Text_ForestIsMaze::
-	.string "Entschuldige, dass ich mich über\n"
-	.string "dich aufgeregt habe. Du siehst aus\l"
-	.string "wie mein kleiner Bruder…$"
+	.string "Du gehst in den Vertania-Wald?\n"
+	.string "Sei auf der Hut, dort verläuft man\l"
+	.string "sich leicht!$"
 
 Route2_ViridianForest_SouthEntrance_Text_RattataHasWickedBite::
-	.string "Besitzt du ein {PLAYER}?\p"
-	.string "Willst du es gegen {PLAYER}\n"
-	.string "tauschen?$"
+	.string "Hast du schon ein Rattfratz\n"
+	.string "gefangen?\p"
+	.string "Es ist klein, aber sein Biss ist\n"
+	.string "heftig!$"
 

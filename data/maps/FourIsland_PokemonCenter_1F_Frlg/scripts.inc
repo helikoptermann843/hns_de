@@ -61,15 +61,18 @@ FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
 	.string "um dieses Pokémon zu sehen.$"
 
 FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
-	.string "Der Donnerorden erhöht die\n"
-	.string "Initiative deiner Pokémon!\p"
-	.string "Außerdem können deine Pokémon nun\n"
-	.string "jederzeit Fliegen einsetzen!\p"
-	.string "Du bist ein besonderes Kind!\n"
-	.string "Nimm das hier!$"
+	.string "Oh! Ein Pokémon-EI?\n"
+	.string "… ich habe keine Ahnung!\p"
+	.string "… oh, Moment, in der\n"
+	.string "PENSION habe ich etwas darüber\l"
+	.string "gehört.\l"
+	.string "Sie sagten, sie haben früher\l"
+	.string "schon Eier auf ihrem\l"
+	.string "Grundstück gefunden!$"
 
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
-	.string "TM34 ist Schockwelle!\p"
-	.string "Elektro-Pokémon können diese\n"
-	.string "Attacke erlernen!$"
+	.string "Was ist los?\p"
+	.string "Die letzte Ausgabe vom Pokémon\n"
+	.string "JOURNAL ist noch nicht auf dieser\l"
+	.string "Insel angekommen?$"
 

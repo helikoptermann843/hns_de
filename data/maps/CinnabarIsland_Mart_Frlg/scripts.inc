@@ -33,11 +33,10 @@ CinnabarIsland_Mart_Items::
 	end
 
 CinnabarIsland_Mart_Text_DontTheyHaveXAttack::
-	.string "Schnief... ... Schnief...\p"
-	.string "Immer muss ich die Zwiebeln\n"
-	.string "schälen...$"
+	.string "Haben sie kein X-Angriff?\n"
+	.string "Es ist in Kämpfen sehr nützlich!$"
 
 CinnabarIsland_Mart_Text_ExtraItemsNeverHurt::
-	.string "Kapitän: Urps...\n"
-	.string "Es geht mir gar nicht gut! Urps!$"
+	.string "Man sollte immer einige Items bei\n"
+	.string "sich tragen!$"
 

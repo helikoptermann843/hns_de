@@ -23,11 +23,13 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "Psychokräfte!$"
 
 ThreeIsland_House2_Text_IAdmireSabrina::
-	.string "Eich: {PLAYER}!\p"
-	.string "Du hast begriffen, dass dein Sieg\n"
-	.string "nicht allein dein Verdienst war!\p"
-	.string "Die Beziehung zu deinen Pokémon\n"
-	.string "ist vorbildlich!\p"
-	.string "{PLAYER}!\n"
-	.string "Folge mir!$"
+	.string "Kennst du ein Mädchen, das in\n"
+	.string "SAFFRONIA City\l"
+	.string "ARENALEITERIN ist?\l"
+	.string "Sie setzt Pokémon der Element-\l"
+	.string "klasse Psycho ein, nicht wahr?\p"
+	.string "Ich bewundere sie wirklich!\p"
+	.string "Ich hörte, dass sie ein cooles\n"
+	.string "Mädchen ist und sie soll schön\l"
+	.string "sein!$"
 

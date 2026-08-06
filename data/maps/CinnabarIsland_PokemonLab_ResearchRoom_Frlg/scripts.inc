@@ -18,8 +18,8 @@ CinnabarIsland_PokemonLab_ResearchRoom_EventScript_AmberPipe::
 	end
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
-	.string "Seeleute fangen ihre Pokémon auf\n"
-	.string "hoher See!$"
+	.string "Evoli kann sich zu einem von drei\n"
+	.string "verschiedenen Pokémon entwickeln.$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "Eine E-Mail ist angekommen!\p"
@@ -35,5 +35,5 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "...$"
 
 CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
-	.string "Willst du zur See fahren?$"
+	.string "Eine Pfeife aus Bernstein!$"
 

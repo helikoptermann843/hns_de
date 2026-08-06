@@ -41,9 +41,9 @@ SevenIsland_TrainerTower_Text_RodettePostBattle::
 	.string "warten?$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerSign::
-	.string "Ob die Silph Co. schon erledigt\n"
-	.string "ist?$"
+	.string "Eingang des Trainerturms\n"
+	.string "Fordere andere Trainer heraus!$"
 
 SevenIsland_TrainerTower_Text_TrainerTowerAhead::
-	.string "Vielen Dank für unsere Rettung!$"
+	.string "Trainerturm Voraus$"
 

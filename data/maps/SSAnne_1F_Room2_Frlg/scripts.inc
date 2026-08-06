@@ -24,10 +24,8 @@ SSAnne_1F_Room2_Text_TylerDefeat::
 	.string "Du bist cool!$"
 
 SSAnne_1F_Room2_Text_TylerPostBattle::
-	.string "Es liebt dich über alles! Das ist\n"
-	.string "so wunderbar und toll!\p"
-	.string "Dein Pokémon könnte nicht\n"
-	.string "glücklicher sein!$"
+	.string "Lass uns Freunde werden, O.K.?\p"
+	.string "Dann können wir Pokémon tauschen!$"
 
 SSAnne_1F_Room2_Text_AnnIntro::
 	.string "Auf meinen Reisen um die Welt habe\n"
@@ -45,6 +43,5 @@ SSAnne_1F_Room2_Text_AnnPostBattle::
 	.string "Pokémon!!!$"
 
 SSAnne_1F_Room2_Text_CruisingAroundWorld::
-	.string "Es ist ein guter Freund von dir!\n"
-	.string "Behandle es weiterhin gut!$"
+	.string "Wir machen eine große Weltreise!$"
 

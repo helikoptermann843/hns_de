@@ -20,16 +20,13 @@ Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
 	.string "um verschiedene zu finden!$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
-	.string "Flegmon war hier, aber ich habe\n"
-	.string "ihn nicht verstehen können!\p"
-	.string "Ich glaube, er hat keine Zähne\n"
-	.string "mehr!$"
+	.string "Achte auf Büsche am Wegesrand.\p"
+	.string "Pokémon können sie mit einer\n"
+	.string "Spezial-Technik klein hacken.$"
 
 Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
-	.string "Flegmon hält zur Zeit eine\n"
-	.string "Werbekampagne.\p"
-	.string "Erreiche die abgelegenste\n"
-	.string "Stelle in der Safari-Zone.\p"
-	.string "Wenn du das schaffst, erhältst\n"
-	.string "du einen praktischen Preis!$"
+	.string "Man kann die Entwicklung eines\n"
+	.string "Pokémon stoppen.\p"
+	.string "Bricht man sie ab, dann bleibt das\n"
+	.string "Pokémon, wie es ist.$"
 

@@ -32,12 +32,13 @@ FuchsiaCity_Mart_Items::
 	end
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
-	.string "Selbst wir können die eigenwilligen\n"
-	.string "Geister nicht identifizieren!\p"
-	.string "Man benötigt das Silph Scope, um\n"
-	.string "sie zu erkennen!$"
+	.string "Du hast einen Wimpel aus der\n"
+	.string "SAFARI-Zone?\p"
+	.string "Kein Programmheft oder einen\n"
+	.string "Kalender?$"
 
 FuchsiaCity_Mart_Text_DidYouTryXSpeed::
-	.string "Der Pokémon-Turm wurde im Andenken\n"
-	.string "an verblichene Pokémon errichtet.$"
+	.string "Hast du schon einmal X-Tempo\n"
+	.string "ausprobiert? Dein Pokémon wird\l"
+	.string "dadurch im Kampf schneller!$"
 

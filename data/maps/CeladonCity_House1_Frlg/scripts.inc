@@ -19,10 +19,9 @@ CeladonCity_House1_Text_SlotsReelInTheDough::
 	.string "wir uns eine goldene Nase!$"
 
 CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
-	.string "Mist...\p"
-	.string "Das Team Rocket hätte mich für\n"
-	.string "meine Hilfe die Pokémon studieren\l"
-	.string "lassen!$"
+	.string "Boss!\p"
+	.string "Wir haben gerade 2000 Pokémon als\n"
+	.string "Preise versandt!$"
 
 CeladonCity_House1_Text_DontTouchGameCornerPoster::
 	.string "Schenke dem Poster in der\n"

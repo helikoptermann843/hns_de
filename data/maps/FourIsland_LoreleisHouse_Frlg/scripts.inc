@@ -62,5 +62,6 @@ FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
 	.string "Das ist alles, was ich tun kann!$"
 
 FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
-	.string "Du hast keinen Platz mehr!$"
+	.string "Pokémon-Plüschpuppen in Hülle\n"
+	.string "und Fülle!$"
 

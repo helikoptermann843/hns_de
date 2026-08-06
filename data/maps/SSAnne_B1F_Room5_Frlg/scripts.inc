@@ -16,9 +16,10 @@ SSAnne_B1F_Room5_EventScript_Machoke::
 	end
 
 SSAnne_B1F_Room5_Text_MachokeHasStrengthToMoveRocks::
-	.string "Auch ich ziehe Pokémon auf!\p"
-	.string "Wenn sie stark sind, können sie mich\n"
-	.string "beschützen!$"
+	.string "Mein Pokémon, Maschock, ist\n"
+	.string "superstark!!!\p"
+	.string "Mit seiner Stärke kann es sogar\n"
+	.string "Felsen bewegen!$"
 
 SSAnne_B1F_Room5_Text_Machoke::
 	.string "Maschock: Mascho! Maschock!$"
