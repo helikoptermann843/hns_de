@@ -1443,7 +1443,8 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
 	.string "Du hast etwas für mich?$"
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
-	.string "{PLAYER} delivered Oak'S Parcel.$"
+	.string "{PLAYER} übergibt\n"
+	.string "PROF. Eich das Paket.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
 	.string "Ah! Auf diesen Spezial-Pokéball\n"

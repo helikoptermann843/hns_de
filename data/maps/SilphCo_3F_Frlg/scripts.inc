@@ -39,8 +39,8 @@ SilphCo_3F_Text_WhatAmIToDo::
 	.string "Was soll ich bloß machen?$"
 
 SilphCo_3F_Text_YouAndYourMonsSavedUs::
-	.string "Zunächst solltest du deine Pokémon\n"
-	.string "vollständig heilen.$"
+	.string "{PLAYER}! Du hast uns mit Hilfe\n"
+	.string "deiner Pokémon gerettet!$"
 
 SilphCo_3F_Text_GruntIntro::
 	.string "Hör endlich auf, uns zu nerven!$"

@@ -101,12 +101,11 @@ PokemonTower_2F_Movement_RivalExitDown::
 	step_end
 
 PokemonTower_2F_Text_RivalIntro::
-	.string "Pokémon Journal\p"
-	.string "Sonderreportage: Prof. Eich, der\n"
-	.string "Pokémon-Forscher!\p"
-	.string "Berichten zufolge lebt Prof. Eich\n"
-	.string "mit seinen Enkeln Sarah und\l"
-	.string "{RIVAL} zusammen.$"
+	.string "{RIVAL}: Hallo, {PLAYER}!\n"
+	.string "Was machst du hier?\l"
+	.string "Deine Pokémon sehen ganz fit aus!\p"
+	.string "Na ja, nach dem Kampf wird es\n"
+	.string "anders aussehen!$"
 
 PokemonTower_2F_Text_RivalDefeat::
 	.string "Was?\n"

@@ -56,7 +56,7 @@ SixIsland_RuinValley_Text_CheckDoorMoreThoroughly::
 	.string "Sorgfältiger untersuchen?$"
 
 SixIsland_RuinValley_Text_LeftDoorAlone::
-	.string "Dein Münzkorb ist voll!$"
+	.string "{PLAYER} ging von der Tür weg.$"
 
 SixIsland_RuinValley_Text_SeveralDotsOnTheDoor::
 	.string "Bei näherer Betrachtung sieht man,\n"

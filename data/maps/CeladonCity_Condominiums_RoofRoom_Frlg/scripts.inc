@@ -111,7 +111,7 @@ CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
 	.string "Pokémon!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
-	.string "{PLAYER} obtained an Eevee!$"
+	.string "{PLAYER} erhält ein Evoli!$"
 
 CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
 	.string "ポケモンが　いっぱいだ\n"

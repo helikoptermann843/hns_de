@@ -78,10 +78,10 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "unterschiedliche Pokémon gefangen?$"
 
 Route16_NorthEntrance_2F_Text_GreatHereYouGo::
-	.string "Ah! Bisasam soll es sein!\n"
-	.string "Es ist leicht zu trainieren!\p"
-	.string "{STR_VAR_3}, du möchtest also das\n"
-	.string "Pflanzen-Pokémon Bisasam?$"
+	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
+	.string "Pokémon gefangen!\p"
+	.string "Einfach klasse! Hier, das hast du\n"
+	.string "dir redlich verdient!$"
 
 Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
 	.string "{PLAYER} erhält\n"
