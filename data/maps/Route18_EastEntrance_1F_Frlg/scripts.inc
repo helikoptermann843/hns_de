@@ -111,7 +111,7 @@ Route18_EastEntrance_1F_Movement_WalkRight::
 
 Route18_EastEntrance_1F_Text_NeedBicycleForCyclingRoad::
 	.string "Du benötigst ein Fahrrad, um den\n"
-	.string "RADWEG zu nutzen!$"
+	.string "Radweg zu nutzen!$"
 
 Route18_EastEntrance_1F_Text_CyclingRoadAllUphillFromHere::
 	.string "Der Radweg führt von hier aus den\n"

@@ -127,7 +127,7 @@ PokemonTower_2F_Text_RivalPostBattle::
 
 PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
 	.string "Selbst wir können die eigenwilligen\n"
-	.string "GEISTER nicht identifizieren!\p"
+	.string "Geister nicht identifizieren!\p"
 	.string "Man benötigt das Silph Scope, um\n"
 	.string "sie zu erkennen!$"
 

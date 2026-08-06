@@ -38,7 +38,7 @@ ThreeIsland_Mart_EventScript_Youngster::
 ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
 	.string "Stimmt das?\p"
 	.string "Das Einkaufszentrum in\n"
-	.string "PRISMANIA City ist sehr viel\l"
+	.string "Prismania City ist sehr viel\l"
 	.string "größer als dieses Geschäft?$"
 
 ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::

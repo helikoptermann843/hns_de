@@ -24,8 +24,8 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 
 ThreeIsland_House2_Text_IAdmireSabrina::
 	.string "Kennst du ein Mädchen, das in\n"
-	.string "SAFFRONIA City\l"
-	.string "ARENALEITERIN ist?\l"
+	.string "Saffronia City\l"
+	.string "Arenaleiterin ist?\l"
 	.string "Sie setzt Pokémon der Element-\l"
 	.string "klasse Psycho ein, nicht wahr?\p"
 	.string "Ich bewundere sie wirklich!\p"

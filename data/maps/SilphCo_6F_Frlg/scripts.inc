@@ -124,7 +124,7 @@ SilphCo_6F_Text_RocketsRanAwayBecauseOfYou::
 SilphCo_6F_Text_TargetedSilphForOurMonProducts::
 	.string "Sie müssen es wegen unserer\n"
 	.string "Pokémon-Produkte auf die Silph\l"
-	.string "CO. abgesehen haben!$"
+	.string "Co. abgesehen haben!$"
 
 SilphCo_6F_Text_ComeWorkForSilphWhenYoureOlder::
 	.string "Wir würden uns sehr freuen, wenn\n"

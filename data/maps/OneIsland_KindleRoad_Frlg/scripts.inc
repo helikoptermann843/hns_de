@@ -175,5 +175,5 @@ OneIsland_KindleRoad_Text_RouteSign::
 
 OneIsland_KindleRoad_Text_EmberSpaSign::
 	.string "Entfache das Feuer in dir!\n"
-	.string "GLUTTHERME$"
+	.string "Gluttherme$"
 

@@ -33,7 +33,7 @@ FuchsiaCity_Mart_Items::
 
 FuchsiaCity_Mart_Text_DontTheyHaveSafariZonePennants::
 	.string "Du hast einen Wimpel aus der\n"
-	.string "SAFARI-Zone?\p"
+	.string "Safari-Zone?\p"
 	.string "Kein Programmheft oder einen\n"
 	.string "Kalender?$"
 

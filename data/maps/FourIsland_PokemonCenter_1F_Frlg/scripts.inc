@@ -64,7 +64,7 @@ FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
 	.string "Oh! Ein Pokémon-EI?\n"
 	.string "… ich habe keine Ahnung!\p"
 	.string "… oh, Moment, in der\n"
-	.string "PENSION habe ich etwas darüber\l"
+	.string "Pension habe ich etwas darüber\l"
 	.string "gehört.\l"
 	.string "Sie sagten, sie haben früher\l"
 	.string "schon Eier auf ihrem\l"
@@ -73,6 +73,6 @@ FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
 FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
 	.string "Was ist los?\p"
 	.string "Die letzte Ausgabe vom Pokémon\n"
-	.string "JOURNAL ist noch nicht auf dieser\l"
+	.string "Journal ist noch nicht auf dieser\l"
 	.string "Insel angekommen?$"
 

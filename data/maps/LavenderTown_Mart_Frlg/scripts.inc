@@ -53,7 +53,7 @@ LavenderTown_Mart_Text_DidYouBuyRevives::
 
 LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
 	.string "Manchmal fordert dich ein\n"
-	.string "TRAINER-Duo mit zwei\l"
+	.string "Trainer-Duo mit zwei\l"
 	.string "Pokémon zum Kampf heraus.\l"
 	.string "In diesem Fall musst du auch\l"
 	.string "zwei Pokémon in den Kampf\l"

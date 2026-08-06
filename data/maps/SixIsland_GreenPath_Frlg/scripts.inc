@@ -25,7 +25,7 @@ SixIsland_GreenPath_Text_JaclynPostBattle::
 
 SixIsland_GreenPath_Text_LeftRouteSign::
 	.string "Grüner Pfad\n"
-	.string "MUSTERBUSCHWALD Voraus$"
+	.string "Musterbuschwald Voraus$"
 
 SixIsland_GreenPath_Text_RightRouteSign::
 	.string "Grüner Pfad\n"

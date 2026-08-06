@@ -51,7 +51,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
 	.string "gefragt.\p"
 	.string "{PLAYER}: Wie?\n"
 	.string "Du bist komisch!\p"
-	.string "NACHAHMERIN: Hmm? Ich soll die\n"
+	.string "Nachahmerin: Hmm? Ich soll die\n"
 	.string "Nachahmerei aufgeben?\p"
 	.string "Aber das ist doch mein Hobby!$"
 

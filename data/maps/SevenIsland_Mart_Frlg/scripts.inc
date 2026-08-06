@@ -48,7 +48,7 @@ SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
 SevenIsland_Mart_Text_PreparationsCompleteForRuins::
 	.string "Gut, die Vorbereitungen sind\n"
 	.string "abgeschlossen. Ich kann die\l"
-	.string "RUINEN nun erforschen.$"
+	.string "Ruinen nun erforschen.$"
 
 SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
 	.string "Ahh, ich habe endlich meinen\n"

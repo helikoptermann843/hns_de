@@ -11,7 +11,7 @@ ThreeIsland_House4_EventScript_LittleBoy::
 
 ThreeIsland_House4_Text_GhostsInBerryForest::
 	.string "Du solltest nie alleine in den\n"
-	.string "BEERENFORST gehen!\p"
+	.string "Beerenforst gehen!\p"
 	.string "Warum?\n"
 	.string "Es spukt dort!$"
 

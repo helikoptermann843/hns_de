@@ -73,9 +73,9 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
 CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
 	.string "Ich bin wegen der leistungs-\n"
 	.string "fördernden Mittel für Pokémon hier.\p"
-	.string "PROTEIN steigert die Angriffs-\n"
-	.string "STÄRKE.\p"
-	.string "EISEN stärkt die Abwehr!$"
+	.string "Protein steigert die Angriffs-\n"
+	.string "Stärke.\p"
+	.string "Eisen stärkt die Abwehr!$"
 
 CeladonCity_DepartmentStore_5F_Text_Drugstore::
 	.string "4S: Drogerie$"

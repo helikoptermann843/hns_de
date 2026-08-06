@@ -125,7 +125,7 @@ MtMoon_1F_Text_RobbyPostBattle::
 
 MtMoon_1F_Text_ZubatIsABloodsucker::
 	.string "Sei vorsichtig!\n"
-	.string "ZUBAT ist ein Blutsauger!$"
+	.string "Zubat ist ein Blutsauger!$"
 
 MtMoon_1F_Text_BrockHelpsExcavateFossils::
 	.string "Hallo! Ich grabe Fossilien hier am\n"

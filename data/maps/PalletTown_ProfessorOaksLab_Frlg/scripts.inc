@@ -1444,7 +1444,7 @@ PalletTown_ProfessorOaksLab_Text_OakHaveSomethingForMe::
 
 PalletTown_ProfessorOaksLab_Text_DeliveredOaksParcel::
 	.string "{PLAYER} übergibt\n"
-	.string "PROF. Eich das Paket.$"
+	.string "Prof. Eich das Paket.$"
 
 PalletTown_ProfessorOaksLab_Text_OakCustomBallIOrdered::
 	.string "Ah! Auf diesen Spezial-Pokéball\n"

@@ -28,5 +28,5 @@ SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
 	.string "Mein Evoli hat sich zu Flamara\n"
 	.string "entwickelt!\p"
 	.string "Aber bei einem Freund hat sich\n"
-	.string "EVOLI zu Aquana entwickelt!$"
+	.string "Evoli zu Aquana entwickelt!$"
 

@@ -66,5 +66,5 @@ Route2_EastBuilding_Text_ExplainHM05::
 Route2_EastBuilding_Text_CanGetThroughRockTunnel::
 	.string "Sobald eines deiner Pokémon Blitz\n"
 	.string "erlernt hat, kannst du dich in den\l"
-	.string "FELSTUNNEL wagen!$"
+	.string "Felstunnel wagen!$"
 

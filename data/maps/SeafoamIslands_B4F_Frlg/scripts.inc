@@ -222,5 +222,5 @@ SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
 
 SeafoamIslands_B4F_Text_DangerFastCurrent::
 	.string "Vorsicht!\n"
-	.string "GEFÄHRLICHE Strömung!$"
+	.string "Gefährliche Strömung!$"
 

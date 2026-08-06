@@ -11,10 +11,10 @@ SSAnne_2F_Room5_EventScript_LittleBoy::
 
 SSAnne_2F_Room5_Text_HaveYouGoneToSafariZone::
 	.string "Hast du die Safari-Zone in\n"
-	.string "FUCHSANIA City schon besucht?\p"
+	.string "Fuchsania City schon besucht?\p"
 	.string "Es gibt dort sehr seltene Pokémon!$"
 
 SSAnne_2F_Room5_Text_WeThinkSafariZoneIsAwesome::
 	.string "Mein Papa war mit mir in der\n"
-	.string "SAFARI-Zone! Es war aufregend!$"
+	.string "Safari-Zone! Es war aufregend!$"
 
