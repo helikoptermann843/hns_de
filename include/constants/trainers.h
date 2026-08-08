@@ -7,13 +7,13 @@
 // Special Trainer Ids.
 //      0-299 are frontier trainers
 #define TRAINER_RECORD_MIXING_FRIEND        FRONTIER_TRAINERS_COUNT
-#define TRAINER_RECORD_MIXING_APPRENTICE    400
-#define TRAINER_EREADER                     500
-#define TRAINER_FRONTIER_BRAIN              1022
-#define TRAINER_PLAYER                      1023
-#define TRAINER_SECRET_BASE                 1024
-#define TRAINER_LINK_OPPONENT               2048
-#define TRAINER_UNION_ROOM                  3072
+#define TRAINER_RECORD_MIXING_APPRENTICE    (TRAINER_RECORD_MIXING_FRIEND + BATTLE_TOWER_RECORD_COUNT)
+#define TRAINER_EREADER                     (TRAINER_RECORD_MIXING_APPRENTICE + APPRENTICE_COUNT)
+#define TRAINER_FRONTIER_BRAIN              (TRAINER_EREADER + 1)
+#define TRAINER_PLAYER                      (TRAINER_EREADER + 2)
+#define TRAINER_SECRET_BASE                 0xFF00
+#define TRAINER_LINK_OPPONENT               0xFF01
+#define TRAINER_UNION_ROOM                  0xFF02
 
 enum __attribute__((packed)) TrainerPicID
 {

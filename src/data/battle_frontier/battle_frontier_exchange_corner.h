@@ -11,6 +11,7 @@ static const struct BPShopEntry sBPVitaminShopEntries[] = {
     { ITEM_ZINC,    1 },
     { ITEM_CARBOS,  1 },
     { ITEM_HP_UP,   1 },
+    { ITEM_PP_MAX,   5 },
     { ITEM_ABILITY_CAPSULE,   32 },
     { ITEM_ABILITY_PATCH,   64 },
     { ITEM_NONE,    0 },

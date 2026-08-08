@@ -2,7 +2,11 @@
 LilycoveCity_ContestLobby_EventScript_SpeakToContestReceptionist::
 	lock
 	faceplayer
-	goto_if_ne VAR_CONTEST_PRIZE_PICKUP, 0, LilycoveCity_ContestLobby_EventScript_PickUpPrize
+#if IS_HNS
+	goto_if_ne VAR_CONTEST_PRIZE_PICKUP_HNS, 0, LilycoveCity_ContestLobby_EventScript_PickUpPrize
+#else
+	goto_if_ne VAR_CONTEST_PRIZE_PICKUP_EM, 0, LilycoveCity_ContestLobby_EventScript_PickUpPrize
+#endif
 	call_if_set FLAG_RECEIVED_POKEBLOCK_CASE, LilycoveCity_ContestLobby_EventScript_ReceptionWelcome
 	call_if_unset FLAG_RECEIVED_POKEBLOCK_CASE, LilycoveCity_ContestLobby_EventScript_GivePokeblockCase
 	goto LilycoveCity_ContestLobby_EventScript_AskEnterContest
@@ -22,14 +26,22 @@ LilycoveCity_ContestLobby_EventScript_GivePokeblockCase::
 
 LilycoveCity_ContestLobby_EventScript_PickUpPrize::
 	msgbox LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize, MSGBOX_DEFAULT
-	switch VAR_CONTEST_PRIZE_PICKUP
+#if IS_HNS
+	switch VAR_CONTEST_PRIZE_PICKUP_HNS
+#else
+	switch VAR_CONTEST_PRIZE_PICKUP_EM
+#endif
 	case 4, LilycoveCity_ContestLobby_EventScript_GiveLuxuryBallAtCounter
 	end
 
 LilycoveCity_ContestLobby_EventScript_GiveLuxuryBallAtCounter::
 	giveitem ITEM_LUXURY_BALL
 	goto_if_eq VAR_RESULT, FALSE, LilycoveCity_ContestLobby_EventScript_NoRoomForLuxuryBallAtCounter
-	setvar VAR_CONTEST_PRIZE_PICKUP, 0
+#if IS_HNS
+	setvar VAR_CONTEST_PRIZE_PICKUP_HNS, 0
+#else
+	setvar VAR_CONTEST_PRIZE_PICKUP_EM, 0
+#endif
 	closemessage
 	release
 	end
@@ -1130,7 +1142,12 @@ ContestHall_EventScript_NoRoomForLuxuryBall::
 	call Common_EventScript_BagIsFull
 	msgbox ContestHall_Text_PickUpPrizeAtCounterLater, MSGBOX_DEFAULT
 	releaseall
-	setvar VAR_CONTEST_PRIZE_PICKUP, 4
+#if IS_HNS
+	setvar VAR_CONTEST_PRIZE_PICKUP_HNS, 4
+#else
+	setvar VAR_CONTEST_PRIZE_PICKUP_EM, 4
+#endif
+
 	return
 
 ContestHall_EventScript_GiveLuxuryBall::

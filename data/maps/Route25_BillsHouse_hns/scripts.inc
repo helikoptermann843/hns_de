@@ -441,7 +441,10 @@ Route25_BillsHouse_EventScript_Gramps_Ponyta::
 	copyvar VAR_0x8005, VAR_0x800A
 	specialvar VAR_RESULT, GetTradeSpecies
 	copyvar VAR_0x800B, VAR_RESULT
-	goto_if_ne VAR_RESULT, SPECIES_PONYTA, Route25_BillsHouse_EventScript_Gramps_WrongMon
+	goto_if_eq VAR_RESULT, SPECIES_PONYTA, Route25_BillsHouse_EventScript_Gramps_PonytaRightMon
+	goto_if_eq VAR_RESULT, SPECIES_RAPIDASH, Route25_BillsHouse_EventScript_Gramps_PonytaRightMon
+	goto Route25_BillsHouse_EventScript_Gramps_WrongMon
+Route25_BillsHouse_EventScript_Gramps_PonytaRightMon::
 	bufferspeciesname STR_VAR_1, SPECIES_PONYTA
 	setvar VAR_TEMP_0, ITEM_EXP_CANDY_L
 	setvar VAR_TEMP_1, 5

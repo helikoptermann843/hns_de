@@ -158,7 +158,7 @@
 #define VAR_CABLE_CLUB_STATE                             0x4087
 #define VAR_CONTEST_TYPE                                 0x4088
 #define VAR_SECRET_BASE_INITIALIZED                      0x4089
-#define VAR_CONTEST_PRIZE_PICKUP                         0x408A
+#define VAR_CONTEST_PRIZE_PICKUP_EM                         0x408A
 #define VAR_UNUSED_0x408B                                0x408B // Unused Var
 #define VAR_LITTLEROOT_HOUSES_STATE_BRENDAN              0x408C
 #define VAR_LITTLEROOT_RIVAL_STATE                       0x408D

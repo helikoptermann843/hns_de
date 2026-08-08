@@ -887,7 +887,6 @@ u8 GetItemConsumability(enum Item itemId)
 
 enum Pocket GetItemPocket(enum Item itemId)
 {
-    MgbaPrintf(MGBA_LOG_ERROR, "%d %d %d\n", itemId, SanitizeItemId(itemId), gItemsInfo[SanitizeItemId(itemId)].pocket);
     return gItemsInfo[SanitizeItemId(itemId)].pocket;
 }
 

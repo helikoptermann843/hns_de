@@ -732,6 +732,7 @@ extern const u8 gText_YouDontHaveEnoughBP[];
 extern const u8 gText_DontHaveEnoughVar1[];
 extern const u8 gText_Var1SureHowMany[];
 extern const u8 gText_xOne[];
+extern const u8 gText_xFive[];
 extern const u8 gText_KurtVar1AndYouWantedVar2Plural[];
 extern const u8 gText_KurtVar1AndYouWantedVar2Singular[];
 extern const u8 gText_KurtGettingStarted[];

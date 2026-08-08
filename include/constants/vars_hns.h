@@ -113,7 +113,7 @@
 #define VAR_RADIO_LUCKY_ID                               0x40A9
 #define VAR_RADIO_LUCKY_ID_HI                            0x40AA
 #define VAR_RADIO_BUENAS_PASSWORD                        0x40AB
-#define VAR_UNUSED_HNS_0x40AC                            0x40AC
+#define VAR_CONTEST_PRIZE_PICKUP_HNS                            0x40AC
 #define VAR_UNUSED_HNS_0x40AD                            0x40AD
 #define VAR_UNUSED_HNS_0x40AE                            0x40AE
 #define VAR_UNUSED_HNS_0x40AF                            0x40AF
