@@ -2149,7 +2149,7 @@ const struct ItemInfo gItemsInfo[] =
             "Hebt den Level\n"
             "eines Pokémon um\n"
             "eins an."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2168,7 +2168,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Gibt eine sehr\n"
             "geringe Menge EP."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2187,7 +2187,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Gibt eine geringe\n"
             "Menge EP."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2206,7 +2206,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Gibt eine gewisse\n"
             "Menge EP."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2225,7 +2225,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Gibt eine große\n"
             "Menge EP."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2244,7 +2244,7 @@ const struct ItemInfo gItemsInfo[] =
         .description = COMPOUND_STRING(
             "Gibt eine sehr\n"
             "große Menge EP."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_RareCandy,
@@ -2263,7 +2263,7 @@ const struct ItemInfo gItemsInfo[] =
             "Hebt Dynamax-Level\n"
             "um eins. Mehr KP bei\n"
             "Dynamaxierung."),
-        .pocket = POCKET_ITEMS,
+        .pocket = POCKET_MEDICINE,
         .sortType = ITEM_TYPE_LEVEL_UP_ITEM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_DynamaxCandy,
