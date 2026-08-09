@@ -2932,8 +2932,8 @@ IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
 
 === TRAINER_HILLARY_HNS ===
 Name: Sylvia
-Class: Expert Hns
-Pic: Expert F
+Class: Lass Hns
+Pic: Lass
 Gender: Female
 Music: Hg Girl 2
 Double Battle: No
@@ -11533,7 +11533,7 @@ Level: 44
 Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
-Gender: Male
+Gender: Female
 Music: Hg Girl 1
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
@@ -11556,7 +11556,7 @@ Level: 25
 Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
-Gender: Male
+Gender: Female
 Music: Hg Girl 1
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
@@ -11579,7 +11579,7 @@ Level: 37
 Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
-Gender: Male
+Gender: Female
 Music: Hg Girl 1
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
@@ -11602,7 +11602,7 @@ Level: 45
 Name: Rosemarie
 Class: Lass Hns
 Pic: Lass
-Gender: Male
+Gender: Female
 Music: Hg Girl 1
 Double Battle: No
 AI: Check Bad Move / Try To Faint / Check Viability
@@ -12661,9 +12661,9 @@ Level: 65
 
 === TRAINER_HILLARY_2_HNS ===
 Name: Sylvia
-Class: Expert Hns
-Pic: Expert F
-Gender: Male
+Class: Lass Hns
+Pic: Lass
+Gender: Female
 Music: Hg Girl 2
 Double Battle: No
 AI: Check Bad Move
@@ -12679,9 +12679,9 @@ Level: 62
 
 === TRAINER_HILLARY_3_HNS ===
 Name: Sylvia
-Class: Expert Hns
-Pic: Expert F
-Gender: Male
+Class: Lass Hns
+Pic: Lass
+Gender: Female
 Music: Hg Girl 2
 Double Battle: No
 AI: Check Bad Move

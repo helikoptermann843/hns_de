@@ -437,6 +437,7 @@ const u8 gText_OddEggFoundByCouple[] = _("Seltsames Pokémon-Ei, das\ndie Pensio
 const u8 gText_PeculiarEggNicePlace[] = _("Kurioses Pokémon-Ei, an\nhübschem Ort erhalten.");
 const u8 gText_PeculiarEggTrade[] = _("Kurioses Pokémon-Ei, im\nTausch erhalten.");
 const u8 gText_EggFromHotSprings[] = _("Ein Pokémon-Ei, an den\nHeißen Quellen erhalten.");
+const u8 gText_OddEggFromDaycare[] = _("Ein seltsames Pokémon-Ei\nvon der Pension.");
 const u8 gText_EggFromTraveler[] = _("Ein seltsames Pokémon-Ei\nvon einem Reisenden.");
 const u8 gText_ApostropheSBase[] = _("Basis v. {STR_VAR_1}");
 const u8 gText_OkayToDeleteFromRegistry[] = _("Soll {STR_VAR_1} aus dem Grundbuch\ngelöscht werden?");

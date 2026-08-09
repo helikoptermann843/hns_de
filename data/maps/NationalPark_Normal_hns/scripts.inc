@@ -186,7 +186,7 @@ NationalPark_Normal_Text_SchoolboyJack1_Beaten:
 
 NationalPark_Normal_Text_SchoolboyJack_After:
 	.string "Es gibt noch viel zu lernen!\p"
-	.string "Zum Beispiel, dass es 50 verschiedene\n"
+	.string "Zum Beispiel, dass es 90 verschiedene\n"
 	.string "Technische Maschinen gibt,\l"
 	.string "oder dass sich Pokémon, die man im\l"
 	.string "Tausch erhält, schneller entwickeln.$"

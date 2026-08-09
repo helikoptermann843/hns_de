@@ -123,8 +123,10 @@ AzaleaTown_KurtsHouse_EventScript_Kurt2::
 	goto_if_eq VAR_0x8005, 1, AzaleaTown_KurtsHouse_EventScript_SingularBall
 	bufferitemname STR_VAR_1, VAR_0x8004
 	buffernumberstring STR_VAR_2, VAR_0x8005
-	playfanfare MUS_OBTAIN_ITEM
 	msgbox KurtsHouse_Text_KurtFinishedPlural, MSGBOX_DEFAULT
+	message KurtsHouse_Text_KurtObtainedPlural
+	waitmessage
+	playfanfare MUS_OBTAIN_ITEM
 	waitfanfare
 	additem VAR_0x8004, VAR_0x8005
 	msgbox KurtsHouse_Text_KurtTurnedOutGreat, MSGBOX_DEFAULT
@@ -135,8 +137,10 @@ AzaleaTown_KurtsHouse_EventScript_Kurt2::
 
 AzaleaTown_KurtsHouse_EventScript_SingularBall::
 	bufferitemname STR_VAR_1, VAR_0x8004
-	playfanfare MUS_OBTAIN_ITEM
 	msgbox KurtsHouse_Text_KurtFinishedSingular, MSGBOX_DEFAULT
+	message KurtsHouse_Text_KurtObtainedSingular
+	waitmessage
+	playfanfare MUS_OBTAIN_ITEM
 	waitfanfare
 	additem VAR_0x8004, VAR_0x8005
 	msgbox KurtsHouse_Text_KurtTurnedOutGreat, MSGBOX_DEFAULT
@@ -303,9 +307,17 @@ KurtsHouse_Text_KurtFinishedPlural:
 	.string "{PLAYER} erhält\n"
 	.string "{STR_VAR_2} {STR_VAR_1}e!$"
 
+KurtsHouse_Text_KurtObtainedPlural:
+	.string "{PLAYER} erhält\n"
+	.string "{STR_VAR_2} {STR_VAR_1}e!$"
+
 KurtsHouse_Text_KurtFinishedSingular:
 	.string "Kurt: {PLAYER}!\n"
 	.string "Dein {STR_VAR_1} ist fertig. Hier!\p"
+	.string "{PLAYER} erhält\n"
+	.string "den {STR_VAR_1}!$"
+
+KurtsHouse_Text_KurtObtainedSingular:
 	.string "{PLAYER} erhält\n"
 	.string "den {STR_VAR_1}!$"
 

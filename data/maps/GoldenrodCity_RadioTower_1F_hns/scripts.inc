@@ -123,7 +123,7 @@ RadioTower1F_EventScript_ReceptionGiveRadio::
 	msgbox RadioTower1F_Text_QuizWin, MSGBOX_DEFAULT
 	closemessage
 	playfanfare MUS_OBTAIN_ITEM
-	giveitem ITEM_RADIO
+	msgbox RadioTower1F_Text_PokegearRadio, MSGBOX_AUTOCLOSE
 	waitfanfare
 	msgbox RadioTower1F_Text_TuneIn, MSGBOX_DEFAULT
 	closemessage
@@ -212,7 +212,7 @@ RadioTower1F_Text_QuizQuestion5:
 RadioTower1F_Text_QuizWin:
 	.string "Bingo! Volltreffer!\n"
 	.string "Glückwunsch!\p"
-	.string "Hier dein Preis: ein Radio!$"
+	.string "Hier dein Preis: ein Radio-Modul!$"
 
 RadioTower1F_Text_PokegearRadio:
 	.string "{PLAYER}s PokéCom\n"
@@ -261,6 +261,9 @@ RadioTower1F_Text_Directory:
 	.string "2S: Allgemeine Angelegenheiten 3S:\l"
 	.string "Produktion 4S: Büro des Intendanten$"
 
+RadioTower1F_Text_GotRadio:
+	.string "{PLAYER} got the RADIO CARD\n"
+	.string "for the POKéGEAR!$"
 
 GoldenrodCity_RadioTower_1F_EventScript_LotteryClerk::
 	lock
