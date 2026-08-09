@@ -709,7 +709,7 @@ static const u8 *const sDesc_RandomMapBased[] = {
 };
 static const u8 *const sDesc_RandomTrainer[] = {
     COMPOUND_STRING("Trainer haben ihr\nvorgesehenes Team."),
-    COMPOUND_STRING("Gegnerische Trainerteams zufällig."),
+    COMPOUND_STRING("Gegnerische Trainerteams zufällig.\nArenaleiter, Rivale, TOP4 ausgenommen."),
 };
 static const u8 *const sDesc_RandomStatic[] = {
     COMPOUND_STRING("Feste Begegnungen sind\nwie im Basisspiel."),
