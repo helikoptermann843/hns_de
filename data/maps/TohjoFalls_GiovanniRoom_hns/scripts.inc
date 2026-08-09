@@ -61,12 +61,12 @@ TohjoFalls_EventScript_GiovanniScene::
 	waitmovement 0
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_SOUTH
 	delay 20
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_QuestionMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	applymovement2 OBJ_EVENT_ID_FOLLOWER, TohjoFalls_Movement_CelebiSpin
 	playse SE_LEDGE
 	waitse
@@ -99,7 +99,7 @@ TohjoFalls_EventScript_GiovanniScene::
 	waitmovement OBJ_EVENT_ID_FOLLOWER
 	playse SE_PIN
 	applymovement2 LOCALID_TOHJOFALLS_GIOVANNI, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_TOHJOFALLS_GIOVANNI
 	turnobject LOCALID_TOHJOFALLS_GIOVANNI, DIR_SOUTH
 	msgbox TohjoFalls_GiovanniRoom_Text_GiovanniIntro, MSGBOX_DEFAULT
 	applymovement2 LOCALID_TOHJOFALLS_GIOVANNI, Common_Movement_WalkDown1
@@ -127,12 +127,12 @@ TohjoFalls_EventScript_GiovanniScene::
 	waitmovement 0
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_SOUTH
 	delay 20
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_QuestionMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	applymovement2 OBJ_EVENT_ID_FOLLOWER, TohjoFalls_Movement_CelebiSpin
 	playse SE_LEDGE
 	waitse

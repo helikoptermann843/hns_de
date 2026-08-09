@@ -33,7 +33,7 @@ SinjohRuins_ArceusRoom_TriggerScene::
 
 	playse SE_PIN
     applymovement2 LOCALID_PLAYER, Common_Movement_ExclamationMark
-    delay 60
+    waitmovement LOCALID_PLAYER
     msgbox SinjohRuins_Lab_Text_PlayFlute, MSGBOX_YESNO
 	closemessage
     goto_if_eq VAR_RESULT, FALSE, SinjohRuins_Lab_EventScript_NoOp
@@ -86,7 +86,7 @@ SinjohRuins_ArceusRoom_TriggerScene::
 	delay 8
 	playse SE_PIN
 	applymovement LOCALID_PLAYER, Common_Movement_ExclamationMark
-	waitmovement 0
+	waitmovement LOCALID_PLAYER
 	setweather WEATHER_NONE
 	doweather
 	applymovement2 LOCALID_SINJOHRUINS_ARCEUSROOM_ARCEUS, SinjohRuins_ArceusRoom_Movement_ArceusLooksAround

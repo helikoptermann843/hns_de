@@ -129,7 +129,7 @@ RadioTower1F_EventScript_ReceptionGiveRadio::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_GOLDENROD_RADIOTOWER_WHITNEY, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_GOLDENROD_RADIOTOWER_WHITNEY
 	turnobject LOCALID_GOLDENROD_RADIOTOWER_WHITNEY, DIR_EAST
 	delay 20
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST

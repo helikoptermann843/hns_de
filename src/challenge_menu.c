@@ -392,7 +392,7 @@ static const u8 *const sDesc_InfiniteTMs[] = {
 };
 static const u8 *const sDesc_Mints[] = {
     COMPOUND_STRING("Minzen erst nach dem Durchspielen\nverfügbar."),
-    COMPOUND_STRING("Minzen im Blumenladen nach\nder 4. Medaille kaufbar."),
+    COMPOUND_STRING("Minzen im Blumenladen nach\ndem 3. Orden kaufbar."),
 };
 static const u8 *const sDesc_SurvivePoison[] = {
     COMPOUND_STRING("Deine {PKMN} werden bei\nVergiftung besiegt."),

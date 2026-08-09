@@ -855,8 +855,20 @@
 
 #define HNS_CONTENT_FLAGS_END                       0x308
 
-// Extended content flags (0x36A – 0x431)
-// 200 slots for new content; 0x432–0x4FF reserved for future trainer registered expansion
+// Extended content flags (0x36A – 0x495)
+// 300 slots for new content; 0x496–0x4FF reserved for future expansion.
+//
+// WARNING: this block butts directly against the trainer registered (match call)
+// flags below it, with NO gap. Those start at 0x310 and use one flag per rematch
+// table entry, so with REMATCH_TABLE_ENTRIES == 90 they currently end at 0x369 --
+// exactly one below HNS_EXTENDED_CONTENT_START. Adding a 91st rematch trainer makes
+// its FLAG_REGISTERED_* alias FLAG_DECORATION_1, and nothing catches it: the writer
+// (pokenav_match_call_data.c RegisterTrainerInMatchCall) indexes the table directly,
+// while decorations are touched via FLAG_DECORATION_1 + gSpecialVar_0x8004 in
+// secret_base.c. Note MAX_REMATCH_ENTRIES is 100, so the saveblock reserves 10 more
+// entries than there is flag room for -- the reservation is NOT the safe limit here.
+// If the rematch table needs to grow, move this whole block up into the free
+// 0x496-0x4FF window first (or wherever there is room), do not extend downward.
 #define HNS_EXTENDED_CONTENT_START                  0x36A
 #define FLAG_DECORATION_1                           (HNS_EXTENDED_CONTENT_START + 0)
 #define FLAG_DECORATION_2                           (HNS_EXTENDED_CONTENT_START + 1)

@@ -15761,18 +15761,6 @@
       "layout_version": "hns"
     },
     {
-      "id": "LAYOUT_ALOLA_HNS",
-      "name": "Alola_hns_Layout",
-      "width": 90,
-      "height": 58,
-      "primary_tileset": "gTileset_AlolaIsland",
-      "secondary_tileset": "gTileset_AlolaIslandSecondary",
-      "border_filepath": "data/layouts/Alola/border.bin",
-      "blockdata_filepath": "data/layouts/Alola/map.bin",
-      "game_version": "hns",
-      "layout_version": "hns"
-    },
-    {
       "id": "LAYOUT_ULAULA_ISLE_HNS",
       "name": "UlaulaIsle_hns_Layout",
       "width": 51,
