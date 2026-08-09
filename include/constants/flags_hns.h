@@ -673,8 +673,9 @@
 #define FLAG_MINTS_CLERK                            0x262
 #define FLAG_MINTS_ENABLED                          0x263
 #define FLAG_NO_SHINY                               0x264
+#define FLAG_ENABLE_CONDITION                       0x265
 
-#define HNS_FEATURE_COUNT                           9
+#define HNS_FEATURE_COUNT                           10
 
 // Misc
 #define HNS_MISC_START                              0x265
