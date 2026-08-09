@@ -46,8 +46,8 @@ SproutTower_3F_EventScript_TriggerSceneLeft::
 	msgbox SproutTower_Text_ElderLecturesRival, MSGBOX_DEFAULT
 	closemessage
 	playse SE_PIN
-	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark
-	delay 60
+	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	waitmovement LOCALID_SPROUT_TOWER_SILVER
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverLeft
 	waitmovement 0
 	msgbox SproutTower_Text_RivalOnlyCaresStrong, MSGBOX_DEFAULT
@@ -76,8 +76,8 @@ SproutTower_3F_EventScript_TriggerSceneRight::
 	msgbox SproutTower_Text_ElderLecturesRival, MSGBOX_DEFAULT
 	closemessage
 	playse SE_PIN
-	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark
-	delay 60
+	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	waitmovement LOCALID_SPROUT_TOWER_SILVER
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverRight
 	waitmovement 0
 	waitmovement 0

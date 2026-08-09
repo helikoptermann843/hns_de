@@ -104,7 +104,7 @@ static const u8 sNuzlockeLUT[] =
     [MAPSEC_VIRIDIAN_FOREST]  = 0x46,
     [MAPSEC_MT_MOON]          = 0x47,
     [MAPSEC_DIGLETTS_CAVE]    = 0x48,
-    [MAPSEC_VICTORY_ROAD]     = 0x49,
+    [MAPSEC_VICTORY_ROAD_HNS] = 0x49,
     [MAPSEC_CERULEAN_CAVE]    = 0x4A,
     // Cities/Towns: Johto
     [MAPSEC_OLIVINE_CITY]     = 0x4B,

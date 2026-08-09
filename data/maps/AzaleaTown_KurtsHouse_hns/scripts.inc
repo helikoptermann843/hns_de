@@ -173,7 +173,7 @@ AzaleaTown_KurtsHouse_EventScript_KurtGsBall::
 	playse SE_PIN
 	applymovement LOCALID_AZALEA_TOWN_KURT, Common_Movement_ExclamationMark
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	waitse
 	playse SE_M_PETAL_DANCE
 	waitse

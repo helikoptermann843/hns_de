@@ -192,7 +192,7 @@ VioletCity_EventScript_Kimono_Girl::
 	playbgm MUS_HG_KIMONO_GIRL, FALSE
 	playse SE_PIN
 	applymovement LOCALID_VIOLET_KIMONO, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_VIOLET_KIMONO
 	applymovement LOCALID_VIOLET_KIMONO, VioletCity_Movement_Kimono_Girl_1
 	waitmovement 0
 	msgbox VioletCity_Text_Kimono_Girl1, MSGBOX_DEFAULT

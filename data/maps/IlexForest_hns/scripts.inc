@@ -318,7 +318,7 @@ IlexForest_EventScript_Kimono::
 	playse SE_PIN
 	turnobject OBJ_EVENT_ID_FOLLOWER, DIR_NORTH
 	applymovement2 LOCALID_ILEX_FOREST_KIMONO, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_ILEX_FOREST_KIMONO
 	applymovement2 LOCALID_ILEX_FOREST_KIMONO, IlexForest_Movement_Kimono_Girl1
 	waitmovement 0
 	msgbox IlexForest_Text_Kimono_Girl1, MSGBOX_DEFAULT

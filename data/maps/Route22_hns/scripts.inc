@@ -51,11 +51,11 @@ Route22_EventScript_Scene::
 	waitmovement 0
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_EAST
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_QuestionMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	applymovement2 OBJ_EVENT_ID_FOLLOWER, Route22_Movement_CelebiSpin1
 	playse SE_LEDGE
 	waitse
@@ -132,7 +132,7 @@ Route22_EventScript_Scene::
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE22_SILVER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_ROUTE22_SILVER
 	msgbox Route22_Text_Silver6, MSGBOX_DEFAULT
 	closemessage
 	applymovement2 LOCALID_ROUTE22_SILVER, Common_Movement_WalkRight1
@@ -157,12 +157,12 @@ Route22_EventScript_Scene::
 	waitmovement 0
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_EAST
 	delay 20
 	playse SE_PIN
 	applymovement2 OBJ_EVENT_ID_PLAYER, Common_Movement_QuestionMark
-	delay 60
+	waitmovement OBJ_EVENT_ID_PLAYER
 	applymovement2 OBJ_EVENT_ID_FOLLOWER, Route22_Movement_CelebiSpin1
 	playse SE_LEDGE
 	waitse

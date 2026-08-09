@@ -793,7 +793,7 @@ EcruteakCity_Theater_EventScript_Lugia::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_ECRUTEAK_ZUKI, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_ECRUTEAK_ZUKI
 	turnobject LOCALID_ECRUTEAK_ZUKI, DIR_SOUTH
 	msgbox EcruteakCity_Theater_Text_ZukiLugia, MSGBOX_DEFAULT
 	closemessage
@@ -838,7 +838,7 @@ EcruteakCity_Theater_EventScript_Hooh::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_ECRUTEAK_ZUKI, Common_Movement_ExclamationMark
-	delay 60
+	waitmovement LOCALID_ECRUTEAK_ZUKI
 	turnobject LOCALID_ECRUTEAK_ZUKI, DIR_SOUTH
 	msgbox EcruteakCity_Theater_Text_ZukiHooh, MSGBOX_DEFAULT
 	closemessage
