@@ -19,6 +19,7 @@ SeafoamIslands_Gym_EventScript_Blaine::
 	giveitem ITEM_TM_OVERHEAT
 	setflag FLAG_BADGE15_GET
 	setflag FLAG_DEFEATED_CINNABAR_ISLAND_GYM
+	callnative RevealDexEntries_Cinnabar
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 15
 	clearflag FLAG_HIDE_SEAFOAM_GYMGUY

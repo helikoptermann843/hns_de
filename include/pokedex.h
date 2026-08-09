@@ -25,5 +25,22 @@ void CB2_OpenPokedex(void);
 void PrintMonMeasurements(u16 species, u32 owned);
 u8* ConvertMonHeightToString(u32 height);
 u8* ConvertMonWeightToString(u32 weight);
+void RevealDexEntriesForGymLeader(u16 leaderFlag);
+void RevealDexEntries_Violet(void);
+void RevealDexEntries_Azalea(void);
+void RevealDexEntries_Goldenrod(void);
+void RevealDexEntries_Ecruteak(void);
+void RevealDexEntries_Cianwood(void);
+void RevealDexEntries_Olivine(void);
+void RevealDexEntries_Mahogany(void);
+void RevealDexEntries_Blackthorn(void);
+void RevealDexEntries_Pewter(void);
+void RevealDexEntries_Cerulean(void);
+void RevealDexEntries_Vermilion(void);
+void RevealDexEntries_Celadon(void);
+void RevealDexEntries_Saffron(void);
+void RevealDexEntries_Fuchsia(void);
+void RevealDexEntries_Cinnabar(void);
+void RevealDexEntries_Viridian(void);
 
 #endif // GUARD_POKEDEX_H

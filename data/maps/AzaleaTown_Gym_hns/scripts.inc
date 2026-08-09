@@ -534,6 +534,7 @@ AzaleaTown_Gym_EventScript_Bugsy::
 	msgbox AzaleaTown_Gym_Text_HiveBadgeSpeech, MSGBOX_DEFAULT
 	setflag FLAG_BADGE02_GET
 	setflag FLAG_DEFEATED_AZALEA_TOWN_GYM
+	callnative RevealDexEntries_Azalea
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 2
 	call Common_EventScript_SetGymTrainers_hns

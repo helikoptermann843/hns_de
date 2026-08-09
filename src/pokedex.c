@@ -32,6 +32,9 @@
 #include "constants/rgb.h"
 #include "constants/songs.h"
 #include "config/pokedex_plus_hgss.h"
+#include "pokemon.h"
+#include "constants/flags_hns.h"
+#include "data/gym_leader_dex_reveal.h"
 
 enum
 {
@@ -4537,6 +4540,104 @@ s8 GetSetPokedexFlag(enum NationalDexOrder nationalDexNo, u8 caseID)
     }
 
     return retVal;
+}
+
+void RevealDexEntriesForGymLeader(u16 leaderFlag)
+{
+    u32 i;
+    for (i = 0; i < ARRAY_COUNT(sGymLeaderDexReveals); i++)
+    {
+        if (sGymLeaderDexReveals[i].flag == leaderFlag)
+        {
+            const u16 *species = sGymLeaderDexReveals[i].species;
+            u32 j;
+            for (j = 0; species[j] != SPECIES_NONE; j++)
+                GetSetPokedexFlag(SpeciesToNationalPokedexNum(species[j]), FLAG_SET_SEEN);
+            return;
+        }
+    }
+}
+
+// Parameterlose Wrapper - jeweils fuer callnative im Gym-Script aufrufbar
+
+void RevealDexEntries_Violet(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_VIOLET_GYM);
+}
+
+void RevealDexEntries_Azalea(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_AZALEA_TOWN_GYM);
+}
+
+void RevealDexEntries_Goldenrod(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_GOLDENROD_CITY_GYM);
+}
+
+void RevealDexEntries_Ecruteak(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_ECRUTEAK_CITY_GYM);
+}
+
+void RevealDexEntries_Cianwood(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_CIANWOOD_GYM);
+}
+
+void RevealDexEntries_Olivine(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_OLIVINE_CITY_GYM);
+}
+
+void RevealDexEntries_Mahogany(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_MAHOGANY_TOWN_GYM);
+}
+
+void RevealDexEntries_Blackthorn(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_BLACKTHORN_GYM);
+}
+
+void RevealDexEntries_Pewter(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_PEWTER_GYM);
+}
+
+void RevealDexEntries_Cerulean(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_CERULEAN_GYM);
+}
+
+void RevealDexEntries_Vermilion(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_VERMILION_GYM);
+}
+
+void RevealDexEntries_Celadon(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_CELADON_GYM);
+}
+
+void RevealDexEntries_Saffron(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_SAFFRON_GYM);
+}
+
+void RevealDexEntries_Fuchsia(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_FUCHSIA_GYM);
+}
+
+void RevealDexEntries_Cinnabar(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_CINNABAR_ISLAND_GYM);
+}
+
+void RevealDexEntries_Viridian(void)
+{
+    RevealDexEntriesForGymLeader(FLAG_DEFEATED_VIRIDIAN_GYM);
 }
 
 u16 GetNationalPokedexCount(u8 caseID)

@@ -189,6 +189,7 @@ CeruleanCity_Gym_EventScript_Misty::
 	call Common_EventScript_PlayGymBadgeFanfare
 	setflag FLAG_BADGE10_GET
 	setflag FLAG_DEFEATED_CERULEAN_GYM
+	callnative RevealDexEntries_Cerulean
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 10
 	call Common_EventScript_SetGymTrainers_hns

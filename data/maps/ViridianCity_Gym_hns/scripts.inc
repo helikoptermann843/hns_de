@@ -16,6 +16,7 @@ ViridianCity_Gym_EventScript_Blue::
 	giveitem ITEM_TM_TRICK_ROOM
 	setflag FLAG_BADGE16_GET
 	setflag FLAG_DEFEATED_VIRIDIAN_GYM
+	callnative RevealDexEntries_Viridian
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 16
 	call Common_EventScript_SetGymTrainers_hns

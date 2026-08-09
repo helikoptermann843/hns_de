@@ -37,6 +37,7 @@ VioletCity_Gym_EventScript_Falkner::
 	msgbox VioletGym_Text_Falkner_BadgeExplain, MSGBOX_DEFAULT
 	setflag FLAG_BADGE01_GET
 	setflag FLAG_DEFEATED_VIOLET_GYM
+	callnative RevealDexEntries_Violet
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 1
 	call Common_EventScript_SetGymTrainers_hns

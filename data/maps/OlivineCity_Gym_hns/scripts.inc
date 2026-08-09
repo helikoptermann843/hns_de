@@ -236,6 +236,7 @@ OlivineCity_Gym_EventScript_JasmineVictory::
 	msgbox OlivineCity_Gym_Text_JasmineBadgeSpeech, MSGBOX_DEFAULT
 	setflag FLAG_BADGE06_GET
 	setflag FLAG_DEFEATED_OLIVINE_CITY_GYM
+	callnative RevealDexEntries_Olivine
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 6
 	call Common_EventScript_SetGymTrainers_hns

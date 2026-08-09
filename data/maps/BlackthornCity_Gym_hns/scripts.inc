@@ -207,6 +207,7 @@ BlackthornGym_EventScript_Clair::
 	trainerbattle_no_intro TRAINER_CLAIR_1_HNS, BlackthornGym_Text_ClairWinText
 	msgbox BlackthornGym_Text_ClairText_GoToDragonsDen, MSGBOX_DEFAULT
 	setflag FLAG_DEFEATED_BLACKTHORN_GYM
+	callnative RevealDexEntries_Blackthorn
 	setvar VAR_0x8008, 8
 	call Common_EventScript_SetGymTrainers_hns
 	setvar VAR_BLACKTHORN_CITY_STATE, 2
