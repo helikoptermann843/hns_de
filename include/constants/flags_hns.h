@@ -1326,7 +1326,8 @@
 #define FLAG_DAILY_BUENAS_PASSWORD                  (DAILY_FLAGS_START + 7)
 #define FLAG_DAILY_LUCKY_NUMBER_SET                 (DAILY_FLAGS_START + 8)
 #define FLAG_DAILY_BUENAS_PASSWORD_GUESSED          (DAILY_FLAGS_START + 9)
-#define DAILY_FLAGS_END                             (DAILY_FLAGS_START + 9)
+#define FLAG_DAILY_FLOWER_SHOP_RECEIVED_BERRY_HNS   (DAILY_FLAGS_START +10)
+#define DAILY_FLAGS_END                             (DAILY_FLAGS_START +10)
 #define NUM_DAILY_FLAGS                             (DAILY_FLAGS_END - DAILY_FLAGS_START + 1)
 #define BUILD_FLAGS_END                             DAILY_FLAGS_END
 
