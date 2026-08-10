@@ -1010,6 +1010,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sGumshoosLevelUpLearnset,
         .teachableLearnset = sGumshoosTeachableLearnset,
         .formSpeciesIdTable = sGumshoosFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_GUMSHOOS_TOTEM] =
@@ -1073,6 +1074,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sGumshoosLevelUpLearnset,
         .teachableLearnset = sGumshoosTeachableLearnset,
         .formSpeciesIdTable = sGumshoosFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_YUNGOOS
 
@@ -1342,6 +1344,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sVikavoltLevelUpLearnset,
         .teachableLearnset = sVikavoltTeachableLearnset,
         .formSpeciesIdTable = sVikavoltFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_GRUBBIN
 
@@ -1604,6 +1607,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sOricorioEggMoveLearnset,
         .formSpeciesIdTable = sOricorioFormSpeciesIdTable,
         .formChangeTable = sOricorioFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_ORICORIO_POM_POM] =
@@ -1671,6 +1675,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sOricorioEggMoveLearnset,
         .formSpeciesIdTable = sOricorioFormSpeciesIdTable,
         .formChangeTable = sOricorioFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_ORICORIO_PAU] =
@@ -1738,6 +1743,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sOricorioEggMoveLearnset,
         .formSpeciesIdTable = sOricorioFormSpeciesIdTable,
         .formChangeTable = sOricorioFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_ORICORIO_SENSU] =
@@ -1805,6 +1811,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sOricorioEggMoveLearnset,
         .formSpeciesIdTable = sOricorioFormSpeciesIdTable,
         .formChangeTable = sOricorioFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_ORICORIO
 
@@ -2033,6 +2040,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sRibombeeLevelUpLearnset,
         .teachableLearnset = sRibombeeTeachableLearnset,
         .formSpeciesIdTable = sRibombeeFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_CUTIEFLY
 
@@ -2098,6 +2106,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .formSpeciesIdTable = sRockruffFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL, 25, SPECIES_LYCANROC_MIDDAY, CONDITIONS({IF_NOT_TIME, TIME_NIGHT})},
                                 {EVO_LEVEL, 25, SPECIES_LYCANROC_MIDNIGHT, CONDITIONS({IF_TIME, TIME_NIGHT})}),
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_ROCKRUFF_OWN_TEMPO] =
@@ -2160,6 +2169,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sRockruffEggMoveLearnset,
         .formSpeciesIdTable = sRockruffFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_LEVEL, 25, SPECIES_LYCANROC_DUSK, CONDITIONS({IF_TIME, TIME_EVENING})}),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_LYCANROC_MIDDAY] =
@@ -2227,6 +2237,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sLycanrocMiddayLevelUpLearnset,
         .teachableLearnset = sLycanrocMiddayTeachableLearnset,
         .formSpeciesIdTable = sLycanrocFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_LYCANROC_MIDNIGHT] =
@@ -2294,6 +2305,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sLycanrocMidnightLevelUpLearnset,
         .teachableLearnset = sLycanrocMidnightTeachableLearnset,
         .formSpeciesIdTable = sLycanrocFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_LYCANROC_DUSK] =
@@ -2361,6 +2373,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sLycanrocDuskLevelUpLearnset,
         .teachableLearnset = sLycanrocDuskTeachableLearnset,
         .formSpeciesIdTable = sLycanrocFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_ROCKRUFF
 
@@ -2429,6 +2442,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sWishiwashiEggMoveLearnset,
         .formSpeciesIdTable = sWishiwashiFormSpeciesIdTable,
         .formChangeTable = sWishiwashiFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_WISHIWASHI_SCHOOL] =
@@ -2946,6 +2960,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sAraquanidLevelUpLearnset,
         .teachableLearnset = sAraquanidTeachableLearnset,
         .formSpeciesIdTable = sAraquanidFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_DEWPIDER
 
@@ -3142,6 +3157,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sLurantisLevelUpLearnset,
         .teachableLearnset = sLurantisTeachableLearnset,
         .formSpeciesIdTable = sLurantisFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_FOMANTIS
 
@@ -3469,6 +3485,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sSalazzleLevelUpLearnset,
         .teachableLearnset = sSalazzleTeachableLearnset,
         .formSpeciesIdTable = sSalazzleFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_SALANDIT
 
@@ -4544,6 +4561,9 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sSilvallyTeachableLearnset,                            \
         .formSpeciesIdTable = sSilvallyFormSpeciesIdTable,                          \
         .formChangeTable = sSilvallyFormChangeTable,                                \
+        .randomizerMode = (type == TYPE_NORMAL                                      \
+            ? MON_RANDOMIZER_NORMAL                                                 \
+            : MON_RANDOMIZER_INVALID),                                              \
     }
 
     [SPECIES_SILVALLY_NORMAL]   = SILVALLY_SPECIES_INFO(TYPE_NORMAL,   Normal),
@@ -4944,6 +4964,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sTogedemaruTeachableLearnset,
         .eggMoveLearnset = sTogedemaruEggMoveLearnset,
         .formSpeciesIdTable = sTogedemaruFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_TOGEDEMARU
 
@@ -5063,6 +5084,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sMimikyuEggMoveLearnset,
         .formSpeciesIdTable = sMimikyuFormSpeciesIdTable,
         .formChangeTable = sMimikyuFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_MIMIKYU_TOTEM_DISGUISED] =
@@ -5128,6 +5150,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sMimikyuEggMoveLearnset,
         .formSpeciesIdTable = sMimikyuFormSpeciesIdTable,
         .formChangeTable = sMimikyuTotemFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_MIMIKYU_BUSTED_TOTEM] =
@@ -5184,6 +5207,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .eggMoveLearnset = sMimikyuEggMoveLearnset,
         .formSpeciesIdTable = sMimikyuFormSpeciesIdTable,
         .formChangeTable = sMimikyuTotemFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_MIMIKYU
 
@@ -5719,6 +5743,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .levelUpLearnset = sKommoOLevelUpLearnset,
         .teachableLearnset = sKommoOTeachableLearnset,
         .formSpeciesIdTable = sKommoOFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_JANGMO_O
 
@@ -6903,6 +6928,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sNecrozmaTeachableLearnset,
         .formSpeciesIdTable = sNecrozmaFormSpeciesIdTable,
         .formChangeTable = sNecrozmaDuskManeFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_NECROZMA_DAWN_WINGS] =
@@ -6974,6 +7000,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sNecrozmaTeachableLearnset,
         .formSpeciesIdTable = sNecrozmaFormSpeciesIdTable,
         .formChangeTable = sNecrozmaDawnWingsFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #if P_ULTRA_BURST_FORMS
@@ -7051,6 +7078,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sNecrozmaTeachableLearnset,
         .formSpeciesIdTable = sNecrozmaFormSpeciesIdTable,
         .formChangeTable = sNecrozmaUltraFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_ULTRA_BURST_FORMS
 #endif //P_FUSION_FORMS
@@ -7123,6 +7151,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sMagearnaTeachableLearnset,
         .formSpeciesIdTable = sMagearnaFormSpeciesIdTable,
         .formChangeTable = sMagearnaFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_MAGEARNA_ORIGINAL] =
@@ -7190,6 +7219,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sMagearnaTeachableLearnset,
         .formSpeciesIdTable = sMagearnaFormSpeciesIdTable,
         .formChangeTable = sMagearnaOriginalFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #if P_GEN_9_MEGA_EVOLUTIONS
@@ -7983,6 +8013,7 @@ const struct SpeciesInfo gSpeciesInfoGen7[] =
         .teachableLearnset = sMelmetalTeachableLearnset,
         .formSpeciesIdTable = sMelmetalFormSpeciesIdTable,
         .formChangeTable = sMelmetalFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_GIGANTAMAX_FORMS
 #endif //P_FAMILY_MELTAN

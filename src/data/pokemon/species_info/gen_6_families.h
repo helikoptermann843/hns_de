@@ -810,6 +810,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sGreninjaTeachableLearnset,
         .formSpeciesIdTable = sGreninjaFormSpeciesIdTable,
         .formChangeTable = sGreninjaBattleBondFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_GRENINJA_ASH] =
@@ -880,6 +881,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sGreninjaTeachableLearnset,
         .formSpeciesIdTable = sGreninjaFormSpeciesIdTable,
         .formChangeTable = sGreninjaBattleBondFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #if P_GEN_9_MEGA_EVOLUTIONS
@@ -1295,7 +1297,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
 #endif //P_FAMILY_FLETCHLING
 
 #if P_FAMILY_SCATTERBUG
-#define SCATTERBUG_SPECIES_INFO(evolution)                                                  \
+#define SCATTERBUG_SPECIES_INFO(evolution, rzMode)                                          \
     {                                                                                       \
         .baseHP        = 38,                                                                \
         .baseAttack    = 35,                                                                \
@@ -1356,30 +1358,31 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .eggMoveLearnset = sScatterbugEggMoveLearnset,                                      \
         .formSpeciesIdTable = sScatterbugFormSpeciesIdTable,                                \
         .evolutions = EVOLUTION({EVO_LEVEL, 9, SPECIES_SPEWPA_##evolution}),                \
+        .randomizerMode = rzMode,                                                           \
     }                                                                                       \
 
-    [SPECIES_SCATTERBUG_ICY_SNOW]    = SCATTERBUG_SPECIES_INFO(ICY_SNOW),
-    [SPECIES_SCATTERBUG_POLAR]       = SCATTERBUG_SPECIES_INFO(POLAR),
-    [SPECIES_SCATTERBUG_TUNDRA]      = SCATTERBUG_SPECIES_INFO(TUNDRA),
-    [SPECIES_SCATTERBUG_CONTINENTAL] = SCATTERBUG_SPECIES_INFO(CONTINENTAL),
-    [SPECIES_SCATTERBUG_GARDEN]      = SCATTERBUG_SPECIES_INFO(GARDEN),
-    [SPECIES_SCATTERBUG_ELEGANT]     = SCATTERBUG_SPECIES_INFO(ELEGANT),
-    [SPECIES_SCATTERBUG_MEADOW]      = SCATTERBUG_SPECIES_INFO(MEADOW),
-    [SPECIES_SCATTERBUG_MODERN]      = SCATTERBUG_SPECIES_INFO(MODERN),
-    [SPECIES_SCATTERBUG_MARINE]      = SCATTERBUG_SPECIES_INFO(MARINE),
-    [SPECIES_SCATTERBUG_ARCHIPELAGO] = SCATTERBUG_SPECIES_INFO(ARCHIPELAGO),
-    [SPECIES_SCATTERBUG_HIGH_PLAINS] = SCATTERBUG_SPECIES_INFO(HIGH_PLAINS),
-    [SPECIES_SCATTERBUG_SANDSTORM]   = SCATTERBUG_SPECIES_INFO(SANDSTORM),
-    [SPECIES_SCATTERBUG_RIVER]       = SCATTERBUG_SPECIES_INFO(RIVER),
-    [SPECIES_SCATTERBUG_MONSOON]     = SCATTERBUG_SPECIES_INFO(MONSOON),
-    [SPECIES_SCATTERBUG_SAVANNA]     = SCATTERBUG_SPECIES_INFO(SAVANNA),
-    [SPECIES_SCATTERBUG_SUN]         = SCATTERBUG_SPECIES_INFO(SUN),
-    [SPECIES_SCATTERBUG_OCEAN]       = SCATTERBUG_SPECIES_INFO(OCEAN),
-    [SPECIES_SCATTERBUG_JUNGLE]      = SCATTERBUG_SPECIES_INFO(JUNGLE),
-    [SPECIES_SCATTERBUG_FANCY]       = SCATTERBUG_SPECIES_INFO(FANCY),
-    [SPECIES_SCATTERBUG_POKEBALL]    = SCATTERBUG_SPECIES_INFO(POKEBALL),
+    [SPECIES_SCATTERBUG_ICY_SNOW]    = SCATTERBUG_SPECIES_INFO(ICY_SNOW, MON_RANDOMIZER_RANDOM_FORM),
+    [SPECIES_SCATTERBUG_POLAR]       = SCATTERBUG_SPECIES_INFO(POLAR, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_TUNDRA]      = SCATTERBUG_SPECIES_INFO(TUNDRA, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_CONTINENTAL] = SCATTERBUG_SPECIES_INFO(CONTINENTAL, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_GARDEN]      = SCATTERBUG_SPECIES_INFO(GARDEN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_ELEGANT]     = SCATTERBUG_SPECIES_INFO(ELEGANT, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_MEADOW]      = SCATTERBUG_SPECIES_INFO(MEADOW, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_MODERN]      = SCATTERBUG_SPECIES_INFO(MODERN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_MARINE]      = SCATTERBUG_SPECIES_INFO(MARINE, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_ARCHIPELAGO] = SCATTERBUG_SPECIES_INFO(ARCHIPELAGO, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_HIGH_PLAINS] = SCATTERBUG_SPECIES_INFO(HIGH_PLAINS, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_SANDSTORM]   = SCATTERBUG_SPECIES_INFO(SANDSTORM, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_RIVER]       = SCATTERBUG_SPECIES_INFO(RIVER, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_MONSOON]     = SCATTERBUG_SPECIES_INFO(MONSOON, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_SAVANNA]     = SCATTERBUG_SPECIES_INFO(SAVANNA, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_SUN]         = SCATTERBUG_SPECIES_INFO(SUN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_OCEAN]       = SCATTERBUG_SPECIES_INFO(OCEAN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_JUNGLE]      = SCATTERBUG_SPECIES_INFO(JUNGLE, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_FANCY]       = SCATTERBUG_SPECIES_INFO(FANCY, MON_RANDOMIZER_INVALID),
+    [SPECIES_SCATTERBUG_POKEBALL]    = SCATTERBUG_SPECIES_INFO(POKEBALL, MON_RANDOMIZER_INVALID),
 
-#define SPEWPA_SPECIES_INFO(evolution)                                          \
+#define SPEWPA_SPECIES_INFO(evolution, rzMode)                                  \
     {                                                                           \
         .baseHP        = 45,                                                    \
         .baseAttack    = 22,                                                    \
@@ -1439,28 +1442,29 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sSpewpaTeachableLearnset,                          \
         .formSpeciesIdTable = sSpewpaFormSpeciesIdTable,                        \
         .evolutions = EVOLUTION({EVO_LEVEL, 12, SPECIES_VIVILLON_##evolution}), \
+        .randomizerMode = rzMode,                                               \
     }
 
-    [SPECIES_SPEWPA_ICY_SNOW]    = SPEWPA_SPECIES_INFO(ICY_SNOW),
-    [SPECIES_SPEWPA_POLAR]       = SPEWPA_SPECIES_INFO(POLAR),
-    [SPECIES_SPEWPA_TUNDRA]      = SPEWPA_SPECIES_INFO(TUNDRA),
-    [SPECIES_SPEWPA_CONTINENTAL] = SPEWPA_SPECIES_INFO(CONTINENTAL),
-    [SPECIES_SPEWPA_GARDEN]      = SPEWPA_SPECIES_INFO(GARDEN),
-    [SPECIES_SPEWPA_ELEGANT]     = SPEWPA_SPECIES_INFO(ELEGANT),
-    [SPECIES_SPEWPA_MEADOW]      = SPEWPA_SPECIES_INFO(MEADOW),
-    [SPECIES_SPEWPA_MODERN]      = SPEWPA_SPECIES_INFO(MODERN),
-    [SPECIES_SPEWPA_MARINE]      = SPEWPA_SPECIES_INFO(MARINE),
-    [SPECIES_SPEWPA_ARCHIPELAGO] = SPEWPA_SPECIES_INFO(ARCHIPELAGO),
-    [SPECIES_SPEWPA_HIGH_PLAINS] = SPEWPA_SPECIES_INFO(HIGH_PLAINS),
-    [SPECIES_SPEWPA_SANDSTORM]   = SPEWPA_SPECIES_INFO(SANDSTORM),
-    [SPECIES_SPEWPA_RIVER]       = SPEWPA_SPECIES_INFO(RIVER),
-    [SPECIES_SPEWPA_MONSOON]     = SPEWPA_SPECIES_INFO(MONSOON),
-    [SPECIES_SPEWPA_SAVANNA]     = SPEWPA_SPECIES_INFO(SAVANNA),
-    [SPECIES_SPEWPA_SUN]         = SPEWPA_SPECIES_INFO(SUN),
-    [SPECIES_SPEWPA_OCEAN]       = SPEWPA_SPECIES_INFO(OCEAN),
-    [SPECIES_SPEWPA_JUNGLE]      = SPEWPA_SPECIES_INFO(JUNGLE),
-    [SPECIES_SPEWPA_FANCY]       = SPEWPA_SPECIES_INFO(FANCY),
-    [SPECIES_SPEWPA_POKEBALL]   = SPEWPA_SPECIES_INFO(POKEBALL),
+    [SPECIES_SPEWPA_ICY_SNOW]    = SPEWPA_SPECIES_INFO(ICY_SNOW, MON_RANDOMIZER_RANDOM_FORM),
+    [SPECIES_SPEWPA_POLAR]       = SPEWPA_SPECIES_INFO(POLAR, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_TUNDRA]      = SPEWPA_SPECIES_INFO(TUNDRA, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_CONTINENTAL] = SPEWPA_SPECIES_INFO(CONTINENTAL, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_GARDEN]      = SPEWPA_SPECIES_INFO(GARDEN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_ELEGANT]     = SPEWPA_SPECIES_INFO(ELEGANT, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_MEADOW]      = SPEWPA_SPECIES_INFO(MEADOW, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_MODERN]      = SPEWPA_SPECIES_INFO(MODERN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_MARINE]      = SPEWPA_SPECIES_INFO(MARINE, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_ARCHIPELAGO] = SPEWPA_SPECIES_INFO(ARCHIPELAGO, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_HIGH_PLAINS] = SPEWPA_SPECIES_INFO(HIGH_PLAINS, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_SANDSTORM]   = SPEWPA_SPECIES_INFO(SANDSTORM, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_RIVER]       = SPEWPA_SPECIES_INFO(RIVER, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_MONSOON]     = SPEWPA_SPECIES_INFO(MONSOON, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_SAVANNA]     = SPEWPA_SPECIES_INFO(SAVANNA, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_SUN]         = SPEWPA_SPECIES_INFO(SUN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_OCEAN]       = SPEWPA_SPECIES_INFO(OCEAN, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_JUNGLE]      = SPEWPA_SPECIES_INFO(JUNGLE, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_FANCY]       = SPEWPA_SPECIES_INFO(FANCY, MON_RANDOMIZER_INVALID),
+    [SPECIES_SPEWPA_POKEBALL]    = SPEWPA_SPECIES_INFO(POKEBALL, MON_RANDOMIZER_INVALID),
 
 #define VIVILLON_MISC_INFO(form, color, iconPal)                                            \
         .baseHP        = 80,                                                                \
@@ -1530,6 +1534,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus bitterkalten Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_VIVILLON_POLAR] =
@@ -1540,6 +1545,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus schneereichen Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_TUNDRA] =
@@ -1550,6 +1556,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "geografischer Beschaffenheit und Klima\n"
         "der Heimat. Diese Form stammt aus eisigen\n"
         "Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_CONTINENTAL] =
@@ -1560,6 +1567,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit weitläufigen Arealen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_GARDEN] =
@@ -1570,6 +1578,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus begrünten Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_ELEGANT] =
@@ -1580,6 +1589,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit markanten Jahreszeiten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_MEADOW] =
@@ -1590,6 +1600,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit blühenden Blumen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_MODERN] =
@@ -1600,6 +1611,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit starkem Sonnenschein."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_MARINE] =
@@ -1610,6 +1622,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit einer Meeresbrise."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_ARCHIPELAGO] =
@@ -1620,6 +1633,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form\n"
         "stammt aus Gebieten mit vielen Inseln."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_HIGH_PLAINS] =
@@ -1630,6 +1644,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus regenarmen Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_SANDSTORM] =
@@ -1640,6 +1655,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus trockenen Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_RIVER] =
@@ -1650,6 +1666,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form\n"
         "stammt aus Gebieten mit großen Flüssen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_MONSOON] =
@@ -1660,6 +1677,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit starken Regenfällen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_SAVANNA] =
@@ -1670,6 +1688,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit einem tropischen Klima."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_SUN] =
@@ -1680,6 +1699,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus lichtreichen Gebieten."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_OCEAN] =
@@ -1690,6 +1710,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten, wo immer Sommer herrscht."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_JUNGLE] =
@@ -1700,6 +1721,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form stammt\n"
         "aus Gebieten mit tropischem Regenwald."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_FANCY] =
@@ -1710,6 +1732,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese Form\n"
         "stammt aus einem mysteriösen Gebiet."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_VIVILLON_POKEBALL] =
@@ -1720,6 +1743,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "je nach geografischer Beschaffenheit\n"
         "und Klima der Heimat. Diese\n"
         "Form stammt aus einem besonderen Gebiet."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_SCATTERBUG
 
@@ -2001,6 +2025,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             "Dieses Pokémon ist in der Lage, Wildblumen\n"
             "ihre geheimen Kräfte zu entlocken. Rote\n"
             "Blumen haben es ihm besonders angetan."),
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_FLABEBE_YELLOW] =
@@ -2011,6 +2036,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Blume. Bevor es eine Blume findet, die ihm\n"
         "Kraft gibt, ist es allen Gefahren\n"
         "schutzlos ausgeliefert."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLABEBE_ORANGE] =
@@ -2021,6 +2047,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Blume. Die Krone auf seinem Kopf besteht\n"
         "aus Pollen und besitzt eine heilende\n"
         "Wirkung."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLABEBE_BLUE]   =
@@ -2031,6 +2058,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Blume. Findet es eine Blume, die ihm gefällt,\n"
         "kümmert es sich sein ganzes Leben lang um\n"
         "sie."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLABEBE_WHITE]  =
@@ -2041,6 +2069,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "eine weiße Blume. Kommt Wind auf,\n"
         "lässt es sich von diesem durch die Luft\n"
         "bis zur nächsten Blumenwiese treiben."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #define FLOETTE_MISC_INFO(form, FORM, iconPal)                                  \
@@ -2113,6 +2142,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "sich um welkende Blumen. Es setzt deren\n"
         "geheime Kräfte frei und nutzt diese zum\n"
         "Kämpfen."),
+        .randomizerMode = MON_RANDOMIZER_SPECIAL_FORM,
     },
 
     [SPECIES_FLOETTE_YELLOW] =
@@ -2122,6 +2152,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
             "Floette ist in der Lage, aus gelben Blumen\n"
             "Kraft zu schöpfen. Diese wandelt es in\n"
             "Attacken um, die seinem Schutz dienen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLOETTE_ORANGE] =
@@ -2132,6 +2163,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "orangen Blumen synchronisiert, gewinnt es\n"
         "deutlich mehr Kraft als mit\n"
         "andersfarbigen."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLOETTE_BLUE] =
@@ -2141,6 +2173,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Entdeckt es verwelkte Blumen, bringt es\n"
         "diese in sein Revier, wo es sie pflegt und\n"
         "wieder aufpäppelt."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLOETTE_WHITE] =
@@ -2151,6 +2184,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "können sich auch mit der Farbwellenlänge\n"
         "von andersfarbigen Blumen\n"
         "synchronisieren."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLOETTE_ETERNAL] =
@@ -2179,6 +2213,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sFloetteEternalLevelUpLearnset,
         .teachableLearnset = sFloetteEternalTeachableLearnset,
         .formChangeTable = sFloetteEternalFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #define FLORGES_MISC_INFO(Form, iconPal)                                        \
@@ -2246,6 +2281,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Revier. Es badet in der von blühenden\n"
         "Blumen freigesetzten Energie und zieht\n"
         "daraus seine Kraft."),
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_FLORGES_YELLOW] =
@@ -2256,6 +2292,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Revier. Es badet in der von blühenden\n"
         "Blumen freigesetzten Energie und zieht\n"
         "daraus seine Kraft."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLORGES_ORANGE] =
@@ -2266,6 +2303,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Revier. Es badet in der von blühenden\n"
         "Blumen freigesetzten Energie und zieht\n"
         "daraus seine Kraft."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLORGES_BLUE] =
@@ -2276,6 +2314,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Revier. Es badet in der von blühenden\n"
         "Blumen freigesetzten Energie und zieht\n"
         "daraus seine Kraft."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_FLORGES_WHITE] =
@@ -2286,6 +2325,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         "Revier. Es badet in der von blühenden\n"
         "Blumen freigesetzten Energie und zieht\n"
         "daraus seine Kraft."),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
 #if P_GEN_9_MEGA_EVOLUTIONS
@@ -5727,6 +5767,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .formSpeciesIdTable = sPumpkabooFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_TRADE, 0, SPECIES_GOURGEIST_AVERAGE},
                                 {EVO_LEVEL, 38, SPECIES_GOURGEIST_AVERAGE}),
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_PUMPKABOO_SMALL] =
@@ -5792,6 +5833,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .formSpeciesIdTable = sPumpkabooFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_TRADE, 0, SPECIES_GOURGEIST_SMALL},
                                 {EVO_LEVEL, 38, SPECIES_GOURGEIST_SMALL}),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_PUMPKABOO_LARGE] =
@@ -5858,6 +5900,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .formSpeciesIdTable = sPumpkabooFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_TRADE, 0, SPECIES_GOURGEIST_LARGE},
                                 {EVO_LEVEL, 38, SPECIES_GOURGEIST_LARGE}),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_PUMPKABOO_SUPER] =
@@ -5926,6 +5969,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .formSpeciesIdTable = sPumpkabooFormSpeciesIdTable,
         .evolutions = EVOLUTION({EVO_TRADE, 0, SPECIES_GOURGEIST_SUPER},
                                 {EVO_LEVEL, 38, SPECIES_GOURGEIST_SUPER}),
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_GOURGEIST_AVERAGE] =
@@ -5990,6 +6034,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sGourgeistLevelUpLearnset,
         .teachableLearnset = sGourgeistTeachableLearnset,
         .formSpeciesIdTable = sGourgeistFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_RANDOM_FORM,
     },
 
     [SPECIES_GOURGEIST_SMALL] =
@@ -6054,6 +6099,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sGourgeistLevelUpLearnset,
         .teachableLearnset = sGourgeistTeachableLearnset,
         .formSpeciesIdTable = sGourgeistFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_GOURGEIST_LARGE] =
@@ -6118,6 +6164,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sGourgeistLevelUpLearnset,
         .teachableLearnset = sGourgeistTeachableLearnset,
         .formSpeciesIdTable = sGourgeistFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
     [SPECIES_GOURGEIST_SUPER] =
@@ -6183,6 +6230,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .levelUpLearnset = sGourgeistLevelUpLearnset,
         .teachableLearnset = sGourgeistTeachableLearnset,
         .formSpeciesIdTable = sGourgeistFormSpeciesIdTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_PUMPKABOO
 
@@ -7314,6 +7362,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sDiancieTeachableLearnset,
         .formSpeciesIdTable = sDiancieFormSpeciesIdTable,
         .formChangeTable = sDiancieFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_MEGA_EVOLUTIONS
 #endif //P_FAMILY_DIANCIE
@@ -7468,6 +7517,7 @@ const struct SpeciesInfo gSpeciesInfoGen6[] =
         .teachableLearnset = sHoopaUnboundTeachableLearnset,
         .formSpeciesIdTable = sHoopaFormSpeciesIdTable,
         .formChangeTable = sHoopaFormChangeTable,
+        .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 #endif //P_FAMILY_HOOPA
 
