@@ -25,6 +25,7 @@ BurnedTower_1F_EventScript_MeetEusine::
 	lock
 	playse SE_PIN
 	applymovement LOCALID_BURNED_TOWER_EUSINE, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_BURNED_TOWER_EUSINE
 	applymovement LOCALID_BURNED_TOWER_EUSINE, BurnedTower_Movement_Eusine1
 	waitmovement 0
@@ -101,6 +102,7 @@ BurnedTower_1F_EventScript_Silver::
 	lock
 	playse SE_PIN
 	applymovement LOCALID_BURNED_TOWER_SILVER, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_BURNED_TOWER_SILVER
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkRight1
 	applymovement LOCALID_BURNED_TOWER_SILVER, Common_Movement_WalkLeft1

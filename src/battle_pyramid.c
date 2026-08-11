@@ -1439,6 +1439,9 @@ void GenerateBattlePyramidWildMon(void)
     {
         species = Random() % NUM_SPECIES;
 
+        if (!IsSpeciesEnabled(species))
+            continue;
+
         // check if base species
         if (GET_BASE_SPECIES_ID(species) != species)
             continue;

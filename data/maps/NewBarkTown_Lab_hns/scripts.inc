@@ -117,6 +117,7 @@ NewBarkTown_Lab_EventScript_ElmAccepted::
 	waitse
 	playse SE_PIN
 	applymovement LOCALID_ELM, Common_Movement_QuestionMark
+	delay 55
 	waitmovement LOCALID_ELM
 	applymovement LOCALID_ELM, NewBarkTown_Lab_Movement_CheckEmail
 	applymovement OBJ_EVENT_ID_PLAYER, NewBarkTown_Lab_Movement_Look_Left
@@ -442,6 +443,7 @@ NewBarkTown_Lab_EventScript_ElmMasterBall::
 	delay 20
 	playse SE_PIN
 	applymovement LOCALID_ELM, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ELM
 	msgbox NewBarkTown_Lab_Text_KimonoGirls, MSGBOX_DEFAULT
 	closemessage

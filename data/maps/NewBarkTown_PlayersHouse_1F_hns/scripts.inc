@@ -210,6 +210,7 @@ NewBarkTown_PlayersHouse_1F_EventScript_MomsIntroTrigger2::
 NewBarkTown_PlayersHouse_1F_EventScript_MomsIntro::
 	playse SE_PIN
 	applymovement LOCALID_MOM, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_MOM
 	applymovement LOCALID_MOM, NewBarkTown_PlayersHouse_1F_MomMovement_1
 	waitmovement 0

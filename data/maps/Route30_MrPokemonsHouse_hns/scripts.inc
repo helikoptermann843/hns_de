@@ -10,6 +10,7 @@ MrPokemonHouse_EventScript_GiveEgg::
 	lock
 	playse SE_PIN
 	applymovement LOCALID_MRPOKEMON, Common_Movement_ExclamationMark	
+	delay 55
 	waitmovement LOCALID_MRPOKEMON
 	turnobject LOCALID_MRPOKEMON, DIR_SOUTH
 	msgbox MrPokemonHouse_Text_Intro1, MSGBOX_DEFAULT

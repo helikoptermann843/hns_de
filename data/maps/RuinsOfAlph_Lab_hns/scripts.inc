@@ -66,6 +66,7 @@ RuinsOfAlph_Lab_EventScript_NoticeRootFossil::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_RUINS_FOSSIL_SCIENTIST
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_Delay48
 	waitmovement 0
@@ -95,6 +96,7 @@ RuinsOfAlph_Lab_EventScript_NoticeClawFossil::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_RUINS_FOSSIL_SCIENTIST
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_Delay48
 	waitmovement 0
@@ -124,6 +126,7 @@ RuinsOfAlph_Lab_EventScript_NoticeHelixFossil::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_RUINS_FOSSIL_SCIENTIST
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_Delay48
 	waitmovement 0
@@ -153,6 +156,7 @@ RuinsOfAlph_Lab_EventScript_NoticeDomeFossil::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_RUINS_FOSSIL_SCIENTIST
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_Delay48
 	waitmovement 0
@@ -182,6 +186,7 @@ RuinsOfAlph_Lab_EventScript_NoticeOldAmber::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_RUINS_FOSSIL_SCIENTIST
 	applymovement LOCALID_RUINS_FOSSIL_SCIENTIST, Common_Movement_Delay48
 	waitmovement 0

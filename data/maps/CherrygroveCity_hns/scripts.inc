@@ -13,6 +13,7 @@ CherryGroveCity_EventScript_TriggerGent_Top::
 	setflag FLAG_HIDE_CHERRYGROVE_GUIDE_GENT_HOUSE
 	playse SE_PIN
 	applymovement LOCALID_GUIDE_GENT, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_GUIDE_GENT
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	msgbox CherrygroveCity_Text_GuideGentIntro, MSGBOX_YESNO
@@ -34,6 +35,7 @@ CherryGroveCity_EventScript_TriggerGent_Mid::
 	setflag FLAG_HIDE_CHERRYGROVE_GUIDE_GENT_HOUSE
 	playse SE_PIN
 	applymovement LOCALID_GUIDE_GENT, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_GUIDE_GENT
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	msgbox CherrygroveCity_Text_GuideGentIntro, MSGBOX_YESNO
@@ -54,6 +56,7 @@ CherryGroveCity_EventScript_TriggerGent_Bottom::
 	setflag FLAG_HIDE_CHERRYGROVE_GUIDE_GENT_HOUSE
 	playse SE_PIN
 	applymovement LOCALID_GUIDE_GENT, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_GUIDE_GENT
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	msgbox CherrygroveCity_Text_GuideGentIntro, MSGBOX_YESNO
@@ -255,6 +258,7 @@ CherryGroveCity_Silver_AfterBattle::
 	waitmovement 0
 	playse SE_PIN
 	applymovement LOCALID_CHERRYGROVE_SILVER, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_CHERRYGROVE_SILVER
 	turnobject LOCALID_CHERRYGROVE_SILVER, DIR_EAST
 	delay 60

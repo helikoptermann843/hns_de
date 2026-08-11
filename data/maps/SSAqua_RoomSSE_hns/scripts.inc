@@ -22,6 +22,7 @@ SSAqua_RoomSSE_EventScript_ReuinionScene::
     turnobject LOCALID_SSAQUA_ROOM_SSE_GRANDFATHER, DIR_SOUTH
     playse SE_PIN
     applymovement LOCALID_SSAQUA_ROOM_SSE_GRANDFATHER, Common_Movement_ExclamationMark
+    delay 55
     waitmovement LOCALID_SSAQUA_ROOM_SSE_GRANDFATHER
 	applymovement LOCALID_SSAQUA_ROOM_SSE_GRANDDAUGTHER, SSAqua_RoomSSE_Movement_GirlEnter
     waitmovement 0

@@ -47,6 +47,7 @@ SproutTower_3F_EventScript_TriggerSceneLeft::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	delay 55
 	waitmovement LOCALID_SPROUT_TOWER_SILVER
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverLeft
 	waitmovement 0
@@ -77,6 +78,7 @@ SproutTower_3F_EventScript_TriggerSceneRight::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_SPROUT_TOWER_SILVER, Common_Movement_ExclamationMark	
+	delay 55
 	waitmovement LOCALID_SPROUT_TOWER_SILVER
 	applymovement LOCALID_SPROUT_TOWER_SILVER, SproutTower_3F_Movement_SilverRight
 	waitmovement 0

@@ -34,6 +34,7 @@ CianwoodCity_EventScript_Flytrigger::
 	lock
 	playse SE_PIN
 	applymovement LOCALID_CIANWOOD_CHUCKSWIFE, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_CIANWOOD_CHUCKSWIFE
 	applymovement LOCALID_CIANWOOD_CHUCKSWIFE, CianwoodCity_Movement_ChucksWife
 	waitmovement 0
