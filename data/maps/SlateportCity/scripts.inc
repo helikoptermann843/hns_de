@@ -1356,12 +1356,12 @@ SlateportCity_Text_MaybeThisTrainer:
 SlateportCity_Text_LetsRegisterEachOther:
 	.string "Scott: Sehr gut! Ich denke, wir werden\n"
 	.string "gute Freunde werden. \p"
-	.string "Wir sollten uns in unseren Pokénavs\n"
+	.string "Wir sollten uns in unseren PokéComs\n"
 	.string "eintragen. \p"
 	.string "… … … … …\n…$"
 
 SlateportCity_Text_RegisteredScott:
-	.string "Dieser Scott wurde im Pokénav-\n"
+	.string "Dieser Scott wurde im PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:

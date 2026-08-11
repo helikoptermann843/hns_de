@@ -80,7 +80,7 @@ MeteorFalls_1F_2R_Text_NicolasPostBattle:
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
 	.string "Von dir möchte ich noch mehr erfahren.\n"
-	.string "Ich trage dich in meinen Pokénav ein.$"
+	.string "Ich trage dich in meinen PokéCom ein.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
 	.string "Seit wir uns das letzte Mal gesehen\n"

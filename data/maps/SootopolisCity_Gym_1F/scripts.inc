@@ -260,7 +260,7 @@ SootopolisCity_Gym_1F_Text_ExplainWaterPulse:
 	.string "… … … … … …$"
 
 SootopolisCity_Gym_1F_Text_RegisteredJuan:
-	.string "Arenaleiter Juan  wurde im Pokénav-\n"
+	.string "Arenaleiter Juan  wurde im PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"
 
 SootopolisCity_Gym_1F_Text_JuanPostBattle:

@@ -358,14 +358,14 @@ PlayersHouse_1F_Text_DontPushYourselfTooHard:
 
 PlayersHouse_1F_Text_IsThatAPokenav:
 	.string "Mutter: Was hast du denn da Schönes?\n"
-	.string "Einen Pokénav? Den hat dir jemand von\l"
+	.string "Einen PokéCom? Den hat dir jemand von\l"
 	.string "Devon gegeben?\p"
 	.string "Und, Liebling? Möchtest du nicht deine\n"
 	.string "Mutter ins Verzeichnis aufnehmen?\p"
 	.string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom:
-	.string "Mutter wurde im Pokénav-Verzeichnis\n"
+	.string "Mutter wurde im PokéCom-Verzeichnis\n"
 	.string "eingetragen.$"
 
 PlayersHouse_1F_Text_Vigoroth1:

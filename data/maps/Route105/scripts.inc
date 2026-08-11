@@ -89,7 +89,7 @@ Route104_Text_DadPokenavCall:
 	.string "sehr windig.\p"
 	.string "Ich habe gerade von Mr. Trumm von\n"
 	.string "Devon erfahren, dass du einen\l"
-	.string "besonderen Pokénav hast, daher\l"
+	.string "besonderen PokéCom hast, daher\l"
 	.string "rufe ich dich an.\p"
 	.string "Du hörst dich an, als ginge es dir\n"
 	.string "gut. Dann bin ich beruhigt.\p"
@@ -100,5 +100,5 @@ Route104_Text_DadPokenavCall:
 	.string "Klick!$"
 
 Route104_Text_RegisteredDadInPokenav:
-	.string "Vater Norman wurde im Pokénav-\n"
+	.string "Vater Norman wurde im PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"

@@ -608,7 +608,7 @@ MossdeepCity_Gym_Text_ExplainCalmMind:
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
 	.string "Arenaleiter Ben und Svenja wurden im\n"
-	.string "Pokénav-Verzeichnis eingetragen.$"
+	.string "PokéCom-Verzeichnis eingetragen.$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
 	.string "Ben: Es scheint, als sei das Band\n"

@@ -1090,15 +1090,15 @@ Route104_Text_TrainerTipsDoubleBattles:
 
 Route104_Text_MayWeShouldRegister:
 	.string "Maike: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "Devon hat deinen Pokénav mit einem\n"
+	.string "Devon hat deinen PokéCom mit einem\n"
 	.string "Trainer/Ruf-System ausgestattet?\p"
 	.string "Wir sollten uns gegenseitig eintragen,\n"
 	.string "dann können wir jederzeit miteinander\l"
 	.string "reden.$"
 
 Route104_Text_RegisteredMay:
-	.string "{PLAYER} trägt Maike in das Pokénav-\n"
-	.string "Verzeichnis ein.$"
+	.string "{PLAYER} trägt Maike in das\n"
+	.string "PokéCom-Verzeichnis ein.$"
 
 Route104_Text_MayHowsYourPokedex:
 	.string "Maike: Und, {PLAYER}{KUN}?\n"
@@ -1143,7 +1143,7 @@ Route104_Text_MayPostBattle:
 
 Route104_Text_BrendanWeShouldRegister:
 	.string "Brix: Hey, {PLAYER}!\p"
-	.string "Cool! Devon hat deinen Pokénav mit\n"
+	.string "Cool! Devon hat deinen PokéCom mit\n"
 	.string "einem Trainer/Ruf-System\l"
 	.string "ausgestattet?\p"
 	.string "Wir sollten uns gegenseitig eintragen,\n"
@@ -1151,8 +1151,8 @@ Route104_Text_BrendanWeShouldRegister:
 	.string "reden.$"
 
 Route104_Text_RegisteredBrendan:
-	.string "{PLAYER} trägt Brix in das Pokénav-\n"
-	.string "Verzeichnis ein.$"
+	.string "{PLAYER} trägt Brix in das\n"
+	.string "PokéCom-Verzeichnis ein.$"
 
 Route104_Text_BrendanHowsYourPokedex:
 	.string "Brix: {PLAYER}, wie sieht es mit\n"

@@ -17,12 +17,12 @@ Route102_Text_CalvinRegister:
 	.string "dich das letzte Mal gesehen habe!\p"
 	.string "Ich würde gerne wieder gegen dich\n"
 	.string "kämpfen. Kannst du mich bitte in deinen\l"
-	.string "Pokénav eintragen?$"
+	.string "PokéCom eintragen?$"
 
 Route102_Text_CalvinRegisterShort:
 	.string "Ich würde gerne wieder gegen dich\n"
 	.string "kämpfen. Kannst du mich bitte in deinen\l"
-	.string "Pokénav eintragen?$"
+	.string "PokéCom eintragen?$"
 
 Route102_Text_CalvinRematchIntro:
 	.string "Seit ich gegen dich verloren habe,\n"
@@ -334,13 +334,13 @@ Route104_Text_HaleyPostBattle:
 
 Route104_Text_HaleyRegister1:
 	.string "Du bist stark, aber soll ich dich\n"
-	.string "wirklich in meinen Pokénav eintragen?\l"
+	.string "wirklich in meinen PokéCom eintragen?\l"
 	.string "Vielleicht lieber nicht…\p"
 	.string "Ach, sicher. Ich trage dich ein!$"
 
 Route104_Text_HaleyRegister2:
 	.string "Du bist stark, aber soll ich dich\n"
-	.string "wirklich in meinem Pokénav eintragen?\l"
+	.string "wirklich in meinem PokéCom eintragen?\l"
 	.string "Vielleicht lieber nicht…\p"
 	.string "Ach, sicher. Ich trage dich ein!$"
 
@@ -369,13 +369,13 @@ Route104_Text_WinstonPostBattle:
 
 Route104_Text_WinstonRegister1:
 	.string "Hm?\n"
-	.string "Oh, du hast einen Pokénav erhalten.\p"
+	.string "Oh, du hast einen PokéCom erhalten.\p"
 	.string "Ich werde dich sofort eintragen.\n"
 	.string "Schließlich habe ich sehr viel Geld.$"
 
 Route104_Text_WinstonRegister2:
 	.string "Hm?\n"
-	.string "Oh, du hast einen Pokénav erhalten.\p"
+	.string "Oh, du hast einen PokéCom erhalten.\p"
 	.string "Ich werde dich sofort eintragen.\n"
 	.string "Schließlich habe ich sehr viel Geld.$"
 
@@ -408,13 +408,13 @@ Route104_Text_CindyPostBattle:
 Route104_Text_CindyRegister1:
 	.string "Hallo, so trifft man sich wieder.\p"
 	.string "Irgendwie scheinen wir uns anzuziehen.\n"
-	.string "Wir sollten uns in unsere Pokénavs\l"
+	.string "Wir sollten uns in unsere PokéComs\l"
 	.string "eintragen.$"
 
 Route104_Text_CindyRegister2:
 	.string "Wir sollten uns stets daran erinnern,\n"
 	.string "wie wir uns gegenseitig anziehen.\p"
-	.string "Wir sollten uns in unsere Pokénavs\n"
+	.string "Wir sollten uns in unsere PokéComs\n"
 	.string "eintragen.$"
 
 Route104_Text_CindyRematchIntro:
@@ -527,7 +527,7 @@ Route105_Text_AndresPostBattle:
 
 Route105_Text_AndresRegister:
 	.string "Echt? Ich bin so schwach und trotzdem\n"
-	.string "möchtest du mich in deinen Pokénav\l"
+	.string "möchtest du mich in deinen PokéCom\l"
 	.string "eintragen?$"
 
 Route105_Text_AndresRematchIntro:
@@ -800,7 +800,7 @@ Route108_Text_CoryPostBattle:
 
 Route108_Text_CoryRegister:
 	.string "Ich liebe auch starke Trainer.\n"
-	.string "Trag mich in deinen Pokénav ein!$"
+	.string "Trag mich in deinen PokéCom ein!$"
 
 Route108_Text_CoryRematchIntro:
 	.string "Sieg oder Niederlage… Ich liebe es, im\n"
@@ -1354,7 +1354,7 @@ Route111_Text_DustyRegister:
 	.string "Ich habe noch nie nach starken Pokémon\n"
 	.string "gesucht.\p"
 	.string "Aber trotzdem finde ich so einen\n"
-	.string "Pokénav absolut klasse.$"
+	.string "PokéCom absolut klasse.$"
 
 Route111_Text_DustyRematchIntro:
 	.string "Seit 30 Jahren suche ich nach antiken\n"
@@ -1595,7 +1595,7 @@ Route112_Text_TrentRegister:
 	.string "Au, ich habe Krämpfe in den Beinen!\n"
 	.string "Kannst du mir bitte Bandagen aus\l"
 	.string "meinem Rucksack geben?\p"
-	.string "Nein, das ist mein Pokénav.\n"
+	.string "Nein, das ist mein PokéCom.\n"
 	.string "Ich trage dich ins Verzeichnis ein.$"
 
 Route112_Text_TrentRematchIntro:
@@ -1706,7 +1706,7 @@ Route113_Text_MadelinePostBattle:
 
 Route113_Text_MadelineRegister:
 	.string "Komm unter meinen Sonnenschirm.\n"
-	.string "Ich trage dich in meinen Pokénav ein.$"
+	.string "Ich trage dich in meinen PokéCom ein.$"
 
 Route113_Text_MadelineRematchIntro:
 	.string "Oh, hallo, wir haben uns ja ewig nicht\n"
@@ -1733,7 +1733,7 @@ Route113_Text_LaoPostBattle:
 
 Route113_Text_LaoRegister:
 	.string "Yiihaa! Werde Zeuge der Registrierung\n"
-	.string "auf traditionelle Ninja-Art im Pokénav.$"
+	.string "auf traditionelle Ninja-Art im PokéCom.$"
 
 Route113_Text_LaoRematchIntro:
 	.string "Erhebe ich mich aus der Asche, hast du\n"
@@ -1942,7 +1942,7 @@ Route114_Text_BerniePostBattle:
 
 Route114_Text_BernieRegister:
 	.string "Du hast meinen Kampfgeist entfacht.\n"
-	.string "Wir sollten uns gegenseitig im Pokénav\l"
+	.string "Wir sollten uns gegenseitig im PokéCom\l"
 	.string "eintragen.$"
 
 Route114_Text_BernieRematchIntro:
@@ -2307,14 +2307,14 @@ Route116_Text_JerryPostBattle:
 
 Route116_Text_JerryRegister1:
 	.string "In der Trainerschule habe ich gelernt,\n"
-	.string "dass man im Pokénav Trainer eintragen\l"
+	.string "dass man im PokéCom Trainer eintragen\l"
 	.string "kann.\p"
 	.string "Und wozu macht man das? Darf ich das\n"
 	.string "mal ausprobieren?$"
 
 Route116_Text_JerryRegister2:
 	.string "In der Trainerschule habe ich gelernt,\n"
-	.string "dass man im Pokénav Trainer eintragen\l"
+	.string "dass man im PokéCom Trainer eintragen\l"
 	.string "kann.\p"
 	.string "Und wozu macht man das? Darf ich das\n"
 	.string "mal ausprobieren?$"
@@ -2346,11 +2346,11 @@ Route116_Text_KarenPostBattle:
 	.string "Trainer wie Felizia!$"
 
 Route116_Text_KarenRegister1:
-	.string "Hey! Das ist doch ein Pokénav! Ich habe\n"
+	.string "Hey! Das ist doch ein PokéCom! Ich habe\n"
 	.string "auch einen! Komm, trag mich ein!$"
 
 Route116_Text_KarenRegister2:
-	.string "Hey! Das ist doch ein Pokénav! Ich habe\n"
+	.string "Hey! Das ist doch ein PokéCom! Ich habe\n"
 	.string "auch einen! Komm, trag mich ein!$"
 
 Route116_Text_KarenRematchIntro:
@@ -2687,7 +2687,7 @@ Route118_Text_RosePostBattle:
 
 Route118_Text_RoseRegister:
 	.string "Schnief… Dieser Geruch… Das ist ein\n"
-	.string "Pokénav! Wir müssen uns gegenseitig\l"
+	.string "PokéCom! Wir müssen uns gegenseitig\l"
 	.string "eintragen!$"
 
 Route118_Text_RoseRematchIntro:
@@ -2918,7 +2918,7 @@ Route119_Text_CatherinePostBattle:
 	.string "und körperlichen Kraft angekommen.$"
 
 Route119_Text_CatherineRegister:
-	.string "Hast du einen Pokénav?\n"
+	.string "Hast du einen PokéCom?\n"
 	.string "Jeder Trainer sollte so einen besitzen!\p"
 	.string "Hey, du hast ja einen! Dann sollten wir\n"
 	.string "uns gegenseitig eintragen.$"
@@ -3080,7 +3080,7 @@ Route120_Text_RobertPostBattle:
 
 Route120_Text_RobertRegister:
 	.string "Du wirst mit Sicherheit immer besser.\n"
-	.string "Ich würde dich gerne in meinen Pokénav\l"
+	.string "Ich würde dich gerne in meinen PokéCom\l"
 	.string "eintragen.$"
 
 Route120_Text_RobertRematchIntro:
@@ -3288,7 +3288,7 @@ Route121_Text_WalterPostBattle:
 Route121_Text_WalterRegister:
 	.string "Die Tapferkeit deiner Pokémon ist\n"
 	.string "bemerkenswert. Ich würde dich gerne\l"
-	.string "zur Erinnerung im Pokénav eintragen.$"
+	.string "zur Erinnerung im PokéCom eintragen.$"
 
 Route121_Text_WalterRematchIntro:
 	.string "Mit meinem Pokémon habe ich alle vier\n"
@@ -3394,7 +3394,7 @@ Route121_Text_CristinPostBattle:
 Route121_Text_CristinRegister:
 	.string "Das war einfach nur peinlich!\n"
 	.string "Ich werde dich nicht vergessen…\l"
-	.string "Gib mir deinen Pokénav!$"
+	.string "Gib mir deinen PokéCom!$"
 
 Route121_Text_CristinRematchIntro:
 	.string "Ich habe ein neues Prinzip. Jeden Tag\n"
@@ -3519,7 +3519,7 @@ Route123_Text_CameronRegister:
 	.string "Wir beide - du und ich - werden\l"
 	.string "gegeneinander antreten.\p"
 	.string "Ich weiß aber nicht, ob ich gewinnen\n"
-	.string "werde… Zeig mir deinen Pokénav.$"
+	.string "werde… Zeig mir deinen PokéCom.$"
 
 Route123_Text_CameronRematchIntro:
 	.string "Ich habe mich selbst davon überzeugt,\n"
@@ -3743,7 +3743,7 @@ Route124_Text_SpencerPostBattle:
 	.string "Viele Menschen verlieren auf dem Meer\n"
 	.string "die Orientierung.\p"
 	.string "Wenn du zu denen gehörst, solltest du\n"
-	.string "die Karte des PokéNav zu Hilfe nehmen.$"
+	.string "die Karte des PokéCom zu Hilfe nehmen.$"
 
 Route124_Text_RolandIntro:
 	.string "Hm! Du sitzt auf einem Pokémon, anstatt\n"
@@ -3778,7 +3778,7 @@ Route124_Text_JennyPostBattle:
 Route124_Text_JennyRegister:
 	.string "Vielleicht ist es ja nur eine Marotte\n"
 	.string "von mir, aber ich möchte gerne, dass du\l"
-	.string "mich in deinen Pokénav einträgst.$"
+	.string "mich in deinen PokéCom einträgst.$"
 
 Route124_Text_JennyRematchIntro:
 	.string "Wenn du dich hier treiben lässt, triffst\n"
@@ -3988,7 +3988,7 @@ Route125_Text_ErnestPostBattle:
 	.string "Flut und Ebbe immer 6 Stunden liegen?$"
 
 Route125_Text_ErnestRegister:
-	.string "Trag mich in deinen Pokénav ein und ich\n"
+	.string "Trag mich in deinen PokéCom ein und ich\n"
 	.string "verrate dir etwas.$"
 
 Route125_Text_ErnestRematchIntro:
@@ -4318,7 +4318,7 @@ Route128_Text_IsaiahPostBattle:
 Route128_Text_IsaiahRegister:
 	.string "Noch bin ich nicht gut genug, aber\n"
 	.string "irgendwann werde ich gewinnen!\p"
-	.string "Bitte trag mich in deinen Pokénav ein.$"
+	.string "Bitte trag mich in deinen PokéCom ein.$"
 
 Route128_Text_IsaiahRematchIntro:
 	.string "Ich fühle mich gut. Ich werde weiter\n"

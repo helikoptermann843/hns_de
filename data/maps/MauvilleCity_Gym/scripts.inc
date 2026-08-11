@@ -380,7 +380,7 @@ MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
-	.string "Arenaleiter Walter wurde im Pokénav-\n"
+	.string "Arenaleiter Walter wurde im PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:

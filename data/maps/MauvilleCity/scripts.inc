@@ -558,7 +558,7 @@ MauvilleCity_Text_WallyPokenavCall:
 	.string "…\l… … … … …\l…\p"
 	.string "Heiko: Oh, hallo {PLAYER}!\p"
 	.string "Ich muss dir was erzählen! Mein\n"
-	.string "Onkel hat mir einen Pokénav\l"
+	.string "Onkel hat mir einen PokéCom\l"
 	.string "gegeben.\p"
 	.string "Nun kann ich mit dir reden, wann\n"
 	.string "immer ich möchte, {PLAYER}!\p"
@@ -566,7 +566,7 @@ MauvilleCity_Text_WallyPokenavCall:
 	.string "…\l… … … … …\lKlick!$"
 
 MauvilleCity_Text_RegisteredWally:
-	.string "Heiko wurde im Pokénav-Verzeichnis\n"
+	.string "Heiko wurde im PokéCom-Verzeichnis\n"
 	.string "eingetragen.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:

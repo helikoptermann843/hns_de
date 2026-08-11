@@ -268,7 +268,7 @@ RustboroCity_Gym_Text_RoxanneRegisterCall:
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
 	.string "Arenaleiterin Felizia wurde im\n"
-	.string "Pokénav-Verzeichnis eingetragen.$"
+	.string "PokéCom-Verzeichnis eingetragen.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
 	.string "Felizia: Ich freue mich, dich wieder\n"

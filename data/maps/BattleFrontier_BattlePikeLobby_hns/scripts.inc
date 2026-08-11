@@ -434,7 +434,7 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading_hns:
 	.string "Wähle bitte ein Themengebiet aus.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules_hns:
-	.string "Beutel und Pokénav dürfen nicht\n"
+	.string "Beutel und PokéCom dürfen nicht\n"
 	.string "auf die Kampfbahn mitgenommen werden.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules_hns:
