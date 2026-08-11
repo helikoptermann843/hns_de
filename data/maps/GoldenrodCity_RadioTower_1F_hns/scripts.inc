@@ -263,8 +263,8 @@ RadioTower1F_Text_Directory:
 	.string "Produktion 4S: Büro des Intendanten$"
 
 RadioTower1F_Text_GotRadio:
-	.string "{PLAYER} got the RADIO CARD\n"
-	.string "for the POKéGEAR!$"
+	.string "{PLAYER} erhält das Radio-Modul\n"
+	.string "für den PokéCom!$"
 
 GoldenrodCity_RadioTower_1F_EventScript_LotteryClerk::
 	lock
