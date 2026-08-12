@@ -830,7 +830,7 @@ void AnimTask_ThrowBall_StandingTrainer(u8 taskId)
     else
     {
         x = 23;
-        y = 5;
+        y = 10;
     }
 
     ballId = ItemIdToBallId(gLastUsedItem);

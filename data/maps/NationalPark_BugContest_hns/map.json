@@ -828,6 +828,14 @@
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "NationalPark_BugContest_EventScript_Trash"
+    },
+    {
+      "type": "sign",
+      "x": 34,
+      "y": 42,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "NationalPark_BugContest_EventScript_Trash"
     }
   ],
   "game_version": "hns",

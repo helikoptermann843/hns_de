@@ -563,7 +563,7 @@ RuinsOfAlph_Lab_EventScript_FinishReceivingAero::
 RuinsOfAlph_Lab_EventScript_ChooseFossil::
 	message RuinsOfAlph_Lab_Text_TwoFossilsPickOne
 	waitmessage
-	multichoice 17, 0, MULTI_FOSSIL, FALSE
+	multichoice 17, 0, MULTI_FOSSIL_HNS, FALSE
 	switch VAR_RESULT
 	case 0, RuinsOfAlph_Lab_EventScript_ChooseClawFossil
 	case 1, RuinsOfAlph_Lab_EventScript_ChooseRootFossil

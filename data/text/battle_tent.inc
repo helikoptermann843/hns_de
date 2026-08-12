@@ -1,8 +1,16 @@
+
+#if IS_HNS
+FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
+	.string "Willkommen im Kampfcamp!\p"
+	.string "Ich begleite dich zu dem K.O.-\n"
+	.string "Teamturnier.$"
+#else
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Willkommen im Kampfcamp von\n"
 	.string "Laubwechselfeld!\p"
 	.string "Ich begleite dich zu dem K.O.-\n"
 	.string "Teamturnier.$"
+#endif
 
 FallarborTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Möchtest du dich der Herausforderung\n"
@@ -119,12 +127,18 @@ FallarborTown_BattleTentLobby_Text_LookingForwardToArrival:
 	.string "wird dein Spiel gespeichert.\l"
 	.string "Bitte warten.$"
 
+#if IS_HNS
+VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
+	.string "Willkommen im Kampfcamp!\p"
+	.string "Hier wird das Vertrauen der Trainer in\n"
+	.string "ihre Pokémon getestet.$"
+#else
 VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Willkommen im Kampfcamp von\n"
 	.string "Wiesenflur!\p"
 	.string "Hier wird das Vertrauen der Trainer in\n"
 	.string "ihre Pokémon getestet.$"
-
+#endif
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
 	.string "Möchtest du dich der Herausforderung\n"
 	.string "des Wiesenflur Kampfcamps stellen?$"
@@ -211,11 +225,19 @@ VerdanturfTown_BattleTentLobby_Text_PresentYouWithPrize:
 	.string "Für deinen dreifachen Sieg bekommst du\n"
 	.string "von uns diesen Preis überreicht.$"
 
+
+#if IS_HNS
+SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
+	.string "Willkommen im Kampfcamp!\p"
+	.string "Ich begleite dich zum Wechselkampf-\n"
+	.string "Turnier.$"
+#else
 SlateportCity_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Willkommen im Kampfcamp von\n"
 	.string "Graphitport City.\p"
 	.string "Ich begleite dich zum Wechselkampf-\n"
 	.string "Turnier.$"
+#endif
 
 SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "Möchtest du am Wechselkampf\n"

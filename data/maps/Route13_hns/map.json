@@ -249,15 +249,7 @@
     },
     {
       "type": "sign",
-      "x": 70,
-      "y": 16,
-      "elevation": 0,
-      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
-      "script": "Route13_EventScript_TrainerTips"
-    },
-    {
-      "type": "sign",
-      "x": 52,
+      "x": 54,
       "y": 20,
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",

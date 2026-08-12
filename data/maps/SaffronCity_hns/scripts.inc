@@ -11,12 +11,14 @@ SaffronCity_EventScript_CityEnter::
 	end
 
 SaffronCity_EventScript_BaobaCall::
+	lock
 	setspeaker SaffronCity_Text_BaobaName
 	pokenavcall SaffronCity_Text_Baoba
 	waitmessage
 	delay 30
 	setflag FLAG_SAFARI_ZONE_EAST_EXPANSION
 	setvar VAR_SAFFRON_CITY_STATE, 1
+	release
 	end
 
 SaffronCity_Text_BaobaName:

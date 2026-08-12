@@ -1,7 +1,6 @@
 {
   "id": "MAP_TRAINER_HILL_ENTRANCE_HNS",
   "name": "TrainerHill_Entrance_hns",
-  "game_version": "hns",
   "layout": "LAYOUT_TRAINER_HILL_ENTRANCE_HNS",
   "music": "MUS_HG_POKEATHLON_LOBBY",
   "region_map_section": "MAPSEC_TRAINER_HILL",
@@ -166,6 +165,15 @@
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_NORTH",
       "script": "TrainerHill_Entrance_hns_EventScript_Records"
+    },
+    {
+      "type": "sign",
+      "x": 5,
+      "y": 10,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "CherryGrove_Pokecenter_Chansey"
     }
-  ]
+  ],
+  "game_version": "hns"
 }

@@ -1262,10 +1262,14 @@ static void CreateMatchCallBlueLightSprite(void)
     struct Pokenav_MenuGfx *gfx = GetSubstructPtr(POKENAV_SUBSTRUCT_MENU_GFX);
     u8 spriteId = CreateSprite(&sMatchCallBlueLightSpriteTemplate, 0x10, 0x60, 4);
     gfx->blueLightSprite = &gSprites[spriteId];
+#if IS_HNS
+    gfx->blueLightSprite->invisible = TRUE;
+#else
     if (AreAnyTrainerRematchesNearby())
         gfx->blueLightSprite->callback = SpriteCB_BlinkingBlueLight;
     else
         gfx->blueLightSprite->invisible = TRUE;
+#endif
 }
 
 static void DestroyRematchBlueLightSprite(void)
