@@ -871,24 +871,23 @@ bool32 IsRandomizationPossible(u16 originalSpecies, u16 targetSpecies)
     return TRUE;
 }
 
-u16 RandomizeTrainerMon(u16 trainerId, u8 slot, u8 totalMons, u16 species)
+u16 RandomizeTrainerMon(u8 trainerClass, u8 slot, u8 totalMons, u16 species)
 {
     if (RandomizerFeatureEnabled(RANDOMIZE_TRAINER_MON))
     {
-        u8 trainerClass = GetTrainerClassFromId(trainerId);
- 
         // Arenaleiter, Rivale, Top Vier und Champion von der Randomisierung ausnehmen
         if (trainerClass == TRAINER_CLASS_LEADER_HNS
             || trainerClass == TRAINER_CLASS_LEADER_KANTO_HNS
             || trainerClass == TRAINER_CLASS_RIVAL_HNS
             || trainerClass == TRAINER_CLASS_ELITE_FOUR_HNS
+            || trainerClass == TRAINER_CLASS_ROCKET_ADMIN_HNS
             || trainerClass == TRAINER_CLASS_CHAMPION_HNS)
         {
             return species;
         }
- 
+
         u32 seed;
-        seed = (u32)trainerId << 16;
+        seed = (u32)trainerClass << 16;
         seed |= (u32)totalMons << 8;
         seed |= slot;
         return RandomizeMon(RANDOMIZER_REASON_TRAINER_PARTY, GetRandomizerOption(RANDOMIZER_OPTION_SPECIES_MODE), seed, species);
