@@ -605,6 +605,16 @@ static const struct MenuAction MultichoiceList_Fossil[] =
     {gText_Exit},
 };
 
+static const struct MenuAction MultichoiceList_FossilHns[] =
+{
+    {COMPOUND_STRING("CLAW FOSSIL")},
+    {COMPOUND_STRING("ROOT FOSSIL")},
+    {COMPOUND_STRING("HELIX FOSSIL")},
+    {COMPOUND_STRING("DOME FOSSIL")},
+    {COMPOUND_STRING("OLD AMBER")},
+    {gText_Exit},
+};
+
 static const struct MenuAction MultichoiceList_YesNo[] =
 {
     {gText_Yes},
@@ -1419,6 +1429,7 @@ static const struct MultichoiceListStruct sMultichoiceLists[] =
     [MULTI_MOM_MENU]                   = MULTICHOICE(MultichoiceList_MomMenu),
     [MULTI_LINK_SERVICES_HNS]          = MULTICHOICE(MultichoiceList_LinkServicesHns),
     [MULTI_BATTLE_MODE_HNS]            = MULTICHOICE(MultichoiceList_BattleModeHns),
+    [MULTI_FOSSIL_HNS]                = MULTICHOICE(MultichoiceList_FossilHns),
 
 };
 

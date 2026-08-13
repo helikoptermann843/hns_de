@@ -399,6 +399,7 @@ static void DeleteTextCharacter(void);
 static bool8 AddTextCharacter(void);
 static void BufferCharacter(u8);
 static void SaveInputText(void);
+static bool8 IsInputTextWhitespace(void);
 static void LoadGfx(void);
 static void CreateHelperTasks(void);
 static void LoadPalettes(void);
@@ -1680,7 +1681,7 @@ static bool8 KeyboardKeyHandler_Backspace(u8 input)
 static bool8 KeyboardKeyHandler_OK(u8 input)
 {
     TryStartButtonFlash(BUTTON_OK, TRUE, FALSE);
-    if (IsNuzlockeNicknamingActive() && GetTextEntryPosition() == 0)
+    if (IsNuzlockeNicknamingActive() && (sNamingScreen->templateNum == NAMING_SCREEN_CAUGHT_MON || sNamingScreen->templateNum == NAMING_SCREEN_NICKNAME) && (GetTextEntryPosition() == 0 || IsInputTextWhitespace()))
         return FALSE;
     if (input == INPUT_A_BUTTON)
     {
@@ -2021,6 +2022,21 @@ static void BufferCharacter(u8 ch)
 {
     u8 index = GetTextEntryPosition();
     sNamingScreen->textBuffer[index] = ch;
+}
+
+static bool8 IsInputTextWhitespace(void)
+{
+    u8 i;
+
+    for (i = 0; i < sNamingScreen->template->maxChars; i++)
+    {
+        if (sNamingScreen->textBuffer[i] != CHAR_SPACE && sNamingScreen->textBuffer[i] != EOS)
+        {
+            return FALSE;
+        }
+    }
+
+    return TRUE;
 }
 
 static void SaveInputText(void)

@@ -112,6 +112,7 @@ MahoganyTown_EventScript_MerchantTrigger::
 	turnobject LOCALID_MAHOGANY_MERCHANT, DIR_SOUTH
 	playse SE_PIN
 	applymovement LOCALID_MAHOGANY_MERCHANT, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_MAHOGANY_MERCHANT
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	getplayerxy VAR_TEMP_0, VAR_TEMP_1

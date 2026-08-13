@@ -79,7 +79,11 @@ const struct EasyChatWordInfo gEasyChatGroup_Trainer[] = {
     },
     [EC_INDEX(EC_WORD_POKENAV)] =
     {
+#if IS_HNS
+        .text = COMPOUND_STRING("PokéCom"),
+#else
         .text = COMPOUND_STRING("Pokénav"),
+#endif
         .alphabeticalOrder = EC_INDEX(EC_WORD_LEVEL),
         .enabled = TRUE,
     },

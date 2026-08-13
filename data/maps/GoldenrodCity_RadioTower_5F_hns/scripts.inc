@@ -75,6 +75,7 @@ GoldenrodCity_RadioTower_5F_EventScript_Director::
 
 	playse SE_PIN
 	applymovement LOCALID_DIRECTOR_STUDIO, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_DIRECTOR_STUDIO
 	msgbox GoldenrodCity_RadioTower_5F_Text_DirectorLegendary, MSGBOX_DEFAULT
 	closemessage
@@ -283,6 +284,7 @@ GoldenrodCity_RadioTower_5F_EventScript_GiveClearWing2::
 GoldenrodCity_RadioTower_5F_Fakeout::
 	playse SE_PIN
 	applymovement LOCALID_DIRECTOR_STUDIO, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_DIRECTOR_STUDIO
 	turnobject LOCALID_DIRECTOR_STUDIO, DIR_WEST
 	msgbox GoldenrodCity_RadioTower_5F_Text_DirectorLegendary, MSGBOX_DEFAULT
@@ -291,6 +293,7 @@ GoldenrodCity_RadioTower_5F_Fakeout::
 	waitmovement 0
 	playse SE_PIN
 	applymovement LOCALID_DIRECTOR_STUDIO, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_DIRECTOR_STUDIO
 	turnobject LOCALID_DIRECTOR_STUDIO, DIR_SOUTH
 	msgbox GoldenrodCity_RadioTower_5F_Text_DirectorFakeout, MSGBOX_DEFAULT

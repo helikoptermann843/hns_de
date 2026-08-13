@@ -135,8 +135,8 @@ SafariZone_Text_PokeblockWasPlaced:
 Route121_SafariZoneEntrance_Text_WelcomeToSafariZone:
 	.string "Willkommen in der Safari-Zone!\p"
 	.string "Hier bekommst du viele Pokémon zu\n"
-	.string "Gesicht, die sehr selten in der Hoenn-\l"
-	.string "Region sind.\p"
+	.string "Gesicht, die in dieser Region sehr\l"
+	.string "selten sind.\p"
 	.string "Du kannst sie in ihrer ganzen Wildheit\n"
 	.string "und ungezähmt in ihrer natürlichen\l"
 	.string "Umgebung beobachten.\p"

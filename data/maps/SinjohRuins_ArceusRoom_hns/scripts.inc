@@ -33,6 +33,7 @@ SinjohRuins_ArceusRoom_TriggerScene::
 
 	playse SE_PIN
     applymovement2 LOCALID_PLAYER, Common_Movement_ExclamationMark
+    delay 55
     waitmovement LOCALID_PLAYER
     msgbox SinjohRuins_Lab_Text_PlayFlute, MSGBOX_YESNO
 	closemessage
@@ -86,6 +87,7 @@ SinjohRuins_ArceusRoom_TriggerScene::
 	delay 8
 	playse SE_PIN
 	applymovement LOCALID_PLAYER, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_PLAYER
 	setweather WEATHER_NONE
 	doweather
@@ -279,7 +281,7 @@ SinjohRuins_ArceusRoom_EventScript_Arceus::
 	setflag FLAG_SMART_WILD_AI
 	setflag FLAG_NO_SHINY
 	setwildbossbattle species=SPECIES_ARCEUS_STEEL, level=100, item=ITEM_IRON_PLATE, move1_1=MOVE_JUDGMENT, move1_2=MOVE_HYDRO_PUMP, move1_3=MOVE_RECOVER move1_4=MOVE_DAZZLING_GLEAM
-	settotemboost B_POSITION_OPPONENT_LEFT, 1, 0, 2, 0, 0, 0
+	settotemboost B_POSITION_OPPONENT_LEFT, 2, 2, 2, 2, 2, 2
 	special BattleSetup_StartLegendaryBattle
 	playbgm MUS_HG_VS_ARCEUS, 0
 	waitstate

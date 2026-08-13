@@ -35,8 +35,25 @@ ProfBirch_EventScript_MoveToRoute103::
 ProfBirch_EventScript_RatePokedexOrRegister::
 	lock
 	faceplayer
+#if IS_HNS
+	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 3, ProfBirch_EventScript_GoFindMrPokemon
+	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 4, ProfBirch_EventScript_Robbery
+#else
 	goto_if_unset FLAG_HAS_MATCH_CALL, ProfBirch_EventScript_AskRatePokedex
 	goto_if_unset FLAG_ENABLE_PROF_BIRCH_MATCH_CALL, EventScript_RegisterProfBirch
+#endif
+
+#if IS_HNS
+ProfBirch_EventScript_GoFindMrPokemon::
+	msgbox gElmDexRatingText_GoFindMrPokemon, MSGBOX_DEFAULT
+	release
+	end
+
+ProfBirch_EventScript_Robbery::
+	msgbox gElmDexRatingText_Robbery, MSGBOX_DEFAULT
+	release
+	end
+#endif
 
 ProfBirch_EventScript_AskRatePokedex::
 	msgbox gBirchDexRatingText_AreYouCurious, MSGBOX_YESNO

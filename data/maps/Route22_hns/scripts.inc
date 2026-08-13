@@ -132,6 +132,7 @@ Route22_EventScript_Scene::
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_WEST
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE22_SILVER, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ROUTE22_SILVER
 	msgbox Route22_Text_Silver6, MSGBOX_DEFAULT
 	closemessage

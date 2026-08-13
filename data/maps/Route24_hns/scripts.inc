@@ -48,6 +48,7 @@ Route24_Trigger_GruntScene::
 	lock
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE24_GRUNT Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ROUTE24_GRUNT
 	applymovement2 LOCALID_ROUTE24_GRUNT, Route24_Movement_GruntHide
 	delay 10
@@ -80,6 +81,7 @@ Route24_EventScript_Grunt::
 	closemessage
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE24_GRUNT, Common_Movement_QuestionMark
+	delay 55
 	waitmovement LOCALID_ROUTE24_GRUNT
 	msgbox Route24_Text_RocketDisappears, MSGBOX_DEFAULT
 	closemessage

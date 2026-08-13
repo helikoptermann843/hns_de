@@ -1206,10 +1206,10 @@ MatchCall_PersonalizedText39::
 	.string "Prust… Prust…\p"
 	.string "Hähä! Tut mir Leid! Ich wollte mich\n"
 	.string "gerade mit Sonnenmilch eincremen.\p"
-	.string "Mein Pokénav ist dadurch ganz\n"
+	.string "Mein PokéCom ist dadurch ganz\n"
 	.string "glitschig geworden. Und ins Wasser\l"
 	.string "gefallen. Und ich hinterher…\p"
-	.string "Mann, gut dass der Pokénav so\n"
+	.string "Mann, gut dass der PokéCom so\n"
 	.string "robust ist. Er hat es überlebt!\p"
 	.string "Nun, ich muss jetzt Sonne tanken.\n"
 	.string "Wir reden später weiter. Bye.$"
@@ -2895,7 +2895,7 @@ MatchCall_Text_Wally6::
 	.string "… … … … …\l"
 	.string "…\p"
 	.string "Heiko scheint sich außerhalb der\n"
-	.string "Reichweite des Pokénavs zu\l"
+	.string "Reichweite des PokéComs zu\l"
 	.string "befinden.$"
 
 MatchCall_Text_Wally7::
@@ -2976,7 +2976,7 @@ MatchCall_Text_Scott7::
 	.string "… … … …\l"
 	.string "…\l"
 	.string "Scott scheint sich nicht in Reich-\l"
-	.string "weite des Pokénavs zu befinden.$"
+	.string "weite des PokéComs zu befinden.$"
 
 MatchCall_Text_Norman1::
 	.string "Vater: In Metarost City gibt es\n"
@@ -3110,7 +3110,7 @@ MatchCall_Text_Steven7::
 MatchCall_Text_BirchRegisterCall:
 	.string "Prof. Birk: Oh, {PLAYER}{KUN}!\n"
 	.string "Ich habe es schon gehört!\p"
-	.string "Dein Pokénav wurde um den\n"
+	.string "Dein PokéCom wurde um den\n"
 	.string "Trainer/Ruf erweitert.\p"
 	.string "Nun, dann sollte ich mich bei dir\n"
 	.string "auch registrieren!\p"
@@ -3121,19 +3121,19 @@ MatchCall_Text_BirchRegisterCall:
 	.string "…$"
 
 MatchCall_Text_RegisteredBirch:
-	.string "Prof. Birk wurde im Pokénav-\n"
+	.string "Prof. Birk wurde im PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"
 
 MatchCall_Text_UnusedProfBirch:
 	.string "Prof. Birk: Wenn man sowohl den Pokédex\n"
-	.string "als auch den PokéNav besitzt, macht die\l"
+	.string "als auch den PokéCom besitzt, macht die\l"
 	.string "Erforschung der Pokémon noch mehr\l"
 	.string "Spaß, nicht wahr?$"
 
 MatchCall_Text_MrStone1::
 	.string "Mr. Trumm: Oh? {PLAYER}{KUN}!\p"
 	.string "Da du mich erreicht hast, scheint\n"
-	.string "der Pokénav zu funktionieren!\p"
+	.string "der PokéCom zu funktionieren!\p"
 	.string "Andere werden sich ebenfalls bei\n"
 	.string "dir eintragen lassen, also versuch,\l"
 	.string "diese auch zu erreichen.\p"

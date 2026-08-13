@@ -45,6 +45,7 @@ MahoganyTown_Shop_EventScript_Raid::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_MAHOGANYSHOP_DRAGONITE, Common_Movement_QuestionMark
+	delay 55
 	waitmovement LOCALID_MAHOGANYSHOP_DRAGONITE
 	applymovement LOCALID_MAHOGANYSHOP_DRAGONITE, MahoganyTown_Shop_Movement_DragoniteGotoBox
 	waitmovement 0
@@ -93,6 +94,7 @@ MahoganyTown_Shop_EventScript_Raid::
 
 	playse SE_PIN
 	applymovement LOCALID_MAHOGANYSHOP_ROCKET Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_MAHOGANYSHOP_ROCKET
 	applymovement LOCALID_MAHOGANYSHOP_ROCKET MahoganyTown_Shop_Movement_RocketLeave
 	waitmovement 0

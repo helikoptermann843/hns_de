@@ -427,7 +427,7 @@ DewfordTown_Gym_Text_ExplainBulkUp:
 
 DewfordTown_Gym_Text_RegisteredBrawly:
 	.string "Arenaleiter Kamillo wurde\n"
-	.string "im Pokénav eingetragen.$"
+	.string "im PokéCom eingetragen.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "Ich sehe in dir ein Talent, das eines\n"

@@ -84,7 +84,7 @@ AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons:
 
 AbandonedShip_Rooms2_1F_Text_KiraRegister:
 	.string "Jule: Du machst mich echt wütend!\n"
-	.string "Ich werde dich im Pokénav eintragen.$"
+	.string "Ich werde dich im PokéCom eintragen.$"
 
 AbandonedShip_Rooms2_1F_Text_DanRematchIntro:
 	.string "Max: Wir haben die ganze Zeit nur nach\n"

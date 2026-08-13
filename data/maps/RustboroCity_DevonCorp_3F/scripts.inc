@@ -223,12 +223,12 @@ RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
 	.string "geben.$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
-	.string "{PLAYER} erhält den Pokénav.$"
+	.string "{PLAYER} erhält den PokéCom.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
 	.string "Mr. Trumm: Dieses Gerät…\p"
 	.string "Es ist ein Pokémon Navigator - oder\n"
-	.string "kurz ein Pokénav.\p"
+	.string "kurz ein PokéCom.\p"
 	.string "Ein unentbehrliches Hilfsmittel für\n"
 	.string "jeden Trainer auf Abenteuerreise.\p"
 	.string "Er enthält die Karte von Hoenn.\p"

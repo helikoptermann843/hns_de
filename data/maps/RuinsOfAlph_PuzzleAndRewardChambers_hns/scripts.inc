@@ -266,7 +266,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_MapScript_HoohSuccess::
 RuinsOfAlph_PuzzleAndRewardChambers_EventScript_CheckHooh::
 	lock
 	goto_if_set FLAG_HOOH_BROUGHT, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten
-	specialvar VAR_RESULT, CheckHooh
+	checkspecies SPECIES_HO_OH
 	goto_if_eq VAR_RESULT, TRUE, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardHooh
 	msgbox RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon, MSGBOX_SIGN
 	closemessage
@@ -291,7 +291,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardHooh::
 RuinsOfAlph_PuzzleAndRewardChambers_EventScript_CheckAerodactyl::
 	lock
 	goto_if_set FLAG_AERODACTYL_BROUGHT, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten
-	specialvar VAR_RESULT, CheckAerodactyl
+	checkspecies SPECIES_AERODACTYL
 	goto_if_eq VAR_RESULT, TRUE, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardAerodactyl
 	msgbox RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon, MSGBOX_SIGN
 	closemessage
@@ -316,7 +316,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardAerodactyl::
 RuinsOfAlph_PuzzleAndRewardChambers_EventScript_CheckKabuto::
 	lock
 	goto_if_set FLAG_KABUTO_BROUGHT, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten
-	specialvar VAR_RESULT, CheckKabuto
+	checkspecies SPECIES_KABUTO
 	goto_if_eq VAR_RESULT, TRUE, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardKabuto
 	msgbox RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon, MSGBOX_SIGN
 	closemessage
@@ -341,7 +341,7 @@ RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardKabuto::
 RuinsOfAlph_PuzzleAndRewardChambers_EventScript_CheckOmanyte::
 	lock
 	goto_if_set FLAG_OMANYTE_BROUGHT, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardGotten
-	specialvar VAR_RESULT, CheckOmanyte
+	checkspecies SPECIES_OMANYTE
 	goto_if_eq VAR_RESULT, TRUE, RuinsOfAlph_PuzzleAndRewardChambers_EventScript_RewardOmanyte
 	msgbox RuinsOfAlph_PuzzleAndRewardChambers_Text_Mon, MSGBOX_SIGN
 	closemessage

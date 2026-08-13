@@ -65,7 +65,7 @@ static void HealPlayerBoxes(void)
 {
     int boxId, boxPosition;
     struct BoxPokemon *boxMon;
-    bool8 nuzlocke = IsNuzlockeActive() || gSaveBlock3Ptr->challengeSettings.tx_Nuzlocke_EasyMode;
+    bool8 nuzlocke = IsNuzlockeActive() || IsNuzlockeEasyActive();
 
     for (boxId = 0; boxId < TOTAL_BOXES_COUNT; boxId++)
     {

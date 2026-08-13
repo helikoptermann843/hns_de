@@ -413,12 +413,12 @@ PetalburgWoods_Text_PeopleRespectYou:
 PetalburgWoods_Text_IWantRematch1:
 	.string "Ich möchte wieder kämpfen, wenn meine\n"
 	.string "Käfer-Pokémon stärker geworden sind.\p"
-	.string "Ich trage dich in meinen PokéNav ein.$"
+	.string "Ich trage dich in meinen PokéCom ein.$"
 
 PetalburgWoods_Text_IWantRematch2:
 	.string "Ich möchte wieder kämpfen, wenn meine\n"
 	.string "Käfer-Pokémon stärker geworden sind.\p"
-	.string "Ich trage dich in meinen PokéNav ein.$"
+	.string "Ich trage dich in meinen PokéCom ein.$"
 
 PetalburgWoods_Text_MyPokemonHaveGrown:
 	.string "Meine Käfer-Pokémon sind gewachsen.\n"

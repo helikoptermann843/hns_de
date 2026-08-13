@@ -18,6 +18,7 @@ SSAqua_CaptainsRoom_EventScript_Granddaughter::
 	turnobject LOCALID_SSAQUA_CAPTAINS_ROOM_CAPTAIN, DIR_WEST
 	playse SE_PIN
 	applymovement LOCALID_SSAQUA_CAPTAINS_ROOM_CAPTAIN, Common_Movement_QuestionMark
+	delay 55
 	waitmovement LOCALID_SSAQUA_CAPTAINS_ROOM_CAPTAIN
 	delay 60
 	faceplayer

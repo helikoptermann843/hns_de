@@ -15,6 +15,7 @@ GoldenrodCity_UndergroundTunnel_EventScript_KimonoTriggerBot::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_GOLDENROD_UNDERGROUND_KIMONO, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_GOLDENROD_UNDERGROUND_KIMONO
 	msgbox GoldenrodCity_UndergroundTunnel_Text_Kimono2, MSGBOX_DEFAULT
 	closemessage
@@ -43,6 +44,7 @@ GoldenrodCity_UndergroundTunnel_EventScript_KimonoTriggerTop::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_GOLDENROD_UNDERGROUND_KIMONO, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_GOLDENROD_UNDERGROUND_KIMONO
 	msgbox GoldenrodCity_UndergroundTunnel_Text_Kimono2, MSGBOX_DEFAULT
 	closemessage

@@ -5683,10 +5683,10 @@ static u16 SampleResortGorgeousMon(void)
     for (i = 0; i < 100; i++)
     {
         species = (Random() % (NUM_SPECIES - 1)) + 1;
-        if (GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), 0) == TRUE)
+        if (IsSpeciesEnabled(species) == TRUE && GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), 0) == TRUE)
             return species;
     }
-    while (GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), 0) != TRUE)
+    while (IsSpeciesEnabled(species) == FALSE || GetSetPokedexFlag(SpeciesToNationalPokedexNum(species), 0) != TRUE)
     {
         if (species == SPECIES_BULBASAUR)
             species = NUM_SPECIES - 1;

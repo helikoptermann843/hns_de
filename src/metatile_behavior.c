@@ -1353,7 +1353,7 @@ bool8 MetatileBehavior_IsPictureBookShelf(u8 metatileBehavior)
 
 bool8 MetatileBehavior_IsBookShelf(u8 metatileBehavior)
 {
-    if (metatileBehavior == MB_BOOKSHELF)
+    if (metatileBehavior == MB_BOOKSHELF || metatileBehavior == MB_BOOKSHELF_GREEN)
         return TRUE;
     else
         return FALSE;
@@ -1385,7 +1385,7 @@ bool8 MetatileBehavior_IsTrashCan(u8 metatileBehavior)
 
 bool8 MetatileBehavior_IsShopShelf(u8 metatileBehavior)
 {
-    if (metatileBehavior == MB_SHOP_SHELF)
+    if (metatileBehavior == MB_SHOP_SHELF || metatileBehavior == MB_SHOP_SHELF_DEPARTMENT || metatileBehavior == MB_SHOP_SHELF_DEPARTMENT_FORWARD)
         return TRUE;
     else
         return FALSE;

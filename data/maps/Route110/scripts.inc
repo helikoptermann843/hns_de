@@ -997,9 +997,9 @@ Route110_Text_HeardYouInstallMatchCall:
 	.string "Ihr beiden seid nicht zusammen\l"
 	.string "unterwegs.\p"
 	.string "Ich habe schon davon gehört. Dein\n"
-	.string "Pokénav ist mit dem Trainer/Ruf-\l"
+	.string "PokéCom ist mit dem Trainer/Ruf-\l"
 	.string "System ausgerüstet.\p"
-	.string "Dann werde ich dich in mein Pokénav-\n"
+	.string "Dann werde ich dich in mein PokéCom-\n"
 	.string "Verzeichnis eintragen.\p"
 	.string "So kann ich deinen Pokédex beurteilen,\n"
 	.string "auch wenn du weit weg bist.\p"
@@ -1007,7 +1007,7 @@ Route110_Text_HeardYouInstallMatchCall:
 	.string "…$"
 
 Route110_Text_RegisteredBirchInPokenav:
-	.string "Prof. Birk wurde in das Pokénav-\n"
+	.string "Prof. Birk wurde in das PokéCom-\n"
 	.string "Verzeichnis eingetragen.$"
 
 Route110_Text_KeepAnEyeOutForRival:

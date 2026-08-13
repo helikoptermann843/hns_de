@@ -47,10 +47,10 @@ FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
 	.string "aufregend!$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
-	.string "Hey, du hast einen Pokénav!\n"
+	.string "Hey, du hast einen PokéCom!\n"
 	.string "Ich habe auch so einen.\p"
 	.string "Kennst du schon das Trainer/Ruf-\n"
-	.string "System des Pokénavs?\p"
+	.string "System des PokéComs?\p"
 	.string "Wenn du das in Betrieb nimmst, kannst\n"
 	.string "du jederzeit mit den registrierten\l"
 	.string "Trainern sprechen.\p"

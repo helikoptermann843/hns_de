@@ -394,7 +394,7 @@ static void (*const sMovementStatusHandler[])(struct LinkPlayerObjectEvent *, st
 // code
 void DoWhiteOut(void)
 {
-    if (IsNuzlockeActive() || gSaveBlock3Ptr->challengeSettings.tx_Nuzlocke_EasyMode)
+    if (IsNuzlockeActive() || IsNuzlockeEasyActive())
     {
         if (GetFirstAliveBoxPokemon() == IN_BOX_COUNT * TOTAL_BOXES_COUNT)
         {

@@ -80,6 +80,7 @@ EcruteakCity_Trigger_Silver::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_ECRUTEK_SILVER, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ECRUTEK_SILVER
 	turnobject LOCALID_ECRUTEK_SILVER, DIR_SOUTH
 	msgbox EcruteakCity_Text_Silver3, MSGBOX_DEFAULT

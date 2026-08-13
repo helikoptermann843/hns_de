@@ -299,6 +299,8 @@ void NewGameInitData(void)
     // Sync engine flags from restored challenge settings
     if (!gSaveBlock3Ptr->challengeSettings.tx_Mode_Mints)
         FlagSet(FLAG_MINTS_DISABLED);
+    if (gSaveBlock3Ptr->challengeSettings.evenFasterJoy == 0)
+        FlagSet(FLAG_EVEN_FASTER_JOY);
 
 #if IS_HNS
     StringCopy(gSaveBlock2Ptr->rivalName, gText_ExpandedPlaceholder_Silver);

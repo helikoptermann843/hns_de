@@ -335,7 +335,12 @@
 #define TRAINER_HEIDI_HNS                             327
 #define TRAINER_EDNA_HNS                              328
 #define TRAINER_TIFFANY_HNS                           329
-#define TRAINER_TANYA_HNS                             330
+// NOTE: 330 is reserved by TRAINER_FRONTIER_BRAIN (see include/constants/trainers.h).
+// Several battle routines compare opponentA against it without first checking for a
+// Frontier battle type, so a regular trainer with that ID gets the Frontier Brain's
+// pic/name/class and reads gFrontierBrainInfo[VAR_FRONTIER_FACILITY] out of bounds.
+// Tanya was moved to 618 for that reason -- do not reuse 330 (or 331, TRAINER_PLAYER).
+#define TRAINER_TANYA_HNS                             618
 #define TRAINER_ROLAND_HNS                            331
 #define TRAINER_TODD_HNS                              332
 #define TRAINER_IVAN_HNS                              333
@@ -625,7 +630,8 @@
 #define TRAINER_WESSEL_HNS                            615
 #define TRAINER_SKYLAR_HNS                            616
 
-#define TRAINERS_COUNT_HNS                       618
+// 618 is TRAINER_TANYA_HNS, relocated out of the TRAINER_FRONTIER_BRAIN slot (330).
+#define TRAINERS_COUNT_HNS                       619
 #define MAX_TRAINERS_COUNT_HNS                   864
 
 #endif  // GUARD_CONSTANTS_OPPONENTS_HNS_H

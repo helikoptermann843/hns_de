@@ -294,7 +294,7 @@ RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
 	.string "Probiere sie bitte unbedingt aus!$"
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav:
-	.string "Ich habe den Pokénav entwickelt!\p"
+	.string "Ich habe den PokéCom entwickelt!\p"
 	.string "Als Ingenieur erfüllt es mich mit\n"
 	.string "Stolz,\n"
 	.string "so etwas Großartiges entwickelt zu\l"
@@ -302,7 +302,7 @@ RustboroCity_DevonCorp_2F_Text_IMadePokenav:
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
 	.string "Oh, wow!\n"
-	.string "Das ist ein Pokénav!\p"
+	.string "Das ist ein PokéCom!\p"
 	.string "Er ist das Resultat der Wissbegierde\n"
 	.string "unseres Präsidenten, der etwas über\l"
 	.string "die Gefühle der Pokémon lernen möchte.\n"
@@ -383,7 +383,7 @@ RustboroCity_DevonCorp_2F_Text_TooManyPokemon:
 
 RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
 	.string "Ich entwickle ein neues Feature für\n"
-	.string "den Pokénav…\p"
+	.string "den PokéCom…\p"
 	.string "Aber irgendwie habe ich damit\n"
 	.string "Probleme…$"
 

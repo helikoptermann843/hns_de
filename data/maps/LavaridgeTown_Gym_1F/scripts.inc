@@ -355,7 +355,7 @@ LavaridgeTown_Gym_1F_Text_ExplainOverheat:
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
 	.string "Arenaleiterin Flavia wurde\n"
-	.string "im Pokénav eingetragen.$"
+	.string "im PokéCom eingetragen.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostBattle:
 	.string "Deine Stärke erinnert mich an\n"

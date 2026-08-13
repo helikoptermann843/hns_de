@@ -34,6 +34,7 @@ CianwoodCity_EventScript_Flytrigger::
 	lock
 	playse SE_PIN
 	applymovement LOCALID_CIANWOOD_CHUCKSWIFE, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_CIANWOOD_CHUCKSWIFE
 	applymovement LOCALID_CIANWOOD_CHUCKSWIFE, CianwoodCity_Movement_ChucksWife
 	waitmovement 0
@@ -159,6 +160,7 @@ CianwoodCity_Text_Lass:
 
 CianwoodCity_EventScript_SuicuneTrigger::
 	lock
+	hidefollower 1
 	playmoncry SPECIES_SUICUNE, CRY_MODE_NORMAL
 	applymovement LOCALID_CIANWOOD_SUICUNE, CianwoodCity_Movement_Suicune1
 	playse SE_LEDGE

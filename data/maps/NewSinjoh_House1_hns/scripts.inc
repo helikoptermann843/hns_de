@@ -23,6 +23,7 @@ NewSinjoh_House1_EventScript_Decline::
 NewSinjoh_House1_EventScript_GiveWooperPaldea::
 	playse SE_PIN
     applymovement LOCALID_NEWSINJOH_HOUSE1_ELIZABETH, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_NEWSINJOH_HOUSE1_ELIZABETH
     msgbox NewSinjoh_House1_OffersWooper MSGBOX_DEFAULT
     setvar VAR_TEMP_TRANSFERRED_SPECIES, SPECIES_WOOPER_PALDEA

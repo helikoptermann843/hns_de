@@ -99,6 +99,7 @@ Route25_Trigger_MistyRight::
 	turnobject LOCALID_ROUTE25_MAN, DIR_SOUTH
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE25_MAN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ROUTE25_MAN
 	applymovement2 LOCALID_ROUTE25_MAN, Route25_Movement_ManLeaveRight
 	waitmovement 0
@@ -113,6 +114,7 @@ Route25_Trigger_MistyLeft::
 	turnobject LOCALID_ROUTE25_MAN, DIR_SOUTH
 	playse SE_PIN
 	applymovement2 LOCALID_ROUTE25_MAN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_ROUTE25_MAN
 	applymovement2 LOCALID_ROUTE25_MAN, Route25_Movement_ManLeaveLeft
 	waitmovement 0

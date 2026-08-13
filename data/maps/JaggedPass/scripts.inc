@@ -215,7 +215,7 @@ JaggedPass_Text_EthanRegister:
 	.string "Wenn ich mich erstmal an diesen\n"
 	.string "unebenen Boden gewöhnt habe,\l"
 	.string "werde ich mit Sicherheit gewinnen!\p"
-	.string "Trägst du mich in deinen Pokénav ein?$"
+	.string "Trägst du mich in deinen PokéCom ein?$"
 
 JaggedPass_Text_EthanRematchIntro:
 	.string "Ich habe mich an die Unebenheiten ge-\n"

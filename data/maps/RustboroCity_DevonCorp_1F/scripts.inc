@@ -150,5 +150,5 @@ RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Devon hat damit begonnen, hilfreiche\n"
 	.string "Produkte für Pokémon Trainer zu\p"
 	.string "entwickeln, wie Pokébälle und das\n"
-	.string "Pokénav-System.”$"
+	.string "PokéCom-System.”$"
 

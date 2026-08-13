@@ -53,7 +53,7 @@ AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
 	.string "Du bist so ein starker Trainer!\n"
 	.string "Ich werde dich zur Erinnerung im\l"
-	.string "Pokénav eintragen.$"
+	.string "PokéCom eintragen.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
 	.string "Was bringt dich hierher?\n"

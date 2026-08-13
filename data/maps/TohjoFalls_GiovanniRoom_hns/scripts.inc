@@ -99,6 +99,7 @@ TohjoFalls_EventScript_GiovanniScene::
 	waitmovement OBJ_EVENT_ID_FOLLOWER
 	playse SE_PIN
 	applymovement2 LOCALID_TOHJOFALLS_GIOVANNI, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_TOHJOFALLS_GIOVANNI
 	turnobject LOCALID_TOHJOFALLS_GIOVANNI, DIR_SOUTH
 	msgbox TohjoFalls_GiovanniRoom_Text_GiovanniIntro, MSGBOX_DEFAULT

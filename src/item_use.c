@@ -453,7 +453,9 @@ bool8 ItemfinderCheckForHiddenItems(const struct MapEvents *events, u8 taskId)
     for (i = 0; i < events->bgEventCount; i++)
     {
         // Check if there are any hidden items on the current map that haven't been picked up
-        if (events->bgEvents[i].kind == BG_EVENT_HIDDEN_ITEM && !FlagGet(events->bgEvents[i].bgUnion.hiddenItem.hiddenItemId + FLAG_HIDDEN_ITEMS_START))
+        if (events->bgEvents[i].kind == BG_EVENT_HIDDEN_ITEM
+            && (!IS_HNS || events->bgEvents[i].bgUnion.hiddenItem.hiddenItemId != 0)
+            && !FlagGet(events->bgEvents[i].bgUnion.hiddenItem.hiddenItemId + FLAG_HIDDEN_ITEMS_START))
         {
             itemX = (u16)events->bgEvents[i].x + MAP_OFFSET;
             distanceX = itemX - playerX;
@@ -482,8 +484,10 @@ static bool8 IsHiddenItemPresentAtCoords(const struct MapEvents *events, s16 x, 
 
     for (i = 0; i < bgEventCount; i++)
     {
-        if (bgEvent[i].kind == BG_EVENT_HIDDEN_ITEM && x == (u16)bgEvent[i].x && y == (u16)bgEvent[i].y) // hidden item and coordinates matches x and y passed?
+        if (bgEvent[i].kind == BG_EVENT_HIDDEN_ITEM && x == (u16)bgEvent[i].x && y == (u16)bgEvent[i].y)
         {
+            if (IS_HNS && bgEvent[i].bgUnion.hiddenItem.hiddenItemId == 0)
+                return FALSE;
             if (!FlagGet(bgEvent[i].bgUnion.hiddenItem.hiddenItemId + FLAG_HIDDEN_ITEMS_START))
                 return TRUE;
             else

@@ -41,7 +41,7 @@ MtPyre_6F_Text_ValeriePostBattle:
 MtPyre_6F_Text_ValerieRegister:
 	.string "Hähähä… Ich habe den Kampf verloren,\n"
 	.string "aber… ich habe dieses Talent…\p"
-	.string "Ohne, dass ich den Pokénav berühren\n"
+	.string "Ohne, dass ich den PokéCom berühren\n"
 	.string "muss… Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:

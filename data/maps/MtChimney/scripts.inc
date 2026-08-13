@@ -866,7 +866,7 @@ MtChimney_Text_SawyerPostBattle:
 
 MtChimney_Text_SawyerRegister:
 	.string "Ich mag Hitzköpfe wie dich.\n"
-	.string "Ich trage dich in meinen Pokénav ein.$"
+	.string "Ich trage dich in meinen PokéCom ein.$"
 
 MtChimney_Text_SawyerRematchIntro:
 	.string "Ich freue mich, denn hier gibt es\n"

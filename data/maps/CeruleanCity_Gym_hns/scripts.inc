@@ -18,6 +18,7 @@ CeruleanCity_Gym_EventScript_RocketGrunt::
 	closemessage
 	playse SE_PIN
 	applymovement LOCALID_CERULEAN_GYM_ROCKET, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_CERULEAN_GYM_ROCKET
 	applymovement LOCALID_CERULEAN_GYM_ROCKET, CeruleanCity_Gym_Movement_GruntWalkBack
 	waitmovement 0

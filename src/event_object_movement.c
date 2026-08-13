@@ -3069,6 +3069,9 @@ static void SpawnLightSprite(s16 x, s16 y, s16 camX, s16 camY, u32 lightType)
         sprite->y += 28 + sprite->centerToCornerVecY;
         break;
     }
+
+    if (sprite->callback == UpdateLightSprite)
+        UpdateLightSprite(sprite);
 }
 
 #undef sLightType
@@ -6943,6 +6946,10 @@ static bool8 IsCoordOutsideObjectEventMovementRange(struct ObjectEvent *objectEv
 
 static bool8 IsMetatileDirectionallyImpassable(struct ObjectEvent *objectEvent, s16 x, s16 y, enum Direction direction)
 {
+    // This can rarely happen with a sub-frame perfect a press when going down sideways stairs and trying to surf
+    if (direction == DIR_NONE || direction > DIR_EAST)
+        return TRUE;
+
     if (gOppositeDirectionBlockedMetatileFuncs[direction - 1](objectEvent->currentMetatileBehavior)
         || gDirectionBlockedMetatileFuncs[direction - 1](MapGridGetMetatileBehaviorAt(x, y)))
         return TRUE;

@@ -103,12 +103,12 @@ GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
 	.string "Pokémon Liga. Das ist meine Meinung.\p"
 	.string "Und da wir uns jetzt so gut kennen\n"
 	.string "gelernt haben, sollten wir uns in\l"
-	.string "unseren Pokénavs eintragen.\p"
+	.string "unseren PokéComs eintragen.\p"
 	.string "… … … … …\n"
 	.string "…$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Troy wurde im Pokénav-Verzeichnis\n"
+	.string "Troy wurde im PokéCom-Verzeichnis\n"
 	.string "eingetragen.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:

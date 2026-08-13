@@ -76,10 +76,6 @@
 #define VAR_ROUTE39_BARN                                 0x4083
 #define VAR_RUINSOFALPH_STATE                            0x4084
 #define VAR_SAFARI_ZONE_GATE_STATE                       0x4085
-#define VAR_SAFFRON_CITY_STATE                           0x4087
-#define VAR_SHUCKIE                                      0x4088
-#define VAR_SLOWPOKE_TAIL                                0x4089
-#define VAR_SPROUT_TOWER                                 0x408A
 #define VAR_SSAQUA_STATE                                 0x408B
 #define VAR_SUICUNE_ENCOUNTERS                           0x408C
 #define VAR_TOHJO_FALLS_GIOVANNI_STATE                   0x408D
@@ -92,13 +88,11 @@
 #define VAR_TIME_BASED_ENCOUNTER                         0x4092
 #define VAR_CELADON_CITY_STATE                           0x4093
 #define VAR_PALLET_TOWN_STATE                            0x4094
-#define VAR_VIRIDIAN_CITY_STATE                          0x4095
 #define VAR_LAVENDER_TOWN_STATE                          0x4096
 #define VAR_WADE_ITEM_HNS                                0x4097
 #define VAR_ALAN_ITEM_HNS                                0x4098
 #define VAR_DANA_ITEM_HNS                                0x409A
 #define VAR_TULLY_ITEM_HNS                               0x409B
-#define VAR_WILTON_ITEM_HNS                              0x409C
 #define VAR_DEREK_ITEM_HNS                               0x409D
 #define VAR_BEVERLY_ITEM_HNS                             0x409E
 #define VAR_JOSE_ITEM_HNS                                0x409F
@@ -110,54 +104,15 @@
 #define VAR_MOM_GIFT_ITEM                                0x40A6
 #define VAR_OAK_MT_SILVER_CALL                           0x40A7
 #define VAR_VIRIDIAN_FOREST_PICHU                        0x40A8
-#define VAR_RADIO_LUCKY_ID                               0x40A9
-#define VAR_RADIO_LUCKY_ID_HI                            0x40AA
 #define VAR_RADIO_BUENAS_PASSWORD                        0x40AB
 #define VAR_CONTEST_PRIZE_PICKUP_HNS                            0x40AC
-#define VAR_UNUSED_HNS_0x40AD                            0x40AD
-#define VAR_UNUSED_HNS_0x40AE                            0x40AE
-#define VAR_UNUSED_HNS_0x40AF                            0x40AF
-#define VAR_UNUSED_HNS_0x40B0                            0x40B0
-#define VAR_UNUSED_HNS_0x40B1                            0x40B1
-#define VAR_UNUSED_HNS_0x40B2                            0x40B2
 #define VAR_UNUSED_HNS_0x40B3                            0x40B3
 #define VAR_UNUSED_HNS_0x40B4                            0x40B4
-#define VAR_UNUSED_HNS_0x40B5                            0x40B5
-#define VAR_UNUSED_HNS_0x40B6                            0x40B6
-#define VAR_UNUSED_HNS_0x40B7                            0x40B7
-#define VAR_UNUSED_HNS_0x40B8                            0x40B8
-#define VAR_UNUSED_HNS_0x40B9                            0x40B9
-#define VAR_UNUSED_HNS_0x40BA                            0x40BA
-#define VAR_UNUSED_HNS_0x40BB                            0x40BB
-#define VAR_UNUSED_HNS_0x40BD                            0x40BD
-#define VAR_UNUSED_HNS_0x40BE                            0x40BE
-#define VAR_UNUSED_HNS_0x40BF                            0x40BF
-#define VAR_UNUSED_HNS_0x40C0                            0x40C0
-#define VAR_UNUSED_HNS_0x40C1                            0x40C1
 #define VAR_UNUSED_HNS_0x40C2                            0x40C2
-#define VAR_UNUSED_HNS_0x40C3                            0x40C3
 #define VAR_UNUSED_HNS_0x40C6                            0x40C6
-#define VAR_UNUSED_HNS_0x40C7                            0x40C7
-#define VAR_UNUSED_HNS_0x40C8                            0x40C8
 #define VAR_UNUSED_HNS_0x40C9                            0x40C9
 #define VAR_UNUSED_HNS_0x40CA                            0x40CA
 
-// Alola Vars
-#define VAR_ALOLA_TRAVEL                                 0x40CB // var for setting up mapscripts when traveling to and from alola. 
-#define VAR_ALOLA_STATE                                  0x40CC // state of the story in alola
-
-// Sinjoh Vars
-#define VAR_SINJOH_STORYLINE                            0x40CD  //6: Free roam. 7: return to steven with plates. 9: stairs opened, battle with steven. 10: meet arceus. 11: done.
-#define VAR_PLATECOUNTER                                0x40CE
-#define VAR_REGIS_SCANNED                           0x40CF
-#define VAR_NOBLE_SNEASLER                           0x40D0
-#define VAR_NOBLE_OVERQWIL                           0x40D1
-#define VAR_NOBLE_WYRDEER                           0x40D2
-#define VAR_NOBLE_ARCANINE                           0x40D3
-#define VAR_NOBLE_URSALUNA                           0x40D4
-#define VAR_NOBLE_KLEAVOR                           0x40D5
-#define VAR_NOBLE_ELECTRODE                           0x40D6
-#define VAR_NOBLE_TYPHLOSION                           0x40D7
 #define VAR_UNUSED_HNS_0x40D8                           0x40D8
 #define VAR_UNUSED_HNS_0x40D9                           0x40D9
 #define VAR_UNUSED_HNS_0x40DA                           0x40DA
@@ -199,6 +154,54 @@
 #define VAR_UNUSED_HNS_0x40FD                            0x40FD
 #define VAR_UNUSED_HNS_0x40FE                            0x40FE
 #define VAR_UNUSED_HNS_0x40FF                            0x40FF
+
+// Alola Vars
+#define VAR_ALOLA_TRAVEL                                 0x40AD // var for setting up mapscripts when traveling to and from alola.
+#define VAR_ALOLA_STATE                                  0x40AE // state of the story in alola
+
+// Sinjoh Vars
+#define VAR_SINJOH_STORYLINE                             0x40AF // 6: Free roam. 7: return to steven with plates. 9: stairs opened, battle with steven. 10: meet arceus. 11: done.
+#define VAR_PLATECOUNTER                                 0x40B0
+#define VAR_REGIS_SCANNED                                0x40B1
+#define VAR_NOBLE_SNEASLER                               0x40B2
+#define VAR_NOBLE_OVERQWIL                               0x40B5
+#define VAR_NOBLE_WYRDEER                                0x40B6
+#define VAR_NOBLE_ARCANINE                               0x40B7
+#define VAR_NOBLE_URSALUNA                               0x40B8
+#define VAR_NOBLE_KLEAVOR                                0x40B9
+#define VAR_NOBLE_ELECTRODE                              0x40BA
+#define VAR_NOBLE_TYPHLOSION                             0x40BB
+
+#define VAR_SAFFRON_CITY_STATE                           0x40BD
+#define VAR_SHUCKIE                                      0x40BE
+#define VAR_SLOWPOKE_TAIL                                0x40BF
+#define VAR_SPROUT_TOWER                                 0x40C0
+#define VAR_VIRIDIAN_CITY_STATE                          0x40C1
+#define VAR_WILTON_ITEM_HNS                              0x40C3
+// Low and high halves of one 32-bit value (pokenav_radio.c). Keep adjacent.
+#define VAR_RADIO_LUCKY_ID                               0x40C7
+#define VAR_RADIO_LUCKY_ID_HI                            0x40C8
+
+// Claimed by Emerald vars that are reachable in the HnS build.
+// Do not use these addresses for HnS content.
+#define VAR_CABLE_CLUB_STATE_UNSAFE                      0x4087
+#define VAR_CONTEST_TYPE_UNSAFE                          0x4088
+#define VAR_SECRET_BASE_INITIALIZED_UNSAFE               0x4089
+#define VAR_CONTEST_PRIZE_PICKUP_EM_UNSAFE               0x408A
+#define VAR_LILYCOVE_FAN_CLUB_STATE_UNSAFE               0x4095
+#define VAR_ELITE_4_STATE_UNSAFE                         0x409C
+#define VAR_CYCLING_CHALLENGE_STATE_UNSAFE               0x40A9
+#define VAR_SLATEPORT_MUSEUM_1F_STATE_UNSAFE             0x40AA
+#define VAR_MIRAGE_TOWER_STATE_UNSAFE                    0x40CB
+#define VAR_FOSSIL_MANIAC_STATE_UNSAFE                   0x40CC
+#define VAR_CABLE_CLUB_TUTORIAL_STATE_UNSAFE             0x40CD
+#define VAR_SLATEPORT_OUTSIDE_MUSEUM_STATE_UNSAFE        0x40D2
+#define VAR_DEX_UPGRADE_JOHTO_STARTER_STATE_UNSAFE       0x40D3
+#define VAR_SS_TIDAL_SCOTT_STATE_UNSAFE                  0x40D4
+#define VAR_ROAMER_POKEMON_UNSAFE                        0x40D5
+#define VAR_SKY_PILLAR_RAYQUAZA_CRY_DONE_UNSAFE          0x40D7
+// 0x40CE 0x40CF 0x40D0 0x40D1 0x40D6 are also unsafe, but already carry their
+// Emerald names in the shared block at the top of this file.
 
 #define VARS_END                                         0x40FF
 #define VARS_COUNT                                       (VARS_END - VARS_START + 1)

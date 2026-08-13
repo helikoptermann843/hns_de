@@ -36,6 +36,7 @@ EcruteakCity_SageOffice2_EventScript_SageA2::
 	waitse
 	playse SE_PIN
 	applymovement LOCALID_SAGEOFFICE_SAGE, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_SAGEOFFICE_SAGE
 	msgbox EcruteakTinTowerEntrance_Text_SageHearsClearBell2, MSGBOX_DEFAULT
 	closemessage

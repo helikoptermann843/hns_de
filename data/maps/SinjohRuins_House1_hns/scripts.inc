@@ -17,6 +17,7 @@ SinjohRuins_Lab_EventScript_TriggerIntroTop::
 	lock
 	playse SE_PIN
 	applymovement2 LOCALID_SINJOHRUINS_LAB_STEVEN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_SINJOHRUINS_LAB_STEVEN
 	msgbox SinjohRuins_Lab_Text_StevenIntroCutscene1, MSGBOX_AUTOCLOSE
 	applymovement2 LOCALID_PLAYER, Common_Movement_WalkDown1
@@ -29,6 +30,7 @@ SinjohRuins_Lab_EventScript_TriggerIntroMid::
 	lock
 	playse SE_PIN
 	applymovement2 LOCALID_SINJOHRUINS_LAB_STEVEN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_SINJOHRUINS_LAB_STEVEN
 	msgbox SinjohRuins_Lab_Text_StevenIntroCutscene1, MSGBOX_AUTOCLOSE
 	applymovement2 LOCALID_SINJOHRUINS_LAB_STEVEN, SinjohRuins_Lab_Movement_StevenMeetPlayer
@@ -39,6 +41,7 @@ SinjohRuins_Lab_EventScript_TriggerIntroBot::
 	lock
 	playse SE_PIN
 	applymovement2 LOCALID_SINJOHRUINS_LAB_STEVEN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_SINJOHRUINS_LAB_STEVEN
 	msgbox SinjohRuins_Lab_Text_StevenIntroCutscene1, MSGBOX_AUTOCLOSE
 	applymovement2 LOCALID_PLAYER, Common_Movement_WalkUp1
@@ -229,6 +232,7 @@ SinjohRuins_Lab_FinalPlateScene::
 	waitmovement 0
 	playse SE_PIN
 	applymovement LOCALID_SINJOHRUINS_LAB_STEVEN, Common_Movement_ExclamationMark
+	delay 55
 	waitmovement LOCALID_SINJOHRUINS_LAB_STEVEN
 	turnobject LOCALID_SINJOHRUINS_LAB_STEVEN, DIR_SOUTH
 	delay 30

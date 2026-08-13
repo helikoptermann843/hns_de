@@ -1144,7 +1144,7 @@ RustboroCity_Text_PleaseComeWithMe:
 
 RustboroCity_Text_MayHiLetsRegister:
 	.string "Maike: Oh, hi, {PLAYER}{KUN}!\p"
-	.string "Dein Pokénav besitzt die Trainer/Ruf-\n"
+	.string "Dein PokéCom besitzt die Trainer/Ruf-\n"
 	.string "Funktion!\p"
 	.string "Wir tragen uns gegenseitig ein, so\n"
 	.string "bleiben wir in Kontakt.\p"
@@ -1152,7 +1152,7 @@ RustboroCity_Text_MayHiLetsRegister:
 	.string "…$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Maike wurde im Pokénav-Verzeichnis\n"
+	.string "Maike wurde im PokéCom-Verzeichnis\n"
 	.string "eingetragen.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
@@ -1196,7 +1196,7 @@ RustboroCity_Text_MayMrBrineyHint:
 
 RustboroCity_Text_BrendanHiLetsRegister:
 	.string "Brix: Oh, hey, {PLAYER}!\p"
-	.string "Dein Pokénav besitzt die Trainer/Ruf-\n"
+	.string "Dein PokéCom besitzt die Trainer/Ruf-\n"
 	.string "Funktion! Cool!\p"
 	.string "Wir tragen uns gegenseitig ein, dann\n"
 	.string "können wir jederzeit miteinander\n"
@@ -1205,7 +1205,7 @@ RustboroCity_Text_BrendanHiLetsRegister:
 	.string "…$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Brix wurde im Pokénav-Verzeichnis\n"
+	.string "Brix wurde im PokéCom-Verzeichnis\n"
 	.string "eingetragen.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
@@ -1283,16 +1283,16 @@ RustboroCity_Text_CuttersHouse:
 	.string "Haus des Zerschneiders$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "Ich habe neues Zubehör für den Pokénav\n"
+	.string "Ich habe neues Zubehör für den PokéCom\n"
 	.string "entwickelt…\p"
 	.string "Und es funktioniert großartig!\p"
-	.string "Zeigst du mir mal deinen Pokénav,\n"
+	.string "Zeigst du mir mal deinen PokéCom,\n"
 	.string "{PLAYER}? Den du von unserem\l"
 	.string "Präsidenten bekommen hast.$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Hier, bitte schön, {PLAYER}.\p"
-	.string "Ich habe deinen Pokénav mit dem\n"
+	.string "Ich habe deinen PokéCom mit dem\n"
 	.string "so genannten Trainer/Ruf\l"
 	.string "ausgestattet.\p"
 	.string "Trage deine Freunde und andere\n"
@@ -1304,7 +1304,7 @@ RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Ruf unseren Präsidenten an.$"
 
 RustboroCity_Text_PleaseSelectPokenav:
-	.string "Wähle Pokénav.$"
+	.string "Wähle PokéCom.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
 	.string "So, jetzt muss ich aber\n"
