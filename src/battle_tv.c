@@ -1287,6 +1287,16 @@ static void TrySetBattleSeminarShow(void)
         powerOverride = 0;
         if (ShouldCalculateDamage(gCurrentMove, &dmgByMove[i], &powerOverride))
         {
+            if (GetMoveEffect(gCurrentMove) == EFFECT_BEAT_UP)
+            {
+                memset(gBattleStruct->beatUpSpecies, 0xFF, sizeof(gBattleStruct->beatUpSpecies));
+                gBattleStruct->beatUpSlot = 0;
+                if (GetConfig(B_BEAT_UP) >= GEN_5)
+                    gBattleStruct->beatUpSpecies[0] = gBattleMons[gBattlerAttacker].species;
+                else
+                    gBattleStruct->beatUpSpecies[0] = 0;
+            }
+
             struct BattleContext ctx = {0};
             ctx.battlerAtk = gBattlerAttacker;
             ctx.battlerDef = gBattlerTarget;
