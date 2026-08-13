@@ -276,6 +276,20 @@ bool8 IsNuzlockeActive(void)
     return cs->tx_Challenges_Nuzlocke;
 }
 
+bool8 IsNuzlockeEasyActive(void)
+{
+    struct ChallengeSettings *cs = &gSaveBlock3Ptr->challengeSettings;
+
+    if (!FlagGet(FLAG_SYS_POKEMON_GET))
+        return FALSE;
+    if (!FlagGet(FLAG_START_NUZLOCKE))
+        return FALSE;
+    if (FlagGet(FLAG_END_NUZLOCKE))
+        return FALSE;
+
+    return cs->tx_Nuzlocke_EasyMode && !cs->tx_Challenges_Nuzlocke;
+}
+
 bool8 IsNuzlockeNicknamingActive(void)
 {
     struct ChallengeSettings *cs = &gSaveBlock3Ptr->challengeSettings;
@@ -354,7 +368,7 @@ void NuzlockeDeleteFaintedPartyPokemon(void)
                     AddBagItem(monItem, 1);
                     SetMonData(pokemon, MON_DATA_HELD_ITEM, &item);
                 }
-                if (cs->tx_Nuzlocke_EasyMode && !IsNuzlockeActive())
+                if (IsNuzlockeEasyActive())
                     NuzlockeDeletePartyMonOption(i);
                 else
                     NuzlockeDeletePartyMon(i);

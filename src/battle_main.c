@@ -5713,6 +5713,24 @@ static void HandleEndTurn_FinishBattle(void)
 {
     if (gCurrentActionFuncId == B_ACTION_TRY_FINISH || gCurrentActionFuncId == B_ACTION_FINISHED)
     {
+        // Both of these loops are keyed by the party index each mon had at the START of the
+        // battle (gBattleStruct->itemLost and gBattleStruct->partyState). They must run before
+        // anything that reorders gPlayerParty, or they apply to the wrong mons. The Mirror
+        // party restore and the Nuzlocke fainted-mon deletion below both reorder it.
+        // Held items must be restored before the form revert, since item-based form changes
+        // (plates, drives, Rusted Sword, Griseous Orb) read the mon's held item.
+        if (B_TRAINERS_KNOCK_OFF_ITEMS == TRUE || B_RESTORE_HELD_BATTLE_ITEMS >= GEN_9)
+            TryRestoreHeldItems();
+
+        for (u32 i = 0; i < PARTY_SIZE; i++)
+        {
+            bool32 changedForm = TryRevertPartyMonFormChange(i);
+
+            // Recalculate the stats of every party member before the end
+            if (!changedForm && B_RECALCULATE_STATS >= GEN_5)
+                CalculateMonStats(&gPlayerParty[i]);
+        }
+
         if (gSaveBlock3Ptr->challengeSettings.tx_Challenges_Mirror
          && !gSaveBlock3Ptr->challengeSettings.tx_Challenges_Mirror_Thief
          && (gBattleTypeFlags & (BATTLE_TYPE_TRAINER | BATTLE_TYPE_DOUBLE)))
@@ -5786,7 +5804,7 @@ static void HandleEndTurn_FinishBattle(void)
             TryPutBreakingNewsOnAir();
         }
 
-        if (gSaveBlock3Ptr->challengeSettings.tx_Nuzlocke_EasyMode && !IsNuzlockeActive())
+        if (IsNuzlockeEasyActive())
         {
             if (!(gBattleTypeFlags & (BATTLE_TYPE_LINK
                                         | BATTLE_TYPE_LINK_IN_BATTLE
@@ -5835,17 +5853,6 @@ static void HandleEndTurn_FinishBattle(void)
 
         BeginFastPaletteFade(3);
         FadeOutMapMusic(5);
-        if (B_TRAINERS_KNOCK_OFF_ITEMS == TRUE || B_RESTORE_HELD_BATTLE_ITEMS >= GEN_9)
-            TryRestoreHeldItems();
-
-        for (u32 i = 0; i < PARTY_SIZE; i++)
-        {
-            bool32 changedForm = TryRevertPartyMonFormChange(i);
-
-            // Recalculate the stats of every party member before the end
-            if (!changedForm && B_RECALCULATE_STATS >= GEN_5)
-                CalculateMonStats(&gPlayerParty[i]);
-        }
         RecordedBattle_SetPlaybackFinished();
         if (gTestRunnerEnabled)
             TestRunner_Battle_AfterLastTurn();
