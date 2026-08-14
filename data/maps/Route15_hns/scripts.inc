@@ -30,6 +30,14 @@ Route15_EventScript_RegisterHillary::
 Route15_EventScript_RematchHillary::
 	trainerbattle_rematch TRAINER_HILLARY_HNS, Route15_Text_HillaryRematchIntro, Route15_Text_HillaryRematchDefeat
 	msgbox Route15_Text_HillaryPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_HILLARY_2_HNS, Route15_EventScript_RematchHillaryTryGiveItem
+	end
+
+Route15_EventScript_RematchHillaryTryGiveItem::
+	checkitem ITEM_TM_ENERGY_BALL
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_ENERGY_BALL
+	closemessage
 	end
 
 Route15_EventScript_Kipp::
@@ -65,6 +73,14 @@ Route15_EventScript_RegisterBilly::
 Route15_EventScript_RematchBilly::
 	trainerbattle_rematch TRAINER_BILLY_HNS, Route15_Text_BillyRematchIntro, Route15_Text_BillyRematchDefeat
 	msgbox Route15_Text_BillyPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_BILLY_2_HNS, Route15_EventScript_RematchBillyTryGiveItem
+	end
+
+Route15_EventScript_RematchBillyTryGiveItem::
+	checkitem ITEM_TM_FACADE
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_FACADE
+	closemessage
 	end
 
 Route15_EventScript_Sign::

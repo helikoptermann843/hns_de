@@ -40,6 +40,12 @@ Route12_EventScript_RegisterKyle::
 Route12_EventScript_RematchKyle::
 	trainerbattle_rematch TRAINER_KYLE_HNS, Route12_Text_KyleRematchIntro, Route12_Text_KyleRematchDefeat
 	msgbox Route12_Text_KylePostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_KYLE_2_HNS, Route12_EventScript_RematchKyleTryGiveItem
+	end
+
+Route12_EventScript_RematchKyleTryGiveItem::
+	giveitem ITEM_BLUE_SHARD
+	closemessage
 	end
 
 Route12_EventScript_NewFisher::

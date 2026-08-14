@@ -25,6 +25,14 @@ Route2_EventScript_RegisterRob::
 Route2_EventScript_RematchRob::
 	trainerbattle_rematch TRAINER_ROB_HNS, Route2_Text_RobRematchIntro, Route2_Text_RobRematchDefeat
 	msgbox Route2_Text_RobPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_ROB_2_HNS, Route2_EventScript_RematchRobTryGiveItem
+	end
+
+Route2_EventScript_RematchRobTryGiveItem::
+	checkitem ITEM_TM_X_SCISSOR
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_X_SCISSOR
+	closemessage
 	end
 
 Route2_EventScript_Ed::

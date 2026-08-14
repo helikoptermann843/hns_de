@@ -57,6 +57,12 @@ Route13_EventScript_RegisterAlex::
 Route13_EventScript_RematchAlex::
 	trainerbattle_rematch TRAINER_ALEX_HNS, Route13_Text_AlexRematchIntro, Route13_Text_AlexRematchDefeat
 	msgbox Route13_Text_AlexPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_ALEX_2_HNS, Route13_EventScript_RematchAlexTryGiveItem
+	end
+
+Route13_EventScript_RematchAlexTryGiveItem::
+	giveitem ITEM_RED_SHARD
+	closemessage
 	end
 
 Route13_EventScript_Joshua::
@@ -92,6 +98,14 @@ Route13_EventScript_RegisterKenny::
 Route13_EventScript_RematchKenny::
 	trainerbattle_rematch TRAINER_KENNY_HNS, Route13_Text_KennyRematchIntro, Route13_Text_KennyRematchDefeat
 	msgbox Route13_Text_KennyPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_KENNY_2_HNS, Route13_EventScript_RematchKennyTryGiveItem
+	end
+
+Route13_EventScript_RematchKennyTryGiveItem::
+	checkitem ITEM_TM_STONE_EDGE
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_STONE_EDGE
+	closemessage
 	end
 
 Route13_EventScript_TrainerTips::
