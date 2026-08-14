@@ -2064,7 +2064,7 @@ static void AppendIfValid(u16 species, u16 heldItem, u16 hp, enum FrontierLevelM
         return;
     if (gSpeciesInfo[species].isFrontierBanned)
         return;
-    if (lvlMode == FRONTIER_LVL_50 && monLevel > FRONTIER_MAX_LEVEL_50)
+    if (lvlMode == FRONTIER_LVL_50 && monLevel > FRONTIER_MAX_LEVEL_50_ENTER)
         return;
 
     for (i = 0; i < *count && speciesArray[i] != species; i++)

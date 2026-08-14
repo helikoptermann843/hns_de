@@ -21,7 +21,11 @@ FallarborTown_BattleTentLobby_Text_AwaitAnotherChallenge:
 	.string "Herausforderung.$"
 
 FallarborTown_BattleTentLobby_Text_ExplainFallarborTent:
+#if IS_HNS
+	.string "Im Arena-Kampfcamp\n"
+#else
 	.string "Im Kampfcamp von Laubwechselfeld\n"
+#endif
 	.string "findet das K.O.-Teamturnier statt.\p"
 	.string "Jeder Teilnehmer darf drei Pokémon\n"
 	.string "in den Kampf mitnehmen.\p"
@@ -144,7 +148,11 @@ VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
 	.string "des Wiesenflur Kampfcamps stellen?$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
+#if IS_HNS
+	.string "Im Palast-Kampfcamp gibt es\n"
+#else
 	.string "Im Kampfcamp von Wiesenflur gibt es\n"
+#endif
 	.string "eine entscheidende Regel, die beachtet\l"
 	.string "werden muss.\p"
 	.string "Trainer dürfen ihre Pokémon lediglich\n"
@@ -244,7 +252,11 @@ SlateportCity_BattleTentLobby_Text_TakeChallenge:
 	.string "teilnehmen?$"
 
 SlateportCity_BattleTentLobby_Text_ExplainSlateportTent:
+#if IS_HNS
+	.string "Hier im Fabrik-Kampfcamp\n"
+#else
 	.string "Hier im Kampfcamp von Graphitport City\n"
+#endif
 	.string "halten wir Wechselkampf-Turniere ab,\l"
 	.string "die mit Leih-Pkmn ausgetragen werden.\p"
 	.string "Als Erstes leihst du dir drei Pokémon.\p"

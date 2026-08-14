@@ -1269,6 +1269,19 @@ static bool32 CheckMatchCallChance(void)
         return FALSE;
 }
 
+#if IS_HNS
+// Calls are held off entirely while inside, rather than being rolled and
+// discarded, so stepping back outside doesn't cost the player a full timer.
+static bool32 HnsMapAllowsMatchCall(void)
+{
+    // Outdoors, plus caves as in HGSS. Several HnS interiors are tagged
+    // MAP_TYPE_NONE rather than MAP_TYPE_INDOOR, so allow by whitelist
+    // instead of denying by type.
+    return Overworld_MapTypeAllowsTeleportAndFly(gMapHeader.mapType)
+        || gMapHeader.mapType == MAP_TYPE_UNDERGROUND;
+}
+#endif
+
 static bool32 MapAllowsMatchCall(void)
 {
     if (!Overworld_MapTypeAllowsTeleportAndFly(gMapHeader.mapType) || gMapHeader.regionMapSectionId == MAPSEC_SAFARI_ZONE)
@@ -1376,6 +1389,7 @@ bool32 TryStartMatchCall(void)
 #if IS_HNS
     if (FlagGet(FLAG_HAS_MATCH_CALL)
         && HasEnoughBadgesForRematch()
+        && HnsMapAllowsMatchCall()
         && UpdateMatchCallStepCounter()
         && UpdateMatchCallMinutesCounter()
         && CheckMatchCallChance()
@@ -2163,7 +2177,7 @@ static int GetNumOwnedBadges(void)
 {
     u32 i;
 
-    for (i = 0; i < NUM_BADGES; i++)
+    for (i = 0; i < ARRAY_COUNT(gBadgeFlags); i++)
     {
         if (!FlagGet(gBadgeFlags[i]))
             break;

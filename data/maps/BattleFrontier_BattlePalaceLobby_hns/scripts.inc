@@ -325,7 +325,7 @@ BattleFrontier_BattlePalaceLobby_EventScript_Beauty_hns::
 	msgbox BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms_hns, MSGBOX_NPC
 	end
 
-BattleFrontier_BattlePalaceLobby_EventScript_Man_hnsiac_hns::
+BattleFrontier_BattlePalaceLobby_EventScript_Maniac_hns::
 	msgbox BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway_hns, MSGBOX_NPC
 	end
 

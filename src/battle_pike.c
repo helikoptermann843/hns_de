@@ -1716,9 +1716,12 @@ static void SaveMonHeldItems(void)
     u8 i;
     s32 j;
 
-    FlagSet(FLAG_LIMIT_TO_50);
-    for (j = 0; j < PARTY_SIZE; j++)
-        CalculateMonStats(&gPlayerParty[j]);
+    if (gSaveBlock2Ptr->frontier.lvlMode == FRONTIER_LVL_50)
+    {
+        FlagSet(FLAG_LIMIT_TO_50);
+        for (j = 0; j < PARTY_SIZE; j++)
+            CalculateMonStats(&gPlayerParty[j]);
+    }
 
     for (i = 0; i < FRONTIER_PARTY_SIZE; i++)
     {

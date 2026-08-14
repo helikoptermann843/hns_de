@@ -36,7 +36,8 @@ EWRAM_DATA static u16 sTestVars[TEST_VARS_SIZE] = {0};
 
 extern u16 *const gSpecialVars[];
 
-const u16 gBadgeFlags[NUM_BADGES] =
+// Capped at 8: every consumer indexes 8-entry tables with the count this yields.
+const u16 gBadgeFlags[NUM_BADGES_CAPPED] =
 {
     FLAG_BADGE01_GET,
     FLAG_BADGE02_GET,

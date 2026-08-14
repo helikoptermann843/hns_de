@@ -559,6 +559,7 @@ static const struct DoorGraphics sDoorAnimGraphicsTable[] =
     {METATILE_NewBarkTown_Door_Red_Hns,                        &gTileset_NewBarkTown_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_NewBarkTownRed, sDoorAnimPalettes_NewBarkTownRed},
     {METATILE_NewBarkTown_Door_Blue_Hns,                       &gTileset_NewBarkTown_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_HnsCerulean, sDoorAnimPalettes_NewBarkTownBlue},
     {METATILE_AzaleaTown_Door_Hns,                             &gTileset_AzaleaTown_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_NewBarkTownYellow, sDoorAnimPalettes_Azalea},
+    {METATILE_MahoganyTown_Door_Hns,                           &gTileset_MahoganyTown_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_NewBarkTownYellow, sDoorAnimPalettes_Azalea},
     {METATILE_CianwoodCity_Door_Hns,                           &gTileset_CianwoodCity_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_Cianwood, sDoorAnimPalettes_Cianwood},
     {METATILE_ViridianCity_Door_Hns,                       &gTileset_ViridianCity_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_HnsViridian, sDoorAnimPalettes_ViridianHns},
     {METATILE_PewterCity_Door_Hns,                         &gTileset_PewterCity_Hns, DOOR_SOUND_NORMAL,  1, sDoorAnimTiles_HnsPewter, sDoorAnimPalettes_PewterHns},

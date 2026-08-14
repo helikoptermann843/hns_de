@@ -2468,6 +2468,12 @@
 
 #endif
 
+// Several engine systems predate multi-region badge counts and only handle 8 badges
+// (badge-count-indexed tables like sBadgeLevel/sWhiteOutBadgeMoney, gBadgeFlags, etc).
+// HnS has 16 badges, so NUM_BADGES cannot be used to size or index any of those - use
+// this clamped count instead, or they read past the end of their tables.
+#define NUM_BADGES_CAPPED                       (NUM_BADGES > 8 ? 8 : NUM_BADGES)
+
 // Engine-wide flags for options/challenge settings (shared across all builds).
 // Fixed 32-flag block; not cleared by ClearDailyFlags or ClearTempFieldEventData.
 //

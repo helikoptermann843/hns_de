@@ -1114,6 +1114,7 @@
 #define METATILE_Johto_General_Door_Gym_Hns          0x15B
 #define METATILE_Johto_General_Door_Hns              0x03D
 #define METATILE_Johto_General_Door_Sliding_Hns      0x062
+#define METATILE_MahoganyTown_Door_Hns               0x2A2
 #define METATILE_MtSilverNewSinjoh_Door_Hns          0x32B
 #define METATILE_NewBarkTown_Door_Blue_Hns           0x2CB
 #define METATILE_NewBarkTown_Door_Red_Hns            0x2BD
