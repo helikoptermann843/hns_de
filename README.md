@@ -1,7 +1,7 @@
 # Über `hns_de`
 <img width="465" height="600" alt="HnSDeutschLogo" src="https://github.com/user-attachments/assets/fdcb84cd-7b60-4df8-bc1d-efa2d4d0cc50" />
 
-**`hns_de`** hierbei handelt es sich um eine Basis für deutsche Romhacks, aufbauend auf pokeemerald-expansion. Es lässt sich daraus aktuell Pokémon Heart&Soul (Johto) bauen. Das gesamte Archiv wurde anhand von deutschen Roms und viel Handarbeit komplett auf Deutsch übersetzt. Man soll später auch Smaragd und Feuerrot mit demselben Archiv erstellen können (in Arbeit). Wir arbeiten aktuell an einer HnS-Version, welche Hoenn enthält.
+**`hns_de`** hierbei handelt es sich um eine Basis für deutsche Romhacks, aufbauend auf pokeemerald-expansion. Es lässt sich daraus aktuell Pokémon Heart&Soul (Johto) bauen. Das gesamte Archiv wurde anhand von deutschen Roms und viel Handarbeit komplett auf deutsch übersetzt. Man soll später auch Smaragd und Feuerrot mit demselben Archiv erstellen können (in Arbeit). Wir arbeiten aktuell an einer HnS-Version, welche Hoenn enthält. Diese befindet sich nicht hier, sondern in einem Fork.
 
 
 # About `pokeemerald-expansion`
