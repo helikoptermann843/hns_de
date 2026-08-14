@@ -10881,17 +10881,20 @@ static u32 ComputeCaptureOdds(u32 wildMonBattler, u32 playerBattler)
     odds = odds * catchRate / (battleMon->maxHP * 3);
     odds = odds * ball.multiplier / ball.divider;
 
+    // sBadgeLevel only covers 8 badges, so the count driving the malus is clamped to it.
     u8 badgeCount = 0;
     for (u32 i = FLAG_BADGE01_GET; i < FLAG_BADGE01_GET + NUM_BADGES; i++)
     {
         if (FlagGet(i))
             badgeCount++;
     }
-    if (GetConfig(B_MISSING_BADGE_CATCH_MALUS) == GEN_8 && badgeCount < NUM_BADGES && gBattleMons[playerBattler].level < battleMon->level)
+    if (badgeCount > NUM_BADGES_CAPPED)
+        badgeCount = NUM_BADGES_CAPPED;
+    if (GetConfig(B_MISSING_BADGE_CATCH_MALUS) == GEN_8 && badgeCount < NUM_BADGES_CAPPED && gBattleMons[playerBattler].level < battleMon->level)
         odds = odds * 410 / 4096;
-    if (GetConfig(B_MISSING_BADGE_CATCH_MALUS) == GEN_9 && badgeCount < NUM_BADGES)
+    if (GetConfig(B_MISSING_BADGE_CATCH_MALUS) == GEN_9 && badgeCount < NUM_BADGES_CAPPED)
     {
-        for (u32 i = badgeCount; i < NUM_BADGES && battleMon->level > sBadgeLevel[i]; i++)
+        for (u32 i = badgeCount; i < ARRAY_COUNT(sBadgeLevel) && battleMon->level > sBadgeLevel[i]; i++)
             odds = odds * 4 / 5;
     }
 

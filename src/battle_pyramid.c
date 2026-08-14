@@ -1141,9 +1141,12 @@ static void UpdatePyramidLightRadius(void)
 {
     s32 j;
 
-    FlagSet(FLAG_LIMIT_TO_50);
-    for (j = 0; j < PARTY_SIZE; j++)
-        CalculateMonStats(&gPlayerParty[j]);
+    if (gSaveBlock2Ptr->frontier.lvlMode == FRONTIER_LVL_50)
+    {
+        FlagSet(FLAG_LIMIT_TO_50);
+        for (j = 0; j < PARTY_SIZE; j++)
+            CalculateMonStats(&gPlayerParty[j]);
+    }
 
     switch (gSpecialVar_0x8006)
     {

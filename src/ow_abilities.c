@@ -111,8 +111,20 @@ u32 GetSynchronizedGender(enum GeneratedMonOrigin origin, u32 species)
         return MON_GENDER_RANDOM;
     if (!(sCuteCharmModes[origin](species)))
         return MON_GENDER_RANDOM;
+    // Species with a fixed gender ratio (genderless or single-gender) can never match the
+    // requested gender, which would hang GetMonPersonality's personality reroll loop.
+    switch (gSpeciesInfo[species].genderRatio)
+    {
+    case MON_MALE:
+    case MON_FEMALE:
+    case MON_GENDERLESS:
+        return MON_GENDER_RANDOM;
+    }
+    // A genderless lead has no gender to invert. Normally impossible, but randomizer
+    // settings can hand cute charm to a genderless species.
     u8 leadingMonGender = GetMonGender(&gPlayerParty[0]);
-    // misses mon is genderless check, although no genderless mon can have cute charm as ability
+    if (leadingMonGender == MON_GENDERLESS)
+        return MON_GENDER_RANDOM;
     if (leadingMonGender == MON_FEMALE)
         return MON_MALE;
     else

@@ -52,7 +52,11 @@
 #define MAX_BATTLE_FRONTIER_POINTS 9999
 #define MAX_STREAK 9999
 
+// Pokemon will be set to this level for the level 50 challenge
 #define FRONTIER_MAX_LEVEL_50   50
+// Pokemon up to this level can enter the level 50 challenge
+#define FRONTIER_MAX_LEVEL_50_ENTER 100
+
 #define FRONTIER_MIN_LEVEL_OPEN 60
 #define FRONTIER_MAX_LEVEL_OPEN MAX_LEVEL
 

@@ -69417,8 +69417,8 @@
           }
         },
         {
-          "map": "MAP_FARAWAY_ISLAND_ENTRANCE_HNS",
-          "base_label": "gFarawayIsland_Entrance_hns_Day",
+          "map": "MAP_FARAWAY_ISLAND_INTERIOR_HNS",
+          "base_label": "gFarawayIsland_Interior_hns_Day",
           "land_mons": {
             "encounter_rate": 20,
             "mons": [
