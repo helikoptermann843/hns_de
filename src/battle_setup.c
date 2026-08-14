@@ -15,6 +15,7 @@
 #include "fieldmap.h"
 #include "follower_npc.h"
 #include "random.h"
+#include "roamer.h"
 #include "starter_choose.h"
 #include "script_pokemon_util.h"
 #include "palette.h"
@@ -450,7 +451,17 @@ void BattleSetup_StartRoamerBattle(void)
     StopPlayerAvatar();
     gMain.savedCallback = CB2_EndWildBattle;
     gBattleTypeFlags = BATTLE_TYPE_ROAMER;
-    CreateBattleStartTask(GetWildBattleTransition(), 0);
+    u16 song = 0;
+#if IS_HNS
+    u16 species = (&gSaveBlock1Ptr->roamer[gEncounteredRoamerIndex])->species;
+    if (species == SPECIES_ENTEI)
+        song = MUS_HG_VS_ENTEI;
+    else if (species == SPECIES_RAIKOU)
+        song = MUS_HG_VS_RAIKOU;
+    else
+        song = MUS_HG_VS_SUICUNE; // Latis and Rando roamers get to vibe to Suicune's sweet tunes
+#endif
+    CreateBattleStartTask(GetWildBattleTransition(), song);
     IncrementGameStat(GAME_STAT_TOTAL_BATTLES);
     IncrementGameStat(GAME_STAT_WILD_BATTLES);
     IncrementDailyWildBattles();
