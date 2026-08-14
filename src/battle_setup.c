@@ -459,7 +459,7 @@ void BattleSetup_StartRoamerBattle(void)
     else if (species == SPECIES_RAIKOU)
         song = MUS_HG_VS_RAIKOU;
     else
-        song = MUS_HG_VS_SUICUNE; // Latis and Rando roamers get to vibe to Suicune's sweet tunes
+        song = MUS_HG_VS_SUICUNE; 
 #endif
     CreateBattleStartTask(GetWildBattleTransition(), song);
     IncrementGameStat(GAME_STAT_TOTAL_BATTLES);

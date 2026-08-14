@@ -452,9 +452,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "Pokémon mit\n"
-            "niedrigem Level."),
+            "Gut für Normal,\n"
+            "Fug, Eis, und\n"
+            "niedrige POKéMON."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -471,9 +471,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "Pokémon, die\n"
-            "geangelt wurden."),
+            "Gut für Wasser,\n"
+            "Drache und\n"
+            "geangelte Pokémon."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -490,9 +490,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "Pokémon, die den\n"
-            "Mondstein nutzen."),
+            "Gut für Unlicht,\n"
+            "Geist, Gift und\n"
+            "Mondstein-Nutzer."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -509,9 +509,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball macht gefan-\n"
-            "gene Pokémon\n"
-            "sofort zutraulich."),
+            "Gut für Käfer,\n"
+            "Pflanze. Macht\n"
+            "Pokémon zutraulich."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -528,9 +528,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "Pokémon des ande-\n"
-            "ren Geschlechts."),
+            "Gut für Psycho,\n"
+            "Fee und das ande-\n"
+            "re Geschlecht."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -547,9 +547,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "sehr schnelle\n"
-            "Pokémon."),
+            "Gut für schnelle,\n"
+            "Feuer, Elektro und\n"
+            "Kampf Pokémon."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
@@ -566,9 +566,9 @@ const struct ItemInfo gItemsInfo[] =
         //.price = (I_PRICE >= GEN_7) ? 0 : 300,
         .price = 300,
         .description = COMPOUND_STRING(
-            "Ball fängt besser\n"
-            "sehr schwere\n"
-            "Pokémon."),
+            "Gut für Boden,\n"
+            "Stein, Stahl und\n"
+            "schwere Pokémon."),
         .pocket = POCKET_POKE_BALLS,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_PokeBall,

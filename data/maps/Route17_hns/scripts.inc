@@ -25,6 +25,14 @@ Route17_EventScript_RegisterRiley::
 Route17_EventScript_RematchRiley::
 	trainerbattle_rematch TRAINER_RILEY_HNS, Route17_Text_RileyRematchIntro, Route17_Text_RileyRematchDefeat
 	msgbox Route17_Text_RileyPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_RILEY_2_HNS, Route17_EventScript_RematchRileyTryGiveItem
+	end
+
+Route17_EventScript_RematchRileyTryGiveItem::
+	checkitem ITEM_TM_TOXIC
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_TOXIC
+	closemessage
 	end
 
 Route17_EventScript_Joel::
@@ -45,6 +53,14 @@ Route17_EventScript_RegisterJoel::
 Route17_EventScript_RematchJoel::
 	trainerbattle_rematch TRAINER_JOEL_HNS, Route17_Text_JoelRematchIntro, Route17_Text_JoelRematchDefeat
 	msgbox Route17_Text_JoelPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_JOEL_2_HNS, Route17_EventScript_RematchJoelTryGiveItem
+	end
+
+Route17_EventScript_RematchJoelTryGiveItem::
+	checkitem ITEM_TM_BRICK_BREAK
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_BRICK_BREAK
+	closemessage
 	end
 
 Route17_EventScript_Glenn::
@@ -70,6 +86,14 @@ Route17_EventScript_RegisterCharles::
 Route17_EventScript_RematchCharles::
 	trainerbattle_rematch TRAINER_CHARLES_HNS, Route17_Text_CharlesRematchIntro, Route17_Text_CharlesRematchDefeat
 	msgbox Route17_Text_CharlesPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_CHARLES_2_HNS, Route17_EventScript_RematchCharlesTryGiveItem
+	end
+
+Route17_EventScript_RematchCharlesTryGiveItem::
+	checkitem ITEM_TM_BULK_UP
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_BULK_UP
+	closemessage
 	end
 
 Route17_Text_BikerRileySeen:

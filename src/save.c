@@ -925,6 +925,12 @@ u8 LoadGameSave(u8 saveType)
         FlagSet(FLAG_ENABLE_CONDITION);
         gSaveBlock1Ptr->saveVersion = 1;
     }
+    if (gSaveBlock1Ptr->saveVersion < 2)
+    {
+        FlagClear(FLAG_ITEM_ICEPATH4_TM_AVALANCHE);
+        FlagClear(FLAG_ITEM_VICTORYROAD1_TM_EARTHQUAKE);
+        gSaveBlock1Ptr->saveVersion = 2;
+    }
 
     // Add version migration steps here:
     // if (gSaveBlock1Ptr->saveVersion < 1)

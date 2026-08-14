@@ -32,6 +32,10 @@ CeladonDept3_Pokemart:
 	.2byte ITEM_TM_BRINE
 	.2byte ITEM_TM_AVALANCHE
 	.2byte ITEM_TM_DARK_PULSE
+	.2byte ITEM_TM_GYRO_BALL
+	.2byte ITEM_TM_DREAM_EATER
+	.2byte ITEM_TM_GIGA_IMPACT
+	.2byte ITEM_TM_ENDURE
 	pokemartlistend
 
 CeladonDept3_EventScript_Directory::

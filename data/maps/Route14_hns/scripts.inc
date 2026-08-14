@@ -177,6 +177,14 @@ Route14_EventScript_RegisterCarter::
 Route14_EventScript_RematchCarter::
 	trainerbattle_rematch TRAINER_CARTER_HNS, Route14_Text_CarterRematchIntro, Route14_Text_CarterRematchDefeat
 	msgbox Route14_Text_CarterPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_CARTER_2_HNS, Route14_EventScript_RematchCarterTryGiveItem
+	end
+
+Route14_EventScript_RematchCarterTryGiveItem::
+	checkitem ITEM_TM_THUNDER_WAVE
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_THUNDER_WAVE
+	closemessage
 	end
 
 Route14_EventScript_Roy::
@@ -202,6 +210,14 @@ Route14_EventScript_RegisterTrevor::
 Route14_EventScript_RematchTrevor::
 	trainerbattle_rematch TRAINER_TREVOR_HNS, Route14_Text_TrevorRematchIntro, Route14_Text_TrevorRematchDefeat
 	msgbox Route14_Text_TrevorPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_TREVOR_2_HNS, Route14_EventScript_RematchTrevorTryGiveItem
+	end
+
+Route14_EventScript_RematchTrevorTryGiveItem::
+	checkitem ITEM_TM_WILL_O_WISP
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_WILL_O_WISP
+	closemessage
 	end
 
 
