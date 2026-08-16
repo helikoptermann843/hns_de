@@ -20,3 +20,4 @@ CliffEdgeCave_Text_Baldman:
 	.string "Für welche Leiter entscheidest du dich?\p"
 	.string "Für die, die nach oben führt, oder für\n"
 	.string "die, die nach unten führt?$"
+
