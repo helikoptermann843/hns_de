@@ -651,20 +651,21 @@ IlexForest_Movement_Kurt2:
 
 IlexForest_Text_ApprenticeIntro:
 	.string "Oh, Mist… Mein Boss wird sauer sein…\p"
-	.string "Das Porenta, das\n"
-	.string "mit dem Zerschneider Bäume\p"
-	.string "fällt, um nach Holzkohle zu\p"
-	.string "suchen, ist abgehauen.\p"
-	.string "Ich traue mich\n"
-	.string "nicht in den Steineichenwald, um nach\n"
-	.string "ihm zu suchen.\p"
-	.string "Er ist so groß, dunkel und unheimlich…$"
+	.string "Das Porenta, das mit dem\n"
+	.string "Zerschneider Bäume fällt,\l"
+	.string "um Holzkohle zu sammeln,\l"
+	.string "ist weggelaufen.\p"
+	.string "Ich traue mich nicht in den\n"
+	.string "Steineichenwald, um nach ihm\l"
+	.string "zu suchen.\p"
+	.string "Der Wald ist so groß,\n"
+	.string "dunkel und unheimlich…$"
 
 IlexForest_Text_ApprenticeAfter:
 	.string "Wow! Vielen Dank auch!\p"
-	.string "Die Pokémon von\n"
-	.string "meinem Boss gehorchen mir nicht, da\l"
-	.string "ich keinen Orden besitze.$"
+	.string "Die Pokémon von meinem Boss\n"
+	.string "gehorchen mir nicht, da ich\l"
+	.string "keinen Orden besitze.$"
 
 IlexForest_Text_ItsTheMissingPokemon:
 	.string "Das vermisste Pokémon!$"
@@ -673,13 +674,12 @@ IlexForest_Text_Kwaaaa:
 	.string "Porenta: Pooorenta!$"
 
 IlexForest_Text_CharcoalMasterIntro:
-	.string "Oh! Das sind ja meine Kleinen,\n"
-	.string "Po und Renta!\p"
+	.string "Oh! Mein Porenta!\p"
 	.string "Sag bloß…\p"
-	.string "Hast du diese beiden etwa\n"
-	.string "für mich eingefangen?!?\p"
-	.string "Wenn diese zwei keine Bäume für mich\n"
-	.string "fällen, kann ich keine Kohle herstellen!\p"
+	.string "Hast du es etwa für mich\n"
+	.string "eingefangen?!?\p"
+	.string "Wenn es keine Bäume für mich fällt,\n"
+	.string "kann ich keine Kohle herstellen!\p"
 	.string "Vielen Dank! Wie kann ich mich nur\n"
 	.string "dafür erkenntlich zeigen?\p"
 	.string "Ich hab’s!\n"
@@ -722,8 +722,7 @@ IlexForest_Text_ShrineCelebiEvent:
 	.string "Zu Ehren des Patrons…\p"
 	.string "Oh? Was ist das?\p"
 	.string "Ein Loch.\n"
-	.string "Es scheint, der GS-Ball passt hinein.\n"
-	.string "\p"
+	.string "Es scheint, der GS-Ball passt hinein.\p"
 	.string "Willst du den GS-Ball einsetzen?$"
 
 IlexForest_Text_InsertGSBall:
@@ -731,9 +730,8 @@ IlexForest_Text_InsertGSBall:
 
 IlexForest_Text_KurtCaughtCelebi:
 	.string "Puh, war das spannend!\p"
-	.string "{PLAYER}, das war fantastisch. Danke!\n"
-	.string "\p"
-	.string "Die Legenden über den Shrine\n"
+	.string "{PLAYER}, das war fantastisch. Danke!\p"
+	.string "Die Legenden über den Schrein\n"
 	.string "waren also wahr.\p"
 	.string "Ich bin inspiriert,\n"
 	.string "bessere Bälle zu machen!\p"

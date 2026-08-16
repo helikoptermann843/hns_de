@@ -364,7 +364,7 @@ Route32_Text_CooltrainerM_AideIsWaiting:
 	.string "Ich habe einen Mann getroffen, der\l"
 	.string "nach dir suchte. Er trug eine Brille…\p"
 	.string "Bestimmt wartet er noch im\n"
-	.string "Pokémon-Supermarkt auf dich!$"
+	.string "Pokémon-Center auf dich!$"
 
 Route32_Text_CooltrainerM_SproutTower:
 	.string "Warst du im Knofensa-Turm?\p"

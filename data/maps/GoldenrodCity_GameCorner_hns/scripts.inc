@@ -240,14 +240,14 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_ReturnToChooseTMPrize::
 	goto GoldenrodCity_GameCorner_PrizeRoom_EventScript_ChooseTMPrize
 
 GoldenrodCity_GameCorner_PrizeRoom_EventScript_ChooseTMPrize::
-	dynmultichoice 12, 0, FALSE, 6, 0, DYN_MULTICHOICE_CB_NONE, GoldenrodCity_GameCorner_PrizeRoom_Text_TM13, GoldenrodCity_GameCorner_PrizeRoom_Text_TM35, GoldenrodCity_GameCorner_PrizeRoom_Text_TM24, GoldenrodCity_GameCorner_PrizeRoom_Text_TM44, GoldenrodCity_GameCorner_PrizeRoom_Text_TM75, GoldenrodCity_GameCorner_PrizeRoom_Text_TM90, GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel
+	dynmultichoice 12, 0, FALSE, 6, 0, DYN_MULTICHOICE_CB_NONE, GoldenrodCity_GameCorner_PrizeRoom_Text_TM44, GoldenrodCity_GameCorner_PrizeRoom_Text_TM90, GoldenrodCity_GameCorner_PrizeRoom_Text_TM75, GoldenrodCity_GameCorner_PrizeRoom_Text_TM13, GoldenrodCity_GameCorner_PrizeRoom_Text_TM24, GoldenrodCity_GameCorner_PrizeRoom_Text_TM35, GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel
 	switch VAR_RESULT
-	case 0, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMIceBeam
-	case 1, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMFlamethrower
-	case 2, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMThunderbolt
-	case 3, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMRest
-	case 4, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMSwordsDance
-	case 5, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMSubstitute
+	case 0, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMRest
+	case 1, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMSubstitute
+	case 2, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMSwordsDance
+	case 3, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMIceBeam
+	case 4, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMThunderbolt
+	case 5, GoldenrodCity_GameCorner_PrizeRoom_EventScript_TMFlamethrower
 	case 6, GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect
 	goto GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect
 	end
@@ -489,23 +489,23 @@ GoldenrodCity_GameCorner_PrizeRoom_EventScript_CancelTMSelect::
 	release
 	end
 
-GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
-	.string "Eisstrahl{CLEAR_TO 0x58}4000$"
-
-GoldenrodCity_GameCorner_PrizeRoom_Text_TM35:
-	.string "Flammenwurf{CLEAR_TO 0x58}4000$"
-
-GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
-	.string "Donnerblitz{CLEAR_TO 0x58}4000$"
-
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM44:
 	.string "Erholung{CLEAR_TO 0x58}2000$"
+
+GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
+	.string "Delegator{CLEAR_TO 0x58}2000$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_TM75:
 	.string "Schwerttanz{CLEAR_TO 0x58}3000$"
 
-GoldenrodCity_GameCorner_PrizeRoom_Text_TM90:
-	.string "Delegator{CLEAR_TO 0x58}2000$"
+GoldenrodCity_GameCorner_PrizeRoom_Text_TM13:
+	.string "Eisstrahl{CLEAR_TO 0x58}4000$"
+
+GoldenrodCity_GameCorner_PrizeRoom_Text_TM24:
+	.string "Donnerblitz{CLEAR_TO 0x58}4000$"
+
+GoldenrodCity_GameCorner_PrizeRoom_Text_TM35:
+	.string "Flammenwurf{CLEAR_TO 0x58}4000$"
 
 GoldenrodCity_GameCorner_PrizeRoom_Text_Cancel:
 	.string "Abbruch$"
@@ -627,9 +627,8 @@ GoldenrodCity_GameCorner_Text_Woman:
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
 	.string "Ich liebe diesen neuen Automaten.\p"
-	.string "Er stellt eine\n"
-	.string "größere Herausforderung dar als jene\l"
-	.string "in Prismania City.$"
+	.string "Er stellt eine größere Herausforderung\n"
+	.string "dar, als jene in Prismania City.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
 	.string "Das Leben ist ein Spiel.\p"
@@ -647,11 +646,11 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
 	.string "Ich höre erst auf, wenn ich gewinne!$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-	.string "Ich habe meinen\n"
-	.string "Pokémon Eisstrahl beigebracht.\p"
+	.string "Ich habe meinen Pokémon Eisstrahl\n"
+	.string "beigebracht.\p"
 	.string "Es hat zwar gedauert, bis ich genug\n"
-	.string "Münzen hatte, aber\l"
-	.string "es hat sich gelohnt.$"
+	.string "Münzen hatte, aber es\l"
+	.string "hat sich gelohnt.$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
 	.string "Ich hatte an den Automaten kein\n"
