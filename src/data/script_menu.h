@@ -267,11 +267,11 @@ static const struct MenuAction MultichoiceList_GameCornerDolls[] =
 
 static const struct MenuAction MultichoiceList_GameCornerTMs[] =
 {
-    {COMPOUND_STRING("TM32{CLEAR_TO 0x3F}1500 Münzen")},
-    {COMPOUND_STRING("TM29{CLEAR_TO 0x3F}3500 Münzen")},
-    {COMPOUND_STRING("TM35{CLEAR_TO 0x3F}4000 Münzen")},
-    {COMPOUND_STRING("TM24{CLEAR_TO 0x3F}4000 Münzen")},
-    {COMPOUND_STRING("TM13{CLEAR_TO 0x3F}4000 Münzen")},
+    {COMPOUND_STRING("TM32{CLEAR_TO 0x48}1500 Münzen")},
+    {COMPOUND_STRING("TM29{CLEAR_TO 0x48}3500 Münzen")},
+    {COMPOUND_STRING("TM35{CLEAR_TO 0x48}4000 Münzen")},
+    {COMPOUND_STRING("TM24{CLEAR_TO 0x48}4000 Münzen")},
+    {COMPOUND_STRING("TM13{CLEAR_TO 0x48}4000 Münzen")},
     {gText_Exit},
 };
 
@@ -884,17 +884,17 @@ const u8 sText_NoThanks[] = _("Nein, danke");
 
 static const struct MenuAction sMultichoiceList_GameCornerPokemonPrizes[] = {
 #if defined(FIRERED)
-    { COMPOUND_STRING("Abra{CLEAR_TO 0x4B}{FONT_SMALL}180 Münzen") },
-    { COMPOUND_STRING("Piepi{CLEAR_TO 0x4B}{FONT_SMALL}500 Münzen") },
+    { COMPOUND_STRING("Abra{CLEAR_TO 0x55B}{FONT_SMALL}180 Münzen") },
+    { COMPOUND_STRING("Piepi{CLEAR_TO 0x55B}{FONT_SMALL}500 Münzen") },
     { COMPOUND_STRING("Dratini{CLEAR_TO 0x4B}{FONT_SMALL}2.800 Münzen") },
     { COMPOUND_STRING("Sichlor{CLEAR_TO 0x4B}{FONT_SMALL}5.500 Münzen") },
     { COMPOUND_STRING("Porygon{CLEAR_TO 0x4B}{FONT_SMALL}9.999 Münzen") },
 #else
-    { COMPOUND_STRING("Abra{CLEAR_TO 0x4B}{FONT_SMALL}120 Münzen") },
-    { COMPOUND_STRING("Piepi{CLEAR_TO 0x4B}{FONT_SMALL}750 Münzen") },
-    { COMPOUND_STRING("Pinsir{CLEAR_TO 0x4B}{FONT_SMALL}2.500 Münzen") },
-    { COMPOUND_STRING("Dratini{CLEAR_TO 0x4B}{FONT_SMALL}4.600 Münzen") },
-    { COMPOUND_STRING("Porygon{CLEAR_TO 0x4B}{FONT_SMALL}6.500 Münzen") },
+    { COMPOUND_STRING("Abra{CLEAR_TO 0x55B}{FONT_SMALL}120") },
+    { COMPOUND_STRING("Piepi{CLEAR_TO 0x55B}{FONT_SMALL}750") },
+    { COMPOUND_STRING("Pinsir{CLEAR_TO 0x4B}{FONT_SMALL}2.500") },
+    { COMPOUND_STRING("Dratini{CLEAR_TO 0x4B}{FONT_SMALL}4.600") },
+    { COMPOUND_STRING("Porygon{CLEAR_TO 0x4B}{FONT_SMALL}6.500") },
 #endif
     { sText_NoThanks }
 };
@@ -1430,7 +1430,7 @@ static const struct MultichoiceListStruct sMultichoiceLists[] =
     [MULTI_LINK_SERVICES_HNS]          = MULTICHOICE(MultichoiceList_LinkServicesHns),
     [MULTI_BATTLE_MODE_HNS]            = MULTICHOICE(MultichoiceList_BattleModeHns),
     [MULTI_FOSSIL_HNS]                = MULTICHOICE(MultichoiceList_FossilHns),
-
+    
 };
 
 const u8 *const gStdStrings[] =

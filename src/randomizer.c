@@ -1022,7 +1022,7 @@ u16 RandomizeEvolution(u16 targetSpecies, u16 originalSpecies)
     do
     {
         result = RandomizerNextRange(&state, RANDOMIZER_MAX_MON) + 1;
-    } while (result > RANDOMIZER_MAX_MON || result == SPECIES_NONE);
+    } while (result > RANDOMIZER_MAX_MON || result == SPECIES_NONE || !IsSpeciesPermitted(result));
 
     return result;
 }
@@ -1097,7 +1097,9 @@ u16 RandomizeEvoMethod(u16 species)
     do
     {
         result = RandomizerNextRange(&state, RANDOMIZER_MAX_MON) + 1;
-    } while (result > RANDOMIZER_MAX_MON || result == SPECIES_NONE);
+    } while (result > RANDOMIZER_MAX_MON || result == SPECIES_NONE || !IsSpeciesPermitted(result));
+
+    MgbaPrintf(MGBA_LOG_ERROR, "%d", result);
 
     return result;
 }

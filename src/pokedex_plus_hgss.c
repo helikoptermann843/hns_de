@@ -6514,17 +6514,17 @@ static void PrintEvolutionTargetSpeciesAndMethod(u8 taskId, u16 species, u8 dept
     u32 arg; // shorthand for some of the more mathy evolutions
     const struct Evolution *evolutions;
 
+    if (sPokedexView->sEvoScreenData.isMega)
+        return;
+
+    StringCopy(gStringVar1, GetSpeciesName(species));
+
 #if RANDOMIZER_AVAILABLE
     if (RandomizerFeatureEnabled(RANDOMIZE_EVO_METHODS))
         species = RandomizeEvoMethod(species);
 #endif
 
     evolutions = GetSpeciesEvolutions(species);
-
-    if (sPokedexView->sEvoScreenData.isMega)
-        return;
-
-    StringCopy(gStringVar1, GetSpeciesName(species));
 
     sPokedexView->sEvoScreenData.arrowSpriteDist[*depth_i] = numLines;
 

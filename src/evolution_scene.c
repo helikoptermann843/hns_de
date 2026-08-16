@@ -37,6 +37,7 @@
 #include "constants/party_menu.h"
 #include "constants/rgb.h"
 #include "constants/songs.h"
+#include "randomizer.h"
 
 struct EvoInfo
 {
@@ -783,9 +784,26 @@ static void Task_EvolutionScene(u8 taskId)
             BattlePutTextOnWindow(gStringVar4, B_WIN_MSG);
             PlayBGM(MUS_EVOLVED);
             gTasks[taskId].tState++;
+
+#if RANDOMIZER_AVAILABLE
+            if (RandomizerFeatureEnabled(RANDOMIZE_EVO_METHODS) || RandomizerFeatureEnabled(RANDOMIZE_EVOLUTIONS))
+            {
+                u32 level = GetMonData(mon, MON_DATA_LEVEL);
+                u32 excess_exp = GetMonData(mon, MON_DATA_EXP) - gExperienceTables[gSpeciesInfo[GetMonData(mon, MON_DATA_SPECIES)].growthRate][level];
+
+                u32 new_exp = gExperienceTables[gSpeciesInfo[gTasks[taskId].tPostEvoSpecies].growthRate][level] + excess_exp;
+                u32 next_lv_exp = gExperienceTables[gSpeciesInfo[gTasks[taskId].tPostEvoSpecies].growthRate][level + 1];
+                if (new_exp >= next_lv_exp)
+                    new_exp = next_lv_exp - 1;
+
+                SetMonData(mon, MON_DATA_EXP, &new_exp);
+            }
+#endif
+
             SetMonData(mon, MON_DATA_SPECIES, (void *)(&gTasks[taskId].tPostEvoSpecies));
             SetMonData(mon, MON_DATA_EVOLUTION_TRACKER, &zero);
             CalculateMonStats(mon);
+
             EvolutionRenameMon(mon, gTasks[taskId].tPreEvoSpecies, gTasks[taskId].tPostEvoSpecies);
             GetSetPokedexFlag(SpeciesToNationalPokedexNum(gTasks[taskId].tPostEvoSpecies), FLAG_SET_SEEN);
             GetSetPokedexFlag(SpeciesToNationalPokedexNum(gTasks[taskId].tPostEvoSpecies), FLAG_SET_CAUGHT);
