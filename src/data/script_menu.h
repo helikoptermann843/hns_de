@@ -267,9 +267,9 @@ static const struct MenuAction MultichoiceList_GameCornerDolls[] =
 
 static const struct MenuAction MultichoiceList_GameCornerDolls2[] =
 {
-    {COMPOUND_STRING("Regirock-Puppe{CLEAR_TO 0x62}9000 C.")},
-    {COMPOUND_STRING("Regice-Puppe{CLEAR_TO 0x62}9000 C.")},
-    {COMPOUND_STRING("Registeel-Puppe{CLEAR_TO 0x62}9000 C.")},
+    {COMPOUND_STRING("Regirock-Puppe{CLEAR_TO 0x62}9000 M.")},
+    {COMPOUND_STRING("Regice-Puppe{CLEAR_TO 0x62}9000 M.")},
+    {COMPOUND_STRING("Registeel-Puppe{CLEAR_TO 0x62}9000 M.")},
     {gText_Exit},
 };
 
