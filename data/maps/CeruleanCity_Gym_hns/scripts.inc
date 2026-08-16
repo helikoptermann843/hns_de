@@ -193,8 +193,9 @@ CeruleanCity_Gym_EventScript_Misty::
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 10
 	call Common_EventScript_SetGymTrainers_hns
-	msgbox CeruleanGym_Text_MistyTm, MSGBOX_DEFAULT
+	msgbox CeruleanGym_Text_Misty_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_WATER_PULSE
+	msgbox CeruleanGym_Text_Misty_ExplainTM, MSGBOX_DEFAULT
 	clearflag FLAG_HIDE_CAPE_MISTY
 	call_if_eq VAR_SUICUNE_ENCOUNTERS, 5, CeruleanCity_Gym_SetSuicuneScene
 	closemessage
@@ -326,3 +327,9 @@ CeruleanGym_Text_GuideWin:
 
 CeruleanGym_Text_MistyTm:
 	.string "Hier, nimm noch das.$"
+
+CeruleanGym_Text_Misty_ExplainTM:
+	.string "Es ist die TM Aquawelle.\p"
+	.string "Sie trifft immer und\n"
+	.string "verwirrt manchmal!$"
+

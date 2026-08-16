@@ -11,8 +11,9 @@ CeladonCity_Gym_EventScript_Erika::
 	message CeladonCity_Gym_Text_PlayerReceivedRainbowBadge
 	waitmessage
 	call Common_EventScript_PlayGymBadgeFanfare
-	msgbox CeladonCity_Gym_Text_ErikaExplainTM, MSGBOX_DEFAULT
+	msgbox CeladonCity_Gym_Text_Erika_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_GIGA_DRAIN
+	msgbox CeladonCity_Gym_Text_Erika_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE12_GET
 	setflag FLAG_DEFEATED_CELADON_GYM
 	addvar VAR_NUM_BADGES, 1
@@ -51,15 +52,18 @@ CeladonCity_Gym_Text_ErikaBeaten:
 CeladonCity_Gym_Text_PlayerReceivedRainbowBadge:
 	.string "{PLAYER} erhält den Farborden!$"
 
-CeladonCity_Gym_Text_ErikaExplainTM:
-	.string "Erika: Das war ein ganz ausgezeichneter\n"
-	.string "Kampf! Ich bin beeindruckt!\p"
-	.string "Dafür sollst du etwas ganz Besonderes\n"
-	.string "bekommen! Die TM19 Gigasauger!\p"
+CeladonCity_Gym_Text_Erika_ExplainTM:
+	.string "Die TM19 Gigasauger!\p"
 	.string "Wenn eins deiner Pokémon diese Attacke\n"
 	.string "einsetzt, erhält es selbst die Hälfte\l"
 	.string "des Schadens, den sie angerichtet hat.\l"
 	.string "Eine gar teuflische Attacke!$"
+
+CeladonCity_Gym_Text_Erika_GiveTM:
+	.string "Erika: Das war ein ganz ausgezeichneter\n"
+	.string "Kampf! Ich bin beeindruckt!\p"
+	.string "Dafür sollst du etwas ganz Besonderes\n"
+	.string "bekommen!$"
 
 CeladonCity_Gym_Text_ErikaAfterBattle:
 	.string "Erika: Niemand verliert gerne…\p"

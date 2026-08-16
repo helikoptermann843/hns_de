@@ -13,7 +13,9 @@ ViridianCity_Gym_EventScript_Blue::
 	waitmessage
 	call Common_EventScript_PlayGymBadgeFanfare
 	msgbox ViridianCity_Gym_Text_LeaderBlue_After, MSGBOX_DEFAULT
+	msgbox ViridianCity_Gym_Text_LeaderBlue_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_TRICK_ROOM
+	msgbox ViridianCity_Gym_Text_LeaderBlue_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE16_GET
 	setflag FLAG_DEFEATED_VIRIDIAN_GYM
 	addvar VAR_NUM_BADGES, 1
@@ -88,6 +90,15 @@ ViridianCity_Gym_Text_LeaderBlue_After:
 	.string "Aber vergiss nicht…\p"
 	.string "Irgendwann wird der Tag kommen,\n"
 	.string "an dem ich dich besiege!$"
+
+ViridianCity_Gym_Text_LeaderBlue_GiveTM:
+	.string "Take this with you.$"
+
+ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
+	.string "That's TRICK ROOM.\p"
+	.string "All POKEMON in battle will change speed.\n"
+	.string "Slow goes first. Fast goes last.\p"
+	.string "Use it to turn a battle on its head.$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "Blau: Hör zu.\p"

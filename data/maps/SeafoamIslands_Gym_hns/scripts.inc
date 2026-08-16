@@ -15,8 +15,9 @@ SeafoamIslands_Gym_EventScript_Blaine::
 	message SeafoamIslands_Gym_Text_ReceivedVolcanoBadge
 	waitmessage
 	call Common_EventScript_PlayGymBadgeFanfare
-	msgbox SeafoamIslands_Gym_Text_TM, MSGBOX_DEFAULT
+	msgbox SeafoamIslands_Gym_Text_Blaine_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_OVERHEAT
+	msgbox SeafoamIslands_Gym_Text_Blaine_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE15_GET
 	setflag FLAG_DEFEATED_CINNABAR_ISLAND_GYM
 	addvar VAR_NUM_BADGES, 1
@@ -66,9 +67,12 @@ SeafoamIslands_Gym_Text_GymStatuePlayerWon::
 	.string "Anerkannte Trainer:\n"
 	.string "Blau, Rot, {PLAYER}$"
 
-SeafoamIslands_Gym_Text_TM:
-	.string "Nimm auch das hier. Diese TM\n"
-	.string "enthält die mächtige Hitzekoller.\p"
+SeafoamIslands_Gym_Text_Blaine_GiveTM:
+	.string "Nimm auch das hier!$"
+
+SeafoamIslands_Gym_Text_Blaine_ExplainTM:
+	.string "Diese TM enthält den\n"
+	.string "mächtigen Hitzekoller.\p"
 	.string "Ich hoffe, dein nächster Gegner\n"
 	.string "hat Feuerheiler dabei! Waaah!$"
 
