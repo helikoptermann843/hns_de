@@ -651,20 +651,21 @@ IlexForest_Movement_Kurt2:
 
 IlexForest_Text_ApprenticeIntro:
 	.string "Oh, Mist… Mein Boss wird sauer sein…\p"
-	.string "Das Porenta, das\n"
-	.string "mit dem Zerschneider Bäume\p"
-	.string "fällt, um nach Holzkohle zu\p"
-	.string "suchen, ist abgehauen.\p"
-	.string "Ich traue mich\n"
-	.string "nicht in den Steineichenwald, um nach\n"
-	.string "ihm zu suchen.\p"
-	.string "Er ist so groß, dunkel und unheimlich…$"
+	.string "Das Porenta, das mit dem\n"
+	.string "Zerschneider Bäume fällt,\l"
+	.string "um nach Holzkohle zu suchen,\l"
+	.string "ist weggelaufen.\p"
+	.string "Ich traue mich nicht in den\n"
+	.string "Steineichenwald, um nach ihm\l"
+	.string "zu suchen.\p"
+	.string "Der Wald ist so groß,\n"
+	.string "dunkel und unheimlich…$"
 
 IlexForest_Text_ApprenticeAfter:
 	.string "Wow! Vielen Dank auch!\p"
-	.string "Die Pokémon von\n"
-	.string "meinem Boss gehorchen mir nicht, da\l"
-	.string "ich keinen Orden besitze.$"
+	.string "Die Pokémon von meinem Boss\n"
+	.string "gehorchen mir nicht, da ich\l"
+	.string "keinen Orden besitze.$"
 
 IlexForest_Text_ItsTheMissingPokemon:
 	.string "Das vermisste Pokémon!$"
