@@ -56,7 +56,8 @@ CeladonCity_Gym_Text_Erika_ExplainTM:
 	.string "Die TM19 Gigasauger!\p"
 	.string "Wenn eins deiner Pokémon diese Attacke\n"
 	.string "einsetzt, erhält es selbst die Hälfte\l"
-	.string "des Schadens, den sie angerichtet hat.\l"
+	.string "des Schadens, den sie angerichtet hat,\l"
+	.string "als KP zurück.\p"
 	.string "Eine gar teuflische Attacke!$"
 
 CeladonCity_Gym_Text_Erika_GiveTM:
