@@ -109,7 +109,7 @@ u16 RandomizeWildEncounter(u16 species, u8 mapNum, u8 mapGroup, enum WildPokemon
 
 bool32 IsRandomizationPossible(u16 tableSpecies, u16 matchSpecies);
 
-u16 RandomizeTrainerMon(u16 trainerId, u8 slot, u8 totalMons, u16 species);
+u16 RandomizeTrainerMon(u8 trainerClass, u8 slot, u8 totalMons, u16 species);
 
 u16 RandomizeFixedEncounterMon(u16 species, u8 mapNum, u8 mapGroup, u8 localId);
 
