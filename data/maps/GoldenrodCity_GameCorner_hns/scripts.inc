@@ -627,9 +627,8 @@ GoldenrodCity_GameCorner_Text_Woman:
 
 GoldenrodCity_GameCorner_Text_PokefanM1:
 	.string "Ich liebe diesen neuen Automaten.\p"
-	.string "Er stellt eine\n"
-	.string "größere Herausforderung dar als jene\l"
-	.string "in Prismania City.$"
+	.string "Er stellt eine größere Herausforderung\n"
+	.string "dar, als jene in Prismania City.$"
 
 GoldenrodCity_GameCorner_Text_CooltrainerM:
 	.string "Das Leben ist ein Spiel.\p"
@@ -647,11 +646,11 @@ GoldenrodCity_GameCorner_Text_CooltrainerF:
 	.string "Ich höre erst auf, wenn ich gewinne!$"
 
 GoldenrodCity_GameCorner_Text_Gentleman:
-	.string "Ich habe meinen\n"
-	.string "Pokémon Eisstrahl beigebracht.\p"
+	.string "Ich habe meinen Pokémon Eisstrahl\n"
+	.string "beigebracht.\p"
 	.string "Es hat zwar gedauert, bis ich genug\n"
-	.string "Münzen hatte, aber\l"
-	.string "es hat sich gelohnt.$"
+	.string "Münzen hatte, aber es\l"
+	.string "hat sich gelohnt.$"
 
 GoldenrodCity_GameCorner_Text_PokefanM2:
 	.string "Ich hatte an den Automaten kein\n"
