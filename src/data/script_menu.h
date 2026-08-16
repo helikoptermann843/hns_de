@@ -267,19 +267,19 @@ static const struct MenuAction MultichoiceList_GameCornerDolls[] =
 
 static const struct MenuAction MultichoiceList_GameCornerDolls2[] =
 {
-    {COMPOUND_STRING("REGIROCK DOLL{CLEAR_TO 0x58}9,000 C.")},
-    {COMPOUND_STRING("REGICE DOLL{CLEAR_TO 0x58}9,000 C.")},
-    {COMPOUND_STRING("REGISTEEL DOLL{CLEAR_TO 0x58}9,000 C.")},
+    {COMPOUND_STRING("Regirock-Puppe{CLEAR_TO 0x62}9000 C.")},
+    {COMPOUND_STRING("Regice-Puppe{CLEAR_TO 0x62}9000 C.")},
+    {COMPOUND_STRING("Registeel-Puppe{CLEAR_TO 0x62}9000 C.")},
     {gText_Exit},
 };
 
 static const struct MenuAction MultichoiceList_PrizeMons[] = 
 {
-    {COMPOUND_STRING("ABRA{CLEAR_TO 0x61}120 C.")},
-    {COMPOUND_STRING("CLEFAIRY{CLEAR_TO 0x61}500 C.")},
-    {COMPOUND_STRING("MUNCHLAX{CLEAR_TO 0x58}2,800 C.")},
-    {COMPOUND_STRING("DRATINI{CLEAR_TO 0x58}5,500 C.")},
-    {COMPOUND_STRING("PORYGON{CLEAR_TO 0x58}6,500 C.")},
+    {COMPOUND_STRING("Abra{CLEAR_TO 0x61}120 M.")},
+    {COMPOUND_STRING("Piepi{CLEAR_TO 0x61}500 M.")},
+    {COMPOUND_STRING("Mampfaxo{CLEAR_TO 0x58}2800 M.")},
+    {COMPOUND_STRING("Dratini{CLEAR_TO 0x58}5500 M.")},
+    {COMPOUND_STRING("Porygon{CLEAR_TO 0x58}6500 M.")},
     {gText_Exit},
 };
 
