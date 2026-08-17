@@ -77,6 +77,7 @@ static u16 GetBattlerPokeballItemId(enum BattlerId battler);
 #define GFX_TAG_PARK_BALL    55025
 #define GFX_TAG_BEAST_BALL   55026
 #define GFX_TAG_CHERISH_BALL 55027
+#define GFX_TAG_GS_BALL      55028
 
 static const struct OamData sBallOamData =
 {
@@ -378,6 +379,12 @@ const struct PokeBallSprite gPokeBalls[POKEBALL_COUNT] =
     {
         POKE_BALL_SPRITE(GFX_TAG_CHERISH_BALL, gBallGfx_Cherish, gBallPal_Cherish),
         .itemId = ITEM_CHERISH_BALL,
+    },
+
+    [BALL_GS]      =
+    {
+        POKE_BALL_SPRITE(GFX_TAG_GS_BALL, gBallGfx_GS, gBallPal_GS),
+        .itemId = ITEM_GS_BALL,
     },
 };
 

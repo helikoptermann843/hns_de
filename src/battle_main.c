@@ -3161,6 +3161,18 @@ static void ClearSetBScriptingStruct(void)
     gBattleScripting.specialTrainerBattleType = specialBattleType;
 }
 
+static bool32 DoesPartyHoldDoublePrizeItem(void)
+{
+    u32 i;
+
+    for (i = 0; i < PARTY_SIZE; i++)
+    {
+        if (GetItemHoldEffect(GetMonData(&gPlayerParty[i], MON_DATA_HELD_ITEM)) == HOLD_EFFECT_DOUBLE_PRIZE)
+            return TRUE;
+    }
+    return FALSE;
+}
+
 static void BattleStartClearSetData(void)
 {
     s32 i;
@@ -3240,7 +3252,16 @@ static void BattleStartClearSetData(void)
     gBattleStruct->safariCatchFactor = gSpeciesInfo[GetMonData(&gEnemyParty[0], MON_DATA_SPECIES)].catchRate * 100 / 1275;
     gBattleStruct->safariEscapeFactor = 3;
     gBattleStruct->wildVictorySong = 0;
-    gBattleStruct->moneyMultiplier = 1;
+    // Amulet Coin applies as long as any party mon holds it, even if that mon never enters the battle.
+    if (DoesPartyHoldDoublePrizeItem())
+    {
+        gBattleStruct->moneyMultiplier = 2;
+        gBattleStruct->moneyMultiplierItem = TRUE;
+    }
+    else
+    {
+        gBattleStruct->moneyMultiplier = 1;
+    }
 
     gBattleStruct->givenExpMons = 0;
     gBattleStruct->palaceFlags = 0;

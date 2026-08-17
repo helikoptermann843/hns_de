@@ -12,7 +12,7 @@
   "allow_running": true,
   "show_map_name": true,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": null,
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_NO_TAIL_SLOWPOKE_HNS",
@@ -25,7 +25,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "0"
+      "flag": "FLAG_HIDE_AZALEA_TOWN_SLOWPOKE"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWBRO",
@@ -51,7 +51,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "0"
+      "flag": "FLAG_HIDE_AZALEA_TOWN_SLOWPOKE"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_ZUBAT",
@@ -116,7 +116,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "0"
+      "flag": "FLAG_HIDE_AZALEA_TOWN_SLOWPOKE"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_KURT_LYING_DOWN_HNS",
@@ -233,7 +233,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "0"
+      "flag": "FLAG_HIDE_AZALEA_TOWN_SLOWPOKE"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_NO_TAIL_SLOWPOKE_HNS",
@@ -246,9 +246,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "0"
+      "flag": "FLAG_HIDE_AZALEA_TOWN_SLOWPOKE"
     },
     {
+      "local_id": "LOCALID_WELL_KURT",
       "graphics_id": "OBJ_EVENT_GFX_KURT_HNS",
       "x": 17,
       "y": 8,
@@ -259,8 +260,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
-      "flag": "FLAG_HIDE_KURT_1",
-      "local_id": "LOCALID_WELL_KURT"
+      "flag": "FLAG_HIDE_KURT_1"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_POKE_BALL",
@@ -300,6 +300,71 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SlowpokeWell_B1F_EventScript_Item_Full_Heal",
       "flag": "FLAG_ITEM_SLOWPOKE_WELL_FULL_HEAL"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWPOKE",
+      "x": 23,
+      "y": 4,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "AzaleaTown_EventScript_Slowpoke",
+      "flag": "FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWPOKE",
+      "x": 23,
+      "y": 16,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "AzaleaTown_EventScript_Slowpoke",
+      "flag": "FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWPOKE",
+      "x": 18,
+      "y": 13,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "AzaleaTown_EventScript_Slowpoke",
+      "flag": "FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWPOKE",
+      "x": 6,
+      "y": 11,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "AzaleaTown_EventScript_Slowpoke",
+      "flag": "FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWPOKE",
+      "x": 7,
+      "y": 12,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_LOOK_AROUND",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "AzaleaTown_EventScript_Slowpoke",
+      "flag": "FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES"
     }
   ],
   "warp_events": [

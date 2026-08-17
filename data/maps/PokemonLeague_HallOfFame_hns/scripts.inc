@@ -55,6 +55,8 @@ PokemonLeague_HallOfFame_EventScript_CutsceneKantoChamp::
 	end
 
 PokemonLeague_HallOfFame_EventScript_SetFirstGameClearFlags::
+	setflag FLAG_HIDE_AZALEA_TOWN_SLOWPOKE
+	clearflag FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES
 	clearflag FLAG_HIDE_LEAGUE_BLACKBELT
 	setflag FLAG_IS_CHAMPION
 	setflag FLAG_HIDE_BATTLEFRONTIER_ENGINEER
@@ -64,6 +66,8 @@ PokemonLeague_HallOfFame_EventScript_SetFirstGameClearFlags::
 	return
 
 PokemonLeague_HallOfFame_EventScript_SetGameClearFlags::
+	setflag FLAG_HIDE_AZALEA_TOWN_SLOWPOKE
+	clearflag FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES
 	clearflag FLAG_HIDE_LATIOS
 	clearflag FLAG_HIDE_LATIAS
 	clearflag FLAG_HIDE_RAYQUAZA

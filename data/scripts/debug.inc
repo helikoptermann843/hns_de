@@ -203,7 +203,7 @@ Debug_EventScript_Text_DefensiveIVs:
 	.string "Hp Ivs: {STR_VAR_1}, DEF Ivs: {STR_VAR_2}, Spdef Ivs: {STR_VAR_3}$"
 
 Debug_EventScript_Script_1::
-	clearflag FLAG_DAILY_FLOWER_SHOP_RECEIVED_BERRY_HNS
+	goto PokemonLeague_HallOfFame_EventScript_SetFirstGameClearFlags
 	release
 	end
 

@@ -1004,7 +1004,9 @@ enum BattleEnvironments BattleSetup_GetEnvironmentId(void)
         return BATTLE_ENVIRONMENT_GRASS;
     if (MetatileBehavior_IsLongGrass(tileBehavior))
         return BATTLE_ENVIRONMENT_LONG_GRASS;
-    if (MetatileBehavior_IsSandOrDeepSand(tileBehavior))
+    // Cave floors frequently use MB_SAND/MB_DEEP_SAND, so skip the sand background
+    // underground and let the map type decide below.
+    if (gMapHeader.mapType != MAP_TYPE_UNDERGROUND && MetatileBehavior_IsSandOrDeepSand(tileBehavior))
         return BATTLE_ENVIRONMENT_SAND;
 
     switch (gMapHeader.mapType)

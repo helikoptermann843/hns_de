@@ -573,6 +573,12 @@
       "map": "MAP_NEW_SINJOH_HNS",
       "x": 39,
       "y": 42
+    },
+    {
+      "id": "HEAL_LOCATION_ROUTE10_HNS",
+      "map": "MAP_ROUTE10_HNS",
+      "x": 16,
+      "y": 36
     }
   ]
 }

@@ -3041,7 +3041,7 @@ bool8 ScrCmd_checkfieldmove(struct ScriptContext *ctx)
 
     Script_RequestEffects(SCREFF_V1);
 
-    gSpecialVar_Result = GetMaxPartySize();
+    gSpecialVar_Result = PARTY_SIZE;
     if (doUnlockedCheck && !IsFieldMoveUnlocked(fieldMove))
         return FALSE;
 
@@ -3058,7 +3058,7 @@ bool8 ScrCmd_checkfieldmove(struct ScriptContext *ctx)
             break;
         }
     }
-    if (gSpecialVar_Result == GetMaxPartySize())
+    if (gSpecialVar_Result == PARTY_SIZE)
     {
         u16 itemId = GetTMHMItemIdFromMoveId(move);
         if (itemId != ITEM_NONE && CheckBagHasItem(itemId, 1))
@@ -3077,6 +3077,28 @@ bool8 ScrCmd_checkfieldmove(struct ScriptContext *ctx)
             }
         }
     }
+    if (gSpecialVar_Result == PARTY_SIZE && HMsOverwriteOptionActive())
+    {
+        // No party mon knows the move or can learn it, which a challenge run (mono-type,
+        // randomized moves, etc.) can make permanent. Owning the TM/HM is enough: let the first
+        // non-egg mon use it regardless of its learnset.
+        enum Item itemId = GetTMHMItemIdFromMoveId(move);
+        if (itemId != ITEM_NONE && CheckBagHasItem(itemId, 1))
+        {
+            for (u32 i = 0; i < GetMaxPartySize(); i++)
+            {
+                u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES);
+                if (!species)
+                    break;
+                if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG))
+                {
+                    gSpecialVar_Result = i;
+                    gSpecialVar_0x8004 = species;
+                    break;
+                }
+            }
+        }
+    }
 
     return FALSE;
 }
@@ -3085,7 +3107,7 @@ bool8 ScrCmd_checkpartymove(struct ScriptContext *ctx)
 {
     u16 moveId = ScriptReadHalfword(ctx);
 
-    gSpecialVar_Result = GetMaxPartySize();
+    gSpecialVar_Result = PARTY_SIZE;
     for (u32 i = 0; i < GetMaxPartySize(); i++)
     {
         u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES);
@@ -3098,25 +3120,13 @@ bool8 ScrCmd_checkpartymove(struct ScriptContext *ctx)
             break;
         }
     }
-    if (gSpecialVar_Result == GetMaxPartySize())
+    if (gSpecialVar_Result == PARTY_SIZE)
     {
-        for (u32 i = 0; i < GetMaxPartySize(); i++)
-        {
-            u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES);
-            if (!species)
-                break;
-            if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG) && CanLearnTeachableMove(species, moveId))
-            {
-                gSpecialVar_Result = i;
-                gSpecialVar_0x8004 = species;
-                break;
-            }
-        }
-    }
-    if (gSpecialVar_Result == GetMaxPartySize() && HMsOverwriteOptionActive())
-    {
-        u16 itemId = GetTMHMItemIdFromMoveId(moveId);
-        if (itemId != ITEM_NONE && CheckBagHasItem(itemId, 1))
+        // A mon that can learn the move may use it without knowing it, but only while the
+        // player actually carries the TM/HM. Moves with no machine at all (Headbutt) have no
+        // item to require, so party learnability alone is enough there.
+        enum Item itemId = GetTMHMItemIdFromMoveId(moveId);
+        if (itemId == ITEM_NONE || CheckBagHasItem(itemId, 1))
         {
             for (u32 i = 0; i < GetMaxPartySize(); i++)
             {
@@ -3124,6 +3134,28 @@ bool8 ScrCmd_checkpartymove(struct ScriptContext *ctx)
                 if (!species)
                     break;
                 if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG) && CanLearnTeachableMove(species, moveId))
+                {
+                    gSpecialVar_Result = i;
+                    gSpecialVar_0x8004 = species;
+                    break;
+                }
+            }
+        }
+    }
+    if (gSpecialVar_Result == PARTY_SIZE && HMsOverwriteOptionActive())
+    {
+        // No party mon knows the move or can learn it, which a challenge run (mono-type,
+        // randomized moves, etc.) can make permanent. Owning the TM/HM is enough: let the first
+        // non-egg mon use it regardless of its learnset.
+        enum Item itemId = GetTMHMItemIdFromMoveId(moveId);
+        if (itemId != ITEM_NONE && CheckBagHasItem(itemId, 1))
+        {
+            for (u32 i = 0; i < GetMaxPartySize(); i++)
+            {
+                u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES);
+                if (!species)
+                    break;
+                if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG))
                 {
                     gSpecialVar_Result = i;
                     gSpecialVar_0x8004 = species;
