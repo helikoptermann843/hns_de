@@ -204,6 +204,7 @@ MahoganyTown_Shop_EventScript_GrannyShop::
 	.align 2
 MahoganyTown_Pokemart:
 	.2byte ITEM_RAGE_CANDY_BAR
+	.2byte ITEM_ICE_STONE
 	.2byte ITEM_METAL_COAT
 	.2byte ITEM_DRAGON_SCALE
 	.2byte ITEM_KINGS_ROCK

@@ -61,6 +61,8 @@ Route13_EventScript_RematchAlex::
 	end
 
 Route13_EventScript_RematchAlexTryGiveItem::
+	checkitem ITEM_RED_SHARD
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
 	giveitem ITEM_RED_SHARD
 	closemessage
 	end
