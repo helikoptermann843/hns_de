@@ -2315,6 +2315,11 @@ u8 GetMaxPartySize(void)
     return (PARTY_SIZE - gSaveBlock3Ptr->challengeSettings.tx_Challenges_PartyLimit);
 }
 
+bool8 IsPartyLimitChallengeActive(void)
+{
+    return (gSaveBlock3Ptr->challengeSettings.tx_Challenges_PartyLimit != 0);
+}
+
 u32 GetBaseStatEqualizerValue(void)
 {
     static const u16 sEqualizerValues[] = {0, 100, 255, 500};

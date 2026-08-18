@@ -8,6 +8,7 @@ void ChallengeMenu_SetInitialSetup(bool8 isInitial);
 void Script_OpenChallengeMenu(struct ScriptContext *ctx);
 bool32 HMsOverwriteOptionActive(void);
 u8 GetMaxPartySize(void);
+bool8 IsPartyLimitChallengeActive(void);
 u8 GetCurrentTrainerIVs(void);
 u8 GetCurrentTrainerEVs(void);
 bool8 IsPokecenterChallengeActivated(void);

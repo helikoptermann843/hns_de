@@ -1445,7 +1445,7 @@ bool8 ScrCmd_givenamedmon(struct ScriptContext *ctx)
     heldItem[0] = item & 0xFF;
     heldItem[1] = item >> 8;
 
-    for (u8 i = 0; i < PARTY_SIZE; i++)
+    for (u8 i = 0; i < GetMaxPartySize(); i++) // tx_randomizer_and_challenges: party limit
     {
         if (GetMonData(&gPlayerParty[i], MON_DATA_SPECIES) == SPECIES_NONE)
         {

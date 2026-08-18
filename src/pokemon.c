@@ -9682,12 +9682,12 @@ u32 GiveScriptedMonToPlayer(struct Pokemon *mon, u8 slot)
     }
     else
     {
-        for (i = 0; i < PARTY_SIZE; i++)
+        for (i = 0; i < GetMaxPartySize(); i++) // tx_randomizer_and_challenges: party limit
         {
             if (GetMonData(&gPlayerParty[i], MON_DATA_SPECIES) == SPECIES_NONE)
                 break;
         }
-        if (i >= PARTY_SIZE)
+        if (i >= GetMaxPartySize())
         {
             sentToPc = CopyMonToPC(mon);
         }

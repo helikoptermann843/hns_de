@@ -708,3 +708,4 @@ gSpecials::
 	def_special PartyMonHasNationalRibbon
 	def_special GivePartyMonNationalRibbon
 	def_special GetMaxPartySize
+	def_special IsPartyLimitChallengeActive

@@ -10,14 +10,21 @@ VioletCity_PokemonCenter_EventScript_Aide::
 	lock
 	faceplayer
 	goto_if_set FLAG_RECEIVED_TOGEPI_EGG, VioletCity_PokemonCenter_EventScript_Aide_Received
+	specialvar VAR_0x8004, GetMaxPartySize @ tx_randomizer_and_challenges
 	getpartysize
-	goto_if_eq VAR_RESULT, PARTY_SIZE, VioletCity_PokemonCenter_EventScript_AideNoRoom
+	goto_if_eq VAR_RESULT, VAR_0x8004, VioletCity_PokemonCenter_EventScript_AideNoRoom
 	msgbox VioletCity_PokeCenter_Text_ElmsAideFavor, MSGBOX_YESNO
 	goto_if_eq VAR_RESULT, NO, VioletCity_PokemonCenter_EventScript_Aide_Refuse
 	goto_if_eq VAR_RESULT, YES, VioletCity_PokemonCenter_EventScript_Aide_Accepted
 	release
 	end
 
+
+VioletCity_PokemonCenter_EventScript_Aide_FullParty::
+	msgbox VioletCity_PokeCenter_Text_ElmsAideFullParty, MSGBOX_DEFAULT
+	closemessage
+	release
+	end
 
 VioletCity_PokemonCenter_EventScript_AideNoRoom::
 	msgbox VioletCity_PokeCenter_Text_ElmsAideNoRoom, MSGBOX_DEFAULT
@@ -33,8 +40,9 @@ VioletCity_PokemonCenter_EventScript_Aide_Refuse::
 	end
 
 VioletCity_PokemonCenter_EventScript_Aide_Accepted::
+	specialvar VAR_0x8004, GetMaxPartySize @ tx_randomizer_and_challenges
 	getpartysize
-	goto_if_eq VAR_RESULT, PARTY_SIZE, VioletCity_PokemonCenter_EventScript_AideFullParty
+	goto_if_eq VAR_RESULT, VAR_0x8004, VioletCity_PokemonCenter_EventScript_Aide_FullParty
 	playfanfare MUS_OBTAIN_ITEM
 	message LavaridgeTown_Text_ReceivedTheEgg
 	waitfanfare

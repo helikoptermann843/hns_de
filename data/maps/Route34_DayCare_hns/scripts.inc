@@ -50,8 +50,9 @@ Route34_DayCare_EventScript_Clerk::
 	faceplayer
 	goto_if_set FLAG_RECEIVED_ODD_EGG, Route34_DayCare_EventScript_ClerkAfter
 	msgbox Route34_DayCare_Text_ClerkBefore, MSGBOX_DEFAULT
+	specialvar VAR_0x8004, GetMaxPartySize @ tx_randomizer_and_challenges
 	getpartysize
-	goto_if_eq VAR_RESULT, PARTY_SIZE, Route34_DayCare_EventScript_ClerkPartyFull
+	goto_if_eq VAR_RESULT, VAR_0x8004, Route34_DayCare_EventScript_ClerkPartyFull
 	msgbox Route34_DayCare_Text_ClerkQuestion, MSGBOX_DEFAULT
 	closemessage
 	setvar VAR_0x8004, EASY_CHAT_TYPE_INTERVIEW
@@ -205,6 +206,8 @@ Route34_DayCare_Text_Ditto:
 Route34_EventScript_DaycareMan::
 	lock
 	faceplayer
+	specialvar VAR_RESULT, IsPartyLimitChallengeActive @ tx_randomizer_and_challenges
+	goto_if_eq VAR_RESULT, TRUE, Route34_DayCare_EventScript_ClosedForChallenge
 	special GetDaycareMonNicknames
 	specialvar VAR_RESULT, GetDaycareState
 	goto_if_eq VAR_RESULT, DAYCARE_EGG_WAITING, Route34_EventScript_DaycareEggWaiting
@@ -278,6 +281,8 @@ Route34_EventScript_CheckOnTwoMons::
 Route34_DayCare_EventScript_DaycareWoman::
 	lock
 	faceplayer
+	specialvar VAR_RESULT, IsPartyLimitChallengeActive @ tx_randomizer_and_challenges
+	goto_if_eq VAR_RESULT, TRUE, Route34_DayCare_EventScript_ClosedForChallenge
 	specialvar VAR_RESULT, GetDaycareState
 	goto_if_eq VAR_RESULT, DAYCARE_EGG_WAITING, Route34_DayCare_EventScript_EggWaiting
 	goto_if_eq VAR_RESULT, DAYCARE_ONE_MON, Route34_DayCare_EventScript_OneMonInDaycare
@@ -323,6 +328,16 @@ Route34_DayCare_EventScript_CanRaiseOneMore::
 	goto_if_eq VAR_RESULT, YES, Route34_DayCare_EventScript_GiveMonToRaise
 	goto Route34_DayCare_EventScript_ComeAgain
 	end
+
+Route34_DayCare_EventScript_ClosedForChallenge::
+	msgbox Route34_DayCare_Text_ClosedForChallenge, MSGBOX_DEFAULT
+	release
+	end
+
+Route34_DayCare_Text_ClosedForChallenge:
+	.string "Sorry, we can't look after your\n"
+	.string "POKéMON during a party limit\l"
+	.string "challenge!$"
 
 Route34_DayCare_EventScript_OnlyOneMon::
 	msgbox Route34_DayCare_Text_YouHaveJustOneMon, MSGBOX_DEFAULT
