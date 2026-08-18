@@ -69425,7 +69425,7 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_PICHU"
+                "species": "SPECIES_AZURILL"
               },
               {
                 "min_level": 5,
@@ -69465,22 +69465,22 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_AZURILL"
+                "species": "SPECIES_TOGEPI"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_SMOOCHUM"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_SMOOCHUM"
+                "species": "SPECIES_TYROGUE"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_AZURILL"
+                "species": "SPECIES_TOGEPI"
               }
             ]
           }
@@ -72419,12 +72419,12 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_UNOWN_G"
+                "species": "SPECIES_LILEEP"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_UNOWN"
+                "species": "SPECIES_ANORITH"
               },
               {
                 "min_level": 5,
@@ -72434,12 +72434,12 @@
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_UNOWN_J"
+                "species": "SPECIES_AERODACTYL"
               },
               {
                 "min_level": 5,
                 "max_level": 5,
-                "species": "SPECIES_UNOWN_K"
+                "species": "SPECIES_AERODACTYL"
               },
               {
                 "min_level": 5,
