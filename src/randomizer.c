@@ -1099,8 +1099,6 @@ u16 RandomizeEvoMethod(u16 species)
         result = RandomizerNextRange(&state, RANDOMIZER_MAX_MON) + 1;
     } while (result > RANDOMIZER_MAX_MON || result == SPECIES_NONE || !IsSpeciesPermitted(result));
 
-    MgbaPrintf(MGBA_LOG_ERROR, "%d", result);
-
     return result;
 }
 

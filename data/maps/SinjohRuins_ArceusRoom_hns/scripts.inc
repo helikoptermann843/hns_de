@@ -281,7 +281,7 @@ SinjohRuins_ArceusRoom_EventScript_Arceus::
 	setflag FLAG_SMART_WILD_AI
 	setflag FLAG_NO_SHINY
 	setwildbossbattle species=SPECIES_ARCEUS_STEEL, level=100, item=ITEM_IRON_PLATE, move1_1=MOVE_JUDGMENT, move1_2=MOVE_HYDRO_PUMP, move1_3=MOVE_RECOVER move1_4=MOVE_DAZZLING_GLEAM
-	settotemboost B_POSITION_OPPONENT_LEFT, 2, 2, 2, 2, 2, 2
+	settotemboost B_POSITION_OPPONENT_LEFT, 2, 2, 0, 2, 2, 2
 	special BattleSetup_StartLegendaryBattle
 	playbgm MUS_HG_VS_ARCEUS, 0
 	waitstate

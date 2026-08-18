@@ -70948,7 +70948,7 @@
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_EXEGGUTOR_ALOLA"
+                "species": "SPECIES_EXEGGCUTE"
               },
               {
                 "min_level": 43,
@@ -71102,7 +71102,7 @@
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_GOLEM_ALOLA"
+                "species": "SPECIES_GRAVELER_ALOLA"
               },
               {
                 "min_level": 43,
@@ -71732,22 +71732,22 @@
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_DUGTRIO_ALOLA"
+                "species": "SPECIES_DIGLETT_ALOLA"
               },
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_MAROWAK_ALOLA"
+                "species": "SPECIES_CUBONE"
               },
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_DUGTRIO_ALOLA"
+                "species": "SPECIES_DIGLETT_ALOLA"
               },
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_MAROWAK_ALOLA"
+                "species": "SPECIES_CUBONE"
               }
             ]
           }
@@ -71791,12 +71791,12 @@
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_SANDSLASH_ALOLA"
+                "species": "SPECIES_SANDSHREW_ALOLA"
               },
               {
                 "min_level": 43,
                 "max_level": 45,
-                "species": "SPECIES_NINETALES_ALOLA"
+                "species": "SPECIES_VULPIX_ALOLA"
               },
               {
                 "min_level": 43,

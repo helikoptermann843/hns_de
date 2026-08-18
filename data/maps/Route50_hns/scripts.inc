@@ -312,8 +312,8 @@ Route50_EventScript_Electrode::
 	faceplayer
 	playmoncry SPECIES_ELECTRODE_HISUI, CRY_MODE_ENCOUNTER
 	waitmoncry
-	setwildbossbattle species=SPECIES_ELECTRODE_HISUI, level=80, item=ITEM_SCOPE_LENS, move1_1=MOVE_STONE_AXE, move1_2=MOVE_CROSS_POISON, move1_3=MOVE_LUNGE move1_4=MOVE_FOCUS_ENERGY
-	settotemboost B_POSITION_OPPONENT_LEFT, 1, 2, 0, 0, 2, 0
+	setwildbossbattle species=SPECIES_ELECTRODE_HISUI, level=80, item=ITEM_BRIGHT_POWDER, move1_1=MOVE_FOUL_PLAY, move1_2=MOVE_ELECTRO_BALL, move1_3=MOVE_ENERGY_BALL move1_4=MOVE_CHLOROBLAST
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 3, 1, 0, 3, 0
 	setflag FLAG_NO_WILD_CATCHING
 	setflag FLAG_NO_WILD_RUNNING
 	setflag FLAG_SMART_WILD_AI

@@ -184,7 +184,6 @@ Alola_Melemele_SamsonOak_Trigger_Beginning::
 	fadedefaultbgm
 	setvar VAR_ALOLA_STATE, 1
 	removeobject SamsonOakMelemeleIntro
-	setflag FLAG_VISITED_ALOLA
 	release
 	end
 
@@ -768,8 +767,8 @@ Alola_Melemele_Bugcatcher_Text_0:
 
 Alola_Melemele_camper_Text_0:
 	.string "Ich bin extra aus Kanto angereist,\n"
-	.string "um mein Lieblings-Vogel-Pokémon\l"
-	.string "Plaudagei zu sehen!$"
+	.string "um mein Lieblings-Katzen-Pokémon\l"
+	.string "Mauzi zu sehen!$"
 
 Alola_Melemele_Picnicker_Text_0:
 	.string "Diese Inseln stecken voller\n"

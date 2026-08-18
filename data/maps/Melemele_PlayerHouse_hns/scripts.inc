@@ -42,7 +42,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_14:
 	compare VAR_RESULT, 2
 	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_33
 	compare VAR_RESULT, 3
-	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_34
+	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_53
 	msgbox Alola_Melemele_SamsonOakVilla_Dialogue_Text_34, MSGBOX_AUTOCLOSE
 	release
 	end
@@ -149,7 +149,10 @@ Alola_Melemele_SamsonOakVilla_Dialogue_49:
 Alola_Melemele_SamsonOakVilla_Dialogue_34:
 	getcaughtmon SPECIES_RAICHU_ALOLA
 	compare VAR_RESULT, 1
-	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_53
+	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_68
+	goto Alola_Melemele_SamsonOakVilla_Dialogue_46
+	end
+
 Alola_Melemele_SamsonOakVilla_Dialogue_52:
 	msgbox Alola_Melemele_SamsonOakVilla_Dialogue_Text_33, MSGBOX_AUTOCLOSE
 	release
@@ -211,7 +214,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_58:
 Alola_Melemele_SamsonOakVilla_Dialogue_60:
 	getcaughtmon SPECIES_DUGTRIO_ALOLA
 	compare VAR_RESULT, 1
-	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_68
+	goto_if_eq Alola_Melemele_SamsonOakVilla_Dialogue_34
 	goto Alola_Melemele_SamsonOakVilla_Dialogue_46
 
 Alola_Melemele_SamsonOakVilla_Dialogue_62:
@@ -750,9 +753,9 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_27:
 	.string "Zeig mir mal deinen Pokédex{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "Es scheint, du hast noch nicht alle\n"
 	.string "Alola-Formen auf Akala gefunden.\p"
-	.string "Auf Akala soll es {COLOR RED}3 {COLOR DARK_GRAY}Alola-Formen\n"
+	.string "Auf Akala soll es {COLOR RED}4 {COLOR DARK_GRAY}Alola-Formen\n"
 	.string "zu entdecken geben…\p"
-	.string "{COLOR RED}Knogga{COLOR DARK_GRAY}, {COLOR RED}Digda{COLOR DARK_GRAY} und {COLOR RED}Digdri{COLOR DARK_GRAY}.\p"
+	.string "{COLOR RED}Raichu{COLOR DARK_GRAY}, {COLOR RED}Knogga{COLOR DARK_GRAY}, {COLOR RED}Digda{COLOR DARK_GRAY}, und {COLOR RED}Digdri{COLOR DARK_GRAY}.\p"
 	.string "Such weiter und komm wieder, wenn\n"
 	.string "du sie alle gefangen hast!$"
 
@@ -797,9 +800,9 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_33:
 	.string "Zeig mir mal deinen Pokédex{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.\p"
 	.string "Es scheint, du hast noch nicht alle\n"
 	.string "Alola-Formen auf Poni gefunden.\p"
-	.string "Auf Poni soll es {COLOR RED}5 {COLOR DARK_GRAY}Alola-Formen\n"
+	.string "Auf Poni soll es {COLOR RED}4 {COLOR DARK_GRAY}Alola-Formen\n"
 	.string "zu entdecken geben…\p"
-	.string "{COLOR RED}Raichu{COLOR DARK_GRAY}, {COLOR RED}Kleinstein{COLOR DARK_GRAY}, {COLOR RED}Georok{COLOR DARK_GRAY},\n"
+	.string "{COLOR RED}Kleinstein{COLOR DARK_GRAY}, {COLOR RED}Georok{COLOR DARK_GRAY},\n"
 	.string "{COLOR RED}Geowaz{COLOR DARK_GRAY} und {COLOR RED}Kokowei{COLOR DARK_GRAY}.\p"
 	.string "Such weiter und komm wieder, wenn\n"
 	.string "du sie alle gefangen hast!$"

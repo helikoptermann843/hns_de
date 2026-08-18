@@ -322,6 +322,7 @@ Route13_TravelToAlola_13:
 	setflag FLAG_HIDE_FLYOVER
 	setflag FLAG_HIDE_PHANT_OUTSIDE
 	setflag FLAG_HIDE_PHANT_INSIDE
+	setflag FLAG_VISITED_ALOLA
 	delay 90
 	fadescreenswapbuffers FADE_TO_BLACK
 	removeobject LOCALID_ROUTE13_BOAT
@@ -334,6 +335,10 @@ Route13_TravelToAlola_10:
 	msgbox Route13_TravelToAlola_Text_1, MSGBOX_AUTOCLOSE
 	goto_if_eq VAR_FACING, DIR_SOUTH, Route13_TravelToAlola_17
 Route13_TravelToAlola_16:
+	addobject LOCALID_ROUTE13_BOAT
+	clearflag FLAG_HIDE_ROUTE13_BOAT
+	applymovement LOCALID_ROUTE13_BOAT, Route13_Movement_BoatArrive
+	waitmovement 0
 	applymovement Route13_Alola_Captain, Route13_TravelToAlola_Movement_1
 	applymovement LOCALID_PLAYER, Route13_TravelToAlola_Movement_1
 	waitmovement 0

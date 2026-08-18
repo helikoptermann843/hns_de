@@ -147,6 +147,7 @@ NewSinjoh_KimonoHideout_EventScript_MiharuBattle::
 	msgbox NewSinjoh_KimonoHideout_Text_MiharuBeforeBattle, MSGBOX_DEFAULT
 	closemessage
 	trainerbattle_no_intro TRAINER_MIHARU_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 2, 2, 0, 0, 2, 0
 	giveitem ITEM_MEADOW_PLATE
 	addvar VAR_PLATECOUNTER, 1
 	msgbox NewSinjoh_KimonoHideout_Text_MiharuAfter, MSGBOX_DEFAULT
@@ -203,6 +204,7 @@ NewSinjoh_KimonoHideout_EventScript_YoukoBattle::
 	msgbox NewSinjoh_KimonoHideout_Text_YoukoBeforeBattle, MSGBOX_DEFAULT
 	closemessage
 	trainerbattle_no_intro TRAINER_YOUKO_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 2, 1, 2, 2, 2
 	giveitem ITEM_ICICLE_PLATE
 	addvar VAR_PLATECOUNTER, 1
 	msgbox NewSinjoh_KimonoHideout_Text_YoukoAfter, MSGBOX_DEFAULT
@@ -257,6 +259,7 @@ NewSinjoh_KimonoHideout_EventScript_ShizukoBattle::
 	msgbox NewSinjoh_KimonoHideout_Text_ShizukoBeforeBattle, MSGBOX_DEFAULT
 	closemessage
 	trainerbattle_no_intro TRAINER_SHIZUKO_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 2, 1, 0, 0, 1, 0
 	giveitem ITEM_PIXIE_PLATE
 	addvar VAR_PLATECOUNTER, 1
 	msgbox NewSinjoh_KimonoHideout_Text_ShizukoAfter, MSGBOX_DEFAULT

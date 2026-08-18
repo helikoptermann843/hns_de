@@ -66,6 +66,7 @@ PokemonLeague_HallOfFame_EventScript_SetFirstGameClearFlags::
 	return
 
 PokemonLeague_HallOfFame_EventScript_SetGameClearFlags::
+	setflag FLAG_HIDE_CERULEANCAVE_GUARD
 	setflag FLAG_HIDE_AZALEA_TOWN_SLOWPOKE
 	clearflag FLAG_HIDE_AZALEA_TOWN_TAILED_SLOWPOKES
 	clearflag FLAG_HIDE_LATIOS
