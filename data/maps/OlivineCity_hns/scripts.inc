@@ -15,6 +15,7 @@ OlivineCity_MapScript_ClearWeather::
 
 OlivineCity_OnFrame::
 	map_script_2 VAR_SAFARI_ZONE_GATE_STATE, 1, OlivineCity_EventScript_BaobaCall
+	map_script_2 VAR_TRIGGER_ELM_ROCKET_CALL, 1, Mahoganytown_EventScript_RocketTrigger
 	.2byte 0
 
 OlivineCity_EventScript_BaobaCall::

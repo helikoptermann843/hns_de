@@ -695,6 +695,7 @@ EcruteakCity_Theater_EventScript_ZukiBattle::
 	call_if_eq VAR_FACING, DIR_WEST, EcruteakCity_Theater_Movement_WestCorrection
 	call_if_eq VAR_FACING, DIR_EAST, EcruteakCity_Theater_Movement_EastCorrection
 	trainerbattle_no_intro TRAINER_ZUKI_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 0, 1, 2, 0, 0
 	applymovement2 LOCALID_ECRUTEAK_ZUKI, EcruteakCity_Theater_Movement_ZukiWalkUp
 	waitmovement 0
 EcruteakCity_Theater_EventScript_NaokoBattle::
@@ -705,6 +706,7 @@ EcruteakCity_Theater_EventScript_NaokoBattle::
 	waitmovement 0
 	msgbox EcruteakCity_Theater_Text_NaokoSeen, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_NAOKO_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 1, 0, 1, 1, 0
 	applymovement2 LOCALID_ECRUTEAK_NAOKO, EcruteakCity_Theater_Movement_NaokoWalkBack
 	waitmovement 0
 EcruteakCity_Theater_EventScript_MikiBattle::
@@ -715,6 +717,7 @@ EcruteakCity_Theater_EventScript_MikiBattle::
 	waitmovement 0
 	msgbox EcruteakCity_Theater_Text_MikiSeen, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_MIKI_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 0, 0, 1, 2, 0
 	applymovement2 LOCALID_ECRUTEAK_MIKI, EcruteakCity_Theater_Movement_MikiWalkBack
 	waitmovement 0
 EcruteakCity_Theater_EventScript_SayoBattle::
@@ -725,6 +728,7 @@ EcruteakCity_Theater_EventScript_SayoBattle::
 	waitmovement 0
 	msgbox EcruteakCity_Theater_Text_SayoSeen, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_SAYO_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 0, 2, 1, 0, 0
 	applymovement2 LOCALID_ECRUTEAK_SAYO, EcruteakCity_Theater_Movement_SayoWalkBack
 	waitmovement 0
 EcruteakCity_Theater_EventScript_KuniBattle::
@@ -735,6 +739,7 @@ EcruteakCity_Theater_EventScript_KuniBattle::
 	waitmovement 0
 	msgbox EcruteakCity_Theater_Text_KuniSeen, MSGBOX_DEFAULT
 	trainerbattle_no_intro TRAINER_KUNI_HNS, EcruteakCity_Theater_Text_KimonoGirlBeaten
+	settotemboost B_POSITION_OPPONENT_LEFT, 0, 2, 0, 0, 1, 0
 	applymovement2 LOCALID_ECRUTEAK_KUNI, EcruteakCity_Theater_Movement_KuniWalkBack
 	waitmovement 0
 EcruteakCity_Theater_EventScript_BeatGauntlet::

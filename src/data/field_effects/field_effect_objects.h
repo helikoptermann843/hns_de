@@ -206,6 +206,25 @@ const struct SpriteTemplate gFieldEffectObjectTemplate_TallGrass = {
     .callback = UpdateTallGrassFieldEffect,
 };
 
+const struct SpritePalette gSpritePalette_AlolaTallGrass = {gFieldEffectObjectPalette_AlolaTallGrass, FLDEFF_PAL_TAG_ALOLA_TALL_GRASS};
+
+static const struct SpriteFrameImage sPicTable_AlolaTallGrass[] = {
+    overworld_frame(gFieldEffectObjectPic_AlolaTallGrass, 2, 2, 0),
+    overworld_frame(gFieldEffectObjectPic_AlolaTallGrass, 2, 2, 1),
+    overworld_frame(gFieldEffectObjectPic_AlolaTallGrass, 2, 2, 2),
+    overworld_frame(gFieldEffectObjectPic_AlolaTallGrass, 2, 2, 3),
+    overworld_frame(gFieldEffectObjectPic_AlolaTallGrass, 2, 2, 4),
+};
+
+const struct SpriteTemplate gFieldEffectObjectTemplate_AlolaTallGrass = {
+    .tileTag = TAG_NONE,
+    .paletteTag = FLDEFF_PAL_TAG_ALOLA_TALL_GRASS,
+    .oam = &gObjectEventBaseOam_16x16,
+    .anims = sAnimTable_TallGrass,
+    .images = sPicTable_AlolaTallGrass,
+    .callback = UpdateTallGrassFieldEffect,
+};
+
 static const struct SpriteFrameImage sPicTable_Ripple[] = {
     overworld_frame(gFieldEffectObjectPic_Ripple, 2, 2, 0),
     overworld_frame(gFieldEffectObjectPic_Ripple, 2, 2, 1),

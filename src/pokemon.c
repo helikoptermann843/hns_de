@@ -69,6 +69,7 @@
 #include "constants/items.h"
 #include "constants/layouts.h"
 #include "constants/moves.h"
+#include "constants/opponents.h"
 #include "constants/party_menu.h"
 #include "constants/regions.h"
 #include "constants/songs.h"
@@ -8046,8 +8047,15 @@ u16 GetBattleBGM(void)
             return MUS_HG_VS_GYM_LEADER_KANTO;
         case TRAINER_CLASS_CHAMPION:
             return MUS_VS_CHAMPION;
-        case TRAINER_CLASS_CHAMPION_HNS:
         case TRAINER_CLASS_PKMN_TRAINER_1_HNS:
+        #if IS_HNS
+            // Steven is an Emerald guest, so he keeps the Emerald champion theme.
+            if (!(gBattleTypeFlags & (BATTLE_TYPE_FRONTIER | BATTLE_TYPE_TRAINER_HILL))
+             && TRAINER_BATTLE_PARAM.opponentA == TRAINER_STEVEN_HNS)
+                return MUS_VS_CHAMPION;
+        #endif
+            return MUS_HG_VS_CHAMPION;
+        case TRAINER_CLASS_CHAMPION_HNS:
             return MUS_HG_VS_CHAMPION;
         case TRAINER_CLASS_RIVAL:
             if (gBattleTypeFlags & BATTLE_TYPE_FRONTIER)

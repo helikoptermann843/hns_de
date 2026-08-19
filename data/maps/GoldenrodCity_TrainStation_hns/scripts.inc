@@ -46,6 +46,7 @@ GoldenrodCity_TrainStation_EventScript_BoardTrain::
 
 	applymovement LOCALID_GOLDENROD_CITY_TRAIN_STATION_TRAIN GoldenrodCity_TrainStation_Movement_SlideRight
 	applymovement OBJ_EVENT_ID_CAMERA, GoldenrodCity_TrainStation_Movement_SlideRight
+	playbgm MUS_HG_MAGNET_TRAIN, FALSE
 	fadescreen FADE_FROM_BLACK
 	playse SE_TRUCK_MOVE
 	delay 220
@@ -58,6 +59,7 @@ GoldenrodCity_TrainStation_EventScript_BoardTrain::
 	setvar VAR_TRAIN, 1
 	delay 60
 	warp MAP_SAFFRON_CITY_TRAIN_STATION_HNS, 1
+	waitstate
 	delay 60
 	end
 

@@ -377,12 +377,7 @@
     "FuchsiaCity_House2_hns",
     "FuchsiaCity_Gym_hns",
     "FuchsiaCity_Route19_Gate_hns",
-    "FuchsiaCity_Route15_Gate_hns",
-    "FuchsiaCity_SafariZoneEntrance_hns",
-    "FuchsiaCity_SafariZoneBeach_hns",
-    "FuchsiaCity_SafariZoneBrush_hns",
-    "FuchsiaCity_SafariZoneMountain_hns",
-    "FuchsiaCity_SafariZoneCave_hns"
+    "FuchsiaCity_Route15_Gate_hns"
   ],
   "gMapGroup_IndoorCinnabar_Hns": [
     "CinnabarIsland_PokemonCenter_hns"
@@ -711,7 +706,12 @@
     "UnusedContestHall5_hns",
     "UnusedContestHall6_hns",
     "TradeCenter_hns",
-    "BattleColosseum_2P_hns"
+    "BattleColosseum_2P_hns",
+    "FuchsiaCity_SafariZoneEntrance_hns",
+    "FuchsiaCity_SafariZoneBeach_hns",
+    "FuchsiaCity_SafariZoneBrush_hns",
+    "FuchsiaCity_SafariZoneMountain_hns",
+    "FuchsiaCity_SafariZoneCave_hns"
   ],
   "gMapGroup_TownsAndRoutes": [
     "PetalburgCity",

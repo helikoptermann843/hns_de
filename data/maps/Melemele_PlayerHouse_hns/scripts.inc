@@ -661,7 +661,7 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_14:
 	.string "Poni$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_15:
-	.string "Not right now.$"
+	.string "Nicht jetzt.$"
 
 Alola_Melemele_SamsonOakVilla_Dialogue_Text_16:
 	.string "Zeig mir mal deinen Pokédex{PAUSE 15}.{PAUSE 15}.{PAUSE 15}.$"
@@ -811,3 +811,4 @@ Alola_Melemele_SamsonOakVilla_Dialogue_Text_34:
 	.string "Kein Problem, {PLAYER}!\p"
 	.string "Komm wieder, wenn du mir von den\n"
 	.string "Alola-Inseln berichten möchtest!$"
+

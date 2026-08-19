@@ -88,9 +88,14 @@ MahoganyTown_Gym_EventScript_PryceVictory::
 	msgbox MahoganyTown_Gym_Text_HailSpeech, MSGBOX_DEFAULT
 	setvar VAR_MAHOGANY_TOWN_STATE, 15
     setrespawn HEAL_LOCATION_MAHOGANY_TOWN_HNS
+    call_if_eq VAR_NUM_BADGES, 7, MahoganyTown_Gym_EventScript_SetupElmRocketCall
 	closemessage
 	release
 	end
+
+MahoganyTown_Gym_EventScript_SetupElmRocketCall::
+    setvar VAR_TRIGGER_ELM_ROCKET_CALL, 1
+    return
 
 MahoganyTown_Gym_EventScript_OlivineCheckCianwood::
 	goto_if_set FLAG_DEFEATED_CIANWOOD_GYM, MahoganyTown_Gym_EventScript_Pryce_Battle3

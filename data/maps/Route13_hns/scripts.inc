@@ -322,7 +322,6 @@ Route13_TravelToAlola_13:
 	setflag FLAG_HIDE_FLYOVER
 	setflag FLAG_HIDE_PHANT_OUTSIDE
 	setflag FLAG_HIDE_PHANT_INSIDE
-	setflag FLAG_VISITED_ALOLA
 	delay 90
 	fadescreenswapbuffers FADE_TO_BLACK
 	removeobject LOCALID_ROUTE13_BOAT
@@ -466,3 +465,4 @@ Route13_TravelToAlola_Text_4:
 	.string "tragen… {PAUSE 30}seltsame Souvenirs.\p"
 	.string "So erkenne ich sie sofort,\n"
 	.string "ganz ohne Fahrkarte!$"
+

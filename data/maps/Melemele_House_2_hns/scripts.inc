@@ -46,3 +46,4 @@ Alola_Pokemart_BaldMan_Text_0:
 	.string "Ich suche Sonnencreme!\p"
 	.string "Hier auf den Inseln scheint die\n"
 	.string "Sonne noch kräftiger!$"
+

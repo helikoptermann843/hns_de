@@ -172,8 +172,8 @@ Alola_Ulaula_House_Phant_Text_3:
 	.string "Ich denke, das hast du dir\nverdient.$"
 
 Alola_Ulaula_House_Phant_Text_4:
-	.string "{PLAYER} erhält\n"
-	.string "ein Ei von Phantonomy!$"
+	.string "Du erhältst ein\n"
+	.string "Ei von Phantonomy!$"
 
 Alola_Ulaula_House_Phant_Text_5:
 	.string "In diesem Ei steckt mein Lieblings-\n"

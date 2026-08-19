@@ -242,6 +242,8 @@ OlivineCity_Gym_EventScript_JasmineVictory::
 	giveitem ITEM_TM_IRON_TAIL
 	msgbox OlivineCity_Gym_Text_JasmineIronTailSpeech, MSGBOX_DEFAULT
 	setvar VAR_OLIVINE_CITY_STATE, 8
+	setrespawn HEAL_LOCATION_OLIVINE_CITY_HNS
+    call_if_eq VAR_NUM_BADGES, 7, MahoganyTown_Gym_EventScript_SetupElmRocketCall
 	closemessage
 	release
 	end

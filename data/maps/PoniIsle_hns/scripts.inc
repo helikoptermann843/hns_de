@@ -171,7 +171,7 @@ Alola_Poni_Totem_sign_12:
 	end
 
 Alola_Poni_Totem_sign_15:
-	warp MAP_AKALA_ISLE_HNS, 9, 10
+	warp MAP_AKALA_ISLE_HNS, 9, 11
 	waitstate
 	end
 
@@ -260,13 +260,29 @@ Alola_Poni_NPC_girl::
 	end
 
 
-Alola_Poni_Bench_Heal::
+Alola_Poni_Bench_Heal_Right::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_EAST
+	goto_if_eq Alola_Poni_Bench_Heal_Skip
+	goto Alola_Poni_Bench_Heal
+
+Alola_Poni_Bench_Heal_Left::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_WEST
+	goto_if_eq Alola_Poni_Bench_Heal_Skip
+	goto Alola_Poni_Bench_Heal
+
+Alola_Poni_Bench_Heal_Skip:
+	end
+
+Alola_Poni_Bench_Heal:
 	lock
 	faceplayer
 	msgbox Alola_Poni_Bench_Heal_Text_0, MSGBOX_YESNO
 	compare VAR_RESULT, YES
 	goto_if_eq Alola_Poni_Bench_Heal_2
 Alola_Poni_Bench_Heal_1:
+	callnative UpdateFollowingPokemon
 	release
 	end
 

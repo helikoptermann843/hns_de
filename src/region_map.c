@@ -2814,6 +2814,37 @@ static const struct FlyLocation sFlyLocations[] =
 #define sIconMapSec   data[0]
 #define sFlickerTimer data[1]
 
+// In the HnS build, fly destinations that aren't cities (towns, routes, and
+// standalone landmarks) get a blue dot instead of the usual red one.
+static bool32 UseBlueFlyDestIcon(u32 mapSecId)
+{
+#if IS_HNS
+    switch (mapSecId)
+    {
+    // Johto
+    case MAPSEC_NEW_BARK_TOWN:
+    case MAPSEC_AZALEA_TOWN:
+    case MAPSEC_MAHOGANY_TOWN:
+    case MAPSEC_SAFARI_ZONE_GATE:
+    case MAPSEC_LAKE_OF_RAGE:
+    case MAPSEC_MT_SILVER:
+    case MAPSEC_ROUTE_26:
+    // Kanto
+    case MAPSEC_PALLET_TOWN:
+    case MAPSEC_LAVENDER_TOWN:
+    case MAPSEC_CINNABAR_ISLAND:
+    case MAPSEC_ROUTE_4:
+    case MAPSEC_ROUTE_10:
+        return TRUE;
+    default:
+        return FALSE;
+    }
+#else
+    (void)mapSecId;
+    return FALSE;
+#endif
+}
+
 static void CreateFlyDestIcons(void)
 {
     enum RegionMapType regionMapType = GetRegionMapType(gMapHeader.regionMapSectionId);
@@ -2841,7 +2872,8 @@ static void CreateFlyDestIcons(void)
         else
             shape = SPRITE_SHAPE(8x8);
 
-        spriteId = CreateSprite(&sFlyDestIconSpriteTemplate, x, y, 10);
+        spriteId = CreateSprite(UseBlueFlyDestIcon(sFlyLocations[i].mapsec) ? &sFlyDestIconBlueSpriteTemplate
+                                                                           : &sFlyDestIconSpriteTemplate, x, y, 10);
         if (spriteId != MAX_SPRITES)
         {
             gSprites[spriteId].oam.shape = shape;

@@ -184,6 +184,7 @@ Alola_Melemele_SamsonOak_Trigger_Beginning::
 	fadedefaultbgm
 	setvar VAR_ALOLA_STATE, 1
 	removeobject SamsonOakMelemeleIntro
+	setflag FLAG_VISITED_ALOLA
 	release
 	end
 
@@ -385,7 +386,7 @@ Alola_Melemele_Totem_sign_12:
 	end
 
 Alola_Melemele_Totem_sign_15:
-	warp MAP_AKALA_ISLE_HNS, 9, 10
+	warp MAP_AKALA_ISLE_HNS, 9, 11
 	waitstate
 	end
 
@@ -751,7 +752,8 @@ Alola_Melemele_BattleVsTapuKoko_Text_0:
 	.string "Ko-Ko-Kooo!$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_0:
-	.string "Das Wasser hier bei den Inseln\nist schön warm!$"
+	.string "Das Wasser hier bei den Inseln\n"
+	.string "ist schön warm!$"
 
 Alola_Melemele_TrainerBattleSwimmer_Text_1:
 	.string "Vielleicht sollte ich mich an Land\netwas abtrocknen…$"
@@ -775,3 +777,4 @@ Alola_Melemele_Picnicker_Text_0:
 	.string "einzigartiger Pokémon!\p"
 	.string "Ich muss mich mit Pokébällen\n"
 	.string "eindecken, um sie alle zu fangen!$"
+

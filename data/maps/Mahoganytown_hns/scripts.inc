@@ -13,17 +13,12 @@ MahoganyTown_EventScript_FixTree::
 	end
 
 Mahoganytown_OnFrame::
-	map_script_2 VAR_MAHOGANY_TOWN_STATE, 15, Mahoganytown_EventScript_DefeatedGym
+	map_script_2 VAR_TRIGGER_ELM_ROCKET_CALL, 1, Mahoganytown_EventScript_RocketTrigger
 	.2byte 0
-
-Mahoganytown_EventScript_DefeatedGym::
-	call_if_eq VAR_LUGIA_OR_HOOH, 0, Mahoganytown_EventScript_LegendaryTrigger
-	call_if_ge VAR_LUGIA_OR_HOOH, 1, Mahoganytown_EventScript_RocketTrigger
-	end
 
 Mahoganytown_EventScript_RocketTrigger::
 	lock
-	setspeaker Mahoganytown_Text_ElmName
+	setspeaker Route30_Text_ElmName
 	pokenavcall ElmPhoneRadioTowerRocketTakeoverText
 	waitmessage
 	setvar VAR_GOLDENROD_CITY_STATE, 6
@@ -32,16 +27,7 @@ Mahoganytown_EventScript_RocketTrigger::
 	setflag FLAG_HIDE_GOLDENROD_NPCS
 	clearflag FLAG_HIDE_ROCKET_GOLDENROD_RADIOTOWER_1
 	setvar VAR_MAHOGANY_TOWN_STATE, 16
-	delay 10
-	release
-	end
-
-Mahoganytown_EventScript_LegendaryTrigger::
-	lock
-	setspeaker Mahoganytown_Text_ElmName
-	pokenavcall ElmPhoneRoute39LegendaryText
-	waitmessage
-	setvar VAR_MAHOGANY_TOWN_STATE, 18
+	setvar VAR_TRIGGER_ELM_ROCKET_CALL, 2
 	delay 10
 	release
 	end
@@ -77,10 +63,6 @@ MahoganyTown_EventScript_TownTrigger::
 	setflag FLAG_HIDE_ROCKETHIDEOUT2_MURKROWGATE
 	setflag FLAG_HIDE_ROCKETHIDEOUT3_MURKROWSTAIRS
 	setflag FLAG_HIDE_ROCKETHIDEOUT2_ARIANA_AND_GRUNT
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER1
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER2
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER3
-	setflag FLAG_HIDE_ICEPATH_B2F_BOULDER4
 
 	setvar VAR_ROCKET_HIDEOUT_STATUE_1, 0
 	setvar VAR_ROCKET_HIDEOUT_STATUE_2, 0
@@ -112,8 +94,7 @@ MahoganyTown_EventScript_MerchantTrigger::
 	turnobject LOCALID_MAHOGANY_MERCHANT, DIR_SOUTH
 	playse SE_PIN
 	applymovement LOCALID_MAHOGANY_MERCHANT, Common_Movement_ExclamationMark
-	delay 55
-	waitmovement LOCALID_MAHOGANY_MERCHANT
+	delay 60
 	turnobject OBJ_EVENT_ID_PLAYER, DIR_NORTH
 	getplayerxy VAR_TEMP_0, VAR_TEMP_1
 	call_if_eq VAR_TEMP_1, 14, MahoganyTown_EventScript_WalkUp2
@@ -323,9 +304,6 @@ MahoganyTown_Text_GymSign:
 	.string "Leiter: Norbert Er wird dir beibringen,\l"
 	.string "was ein harter Winter ist!$"
 
-Mahoganytown_Text_ElmName:
-	.string "Lind$"
-
 ElmPhoneRadioTowerRocketTakeoverText:
 	.string "He, {PLAYER}!\n"
 	.string "Wie stehen die Dinge?\p"
@@ -340,17 +318,3 @@ ElmPhoneRadioTowerRocketTakeoverText:
 	.string "Entschuldige, ich wollte dich nicht\n"
 	.string "beunruhigen. Pass auf dich auf!$"
 
-ElmPhoneRoute39LegendaryText:
-	.string "Prof. Lind: Wow!\n"
-	.string "{PLAYER}, hast du das gesehen?!\p"
-	.string "Ein riesiges Pokémon flog über\n"
-	.string "Teak City hinweg!\p"
-	.string "Ich konnte es sogar von meinem\n"
-	.string "Labor aus sehen!\p"
-	.string "War es eines der legendären\n"
-	.string "Pokémon??\p"
-	.string "Es flog nach Westen,\n"
-	.string "Richtung Route 39.\p"
-	.string "{PLAYER}!\n"
-	.string "Das könnte eine seltene Chance\l"
-	.string "zur Verfolgung sein!$"

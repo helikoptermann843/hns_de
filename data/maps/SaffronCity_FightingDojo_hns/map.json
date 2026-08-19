@@ -12,9 +12,10 @@
   "allow_running": false,
   "show_map_name": false,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": null,
   "object_events": [
     {
+      "local_id": "LOCALID_DOJO_LICKILICKY",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_LICKILICKY",
       "x": 3,
       "y": 6,
@@ -25,10 +26,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Lickilicky_EV_HP",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_LICKILICKY"
+      "flag": "0"
     },
     {
+      "local_id": "LOCALID_DOJO_MACHAMP",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_MACHAMP",
       "x": 25,
       "y": 6,
@@ -39,10 +40,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Machamp_EV_Attack",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_MACHAMP"
+      "flag": "0"
     },
     {
+      "local_id": "LOCALID_DOJO_STEELIX",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_STEELIX",
       "x": 7,
       "y": 9,
@@ -53,10 +54,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Steelix_EV_Defense",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_STEELIX"
+      "flag": "0"
     },
     {
+      "local_id": "LOCALID_DOJO_ALAKAZAM",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_ALAKAZAM",
       "x": 21,
       "y": 9,
@@ -67,10 +68,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Alakazam_EV_SpecialAttack",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_ALAKAZAM"
+      "flag": "0"
     },
     {
+      "local_id": "LOCALID_DOJO_SLOWKING",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_SLOWKING",
       "x": 3,
       "y": 12,
@@ -81,10 +82,10 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Slowking_EV_SpecialDefense",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_SLOWKING"
+      "flag": "0"
     },
     {
+      "local_id": "LOCALID_DOJO_PIDGEOT",
       "graphics_id": "OBJ_EVENT_GFX_MON_BASE+SPECIES_PIDGEOT",
       "x": 25,
       "y": 12,
@@ -95,8 +96,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_FightingDojo_EventScript_Pidgeot_EV_Speed",
-      "flag": "0",
-      "local_id": "LOCALID_DOJO_PIDGEOT"
+      "flag": "0"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_NURSE_HNS",

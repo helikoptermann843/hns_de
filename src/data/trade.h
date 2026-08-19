@@ -1209,21 +1209,53 @@ static const struct InGameTrade sIngameTrades[] =
         .sheen = 10,
         .requestedSpecies = SPECIES_POLIWHIRL
     },
-    [INGAME_TRADE_GALLADE] = 
+    [INGAME_TRADE_TAUROS_WATER] =
     {
-        .nickname = _("SEBASTION"),
-        .species = SPECIES_GALLADE,
+        .nickname = _("TORY"),
+        .species = SPECIES_TAUROS_PALDEA_AQUA,
         .ivs = {31, 31, 31, 31, 31, 31},
-        .abilityNum = 1,
+        .abilityNum = 0,
         .otId = 00475,
-        .conditions = {5, 30, 5, 5, 5},
+        .conditions = {5, 5, 5, 30, 5},
         .personality = 0x498a2e1d,
-        .heldItem = ITEM_LIFE_ORB,
+        .heldItem = ITEM_MYSTIC_WATER,
         .mailNum = MAIL_NONE,
         .otName = _("JESSICA"),
         .otGender = FEMALE,
         .sheen = 10,
-        .requestedSpecies = SPECIES_RELICANTH
+        .requestedSpecies = SPECIES_NONE
+    },
+    [INGAME_TRADE_TAUROS_FIGHT] =
+    {
+        .nickname = _("TORY"),
+        .species = SPECIES_TAUROS_PALDEA_COMBAT,
+        .ivs = {31, 31, 31, 31, 31, 31},
+        .abilityNum = 0,
+        .otId = 00475,
+        .conditions = {30, 5, 5, 5, 5},
+        .personality = 0x498a2e1e,
+        .heldItem = ITEM_BLACK_BELT,
+        .mailNum = MAIL_NONE,
+        .otName = _("JESSICA"),
+        .otGender = FEMALE,
+        .sheen = 10,
+        .requestedSpecies = SPECIES_NONE
+    },
+    [INGAME_TRADE_TAUROS_FIRE] =
+    {
+        .nickname = _("TORY"),
+        .species = SPECIES_TAUROS_PALDEA_BLAZE,
+        .ivs = {31, 31, 31, 31, 31, 31},
+        .abilityNum = 0,
+        .otId = 00475,
+        .conditions = {5, 30, 5, 5, 5},
+        .personality = 0x498a2e1f,
+        .heldItem = ITEM_CHARCOAL,
+        .mailNum = MAIL_NONE,
+        .otName = _("JESSICA"),
+        .otGender = FEMALE,
+        .sheen = 10,
+        .requestedSpecies = SPECIES_NONE
     },
         [INGAME_TRADE_NIDORAN] = 
     {

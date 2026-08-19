@@ -1,5 +1,4 @@
 FuchsiaCity_Route15_Gate_hns_MapScripts::
-	map_script MAP_SCRIPT_ON_FRAME_TABLE, FuchsiaCity_OnFrame
 	.byte 0
 
 Route15_EventScript_Officer::

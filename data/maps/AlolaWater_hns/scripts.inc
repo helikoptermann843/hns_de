@@ -19,3 +19,4 @@ Alola_MelemeleSea_TrainerBattleSwimmer_Text_2:
 	.string "Hier gibt es starke Strömungen.\n"
 	.string "Ich glaube, das zieht starke\l"
 	.string "Pokémon an!$"
+

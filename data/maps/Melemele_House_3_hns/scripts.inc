@@ -28,3 +28,4 @@ Melemele_House3_Man_Text_0:
 	.string "Mein Makler meinte, hier sei es\n"
 	.string "ruhig… Aber die Reise hierher ist\l"
 	.string "wohl billiger als bis nach Alola.$"
+
