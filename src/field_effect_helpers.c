@@ -435,9 +435,13 @@ u32 FldEff_TallGrass(void)
 
     if (gMapHeader.mapLayout->primaryTileset == &gTileset_AlolaIsland)
     {
-        u8 paletteSlot = LoadSpritePalette(&gSpritePalette_AlolaTallGrass);
-        SetPaletteColorMapType(paletteSlot + OBJ_PLTT_ID(0), COLOR_MAP_DARK_CONTRAST);
-        UpdateSpritePaletteWithWeather(paletteSlot, FALSE);
+        u8 paletteSlot = IndexOfSpritePaletteTag(FLDEFF_PAL_TAG_ALOLA_TALL_GRASS);
+        if (paletteSlot == 0xFF)
+        {
+            paletteSlot = LoadSpritePalette(&gSpritePalette_AlolaTallGrass);
+            SetPaletteColorMapType(paletteSlot + 16, COLOR_MAP_DARK_CONTRAST);
+            UpdateSpritePaletteWithWeather(paletteSlot, FALSE);
+        }
         template = &gFieldEffectObjectTemplate_AlolaTallGrass;
     }
     else

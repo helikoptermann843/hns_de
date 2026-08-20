@@ -480,6 +480,7 @@ const struct TrainerClass gTrainerClasses[TRAINER_CLASS_COUNT] =
     [TRAINER_CLASS_YOUNGSTER_HNS] =        { _("Teenager"), 4 },
     [TRAINER_CLASS_PROFESSOR_HNS] =         { _("{PKMN}-Prof."), 25, BALL_FRIEND},
     [TRAINER_CLASS_DEVELOPER_HNS] =           { _("Entwickler"), 50, BALL_MASTER},
+    [TRAINER_CLASS_PYRAMID_KING_HNS] =     { _("Pyrakönig") },
 };
 
 static void (*const sTurnActionsFuncsTable[])(void) =

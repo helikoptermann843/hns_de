@@ -7449,6 +7449,7 @@ Mugshot: Purple
 Items: Super Potion / Super Potion
 
 Haunter
+Ability: Levitate
 Level: 24
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
@@ -7473,6 +7474,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Psywave
 
 Gengar @ Sitrus Berry
+Ability: Levitate
 Level: 25
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Hypnosis
@@ -7508,6 +7510,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Headbutt
 
 Gengar @ Spell Tag
+Ability: Levitate
 Level: 64
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Shadow Ball
@@ -7524,6 +7527,7 @@ IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Perish Song
 
 Gengar @ Sitrus Berry
+Ability: Levitate
 Level: 65
 IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
 - Shadow Ball
@@ -11045,6 +11049,19 @@ Name: Lucy
 Class: Pike Queen Hns
 Pic: Pike Queen Lucy
 Gender: Female
+Music: Male
+Double Battle: No
+AI: Basic Trainer
+
+Beldum
+Level: 5
+IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+
+=== TRAINER_BRANDON_BF_BRAIN_HNS ===
+Name: BRANDON
+Class: Pyramid King Hns
+Pic: Pyramid King Brandon
+Gender: Male
 Music: Male
 Double Battle: No
 AI: Basic Trainer

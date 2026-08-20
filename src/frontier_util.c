@@ -2064,7 +2064,7 @@ static void AppendIfValid(u16 species, u16 heldItem, u16 hp, enum FrontierLevelM
 
     if (species == SPECIES_EGG || species == SPECIES_NONE)
         return;
-    if (gSpeciesInfo[species].isFrontierBanned)
+    if (gSpeciesInfo[species].isFrontierBanned && !gSaveBlock3Ptr->challengeSettings.tx_Features_FrontierBans)
         return;
     if (lvlMode == FRONTIER_LVL_50 && monLevel > FRONTIER_MAX_LEVEL_50_ENTER)
         return;
@@ -2161,7 +2161,7 @@ static void CheckPartyIneligibility(void)
             if (!IsSpeciesEnabled(i))
                 continue;
             baseSpecies = GET_BASE_SPECIES_ID(i);
-            if (baseSpecies == i && gSpeciesInfo[baseSpecies].isFrontierBanned)
+            if (baseSpecies == i && gSpeciesInfo[baseSpecies].isFrontierBanned && !gSaveBlock3Ptr->challengeSettings.tx_Features_FrontierBans)
             {
                 if (GetSetPokedexFlag(SpeciesToNationalPokedexNum(baseSpecies), FLAG_GET_CAUGHT))
                     totalCaughtBanned++;
@@ -2173,7 +2173,7 @@ static void CheckPartyIneligibility(void)
             u16 species = GetMonData(&gPlayerParty[i], MON_DATA_SPECIES_OR_EGG);
             if (species == SPECIES_EGG || species == SPECIES_NONE)
                 continue;
-            if (gSpeciesInfo[GET_BASE_SPECIES_ID(species)].isFrontierBanned)
+            if (gSpeciesInfo[GET_BASE_SPECIES_ID(species)].isFrontierBanned && !gSaveBlock3Ptr->challengeSettings.tx_Features_FrontierBans)
             {
                 bool32 addToList = TRUE;
                 for (j = 0; j < totalPartyBanned; j++)
@@ -3391,7 +3391,7 @@ static u16 *MakeCaughtBannesSpeciesList(u32 totalBannedSpecies)
             continue;
 
         u32 baseSpecies = GET_BASE_SPECIES_ID(i);
-        if (baseSpecies == i && gSpeciesInfo[baseSpecies].isFrontierBanned)
+        if (baseSpecies == i && gSpeciesInfo[baseSpecies].isFrontierBanned && !gSaveBlock3Ptr->challengeSettings.tx_Features_FrontierBans)
         {
             if (GetSetPokedexFlag(SpeciesToNationalPokedexNum(baseSpecies), FLAG_GET_CAUGHT))
             {
