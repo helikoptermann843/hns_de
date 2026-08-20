@@ -88,6 +88,7 @@ static void ClearPokeNews(void);
 static u8 GetTVGroupByShowId(u8);
 static u8 FindFirstActiveTVShowThatIsNotAMassOutbreak(void);
 static void SetTVMetatilesOnMap(int, int, u16);
+static u16 GetTVMetatileId(bool8 on);
 static u8 FindAnyPokeNewsOnTheAir(void);
 static void TakeGabbyAndTyOffTheAir(void);
 static bool8 BernoulliTrial(u16 ratio);
@@ -839,7 +840,7 @@ void UpdateTVScreensOnMap(int width, int height)
     switch (CheckForPlayersHouseNews())
     {
     case PLAYERS_HOUSE_TV_LATI:
-        SetTVMetatilesOnMap(width, height, METATILE_Building_TV_On);
+        SetTVMetatilesOnMap(width, height, GetTVMetatileId(TRUE));
         break;
     case PLAYERS_HOUSE_TV_MOVIE:
         // Don't flash TV for movie text in player's house
@@ -850,15 +851,25 @@ void UpdateTVScreensOnMap(int width, int height)
          && gSaveBlock1Ptr->location.mapNum == MAP_NUM(MAP_LILYCOVE_CITY_COVE_LILY_MOTEL_1F))
         {
             // NPC in Lilycove Hotel is always watching TV
-            SetTVMetatilesOnMap(width, height, METATILE_Building_TV_On);
+            SetTVMetatilesOnMap(width, height, GetTVMetatileId(TRUE));
         }
         else if (FlagGet(FLAG_SYS_TV_START) && (FindAnyTVShowOnTheAir() != 0xFF || FindAnyPokeNewsOnTheAir() != 0xFF || IsGabbyAndTyShowOnTheAir()))
         {
             FlagClear(FLAG_SYS_TV_WATCH);
-            SetTVMetatilesOnMap(width, height, METATILE_Building_TV_On);
+            SetTVMetatilesOnMap(width, height, GetTVMetatileId(TRUE));
         }
         break;
     }
+}
+
+// The TV metatile id depends on which tileset the current map's layout uses,
+// not on the build target; HnS-layout maps use the Johto building tileset.
+static u16 GetTVMetatileId(bool8 on)
+{
+    if (gMapHeader.mapLayout->layoutVersion == LAYOUT_VERSION_HNS)
+        return on ? METATILE_JohtoBuildingHns_TV_On : METATILE_JohtoBuildingHns_TV_Off;
+
+    return on ? METATILE_Building_TV_On : METATILE_Building_TV_Off;
 }
 
 static void SetTVMetatilesOnMap(int width, int height, u16 metatileId)
@@ -878,13 +889,13 @@ static void SetTVMetatilesOnMap(int width, int height, u16 metatileId)
 
 void TurnOffTVScreen(void)
 {
-    SetTVMetatilesOnMap(gBackupMapLayout.width, gBackupMapLayout.height, IS_HNS ? METATILE_JohtoBuildingHns_TV_Off : METATILE_Building_TV_Off);
+    SetTVMetatilesOnMap(gBackupMapLayout.width, gBackupMapLayout.height, GetTVMetatileId(FALSE));
     DrawWholeMapView();
 }
 
 void TurnOnTVScreen(void)
 {
-    SetTVMetatilesOnMap(gBackupMapLayout.width, gBackupMapLayout.height, IS_HNS ? METATILE_JohtoBuildingHns_TV_On : METATILE_Building_TV_On);
+    SetTVMetatilesOnMap(gBackupMapLayout.width, gBackupMapLayout.height, GetTVMetatileId(TRUE));
     DrawWholeMapView();
 }
 

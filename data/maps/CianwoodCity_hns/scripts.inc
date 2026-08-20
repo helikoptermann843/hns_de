@@ -43,6 +43,7 @@ CianwoodCity_EventScript_Flytrigger::
 	msgbox CianwoodCity_Text_ChucksWifeFlySpeech, MSGBOX_DEFAULT
 	closemessage
 	setvar VAR_GETFLY, 2
+	goto_if_eq VAR_TRIGGER_ELM_ROCKET_CALL, 1, Mahoganytown_EventScript_RocketTrigger
 	release
 	end
 

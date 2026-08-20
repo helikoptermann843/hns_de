@@ -172,13 +172,29 @@ Alola_Ulaula_LassNPC::
 	end
 
 
-Alola_Ulaula_Bench_Heal::
+Alola_Ulaula_Bench_Heal_Right::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_EAST
+	goto_if_eq Alola_Ulaula_Bench_Heal_Skip
+	goto Alola_Ulaula_Bench_Heal
+
+Alola_Ulaula_Bench_Heal_Left::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_WEST
+	goto_if_eq Alola_Ulaula_Bench_Heal_Skip
+	goto Alola_Ulaula_Bench_Heal
+
+Alola_Ulaula_Bench_Heal_Skip:
+	end
+
+Alola_Ulaula_Bench_Heal:
 	lock
 	faceplayer
 	msgbox Alola_Ulaula_Bench_Heal_Text_0, MSGBOX_YESNO
 	compare VAR_RESULT, YES
 	goto_if_eq Alola_Ulaula_Bench_Heal_2
 Alola_Ulaula_Bench_Heal_1:
+	callnative UpdateFollowingPokemon
 	release
 	end
 

@@ -28,6 +28,7 @@
       "flag": "0"
     },
     {
+      "local_id": "melemele_elio",
       "graphics_id": "OBJ_EVENT_GFX_LITTLE_BOY_HNS",
       "x": 5,
       "y": 11,
@@ -41,6 +42,7 @@
       "flag": "0"
     },
     {
+      "local_id": "melemele_elio_meowth",
       "graphics_id": "OBJ_EVENT_GFX_SPECIES(MEOWTH)",
       "x": 7,
       "y": 9,

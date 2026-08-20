@@ -802,38 +802,20 @@ static void GenerateStationContent(struct Pokenav_Radio *radio, u8 station)
 
     case RADIO_STATION_BUENAS_PASSWORD:
     {
-        RtcCalcLocalTime();
-        if (GetTimeOfDay() != TIME_NIGHT)
-        {
-            radio->lines[n++] = sRadioText_BuenaMidnight1;
-            radio->lines[n++] = sRadioText_BuenaMidnight2;
-            radio->lines[n++] = sRadioText_BuenaMidnight3;
-            radio->lines[n++] = sRadioText_BuenaMidnight4;
-            radio->lines[n++] = sRadioText_BuenaMidnight5;
-            radio->lines[n++] = sRadioText_BuenaMidnight6;
-            radio->lines[n++] = sRadioText_BuenaMidnight7;
-            radio->lines[n++] = sRadioText_BuenaMidnight8;
-            radio->lines[n++] = sRadioText_BuenaMidnight9;
-            radio->lines[n++] = sRadioText_BuenaMidnight10;
-            radio->lines[n++] = sRadioText_BuenaOffAir;
-        }
-        else
-        {
-            u32 category, word;
-            GetOrGenerateBuenaPassword(&category, &word);
+        u32 category, word;
+        GetOrGenerateBuenaPassword(&category, &word);
 
-            radio->lines[n++] = sRadioText_Buena1;
-            radio->lines[n++] = sRadioText_Buena2;
-            radio->lines[n++] = sRadioText_Buena3;
+        radio->lines[n++] = sRadioText_Buena1;
+        radio->lines[n++] = sRadioText_Buena2;
+        radio->lines[n++] = sRadioText_Buena3;
 
-            dst = radio->lineBuffers[buf];
-            GetBuenaPasswordString(gStringVar1, category, word);
-            StringExpandPlaceholders(dst, sRadioText_Buena4);
-            radio->lines[n++] = radio->lineBuffers[buf++];
+        dst = radio->lineBuffers[buf];
+        GetBuenaPasswordString(gStringVar1, category, word);
+        StringExpandPlaceholders(dst, sRadioText_Buena4);
+        radio->lines[n++] = radio->lineBuffers[buf++];
 
-            radio->lines[n++] = sRadioText_Buena5;
-            radio->lines[n++] = sRadioText_Buena6;
-        }
+        radio->lines[n++] = sRadioText_Buena5;
+        radio->lines[n++] = sRadioText_Buena6;
         break;
     }
 
@@ -1007,7 +989,7 @@ static bool8 IsStationAvailable(u8 station)
         return IsPlayerInJohto();
 
     case RADIO_STATION_BUENAS_PASSWORD:
-        return IsPlayerInJohto() && GetTimeOfDay() == TIME_NIGHT;
+        return IsPlayerInJohto();
 
     case RADIO_STATION_UNOWN:
         return gMapHeader.regionMapSectionId == MAPSEC_RUINS_OF_ALPH;
@@ -1140,15 +1122,6 @@ static u32 HandleRadioInput(void)
                     GenerateOPTSegment(radio);
                     return POKENAV_RADIO_FUNC_SCROLL;
                 }
-                if (radio->currentStation == RADIO_STATION_BUENAS_PASSWORD)
-                {
-                    RtcCalcLocalTime();
-                    if (GetTimeOfDay() != TIME_NIGHT)
-                    {
-                        GenerateStationContent(radio, RADIO_STATION_BUENAS_PASSWORD);
-                        return POKENAV_RADIO_FUNC_SCROLL;
-                    }
-                }
                 radio->currentLine = 0;
             }
             return POKENAV_RADIO_FUNC_SCROLL;
@@ -1184,7 +1157,7 @@ static u32 HandleRadioInput(void)
 
 static u32 GetExitRadioMenuId(void)
 {
-    return POKENAV_MAIN_MENU_CURSOR_ON_MAP;
+    return POKENAV_MAIN_MENU_CURSOR_ON_RADIO;
 }
 
 bool32 OpenPokenavRadio(void)

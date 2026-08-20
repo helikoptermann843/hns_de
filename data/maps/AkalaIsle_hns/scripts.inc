@@ -250,7 +250,7 @@ Alola_Akala_Totem_sign_12:
 	end
 
 Alola_Akala_Totem_sign_15:
-	warp MAP_AKALA_ISLE_HNS, 9, 10
+	warp MAP_AKALA_ISLE_HNS, 9, 11
 	waitstate
 	end
 
@@ -359,7 +359,22 @@ Alola_Akala_TrainerBattleSwimmerWaterM::
 	end
 
 
-Alola_Akala_Bench_Heal::
+Alola_Akala_Bench_Heal_Right::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_EAST
+	goto_if_eq Alola_Akala_Bench_Heal_Skip
+	goto Alola_Akala_Bench_Heal
+
+Alola_Akala_Bench_Heal_Left::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_WEST
+	goto_if_eq Alola_Akala_Bench_Heal_Skip
+	goto Alola_Akala_Bench_Heal
+
+Alola_Akala_Bench_Heal_Skip:
+	end
+
+Alola_Akala_Bench_Heal:
 	lock
 	faceplayer
 	msgbox Alola_Akala_Bench_Heal_Text_0, MSGBOX_YESNO
@@ -440,7 +455,7 @@ Alola_Akala_TotemBattle_Text_1:
 	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Akala_TotemBattle_Text_2:
-	.string "Salaa!$"
+	.string "Prrrob!$"
 
 Alola_Akala_TotemBattle_Text_3:
 	.string "Herrscher-Voluminas wurde besiegt!\n"
@@ -493,7 +508,8 @@ Alola_Akala_TrainerBattlePicnicker_Text_2:
 	.string "kann!$"
 
 Alola_Akala_TrainerBattleCamper_Text_0:
-	.string "Ich will mich als Erster den\nHerrscher-Pokémon beweisen!$"
+	.string "Ich will mich als Erster den\n"
+	.string "Herrscher-Pokémon beweisen!$"
 
 Alola_Akala_TrainerBattleCamper_Text_1:
 	.string "Mist, das hilft meiner Sache\nnicht gerade weiter.$"
@@ -514,7 +530,8 @@ Alola_Akala_TrainerBattleSwimmerLand_Text_2:
 	.string "Weicher Sand und klares Wasser!$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_0:
-	.string "Aus dem Weg!\nIch ziehe hier meine Bahnen!$"
+	.string "Aus dem Weg!\n"
+	.string "Ich ziehe hier meine Bahnen!$"
 
 Alola_Akala_TrainerBattleSwimmerWater_Text_1:
 	.string "Diese Pause hatte ich mir anders\nvorgestellt…$"
@@ -525,7 +542,8 @@ Alola_Akala_TrainerBattleSwimmerWater_Text_2:
 	.string "anderes behauptet!$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_0:
-	.string "Hah! Du brauchst ein Pokémon,\num zu surfen?$"
+	.string "Hah! Du brauchst ein Pokémon,\n"
+	.string "um zu surfen?$"
 
 Alola_Akala_TrainerBattleSwimmerWaterM_Text_1:
 	.string "Wäre ich nicht selbst geschwommen,\n"

@@ -61,6 +61,8 @@ Route13_EventScript_RematchAlex::
 	end
 
 Route13_EventScript_RematchAlexTryGiveItem::
+	checkitem ITEM_RED_SHARD
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
 	giveitem ITEM_RED_SHARD
 	closemessage
 	end
@@ -332,6 +334,10 @@ Route13_TravelToAlola_10:
 	msgbox Route13_TravelToAlola_Text_1, MSGBOX_AUTOCLOSE
 	goto_if_eq VAR_FACING, DIR_SOUTH, Route13_TravelToAlola_17
 Route13_TravelToAlola_16:
+	addobject LOCALID_ROUTE13_BOAT
+	clearflag FLAG_HIDE_ROUTE13_BOAT
+	applymovement LOCALID_ROUTE13_BOAT, Route13_Movement_BoatArrive
+	waitmovement 0
 	applymovement Route13_Alola_Captain, Route13_TravelToAlola_Movement_1
 	applymovement LOCALID_PLAYER, Route13_TravelToAlola_Movement_1
 	waitmovement 0
@@ -459,3 +465,4 @@ Route13_TravelToAlola_Text_4:
 	.string "tragen… {PAUSE 30}seltsame Souvenirs.\p"
 	.string "So erkenne ich sie sofort,\n"
 	.string "ganz ohne Fahrkarte!$"
+

@@ -5185,10 +5185,13 @@ static void SpriteCB_HeldMon(struct Sprite *sprite)
     sprite->y = sStorage->cursorSprite->y + sStorage->cursorSprite->y2 + 4;
 }
 
-static u16 TryLoadMonIconTiles(u16 species, u32 personality, bool32 isEgg)
+// The icon list is keyed by more than just the species: female mons and eggs may
+// have their own icon, so they get their own entry (and their own tiles). The key
+// is stored on the sprite so that it can be looked up again when the icon is
+// destroyed - using the bare species there would decrement the wrong entry, which
+// frees tiles that are still in use by a live icon.
+static u16 GetMonIconListKey(u16 species, u32 personality, bool32 isEgg)
 {
-    u16 i, offset;
-
 #if P_GENDER_DIFFERENCES
     // Treat female mons as a seperate species as they may have a different icon than males
     if (gSpeciesInfo[species].iconSpriteFemale != NULL && IsPersonalityFemale(species, personality))
@@ -5198,6 +5201,15 @@ static u16 TryLoadMonIconTiles(u16 species, u32 personality, bool32 isEgg)
     // Treat eggs as a seperate species as they might have unique sprites
     if (isEgg)
         species |= (1 << 14);
+
+    return species;
+}
+
+static u16 TryLoadMonIconTiles(u16 species, u32 personality, bool32 isEgg)
+{
+    u16 i, offset;
+
+    species = GetMonIconListKey(species, personality, isEgg);
 
     // Search icon list for this species
     for (i = 0; i < MAX_MON_ICONS; i++)
@@ -5231,23 +5243,13 @@ static u16 TryLoadMonIconTiles(u16 species, u32 personality, bool32 isEgg)
     return offset;
 }
 
-static void RemoveSpeciesFromIconList(u16 species)
+static void RemoveSpeciesFromIconList(u16 key)
 {
     u16 i;
-    bool8 hasFemale = FALSE;
 
     for (i = 0; i < MAX_MON_ICONS; i++)
     {
-        if (sStorage->iconSpeciesList[i] == (species | 0x8000))
-        {
-            hasFemale = TRUE;
-            break;
-        }
-    }
-
-    for (i = 0; i < MAX_MON_ICONS; i++)
-    {
-        if (sStorage->iconSpeciesList[i] == species && !hasFemale)
+        if (sStorage->iconSpeciesList[i] == key)
         {
             if (--sStorage->numIconsPerSpecies[i] == 0)
                 sStorage->iconSpeciesList[i] = SPECIES_NONE;
@@ -5288,13 +5290,13 @@ static struct Sprite *CreateMonIconSprite(u16 species, u32 personality, s16 x, s
     spriteId = CreateSprite(&template, x, y, subpriority);
     if (spriteId == MAX_SPRITES)
     {
-        RemoveSpeciesFromIconList(species);
+        RemoveSpeciesFromIconList(GetMonIconListKey(species, personality, isEgg));
         return NULL;
     }
 
     gSprites[spriteId].oam.tileNum = tileNum;
     gSprites[spriteId].oam.priority = oamPriority;
-    gSprites[spriteId].data[0] = species;
+    gSprites[spriteId].data[0] = GetMonIconListKey(species, personality, isEgg);
     return &gSprites[spriteId];
 }
 

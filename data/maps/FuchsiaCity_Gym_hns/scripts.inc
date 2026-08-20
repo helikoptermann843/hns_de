@@ -50,8 +50,9 @@ FuchsiaCity_Gym_EventScript_Janine::
 	message FuchsiaCity_Gym_Text_ReceivedSoulBadge
 	waitmessage
 	call Common_EventScript_PlayGymBadgeFanfare
-	msgbox FuchsiaCity_Gym_Text_Janine_ToxicSpeech, MSGBOX_DEFAULT
+	msgbox FuchsiaCity_Gym_Text_Janine_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_POISON_JAB
+	msgbox FuchsiaCity_Gym_Text_Janine_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE14_GET
 	setflag FLAG_DEFEATED_FUCHSIA_GYM
 	callnative RevealDexEntries_Fuchsia
@@ -100,9 +101,11 @@ FuchsiaCity_Gym_Text_Janine_ToughOne:
 FuchsiaCity_Gym_Text_ReceivedSoulBadge:
 	.string "{PLAYER} erhält den Seelenorden!$"
 
-FuchsiaCity_Gym_Text_Janine_ToxicSpeech:
+FuchsiaCity_Gym_Text_Janine_GiveTM:
 	.string "Janina: Du bist stark! Ich habe hier ein\n"
-	.string "ganz besonderes Geschenk für dich!\p"
+	.string "ganz besonderes Geschenk für dich!$"
+
+FuchsiaCity_Gym_Text_Janine_ExplainTM:
 	.string "Diese Attacke nennt sich Gifthieb und\n"
 	.string "kann deine Gegner vergiften!$"
 

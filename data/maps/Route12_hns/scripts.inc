@@ -44,6 +44,8 @@ Route12_EventScript_RematchKyle::
 	end
 
 Route12_EventScript_RematchKyleTryGiveItem::
+	checkitem ITEM_BLUE_SHARD
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
 	giveitem ITEM_BLUE_SHARD
 	closemessage
 	end

@@ -2,6 +2,8 @@ SaffronCity_FightingDojoVIP_hns_MapScripts::
 	.byte 0
 
 SaffronCity_FightingDojoVIP_EventScript_Nurse::
+	lock
+	faceplayer
 	specialvar VAR_RESULT, IsPokecenterChallengeActivated
 	goto_if_eq VAR_RESULT, TRUE, SSAquaRooms_EventScript_Bed_PokecenterChallenge
 	msgbox SaffronCity_FightingDojoVIP_Text_Nurse1, MSGBOX_NPC

@@ -5,12 +5,23 @@ GoldenrodCity_FlowerShop_hns_MapScripts::
 GoldenrodCity_FlowerShop_EventScript_MintClerk::
 	lock
 	faceplayer
+	goto_if_unset FLAG_BADGE03_GET, GoldenrodCity_FlowerShop_EventScript_MintClerkNotReady
 	message gText_HowMayIServeYou
 	waitmessage
 	pokemart GoldenrodCity_FlowerShop_Mints
 	msgbox gText_PleaseComeAgain, MSGBOX_DEFAULT
 	release
 	end
+
+GoldenrodCity_FlowerShop_EventScript_MintClerkNotReady::
+	msgbox GoldenrodCity_FlowerShop_Text_MintClerkNotReady, MSGBOX_DEFAULT
+	closemessage
+	release
+	end
+
+GoldenrodCity_FlowerShop_Text_MintClerkNotReady:
+	.string "We are currently out of stock.\p"
+	.string "Please come back later.$"
 
 	.align 2
 GoldenrodCity_FlowerShop_Mints:
@@ -35,6 +46,7 @@ GoldenrodCity_FlowerShop_Mints:
 	.2byte ITEM_RELAXED_MINT
 	.2byte ITEM_SASSY_MINT
 	.2byte ITEM_TIMID_MINT
+	.2byte ITEM_MIRROR_HERB
 	pokemartlistend
 
 

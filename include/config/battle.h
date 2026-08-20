@@ -251,7 +251,9 @@
 
 // Badge boost flags
 #define B_FLAG_BADGE_BOOST_ATTACK   FLAG_BADGE01_GET // If this flag is set and B_BADGE_BOOST == GEN_3, it will multiply the player's Pokémon's Attack by x1.1
-#if IS_HNS
+// NOTE: this header is included from constants/global.h *before* IS_HNS is
+// defined, so test the raw build define here instead.
+#ifdef POKEMON_HNS
 #define B_FLAG_BADGE_BOOST_DEFENSE  FLAG_BADGE06_GET // HnS: Mineral Badge (Jasmine) boosts Defense
 #else
 #define B_FLAG_BADGE_BOOST_DEFENSE  FLAG_BADGE05_GET // Emerald: Balance Badge (Norman) boosts Defense

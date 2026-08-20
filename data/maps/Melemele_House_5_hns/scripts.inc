@@ -11,13 +11,19 @@ Melemele_House5_Mom::
 
 
 Melemele_House5_Son::
-	lockall
+	lock
 	faceplayer
 	msgbox Melemele_House5_Son_Text_0
+	applymovement melemele_elio Melemele_House5_Son_Movement
+	playse SE_LEDGE
+	waitse
+	playse SE_LEDGE
+	waitse
+	waitmovement
+	msgbox Melemele_House5_Son_Text_1, MSGBOX_AUTOCLOSE
 	playmoncry SPECIES_MEOWTH, 0
 	waitmoncry
-	msgbox Melemele_House5_Son_Text_1, MSGBOX_AUTOCLOSE
-	releaseall
+	release
 	end
 
 
@@ -30,6 +36,10 @@ Melemele_House5_Cat::
 	release
 	end
 
+Melemele_House5_Son_Movement:
+	jump_in_place_down
+	jump_in_place_down
+	step_end
 
 Melemele_House5_Mom_Text_0:
 	.string "Ich überlege, mit meinem Sohn Elio\n"

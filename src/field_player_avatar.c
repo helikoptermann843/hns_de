@@ -1686,6 +1686,10 @@ bool8 PartyHasMonWithSurf(void)
                 if (!GetMonData(&gPlayerParty[i], MON_DATA_IS_EGG) && CanLearnTeachableMove(species, MOVE_SURF))
                     return TRUE;
             }
+            // Challenge runs (mono-type, randomized moves, etc.) can lock the player out of
+            // every Surf learner, so owning HM03 is enough on its own.
+            if (HMsOverwriteOptionActive())
+                return TRUE;
         }
     }
     return FALSE;

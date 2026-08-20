@@ -42,7 +42,7 @@
       "flag": "FLAG_HIDE_PHANT_INSIDE"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_SPECIES(TYPHLOSION_HISUI)",
+      "graphics_id": "OBJ_EVENT_GFX_SPECIES(TYPHLOSION)",
       "x": 3,
       "y": 12,
       "elevation": 0,

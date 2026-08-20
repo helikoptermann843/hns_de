@@ -185,7 +185,7 @@ static const u8 *const sPyramidFloorNames[FRONTIER_STAGES_PER_CHALLENGE + 1] =
 static const struct WindowTemplate sWindowTemplate_PyramidFloor = {
     .bg = 0,
     .tilemapLeft = 1,
-    .tilemapTop = 5,
+    .tilemapTop = 1,
     .width = 10,
     .height = 4,
     .paletteNum = 15,
@@ -195,7 +195,7 @@ static const struct WindowTemplate sWindowTemplate_PyramidFloor = {
 static const struct WindowTemplate sWindowTemplate_PyramidPeak = {
     .bg = 0,
     .tilemapLeft = 1,
-    .tilemapTop = 5,
+    .tilemapTop = 1,
     .width = 12,
     .height = 4,
     .paletteNum = 15,
@@ -545,8 +545,11 @@ static void RemoveExtraStartMenuWindows(void)
         RemoveWindow(sBattlePyramidFloorWindowId);
     }
 
-    ClearStdWindowAndFrameToTransparent(sStartClockWindowId, FALSE);
-    RemoveWindow(sStartClockWindowId);
+    if (CurrentBattlePyramidLocation() == PYRAMID_LOCATION_NONE)
+    {
+        ClearStdWindowAndFrameToTransparent(sStartClockWindowId, FALSE);
+        RemoveWindow(sStartClockWindowId);
+    }
 }
 
 static bool32 PrintStartMenuActions(s8 *pIndex, u32 count)
@@ -607,7 +610,8 @@ static bool32 InitStartMenuStep(void)
         sInitStartMenuData[0]++;
         break;
     case 4:
-        ShowTimeWindow();
+        if (CurrentBattlePyramidLocation() == PYRAMID_LOCATION_NONE)
+            ShowTimeWindow();
         sInitStartMenuData[0]++;
         break;
     case 5:
@@ -745,8 +749,12 @@ static bool8 HandleStartMenuInput(void)
         return TRUE;
     }
 
-    RemoveExtraStartMenuWindows();
-    ShowTimeWindow();
+    if (CurrentBattlePyramidLocation() == PYRAMID_LOCATION_NONE)
+    {
+        RemoveExtraStartMenuWindows();
+        ShowTimeWindow();
+    }
+
     return FALSE;
 }
 

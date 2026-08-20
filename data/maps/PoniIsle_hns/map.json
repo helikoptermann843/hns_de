@@ -279,7 +279,7 @@
       "elevation": 0,
       "var": "VAR_TEMP_0",
       "var_value": "0",
-      "script": "Alola_Poni_Bench_Heal"
+      "script": "Alola_Poni_Bench_Heal_Right"
     },
     {
       "type": "trigger",
@@ -288,7 +288,7 @@
       "elevation": 0,
       "var": "VAR_TEMP_0",
       "var_value": "0",
-      "script": "Alola_Poni_Bench_Heal"
+      "script": "Alola_Poni_Bench_Heal_Left"
     }
   ],
   "bg_events": [

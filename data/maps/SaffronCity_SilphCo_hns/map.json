@@ -2,7 +2,7 @@
   "id": "MAP_SAFFRON_CITY_SILPH_CO_HNS",
   "name": "SaffronCity_SilphCo_hns",
   "layout": "LAYOUT_SAFFRON_CITY_SILPH_CO_HNS",
-  "music": "MUS_HG_GOLDENROD",
+  "music": "MUS_HG_PEWTER",
   "region_map_section": "MAPSEC_SAFFRON_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -12,7 +12,7 @@
   "allow_running": false,
   "show_map_name": false,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": 0,
+  "connections": null,
   "object_events": [
     {
       "graphics_id": "OBJ_EVENT_GFX_OFFICER_HNS",
@@ -28,6 +28,7 @@
       "flag": "0"
     },
     {
+      "local_id": "LOCALID_SILPHCO_STEVEN",
       "graphics_id": "OBJ_EVENT_GFX_STEVEN_HNS",
       "x": 17,
       "y": 14,
@@ -38,8 +39,7 @@
       "trainer_type": "TRAINER_TYPE_NONE",
       "trainer_sight_or_berry_tree_id": "0",
       "script": "SaffronCity_SilphCo_EventScript_Steven",
-      "flag": "FLAG_GOT_HOENN_STARTER",
-      "local_id": "LOCALID_SILPHCO_STEVEN"
+      "flag": "FLAG_GOT_HOENN_STARTER"
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_BEAUTY_HNS",

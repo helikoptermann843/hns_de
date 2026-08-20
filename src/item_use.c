@@ -470,10 +470,13 @@ bool8 ItemfinderCheckForHiddenItems(const struct MapEvents *events, u8 taskId)
     }
 
     CheckForHiddenItemsInMapConnection(taskId);
-    if (gTasks[taskId].tItemFound == TRUE || gSprites[gObjectEvents[gPlayerAvatar.objectEventId].fieldEffectSpriteId].tItemFound)
-        return TRUE;
+    // Only one of the two storage locations is valid, depending on whether the ORAS
+    // Dowsing Machine is enabled. Reading the other one would read a stale/garbage
+    // fieldEffectSpriteId (or gTasks[TASK_NONE]) and report items that aren't there.
+    if (I_ORAS_DOWSING_FLAG != 0)
+        return (gSprites[gObjectEvents[gPlayerAvatar.objectEventId].fieldEffectSpriteId].tItemFound == TRUE);
     else
-        return FALSE;
+        return (gTasks[taskId].tItemFound == TRUE);
 }
 
 static bool8 IsHiddenItemPresentAtCoords(const struct MapEvents *events, s16 x, s16 y)

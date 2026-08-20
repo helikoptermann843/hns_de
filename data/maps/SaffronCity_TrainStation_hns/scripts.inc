@@ -66,6 +66,7 @@ SaffronStation_EventScript_BoardTrain::
 
 	applymovement LOCALID_SAFFRON_STATION_TRAIN SaffronStation_Movement_SlideLeft
 	applymovement OBJ_EVENT_ID_CAMERA, SaffronStation_Movement_SlideLeft
+	playbgm MUS_HG_MAGNET_TRAIN, FALSE
 	fadescreen FADE_FROM_BLACK
 	playse SE_TRUCK_MOVE
 	delay 220
@@ -78,6 +79,7 @@ SaffronStation_EventScript_BoardTrain::
 	setvar VAR_TRAIN, 1
 	delay 60
 	warp MAP_GOLDENROD_CITY_TRAIN_STATION_HNS, 19, 16
+	waitstate
 	delay 60
 	end
 

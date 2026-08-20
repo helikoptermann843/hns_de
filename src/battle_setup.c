@@ -52,6 +52,7 @@
 #include "constants/event_objects.h"
 #include "constants/game_stat.h"
 #include "constants/items.h"
+#include "constants/metatile_behaviors.h"
 #include "constants/songs.h"
 #include "constants/trainers.h"
 #include "constants/trainer_hill.h"
@@ -651,11 +652,17 @@ void BattleSetup_StartLegendaryBattle(void)
     case SPECIES_LUGIA:
         CreateBattleStartTask(B_TRANSITION_BLUR, MUS_HG_VS_LUGIA);
         break;
-    default:
-        CreateBattleStartTask(B_TRANSITION_BLUR, MUS_RG_VS_LEGEND);
+    case SPECIES_JIRACHI:
+        CreateBattleStartTask(B_TRANSITION_GRID_SQUARES, MUS_VS_MEW);
+        break;
+    case SPECIES_CELEBI:
+        CreateBattleStartTask(B_TRANSITION_GRID_SQUARES, MUS_VS_MEW);
         break;
     case SPECIES_MEW:
         CreateBattleStartTask(B_TRANSITION_GRID_SQUARES, MUS_VS_MEW);
+        break;
+    default:
+        CreateBattleStartTask(B_TRANSITION_BLUR, MUS_RG_VS_LEGEND);
         break;
     }
 
@@ -867,9 +874,7 @@ static const struct {
     {MAP_SAFARI_ZONE_LOW_RIGHT_HNS,              BATTLE_ENVIRONMENT_GRAY_CAVE},
     {MAP_FUCHSIA_CITY_SAFARI_ZONE_CAVE_HNS,      BATTLE_ENVIRONMENT_GRAY_CAVE},
     {MAP_RUINS_OF_ALPH_B1F_HNS,                  BATTLE_ENVIRONMENT_GRAY_CAVE},
-    {MAP_ULA_ULA_CAVE_HNS,                       BATTLE_ENVIRONMENT_GRAY_CAVE},
     {MAP_ULA_ULA_CAVE_2_HNS,                     BATTLE_ENVIRONMENT_GRAY_CAVE},
-    {MAP_AKALA_CAVE_HNS,                         BATTLE_ENVIRONMENT_GRAY_CAVE},
     // BLUE_BUILDING 
     {MAP_ROCKET_HIDEOUT_B1F_HNS,                  BATTLE_ENVIRONMENT_BLUE_BUILDING},
     {MAP_ROCKET_HIDEOUT_B2F_HNS,                  BATTLE_ENVIRONMENT_BLUE_BUILDING},
@@ -998,7 +1003,10 @@ enum BattleEnvironments BattleSetup_GetEnvironmentId(void)
         return BATTLE_ENVIRONMENT_GRASS;
     if (MetatileBehavior_IsLongGrass(tileBehavior))
         return BATTLE_ENVIRONMENT_LONG_GRASS;
-    if (MetatileBehavior_IsSandOrDeepSand(tileBehavior))
+    // Cave floors frequently use MB_SAND/MB_DEEP_SAND, so skip the sand background
+    // underground and let the map type decide below.
+    if (gMapHeader.mapType != MAP_TYPE_UNDERGROUND
+     && (MetatileBehavior_IsSandOrDeepSand(tileBehavior) || tileBehavior == MB_SHALLOW_WATER))
         return BATTLE_ENVIRONMENT_SAND;
 
     switch (gMapHeader.mapType)

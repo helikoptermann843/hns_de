@@ -10,6 +10,7 @@
 #include "palette.h"
 #include "sound.h"
 #include "sprite.h"
+#include "tilesets.h"
 #include "trig.h"
 #include "constants/event_objects.h"
 #include "constants/field_effects.h"
@@ -428,10 +429,26 @@ void UpdateShadowFieldEffect(struct Sprite *sprite)
 u32 FldEff_TallGrass(void)
 {
     u8 spriteId;
+    const struct SpriteTemplate *template;
     s16 x = gFieldEffectArguments[0];
     s16 y = gFieldEffectArguments[1];
+
+    if (gMapHeader.mapLayout->primaryTileset == &gTileset_AlolaIsland)
+    {
+        u8 paletteSlot = IndexOfSpritePaletteTag(FLDEFF_PAL_TAG_ALOLA_TALL_GRASS);
+        if (paletteSlot == 0xFF)
+        {
+            paletteSlot = LoadSpritePalette(&gSpritePalette_AlolaTallGrass);
+            SetPaletteColorMapType(paletteSlot + 16, COLOR_MAP_DARK_CONTRAST);
+            UpdateSpritePaletteWithWeather(paletteSlot, FALSE);
+        }
+        template = &gFieldEffectObjectTemplate_AlolaTallGrass;
+    }
+    else
+        template = gFieldEffectObjectTemplatePointers[FLDEFFOBJ_TALL_GRASS];
+
     SetSpritePosToOffsetMapCoords(&x, &y, 8, 8);
-    spriteId = CreateSpriteAtEnd(gFieldEffectObjectTemplatePointers[FLDEFFOBJ_TALL_GRASS], x, y, 0);
+    spriteId = CreateSpriteAtEnd(template, x, y, 0);
     if (spriteId != MAX_SPRITES)
     {
         struct Sprite *sprite = &gSprites[spriteId];

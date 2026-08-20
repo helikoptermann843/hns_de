@@ -189,19 +189,6 @@
     },
     {
       "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL_HNS",
-      "x": 18,
-      "y": 8,
-      "elevation": 0,
-      "movement_type": "MOVEMENT_TYPE_INVISIBLE",
-      "movement_range_x": 0,
-      "movement_range_y": 0,
-      "trainer_type": "TRAINER_TYPE_NONE",
-      "trainer_sight_or_berry_tree_id": "0",
-      "script": "Alola_Akala_Island_Finditem3",
-      "flag": "FLAG_AKALA_HIDDEN_ITEM_3"
-    },
-    {
-      "graphics_id": "OBJ_EVENT_GFX_ITEM_BALL_HNS",
       "x": 42,
       "y": 12,
       "elevation": 0,
@@ -320,7 +307,7 @@
       "flag": "0"
     },
     {
-      "graphics_id": "OBJ_EVENT_GFX_SPECIES(RATTATA_ALOLA)",
+      "graphics_id": "OBJ_EVENT_GFX_SPECIES(AIPOM)",
       "x": 9,
       "y": 21,
       "elevation": 0,
@@ -430,7 +417,7 @@
       "elevation": 0,
       "var": "VAR_TEMP_0",
       "var_value": "0",
-      "script": "Alola_Akala_Bench_Heal"
+      "script": "Alola_Akala_Bench_Heal_Right"
     },
     {
       "type": "trigger",
@@ -439,7 +426,7 @@
       "elevation": 0,
       "var": "VAR_TEMP_0",
       "var_value": "0",
-      "script": "Alola_Akala_Bench_Heal"
+      "script": "Alola_Akala_Bench_Heal_Left"
     }
   ],
   "bg_events": [
@@ -466,6 +453,14 @@
       "elevation": 0,
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "Alola_Akala_Totem_sign"
+    },
+    {
+      "type": "hidden_item",
+      "x": 18,
+      "y": 8,
+      "elevation": 0,
+      "item": "ITEM_ZINC",
+      "flag": "FLAG_AKALA_HIDDEN_ITEM_3"
     }
   ],
   "game_version": "hns",

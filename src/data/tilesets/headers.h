@@ -2663,7 +2663,7 @@ const struct Tileset gTileset_MtSilver_Exp_Hns =
     .palettes = gTilesetPalettes_MtSilver_Exp_Hns,
     .metatiles = gMetatiles_MtSilver_Exp_Hns,
     .metatileAttributes = gMetatileAttributes_MtSilver_Exp_Hns,
-    .callback = InitTilesetAnim_JohtoGeneral,
+    .callback = InitTilesetAnim_MtSilverExp,
 };
 
 

@@ -930,6 +930,7 @@ struct SimulatedDamage AI_CalcDamage(enum Move move, enum BattlerId battlerAtk, 
     // We can set those globals because they are going to get rerolled on attack execution
     gBattleStruct->magnitudeBasePower = 70;
     gBattleStruct->presentBasePower = 80;
+    gBattleStruct->beatUpSlot = 0;
 
     struct BattleContext ctx = {0};
     ctx.aiCalc = TRUE;

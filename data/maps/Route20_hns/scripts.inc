@@ -33,6 +33,8 @@ Route20_EventScript_RematchNicole::
 	end
 
 Route20_EventScript_RematchNicoleTryGiveItem::
+	checkitem ITEM_HEART_SCALE
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
 	giveitem ITEM_HEART_SCALE
 	closemessage
 	end

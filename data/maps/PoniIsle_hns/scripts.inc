@@ -96,7 +96,7 @@ Alola_Poni_TotemBattle::
 	playmoncry SPECIES_ELECTIVIRE, 0
 	msgbox Alola_Poni_TotemBattle_Text_0, MSGBOX_AUTOCLOSE
 	waitmoncry
-	setwildbattle SPECIES_ELECTABUZZ, 60, ITEM_NONE, SPECIES_ELECTIVIRE, 60, ITEM_OCCA_BERRY
+	setwildbattle SPECIES_ELECTABUZZ, 60, ITEM_NONE, SPECIES_ELECTIVIRE, 60, ITEM_SHUCA_BERRY
 	settotemboost B_POSITION_OPPONENT_RIGHT, 1, 1, 1, 1, 1, 1
 	setflag FLAG_NO_WILD_CATCHING
 	setflag FLAG_NO_WILD_RUNNING
@@ -171,7 +171,7 @@ Alola_Poni_Totem_sign_12:
 	end
 
 Alola_Poni_Totem_sign_15:
-	warp MAP_AKALA_ISLE_HNS, 9, 10
+	warp MAP_AKALA_ISLE_HNS, 9, 11
 	waitstate
 	end
 
@@ -260,13 +260,29 @@ Alola_Poni_NPC_girl::
 	end
 
 
-Alola_Poni_Bench_Heal::
+Alola_Poni_Bench_Heal_Right::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_EAST
+	goto_if_eq Alola_Poni_Bench_Heal_Skip
+	goto Alola_Poni_Bench_Heal
+
+Alola_Poni_Bench_Heal_Left::
+	specialvar VAR_RESULT, GetPlayerFacingDirection
+	compare VAR_RESULT, DIR_WEST
+	goto_if_eq Alola_Poni_Bench_Heal_Skip
+	goto Alola_Poni_Bench_Heal
+
+Alola_Poni_Bench_Heal_Skip:
+	end
+
+Alola_Poni_Bench_Heal:
 	lock
 	faceplayer
 	msgbox Alola_Poni_Bench_Heal_Text_0, MSGBOX_YESNO
 	compare VAR_RESULT, YES
 	goto_if_eq Alola_Poni_Bench_Heal_2
 Alola_Poni_Bench_Heal_1:
+	callnative UpdateFollowingPokemon
 	release
 	end
 
@@ -322,7 +338,7 @@ Alola_Poni_TotemBattle_Text_0:
 	.string "Buzz!!$"
 
 Alola_Poni_TotemBattle_Text_1:
-	.string "Herrscher-Tropius wurde besiegt!\n"
+	.string "Totem-Elevoltek wurde besiegt!\n"
 	.string "Es ist irgendwohin davongehuscht…$"
 
 Alola_Poni_Totem_sign_Text_0:

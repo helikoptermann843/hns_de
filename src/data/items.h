@@ -14734,10 +14734,17 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Kelleröffner"),
         .price = 0,
+#if IS_HNS
+        .description = COMPOUND_STRING(
+            "The key for the\n"
+            "GOLDENROD\n"
+            "UNDERGROUND."),
+#else
         .description = COMPOUND_STRING(
             "Schlüssel für Neu\n"
             "Malvenfroh unter\n"
             "Malvenfroh City."),
+#endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -14950,10 +14957,17 @@ const struct ItemInfo gItemsInfo[] =
     {
         .name = ITEM_NAME("Türöffner"),
         .price = 0,
+#if IS_HNS
+        .description = COMPOUND_STRING(
+            "Schlüsselkarte für\n"
+            "Verwendung im\n"
+            "RADIO-TURM."),
+#else
         .description = COMPOUND_STRING(
             "Schlüsselkarte für\n"
             "HQ der Silph Co. in\n"
             "Saffronia."),
+#endif
         .importance = 1,
         .pocket = POCKET_KEY_ITEMS,
         .type = ITEM_USE_BAG_MENU,
@@ -16260,8 +16274,10 @@ const struct ItemInfo gItemsInfo[] =
             "Ein geheimnisvoller\n"
             "Ball."),
         .pocket = POCKET_POKE_BALLS,
-        .type = ITEM_USE_BAG_MENU,
-        .fieldUseFunc = ItemUseOutOfBattle_CannotUse,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_PokeBall,
+        .battleUsage = EFFECT_ITEM_THROW_BALL,
+        .secondaryId = BALL_GS,
         .iconPic = gItemIcon_GSBall,
         .iconPalette = gItemIconPalette_GSBall,
     },

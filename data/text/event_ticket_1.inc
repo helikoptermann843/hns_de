@@ -21,11 +21,19 @@ EventTicket_Text_ShowEonTicket:
 	.string "meine alten Knochen!\p"
 	.string "Alle Mann an Bord!$"
 
+#if IS_HNS
+EventTicket_Text_SouthernIslandSailBack:
+	.string "Aye, Maat, auf dieser gottverlassenen\n"
+	.string "Insel gibt’s nichts zu sehen und zu tun.\p"
+	.string "Sollen wir nicht nach Oliviana City\n"
+	.string "zurücksegeln?$"
+#else
 EventTicket_Text_SouthernIslandSailBack:
 	.string "Aye, Maat, auf dieser gottverlassenen\n"
 	.string "Insel gibt’s nichts zu sehen und zu tun.\p"
 	.string "Sollen wir nicht nach Seegrasulb City\n"
 	.string "zurücksegeln?$"
+#endif 
 
 EventTicket_Text_SailHome:
 	.string "Aye, alles klar!\n"

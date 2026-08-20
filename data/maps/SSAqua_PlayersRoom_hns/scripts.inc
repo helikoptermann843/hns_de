@@ -14,6 +14,7 @@ SSAquaRooms_EventScript_Bed::
 SSAquaRooms_EventScript_Bed_PokecenterChallenge::
 	msgbox SSAquaRooms_Text_TakeRestOnBed_PokecenterChallenge, MSGBOX_DEFAULT
 	closemessage
+	release
 	end
 
 

@@ -17,8 +17,9 @@ PewterCity_Gym_EventScript_Brock::
 	message PewterCity_Gym_Text_ReceivedBoulderBadge
 	waitmessage
 	call Common_EventScript_PlayGymBadgeFanfare
-	msgbox PewterCity_Gym_Text_Brock_FightDone, MSGBOX_DEFAULT
+	msgbox PewterCity_Gym_Text_Brock_GiveTM, MSGBOX_DEFAULT
 	giveitem ITEM_TM_ROCK_SLIDE
+	msgbox PewterCity_Gym_Text_Brock_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE09_GET
 	setflag FLAG_DEFEATED_PEWTER_GYM
 	callnative RevealDexEntries_Pewter
@@ -58,6 +59,15 @@ PewterCity_Gym_Text_Brock_WinLoss:
 
 PewterCity_Gym_Text_ReceivedBoulderBadge:
 	.string "{PLAYER} erhält den Felsenorden!$"
+
+PewterCity_Gym_Text_Brock_GiveTM:
+	.string "Here, take this TM with you.$"
+
+PewterCity_Gym_Text_Brock_ExplainTM:
+	.string "It contains ROCK SLIDE.\p"
+	.string "It drops rocks on your opponents\n"
+	.string "with a chance to cause flinching.\p"
+	.string "Use it to stop them in their tracks.$"
 
 PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Rocko: {PLAYER}, danke.\n"

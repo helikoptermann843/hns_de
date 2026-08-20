@@ -1089,6 +1089,7 @@
 #define METATILE_Blackthorn_Door_Hns                 0x291
 #define METATILE_CherrygroveCity_Door_Red_Hns        0x2EB
 #define METATILE_CianwoodCity_Door_Hns               0x29A
+#define METATILE_DragonDen_Shrine_Door_Hns           0x2FF
 #define METATILE_EcruteakCity_Door_Hns               0x333
 #define METATILE_Fuchsia_Door_Hns                    0x2BF
 #define METATILE_Fuchsia_Door_Red_Hns                0x2D2
@@ -1136,6 +1137,5 @@
 #define METATILE_SSAqua_Door_Hns                     0x281
 #define METATILE_SafariZoneJohto_Door_Hns            0x2D2
 #define METATILE_VioletCity_Dojo_Door_Hns            0x32B
-#define METATILE_DragonDen_Shrine_Door_Hns           0x2FF
 
 #endif // GUARD_METATILE_LABELS_H

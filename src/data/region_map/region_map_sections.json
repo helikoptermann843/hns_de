@@ -2528,7 +2528,7 @@
     {
       "height": 1,
       "id": "MAPSEC_ROCKET_HIDEOUT_HNS",
-      "name": "ROCKET HIDEOUT",
+      "name": "Rocket-Versteck",
       "width": 1,
       "x": 15,
       "y": 2
@@ -2536,7 +2536,7 @@
     {
       "height": 4,
       "id": "MAPSEC_VICTORY_ROAD_HNS",
-      "name": "VICTORY ROAD",
+      "name": "Siegesstraße",
       "width": 1,
       "x": 16,
       "y": 4
@@ -2552,7 +2552,7 @@
     {
       "height": 1,
       "id": "MAPSEC_SINJOH",
-      "name": "SINJOH",
+      "name": "Sinjoh",
       "width": 1,
       "x": 20,
       "y": 3
@@ -2560,7 +2560,7 @@
     {
       "height": 1,
       "id": "MAPSEC_SNOWSWEPT_CAVERN",
-      "name": "SNOWSWEPT CAVERN",
+      "name": "Eisgipfelhöhle",
       "width": 1,
       "x": 20,
       "y": 3
@@ -2568,7 +2568,7 @@
     {
       "height": 1,
       "id": "MAPSEC_ROUTE_49",
-      "name": "ROUTE 49",
+      "name": "Route 49",
       "width": 1,
       "x": 20,
       "y": 3
@@ -2576,7 +2576,7 @@
     {
       "height": 1,
       "id": "MAPSEC_ROUTE_50",
-      "name": "ROUTE 50",
+      "name": "Route 50",
       "width": 1,
       "x": 20,
       "y": 3
@@ -2584,7 +2584,7 @@
     {
       "height": 1,
       "id": "MAPSEC_NEW_SINJOH",
-      "name": "NEW SINJOH",
+      "name": "Neu Sinjoh",
       "width": 1,
       "x": 20,
       "y": 3
@@ -2592,7 +2592,7 @@
     {
       "height": 1,
       "id": "MAPSEC_SINJOH_RUINS",
-      "name": "SINJOH RUINS",
+      "name": "Sinjoh-Ruinen",
       "width": 1,
       "x": 20,
       "y": 3

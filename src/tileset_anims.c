@@ -1420,6 +1420,8 @@ static void TilesetAnim_SilphCo_Hns(u16);
 static void QueueAnimTiles_SilphCo_Hns_Fountain(u16);
 static void TilesetAnim_BlackthornGym(u16);
 static void QueueAnimTiles_BlackthornGym_Lava(u16);
+static void TilesetAnim_MtSilverExp(u16);
+static void QueueAnimTiles_MtSilverExp_Steam(u16);
 
 // Johto General primary tileset frame data
 
@@ -1808,6 +1810,29 @@ static void QueueAnimTiles_BlackthornGym_Lava(u16 timer)
 {
     u16 i = timer % ARRAY_COUNT(gTilesetAnims_Lavaridge_Cave_Lava);
     AppendTilesetAnimToBuffer(gTilesetAnims_Lavaridge_Cave_Lava[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(sSecondaryTilesetBaseTile + 321)), 4 * TILE_SIZE_4BPP);
+}
+
+// Mt Silver primary -- Johto General anims plus hot spring steam
+// reusing the existing Lavaridge steam frame data
+
+void InitTilesetAnim_MtSilverExp(void)
+{
+    sPrimaryTilesetAnimCounter = 0;
+    sPrimaryTilesetAnimCounterMax = 256;
+    sPrimaryTilesetAnimCallback = TilesetAnim_MtSilverExp;
+}
+
+static void TilesetAnim_MtSilverExp(u16 timer)
+{
+    TilesetAnim_JohtoGeneral(timer);
+    if (timer % 16 == 4)
+        QueueAnimTiles_MtSilverExp_Steam(timer / 16);
+}
+
+static void QueueAnimTiles_MtSilverExp_Steam(u16 timer)
+{
+    u16 i = timer % ARRAY_COUNT(gTilesetAnims_Lavaridge_Steam);
+    AppendTilesetAnimToBuffer(gTilesetAnims_Lavaridge_Steam[i], (u16 *)(BG_VRAM + TILE_OFFSET_4BPP(492)), 4 * TILE_SIZE_4BPP);
 }
 // Alola Islands primary tileset anims
 

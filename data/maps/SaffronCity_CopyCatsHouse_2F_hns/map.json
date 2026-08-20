@@ -2,7 +2,7 @@
   "id": "MAP_SAFFRON_CITY_COPY_CATS_HOUSE_2F_HNS",
   "name": "SaffronCity_CopyCatsHouse_2F_hns",
   "layout": "LAYOUT_SAFFRON_CITY_COPY_CATS_HOUSE_2F_HNS",
-  "music": "MUS_HG_GOLDENROD",
+  "music": "MUS_HG_PEWTER",
   "region_map_section": "MAPSEC_SAFFRON_CITY",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
