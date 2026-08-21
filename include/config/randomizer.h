@@ -18,7 +18,10 @@
 #endif // RANDOMIZER_DYNAMIC_SPECIES
 
 #include "item.h"
-#define RANDOMIZER_MAX_TM           ITEM_TM50
+// Highest TM the randomizer can roll for field items. Derived from the active
+// FOREACH_TM list so each build target (Emerald/FRLG: TM50, HnS: TM92) covers
+// its full TM range instead of a hardcoded bound.
+#define RANDOMIZER_MAX_TM           (ITEM_TM01 + NUM_TECHNICAL_MACHINES - 1)
 
 // Force-enable/disable overrides (uncomment to force)
 //#define FORCE_RANDOMIZE_WILD_MON                  1
