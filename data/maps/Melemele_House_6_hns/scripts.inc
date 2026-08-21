@@ -34,5 +34,3 @@ Melemele_House6_GameboyKid_Text_0:
 	.string "von Phantonomy!\p"
 	.string "Haha, sieh mal!\n"
 	.string "Ich reite ein eisiges UHaFnir!$"
-
-
