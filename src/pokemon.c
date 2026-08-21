@@ -8101,6 +8101,8 @@ u16 GetBattleBGM(void)
                 return MUS_HG_VS_TRAINER_KANTO;
             else if (GetCurrentRegion() == REGION_ALOLA)
                 return MUS_HG_VS_TRAINER_KANTO;  // Alola trainer battles
+            else if (GetCurrentRegion() == REGION_HISUI)
+                return MUS_HG_VS_TRAINER;        // Sinjoh keeps the Johto theme
             else
                 return MUS_VS_TRAINER;
         #else
@@ -8120,6 +8122,8 @@ u16 GetBattleBGM(void)
             return MUS_HG_VS_WILD_KANTO;
         else if (GetCurrentRegion() == REGION_ALOLA)
             return MUS_HG_VS_WILD_KANTO;  // Alola wild battles
+        else if (GetCurrentRegion() == REGION_HISUI)
+            return MUS_HG_VS_WILD;        // Sinjoh keeps the Johto theme
         else
             return MUS_VS_WILD;
     #else
