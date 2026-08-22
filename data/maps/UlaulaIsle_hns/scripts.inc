@@ -369,7 +369,7 @@ Alola_Ulaula_TrainerBattleHiker_Text_2:
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_0:
 	.string "Diese Höhle stinkt fürchterlich!\n"
-	.string "Lass uns kämpfen, das lenkt mich\lab!$"
+	.string "Lass uns kämpfen, das lenkt mich ab!$"
 
 Alola_Ulaula_TrainerBattleCooltrainer_Text_1:
 	.string "Ich hätte einen Lufterfrischer\n"
@@ -388,3 +388,332 @@ Alola_Ulaula_LassNPC_Text_0:
 Alola_Ulaula_Bench_Heal_Text_0:
 	.string "Möchtest du auf dieser Bank eine\n"
 	.string "Pause einlegen?$"
+
+Alola_Ulaula_EventScript_MoveTutor::
+	lock
+	faceplayer
+	goto_if_set FLAG_ULAULA_MOVE_TUTOR_PAID, Alola_Ulaula_EventScript_MoveTutorMenu
+	msgbox Alola_Ulaula_Text_MoveTutorIntro, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, Alola_Ulaula_EventScript_MoveTutorDecline
+	checkitem ITEM_HEART_SCALE, 5
+	goto_if_eq VAR_RESULT, FALSE, Alola_Ulaula_EventScript_MoveTutorNoScales
+	removeitem ITEM_HEART_SCALE, 5
+	setflag FLAG_ULAULA_MOVE_TUTOR_PAID
+	msgbox Alola_Ulaula_Text_MoveTutorPaid, MSGBOX_DEFAULT
+
+Alola_Ulaula_EventScript_MoveTutorMenu::
+	message Alola_Ulaula_Text_MoveTutorChoose
+	waitmessage
+	dynmultichoice 0, 0, FALSE, 6, 0, DYN_MULTICHOICE_CB_NONE, Alola_Ulaula_Text_TutorMove_Acrobatics, Alola_Ulaula_Text_TutorMove_AuroraVeil, Alola_Ulaula_Text_TutorMove_BrutalSwing, Alola_Ulaula_Text_TutorMove_Bulldoze, Alola_Ulaula_Text_TutorMove_Confide, Alola_Ulaula_Text_TutorMove_DazzlingGleam, Alola_Ulaula_Text_TutorMove_DragonTail, Alola_Ulaula_Text_TutorMove_EchoedVoice, Alola_Ulaula_Text_TutorMove_FlameCharge, Alola_Ulaula_Text_TutorMove_FrostBreath, Alola_Ulaula_Text_TutorMove_Infestation, Alola_Ulaula_Text_TutorMove_LeechLife, Alola_Ulaula_Text_TutorMove_LowSweep, Alola_Ulaula_Text_TutorMove_Psyshock, Alola_Ulaula_Text_TutorMove_Quash, Alola_Ulaula_Text_TutorMove_Round, Alola_Ulaula_Text_TutorMove_Scald, Alola_Ulaula_Text_TutorMove_SkyDrop, Alola_Ulaula_Text_TutorMove_SludgeWave, Alola_Ulaula_Text_TutorMove_SmackDown, Alola_Ulaula_Text_TutorMove_SmartStrike, Alola_Ulaula_Text_TutorMove_Snarl, Alola_Ulaula_Text_TutorMove_Venoshock, Alola_Ulaula_Text_TutorMove_VoltSwitch, Alola_Ulaula_Text_TutorMove_WildCharge, Alola_Ulaula_Text_TutorMove_WorkUp, Alola_Ulaula_Text_TutorMove_Cancel
+	switch VAR_RESULT
+	case 0, Alola_Ulaula_EventScript_TutorTeach_Acrobatics
+	case 1, Alola_Ulaula_EventScript_TutorTeach_AuroraVeil
+	case 2, Alola_Ulaula_EventScript_TutorTeach_BrutalSwing
+	case 3, Alola_Ulaula_EventScript_TutorTeach_Bulldoze
+	case 4, Alola_Ulaula_EventScript_TutorTeach_Confide
+	case 5, Alola_Ulaula_EventScript_TutorTeach_DazzlingGleam
+	case 6, Alola_Ulaula_EventScript_TutorTeach_DragonTail
+	case 7, Alola_Ulaula_EventScript_TutorTeach_EchoedVoice
+	case 8, Alola_Ulaula_EventScript_TutorTeach_FlameCharge
+	case 9, Alola_Ulaula_EventScript_TutorTeach_FrostBreath
+	case 10, Alola_Ulaula_EventScript_TutorTeach_Infestation
+	case 11, Alola_Ulaula_EventScript_TutorTeach_LeechLife
+	case 12, Alola_Ulaula_EventScript_TutorTeach_LowSweep
+	case 13, Alola_Ulaula_EventScript_TutorTeach_Psyshock
+	case 14, Alola_Ulaula_EventScript_TutorTeach_Quash
+	case 15, Alola_Ulaula_EventScript_TutorTeach_Round
+	case 16, Alola_Ulaula_EventScript_TutorTeach_Scald
+	case 17, Alola_Ulaula_EventScript_TutorTeach_SkyDrop
+	case 18, Alola_Ulaula_EventScript_TutorTeach_SludgeWave
+	case 19, Alola_Ulaula_EventScript_TutorTeach_SmackDown
+	case 20, Alola_Ulaula_EventScript_TutorTeach_SmartStrike
+	case 21, Alola_Ulaula_EventScript_TutorTeach_Snarl
+	case 22, Alola_Ulaula_EventScript_TutorTeach_Venoshock
+	case 23, Alola_Ulaula_EventScript_TutorTeach_VoltSwitch
+	case 24, Alola_Ulaula_EventScript_TutorTeach_WildCharge
+	case 25, Alola_Ulaula_EventScript_TutorTeach_WorkUp
+	case 26, Alola_Ulaula_EventScript_MoveTutorDecline
+	case MULTI_B_PRESSED, Alola_Ulaula_EventScript_MoveTutorDecline
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Acrobatics::
+	setvar VAR_0x8005, MOVE_ACROBATICS
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_AuroraVeil::
+	setvar VAR_0x8005, MOVE_AURORA_VEIL
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_BrutalSwing::
+	setvar VAR_0x8005, MOVE_BRUTAL_SWING
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Bulldoze::
+	setvar VAR_0x8005, MOVE_BULLDOZE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Confide::
+	setvar VAR_0x8005, MOVE_CONFIDE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_DazzlingGleam::
+	setvar VAR_0x8005, MOVE_DAZZLING_GLEAM
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_DragonTail::
+	setvar VAR_0x8005, MOVE_DRAGON_TAIL
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_EchoedVoice::
+	setvar VAR_0x8005, MOVE_ECHOED_VOICE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_FlameCharge::
+	setvar VAR_0x8005, MOVE_FLAME_CHARGE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_FrostBreath::
+	setvar VAR_0x8005, MOVE_FROST_BREATH
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Infestation::
+	setvar VAR_0x8005, MOVE_INFESTATION
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_LeechLife::
+	setvar VAR_0x8005, MOVE_LEECH_LIFE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_LowSweep::
+	setvar VAR_0x8005, MOVE_LOW_SWEEP
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Psyshock::
+	setvar VAR_0x8005, MOVE_PSYSHOCK
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Quash::
+	setvar VAR_0x8005, MOVE_QUASH
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Round::
+	setvar VAR_0x8005, MOVE_ROUND
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Scald::
+	setvar VAR_0x8005, MOVE_SCALD
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_SkyDrop::
+	setvar VAR_0x8005, MOVE_SKY_DROP
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_SludgeWave::
+	setvar VAR_0x8005, MOVE_SLUDGE_WAVE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_SmackDown::
+	setvar VAR_0x8005, MOVE_SMACK_DOWN
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_SmartStrike::
+	setvar VAR_0x8005, MOVE_SMART_STRIKE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Snarl::
+	setvar VAR_0x8005, MOVE_SNARL
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_Venoshock::
+	setvar VAR_0x8005, MOVE_VENOSHOCK
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_VoltSwitch::
+	setvar VAR_0x8005, MOVE_VOLT_SWITCH
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_WildCharge::
+	setvar VAR_0x8005, MOVE_WILD_CHARGE
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_TutorTeach_WorkUp::
+	setvar VAR_0x8005, MOVE_WORK_UP
+	goto Alola_Ulaula_EventScript_MoveTutorTeachMove
+	end
+
+Alola_Ulaula_EventScript_MoveTutorTeachMove::
+	buffermovename STR_VAR_1, VAR_0x8005
+	msgbox Alola_Ulaula_Text_MoveTutorConfirm, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, NO, Alola_Ulaula_EventScript_MoveTutorMenu
+	msgbox Alola_Ulaula_Text_MoveTutorWhichMon, MSGBOX_DEFAULT
+	fadescreen FADE_TO_BLACK
+	chooseboxmon SELECT_PC_MON_MOVE_TUTOR
+	waitstate
+	goto_if_eq VAR_RESULT, FALSE, Alola_Ulaula_EventScript_MoveTutorCancelMon
+	msgbox Alola_Ulaula_Text_MoveTutorDone, MSGBOX_DEFAULT
+	release
+	end
+
+Alola_Ulaula_EventScript_MoveTutorCancelMon::
+	msgbox Alola_Ulaula_Text_MoveTutorComeBack, MSGBOX_DEFAULT
+	release
+	end
+
+Alola_Ulaula_EventScript_MoveTutorDecline::
+	msgbox Alola_Ulaula_Text_MoveTutorComeBack, MSGBOX_DEFAULT
+	release
+	end
+
+Alola_Ulaula_EventScript_MoveTutorNoScales::
+	msgbox Alola_Ulaula_Text_MoveTutorNoScales, MSGBOX_DEFAULT
+	release
+	end
+
+Alola_Ulaula_Text_MoveTutorIntro:
+	.string "URGH!\n"
+	.string "AGH!\p"
+	.string "DU!\p"
+	.string "Haben die anderen dich geschickt?\n"
+	.string "Haben sie dir gesagt, ich sei\l"
+	.string "Meister der Pokémon-Attacken?\p"
+	.string "........................\p"
+	.string "Ich kann deine Pokémon den\n"
+	.string "Weg der Inseln lehren, aber\l"
+	.string "zuerst eine kleine Gabe.\p"
+	.string "Der Preis sind 5 Herzschuppen.\p"
+	.string "Hast du sie?$"
+
+Alola_Ulaula_Text_MoveTutorPaid:
+	.string "Meine Frau liebt diese Dinger.\p"
+	.string "Von jetzt an stehe ich dir\n"
+	.string "zu Diensten.$"
+
+Alola_Ulaula_Text_MoveTutorNoScales:
+	.string "Fünf Herzschuppen.\n"
+	.string "Nicht Vier.\p"
+	.string "Zertrümmere Steine,\n"
+	.string "mit deinem Pokémon oder Faust!$"
+
+Alola_Ulaula_Text_MoveTutorChoose:
+	.string "Welche Attacke möchtest du?$"
+
+Alola_Ulaula_Text_MoveTutorConfirm:
+	.string "Du möchtest {STR_VAR_1} lernen?$"
+
+Alola_Ulaula_Text_MoveTutorWhichMon:
+	.string "Welches Pokémon soll es lernen?$"
+
+Alola_Ulaula_Text_MoveTutorDone:
+	.string "EXZELLENT!\p"
+	.string "Dein Pokémon hat das\n"
+	.string "Wissen der Inseln.$"
+
+Alola_Ulaula_Text_MoveTutorComeBack:
+	.string "Die Inseln gehen nirgendwo hin.\n"
+	.string "Komm jederzeit wieder.$"
+
+Alola_Ulaula_Text_TutorMove_Acrobatics:
+	.string "Akrobatik$"
+
+Alola_Ulaula_Text_TutorMove_AuroraVeil:
+	.string "Auroraschleier$"
+
+Alola_Ulaula_Text_TutorMove_BrutalSwing:
+	.string "Wirbler$"
+
+Alola_Ulaula_Text_TutorMove_Bulldoze:
+	.string "Dampfwalze$"
+
+Alola_Ulaula_Text_TutorMove_Confide:
+	.string "Vertrauenssache$"
+
+Alola_Ulaula_Text_TutorMove_DazzlingGleam:
+	.string "Zauberschein$"
+
+Alola_Ulaula_Text_TutorMove_DragonTail:
+	.string "Drachenrute$"
+
+Alola_Ulaula_Text_TutorMove_EchoedVoice:
+	.string "Widerhall$"
+
+Alola_Ulaula_Text_TutorMove_FlameCharge:
+	.string "Nitroladung$"
+
+Alola_Ulaula_Text_TutorMove_FrostBreath:
+	.string "Eisodem$"
+
+Alola_Ulaula_Text_TutorMove_Infestation:
+	.string "Plage$"
+
+Alola_Ulaula_Text_TutorMove_LeechLife:
+	.string "Blutsauger$"
+
+Alola_Ulaula_Text_TutorMove_LowSweep:
+	.string "Fußtritt$"
+
+Alola_Ulaula_Text_TutorMove_Psyshock:
+	.string "Psychoschock$"
+
+Alola_Ulaula_Text_TutorMove_Quash:
+	.string "Verzögerung$"
+
+Alola_Ulaula_Text_TutorMove_Round:
+	.string "Kanon$"
+
+Alola_Ulaula_Text_TutorMove_Scald:
+	.string "Siedewasser$"
+
+Alola_Ulaula_Text_TutorMove_SkyDrop:
+	.string "Freier Fall$"
+
+Alola_Ulaula_Text_TutorMove_SludgeWave:
+	.string "Schlammwoge$"
+
+Alola_Ulaula_Text_TutorMove_SmackDown:
+	.string "Katapult$"
+
+Alola_Ulaula_Text_TutorMove_SmartStrike:
+	.string "Schmalhorn$"
+
+Alola_Ulaula_Text_TutorMove_Snarl:
+	.string "Standpauke$"
+
+Alola_Ulaula_Text_TutorMove_Venoshock:
+	.string "Giftschock$"
+
+Alola_Ulaula_Text_TutorMove_VoltSwitch:
+	.string "Voltwechsel$"
+
+Alola_Ulaula_Text_TutorMove_WildCharge:
+	.string "Stromstoß$"
+
+Alola_Ulaula_Text_TutorMove_WorkUp:
+	.string "Kraftschub$"
+
+Alola_Ulaula_Text_TutorMove_Cancel:
+	.string "Abbrechen$"

@@ -2148,7 +2148,7 @@ static void Cmd_printselectionstring(void)
 {
     CMD_ARGS(u16 id);
 
-    MgbaPrintf(MGBA_LOG_ERROR, "%d", cmd->id);
+    DebugPrintfLevel(MGBA_LOG_ERROR, "%d", cmd->id);
     assertf(gSelectionBattleScripts[gBattlerAttacker] != NULL || gBattleTypeFlags & BATTLE_TYPE_PALACE, "wrong use of printselectionstring");
 
     BtlController_EmitPrintSelectionString(gBattlerAttacker, B_COMM_TO_CONTROLLER, cmd->id);

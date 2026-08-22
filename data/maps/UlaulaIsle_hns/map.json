@@ -282,6 +282,19 @@
       "trainer_sight_or_berry_tree_id": "0",
       "script": "NULL",
       "flag": "0"
+    },
+    {
+      "graphics_id": "OBJ_EVENT_GFX_BLACK_BELT_HNS",
+      "x": 7,
+      "y": 73,
+      "elevation": 0,
+      "movement_type": "MOVEMENT_TYPE_JOG_IN_PLACE_DOWN",
+      "movement_range_x": 0,
+      "movement_range_y": 0,
+      "trainer_type": "TRAINER_TYPE_NONE",
+      "trainer_sight_or_berry_tree_id": "0",
+      "script": "Alola_Ulaula_EventScript_MoveTutor",
+      "flag": "0"
     }
   ],
   "warp_events": [
@@ -381,7 +394,7 @@
       "x": 10,
       "y": 71,
       "elevation": 0,
-      "item": "ITEM_FRIEND_BALL",
+      "item": "ITEM_HEART_SCALE",
       "flag": "FLAG_ULAULA_HIDDEN_ITEM_1"
     }
   ],

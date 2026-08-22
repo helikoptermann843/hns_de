@@ -2672,9 +2672,9 @@ bool8 ScrCmd_showmonpic(struct ScriptContext *ctx)
         }
 
         #ifndef NDEBUG
-            MgbaPrintf(MGBA_LOG_DEBUG, "******** Possible Temp Flags: %x, %x, %x ********", FLAG_TEMP_1, FLAG_TEMP_2, FLAG_TEMP_3);
-            MgbaPrintf(MGBA_LOG_DEBUG, "******** Possible Shiny Starter Flags: %x, %x, %x ********", FLAG_SHINY_STARTER_1, FLAG_SHINY_STARTER_2, FLAG_SHINY_STARTER_3);
-            MgbaPrintf(MGBA_LOG_DEBUG, "******** Actual Temp and Shiny Flags: %x, %x ********", flagPreviewChecked, flagShinyPreview);
+            DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Possible Temp Flags: %x, %x, %x ********", FLAG_TEMP_1, FLAG_TEMP_2, FLAG_TEMP_3);
+            DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Possible Shiny Starter Flags: %x, %x, %x ********", FLAG_SHINY_STARTER_1, FLAG_SHINY_STARTER_2, FLAG_SHINY_STARTER_3);
+            DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Actual Temp and Shiny Flags: %x, %x ********", flagPreviewChecked, flagShinyPreview);
         #endif
 
         // if FLAG_TEMP_X not set for this starter preview, roll for shininess,
@@ -2682,8 +2682,8 @@ bool8 ScrCmd_showmonpic(struct ScriptContext *ctx)
         if (!FlagGet(flagPreviewChecked))
         {
             #ifndef NDEBUG
-                MgbaPrintf(MGBA_LOG_DEBUG, "\n******** Rolling Starter Preview Shininess ********");
-                MgbaPrintf(MGBA_LOG_DEBUG, "******** Flag Values Before: %d, %d ********", FlagGet(flagPreviewChecked), FlagGet(flagShinyPreview));
+                DebugPrintfLevel(MGBA_LOG_DEBUG, "\n******** Rolling Starter Preview Shininess ********");
+                DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Flag Values Before: %d, %d ********", FlagGet(flagPreviewChecked), FlagGet(flagShinyPreview));
             #endif
 
             u32 value = READ_OTID_FROM_SAVE;
@@ -2709,8 +2709,8 @@ bool8 ScrCmd_showmonpic(struct ScriptContext *ctx)
         shinyStarter = FlagGet(flagShinyPreview);
 
         #ifndef NDEBUG
-            MgbaPrintf(MGBA_LOG_DEBUG, "******** Flag Values: %d, %d ********", FlagGet(flagPreviewChecked), FlagGet(flagShinyPreview));
-            MgbaPrintf(MGBA_LOG_DEBUG, "******** Preview Should be Shiny: %d ********", shinyStarter);
+            DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Flag Values: %d, %d ********", FlagGet(flagPreviewChecked), FlagGet(flagShinyPreview));
+            DebugPrintfLevel(MGBA_LOG_DEBUG, "******** Preview Should be Shiny: %d ********", shinyStarter);
         #endif
 
         #if RANDOMIZER_AVAILABLE

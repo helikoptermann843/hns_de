@@ -810,6 +810,11 @@ gSongTable::
 	song ph_nurse_held, MUSIC_PLAYER_SE2, 2
 	song ph_nurse_solo, MUSIC_PLAYER_SE2, 2
 
+	@ SE_FASTER_JOY_HEAL - deliberately points at the same header as SE_M_MORNING_SUN
+	@ (see include/constants/songs.h). Identical with the GB Player off; the separate ID
+	@ exists purely so gGBSSongTable can remap the heal without touching the move.
+	song se_m_morning_sun, MUSIC_PLAYER_SE1, 1
+
 	.align 2
 dummy_song_header:
 	.byte 0, 0, 0, 0
@@ -848,6 +853,11 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	@song_gbs MUS_HG_OBTAIN_ACCESSORY, 2, 2 @ Unused in HnS
 	@song_gbs MUS_HG_OBTAIN_ARCADE_POINTS, 2, 2 @ Unused in HnS
 	@song_gbs MUS_HG_OBTAIN_CASTLE_POINTS, 2, 2 @ Unused in HnS
+
+	@ Pokemon Center "Even Faster Joy" heal. Mapped via the dedicated SE_FASTER_JOY_HEAL
+	@ ID rather than SE_M_MORNING_SUN, so the Morning Sun move keeps its normal battle
+	@ sound - mapping the move's ID here would change both.
+	song_gbs SE_FASTER_JOY_HEAL, gbs_sfx_morningsun_Header, 2, 2
 
 	@ ---------------------------------- @
 
@@ -899,7 +909,8 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	@ ---------------------------------- @
 
 	@ Battle Frontier
-	@song_gbs MUS_LILYCOVE_MUSEUM, gbs_TODO:_Header, 0, 0	@ Location - Battle Frontier Ranking Hall TODO: GBS CONVERSION
+	song_gbs MUS_LILYCOVE_MUSEUM, gbs_mus_lilycove_museum_Header, 0, 0	@ Location - Battle Frontier Ranking Hall TODO: GBS CONVERSION
+	@song_gbs MUS_VS_FRONTIER_BRAIN, gbs_TODO:_Header, 0, 0	@ BGM during Frontier Brain battles TODO: GBS CONVERSION
 	song_gbs MUS_B_TOWER_RS, gbs_battletowerlobby_Header, 0, 0	@ Battle Frontier Lounges, Exchange, Reception, Scotts House BGM TODO: GBS CONVERSION
 	song_gbs MUS_B_FRONTIER, gbs_battletowertheme_Header, 0, 0 @ Battle Frontier Outside East/West BGM TODO: GBS CONVERSION
 	song_gbs MUS_B_ARENA, gbs_battletowertheme_Header, 0, 0	@ Battle Arena BGM TODO: GBS CONVERSION
@@ -910,9 +921,39 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	song_gbs MUS_B_DOME, gbs_battletowertheme_Header, 0, 0	@ Battle Dome Battle & Pre-Battle Rooms BGM TODO: GBS CONVERSION
 	song_gbs MUS_B_PIKE, gbs_battletowertheme_Header, 0, 0	@ Battle Pike BGM (All Rooms) TODO: GBS CONVERSION
 	song_gbs MUS_B_FACTORY, gbs_battletowertheme_Header, 0, 0	@ Battle Factory BGM (All Rooms) TODO: GBS CONVERSION
-	song_gbs MUS_HG_B_TOWER, gbs_battletowertheme_Header, 0, 0	@ BF Battle Tower Battle Rooms & Corridor BGM
-	song_gbs MUS_HG_B_TOWER_RECEPTION, gbs_battletowerlobby_Header, 0, 0	@ BF Battle Tower Lobby & Elevator BGM
+	song_gbs MUS_B_TOWER, gbs_battletowertheme_Header, 0, 0	@ BF Battle Tower Lobby, Corridor, Elevator, Battle & Multi Rooms BGM (the song the HnS Tower maps actually use) TODO: GBS CONVERSION
+
+	@ Emerald songs the BF maps still request. GetBattleBGM sends every Frontier battle here:
+	@ MAPSEC_BATTLE_FRONTIER sits outside the Johto/Kanto/Alola/Hisui mapsec ranges, so
+	@ GetCurrentRegion() returns REGION_HOENN and the HnS trainer branches never match.
+	song_gbs MUS_VS_TRAINER, gbs_johtotrainerbattle_Header, 0, 0	@ BGM during Battle Frontier & link battles TODO: GBS CONVERSION
+	song_gbs MUS_POKE_CENTER, gbs_pokemoncenter_Header, 0, 0	@ BF Pokémon Center 1F & 2F BGM (HnS uses MUS_HG_POKE_CENTER everywhere else) TODO: GBS CONVERSION
+	song_gbs MUS_POKE_MART, gbs_hg_poke_mart_Header, 0, 0	@ BF Mart BGM (HnS uses MUS_HG_POKE_MART everywhere else) TODO: GBS CONVERSION
 	
+	@ ---------------------------------- @
+
+	@ Alola & Sinjoh
+	@ HnS-only regions. Battle music is already covered - GetBattleBGM sends Alola to the
+	@ Kanto themes and Sinjoh to the Johto ones, all four of which are mapped. Everything
+	@ below is map BGM with no GBS entry yet, so these locations fall back to the non-GBS
+	@ track.
+
+	@ Alola
+	@song_gbs MUS_OCEANIC_MUSEUM, gbs_TODO:_Header, 0, 0	@ Melemele Isle, Alola Water, Melemele Player House & Houses 3-6 TODO: GBS CONVERSION
+	@song_gbs MUS_PETALBURG_WOODS, gbs_TODO:_Header, 0, 0	@ UlaUla Forest (Artisan Cave) TODO: GBS CONVERSION
+	@song_gbs MUS_SOOTOPOLIS, gbs_TODO:_Header, 0, 0	@ Poni Isle (shared: Sootopolis City & its houses) TODO: GBS CONVERSION
+
+	@ Sinjoh
+	@ The MUS_DP_* tracks are Sinnoh songs with no Crystal-era counterpart, so these need a
+	@ substitute picking rather than a straight conversion.
+	@song_gbs MUS_HG_SINJOU_RUINS, gbs_TODO:_Header, 0, 0	@ Route 49, Route 50, Sinjoh Ruins & the five Regi rooms TODO: GBS CONVERSION
+	@song_gbs MUS_DP_SNOWPOINT_DAY, gbs_TODO:_Header, 0, 0	@ New Sinjoh & New Sinjoh House 4 TODO: GBS CONVERSION
+	@song_gbs MUS_DP_HALL_OF_ORIGIN, gbs_TODO:_Header, 0, 0	@ Sinjoh Ruins Temple & Regigigas Room TODO: GBS CONVERSION
+	@song_gbs MUS_DP_MT_CORONET, gbs_TODO:_Header, 0, 0	@ Snowswept Cavern TODO: GBS CONVERSION
+	@song_gbs MUS_DP_SPEAR_PILLAR, gbs_TODO:_Header, 0, 0	@ Sinjoh Ruins Arceus Room TODO: GBS CONVERSION
+	@song_gbs MUS_HG_WIFI_PLAZA, gbs_TODO:_Header, 0, 0	@ Sinjoh Ruins House 1 TODO: GBS CONVERSION
+	@song_gbs MUS_RG_POKE_TOWER, gbs_TODO:_Header, 0, 0	@ New Sinjoh House 3 TODO: GBS CONVERSION
+
 	@ ---------------------------------- @
 
 	@ Pokéathlon
@@ -974,12 +1015,21 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	song_gbs MUS_HG_RADIO_UNOWN, gbs_ruinsofalphradio_Header, 0, 0	@ Used by the Radio
 	song_gbs MUS_HG_RADIO_POKE_FLUTE, gbs_pokeflutechannel_Header, 0, 0	@ Used by the Radio & Snorlax wake up event in Vermilion
 	song_gbs MUS_HG_RADIO_OAK, gbs_profoakspokemontalk_Header, 0, 0	@ Used by the Radio
-	@song_gbs MUS_HG_RADIO_BUENA, gbs_buenaspassword_Header, 0, 0	@ Unused in HnS - TODO: Skeletonkey36 will implement
-	@song_gbs MUS_HG_RADIO_JINGLE, gbs_pokemonchannel_Header, 0, 0	@ Unused in HnS - TODO: Skeletonkey36 will implement
-	@song_gbs MUS_HG_RADIO_LULLABY, gbs_pokemonlullaby_Header, 0, 0	@ Unused in HnS - TODO: Skeletonkey36 will implement
-	@song_gbs MUS_HG_RADIO_MARCH, gbs_pokemonmarch_Header, 0, 0	@ Unused in HnS - TODO: Skeletonkey36 will implement
-	@song_gbs MUS_HG_RADIO_ROUTE101, 0, 0 @ Unused in HnS - TODO: GBS CONVERSION
-	@song_gbs MUS_HG_RADIO_ROUTE201, 0, 0 @ Unused in HnS - TODO: GBS CONVERSION
+	song_gbs MUS_HG_RADIO_BUENA, gbs_buenaspassword_Header, 0, 0	@ Used by the Radio (Buena's Password station)
+	song_gbs MUS_HG_RADIO_JINGLE, gbs_pokemonchannel_Header, 0, 0	@ Used by the Radio (Lucky Channel station)
+	song_gbs MUS_HG_RADIO_LULLABY, gbs_pokemonlullaby_Header, 0, 0	@ Used by the Radio (Let's All Sing station, odd days)
+	song_gbs MUS_HG_RADIO_MARCH, gbs_pokemonmarch_Header, 0, 0	@ Used by the Radio (Pokémon Music station; also Let's All Sing on even days)
+	@song_gbs MUS_HG_RADIO_ROUTE101, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@ Tuning to Hoenn Sound then plays one of these seven Emerald route tracks at random
+	@ (sHoennSoundSongs in src/pokenav_radio.c), so the whole station falls back without them.
+	@song_gbs MUS_ROUTE101, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE104, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE110, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE113, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE119, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE120, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_ROUTE122, gbs_TODO:_Header, 0, 0	@ Used by the Radio (Hoenn Sound station) TODO: GBS CONVERSION
+	@song_gbs MUS_HG_RADIO_ROUTE201, 0, 0 @ Unused in HnS - TODO: GBS CONVERSION (Sinjoh)
 	@song_gbs MUS_HG_RADIO_TRAINER, 0, 0 @ Unused in HnS - TODO: GBS CONVERSION
 	@song_gbs MUS_HG_RADIO_VARIETY, 0, 0 @ Unused in HnS - TODO: GBS CONVERSION
 
@@ -1010,7 +1060,7 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	song_gbs MUS_HG_VS_GYM_LEADER_KANTO, gbs_kantogymbattle_Header, 0, 0	@ BGM during battles with Kanto Gym Leaders
 	song_gbs MUS_HG_VS_RIVAL, gbs_rivalbattle_Header, 0, 0	@ BGM during battles with the player's Rival
 	song_gbs MUS_HG_VS_CHAMPION, gbs_championbattle_Header, 0, 0	@ BGM during battles with Champion Lance & Red (TRAINER_CLASS_CHAMPION & TRAINER_CLASS_PKMN_TRAINER_1)
-	song_gbs MUS_HG_VS_FRONTIER_BRAIN, gbs_championbattle_Header, 0, 0	@ BGM during battles with Frontier Brains @ TODO: GBS CONVERSION
+	@song_gbs MUS_HG_VS_FRONTIER_BRAIN, gbs_TODO:_Header, 0, 0	@ Unused in HnS - If other facility could be implemented.
 	
 	@ ---------------------------------- @
 
@@ -1021,7 +1071,7 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	song_gbs MUS_HG_VS_HO_OH, gbs_suicunebattle_Header, 0, 0	@ BGM during static Ho-oh encounter  TODO: GBS CONVERSION
 	song_gbs MUS_HG_VS_LUGIA, gbs_suicunebattle_Header, 0, 0	@ BGM during static Lugia encounter TODO: GBS CONVERSION
 	song_gbs MUS_HG_VS_KYOGRE_GROUDON, gbs_suicunebattle_Header, 0, 0	@ BGM for static encounter with Rayquaza  TODO: GBS CONVERSION
-	song_gbs MUS_VS_REGI, gbs_suicunebattle_Header, 0, 0	@ Wild and static encounters with Regi Pokémon (Static Encounter not in HnS but setup) (Do new regis trigger this?) TODO: GBS CONVERSION
+	song_gbs MUS_VS_REGI, gbs_suicunebattle_Header, 0, 0	@ Wild and static encounters with Regi Pokémon TODO: GBS CONVERSION
 	song_gbs MUS_VS_KYOGRE_GROUDON, gbs_suicunebattle_Header, 0, 0	@ Wild (not static) encounters with Kyogre and Groudon TODO: GBS CONVERSION
 	song_gbs MUS_VS_MEW, gbs_suicunebattle_Header, 0, 0	@ BGM for static Mew Encounter TODO: GBS CONVERSION
 	song_gbs MUS_RG_VS_DEOXYS, gbs_suicunebattle_Header, 0, 0	@ BGM for Static Deoxys Encounter TODO: GBS CONVERSION
@@ -1075,18 +1125,22 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	
 	song_gbs MUS_EVOLUTION_INTRO, gbs_sfx_evolutionintro_Header, 2, 2	@ Evolution/Hatching Intro
 	song_gbs MUS_EVOLUTION, gbs_evolution_Header, 0, 0	@ Evolution/Hatching/Trading BGM
-	song_gbs MUS_HG_CAUGHT, gbs_successfulcapture_Header 0, 0 @ Unused in HnS (possible mapping?)
+	song_gbs MUS_HG_CAUGHT, gbs_successfulcapture_Header 0, 0
 	@ TODO: song_gbs MUS_HG_EVOLUTION, gbs_evolution_Header, 0, 0 @ Unused in HnS (possible mapping?)
 	@ TODO: song_gbs MUS_HG_EVOLUTION_NO_INTRO, 0, 0 @ Unused in HnS
 	
 	
 	@ Misc
 	song_gbs MUS_HG_MOVE_DELETED, gbs_sfx_movedeleted_Header, 2, 2	@ Move Deleter - Blackthorn
-	song_gbs MUS_HG_CYCLING, gbs_bicycle_Header, 0, 0	@ Route 17 (Kanto Bike Path) (Cycling music was cut in favor of having location/map music play.) TODO: Test
+	song_gbs MUS_HG_CYCLING, gbs_bicycle_Header, 0, 0	@ Route 17 (Kanto Bike Path)
 	song_gbs MUS_HG_SURF, gbs_surf_Header, 0, 0
 
 
 	@ Unused Music
+	@ The BF Battle Tower maps all request MUS_B_TOWER (mapped above), not these HG songs, so
+	@ nothing in HnS ever plays them. Headers kept in case the maps are ever switched over.
+	@song_gbs MUS_HG_B_TOWER, gbs_battletowertheme_Header, 0, 0 @ Unused in HnS - BF Battle Tower Battle Rooms & Corridor BGM
+	@song_gbs MUS_HG_B_TOWER_RECEPTION, gbs_battletowerlobby_Header, 0, 0 @ Unused in HnS - BF Battle Tower Lobby & Elevator BGM
 	@song_gbs MUS_HG_DEX_RATING_1, 2, 2 @ Unused in HnS - TODO: Implement
 	@song_gbs MUS_HG_DEX_RATING_2, 2, 2 @ Unused in HnS - TODO: Implement
 	@song_gbs MUS_HG_DEX_RATING_3, 2, 2 @ Unused in HnS - TODO: Implement
@@ -1100,7 +1154,6 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	@song_gbs MUS_HG_HO_OH_APPEARS, 0, 0 @ Unused in HnS - TODO: Implement?
 	@song_gbs MUS_HG_LUGIA_APPEARS, 0, 0 @ Unused in HnS - TODO: Implement?
 	@song_gbs MUS_HG_SPIKY_EARED_PICHU, 0, 0 @ Unused in HnS - TODO: Implement Spiky Eared Pichu Event
-	@song_gbs MUS_HG_SINJOU_RUINS, 0, 0 @ Unused in HnS - TODO: Implement Sinjoh Ruins
 	@song_gbs MUS_HG_POKEWALKER, 0, 0 @ Unused in HnS
 	@song_gbs MUS_HG_ETHAN, 0, 0 @ Unused in HnS
 	@song_gbs MUS_HG_LYRA, 0, 0 @ Unused in HnS
@@ -1110,7 +1163,6 @@ gGBSSongTable:: @ "gbs_hg_" tracks are new tracks that were transcribed from HGS
 	@song_gbs MUS_HG_WIN_MINIGAME, 2, 2 @ Unused in HnS
 	@song_gbs MUS_HG_MYSTERY_GIFT, 0, 0 @ Unused in HnS
 	@song_gbs MUS_HG_WFC, 0, 0 @ Unused in HnS - Multiplayer?
-	@song_gbs MUS_HG_WIFI_PLAZA, 0, 0 @ Unused in HnS - Multiplayer?
 	@song_gbs MUS_HG_WIFI_MINIGAMES, 0, 0 @ Unused in HnS - Multiplayer?
 	@song_gbs MUS_HG_WIFI_PARADE, 0, 0 @ Unused in HnS - Multiplayer?
 	@song_gbs MUS_HG_GLOBAL_TERMINAL, 0, 0 @ Unused in HnS - Multiplayer?

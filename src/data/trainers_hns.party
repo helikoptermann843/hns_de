@@ -13355,7 +13355,6 @@ AI: Check Bad Move
 Pelipper  
 Ability: Keen Eye  
 Level: 63  
-Tera Type: Water  
 IVs: 0 Atk  
 - Surf  
 - Ice Beam  
@@ -13365,7 +13364,6 @@ IVs: 0 Atk
 Poliwrath @ Life Orb  
 Ability: Water Absorb  
 Level: 63  
-Tera Type: Water  
 - Darkest Lariat  
 - Drain Punch  
 - Liquidation  
@@ -13374,7 +13372,6 @@ Tera Type: Water
 Huntail @ White Herb  
 Ability: Water Veil  
 Level: 68  
-Tera Type: Water  
 - Shell Smash  
 - Super Fang  
 - Waterfall  
@@ -13835,7 +13832,6 @@ Level: 64
 Lunatone @ Normal Gem  
 Ability: Levitate  
 Level: 64  
-Tera Type: Rock  
 - Explosion  
 
 

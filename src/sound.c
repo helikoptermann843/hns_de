@@ -211,6 +211,13 @@ void PlayFanfareByFanfareNum(u8 fanfareNum)
     bool32 isGBSEnabled = FlagGet(FLAG_SYS_GBS_ENABLED);
     m4aMPlayStop(&gMPlayInfo_BGM);
     m4aMPlayStop(&gMPlayInfo_SE2);
+    // GBS writes the four CGB hardware channels directly, and UpdateCGBChannel skips
+    // every write while m4a still owns one (IsM4AUsingCGBChannel in src/gbs.c), so an
+    // SE left running on SE1 silences the fanfare outright instead of mixing with it.
+    // m4a handles that overlap fine on its own, so only clear SE1 when GBS is active -
+    // this stays a no-op in the Emerald/FRLG builds, where the flag can never be set.
+    if (isGBSEnabled)
+        m4aMPlayStop(&gMPlayInfo_SE1);
 #if IS_HNS
     songNum = sFanfaresHnS[fanfareNum].songNum;
     sFanfareCounter = sFanfaresHnS[fanfareNum].duration;
@@ -310,6 +317,18 @@ void FadeInNewBGM(u16 songNum, u8 speed)
         songNum = 0;
     if (gSaveblock3.challengeSettings.musicOnOff)
         songNum = 0;
+
+    // GBS drives master volume through NR50, which is only 3 bits per side, so a
+    // fade-in there steps audibly through about six levels instead of ramping,
+    // and the bottom third of the range rounds down to silence. Hard-start the
+    // track instead - the caller's fade-out is unaffected, and m4a playback keeps
+    // the smooth fade below. See GetMasterVolumeFromFade in src/gbs.c.
+    if (isGBSEnabled)
+    {
+        m4aSongNumStart(songNum, TRUE);
+        return;
+    }
+
     m4aSongNumStart(songNum, isGBSEnabled);
     m4aMPlayImmInit(&gMPlayInfo_BGM);
     m4aMPlayVolumeControl(&gMPlayInfo_BGM, TRACKS_ALL, 0);
@@ -593,6 +612,17 @@ static void RestoreBGMVolumeAfterPokemonCry(void)
         CreateTask(Task_DuckBGMForPokemonCry, 80);
 }
 
+// GBSMain writes NR50 (the PSG master volume) every frame a GBS track runs, at a
+// level two steps below full. m4a sets NR50 = 0x77 exactly once, during sound init,
+// and never again - so when GBS stops driving it the register simply keeps whatever
+// GBS left there, and every CGB-voiced sound stays quiet until the game is rebooted.
+// Worse, stopping mid-fade can strand it at 0x00. Call this whenever the GB Player is
+// switched off. Switching it on needs nothing: GBSMain overwrites NR50 next frame.
+void RestorePSGMasterVolume(void)
+{
+    REG_NR50 = 0x77;
+}
+
 void PlayBGM(u16 songNum)
 {
     if (gDisableMusic)
@@ -604,10 +634,39 @@ void PlayBGM(u16 songNum)
     m4aSongNumStart(songNum, FlagGet(FLAG_SYS_GBS_ENABLED));
 }
 
+// GBS sound effects have to be started on a cleared music player. SE1 and SE2 both
+// have checkSongPriority set (unk_B, from the 4th field of gMPlayTable), so MPlayStart
+// can refuse to take the player over while another song is still latched on it. The
+// GBS track then never plays, with silence as the only symptom. Fanfares avoid this
+// because PlayFanfareByFanfareNum stops the players before starting - sound effects
+// had no equivalent step, which is why gGBSSongTable had no working SE_* entry at all.
+//
+// Only songs that actually resolve to a GBS track are touched, so ordinary m4a sound
+// effects keep their existing overlap behaviour, and only the single player the track
+// will use is stopped. Any new song_gbs SE_* mapping works through this for free.
+static void ClearPlayerForGBSSoundEffect(u16 songNum, bool32 isGBSEnabled)
+{
+    const struct Song *song;
+
+    if (!isGBSEnabled)
+        return;
+
+    song = GetSong(songNum, TRUE);
+    if (song == &gSongTable[songNum])
+        return; // No GBS mapping - leave m4a to mix it as usual.
+
+    m4aMPlayStop(gMPlayTable[song->ms].info);
+}
+
 void PlaySE(u16 songNum)
 {
     if (gDisableMapMusicChangeOnMapLoad == 0)
-        m4aSongNumStart(songNum, FlagGet(FLAG_SYS_GBS_ENABLED));
+    {
+        bool32 isGBSEnabled = FlagGet(FLAG_SYS_GBS_ENABLED);
+
+        ClearPlayerForGBSSoundEffect(songNum, isGBSEnabled);
+        m4aSongNumStart(songNum, isGBSEnabled);
+    }
 }
 
 void PlaySECursorMove(u16 songNum)
@@ -619,7 +678,10 @@ void PlaySECursorMove(u16 songNum)
 
 void PlaySE12WithPanning(u16 songNum, s8 pan)
 {
-    m4aSongNumStart(songNum, FlagGet(FLAG_SYS_GBS_ENABLED));
+    bool32 isGBSEnabled = FlagGet(FLAG_SYS_GBS_ENABLED);
+
+    ClearPlayerForGBSSoundEffect(songNum, isGBSEnabled);
+    m4aSongNumStart(songNum, isGBSEnabled);
     m4aMPlayImmInit(&gMPlayInfo_SE1);
     m4aMPlayImmInit(&gMPlayInfo_SE2);
     m4aMPlayPanpotControl(&gMPlayInfo_SE1, TRACKS_ALL, pan);
@@ -628,14 +690,20 @@ void PlaySE12WithPanning(u16 songNum, s8 pan)
 
 void PlaySE1WithPanning(u16 songNum, s8 pan)
 {
-    m4aSongNumStart(songNum, FlagGet(FLAG_SYS_GBS_ENABLED));
+    bool32 isGBSEnabled = FlagGet(FLAG_SYS_GBS_ENABLED);
+
+    ClearPlayerForGBSSoundEffect(songNum, isGBSEnabled);
+    m4aSongNumStart(songNum, isGBSEnabled);
     m4aMPlayImmInit(&gMPlayInfo_SE1);
     m4aMPlayPanpotControl(&gMPlayInfo_SE1, TRACKS_ALL, pan);
 }
 
 void PlaySE2WithPanning(u16 songNum, s8 pan)
 {
-    m4aSongNumStart(songNum, FlagGet(FLAG_SYS_GBS_ENABLED));
+    bool32 isGBSEnabled = FlagGet(FLAG_SYS_GBS_ENABLED);
+
+    ClearPlayerForGBSSoundEffect(songNum, isGBSEnabled);
+    m4aSongNumStart(songNum, isGBSEnabled);
     m4aMPlayImmInit(&gMPlayInfo_SE2);
     m4aMPlayPanpotControl(&gMPlayInfo_SE2, TRACKS_ALL, pan);
 }
