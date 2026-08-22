@@ -5853,7 +5853,11 @@ enum Ability GetAbilityBySpecies(u16 species, u8 abilityNum)
 {
     int i;
 
+#if RANDOMIZER_AVAILABLE == TRUE
+    if (abilityNum == 0 && gSaveBlock3Ptr->challengeSettings.tx_Mode_Legendary_Abilities == 1 && !RandomizerFeatureEnabled(RANDOMIZE_ABILITIES))
+#else
     if (abilityNum == 0 && gSaveBlock3Ptr->challengeSettings.tx_Mode_Legendary_Abilities == 1)
+#endif
     {
         for (i = 0; i < (int)ARRAY_COUNT(sLegendaryCustomAbilities); i++)
         {

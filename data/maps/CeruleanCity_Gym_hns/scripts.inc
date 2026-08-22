@@ -326,7 +326,7 @@ CeruleanGym_Text_GuideWin:
 	.string "Wow, du bist wirklich ganz schön stark!\n"
 	.string "Das war echt ein toller Kampf!$"
 
-CeruleanGym_Text_MistyTm:
+CeruleanGym_Text_Misty_GiveTM:
 	.string "Hier, nimm noch das.$"
 
 CeruleanGym_Text_Misty_ExplainTM:
