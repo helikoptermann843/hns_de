@@ -10592,6 +10592,18 @@ static void DoTracksGroundEffect_FootprintsC(struct ObjectEvent *objEvent, struc
     FieldEffectStart(otherFootprintsB_FieldEffectData[isDeepSand]);
 }
 
+// The tracks transition tables are indexed as [prevDir - 1][faceDir - 1], so both
+// directions must be cardinal. Diagonal directions (sideways stairs) and DIR_NONE
+// (e.g. a follower that has just been released) would otherwise index out of bounds.
+static u8 NormalizeTrackDirection(u8 direction)
+{
+    if (direction > DIR_EAST)
+        direction -= DIR_EAST;
+    if (direction == DIR_NONE)
+        direction = DIR_SOUTH;
+    return direction;
+}
+
 static void DoTracksGroundEffect_BikeTireTracks(struct ObjectEvent *objEvent, struct Sprite *sprite, bool8 isDeepSand)
 {
     //  Specifies which bike track shape to show next.
@@ -10609,13 +10621,14 @@ static void DoTracksGroundEffect_BikeTireTracks(struct ObjectEvent *objEvent, st
 
     if (objEvent->currentCoords.x != objEvent->previousCoords.x || objEvent->currentCoords.y != objEvent->previousCoords.y)
     {
-        u8 movementDir = (objEvent->previousMovementDirection > DIR_EAST) ? (objEvent->previousMovementDirection - DIR_EAST) : objEvent->previousMovementDirection;
+        u8 movementDir = NormalizeTrackDirection(objEvent->previousMovementDirection);
+        u8 facingDir = NormalizeTrackDirection(objEvent->facingDirection);
         gFieldEffectArguments[0] = objEvent->previousCoords.x;
         gFieldEffectArguments[1] = objEvent->previousCoords.y;
         gFieldEffectArguments[2] = 149;
         gFieldEffectArguments[3] = 2;
         gFieldEffectArguments[4] =
-        bikeTireTracks_Transitions[movementDir][objEvent->facingDirection - 5];
+        bikeTireTracks_Transitions[movementDir - 1][facingDir - 1];
         FieldEffectStart(FLDEFF_BIKE_TIRE_TRACKS);
     }
 }
@@ -10637,12 +10650,14 @@ static void DoTracksGroundEffect_SlitherTracks(struct ObjectEvent *objEvent, str
 
     if (objEvent->currentCoords.x != objEvent->previousCoords.x || objEvent->currentCoords.y != objEvent->previousCoords.y)
     {
+        u8 movementDir = NormalizeTrackDirection(objEvent->previousMovementDirection);
+        u8 facingDir = NormalizeTrackDirection(objEvent->facingDirection);
         gFieldEffectArguments[0] = objEvent->previousCoords.x;
         gFieldEffectArguments[1] = objEvent->previousCoords.y;
         gFieldEffectArguments[2] = 149;
         gFieldEffectArguments[3] = 2;
         gFieldEffectArguments[4] =
-        slitherTracks_Transitions[objEvent->previousMovementDirection][objEvent->facingDirection - 5];
+        slitherTracks_Transitions[movementDir - 1][facingDir - 1];
         gFieldEffectArguments[5] = objEvent->previousMetatileBehavior;
         FieldEffectStart(FLDEFF_TRACKS_SLITHER);
     }

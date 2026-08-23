@@ -107,9 +107,14 @@ void ConvertRtcToDateTime(struct DateTime *result, struct SiiRtcInfo *rtc)
 
 void ConvertTimeToDateTime(struct DateTime *result, struct Time *timeSinceEpoch)
 {
+    // RtcCalcTimeDifference can produce a negative field (most often days == -1,
+    // when the borrow out of a negative hour difference underflows an otherwise
+    // zero day difference). The DateTime_Add* helpers take u32 and count down one
+    // unit at a time, so a negative value becomes ~4 billion and hangs the game.
+    // Clamp to the epoch instead of locking up.
     result = memcpy(result, &gGen3Epoch, sizeof(struct DateTime));
-    DateTime_AddSeconds(result, timeSinceEpoch->seconds);
-    DateTime_AddMinutes(result, timeSinceEpoch->minutes);
-    DateTime_AddHours(result, timeSinceEpoch->hours);
-    DateTime_AddDays(result, timeSinceEpoch->days);
+    DateTime_AddSeconds(result, timeSinceEpoch->seconds > 0 ? timeSinceEpoch->seconds : 0);
+    DateTime_AddMinutes(result, timeSinceEpoch->minutes > 0 ? timeSinceEpoch->minutes : 0);
+    DateTime_AddHours(result, timeSinceEpoch->hours > 0 ? timeSinceEpoch->hours : 0);
+    DateTime_AddDays(result, timeSinceEpoch->days > 0 ? timeSinceEpoch->days : 0);
 }

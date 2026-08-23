@@ -11992,11 +11992,11 @@ void ApplyExperienceMultipliers(s32 *expAmount, u8 expGetterMonId, u8 faintedBat
     }
 
     u8 expMult = gSaveBlock3Ptr->challengeSettings.tx_Challenges_ExpMultiplier;
-    if (expMult == 3)
+    if (expMult == OPTIONS_EXP_MULTIPLIER_0X)
         *expAmount = 0;
-    else if (expMult == 2)
+    else if (expMult == OPTIONS_EXP_MULTIPLIER_2X)
         *expAmount = *expAmount * 2;
-    else if (expMult == 1)
+    else if (expMult == OPTIONS_EXP_MULTIPLIER_1_5X)
         *expAmount = (*expAmount * 3) / 2;
 }
 

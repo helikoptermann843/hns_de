@@ -417,6 +417,7 @@ EventScript_ResetAllMapFlagsHnS::
 	clearflag FLAG_BADGE14_GET
 	clearflag FLAG_BADGE15_GET
 	clearflag FLAG_BADGE16_GET
+	clearflag FLAG_RECEIVED_TOGEPI_EGG
 
 	setvar VAR_VIOLET_CITY_STATE, 0 @CITY STATES
 	setvar VAR_CHERRYGROVE_CITY_STATE, 0

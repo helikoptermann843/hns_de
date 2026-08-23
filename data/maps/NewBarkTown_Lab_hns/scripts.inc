@@ -73,8 +73,10 @@ NewBarkTown_Lab_EventScript_Elm::
 	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 9, NewBarkTown_Lab_EventScript_ElmLeague
 	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 10, NewBarkTown_Lab_EventScript_ElmSSTicket
 
+	goto_if_unset FLAG_RECEIVED_TOGEPI_EGG, NewBarkTown_Lab_EventScript_Elm_AfterEggCheck
 	goto_if_set FLAG_SHOWN_ELM_TOGEPI, NewBarkTown_Lab_EventScript_Elm_CallMe
 	call_if_unset FLAG_SHOWN_ELM_TOGEPI, NewBarkTown_Lab_EventScript_Elm_Check_Togepi
+NewBarkTown_Lab_EventScript_Elm_AfterEggCheck:
 	goto_if_ge VAR_GOLDENROD_CITY_STATE, 1, NewBarkTown_Lab_EventScript_Elm_Check_WhereIsEgg
 	goto_if_eq VAR_NEWBARKTOWN_LABSTATE, 5, NewBarkTown_Lab_EventScript_ElmState5
 
@@ -153,6 +155,7 @@ NewBarkTown_Lab_EventScript_TriggerReturnPlayer::
 NewBarkTown_Lab_EventScript_ShouldntTouch::
 	msgbox NewBarkTown_Lab_Text_ShouldntTouch, MSGBOX_DEFAULT
 	closemessage
+	release
 	end
 
 
@@ -277,6 +280,7 @@ NewBarkTown_Lab_EventScript_GiveStarter_Shiny::
 NewBarkTown_Lab_EventScript_NicknameStarter::
 	setvar VAR_0x8004, 0
 	call Common_EventScript_NameReceivedPartyMon
+	release
 	end
 
 NewBarkTown_Lab_EventScript_ChoseStarter_NicknameStarter_Nuzlocke::
@@ -422,6 +426,7 @@ NewBarkTown_Lab_EventScript_PoliceYes::
 	setflag FLAG_START_NUZLOCKE
 	setflag FLAG_EXP_SHARE_ENABLED
 	removeitem ITEM_MYSTERY_EGG
+	release
 	end
 
 NewBarkTown_Lab_EventScript_ElmState5::

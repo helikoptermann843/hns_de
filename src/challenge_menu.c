@@ -173,7 +173,9 @@ static EWRAM_DATA bool8 sIsInitialSetup = FALSE;
 enum {
     LOCK_FREE,
     LOCK_ONEWAY_DOWN,
+    LOCK_ONEWAY_UP,
     LOCK_FULL,
+    LOCK_EXP_MULTIPLIER
 };
 
 static const u8 sMidGameLockPolicy[TAB_COUNT * MAX_ITEMS_PER_TAB] = {
@@ -205,7 +207,7 @@ static const u8 sMidGameLockPolicy[TAB_COUNT * MAX_ITEMS_PER_TAB] = {
     // TAB_DIFFICULTY
     [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_PARTY_LIMIT]    = LOCK_ONEWAY_DOWN,
     [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_LEVEL_CAP]      = LOCK_ONEWAY_DOWN,
-    [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_EXP_MULTIPLIER] = LOCK_ONEWAY_DOWN,
+    [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_EXP_MULTIPLIER] = LOCK_EXP_MULTIPLIER,
     [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_ITEM_PLAYER]    = LOCK_ONEWAY_DOWN,
     [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_ITEM_TRAINER]   = LOCK_ONEWAY_DOWN,
     [TAB_DIFFICULTY * MAX_ITEMS_PER_TAB + ITEM_DIFFICULTY_MAX_PARTY_IVS]  = LOCK_ONEWAY_DOWN,
@@ -1785,6 +1787,41 @@ static void ProcessLeftRight(void)
         *sel = prev;
         PlaySE(SE_FAILURE);
         return;
+    }
+
+    if (*sel != prev && GetLockPolicy(sMenu->currentTab, itemIndex) == LOCK_ONEWAY_UP && *sel < prev)
+    {
+        *sel = prev;
+        PlaySE(SE_FAILURE);
+        return;
+    }
+
+    if (*sel != prev && GetLockPolicy(sMenu->currentTab, itemIndex) == LOCK_EXP_MULTIPLIER)
+    {
+        if (*sel == OPTIONS_EXP_MULTIPLIER_0X)
+        {
+            // Do not allow selecting 0x after Game as Begun.
+            *sel = prev;
+            PlaySE(SE_FAILURE);
+            return;
+        }
+        else if (prev == OPTIONS_EXP_MULTIPLIER_0X && *sel == OPTIONS_EXP_MULTIPLIER_2X)
+        {
+            // If currently 0x, only allow moving to 1x, not 2x
+            // Allowing move to 2x would then get stuck and
+            // not possible for player to get to 1x or 1.5x after the game as begun.
+            *sel = prev;
+            PlaySE(SE_FAILURE);
+            return;
+        }
+        else if (prev != OPTIONS_EXP_MULTIPLIER_0X && *sel < prev)
+        {
+            // If not 0x, only allow moving up, not down.
+            // This prevents player from moving down from 1.5x and 2x after Game as begun.
+            *sel = prev;
+            PlaySE(SE_FAILURE);
+            return;
+        }
     }
 
     if (*sel != prev)

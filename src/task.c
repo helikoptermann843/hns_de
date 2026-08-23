@@ -41,6 +41,8 @@ u8 CreateTask(TaskFunc func, u8 priority)
         }
     }
 
+    assertf(FALSE, "tasks full (0x%x)", func);
+
     return 0;
 }
 
