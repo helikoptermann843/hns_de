@@ -933,7 +933,7 @@ u8 LoadGameSave(u8 saveType)
         gSaveBlock1Ptr->saveVersion = 2;
     }
 
-    if (gSaveBlock1Ptr->saveVersion < 3)
+    if (gSaveBlock1Ptr->saveVersion < 4)
     {
 #if FREE_MATCH_CALL == FALSE
         // Irwin, Derek and Beverly used to fill all five rematch slots with their
@@ -956,7 +956,7 @@ u8 LoadGameSave(u8 saveType)
                 gSaveBlock1Ptr->trainerRematches[sRematchIdsToReset[i]] = 1;
         }
 #endif //FREE_MATCH_CALL
-        gSaveBlock1Ptr->saveVersion = 3;
+        gSaveBlock1Ptr->saveVersion = 4;
     }
 
     // Add version migration steps here:
