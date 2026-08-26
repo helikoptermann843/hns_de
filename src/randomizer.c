@@ -466,7 +466,10 @@ static inline bool32 IsKeyItem(u16 itemId)
 
 static inline bool32 ShouldRandomizeItem(u16 itemId)
 {
-    return !(IsItemHM(itemId) || IsKeyItem(itemId) || itemId == ITEM_NONE);
+    // ITEM_GS_BALL sits in POCKET_POKE_BALLS rather than POCKET_KEY_ITEMS, so the key-item
+    // check below doesn't cover it. It gates Kurt's Celebi chain (checkitem/removeitem in
+    // AzaleaTown_KurtsHouse_hns), so rolling it into something else softlocks that quest.
+    return !(IsItemHM(itemId) || IsKeyItem(itemId) || itemId == ITEM_GS_BALL || itemId == ITEM_NONE);
 }
 
 #include "data/randomizer/item_whitelist.h"
@@ -518,6 +521,20 @@ void FindItemRandomize_NativeCall(struct ScriptContext *ctx)
 void FindHiddenItemRandomize_NativeCall(struct ScriptContext *ctx)
 {
     RandomizeFoundItemScript(&gSpecialVar_0x8005);
+}
+
+// Items handed over by NPCs (the `giveitem` macro / STD_OBTAIN_ITEM). These have no
+// object event of their own, so seed off the current map plus the NPC being talked to.
+void ObtainItemRandomize_NativeCall(struct ScriptContext *ctx)
+{
+    if (RandomizerFeatureEnabled(RANDOMIZE_FIELD_ITEMS))
+    {
+        gSpecialVar_0x8000 = RandomizeFoundItem(
+            gSpecialVar_0x8000,
+            gSaveBlock1Ptr->location.mapNum,
+            gSaveBlock1Ptr->location.mapGroup,
+            gSpecialVar_LastTalked);
+    }
 }
 
 static inline bool32 IsRandomizerLegendary(u16 species)

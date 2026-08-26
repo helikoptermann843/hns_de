@@ -11,7 +11,7 @@ Route22_EventScript_Sign::
 	msgbox Route22_Text_VictoryRoadEntranceSign, MSGBOX_NPC
 	end
 
-Route22_Text_VictoryRoadEntranceSign:
+Route22_Text_VictoryRoadEntrancegSign:
 	.string "Pokémon Liga\n"
 	.string "Eingang Siegesstraße\n$"
 

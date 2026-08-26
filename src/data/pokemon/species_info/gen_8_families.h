@@ -2474,9 +2474,12 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .levelUpLearnset = sApplinLevelUpLearnset,
         .teachableLearnset = sApplinTeachableLearnset,
         .eggMoveLearnset = sApplinEggMoveLearnset,
-        .evolutions = EVOLUTION({EVO_ITEM, ITEM_TART_APPLE, SPECIES_FLAPPLE},
+        .evolutions = EVOLUTION({EVO_ITEM, ITEM_LEAF_STONE, SPECIES_FLAPPLE},
+                                {EVO_ITEM, ITEM_SUN_STONE, SPECIES_APPLETUN},
+                                {EVO_ITEM, ITEM_TART_APPLE, SPECIES_FLAPPLE},
                                 {EVO_ITEM, ITEM_SWEET_APPLE, SPECIES_APPLETUN}
                             #if P_GEN_9_CROSS_EVOS
+                                ,{EVO_ITEM, ITEM_OVAL_STONE, SPECIES_DIPPLIN}
                                 ,{EVO_ITEM, ITEM_SYRUPY_APPLE, SPECIES_DIPPLIN}
                             #endif
                             ),
@@ -4072,7 +4075,8 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .levelUpLearnset = sSinisteaLevelUpLearnset,
         .teachableLearnset = sSinisteaTeachableLearnset,
         .formSpeciesIdTable = sSinisteaFormSpeciesIdTable,
-        .evolutions = EVOLUTION({EVO_ITEM, ITEM_CRACKED_POT, SPECIES_POLTEAGEIST_PHONY}),
+        .evolutions = EVOLUTION({EVO_ITEM, ITEM_DUSK_STONE, SPECIES_POLTEAGEIST_PHONY},
+                                {EVO_ITEM, ITEM_CRACKED_POT, SPECIES_POLTEAGEIST_PHONY}),
         .randomizerMode = MON_RANDOMIZER_SPECIAL_FORM,
     },
 
@@ -4139,7 +4143,8 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .levelUpLearnset = sSinisteaLevelUpLearnset,
         .teachableLearnset = sSinisteaTeachableLearnset,
         .formSpeciesIdTable = sSinisteaFormSpeciesIdTable,
-        .evolutions = EVOLUTION({EVO_ITEM, ITEM_CHIPPED_POT, SPECIES_POLTEAGEIST_ANTIQUE}),
+        .evolutions = EVOLUTION({EVO_ITEM, ITEM_REAPER_CLOTH, SPECIES_POLTEAGEIST_ANTIQUE},
+                                {EVO_ITEM, ITEM_CHIPPED_POT, SPECIES_POLTEAGEIST_ANTIQUE}),
         .randomizerMode = MON_RANDOMIZER_INVALID,
     },
 
@@ -4849,6 +4854,15 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .teachableLearnset = sMilceryTeachableLearnset,
         .eggMoveLearnset = sMilceryEggMoveLearnset,
         .evolutions = EVOLUTION(
+                                {EVO_ITEM, ITEM_SHINY_STONE,   SPECIES_ALCREMIE_STRAWBERRY_VANILLA_CREAM},
+                                {EVO_ITEM, ITEM_FIRE_STONE,    SPECIES_ALCREMIE_STRAWBERRY_RUBY_CREAM},
+                                {EVO_ITEM, ITEM_LEAF_STONE,    SPECIES_ALCREMIE_STRAWBERRY_MATCHA_CREAM},
+                                {EVO_ITEM, ITEM_ICE_STONE,     SPECIES_ALCREMIE_STRAWBERRY_MINT_CREAM},
+                                {EVO_ITEM, ITEM_THUNDER_STONE, SPECIES_ALCREMIE_STRAWBERRY_LEMON_CREAM},
+                                {EVO_ITEM, ITEM_MOON_STONE,    SPECIES_ALCREMIE_STRAWBERRY_SALTED_CREAM},
+                                {EVO_ITEM, ITEM_DUSK_STONE,    SPECIES_ALCREMIE_STRAWBERRY_RUBY_SWIRL},
+                                {EVO_ITEM, ITEM_SUN_STONE,     SPECIES_ALCREMIE_STRAWBERRY_CARAMEL_SWIRL},
+                                {EVO_ITEM, ITEM_DAWN_STONE,    SPECIES_ALCREMIE_STRAWBERRY_RAINBOW_SWIRL},
                                 {EVO_SPIN, SPIN_CW_SHORT, SPECIES_ALCREMIE_STRAWBERRY_VANILLA_CREAM,
                                 CONDITIONS({IF_HOLD_ITEM, ITEM_STRAWBERRY_SWEET},
                                            {IF_TIME, TIME_DAY})},
@@ -6515,7 +6529,8 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .formSpeciesIdTable = sDuraludonFormSpeciesIdTable,
         .formChangeTable = sDuraludonFormChangeTable,
     #if P_GEN_9_CROSS_EVOS
-        .evolutions = EVOLUTION({EVO_ITEM, ITEM_METAL_ALLOY, SPECIES_ARCHALUDON}),
+        .evolutions = EVOLUTION({EVO_ITEM, ITEM_UP_GRADE, SPECIES_ARCHALUDON},
+                                {EVO_ITEM, ITEM_METAL_ALLOY, SPECIES_ARCHALUDON}),
     #endif
     },
 
@@ -7310,7 +7325,9 @@ const struct SpeciesInfo gSpeciesInfoGen8[] =
         .perfectIVCount = LEGENDARY_PERFECT_IV_COUNT,
         .levelUpLearnset = sKubfuLevelUpLearnset,
         .teachableLearnset = sKubfuTeachableLearnset,
-        .evolutions = EVOLUTION({EVO_SCRIPT_TRIGGER, 0, SPECIES_URSHIFU_SINGLE_STRIKE},
+        .evolutions = EVOLUTION({EVO_ITEM, ITEM_RAZOR_CLAW, SPECIES_URSHIFU_SINGLE_STRIKE},
+                                {EVO_ITEM, ITEM_WATER_STONE, SPECIES_URSHIFU_RAPID_STRIKE},
+                                {EVO_SCRIPT_TRIGGER, 0, SPECIES_URSHIFU_SINGLE_STRIKE},
                                 {EVO_SCRIPT_TRIGGER, 1, SPECIES_URSHIFU_RAPID_STRIKE},
                                 {EVO_ITEM, ITEM_SCROLL_OF_DARKNESS, SPECIES_URSHIFU_SINGLE_STRIKE},
                                 {EVO_ITEM, ITEM_SCROLL_OF_WATERS,   SPECIES_URSHIFU_RAPID_STRIKE}),

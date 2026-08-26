@@ -214,7 +214,8 @@ Debug_Text_1:
 
 
 Debug_EventScript_Script_2::
-	trainerbattle_no_intro TRAINER_RIVAL_CYNDAQUIL_1_HNS, CherrygroveCity_Text_SilverWin
+	finditem ITEM_POTION
+	giveitem ITEM_SUPER_POTION
 	release
 	end
 

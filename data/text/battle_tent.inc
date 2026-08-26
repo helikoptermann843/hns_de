@@ -144,8 +144,12 @@ VerdanturfTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "ihre Pokémon getestet.$"
 #endif
 VerdanturfTown_BattleTentLobby_Text_TakeChallenge:
-	.string "Möchtest du dich der Herausforderung\n"
-	.string "des Wiesenflur Kampfcamps stellen?$"
+#if IS_HNS
+	.string "Möchtest du dich der Palast-\n"
+#else
+	.string "Möchtest du dich der Wiesenflur-\n"
+#endif
+	.string "Kampfcamp-Herausforderung stellen?$"
 
 VerdanturfTown_BattleTentLobby_Text_ExplainVerdanturfTent:
 #if IS_HNS
