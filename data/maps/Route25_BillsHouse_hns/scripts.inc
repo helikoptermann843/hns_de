@@ -611,7 +611,9 @@ Route25_BillsHouse_Text_ShownAll:
 	.string "Danke, dass du mir so viele niedliche\n"
 	.string "Pokémon gezeigt hast!\l"
 	.string "Ich habe mich wirklich gut amüsiert.\p"
-	.string "Das verleiht mir richtig Lebensenergie!$"
+	.string "Das verleiht mir richtig Lebensenergie!\p"
+	.string "Benutze den Teleporter,\n"
+	.string "wann immer du möchtest.$"
 
 Route25_BillsHouse_Text_WrongPokemon:
 	.string "Hm…\p"

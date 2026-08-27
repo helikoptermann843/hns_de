@@ -36,14 +36,22 @@ EventTicket_Text_OddTicketGetOnBoard:
 FarawayIsland_Entrance_Text_SailorReturn:
 	.string "Kapitän Brack ist manchmal\n"
 	.string "unberechenbar…\p"
-	.string "Möchtest du zurück nach\n"
-	.string "Seegrasulb City?$"
+	.string "Möchtest du zurück\n"
+#if IS_HNS
+	.string "nach Oliviana?$"
+#else
+	.string "nach Seegrasulb City?$"
+#endif
 
 BirthIsland_Harbor_Text_SailorReturn:
 	.string "Diese Insel hat wirklich eine höchst\n"
-	.string "merkwürdige Form, findest du nicht?\l"
-	.string "Möchtest du zurück nach\l"
-	.string "Seegrasulb City?$"
+	.string "merkwürdige Form, findest du nicht?\p"
+	.string "Möchtest du zurück\n"
+#if IS_HNS
+	.string "nach Oliviana?$"
+#else
+	.string "nach Seegrasulb City?$"
+#endif
 
 EventTicket_Text_OddTicketsWhereTo:
 	.string "Ach, du besitzt diese merkwürdigen\n"

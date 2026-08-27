@@ -201,9 +201,13 @@ Route121_SafariZoneEntrance_Text_YouNeedPokeblockCase:
 	.string "reicher, wenn du {POKEBLOCK} benutzen\l"
 	.string "würdest.\p"
 	.string "Bitte besorge dir doch eine {POKEBLOCK}Box.\p"
-	.string "Vielleicht erhältst du in der Wett-\n"
-	.string "bewerbshalle von\l"
-	.string "Seegrasulb City eine.$"
+	.string "Vielleicht erhältst du\n"
+
+#if IS_HNS
+	.string "von dem Jungen da drüben eine.$"
+#else
+	.string "in Seegrasulb City eine.$"
+#endif
 
 SafariZone_South_Text_StillHaveTimeExit:
 	.string "Du hast noch Zeit übrig. Möchtest du\n"

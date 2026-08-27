@@ -808,9 +808,6 @@ AzaleaTown_Gym_Text_GymGuide:
 	.string "Mal sehen… sein Tannza\n"
 	.string "hat eine Attacke, um seine\l"
 	.string "Gesteins-Schwäche auszugleichen.\p"
-	.string "Er hat außerdem eine neue Form des\n"
-	.string "Zerschneider entwickelt,\l"
-	.string "als Käfer-Attacke.\p"
 	.string "Oh, vergiss nicht diese\n"
 	.string "kritischen Treffer. Viel Glück!$"
 

@@ -81,7 +81,7 @@ static const u8 sCreditsText_Phantonomy[]                      = _("Phantonomy")
 static const u8 sCreditsText_DaniRainbow[]                     = _("DaniRainbow");
 static const u8 sCreditsText_Resetes[]                         = _("Resetes");
 static const u8 sCreditsText_Jozuno[]                          = _("Jozuno");
-static const u8 sCreditsText_Skeletonkey[]                     = _("skeletonkey");
+static const u8 sCreditsText_Skeletonkey[]                     = _("Skeletonkey36");
 static const u8 sCreditsText_Pinny[]                           = _("Pinny");
 static const u8 sCreditsText_Grintoul[]                        = _("Grintoul");
 
@@ -126,6 +126,7 @@ static const u8 sCreditsText_ShinyDragonHunter[]               = _("ShinyDragonH
 static const u8 sCreditsText_TamamushiErika[]                  = _("Tamamushi Erika");
 static const u8 sCreditsText_Beliot419[]                       = _("Beliot419");
 static const u8 sCreditsText_shiningstar5022[]                 = _("shiningstar5022");
+static const u8 sCreditsText_Nettorizo[]                       = _("Nettorizo");
 
 static const u8 sCreditsText_Engine[]                          = _("Engine");
 static const u8 sCreditsText_Pret[]                            = _("pokeemerald - Pret");
@@ -479,6 +480,7 @@ static const struct CreditsEntry sCreditsEntry_ShinyDragonHunter                
 static const struct CreditsEntry sCreditsEntry_TamamushiErika                   ={11, FALSE, sCreditsText_TamamushiErika};
 static const struct CreditsEntry sCreditsEntry_Beliot419                        = {11, FALSE, sCreditsText_Beliot419};
 static const struct CreditsEntry sCreditsEntry_shiningstar5022                  = {11, FALSE, sCreditsText_shiningstar5022};
+static const struct CreditsEntry sCreditsEntry_Nettorizo                        = {11, FALSE, sCreditsText_Nettorizo};
 // Engine
 static const struct CreditsEntry sCreditsEntry_Engine                           = {8,  TRUE, sCreditsText_Engine};
 static const struct CreditsEntry sCreditsEntry_Pret                             = {11, FALSE, sCreditsText_Pret};
@@ -761,7 +763,7 @@ static const struct CreditsEntry *const sCreditsEntryPointerTable[PAGE_COUNT][EN
         &sCreditsEntry_Sprites,
         &sCreditsEntry_Beliot419,
         &sCreditsEntry_shiningstar5022,
-        _,
+        &sCreditsEntry_Nettorizo,
     },
     [PAGE_HNS_TILESETS_1] = {
         &sCreditsEntry_Assets,
