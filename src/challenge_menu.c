@@ -822,7 +822,7 @@ static const struct ChallengeMenuItem sTabItems_Randomizer[] = {
         .choiceNames  = sChoices_OffOn,
     },
     [ITEM_RANDOM_GEN_SCOPE] = {
-        .name         = COMPOUND_STRING("GEN SCOPE"),
+        .name         = COMPOUND_STRING("Generation"),
         .descriptions = sDesc_RandomGenScope,
         .numChoices   = 2,
         .choiceNames  = sChoices_GenScope,
