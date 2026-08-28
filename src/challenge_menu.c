@@ -733,8 +733,8 @@ static const u8 *const sDesc_RandomLegendaries[] = {
     COMPOUND_STRING("Legendäre {PKMN} in\nZufallsmodus einbeziehen."),
 };
 static const u8 *const sDesc_RandomGenScope[] = {
-    COMPOUND_STRING("Randomize into {PKMN} from every\ngeneration."),
-    COMPOUND_STRING("Only GEN 1-3 {PKMN} and their\ncross-gen evolutions."),
+    COMPOUND_STRING("Zufällige {PKMN} von allen\nGenerationen."),
+    COMPOUND_STRING("Nur GEN 1-3 {PKMN} und ihre\nEntwicklungen."),
 };
 static const u8 *const sDesc_RandomType[] = {
     COMPOUND_STRING("{PKMN}-Typen bleiben wie\nim Basisspiel."),
