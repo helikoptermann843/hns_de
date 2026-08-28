@@ -426,17 +426,8 @@ u8 NuzlockeIsCaptureBlockedBySpeciesClause(u16 species)
 
 void SetNuzlockeChecks(void)
 {
-    if (IsOneTypeChallengeActive())
-    {
-        u8 typeChallenge = gSaveBlock3Ptr->challengeSettings.tx_Challenges_OneTypeChallenge;
-        u16 species = GetMonData(&gEnemyParty[0], MON_DATA_SPECIES);
-        OneTypeChallengeCaptureBlocked = (GetSpeciesType(species, 0) != typeChallenge
-                                       && GetSpeciesType(species, 1) != typeChallenge);
-    }
-    else
-    {
-        OneTypeChallengeCaptureBlocked = FALSE;
-    }
+    OneTypeChallengeCaptureBlocked = !DoesSpeciesPassOneTypeChallenge(
+        GetMonData(&gEnemyParty[0], MON_DATA_SPECIES));
 
     if (IsNuzlockeActive())
     {

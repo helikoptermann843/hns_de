@@ -447,6 +447,7 @@ void DoStandardWildBattle_Debug(void)
 
 void BattleSetup_StartRoamerBattle(void)
 {
+    SetNuzlockeChecks();
     LockPlayerFieldControls();
     FreezeObjectEvents();
     StopPlayerAvatar();

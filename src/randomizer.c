@@ -313,7 +313,7 @@ static inline bool32 IsGenScopeRestricted(void)
     return gSaveBlock3Ptr->challengeSettings.tx_Random_GenScope;
 }
 
-static bool32 IsSpeciesInGenScope(u16 species)
+bool32 IsSpeciesInGenScope(u16 species)
 {
     if (!IsGenScopeRestricted())
         return TRUE;
