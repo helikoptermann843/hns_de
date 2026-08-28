@@ -442,17 +442,6 @@ void SetNuzlockeChecks(void)
             NuzlockeIsCaptureBlocked = FALSE;
             NuzlockeIsSpeciesClauseActive = FALSE;
         }
-
-        {
-            u16 species = GetMonData(&gEnemyParty[0], MON_DATA_SPECIES);
-            if (gSpeciesInfo[species].isRestrictedLegendary
-                || gSpeciesInfo[species].isSubLegendary
-                || gSpeciesInfo[species].isMythical)
-            {
-                NuzlockeIsCaptureBlocked = FALSE;
-                NuzlockeIsSpeciesClauseActive = FALSE;
-            }
-        }
     }
     else
     {

@@ -3986,6 +3986,11 @@ void CreateEnemyEventMon(void)
     s32 level = gSpecialVar_0x8005;
     s32 itemId = gSpecialVar_0x8006;
 
+    #if RANDOMIZER_AVAILABLE
+    if (RandomizerFeatureEnabled(RANDOMIZE_FIXED_MON))
+        species = RandomizeMon(RANDOMIZER_REASON_FIXED_ENCOUNTER, GetRandomizerOption(RANDOMIZER_OPTION_SPECIES_MODE), Random32(), species);
+    #endif
+
     ZeroEnemyPartyMons();
 
     CreateEventMon(&gEnemyParty[0], species, level, Random32(), OTID_STRUCT_PLAYER_ID);

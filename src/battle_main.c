@@ -5864,6 +5864,7 @@ static void HandleEndTurn_FinishBattle(void)
                                         | BATTLE_TYPE_BATTLE_TOWER
                                         | BATTLE_TYPE_CATCH_TUTORIAL
                                         | BATTLE_TYPE_LEGENDARY
+                                        | BATTLE_TYPE_ROAMER
                                         | BATTLE_TYPE_TWO_OPPONENTS
                                         | BATTLE_TYPE_INGAME_PARTNER
                                         | BATTLE_TYPE_TOWER_LINK_MULTI
