@@ -8,7 +8,8 @@ NewSinjoh_On_Transition:
 
 NewSinjoh_EventScript_TriggerNorthGate::
 	lock
-	msgbox NewSinjoh_Text_TriggerNorthGate, MSGBOX_AUTOCLOSE
+	msgbox NewSinjoh_Text_TriggerNorthGate, MSGBOX_DEFAULT
+	closemessage
 	applymovement LOCALID_PLAYER, Common_Movement_WalkDown1
 	waitmovement 0
 	release
@@ -51,6 +52,7 @@ NewSinjoh_MilkMan_EventScript_Seller::
 	msgbox NewSinjoh_MilkMan_NoSale, MSGBOX_DEFAULT
 	hidemoneybox
 	closemessage
+	release
 	end
 
 NewSinjoh_EventScript_MilkMan_BuyMilk::
@@ -151,8 +153,6 @@ NewSinjoh_Pokemart_TravelShop:
 	.2byte ITEM_GREAT_BALL
 	.2byte ITEM_ULTRA_BALL
 	.2byte ITEM_NONE
-	release
-	end
 
 NewSinjoh_Text_TravelShopGreeting:
 	.string "Willkommen in meinem kleinen\n"
@@ -295,7 +295,8 @@ NewSinjoh_Text_Daughter:
 NewSinjoh_EventScript_Mother::
 	lock
 	faceplayer
-	msgbox NewSinjoh_Text_Mother, MSGBOX_AUTOCLOSE
+	msgbox NewSinjoh_Text_Mother, MSGBOX_DEFAULT
+	closemessage
 	turnobject LOCALID_NEWSINJOH_MOTHER, DIR_EAST
 	release
 	end
