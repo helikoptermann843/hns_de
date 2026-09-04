@@ -323,6 +323,13 @@ NewSinjoh_EventScript_Resturant_Sign::
 NewSinjoh_Text_Resturant_Sign:
 	.string "FAMILY CAFE$"
 
+NewSinjoh_EventScript_Cave_Sign::
+	msgbox NewSinjoh_Text_Cave_Sign, MSGBOX_SIGN
+	end
+
+NewSinjoh_Text_Cave_Sign:
+	.string "HOT SPRINGS CAVE$"
+
 NewSinjoh_EventScript_Hiker::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_HikerAfter
 	msgbox NewSinjoh_Text_Hiker, MSGBOX_NPC
