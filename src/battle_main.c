@@ -3254,7 +3254,11 @@ static void BattleStartClearSetData(void)
     gBattleStruct->runTries = 0;
     gBattleStruct->safariGoNearCounter = 0;
     gBattleStruct->safariPkblThrowCounter = 0;
+    // Species with a catch rate under 13 would truncate to a factor of 0, which
+    // zeroes the capture odds and leaves bait/rock unable to move it off 0.
     gBattleStruct->safariCatchFactor = gSpeciesInfo[GetMonData(&gEnemyParty[0], MON_DATA_SPECIES)].catchRate * 100 / 1275;
+    if (gBattleStruct->safariCatchFactor == 0)
+        gBattleStruct->safariCatchFactor = 1;
     gBattleStruct->safariEscapeFactor = 3;
     gBattleStruct->wildVictorySong = 0;
     // Amulet Coin applies as long as any party mon holds it, even if that mon never enters the battle.

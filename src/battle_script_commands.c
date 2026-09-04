@@ -10884,14 +10884,17 @@ static u32 ComputeCaptureOdds(u32 wildMonBattler, u32 playerBattler)
     u32 odds = (battleMon->maxHP * 3 -  battleMon->hp * 2);
     s32 catchRate;
 
-    if (gBattleTypeFlags & BATTLE_TYPE_SAFARI)
+    // HnS lets the player throw any ball in the Safari Zone, so the flattened
+    // safari catch factor only applies to Safari Balls themselves. Every other
+    // ball uses the species' real catch rate, as it did in HnS 1.0.
+    if ((gBattleTypeFlags & BATTLE_TYPE_SAFARI) && (!IS_HNS || gLastUsedItem == ITEM_SAFARI_BALL))
         catchRate = gBattleStruct->safariCatchFactor * 1275 / 100;
     else
         catchRate = gSpeciesInfo[battleMon->species].catchRate;
 
     catchRate += ball.flatBonus;
     if (catchRate <= 0)
-        catchRate = catchRate + ball.flatBonus;
+        catchRate = 1;
 
     odds = odds * catchRate / (battleMon->maxHP * 3);
     odds = odds * ball.multiplier / ball.divider;
@@ -10974,6 +10977,8 @@ static bool32 CriticalCapture(u32 odds)
 
 static u32 ComputeBallShakeOdds(u32 odds)
 {
+    if (odds == 0) // no shakes, and no division by zero below
+        return 0;
     odds = Sqrt(Sqrt(16711680 / odds));
     odds = 1048560 / odds;
     return odds;
