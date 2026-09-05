@@ -535,6 +535,7 @@ const u8 gText_Poke_Balls[] = _("Ball");
 const u8 gText_TMs_Hms[] = _("TM/VM");
 const u8 gText_Berries2[] = _("Beeren");
 const u8 gText_Medicine[] = _("Medizin");
+#if I_COMBINE_BAG_POCKETS == FALSE
 const u8 gText_BattleItems[] = _("Kampfitems");
 const u8 gText_Treasures[] = _("Schätze");
 #endif
