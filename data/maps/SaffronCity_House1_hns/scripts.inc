@@ -29,3 +29,4 @@ MrPsychic_Text_2:
 	.string "…Mit ein bisschen Glück lässt\n"
 	.string "sich damit die Spezialattacke\l"
 	.string "des Gegners senken!$"
+

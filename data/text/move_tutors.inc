@@ -192,7 +192,7 @@ MoveTutor_Text_DynamicPunchWhichMon:
 
 MoveTutor_Text_DynamicPunchTaught:
 	.string "Ich möchte, dass du in der Arena von\n"
-	.string "Moosbach City gewinnst, indem du\l"
+	.string "Azuria-City gewinnst, indem du\l"
 	.string "Wuchtschlag einsetzt.$"
 
 MoveTutor_Text_DoubleEdgeTeach:

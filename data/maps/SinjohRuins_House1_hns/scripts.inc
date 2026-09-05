@@ -541,6 +541,7 @@ SinjohRuins_Lab_Text_Biologist:
 	.string "ein viel größeres Gebiet, das sich\l"
 	.string "nordwärts durch das alte Sinnoh\l"
 	.string "erstreckte.$"
+
 SinjohRuins_Lab_Text_BiologistDuring:
 	.string "Wenn das Wesen am oberen Ende der\n"
 	.string "Treppe wirklich der Gott aller\l"
