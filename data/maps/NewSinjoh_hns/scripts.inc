@@ -328,7 +328,7 @@ NewSinjoh_EventScript_Cave_Sign::
 	end
 
 NewSinjoh_Text_Cave_Sign:
-	.string "HOT SPRINGS CAVE$"
+	.string "Heiße Quelle - Höhle$"
 
 NewSinjoh_EventScript_Hiker::
 	goto_if_ge VAR_SINJOH_STORYLINE, 13, NewSinjoh_EventScript_HikerAfter
