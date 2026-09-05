@@ -18,7 +18,6 @@ ViridianCity_Gym_EventScript_Blue::
 	msgbox ViridianCity_Gym_Text_LeaderBlue_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE16_GET
 	setflag FLAG_DEFEATED_VIRIDIAN_GYM
-	callnative RevealDexEntries_Viridian
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 16
 	call Common_EventScript_SetGymTrainers_hns

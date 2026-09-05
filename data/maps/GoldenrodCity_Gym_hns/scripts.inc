@@ -71,7 +71,6 @@ GoldenrodCity_Gym_EventScript_WhitneyBadge::
 	msgbox GoldenrodCity_Gym_Text_WhitneyPlainBadge, MSGBOX_DEFAULT
 	setflag FLAG_BADGE03_GET
 	setflag FLAG_DEFEATED_GOLDENROD_CITY_GYM
-	callnative RevealDexEntries_Goldenrod
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 3
 	call Common_EventScript_SetGymTrainers_hns

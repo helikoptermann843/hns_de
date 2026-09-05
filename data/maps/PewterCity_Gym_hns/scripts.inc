@@ -22,7 +22,6 @@ PewterCity_Gym_EventScript_Brock::
 	msgbox PewterCity_Gym_Text_Brock_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE09_GET
 	setflag FLAG_DEFEATED_PEWTER_GYM
-	callnative RevealDexEntries_Pewter
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 9
 	call Common_EventScript_SetGymTrainers_hns

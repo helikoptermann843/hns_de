@@ -60,7 +60,6 @@ CianwoodGym_EventScript_ChuckVictory::
 	msgbox CianwoodGym_Text_ChuckBadgeSpeech, MSGBOX_DEFAULT
 	setflag FLAG_BADGE05_GET
 	setflag FLAG_DEFEATED_CIANWOOD_GYM
-	callnative RevealDexEntries_Cianwood
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 5
 	call Common_EventScript_SetGymTrainers_hns

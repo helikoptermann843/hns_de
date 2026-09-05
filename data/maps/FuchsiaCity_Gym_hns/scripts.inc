@@ -55,7 +55,6 @@ FuchsiaCity_Gym_EventScript_Janine::
 	msgbox FuchsiaCity_Gym_Text_Janine_ExplainTM, MSGBOX_DEFAULT
 	setflag FLAG_BADGE14_GET
 	setflag FLAG_DEFEATED_FUCHSIA_GYM
-	callnative RevealDexEntries_Fuchsia
 	addvar VAR_NUM_BADGES, 1
 	setvar VAR_0x8008, 14
 	call Common_EventScript_SetGymTrainers_hns
