@@ -803,6 +803,7 @@ static void SetPlayerCardData(struct TrainerCard *trainerCard, u8 cardType)
     switch (cardType)
     {
     case CARD_TYPE_EMERALD:
+    case CARD_TYPE_HNS:
         trainerCard->battleTowerWins = 0;
         trainerCard->battleTowerStraightWins = 0;
     // Seems like GF got CARD_TYPE_FRLG and CARD_TYPE_RS wrong.
@@ -876,6 +877,7 @@ void CopyTrainerCardData(struct TrainerCard *dst, struct TrainerCard *src, u8 ga
         memcpy(dst, src, 0x38);
         break;
     case CARD_TYPE_EMERALD:
+    case CARD_TYPE_HNS:
         memcpy(dst, src, 0x60);
         dst->linkPoints.frontier = 0;
         dst->hasAllFrontierSymbols = src->linkHasAllFrontierSymbols;
@@ -1295,7 +1297,8 @@ static const u8 *const sLinkBattleTexts[] =
 {
     [CARD_TYPE_FRLG]    = gText_LinkBattles,
     [CARD_TYPE_RS]      = gText_LinkCableBattles,
-    [CARD_TYPE_EMERALD] = gText_LinkBattles
+    [CARD_TYPE_EMERALD] = gText_LinkBattles,
+    [CARD_TYPE_HNS] = gText_LinkBattles
 };
 
 static void BufferLinkBattleResults(void)
@@ -1395,6 +1398,7 @@ static void BufferBattleFacilityStats(void)
         }
         break;
     case CARD_TYPE_EMERALD:
+    // case CARD_TYPE_HNS: // Enabling this currently conflicts with the mon display
         if (sData->trainerCard.frontierBP)
         {
             ConvertIntToDecimalStringN(gStringVar1, sData->trainerCard.frontierBP, STR_CONV_MODE_RIGHT_ALIGN, 5);
@@ -1402,6 +1406,7 @@ static void BufferBattleFacilityStats(void)
         }
         break;
     case CARD_TYPE_FRLG:
+    case CARD_TYPE_HNS:
         break;
     }
 }
@@ -1415,10 +1420,12 @@ static void PrintBattleFacilityStringOnCard(void)
             PrintStatOnBackOfCard(5, gText_BattleTower, sData->textBattleFacilityStat, sTrainerCardTextColors);
         break;
     case CARD_TYPE_EMERALD:
+    // case CARD_TYPE_HNS: // Enabling this currently conflicts with the mon display
         if (sData->trainerCard.frontierBP)
             PrintStatOnBackOfCard(5, gText_BattlePtsWon, sData->textBattleFacilityStat, sTrainerCardStatColors);
         break;
     case CARD_TYPE_FRLG:
+    case CARD_TYPE_HNS:
         break;
     }
 }
@@ -2037,7 +2044,13 @@ static u8 VersionToCardType(enum GameVersion version)
     if (version == VERSION_FIRE_RED || version == VERSION_LEAF_GREEN)
         return CARD_TYPE_FRLG;
     else if (version == VERSION_EMERALD)
+    {
+#if IS_HNS
+        return CARD_TYPE_HNS;
+#else
         return CARD_TYPE_EMERALD;
+#endif
+    }
     else
         return CARD_TYPE_RS;
 }

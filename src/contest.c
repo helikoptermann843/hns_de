@@ -1483,9 +1483,73 @@ static void Task_RaiseCurtainAtStart(u8 taskId)
     }
 }
 
+// ---- TEMPORARY diagnostic: contest heap corruption tracer ----
+// Upstream issue #8266 showed that contest crashes of this shape are heap corruption:
+// a move animation overruns one of the fixed-size buffers the contest uses in place of
+// VRAM, but nothing notices until FreeContestResources walks the block list at teardown.
+// By then the culprit move is long gone. This walks the allocator every frame and reports
+// the first damaged header together with the appeal and the moves in play, naming it.
+// Set to 0 (or delete this block and its call in CB2_ContestMain) once the cause is found.
+#ifdef NDEBUG
+#define CONTEST_HEAP_TRACE 0 // Release builds have no DebugPrintf to report through.
+#else
+#define CONTEST_HEAP_TRACE 1
+#endif
+
+#if CONTEST_HEAP_TRACE
+static void TraceContestHeapIntegrity(void)
+{
+    static bool8 sReported = FALSE;
+    struct MemBlock *head = (struct MemBlock *)gHeap;
+    struct MemBlock *block = head;
+    u32 i = 0;
+
+    if (sReported || gContestResources == NULL)
+        return;
+
+    do
+    {
+        // Bounds/alignment must be checked before dereferencing: a corrupted
+        // ->next can point anywhere, and reading it would fault rather than report.
+        if ((u8 *)block < gHeap
+         || (u8 *)block > gHeap + HEAP_SIZE - sizeof(struct MemBlock)
+         || ((uintptr_t)block & 3) != 0)
+        {
+            sReported = TRUE;
+            DebugPrintf("CONTEST HEAP: bad block ptr %X at index %d", (u32)block, i);
+            break;
+        }
+
+        if (block->magic != MALLOC_SYSTEM_ID)
+        {
+            sReported = TRUE;
+            DebugPrintf("CONTEST HEAP: block %d at %X magic=%X size=%d",
+                        i, (u32)block, block->magic, block->size);
+            break;
+        }
+
+        block = block->next;
+        i++;
+    } while (block != head && i < 256);
+
+    if (sReported)
+    {
+        DebugPrintf("  appeal=%d contestant=%d",
+                    eContest.appealNumber, eContest.currentContestant);
+        DebugPrintf("  moves %d %d %d %d",
+                    eContestantStatus[0].currMove, eContestantStatus[1].currMove,
+                    eContestantStatus[2].currMove, eContestantStatus[3].currMove);
+    }
+}
+#endif
+
 static void CB2_ContestMain(void)
 {
     s32 i;
+
+#if CONTEST_HEAP_TRACE
+    TraceContestHeapIntegrity();
+#endif
 
     AnimateSprites();
     RunTasks();
@@ -2795,10 +2859,24 @@ static void Task_EndCommunicateFinalStandings(u8 taskId)
 
 static void Task_ContestReturnToField(u8 taskId)
 {
+    s32 i;
+
     if (!gPaletteFade.active)
     {
         DestroyTask(taskId);
         gFieldCallback = FieldCB_ContestReturnToField;
+
+        // Stop pointing the hardware at the contest's buffers before freeing them.
+        // CB2_ReturnToField doesn't clear the VBlank callback until its own first
+        // frame, and CB2_ContestMain still runs its BG copy loop after RunTasks, so
+        // without this both spend a frame reading memory that has just been freed.
+        // Screen is already faded to black here, so nothing is lost by stopping early.
+        SetVBlankCallback(NULL);
+        sContestBgCopyFlags = 0;
+        // Mirrors the SetBgTilemapBuffer loop in InitContestInfoBgs.
+        for (i = 0; i < CONTESTANT_COUNT; i++)
+            UnsetBgTilemapBuffer(i);
+
         FreeAllWindowBuffers();
         FreeContestResources();
         FreeMonSpritesGfx();

@@ -21,11 +21,13 @@ Gate_CeladonCity_Route16_EnterCyclingRoad::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkLeft1
 	waitmovement 0
 	setflag FLAG_SYS_CYCLING_ROAD
+	releaseall
 	end
 
 Gate_CeladonCity_Route16_ExitCyclingRoad::
 	applymovement OBJ_EVENT_ID_PLAYER, Common_Movement_WalkRight1
 	waitmovement 0
 	clearflag FLAG_SYS_CYCLING_ROAD
+	releaseall
 	end
 

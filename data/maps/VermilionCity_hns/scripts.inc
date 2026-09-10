@@ -486,7 +486,7 @@ VermilionCity_EventScript_TriggerStevenRight::
 
 VermilionCity_EventScript_LatiChoice::
 	applymovement2 LOCALID_VERMILIONCITY_STEVEN, VermilionCity_Movement_StevenWalkToPlayer
-	waitmovement 0
+	waitmovement LOCALID_VERMILIONCITY_STEVEN
 	msgbox VermilionCity_Text_StevenIntro, MSGBOX_DEFAULT
 	multichoice 20, 8, MULTI_TV_LATI, TRUE
 	@goto_if_eq VAR_RESULT, MULTI_B_PRESSED, VermilionCity_EventScript_LatiCancel
@@ -505,6 +505,7 @@ VermilionCity_Movement_StevenWalkToPlayer:
 	walk_down
 	walk_down
 	walk_down
+	walk_in_place_down
 	step_end
 
 VermilionCity_Text_StevenIntro:

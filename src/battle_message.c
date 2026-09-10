@@ -2636,7 +2636,14 @@ void BufferStringBattle(enum StringID stringID, enum BattlerId battler)
             else if (BattlerIsLink(gBattleScripting.battler) || TRAINER_BATTLE_PARAM.opponentA == TRAINER_LINK_OPPONENT
             || gBattleTypeFlags & BATTLE_TYPE_RECORDED_LINK) // Link Opponent 1 and test opponent
             {
-                stringPtr = sText_LinkTrainerSentOutPkmn;
+                // Must use the {B_BUFF1} variant, like the battler 2/3 case below does.
+                // {B_OPPONENT_MON1_NAME} is resolved from this console's own
+                // gBattlerPartyIndexes at print time, but over a link the authoritative
+                // index does not arrive until switchinanim, which runs after this
+                // printstring -- so it named the opponent's previous mon. gBattleTextBuff1
+                // was just filled with the right nickname by Cmd_switchindataupdate and
+                // travels with the message.
+                stringPtr = sText_LinkTrainerSentOutPkmn2;
             }
             else // Opponent A
             {

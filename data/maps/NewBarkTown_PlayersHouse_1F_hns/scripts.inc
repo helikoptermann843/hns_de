@@ -38,15 +38,18 @@ NewBarkTown_PlayersHouse_1F_EventScript_MomsFriend::
 	end
 
 NewBarkTown_PlayersHouse_1F_MomEventScript_GoodLuck::
+	playbgm MUS_HG_FOLLOW_ME_1, FALSE
 	msgbox NewBarkTown_PlayersHouse_1F_Text_MomLeaving, MSGBOX_DEFAULT
 	setflag FLAG_MOM_VISITED
 	clearflag FLAG_HIDE_ROUTE_30_NPCS
 	setvar VAR_NEWBARK_TOWN_STATE, 5
+	fadedefaultbgm
 	release
 	end
 
 
 NewBarkTown_PlayersHouse_1F_EventScript_Mom_Regular::
+	playbgm MUS_HG_FOLLOW_ME_1, FALSE
 	specialvar VAR_RESULT, IsPokecenterChallengeActivated
 	goto_if_eq VAR_RESULT, TRUE, NewBarkTown_PlayersHouse_1F_EventScript_Mom_PokecenterChallenge
 	msgbox PlayersHouse_1F_Text_YouShouldRestABit, MSGBOX_DEFAULT
@@ -54,6 +57,7 @@ NewBarkTown_PlayersHouse_1F_EventScript_Mom_Regular::
 	call Common_EventScript_OutOfCenterPartyHeal
 	incrementgamestat GAME_STAT_RESTED_AT_HOME
 	call NewBarkTown_PlayersHouse_1F_EventScript_MomSavingsMenu
+	fadedefaultbgm
 	release
 	end
 
@@ -208,6 +212,7 @@ NewBarkTown_PlayersHouse_1F_EventScript_MomsIntroTrigger2::
 
 
 NewBarkTown_PlayersHouse_1F_EventScript_MomsIntro::
+	playbgm MUS_HG_FOLLOW_ME_1, FALSE
 	playse SE_PIN
 	applymovement LOCALID_MOM, Common_Movement_ExclamationMark
 	delay 55
@@ -226,13 +231,14 @@ NewBarkTown_PlayersHouse_1F_EventScript_MomsIntro::
 
 	@former flagheap location
 
+	fadedefaultbgm
 	releaseall
 	end
 
 
 
 NewBarkTown_PlayersHouse_1F_EventScript_GivePokeGear::
-	playfanfare MUS_OBTAIN_ITEM
+	playfanfare MUS_REGISTER_MATCH_CALL
 	message NewBarkTown_PlayersHouse_1F_Text_ObtainedPokeGear
 	waitfanfare
 	setflag FLAG_SYS_POKENAV_GET

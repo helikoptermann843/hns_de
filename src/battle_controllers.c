@@ -2162,11 +2162,15 @@ static void Controller_HandleTrainerSlideBack(enum BattlerId battler)
 void Controller_WaitForHealthBar(enum BattlerId battler)
 {
     s16 hpValue = MoveBattleBar(battler, gHealthboxSpriteIds[battler], HEALTH_BAR, 0);
+    // Read max HP from the party mon, the same source the bar itself uses in
+    // BtlController_HandleHealthBarUpdate. gBattleMons can be stale in link
+    // battles, which printed a full bar next to "x/0".
+    s32 maxHP = GetMonData(GetBattlerMon(battler), MON_DATA_MAX_HP);
 
     SetHealthboxSpriteVisible(gHealthboxSpriteIds[battler]);
     if (hpValue != -1)
     {
-        UpdateHpTextInHealthbox(gHealthboxSpriteIds[battler], HP_CURRENT, hpValue, gBattleMons[battler].maxHP);
+        UpdateHpTextInHealthbox(gHealthboxSpriteIds[battler], HP_CURRENT, hpValue, maxHP);
     }
     else
     {

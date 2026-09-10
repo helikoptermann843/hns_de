@@ -40,7 +40,7 @@ const struct HelpWindow gHelpWindowInfo[] =
                                 "Versionsnummer hat."
                             ),
         .headerFont = FONT_NORMAL,
-        .descFont = FONT_NORMAL,
+        .descFont = FONT_SMALL,
         .headerColor = {0, 4, 5},
     },
     [HELP_TELEPORTER_WINDOW] =

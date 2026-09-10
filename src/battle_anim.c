@@ -1606,7 +1606,23 @@ void LoadMoveBg(u16 bgId)
 {
     if (IsContest())
     {
-        void *decompressionBuffer = malloc_and_decompress(gBattleAnimBackgroundTable[bgId].tilemap, NULL);
+        // RelocateBattleBgPal writes, and the DmaCopy32 below reads, a full BG_SCREEN_SIZE
+        // block no matter how large the tilemap actually is. Most tilemaps decompress to
+        // less than that (BG_PSYCHIC is 0x500, BG_ROCK_WRECKER 0x500), so the buffer must
+        // be padded up to BG_SCREEN_SIZE - otherwise both run past the end of the heap
+        // block and corrupt the following MemBlock header. Nothing notices at the time;
+        // it surfaces much later as a crash when the contest tears down and the allocator
+        // walks the damaged list.
+        //
+        // Upstream #8284 replaced a fixed Alloc(0x800) here with an exact-size
+        // malloc_and_decompress to fix tilemaps *larger* than 0x800 (issue #8266). That
+        // fixed the overflow but introduced this underflow. Sizing to the max of the two
+        // handles both cases.
+        const u32 *tilemap = gBattleAnimBackgroundTable[bgId].tilemap;
+        u32 size = max(GetDecompressedDataSize(tilemap), (u32)BG_SCREEN_SIZE);
+        void *decompressionBuffer = AllocZeroed(size);
+
+        DecompressDataWithHeaderWram(tilemap, decompressionBuffer);
         RelocateBattleBgPal(GetBattleBgPaletteNum(), decompressionBuffer, 0x100, FALSE);
         DmaCopy32(3, decompressionBuffer, (void *)BG_SCREEN_ADDR(26), 0x800);
         Free(decompressionBuffer);

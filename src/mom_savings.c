@@ -271,6 +271,10 @@ bool8 Mom_TryTriggerGiftCall(void)
     if (!FlagGet(FLAG_MOM_HAS_GIFT))
         return FALSE;
 
+    // Mom uses the phone, so respect the Match Call option being turned off.
+    if (gSaveBlock3Ptr->challengeSettings.disableMatchCall)
+        return FALSE;
+
     if (mapType != MAP_TYPE_ROUTE && mapType != MAP_TYPE_OCEAN_ROUTE
      && mapType != MAP_TYPE_CITY && mapType != MAP_TYPE_TOWN)
         return FALSE;

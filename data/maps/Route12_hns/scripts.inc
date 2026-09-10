@@ -62,6 +62,16 @@ Route12_EventScript_Calcium::
 	finditem ITEM_CALCIUM
 	end
 
+Route12_EventScript_Magikarp::
+	lock
+	faceplayer
+	waitse
+	playmoncry SPECIES_MAGIKARP, CRY_MODE_NORMAL
+	msgbox Route12_Text_Magikarp, MSGBOX_DEFAULT
+	waitmoncry
+	release
+	end
+
 Route12_EventScript_Tentacruel::
 	lock
 	faceplayer
@@ -71,6 +81,9 @@ Route12_EventScript_Tentacruel::
 	waitmoncry
 	release
 	end
+
+Route12_Text_Magikarp:
+	.string "MAGIKARP: Kaaaarp.$"
 
 Route12_Text_NewFisher:
 	.string "Vorsicht, in diesem Gewässer\n"
