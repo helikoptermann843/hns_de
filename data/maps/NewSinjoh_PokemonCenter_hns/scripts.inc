@@ -19,6 +19,15 @@ NewSinjoh_EventScript_Artist::
 	release
 	end
 
+NewSinjoh_PokemonCenter_hns_Map::
+	lock
+	setvar VAR_0x8000, 1
+	msgbox NewSinjoh_PokemonCenter_hns_Text_0, MSGBOX_DEFAULT
+	callnative OpenScreenshotsFromScript
+	waitstate
+	release
+	end
+
 NewSinjoh_Text_Artist:
 	.string "Dieses versteckte Dorf hat mich\n"
 	.string "sehr inspiriert!\p"
@@ -60,3 +69,8 @@ NewSinjoh_Text_FemAce:
 	.string "moderne Annehmlichkeiten.\p"
 	.string "Aber wenigstens haben wir dieses\n"
 	.string "Pokémon-Center.$"
+
+NewSinjoh_PokemonCenter_hns_Text_0:
+	.string "{PLAYER} wirft einen Blick\n"
+	.string "auf die Sinjoh-Karte.$"
+
