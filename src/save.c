@@ -970,6 +970,14 @@ u8 LoadGameSave(u8 saveType)
 #endif //FREE_MATCH_CALL
         gSaveBlock1Ptr->saveVersion = 4;
     }
+    if (gSaveBlock1Ptr->saveVersion < 5)
+    {
+        FlagSet(FLAG_HIDE_VERMILION_CITY_SAMSON);
+        FlagSet(FLAG_HIDE_ROUTE28_SCIENTIST);
+        VarSet(VAR_VERMILION_CITY_SAMSON, 0);
+        VarSet(VAR_ROUTE28_SCIENTIST, 0);
+        gSaveBlock1Ptr->saveVersion = 5;
+    }
 
     // Add version migration steps here:
     // if (gSaveBlock1Ptr->saveVersion < 1)

@@ -698,6 +698,11 @@ enum TrainerClassID
 #define TRAINER_ENCOUNTER_MUSIC_ROCKET          22
 #define TRAINER_ENCOUNTER_MUSIC_SILVER          23
 #define TRAINER_ENCOUNTER_MUSIC_HG_KIMONO_GIRL  24
+// HG/SS has no "eyes meet" sting for the Elite Four or for Samson Oak; like the
+// Champions, they lead straight into their own battle theme, so these two ids map
+// to the battle BGM GetBattleBGM hands their trainer class.
+#define TRAINER_ENCOUNTER_MUSIC_HG_ELITE_FOUR   25
+#define TRAINER_ENCOUNTER_MUSIC_RG_GYM_LEADER   26
 
 #define TRAINER_GENDER_MALE   0
 #define TRAINER_GENDER_FEMALE 1

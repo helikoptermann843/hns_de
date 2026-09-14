@@ -177,7 +177,7 @@ GoldenrodUnderground_EventScript_Haircut1::
 	fadescreen FADE_TO_BLACK
 	playfanfare MUS_HEAL
 	waitfanfare
-	special HaircutBrother1
+	special HaircutBrother2
 	fadescreen FADE_FROM_BLACK
 	special BufferMonNickname
 	msgbox GoldenrodUnderground_Text_OlderBrotherAllDone

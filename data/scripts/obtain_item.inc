@@ -99,7 +99,13 @@ EventScript_PlayFanfareObtainedItem::
 	return
 
 EventScript_PlayFanfareObtainedKeyItem::
+@ Emerald has no distinct key item jingle, so it keeps the plain item fanfare. FR/LG
+@ has one, and in an HnS build FANFARE_RG_OBTAIN_KEY_ITEM resolves to the HG jingle.
+#if IS_HNS || IS_FRLG
 	playfanfare MUS_RG_OBTAIN_KEY_ITEM
+#else
+	playfanfare MUS_OBTAIN_ITEM
+#endif
 	return
 
 EventScript_PlayFanfareObtainedTMHM::
@@ -107,7 +113,12 @@ EventScript_PlayFanfareObtainedTMHM::
 	return
 
 EventScript_PlayFanfareObtainedBerry::
+@ Only HG/SS plays a separate jingle for berries; Emerald and FR/LG use the item one.
+#if IS_HNS
 	playfanfare MUS_OBTAIN_BERRY
+#else
+	playfanfare MUS_OBTAIN_ITEM
+#endif
 	return
 
 Std_ObtainDecoration::

@@ -64,6 +64,7 @@ NewBarkTown_PlayersHouse_1F_EventScript_Mom_Regular::
 NewBarkTown_PlayersHouse_1F_EventScript_Mom_PokecenterChallenge::
 	msgbox PlayersHouse_1F_Text_YouShouldRestABit_PokecenterChallenge, MSGBOX_DEFAULT
 	call NewBarkTown_PlayersHouse_1F_EventScript_MomSavingsMenu
+	fadedefaultbgm
 	release
 	end
 

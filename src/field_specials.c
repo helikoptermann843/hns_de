@@ -4542,9 +4542,11 @@ bool32 CheckObjectAtXY(u32 x, u32 y)
 bool32 CheckPartyHasSpecies(u32 givenSpecies)
 {
     u32 partyIndex;
+    u32 partyCount = CalculatePlayerPartyCount();
 
-    for (partyIndex = 0; partyIndex < CalculatePlayerPartyCount(); partyIndex++)
-        if (GetMonData(&gPlayerParty[partyIndex], MON_DATA_SPECIES) == givenSpecies)
+    // Eggs don't count - MON_DATA_SPECIES returns the species inside the Egg.
+    for (partyIndex = 0; partyIndex < partyCount; partyIndex++)
+        if (GetMonData(&gPlayerParty[partyIndex], MON_DATA_SPECIES_OR_EGG) == givenSpecies)
             return TRUE;
 
     return FALSE;

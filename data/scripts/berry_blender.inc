@@ -240,6 +240,12 @@ BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
 
 BerryBlender_EventScript_BerryBlender1::
 	lockall
+@ HnS gates the Blend Master behind the Elite Four, because he is the only route
+@ to a Gold Pokeblock and so to a five-perfect-IV Safari Zone catch. Vanilla's
+@ Lilycove Contest Lobby shares this script, so the check has to stay HnS-only.
+#if IS_HNS
+	goto_if_unset FLAG_IS_CHAMPION, BerryBlender_EventScript_TooWeakToBlend
+#endif
 	goto_if_unset FLAG_HIDE_LILYCOVE_CONTEST_HALL_BLEND_MASTER, BerryBlender_EventScript_BlendMasterPresent
 	setvar NUM_OPPONENTS, 1
 	applymovement LOCALID_BLEND_MASTER, BerryBlender_Movement_BlendLeaderWalkInPlace
@@ -248,6 +254,20 @@ BerryBlender_EventScript_BerryBlender1::
 	goto_if_eq VAR_RESULT, YES, BerryBlender_EventScript_TryUseBerryBlender1
 	goto BerryBlender_EventScript_DeclineBlender1
 	end
+
+BerryBlender_EventScript_TooWeakToBlend::
+	msgbox BerryBlender_Text_TooWeakToBlend, MSGBOX_DEFAULT
+	closemessage
+	releaseall
+	end
+
+BerryBlender_Text_TooWeakToBlend::
+	.string "BLEND MASTER: Hmmm! So, you wish to\n"
+	.string "see my mastery in action?\p"
+	.string "Sorry, but my blending is far too\n"
+	.string "advanced for a rookie like yourself.\p"
+	.string "Come back and see me once you've\n"
+	.string "achieved greatness.$"
 
 BerryBlender_EventScript_DeclineBlender1:
 	msgbox BerryBlender_Text_MadeOldTimerSad, MSGBOX_DEFAULT

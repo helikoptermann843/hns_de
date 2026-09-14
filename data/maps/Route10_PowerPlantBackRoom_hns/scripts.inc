@@ -45,6 +45,7 @@ Route10_PowerPlantBackRoom_EventScript_ManagerCheckPart::
 	setvar VAR_CERULEAN_CITY_STATE, 2
 	setflag FLAG_HIDE_POWER_PLANT_ENGINEER
 	setflag FLAG_RETURNED_MACHINE_PART
+	setvar VAR_VERMILION_CITY_SAMSON, 1
 	release
 	end
 

@@ -477,7 +477,7 @@ static void VBlankCB_EggHatch(void)
 
 void EggHatch(void)
 {
-    if (IsNuzlockeActive())
+    if (IsNuzlockeActive() && !IsNuzlockeCaptureSuspended())
         NuzlockeFlagSet(NuzlockeGetCurrentRegionMapSectionId());
     LockPlayerFieldControls();
     CreateTask(Task_EggHatch, 10);

@@ -328,6 +328,18 @@ SafariZoneGate_SafariZoneEntrance_EventScript_MovePlayerBackFromCounter::
 	releaseall
 	end
 
+SafariZoneGate_SafariZoneEntrance_EventScript_Chart1::
+	lock
+	helpwindow HELP_POKEBLOCK_WINDOW
+	release
+	end
+
+SafariZoneGate_SafariZoneEntrance_EventScript_Chart2::
+	lock
+	helpwindow HELP_GOLD_POKEBLOCK_WINDOW
+	release
+	end
+
 SafariZoneGate_SafariZoneEntrance_EventScript_Boy::
 	lock
 	faceplayer
@@ -402,11 +414,24 @@ SafariZoneGate_SafariZoneEntrance_Text_Baoba:
 	.string "Safarizone?$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Boy:
-	.string "Ich hab gehört, die neue Zone\n"
-	.string "soll Drachen-Pokémon haben!$"
+.string "Kennst du die Pokéblock-\n"
+.string "Futterspender?\p"
+.string "Wenn du einen Pokéblock in den\n"
+.string "Futterspender legst, erscheinen\l"
+.string "Pokémon mit VERBORGENEN\l"
+.string "FÄHIGKEITEN!\p"
+.string "Auch die Art des Pokéblocks\n"
+.string "beeinflusst das WESEN des\l"
+.string "Pokémon.\p"
+.string "Und das Beste ist: Je nach Art\n"
+.string "des verwendeten Pokéblocks\l"
+.string "kannst du Pokémon mit perfekten\l"
+.string "IVs anlocken!\p"
+.string "Die Tafeln an der Wand enthalten\n"
+.string "alle wichtigen Details.$"
 
 SafariZoneGate_SafariZoneEntrance_Text_BoyGiveCase:
-	.string "Here, you seem like you need this.$"
+	.string "Hier, ich glaube du brauchst das.$"
 
 SafariZoneGate_SafariZoneEntrance_Text_Engineer:
 	.string "Sorry, Trainer! Dieser Bereich\n"

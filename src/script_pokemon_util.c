@@ -34,6 +34,7 @@
 #include "tv.h"
 #include "wild_encounter.h"
 #include "constants/abilities.h"
+#include "constants/pokemon.h"
 #include "constants/items.h"
 #include "constants/battle_frontier.h"
 
@@ -165,12 +166,23 @@ void CreateScriptedWildMon(u16 species, u8 level, enum Item item)
         SetMonData(&gEnemyParty[0], MON_DATA_HELD_ITEM, heldItem);
     }
 }
-static u32 GenerateShinyPersonalityForOtId(u32 otId)
+
+// Builds a shiny personality that also honors Synchronize/Cute Charm. Rerolling blindly
+// until a personality is both shiny and the right nature would take ~200k tries, so the
+// upper half is derived from the lower half instead: every candidate is shiny by
+// construction and only the nature/gender constraints have to be rerolled.
+static u32 GenerateShinyPersonalityForOtId(u32 otId, u16 species, u8 gender, u8 nature)
 {
+    u32 otXor = HIHALF(otId) ^ LOHALF(otId);
     u32 personality;
+
     do {
-        personality = Random32();
-    } while ((HIHALF(otId) ^ LOHALF(otId) ^ HIHALF(personality) ^ LOHALF(personality)) >= 8);
+        u32 lo = Random();
+        u32 hi = (otXor ^ lo ^ (Random() % SHINY_ODDS)) & 0xFFFF;
+        personality = (hi << 16) | lo;
+    } while ((nature != NATURE_RANDOM && nature != GetNatureFromPersonality(personality))
+          || (gender != MON_GENDER_RANDOM && gender != GetGenderFromSpeciesAndPersonality(species, personality)));
+
     return personality;
 }
 
@@ -192,7 +204,9 @@ void CreateShinyScriptedMon(u16 species, u8 level, enum Item item)
              | (gSaveBlock2Ptr->playerTrainerId[2] << 16)
              | (gSaveBlock2Ptr->playerTrainerId[3] << 24);
 
-    u32 shinyPersonality = GenerateShinyPersonalityForOtId(otId);
+    u32 shinyPersonality = GenerateShinyPersonalityForOtId(otId, species,
+        GetSynchronizedGender(STATIC_WILDMON_ORIGIN, species),
+        GetSynchronizedNature(STATIC_WILDMON_ORIGIN, species));
 
     CreateMonWithIVs(&gEnemyParty[0], species, level, shinyPersonality, OTID_STRUCT_PLAYER_ID, USE_RANDOM_IVS);
     GiveMonInitialMoveset(&gEnemyParty[0]);

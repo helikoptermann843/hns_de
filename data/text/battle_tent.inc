@@ -474,3 +474,5 @@ VerdanturfTown_BattleTentLobby_Text_RulesAreListed:
 	.string "Die Regeln des Wiesenflur Kampfcamps\n"
 	.string "hängen öffentlich aus.$"
 
+BattleTentLobby_Text_EarnedBattlePoints:
+	.string "Du erhältst {STR_VAR_1} Kampfpunkte!$"

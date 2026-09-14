@@ -93,7 +93,7 @@ UnionCave_1F_Text_PokemaniacLarryBeaten:
 	.string "Uff. Mein armes Pokémon…$"
 
 UnionCave_1F_Text_PokemaniacLarryAfter:
-	.string "Jeden Freitag kannst du ein Pokémon\n"
+	.string "Manchmal kannst du ein Pokémon\n"
 	.string "hier aus dieser Höhle brüllen hören.$"
 
 UnionCave_1F_Text_HikerDanielSeen:

@@ -32,7 +32,9 @@ void BugContestRetirePrompt(void)
 
 void EnterBugContestMode(void)
 {
-    FlagClear(FLAG_START_NUZLOCKE); // suspends the nuzlocke for the duration
+    // The Nuzlocke's capture restriction is suspended for the contest by
+    // IsNuzlockeCaptureSuspended(); FLAG_START_NUZLOCKE must stay set so deaths,
+    // revive blocking and the PC rules keep applying.
     FlagSet(FLAG_SYS_BUG_CONTEST_MODE);
     sBugContestStartTime = gMain.vblankCounter1;
     sBugContestTimerActive = TRUE;
@@ -40,7 +42,6 @@ void EnterBugContestMode(void)
 
 void ExitBugContestMode(void)
 {
-    FlagSet(FLAG_START_NUZLOCKE);
     FlagClear(FLAG_SYS_BUG_CONTEST_MODE);
     sBugContestTimerActive = FALSE;
 }

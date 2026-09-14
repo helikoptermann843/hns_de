@@ -16,6 +16,44 @@ ViridianForest_EventScript_SetPichu::
 	setvar VAR_VIRIDIAN_FOREST_PICHU, 1
 	end
 
+ViridianForest_EventScript_Rob::
+	trainerbattle_single TRAINER_ROB_HNS, Route2_Text_BugCatcherRob_Seen, Route2_Text_BugCatcherRob_Beaten, ViridianForest_EventScript_RegisterRob
+	specialvar VAR_RESULT, ShouldTryRematchBattle
+	goto_if_eq VAR_RESULT, TRUE, ViridianForest_EventScript_RematchRob
+	msgbox Route2_Text_BugCatcherRob_AfterBattle, MSGBOX_AUTOCLOSE
+	end
+
+ViridianForest_EventScript_RegisterRob::
+	special PlayerFaceTrainerAfterBattle
+	waitmovement 0
+	msgbox Route2_Text_RobRegister, MSGBOX_DEFAULT
+	register_matchcall TRAINER_ROB_HNS
+	release
+	end
+
+ViridianForest_EventScript_RematchRob::
+	trainerbattle_rematch TRAINER_ROB_HNS, Route2_Text_RobRematchIntro, Route2_Text_RobRematchDefeat
+	msgbox Route2_Text_RobPostRematch, MSGBOX_AUTOCLOSE
+	goto_if_defeated TRAINER_ROB_2_HNS, ViridianForest_EventScript_RematchRobTryGiveItem
+	end
+
+ViridianForest_EventScript_RematchRobTryGiveItem::
+	checkitem ITEM_TM_X_SCISSOR
+	goto_if_eq VAR_RESULT, TRUE, Common_EventScript_NoOp
+	giveitem ITEM_TM_X_SCISSOR
+	closemessage
+	end
+
+ViridianForest_EventScript_Ed::
+	trainerbattle_single TRAINER_ED_HNS, Route2_Text_BugCatcherEd_Seen, Route2_Text_BugCatcherEd_Beaten
+	msgbox Route2_Text_BugCatcherEd_AfterBattle, MSGBOX_AUTOCLOSE
+	end
+
+ViridianForest_EventScript_Doug::
+	trainerbattle_single TRAINER_DOUG_HNS, Route2_Text_BugCatcherDoug_Seen, Route2_Text_BugCatcherDoug_Beaten
+	msgbox Route2_Text_BugCatcherDoug_AfterBattle, MSGBOX_AUTOCLOSE
+	end
+
 ViridianForest_EventScript_Bugsy::
 	lock
 	faceplayer

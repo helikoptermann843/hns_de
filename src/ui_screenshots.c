@@ -70,7 +70,6 @@ static bool8 Screenshots_InitBgs(void);
 static void Screenshots_FadeAndBail(void);
 static bool8 Screenshots_LoadGraphics(void);
 static void Screenshots_InitWindows(void);
-static void PrintToWindow(u16 seaSectionId);
 static void Task_ScreenshotsWaitFadeIn(u8 taskId);
 static void Task_ScreenshotsMain(u8 taskId);
 
@@ -221,7 +220,6 @@ static void Screenshots_VBlankCB(void)
 
 static bool8 Screenshots_DoGfxSetup(void)
 {
-    u8 taskId;
     switch (gMain.state)
     {
     case 0:
@@ -261,7 +259,7 @@ static bool8 Screenshots_DoGfxSetup(void)
         gMain.state++;
         break;
     case 5:
-        taskId = CreateTask(Task_ScreenshotsWaitFadeIn, 0);
+        CreateTask(Task_ScreenshotsWaitFadeIn, 0);
         BlendPalettes(0xFFFFFFFF, 16, RGB_BLACK);
         gMain.state++;
         break;
@@ -280,7 +278,10 @@ static bool8 Screenshots_DoGfxSetup(void)
 #define try_free(ptr) ({        \
     void ** ptr__ = (void **)&(ptr);   \
     if (*ptr__ != NULL)                \
+    {                                  \
         Free(*ptr__);                  \
+        *ptr__ = NULL;                 \
+    }                                  \
 })
 
 static void Screenshots_FreeResources(void)
@@ -334,24 +335,37 @@ static bool8 Screenshots_InitBgs(void)
     return TRUE;
 }
 
+// The screenshot to show is chosen by the calling script via VAR_0x8000.
+static const struct Screenshot *GetSelectedScreenshot(void)
+{
+    u32 id = gSpecialVar_0x8000;
+
+    if (id >= NELEMS(sScreenshotData))
+        id = 0;
+
+    return &sScreenshotData[id];
+}
+
 static bool8 Screenshots_LoadGraphics(void)
 {
+    const struct Screenshot *screenshot = GetSelectedScreenshot();
+
     switch (sScreenshotsDataPtr->gfxLoadState)
     {
     case 0:
         ResetTempTileDataBuffers();
-        DecompressAndCopyTileDataToVram(1, sScreenshotData[gSpecialVar_0x8000].screenshotTiles, 0, 0, 0);
+        DecompressAndCopyTileDataToVram(1, screenshot->screenshotTiles, 0, 0, 0);
         sScreenshotsDataPtr->gfxLoadState++;
         break;
     case 1:
         if (FreeTempTileDataBuffersIfPossible() != TRUE)
         {
-            DecompressDataWithHeaderWram(sScreenshotData[gSpecialVar_0x8000].screenshotTilemap, sBg1TilemapBuffer);
+            DecompressDataWithHeaderWram(screenshot->screenshotTilemap, sBg1TilemapBuffer);
             sScreenshotsDataPtr->gfxLoadState++;
         }
         break;
     case 2:
-        LoadPalette(sScreenshotData[gSpecialVar_0x8000].screenshotPalette, 0, PLTT_SIZE_8BPP);
+        LoadPalette(screenshot->screenshotPalette, 0, PLTT_SIZE_8BPP);
         sScreenshotsDataPtr->gfxLoadState++;
         break;
     default:
@@ -367,11 +381,6 @@ static void Screenshots_InitWindows(void)
 }
 
 
-static void PrintToWindow(u16 seaSectionId)
-{
-
-}
-
 static void Task_ScreenshotsWaitFadeIn(u8 taskId)
 {
     if (!gPaletteFade.active)
@@ -380,8 +389,6 @@ static void Task_ScreenshotsWaitFadeIn(u8 taskId)
 
 static void Task_ScreenshotsTurnOff(u8 taskId)
 {
-    s16 *data = gTasks[taskId].data;
-
     if (!gPaletteFade.active)
     {
         SetMainCallback2(sScreenshotsDataPtr->savedCallback);

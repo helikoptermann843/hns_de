@@ -7,6 +7,7 @@
 #define NUZLOCKE_FLAG_BYTES ((NUZLOCKE_NUM_ZONES + 7) / 8)
 
 bool8 IsNuzlockeActive(void);
+bool8 IsNuzlockeCaptureSuspended(void);
 bool8 IsNuzlockeEasyActive(void);
 bool8 IsNuzlockeNicknamingActive(void);
 

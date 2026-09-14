@@ -32,6 +32,7 @@ PalletTown_Lab_EventScript_Oak16Badges::
 	msgbox PalletTown_Lab_Text_OakOpenMtSilver, MSGBOX_DEFAULT
 	closemessage
 	setflag FLAG_INDIGOJUNCTION_HIDE_SILVER_GUARD
+	setvar VAR_ROUTE28_SCIENTIST, 1
 	setvar VAR_PALLETTOWN_LABSTATE, 2
 	call_if_unset FLAG_IS_KANTO_CHAMPION, PalletTown_Lab_EventScript_OakKantoLeague
 	release

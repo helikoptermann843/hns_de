@@ -3118,6 +3118,15 @@ static void TradeMons(u8 playerPartyIdx, u8 partnerPartyIdx)
         }
     }
     UpdatePokedexForReceivedMon(playerPartyIdx);
+    // KNOWN ISSUE (not fixed at this time): trade evolution is lost when the
+    // player trades away a boxed Pokemon. The received Pokemon is stored in the
+    // PC here, but the trade evolution runs afterwards in STATE_TRY_EVOLUTION and
+    // only updates gEnemyParty[TRADEMON_FROM_PC], which is discarded at the end
+    // of the trade sequence. The evolution cutscene plays and the boxed Pokemon
+    // stays unevolved. Fixing it means deferring this CopyMonToPC until after the
+    // evolution scene returns (STATE_FADE_OUT_END). In the meantime, in-game
+    // trades whose Pokemon would evolve are given an Everstone (see
+    // INGAME_TRADE_HAUNTER in src/data/trade.h).
     if (playerPartyIdx == PC_MON_CHOSEN)
         CopyMonToPC(playerMon);
     if (gReceivedRemoteLinkPlayers)

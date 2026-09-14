@@ -14,6 +14,7 @@
 #include "pokedex.h"
 #include "constants/pokedex.h"
 #include "battle.h"
+#include "bug_contest.h"
 
 EWRAM_DATA u8 NuzlockeIsCaptureBlocked = FALSE;
 EWRAM_DATA u8 NuzlockeIsSpeciesClauseActive = FALSE;
@@ -262,6 +263,16 @@ static const u8 sNuzlockeLUT[] =
 #endif
 };
 
+// The Bug Catching Contest and the Safari Zone hand out balls and expect the
+// player to throw them freely, so the one-encounter-per-zone rule is suspended
+// for their duration. Everything else about the Nuzlocke (deaths, revive
+// blocking, PC rules) stays live -- clearing FLAG_START_NUZLOCKE would switch
+// all of it off and let a Pokemon Center heal the dead mons in the PC.
+bool8 IsNuzlockeCaptureSuspended(void)
+{
+    return FlagGet(FLAG_SYS_SAFARI_MODE) || GetBugContestFlag();
+}
+
 bool8 IsNuzlockeActive(void)
 {
     struct ChallengeSettings *cs = &gSaveBlock3Ptr->challengeSettings;
@@ -354,6 +365,13 @@ void NuzlockeDeleteFaintedPartyPokemon(void)
     u16 item = ITEM_NONE;
     struct ChallengeSettings *cs = &gSaveBlock3Ptr->challengeSettings;
 
+    // The Bug Contest lends the player a one-mon party (SavePlayerParty on entry,
+    // LoadPlayerParty on exit), so a faint there is not a real death -- the mon
+    // comes back with the restored party. Deleting it here would only leave a
+    // duplicate corpse in the PC under the cemetery option.
+    if (GetBugContestFlag())
+        return;
+
     for (i = 0; i < PARTY_SIZE; i++)
     {
         pokemon = &gPlayerParty[i];
@@ -429,7 +447,7 @@ void SetNuzlockeChecks(void)
     OneTypeChallengeCaptureBlocked = !DoesSpeciesPassOneTypeChallenge(
         GetMonData(&gEnemyParty[0], MON_DATA_SPECIES));
 
-    if (IsNuzlockeActive())
+    if (IsNuzlockeActive() && !IsNuzlockeCaptureSuspended())
     {
         NuzlockeIsSpeciesClauseActive = NuzlockeIsCaptureBlockedBySpeciesClause(
             GetMonData(&gEnemyParty[0], MON_DATA_SPECIES));

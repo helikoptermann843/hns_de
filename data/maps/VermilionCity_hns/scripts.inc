@@ -540,3 +540,63 @@ VermilionCity_Text_StevenOutro:
 	.string "Ich muss weiter.\n"
 	.string "Vielleicht kreuzen sich unsere\l"
 	.string "Wege nochmal.$"
+
+VermilionCity_EventScript_TriggerSamson::
+	lock
+	clearflag FLAG_HIDE_VERMILION_CITY_SAMSON
+	addobject LOCALID_VERMILION_CITY_SAMSON
+	playse SE_BANG
+	applymovement LOCALID_VERMILION_CITY_SAMSON, VermilionCity_Movement_SamsonEnter
+	applymovement LOCALID_PLAYER, VermilionCity_Movement_PlayerSlideback
+	waitmovement LOCALID_VERMILION_CITY_SAMSON
+	waitmovement LOCALID_PLAYER
+	msgbox VermilionCity_Text_Samson, MSGBOX_DEFAULT
+	closemessage
+	applymovement LOCALID_VERMILION_CITY_SAMSON, VermilionCity_Movement_SamsonLeave
+	waitmovement LOCALID_VERMILION_CITY_SAMSON
+	removeobject LOCALID_VERMILION_CITY_SAMSON
+	setflag FLAG_HIDE_VERMILION_CITY_SAMSON
+	setvar VAR_VERMILION_CITY_SAMSON, 2
+	release
+	end
+
+VermilionCity_Movement_PlayerSlideback:
+	lock_facing_direction
+	walk_fast_down
+	walk_fast_down
+	unlock_facing_direction
+	step_end
+
+VermilionCity_Movement_SamsonEnter:
+	walk_fast_down
+	walk_fast_down
+	step_end
+
+VermilionCity_Movement_SamsonLeave:
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	walk_fast_right
+	step_end
+
+VermilionCity_Text_Samson:
+.string "Whoa!\p"
+.string "Sorry, Kleiner, ich hab's eilig!\p"
+.string "Die Fähre auf Route 13 fährt bald\n"
+.string "zu den INSELN, und ich muss mit!\p"
+.string "Puh... Puh...\p"
+.string "Ich bin den ganzen Weg hierher vom\n"
+.string "MONDBERG gerannt.\p"
+.string "Siehst du dieses Dings hier?\p"
+.string "Dieses SELTSAME SOUVENIR habe ich\n"
+.string "im Geschenkladen gekauft.\p"
+.string "Damit komme ich auf die INSELN.\p"
+.string "Na dann, bis bald!$"

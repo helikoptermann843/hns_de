@@ -203,9 +203,7 @@ Debug_EventScript_Text_DefensiveIVs:
 	.string "Hp Ivs: {STR_VAR_1}, DEF Ivs: {STR_VAR_2}, Spdef Ivs: {STR_VAR_3}$"
 
 Debug_EventScript_Script_1::
-	giveegg SPECIES_TOGEPI
-	givemon SPECIES_NATU, 5
-	givenamedmon 1
+	goto UnionCave_B2F_EventScript_Lapras
 	release
 	end
 

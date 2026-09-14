@@ -107,53 +107,81 @@
 #define VAR_RADIO_BUENAS_PASSWORD                        0x40AB
 #define VAR_CONTEST_PRIZE_PICKUP_HNS                            0x40AC
 #define VAR_TRIGGER_ELM_ROCKET_CALL                            0x40B3
-#define VAR_UNUSED_HNS_0x40B4                            0x40B4
-#define VAR_UNUSED_HNS_0x40C2                            0x40C2
-#define VAR_UNUSED_HNS_0x40C6                            0x40C6
-#define VAR_UNUSED_HNS_0x40C9                            0x40C9
-#define VAR_UNUSED_HNS_0x40CA                            0x40CA
+// --- Free in the HnS build. Verified: no C in src/ and no script that runs in
+// --- the HnS build reads or writes these addresses. Safe to claim.
+#define VAR_UNUSED_HNS_0x40B4                            0x40B4 // Emerald VAR_SS_TIDAL_STATE - reads gated on FLAG_SYS_CRUISE_MODE / MAP_SS_TIDAL_CORRIDOR
+#define VAR_UNUSED_HNS_0x40C2                            0x40C2 // Emerald VAR_PACIFIDLOG_TM_RECEIVED_DAY - PacifidlogTown_House2 only (Emerald-gated map)
+#define VAR_UNUSED_HNS_0x40C6                            0x40C6 // Emerald VAR_STEVENS_HOUSE_STATE - written in hall_of_fame.inc, reached only from EverGrandeCity_HallOfFame
+#define VAR_UNUSED_HNS_0x40C9                            0x40C9 // Emerald VAR_SCOTT_PETALBURG_ENCOUNTER - PetalburgCity only (Emerald-gated map)
+#define VAR_UNUSED_HNS_0x40CA                            0x40CA // Emerald VAR_SKY_PILLAR_STATE - overworld.c reads only, both behind MAP_GROUP(MAP_SOOTOPOLIS_CITY)
 
-#define VAR_UNUSED_HNS_0x40D8                           0x40D8
-#define VAR_UNUSED_HNS_0x40D9                           0x40D9
-#define VAR_UNUSED_HNS_0x40DA                           0x40DA
-#define VAR_UNUSED_HNS_0x40DB                           0x40DB
-#define VAR_UNUSED_HNS_0x40DC                           0x40DC
-#define VAR_UNUSED_HNS_0x40DD                           0x40DD
-#define VAR_UNUSED_HNS_0x40DE                           0x40DE
-#define VAR_UNUSED_HNS_0x40DF                           0x40DF
-#define VAR_UNUSED_HNS_0x40E0                           0x40E0
-#define VAR_UNUSED_HNS_0x40E1                           0x40E1
-#define VAR_UNUSED_HNS_0x40E2                           0x40E2
+#define VAR_UNUSED_HNS_0x40D8                           0x40D8 // Emerald VAR_SOOTOPOLIS_WALLACE_STATE - SootopolisCity/scripts.inc, linked for labels, map not in HnS build
+#define VAR_UNUSED_HNS_0x40D9                           0x40D9 // Emerald VAR_HAS_TALKED_TO_SEAFLOOR_CAVERN_ENTRANCE_GRUNT - SeafloorCavern_Entrance only
+#define VAR_UNUSED_HNS_0x40DA                           0x40DA // Emerald VAR_REGISTER_BIRCH_STATE - ProfBirchsLab / Route110, linked for labels, unreachable
+#define VAR_VERMILION_CITY_SAMSON                           0x40DB // Emerald VAR_UNUSED_0x40DB - no references in any build
+#define VAR_ROUTE28_SCIENTIST                           0x40DC // Emerald VAR_UNUSED_0x40DC - no references in any build
 
-#define VAR_UNUSED_HNS_0x40E3                            0x40E3
-#define VAR_UNUSED_HNS_0x40E4                            0x40E4
-#define VAR_UNUSED_HNS_0x40E5                            0x40E5
-#define VAR_UNUSED_HNS_0x40E6                            0x40E6
-#define VAR_UNUSED_HNS_0x40E7                            0x40E7
-#define VAR_UNUSED_HNS_0x40E8                            0x40E8
-#define VAR_UNUSED_HNS_0x40E9                            0x40E9
-#define VAR_UNUSED_HNS_0x40EA                            0x40EA
-#define VAR_UNUSED_HNS_0x40EB                            0x40EB
-#define VAR_UNUSED_HNS_0x40EC                            0x40EC
-#define VAR_UNUSED_HNS_0x40ED                            0x40ED
-#define VAR_UNUSED_HNS_0x40EE                            0x40EE
-#define VAR_UNUSED_HNS_0x40EF                            0x40EF
-#define VAR_UNUSED_HNS_0x40F0                            0x40F0
-#define VAR_UNUSED_HNS_0x40F1                            0x40F1
-#define VAR_UNUSED_HNS_0x40F2                            0x40F2
-#define VAR_UNUSED_HNS_0x40F3                            0x40F3
-#define VAR_UNUSED_HNS_0x40F4                            0x40F4
-#define VAR_UNUSED_HNS_0x40F5                            0x40F5
-#define VAR_UNUSED_HNS_0x40F6                            0x40F6
-#define VAR_UNUSED_HNS_0x40F7                            0x40F7
-#define VAR_UNUSED_HNS_0x40F8                            0x40F8
-#define VAR_UNUSED_HNS_0x40F9                            0x40F9
-#define VAR_UNUSED_HNS_0x40FA                            0x40FA
-#define VAR_UNUSED_HNS_0x40FB                            0x40FB
-#define VAR_UNUSED_HNS_0x40FC                            0x40FC
-#define VAR_UNUSED_HNS_0x40FD                            0x40FD
-#define VAR_UNUSED_HNS_0x40FE                            0x40FE
-#define VAR_UNUSED_HNS_0x40FF                            0x40FF
+// --- CONDITIONAL: Mystery Gift block. The only writer is ClearMysteryGiftVars()
+// --- in src/event_data.c, which sits inside #if FREE_MYSTERY_GIFT == FALSE.
+// --- include/config/save.h currently has FREE_MYSTERY_GIFT TRUE, so nothing
+// --- writes these. Turning Mystery Gift back on zeroes all 8 on gift clear.
+#define VAR_UNUSED_HNS_0x40DD                           0x40DD // Emerald VAR_GIFT_PICHU_SLOT - also used by data/scripts/gift_pichu.inc (wonder card script, not reachable)
+#define VAR_UNUSED_HNS_0x40DE                           0x40DE // Emerald VAR_GIFT_UNUSED_1
+#define VAR_UNUSED_HNS_0x40DF                           0x40DF // Emerald VAR_GIFT_UNUSED_2
+#define VAR_UNUSED_HNS_0x40E0                           0x40E0 // Emerald VAR_GIFT_UNUSED_3
+#define VAR_UNUSED_HNS_0x40E1                           0x40E1 // Emerald VAR_GIFT_UNUSED_4
+#define VAR_UNUSED_HNS_0x40E2                           0x40E2 // Emerald VAR_GIFT_UNUSED_5
+
+#define VAR_UNUSED_HNS_0x40E3                            0x40E3 // Emerald VAR_GIFT_UNUSED_6 - see Mystery Gift block above
+#define VAR_UNUSED_HNS_0x40E4                            0x40E4 // Emerald VAR_GIFT_UNUSED_7 - see Mystery Gift block above
+
+#define VAR_UNUSED_HNS_0x40E5                            0x40E5 // Emerald VAR_UNUSED_0x40E5 - no references in any build
+
+// !!! UNSAFE: daily counters. Written by universal engine code that runs during
+// !!! normal HnS gameplay. Do NOT claim these addresses for HnS content.
+#define VAR_UNUSED_HNS_0x40E6                            0x40E6 // UNSAFE - VAR_DAILY_SLOTS, src/slot_machine.c (Goldenrod Game Corner)
+#define VAR_UNUSED_HNS_0x40E7                            0x40E7 // UNSAFE - VAR_DAILY_WILDS, src/battle_setup.c, incremented on EVERY wild battle
+#define VAR_UNUSED_HNS_0x40E8                            0x40E8 // UNSAFE - VAR_DAILY_BLENDER, src/berry_blender.c
+#define VAR_UNUSED_HNS_0x40E9                            0x40E9 // UNSAFE - VAR_DAILY_PLANTED_BERRIES, data/scripts/berry_tree.inc (shared script, runs in HnS)
+#define VAR_UNUSED_HNS_0x40EA                            0x40EA // UNSAFE - VAR_DAILY_PICKED_BERRIES, data/scripts/berry_tree.inc (shared script, runs in HnS)
+#define VAR_UNUSED_HNS_0x40EB                            0x40EB // UNSAFE - VAR_DAILY_ROULETTE, src/roulette.c
+
+// --- CONDITIONAL: secret base block. Writers are gated on CurMapIsSecretBase()
+// --- (a map-group check that is hard-false in HnS) or reached only from
+// --- data/scripts/shared_secret_base.inc. Free while secret bases stay unreachable.
+#define VAR_UNUSED_HNS_0x40EC                            0x40EC // Emerald VAR_SECRET_BASE_STEP_COUNTER - src/secret_base.c, src/tv.c
+#define VAR_UNUSED_HNS_0x40ED                            0x40ED // Emerald VAR_SECRET_BASE_LAST_ITEM_USED - src/item.c (behind CurMapIsSecretBase), src/secret_base.c, src/tv.c
+#define VAR_UNUSED_HNS_0x40EE                            0x40EE // Emerald VAR_SECRET_BASE_LOW_TV_FLAGS - src/item.c, src/fldeff_misc.c, src/secret_base.c, src/tv.c
+#define VAR_UNUSED_HNS_0x40EF                            0x40EF // Emerald VAR_SECRET_BASE_HIGH_TV_FLAGS - src/secret_base.c, src/tv.c
+#define VAR_UNUSED_HNS_0x40F0                            0x40F0 // Emerald VAR_SECRET_BASE_IS_NOT_LOCAL - src/secret_base.c
+
+#define VAR_UNUSED_HNS_0x40F1                            0x40F1 // UNSAFE - VAR_DAILY_BP, src/frontier_util.c + addbattlepoints in src/scrcmd.c
+
+// --- CONDITIONAL: PokeNav call step counters. src/field_specials.c increments
+// --- these from field_control_avatar.c on every step, but only when the
+// --- matching FLAG_ENABLE_*_CALL is set. All of those flags are #defined to 0
+// --- in flags_hns.h and FlagGet(0) is always FALSE, so nothing writes them.
+// --- Giving any of those flags a real address (e.g. during the PokeGear port)
+// --- makes the corresponding var live again.
+#define VAR_UNUSED_HNS_0x40F2                            0x40F2 // Emerald VAR_WALLY_CALL_STEP_COUNTER - gated on FLAG_ENABLE_FIRST_WALLY_POKENAV_CALL
+#define VAR_UNUSED_HNS_0x40F3                            0x40F3 // Emerald VAR_SCOTT_FORTREE_CALL_STEP_COUNTER - gated on FLAG_ENABLE_SCOTT_FORTREE_CALL
+#define VAR_UNUSED_HNS_0x40F4                            0x40F4 // Emerald VAR_ROXANNE_CALL_STEP_COUNTER - gated on FLAG_ENABLE_ROXANNE_FIRST_CALL
+#define VAR_UNUSED_HNS_0x40F5                            0x40F5 // Emerald VAR_SCOTT_BF_CALL_STEP_COUNTER - gated on FLAG_ENABLE_SCOTT_BATTLE_FRONTIER_CALL
+#define VAR_UNUSED_HNS_0x40F6                            0x40F6 // Emerald VAR_RIVAL_RAYQUAZA_CALL_STEP_COUNTER - gated on FLAG_ENABLE_RIVAL_MATCH_CALL
+
+#define VAR_UNUSED_HNS_0x40F7                            0x40F7 // Emerald VAR_UNUSED_0x40F7 - no references in any build
+#define VAR_UNUSED_HNS_0x40F8                            0x40F8 // Emerald VAR_UNUSED_0x40F8 - no references in any build
+#define VAR_UNUSED_HNS_0x40F9                            0x40F9 // Emerald VAR_UNUSED_0x40F9 - no references in any build
+#define VAR_UNUSED_HNS_0x40FA                            0x40FA // Emerald VAR_UNUSED_0x40FA - no references in any build
+#define VAR_UNUSED_HNS_0x40FB                            0x40FB // Emerald VAR_UNUSED_0x40FB - no references in any build
+#define VAR_UNUSED_HNS_0x40FC                            0x40FC // Emerald VAR_UNUSED_0x40FC - no references in any build
+
+// !!! UNSAFE: live surf-blob engine state, written every time the player surfs.
+// !!! These were previously listed here as unused - they are not.
+#define VAR_UNUSED_HNS_0x40FD                            0x40FD // UNSAFE - VAR_SURF_MON_SLOT, src/field_effect.c, src/surfable.c, src/party_menu.c
+#define VAR_UNUSED_HNS_0x40FE                            0x40FE // UNSAFE - VAR_FREEZE_SURF_BLOB, src/field_effect.c, src/surfable.c
+
+#define VAR_UNUSED_HNS_0x40FF                            0x40FF // Emerald VAR_UNUSED_0x40FF - no references in any build
 
 // Alola Vars
 #define VAR_ALOLA_TRAVEL                                 0x40AD // var for setting up mapscripts when traveling to and from alola.

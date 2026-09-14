@@ -1509,7 +1509,7 @@ static const u8 *const sLvlUpStatStrings[NUM_STATS] =
 
 void DrawLevelUpWindowPg1(u16 windowId, u16 *statsBefore, u16 *statsAfter, u8 bgClr, u8 fgClr, u8 shadowClr)
 {
-    u16 i, x;
+    u16 i, x, numDigits;
     s16 statsDiff[NUM_STATS];
     u8 text[12];
     u8 color[3];
@@ -1546,12 +1546,20 @@ void DrawLevelUpWindowPg1(u16 windowId, u16 *statsBefore, u16 *statsAfter, u8 bg
                                      color,
                                      TEXT_SKIP_DRAW,
                                      text);
-        if (abs(statsDiff[i]) <= 9)
-            x = 18;
+        if (abs(statsDiff[i]) > 999)
+            numDigits = 4;
+        else if (abs(statsDiff[i]) > 99)
+            numDigits = 3;
+        else if (abs(statsDiff[i]) > 9)
+            numDigits = 2;
         else
-            x = 12;
+            numDigits = 1;
 
-        ConvertIntToDecimalStringN(text, abs(statsDiff[i]), STR_CONV_MODE_LEFT_ALIGN, 2);
+        // Right-align the number against the right edge of the window,
+        // leaving room for the +/- sign drawn at x = 56.
+        x = (numDigits >= 4) ? 0 : 6 * (4 - numDigits);
+
+        ConvertIntToDecimalStringN(text, abs(statsDiff[i]), STR_CONV_MODE_LEFT_ALIGN, numDigits);
         AddTextPrinterParameterized3(windowId,
                                      FONT_NORMAL,
                                      56 + x,
@@ -1565,7 +1573,7 @@ void DrawLevelUpWindowPg1(u16 windowId, u16 *statsBefore, u16 *statsAfter, u8 bg
 void DrawLevelUpWindowPg2(u16 windowId, u16 *currStats, u8 bgClr, u8 fgClr, u8 shadowClr)
 {
     u16 i, numDigits, x;
-    s16 stats[NUM_STATS];
+    u16 stats[NUM_STATS];
     u8 text[12];
     u8 color[3];
 
@@ -1584,7 +1592,9 @@ void DrawLevelUpWindowPg2(u16 windowId, u16 *currStats, u8 bgClr, u8 fgClr, u8 s
 
     for (i = 0; i < NUM_STATS; i++)
     {
-        if (stats[i] > 99)
+        if (stats[i] > 999)
+            numDigits = 4;
+        else if (stats[i] > 99)
             numDigits = 3;
         else if (stats[i] > 9)
             numDigits = 2;

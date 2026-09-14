@@ -32,6 +32,7 @@
 #include "move_relearner.h"
 #include "naming_screen.h"
 #include "overworld.h"
+#include "ow_synchronize.h"
 #include "party_menu.h"
 #include "pokedex.h"
 #include "pokeblock.h"
@@ -3682,7 +3683,12 @@ void CreateEnemyEventMon(void)
 
     ZeroEnemyPartyMons();
 
-    CreateEventMon(&gEnemyParty[0], species, level, Random32(), OTID_STRUCT_PLAYER_ID);
+    u32 personality = GetMonPersonality(species,
+        GetSynchronizedGender(STATIC_WILDMON_ORIGIN, species),
+        GetSynchronizedNature(STATIC_WILDMON_ORIGIN, species),
+        RANDOM_UNOWN_LETTER);
+
+    CreateEventMon(&gEnemyParty[0], species, level, personality, OTID_STRUCT_PLAYER_ID);
     SetBoxMonIVs(&gEnemyParty[0].box, USE_RANDOM_IVS);
     GiveMonInitialMoveset(&gEnemyParty[0]);
     if (itemId)
