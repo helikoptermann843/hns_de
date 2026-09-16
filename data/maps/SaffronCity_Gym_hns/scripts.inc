@@ -93,13 +93,13 @@ SaffronCity_Gym_Text_MarshBadgeInfo:
 	.string "geliebter Champion!$"
 
 SaffronCity_Gym_Text_Sabrina_GiveTM:
-	.string "Here, take this as well.$"
+	.string "Hier, nimm auch das noch mit.$"
 
 SaffronCity_Gym_Text_Sabrina_ExplainTM:
-	.string "It holds SKILL SWAP.\p"
-	.string "It can take your opponents' abilities\n"
-	.string "away from them and give them your own.\p"
-	.string "Use it wisely...$"
+	.string "Sie enthält Wertewechsel.\p"
+	.string "Die Attacke nimmt dem Gegner seine\n"
+	.string "Fähigkeit und gibt ihm deine.\p"
+	.string "Setze sie mit Bedacht ein…$"
 
 SaffronCity_Gym_Text_SabrinaPostBattle:
 	.string "Sabrina: Deine Liebe zu deinen\n"

@@ -210,7 +210,7 @@ SinjohRuins_Lab_Text_StevenIntroCutscene6:
 	.string "sich die Tafeln im Besitz Königlicher\l"
 	.string "Pokémon und starker Trainer in ganz\l"
 	.string "Sinjoh.\p"
-	.string "Ich rufe dich auf dem Pokégear an,\n"
+	.string "Ich rufe dich auf dem PokéCom an,\n"
 	.string "sobald wir Neues erfahren.\p"
 	.string "Danke, {PLAYER}.$"
 

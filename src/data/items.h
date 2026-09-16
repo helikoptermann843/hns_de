@@ -14737,9 +14737,9 @@ const struct ItemInfo gItemsInfo[] =
         .price = 0,
 #if IS_HNS
         .description = COMPOUND_STRING(
-            "The key for the\n"
-            "GOLDENROD\n"
-            "UNDERGROUND."),
+            "Schlüssel für den\n"
+            "Untergrund von\n"
+            "Dukatia City."),
 #else
         .description = COMPOUND_STRING(
             "Schlüssel für Neu\n"

@@ -163,7 +163,7 @@ static const struct MenuAction MultichoiceList_Mechadoll3_Q3[] =
 {
     {COMPOUND_STRING("Sie kosten dann mehr.")},
     {COMPOUND_STRING("Sie kosten dann weniger.")},
-    {COMPOUND_STRING("Same price")},
+    {COMPOUND_STRING("Gleicher Preis")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q1[] =
@@ -175,14 +175,14 @@ static const struct MenuAction MultichoiceList_Mechadoll4_Q1[] =
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q2[] =
 {
-    {COMPOUND_STRING("Elderly men")},
-    {COMPOUND_STRING("Elderly ladies")},
-    {COMPOUND_STRING("Same number")},
+    {COMPOUND_STRING("Ältere Herren")},
+    {COMPOUND_STRING("Ältere Damen")},
+    {COMPOUND_STRING("Gleich viele")},
 };
 
 static const struct MenuAction MultichoiceList_Mechadoll4_Q3[] =
 {
-    {COMPOUND_STRING("None")},
+    {COMPOUND_STRING("Keine")},
     {COMPOUND_STRING("1")},
     {COMPOUND_STRING("2")},
 };
@@ -234,8 +234,8 @@ static const struct MenuAction MultichoiceList_AcroBikeInfo[] =
 
 static const struct MenuAction MultichoiceList_Satisfaction[] =
 {
-    {COMPOUND_STRING("Satisfied")},
-    {COMPOUND_STRING("Dissatisfied")},
+    {COMPOUND_STRING("Zufrieden")},
+    {COMPOUND_STRING("Unzufrieden")},
 };
 
 static const struct MenuAction MultichoiceList_SternDeepSea[] =
@@ -628,11 +628,11 @@ static const struct MenuAction MultichoiceList_Fossil[] =
 
 static const struct MenuAction MultichoiceList_FossilHns[] =
 {
-    {COMPOUND_STRING("CLAW FOSSIL")},
-    {COMPOUND_STRING("ROOT FOSSIL")},
-    {COMPOUND_STRING("HELIX FOSSIL")},
-    {COMPOUND_STRING("DOME FOSSIL")},
-    {COMPOUND_STRING("OLD AMBER")},
+    {COMPOUND_STRING("Klauenfossil")},
+    {COMPOUND_STRING("Wurzelfossil")},
+    {COMPOUND_STRING("Helixfossil")},
+    {COMPOUND_STRING("Domfossil")},
+    {COMPOUND_STRING("Altbernstein")},
     {gText_Exit},
 };
 
@@ -760,8 +760,8 @@ static const struct MenuAction MultichoiceList_TVLati[] =
 static const struct MenuAction MultichoiceList_BattleTowerFeelings[] =
 {
     {COMPOUND_STRING("Ich bin dran!")},
-    {COMPOUND_STRING("I won!")},
-    {COMPOUND_STRING("I lost!")},
+    {COMPOUND_STRING("Ich gewinne!")},
+    {COMPOUND_STRING("Ich verliere!")},
     {COMPOUND_STRING("Ich sage nix!")},
 };
 

@@ -3,7 +3,7 @@ MoveRelearner_Text_WouldLearnNewMoves:
 	.string "Möchtest du Attacken lernen?$"
 
 MoveRelearner_Text_LevelUpMoves:
-	.string "Level Up Attacken$"
+	.string "Levelaufstieg-Attacken$"
 
 MoveRelearner_Text_EggMoves:
 	.string "Ei Attacken$"
@@ -37,7 +37,7 @@ MoveRelearner_Text_CantTeachMoveToPkmn:
 	.string "diesem Pokémon beibringen kann.$"
 
 MoveRelearner_Text_LevelUpMoveLWR::
-	.string "level up attacke$"
+	.string "levelaufstieg-attacke$"
 
 MoveRelearner_Text_EggMoveLWR::
 	.string "ei attacke$"

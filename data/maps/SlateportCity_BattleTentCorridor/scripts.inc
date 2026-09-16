@@ -166,9 +166,9 @@ SlateportCity_ContestHall_Text_AdviceForContests:
 
 @ Unused
 SlateportCity_ContestHall_Text_MyPapaIsContestJudge:
-	.string "My papa, he’s a Contest Judge.\p"
-	.string "I wonder what I should be when I\n"
-	.string "grow up, a Judge or a Gym Leader?$"
+	.string "Mein Papa ist Wettbewerbs-Juror.\p"
+	.string "Ob ich später lieber Juror oder\n"
+	.string "Arenaleiter werden soll?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_ImLikeMajorlyCheesed:
@@ -213,8 +213,8 @@ SlateportCity_ContestHall_Text_JudgeWouldntDoToMissContest:
 
 @ Unused
 SlateportCity_ContestHall_Text_ItsAppealTime:
-	.string "It’s appeal time!\n"
-	.string "What should I lead with?$"
+	.string "Zeit für den Ausdruck!\n"
+	.string "Womit soll ich anfangen?$"
 
 @ Unused
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:

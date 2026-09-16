@@ -151,10 +151,10 @@ VioletCity_PokeCenter_Text_ElmsAideFullParty:
 	.string "hast.$"
 
 VioletCity_PokeCenter_Text_ElmsAideEggToPC:
-	.string "Oh, but you can't carry any more\n"
-	.string "POKéMON with you.\p"
-	.string "Don't worry--I sent the EGG to\n"
-	.string "BILL'S PC for you.$"
+	.string "Oh, aber du kannst keine Pokémon\n"
+	.string "mehr tragen.\p"
+	.string "Keine Sorge - ich habe das Ei an\n"
+	.string "Bills PC geschickt.$"
 
 VioletCity_PokeCenter_Text_ElmsAideRefuse:
 	.string "A-Aber… Prof. Lind hat\n"

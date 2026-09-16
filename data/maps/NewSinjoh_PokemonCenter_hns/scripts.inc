@@ -39,11 +39,11 @@ NewSinjoh_PokemonCenter_hns_Map::
 	end
 
 NewSinjoh_PokemonCenter_Text_Skiier:
-	.string "The snow makes it hard to navigate\n"
-	.string "this place.\p"
-	.string "It all looks the same.\p"
-	.string "So this map is a big help!\p"
-	.string "What a beautiful region!$"
+	.string "Bei all dem Schnee findet man sich\n"
+	.string "hier kaum zurecht.\p"
+	.string "Alles sieht gleich aus.\p"
+	.string "Diese Karte hilft mir sehr!\p"
+	.string "Was für eine schöne Region!$"
 
 NewSinjoh_Text_Artist:
 	.string "Dieses versteckte Dorf hat mich\n"

@@ -20,8 +20,8 @@ GoldenrodCity_FlowerShop_EventScript_MintClerkNotReady::
 	end
 
 GoldenrodCity_FlowerShop_Text_MintClerkNotReady:
-	.string "We are currently out of stock.\p"
-	.string "Please come back later.$"
+	.string "Wir sind momentan ausverkauft.\p"
+	.string "Bitte schau später wieder vorbei.$"
 
 	.align 2
 GoldenrodCity_FlowerShop_Mints:

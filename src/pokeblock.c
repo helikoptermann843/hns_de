@@ -202,20 +202,20 @@ static const struct BgTemplate sBgTemplatesForPokeblockMenu[] =
 const u8 *const gPokeblockNames[] =
 {
     [PBLOCK_CLR_NONE]      = NULL,
-    [PBLOCK_CLR_RED]       = COMPOUND_STRING("RED {POKEBLOCK}"),
-    [PBLOCK_CLR_BLUE]      = COMPOUND_STRING("BLUE {POKEBLOCK}"),
-    [PBLOCK_CLR_PINK]      = COMPOUND_STRING("PINK {POKEBLOCK}"),
-    [PBLOCK_CLR_GREEN]     = COMPOUND_STRING("GREEN {POKEBLOCK}"),
-    [PBLOCK_CLR_YELLOW]    = COMPOUND_STRING("YELLOW {POKEBLOCK}"),
-    [PBLOCK_CLR_PURPLE]    = COMPOUND_STRING("PURPLE {POKEBLOCK}"),
-    [PBLOCK_CLR_INDIGO]    = COMPOUND_STRING("INDIGO {POKEBLOCK}"),
-    [PBLOCK_CLR_BROWN]     = COMPOUND_STRING("BROWN {POKEBLOCK}"),
-    [PBLOCK_CLR_LITE_BLUE] = COMPOUND_STRING("LITEBLUE {POKEBLOCK}"),
-    [PBLOCK_CLR_OLIVE]     = COMPOUND_STRING("OLIVE {POKEBLOCK}"),
-    [PBLOCK_CLR_GRAY]      = COMPOUND_STRING("GRAY {POKEBLOCK}"),
-    [PBLOCK_CLR_BLACK]     = COMPOUND_STRING("BLACK {POKEBLOCK}"),
-    [PBLOCK_CLR_WHITE]     = COMPOUND_STRING("WHITE {POKEBLOCK}"),
-    [PBLOCK_CLR_GOLD]      = COMPOUND_STRING("GOLD {POKEBLOCK}")
+    [PBLOCK_CLR_RED]       = COMPOUND_STRING("{POKEBLOCK} Rot"),
+    [PBLOCK_CLR_BLUE]      = COMPOUND_STRING("{POKEBLOCK} Blau"),
+    [PBLOCK_CLR_PINK]      = COMPOUND_STRING("{POKEBLOCK} Rosa"),
+    [PBLOCK_CLR_GREEN]     = COMPOUND_STRING("{POKEBLOCK} Grün"),
+    [PBLOCK_CLR_YELLOW]    = COMPOUND_STRING("{POKEBLOCK} Gelb"),
+    [PBLOCK_CLR_PURPLE]    = COMPOUND_STRING("{POKEBLOCK} Lila"),
+    [PBLOCK_CLR_INDIGO]    = COMPOUND_STRING("{POKEBLOCK} Indigo"),
+    [PBLOCK_CLR_BROWN]     = COMPOUND_STRING("{POKEBLOCK} Braun"),
+    [PBLOCK_CLR_LITE_BLUE] = COMPOUND_STRING("{POKEBLOCK} Cyan"),
+    [PBLOCK_CLR_OLIVE]     = COMPOUND_STRING("{POKEBLOCK} Oliv"),
+    [PBLOCK_CLR_GRAY]      = COMPOUND_STRING("{POKEBLOCK} Grau"),
+    [PBLOCK_CLR_BLACK]     = COMPOUND_STRING("{POKEBLOCK} Schwarz"),
+    [PBLOCK_CLR_WHITE]     = COMPOUND_STRING("{POKEBLOCK} Weiß"),
+    [PBLOCK_CLR_GOLD]      = COMPOUND_STRING("{POKEBLOCK} Gold")
 };
 
 static const struct MenuAction sPokeblockMenuActions[] =
@@ -704,11 +704,11 @@ static void DrawPokeblockMenuTitleText(void)
     const u8 *itemName = GetItemName(ITEM_POKEBLOCK_CASE);
     PrintOnPokeblockWindow(WIN_TITLE, itemName, GetStringCenterAlignXOffset(FONT_NORMAL, itemName, 0x48));
 
-    PrintOnPokeblockWindow(WIN_SPICY,  COMPOUND_STRING("SPICY"),  0);
-    PrintOnPokeblockWindow(WIN_DRY,    COMPOUND_STRING("DRY"),    0);
-    PrintOnPokeblockWindow(WIN_SWEET,  COMPOUND_STRING("SWEET"),  0);
-    PrintOnPokeblockWindow(WIN_BITTER, COMPOUND_STRING("BITTER"), 0);
-    PrintOnPokeblockWindow(WIN_SOUR,   COMPOUND_STRING("SOUR"),   0);
+    PrintOnPokeblockWindow(WIN_SPICY,  COMPOUND_STRING("Scharf"),  0);
+    PrintOnPokeblockWindow(WIN_DRY,    COMPOUND_STRING("Trck."),    0);
+    PrintOnPokeblockWindow(WIN_SWEET,  COMPOUND_STRING("Süß"),  0);
+    PrintOnPokeblockWindow(WIN_BITTER, COMPOUND_STRING("Bitter"), 0);
+    PrintOnPokeblockWindow(WIN_SOUR,   COMPOUND_STRING("Sauer"),   0);
 
     for (i = 0; i < WIN_ACTIONS_TALL; i++)
         PutWindowTilemap(i);

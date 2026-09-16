@@ -175,8 +175,8 @@ Route34_Text_ToddPostRematch:
     .string "Items einsetzen…$"
 
 Route34_Text_GinaRegister:
-	.string "You're too strong to be a\n"
-	.string "practice partner.$"
+	.string "Du bist viel zu stark für einen\n"
+	.string "Trainingspartner.$"
 
 Route34_Text_PicnickerGina_Seen:
 	.string "Bist du ein Trainer?\n"

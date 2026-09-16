@@ -118,8 +118,8 @@ SafariZone_EventScript_PokeblockGone::
 	end
 
 SafariZone_Text_PokeblockGone:
-	.string "The {STR_VAR_1} was all\n"
-	.string "eaten up!$"
+	.string "Dein {STR_VAR_1} wurde\n"
+	.string "restlos aufgefressen!$"
 
 SafariZone_Text_WouldYouLikeToExit:
 	.string "Möchtest du die Safari-Zone jetzt\n"

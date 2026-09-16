@@ -60,13 +60,14 @@ PewterCity_Gym_Text_ReceivedBoulderBadge:
 	.string "{PLAYER} erhält den Felsenorden!$"
 
 PewterCity_Gym_Text_Brock_GiveTM:
-	.string "Here, take this TM with you.$"
+	.string "Hier, nimm diese TM mit.$"
 
 PewterCity_Gym_Text_Brock_ExplainTM:
-	.string "It contains ROCK SLIDE.\p"
-	.string "It drops rocks on your opponents\n"
-	.string "with a chance to cause flinching.\p"
-	.string "Use it to stop them in their tracks.$"
+	.string "Sie enthält Steinhagel.\p"
+	.string "Die Attacke lässt Felsen auf deine\n"
+	.string "Gegner niedergehen und kann sie\l"
+	.string "zurückschrecken lassen.\p"
+	.string "Damit stoppst du sie auf der Stelle.$"
 
 PewterCity_Gym_Text_Brock_BoulderBadge:
 	.string "Rocko: {PLAYER}, danke.\n"

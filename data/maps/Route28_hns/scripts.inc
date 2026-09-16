@@ -81,7 +81,7 @@ Route28_Text_Scientist:
 	.string "..................\p"
 	.string "Es bricht ab...\l"
 	.string "Boss....?\p"
-	.string "Ich gehe ins POKéMON-CENTER.\p"
+	.string "Ich gehe ins Pokémon-Center.\p"
 	.string "Ich rufe an, wenn ich die Flöte finde.$"
 
 Route28_Text_Scientist2:

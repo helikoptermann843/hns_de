@@ -91,13 +91,15 @@ ViridianCity_Gym_Text_LeaderBlue_After:
 	.string "an dem ich dich besiege!$"
 
 ViridianCity_Gym_Text_LeaderBlue_GiveTM:
-	.string "Take this with you.$"
+	.string "Nimm das hier mit.$"
 
 ViridianCity_Gym_Text_LeaderBlue_ExplainTM:
-	.string "That's TRICK ROOM.\p"
-	.string "All POKEMON in battle will change speed.\n"
-	.string "Slow goes first. Fast goes last.\p"
-	.string "Use it to turn a battle on its head.$"
+	.string "Das ist Bizarroraum.\p"
+	.string "Die Initiative aller Pokémon im Kampf\n"
+	.string "kehrt sich um. Langsame zuerst,\l"
+	.string "schnelle zuletzt.\p"
+	.string "Damit stellst du einen Kampf auf\n"
+	.string "den Kopf.$"
 
 ViridianCity_Gym_Text_LeaderBlue_Epilogue:
 	.string "Blau: Hör zu.\p"

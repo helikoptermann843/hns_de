@@ -513,7 +513,7 @@ static void Task_FirstBattleEnterParty_FadeNormal(u8 taskId);
 static void Task_FirstBattleEnterParty_WaitFadeNormal(u8 taskId);
 
 static const u8 sText_askText[] = _("Möchtest du die Fähigkeit von {STR_VAR_1}\nin {STR_VAR_2} ändern?");
-static const u8 sText_doneText[] = _("{STR_VAR_1}'s ability became\n{STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
+static const u8 sText_doneText[] = _("Die Fähigkeit von {STR_VAR_1} wurde\nzu {STR_VAR_2}!{PAUSE_UNTIL_PRESS}");
 static const u8 sText_BasePointsResetToZero[] = _("Die antrainierten Werte von {STR_VAR_1}\nwurden zurückgesetzt!{PAUSE_UNTIL_PRESS}");
 static const u8 sText_CannotSendMonToBoxHM[] = _("Dieses Pokémon kann nicht in die Box,\nweil es eine VM-Attacke kennt.{PAUSE_UNTIL_PRESS}");
 static const u8 sText_CannotSendMonToBoxPartner[] = _("Ein fremdes Pokémon kann nicht\nin die Box geschickt werden.{PAUSE_UNTIL_PRESS}");

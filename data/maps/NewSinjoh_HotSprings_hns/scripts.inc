@@ -267,49 +267,49 @@ NewSinjoh_HotSprings_Text_PLATutorComeBack:
 	.string "Komm jederzeit wieder.$"
 
 NewSinjoh_HotSprings_Text_PLAMove_VictoryDance:
-	.string "VICTORY DANCE$"
+	.string "Siegestanz$"
 
 NewSinjoh_HotSprings_Text_PLAMove_MountainGale:
-	.string "MOUNTAIN GALE$"
+	.string "Frostfallwind$"
 
 NewSinjoh_HotSprings_Text_PLAMove_BitterMalice:
-	.string "BITTER MALICE$"
+	.string "Niedertracht$"
 
 NewSinjoh_HotSprings_Text_PLAMove_SpringtideStorm:
-	.string "SPRINGTIDE STORM$"
+	.string "Frühlingsorkan$"
 
 NewSinjoh_HotSprings_Text_PLAMove_LunarBlessing:
-	.string "LUNAR BLESSING$"
+	.string "Lunargebet$"
 
 NewSinjoh_HotSprings_Text_PLAMove_BleakwindStorm:
-	.string "BLEAKWIND STORM$"
+	.string "Polarorkan$"
 
 NewSinjoh_HotSprings_Text_PLAMove_WildboltStorm:
-	.string "WILDBOLT STORM$"
+	.string "Donnerorkan$"
 
 NewSinjoh_HotSprings_Text_PLAMove_SandsearStorm:
-	.string "SANDSEAR STORM$"
+	.string "Wüstenorkan$"
 
 NewSinjoh_HotSprings_Text_PLAMove_Shelter:
-	.string "SHELTER$"
+	.string "Refugium$"
 
 NewSinjoh_HotSprings_Text_PLAMove_EsperWing:
-	.string "ESPER WING$"
+	.string "Auraschwingen$"
 
 NewSinjoh_HotSprings_Text_PLAMove_TakeHeart:
-	.string "TAKE HEART$"
+	.string "Mutschub$"
 
 NewSinjoh_HotSprings_Text_PLAMove_MysticalPower:
-	.string "MYSTICAL POWER$"
+	.string "Mythenkraft$"
 
 NewSinjoh_HotSprings_Text_PLAMove_WaveCrash:
-	.string "WAVE CRASH$"
+	.string "Wellentackle$"
 
 NewSinjoh_HotSprings_Text_PLAMove_PowerShift:
-	.string "POWER SHIFT$"
+	.string "Kraftwechsel$"
 
 NewSinjoh_HotSprings_Text_PLAMove_Cancel:
-	.string "CANCEL$"
+	.string "Zurück$"
 
 
 NewSinjoh_HotSprings_EventScript_ActivateArcanine::

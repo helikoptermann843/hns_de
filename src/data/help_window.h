@@ -134,15 +134,15 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: REGULAR POKéBLOCKS"),
-        .desc = COMPOUND_STRING("POKéBLOCK colors attract perfect IVs:\n"
-                                "RED: HP,ATK,SPE   BLU: HP,SPA,SPE\n"
-                                "PNK: ATK,SPA,SPE  GRN: HP,DEF,SPD\n"
-                                "YEL: HP,ATK,DEF   PUR: ATK,DEF,SPD\n"
-                                "IND: HP,SPA,SPD   BRN: DEF,SPE,SPD\n"
-                                "LBL: SPA,SPE,SPD  OLV: ATK,DEF,SPE\n"
-                                "GRY: HP,ATK,SPA\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("Futterspender: Normale Pokéblöcke"),
+        .desc = COMPOUND_STRING("Pokéblock-Farben locken perfekte IVs an:\n"
+                                "Rot:  KP,Ang,Init    Blau: KP,SP.A,Init\n"
+                                "Rosa: Ang,SP.A,Init  Grün: KP,Ver,SP.V\n"
+                                "Gelb: KP,Ang,Ver     Lila: Ang,Ver,SP.V\n"
+                                "Ind.: KP,SP.A,SP.V   Braun:Ver,Init,SP.V\n"
+                                "Cyan: SP.A,Init,SP.V Oliv: Ang,Ver,Init\n"
+                                "Grau: KP,Ang,SP.A\n"
+                                "Jeder Pokéblock lockt Verborgene Fähigkeit."
 
                             ),
         .headerFont = FONT_NORMAL,
@@ -151,14 +151,14 @@ const struct HelpWindow gHelpWindowInfo[] =
     },
     [HELP_GOLD_POKEBLOCK_WINDOW] =
     {
-        .header = COMPOUND_STRING("FEEDERS: GOLD POKéBLOCKS"),
-        .desc = COMPOUND_STRING("GOLD POKéBLOCKS attract POKéMON with\n"
-                                "5 perfect IVs. Flavor determines which\n"
-                                "IV is not perfect.\n"
-                                "SPICY: no SP.ATK    DRY:    no ATTACK\n"
-                                "SWEET: no SP.DEF   BITTER: no SPEED\n"
-                                "SOUR:  no HP\n"
-                                "Every POKéBLOCK attracts HIDDEN ABILITY."
+        .header = COMPOUND_STRING("Futterspender: Goldene Pokéblöcke"),
+        .desc = COMPOUND_STRING("Goldene Pokéblöcke locken Pokémon mit\n"
+                                "5 perfekten IVs an. Der Geschmack legt\n"
+                                "fest, welcher IV nicht perfekt ist.\n"
+                                "Scharf: kein SP.A    Trocken: kein Ang\n"
+                                "Süß:    kein SP.V    Bitter:  kein Init\n"
+                                "Sauer:  kein KP\n"
+                                "Jeder Pokéblock lockt Verborgene Fähigkeit."
                             ),
         .headerFont = FONT_NORMAL,
         .descFont = FONT_SMALL,

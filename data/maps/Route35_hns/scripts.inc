@@ -194,9 +194,10 @@ Route35_Text_BugCatcherArnieAfter:
 	.string "Käferturnier im Nationalpark gewonnen.$"
 
 Route35_Text_IrwinRegister:
-	.string "I was going to dazzle you with my\n"
-	.string "prize POKéMON.\p"
-	.string "But your prowess electrified me!$"
+	.string "Ich wollte dich mit meinem besten\n"
+	.string "Pokémon beeindrucken.\p"
+	.string "Aber dein Können hat mich\n"
+	.string "elektrisiert!$"
 
 Route35_Text_ArnieRegister:
 	.string "Mit meinem Bluzuk habe ich das\n"

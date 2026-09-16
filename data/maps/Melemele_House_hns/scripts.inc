@@ -17,10 +17,10 @@ Alola_Melemele_Pokecenter_EventScript_Swimmer::
 	end
 
 Alola_Melemele_Pokecenter_Text_Swimmer:
-	.string "Ah, it's so hard to keep these\n"
-	.string "isles straight!\p"
-	.string "I always seem to mix them up!\p"
-	.string "Thank goodness for this map!$"
+	.string "Ach, diese Inseln bringe ich\n"
+	.string "ständig durcheinander!\p"
+	.string "Ich verwechsle sie andauernd!\p"
+	.string "Zum Glück gibt es diese Karte!$"
 
 Alola_Melemele_Pokecenter_Map::
 	lockall
@@ -154,20 +154,20 @@ Alola_Melemele_Pokecenter_Jessica_TradeCompleted::
 	end
 
 Alola_Melemele_Pokecenter_Jessica_Text_WantToTrade:
-	.string "The {STR_VAR_2} out here aren't like\n"
-	.string "the ones on the mainland.\p"
-	.string "Want to trade for my {STR_VAR_2}?$"
+	.string "Die {STR_VAR_2} hier draußen sind\n"
+	.string "anders als die auf dem Festland.\p"
+	.string "Möchtest du mein {STR_VAR_2} tauschen?$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TakeCare:
-	.string "Thanks!\n"
-	.string "TORY, you take care!$"
+	.string "Danke!\n"
+	.string "Tory, pass gut auf dich auf!$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_DeclineTrade:
-	.string "You don't want to trade? Aww...$"
+	.string "Du willst nicht tauschen? Menno…$"
 
 Alola_Melemele_Pokecenter_Jessica_Text_TradeCompleted:
-	.string "Hi, how's my old TORY doing?$"
+	.string "Hi, wie geht es meinem alten Tory?$"
 
 Alola_Melemele_Pokecenter_Map_Text_0:
-	.string "{PLAYER} took a closer look at the\n"
-	.string "ALOLA ISLES map.$"
+	.string "{PLAYER} betrachtete die Karte der\n"
+	.string "Alola-Inseln genauer.$"
